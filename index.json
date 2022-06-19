@@ -1,0 +1,252 @@
+[
+  [
+    [
+      "2022-09-12, 20:33:11",
+      "https://lobste.rs/s/fcxtdo/report_on_secure_compilation_research"
+    ],
+    [
+      "Report on Secure Compilation Research",
+      "https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 20:31:59",
+      "https://lobste.rs/s/fcr8oy/distributed_postgres_goes_full_open"
+    ],
+    [
+      "Distributed Postgres goes full open source with Citus",
+      "https://www.citusdata.com/blog/2022/09/12/distributed-postgres-goes-full-open-source-with-citus/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 20:31:34",
+      "https://lobste.rs/s/1fdca0/tag_tagged_architecture_guide"
+    ],
+    [
+      "TAG: Tagged Architecture Guide",
+      "https://web.archive.org/web/20220512014406id_/https://dl.acm.org/doi/pdf/10.1145/3533704"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 19:52:52",
+      "https://lobste.rs/s/luhkqm/personal_list_rust_grievances"
+    ],
+    [
+      "A personal list of Rust grievances",
+      "https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 18:07:24",
+      "https://lobste.rs/s/g7v4m6/prompt_injection_attacks_against_gpt_3"
+    ],
+    [
+      "Prompt injection attacks against GPT-3",
+      "https://simonwillison.net/2022/Sep/12/prompt-injection/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 16:49:07",
+      "https://lobste.rs/s/loogej/case_slow_websites"
+    ],
+    [
+      "The Case of the Slow Websites",
+      "https://computer-mysteries.netlify.app/slow-website.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 16:28:06",
+      "https://lobste.rs/s/7gsptd/software_engineering_research"
+    ],
+    [
+      "Software Engineering Research Questions",
+      "https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 15:46:48",
+      "https://lobste.rs/s/flcjqg/wirth_language_evolution"
+    ],
+    [
+      "Wirth Language Evolution",
+      "https://wiki.alopex.li/WirthEvolution"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 15:30:59",
+      "https://lobste.rs/s/8wonzm/commit_under_test"
+    ],
+    [
+      "Commit Under Test",
+      "https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 15:29:40",
+      "https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys"
+    ],
+    [
+      "Using mutual tls in place of api keys",
+      "https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 12:18:09",
+      "https://lobste.rs/s/m540h7/why_do_web_services_tend_use_preshared"
+    ],
+    [
+      "Why do web-services tend to use preshared secret keys for client authentication instead of public keys?",
+      "https://crypto.stackexchange.com/q/101827"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 11:49:18",
+      "https://lobste.rs/s/yukv6q/error_model_2016"
+    ],
+    [
+      "The Error Model [2016]",
+      "http://joeduffyblog.com/2016/02/07/the-error-model/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 10:34:21",
+      "https://lobste.rs/s/way8iy/inko_0_10_0_build_concurrent_software_with"
+    ],
+    [
+      "Inko 0.10.0: build concurrent software with confidence",
+      "https://inko-lang.org/news/inko-0-10-0-released/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 07:51:12",
+      "https://lobste.rs/s/ymshi8/bauble_playground_for_making_art_with"
+    ],
+    [
+      "Bauble: a playground for making art with lisp and math",
+      "https://github.com/ianthehenry/bauble"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 07:48:11",
+      "https://lobste.rs/s/qnecxx/ladybird_new_cross_platform_browser"
+    ],
+    [
+      "Ladybird: A new cross-platform browser project",
+      "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 07:36:38",
+      "https://lobste.rs/s/5lcybg/my_blog_is_hilariously_overengineered"
+    ],
+    [
+      "My Blog is Hilariously Overengineered to the Point People Think it's a Static Site",
+      "https://xeiaso.net/talks/how-my-website-works"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 06:27:30",
+      "https://lobste.rs/s/gwgecn/banzai_pure_rust_bzip2_encoder"
+    ],
+    [
+      "banzai: a pure Rust bzip2 encoder",
+      "https://github.com/jgbyrne/banzai"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 05:04:41",
+      "https://lobste.rs/s/eidzu7/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/eidzu7/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 02:38:22",
+      "https://lobste.rs/s/7rb5sk/instant_easy_predictable_shells"
+    ],
+    [
+      "Instant, easy, predictable shells and containers",
+      "https://github.com/jetpack-io/devbox"
+    ]
+  ],
+  [
+    [
+      "2022-09-12, 02:20:16",
+      "https://lobste.rs/s/pthh8s/text_image_for_my_inbox"
+    ],
+    [
+      "Text-to-image for my inbox",
+      "https://www.kmjn.org/notes/txt2img_email_visualization.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 20:41:16",
+      "https://lobste.rs/s/kgbne7/odin_programming_language_review"
+    ],
+    [
+      "Odin programming language review",
+      "https://graphitemaster.github.io/odin_review/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 17:31:33",
+      "https://lobste.rs/s/l2cgvp/choosing_cloud_regions_for_lower_latency"
+    ],
+    [
+      "Choosing cloud regions for lower latency: A data-driven approach",
+      "https://utdemir.com/posts/choosing-cloud-regions.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 16:38:41",
+      "https://lobste.rs/s/lrltaj/reports_uml_s_death_are_greatly"
+    ],
+    [
+      "The reports of UML's death are greatly exaggerated",
+      "https://andydote.co.uk/2022/09/11/uml-isnt-dead/"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 14:25:29",
+      "https://lobste.rs/s/0liktg/posse_publish_on_your_own_site_syndicate"
+    ],
+    [
+      "POSSE: Publish on your Own Site, Syndicate Elsewhere",
+      "https://indieweb.org/POSSE"
+    ]
+  ],
+  [
+    [
+      "2022-09-11, 09:56:53",
+      "https://lobste.rs/s/uzo9pu/meli_text_user_interface_e_mail_client"
+    ],
+    [
+      "meli - a text user interface e-mail client in the terminal, in the spirit of mutt",
+      "https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli"
+    ]
+  ]
+]
