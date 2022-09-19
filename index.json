@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-19, 05:40:35",
+      "https://lobste.rs/s/wdhcqk/aneris_program_logic_for_developing"
+    ],
+    [
+      "aneris: Program logic for developing and verifying distributed systems",
+      "https://github.com/logsem/aneris"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 05:06:21",
+      "https://lobste.rs/s/g8o87a/running_palmos_without_palmos"
+    ],
+    [
+      "Running PalmOS without PalmOS",
+      "https://pmig96.wordpress.com/2022/09/18/running-palmos-without-palmos/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 04:30:18",
       "https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-09-18, 02:57:59",
-      "https://lobste.rs/s/jotmht/explorations_untyped_lambda_calculus"
-    ],
-    [
-      "Explorations in the untyped lambda calculus",
-      "https://flownet.com/ron/lambda-calculus.html"
-    ]
-  ],
-  [
-    [
       "2022-09-18, 02:09:54",
       "https://lobste.rs/s/slqdnc/promising_io_uring_spawn_announced"
     ],
@@ -187,16 +197,6 @@
     [
       "A Virtual FIDO2 USB Device",
       "https://github.com/bulwarkid/virtual-fido"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 22:24:36",
-      "https://lobste.rs/s/6yfvjv/gcc_translation_validation"
-    ],
-    [
-      "GCC Translation Validation",
-      "https://kristerw.github.io/2022/09/13/translation-validation/"
     ]
   ],
   [
