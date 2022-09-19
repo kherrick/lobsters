@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-19, 15:47:08",
+      "https://lobste.rs/s/xr8lv4/internet_for_people"
+    ],
+    [
+      "Internet for the People",
+      "https://www.versobooks.com/books/3927-internet-for-the-people"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 15:26:43",
+      "https://lobste.rs/s/ydexk4/sqlite_past_present_future"
+    ],
+    [
+      "SQLite: Past, Present, and Future",
+      "https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 15:23:37",
       "https://lobste.rs/s/9ypewl/jit_picking_differential_fuzzing"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-18, 18:03:14",
-      "https://lobste.rs/s/qbf1dz/s6_deepmind_s_python_jit_on_top_cpython"
-    ],
-    [
-      "S6: Deepmind's Python JIT on top of CPython",
-      "https://github.com/deepmind/s6"
-    ]
-  ],
-  [
-    [
       "2022-09-18, 17:40:56",
       "https://lobste.rs/s/dwui6j/why_fix_kubernetes_systemd"
     ],
@@ -237,16 +247,6 @@
     [
       "Remote attestation is coming back. How much freedom will it take?",
       "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 18:18:35",
-      "https://lobste.rs/s/fmbc62/lambdalisp_lisp_interpreter_runs_on"
-    ],
-    [
-      "LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus",
-      "https://woodrush.github.io/blog/lambdalisp.html"
     ]
   ]
 ]
