@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 09:09:12",
+      "https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make"
+    ],
+    [
+      "Content based change detection with Make",
+      "https://andydote.co.uk/2022/09/19/make-content-hash/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 07:29:01",
       "https://lobste.rs/s/7nygns/nsync_c_library_exports_various"
     ],
@@ -237,16 +247,6 @@
     [
       "CHARL-E packages Stable Diffusion into a simple app",
       "https://www.charl-e.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 09:54:33",
-      "https://lobste.rs/s/pd3dwi/cppfront_personal_experimental_c_syntax"
-    ],
-    [
-      "cppfront: A personal experimental C++ Syntax 2 -> Syntax 1 compiler by Herb Sutter",
-      "https://github.com/hsutter/cppfront"
     ]
   ]
 ]
