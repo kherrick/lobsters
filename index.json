@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 17:51:07",
+      "https://lobste.rs/s/3t6yo8/quick_dirty_review_psychology"
+    ],
+    [
+      "Quick and dirty review of Psychology of Programming Interest Group papers, 1989-2015",
+      "https://www.scattered-thoughts.net/writing/qnd-review-of-ppig-1989-2015/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 17:32:34",
       "https://lobste.rs/s/if6fpr/fgtrace_new_go_tracer"
     ],
@@ -237,16 +247,6 @@
     [
       "Finding the “Second Bug” in glibc’s Condition Variable",
       "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 21:10:00",
-      "https://lobste.rs/s/jswwph/remote_attestation_is_coming_back_how"
-    ],
-    [
-      "Remote attestation is coming back. How much freedom will it take?",
-      "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/"
     ]
   ]
 ]
