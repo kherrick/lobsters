@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-19, 15:23:37",
+      "https://lobste.rs/s/9ypewl/jit_picking_differential_fuzzing"
+    ],
+    [
+      "Jit-Picking: Differential Fuzzing of JavaScript Engines",
+      "https://publications.cispa.saarland/3773/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 15:17:54",
+      "https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach"
+    ],
+    [
+      "A few thoughts about Uber's breach",
+      "https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 14:25:29",
       "https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords"
     ],
@@ -207,26 +227,6 @@
     [
       "Finding the “Second Bug” in glibc’s Condition Variable",
       "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 02:09:54",
-      "https://lobste.rs/s/slqdnc/promising_io_uring_spawn_announced"
-    ],
-    [
-      "Promising io_uring_spawn Announced",
-      "https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 23:43:21",
-      "https://lobste.rs/s/xrt41x/you_can_t_solve_ai_security_problems_with"
-    ],
-    [
-      "You can’t solve AI security problems with more AI",
-      "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/"
     ]
   ],
   [
