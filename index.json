@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-19, 15:47:08",
-      "https://lobste.rs/s/xr8lv4/internet_for_people"
-    ],
-    [
-      "Internet for the People",
-      "https://www.versobooks.com/books/3927-internet-for-the-people"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:26:43",
       "https://lobste.rs/s/ydexk4/sqlite_past_present_future"
     ],
@@ -197,6 +187,16 @@
     [
       "Simple Type Inference for System F",
       "https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-18, 18:03:14",
+      "https://lobste.rs/s/qbf1dz/s6_deepmind_s_python_jit_on_top_cpython"
+    ],
+    [
+      "S6: Deepmind's Python JIT on top of CPython",
+      "https://github.com/deepmind/s6"
     ]
   ],
   [
