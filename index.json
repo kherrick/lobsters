@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 17:32:34",
+      "https://lobste.rs/s/if6fpr/fgtrace_new_go_tracer"
+    ],
+    [
+      "fgtrace – A new Go tracer",
+      "https://github.com/felixge/fgtrace"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 15:26:43",
       "https://lobste.rs/s/ydexk4/sqlite_past_present_future"
     ],
@@ -187,16 +197,6 @@
     [
       "Simple Type Inference for System F",
       "https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 18:03:14",
-      "https://lobste.rs/s/qbf1dz/s6_deepmind_s_python_jit_on_top_cpython"
-    ],
-    [
-      "S6: Deepmind's Python JIT on top of CPython",
-      "https://github.com/deepmind/s6"
     ]
   ],
   [
