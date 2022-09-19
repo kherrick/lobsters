@@ -1,252 +1,252 @@
 [
   [
     [
-      "2022-09-12, 20:33:11",
-      "https://lobste.rs/s/fcxtdo/report_on_secure_compilation_research"
+      "2022-09-19, 01:02:18",
+      "https://lobste.rs/s/nm7idr/minimal_distributed_key_value_database"
     ],
     [
-      "Report on Secure Compilation Research",
-      "https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf"
+      "A minimal distributed key-value database with Hashicorp's Raft library",
+      "https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html"
     ]
   ],
   [
     [
-      "2022-09-12, 20:31:59",
-      "https://lobste.rs/s/fcr8oy/distributed_postgres_goes_full_open"
+      "2022-09-19, 00:09:48",
+      "https://lobste.rs/s/8a1kd0/visualizing_how_s3_deletes_1_billion"
     ],
     [
-      "Distributed Postgres goes full open source with Citus",
-      "https://www.citusdata.com/blog/2022/09/12/distributed-postgres-goes-full-open-source-with-citus/"
+      "Visualizing how S3 deletes 1 billion objects with Athena and Rust",
+      "https://tomforb.es/visualizing-how-s3-deletes-1-billion-objects-with-athena-and-rust/"
     ]
   ],
   [
     [
-      "2022-09-12, 20:31:34",
-      "https://lobste.rs/s/1fdca0/tag_tagged_architecture_guide"
+      "2022-09-18, 21:29:43",
+      "https://lobste.rs/s/6oqne7/perils_pinning"
     ],
     [
-      "TAG: Tagged Architecture Guide",
-      "https://web.archive.org/web/20220512014406id_/https://dl.acm.org/doi/pdf/10.1145/3533704"
+      "The perils of pinning",
+      "https://lwn.net/SubscriberLink/907876/ae07b6d9e121d1f4/"
     ]
   ],
   [
     [
-      "2022-09-12, 19:52:52",
-      "https://lobste.rs/s/luhkqm/personal_list_rust_grievances"
+      "2022-09-18, 20:26:07",
+      "https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang"
     ],
     [
-      "A personal list of Rust grievances",
-      "https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7"
+      "v0.23 of Gleam, a type safe language for the Erlang VM, is out",
+      "https://gleam.run/news/gleam-v0.23-released/"
     ]
   ],
   [
     [
-      "2022-09-12, 18:07:24",
-      "https://lobste.rs/s/g7v4m6/prompt_injection_attacks_against_gpt_3"
+      "2022-09-18, 18:33:47",
+      "https://lobste.rs/s/nwporz/ada_programming_language"
     ],
     [
-      "Prompt injection attacks against GPT-3",
-      "https://simonwillison.net/2022/Sep/12/prompt-injection/"
+      "Ada Programming Language",
+      "https://ada-lang.io/"
     ]
   ],
   [
     [
-      "2022-09-12, 16:49:07",
-      "https://lobste.rs/s/loogej/case_slow_websites"
+      "2022-09-18, 18:07:09",
+      "https://lobste.rs/s/9zqqnz/simple_type_inference_for_system_f"
     ],
     [
-      "The Case of the Slow Websites",
-      "https://computer-mysteries.netlify.app/slow-website.html"
+      "Simple Type Inference for System F",
+      "https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html"
     ]
   ],
   [
     [
-      "2022-09-12, 16:28:06",
-      "https://lobste.rs/s/7gsptd/software_engineering_research"
+      "2022-09-18, 18:03:14",
+      "https://lobste.rs/s/qbf1dz/s6_deepmind_s_python_jit_on_top_cpython"
     ],
     [
-      "Software Engineering Research Questions",
-      "https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html"
+      "S6: Deepmind's Python JIT on top of CPython",
+      "https://github.com/deepmind/s6"
     ]
   ],
   [
     [
-      "2022-09-12, 15:46:48",
-      "https://lobste.rs/s/flcjqg/wirth_language_evolution"
+      "2022-09-18, 17:40:56",
+      "https://lobste.rs/s/dwui6j/why_fix_kubernetes_systemd"
     ],
     [
-      "Wirth Language Evolution",
-      "https://wiki.alopex.li/WirthEvolution"
+      "Why fix Kubernetes and Systemd?",
+      "https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104"
     ]
   ],
   [
     [
-      "2022-09-12, 15:30:59",
-      "https://lobste.rs/s/8wonzm/commit_under_test"
+      "2022-09-18, 15:39:27",
+      "https://lobste.rs/s/vxz0xq/gcc_s_new_fortification_level_gains_costs"
     ],
     [
-      "Commit Under Test",
-      "https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test"
+      "GCC's new fortification level: The gains and costs",
+      "https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level"
     ]
   ],
   [
     [
-      "2022-09-12, 15:29:40",
-      "https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys"
+      "2022-09-18, 13:25:47",
+      "https://lobste.rs/s/qtdvpn/how_debug_deadlocks_visual_studio"
     ],
     [
-      "Using mutual tls in place of api keys",
-      "https://lobste.rs/s/9f3av9/using_mutual_tls_place_api_keys"
+      "How to debug deadlocks in Visual Studio",
+      "https://werat.dev/blog/how-to-debug-deadlocks-in-visual-studio/"
     ]
   ],
   [
     [
-      "2022-09-12, 12:18:09",
-      "https://lobste.rs/s/m540h7/why_do_web_services_tend_use_preshared"
+      "2022-09-18, 12:47:17",
+      "https://lobste.rs/s/bb5ywd/tinytapeout"
     ],
     [
-      "Why do web-services tend to use preshared secret keys for client authentication instead of public keys?",
-      "https://crypto.stackexchange.com/q/101827"
+      "TinyTapeout",
+      "https://tinytapeout.com/"
     ]
   ],
   [
     [
-      "2022-09-12, 11:49:18",
-      "https://lobste.rs/s/yukv6q/error_model_2016"
+      "2022-09-18, 08:17:54",
+      "https://lobste.rs/s/1lusa6/finding_second_bug_glibc_s_condition"
     ],
     [
-      "The Error Model [2016]",
-      "http://joeduffyblog.com/2016/02/07/the-error-model/"
+      "Finding the “Second Bug” in glibc’s Condition Variable",
+      "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
     ]
   ],
   [
     [
-      "2022-09-12, 10:34:21",
-      "https://lobste.rs/s/way8iy/inko_0_10_0_build_concurrent_software_with"
+      "2022-09-18, 08:00:27",
+      "https://lobste.rs/s/fkin33/create_rust_binaries_docker_images_with"
     ],
     [
-      "Inko 0.10.0: build concurrent software with confidence",
-      "https://inko-lang.org/news/inko-0-10-0-released/"
+      "Create Rust binaries, and Docker images with Nix",
+      "https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/"
     ]
   ],
   [
     [
-      "2022-09-12, 07:51:12",
-      "https://lobste.rs/s/ymshi8/bauble_playground_for_making_art_with"
+      "2022-09-18, 02:57:59",
+      "https://lobste.rs/s/jotmht/explorations_untyped_lambda_calculus"
     ],
     [
-      "Bauble: a playground for making art with lisp and math",
-      "https://github.com/ianthehenry/bauble"
+      "Explorations in the untyped lambda calculus",
+      "https://flownet.com/ron/lambda-calculus.html"
     ]
   ],
   [
     [
-      "2022-09-12, 07:48:11",
-      "https://lobste.rs/s/qnecxx/ladybird_new_cross_platform_browser"
+      "2022-09-18, 02:09:54",
+      "https://lobste.rs/s/slqdnc/promising_io_uring_spawn_announced"
     ],
     [
-      "Ladybird: A new cross-platform browser project",
-      "https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"
+      "Promising io_uring_spawn Announced",
+      "https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn"
     ]
   ],
   [
     [
-      "2022-09-12, 07:36:38",
-      "https://lobste.rs/s/5lcybg/my_blog_is_hilariously_overengineered"
+      "2022-09-18, 00:03:00",
+      "https://lobste.rs/s/nsxqvu/why_are_you_being_constructive"
     ],
     [
-      "My Blog is Hilariously Overengineered to the Point People Think it's a Static Site",
-      "https://xeiaso.net/talks/how-my-website-works"
+      "Why are you being constructive?",
+      "https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html"
     ]
   ],
   [
     [
-      "2022-09-12, 06:27:30",
-      "https://lobste.rs/s/gwgecn/banzai_pure_rust_bzip2_encoder"
+      "2022-09-17, 23:43:21",
+      "https://lobste.rs/s/xrt41x/you_can_t_solve_ai_security_problems_with"
     ],
     [
-      "banzai: a pure Rust bzip2 encoder",
-      "https://github.com/jgbyrne/banzai"
+      "You can’t solve AI security problems with more AI",
+      "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/"
     ]
   ],
   [
     [
-      "2022-09-12, 05:04:41",
-      "https://lobste.rs/s/eidzu7/what_are_you_doing_this_week"
+      "2022-09-17, 23:23:15",
+      "https://lobste.rs/s/4oefml/virtual_fido2_usb_device"
     ],
     [
-      "What are you doing this week?",
-      "https://lobste.rs/s/eidzu7/what_are_you_doing_this_week"
+      "A Virtual FIDO2 USB Device",
+      "https://github.com/bulwarkid/virtual-fido"
     ]
   ],
   [
     [
-      "2022-09-12, 02:38:22",
-      "https://lobste.rs/s/7rb5sk/instant_easy_predictable_shells"
+      "2022-09-17, 22:24:36",
+      "https://lobste.rs/s/6yfvjv/gcc_translation_validation"
     ],
     [
-      "Instant, easy, predictable shells and containers",
-      "https://github.com/jetpack-io/devbox"
+      "GCC Translation Validation",
+      "https://kristerw.github.io/2022/09/13/translation-validation/"
     ]
   ],
   [
     [
-      "2022-09-12, 02:20:16",
-      "https://lobste.rs/s/pthh8s/text_image_for_my_inbox"
+      "2022-09-17, 21:10:00",
+      "https://lobste.rs/s/jswwph/remote_attestation_is_coming_back_how"
     ],
     [
-      "Text-to-image for my inbox",
-      "https://www.kmjn.org/notes/txt2img_email_visualization.html"
+      "Remote attestation is coming back. How much freedom will it take?",
+      "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/"
     ]
   ],
   [
     [
-      "2022-09-11, 20:41:16",
-      "https://lobste.rs/s/kgbne7/odin_programming_language_review"
+      "2022-09-17, 19:55:56",
+      "https://lobste.rs/s/fs78pl/rm_important_txt_uh_oh"
     ],
     [
-      "Odin programming language review",
-      "https://graphitemaster.github.io/odin_review/"
+      "$ rm Important.txt (uh oh!)",
+      "https://xenodium.com/rm-important-txt-oh-sht/"
     ]
   ],
   [
     [
-      "2022-09-11, 17:31:33",
-      "https://lobste.rs/s/l2cgvp/choosing_cloud_regions_for_lower_latency"
+      "2022-09-17, 18:18:35",
+      "https://lobste.rs/s/fmbc62/lambdalisp_lisp_interpreter_runs_on"
     ],
     [
-      "Choosing cloud regions for lower latency: A data-driven approach",
-      "https://utdemir.com/posts/choosing-cloud-regions.html"
+      "LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus",
+      "https://woodrush.github.io/blog/lambdalisp.html"
     ]
   ],
   [
     [
-      "2022-09-11, 16:38:41",
-      "https://lobste.rs/s/lrltaj/reports_uml_s_death_are_greatly"
+      "2022-09-17, 18:17:00",
+      "https://lobste.rs/s/9sadyl/charl_e_packages_stable_diffusion_into"
     ],
     [
-      "The reports of UML's death are greatly exaggerated",
-      "https://andydote.co.uk/2022/09/11/uml-isnt-dead/"
+      "CHARL-E packages Stable Diffusion into a simple app",
+      "https://www.charl-e.com/"
     ]
   ],
   [
     [
-      "2022-09-11, 14:25:29",
-      "https://lobste.rs/s/0liktg/posse_publish_on_your_own_site_syndicate"
+      "2022-09-17, 09:54:33",
+      "https://lobste.rs/s/pd3dwi/cppfront_personal_experimental_c_syntax"
     ],
     [
-      "POSSE: Publish on your Own Site, Syndicate Elsewhere",
-      "https://indieweb.org/POSSE"
+      "cppfront: A personal experimental C++ Syntax 2 -> Syntax 1 compiler by Herb Sutter",
+      "https://github.com/hsutter/cppfront"
     ]
   ],
   [
     [
-      "2022-09-11, 09:56:53",
-      "https://lobste.rs/s/uzo9pu/meli_text_user_interface_e_mail_client"
+      "2022-09-17, 02:37:14",
+      "https://lobste.rs/s/hhmnne/push_notification_two_factor_auth"
     ],
     [
-      "meli - a text user interface e-mail client in the terminal, in the spirit of mutt",
-      "https://git.meli.delivery/meli/meli#meli-github-license-https-img-shields-io-github-license-meli-meli-https-github-com-meli-meli-blob-master-copying-crates-io-https-img-shields-io-crates-v-meli-https-crates-io-crates-meli"
+      "Push notification two-factor auth considered harmful",
+      "https://xeiaso.net/blog/push-2fa-considered-harmful"
     ]
   ]
 ]
