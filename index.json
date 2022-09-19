@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 14:25:29",
+      "https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords"
+    ],
+    [
+      "How I manage my passwords",
+      "https://bitspook.in/blog/how-i-manage-my-passwords/"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 13:31:33",
       "https://lobste.rs/s/37sxon/tillitis_key_is_new_kind_usb_security_key"
     ],
@@ -197,16 +207,6 @@
     [
       "Finding the “Second Bug” in glibc’s Condition Variable",
       "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 08:00:27",
-      "https://lobste.rs/s/fkin33/create_rust_binaries_docker_images_with"
-    ],
-    [
-      "Create Rust binaries, and Docker images with Nix",
-      "https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/"
     ]
   ],
   [
