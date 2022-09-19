@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 12:24:00",
+      "https://lobste.rs/s/rhdjge/why_use_docker_for_home_server"
+    ],
+    [
+      "Why use docker for a home server?",
+      "https://blog.viraptor.info/post/why-use-docker-for-a-home-server"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 11:09:27",
       "https://lobste.rs/s/efai05/bring_your_own_disaster"
     ],
@@ -227,16 +237,6 @@
     [
       "Remote attestation is coming back. How much freedom will it take?",
       "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 19:55:56",
-      "https://lobste.rs/s/fs78pl/rm_important_txt_uh_oh"
-    ],
-    [
-      "$ rm Important.txt (uh oh!)",
-      "https://xenodium.com/rm-important-txt-oh-sht/"
     ]
   ],
   [
