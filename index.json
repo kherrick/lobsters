@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-19, 19:35:22",
+      "https://lobste.rs/s/yat4wf/redframes_python_data_manipulation"
+    ],
+    [
+      "Redframes, a Python data manipulation library like dplyr",
+      "https://github.com/maxhumber/redframes"
+    ]
+  ],
+  [
+    [
       "2022-09-19, 18:27:04",
       "https://lobste.rs/s/chjhrt/busting_open_source_contribution_myths"
     ],
@@ -137,16 +147,6 @@
     [
       "nsync: a C library that exports various synchronization primitives",
       "https://github.com/google/nsync"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 05:40:35",
-      "https://lobste.rs/s/wdhcqk/aneris_program_logic_for_developing"
-    ],
-    [
-      "aneris: Program logic for developing and verifying distributed systems",
-      "https://github.com/logsem/aneris"
     ]
   ],
   [
