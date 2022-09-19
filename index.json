@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2022-09-17, 23:23:15",
+      "https://lobste.rs/s/4oefml/virtual_fido2_usb_device"
+    ],
+    [
+      "A Virtual FIDO2 USB Device",
+      "https://github.com/bulwarkid/virtual-fido"
+    ]
+  ],
+  [
+    [
       "2022-09-17, 21:10:00",
       "https://lobste.rs/s/jswwph/remote_attestation_is_coming_back_how"
     ],
@@ -237,16 +247,6 @@
     [
       "LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus",
       "https://woodrush.github.io/blog/lambdalisp.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-17, 18:17:00",
-      "https://lobste.rs/s/9sadyl/charl_e_packages_stable_diffusion_into"
-    ],
-    [
-      "CHARL-E packages Stable Diffusion into a simple app",
-      "https://www.charl-e.com/"
     ]
   ]
 ]
