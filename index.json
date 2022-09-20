@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-09-20, 16:50:55",
-      "https://lobste.rs/s/p7a065/jitx_launches_raises_series"
-    ],
-    [
-      "JITX Launches and raises Series A",
-      "https://www.jitx.com/blog/series-a-announcement"
-    ]
-  ],
-  [
-    [
       "2022-09-20, 16:49:05",
       "https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5"
     ],
@@ -177,6 +167,16 @@
     [
       "There is no “software supply chain”",
       "https://iliana.fyi/blog/software-supply-chain/"
+    ]
+  ],
+  [
+    [
+      "2022-09-19, 19:35:22",
+      "https://lobste.rs/s/yat4wf/redframes_python_data_manipulation"
+    ],
+    [
+      "Redframes, a Python data manipulation library like dplyr",
+      "https://github.com/maxhumber/redframes"
     ]
   ],
   [
