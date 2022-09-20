@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-20](index.md)
 
+* [2022-09-20, 14:22:26](https://lobste.rs/s/11ighf/jqp_tui_playground_experiment_with_jq) - [jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 * [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)
 * [2022-09-20, 13:31:26](https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh) - [Handling WebAuthn over remote SSH connections](https://mjg59.dreamwidth.org/61232.html)
 * [2022-09-20, 13:20:26](https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux) - [OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
