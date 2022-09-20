@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-20, 17:18:04",
+      "https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production"
+    ],
+    [
+      "Wasmtime Reaches 1.0: Fast, Safe and Production Ready",
+      "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 16:50:55",
       "https://lobste.rs/s/p7a065/jitx_launches_raises_series"
     ],
@@ -167,16 +177,6 @@
     [
       "There is no “software supply chain”",
       "https://iliana.fyi/blog/software-supply-chain/"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 19:35:22",
-      "https://lobste.rs/s/yat4wf/redframes_python_data_manipulation"
-    ],
-    [
-      "Redframes, a Python data manipulation library like dplyr",
-      "https://github.com/maxhumber/redframes"
     ]
   ],
   [
