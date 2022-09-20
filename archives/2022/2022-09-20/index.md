@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-20](index.md)
 
+* [2022-09-20, 10:31:18](https://lobste.rs/s/adnjib/learn_time_series_with_story_illustrated) - [Learn time series with a story illustrated by Stable Diffusion](https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series)
 * [2022-09-20, 09:35:59](https://lobste.rs/s/9y9wse/netbsd_blog_eurobsdcon_2022) - [NetBSD Blog: EuroBSDCon 2022](https://blog.netbsd.org/tnf/entry/eurobsdcon_2022)
 * [2022-09-20, 04:40:17](https://lobste.rs/s/azgtiy/cache_your_cors) - [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
 * [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
