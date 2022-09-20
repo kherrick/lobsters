@@ -17,12 +17,12 @@
 * [2022-09-19, 20:39:08](https://lobste.rs/s/9fo4ub/gnu_taler) - [GNU Taler](https://taler.net/en/)
 * [2022-09-19, 20:30:57](https://lobste.rs/s/a6gmku/proving_obvious) - [Proving the obvious](https://lawrencecpaulson.github.io/2022/01/12/Proving-the-obvious.html)
 * [2022-09-19, 19:41:01](https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain) - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
-* [2022-09-19, 19:35:22](https://lobste.rs/s/yat4wf/redframes_python_data_manipulation) - [Redframes, a Python data manipulation library like dplyr](https://github.com/maxhumber/redframes)
 * [2022-09-19, 18:23:01](https://lobste.rs/s/s3q8hm/how_i_m_productive_programmer_with_memory) - [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
 * [2022-09-19, 15:26:43](https://lobste.rs/s/ydexk4/sqlite_past_present_future) - [SQLite: Past, Present, and Future](https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
 * [2022-09-19, 14:25:29](https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords) - [How I manage my passwords](https://bitspook.in/blog/how-i-manage-my-passwords/)
 * [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
+* [2022-09-19, 11:09:27](https://lobste.rs/s/efai05/bring_your_own_disaster) - [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 * [2022-09-19, 09:09:12](https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make) - [Content based change detection with Make](https://andydote.co.uk/2022/09/19/make-content-hash/)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 
