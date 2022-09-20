@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
 * [2022-09-20, 16:50:55](https://lobste.rs/s/p7a065/jitx_launches_raises_series) - [JITX Launches and raises Series A](https://www.jitx.com/blog/series-a-announcement)
 * [2022-09-20, 16:49:05](https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5) - [Wallaroo and SwiftUI (1 of 5)](https://blog.iconfactory.com/2022/09/wallaroo-and-swiftui-1-of-5/)
 * [2022-09-20, 16:19:51](https://lobste.rs/s/2a7axc/inside_gtk_font_chooser) - [Inside the GTK font chooser](https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/)
@@ -17,7 +18,6 @@
 * [2022-09-19, 20:39:08](https://lobste.rs/s/9fo4ub/gnu_taler) - [GNU Taler](https://taler.net/en/)
 * [2022-09-19, 20:30:57](https://lobste.rs/s/a6gmku/proving_obvious) - [Proving the obvious](https://lawrencecpaulson.github.io/2022/01/12/Proving-the-obvious.html)
 * [2022-09-19, 19:41:01](https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain) - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
-* [2022-09-19, 19:35:22](https://lobste.rs/s/yat4wf/redframes_python_data_manipulation) - [Redframes, a Python data manipulation library like dplyr](https://github.com/maxhumber/redframes)
 * [2022-09-19, 18:23:01](https://lobste.rs/s/s3q8hm/how_i_m_productive_programmer_with_memory) - [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
 * [2022-09-19, 15:26:43](https://lobste.rs/s/ydexk4/sqlite_past_present_future) - [SQLite: Past, Present, and Future](https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
