@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-20, 20:56:26](https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix) - [Reproducible Jupyter Notebook with Nix](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 * [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
 * [2022-09-20, 16:49:05](https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5) - [Wallaroo and SwiftUI (1 of 5)](https://blog.iconfactory.com/2022/09/wallaroo-and-swiftui-1-of-5/)
 * [2022-09-20, 16:19:51](https://lobste.rs/s/2a7axc/inside_gtk_font_chooser) - [Inside the GTK font chooser](https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/)
@@ -22,7 +23,6 @@
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
 * [2022-09-19, 14:25:29](https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords) - [How I manage my passwords](https://bitspook.in/blog/how-i-manage-my-passwords/)
 * [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
-* [2022-09-19, 11:09:27](https://lobste.rs/s/efai05/bring_your_own_disaster) - [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 * [2022-09-19, 09:09:12](https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make) - [Content based change detection with Make](https://andydote.co.uk/2022/09/19/make-content-hash/)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 
