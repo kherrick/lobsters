@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-20, 04:40:17",
+      "https://lobste.rs/s/azgtiy/cache_your_cors"
+    ],
+    [
+      "Cache your CORS",
+      "https://httptoolkit.tech/blog/cache-your-cors/"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 03:23:36",
       "https://lobste.rs/s/eoeooy/under_documented_kubernetes_security"
     ],
@@ -207,16 +217,6 @@
     [
       "Content based change detection with Make",
       "https://andydote.co.uk/2022/09/19/make-content-hash/"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 05:06:21",
-      "https://lobste.rs/s/g8o87a/running_palmos_without_palmos"
-    ],
-    [
-      "Running PalmOS without PalmOS",
-      "https://pmig96.wordpress.com/2022/09/18/running-palmos-without-palmos/"
     ]
   ],
   [
