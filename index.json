@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-20, 13:20:26",
+      "https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux"
+    ],
+    [
+      "OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API",
+      "https://www.phoronix.com/news/OpenJDK-Java-19-Released"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:01:30",
+      "https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1"
+    ],
+    [
+      "Cosmopolitan v2.1",
+      "https://github.com/jart/cosmopolitan/releases/tag/2.1"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:00:43",
+      "https://lobste.rs/s/hdbb22/can_i_use_system_call"
+    ],
+    [
+      "Can I Use a System Call?",
+      "https://justine.lol/cosmopolitan/functions.html"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 10:31:18",
       "https://lobste.rs/s/adnjib/learn_time_series_with_story_illustrated"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-09-19, 17:32:34",
-      "https://lobste.rs/s/if6fpr/fgtrace_new_go_tracer"
-    ],
-    [
-      "fgtrace – A new Go tracer",
-      "https://github.com/felixge/fgtrace"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 15:26:43",
       "https://lobste.rs/s/ydexk4/sqlite_past_present_future"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-19, 09:41:16",
-      "https://lobste.rs/s/tjhkbm/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/tjhkbm/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 09:09:12",
       "https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make"
     ],
@@ -237,16 +247,6 @@
     [
       "v0.23 of Gleam, a type safe language for the Erlang VM, is out",
       "https://gleam.run/news/gleam-v0.23-released/"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 18:33:47",
-      "https://lobste.rs/s/nwporz/ada_programming_language"
-    ],
-    [
-      "Ada Programming Language",
-      "https://ada-lang.io/"
     ]
   ]
 ]
