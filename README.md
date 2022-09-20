@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)
+* [2022-09-20, 13:31:26](https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh) - [Handling WebAuthn over remote SSH connections](https://mjg59.dreamwidth.org/61232.html)
 * [2022-09-20, 13:20:26](https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux) - [OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
@@ -19,12 +21,10 @@
 * [2022-09-19, 15:26:43](https://lobste.rs/s/ydexk4/sqlite_past_present_future) - [SQLite: Past, Present, and Future](https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
 * [2022-09-19, 14:25:29](https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords) - [How I manage my passwords](https://bitspook.in/blog/how-i-manage-my-passwords/)
-* [2022-09-19, 13:31:33](https://lobste.rs/s/37sxon/tillitis_key_is_new_kind_usb_security_key) - [Tillitis Key is a new kind of USB security key inspired by measured boot and DICE](https://www.tillitis.se/)
 * [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
 * [2022-09-19, 11:09:27](https://lobste.rs/s/efai05/bring_your_own_disaster) - [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 * [2022-09-19, 09:09:12](https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make) - [Content based change detection with Make](https://andydote.co.uk/2022/09/19/make-content-hash/)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
-* [2022-09-18, 20:26:07](https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang) - [v0.23 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.23-released/)
 
 ## [Archives](archives/index.md)
 

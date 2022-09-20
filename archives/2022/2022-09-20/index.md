@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-20](index.md)
 
+* [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)
+* [2022-09-20, 13:31:26](https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh) - [Handling WebAuthn over remote SSH connections](https://mjg59.dreamwidth.org/61232.html)
 * [2022-09-20, 13:20:26](https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux) - [OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
