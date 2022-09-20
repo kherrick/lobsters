@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-20](index.md)
 
+* [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 20:56:26](https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix) - [Reproducible Jupyter Notebook with Nix](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 * [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
 * [2022-09-20, 16:50:55](https://lobste.rs/s/p7a065/jitx_launches_raises_series) - [JITX Launches and raises Series A](https://www.jitx.com/blog/series-a-announcement)
