@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-20, 13:52:26",
+      "https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data"
+    ],
+    [
+      "On the Paradox of Learning to Reason from Data",
+      "http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-20, 13:31:26",
+      "https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh"
+    ],
+    [
+      "Handling WebAuthn over remote SSH connections",
+      "https://mjg59.dreamwidth.org/61232.html"
+    ]
+  ],
+  [
+    [
       "2022-09-20, 13:20:26",
       "https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-09-19, 13:31:33",
-      "https://lobste.rs/s/37sxon/tillitis_key_is_new_kind_usb_security_key"
-    ],
-    [
-      "Tillitis Key is a new kind of USB security key inspired by measured boot and DICE",
-      "https://www.tillitis.se/"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 12:24:00",
       "https://lobste.rs/s/rhdjge/why_use_docker_for_home_server"
     ],
@@ -237,16 +247,6 @@
     [
       "An X11 Apologist Tries Wayland",
       "https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-18, 20:26:07",
-      "https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang"
-    ],
-    [
-      "v0.23 of Gleam, a type safe language for the Erlang VM, is out",
-      "https://gleam.run/news/gleam-v0.23-released/"
     ]
   ]
 ]
