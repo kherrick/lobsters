@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-20](index.md)
 
+* [2022-09-20, 16:50:55](https://lobste.rs/s/p7a065/jitx_launches_raises_series) - [JITX Launches and raises Series A](https://www.jitx.com/blog/series-a-announcement)
+* [2022-09-20, 16:49:05](https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5) - [Wallaroo and SwiftUI (1 of 5)](https://blog.iconfactory.com/2022/09/wallaroo-and-swiftui-1-of-5/)
 * [2022-09-20, 16:19:51](https://lobste.rs/s/2a7axc/inside_gtk_font_chooser) - [Inside the GTK font chooser](https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/)
 * [2022-09-20, 14:22:26](https://lobste.rs/s/11ighf/jqp_tui_playground_experiment_with_jq) - [jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 * [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)

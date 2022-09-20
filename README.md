@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-20, 16:50:55](https://lobste.rs/s/p7a065/jitx_launches_raises_series) - [JITX Launches and raises Series A](https://www.jitx.com/blog/series-a-announcement)
+* [2022-09-20, 16:49:05](https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5) - [Wallaroo and SwiftUI (1 of 5)](https://blog.iconfactory.com/2022/09/wallaroo-and-swiftui-1-of-5/)
 * [2022-09-20, 16:19:51](https://lobste.rs/s/2a7axc/inside_gtk_font_chooser) - [Inside the GTK font chooser](https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/)
 * [2022-09-20, 14:22:26](https://lobste.rs/s/11ighf/jqp_tui_playground_experiment_with_jq) - [jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 * [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)
@@ -7,7 +9,6 @@
 * [2022-09-20, 13:20:26](https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux) - [OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
-* [2022-09-20, 10:31:18](https://lobste.rs/s/adnjib/learn_time_series_with_story_illustrated) - [Learn time series with a story illustrated by Stable Diffusion](https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series)
 * [2022-09-20, 09:35:59](https://lobste.rs/s/9y9wse/netbsd_blog_eurobsdcon_2022) - [NetBSD Blog: EuroBSDCon 2022](https://blog.netbsd.org/tnf/entry/eurobsdcon_2022)
 * [2022-09-20, 04:40:17](https://lobste.rs/s/azgtiy/cache_your_cors) - [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
 * [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
@@ -22,7 +23,6 @@
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
 * [2022-09-19, 14:25:29](https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords) - [How I manage my passwords](https://bitspook.in/blog/how-i-manage-my-passwords/)
 * [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
-* [2022-09-19, 11:09:27](https://lobste.rs/s/efai05/bring_your_own_disaster) - [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 * [2022-09-19, 09:09:12](https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make) - [Content based change detection with Make](https://andydote.co.uk/2022/09/19/make-content-hash/)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 
