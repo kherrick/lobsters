@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-20, 04:40:17](https://lobste.rs/s/azgtiy/cache_your_cors) - [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
 * [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
 * [2022-09-20, 02:18:10](https://lobste.rs/s/ngoob0/lospec_pixel_editor_online_canvas_based) - [Lospec Pixel Editor (online canvas based Pixel Art creation tool) source code released as GPL3](https://github.com/lospec/pixel-editor)
 * [2022-09-20, 00:36:38](https://lobste.rs/s/6catd1/trade_offs_using_compilers_for_java_aot) - [Trade-offs of Using Compilers for Java (AOT/JIT < JIT + Caching < JIT Server)](https://www.infoq.com/presentations/tradeoffs-java-compilers)
@@ -21,7 +22,6 @@
 * [2022-09-19, 11:09:27](https://lobste.rs/s/efai05/bring_your_own_disaster) - [Bring Your Own Disaster](https://mjg59.dreamwidth.org/61089.html)
 * [2022-09-19, 09:41:16](https://lobste.rs/s/tjhkbm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tjhkbm/what_are_you_doing_this_week)
 * [2022-09-19, 09:09:12](https://lobste.rs/s/lw3v6h/content_based_change_detection_with_make) - [Content based change detection with Make](https://andydote.co.uk/2022/09/19/make-content-hash/)
-* [2022-09-19, 05:06:21](https://lobste.rs/s/g8o87a/running_palmos_without_palmos) - [Running PalmOS without PalmOS](https://pmig96.wordpress.com/2022/09/18/running-palmos-without-palmos/)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 * [2022-09-18, 20:26:07](https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang) - [v0.23 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.23-released/)
 * [2022-09-18, 18:33:47](https://lobste.rs/s/nwporz/ada_programming_language) - [Ada Programming Language](https://ada-lang.io/)
