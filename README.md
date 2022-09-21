@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 11:22:57](https://lobste.rs/s/rtgutg/how_quickly_do_cpus_change_clock_speeds) - [How Quickly do CPUs Change Clock Speeds?](https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/)
 * [2022-09-21, 10:41:09](https://lobste.rs/s/1skr6j/manifold_java_compiler_plugin) - [Manifold: a Java compiler plugin](http://manifold.systems/)
 * [2022-09-21, 08:26:51](https://lobste.rs/s/egfc8m/few_lessons_learned_from_tracking_queue) - [A few lessons learned from tracking The Queue](https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
@@ -11,7 +12,6 @@
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 20:56:26](https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix) - [Reproducible Jupyter Notebook with Nix](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 * [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
-* [2022-09-20, 16:49:05](https://lobste.rs/s/bq19l8/wallaroo_swiftui_1_5) - [Wallaroo and SwiftUI (1 of 5)](https://blog.iconfactory.com/2022/09/wallaroo-and-swiftui-1-of-5/)
 * [2022-09-20, 16:19:51](https://lobste.rs/s/2a7axc/inside_gtk_font_chooser) - [Inside the GTK font chooser](https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/)
 * [2022-09-20, 14:22:26](https://lobste.rs/s/11ighf/jqp_tui_playground_experiment_with_jq) - [jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 * [2022-09-20, 13:52:26](https://lobste.rs/s/kos2tq/on_paradox_learning_reason_from_data) - [On the Paradox of Learning to Reason from Data](http://starai.cs.ucla.edu/papers/ZhangArxiv22.pdf)

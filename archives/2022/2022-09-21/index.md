@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 11:22:57](https://lobste.rs/s/rtgutg/how_quickly_do_cpus_change_clock_speeds) - [How Quickly do CPUs Change Clock Speeds?](https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/)
 * [2022-09-21, 10:41:09](https://lobste.rs/s/1skr6j/manifold_java_compiler_plugin) - [Manifold: a Java compiler plugin](http://manifold.systems/)
 * [2022-09-21, 08:26:51](https://lobste.rs/s/egfc8m/few_lessons_learned_from_tracking_queue) - [A few lessons learned from tracking The Queue](https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
