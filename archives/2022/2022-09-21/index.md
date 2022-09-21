@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 15:36:46](https://lobste.rs/s/dprmzd/thelio_2022_redesign_review) - [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
+* [2022-09-21, 15:34:40](https://lobste.rs/s/cqsg6h/comprehensive_guide_end_end_declarative) - [A Comprehensive Guide to End-to-End-Declarative Deployment with Terraform and Nix](https://jonascarpay.com/posts/2022-09-19-declarative-deployment.html)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
 * [2022-09-21, 15:17:46](https://lobste.rs/s/niadvn/introducing_litefs) - [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
