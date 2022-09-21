@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)

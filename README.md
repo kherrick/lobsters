@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
@@ -15,7 +16,6 @@
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 11:22:57](https://lobste.rs/s/rtgutg/how_quickly_do_cpus_change_clock_speeds) - [How Quickly do CPUs Change Clock Speeds?](https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/)
-* [2022-09-21, 10:41:09](https://lobste.rs/s/1skr6j/manifold_java_compiler_plugin) - [Manifold: a Java compiler plugin](http://manifold.systems/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
 * [2022-09-21, 06:12:06](https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome) - [No More EV Certificate Overhead in Chrome 106](https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/)
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
