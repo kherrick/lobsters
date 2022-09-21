@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-21, 16:09:35",
+      "https://lobste.rs/s/5ltnpo/page_fault_weird_machine_lessons"
+    ],
+    [
+      "The Page-Fault Weird Machine: Lessons in Instruction-less Computation (2013)",
+      "https://www.cs.dartmouth.edu/~sws/pubs/bbss13.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 16:02:34",
+      "https://lobste.rs/s/eqyowa/my_four_step_framework_for_merge_worthy"
+    ],
+    [
+      "My four-step framework for merge-worthy contributions - with a Rails PR example",
+      "https://www.youtube.com/watch?v=5znQMEuHqc4"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 15:36:46",
       "https://lobste.rs/s/dprmzd/thelio_2022_redesign_review"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-09-21, 06:36:13",
-      "https://lobste.rs/s/m3pphd/client_optimization_how_tencent"
-    ],
-    [
-      "Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily",
-      "https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/"
-    ]
-  ],
-  [
-    [
       "2022-09-21, 06:12:06",
       "https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome"
     ],
@@ -177,16 +187,6 @@
     [
       "Wasmtime Reaches 1.0: Fast, Safe and Production Ready",
       "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 16:19:51",
-      "https://lobste.rs/s/2a7axc/inside_gtk_font_chooser"
-    ],
-    [
-      "Inside the GTK font chooser",
-      "https://blog.gtk.org/2022/09/19/inside-the-gtk-font-chooser/"
     ]
   ],
   [
