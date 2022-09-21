@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 10:41:09](https://lobste.rs/s/1skr6j/manifold_java_compiler_plugin) - [Manifold: a Java compiler plugin](http://manifold.systems/)
 * [2022-09-21, 08:26:51](https://lobste.rs/s/egfc8m/few_lessons_learned_from_tracking_queue) - [A few lessons learned from tracking The Queue](https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
 * [2022-09-21, 06:36:13](https://lobste.rs/s/m3pphd/client_optimization_how_tencent) - [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
@@ -19,7 +20,6 @@
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
 * [2022-09-20, 04:40:17](https://lobste.rs/s/azgtiy/cache_your_cors) - [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
-* [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
 * [2022-09-19, 21:55:51](https://lobste.rs/s/irq6un/asymmetry_open_source) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2022-09-19, 19:41:01](https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain) - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
 * [2022-09-19, 18:23:01](https://lobste.rs/s/s3q8hm/how_i_m_productive_programmer_with_memory) - [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
