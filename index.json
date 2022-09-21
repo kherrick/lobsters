@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-21, 06:36:13",
+      "https://lobste.rs/s/m3pphd/client_optimization_how_tencent"
+    ],
+    [
+      "Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily",
+      "https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/"
+    ]
+  ],
+  [
+    [
+      "2022-09-21, 06:12:06",
+      "https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome"
+    ],
+    [
+      "No More EV Certificate Overhead in Chrome 106",
+      "https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 04:48:20",
       "https://lobste.rs/s/qtowyz/brief_overview_webstrates"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-19, 20:30:57",
-      "https://lobste.rs/s/a6gmku/proving_obvious"
-    ],
-    [
-      "Proving the obvious",
-      "https://lawrencecpaulson.github.io/2022/01/12/Proving-the-obvious.html"
-    ]
-  ],
-  [
-    [
       "2022-09-19, 19:41:01",
       "https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain"
     ],
@@ -217,16 +227,6 @@
     [
       "A few thoughts about Uber's breach",
       "https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-19, 14:25:29",
-      "https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords"
-    ],
-    [
-      "How I manage my passwords",
-      "https://bitspook.in/blog/how-i-manage-my-passwords/"
     ]
   ],
   [
