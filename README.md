@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 21:41:23](https://lobste.rs/s/eveure/analyzing_bsd_kernels_for_uninitialized) - [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
 * [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
@@ -8,7 +9,6 @@
 * [2022-09-21, 16:52:58](https://lobste.rs/s/azqreo/c_initialization_arrays_lambdas_oh_my) - [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
 * [2022-09-21, 16:39:51](https://lobste.rs/s/t7pmij/getty_images_will_cease_accept_art) - [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
-* [2022-09-21, 16:09:35](https://lobste.rs/s/5ltnpo/page_fault_weird_machine_lessons) - [The Page-Fault Weird Machine: Lessons in Instruction-less Computation (2013)](https://www.cs.dartmouth.edu/~sws/pubs/bbss13.pdf)
 * [2022-09-21, 16:02:34](https://lobste.rs/s/eqyowa/my_four_step_framework_for_merge_worthy) - [My four-step framework for merge-worthy contributions - with a Rails PR example](https://www.youtube.com/watch?v=5znQMEuHqc4)
 * [2022-09-21, 15:36:46](https://lobste.rs/s/dprmzd/thelio_2022_redesign_review) - [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
