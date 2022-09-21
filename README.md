@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 17:42:39](https://lobste.rs/s/ll851u/comprehensive_guide_rc_8_freebsd) - [Comprehensive Guide to rc(8) - FreeBSD Services and Automation](https://klarasystems.com/articles/rc8-freebsd-services-and-automation/)
 * [2022-09-21, 16:52:58](https://lobste.rs/s/azqreo/c_initialization_arrays_lambdas_oh_my) - [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
 * [2022-09-21, 16:39:51](https://lobste.rs/s/t7pmij/getty_images_will_cease_accept_art) - [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
@@ -22,7 +23,6 @@
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 20:56:26](https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix) - [Reproducible Jupyter Notebook with Nix](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 * [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
-* [2022-09-20, 13:31:26](https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh) - [Handling WebAuthn over remote SSH connections](https://mjg59.dreamwidth.org/61232.html)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
 
