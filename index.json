@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-21, 17:42:39",
+      "https://lobste.rs/s/ll851u/comprehensive_guide_rc_8_freebsd"
+    ],
+    [
+      "Comprehensive Guide to rc(8) - FreeBSD Services and Automation",
+      "https://klarasystems.com/articles/rc8-freebsd-services-and-automation/"
+    ]
+  ],
+  [
+    [
       "2022-09-21, 16:52:58",
       "https://lobste.rs/s/azqreo/c_initialization_arrays_lambdas_oh_my"
     ],
@@ -217,16 +227,6 @@
     [
       "Wasmtime Reaches 1.0: Fast, Safe and Production Ready",
       "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 13:31:26",
-      "https://lobste.rs/s/udyj96/handling_webauthn_over_remote_ssh"
-    ],
-    [
-      "Handling WebAuthn over remote SSH connections",
-      "https://mjg59.dreamwidth.org/61232.html"
     ]
   ],
   [
