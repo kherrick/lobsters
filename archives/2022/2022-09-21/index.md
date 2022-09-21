@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 06:36:13](https://lobste.rs/s/m3pphd/client_optimization_how_tencent) - [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
+* [2022-09-21, 06:12:06](https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome) - [No More EV Certificate Overhead in Chrome 106](https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/)
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 * [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-21, 02:20:39](https://lobste.rs/s/8ejvlh/react_i_love_you_you_re_bringing_me_down) - [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)

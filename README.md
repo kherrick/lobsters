@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 06:36:13](https://lobste.rs/s/m3pphd/client_optimization_how_tencent) - [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
+* [2022-09-21, 06:12:06](https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome) - [No More EV Certificate Overhead in Chrome 106](https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/)
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 * [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-21, 02:20:39](https://lobste.rs/s/8ejvlh/react_i_love_you_you_re_bringing_me_down) - [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
@@ -18,11 +20,9 @@
 * [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
 * [2022-09-19, 21:55:51](https://lobste.rs/s/irq6un/asymmetry_open_source) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2022-09-19, 20:39:32](https://lobste.rs/s/9gfknk/building_tiny_mutex) - [Building a Tiny Mutex](https://zig.news/kprotty/building-a-tiny-mutex-537k)
-* [2022-09-19, 20:30:57](https://lobste.rs/s/a6gmku/proving_obvious) - [Proving the obvious](https://lawrencecpaulson.github.io/2022/01/12/Proving-the-obvious.html)
 * [2022-09-19, 19:41:01](https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain) - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
 * [2022-09-19, 18:23:01](https://lobste.rs/s/s3q8hm/how_i_m_productive_programmer_with_memory) - [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
-* [2022-09-19, 14:25:29](https://lobste.rs/s/0tcmnr/how_i_manage_my_passwords) - [How I manage my passwords](https://bitspook.in/blog/how-i-manage-my-passwords/)
 * [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
 * [2022-09-19, 04:30:18](https://lobste.rs/s/2s4wrb/x11_apologist_tries_wayland) - [An X11 Apologist Tries Wayland](https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html)
 
