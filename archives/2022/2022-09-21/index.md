@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
+* [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
 * [2022-09-21, 18:25:08](https://lobste.rs/s/ncufko/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 * [2022-09-21, 17:42:39](https://lobste.rs/s/ll851u/comprehensive_guide_rc_8_freebsd) - [Comprehensive Guide to rc(8) - FreeBSD Services and Automation](https://klarasystems.com/articles/rc8-freebsd-services-and-automation/)
