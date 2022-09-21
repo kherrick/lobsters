@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 11:22:57](https://lobste.rs/s/rtgutg/how_quickly_do_cpus_change_clock_speeds) - [How Quickly do CPUs Change Clock Speeds?](https://chipsandcheese.com/2022/09/15/how-quickly-do-cpus-change-clock-speeds/)
 * [2022-09-21, 10:41:09](https://lobste.rs/s/1skr6j/manifold_java_compiler_plugin) - [Manifold: a Java compiler plugin](http://manifold.systems/)
@@ -24,7 +25,6 @@
 * [2022-09-19, 19:41:01](https://lobste.rs/s/pqr1mv/there_is_no_software_supply_chain) - [There is no “software supply chain”](https://iliana.fyi/blog/software-supply-chain/)
 * [2022-09-19, 18:23:01](https://lobste.rs/s/s3q8hm/how_i_m_productive_programmer_with_memory) - [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/)
 * [2022-09-19, 15:17:54](https://lobste.rs/s/rqo0gc/few_thoughts_about_uber_s_breach) - [A few thoughts about Uber's breach](https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html)
-* [2022-09-19, 12:24:00](https://lobste.rs/s/rhdjge/why_use_docker_for_home_server) - [Why use docker for a home server?](https://blog.viraptor.info/post/why-use-docker-for-a-home-server)
 
 ## [Archives](archives/index.md)
 
