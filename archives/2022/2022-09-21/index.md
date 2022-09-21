@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 16:09:35](https://lobste.rs/s/5ltnpo/page_fault_weird_machine_lessons) - [The Page-Fault Weird Machine: Lessons in Instruction-less Computation (2013)](https://www.cs.dartmouth.edu/~sws/pubs/bbss13.pdf)
+* [2022-09-21, 16:02:34](https://lobste.rs/s/eqyowa/my_four_step_framework_for_merge_worthy) - [My four-step framework for merge-worthy contributions - with a Rails PR example](https://www.youtube.com/watch?v=5znQMEuHqc4)
 * [2022-09-21, 15:36:46](https://lobste.rs/s/dprmzd/thelio_2022_redesign_review) - [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
 * [2022-09-21, 15:34:40](https://lobste.rs/s/cqsg6h/comprehensive_guide_end_end_declarative) - [A Comprehensive Guide to End-to-End-Declarative Deployment with Terraform and Nix](https://jonascarpay.com/posts/2022-09-19-declarative-deployment.html)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
