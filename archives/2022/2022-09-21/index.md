@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-21](index.md)
 
+* [2022-09-21, 08:26:51](https://lobste.rs/s/egfc8m/few_lessons_learned_from_tracking_queue) - [A few lessons learned from tracking The Queue](https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
 * [2022-09-21, 06:36:13](https://lobste.rs/s/m3pphd/client_optimization_how_tencent) - [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
 * [2022-09-21, 06:12:06](https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome) - [No More EV Certificate Overhead in Chrome 106](https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/)
