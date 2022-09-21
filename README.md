@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
 * [2022-09-21, 06:36:13](https://lobste.rs/s/m3pphd/client_optimization_how_tencent) - [Client Optimization: How Tencent Maintains Apache Pulsar Clusters with over 100 Billion Messages Daily](https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/)
 * [2022-09-21, 06:12:06](https://lobste.rs/s/8uqzuw/no_more_ev_certificate_overhead_chrome) - [No More EV Certificate Overhead in Chrome 106](https://blog.webpagetest.org/posts/eliminating-ev-certificate-performance-overhead/)
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
@@ -15,7 +16,6 @@
 * [2022-09-20, 13:20:26](https://lobste.rs/s/hfycar/openjdk_java_19_released_with_risc_v_linux) - [OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
-* [2022-09-20, 09:35:59](https://lobste.rs/s/9y9wse/netbsd_blog_eurobsdcon_2022) - [NetBSD Blog: EuroBSDCon 2022](https://blog.netbsd.org/tnf/entry/eurobsdcon_2022)
 * [2022-09-20, 04:40:17](https://lobste.rs/s/azgtiy/cache_your_cors) - [Cache your CORS](https://httptoolkit.tech/blog/cache-your-cors/)
 * [2022-09-20, 03:23:36](https://lobste.rs/s/eoeooy/under_documented_kubernetes_security) - [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
 * [2022-09-19, 21:55:51](https://lobste.rs/s/irq6un/asymmetry_open_source) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
