@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-21, 22:34:01](https://lobste.rs/s/pr9iyz/private_eye_on_limits_textual_screen) - [Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing](https://ai.papers.bar/paper/80006a3cd00111ecac827bce58715ee7)
 * [2022-09-21, 21:41:23](https://lobste.rs/s/eveure/analyzing_bsd_kernels_for_uninitialized) - [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
 * [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
@@ -21,7 +22,6 @@
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 * [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
-* [2022-09-20, 20:56:26](https://lobste.rs/s/bhfasr/reproducible_jupyter_notebook_with_nix) - [Reproducible Jupyter Notebook with Nix](https://paperless.blog/reproducible-jupyter-notebook-with-nix)
 * [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
