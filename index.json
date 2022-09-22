@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-22, 15:10:46",
+      "https://lobste.rs/s/daz0sd/fun_with_postgres_functions"
+    ],
+    [
+      "Fun With Postgres Functions",
+      "https://www.crunchydata.com/blog/fun-with-postgres-functions"
+    ]
+  ],
+  [
+    [
       "2022-09-22, 14:55:32",
       "https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0"
     ],
@@ -237,16 +247,6 @@
     [
       "Cosmopolitan v2.1",
       "https://github.com/jart/cosmopolitan/releases/tag/2.1"
-    ]
-  ],
-  [
-    [
-      "2022-09-20, 13:00:43",
-      "https://lobste.rs/s/hdbb22/can_i_use_system_call"
-    ],
-    [
-      "Can I Use a System Call?",
-      "https://justine.lol/cosmopolitan/functions.html"
     ]
   ]
 ]
