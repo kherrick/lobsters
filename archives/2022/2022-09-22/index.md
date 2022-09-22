@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-22](index.md)
 
+* [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 18:38:10](https://lobste.rs/s/z8wj3b/future_is_seamless_collaborative) - [The future is seamless and collaborative](https://tably.com/blog/seamless-and-collaborative)
 * [2022-09-22, 17:18:37](https://lobste.rs/s/7yz2us/volatility_based_decomposition) - [Volatility-Based Decomposition](https://www.informit.com/articles/article.aspx?p=2995357&seqNum=2)
 * [2022-09-22, 16:40:48](https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter) - [Our adventure taming the cloud clutter dragon](https://encore.dev/blog/taming-cloud-clutter)
