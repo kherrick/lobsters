@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 14:10:16](https://lobste.rs/s/it5dhj/codegeex_multilingual_code_generative) - [CodeGeeX: A Multilingual Code Generative Model](https://keg.cs.tsinghua.edu.cn/codegeex/)
 * [2022-09-22, 12:03:24](https://lobste.rs/s/gcofe4/whisper_general_purpose_speech) - [Whisper: a general-purpose speech recognition model](https://openai.com/blog/whisper/)
 * [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_sharingsphere_transform_any) - [Apache SharingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
@@ -9,7 +10,6 @@
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 * [2022-09-21, 23:27:07](https://lobste.rs/s/jiyetr/hacking_anything_with_gnu_guix) - [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
-* [2022-09-21, 21:41:23](https://lobste.rs/s/eveure/analyzing_bsd_kernels_for_uninitialized) - [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
 * [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)

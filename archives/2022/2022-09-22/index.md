@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-22](index.md)
 
+* [2022-09-22, 14:10:16](https://lobste.rs/s/it5dhj/codegeex_multilingual_code_generative) - [CodeGeeX: A Multilingual Code Generative Model](https://keg.cs.tsinghua.edu.cn/codegeex/)
 * [2022-09-22, 12:03:24](https://lobste.rs/s/gcofe4/whisper_general_purpose_speech) - [Whisper: a general-purpose speech recognition model](https://openai.com/blog/whisper/)
 * [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_sharingsphere_transform_any) - [Apache SharingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
