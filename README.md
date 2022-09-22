@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 18:38:10](https://lobste.rs/s/z8wj3b/future_is_seamless_collaborative) - [The future is seamless and collaborative](https://tably.com/blog/seamless-and-collaborative)
 * [2022-09-22, 17:18:37](https://lobste.rs/s/7yz2us/volatility_based_decomposition) - [Volatility-Based Decomposition](https://www.informit.com/articles/article.aspx?p=2995357&seqNum=2)
 * [2022-09-22, 16:40:48](https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter) - [Our adventure taming the cloud clutter dragon](https://encore.dev/blog/taming-cloud-clutter)
 * [2022-09-22, 16:08:06](https://lobste.rs/s/ygweit/streaming_chess_matches_from_your) - [Streaming chess matches from your terminal](https://github.com/huytd/lichess-tv)
@@ -19,7 +20,6 @@
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
 * [2022-09-21, 18:25:08](https://lobste.rs/s/ncufko/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
-* [2022-09-21, 15:36:46](https://lobste.rs/s/dprmzd/thelio_2022_redesign_review) - [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
 * [2022-09-21, 15:17:46](https://lobste.rs/s/niadvn/introducing_litefs) - [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
