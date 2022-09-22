@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 17:18:37](https://lobste.rs/s/7yz2us/volatility_based_decomposition) - [Volatility-Based Decomposition](https://www.informit.com/articles/article.aspx?p=2995357&seqNum=2)
 * [2022-09-22, 16:40:48](https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter) - [Our adventure taming the cloud clutter dragon](https://encore.dev/blog/taming-cloud-clutter)
 * [2022-09-22, 16:08:06](https://lobste.rs/s/ygweit/streaming_chess_matches_from_your) - [Streaming chess matches from your terminal](https://github.com/huytd/lichess-tv)
 * [2022-09-22, 15:10:46](https://lobste.rs/s/daz0sd/fun_with_postgres_functions) - [Fun With Postgres Functions](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
 * [2022-09-22, 14:10:16](https://lobste.rs/s/it5dhj/codegeex_multilingual_code_generative) - [CodeGeeX: A Multilingual Code Generative Model](https://keg.cs.tsinghua.edu.cn/codegeex/)
 * [2022-09-22, 12:03:24](https://lobste.rs/s/gcofe4/whisper_general_purpose_speech) - [Whisper: a general-purpose speech recognition model](https://openai.com/blog/whisper/)
-* [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_sharingsphere_transform_any) - [Apache SharingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
+* [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_shardingsphere_transform_any) - [Apache ShardingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 * [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
@@ -24,7 +25,6 @@
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
-* [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 
 ## [Archives](archives/index.md)
 
