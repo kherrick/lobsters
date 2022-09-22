@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 21:01:06](https://lobste.rs/s/icj6t4/progressive_image_stippling_greedy_blue) - [Progressive image stippling and greedy blue noise importance sampling](https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/)
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 18:38:10](https://lobste.rs/s/z8wj3b/future_is_seamless_collaborative) - [The future is seamless and collaborative](https://tably.com/blog/seamless-and-collaborative)
@@ -19,7 +20,6 @@
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 * [2022-09-21, 23:27:07](https://lobste.rs/s/jiyetr/hacking_anything_with_gnu_guix) - [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
-* [2022-09-21, 18:25:08](https://lobste.rs/s/ncufko/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
 * [2022-09-21, 15:17:46](https://lobste.rs/s/niadvn/introducing_litefs) - [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
