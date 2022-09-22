@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
+* [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-09-22, 07:11:05](https://lobste.rs/s/dvl0zk/kubernetes_is_domain_specific_database) - [Kubernetes is a domain specific database](https://garrit.xyz/posts/2022-09-22-kubernetes-is-a-domain-specific-database)
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
@@ -8,7 +10,6 @@
 * [2022-09-21, 21:41:23](https://lobste.rs/s/eveure/analyzing_bsd_kernels_for_uninitialized) - [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
 * [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
-* [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
 * [2022-09-21, 18:25:08](https://lobste.rs/s/ncufko/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 * [2022-09-21, 16:52:58](https://lobste.rs/s/azqreo/c_initialization_arrays_lambdas_oh_my) - [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
@@ -20,7 +21,6 @@
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
-* [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 * [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)

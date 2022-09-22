@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-22](index.md)
 
+* [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
+* [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-09-22, 07:11:05](https://lobste.rs/s/dvl0zk/kubernetes_is_domain_specific_database) - [Kubernetes is a domain specific database](https://garrit.xyz/posts/2022-09-22-kubernetes-is-a-domain-specific-database)
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
