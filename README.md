@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_sharingsphere_transform_any) - [Apache SharingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 * [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
@@ -21,7 +22,6 @@
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
-* [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
