@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-09-22, 00:57:49](https://lobste.rs/s/jkybwb/ai_is_now_its_midwit_programmer_phase) - [AI is now in its midwit programmer phase](https://www.jonstokes.com/p/good-news-ai-is-now-in-its-midwit)
+* [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:39:35](https://lobste.rs/s/pq6zcp/end_points_computations) - [End-points and Computations](https://theprogrammersparadox.blogspot.com/2022/08/end-points-and-computations.html)
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 * [2022-09-21, 23:27:07](https://lobste.rs/s/jiyetr/hacking_anything_with_gnu_guix) - [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
+* [2022-09-21, 21:41:23](https://lobste.rs/s/eveure/analyzing_bsd_kernels_for_uninitialized) - [Analyzing BSD Kernels for Uninitialized Memory Disclosures using Binary Ninja](https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja)
 * [2022-09-21, 21:29:16](https://lobste.rs/s/feonds/not_quite_aphorisms) - [Not quite aphorisms](https://www.datagubbe.se/short/)
 * [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 20:10:52](https://lobste.rs/s/i14a20/explaining_csurf_vulnerability_csrf) - [Explaining the csurf vulnerability: CSRF attacks on all versions](https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/)
@@ -22,7 +23,6 @@
 * [2022-09-21, 04:48:20](https://lobste.rs/s/qtowyz/brief_overview_webstrates) - [A Brief Overview of Webstrates](https://webstrates.net/project/a-brief-overview/)
 * [2022-09-21, 04:31:37](https://lobste.rs/s/dok2kp/what_s_new_for_risc_v_llvm_15) - [What's new for RISC-V in LLVM 15](https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15)
 * [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
-* [2022-09-20, 17:18:04](https://lobste.rs/s/18bmqn/wasmtime_reaches_1_0_fast_safe_production) - [Wasmtime Reaches 1.0: Fast, Safe and Production Ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 * [2022-09-20, 13:00:43](https://lobste.rs/s/hdbb22/can_i_use_system_call) - [Can I Use a System Call?](https://justine.lol/cosmopolitan/functions.html)
 
