@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 22:17:55](https://lobste.rs/s/rb9pxq/type_level_typescript) - [Type-Level TypeScript](https://type-level-typescript.com)
 * [2022-09-22, 21:01:06](https://lobste.rs/s/icj6t4/progressive_image_stippling_greedy_blue) - [Progressive image stippling and greedy blue noise importance sampling](https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/)
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
@@ -15,7 +16,6 @@
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 * [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
-* [2022-09-22, 07:11:05](https://lobste.rs/s/dvl0zk/kubernetes_is_domain_specific_database) - [Kubernetes is a domain specific database](https://garrit.xyz/posts/2022-09-22-kubernetes-is-a-domain-specific-database)
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 * [2022-09-21, 23:27:07](https://lobste.rs/s/jiyetr/hacking_anything_with_gnu_guix) - [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
