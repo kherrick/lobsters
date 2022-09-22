@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-22](index.md)
 
+* [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-09-22, 07:11:05](https://lobste.rs/s/dvl0zk/kubernetes_is_domain_specific_database) - [Kubernetes is a domain specific database](https://garrit.xyz/posts/2022-09-22-kubernetes-is-a-domain-specific-database)
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:57:49](https://lobste.rs/s/jkybwb/ai_is_now_its_midwit_programmer_phase) - [AI is now in its midwit programmer phase](https://www.jonstokes.com/p/good-news-ai-is-now-in-its-midwit)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 * [2022-09-22, 07:11:05](https://lobste.rs/s/dvl0zk/kubernetes_is_domain_specific_database) - [Kubernetes is a domain specific database](https://garrit.xyz/posts/2022-09-22-kubernetes-is-a-domain-specific-database)
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
@@ -13,7 +14,6 @@
 * [2022-09-21, 16:52:58](https://lobste.rs/s/azqreo/c_initialization_arrays_lambdas_oh_my) - [C++ initialization, arrays and lambdas oh my](https://shafik.github.io/c++/2022/09/20/init-lambdas-array-ohmy.html)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
 * [2022-09-21, 16:39:51](https://lobste.rs/s/t7pmij/getty_images_will_cease_accept_art) - [Getty Images will cease to accept art created using AI generative models](https://app.engage.gettyimages.com/e/es?e=11409471&elq=ffb9ca1a980a43f29bb0563b4f8b5f27)
-* [2022-09-21, 16:02:34](https://lobste.rs/s/eqyowa/my_four_step_framework_for_merge_worthy) - [My four-step framework for merge-worthy contributions - with a Rails PR example](https://www.youtube.com/watch?v=5znQMEuHqc4)
 * [2022-09-21, 15:36:46](https://lobste.rs/s/dprmzd/thelio_2022_redesign_review) - [Thelio 2022 Redesign Review](https://dominickm.com/thelio-2022-redesign-review/)
 * [2022-09-21, 15:20:26](https://lobste.rs/s/0dhf00/introducing_framework_laptop) - [Introducing the Framework Laptop Chromebook Edition](https://frame.work/fr/en/blog/introducing-the-framework-laptop-chromebook-edition)
 * [2022-09-21, 15:17:46](https://lobste.rs/s/niadvn/introducing_litefs) - [Introducing LiteFS](https://fly.io/blog/introducing-litefs/)
