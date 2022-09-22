@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 18:38:10](https://lobste.rs/s/z8wj3b/future_is_seamless_collaborative) - [The future is seamless and collaborative](https://tably.com/blog/seamless-and-collaborative)
 * [2022-09-22, 17:18:37](https://lobste.rs/s/7yz2us/volatility_based_decomposition) - [Volatility-Based Decomposition](https://www.informit.com/articles/article.aspx?p=2995357&seqNum=2)
@@ -17,7 +18,6 @@
 * [2022-09-22, 03:13:32](https://lobste.rs/s/frg1oi/what_i_meant_by_soul_rust) - [What I meant by the \"soul of Rust\"](https://smallcultfollowing.com/babysteps/blog/2022/09/19/what-i-meant-by-the-soul-of-rust/)
 * [2022-09-22, 00:36:26](https://lobste.rs/s/fryg4e/details_element_as_burger_menu_is_not) - [A details element as a burger menu is not accessible](https://cloudfour.com/thinks/a-details-element-as-a-burger-menu-is-not-accessible/)
 * [2022-09-21, 23:27:07](https://lobste.rs/s/jiyetr/hacking_anything_with_gnu_guix) - [Hacking anything with GNU Guix](https://gexp.no/blog/hacking-anything-with-gnu-guix.html)
-* [2022-09-21, 20:18:07](https://lobste.rs/s/iwxurf/web_server_with_io_uring) - [A Web Server with io_uring](https://unixism.net/2020/04/io-uring-by-example-part-3-a-web-server-with-io-uring/)
 * [2022-09-21, 18:34:30](https://lobste.rs/s/4q8mis/will_serving_real_html_content_make) - [Will Serving Real HTML Content Make A Website Faster? Let's Experiment](https://blog.webpagetest.org/posts/will-html-content-make-site-faster/)
 * [2022-09-21, 18:25:08](https://lobste.rs/s/ncufko/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/)
 * [2022-09-21, 16:47:41](https://lobste.rs/s/mnktid/solving_dog_bunny_puzzle_with_program) - [Solving the Dog-Bunny Puzzle with Program Verification Technology](https://www.pathsensitive.com/2022/09/solving-dog-bunny-puzzle-with-program.html)
