@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-22](index.md)
 
+* [2022-09-22, 16:08:06](https://lobste.rs/s/ygweit/streaming_chess_matches_from_your) - [Streaming chess matches from your terminal](https://github.com/huytd/lichess-tv)
 * [2022-09-22, 15:10:46](https://lobste.rs/s/daz0sd/fun_with_postgres_functions) - [Fun With Postgres Functions](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
 * [2022-09-22, 14:10:16](https://lobste.rs/s/it5dhj/codegeex_multilingual_code_generative) - [CodeGeeX: A Multilingual Code Generative Model](https://keg.cs.tsinghua.edu.cn/codegeex/)
