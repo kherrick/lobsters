@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-22, 16:40:48](https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter) - [Our adventure taming the cloud clutter dragon](https://encore.dev/blog/taming-cloud-clutter)
 * [2022-09-22, 16:08:06](https://lobste.rs/s/ygweit/streaming_chess_matches_from_your) - [Streaming chess matches from your terminal](https://github.com/huytd/lichess-tv)
 * [2022-09-22, 15:10:46](https://lobste.rs/s/daz0sd/fun_with_postgres_functions) - [Fun With Postgres Functions](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
@@ -23,7 +24,6 @@
 * [2022-09-21, 15:06:27](https://lobste.rs/s/uskjjo/extracting_verified_interpreter_from) - [Extracting a Verified Interpreter from Isabelle/HOL](https://concerningquality.com/semantics-extraction-isabelle/)
 * [2022-09-21, 11:42:45](https://lobste.rs/s/u5cf2e/entitlement_open_source) - [Entitlement in Open Source](https://mikemcquaid.com/entitlement-in-open-source/)
 * [2022-09-21, 07:19:33](https://lobste.rs/s/rakx92/betterbird_fine_tuned_version_mozilla) - [Betterbird: a fine-tuned version of Mozilla Thunderbird](https://betterbird.eu/)
-* [2022-09-20, 23:05:40](https://lobste.rs/s/qbeffm/val_programming_language) - [The Val Programming Language](https://www.val-lang.dev/)
 * [2022-09-20, 13:01:30](https://lobste.rs/s/2dtkdo/cosmopolitan_v2_1) - [Cosmopolitan v2.1](https://github.com/jart/cosmopolitan/releases/tag/2.1)
 
 ## [Archives](archives/index.md)
