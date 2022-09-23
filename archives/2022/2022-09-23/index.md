@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
+* [2022-09-23, 09:05:06](https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for) - [Uniqueness and Reference Immutability for Safe Parallelism (2012)](https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf)
 * [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 * [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)

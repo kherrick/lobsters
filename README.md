@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
+* [2022-09-23, 09:05:06](https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for) - [Uniqueness and Reference Immutability for Safe Parallelism (2012)](https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf)
 * [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 * [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)
@@ -15,9 +17,7 @@
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 18:38:10](https://lobste.rs/s/z8wj3b/future_is_seamless_collaborative) - [The future is seamless and collaborative](https://tably.com/blog/seamless-and-collaborative)
 * [2022-09-22, 17:18:37](https://lobste.rs/s/7yz2us/volatility_based_decomposition) - [Volatility-Based Decomposition](https://www.informit.com/articles/article.aspx?p=2995357&seqNum=2)
-* [2022-09-22, 16:40:48](https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter) - [Our adventure taming the cloud clutter dragon](https://encore.dev/blog/taming-cloud-clutter)
 * [2022-09-22, 16:08:06](https://lobste.rs/s/ygweit/streaming_chess_matches_from_your) - [Streaming chess matches from your terminal](https://github.com/huytd/lichess-tv)
-* [2022-09-22, 15:10:46](https://lobste.rs/s/daz0sd/fun_with_postgres_functions) - [Fun With Postgres Functions](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
 * [2022-09-22, 12:03:24](https://lobste.rs/s/gcofe4/whisper_general_purpose_speech) - [Whisper: a general-purpose speech recognition model](https://openai.com/blog/whisper/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
