@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 09:21:18",
+      "https://lobste.rs/s/hekagg/mathb_turns_10"
+    ],
+    [
+      "MathB.in Turns 10",
+      "https://susam.net/blog/mathbin-turns-10.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 09:05:06",
+      "https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for"
+    ],
+    [
+      "Uniqueness and Reference Immutability for Safe Parallelism (2012)",
+      "https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 08:52:18",
       "https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-09-22, 16:40:48",
-      "https://lobste.rs/s/98w4zo/our_adventure_taming_cloud_clutter"
-    ],
-    [
-      "Our adventure taming the cloud clutter dragon",
-      "https://encore.dev/blog/taming-cloud-clutter"
-    ]
-  ],
-  [
-    [
       "2022-09-22, 16:08:06",
       "https://lobste.rs/s/ygweit/streaming_chess_matches_from_your"
     ],
     [
       "Streaming chess matches from your terminal",
       "https://github.com/huytd/lichess-tv"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 15:10:46",
-      "https://lobste.rs/s/daz0sd/fun_with_postgres_functions"
-    ],
-    [
-      "Fun With Postgres Functions",
-      "https://www.crunchydata.com/blog/fun-with-postgres-functions"
     ]
   ],
   [
