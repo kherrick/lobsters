@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 12:03:52](https://lobste.rs/s/fmxtpc/async_destructors_async_genericity) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
+* [2022-09-23, 11:58:22](https://lobste.rs/s/tchczd/expert_excuses_for_not_writing_unit_tests) - [Expert Excuses for Not Writing Unit Tests](https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
