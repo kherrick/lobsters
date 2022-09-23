@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 * [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)
 * [2022-09-23, 06:19:58](https://lobste.rs/s/zs2gin/skipping_boring_parts_building_database) - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
@@ -9,7 +10,6 @@
 * [2022-09-23, 01:23:10](https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere) - [Rust 2024 the year of everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 * [2022-09-23, 01:09:39](https://lobste.rs/s/dvkgdn/pcmcia_pico_w_card) - [PCMCIA Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
 * [2022-09-23, 00:46:11](https://lobste.rs/s/f36van/passkeys) - [Passkeys](https://www.imperialviolet.org/2022/09/22/passkeys.html)
-* [2022-09-22, 22:17:55](https://lobste.rs/s/rb9pxq/type_level_typescript) - [Type-Level TypeScript](https://type-level-typescript.com)
 * [2022-09-22, 21:01:06](https://lobste.rs/s/icj6t4/progressive_image_stippling_greedy_blue) - [Progressive image stippling and greedy blue noise importance sampling](https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/)
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
