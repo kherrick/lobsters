@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 22:19:05](https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta) - [Announcing TypeScript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 19:53:57](https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development) - [My Hybrid Docker & Ruby Development Environment](https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/)
@@ -22,7 +23,6 @@
 * [2022-09-23, 01:09:39](https://lobste.rs/s/dvkgdn/pcmcia_pico_w_card) - [PCMCIA Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
 * [2022-09-23, 00:46:11](https://lobste.rs/s/f36van/passkeys) - [Passkeys](https://www.imperialviolet.org/2022/09/22/passkeys.html)
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
-* [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 22:19:05](https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta) - [Announcing TypeScript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 19:53:57](https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development) - [My Hybrid Docker & Ruby Development Environment](https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/)
