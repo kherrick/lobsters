@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 03:32:48](https://lobste.rs/s/0jh6yh/web_is_good_now) - [The Web is Good Now](https://www.youtube.com/watch?v=F18oy48jkrk)
 * [2022-09-23, 01:53:36](https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler) - [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
 * [2022-09-23, 01:23:10](https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere) - [Rust 2024 the year of everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 * [2022-09-23, 01:09:39](https://lobste.rs/s/dvkgdn/pcmcia_pico_w_card) - [PCMCIA Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
