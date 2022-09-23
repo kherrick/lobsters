@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 12:03:52",
+      "https://lobste.rs/s/fmxtpc/async_destructors_async_genericity"
+    ],
+    [
+      "Async destructors, async genericity and completion futures",
+      "https://sabrinajewson.org/blog/async-drop"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 11:58:22",
+      "https://lobste.rs/s/tchczd/expert_excuses_for_not_writing_unit_tests"
+    ],
+    [
+      "Expert Excuses for Not Writing Unit Tests",
+      "https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 11:47:37",
       "https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash"
     ],
@@ -67,16 +87,6 @@
     [
       "rocketry: Modern scheduling library for Python",
       "https://github.com/Miksus/rocketry"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 06:19:58",
-      "https://lobste.rs/s/zs2gin/skipping_boring_parts_building_database"
-    ],
-    [
-      "Skipping the boring parts of building a database using FoundationDB",
-      "https://blog.tigrisdata.com/building-a-database-using-foundationdb"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How (memory) safe is zig? (UPDATED)",
       "https://www.scattered-thoughts.net/writing/how-safe-is-zig/"
-    ]
-  ],
-  [
-    [
-      "2022-09-21, 15:17:46",
-      "https://lobste.rs/s/niadvn/introducing_litefs"
-    ],
-    [
-      "Introducing LiteFS",
-      "https://fly.io/blog/introducing-litefs/"
     ]
   ]
 ]
