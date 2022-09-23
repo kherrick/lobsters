@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-23, 11:47:37",
+      "https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash"
+    ],
+    [
+      "The image in this tweet displays its own MD5 hash",
+      "https://twitter.com/david3141593/status/1573218394358386688"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 10:25:12",
       "https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend"
     ],
@@ -127,16 +137,6 @@
     [
       "Passkeys",
       "https://www.imperialviolet.org/2022/09/22/passkeys.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 21:01:06",
-      "https://lobste.rs/s/icj6t4/progressive_image_stippling_greedy_blue"
-    ],
-    [
-      "Progressive image stippling and greedy blue noise importance sampling",
-      "https://bartwronski.com/2022/08/31/progressive-image-stippling-and-greedy-blue-noise-importance-sampling/"
     ]
   ],
   [
