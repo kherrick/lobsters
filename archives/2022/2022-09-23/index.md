@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:34:43](https://lobste.rs/s/udyv9h/speed_up_your_svm_some_more_with_this) - [Speed Up Your SVM Some More with This Simple Trick](https://medium.com/arabesqueai/speed-up-your-svm-some-more-with-this-simple-trick-c8b7c164f999)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
 * [2022-09-23, 14:57:48](https://lobste.rs/s/cj5emk/postgresql_timescaledb_1000x_faster) - [PostgreSQL + TimescaleDB: 1000x Faster Queries, 90% Data Compression, and Much More](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
