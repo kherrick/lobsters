@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 14:57:48](https://lobste.rs/s/cj5emk/postgresql_timescaledb_1000x_faster) - [PostgreSQL + TimescaleDB: 1000x Faster Queries, 90% Data Compression, and Much More](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
 * [2022-09-23, 14:13:55](https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures) - [Pure Perl typable subroutine signatures](https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 13:44:55](https://lobste.rs/s/trtf3v/customizing_python_import_system_2008) - [Customizing the Python Import System [2008]](http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/)
@@ -7,7 +8,6 @@
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
 * [2022-09-23, 12:03:52](https://lobste.rs/s/fmxtpc/async_destructors_async_genericity) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
-* [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
 * [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)

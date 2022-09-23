@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 14:57:48](https://lobste.rs/s/cj5emk/postgresql_timescaledb_1000x_faster) - [PostgreSQL + TimescaleDB: 1000x Faster Queries, 90% Data Compression, and Much More](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
 * [2022-09-23, 14:13:55](https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures) - [Pure Perl typable subroutine signatures](https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 13:44:55](https://lobste.rs/s/trtf3v/customizing_python_import_system_2008) - [Customizing the Python Import System [2008]](http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/)
