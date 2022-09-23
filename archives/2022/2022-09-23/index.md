@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 19:12:19](https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches) - [Reducing Signed and Unsigned Mismatches with std::ssize()](https://www.cppstories.com/2022/ssize-cpp20/)
+* [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:34:43](https://lobste.rs/s/udyv9h/speed_up_your_svm_some_more_with_this) - [Speed Up Your SVM Some More with This Simple Trick](https://medium.com/arabesqueai/speed-up-your-svm-some-more-with-this-simple-trick-c8b7c164f999)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
