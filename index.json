@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-23, 19:53:57",
+      "https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development"
+    ],
+    [
+      "My Hybrid Docker & Ruby Development Environment",
+      "https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 19:12:19",
       "https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches"
     ],
@@ -97,16 +107,6 @@
     [
       "Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=1791519"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 12:03:52",
-      "https://lobste.rs/s/fmxtpc/async_destructors_async_genericity"
-    ],
-    [
-      "Async destructors, async genericity and completion futures",
-      "https://sabrinajewson.org/blog/async-drop"
     ]
   ],
   [
