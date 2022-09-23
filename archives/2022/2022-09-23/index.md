@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 14:13:55](https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures) - [Pure Perl typable subroutine signatures](https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan)
+* [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 13:44:55](https://lobste.rs/s/trtf3v/customizing_python_import_system_2008) - [Customizing the Python Import System [2008]](http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/)
 * [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
