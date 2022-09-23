@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 19:53:57](https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development) - [My Hybrid Docker & Ruby Development Environment](https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/)
 * [2022-09-23, 19:12:19](https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches) - [Reducing Signed and Unsigned Mismatches with std::ssize()](https://www.cppstories.com/2022/ssize-cpp20/)
 * [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
@@ -10,7 +11,6 @@
 * [2022-09-23, 13:44:55](https://lobste.rs/s/trtf3v/customizing_python_import_system_2008) - [Customizing the Python Import System [2008]](http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/)
 * [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
-* [2022-09-23, 12:03:52](https://lobste.rs/s/fmxtpc/async_destructors_async_genericity) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
