@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 06:19:58](https://lobste.rs/s/zs2gin/skipping_boring_parts_building_database) - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
 * [2022-09-23, 05:35:06](https://lobste.rs/s/upp1vc/program_analysis_appetizer) - [Program Analysis (an Appetizer)](https://arxiv.org/abs/2012.10086)
 * [2022-09-23, 03:32:48](https://lobste.rs/s/0jh6yh/web_is_good_now) - [The Web is Good Now](https://www.youtube.com/watch?v=F18oy48jkrk)
 * [2022-09-23, 01:53:36](https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler) - [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
@@ -17,7 +18,6 @@
 * [2022-09-22, 15:10:46](https://lobste.rs/s/daz0sd/fun_with_postgres_functions) - [Fun With Postgres Functions](https://www.crunchydata.com/blog/fun-with-postgres-functions)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
 * [2022-09-22, 12:03:24](https://lobste.rs/s/gcofe4/whisper_general_purpose_speech) - [Whisper: a general-purpose speech recognition model](https://openai.com/blog/whisper/)
-* [2022-09-22, 11:49:09](https://lobste.rs/s/gd1faz/apache_shardingsphere_transform_any) - [Apache ShardingSphere: transform any database into a distributed database](https://shardingsphere.apache.org/)
 * [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 * [2022-09-22, 08:24:49](https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type) - [Adventure game that runs in the Typescript type system](https://github.com/cassiozen/TDungeon)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
