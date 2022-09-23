@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
 * [2022-09-23, 09:05:06](https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for) - [Uniqueness and Reference Immutability for Safe Parallelism (2012)](https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf)
 * [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
