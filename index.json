@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 20:35:00",
+      "https://lobste.rs/s/tsnatp/guix_for_development"
+    ],
+    [
+      "Guix for development",
+      "https://dthompson.us/guix-for-development.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 20:21:26",
+      "https://lobste.rs/s/lfae0x/casting_perls_before_splines"
+    ],
+    [
+      "Casting Perls before Splines",
+      "http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 19:53:57",
       "https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-23, 07:12:01",
-      "https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for"
-    ],
-    [
-      "rocketry: Modern scheduling library for Python",
-      "https://github.com/Miksus/rocketry"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 01:53:36",
       "https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing Rust 1.64.0",
       "https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 08:33:29",
-      "https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl"
-    ],
-    [
-      "Systemd support is now available in WSL",
-      "https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/"
     ]
   ],
   [
