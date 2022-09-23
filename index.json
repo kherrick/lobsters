@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 15:34:43",
+      "https://lobste.rs/s/udyv9h/speed_up_your_svm_some_more_with_this"
+    ],
+    [
+      "Speed Up Your SVM Some More with This Simple Trick",
+      "https://medium.com/arabesqueai/speed-up-your-svm-some-more-with-this-simple-trick-c8b7c164f999"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 15:30:08",
+      "https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript"
+    ],
+    [
+      "Writing composable SQL using JavaScript",
+      "https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 14:57:48",
       "https://lobste.rs/s/cj5emk/postgresql_timescaledb_1000x_faster"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-09-23, 05:35:06",
-      "https://lobste.rs/s/upp1vc/program_analysis_appetizer"
-    ],
-    [
-      "Program Analysis (an Appetizer)",
-      "https://arxiv.org/abs/2012.10086"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 03:32:48",
       "https://lobste.rs/s/0jh6yh/web_is_good_now"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing Rust 1.64.0",
       "https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 12:03:24",
-      "https://lobste.rs/s/gcofe4/whisper_general_purpose_speech"
-    ],
-    [
-      "Whisper: a general-purpose speech recognition model",
-      "https://openai.com/blog/whisper/"
     ]
   ],
   [
