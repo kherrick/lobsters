@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 13:44:55](https://lobste.rs/s/trtf3v/customizing_python_import_system_2008) - [Customizing the Python Import System [2008]](http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/)
 * [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
 * [2022-09-23, 12:03:52](https://lobste.rs/s/fmxtpc/async_destructors_async_genericity) - [Async destructors, async genericity and completion futures](https://sabrinajewson.org/blog/async-drop)
@@ -8,7 +9,6 @@
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
 * [2022-09-23, 09:05:06](https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for) - [Uniqueness and Reference Immutability for Safe Parallelism (2012)](https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf)
-* [2022-09-23, 08:52:18](https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links) - [Extending org-mode to handle youtube links](https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 * [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)
 * [2022-09-23, 05:35:06](https://lobste.rs/s/upp1vc/program_analysis_appetizer) - [Program Analysis (an Appetizer)](https://arxiv.org/abs/2012.10086)
