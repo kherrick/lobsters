@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-23, 14:13:55",
+      "https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures"
+    ],
+    [
+      "Pure Perl typable subroutine signatures",
+      "https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 14:11:56",
+      "https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes"
+    ],
+    [
+      "TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in",
+      "https://github.com/no-gravity/TwitterToNitter"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 13:44:55",
       "https://lobste.rs/s/trtf3v/customizing_python_import_system_2008"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2022-09-23, 11:58:22",
-      "https://lobste.rs/s/tchczd/expert_excuses_for_not_writing_unit_tests"
-    ],
-    [
-      "Expert Excuses for Not Writing Unit Tests",
-      "https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 11:47:37",
       "https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2022-09-23, 09:05:06",
-      "https://lobste.rs/s/iacigw/uniqueness_reference_immutability_for"
+      "2022-09-23, 08:52:18",
+      "https://lobste.rs/s/c3yevv/extending_org_mode_handle_youtube_links"
     ],
     [
-      "Uniqueness and Reference Immutability for Safe Parallelism (2012)",
-      "https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf"
+      "Extending org-mode to handle youtube links",
+      "https://bitspook.in/blog/extending-org-mode-to-handle-youtube-links/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Systemd support is now available in WSL",
       "https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 08:24:49",
-      "https://lobste.rs/s/tjjg13/adventure_game_runs_typescript_type"
-    ],
-    [
-      "Adventure game that runs in the Typescript type system",
-      "https://github.com/cassiozen/TDungeon"
     ]
   ],
   [
