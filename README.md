@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
+* [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 19:53:57](https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development) - [My Hybrid Docker & Ruby Development Environment](https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/)
 * [2022-09-23, 19:12:19](https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches) - [Reducing Signed and Unsigned Mismatches with std::ssize()](https://www.cppstories.com/2022/ssize-cpp20/)
 * [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
@@ -15,7 +17,6 @@
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 09:21:18](https://lobste.rs/s/hekagg/mathb_turns_10) - [MathB.in Turns 10](https://susam.net/blog/mathbin-turns-10.html)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
-* [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)
 * [2022-09-23, 01:53:36](https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler) - [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
 * [2022-09-23, 01:23:10](https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere) - [Rust 2024 the year of everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 * [2022-09-23, 01:09:39](https://lobste.rs/s/dvkgdn/pcmcia_pico_w_card) - [PCMCIA Pico W Card](https://www.yyzkevin.com/pcmcia-pico-w-card/)
@@ -23,7 +24,6 @@
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
 * [2022-09-22, 19:14:01](https://lobste.rs/s/ybdisb/running_docker_host_under_openbsd_using) - [Running a Docker Host under OpenBSD using vmd(8)](https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/)
 * [2022-09-22, 14:55:32](https://lobste.rs/s/1k8bvz/announcing_rust_1_64_0) - [Announcing Rust 1.64.0](https://blog.rust-lang.org/2022/09/22/Rust-1.64.0.html)
-* [2022-09-22, 08:33:29](https://lobste.rs/s/feqhez/systemd_support_is_now_available_wsl) - [Systemd support is now available in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 * [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 
 ## [Archives](archives/index.md)
