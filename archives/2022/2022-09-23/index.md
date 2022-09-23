@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-23](index.md)
 
+* [2022-09-23, 07:12:01](https://lobste.rs/s/ahqvoq/rocketry_modern_scheduling_library_for) - [rocketry: Modern scheduling library for Python](https://github.com/Miksus/rocketry)
 * [2022-09-23, 06:19:58](https://lobste.rs/s/zs2gin/skipping_boring_parts_building_database) - [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
 * [2022-09-23, 05:35:06](https://lobste.rs/s/upp1vc/program_analysis_appetizer) - [Program Analysis (an Appetizer)](https://arxiv.org/abs/2012.10086)
 * [2022-09-23, 03:32:48](https://lobste.rs/s/0jh6yh/web_is_good_now) - [The Web is Good Now](https://www.youtube.com/watch?v=F18oy48jkrk)
