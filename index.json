@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-09-23, 10:25:12",
+      "https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 09:21:18",
       "https://lobste.rs/s/hekagg/mathb_turns_10"
     ],
@@ -207,16 +217,6 @@
     [
       "Running a Docker Host under OpenBSD using vmd(8)",
       "https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/"
-    ]
-  ],
-  [
-    [
-      "2022-09-22, 16:08:06",
-      "https://lobste.rs/s/ygweit/streaming_chess_matches_from_your"
-    ],
-    [
-      "Streaming chess matches from your terminal",
-      "https://github.com/huytd/lichess-tv"
     ]
   ],
   [
