@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 * [2022-09-24, 20:21:48](https://lobste.rs/s/iecsen/connectix_ram_doubler_never_run_out_ram) - [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
 * [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
 * [2022-09-24, 17:31:31](https://lobste.rs/s/bqojfh/ai_assistant_for_command_line_errors) - [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
@@ -10,7 +11,6 @@
 * [2022-09-24, 10:55:48](https://lobste.rs/s/1ln6ov/build_reactive_data_streaming_app_with) - [Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion](https://youtu.be/jItIQ-UvFI4)
 * [2022-09-24, 03:56:11](https://lobste.rs/s/y6ys3d/sm_17_parent_sm_2_used_by_anki_spaced) - [SM-17 (parent of SM-2 used by Anki) spaced repetition algorithm](https://supermemo.guru/wiki/Algorithm_SM-17)
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
-* [2022-09-23, 22:19:05](https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta) - [Announcing TypeScript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
