@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-24, 01:16:29",
+      "https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy"
+    ],
+    [
+      "So when did POP and IMAP become a “legacy protocol?”",
+      "http://boston.conman.org//2022/09/22.1"
+    ]
+  ],
+  [
+    [
       "2022-09-23, 22:19:05",
       "https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta"
     ],
@@ -47,16 +57,6 @@
     [
       "Reducing Signed and Unsigned Mismatches with std::ssize()",
       "https://www.cppstories.com/2022/ssize-cpp20/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 19:11:43",
-      "https://lobste.rs/s/srxc6i/singleton"
-    ],
-    [
-      "The Singleton",
-      "http://www.modernescpp.com/index.php/creational-patterns-singleton"
     ]
   ],
   [
