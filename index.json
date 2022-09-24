@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-24, 22:31:10",
+      "https://lobste.rs/s/w4oqyo/whois_fragile_unparseable_obsolete"
+    ],
+    [
+      "WHOIS: Fragile, unparseable, obsolete... and universally relied upon",
+      "https://www.netmeister.org/blog/whois.html"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 20:38:49",
       "https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because"
     ],
@@ -237,16 +247,6 @@
     [
       "langcc: A Next-Generation Compiler Compiler",
       "https://github.com/jzimmerman/langcc"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 01:23:10",
-      "https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere"
-    ],
-    [
-      "Rust 2024 the year of everywhere?",
-      "https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/"
     ]
   ]
 ]
