@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-24, 22:31:10](https://lobste.rs/s/w4oqyo/whois_fragile_unparseable_obsolete) - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 * [2022-09-24, 20:21:48](https://lobste.rs/s/iecsen/connectix_ram_doubler_never_run_out_ram) - [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
 * [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
@@ -24,7 +25,6 @@
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 * [2022-09-23, 01:53:36](https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler) - [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
-* [2022-09-23, 01:23:10](https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere) - [Rust 2024 the year of everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 
 ## [Archives](archives/index.md)
 
