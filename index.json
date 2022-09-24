@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-24, 12:02:44",
+      "https://lobste.rs/s/hpkh7a/2_ways_test_your_go_http_server"
+    ],
+    [
+      "2 ways to test your Go HTTP server",
+      "https://youtu.be/tCAl8fdqDnM"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 10:55:48",
       "https://lobste.rs/s/1ln6ov/build_reactive_data_streaming_app_with"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2022-09-23, 22:19:05",
-      "https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta"
-    ],
-    [
-      "Announcing TypeScript 4.9 Beta",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 20:35:00",
       "https://lobste.rs/s/tsnatp/guix_for_development"
     ],
@@ -67,6 +67,16 @@
     [
       "My Hybrid Docker & Ruby Development Environment",
       "https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/"
+    ]
+  ],
+  [
+    [
+      "2022-09-23, 19:12:19",
+      "https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches"
+    ],
+    [
+      "Reducing Signed and Unsigned Mismatches with std::ssize()",
+      "https://www.cppstories.com/2022/ssize-cpp20/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in",
       "https://github.com/no-gravity/TwitterToNitter"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 13:44:55",
-      "https://lobste.rs/s/trtf3v/customizing_python_import_system_2008"
-    ],
-    [
-      "Customizing the Python Import System [2008]",
-      "http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/"
     ]
   ],
   [
