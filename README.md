@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 * [2022-09-23, 22:19:05](https://lobste.rs/s/wpvyqd/announcing_typescript_4_9_beta) - [Announcing TypeScript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 19:53:57](https://lobste.rs/s/wcy89b/my_hybrid_docker_ruby_development) - [My Hybrid Docker & Ruby Development Environment](https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/)
 * [2022-09-23, 19:12:19](https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches) - [Reducing Signed and Unsigned Mismatches with std::ssize()](https://www.cppstories.com/2022/ssize-cpp20/)
-* [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
 * [2022-09-23, 14:57:48](https://lobste.rs/s/cj5emk/postgresql_timescaledb_1000x_faster) - [PostgreSQL + TimescaleDB: 1000x Faster Queries, 90% Data Compression, and Much More](https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/)
