@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-24](index.md)
 
+* [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
 * [2022-09-24, 17:31:31](https://lobste.rs/s/bqojfh/ai_assistant_for_command_line_errors) - [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
 * [2022-09-24, 17:05:05](https://lobste.rs/s/mlpchc/pain_free_containers) - [Pain Free Containers](https://pfc.tools)
 * [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
