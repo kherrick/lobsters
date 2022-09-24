@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-24, 23:15:46](https://lobste.rs/s/rbci1z/glamorize_your_problem_domain) - [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2022-09-24, 22:31:10](https://lobste.rs/s/w4oqyo/whois_fragile_unparseable_obsolete) - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 * [2022-09-24, 20:21:48](https://lobste.rs/s/iecsen/connectix_ram_doubler_never_run_out_ram) - [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
@@ -14,7 +15,6 @@
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
-* [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
 * [2022-09-23, 14:13:55](https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures) - [Pure Perl typable subroutine signatures](https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan)
