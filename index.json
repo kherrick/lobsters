@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-24, 03:56:11",
+      "https://lobste.rs/s/y6ys3d/sm_17_parent_sm_2_used_by_anki_spaced"
+    ],
+    [
+      "SM-17 (parent of SM-2 used by Anki) spaced repetition algorithm",
+      "https://supermemo.guru/wiki/Algorithm_SM-17"
+    ]
+  ],
+  [
+    [
       "2022-09-24, 01:16:29",
       "https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy"
     ],
@@ -47,16 +57,6 @@
     [
       "My Hybrid Docker & Ruby Development Environment",
       "https://deanpcmad.com/2022/my-hybrid-docker-ruby-environment/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 19:12:19",
-      "https://lobste.rs/s/e7oqsk/reducing_signed_unsigned_mismatches"
-    ],
-    [
-      "Reducing Signed and Unsigned Mismatches with std::ssize()",
-      "https://www.cppstories.com/2022/ssize-cpp20/"
     ]
   ],
   [
