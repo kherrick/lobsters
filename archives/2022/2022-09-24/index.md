@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-24](index.md)
 
+* [2022-09-24, 17:31:31](https://lobste.rs/s/bqojfh/ai_assistant_for_command_line_errors) - [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
 * [2022-09-24, 17:05:05](https://lobste.rs/s/mlpchc/pain_free_containers) - [Pain Free Containers](https://pfc.tools)
 * [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
 * [2022-09-24, 13:16:19](https://lobste.rs/s/sfkuqo/onfoss_lan) - [onFOSS-LAN](https://onfoss.libregaming.org/host.html)
