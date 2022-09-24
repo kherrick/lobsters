@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
 * [2022-09-24, 13:16:19](https://lobste.rs/s/sfkuqo/onfoss_lan) - [onFOSS-LAN](https://onfoss.libregaming.org/host.html)
 * [2022-09-24, 12:02:44](https://lobste.rs/s/hpkh7a/2_ways_test_your_go_http_server) - [2 ways to test your Go HTTP server](https://youtu.be/tCAl8fdqDnM)
 * [2022-09-24, 10:55:48](https://lobste.rs/s/1ln6ov/build_reactive_data_streaming_app_with) - [Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion](https://youtu.be/jItIQ-UvFI4)
@@ -24,7 +25,6 @@
 * [2022-09-23, 01:23:10](https://lobste.rs/s/cwdyyn/rust_2024_year_everywhere) - [Rust 2024 the year of everywhere?](https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/)
 * [2022-09-23, 00:46:11](https://lobste.rs/s/f36van/passkeys) - [Passkeys](https://www.imperialviolet.org/2022/09/22/passkeys.html)
 * [2022-09-22, 19:42:38](https://lobste.rs/s/dwiwak/let_s_play_os_2200) - [Let's Play OS 2200](https://arcanesciences.com/os2200/)
-* [2022-09-22, 07:55:16](https://lobste.rs/s/nw7hsd/how_memory_safe_is_zig_updated) - [How (memory) safe is zig? (UPDATED)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 
 ## [Archives](archives/index.md)
 
