@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 23:53:08](https://lobste.rs/s/2lqgza/universal_law_computational) - [Universal Law of Computational Scalability](https://en.wikipedia.org/wiki/Neil_J._Gunther#Universal_Law_of_Computational_Scalability)
 * [2022-09-25, 21:37:38](https://lobste.rs/s/twgdni/boa_javascript_interpreter_written_rust) - [Boa (JavaScript interpreter written in Rust) release v0.16](https://boa-dev.github.io/posts/2022-09-25-boa-release-16/)
 * [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
 * [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
