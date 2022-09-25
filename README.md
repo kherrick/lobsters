@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
+* [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
 * [2022-09-25, 19:31:12](https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk) - [CCPS, a Capcom CPS-1 SDK](https://fabiensanglard.net/ccps/index.html)
 * [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
@@ -21,10 +23,8 @@
 * [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
 * [2022-09-24, 12:02:44](https://lobste.rs/s/hpkh7a/2_ways_test_your_go_http_server) - [2 ways to test your Go HTTP server](https://youtu.be/tCAl8fdqDnM)
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
-* [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
-* [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
 
 ## [Archives](archives/index.md)
 

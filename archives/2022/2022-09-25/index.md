@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
+* [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
 * [2022-09-25, 19:31:12](https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk) - [CCPS, a Capcom CPS-1 SDK](https://fabiensanglard.net/ccps/index.html)
 * [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
