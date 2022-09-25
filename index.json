@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-25, 06:35:20",
+      "https://lobste.rs/s/owmzf7/mips_thinkpad_kind"
+    ],
+    [
+      "The MIPS ThinkPad, kind of",
+      "https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 06:32:23",
+      "https://lobste.rs/s/fomgje/xen_summit_2022_recap"
+    ],
+    [
+      "Xen Summit 2022: a recap",
+      "https://xcp-ng.org/blog/2022/09/24/xen-summit-2022-a-recap/"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 06:16:10",
+      "https://lobste.rs/s/hj9rxr/ibm_aix_for_ia64_itanium_aka_project"
+    ],
+    [
+      "IBM AIX for IA64 (Itanium) aka Project Monterey runs again",
+      "https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 05:56:32",
       "https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-09-23, 20:21:26",
-      "https://lobste.rs/s/lfae0x/casting_perls_before_splines"
-    ],
-    [
-      "Casting Perls before Splines",
-      "http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 16:08:56",
       "https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-09-23, 10:25:12",
-      "https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 08:18:26",
       "https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every"
     ],
     [
       "Schedule Cronjob for the First Monday of Every Month, the Funky Way",
       "https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 01:53:36",
-      "https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler"
-    ],
-    [
-      "langcc: A Next-Generation Compiler Compiler",
-      "https://github.com/jzimmerman/langcc"
     ]
   ]
 ]
