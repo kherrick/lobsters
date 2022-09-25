@@ -19,7 +19,7 @@
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
-* [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati](https://github.com/rochus-keller/LeanQt)
+* [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an application](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
 * [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
