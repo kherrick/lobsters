@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+* [2022-09-25, 06:32:23](https://lobste.rs/s/fomgje/xen_summit_2022_recap) - [Xen Summit 2022: a recap](https://xcp-ng.org/blog/2022/09/24/xen-summit-2022-a-recap/)
+* [2022-09-25, 06:16:10](https://lobste.rs/s/hj9rxr/ibm_aix_for_ia64_itanium_aka_project) - [IBM AIX for IA64 (Itanium) aka Project Monterey runs again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
 * [2022-09-25, 05:56:32](https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for) - [basedrop: a set of memory-management tools for real-time audio](https://github.com/glowcoil/basedrop)
 * [2022-09-25, 02:13:01](https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather) - [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
 * [2022-09-25, 00:22:39](https://lobste.rs/s/1v12kj/rule_six) - [The rule of six](https://davidamos.dev/the-rule-of-six/)
@@ -16,15 +19,12 @@
 * [2022-09-24, 03:56:11](https://lobste.rs/s/y6ys3d/sm_17_parent_sm_2_used_by_anki_spaced) - [SM-17 (parent of SM-2 used by Anki) spaced repetition algorithm](https://supermemo.guru/wiki/Algorithm_SM-17)
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
-* [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an application](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
 * [2022-09-23, 11:47:37](https://lobste.rs/s/yh4fwl/image_this_tweet_displays_its_own_md5_hash) - [The image in this tweet displays its own MD5 hash](https://twitter.com/david3141593/status/1573218394358386688)
-* [2022-09-23, 10:25:12](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdorky/what_are_you_doing_this_weekend)
 * [2022-09-23, 08:18:26](https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every) - [Schedule Cronjob for the First Monday of Every Month, the Funky Way](https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/)
-* [2022-09-23, 01:53:36](https://lobste.rs/s/rkmmjc/langcc_next_generation_compiler) - [langcc: A Next-Generation Compiler Compiler](https://github.com/jzimmerman/langcc)
 
 ## [Archives](archives/index.md)
 
