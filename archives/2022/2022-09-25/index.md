@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
 * [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
 * [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
