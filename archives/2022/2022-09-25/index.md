@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
 * [2022-09-25, 17:25:18](https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files) - [Applying TDD to Classes Accessing Files](https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/)
 * [2022-09-25, 13:48:47](https://lobste.rs/s/swpbi6/practical_systems_awareness) - [Practical Systems Awareness](https://medium.com/@kris-nova/practical-systems-awareness-322faf092da2)
 * [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
