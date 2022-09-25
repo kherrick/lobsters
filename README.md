@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
+* [2022-09-25, 19:31:12](https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk) - [CCPS, a Capcom CPS-1 SDK](https://fabiensanglard.net/ccps/index.html)
 * [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
 * [2022-09-25, 17:25:18](https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files) - [Applying TDD to Classes Accessing Files](https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/)
 * [2022-09-25, 13:48:47](https://lobste.rs/s/swpbi6/practical_systems_awareness) - [Practical Systems Awareness](https://medium.com/@kris-nova/practical-systems-awareness-322faf092da2)
@@ -17,9 +19,7 @@
 * [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
 * [2022-09-24, 17:31:31](https://lobste.rs/s/bqojfh/ai_assistant_for_command_line_errors) - [An AI assistant for command line errors](https://austinhenley.com/blog/aiterminal.html)
 * [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-* [2022-09-24, 13:16:19](https://lobste.rs/s/sfkuqo/onfoss_lan) - [onFOSS-LAN](https://onfoss.libregaming.org/host.html)
 * [2022-09-24, 12:02:44](https://lobste.rs/s/hpkh7a/2_ways_test_your_go_http_server) - [2 ways to test your Go HTTP server](https://youtu.be/tCAl8fdqDnM)
-* [2022-09-24, 10:55:48](https://lobste.rs/s/1ln6ov/build_reactive_data_streaming_app_with) - [Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion](https://youtu.be/jItIQ-UvFI4)
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)

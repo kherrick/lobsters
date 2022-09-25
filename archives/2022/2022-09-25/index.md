@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
+* [2022-09-25, 19:31:12](https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk) - [CCPS, a Capcom CPS-1 SDK](https://fabiensanglard.net/ccps/index.html)
 * [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
 * [2022-09-25, 17:25:18](https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files) - [Applying TDD to Classes Accessing Files](https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/)
 * [2022-09-25, 13:48:47](https://lobste.rs/s/swpbi6/practical_systems_awareness) - [Practical Systems Awareness](https://medium.com/@kris-nova/practical-systems-awareness-322faf092da2)
