@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-25, 19:47:21",
+      "https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void"
+    ],
+    [
+      "Something I implemented today: “is void”",
+      "https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 19:44:05",
+      "https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64"
+    ],
+    [
+      "Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)",
+      "https://github.com/jefflomax/word-writer-6-commodore-64"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 19:31:43",
       "https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-09-23, 20:35:00",
-      "https://lobste.rs/s/tsnatp/guix_for_development"
-    ],
-    [
-      "Guix for development",
-      "https://dthompson.us/guix-for-development.html"
-    ]
-  ],
-  [
-    [
       "2022-09-23, 14:11:56",
       "https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes"
     ],
@@ -237,16 +247,6 @@
     [
       "The image in this tweet displays its own MD5 hash",
       "https://twitter.com/david3141593/status/1573218394358386688"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 08:18:26",
-      "https://lobste.rs/s/x4apoq/schedule_cronjob_for_first_monday_every"
-    ],
-    [
-      "Schedule Cronjob for the First Monday of Every Month, the Funky Way",
-      "https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/"
     ]
   ]
 ]
