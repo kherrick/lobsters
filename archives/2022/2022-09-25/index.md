@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-25](index.md)
 
+* [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
 * [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2022-09-25, 06:32:23](https://lobste.rs/s/fomgje/xen_summit_2022_recap) - [Xen Summit 2022: a recap](https://xcp-ng.org/blog/2022/09/24/xen-summit-2022-a-recap/)
 * [2022-09-25, 06:16:10](https://lobste.rs/s/hj9rxr/ibm_aix_for_ia64_itanium_aka_project) - [IBM AIX for IA64 (Itanium) aka Project Monterey runs again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
