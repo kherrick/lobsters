@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-25, 05:56:32",
+      "https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for"
+    ],
+    [
+      "basedrop: a set of memory-management tools for real-time audio",
+      "https://github.com/glowcoil/basedrop"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 02:13:01",
       "https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather"
     ],
@@ -167,16 +177,6 @@
     [
       "A history of ARM, part 1: Building the first chip",
       "https://arstechnica.com/?p=1879525"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 15:30:08",
-      "https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript"
-    ],
-    [
-      "Writing composable SQL using JavaScript",
-      "https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script"
     ]
   ],
   [
