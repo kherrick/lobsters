@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-25, 18:11:37",
+      "https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter"
+    ],
+    [
+      "PikaScript and lvgl: Make Python Lighter, Easier and Smarter",
+      "http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 17:25:18",
       "https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files"
     ],
@@ -217,16 +227,6 @@
     [
       "TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in",
       "https://github.com/no-gravity/TwitterToNitter"
-    ]
-  ],
-  [
-    [
-      "2022-09-23, 12:28:46",
-      "https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non"
-    ],
-    [
-      "Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1791519"
     ]
   ],
   [
