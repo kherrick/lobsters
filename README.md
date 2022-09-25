@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-25, 02:13:01](https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather) - [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
+* [2022-09-25, 00:22:39](https://lobste.rs/s/1v12kj/rule_six) - [The rule of six](https://davidamos.dev/the-rule-of-six/)
 * [2022-09-24, 23:15:46](https://lobste.rs/s/rbci1z/glamorize_your_problem_domain) - [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2022-09-24, 22:31:10](https://lobste.rs/s/w4oqyo/whois_fragile_unparseable_obsolete) - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
@@ -14,10 +16,8 @@
 * [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 * [2022-09-23, 20:35:00](https://lobste.rs/s/tsnatp/guix_for_development) - [Guix for development](https://dthompson.us/guix-for-development.html)
 * [2022-09-23, 20:21:26](https://lobste.rs/s/lfae0x/casting_perls_before_splines) - [Casting Perls before Splines](http://blogs.perl.org/users/saif/2022/09/perls-before-splines.html)
-* [2022-09-23, 19:11:43](https://lobste.rs/s/srxc6i/singleton) - [The Singleton](http://www.modernescpp.com/index.php/creational-patterns-singleton)
 * [2022-09-23, 16:08:56](https://lobste.rs/s/ocozei/history_arm_part_1_building_first_chip) - [A history of ARM, part 1: Building the first chip](https://arstechnica.com/?p=1879525)
 * [2022-09-23, 15:30:08](https://lobste.rs/s/dq5na7/writing_composable_sql_using_javascript) - [Writing composable SQL using JavaScript](https://contra.com/p/AqZWWoUB-writing-composable-sql-using-java-script)
-* [2022-09-23, 14:13:55](https://lobste.rs/s/zjxuqp/pure_perl_typable_subroutine_signatures) - [Pure Perl typable subroutine signatures](https://dev.to/iamalnewkirk/my-perl-weekly-challenge-3dan)
 * [2022-09-23, 14:11:56](https://lobste.rs/s/kbyc5j/twittertonitter_bookmarklet_makes) - [TwitterToNitter. A bookmarklet that makes reading on Twitter easier when not logged in](https://github.com/no-gravity/TwitterToNitter)
 * [2022-09-23, 12:53:27](https://lobste.rs/s/fgreow/leanqt_stripped_down_qt_version_easy) - [LeanQt - a stripped-down Qt version easy to build from source and to integrate with an applicati](https://github.com/rochus-keller/LeanQt)
 * [2022-09-23, 12:28:46](https://lobste.rs/s/p308tu/test_crashed_attempting_connect_non) - [Test crashed - Attempting to connect to non-local address! some-nonexistent-domain-27489274c8927.com](https://bugzilla.mozilla.org/show_bug.cgi?id=1791519)
