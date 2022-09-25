@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-25, 19:31:43",
+      "https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching"
+    ],
+    [
+      "Notes from Tail Latency Aware Caching Paper by RobinHood",
+      "https://kracekumar.com/post/tail_latency_aware_caching/"
+    ]
+  ],
+  [
+    [
+      "2022-09-25, 19:31:12",
+      "https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk"
+    ],
+    [
+      "CCPS, a Capcom CPS-1 SDK",
+      "https://fabiensanglard.net/ccps/index.html"
+    ]
+  ],
+  [
+    [
       "2022-09-25, 18:11:37",
       "https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2022-09-24, 13:16:19",
-      "https://lobste.rs/s/sfkuqo/onfoss_lan"
-    ],
-    [
-      "onFOSS-LAN",
-      "https://onfoss.libregaming.org/host.html"
-    ]
-  ],
-  [
-    [
       "2022-09-24, 12:02:44",
       "https://lobste.rs/s/hpkh7a/2_ways_test_your_go_http_server"
     ],
     [
       "2 ways to test your Go HTTP server",
       "https://youtu.be/tCAl8fdqDnM"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 10:55:48",
-      "https://lobste.rs/s/1ln6ov/build_reactive_data_streaming_app_with"
-    ],
-    [
-      "Build a Reactive Data Streaming App with Python and Apache Kafka | Coding In Motion",
-      "https://youtu.be/jItIQ-UvFI4"
     ]
   ],
   [
