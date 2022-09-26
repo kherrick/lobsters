@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-26, 21:56:33",
-      "https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming"
+      "2022-09-26, 22:25:18",
+      "https://lobste.rs/s/itzm6k/httpt_probe_resistant_proxy_usenix"
     ],
     [
-      "Real World OCaml: Functional Programming for the Masses",
-      "https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571"
+      "HTTPT: A Probe-Resistant Proxy | USENIX",
+      "https://www.usenix.org/conference/foci20/presentation/frolov"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Internet.nl: test for modern Internet Standards",
       "https://internet.nl/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 21:35:25",
-      "https://lobste.rs/s/bcqag9/explained_from_scratch_private"
-    ],
-    [
-      "Explained from scratch: private information retrieval using homomorphic encryption",
-      "https://blintzbase.com/posts/pir-and-fhe-from-scratch/"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi",
       "https://github.com/michalsc/Emu68"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 14:28:13",
+      "https://lobste.rs/s/cfbce7/complexity_software_engineering"
+    ],
+    [
+      "Complexity and software engineering",
+      "https://wellquite.org/posts/complexity/"
     ]
   ],
   [
