@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
 * [2022-09-26, 03:51:50](https://lobste.rs/s/0etqob/janet_jackson_had_power_crash_laptop) - [Janet Jackson had the power to crash laptop computers, follow-up](https://devblogs.microsoft.com/oldnewthing/20220920-00/?p=107201)
 * [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)
 * [2022-09-25, 23:53:08](https://lobste.rs/s/2lqgza/universal_law_computational) - [Universal Law of Computational Scalability](https://en.wikipedia.org/wiki/Neil_J._Gunther#Universal_Law_of_Computational_Scalability)
@@ -24,7 +25,6 @@
 * [2022-09-24, 20:21:48](https://lobste.rs/s/iecsen/connectix_ram_doubler_never_run_out_ram) - [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
 * [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
 * [2022-09-24, 14:40:19](https://lobste.rs/s/lizyaw/get_zoomer_we_re_saving_react) - [Get in Zoomer, We're Saving React](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
-* [2022-09-24, 01:16:29](https://lobste.rs/s/er97xr/so_when_did_pop_imap_become_legacy) - [So when did POP and IMAP become a “legacy protocol?”](http://boston.conman.org//2022/09/22.1)
 
 ## [Archives](archives/index.md)
 
