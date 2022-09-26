@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 18:26:55](https://lobste.rs/s/scj72a/memtable_wal_sstable_log_structured) - [MemTable, WAL, SSTable, Log Structured Merge(LSM) Trees](https://ninegene.com/2022/02/21/memtable-wal-sstable-log-structured-mergelsm-trees/)
 * [2022-09-26, 17:36:13](https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language) - [Toy JS | A small compile-to-js language](https://marcellerusu.com/blog/toy-js)
 * [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:49:40](https://lobste.rs/s/wwpqko/alan_alda_atariwriter_i_m_gonna_sit_right) - [Alan Alda and Atariwriter - \"I'm gonna sit right down and write myself a letter...\"](https://computeradsfromthepast.substack.com/p/alan-alda-and-atariwriter)
@@ -7,7 +8,6 @@
 * [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
 * [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
-* [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 13:27:33](https://lobste.rs/s/allujb/book_cp_system) - [The Book of CP-System](https://fabiensanglard.net/cpsb/index.html)
 * [2022-09-26, 12:35:22](https://lobste.rs/s/nweh4z/ultima_online_s_25th_anniversary) - [Ultima Online’s 25th anniversary](https://www.raphkoster.com/2022/09/24/ultima-onlines-25th-anniversary/)
 * [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)

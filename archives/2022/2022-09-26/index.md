@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 18:26:55](https://lobste.rs/s/scj72a/memtable_wal_sstable_log_structured) - [MemTable, WAL, SSTable, Log Structured Merge(LSM) Trees](https://ninegene.com/2022/02/21/memtable-wal-sstable-log-structured-mergelsm-trees/)
 * [2022-09-26, 17:36:13](https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language) - [Toy JS | A small compile-to-js language](https://marcellerusu.com/blog/toy-js)
 * [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:49:40](https://lobste.rs/s/wwpqko/alan_alda_atariwriter_i_m_gonna_sit_right) - [Alan Alda and Atariwriter - \"I'm gonna sit right down and write myself a letter...\"](https://computeradsfromthepast.substack.com/p/alan-alda-and-atariwriter)
