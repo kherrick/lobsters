@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-26, 08:28:48",
+      "https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement"
+    ],
+    [
+      "QUIC Is Not a TCP Replacement",
+      "https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 08:27:00",
+      "https://lobste.rs/s/wwzmhx/turns_are_better_than_radians"
+    ],
+    [
+      "Turns are better than radians",
+      "https://www.computerenhance.com/p/turns-are-better-than-radians"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 08:13:19",
+      "https://lobste.rs/s/fstodh/layering_check_with_clang"
+    ],
+    [
+      "Layering check with Clang",
+      "https://maskray.me/blog/2022-09-25-layering-check-with-clang"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 07:37:17",
       "https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage"
     ],
@@ -177,36 +207,6 @@
     [
       "IBM AIX for IA64 (Itanium) aka Project Monterey runs again",
       "https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 05:56:32",
-      "https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for"
-    ],
-    [
-      "basedrop: a set of memory-management tools for real-time audio",
-      "https://github.com/glowcoil/basedrop"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 02:13:01",
-      "https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather"
-    ],
-    [
-      "The Geeks way of checking what the outside wheather is like",
-      "https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking"
-    ]
-  ],
-  [
-    [
-      "2022-09-24, 23:15:46",
-      "https://lobste.rs/s/rbci1z/glamorize_your_problem_domain"
-    ],
-    [
-      "Glamorize your problem domain",
-      "https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html"
     ]
   ],
   [
