@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
+* [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
 * [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 13:27:33](https://lobste.rs/s/allujb/book_cp_system) - [The Book of CP-System](https://fabiensanglard.net/cpsb/index.html)

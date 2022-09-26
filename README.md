@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
+* [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
 * [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 13:27:33](https://lobste.rs/s/allujb/book_cp_system) - [The Book of CP-System](https://fabiensanglard.net/cpsb/index.html)
@@ -16,13 +18,11 @@
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
 * [2022-09-26, 03:51:50](https://lobste.rs/s/0etqob/janet_jackson_had_power_crash_laptop) - [Janet Jackson had the power to crash laptop computers, follow-up](https://devblogs.microsoft.com/oldnewthing/20220920-00/?p=107201)
 * [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)
-* [2022-09-25, 23:53:08](https://lobste.rs/s/2lqgza/universal_law_computational) - [Universal Law of Computational Scalability](https://en.wikipedia.org/wiki/Neil_J._Gunther#Universal_Law_of_Computational_Scalability)
 * [2022-09-25, 21:37:38](https://lobste.rs/s/twgdni/boa_javascript_interpreter_written_rust) - [Boa (JavaScript interpreter written in Rust) release v0.16](https://boa-dev.github.io/posts/2022-09-25-boa-release-16/)
 * [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
 * [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
 * [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
-* [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
 * [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 
