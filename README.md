@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 21:35:25](https://lobste.rs/s/bcqag9/explained_from_scratch_private) - [Explained from scratch: private information retrieval using homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
@@ -20,7 +21,6 @@
 * [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2022-09-26, 07:37:17](https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage) - [MessagesForMacintosh: An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)](https://github.com/CamHenlin/MessagesForMacintosh)
-* [2022-09-26, 07:30:19](https://lobste.rs/s/wbwnkp/sad_state_debug_performance_c) - [The sad state of debug performance in c++](https://vittorioromeo.info/index/blog/debug_performance_cpp.html)
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
 * [2022-09-26, 03:51:50](https://lobste.rs/s/0etqob/janet_jackson_had_power_crash_laptop) - [Janet Jackson had the power to crash laptop computers, follow-up](https://devblogs.microsoft.com/oldnewthing/20220920-00/?p=107201)
 * [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)

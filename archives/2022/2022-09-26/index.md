@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 21:35:25](https://lobste.rs/s/bcqag9/explained_from_scratch_private) - [Explained from scratch: private information retrieval using homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
 * [2022-09-26, 20:05:17](https://lobste.rs/s/ir017s/boa_rust_implementation_ecmascript) - [Boa: Rust implementation of the EcmaScript specification](https://boa-dev.github.io/)
