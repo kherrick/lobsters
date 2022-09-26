@@ -20,11 +20,11 @@
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2022-09-26, 08:13:19](https://lobste.rs/s/fstodh/layering_check_with_clang) - [Layering check with Clang](https://maskray.me/blog/2022-09-25-layering-check-with-clang)
 * [2022-09-26, 07:37:17](https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage) - [MessagesForMacintosh: An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)](https://github.com/CamHenlin/MessagesForMacintosh)
+* [2022-09-26, 07:30:19](https://lobste.rs/s/wbwnkp/sad_state_debug_performance_c) - [The sad state of debug performance in c++](https://vittorioromeo.info/index/blog/debug_performance_cpp.html)
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
 * [2022-09-26, 03:51:50](https://lobste.rs/s/0etqob/janet_jackson_had_power_crash_laptop) - [Janet Jackson had the power to crash laptop computers, follow-up](https://devblogs.microsoft.com/oldnewthing/20220920-00/?p=107201)
 * [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)
 * [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
-* [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
 
 ## [Archives](archives/index.md)
 
