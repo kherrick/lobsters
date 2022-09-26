@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-09-26, 21:56:33",
+      "https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming"
+    ],
+    [
+      "Real World OCaml: Functional Programming for the Masses",
+      "https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 21:48:01",
       "https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet"
     ],
@@ -97,16 +107,6 @@
     [
       "Why Async Rust",
       "https://blog.yoshuawuyts.com/why-async-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 15:20:26",
-      "https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing"
-    ],
-    [
-      "Designing an end-to-end encrypted note sharing service",
-      "https://mcndt.dev/posts/how-to-e2e-encryption/"
     ]
   ],
   [
