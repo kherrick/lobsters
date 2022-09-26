@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
+* [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+* [2022-09-26, 08:13:19](https://lobste.rs/s/fstodh/layering_check_with_clang) - [Layering check with Clang](https://maskray.me/blog/2022-09-25-layering-check-with-clang)
 * [2022-09-26, 07:37:17](https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage) - [MessagesForMacintosh: An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)](https://github.com/CamHenlin/MessagesForMacintosh)
 * [2022-09-26, 07:30:19](https://lobste.rs/s/wbwnkp/sad_state_debug_performance_c) - [The sad state of debug performance in c++](https://vittorioromeo.info/index/blog/debug_performance_cpp.html)
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
@@ -18,9 +21,6 @@
 * [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
 * [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2022-09-25, 06:16:10](https://lobste.rs/s/hj9rxr/ibm_aix_for_ia64_itanium_aka_project) - [IBM AIX for IA64 (Itanium) aka Project Monterey runs again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
-* [2022-09-25, 05:56:32](https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for) - [basedrop: a set of memory-management tools for real-time audio](https://github.com/glowcoil/basedrop)
-* [2022-09-25, 02:13:01](https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather) - [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
-* [2022-09-24, 23:15:46](https://lobste.rs/s/rbci1z/glamorize_your_problem_domain) - [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
 * [2022-09-24, 20:21:48](https://lobste.rs/s/iecsen/connectix_ram_doubler_never_run_out_ram) - [Connectix RAM Doubler - Never run out of RAM Again](https://computeradsfromthepast.substack.com/p/connectix-ram-doubler)
 * [2022-09-24, 19:32:39](https://lobste.rs/s/bzhbxk/fools_stop_mysticizing_system_dynamics) - [Fools! Stop Mysticizing System Dynamics](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)

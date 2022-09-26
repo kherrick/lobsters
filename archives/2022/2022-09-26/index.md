@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
+* [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+* [2022-09-26, 08:13:19](https://lobste.rs/s/fstodh/layering_check_with_clang) - [Layering check with Clang](https://maskray.me/blog/2022-09-25-layering-check-with-clang)
 * [2022-09-26, 07:37:17](https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage) - [MessagesForMacintosh: An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)](https://github.com/CamHenlin/MessagesForMacintosh)
 * [2022-09-26, 07:30:19](https://lobste.rs/s/wbwnkp/sad_state_debug_performance_c) - [The sad state of debug performance in c++](https://vittorioromeo.info/index/blog/debug_performance_cpp.html)
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
