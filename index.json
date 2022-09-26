@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 14:49:58",
+      "https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run"
+    ],
+    [
+      "Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi",
+      "https://github.com/michalsc/Emu68"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 14:28:13",
       "https://lobste.rs/s/cfbce7/complexity_software_engineering"
     ],
@@ -207,16 +217,6 @@
     [
       "Notes from Tail Latency Aware Caching Paper by RobinHood",
       "https://kracekumar.com/post/tail_latency_aware_caching/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 17:25:18",
-      "https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files"
-    ],
-    [
-      "Applying TDD to Classes Accessing Files",
-      "https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/"
     ]
   ],
   [
