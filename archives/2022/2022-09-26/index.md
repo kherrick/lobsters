@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 21:35:25](https://lobste.rs/s/bcqag9/explained_from_scratch_private) - [Explained from scratch: private information retrieval using homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
 * [2022-09-26, 20:05:17](https://lobste.rs/s/ir017s/boa_rust_implementation_ecmascript) - [Boa: Rust implementation of the EcmaScript specification](https://boa-dev.github.io/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
 * [2022-09-26, 19:58:21](https://lobste.rs/s/ihu777/how_much_time_do_we_waste_waiting_for) - [How much time do we waste waiting for websites to load?](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
