@@ -1,8 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
+* [2022-09-26, 22:25:18](https://lobste.rs/s/itzm6k/httpt_probe_resistant_proxy_usenix) - [HTTPT: A Probe-Resistant Proxy | USENIX](https://www.usenix.org/conference/foci20/presentation/frolov)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
-* [2022-09-26, 21:35:25](https://lobste.rs/s/bcqag9/explained_from_scratch_private) - [Explained from scratch: private information retrieval using homomorphic encryption](https://blintzbase.com/posts/pir-and-fhe-from-scratch/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
 * [2022-09-26, 19:58:21](https://lobste.rs/s/ihu777/how_much_time_do_we_waste_waiting_for) - [How much time do we waste waiting for websites to load?](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
 * [2022-09-26, 18:38:29](https://lobste.rs/s/t8lmpo/how_open_source) - [How to Open Source](https://howtoopensource.dev)
@@ -14,6 +13,7 @@
 * [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
 * [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
+* [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 12:35:22](https://lobste.rs/s/nweh4z/ultima_online_s_25th_anniversary) - [Ultima Online’s 25th anniversary](https://www.raphkoster.com/2022/09/24/ultima-onlines-25th-anniversary/)
 * [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
 * [2022-09-26, 09:32:05](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week)
