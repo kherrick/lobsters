@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 17:36:13",
+      "https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language"
+    ],
+    [
+      "Toy JS | A small compile-to-js language",
+      "https://marcellerusu.com/blog/toy-js"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 15:55:34",
       "https://lobste.rs/s/cf4x3u/holonforth"
     ],
@@ -237,16 +247,6 @@
     [
       "Notes from Tail Latency Aware Caching Paper by RobinHood",
       "https://kracekumar.com/post/tail_latency_aware_caching/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 06:35:20",
-      "https://lobste.rs/s/owmzf7/mips_thinkpad_kind"
-    ],
-    [
-      "The MIPS ThinkPad, kind of",
-      "https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html"
     ]
   ]
 ]
