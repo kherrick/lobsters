@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 09:14:42](https://lobste.rs/s/hzhyrl/some_google_photos_users_finding_old) - [Some Google Photos users finding that old images have been 'corrupted'](https://9to5google.com/2022/09/25/google-photos-corrupted/)
 * [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2022-09-26, 08:13:19](https://lobste.rs/s/fstodh/layering_check_with_clang) - [Layering check with Clang](https://maskray.me/blog/2022-09-25-layering-check-with-clang)
