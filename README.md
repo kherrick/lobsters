@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)
 * [2022-09-25, 23:53:08](https://lobste.rs/s/2lqgza/universal_law_computational) - [Universal Law of Computational Scalability](https://en.wikipedia.org/wiki/Neil_J._Gunther#Universal_Law_of_Computational_Scalability)
 * [2022-09-25, 21:37:38](https://lobste.rs/s/twgdni/boa_javascript_interpreter_written_rust) - [Boa (JavaScript interpreter written in Rust) release v0.16](https://boa-dev.github.io/posts/2022-09-25-boa-release-16/)
 * [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
@@ -16,7 +17,6 @@
 * [2022-09-25, 06:16:10](https://lobste.rs/s/hj9rxr/ibm_aix_for_ia64_itanium_aka_project) - [IBM AIX for IA64 (Itanium) aka Project Monterey runs again](https://virtuallyfun.com/wordpress/2022/09/24/ibm-aix-for-ia64-itanium-aka-project-monterey-runs-again/)
 * [2022-09-25, 05:56:32](https://lobste.rs/s/pnylsn/basedrop_set_memory_management_tools_for) - [basedrop: a set of memory-management tools for real-time audio](https://github.com/glowcoil/basedrop)
 * [2022-09-25, 02:13:01](https://lobste.rs/s/znpwtf/geeks_way_checking_what_outside_wheather) - [The Geeks way of checking what the outside wheather is like](https://blog.netbsd.org/tnf/entry/the_geeks_way_of_checking)
-* [2022-09-25, 00:22:39](https://lobste.rs/s/1v12kj/rule_six) - [The rule of six](https://davidamos.dev/the-rule-of-six/)
 * [2022-09-24, 23:15:46](https://lobste.rs/s/rbci1z/glamorize_your_problem_domain) - [Glamorize your problem domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 * [2022-09-24, 22:31:10](https://lobste.rs/s/w4oqyo/whois_fragile_unparseable_obsolete) - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
