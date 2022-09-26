@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 20:05:17](https://lobste.rs/s/ir017s/boa_rust_implementation_ecmascript) - [Boa: Rust implementation of the EcmaScript specification](https://boa-dev.github.io/)
+* [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
+* [2022-09-26, 19:58:21](https://lobste.rs/s/ihu777/how_much_time_do_we_waste_waiting_for) - [How much time do we waste waiting for websites to load?](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
 * [2022-09-26, 18:38:29](https://lobste.rs/s/t8lmpo/how_open_source) - [How to Open Source](https://howtoopensource.dev)
 * [2022-09-26, 18:26:55](https://lobste.rs/s/scj72a/memtable_wal_sstable_log_structured) - [MemTable, WAL, SSTable, Log Structured Merge(LSM) Trees](https://ninegene.com/2022/02/21/memtable-wal-sstable-log-structured-mergelsm-trees/)
 * [2022-09-26, 17:36:13](https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language) - [Toy JS | A small compile-to-js language](https://marcellerusu.com/blog/toy-js)
