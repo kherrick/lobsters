@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
 * [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 13:27:33](https://lobste.rs/s/allujb/book_cp_system) - [The Book of CP-System](https://fabiensanglard.net/cpsb/index.html)
 * [2022-09-26, 12:35:22](https://lobste.rs/s/nweh4z/ultima_online_s_25th_anniversary) - [Ultima Online’s 25th anniversary](https://www.raphkoster.com/2022/09/24/ultima-onlines-25th-anniversary/)
@@ -21,7 +22,6 @@
 * [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
 * [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
-* [2022-09-25, 17:25:18](https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files) - [Applying TDD to Classes Accessing Files](https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/)
 * [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
 * [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 * [2022-09-24, 20:38:49](https://lobste.rs/s/tsbffa/compiler_optimizations_are_hard_because) - [Compiler Optimizations Are Hard Because They Forget](https://faultlore.com/blah/oops-that-was-important/)
