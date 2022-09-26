@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 10:41:45",
+      "https://lobste.rs/s/ggfsb5/few_my_favorite_things_about_openbsd"
+    ],
+    [
+      "A Few of My Favorite Things About The OpenBSD Packet Filter Tools",
+      "https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 09:32:05",
       "https://lobste.rs/s/azrkb4/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "Applying TDD to Classes Accessing Files",
       "https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 13:48:47",
-      "https://lobste.rs/s/swpbi6/practical_systems_awareness"
-    ],
-    [
-      "Practical Systems Awareness",
-      "https://medium.com/@kris-nova/practical-systems-awareness-322faf092da2"
     ]
   ],
   [
