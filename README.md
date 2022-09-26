@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:49:40](https://lobste.rs/s/wwpqko/alan_alda_atariwriter_i_m_gonna_sit_right) - [Alan Alda and Atariwriter - \"I'm gonna sit right down and write myself a letter...\"](https://computeradsfromthepast.substack.com/p/alan-alda-and-atariwriter)
 * [2022-09-26, 15:33:21](https://lobste.rs/s/kdvidx/why_async_rust) - [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
 * [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
@@ -22,7 +23,6 @@
 * [2022-09-26, 00:10:58](https://lobste.rs/s/eqye7g/gnome_builder_43_0) - [GNOME Builder 43.0](https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/)
 * [2022-09-25, 21:37:38](https://lobste.rs/s/twgdni/boa_javascript_interpreter_written_rust) - [Boa (JavaScript interpreter written in Rust) release v0.16](https://boa-dev.github.io/posts/2022-09-25-boa-release-16/)
 * [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
-* [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
 * [2022-09-25, 06:35:20](https://lobste.rs/s/owmzf7/mips_thinkpad_kind) - [The MIPS ThinkPad, kind of](https://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
 
