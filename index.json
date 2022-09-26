@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-26, 20:05:17",
+      "https://lobste.rs/s/ir017s/boa_rust_implementation_ecmascript"
+    ],
+    [
+      "Boa: Rust implementation of the EcmaScript specification",
+      "https://boa-dev.github.io/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 20:01:10",
+      "https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring"
+    ],
+    [
+      "Ezno:  a JavaScript compiler featuring checking, correctness and performance",
+      "https://kaleidawave.github.io/posts/introducing-ezno/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 19:58:21",
+      "https://lobste.rs/s/ihu777/how_much_time_do_we_waste_waiting_for"
+    ],
+    [
+      "How much time do we waste waiting for websites to load?",
+      "https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 18:38:29",
       "https://lobste.rs/s/t8lmpo/how_open_source"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-09-26, 13:27:33",
-      "https://lobste.rs/s/allujb/book_cp_system"
-    ],
-    [
-      "The Book of CP-System",
-      "https://fabiensanglard.net/cpsb/index.html"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 12:35:22",
       "https://lobste.rs/s/nweh4z/ultima_online_s_25th_anniversary"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-26, 07:30:19",
-      "https://lobste.rs/s/wbwnkp/sad_state_debug_performance_c"
-    ],
-    [
-      "The sad state of debug performance in c++",
-      "https://vittorioromeo.info/index/blog/debug_performance_cpp.html"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 06:56:34",
       "https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for"
     ],
@@ -217,16 +227,6 @@
     [
       "GNOME Builder 43.0",
       "https://blogs.gnome.org/chergert/2022/09/22/gnome-builder-43/"
-    ]
-  ],
-  [
-    [
-      "2022-09-25, 21:37:38",
-      "https://lobste.rs/s/twgdni/boa_javascript_interpreter_written_rust"
-    ],
-    [
-      "Boa (JavaScript interpreter written in Rust) release v0.16",
-      "https://boa-dev.github.io/posts/2022-09-25-boa-release-16/"
     ]
   ],
   [
