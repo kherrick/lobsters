@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
 * [2022-09-26, 10:41:45](https://lobste.rs/s/ggfsb5/few_my_favorite_things_about_openbsd) - [A Few of My Favorite Things About The OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
 * [2022-09-26, 09:32:05](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week)
 * [2022-09-26, 09:14:42](https://lobste.rs/s/hzhyrl/some_google_photos_users_finding_old) - [Some Google Photos users finding that old images have been 'corrupted'](https://9to5google.com/2022/09/25/google-photos-corrupted/)

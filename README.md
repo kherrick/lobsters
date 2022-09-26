@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
 * [2022-09-26, 10:41:45](https://lobste.rs/s/ggfsb5/few_my_favorite_things_about_openbsd) - [A Few of My Favorite Things About The OpenBSD Packet Filter Tools](https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html)
 * [2022-09-26, 09:32:05](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/azrkb4/what_are_you_doing_this_week)
 * [2022-09-26, 09:14:42](https://lobste.rs/s/hzhyrl/some_google_photos_users_finding_old) - [Some Google Photos users finding that old images have been 'corrupted'](https://9to5google.com/2022/09/25/google-photos-corrupted/)
@@ -17,7 +18,6 @@
 * [2022-09-25, 19:47:21](https://lobste.rs/s/yig6fz/something_i_implemented_today_is_void) - [Something I implemented today: “is void”](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
 * [2022-09-25, 19:44:05](https://lobste.rs/s/hspztc/timeworks_word_writer_6_for_commodore_64) - [Timeworks Word Writer 6 for the Commodore 64 Source Code (1991)](https://github.com/jefflomax/word-writer-6-commodore-64)
 * [2022-09-25, 19:31:43](https://lobste.rs/s/pnrliy/notes_from_tail_latency_aware_caching) - [Notes from Tail Latency Aware Caching Paper by RobinHood](https://kracekumar.com/post/tail_latency_aware_caching/)
-* [2022-09-25, 19:31:12](https://lobste.rs/s/n44jtv/ccps_capcom_cps_1_sdk) - [CCPS, a Capcom CPS-1 SDK](https://fabiensanglard.net/ccps/index.html)
 * [2022-09-25, 18:11:37](https://lobste.rs/s/ksj2ec/pikascript_lvgl_make_python_lighter) - [PikaScript and lvgl: Make Python Lighter, Easier and Smarter](http://blog.lvgl.io/2022-08-24/pikascript-and-lvgl)
 * [2022-09-25, 17:25:18](https://lobste.rs/s/mc8djl/applying_tdd_classes_accessing_files) - [Applying TDD to Classes Accessing Files](https://embeddeduse.com/2022/09/25/applying-tdd-to-classes-accessing-files/)
 * [2022-09-25, 07:52:15](https://lobste.rs/s/ja4jt6/on_strange_joys_mainframe_oses_legacy) - [On the strange joys of mainframe OSes and legacy tech that has survived into modern times](https://liam-on-linux.dreamwidth.org/86995.html)
