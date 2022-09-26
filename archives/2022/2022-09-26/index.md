@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-26](index.md)
 
+* [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
 * [2022-09-26, 13:27:33](https://lobste.rs/s/allujb/book_cp_system) - [The Book of CP-System](https://fabiensanglard.net/cpsb/index.html)
 * [2022-09-26, 12:35:22](https://lobste.rs/s/nweh4z/ultima_online_s_25th_anniversary) - [Ultima Online’s 25th anniversary](https://www.raphkoster.com/2022/09/24/ultima-onlines-25th-anniversary/)
 * [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
