@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-26, 18:26:55",
+      "https://lobste.rs/s/scj72a/memtable_wal_sstable_log_structured"
+    ],
+    [
+      "MemTable, WAL, SSTable, Log Structured Merge(LSM) Trees",
+      "https://ninegene.com/2022/02/21/memtable-wal-sstable-log-structured-mergelsm-trees/"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 17:36:13",
       "https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language"
     ],
@@ -67,16 +77,6 @@
     [
       "Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi",
       "https://github.com/michalsc/Emu68"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 14:28:13",
-      "https://lobste.rs/s/cfbce7/complexity_software_engineering"
-    ],
-    [
-      "Complexity and software engineering",
-      "https://wellquite.org/posts/complexity/"
     ]
   ],
   [
