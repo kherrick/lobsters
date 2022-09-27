@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-27](index.md)
 
+* [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
+* [2022-09-27, 17:28:07](https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver) - [How to create a REST API with QtHttpServer](https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver)
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
 * [2022-09-27, 14:48:44](https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for) - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 * [2022-09-27, 14:46:43](https://lobste.rs/s/s1kpx4/cloudflare_workerd) - [cloudflare/workerd](https://github.com/cloudflare/workerd)
