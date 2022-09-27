@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-27](index.md)
 
+* [2022-09-27, 14:48:44](https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for) - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 * [2022-09-27, 14:46:43](https://lobste.rs/s/s1kpx4/cloudflare_workerd) - [cloudflare/workerd](https://github.com/cloudflare/workerd)
 * [2022-09-27, 14:18:09](https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere) - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 * [2022-09-27, 14:02:24](https://lobste.rs/s/wuxhl0/find_slow_data_processing_tasks_before) - [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
