@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-09-27, 14:46:43",
-      "https://lobste.rs/s/s1kpx4/cloudflare_workerd"
+      "2022-09-27, 14:48:44",
+      "https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for"
     ],
     [
-      "cloudflare/workerd",
-      "https://github.com/cloudflare/workerd"
+      "Race Conditions Can Be Useful for Parallelism",
+      "https://shwestrick.github.io/2022/09/27/useful-races.html"
     ]
   ],
   [
