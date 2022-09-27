@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-27](index.md)
 
+* [2022-09-27, 20:56:36](https://lobste.rs/s/hjit4p/third_room_tech_preview_released) - [Third Room tech preview released](https://thirdroom.io/preview)
 * [2022-09-27, 20:46:36](https://lobste.rs/s/brx0ed/software_engineering_tips_for_students) - [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
 * [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
