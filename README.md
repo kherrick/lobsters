@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-09-26, 22:25:18](https://lobste.rs/s/itzm6k/httpt_probe_resistant_proxy_usenix) - [HTTPT: A Probe-Resistant Proxy | USENIX](https://www.usenix.org/conference/foci20/presentation/frolov)
 * [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
@@ -11,6 +10,7 @@
 * [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:49:40](https://lobste.rs/s/wwpqko/alan_alda_atariwriter_i_m_gonna_sit_right) - [Alan Alda and Atariwriter - \"I'm gonna sit right down and write myself a letter...\"](https://computeradsfromthepast.substack.com/p/alan-alda-and-atariwriter)
 * [2022-09-26, 15:33:21](https://lobste.rs/s/kdvidx/why_async_rust) - [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
+* [2022-09-26, 15:20:26](https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing) - [Designing an end-to-end encrypted note sharing service](https://mcndt.dev/posts/how-to-e2e-encryption/)
 * [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 14:49:58](https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run) - [Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi](https://github.com/michalsc/Emu68)
 * [2022-09-26, 14:28:13](https://lobste.rs/s/cfbce7/complexity_software_engineering) - [Complexity and software engineering](https://wellquite.org/posts/complexity/)
