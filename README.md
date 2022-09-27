@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-27, 14:02:24](https://lobste.rs/s/wuxhl0/find_slow_data_processing_tasks_before) - [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
 * [2022-09-27, 13:29:41](https://lobste.rs/s/61pglt/introducing_workerd_cloudflare_s_open) - [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 * [2022-09-27, 11:29:14](https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based) - [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
 * [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
@@ -24,7 +25,6 @@
 * [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2022-09-26, 06:56:34](https://lobste.rs/s/6tbcnu/self_hosted_software_i_m_thankful_for) - [Self-hosted software I'm thankful for](https://garrit.xyz/posts/2022-09-26-self-hosted-software-im-thankful-for)
-* [2022-09-25, 20:53:26](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation) - [What’s your favorite go to documentation tool for building team knowledge base](https://lobste.rs/s/3faroe/what_s_your_favorite_go_documentation)
 
 ## [Archives](archives/index.md)
 
