@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-27, 14:46:43",
+      "https://lobste.rs/s/s1kpx4/cloudflare_workerd"
+    ],
+    [
+      "cloudflare/workerd",
+      "https://github.com/cloudflare/workerd"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 14:18:09",
+      "https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere"
+    ],
+    [
+      "58 bytes of CSS to look great nearly everywhere",
+      "https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 14:02:24",
       "https://lobste.rs/s/wuxhl0/find_slow_data_processing_tasks_before"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-09-26, 18:38:29",
-      "https://lobste.rs/s/t8lmpo/how_open_source"
-    ],
-    [
-      "How to Open Source",
-      "https://howtoopensource.dev"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 18:26:55",
       "https://lobste.rs/s/scj72a/memtable_wal_sstable_log_structured"
     ],
@@ -147,16 +157,6 @@
     [
       "Why Async Rust",
       "https://blog.yoshuawuyts.com/why-async-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 15:20:26",
-      "https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing"
-    ],
-    [
-      "Designing an end-to-end encrypted note sharing service",
-      "https://mcndt.dev/posts/how-to-e2e-encryption/"
     ]
   ],
   [
