@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-27, 20:46:36](https://lobste.rs/s/brx0ed/software_engineering_tips_for_students) - [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
 * [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 * [2022-09-27, 17:28:07](https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver) - [How to create a REST API with QtHttpServer](https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver)
@@ -20,7 +21,6 @@
 * [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:33:21](https://lobste.rs/s/kdvidx/why_async_rust) - [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
 * [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
-* [2022-09-26, 11:12:52](https://lobste.rs/s/qbgkac/building_self_destructing_usb_drive) - [Building a Self-Destructing USB Drive](https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/)
 * [2022-09-26, 09:14:42](https://lobste.rs/s/hzhyrl/some_google_photos_users_finding_old) - [Some Google Photos users finding that old images have been 'corrupted'](https://9to5google.com/2022/09/25/google-photos-corrupted/)
 * [2022-09-26, 08:28:48](https://lobste.rs/s/t4awzw/quic_is_not_tcp_replacement) - [QUIC Is Not a TCP Replacement](https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement)
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
