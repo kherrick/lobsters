@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-27](index.md)
 
+* [2022-09-27, 13:29:41](https://lobste.rs/s/61pglt/introducing_workerd_cloudflare_s_open) - [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 * [2022-09-27, 11:29:14](https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based) - [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
 * [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
 * [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
