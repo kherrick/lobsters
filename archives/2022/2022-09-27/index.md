@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-27](index.md)
 
+* [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 * [2022-09-27, 17:28:07](https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver) - [How to create a REST API with QtHttpServer](https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver)
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)

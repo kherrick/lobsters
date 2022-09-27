@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 * [2022-09-27, 17:28:07](https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver) - [How to create a REST API with QtHttpServer](https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver)
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
@@ -14,7 +15,6 @@
 * [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
-* [2022-09-26, 19:58:21](https://lobste.rs/s/ihu777/how_much_time_do_we_waste_waiting_for) - [How much time do we waste waiting for websites to load?](https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/)
 * [2022-09-26, 17:36:13](https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language) - [Toy JS | A small compile-to-js language](https://marcellerusu.com/blog/toy-js)
 * [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:33:21](https://lobste.rs/s/kdvidx/why_async_rust) - [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
