@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-27, 07:56:29",
+      "https://lobste.rs/s/tr8kbm/go_runtime_4_years_later"
+    ],
+    [
+      "Go runtime: 4 years later",
+      "https://go.dev/blog/go119runtime"
+    ]
+  ],
+  [
+    [
+      "2022-09-27, 07:53:40",
+      "https://lobste.rs/s/sl4vv4/apalache_symbolic_model_checker_for_tla"
+    ],
+    [
+      "Apalache - Symbolic Model Checker for TLA+",
+      "https://apalache.informal.systems/"
+    ]
+  ],
+  [
+    [
       "2022-09-26, 21:56:33",
       "https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-09-26, 14:49:58",
-      "https://lobste.rs/s/fbe8xd/emu68_bare_metal_680x0_emulation_run"
-    ],
-    [
-      "Emu68: bare-metal 680x0 emulation, to run Amiga OS and AROS on Raspberry Pi",
-      "https://github.com/michalsc/Emu68"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 14:28:13",
       "https://lobste.rs/s/cfbce7/complexity_software_engineering"
     ],
@@ -197,16 +207,6 @@
     [
       "Turns are better than radians",
       "https://www.computerenhance.com/p/turns-are-better-than-radians"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 07:37:17",
-      "https://lobste.rs/s/aeppxy/messagesformacintosh_apple_imessage"
-    ],
-    [
-      "MessagesForMacintosh: An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)",
-      "https://github.com/CamHenlin/MessagesForMacintosh"
     ]
   ],
   [
