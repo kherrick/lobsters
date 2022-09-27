@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-26, 22:25:18",
-      "https://lobste.rs/s/itzm6k/httpt_probe_resistant_proxy_usenix"
-    ],
-    [
-      "HTTPT: A Probe-Resistant Proxy | USENIX",
-      "https://www.usenix.org/conference/foci20/presentation/frolov"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 21:56:33",
       "https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming"
     ],
@@ -107,6 +97,16 @@
     [
       "Why Async Rust",
       "https://blog.yoshuawuyts.com/why-async-rust/"
+    ]
+  ],
+  [
+    [
+      "2022-09-26, 15:20:26",
+      "https://lobste.rs/s/leqzv8/designing_end_end_encrypted_note_sharing"
+    ],
+    [
+      "Designing an end-to-end encrypted note sharing service",
+      "https://mcndt.dev/posts/how-to-e2e-encryption/"
     ]
   ],
   [
