@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 07:57:48](https://lobste.rs/s/vc2raw/what_not_recommend_flatpak_users) - [What Not to Recommend to Flatpak Users](https://theevilskeleton.gitlab.io/2022/09/28/what-not-to-recommend-to-flatpak-users.html)
 * [2022-09-28, 06:22:16](https://lobste.rs/s/ues7hy/plasma_mobile_gear_22_09_is_out) - [Plasma Mobile Gear  22.09 is Out](https://plasma-mobile.org/2022/09/27/plasma-mobile-gear-22-09/)
 * [2022-09-28, 05:27:27](https://lobste.rs/s/zzpzx0/introducing_pureboot_basic) - [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
