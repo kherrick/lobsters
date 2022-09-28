@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 21:42:05](https://lobste.rs/s/tpqzoc/matrix_announcing_third_room_tech) - [Matrix: Announcing Third Room Tech Preview](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1)
 * [2022-09-28, 20:43:53](https://lobste.rs/s/fxllfu/bitemporal_history) - [Bitemporal History](https://martinfowler.com/articles/bitemporal-history.html)
 * [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 * [2022-09-28, 19:11:18](https://lobste.rs/s/qx7uy5/storage_engines_efficiency_large) - [Storage engines, efficiency and large documents, rows, objects](http://smalldatum.blogspot.com/2022/09/storage-engines-efficiency-and-large.html)
