@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 14:57:58](https://lobste.rs/s/ii1va7/understanding_genstage_back_pressure) - [Understanding GenStage back-pressure mechanism](https://dev.to/dcdourado/understanding-genstage-back-pressure-mechanism-1b0i)
 * [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
 * [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
 * [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
