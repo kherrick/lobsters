@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
+* [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
 * [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
 * [2022-09-28, 13:16:34](https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time) - [Effect of Clang modules on compilation time](https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time)
 * [2022-09-28, 11:01:26](https://lobste.rs/s/h75haq/how_test_your_http_go_http_client_two) - [How to test your HTTP Go http client: Two approaches](https://youtu.be/ebEfF1wzc54)
@@ -17,14 +19,12 @@
 * [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
-* [2022-09-27, 14:48:44](https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for) - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
 * [2022-09-27, 14:18:09](https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere) - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 * [2022-09-27, 14:02:24](https://lobste.rs/s/wuxhl0/find_slow_data_processing_tasks_before) - [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
 * [2022-09-27, 13:29:41](https://lobste.rs/s/61pglt/introducing_workerd_cloudflare_s_open) - [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 * [2022-09-27, 11:29:14](https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based) - [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
 * [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
 * [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
-* [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 
 ## [Archives](archives/index.md)
 

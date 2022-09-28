@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
+* [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
 * [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
 * [2022-09-28, 13:16:34](https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time) - [Effect of Clang modules on compilation time](https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time)
 * [2022-09-28, 11:01:26](https://lobste.rs/s/h75haq/how_test_your_http_go_http_client_two) - [How to test your HTTP Go http client: Two approaches](https://youtu.be/ebEfF1wzc54)
