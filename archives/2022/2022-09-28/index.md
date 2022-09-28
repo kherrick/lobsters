@@ -4,4 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
+* [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
+* [2022-09-28, 01:04:12](https://lobste.rs/s/0d2qnt/rfc_9308_applicability_quic_transport) - [RFC 9308: Applicability of the QUIC Transport Protocol](https://www.rfc-editor.org/rfc/rfc9308.html)
 * [2022-09-28, 00:35:33](https://lobste.rs/s/6e1rf7/microspeak_break_glass) - [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
