@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-28, 17:06:25",
+      "https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming"
+    ],
+    [
+      "Why Aren't There More Programming Languages Startups?",
+      "https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 16:48:56",
+      "https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his"
+    ],
+    [
+      "Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life",
+      "https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 16:36:48",
       "https://lobste.rs/s/vxzpe3/markdown_edge"
     ],
@@ -77,16 +97,6 @@
     [
       "Effect of Clang modules on compilation time",
       "https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 11:01:26",
-      "https://lobste.rs/s/h75haq/how_test_your_http_go_http_client_two"
-    ],
-    [
-      "How to test your HTTP Go http client: Two approaches",
-      "https://youtu.be/ebEfF1wzc54"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Introducing workerd: Cloudflare's Open Source Workers runtime",
       "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 11:29:14",
-      "https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based"
-    ],
-    [
-      "Speeding Up Three.JS with Depth-Based Fragment Culling",
-      "https://cprimozic.net/blog/depth-based-fragment-culling-webgl/"
     ]
   ],
   [
