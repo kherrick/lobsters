@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-28, 18:26:23",
+      "https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go"
+    ],
+    [
+      "A Complete Guide to Working With Cookies in Go",
+      "https://www.alexedwards.net/blog/working-with-cookies-in-go"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 18:06:05",
+      "https://lobste.rs/s/wlz1sn/end_user_programming"
+    ],
+    [
+      "End-user Programming",
+      "https://www.inkandswitch.com/end-user-programming/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 17:06:25",
       "https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-09-28, 05:27:27",
-      "https://lobste.rs/s/zzpzx0/introducing_pureboot_basic"
-    ],
-    [
-      "Introducing PureBoot Basic",
-      "https://puri.sm/posts/introducing-pureboot-basic-2/"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 02:07:47",
       "https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing workerd: Cloudflare's Open Source Workers runtime",
       "https://blog.cloudflare.com/workerd-open-source-workers-runtime/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 10:22:51",
-      "https://lobste.rs/s/hf3bnm/listen_notify_automatic_client"
-    ],
-    [
-      "LISTEN / NOTIFY: Automatic client notification in PostgreSQL",
-      "https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/"
     ]
   ],
   [
