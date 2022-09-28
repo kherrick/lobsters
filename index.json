@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-28, 05:27:27",
+      "https://lobste.rs/s/zzpzx0/introducing_pureboot_basic"
+    ],
+    [
+      "Introducing PureBoot Basic",
+      "https://puri.sm/posts/introducing-pureboot-basic-2/"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 02:07:47",
       "https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures"
     ],
@@ -197,16 +207,6 @@
     [
       "Ezno:  a JavaScript compiler featuring checking, correctness and performance",
       "https://kaleidawave.github.io/posts/introducing-ezno/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 15:55:34",
-      "https://lobste.rs/s/cf4x3u/holonforth"
-    ],
-    [
-      "Holonforth",
-      "http://holonforth.com"
     ]
   ],
   [
