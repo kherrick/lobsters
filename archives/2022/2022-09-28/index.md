@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
+* [2022-09-28, 13:16:34](https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time) - [Effect of Clang modules on compilation time](https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time)
 * [2022-09-28, 11:01:26](https://lobste.rs/s/h75haq/how_test_your_http_go_http_client_two) - [How to test your HTTP Go http client: Two approaches](https://youtu.be/ebEfF1wzc54)
 * [2022-09-28, 10:10:01](https://lobste.rs/s/1kss9l/bookmarklet_remove_sticky_elements) - [Bookmarklet to Remove Sticky Elements and Restore Scrolling to Web Pages](https://github.com/t-mart/kill-sticky)
 * [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
