@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
+* [2022-09-28, 16:23:02](https://lobste.rs/s/n7lkff/haskell_production_noredink) - [Haskell in Production: NoRedInk](https://serokell.io/blog/haskell-in-production-noredink)
+* [2022-09-28, 16:19:24](https://lobste.rs/s/si8wkn/it_s_unix_system_i_know_this_highly) - [It’s a UNIX system! I know this! — A Highly Requested Tournament Report For F2F Toronto](https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878)
 * [2022-09-28, 14:57:58](https://lobste.rs/s/ii1va7/understanding_genstage_back_pressure) - [Understanding GenStage back-pressure mechanism](https://dev.to/dcdourado/understanding-genstage-back-pressure-mechanism-1b0i)
 * [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
 * [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
