@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-28, 16:36:48",
+      "https://lobste.rs/s/vxzpe3/markdown_edge"
+    ],
+    [
+      "Markdown@Edge",
+      "https://markdown-at-edge.edgecompute.app/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 16:23:02",
+      "https://lobste.rs/s/n7lkff/haskell_production_noredink"
+    ],
+    [
+      "Haskell in Production: NoRedInk",
+      "https://serokell.io/blog/haskell-in-production-noredink"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 16:19:24",
+      "https://lobste.rs/s/si8wkn/it_s_unix_system_i_know_this_highly"
+    ],
+    [
+      "It’s a UNIX system! I know this! — A Highly Requested Tournament Report For F2F Toronto",
+      "https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 14:57:58",
       "https://lobste.rs/s/ii1va7/understanding_genstage_back_pressure"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-09-28, 01:04:12",
-      "https://lobste.rs/s/0d2qnt/rfc_9308_applicability_quic_transport"
-    ],
-    [
-      "RFC 9308: Applicability of the QUIC Transport Protocol",
-      "https://www.rfc-editor.org/rfc/rfc9308.html"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 00:35:33",
       "https://lobste.rs/s/6e1rf7/microspeak_break_glass"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2022-09-27, 20:56:36",
-      "https://lobste.rs/s/hjit4p/third_room_tech_preview_released"
-    ],
-    [
-      "Third Room tech preview released",
-      "https://thirdroom.io/preview"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 20:46:36",
       "https://lobste.rs/s/brx0ed/software_engineering_tips_for_students"
     ],
     [
       "Software Engineering Tips for Students",
       "https://catball.dev/clms_swe_tips"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 18:40:47",
-      "https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read"
-    ],
-    [
-      "The 6 Books New Redis Developers Should Read",
-      "https://redis.com/blog/6-books-new-redis-developers-should-read/"
     ]
   ],
   [
