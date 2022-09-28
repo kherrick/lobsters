@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 18:26:23](https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go) - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go)
+* [2022-09-28, 18:06:05](https://lobste.rs/s/wlz1sn/end_user_programming) - [End-user Programming](https://www.inkandswitch.com/end-user-programming/)
 * [2022-09-28, 17:06:25](https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming) - [Why Aren't There More Programming Languages Startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)

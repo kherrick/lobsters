@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 18:26:23](https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go) - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go)
+* [2022-09-28, 18:06:05](https://lobste.rs/s/wlz1sn/end_user_programming) - [End-user Programming](https://www.inkandswitch.com/end-user-programming/)
 * [2022-09-28, 17:06:25](https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming) - [Why Aren't There More Programming Languages Startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
@@ -14,7 +16,6 @@
 * [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
 * [2022-09-28, 07:57:48](https://lobste.rs/s/vc2raw/what_not_recommend_flatpak_users) - [What Not to Recommend to Flatpak Users](https://theevilskeleton.gitlab.io/2022/09/28/what-not-to-recommend-to-flatpak-users.html)
 * [2022-09-28, 06:22:16](https://lobste.rs/s/ues7hy/plasma_mobile_gear_22_09_is_out) - [Plasma Mobile Gear  22.09 is Out](https://plasma-mobile.org/2022/09/27/plasma-mobile-gear-22-09/)
-* [2022-09-28, 05:27:27](https://lobste.rs/s/zzpzx0/introducing_pureboot_basic) - [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 * [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
 * [2022-09-28, 00:35:33](https://lobste.rs/s/6e1rf7/microspeak_break_glass) - [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
@@ -23,7 +24,6 @@
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
 * [2022-09-27, 14:18:09](https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere) - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
 * [2022-09-27, 13:29:41](https://lobste.rs/s/61pglt/introducing_workerd_cloudflare_s_open) - [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
-* [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
 * [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
 
 ## [Archives](archives/index.md)
