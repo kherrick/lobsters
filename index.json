@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-28, 14:41:01",
+      "https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator"
+    ],
+    [
+      "Linkal: A public-calendar aggregator server written in Rust",
+      "https://github.com/JulienMalka/Linkal"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 14:24:57",
+      "https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke"
+    ],
+    [
+      "Reconstructed source code of the game Duke Nukem II",
+      "https://github.com/lethal-guitar/Duke2Reconstructed"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 13:49:04",
       "https://lobste.rs/s/bnt9sa/4_minute_bug"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-09-27, 14:48:44",
-      "https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for"
-    ],
-    [
-      "Race Conditions Can Be Useful for Parallelism",
-      "https://shwestrick.github.io/2022/09/27/useful-races.html"
-    ]
-  ],
-  [
-    [
       "2022-09-27, 14:18:09",
       "https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere"
     ],
@@ -237,16 +247,6 @@
     [
       "Go runtime: 4 years later",
       "https://go.dev/blog/go119runtime"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 21:56:33",
-      "https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming"
-    ],
-    [
-      "Real World OCaml: Functional Programming for the Masses",
-      "https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571"
     ]
   ]
 ]
