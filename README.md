@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 23:37:37](https://lobste.rs/s/rgtjye/sphery_vs_shapes_first_raytraced_game_is) - [Sphery vs. Shapes, the first raytraced game that is not software](https://old.reddit.com/r/FPGA/comments/xqg7da/sphery_vs_shapes_the_first_raytraced_game_that_is/)
 * [2022-09-28, 20:43:53](https://lobste.rs/s/fxllfu/bitemporal_history) - [Bitemporal History](https://martinfowler.com/articles/bitemporal-history.html)
 * [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 * [2022-09-28, 19:11:18](https://lobste.rs/s/qx7uy5/storage_engines_efficiency_large) - [Storage engines, efficiency and large documents, rows, objects](http://smalldatum.blogspot.com/2022/09/storage-engines-efficiency-and-large.html)
@@ -18,7 +19,6 @@
 * [2022-09-28, 10:10:01](https://lobste.rs/s/1kss9l/bookmarklet_remove_sticky_elements) - [Bookmarklet to Remove Sticky Elements and Restore Scrolling to Web Pages](https://github.com/t-mart/kill-sticky)
 * [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
 * [2022-09-28, 07:57:48](https://lobste.rs/s/vc2raw/what_not_recommend_flatpak_users) - [What Not to Recommend to Flatpak Users](https://theevilskeleton.gitlab.io/2022/09/28/what-not-to-recommend-to-flatpak-users.html)
-* [2022-09-28, 06:22:16](https://lobste.rs/s/ues7hy/plasma_mobile_gear_22_09_is_out) - [Plasma Mobile Gear  22.09 is Out](https://plasma-mobile.org/2022/09/27/plasma-mobile-gear-22-09/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 * [2022-09-28, 00:35:33](https://lobste.rs/s/6e1rf7/microspeak_break_glass) - [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
 * [2022-09-27, 20:46:36](https://lobste.rs/s/brx0ed/software_engineering_tips_for_students) - [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)

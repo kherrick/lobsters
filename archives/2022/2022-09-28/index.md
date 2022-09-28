@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 23:37:37](https://lobste.rs/s/rgtjye/sphery_vs_shapes_first_raytraced_game_is) - [Sphery vs. Shapes, the first raytraced game that is not software](https://old.reddit.com/r/FPGA/comments/xqg7da/sphery_vs_shapes_the_first_raytraced_game_that_is/)
 * [2022-09-28, 21:42:05](https://lobste.rs/s/tpqzoc/matrix_announcing_third_room_tech) - [Matrix: Announcing Third Room Tech Preview](https://matrix.org/blog/2022/09/27/announcing-third-room-tech-preview-1)
 * [2022-09-28, 20:43:53](https://lobste.rs/s/fxllfu/bitemporal_history) - [Bitemporal History](https://martinfowler.com/articles/bitemporal-history.html)
 * [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
