@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 20:43:53](https://lobste.rs/s/fxllfu/bitemporal_history) - [Bitemporal History](https://martinfowler.com/articles/bitemporal-history.html)
 * [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 * [2022-09-28, 19:11:18](https://lobste.rs/s/qx7uy5/storage_engines_efficiency_large) - [Storage engines, efficiency and large documents, rows, objects](http://smalldatum.blogspot.com/2022/09/storage-engines-efficiency-and-large.html)
 * [2022-09-28, 18:26:23](https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go) - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go)
@@ -24,7 +25,6 @@
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 * [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
 * [2022-09-27, 14:18:09](https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere) - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-* [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
 
 ## [Archives](archives/index.md)
 
