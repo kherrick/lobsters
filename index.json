@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-28, 00:35:33",
+      "https://lobste.rs/s/6e1rf7/microspeak_break_glass"
+    ],
+    [
+      "Microspeak: Break glass",
+      "https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217"
+    ]
+  ],
+  [
+    [
       "2022-09-27, 20:56:36",
       "https://lobste.rs/s/hjit4p/third_room_tech_preview_released"
     ],
@@ -167,16 +177,6 @@
     [
       "Ezno:  a JavaScript compiler featuring checking, correctness and performance",
       "https://kaleidawave.github.io/posts/introducing-ezno/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 17:36:13",
-      "https://lobste.rs/s/ozbxc4/toy_js_small_compile_js_language"
-    ],
-    [
-      "Toy JS | A small compile-to-js language",
-      "https://marcellerusu.com/blog/toy-js"
     ]
   ],
   [
