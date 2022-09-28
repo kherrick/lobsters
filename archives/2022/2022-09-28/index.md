@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 11:01:26](https://lobste.rs/s/h75haq/how_test_your_http_go_http_client_two) - [How to test your HTTP Go http client: Two approaches](https://youtu.be/ebEfF1wzc54)
 * [2022-09-28, 10:10:01](https://lobste.rs/s/1kss9l/bookmarklet_remove_sticky_elements) - [Bookmarklet to Remove Sticky Elements and Restore Scrolling to Web Pages](https://github.com/t-mart/kill-sticky)
 * [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
 * [2022-09-28, 07:57:48](https://lobste.rs/s/vc2raw/what_not_recommend_flatpak_users) - [What Not to Recommend to Flatpak Users](https://theevilskeleton.gitlab.io/2022/09/28/what-not-to-recommend-to-flatpak-users.html)
