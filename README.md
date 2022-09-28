@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 19:11:18](https://lobste.rs/s/qx7uy5/storage_engines_efficiency_large) - [Storage engines, efficiency and large documents, rows, objects](http://smalldatum.blogspot.com/2022/09/storage-engines-efficiency-and-large.html)
 * [2022-09-28, 18:26:23](https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go) - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go)
 * [2022-09-28, 18:06:05](https://lobste.rs/s/wlz1sn/end_user_programming) - [End-user Programming](https://www.inkandswitch.com/end-user-programming/)
 * [2022-09-28, 17:06:25](https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming) - [Why Aren't There More Programming Languages Startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
@@ -17,7 +18,6 @@
 * [2022-09-28, 07:57:48](https://lobste.rs/s/vc2raw/what_not_recommend_flatpak_users) - [What Not to Recommend to Flatpak Users](https://theevilskeleton.gitlab.io/2022/09/28/what-not-to-recommend-to-flatpak-users.html)
 * [2022-09-28, 06:22:16](https://lobste.rs/s/ues7hy/plasma_mobile_gear_22_09_is_out) - [Plasma Mobile Gear  22.09 is Out](https://plasma-mobile.org/2022/09/27/plasma-mobile-gear-22-09/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
-* [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
 * [2022-09-28, 00:35:33](https://lobste.rs/s/6e1rf7/microspeak_break_glass) - [Microspeak: Break glass](https://devblogs.microsoft.com/oldnewthing/20220927-00/?p=107217)
 * [2022-09-27, 20:46:36](https://lobste.rs/s/brx0ed/software_engineering_tips_for_students) - [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
 * [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
