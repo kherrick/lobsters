@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-09-28, 02:07:47",
+      "https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures"
+    ],
+    [
+      "Making python fast for free: adventures with mypyc",
+      "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 02:06:25",
+      "https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker"
+    ],
+    [
+      "Ignite: Firecracker MicroVMs with Docker images",
+      "https://github.com/weaveworks/ignite"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 01:04:12",
+      "https://lobste.rs/s/0d2qnt/rfc_9308_applicability_quic_transport"
+    ],
+    [
+      "RFC 9308: Applicability of the QUIC Transport Protocol",
+      "https://www.rfc-editor.org/rfc/rfc9308.html"
+    ]
+  ],
+  [
+    [
       "2022-09-28, 00:35:33",
       "https://lobste.rs/s/6e1rf7/microspeak_break_glass"
     ],
@@ -47,16 +77,6 @@
     [
       "Named Element IDs Can Be Referenced as JavaScript Globals",
       "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 17:28:07",
-      "https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver"
-    ],
-    [
-      "How to create a REST API with QtHttpServer",
-      "https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-09-26, 15:55:34",
-      "https://lobste.rs/s/cf4x3u/holonforth"
-    ],
-    [
-      "Holonforth",
-      "http://holonforth.com"
-    ]
-  ],
-  [
-    [
       "2022-09-26, 15:33:21",
       "https://lobste.rs/s/kdvidx/why_async_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "Have I Been Sqautted — free DNS typosquatting platform",
       "https://haveibeensquatted.com/"
-    ]
-  ],
-  [
-    [
-      "2022-09-26, 09:14:42",
-      "https://lobste.rs/s/hzhyrl/some_google_photos_users_finding_old"
-    ],
-    [
-      "Some Google Photos users finding that old images have been 'corrupted'",
-      "https://9to5google.com/2022/09/25/google-photos-corrupted/"
     ]
   ],
   [
