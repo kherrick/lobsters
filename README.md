@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 06:22:16](https://lobste.rs/s/ues7hy/plasma_mobile_gear_22_09_is_out) - [Plasma Mobile Gear  22.09 is Out](https://plasma-mobile.org/2022/09/27/plasma-mobile-gear-22-09/)
 * [2022-09-28, 05:27:27](https://lobste.rs/s/zzpzx0/introducing_pureboot_basic) - [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 * [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
@@ -17,7 +18,6 @@
 * [2022-09-27, 11:29:14](https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based) - [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
 * [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
 * [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
-* [2022-09-27, 07:53:40](https://lobste.rs/s/sl4vv4/apalache_symbolic_model_checker_for_tla) - [Apalache - Symbolic Model Checker for TLA+](https://apalache.informal.systems/)
 * [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
