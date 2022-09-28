@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-28](index.md)
 
+* [2022-09-28, 05:27:27](https://lobste.rs/s/zzpzx0/introducing_pureboot_basic) - [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 * [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
 * [2022-09-28, 01:04:12](https://lobste.rs/s/0d2qnt/rfc_9308_applicability_quic_transport) - [RFC 9308: Applicability of the QUIC Transport Protocol](https://www.rfc-editor.org/rfc/rfc9308.html)

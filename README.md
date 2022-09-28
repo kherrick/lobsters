@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-28, 05:27:27](https://lobste.rs/s/zzpzx0/introducing_pureboot_basic) - [Introducing PureBoot Basic](https://puri.sm/posts/introducing-pureboot-basic-2/)
 * [2022-09-28, 02:07:47](https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures) - [Making python fast for free: adventures with mypyc](https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/)
 * [2022-09-28, 02:06:25](https://lobste.rs/s/cc8hen/ignite_firecracker_microvms_with_docker) - [Ignite: Firecracker MicroVMs with Docker images](https://github.com/weaveworks/ignite)
 * [2022-09-28, 01:04:12](https://lobste.rs/s/0d2qnt/rfc_9308_applicability_quic_transport) - [RFC 9308: Applicability of the QUIC Transport Protocol](https://www.rfc-editor.org/rfc/rfc9308.html)
@@ -20,7 +21,6 @@
 * [2022-09-26, 21:56:33](https://lobste.rs/s/mhg1fm/real_world_ocaml_functional_programming) - [Real World OCaml: Functional Programming for the Masses](https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571)
 * [2022-09-26, 21:48:01](https://lobste.rs/s/wkpfvy/internet_nl_test_for_modern_internet) - [Internet.nl: test for modern Internet Standards](https://internet.nl/)
 * [2022-09-26, 20:01:10](https://lobste.rs/s/wpvzct/ezno_javascript_compiler_featuring) - [Ezno:  a JavaScript compiler featuring checking, correctness and performance](https://kaleidawave.github.io/posts/introducing-ezno/)
-* [2022-09-26, 15:55:34](https://lobste.rs/s/cf4x3u/holonforth) - [Holonforth](http://holonforth.com)
 * [2022-09-26, 15:33:21](https://lobste.rs/s/kdvidx/why_async_rust) - [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/)
 * [2022-09-26, 15:02:36](https://lobste.rs/s/k719vs/have_i_been_sqautted_free_dns) - [Have I Been Sqautted — free DNS typosquatting platform](https://haveibeensquatted.com/)
 * [2022-09-26, 08:27:00](https://lobste.rs/s/wwzmhx/turns_are_better_than_radians) - [Turns are better than radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
