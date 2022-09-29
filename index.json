@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 20:35:59",
+      "https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change"
+    ],
+    [
+      "I did that merge-as-cherry-pick thing, but my change still didn't merge correctly",
+      "https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 19:55:09",
       "https://lobste.rs/s/rg8chp/age_authenticated_encryption"
     ],
@@ -177,16 +187,6 @@
     [
       "Production Tips for Django Apps",
       "https://raunaqss.com/engineering/django-production-tips/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 20:43:53",
-      "https://lobste.rs/s/fxllfu/bitemporal_history"
-    ],
-    [
-      "Bitemporal History",
-      "https://martinfowler.com/articles/bitemporal-history.html"
     ]
   ],
   [
