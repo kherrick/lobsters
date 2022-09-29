@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 22:21:52",
+      "https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock"
+    ],
+    [
+      "Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model",
+      "https://simonwillison.net/2022/Sep/29/webvid/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 22:05:25",
       "https://lobste.rs/s/yhgxwa/maps_memory_leaks_go"
     ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2022-09-29, 19:39:34",
-      "https://lobste.rs/s/4pxari/practically_exploitable_cryptographic"
-    ],
-    [
-      "Practically-exploitable Cryptographic Vulnerabilities in Matrix",
-      "https://nebuchadnezzar-megolm.github.io/static/paper.pdf"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 19:35:27",
       "https://lobste.rs/s/2xen71/pdfgrep_commandline_utility_search_text"
     ],
     [
       "pdfgrep - a commandline utility to search text in PDF files",
       "https://gitlab.com/pdfgrep/pdfgrep"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 19:28:52",
-      "https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing"
-    ],
-    [
-      "Metalens: Live Programming and Visualizing eBPF",
-      "https://github.com/nbaksalyar/metalens"
     ]
   ],
   [
@@ -111,6 +101,26 @@
   ],
   [
     [
+      "2022-09-29, 19:04:17",
+      "https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy"
+    ],
+    [
+      "Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA",
+      "https://blog.cloudflare.com/turnstile-private-captcha-alternative/"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 17:40:18",
+      "https://lobste.rs/s/0iribv/china_s_phytium_d2000_building_on_a72"
+    ],
+    [
+      "China’s Phytium D2000: Building on A72?",
+      "https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 16:58:58",
       "https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp"
     ],
@@ -127,16 +137,6 @@
     [
       "The appeal of small computers",
       "https://andregarzia.com/2022/09/The-appeal-of-small-computers.html"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 16:33:42",
-      "https://lobste.rs/s/mrfvdt/make_video_text_video_conversion_by_meta"
-    ],
-    [
-      "Make-A-Video: Text to Video Conversion by Meta AI",
-      "https://makeavideo.studio/"
     ]
   ],
   [
