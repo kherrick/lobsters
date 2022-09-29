@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 22:05:25",
+      "https://lobste.rs/s/yhgxwa/maps_memory_leaks_go"
+    ],
+    [
+      "Maps and Memory Leaks in Go",
+      "https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 21:01:41",
       "https://lobste.rs/s/t4aeen/announcing_icu4x_1_0"
     ],
@@ -197,16 +207,6 @@
     [
       "Production Tips for Django Apps",
       "https://raunaqss.com/engineering/django-production-tips/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 20:25:32",
-      "https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic"
-    ],
-    [
-      "Practically-exploitable Cryptographic Vulnerabilities in Matrix",
-      "https://nebuchadnezzar-megolm.github.io/"
     ]
   ],
   [
