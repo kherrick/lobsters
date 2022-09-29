@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 14:30:25](https://lobste.rs/s/imsmln/dependent_types_typescript_seriously) - [Dependent Types in TypeScript, Seriously (2021)](https://www.hacklewayne.com/dependent-types-in-typescript-seriously)
+* [2022-09-29, 14:15:27](https://lobste.rs/s/2ucwhp/rolling_alice_ai_software_architect) - [Rolling Alice (AI software architect)](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_architecting_alice)
 * [2022-09-29, 11:47:57](https://lobste.rs/s/rojd22/pizauth_oauth2_token_requester_daemon) - [pizauth, an OAuth2 token requester daemon, in alpha](https://tratt.net/laurie/blog/2022/pizauth_oauth_authenticator_alpha.html)
 * [2022-09-29, 11:02:39](https://lobste.rs/s/qrjggw/help_heroku_s_free_tier_is_ending) - [Help! Heroku's free tier is ending](https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/)
 * [2022-09-29, 10:08:29](https://lobste.rs/s/oradyx/python_packaging_user_survey) - [Python Packaging User Survey](https://www.surveymonkey.co.uk/r/M5XKQCT)
