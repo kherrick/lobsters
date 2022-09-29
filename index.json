@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-09-29, 19:04:17",
-      "https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy"
-    ],
-    [
-      "Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA",
-      "https://blog.cloudflare.com/turnstile-private-captcha-alternative/"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 16:58:58",
       "https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp"
     ],
@@ -207,6 +197,16 @@
     [
       "Production Tips for Django Apps",
       "https://raunaqss.com/engineering/django-production-tips/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 20:25:32",
+      "https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic"
+    ],
+    [
+      "Practically-exploitable Cryptographic Vulnerabilities in Matrix",
+      "https://nebuchadnezzar-megolm.github.io/"
     ]
   ],
   [
