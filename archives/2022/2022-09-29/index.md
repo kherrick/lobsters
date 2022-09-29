@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-09-29](index.md)
+
+* [2022-09-29, 03:24:21](https://lobste.rs/s/2kmzni/production_tips_for_django_apps) - [Production Tips for Django Apps](https://raunaqss.com/engineering/django-production-tips/)
