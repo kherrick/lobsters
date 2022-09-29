@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 15:49:54](https://lobste.rs/s/meocjr/another_tale_ibm_i_as_400_hacking) - [Another Tale of IBM i (AS/400) Hacking](https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/)
 * [2022-09-29, 14:30:25](https://lobste.rs/s/imsmln/dependent_types_typescript_seriously) - [Dependent Types in TypeScript, Seriously (2021)](https://www.hacklewayne.com/dependent-types-in-typescript-seriously)
 * [2022-09-29, 14:15:27](https://lobste.rs/s/2ucwhp/rolling_alice_ai_software_architect) - [Rolling Alice (AI software architect)](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_architecting_alice)
 * [2022-09-29, 10:08:29](https://lobste.rs/s/oradyx/python_packaging_user_survey) - [Python Packaging User Survey](https://www.surveymonkey.co.uk/r/M5XKQCT)
@@ -12,7 +13,6 @@
 * [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 * [2022-09-28, 19:11:18](https://lobste.rs/s/qx7uy5/storage_engines_efficiency_large) - [Storage engines, efficiency and large documents, rows, objects](http://smalldatum.blogspot.com/2022/09/storage-engines-efficiency-and-large.html)
 * [2022-09-28, 18:26:23](https://lobste.rs/s/fsnmgd/complete_guide_working_with_cookies_go) - [A Complete Guide to Working With Cookies in Go](https://www.alexedwards.net/blog/working-with-cookies-in-go)
-* [2022-09-28, 18:06:05](https://lobste.rs/s/wlz1sn/end_user_programming) - [End-user Programming](https://www.inkandswitch.com/end-user-programming/)
 * [2022-09-28, 17:06:25](https://lobste.rs/s/hfwxsh/why_aren_t_there_more_programming) - [Why Aren't There More Programming Languages Startups?](https://www.akitasoftware.com/blog-posts/why-arent-there-more-programming-languages-startups)
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
