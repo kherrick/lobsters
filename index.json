@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 21:01:41",
+      "https://lobste.rs/s/t4aeen/announcing_icu4x_1_0"
+    ],
+    [
+      "Announcing ICU4X 1.0",
+      "https://blog.unicode.org/2022/09/announcing-icu4x-10.html"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 20:35:59",
       "https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change"
     ],
@@ -197,16 +207,6 @@
     [
       "Production Tips for Django Apps",
       "https://raunaqss.com/engineering/django-production-tips/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 20:25:32",
-      "https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic"
-    ],
-    [
-      "Practically-exploitable Cryptographic Vulnerabilities in Matrix",
-      "https://nebuchadnezzar-megolm.github.io/"
     ]
   ],
   [
