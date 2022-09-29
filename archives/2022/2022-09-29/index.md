@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 11:02:39](https://lobste.rs/s/qrjggw/help_heroku_s_free_tier_is_ending) - [Help! Heroku's free tier is ending](https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/)
 * [2022-09-29, 10:08:29](https://lobste.rs/s/oradyx/python_packaging_user_survey) - [Python Packaging User Survey](https://www.surveymonkey.co.uk/r/M5XKQCT)
 * [2022-09-29, 08:00:26](https://lobste.rs/s/rtrup5/notes_on_screenspace_reflections_with) - [Notes on screenspace reflections with FidelityFX SSSR](https://interplayoflight.wordpress.com/2022/09/28/notes-on-screenspace-reflections-with-fidelityfx-sssr/)
 * [2022-09-29, 06:30:16](https://lobste.rs/s/rp4vn4/introduction_theory_programming) - [Introduction to the Theory of Programming Languages (1991) now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
