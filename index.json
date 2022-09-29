@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-29, 11:02:39",
+      "https://lobste.rs/s/qrjggw/help_heroku_s_free_tier_is_ending"
+    ],
+    [
+      "Help! Heroku's free tier is ending",
+      "https://www.reaktor.com/blog/how-to-deal-with-life-after-heroku/"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 10:08:29",
       "https://lobste.rs/s/oradyx/python_packaging_user_survey"
     ],
@@ -197,16 +207,6 @@
     [
       "The 4 Minute Bug",
       "https://kinduff.com/2022/09/28/the-4-minute-bug/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 13:16:34",
-      "https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time"
-    ],
-    [
-      "Effect of Clang modules on compilation time",
-      "https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time"
     ]
   ],
   [
