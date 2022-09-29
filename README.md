@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
+* [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 * [2022-09-29, 16:33:42](https://lobste.rs/s/mrfvdt/make_video_text_video_conversion_by_meta) - [Make-A-Video: Text to Video Conversion by Meta AI](https://makeavideo.studio/)
 * [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)
 * [2022-09-29, 16:09:01](https://lobste.rs/s/4rgnps/ello_lc1_2mm_thin_diy_computer_based_on) - [ELLO LC1 - A 2mm thin DIY \"computer\" based on Microchip PIC18 8-bit MCU](https://www.cnx-software.com/2022/09/29/ello-lc1-credit-card-8-bit-diy-computer-2mm-thin/)
@@ -19,12 +21,10 @@
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
 * [2022-09-28, 16:23:02](https://lobste.rs/s/n7lkff/haskell_production_noredink) - [Haskell in Production: NoRedInk](https://serokell.io/blog/haskell-in-production-noredink)
-* [2022-09-28, 16:19:24](https://lobste.rs/s/si8wkn/it_s_unix_system_i_know_this_highly) - [It’s a UNIX system! I know this! — A Highly Requested Tournament Report For F2F Toronto](https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878)
 * [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
 * [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
 * [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
 * [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
-* [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
 
 ## [Archives](archives/index.md)
 

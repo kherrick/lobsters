@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
+* [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 * [2022-09-29, 16:33:42](https://lobste.rs/s/mrfvdt/make_video_text_video_conversion_by_meta) - [Make-A-Video: Text to Video Conversion by Meta AI](https://makeavideo.studio/)
 * [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)
 * [2022-09-29, 16:09:01](https://lobste.rs/s/4rgnps/ello_lc1_2mm_thin_diy_computer_based_on) - [ELLO LC1 - A 2mm thin DIY \"computer\" based on Microchip PIC18 8-bit MCU](https://www.cnx-software.com/2022/09/29/ello-lc1-credit-card-8-bit-diy-computer-2mm-thin/)
