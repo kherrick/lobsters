@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 22:05:25](https://lobste.rs/s/yhgxwa/maps_memory_leaks_go) - [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
 * [2022-09-29, 21:01:41](https://lobste.rs/s/t4aeen/announcing_icu4x_1_0) - [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
 * [2022-09-29, 20:35:59](https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change) - [I did that merge-as-cherry-pick thing, but my change still didn't merge correctly](https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
