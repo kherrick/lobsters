@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-29, 06:30:16",
+      "https://lobste.rs/s/rp4vn4/introduction_theory_programming"
+    ],
+    [
+      "Introduction to the Theory of Programming Languages (1991) now freely available",
+      "https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/"
+    ]
+  ],
+  [
+    [
+      "2022-09-29, 06:20:05",
+      "https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion"
+    ],
+    [
+      "Facts about State Machines: I hold the opinion that state machines are underrated",
+      "https://github.com/cpressey/Facts-about-State-Machines"
+    ]
+  ],
+  [
+    [
       "2022-09-29, 03:24:21",
       "https://lobste.rs/s/2kmzni/production_tips_for_django_apps"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-09-28, 02:07:47",
-      "https://lobste.rs/s/yuj0dg/making_python_fast_for_free_adventures"
-    ],
-    [
-      "Making python fast for free: adventures with mypyc",
-      "https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/"
-    ]
-  ],
-  [
-    [
       "2022-09-28, 00:35:33",
       "https://lobste.rs/s/6e1rf7/microspeak_break_glass"
     ],
@@ -237,16 +247,6 @@
     [
       "Bash 5.2 released",
       "https://lwn.net/Articles/909596/"
-    ]
-  ],
-  [
-    [
-      "2022-09-27, 14:18:09",
-      "https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere"
-    ],
-    [
-      "58 bytes of CSS to look great nearly everywhere",
-      "https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41"
     ]
   ]
 ]
