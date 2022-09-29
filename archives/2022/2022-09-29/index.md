@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 19:39:34](https://lobste.rs/s/4pxari/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/static/paper.pdf)
+* [2022-09-29, 19:35:27](https://lobste.rs/s/2xen71/pdfgrep_commandline_utility_search_text) - [pdfgrep - a commandline utility to search text in PDF files](https://gitlab.com/pdfgrep/pdfgrep)
 * [2022-09-29, 19:28:52](https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing) - [Metalens: Live Programming and Visualizing eBPF](https://github.com/nbaksalyar/metalens)
 * [2022-09-29, 19:14:39](https://lobste.rs/s/unxjqp/final_space_sweet_path_torrent) - [Final Space and the (sweet) path to the Torrent](https://apogliaghi.com/2022/09/final-space-and-the-sweet-path-to-the-torrent/)
 * [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)

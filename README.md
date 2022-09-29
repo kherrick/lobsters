@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 19:39:34](https://lobste.rs/s/4pxari/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/static/paper.pdf)
+* [2022-09-29, 19:35:27](https://lobste.rs/s/2xen71/pdfgrep_commandline_utility_search_text) - [pdfgrep - a commandline utility to search text in PDF files](https://gitlab.com/pdfgrep/pdfgrep)
 * [2022-09-29, 19:28:52](https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing) - [Metalens: Live Programming and Visualizing eBPF](https://github.com/nbaksalyar/metalens)
 * [2022-09-29, 19:14:39](https://lobste.rs/s/unxjqp/final_space_sweet_path_torrent) - [Final Space and the (sweet) path to the Torrent](https://apogliaghi.com/2022/09/final-space-and-the-sweet-path-to-the-torrent/)
 * [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
@@ -13,7 +15,6 @@
 * [2022-09-29, 16:09:01](https://lobste.rs/s/4rgnps/ello_lc1_2mm_thin_diy_computer_based_on) - [ELLO LC1 - A 2mm thin DIY \"computer\" based on Microchip PIC18 8-bit MCU](https://www.cnx-software.com/2022/09/29/ello-lc1-credit-card-8-bit-diy-computer-2mm-thin/)
 * [2022-09-29, 16:05:36](https://lobste.rs/s/ny8gjz/new_integer_types_i_d_like_see) - [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
 * [2022-09-29, 15:49:54](https://lobste.rs/s/meocjr/another_tale_ibm_i_as_400_hacking) - [Another Tale of IBM i (AS/400) Hacking](https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/)
-* [2022-09-29, 10:08:29](https://lobste.rs/s/oradyx/python_packaging_user_survey) - [Python Packaging User Survey](https://www.surveymonkey.co.uk/r/M5XKQCT)
 * [2022-09-29, 06:30:16](https://lobste.rs/s/rp4vn4/introduction_theory_programming) - [Introduction to the Theory of Programming Languages (1991) now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 * [2022-09-29, 03:24:21](https://lobste.rs/s/2kmzni/production_tips_for_django_apps) - [Production Tips for Django Apps](https://raunaqss.com/engineering/django-production-tips/)
@@ -24,7 +25,6 @@
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
 * [2022-09-28, 16:23:02](https://lobste.rs/s/n7lkff/haskell_production_noredink) - [Haskell in Production: NoRedInk](https://serokell.io/blog/haskell-in-production-noredink)
 * [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
-* [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
 
 ## [Archives](archives/index.md)
 
