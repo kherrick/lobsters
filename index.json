@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-09-29, 11:47:57",
-      "https://lobste.rs/s/rojd22/pizauth_oauth2_token_requester_daemon"
-    ],
-    [
-      "pizauth, an OAuth2 token requester daemon, in alpha",
-      "https://tratt.net/laurie/blog/2022/pizauth_oauth_authenticator_alpha.html"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 10:08:29",
       "https://lobste.rs/s/oradyx/python_packaging_user_survey"
     ],
@@ -207,6 +197,16 @@
     [
       "The 4 Minute Bug",
       "https://kinduff.com/2022/09/28/the-4-minute-bug/"
+    ]
+  ],
+  [
+    [
+      "2022-09-28, 13:16:34",
+      "https://lobste.rs/s/kwqent/effect_clang_modules_on_compilation_time"
+    ],
+    [
+      "Effect of Clang modules on compilation time",
+      "https://observablehq.com/@vsapsai/effect-of-clang-modules-on-compilation-time"
     ]
   ],
   [
