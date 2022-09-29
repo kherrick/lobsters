@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 19:28:52](https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing) - [Metalens: Live Programming and Visualizing eBPF](https://github.com/nbaksalyar/metalens)
+* [2022-09-29, 19:14:39](https://lobste.rs/s/unxjqp/final_space_sweet_path_torrent) - [Final Space and the (sweet) path to the Torrent](https://apogliaghi.com/2022/09/final-space-and-the-sweet-path-to-the-torrent/)
 * [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 * [2022-09-29, 19:04:56](https://lobste.rs/s/3mcxdo/weston_11_0_what_s_new_what_s_next) - [Weston 11.0: what's new, what's next](https://www.collabora.com/news-and-blog/news-and-events/weston-11-whats-new-whats-next.html)
 * [2022-09-29, 19:04:17](https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy) - [Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
