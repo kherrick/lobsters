@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 21:01:41](https://lobste.rs/s/t4aeen/announcing_icu4x_1_0) - [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
 * [2022-09-29, 20:35:59](https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change) - [I did that merge-as-cherry-pick thing, but my change still didn't merge correctly](https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
@@ -20,7 +21,6 @@
 * [2022-09-29, 06:30:16](https://lobste.rs/s/rp4vn4/introduction_theory_programming) - [Introduction to the Theory of Programming Languages (1991) now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 * [2022-09-29, 03:24:21](https://lobste.rs/s/2kmzni/production_tips_for_django_apps) - [Production Tips for Django Apps](https://raunaqss.com/engineering/django-production-tips/)
-* [2022-09-28, 20:25:32](https://lobste.rs/s/fmhcks/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
 * [2022-09-28, 16:23:02](https://lobste.rs/s/n7lkff/haskell_production_noredink) - [Haskell in Production: NoRedInk](https://serokell.io/blog/haskell-in-production-noredink)
