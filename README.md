@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
+* [2022-09-29, 19:04:56](https://lobste.rs/s/3mcxdo/weston_11_0_what_s_new_what_s_next) - [Weston 11.0: what's new, what's next](https://www.collabora.com/news-and-blog/news-and-events/weston-11-whats-new-whats-next.html)
+* [2022-09-29, 19:04:17](https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy) - [Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
 * [2022-09-29, 17:40:18](https://lobste.rs/s/0iribv/china_s_phytium_d2000_building_on_a72) - [China’s Phytium D2000: Building on A72?](https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/)
 * [2022-09-29, 17:27:07](https://lobste.rs/s/um7kag/microreboot_technique_for_cheap) - [Microreboot – A Technique for Cheap Recovery (2004)](https://csis.pace.edu/~marchese/CS865/Papers/candea_microreboot.pdf)
 * [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
@@ -10,7 +13,6 @@
 * [2022-09-29, 16:05:36](https://lobste.rs/s/ny8gjz/new_integer_types_i_d_like_see) - [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
 * [2022-09-29, 15:49:54](https://lobste.rs/s/meocjr/another_tale_ibm_i_as_400_hacking) - [Another Tale of IBM i (AS/400) Hacking](https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/)
 * [2022-09-29, 14:30:25](https://lobste.rs/s/imsmln/dependent_types_typescript_seriously) - [Dependent Types in TypeScript, Seriously (2021)](https://www.hacklewayne.com/dependent-types-in-typescript-seriously)
-* [2022-09-29, 14:15:27](https://lobste.rs/s/2ucwhp/rolling_alice_ai_software_architect) - [Rolling Alice (AI software architect)](https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_architecting_alice)
 * [2022-09-29, 10:08:29](https://lobste.rs/s/oradyx/python_packaging_user_survey) - [Python Packaging User Survey](https://www.surveymonkey.co.uk/r/M5XKQCT)
 * [2022-09-29, 06:30:16](https://lobste.rs/s/rp4vn4/introduction_theory_programming) - [Introduction to the Theory of Programming Languages (1991) now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
@@ -22,9 +24,7 @@
 * [2022-09-28, 16:36:48](https://lobste.rs/s/vxzpe3/markdown_edge) - [Markdown@Edge](https://markdown-at-edge.edgecompute.app/)
 * [2022-09-28, 16:23:02](https://lobste.rs/s/n7lkff/haskell_production_noredink) - [Haskell in Production: NoRedInk](https://serokell.io/blog/haskell-in-production-noredink)
 * [2022-09-28, 14:41:01](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator) - [Linkal: A public-calendar aggregator server written in Rust](https://github.com/JulienMalka/Linkal)
-* [2022-09-28, 14:24:57](https://lobste.rs/s/dmz2o0/reconstructed_source_code_game_duke) - [Reconstructed source code of the game Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed)
 * [2022-09-28, 13:49:04](https://lobste.rs/s/bnt9sa/4_minute_bug) - [The 4 Minute Bug](https://kinduff.com/2022/09/28/the-4-minute-bug/)
-* [2022-09-28, 09:53:56](https://lobste.rs/s/rxrr2q/proposal_for_flexible_composable_libre) - [A Proposal for a Flexible, Composable, Libre Desktop Environment](https://mmcthrow-musings.blogspot.com/2020/04/a-proposal-for-flexible-composable.html)
 
 ## [Archives](archives/index.md)
 
