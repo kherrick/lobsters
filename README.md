@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 19:39:34](https://lobste.rs/s/4pxari/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/static/paper.pdf)
 * [2022-09-29, 19:35:27](https://lobste.rs/s/2xen71/pdfgrep_commandline_utility_search_text) - [pdfgrep - a commandline utility to search text in PDF files](https://gitlab.com/pdfgrep/pdfgrep)
 * [2022-09-29, 19:28:52](https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing) - [Metalens: Live Programming and Visualizing eBPF](https://github.com/nbaksalyar/metalens)
@@ -8,7 +9,6 @@
 * [2022-09-29, 19:04:56](https://lobste.rs/s/3mcxdo/weston_11_0_what_s_new_what_s_next) - [Weston 11.0: what's new, what's next](https://www.collabora.com/news-and-blog/news-and-events/weston-11-whats-new-whats-next.html)
 * [2022-09-29, 19:04:17](https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy) - [Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
 * [2022-09-29, 17:40:18](https://lobste.rs/s/0iribv/china_s_phytium_d2000_building_on_a72) - [China’s Phytium D2000: Building on A72?](https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/)
-* [2022-09-29, 17:27:07](https://lobste.rs/s/um7kag/microreboot_technique_for_cheap) - [Microreboot – A Technique for Cheap Recovery (2004)](https://csis.pace.edu/~marchese/CS865/Papers/candea_microreboot.pdf)
 * [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 * [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)

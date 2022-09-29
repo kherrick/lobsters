@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 19:39:34](https://lobste.rs/s/4pxari/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/static/paper.pdf)
 * [2022-09-29, 19:35:27](https://lobste.rs/s/2xen71/pdfgrep_commandline_utility_search_text) - [pdfgrep - a commandline utility to search text in PDF files](https://gitlab.com/pdfgrep/pdfgrep)
 * [2022-09-29, 19:28:52](https://lobste.rs/s/1axq7i/metalens_live_programming_visualizing) - [Metalens: Live Programming and Visualizing eBPF](https://github.com/nbaksalyar/metalens)
