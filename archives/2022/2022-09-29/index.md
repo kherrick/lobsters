@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 17:40:18](https://lobste.rs/s/0iribv/china_s_phytium_d2000_building_on_a72) - [China’s Phytium D2000: Building on A72?](https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/)
+* [2022-09-29, 17:27:07](https://lobste.rs/s/um7kag/microreboot_technique_for_cheap) - [Microreboot – A Technique for Cheap Recovery (2004)](https://csis.pace.edu/~marchese/CS865/Papers/candea_microreboot.pdf)
 * [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 * [2022-09-29, 16:33:42](https://lobste.rs/s/mrfvdt/make_video_text_video_conversion_by_meta) - [Make-A-Video: Text to Video Conversion by Meta AI](https://makeavideo.studio/)
