@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-29](index.md)
 
+* [2022-09-29, 20:35:59](https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change) - [I did that merge-as-cherry-pick thing, but my change still didn't merge correctly](https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 19:39:34](https://lobste.rs/s/4pxari/practically_exploitable_cryptographic) - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/static/paper.pdf)
