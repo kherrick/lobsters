@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-30](index.md)
 
+* [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
 * [2022-09-30, 07:51:34](https://lobste.rs/s/hu2ebq/static_program_analysis) - [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 * [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
