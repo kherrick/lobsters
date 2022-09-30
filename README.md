@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-30, 17:07:35](https://lobste.rs/s/m4z0wx/building_advanced_sql_search_from_user) - [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 * [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
 * [2022-09-30, 15:18:04](https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data) - [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
 * [2022-09-30, 14:14:18](https://lobste.rs/s/wmstzf/how_fix_ancient_gdb_problem) - [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/060e5ff1ced271dc/)
@@ -11,7 +12,6 @@
 * [2022-09-30, 07:51:34](https://lobste.rs/s/hu2ebq/static_program_analysis) - [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 * [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
-* [2022-09-30, 00:25:53](https://lobste.rs/s/4vv3cp/rust_wrapper_for_linux_kernel_as_library) - [Rust wrapper for Linux Kernel as a Library](https://crates.io/crates/penguincrab)
 * [2022-09-30, 00:22:37](https://lobste.rs/s/1fmh62/next_steps_for_rust_kernel) - [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
 * [2022-09-29, 22:05:25](https://lobste.rs/s/yhgxwa/maps_memory_leaks_go) - [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
