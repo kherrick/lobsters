@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-09-30, 09:50:22",
+      "https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2022-09-30, 09:39:47",
+      "https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t"
+    ],
+    [
+      "9 puzzles to convince you you don't understand dependence",
+      "https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 09:15:56",
       "https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-09-29, 19:04:17",
-      "https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy"
-    ],
-    [
-      "Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA",
-      "https://blog.cloudflare.com/turnstile-private-captcha-alternative/"
-    ]
-  ],
-  [
-    [
       "2022-09-29, 16:58:58",
       "https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp"
     ],
@@ -237,16 +247,6 @@
     [
       "Production Tips for Django Apps",
       "https://raunaqss.com/engineering/django-production-tips/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 16:48:56",
-      "https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his"
-    ],
-    [
-      "Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life",
-      "https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/"
     ]
   ]
 ]
