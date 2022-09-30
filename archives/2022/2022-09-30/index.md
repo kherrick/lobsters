@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-09-30](index.md)
 
+* [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
+* [2022-09-30, 13:05:33](https://lobste.rs/s/qphokv/github_typeofweb_ignore_monorepo) - [GitHub - typeofweb/ignore-monorepo-buildstep: Ignore Vercel buildstep in a pnpm monorepo](https://github.com/typeofweb/ignore-monorepo-buildstep)
 * [2022-09-30, 10:01:22](https://lobste.rs/s/xnnplg/signals_prod_dangers_pitfalls) - [Signals in prod: dangers and pitfalls](https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/)
 * [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
