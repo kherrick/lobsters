@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-30, 07:51:34](https://lobste.rs/s/hu2ebq/static_program_analysis) - [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 * [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 * [2022-09-30, 00:25:53](https://lobste.rs/s/4vv3cp/rust_wrapper_for_linux_kernel_as_library) - [Rust wrapper for Linux Kernel as a Library](https://crates.io/crates/penguincrab)
@@ -20,7 +21,6 @@
 * [2022-09-29, 16:09:01](https://lobste.rs/s/4rgnps/ello_lc1_2mm_thin_diy_computer_based_on) - [ELLO LC1 - A 2mm thin DIY \"computer\" based on Microchip PIC18 8-bit MCU](https://www.cnx-software.com/2022/09/29/ello-lc1-credit-card-8-bit-diy-computer-2mm-thin/)
 * [2022-09-29, 16:05:36](https://lobste.rs/s/ny8gjz/new_integer_types_i_d_like_see) - [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
 * [2022-09-29, 15:49:54](https://lobste.rs/s/meocjr/another_tale_ibm_i_as_400_hacking) - [Another Tale of IBM i (AS/400) Hacking](https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/)
-* [2022-09-29, 06:30:16](https://lobste.rs/s/rp4vn4/introduction_theory_programming) - [Introduction to the Theory of Programming Languages (1991) now freely available](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 * [2022-09-29, 03:24:21](https://lobste.rs/s/2kmzni/production_tips_for_django_apps) - [Production Tips for Django Apps](https://raunaqss.com/engineering/django-production-tips/)
 * [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
