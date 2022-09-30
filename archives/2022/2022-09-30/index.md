@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-09-30](index.md)
+
+* [2022-09-30, 00:25:53](https://lobste.rs/s/4vv3cp/rust_wrapper_for_linux_kernel_as_library) - [Rust wrapper for Linux Kernel as a Library](https://crates.io/crates/penguincrab)
+* [2022-09-30, 00:22:37](https://lobste.rs/s/1fmh62/next_steps_for_rust_kernel) - [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
