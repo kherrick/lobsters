@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
+* [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 * [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
 * [2022-09-30, 07:51:34](https://lobste.rs/s/hu2ebq/static_program_analysis) - [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 * [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
@@ -15,7 +17,6 @@
 * [2022-09-29, 19:14:39](https://lobste.rs/s/unxjqp/final_space_sweet_path_torrent) - [Final Space and the (sweet) path to the Torrent](https://apogliaghi.com/2022/09/final-space-and-the-sweet-path-to-the-torrent/)
 * [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 * [2022-09-29, 19:04:56](https://lobste.rs/s/3mcxdo/weston_11_0_what_s_new_what_s_next) - [Weston 11.0: what's new, what's next](https://www.collabora.com/news-and-blog/news-and-events/weston-11-whats-new-whats-next.html)
-* [2022-09-29, 19:04:17](https://lobste.rs/s/odmgsj/turnstile_user_friendly_privacy) - [Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
 * [2022-09-29, 16:58:58](https://lobste.rs/s/wo50kh/static_analysis_tools_love_pure_fp) - [Static analysis tools love pure FP](https://www.youtube.com/watch?v=_rzoyBq4hJ0)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 * [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)
@@ -24,7 +25,6 @@
 * [2022-09-29, 15:49:54](https://lobste.rs/s/meocjr/another_tale_ibm_i_as_400_hacking) - [Another Tale of IBM i (AS/400) Hacking](https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 * [2022-09-29, 03:24:21](https://lobste.rs/s/2kmzni/production_tips_for_django_apps) - [Production Tips for Django Apps](https://raunaqss.com/engineering/django-production-tips/)
-* [2022-09-28, 16:48:56](https://lobste.rs/s/uteasi/ken_thompson_really_did_launch_his) - [Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life](https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/)
 
 ## [Archives](archives/index.md)
 
