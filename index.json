@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 07:51:34",
+      "https://lobste.rs/s/hu2ebq/static_program_analysis"
+    ],
+    [
+      "Static Program Analysis",
+      "https://cs.au.dk/%7Eamoeller/spa/spa.pdf"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 05:38:05",
       "https://lobste.rs/s/xvdmm7/debugging_docker_images"
     ],
@@ -197,16 +207,6 @@
     [
       "Another Tale of IBM i (AS/400) Hacking",
       "https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 06:30:16",
-      "https://lobste.rs/s/rp4vn4/introduction_theory_programming"
-    ],
-    [
-      "Introduction to the Theory of Programming Languages (1991) now freely available",
-      "https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/"
     ]
   ],
   [
