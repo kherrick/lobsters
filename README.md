@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 * [2022-09-30, 17:56:37](https://lobste.rs/s/fjfxkj/chimp_efficient_lossless_floating_point) - [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
 * [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from) - [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
 * [2022-09-30, 17:07:35](https://lobste.rs/s/m4z0wx/building_advanced_sql_search_from_user) - [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
@@ -22,7 +23,6 @@
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
-* [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)
 * [2022-09-29, 16:05:36](https://lobste.rs/s/ny8gjz/new_integer_types_i_d_like_see) - [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
 * [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 

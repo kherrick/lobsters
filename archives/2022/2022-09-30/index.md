@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-30](index.md)
 
+* [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 * [2022-09-30, 18:00:30](https://lobste.rs/s/wagnxt/ai_data_laundering_how_academic) - [AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 * [2022-09-30, 17:56:37](https://lobste.rs/s/fjfxkj/chimp_efficient_lossless_floating_point) - [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
 * [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from) - [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
