@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 05:38:05",
+      "https://lobste.rs/s/xvdmm7/debugging_docker_images"
+    ],
+    [
+      "Debugging Docker images",
+      "https://garrit.xyz/posts/2022-09-30-debugging-docker-images"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 02:11:23",
       "https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice"
     ],
@@ -227,16 +237,6 @@
     [
       "Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life",
       "https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 16:36:48",
-      "https://lobste.rs/s/vxzpe3/markdown_edge"
-    ],
-    [
-      "Markdown@Edge",
-      "https://markdown-at-edge.edgecompute.app/"
     ]
   ],
   [
