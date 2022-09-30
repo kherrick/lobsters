@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 16:54:27",
+      "https://lobste.rs/s/ambqtq/announcing_rust_style_team"
+    ],
+    [
+      "Announcing the Rust Style Team",
+      "https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 15:18:04",
       "https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data"
     ],
@@ -37,16 +47,6 @@
     [
       "GitHub - typeofweb/ignore-monorepo-buildstep: Ignore Vercel buildstep in a pnpm monorepo",
       "https://github.com/typeofweb/ignore-monorepo-buildstep"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 10:01:22",
-      "https://lobste.rs/s/xnnplg/signals_prod_dangers_pitfalls"
-    ],
-    [
-      "Signals in prod: dangers and pitfalls",
-      "https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/"
     ]
   ],
   [
