@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-09-30](index.md)
 
+* [2022-09-30, 10:01:22](https://lobste.rs/s/xnnplg/signals_prod_dangers_pitfalls) - [Signals in prod: dangers and pitfalls](https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/)
 * [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 * [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
