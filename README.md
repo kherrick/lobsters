@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
 * [2022-09-30, 15:18:04](https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data) - [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
 * [2022-09-30, 14:14:18](https://lobste.rs/s/wmstzf/how_fix_ancient_gdb_problem) - [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/060e5ff1ced271dc/)
 * [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
 * [2022-09-30, 13:05:33](https://lobste.rs/s/qphokv/github_typeofweb_ignore_monorepo) - [GitHub - typeofweb/ignore-monorepo-buildstep: Ignore Vercel buildstep in a pnpm monorepo](https://github.com/typeofweb/ignore-monorepo-buildstep)
-* [2022-09-30, 10:01:22](https://lobste.rs/s/xnnplg/signals_prod_dangers_pitfalls) - [Signals in prod: dangers and pitfalls](https://developers.facebook.com/blog/post/2022/09/27/signals-in-prod-dangers-and-pitfalls/)
 * [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 * [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
