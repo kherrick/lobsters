@@ -6,6 +6,7 @@
 
 * [2022-09-30, 18:00:30](https://lobste.rs/s/wagnxt/ai_data_laundering_how_academic) - [AI Data Laundering: How Academic and Nonprofit Researchers Shield Tech Companies from Accountability](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/)
 * [2022-09-30, 17:56:37](https://lobste.rs/s/fjfxkj/chimp_efficient_lossless_floating_point) - [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
+* [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from) - [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
 * [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/duckdb_querying_postgres_tables) - [DuckDB - Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
 * [2022-09-30, 17:07:35](https://lobste.rs/s/m4z0wx/building_advanced_sql_search_from_user) - [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 * [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
