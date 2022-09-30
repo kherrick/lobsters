@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-09-30, 09:15:56",
+      "https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written"
+    ],
+    [
+      "MathB.in - Mathematics Pastebin Written in Common Lisp",
+      "https://github.com/susam/mathb"
+    ]
+  ],
+  [
+    [
       "2022-09-30, 07:51:34",
       "https://lobste.rs/s/hu2ebq/static_program_analysis"
     ],
@@ -237,16 +247,6 @@
     [
       "Ken Thompson Really Did Launch His \"Trusting Trust\" Trojan Attack in Real Life",
       "https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/"
-    ]
-  ],
-  [
-    [
-      "2022-09-28, 14:41:01",
-      "https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator"
-    ],
-    [
-      "Linkal: A public-calendar aggregator server written in Rust",
-      "https://github.com/JulienMalka/Linkal"
     ]
   ]
 ]
