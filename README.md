@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
 * [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
 * [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
@@ -11,7 +12,6 @@
 * [2022-09-30, 17:07:35](https://lobste.rs/s/m4z0wx/building_advanced_sql_search_from_user) - [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 * [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
 * [2022-09-30, 15:18:04](https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data) - [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
-* [2022-09-30, 14:14:18](https://lobste.rs/s/wmstzf/how_fix_ancient_gdb_problem) - [How to fix an ancient GDB problem](https://lwn.net/SubscriberLink/909496/060e5ff1ced271dc/)
 * [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
 * [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
