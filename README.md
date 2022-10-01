@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
 * [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
 * [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
@@ -21,7 +22,6 @@
 * [2022-09-30, 09:50:22](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cugh3v/what_are_you_doing_this_weekend)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 * [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
-* [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)

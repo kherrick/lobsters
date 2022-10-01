@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-01](index.md)
 
+* [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
 * [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
 * [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
