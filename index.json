@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 05:46:15",
+      "https://lobste.rs/s/ciqg39/renaissance_command_line"
+    ],
+    [
+      "The Renaissance of the Command Line",
+      "https://dlvhdr.me/posts/the-renaissance-of-the-command-line"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 01:59:10",
       "https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022"
     ],
@@ -197,16 +207,6 @@
     [
       "Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model",
       "https://simonwillison.net/2022/Sep/29/webvid/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 21:01:41",
-      "https://lobste.rs/s/t4aeen/announcing_icu4x_1_0"
-    ],
-    [
-      "Announcing ICU4X 1.0",
-      "https://blog.unicode.org/2022/09/announcing-icu4x-10.html"
     ]
   ],
   [
