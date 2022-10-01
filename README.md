@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 23:38:25](https://lobste.rs/s/o8koyv/ten_years_typescript) - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 * [2022-10-01, 20:51:59](https://lobste.rs/s/sbdikz/serving_static_files_web_apps_go) - [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
 * [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
@@ -24,7 +25,6 @@
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 * [2022-09-30, 09:15:56](https://lobste.rs/s/awvenh/mathb_mathematics_pastebin_written) - [MathB.in - Mathematics Pastebin Written in Common Lisp](https://github.com/susam/mathb)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
-* [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 
 ## [Archives](archives/index.md)
 
