@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-01](index.md)
 
+* [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 * [2022-10-01, 15:21:12](https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp) - [dwim-shell-command usages: pdftotext and scp](https://xenodium.com/dwim-shell-command-usages-pdftotext-and-scp)
 * [2022-10-01, 13:06:44](https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere) - [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)

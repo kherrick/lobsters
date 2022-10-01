@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 * [2022-10-01, 15:21:12](https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp) - [dwim-shell-command usages: pdftotext and scp](https://xenodium.com/dwim-shell-command-usages-pdftotext-and-scp)
 * [2022-10-01, 13:06:44](https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere) - [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
@@ -23,7 +24,6 @@
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
-* [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
 
 ## [Archives](archives/index.md)
