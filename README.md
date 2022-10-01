@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
+* [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
+* [2022-10-01, 01:17:37](https://lobste.rs/s/lqjcwy/lisp_google_sheets_with_named_functions) - [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
+* [2022-10-01, 01:14:54](https://lobste.rs/s/qatnyz/announcing_3_7_3_10_support_new_direction) - [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)
 * [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 * [2022-09-30, 17:56:37](https://lobste.rs/s/fjfxkj/chimp_efficient_lossless_floating_point) - [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
 * [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from) - [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
@@ -16,15 +20,11 @@
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 * [2022-09-30, 00:22:37](https://lobste.rs/s/1fmh62/next_steps_for_rust_kernel) - [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
-* [2022-09-29, 22:05:25](https://lobste.rs/s/yhgxwa/maps_memory_leaks_go) - [Maps and Memory Leaks in Go](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
 * [2022-09-29, 21:01:41](https://lobste.rs/s/t4aeen/announcing_icu4x_1_0) - [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
-* [2022-09-29, 19:05:01](https://lobste.rs/s/bul8fi/virtual_threads_new_foundations_for_high) - [Virtual Threads: New Foundations for High-Scale Java Applications](https://www.infoq.com/articles/java-virtual-threads/)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
-* [2022-09-29, 16:09:47](https://lobste.rs/s/3gtbmy/four_months_into_nix_book) - [Four months into The Nix Book](https://tweag.io/blog/2022-09-29-the-nix-book-report/)
 * [2022-09-29, 16:05:36](https://lobste.rs/s/ny8gjz/new_integer_types_i_d_like_see) - [New integer types I'd like to see](https://www.foonathan.net/2022/09/new-integer-types/)
-* [2022-09-29, 06:20:05](https://lobste.rs/s/q9q4y8/facts_about_state_machines_i_hold_opinion) - [Facts about State Machines: I hold the opinion that state machines are underrated](https://github.com/cpressey/Facts-about-State-Machines)
 
 ## [Archives](archives/index.md)
 
