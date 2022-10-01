@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
 * [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
 * [2022-10-01, 01:17:37](https://lobste.rs/s/lqjcwy/lisp_google_sheets_with_named_functions) - [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
@@ -20,7 +21,6 @@
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 * [2022-09-30, 00:22:37](https://lobste.rs/s/1fmh62/next_steps_for_rust_kernel) - [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
-* [2022-09-29, 21:01:41](https://lobste.rs/s/t4aeen/announcing_icu4x_1_0) - [Announcing ICU4X 1.0](https://blog.unicode.org/2022/09/announcing-icu4x-10.html)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
 * [2022-09-29, 16:52:20](https://lobste.rs/s/7i2zkx/appeal_small_computers) - [The appeal of small computers](https://andregarzia.com/2022/09/The-appeal-of-small-computers.html)
