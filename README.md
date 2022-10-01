@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 13:06:44](https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere) - [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
 * [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
 * [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
@@ -19,7 +20,6 @@
 * [2022-09-30, 07:51:34](https://lobste.rs/s/hu2ebq/static_program_analysis) - [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/spa.pdf)
 * [2022-09-30, 05:38:05](https://lobste.rs/s/xvdmm7/debugging_docker_images) - [Debugging Docker images](https://garrit.xyz/posts/2022-09-30-debugging-docker-images)
 * [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
-* [2022-09-30, 00:22:37](https://lobste.rs/s/1fmh62/next_steps_for_rust_kernel) - [Next steps for Rust in the kernel](https://lwn.net/Articles/908347/)
 * [2022-09-29, 22:21:52](https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock) - [Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model](https://simonwillison.net/2022/Sep/29/webvid/)
 * [2022-09-29, 19:55:09](https://lobste.rs/s/rg8chp/age_authenticated_encryption) - [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 * [2022-09-29, 19:48:46](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management) - [Tools for tag-based file management?](https://lobste.rs/s/u5iyme/tools_for_tag_based_file_management)
