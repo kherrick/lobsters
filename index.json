@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 20:01:31",
+      "https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend"
+    ],
+    [
+      "Using CouchDB as a Website Backend",
+      "https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 18:33:54",
       "https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking"
     ],
@@ -227,16 +237,6 @@
     [
       "Why Modern Software is Slow–Windows Voice Recorder",
       "https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/"
-    ]
-  ],
-  [
-    [
-      "2022-09-29, 22:21:52",
-      "https://lobste.rs/s/oexoxv/exploring_10m_scraped_shutterstock"
-    ],
-    [
-      "Exploring 10m scraped Shutterstock videos used to train Meta’s Make-A-Video text-to-video model",
-      "https://simonwillison.net/2022/Sep/29/webvid/"
     ]
   ],
   [
