@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-01, 15:40:26",
+      "https://lobste.rs/s/s9bdid/prompt_engineering_is_hard"
+    ],
+    [
+      "Prompt engineering is hard",
+      "https://xeiaso.net/blog/prompt-engineering"
+    ]
+  ],
+  [
+    [
       "2022-10-01, 15:21:12",
       "https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp"
     ],
@@ -177,16 +187,6 @@
     [
       "MathB.in - Mathematics Pastebin Written in Common Lisp",
       "https://github.com/susam/mathb"
-    ]
-  ],
-  [
-    [
-      "2022-09-30, 07:51:34",
-      "https://lobste.rs/s/hu2ebq/static_program_analysis"
-    ],
-    [
-      "Static Program Analysis",
-      "https://cs.au.dk/%7Eamoeller/spa/spa.pdf"
     ]
   ],
   [
