@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-01, 20:51:59](https://lobste.rs/s/sbdikz/serving_static_files_web_apps_go) - [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
 * [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
 * [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
@@ -14,7 +15,6 @@
 * [2022-10-01, 01:17:37](https://lobste.rs/s/lqjcwy/lisp_google_sheets_with_named_functions) - [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
 * [2022-10-01, 01:14:54](https://lobste.rs/s/qatnyz/announcing_3_7_3_10_support_new_direction) - [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)
 * [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
-* [2022-09-30, 17:56:37](https://lobste.rs/s/fjfxkj/chimp_efficient_lossless_floating_point) - [Chimp: Efficient Lossless Floating Point Compression for Time Series Databases](https://www.vldb.org/pvldb/vol15/p3058-liakos.pdf)
 * [2022-09-30, 17:41:15](https://lobste.rs/s/aks2dv/querying_postgres_tables_directly_from) - [Querying Postgres Tables Directly From DuckDB](https://duckdb.org/2022/09/30/postgres-scanner.html)
 * [2022-09-30, 17:07:35](https://lobste.rs/s/m4z0wx/building_advanced_sql_search_from_user) - [Building advanced SQL search from a user text input](https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input)
 * [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
