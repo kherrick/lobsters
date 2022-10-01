@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-01](index.md)
 
+* [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 * [2022-10-01, 15:21:12](https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp) - [dwim-shell-command usages: pdftotext and scp](https://xenodium.com/dwim-shell-command-usages-pdftotext-and-scp)
 * [2022-10-01, 13:06:44](https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere) - [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
 * [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
