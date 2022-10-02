@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-02](index.md)
 
+* [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
 * [2022-10-02, 22:36:03](https://lobste.rs/s/woatzq/how_design_good_api_why_it_matters_2006) - [How to design a good API and why it matters (2006)](https://dl.acm.org/doi/10.1145/1176617.1176622)
 * [2022-10-02, 22:21:48](https://lobste.rs/s/mm21t5/early_warning_signs_shitty_software) - [Early warning signs of shitty software](https://blog.plover.com//prog/crap-warning-signs.html)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
