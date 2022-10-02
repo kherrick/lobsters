@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-02, 16:03:13](https://lobste.rs/s/o5cgge/openbsd_app_quick_full_text_searching) - [OpenBSD.app - quick full-text searching of OpenBSD packages for -stable and -current](https://openbsd.app)
+* [2022-10-02, 15:59:48](https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software) - [How to create your own crappy RSA as a software developer](https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/)
+* [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
+* [2022-10-02, 15:58:59](https://lobste.rs/s/dx2d0i/hunting_zk_snark) - [The hunting of the (zk-) SNARK](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)
 * [2022-10-02, 14:38:05](https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against) - [Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators](http://flyer.sis.smu.edu.sg/ndss-22.pdf)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
@@ -21,10 +25,6 @@
 * [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
 * [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
-* [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
-* [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
-* [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
-* [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 
 ## [Archives](archives/index.md)
 

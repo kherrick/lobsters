@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-10-02](index.md)
 
+* [2022-10-02, 16:03:13](https://lobste.rs/s/o5cgge/openbsd_app_quick_full_text_searching) - [OpenBSD.app - quick full-text searching of OpenBSD packages for -stable and -current](https://openbsd.app)
+* [2022-10-02, 15:59:48](https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software) - [How to create your own crappy RSA as a software developer](https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/)
+* [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
+* [2022-10-02, 15:58:59](https://lobste.rs/s/dx2d0i/hunting_zk_snark) - [The hunting of the (zk-) SNARK](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)
 * [2022-10-02, 14:38:05](https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against) - [Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators](http://flyer.sis.smu.edu.sg/ndss-22.pdf)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
