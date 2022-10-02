@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-02, 19:05:35](https://lobste.rs/s/l5pk7v/work_on_stuff_matters_first_principles) - [Work on Stuff that Matters: First Principles (2009)](http://radar.oreilly.com/2009/01/work-on-stuff-that-matters-fir.html)
 * [2022-10-02, 16:03:13](https://lobste.rs/s/o5cgge/openbsd_app_quick_full_text_searching) - [OpenBSD.app - quick full-text searching of OpenBSD packages for -stable and -current](https://openbsd.app)
 * [2022-10-02, 15:59:48](https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software) - [How to create your own crappy RSA as a software developer](https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/)
 * [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
@@ -24,7 +25,6 @@
 * [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
 * [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
-* [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
 
 ## [Archives](archives/index.md)
 
