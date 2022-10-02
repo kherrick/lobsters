@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-02](index.md)
 
+* [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
 * [2022-10-02, 01:10:32](https://lobste.rs/s/suroya/host_ghost_blog_for_free_on_fly_io_2_minutes) - [Host a Ghost Blog for Free on Fly.io In 2 Minutes — MySQL 8 edition](https://www.autodidacts.io/host-ghost-mysql8-on-fly-io-free-tier/)

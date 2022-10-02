@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
 * [2022-10-02, 01:10:32](https://lobste.rs/s/suroya/host_ghost_blog_for_free_on_fly_io_2_minutes) - [Host a Ghost Blog for Free on Fly.io In 2 Minutes — MySQL 8 edition](https://www.autodidacts.io/host-ghost-mysql8-on-fly-io-free-tier/)
@@ -24,7 +25,6 @@
 * [2022-09-30, 15:18:04](https://lobste.rs/s/piki76/why_i_own_two_copies_designing_data) - [Why I own two copies of Designing Data-Intensive Applications](https://www.garrensmith.com/designing-data-intensive-applications/)
 * [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
 * [2022-09-30, 09:39:47](https://lobste.rs/s/qywir0/9_puzzles_convince_you_you_don_t) - [9 puzzles to convince you you don't understand dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
-* [2022-09-30, 02:11:23](https://lobste.rs/s/cljjtq/why_modern_software_is_slow_windows_voice) - [Why Modern Software is Slow–Windows Voice Recorder](https://randomascii.wordpress.com/2022/09/29/why-modern-software-is-slow-windows-voice-recorder/)
 
 ## [Archives](archives/index.md)
 
