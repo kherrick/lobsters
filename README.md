@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-02, 14:38:05](https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against) - [Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators](http://flyer.sis.smu.edu.sg/ndss-22.pdf)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
@@ -20,7 +21,6 @@
 * [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
 * [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
 * [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
-* [2022-10-01, 01:14:54](https://lobste.rs/s/qatnyz/announcing_3_7_3_10_support_new_direction) - [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)
 * [2022-09-30, 21:10:33](https://lobste.rs/s/onbyt4/release_nvim_v0_8_0) - [Release Nvim v0.8.0](https://github.com/neovim/neovim/releases/tag/v0.8.0)
 * [2022-09-30, 16:54:27](https://lobste.rs/s/ambqtq/announcing_rust_style_team) - [Announcing the Rust Style Team](https://blog.rust-lang.org/inside-rust/2022/09/29/announcing-the-rust-style-team.html)
 * [2022-09-30, 13:16:43](https://lobste.rs/s/jsccvt/reals_python_library_for_real_number) - [Reals: a Python library for real-number arithmetic](https://github.com/rubenvannieuwpoort/reals)
