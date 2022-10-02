@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-02, 14:38:05",
+      "https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against"
+    ],
+    [
+      "Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators",
+      "http://flyer.sis.smu.edu.sg/ndss-22.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 12:50:21",
       "https://lobste.rs/s/yjwgk1/hyperlinks_handwriting"
     ],
@@ -197,16 +207,6 @@
     [
       "Low-cost SSH access to server behind firewall?",
       "https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 01:14:54",
-      "https://lobste.rs/s/qatnyz/announcing_3_7_3_10_support_new_direction"
-    ],
-    [
-      "Announcing 3.7-3.10 support and a new direction for Pyston",
-      "https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/"
     ]
   ],
   [
