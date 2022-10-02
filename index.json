@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-02, 22:36:03",
+      "https://lobste.rs/s/woatzq/how_design_good_api_why_it_matters_2006"
+    ],
+    [
+      "How to design a good API and why it matters (2006)",
+      "https://dl.acm.org/doi/10.1145/1176617.1176622"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 22:21:48",
+      "https://lobste.rs/s/mm21t5/early_warning_signs_shitty_software"
+    ],
+    [
+      "Early warning signs of shitty software",
+      "https://blog.plover.com//prog/crap-warning-signs.html"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 21:37:14",
       "https://lobste.rs/s/edgyea/writing_dns_server_rust"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-10-01, 13:06:44",
-      "https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere"
-    ],
-    [
-      "“ 58 bytes of CSS to look great nearly everywhere” mkws theme",
-      "https://t.mkws.sh/58bytes/"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 11:52:33",
       "https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting"
     ],
     [
       "Chrome’s new ad-blocker-limiting extension platform will launch in 2023",
       "https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 01:59:10",
-      "https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022"
-    ],
-    [
-      "Who's Hiring? Q4Y2022",
-      "https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022"
     ]
   ]
 ]
