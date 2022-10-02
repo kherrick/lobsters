@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-02, 20:04:10",
+      "https://lobste.rs/s/uiia8u/fun_with_freebsd_your_first_linux_guest"
+    ],
+    [
+      "Fun with FreeBSD: Your First Linux Guest",
+      "https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/"
+    ]
+  ],
+  [
+    [
+      "2022-10-02, 20:01:21",
+      "https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban"
+    ],
+    [
+      "You don't need Scrum. You just need to do Kanban right",
+      "https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 19:05:35",
       "https://lobste.rs/s/l5pk7v/work_on_stuff_matters_first_principles"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-01, 15:21:12",
-      "https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp"
-    ],
-    [
-      "dwim-shell-command usages: pdftotext and scp",
-      "https://xenodium.com/dwim-shell-command-usages-pdftotext-and-scp"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 13:06:44",
       "https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere"
     ],
@@ -227,16 +237,6 @@
     [
       "Chrome’s new ad-blocker-limiting extension platform will launch in 2023",
       "https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 05:46:15",
-      "https://lobste.rs/s/ciqg39/renaissance_command_line"
-    ],
-    [
-      "The Renaissance of the Command Line",
-      "https://dlvhdr.me/posts/the-renaissance-of-the-command-line"
     ]
   ],
   [
