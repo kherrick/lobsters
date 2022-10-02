@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-02](index.md)
 
+* [2022-10-02, 20:04:10](https://lobste.rs/s/uiia8u/fun_with_freebsd_your_first_linux_guest) - [Fun with FreeBSD: Your First Linux Guest](https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/)
+* [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2022-10-02, 19:05:35](https://lobste.rs/s/l5pk7v/work_on_stuff_matters_first_principles) - [Work on Stuff that Matters: First Principles (2009)](http://radar.oreilly.com/2009/01/work-on-stuff-that-matters-fir.html)
 * [2022-10-02, 16:03:13](https://lobste.rs/s/o5cgge/openbsd_app_quick_full_text_searching) - [OpenBSD.app - quick full-text searching of OpenBSD packages for -stable and -current](https://openbsd.app)
 * [2022-10-02, 15:59:48](https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software) - [How to create your own crappy RSA as a software developer](https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/)
