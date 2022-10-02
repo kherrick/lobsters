@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:04:10](https://lobste.rs/s/uiia8u/fun_with_freebsd_your_first_linux_guest) - [Fun with FreeBSD: Your First Linux Guest](https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2022-10-02, 19:05:35](https://lobste.rs/s/l5pk7v/work_on_stuff_matters_first_principles) - [Work on Stuff that Matters: First Principles (2009)](http://radar.oreilly.com/2009/01/work-on-stuff-that-matters-fir.html)
@@ -18,7 +19,6 @@
 * [2022-10-01, 23:38:25](https://lobste.rs/s/o8koyv/ten_years_typescript) - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 * [2022-10-01, 20:51:59](https://lobste.rs/s/sbdikz/serving_static_files_web_apps_go) - [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
-* [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
 * [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
 * [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
