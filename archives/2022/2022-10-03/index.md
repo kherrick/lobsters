@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:56:54](https://lobste.rs/s/i6fmff/user_controlled_authorization_networks) - [User Controlled Authorization Networks (UCAN) Distributed Auth](https://ucan.xyz/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)

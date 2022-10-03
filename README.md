@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:56:54](https://lobste.rs/s/i6fmff/user_controlled_authorization_networks) - [User Controlled Authorization Networks (UCAN) Distributed Auth](https://ucan.xyz/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
@@ -23,7 +24,6 @@
 * [2022-10-02, 00:41:53](https://lobste.rs/s/clsyso/software_engineering_practices) - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
 * [2022-10-02, 00:22:10](https://lobste.rs/s/gqfx5r/thorny_problem_keeping_internet_s_time) - [The Thorny Problem of Keeping the Internet’s Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
-* [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 
 ## [Archives](archives/index.md)
