@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-03, 17:30:26",
+      "https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for"
+    ],
+    [
+      "Can We Use Trunk-Based Development for Legacy Software?",
+      "https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 16:41:07",
       "https://lobste.rs/s/chj4f6/leveraging_strategic_connection"
     ],
@@ -217,16 +227,6 @@
     [
       "Setting up a Nomad cluster on Linux",
       "https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 15:58:59",
-      "https://lobste.rs/s/dx2d0i/hunting_zk_snark"
-    ],
-    [
-      "The hunting of the (zk-) SNARK",
-      "https://www.entropy1729.com/the-hunting-of-the-zk-snark/"
     ]
   ],
   [
