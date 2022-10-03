@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 20:28:02](https://lobste.rs/s/k24cff/mnt_rkx7_open_hardware_fpga_cpu_module) - [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:56:02](https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature) - [The SBOM Frenzy is Premature](https://blog.crashoverride.com/the-sbom-frenzy-is-premature)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
@@ -18,7 +19,6 @@
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
 * [2022-10-03, 04:36:26](https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew) - [Zolatron 64: Writing an OS for a 6502 homebrew computer](https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/)
-* [2022-10-03, 04:31:57](https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings) - [UniFFI: a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
 * [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
