@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-03, 18:13:32",
+      "https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl"
+    ],
+    [
+      "An efficient image format for SDL",
+      "https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 17:30:26",
       "https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for"
     ],
@@ -107,16 +117,6 @@
     [
       "Game Scripting with Logic Programming",
       "https://blog.cameldridge.com/article/20200828-logic-game-scripting/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 11:02:42",
-      "https://lobste.rs/s/a5qtl3/use_mit_license_instead_pull_request_44"
-    ],
-    [
-      "Use an MIT license instead · Pull Request #44 · tweag/servant-oauth2",
-      "https://github.com/tweag/servant-oauth2/pull/44"
     ]
   ],
   [
