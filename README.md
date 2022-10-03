@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
+* [2022-10-03, 13:22:19](https://lobste.rs/s/fef4gv/new_month_new_brainworm) - [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
+* [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
+* [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 * [2022-10-03, 11:07:06](https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming) - [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
 * [2022-10-03, 11:02:42](https://lobste.rs/s/a5qtl3/use_mit_license_instead_pull_request_44) - [Use an MIT license instead · Pull Request #44 · tweag/servant-oauth2](https://github.com/tweag/servant-oauth2/pull/44)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
@@ -9,8 +13,6 @@
 * [2022-10-03, 04:36:26](https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew) - [Zolatron 64: Writing an OS for a 6502 homebrew computer](https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/)
 * [2022-10-03, 04:31:57](https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings) - [UniFFI: a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
 * [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
-* [2022-10-02, 22:36:03](https://lobste.rs/s/woatzq/how_design_good_api_why_it_matters_2006) - [How to design a good API and why it matters (2006)](https://dl.acm.org/doi/10.1145/1176617.1176622)
-* [2022-10-02, 22:21:48](https://lobste.rs/s/mm21t5/early_warning_signs_shitty_software) - [Early warning signs of shitty software](https://blog.plover.com//prog/crap-warning-signs.html)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:04:10](https://lobste.rs/s/uiia8u/fun_with_freebsd_your_first_linux_guest) - [Fun with FreeBSD: Your First Linux Guest](https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
@@ -22,8 +24,6 @@
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
-* [2022-10-02, 00:41:53](https://lobste.rs/s/clsyso/software_engineering_practices) - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
-* [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
+* [2022-10-03, 13:22:19](https://lobste.rs/s/fef4gv/new_month_new_brainworm) - [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
+* [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
+* [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 * [2022-10-03, 11:07:06](https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming) - [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
 * [2022-10-03, 11:02:42](https://lobste.rs/s/a5qtl3/use_mit_license_instead_pull_request_44) - [Use an MIT license instead · Pull Request #44 · tweag/servant-oauth2](https://github.com/tweag/servant-oauth2/pull/44)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
