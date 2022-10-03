@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 * [2022-10-03, 20:28:02](https://lobste.rs/s/k24cff/mnt_rkx7_open_hardware_fpga_cpu_module) - [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:56:02](https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature) - [The SBOM Frenzy is Premature](https://blog.crashoverride.com/the-sbom-frenzy-is-premature)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
-* [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
 * [2022-10-03, 16:04:23](https://lobste.rs/s/eian8s/audiogen_textually_guided_audio) - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
