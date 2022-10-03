@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 16:41:07](https://lobste.rs/s/chj4f6/leveraging_strategic_connection) - [Leveraging strategic connection migration-powered traffic splitting for privacy](https://arxiv.org/pdf/2205.03326.pdf)
+* [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
+* [2022-10-03, 16:04:23](https://lobste.rs/s/eian8s/audiogen_textually_guided_audio) - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 * [2022-10-03, 15:41:26](https://lobste.rs/s/1h4jnn/illuminating_synchronization_edges_for) - [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)
 * [2022-10-03, 13:37:47](https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for) - [On \"Correct and Efficient Work-Stealing for Weak Memory Models\"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
