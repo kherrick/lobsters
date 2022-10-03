@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 04:36:26](https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew) - [Zolatron 64: Writing an OS for a 6502 homebrew computer](https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/)
+* [2022-10-03, 04:31:57](https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings) - [UniFFI: a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
 * [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
 * [2022-10-02, 22:36:03](https://lobste.rs/s/woatzq/how_design_good_api_why_it_matters_2006) - [How to design a good API and why it matters (2006)](https://dl.acm.org/doi/10.1145/1176617.1176622)
 * [2022-10-02, 22:21:48](https://lobste.rs/s/mm21t5/early_warning_signs_shitty_software) - [Early warning signs of shitty software](https://blog.plover.com//prog/crap-warning-signs.html)
@@ -22,9 +24,7 @@
 * [2022-10-01, 23:38:25](https://lobste.rs/s/o8koyv/ten_years_typescript) - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
 * [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
-* [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
-* [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
 
 ## [Archives](archives/index.md)
 
