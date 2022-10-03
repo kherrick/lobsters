@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-10-03, 19:56:02",
-      "https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature"
-    ],
-    [
-      "The SBOM Frenzy is Premature",
-      "https://blog.crashoverride.com/the-sbom-frenzy-is-premature"
-    ]
-  ],
-  [
-    [
       "2022-10-03, 19:34:09",
       "https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1"
     ],
@@ -187,6 +177,16 @@
     [
       "LKML: Linus Torvalds: Linux 6.0",
       "https://www.lkml.org/lkml/2022/10/2/255"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 04:36:26",
+      "https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew"
+    ],
+    [
+      "Zolatron 64: Writing an OS for a 6502 homebrew computer",
+      "https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/"
     ]
   ],
   [
