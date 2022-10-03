@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-03, 04:36:26",
+      "https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew"
+    ],
+    [
+      "Zolatron 64: Writing an OS for a 6502 homebrew computer",
+      "https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 04:31:57",
+      "https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings"
+    ],
+    [
+      "UniFFI: a multi-language bindings generator for Rust",
+      "https://github.com/mozilla/uniffi-rs"
+    ]
+  ],
+  [
+    [
       "2022-10-02, 23:32:52",
       "https://lobste.rs/s/pbxnch/saga_dangerous_dave"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-10-01, 16:30:52",
-      "https://lobste.rs/s/dp4klq/striped_development"
-    ],
-    [
-      "Striped Development",
-      "https://jordankaye.dev/posts/striped-development/"
-    ]
-  ],
-  [
-    [
       "2022-10-01, 15:40:26",
       "https://lobste.rs/s/s9bdid/prompt_engineering_is_hard"
     ],
     [
       "Prompt engineering is hard",
       "https://xeiaso.net/blog/prompt-engineering"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 11:52:33",
-      "https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting"
-    ],
-    [
-      "Chrome’s new ad-blocker-limiting extension platform will launch in 2023",
-      "https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/"
     ]
   ]
 ]
