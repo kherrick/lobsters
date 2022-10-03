@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 * [2022-10-03, 17:30:26](https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for) - [Can We Use Trunk-Based Development for Legacy Software?](https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/)
 * [2022-10-03, 16:41:07](https://lobste.rs/s/chj4f6/leveraging_strategic_connection) - [Leveraging strategic connection migration-powered traffic splitting for privacy](https://arxiv.org/pdf/2205.03326.pdf)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
