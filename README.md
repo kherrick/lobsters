@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 11:07:06](https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming) - [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
+* [2022-10-03, 11:02:42](https://lobste.rs/s/a5qtl3/use_mit_license_instead_pull_request_44) - [Use an MIT license instead · Pull Request #44 · tweag/servant-oauth2](https://github.com/tweag/servant-oauth2/pull/44)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:56:54](https://lobste.rs/s/i6fmff/user_controlled_authorization_networks) - [User Controlled Authorization Networks (UCAN) Distributed Auth](https://ucan.xyz/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
@@ -17,12 +19,10 @@
 * [2022-10-02, 15:59:48](https://lobste.rs/s/pvn3tm/how_create_your_own_crappy_rsa_as_software) - [How to create your own crappy RSA as a software developer](https://www.entropy1729.com/how-to-create-your-own-crappy-rsa-as-a-software-developer/)
 * [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
 * [2022-10-02, 15:58:59](https://lobste.rs/s/dx2d0i/hunting_zk_snark) - [The hunting of the (zk-) SNARK](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)
-* [2022-10-02, 14:38:05](https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against) - [Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators](http://flyer.sis.smu.edu.sg/ndss-22.pdf)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
 * [2022-10-02, 00:41:53](https://lobste.rs/s/clsyso/software_engineering_practices) - [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
-* [2022-10-02, 00:22:10](https://lobste.rs/s/gqfx5r/thorny_problem_keeping_internet_s_time) - [The Thorny Problem of Keeping the Internet’s Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time)
 * [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
 * [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 

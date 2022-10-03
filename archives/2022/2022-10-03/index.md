@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 11:07:06](https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming) - [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
+* [2022-10-03, 11:02:42](https://lobste.rs/s/a5qtl3/use_mit_license_instead_pull_request_44) - [Use an MIT license instead · Pull Request #44 · tweag/servant-oauth2](https://github.com/tweag/servant-oauth2/pull/44)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:56:54](https://lobste.rs/s/i6fmff/user_controlled_authorization_networks) - [User Controlled Authorization Networks (UCAN) Distributed Auth](https://ucan.xyz/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
