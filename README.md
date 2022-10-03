@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 * [2022-10-03, 17:30:26](https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for) - [Can We Use Trunk-Based Development for Legacy Software?](https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/)
 * [2022-10-03, 16:41:07](https://lobste.rs/s/chj4f6/leveraging_strategic_connection) - [Leveraging strategic connection migration-powered traffic splitting for privacy](https://arxiv.org/pdf/2205.03326.pdf)
@@ -21,7 +22,6 @@
 * [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-* [2022-10-02, 16:03:13](https://lobste.rs/s/o5cgge/openbsd_app_quick_full_text_searching) - [OpenBSD.app - quick full-text searching of OpenBSD packages for -stable and -current](https://openbsd.app)
 * [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
