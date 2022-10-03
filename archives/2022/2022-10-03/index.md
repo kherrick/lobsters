@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 15:41:26](https://lobste.rs/s/1h4jnn/illuminating_synchronization_edges_for) - [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)
 * [2022-10-03, 13:37:47](https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for) - [On \"Correct and Efficient Work-Stealing for Weak Memory Models\"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 * [2022-10-03, 13:22:19](https://lobste.rs/s/fef4gv/new_month_new_brainworm) - [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
