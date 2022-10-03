@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
 * [2022-10-03, 04:36:26](https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew) - [Zolatron 64: Writing an OS for a 6502 homebrew computer](https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/)
 * [2022-10-03, 04:31:57](https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings) - [UniFFI: a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
 * [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
@@ -15,7 +16,6 @@
 * [2022-10-02, 15:58:59](https://lobste.rs/s/dx2d0i/hunting_zk_snark) - [The hunting of the (zk-) SNARK](https://www.entropy1729.com/the-hunting-of-the-zk-snark/)
 * [2022-10-02, 14:38:05](https://lobste.rs/s/vhnkwx/chosen_instruction_attack_against) - [Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators](http://flyer.sis.smu.edu.sg/ndss-22.pdf)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
-* [2022-10-02, 06:12:28](https://lobste.rs/s/6zlxl9/evaluating_integrated_development) - [Evaluating integrated development environments](https://macoy.me/blog/programming/IntegratedDevelopmentEnvironment)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
 * [2022-10-02, 01:10:32](https://lobste.rs/s/suroya/host_ghost_blog_for_free_on_fly_io_2_minutes) - [Host a Ghost Blog for Free on Fly.io In 2 Minutes — MySQL 8 edition](https://www.autodidacts.io/host-ghost-mysql8-on-fly-io-free-tier/)
