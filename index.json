@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-03, 20:06:14",
+      "https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev"
+    ],
+    [
+      "Windows equivalents for common Mac dev tools",
+      "https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev"
+    ]
+  ],
+  [
+    [
+      "2022-10-03, 19:56:02",
+      "https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature"
+    ],
+    [
+      "The SBOM Frenzy is Premature",
+      "https://blog.crashoverride.com/the-sbom-frenzy-is-premature"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 19:34:09",
       "https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1"
     ],
@@ -27,26 +47,6 @@
     [
       "An efficient image format for SDL",
       "https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 17:30:26",
-      "https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for"
-    ],
-    [
-      "Can We Use Trunk-Based Development for Legacy Software?",
-      "https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 16:41:07",
-      "https://lobste.rs/s/chj4f6/leveraging_strategic_connection"
-    ],
-    [
-      "Leveraging strategic connection migration-powered traffic splitting for privacy",
-      "https://arxiv.org/pdf/2205.03326.pdf"
     ]
   ],
   [
