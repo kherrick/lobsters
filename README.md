@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 13:37:47](https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for) - [On \"Correct and Efficient Work-Stealing for Weak Memory Models\"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 * [2022-10-03, 13:22:19](https://lobste.rs/s/fef4gv/new_month_new_brainworm) - [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
 * [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 * [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 * [2022-10-02, 01:31:11](https://lobste.rs/s/en6q9r/new_wave_javascript_web_frameworks) - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
-* [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
 
 ## [Archives](archives/index.md)
 

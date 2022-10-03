@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 13:37:47](https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for) - [On \"Correct and Efficient Work-Stealing for Weak Memory Models\"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 * [2022-10-03, 13:22:19](https://lobste.rs/s/fef4gv/new_month_new_brainworm) - [new month, new brainworm](https://wingolog.org/archives/2022/09/01/new-month-new-brainworm)
 * [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
