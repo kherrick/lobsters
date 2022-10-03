@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-03, 13:37:47",
+      "https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for"
+    ],
+    [
+      "On \"Correct and Efficient Work-Stealing for Weak Memory Models\"",
+      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 13:31:53",
       "https://lobste.rs/s/tb84fm/what_color_is_your_markup"
     ],
@@ -237,16 +247,6 @@
     [
       "The new wave of Javascript web frameworks",
       "https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/"
-    ]
-  ],
-  [
-    [
-      "2022-10-01, 15:40:26",
-      "https://lobste.rs/s/s9bdid/prompt_engineering_is_hard"
-    ],
-    [
-      "Prompt engineering is hard",
-      "https://xeiaso.net/blog/prompt-engineering"
     ]
   ]
 ]
