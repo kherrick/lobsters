@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 17:30:26](https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for) - [Can We Use Trunk-Based Development for Legacy Software?](https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/)
 * [2022-10-03, 16:41:07](https://lobste.rs/s/chj4f6/leveraging_strategic_connection) - [Leveraging strategic connection migration-powered traffic splitting for privacy](https://arxiv.org/pdf/2205.03326.pdf)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
 * [2022-10-03, 16:04:23](https://lobste.rs/s/eian8s/audiogen_textually_guided_audio) - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
