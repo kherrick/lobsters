@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
+* [2022-10-03, 19:56:02](https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature) - [The SBOM Frenzy is Premature](https://blog.crashoverride.com/the-sbom-frenzy-is-premature)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
 * [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
-* [2022-10-03, 17:30:26](https://lobste.rs/s/tc6e4v/can_we_use_trunk_based_development_for) - [Can We Use Trunk-Based Development for Legacy Software?](https://embeddeduse.com/2022/10/03/can-we-use-trunk-based-development-for-legacy-software/)
-* [2022-10-03, 16:41:07](https://lobste.rs/s/chj4f6/leveraging_strategic_connection) - [Leveraging strategic connection migration-powered traffic splitting for privacy](https://arxiv.org/pdf/2205.03326.pdf)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
 * [2022-10-03, 16:04:23](https://lobste.rs/s/eian8s/audiogen_textually_guided_audio) - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 * [2022-10-03, 15:41:26](https://lobste.rs/s/1h4jnn/illuminating_synchronization_edges_for) - [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)

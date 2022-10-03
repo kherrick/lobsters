@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-03](index.md)
 
+* [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
+* [2022-10-03, 19:56:02](https://lobste.rs/s/stjjaf/sbom_frenzy_is_premature) - [The SBOM Frenzy is Premature](https://blog.crashoverride.com/the-sbom-frenzy-is-premature)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
 * [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
