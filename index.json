@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 13:08:45",
+      "https://lobste.rs/s/uojt80/socket_sdk"
+    ],
+    [
+      "Socket SDK",
+      "https://sockets.sh/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 12:26:28",
       "https://lobste.rs/s/f0bmby/deploying_django_app_with_fly_io"
     ],
@@ -227,16 +237,6 @@
     [
       "Linux 6.0",
       "https://www.lkml.org/lkml/2022/10/2/255"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 21:37:14",
-      "https://lobste.rs/s/edgyea/writing_dns_server_rust"
-    ],
-    [
-      "Writing a DNS Server in Rust",
-      "https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn"
     ]
   ],
   [
