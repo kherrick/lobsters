@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-10-03, 23:38:49",
+      "https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun"
+    ],
+    [
+      "I turned JS into a compiled language (for fun and Wasm)",
+      "https://surma.dev/things/compile-js/"
+    ]
+  ],
+  [
+    [
       "2022-10-03, 21:30:44",
       "https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite"
     ],
@@ -127,16 +137,6 @@
     [
       "Simplify your model code in Rails by avoiding association pollution",
       "https://calebhearth.com/association-pollution"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 15:41:26",
-      "https://lobste.rs/s/1h4jnn/illuminating_synchronization_edges_for"
-    ],
-    [
-      "Illuminating synchronization edges for ThreadSanitizer",
-      "https://nullprogram.com/blog/2022/10/03/"
     ]
   ],
   [
