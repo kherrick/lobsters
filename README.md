@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
+* [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
+* [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
 * [2022-10-04, 13:08:45](https://lobste.rs/s/uojt80/socket_sdk) - [Socket SDK](https://sockets.sh/)
@@ -9,11 +12,9 @@
 * [2022-10-04, 10:04:52](https://lobste.rs/s/pf4mis/world_s_oldest_webcam_is_still_watching) - [The world's oldest webcam is still watching over SF](https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
-* [2022-10-04, 02:20:44](https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both) - [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [2022-10-03, 23:38:49](https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun) - [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
-* [2022-10-03, 20:28:02](https://lobste.rs/s/k24cff/mnt_rkx7_open_hardware_fpga_cpu_module) - [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
 * [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
@@ -22,7 +23,6 @@
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 * [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
 * [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
-* [2022-10-03, 11:07:06](https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming) - [Game Scripting with Logic Programming](https://blog.cameldridge.com/article/20200828-logic-game-scripting/)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-04](index.md)
 
+* [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
+* [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
+* [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
 * [2022-10-04, 13:08:45](https://lobste.rs/s/uojt80/socket_sdk) - [Socket SDK](https://sockets.sh/)
