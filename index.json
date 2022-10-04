@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 09:51:46",
+      "https://lobste.rs/s/hpaukh/ipv4_turf_war"
+    ],
+    [
+      "IPv4 Turf War",
+      "https://ipv4.games/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 04:08:04",
       "https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux"
     ],
@@ -107,16 +117,6 @@
     [
       "Simplify your model code in Rails by avoiding association pollution",
       "https://calebhearth.com/association-pollution"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 16:04:23",
-      "https://lobste.rs/s/eian8s/audiogen_textually_guided_audio"
-    ],
-    [
-      "AudioGen: Textually Guided Audio Generation",
-      "https://felixkreuk.github.io/text2audio_arxiv_samples/"
     ]
   ],
   [
