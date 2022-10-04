@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-04, 22:18:05",
+      "https://lobste.rs/s/na2zjp/netlink_added_freebsd_unmodified_linux"
+    ],
+    [
+      "Netlink Added to FreeBSD - Unmodified Linux ip(8) Correctly Works",
+      "https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 22:16:25",
+      "https://lobste.rs/s/5igzbp/devbox_from_1000_lines_container_script"
+    ],
+    [
+      "Devbox: From 1000+ lines of container script to less than 10 lines of JSON",
+      "https://www.jetpack.io/blog/devbox-turn-a-1000-container-script-into-10-lines/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 22:15:21",
+      "https://lobste.rs/s/f5sqrf/red_hat_openshift_versus_freebsd_jails"
+    ],
+    [
+      "Red Hat OpenShift versus FreeBSD Jails",
+      "https://klarasystems.com/articles/red-hats-openshift-vs-freebsd-jails/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 20:50:22",
       "https://lobste.rs/s/zksp2g/illustrated_stable_diffusion"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-10-04, 10:04:52",
-      "https://lobste.rs/s/pf4mis/world_s_oldest_webcam_is_still_watching"
-    ],
-    [
-      "The world's oldest webcam is still watching over SF",
-      "https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 09:51:46",
       "https://lobste.rs/s/hpaukh/ipv4_turf_war"
     ],
@@ -177,26 +197,6 @@
     [
       "How (and why) nextest uses tokio, part 1",
       "https://sunshowers.io/posts/nextest-and-tokio-1/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 18:13:32",
-      "https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl"
-    ],
-    [
-      "An efficient image format for SDL",
-      "https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 16:14:32",
-      "https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by"
-    ],
-    [
-      "Simplify your model code in Rails by avoiding association pollution",
-      "https://calebhearth.com/association-pollution"
     ]
   ],
   [
