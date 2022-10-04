@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 02:20:44",
+      "https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both"
+    ],
+    [
+      "Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate",
+      "https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 00:58:48",
       "https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics"
     ],
@@ -197,16 +207,6 @@
     [
       "LKML: Linus Torvalds: Linux 6.0",
       "https://www.lkml.org/lkml/2022/10/2/255"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 23:32:52",
-      "https://lobste.rs/s/pbxnch/saga_dangerous_dave"
-    ],
-    [
-      "The Saga of Dangerous Dave",
-      "http://www.dangerousdave.com/saga"
     ]
   ],
   [
