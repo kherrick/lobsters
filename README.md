@@ -14,6 +14,7 @@
 * [2022-10-04, 12:26:28](https://lobste.rs/s/f0bmby/deploying_django_app_with_fly_io) - [Deploying a Django app with fly.io](https://davi.sh/blog/2022/10/django-with-flyio/)
 * [2022-10-04, 11:32:40](https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa) - [OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)](https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
+* [2022-10-04, 10:04:52](https://lobste.rs/s/pf4mis/world_s_oldest_webcam_is_still_watching) - [The world's oldest webcam is still watching over SF](https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
@@ -24,7 +25,6 @@
 * [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
 * [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
-* [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 
 ## [Archives](archives/index.md)
 
