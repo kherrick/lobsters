@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 12:26:28](https://lobste.rs/s/f0bmby/deploying_django_app_with_fly_io) - [Deploying a Django app with fly.io](https://davi.sh/blog/2022/10/django-with-flyio/)
 * [2022-10-04, 11:32:40](https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa) - [OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)](https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 10:04:52](https://lobste.rs/s/pf4mis/world_s_oldest_webcam_is_still_watching) - [The world's oldest webcam is still watching over SF](https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php)
@@ -23,7 +24,6 @@
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/linux_6_0) - [Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
-* [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 
 ## [Archives](archives/index.md)
