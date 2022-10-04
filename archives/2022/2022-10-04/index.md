@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-04](index.md)
 
+* [2022-10-04, 20:50:22](https://lobste.rs/s/zksp2g/illustrated_stable_diffusion) - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [2022-10-04, 19:11:03](https://lobste.rs/s/uudmtt/steve_yegge_joins_sourcegraph_from) - [Steve Yegge joins Sourcegraph from retirement as Head of Engineering](https://about.sourcegraph.com/blog/introducing-steve-yegge)
 * [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
 * [2022-10-04, 17:51:54](https://lobste.rs/s/boj9al/highlights_from_git_2_38) - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
