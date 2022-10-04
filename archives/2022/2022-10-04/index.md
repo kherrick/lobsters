@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-04](index.md)
 
+* [2022-10-04, 22:18:05](https://lobste.rs/s/na2zjp/netlink_added_freebsd_unmodified_linux) - [Netlink Added to FreeBSD - Unmodified Linux ip(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
+* [2022-10-04, 22:16:25](https://lobste.rs/s/5igzbp/devbox_from_1000_lines_container_script) - [Devbox: From 1000+ lines of container script to less than 10 lines of JSON](https://www.jetpack.io/blog/devbox-turn-a-1000-container-script-into-10-lines/)
+* [2022-10-04, 22:15:21](https://lobste.rs/s/f5sqrf/red_hat_openshift_versus_freebsd_jails) - [Red Hat OpenShift versus FreeBSD Jails](https://klarasystems.com/articles/red-hats-openshift-vs-freebsd-jails/)
 * [2022-10-04, 20:50:22](https://lobste.rs/s/zksp2g/illustrated_stable_diffusion) - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [2022-10-04, 19:11:03](https://lobste.rs/s/uudmtt/steve_yegge_joins_sourcegraph_from) - [Steve Yegge joins Sourcegraph from retirement as Head of Engineering](https://about.sourcegraph.com/blog/introducing-steve-yegge)
 * [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
