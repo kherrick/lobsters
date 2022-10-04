@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 19:11:03",
+      "https://lobste.rs/s/uudmtt/steve_yegge_joins_sourcegraph_from"
+    ],
+    [
+      "Steve Yegge joins Sourcegraph from retirement as Head of Engineering",
+      "https://about.sourcegraph.com/blog/introducing-steve-yegge"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 18:26:44",
       "https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust"
     ],
@@ -67,16 +77,6 @@
     [
       "The Solid-State Register Allocator",
       "https://www.mattkeeter.com/blog/2022-10-04-ssra/"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 13:08:45",
-      "https://lobste.rs/s/uojt80/socket_sdk"
-    ],
-    [
-      "Socket SDK",
-      "https://sockets.sh/"
     ]
   ],
   [
