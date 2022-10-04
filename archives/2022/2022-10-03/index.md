@@ -28,5 +28,6 @@
 * [2022-10-03, 09:56:54](https://lobste.rs/s/i6fmff/user_controlled_authorization_networks) - [User Controlled Authorization Networks (UCAN) Distributed Auth](https://ucan.xyz/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
+* [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/linux_6_0) - [Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
 * [2022-10-03, 04:36:26](https://lobste.rs/s/g3tf63/zolatron_64_writing_os_for_6502_homebrew) - [Zolatron 64: Writing an OS for a 6502 homebrew computer](https://mansfield-devine.com/speculatrix/2022/10/zolatron-64-writing-an-os-for-a-6502-homebrew-computer/)
 * [2022-10-03, 04:31:57](https://lobste.rs/s/sd6kr9/uniffi_multi_language_bindings) - [UniFFI: a multi-language bindings generator for Rust](https://github.com/mozilla/uniffi-rs)
