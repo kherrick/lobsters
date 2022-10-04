@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-04, 16:29:34",
+      "https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard"
+    ],
+    [
+      "Software supply chain security is hard",
+      "https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 16:27:05",
+      "https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan"
+    ],
+    [
+      "Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa",
+      "https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 16:04:30",
+      "https://lobste.rs/s/qhjxlq/comic_code_fonts"
+    ],
+    [
+      "Comic Code fonts",
+      "https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 14:47:02",
       "https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-10-04, 02:20:44",
-      "https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both"
-    ],
-    [
-      "Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate",
-      "https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/"
-    ]
-  ],
-  [
-    [
       "2022-10-04, 00:58:48",
       "https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics"
     ],
@@ -127,16 +147,6 @@
     [
       "Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week",
       "https://github.com/jamii/hytradboi-jam-2022"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 20:28:02",
-      "https://lobste.rs/s/k24cff/mnt_rkx7_open_hardware_fpga_cpu_module"
-    ],
-    [
-      "MNT RKX7 Open Hardware FPGA CPU Module Showcase",
-      "https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "UML: My Part in its Downfall",
       "https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 11:07:06",
-      "https://lobste.rs/s/24h7zi/game_scripting_with_logic_programming"
-    ],
-    [
-      "Game Scripting with Logic Programming",
-      "https://blog.cameldridge.com/article/20200828-logic-game-scripting/"
     ]
   ],
   [
