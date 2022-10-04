@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 02:20:44](https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both) - [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [2022-10-03, 23:38:49](https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun) - [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
@@ -20,7 +21,6 @@
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 * [2022-10-03, 09:10:30](https://lobste.rs/s/qjhqmt/es_extensible_shell) - [es - extensible shell](http://wryun.github.io/es-shell/)
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
-* [2022-10-02, 23:32:52](https://lobste.rs/s/pbxnch/saga_dangerous_dave) - [The Saga of Dangerous Dave](http://www.dangerousdave.com/saga)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
