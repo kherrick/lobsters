@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-04](index.md)
 
+* [2022-10-04, 11:32:40](https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa) - [OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)](https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 10:04:52](https://lobste.rs/s/pf4mis/world_s_oldest_webcam_is_still_watching) - [The world's oldest webcam is still watching over SF](https://www.sfgate.com/obscuresf/article/oldest-webcam-watches-san-francisco-17467544.php)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
