@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 04:08:04",
+      "https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux"
+    ],
+    [
+      "Introductory Rust Support merged in linux",
+      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 02:20:44",
       "https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both"
     ],
@@ -227,16 +237,6 @@
     [
       "You don't need Scrum. You just need to do Kanban right",
       "https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 15:59:22",
-      "https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux"
-    ],
-    [
-      "Setting up a Nomad cluster on Linux",
-      "https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/"
     ]
   ],
   [
