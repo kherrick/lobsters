@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 23:30:38](https://lobste.rs/s/9vh0bc/solid_principles_sketches) - [SOLID Principles Sketches](https://okso.app/showcase/solid)
 * [2022-10-04, 22:18:05](https://lobste.rs/s/na2zjp/netlink_added_freebsd_unmodified_linux) - [Netlink Added to FreeBSD - Unmodified Linux ip(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
 * [2022-10-04, 22:16:25](https://lobste.rs/s/5igzbp/devbox_from_1000_lines_container_script) - [Devbox: From 1000+ lines of container script to less than 10 lines of JSON](https://www.jetpack.io/blog/devbox-turn-a-1000-container-script-into-10-lines/)
 * [2022-10-04, 22:15:21](https://lobste.rs/s/f5sqrf/red_hat_openshift_versus_freebsd_jails) - [Red Hat OpenShift versus FreeBSD Jails](https://klarasystems.com/articles/red-hats-openshift-vs-freebsd-jails/)
@@ -22,7 +23,6 @@
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
-* [2022-10-03, 12:47:00](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fmte/what_are_you_doing_this_week)
 * [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 * [2022-10-03, 10:34:56](https://lobste.rs/s/i2redh/android_s_unlikely_success) - [Android's Unlikely Success](https://corecursive.com/android-with-chet-haase/)
 
