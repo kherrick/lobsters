@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 * [2022-10-04, 02:20:44](https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both) - [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [2022-10-03, 23:38:49](https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun) - [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
@@ -23,7 +24,6 @@
 * [2022-10-03, 06:27:26](https://lobste.rs/s/ji2os6/lkml_linus_torvalds_linux_6_0) - [LKML: Linus Torvalds: Linux 6.0](https://www.lkml.org/lkml/2022/10/2/255)
 * [2022-10-02, 21:37:14](https://lobste.rs/s/edgyea/writing_dns_server_rust) - [Writing a DNS Server in Rust](https://dev.to/xfbs/writing-a-dns-server-in-rust-1gpn)
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-* [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
 
 ## [Archives](archives/index.md)
