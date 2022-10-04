@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 19:11:03](https://lobste.rs/s/uudmtt/steve_yegge_joins_sourcegraph_from) - [Steve Yegge joins Sourcegraph from retirement as Head of Engineering](https://about.sourcegraph.com/blog/introducing-steve-yegge)
 * [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
 * [2022-10-04, 17:51:54](https://lobste.rs/s/boj9al/highlights_from_git_2_38) - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 * [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
@@ -7,7 +8,6 @@
 * [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
-* [2022-10-04, 13:08:45](https://lobste.rs/s/uojt80/socket_sdk) - [Socket SDK](https://sockets.sh/)
 * [2022-10-04, 12:26:28](https://lobste.rs/s/f0bmby/deploying_django_app_with_fly_io) - [Deploying a Django app with fly.io](https://davi.sh/blog/2022/10/django-with-flyio/)
 * [2022-10-04, 11:32:40](https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa) - [OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)](https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
