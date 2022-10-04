@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 * [2022-10-04, 02:20:44](https://lobste.rs/s/c30ump/faster_more_flexible_inference_on_both) - [Faster, more flexible inference on both AMD and NVIDIA GPUs using AITemplate](https://ai.facebook.com/blog/gpu-inference-engine-nvidia-amd-open-source/)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
@@ -11,7 +12,6 @@
 * [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
-* [2022-10-03, 16:04:23](https://lobste.rs/s/eian8s/audiogen_textually_guided_audio) - [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 * [2022-10-03, 15:41:26](https://lobste.rs/s/1h4jnn/illuminating_synchronization_edges_for) - [Illuminating synchronization edges for ThreadSanitizer](https://nullprogram.com/blog/2022/10/03/)
 * [2022-10-03, 13:37:47](https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for) - [On \"Correct and Efficient Work-Stealing for Weak Memory Models\"](https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
