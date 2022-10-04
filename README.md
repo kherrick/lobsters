@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [2022-10-03, 23:38:49](https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun) - [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 * [2022-10-03, 20:28:02](https://lobste.rs/s/k24cff/mnt_rkx7_open_hardware_fpga_cpu_module) - [MNT RKX7 Open Hardware FPGA CPU Module Showcase](https://mntre.com/media/reform_md/2022-09-29-rkx7-showcase.html)
@@ -24,7 +25,6 @@
 * [2022-10-02, 20:01:21](https://lobste.rs/s/44anuz/you_don_t_need_scrum_you_just_need_do_kanban) - [You don't need Scrum. You just need to do Kanban right](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2022-10-02, 15:59:22](https://lobste.rs/s/cy3di6/setting_up_nomad_cluster_on_linux) - [Setting up a Nomad cluster on Linux](https://www.entropy1729.com/setting-up-a-nomad-cluster-on-linux/)
 * [2022-10-02, 12:50:21](https://lobste.rs/s/yjwgk1/hyperlinks_handwriting) - [Hyperlinks in handwriting](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html)
-* [2022-10-02, 02:05:43](https://lobste.rs/s/h3gcbb/elegy_for_gnu_rms) - [An elegy for GNU and RMS](https://catgirl.ai/log/elegy-gnu/)
 
 ## [Archives](archives/index.md)
 
