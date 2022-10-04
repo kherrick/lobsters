@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 11:32:40",
+      "https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa"
+    ],
+    [
+      "OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)",
+      "https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 10:19:23",
       "https://lobste.rs/s/r5c6o8/git_worktrees"
     ],
@@ -137,16 +147,6 @@
     [
       "Simplify your model code in Rails by avoiding association pollution",
       "https://calebhearth.com/association-pollution"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 13:37:47",
-      "https://lobste.rs/s/zj1ahy/on_correct_efficient_work_stealing_for"
-    ],
-    [
-      "On \"Correct and Efficient Work-Stealing for Weak Memory Models\"",
-      "https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models"
     ]
   ],
   [
