@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-04, 14:47:02",
+      "https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again"
+    ],
+    [
+      "SQLite: QEMU all over again?",
+      "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c"
+    ]
+  ],
+  [
+    [
+      "2022-10-04, 14:24:07",
+      "https://lobste.rs/s/od8rzt/solid_state_register_allocator"
+    ],
+    [
+      "The Solid-State Register Allocator",
+      "https://www.mattkeeter.com/blog/2022-10-04-ssra/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 13:08:45",
       "https://lobste.rs/s/uojt80/socket_sdk"
     ],
@@ -227,26 +247,6 @@
     [
       "es - extensible shell",
       "http://wryun.github.io/es-shell/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 06:27:26",
-      "https://lobste.rs/s/ji2os6/linux_6_0"
-    ],
-    [
-      "Linux 6.0",
-      "https://www.lkml.org/lkml/2022/10/2/255"
-    ]
-  ],
-  [
-    [
-      "2022-10-02, 12:50:21",
-      "https://lobste.rs/s/yjwgk1/hyperlinks_handwriting"
-    ],
-    [
-      "Hyperlinks in handwriting",
-      "https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html"
     ]
   ]
 ]
