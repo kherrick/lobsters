@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
 * [2022-10-04, 17:51:54](https://lobste.rs/s/boj9al/highlights_from_git_2_38) - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 * [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
 * [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
@@ -17,7 +18,6 @@
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
-* [2022-10-03, 18:52:48](https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard) - [The Smartest Website You Haven't Heard of](https://www.bedelstein.com/post/mcmaster-carr)
 * [2022-10-03, 18:13:32](https://lobste.rs/s/5w1vrn/efficient_image_format_for_sdl) - [An efficient image format for SDL](https://studios.ptilouk.net/superfluous-returnz/blog/2022-09-28_compression.html)
 * [2022-10-03, 16:14:32](https://lobste.rs/s/iiam3q/simplify_your_model_code_rails_by) - [Simplify your model code in Rails by avoiding association pollution](https://calebhearth.com/association-pollution)
 * [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
