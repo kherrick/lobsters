@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 18:26:44",
+      "https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust"
+    ],
+    [
+      "Implementing truly safe semaphores in rust, and the costs we pay for safety",
+      "https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 17:51:54",
       "https://lobste.rs/s/boj9al/highlights_from_git_2_38"
     ],
@@ -167,16 +177,6 @@
     [
       "How (and why) nextest uses tokio, part 1",
       "https://sunshowers.io/posts/nextest-and-tokio-1/"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 18:52:48",
-      "https://lobste.rs/s/jnfk0b/smartest_website_you_haven_t_heard"
-    ],
-    [
-      "The Smartest Website You Haven't Heard of",
-      "https://www.bedelstein.com/post/mcmaster-carr"
     ]
   ],
   [
