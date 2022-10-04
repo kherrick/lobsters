@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-04](index.md)
 
+* [2022-10-04, 17:51:54](https://lobste.rs/s/boj9al/highlights_from_git_2_38) - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 * [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
 * [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
 * [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)

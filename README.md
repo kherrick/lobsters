@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-04, 17:51:54](https://lobste.rs/s/boj9al/highlights_from_git_2_38) - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 * [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
 * [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
 * [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)
@@ -13,7 +14,6 @@
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
-* [2022-10-03, 23:38:49](https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun) - [I turned JS into a compiled language (for fun and Wasm)](https://surma.dev/things/compile-js/)
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 * [2022-10-03, 20:06:14](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev) - [Windows equivalents for common Mac dev tools](https://lobste.rs/s/39ecq9/windows_equivalents_for_common_mac_dev)
 * [2022-10-03, 19:34:09](https://lobste.rs/s/gqf2cq/how_why_nextest_uses_tokio_part_1) - [How (and why) nextest uses tokio, part 1](https://sunshowers.io/posts/nextest-and-tokio-1/)
