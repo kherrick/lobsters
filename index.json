@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-04, 17:51:54",
+      "https://lobste.rs/s/boj9al/highlights_from_git_2_38"
+    ],
+    [
+      "Highlights from Git 2.38",
+      "https://github.blog/2022-10-03-highlights-from-git-2-38/"
+    ]
+  ],
+  [
+    [
       "2022-10-04, 16:29:34",
       "https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard"
     ],
@@ -127,16 +137,6 @@
     [
       "redefining for loop variable semantics",
       "https://github.com/golang/go/discussions/56010"
-    ]
-  ],
-  [
-    [
-      "2022-10-03, 23:38:49",
-      "https://lobste.rs/s/qlze58/i_turned_js_into_compiled_language_for_fun"
-    ],
-    [
-      "I turned JS into a compiled language (for fun and Wasm)",
-      "https://surma.dev/things/compile-js/"
     ]
   ],
   [
