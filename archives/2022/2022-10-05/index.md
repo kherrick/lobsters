@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-05](index.md)
 
+* [2022-10-05, 09:52:07](https://lobste.rs/s/714ech/coding_for_economists) - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 05:02:14](https://lobste.rs/s/qkudkg/building_startup_on_clojure) - [Building a startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
 * [2022-10-05, 03:21:04](https://lobste.rs/s/jbvhjg/expert_software_developers_approach) - [Expert Software Developers' Approach to Error](https://www.youtube.com/watch?v=UNMF5AS4SLg)
