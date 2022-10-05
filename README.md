@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 05:02:14](https://lobste.rs/s/qkudkg/building_startup_on_clojure) - [Building a startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
 * [2022-10-05, 03:21:04](https://lobste.rs/s/jbvhjg/expert_software_developers_approach) - [Expert Software Developers' Approach to Error](https://www.youtube.com/watch?v=UNMF5AS4SLg)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
@@ -23,7 +24,6 @@
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 * [2022-10-04, 00:58:48](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics) - [redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
-* [2022-10-03, 13:31:53](https://lobste.rs/s/tb84fm/what_color_is_your_markup) - [what color is your markup?](https://t-ravis.com/post/doc/what_color_is_your_markup/)
 * [2022-10-03, 12:35:04](https://lobste.rs/s/0fvkl3/uml_my_part_its_downfall) - [UML: My Part in its Downfall](https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html)
 
 ## [Archives](archives/index.md)
