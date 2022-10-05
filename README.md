@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 * [2022-10-05, 16:35:34](https://lobste.rs/s/gkboge/pl_haskell_v1_0_released) - [PL/Haskell v1.0 Released](https://www.postgresql.org/about/news/plhaskell-v10-released-2519/)
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
@@ -11,7 +12,6 @@
 * [2022-10-05, 12:19:14](https://lobste.rs/s/wuazdc/crypto_rust_collaboration_vs_consensus) - [Crypto, Rust, Collaboration vs Consensus](https://tably.com/blog/decentralisation)
 * [2022-10-05, 09:52:07](https://lobste.rs/s/714ech/coding_for_economists) - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
-* [2022-10-05, 05:02:14](https://lobste.rs/s/qkudkg/building_startup_on_clojure) - [Building a startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
 * [2022-10-04, 23:30:38](https://lobste.rs/s/9vh0bc/solid_principles_sketches) - [SOLID Principles Sketches](https://okso.app/showcase/solid)
