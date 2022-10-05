@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-05, 17:03:09",
+      "https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition"
+    ],
+    [
+      "Practical OCaml, Multicore Edition",
+      "https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 16:35:34",
       "https://lobste.rs/s/gkboge/pl_haskell_v1_0_released"
     ],
@@ -107,16 +117,6 @@
     [
       "Postgres: a better message queue than Kafka?",
       "https://dagster.io/blog/skip-kafka-use-postgres-message-queue"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 05:02:14",
-      "https://lobste.rs/s/qkudkg/building_startup_on_clojure"
-    ],
-    [
-      "Building a startup on Clojure",
-      "https://wobaka.com/blog/building-a-startup-on-clojure/"
     ]
   ],
   [
