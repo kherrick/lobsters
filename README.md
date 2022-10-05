@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 20:34:37](https://lobste.rs/s/zqtrzu/turning_thunderbird_into_decryption) - [Turning Thunderbird into a Decryption Oracle](https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html)
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 * [2022-10-05, 16:35:34](https://lobste.rs/s/gkboge/pl_haskell_v1_0_released) - [PL/Haskell v1.0 Released](https://www.postgresql.org/about/news/plhaskell-v10-released-2519/)
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
-* [2022-10-05, 15:14:14](https://lobste.rs/s/ph5ts1/phony_pypi_package_imitates_known) - [Phony PyPi package imitates known developer](https://snyk.io/blog/pypi-package-imitates-known-developer/)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
