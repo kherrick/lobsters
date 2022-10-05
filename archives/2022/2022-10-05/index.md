@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-05](index.md)
 
+* [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 * [2022-10-05, 15:14:14](https://lobste.rs/s/ph5ts1/phony_pypi_package_imitates_known) - [Phony PyPi package imitates known developer](https://snyk.io/blog/pypi-package-imitates-known-developer/)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
