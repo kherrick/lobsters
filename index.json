@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-05, 23:49:13",
+      "https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer"
+    ],
+    [
+      "How to build a WaitGroup from a 32-bit integer",
+      "https://nullprogram.com/blog/2022/10/05/"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 23:30:35",
       "https://lobste.rs/s/37fdu3/so_you_re_using_weird_language"
     ],
@@ -137,16 +147,6 @@
     [
       "Reasoning about asyncio.Semaphore",
       "http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 13:12:08",
-      "https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using"
-    ],
-    [
-      "How to \"bundle install\" in deployment mode, using bundler in docker",
-      "https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html"
     ]
   ],
   [
