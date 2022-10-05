@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 23:49:13](https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer) - [How to build a WaitGroup from a 32-bit integer](https://nullprogram.com/blog/2022/10/05/)
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
 * [2022-10-05, 22:36:46](https://lobste.rs/s/bu1pba/single_pass_recursion_rust) - [Single Pass Recursion in Rust](https://recursion.wtf/posts/rust_schemes_3/)
 * [2022-10-05, 22:12:31](https://lobste.rs/s/3ilxis/routing_postgresql_queries_between_read) - [Routing PostgreSQL queries between read-write & read-only instances](https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances)
@@ -14,7 +15,6 @@
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
-* [2022-10-05, 13:12:08](https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using) - [How to \"bundle install\" in deployment mode, using bundler in docker](https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 * [2022-10-05, 12:19:14](https://lobste.rs/s/wuazdc/crypto_rust_collaboration_vs_consensus) - [Crypto, Rust, Collaboration vs Consensus](https://tably.com/blog/decentralisation)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
