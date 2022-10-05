@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 * [2022-10-05, 16:35:34](https://lobste.rs/s/gkboge/pl_haskell_v1_0_released) - [PL/Haskell v1.0 Released](https://www.postgresql.org/about/news/plhaskell-v10-released-2519/)
@@ -7,6 +8,7 @@
 * [2022-10-05, 15:14:14](https://lobste.rs/s/ph5ts1/phony_pypi_package_imitates_known) - [Phony PyPi package imitates known developer](https://snyk.io/blog/pypi-package-imitates-known-developer/)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
+* [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
 * [2022-10-05, 13:12:08](https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using) - [How to \"bundle install\" in deployment mode, using bundler in docker](https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 * [2022-10-05, 12:19:14](https://lobste.rs/s/wuazdc/crypto_rust_collaboration_vs_consensus) - [Crypto, Rust, Collaboration vs Consensus](https://tably.com/blog/decentralisation)
@@ -17,8 +19,6 @@
 * [2022-10-04, 23:30:38](https://lobste.rs/s/9vh0bc/solid_principles_sketches) - [SOLID Principles Sketches](https://okso.app/showcase/solid)
 * [2022-10-04, 20:50:22](https://lobste.rs/s/zksp2g/illustrated_stable_diffusion) - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
-* [2022-10-04, 16:29:34](https://lobste.rs/s/r6vxfk/software_supply_chain_security_is_hard) - [Software supply chain security is hard](https://r2c.dev/blog/2022/software-supply-chain-security-is-hard/)
-* [2022-10-04, 16:27:05](https://lobste.rs/s/3u2dpw/introducing_nvk_new_open_source_vulkan) - [Introducing NVK, a new open-source Vulkan driver for NVIDIA hardware in Mesa](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html)
 * [2022-10-04, 16:04:30](https://lobste.rs/s/qhjxlq/comic_code_fonts) - [Comic Code fonts](https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
