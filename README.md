@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 15:14:14](https://lobste.rs/s/ph5ts1/phony_pypi_package_imitates_known) - [Phony PyPi package imitates known developer](https://snyk.io/blog/pypi-package-imitates-known-developer/)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
@@ -24,7 +25,6 @@
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
-* [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 
 ## [Archives](archives/index.md)
 
