@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-05](index.md)
 
+* [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
 * [2022-10-05, 13:12:08](https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using) - [How to \"bundle install\" in deployment mode, using bundler in docker](https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html)

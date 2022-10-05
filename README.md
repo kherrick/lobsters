@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
 * [2022-10-05, 13:12:08](https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using) - [How to \"bundle install\" in deployment mode, using bundler in docker](https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html)
@@ -10,8 +11,6 @@
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
 * [2022-10-04, 23:30:38](https://lobste.rs/s/9vh0bc/solid_principles_sketches) - [SOLID Principles Sketches](https://okso.app/showcase/solid)
-* [2022-10-04, 22:18:05](https://lobste.rs/s/na2zjp/netlink_added_freebsd_unmodified_linux) - [Netlink Added to FreeBSD - Unmodified Linux ip(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
-* [2022-10-04, 22:16:25](https://lobste.rs/s/5igzbp/devbox_from_1000_lines_container_script) - [Devbox: From 1000+ lines of container script to less than 10 lines of JSON](https://www.jetpack.io/blog/devbox-turn-a-1000-container-script-into-10-lines/)
 * [2022-10-04, 22:15:21](https://lobste.rs/s/f5sqrf/red_hat_openshift_versus_freebsd_jails) - [Red Hat OpenShift versus FreeBSD Jails](https://klarasystems.com/articles/red-hats-openshift-vs-freebsd-jails/)
 * [2022-10-04, 20:50:22](https://lobste.rs/s/zksp2g/illustrated_stable_diffusion) - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 * [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
@@ -25,6 +24,7 @@
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
+* [2022-10-03, 21:30:44](https://lobste.rs/s/ij1bzq/goal_pass_all_4259065_tests_sqlite) - [Goal: Pass all 4259065 tests in sqlite sqllogictest in 1 week](https://github.com/jamii/hytradboi-jam-2022)
 
 ## [Archives](archives/index.md)
 
