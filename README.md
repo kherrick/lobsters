@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 05:02:14](https://lobste.rs/s/qkudkg/building_startup_on_clojure) - [Building a startup on Clojure](https://wobaka.com/blog/building-a-startup-on-clojure/)
 * [2022-10-05, 03:21:04](https://lobste.rs/s/jbvhjg/expert_software_developers_approach) - [Expert Software Developers' Approach to Error](https://www.youtube.com/watch?v=UNMF5AS4SLg)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-05, 00:16:20](https://lobste.rs/s/3ttjz5/does_stress_impact_technical_interview) - [Does Stress Impact Technical Interview Performance?](https://gameweld.medium.com/the-case-for-the-private-technical-interview-4a92947e1692)
@@ -17,7 +18,6 @@
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
 * [2022-10-04, 12:26:28](https://lobste.rs/s/f0bmby/deploying_django_app_with_fly_io) - [Deploying a Django app with fly.io](https://davi.sh/blog/2022/10/django-with-flyio/)
-* [2022-10-04, 11:32:40](https://lobste.rs/s/k2jk0m/openbsd_manage_dns_dnssec_automate_tlsa) - [OpenBSD: Manage DNS, DNSSEC (to automate TLSA records)](https://doc.huc.fr.eu.org/en/post/openbsd-nsd-dnssec-tlsa/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 * [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
