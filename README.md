@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
 * [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
 * [2022-10-05, 13:12:08](https://lobste.rs/s/py23js/how_bundle_install_deployment_mode_using) - [How to \"bundle install\" in deployment mode, using bundler in docker](https://honeyryderchuck.gitlab.io/httpx/2022/10/03/how-to-bundle-production-mode-in-docker.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
@@ -7,7 +8,6 @@
 * [2022-10-05, 09:52:07](https://lobste.rs/s/714ech/coding_for_economists) - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
-* [2022-10-05, 00:16:20](https://lobste.rs/s/3ttjz5/does_stress_impact_technical_interview) - [Does Stress Impact Technical Interview Performance?](https://gameweld.medium.com/the-case-for-the-private-technical-interview-4a92947e1692)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
 * [2022-10-04, 23:30:38](https://lobste.rs/s/9vh0bc/solid_principles_sketches) - [SOLID Principles Sketches](https://okso.app/showcase/solid)
 * [2022-10-04, 22:18:05](https://lobste.rs/s/na2zjp/netlink_added_freebsd_unmodified_linux) - [Netlink Added to FreeBSD - Unmodified Linux ip(8) Correctly Works](https://cgit.freebsd.org/src/commit/?id=7e5bf68495cc0a8c9793a338a8a02009a7f6dbb6)
