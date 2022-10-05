@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-05](index.md)
 
+* [2022-10-05, 21:37:25](https://lobste.rs/s/vinnhg/where_web_components_went_wrong_how_we_can) - [Where Web Components Went Wrong (And How We Can Turn It Around)](https://space.matthewphillips.info/posts/where-web-components-went-wrong/)
+* [2022-10-05, 21:36:53](https://lobste.rs/s/onrvga/is_ai_spell_casting_metaphor_harmful) - [Is the AI spell-casting metaphor harmful or helpful?](https://simonwillison.net/2022/Oct/5/spell-casting/)
 * [2022-10-05, 21:29:01](https://lobste.rs/s/im2b71/30_min_create_your_first_blockchain_app) - [30 min to create your first Blockchain app with Typescript & Deku](https://www.marigold.dev/post/30-min-to-create-your-first-blockchain-app-with-typescript-deku)
 * [2022-10-05, 20:34:37](https://lobste.rs/s/zqtrzu/turning_thunderbird_into_decryption) - [Turning Thunderbird into a Decryption Oracle](https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html)
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)

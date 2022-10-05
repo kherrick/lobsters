@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-05, 21:29:01](https://lobste.rs/s/im2b71/30_min_create_your_first_blockchain_app) - [30 min to create your first Blockchain app with Typescript & Deku](https://www.marigold.dev/post/30-min-to-create-your-first-blockchain-app-with-typescript-deku)
+* [2022-10-05, 21:37:25](https://lobste.rs/s/vinnhg/where_web_components_went_wrong_how_we_can) - [Where Web Components Went Wrong (And How We Can Turn It Around)](https://space.matthewphillips.info/posts/where-web-components-went-wrong/)
+* [2022-10-05, 21:36:53](https://lobste.rs/s/onrvga/is_ai_spell_casting_metaphor_harmful) - [Is the AI spell-casting metaphor harmful or helpful?](https://simonwillison.net/2022/Oct/5/spell-casting/)
 * [2022-10-05, 20:34:37](https://lobste.rs/s/zqtrzu/turning_thunderbird_into_decryption) - [Turning Thunderbird into a Decryption Oracle](https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html)
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
@@ -24,7 +25,6 @@
 * [2022-10-04, 14:24:07](https://lobste.rs/s/od8rzt/solid_state_register_allocator) - [The Solid-State Register Allocator](https://www.mattkeeter.com/blog/2022-10-04-ssra/)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
-* [2022-10-04, 04:08:04](https://lobste.rs/s/otyvbx/introductory_rust_support_merged_linux) - [Introductory Rust Support merged in linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b)
 
 ## [Archives](archives/index.md)
 
