@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-06, 01:53:52",
+      "https://lobste.rs/s/u6nrj0/struggles_building_feed_reader"
+    ],
+    [
+      "The struggles of building a Feed Reader",
+      "https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/"
+    ]
+  ],
+  [
+    [
       "2022-10-05, 23:49:13",
       "https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer"
     ],
@@ -217,16 +227,6 @@
     [
       "SQLite: QEMU all over again?",
       "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 14:24:07",
-      "https://lobste.rs/s/od8rzt/solid_state_register_allocator"
-    ],
-    [
-      "The Solid-State Register Allocator",
-      "https://www.mattkeeter.com/blog/2022-10-04-ssra/"
     ]
   ],
   [
