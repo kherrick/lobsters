@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-06, 20:25:52",
+      "https://lobste.rs/s/lo1nmx/github_naftaliharris_tauthon_fork"
+    ],
+    [
+      "GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3",
+      "https://github.com/naftaliharris/tauthon"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 20:17:26",
+      "https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on"
+    ],
+    [
+      "I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age",
+      "https://liam-on-linux.dreamwidth.org/87435.html"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 17:39:32",
       "https://lobste.rs/s/xq00ml/hevc_uapi_mainlined"
     ],
@@ -27,16 +47,6 @@
     [
       "Apple AirPods Pro Are As Unrepairable As Ever",
       "https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 15:38:06",
-      "https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is"
-    ],
-    [
-      "GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend",
-      "https://github.com/twitter/pelikan"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Routing PostgreSQL queries between read-write & read-only instances",
       "https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 21:37:25",
-      "https://lobste.rs/s/vinnhg/where_web_components_went_wrong_how_we_can"
-    ],
-    [
-      "Where Web Components Went Wrong (And How We Can Turn It Around)",
-      "https://space.matthewphillips.info/posts/where-web-components-went-wrong/"
     ]
   ],
   [
