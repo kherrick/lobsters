@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 21:12:48](https://lobste.rs/s/o83lbm/construction_analysis_build_runtime) - [Construction and analysis of the build and runtime dependency graph of nixpkgs](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
 * [2022-10-06, 20:25:52](https://lobste.rs/s/lo1nmx/github_naftaliharris_tauthon_fork) - [GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 17:39:32](https://lobste.rs/s/xq00ml/hevc_uapi_mainlined) - [HEVC uAPI mainlined](https://www.collabora.com/news-and-blog/news-and-events/hevc-uapi-mainlined.html)
@@ -23,7 +24,6 @@
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
-* [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 21:12:48](https://lobste.rs/s/o83lbm/construction_analysis_build_runtime) - [Construction and analysis of the build and runtime dependency graph of nixpkgs](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
 * [2022-10-06, 20:25:52](https://lobste.rs/s/lo1nmx/github_naftaliharris_tauthon_fork) - [GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 17:39:32](https://lobste.rs/s/xq00ml/hevc_uapi_mainlined) - [HEVC uAPI mainlined](https://www.collabora.com/news-and-blog/news-and-events/hevc-uapi-mainlined.html)
