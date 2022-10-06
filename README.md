@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 05:52:12](https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009) - [MIMD Interpretation on a GPU (2009)](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
 * [2022-10-06, 01:53:52](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader) - [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
 * [2022-10-05, 23:49:13](https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer) - [How to build a WaitGroup from a 32-bit integer](https://nullprogram.com/blog/2022/10/05/)
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
@@ -21,7 +22,6 @@
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
-* [2022-10-04, 18:26:44](https://lobste.rs/s/po43zy/implementing_truly_safe_semaphores_rust) - [Implementing truly safe semaphores in rust, and the costs we pay for safety](https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
