@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:38:06](https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is) - [GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend](https://github.com/twitter/pelikan)
 * [2022-10-06, 15:34:23](https://lobste.rs/s/wnhdxv/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
