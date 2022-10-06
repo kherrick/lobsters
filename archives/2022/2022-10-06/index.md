@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 20:25:52](https://lobste.rs/s/lo1nmx/github_naftaliharris_tauthon_fork) - [GitHub - naftaliharris/tauthon: Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
+* [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 17:39:32](https://lobste.rs/s/xq00ml/hevc_uapi_mainlined) - [HEVC uAPI mainlined](https://www.collabora.com/news-and-blog/news-and-events/hevc-uapi-mainlined.html)
 * [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
