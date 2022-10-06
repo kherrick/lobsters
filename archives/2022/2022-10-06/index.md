@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
+* [2022-10-06, 14:59:49](https://lobste.rs/s/ykyhda/vulkan_render_queues_how_they_sync) - [Vulkan Render-Queues and how they Sync](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
+* [2022-10-06, 14:57:20](https://lobste.rs/s/gdf8cr/end_end_neural_coreference_resolution) - [End-to-end Neural Coreference Resolution in spaCy](https://explosion.ai/blog/coref)
+* [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
+* [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 * [2022-10-06, 14:47:08](https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block) - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 * [2022-10-06, 14:01:55](https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map) - [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 * [2022-10-06, 13:19:24](https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic) - [Building an ESP32-based Wireless Haptic Communication System](https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all)

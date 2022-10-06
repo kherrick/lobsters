@@ -1,5 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
+* [2022-10-06, 14:59:49](https://lobste.rs/s/ykyhda/vulkan_render_queues_how_they_sync) - [Vulkan Render-Queues and how they Sync](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
+* [2022-10-06, 14:57:20](https://lobste.rs/s/gdf8cr/end_end_neural_coreference_resolution) - [End-to-end Neural Coreference Resolution in spaCy](https://explosion.ai/blog/coref)
+* [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
+* [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 * [2022-10-06, 14:47:08](https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block) - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 * [2022-10-06, 14:01:55](https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map) - [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 * [2022-10-06, 13:19:24](https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic) - [Building an ESP32-based Wireless Haptic Communication System](https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all)
@@ -9,13 +14,10 @@
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 * [2022-10-06, 05:52:12](https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009) - [MIMD Interpretation on a GPU (2009)](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
 * [2022-10-06, 01:53:52](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader) - [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
-* [2022-10-05, 23:49:13](https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer) - [How to build a WaitGroup from a 32-bit integer](https://nullprogram.com/blog/2022/10/05/)
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
-* [2022-10-05, 22:36:46](https://lobste.rs/s/bu1pba/single_pass_recursion_rust) - [Single Pass Recursion in Rust](https://recursion.wtf/posts/rust_schemes_3/)
 * [2022-10-05, 22:12:31](https://lobste.rs/s/3ilxis/routing_postgresql_queries_between_read) - [Routing PostgreSQL queries between read-write & read-only instances](https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances)
 * [2022-10-05, 21:37:25](https://lobste.rs/s/vinnhg/where_web_components_went_wrong_how_we_can) - [Where Web Components Went Wrong (And How We Can Turn It Around)](https://space.matthewphillips.info/posts/where-web-components-went-wrong/)
 * [2022-10-05, 21:36:53](https://lobste.rs/s/onrvga/is_ai_spell_casting_metaphor_harmful) - [Is the AI spell-casting metaphor harmful or helpful?](https://simonwillison.net/2022/Oct/5/spell-casting/)
-* [2022-10-05, 20:34:37](https://lobste.rs/s/zqtrzu/turning_thunderbird_into_decryption) - [Turning Thunderbird into a Decryption Oracle](https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html)
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
@@ -23,8 +25,6 @@
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
-* [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
-* [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
 
 ## [Archives](archives/index.md)
 
