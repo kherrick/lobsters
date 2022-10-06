@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2022-10-06, 15:38:06](https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is) - [GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend](https://github.com/twitter/pelikan)
-* [2022-10-06, 15:34:23](https://lobste.rs/s/wnhdxv/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
@@ -11,6 +10,7 @@
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 * [2022-10-06, 14:47:08](https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block) - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 * [2022-10-06, 14:01:55](https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map) - [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
+* [2022-10-06, 13:19:24](https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic) - [Building an ESP32-based Wireless Haptic Communication System](https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all)
 * [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 * [2022-10-06, 09:34:33](https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy) - [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
