@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-06, 15:34:23",
-      "https://lobste.rs/s/wnhdxv/hard_mode_rust"
-    ],
-    [
-      "Hard Mode Rust",
-      "https://matklad.github.io//2022/10/06/hard-mode-rust.html"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 15:29:57",
       "https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully"
     ],
@@ -107,6 +97,16 @@
     [
       "Modmapper: Putting every Skyrim mod on a map with Rust",
       "https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 13:19:24",
+      "https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic"
+    ],
+    [
+      "Building an ESP32-based Wireless Haptic Communication System",
+      "https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all"
     ]
   ],
   [
