@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-06, 09:34:33",
+      "https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy"
+    ],
+    [
+      "Don't worry (about writing Haskell), be happy (writing Agda instead)",
+      "https://jesper.sikanda.be/posts/agda2hs.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 09:19:25",
+      "https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second"
+    ],
+    [
+      "BBSing at 300 Bits Per Second",
+      "https://jcs.org/2022/10/02/whisper_writer"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 05:52:12",
       "https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-10-05, 16:35:34",
-      "https://lobste.rs/s/gkboge/pl_haskell_v1_0_released"
-    ],
-    [
-      "PL/Haskell v1.0 Released",
-      "https://www.postgresql.org/about/news/plhaskell-v10-released-2519/"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 15:48:52",
       "https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool"
     ],
@@ -227,16 +237,6 @@
     [
       "SQLite: QEMU all over again?",
       "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 10:19:23",
-      "https://lobste.rs/s/r5c6o8/git_worktrees"
-    ],
-    [
-      "git worktrees",
-      "https://jmtd.net/log/worktrees/"
     ]
   ],
   [
