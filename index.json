@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-06, 14:59:56",
+      "https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think"
+    ],
+    [
+      "Cloud desktops aren't as good as you'd think",
+      "https://mjg59.dreamwidth.org/61535.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 14:59:49",
+      "https://lobste.rs/s/ykyhda/vulkan_render_queues_how_they_sync"
+    ],
+    [
+      "Vulkan Render-Queues and how they Sync",
+      "https://poniesandlight.co.uk/reflect/island_rendergraph_2/"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 14:57:20",
+      "https://lobste.rs/s/gdf8cr/end_end_neural_coreference_resolution"
+    ],
+    [
+      "End-to-end Neural Coreference Resolution in spaCy",
+      "https://explosion.ai/blog/coref"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 14:56:39",
+      "https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally"
+    ],
+    [
+      "Programming is Greek to me... Literally",
+      "https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 14:54:42",
+      "https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly"
+    ],
+    [
+      "WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale",
+      "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 14:47:08",
       "https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block"
     ],
@@ -91,32 +141,12 @@
   ],
   [
     [
-      "2022-10-05, 23:49:13",
-      "https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer"
-    ],
-    [
-      "How to build a WaitGroup from a 32-bit integer",
-      "https://nullprogram.com/blog/2022/10/05/"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 23:30:35",
       "https://lobste.rs/s/37fdu3/so_you_re_using_weird_language"
     ],
     [
       "So you're using a weird language",
       "https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 22:36:46",
-      "https://lobste.rs/s/bu1pba/single_pass_recursion_rust"
-    ],
-    [
-      "Single Pass Recursion in Rust",
-      "https://recursion.wtf/posts/rust_schemes_3/"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Is the AI spell-casting metaphor harmful or helpful?",
       "https://simonwillison.net/2022/Oct/5/spell-casting/"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 20:34:37",
-      "https://lobste.rs/s/zqtrzu/turning_thunderbird_into_decryption"
-    ],
-    [
-      "Turning Thunderbird into a Decryption Oracle",
-      "https://pseudorandom.resistant.tech/disclosing-security-and-privacy-issues-in-thunderbird.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Postgres: a better message queue than Kafka?",
       "https://dagster.io/blog/skip-kafka-use-postgres-message-queue"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 00:26:32",
-      "https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker"
-    ],
-    [
-      "shmoji - a little shell-based emoji picker",
-      "https://github.com/biox/shmoji"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 23:58:33",
-      "https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c"
-    ],
-    [
-      "Unsafe Rust is not C",
-      "https://www.youtube.com/watch?v=DG-VLezRkYQ"
     ]
   ]
 ]
