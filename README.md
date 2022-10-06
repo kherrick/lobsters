@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 14:01:55](https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map) - [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 * [2022-10-06, 13:19:24](https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic) - [Building an ESP32-based Wireless Haptic Communication System](https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all)
 * [2022-10-06, 13:18:54](https://lobste.rs/s/bdruov/partitioning_postgres) - [Partitioning in Postgres](https://brandur.org/fragments/postgres-partitioning-2022)
 * [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
@@ -24,7 +25,6 @@
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
-* [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 
 ## [Archives](archives/index.md)
 
