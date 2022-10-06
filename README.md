@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 09:34:33](https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy) - [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
+* [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 * [2022-10-06, 05:52:12](https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009) - [MIMD Interpretation on a GPU (2009)](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
 * [2022-10-06, 01:53:52](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader) - [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
 * [2022-10-05, 23:49:13](https://lobste.rs/s/so1uew/how_build_waitgroup_from_32_bit_integer) - [How to build a WaitGroup from a 32-bit integer](https://nullprogram.com/blog/2022/10/05/)
@@ -12,7 +14,6 @@
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
-* [2022-10-05, 16:35:34](https://lobste.rs/s/gkboge/pl_haskell_v1_0_released) - [PL/Haskell v1.0 Released](https://www.postgresql.org/about/news/plhaskell-v10-released-2519/)
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
@@ -23,7 +24,6 @@
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
 * [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
-* [2022-10-04, 10:19:23](https://lobste.rs/s/r5c6o8/git_worktrees) - [git worktrees](https://jmtd.net/log/worktrees/)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 
 ## [Archives](archives/index.md)
