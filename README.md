@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 15:38:06](https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is) - [GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend](https://github.com/twitter/pelikan)
+* [2022-10-06, 15:34:23](https://lobste.rs/s/wnhdxv/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
+* [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
+* [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
 * [2022-10-06, 14:59:49](https://lobste.rs/s/ykyhda/vulkan_render_queues_how_they_sync) - [Vulkan Render-Queues and how they Sync](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
 * [2022-10-06, 14:57:20](https://lobste.rs/s/gdf8cr/end_end_neural_coreference_resolution) - [End-to-end Neural Coreference Resolution in spaCy](https://explosion.ai/blog/coref)
@@ -7,12 +11,9 @@
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 * [2022-10-06, 14:47:08](https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block) - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
 * [2022-10-06, 14:01:55](https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map) - [Modmapper: Putting every Skyrim mod on a map with Rust](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
-* [2022-10-06, 13:19:24](https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic) - [Building an ESP32-based Wireless Haptic Communication System](https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all)
-* [2022-10-06, 13:18:54](https://lobste.rs/s/bdruov/partitioning_postgres) - [Partitioning in Postgres](https://brandur.org/fragments/postgres-partitioning-2022)
 * [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 * [2022-10-06, 09:34:33](https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy) - [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
-* [2022-10-06, 05:52:12](https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009) - [MIMD Interpretation on a GPU (2009)](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
 * [2022-10-06, 01:53:52](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader) - [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
 * [2022-10-05, 22:12:31](https://lobste.rs/s/3ilxis/routing_postgresql_queries_between_read) - [Routing PostgreSQL queries between read-write & read-only instances](https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances)
@@ -24,7 +25,6 @@
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
-* [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 
 ## [Archives](archives/index.md)
 

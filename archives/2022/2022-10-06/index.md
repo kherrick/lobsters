@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 15:38:06](https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is) - [GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend](https://github.com/twitter/pelikan)
+* [2022-10-06, 15:34:23](https://lobste.rs/s/wnhdxv/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io//2022/10/06/hard-mode-rust.html)
+* [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
+* [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
 * [2022-10-06, 14:59:49](https://lobste.rs/s/ykyhda/vulkan_render_queues_how_they_sync) - [Vulkan Render-Queues and how they Sync](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
 * [2022-10-06, 14:57:20](https://lobste.rs/s/gdf8cr/end_end_neural_coreference_resolution) - [End-to-end Neural Coreference Resolution in spaCy](https://explosion.ai/blog/coref)
