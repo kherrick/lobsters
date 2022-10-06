@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-06, 13:19:24",
+      "https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic"
+    ],
+    [
+      "Building an ESP32-based Wireless Haptic Communication System",
+      "https://learn.adafruit.com/cheekmate-wireless-haptic-communication?view=all"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 13:18:54",
+      "https://lobste.rs/s/bdruov/partitioning_postgres"
+    ],
+    [
+      "Partitioning in Postgres",
+      "https://brandur.org/fragments/postgres-partitioning-2022"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 11:32:57",
       "https://lobste.rs/s/n062nd/why_we_use_cue_not_helm"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-05, 14:42:18",
-      "https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform"
-    ],
-    [
-      "Duct - Child process gotchas, bugs, and platform inconsistencies",
-      "https://github.com/oconnor663/duct.py/blob/master/gotchas.md"
-    ]
-  ],
-  [
-    [
       "2022-10-05, 13:05:18",
       "https://lobste.rs/s/ssz7up/just_commit_more"
     ],
@@ -227,16 +237,6 @@
     [
       "Unsafe Rust is not C",
       "https://www.youtube.com/watch?v=DG-VLezRkYQ"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 14:47:02",
-      "https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again"
-    ],
-    [
-      "SQLite: QEMU all over again?",
-      "https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c"
     ]
   ],
   [
