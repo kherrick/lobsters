@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-06, 11:48:57](https://lobste.rs/s/48cgtw/libsql_is_fork_sqlite_is_both_open_source) - [libSQL is a fork of SQLite that is both Open Source, and Open Contributions](https://github.com/libsql/libsql)
 * [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 * [2022-10-06, 09:34:33](https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy) - [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
@@ -24,6 +23,7 @@
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 * [2022-10-05, 00:26:32](https://lobste.rs/s/gr2qtf/shmoji_little_shell_based_emoji_picker) - [shmoji - a little shell-based emoji picker](https://github.com/biox/shmoji)
 * [2022-10-04, 23:58:33](https://lobste.rs/s/m1zwdn/unsafe_rust_is_not_c) - [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ)
+* [2022-10-04, 14:47:02](https://lobste.rs/s/wvshhd/sqlite_qemu_all_over_again) - [SQLite: QEMU all over again?](https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c)
 * [2022-10-04, 09:51:46](https://lobste.rs/s/hpaukh/ipv4_turf_war) - [IPv4 Turf War](https://ipv4.games/)
 
 ## [Archives](archives/index.md)
