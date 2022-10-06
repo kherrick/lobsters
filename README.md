@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 * [2022-10-06, 09:34:33](https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy) - [Don't worry (about writing Haskell), be happy (writing Agda instead)](https://jesper.sikanda.be/posts/agda2hs.html)
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 * [2022-10-06, 05:52:12](https://lobste.rs/s/3mi42p/mimd_interpretation_on_gpu_2009) - [MIMD Interpretation on a GPU (2009)](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf)
@@ -17,7 +18,6 @@
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 * [2022-10-05, 14:56:12](https://lobste.rs/s/4fcdyg/memories_edinburgh_ml_standard_ml) - [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html)
 * [2022-10-05, 14:42:18](https://lobste.rs/s/255xyt/duct_child_process_gotchas_bugs_platform) - [Duct - Child process gotchas, bugs, and platform inconsistencies](https://github.com/oconnor663/duct.py/blob/master/gotchas.md)
-* [2022-10-05, 13:12:32](https://lobste.rs/s/5rorpk/reasoning_about_asyncio_semaphore) - [Reasoning about asyncio.Semaphore](http://neopythonic.blogspot.com/2022/10/reasoning-about-asynciosemaphore.html)
 * [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 * [2022-10-05, 12:19:14](https://lobste.rs/s/wuazdc/crypto_rust_collaboration_vs_consensus) - [Crypto, Rust, Collaboration vs Consensus](https://tably.com/blog/decentralisation)
 * [2022-10-05, 08:15:41](https://lobste.rs/s/syv1il/postgres_better_message_queue_than_kafka) - [Postgres: a better message queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
