@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:38:06](https://lobste.rs/s/vbyxqv/github_twitter_pelikan_pelikan_is) - [GitHub - twitter/pelikan: Pelikan is Twitter's unified cache backend](https://github.com/twitter/pelikan)
 * [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
@@ -18,7 +19,6 @@
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
 * [2022-10-05, 22:12:31](https://lobste.rs/s/3ilxis/routing_postgresql_queries_between_read) - [Routing PostgreSQL queries between read-write & read-only instances](https://contra.com/p/3oqY62QO-routing-postgresgl-queries-between-read-write-read-only-instances)
 * [2022-10-05, 21:37:25](https://lobste.rs/s/vinnhg/where_web_components_went_wrong_how_we_can) - [Where Web Components Went Wrong (And How We Can Turn It Around)](https://space.matthewphillips.info/posts/where-web-components-went-wrong/)
-* [2022-10-05, 21:36:53](https://lobste.rs/s/onrvga/is_ai_spell_casting_metaphor_harmful) - [Is the AI spell-casting metaphor harmful or helpful?](https://simonwillison.net/2022/Oct/5/spell-casting/)
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 18:44:52](https://lobste.rs/s/2nwwy4/time_we_burned_down_players_houses_ultima) - [That Time We Burned Down Players’ Houses in Ultima Online](https://blog.cotten.io/that-time-we-burned-down-players-houses-in-ultima-online-7e556618c8f0)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
