@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-06, 14:01:55",
+      "https://lobste.rs/s/ljsws8/modmapper_putting_every_skyrim_mod_on_map"
+    ],
+    [
+      "Modmapper: Putting every Skyrim mod on a map with Rust",
+      "https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html"
+    ]
+  ],
+  [
+    [
       "2022-10-06, 13:19:24",
       "https://lobste.rs/s/k2sfqb/building_esp32_based_wireless_haptic"
     ],
@@ -237,16 +247,6 @@
     [
       "Unsafe Rust is not C",
       "https://www.youtube.com/watch?v=DG-VLezRkYQ"
-    ]
-  ],
-  [
-    [
-      "2022-10-04, 09:51:46",
-      "https://lobste.rs/s/hpaukh/ipv4_turf_war"
-    ],
-    [
-      "IPv4 Turf War",
-      "https://ipv4.games/"
     ]
   ]
 ]
