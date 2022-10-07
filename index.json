@@ -2,10 +2,10 @@
   [
     [
       "2022-10-07, 18:10:55",
-      "https://lobste.rs/s/lrolvj/github_jafarlihi_cppq_simple_reliable"
+      "https://lobste.rs/s/lrolvj/cppq_simple_reliable_efficient"
     ],
     [
-      "GitHub - jafarlihi/cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis",
+      "cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis",
       "https://github.com/jafarlihi/cppq"
     ]
   ],
