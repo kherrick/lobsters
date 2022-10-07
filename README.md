@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-07, 06:14:08](https://lobste.rs/s/onyjte/faster_hash_table_probing) - [Faster hash table probing](https://outerproduct.net/trivial/2022-10-06_hash.html)
 * [2022-10-07, 04:05:43](https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database) - [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
 * [2022-10-07, 02:18:47](https://lobste.rs/s/i5wkp8/coost_fantastic_c_library) - [coost - A fantastic C++ library](https://github.com/idealvin/coost)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
@@ -10,7 +11,6 @@
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
-* [2022-10-06, 15:29:57](https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully) - [Future Proofing SQL with Carefully Placed Errors](https://hakibenita.com/future-proof-sql)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
 * [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
