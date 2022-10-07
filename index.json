@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-07, 19:38:51",
+      "https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown"
+    ],
+    [
+      "mastodon.technology Shutdown",
+      "https://ashfurrow.com/blog/mastodon-technology-shutdown/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 18:10:55",
       "https://lobste.rs/s/lrolvj/cppq_simple_reliable_efficient"
     ],
@@ -227,16 +237,6 @@
     [
       "Why We Use CUE (and Not Helm)",
       "https://cloudplane.org/blog/why-cue"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 09:34:33",
-      "https://lobste.rs/s/n5axgv/don_t_worry_about_writing_haskell_be_happy"
-    ],
-    [
-      "Don't worry (about writing Haskell), be happy (writing Agda instead)",
-      "https://jesper.sikanda.be/posts/agda2hs.html"
     ]
   ],
   [
