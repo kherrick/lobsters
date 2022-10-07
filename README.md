@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-07, 14:59:19](https://lobste.rs/s/v89rpi/lanczos_interpolation_explained) - [Lánczos interpolation explained](https://mazzo.li/posts/lanczos.html)
+* [2022-10-07, 14:51:00](https://lobste.rs/s/1ru8ni/future_web_is_on_edge) - [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 * [2022-10-07, 14:37:51](https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm) - [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/)
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
@@ -23,8 +25,6 @@
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 * [2022-10-06, 01:53:52](https://lobste.rs/s/u6nrj0/struggles_building_feed_reader) - [The struggles of building a Feed Reader](https://jackevansevo.github.io/posts/struggles-of-building-an-rss-feed-reader/)
 * [2022-10-05, 23:30:35](https://lobste.rs/s/37fdu3/so_you_re_using_weird_language) - [So you're using a weird language](https://morepablo.com/2022/09/so-you-re-using-a-weird-language.html)
-* [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
-* [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
 
 ## [Archives](archives/index.md)
 
