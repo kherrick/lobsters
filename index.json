@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-07, 06:14:08",
+      "https://lobste.rs/s/onyjte/faster_hash_table_probing"
+    ],
+    [
+      "Faster hash table probing",
+      "https://outerproduct.net/trivial/2022-10-06_hash.html"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 04:05:43",
       "https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database"
     ],
@@ -97,16 +107,6 @@
     [
       "Apple AirPods Pro Are As Unrepairable As Ever",
       "https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 15:29:57",
-      "https://lobste.rs/s/rnfugk/future_proofing_sql_with_carefully"
-    ],
-    [
-      "Future Proofing SQL with Carefully Placed Errors",
-      "https://hakibenita.com/future-proof-sql"
     ]
   ],
   [
