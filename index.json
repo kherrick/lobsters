@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-07, 04:05:43",
+      "https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database"
+    ],
+    [
+      "Bulk inserting nested data into the database (part II)",
+      "https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 02:18:47",
       "https://lobste.rs/s/i5wkp8/coost_fantastic_c_library"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust's Result Type is Cool",
       "https://naiveai.hashnode.dev/rust-result-cool"
-    ]
-  ],
-  [
-    [
-      "2022-10-05, 13:05:18",
-      "https://lobste.rs/s/ssz7up/just_commit_more"
-    ],
-    [
-      "Just commit more",
-      "https://timkellogg.me/blog/2022/10/04/dura"
     ]
   ]
 ]
