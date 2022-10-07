@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-06](index.md)
 
+* [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:35:22](https://lobste.rs/s/9irgta/crubit_high_level_design_c_rust_interop) - [Crubit: High-level design of C++/Rust interop](https://github.com/google/crubit/blob/main/docs/design.md)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 21:12:48](https://lobste.rs/s/o83lbm/construction_analysis_build_runtime) - [Construction and analysis of the build and runtime dependency graph of nixpkgs](https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/)
