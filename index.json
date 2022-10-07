@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-07, 12:23:29",
+      "https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules"
+    ],
+    [
+      "LeanQt - official release of the core and xml modules",
+      "https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 11:59:29",
       "https://lobste.rs/s/todpmq/magnetic_core_memory_reborn"
     ],
@@ -57,16 +67,6 @@
     [
       "Bulk inserting nested data into the database (part II)",
       "https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 02:18:47",
-      "https://lobste.rs/s/i5wkp8/coost_fantastic_c_library"
-    ],
-    [
-      "coost - A fantastic C++ library",
-      "https://github.com/idealvin/coost"
     ]
   ],
   [
