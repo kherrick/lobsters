@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-07](index.md)
 
+* [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 14:59:19](https://lobste.rs/s/v89rpi/lanczos_interpolation_explained) - [Lánczos interpolation explained](https://mazzo.li/posts/lanczos.html)
 * [2022-10-07, 14:51:00](https://lobste.rs/s/1ru8ni/future_web_is_on_edge) - [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 * [2022-10-07, 14:37:51](https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm) - [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/)
