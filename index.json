@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-07, 14:37:51",
+      "https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm"
+    ],
+    [
+      "Avoiding allocations in Rust to shrink Wasm modules",
+      "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 13:32:16",
       "https://lobste.rs/s/ydvomf/game_engine_elm_style"
     ],
@@ -87,16 +97,6 @@
     [
       "lambda-8cc: An x86 C compiler written in untyped lambda calculus",
       "https://github.com/woodrush/lambda-8cc"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 21:35:22",
-      "https://lobste.rs/s/9irgta/crubit_high_level_design_c_rust_interop"
-    ],
-    [
-      "Crubit: High-level design of C++/Rust interop",
-      "https://github.com/google/crubit/blob/main/docs/design.md"
     ]
   ],
   [
