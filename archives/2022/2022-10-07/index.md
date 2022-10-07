@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-10-07](index.md)
+
+* [2022-10-07, 02:18:47](https://lobste.rs/s/i5wkp8/coost_fantastic_c_library) - [coost - A fantastic C++ library](https://github.com/idealvin/coost)
