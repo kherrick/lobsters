@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-10-06, 21:12:48",
-      "https://lobste.rs/s/o83lbm/construction_analysis_build_runtime"
-    ],
-    [
-      "Construction and analysis of the build and runtime dependency graph of nixpkgs",
-      "https://www.tweag.io/blog/2022-09-13-nixpkgs-graph/"
-    ]
-  ],
-  [
-    [
       "2022-10-06, 20:17:26",
       "https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on"
     ],
@@ -137,6 +127,16 @@
     [
       "Hard Mode Rust",
       "https://matklad.github.io/2022/10/06/hard-mode-rust.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-06, 14:59:56",
+      "https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think"
+    ],
+    [
+      "Cloud desktops aren't as good as you'd think",
+      "https://mjg59.dreamwidth.org/61535.html"
     ]
   ],
   [
