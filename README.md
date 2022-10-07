@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-07, 14:37:51](https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm) - [Avoiding allocations in Rust to shrink Wasm modules](https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/)
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 11:59:29](https://lobste.rs/s/todpmq/magnetic_core_memory_reborn) - [Magnetic core memory reborn](http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/)
@@ -9,7 +10,6 @@
 * [2022-10-07, 06:14:08](https://lobste.rs/s/onyjte/faster_hash_table_probing) - [Faster hash table probing](https://outerproduct.net/trivial/2022-10-06_hash.html)
 * [2022-10-07, 04:05:43](https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database) - [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
-* [2022-10-06, 21:35:22](https://lobste.rs/s/9irgta/crubit_high_level_design_c_rust_interop) - [Crubit: High-level design of C++/Rust interop](https://github.com/google/crubit/blob/main/docs/design.md)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
