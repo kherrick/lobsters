@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-07](index.md)
 
+* [2022-10-07, 18:10:55](https://lobste.rs/s/lrolvj/github_jafarlihi_cppq_simple_reliable) - [GitHub - jafarlihi/cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis](https://github.com/jafarlihi/cppq)
+* [2022-10-07, 17:53:14](https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from) - [Migrating our monorepo seamlessly from Dep to Go Modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/)
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 14:59:19](https://lobste.rs/s/v89rpi/lanczos_interpolation_explained) - [Lánczos interpolation explained](https://mazzo.li/posts/lanczos.html)
