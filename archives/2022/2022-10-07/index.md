@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-07](index.md)
 
+* [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 11:59:29](https://lobste.rs/s/todpmq/magnetic_core_memory_reborn) - [Magnetic core memory reborn](http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)

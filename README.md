@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 11:59:29](https://lobste.rs/s/todpmq/magnetic_core_memory_reborn) - [Magnetic core memory reborn](http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
@@ -14,7 +15,6 @@
 * [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
-* [2022-10-06, 14:59:56](https://lobste.rs/s/yjuhri/cloud_desktops_aren_t_as_good_as_you_d_think) - [Cloud desktops aren't as good as you'd think](https://mjg59.dreamwidth.org/61535.html)
 * [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 * [2022-10-06, 14:47:08](https://lobste.rs/s/ry8yzh/story_behind_alternative_genesis_block) - [The Story Behind the Alternative Genesis Block of Bitcoin](https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/)
