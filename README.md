@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-07, 04:05:43](https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database) - [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
 * [2022-10-07, 02:18:47](https://lobste.rs/s/i5wkp8/coost_fantastic_c_library) - [coost - A fantastic C++ library](https://github.com/idealvin/coost)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:35:22](https://lobste.rs/s/9irgta/crubit_high_level_design_c_rust_interop) - [Crubit: High-level design of C++/Rust interop](https://github.com/google/crubit/blob/main/docs/design.md)
@@ -24,7 +25,6 @@
 * [2022-10-05, 19:01:06](https://lobste.rs/s/eenfdg/just_nix_shell_podman_are_killer_combo) - [Just, Nix Shell and Podman are a Killer Combo](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)
 * [2022-10-05, 17:03:09](https://lobste.rs/s/hxi5so/practical_ocaml_multicore_edition) - [Practical OCaml, Multicore Edition](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 * [2022-10-05, 15:48:52](https://lobste.rs/s/qtsga5/rust_s_result_type_is_cool) - [Rust's Result Type is Cool](https://naiveai.hashnode.dev/rust-result-cool)
-* [2022-10-05, 13:05:18](https://lobste.rs/s/ssz7up/just_commit_more) - [Just commit more](https://timkellogg.me/blog/2022/10/04/dura)
 
 ## [Archives](archives/index.md)
 
