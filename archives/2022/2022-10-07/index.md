@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-07](index.md)
 
+* [2022-10-07, 19:38:51](https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown) - [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
 * [2022-10-07, 18:10:55](https://lobste.rs/s/lrolvj/github_jafarlihi_cppq_simple_reliable) - [GitHub - jafarlihi/cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis](https://github.com/jafarlihi/cppq)
 * [2022-10-07, 18:10:55](https://lobste.rs/s/lrolvj/cppq_simple_reliable_efficient) - [cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis](https://github.com/jafarlihi/cppq)
 * [2022-10-07, 17:53:14](https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from) - [Migrating our monorepo seamlessly from Dep to Go Modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/)
