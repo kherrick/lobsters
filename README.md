@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 17:16:34](https://lobste.rs/s/byummx/parseable_release_v0_0_4_better_queries) - [Parseable release v0.0.4, better queries, bug fixes and more](https://github.com/parseablehq/parseable/releases/tag/v0.0.4)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 * [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
@@ -20,7 +21,6 @@
 * [2022-10-07, 11:59:29](https://lobste.rs/s/todpmq/magnetic_core_memory_reborn) - [Magnetic core memory reborn](http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 * [2022-10-07, 10:00:39](https://lobste.rs/s/mvfif2/how_tell_mainframe_from_minicomputer) - [How to tell a mainframe from a minicomputer from a microcomputer](https://liam-on-linux.dreamwidth.org/87578.html)
-* [2022-10-07, 06:14:08](https://lobste.rs/s/onyjte/faster_hash_table_probing) - [Faster hash table probing](https://outerproduct.net/trivial/2022-10-06_hash.html)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
