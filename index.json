@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2022-10-07, 14:37:51",
+      "https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm"
+    ],
+    [
+      "Avoiding allocations in Rust to shrink Wasm modules",
+      "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+    ]
+  ],
+  [
+    [
       "2022-10-07, 13:32:16",
       "https://lobste.rs/s/ydvomf/game_engine_elm_style"
     ],
@@ -167,16 +177,6 @@
     [
       "LeanQt - official release of the core and xml modules",
       "https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 11:59:29",
-      "https://lobste.rs/s/todpmq/magnetic_core_memory_reborn"
-    ],
-    [
-      "Magnetic core memory reborn",
-      "http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/"
     ]
   ],
   [
