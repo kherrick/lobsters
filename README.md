@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
 * [2022-10-08, 09:10:42](https://lobste.rs/s/fzi9ic/computer_saturation_productivity) - [Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
 * [2022-10-08, 06:37:09](https://lobste.rs/s/jfwfvp/singe_leveraging_warp_specialization) - [Singe: Leveraging Warp Specialization for High Performance on GPUS](https://cs.stanford.edu/~sjt/pubs/ppopp14.pdf)
@@ -23,7 +24,6 @@
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
-* [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 
 ## [Archives](archives/index.md)
