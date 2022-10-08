@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-08, 13:36:52",
+      "https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types"
+    ],
+    [
+      "Python Type Hints: How to Gradually Add Types for Third Party Packages",
+      "https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 12:17:06",
       "https://lobste.rs/s/6lvk6w/introducing_pgproxy"
     ],
@@ -77,16 +87,6 @@
     [
       "mastodon.technology Shutdown",
       "https://ashfurrow.com/blog/mastodon-technology-shutdown/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 17:53:14",
-      "https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from"
-    ],
-    [
-      "Migrating our monorepo seamlessly from Dep to Go Modules",
-      "https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/"
     ]
   ],
   [
