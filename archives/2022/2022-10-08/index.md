@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-08](index.md)
 
+* [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 * [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
 * [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
