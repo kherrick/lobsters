@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 18:57:28](https://lobste.rs/s/inb0dj/swift_programming_tutorial_full_course) - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw)
 * [2022-10-08, 17:16:34](https://lobste.rs/s/byummx/parseable_release_v0_0_4_better_queries) - [Parseable release v0.0.4, better queries, bug fixes and more](https://github.com/parseablehq/parseable/releases/tag/v0.0.4)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
@@ -18,7 +19,6 @@
 * [2022-10-07, 14:51:00](https://lobste.rs/s/1ru8ni/future_web_is_on_edge) - [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
-* [2022-10-07, 11:59:29](https://lobste.rs/s/todpmq/magnetic_core_memory_reborn) - [Magnetic core memory reborn](http://olivernash.org/2011/05/11/magnetic-core-memory-reborn/)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 * [2022-10-07, 10:00:39](https://lobste.rs/s/mvfif2/how_tell_mainframe_from_minicomputer) - [How to tell a mainframe from a minicomputer from a microcomputer](https://liam-on-linux.dreamwidth.org/87578.html)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
