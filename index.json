@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-08, 14:50:22",
+      "https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming"
+    ],
+    [
+      "Why is it hard to learn another programming language?",
+      "https://austinhenley.com/blog/learnanotherpl.html"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 13:36:52",
       "https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types"
     ],
@@ -237,16 +247,6 @@
     [
       "Hard Mode Rust",
       "https://matklad.github.io/2022/10/06/hard-mode-rust.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 14:54:42",
-      "https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly"
-    ],
-    [
-      "WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale",
-      "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/"
     ]
   ]
 ]
