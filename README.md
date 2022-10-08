@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
+* [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 * [2022-10-07, 19:38:51](https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown) - [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
 * [2022-10-07, 18:10:55](https://lobste.rs/s/lrolvj/cppq_simple_reliable_efficient) - [cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis](https://github.com/jafarlihi/cppq)
 * [2022-10-07, 17:53:14](https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from) - [Migrating our monorepo seamlessly from Dep to Go Modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/)
@@ -18,12 +20,10 @@
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
-* [2022-10-06, 16:54:05](https://lobste.rs/s/c2r1fp/unix_plan_9_lurking_smalltalk) - [Unix, Plan 9 and the Lurking Smalltalk](https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf)
 * [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:56:39](https://lobste.rs/s/rzi6o9/programming_is_greek_me_literally) - [Programming is Greek to me... Literally](https://github.com/naver/lispe/wiki/6.15-Programming-is-Greek-to-me...-Literally)
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
-* [2022-10-06, 11:32:57](https://lobste.rs/s/n062nd/why_we_use_cue_not_helm) - [Why We Use CUE (and Not Helm)](https://cloudplane.org/blog/why-cue)
 * [2022-10-06, 09:19:25](https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second) - [BBSing at 300 Bits Per Second](https://jcs.org/2022/10/02/whisper_writer)
 
 ## [Archives](archives/index.md)
