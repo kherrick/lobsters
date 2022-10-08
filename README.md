@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 09:10:42](https://lobste.rs/s/fzi9ic/computer_saturation_productivity) - [Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
 * [2022-10-08, 06:37:09](https://lobste.rs/s/jfwfvp/singe_leveraging_warp_specialization) - [Singe: Leveraging Warp Specialization for High Performance on GPUS](https://cs.stanford.edu/~sjt/pubs/ppopp14.pdf)
 * [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
@@ -17,7 +18,6 @@
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 * [2022-10-07, 10:00:39](https://lobste.rs/s/mvfif2/how_tell_mainframe_from_minicomputer) - [How to tell a mainframe from a minicomputer from a microcomputer](https://liam-on-linux.dreamwidth.org/87578.html)
 * [2022-10-07, 06:14:08](https://lobste.rs/s/onyjte/faster_hash_table_probing) - [Faster hash table probing](https://outerproduct.net/trivial/2022-10-06_hash.html)
-* [2022-10-07, 04:05:43](https://lobste.rs/s/ekdju2/bulk_inserting_nested_data_into_database) - [Bulk inserting nested data into the database (part II)](https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
