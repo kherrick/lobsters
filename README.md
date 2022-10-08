@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/travisgoodspeed_maskromtool_tool_for) - [travisgoodspeed/maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 18:57:28](https://lobste.rs/s/inb0dj/swift_programming_tutorial_full_course) - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw)
 * [2022-10-08, 17:16:34](https://lobste.rs/s/byummx/parseable_release_v0_0_4_better_queries) - [Parseable release v0.0.4, better queries, bug fixes and more](https://github.com/parseablehq/parseable/releases/tag/v0.0.4)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
@@ -22,7 +23,6 @@
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 * [2022-10-07, 10:00:39](https://lobste.rs/s/mvfif2/how_tell_mainframe_from_minicomputer) - [How to tell a mainframe from a minicomputer from a microcomputer](https://liam-on-linux.dreamwidth.org/87578.html)
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
-* [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 
