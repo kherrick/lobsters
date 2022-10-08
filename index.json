@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-08, 15:27:33",
+      "https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells"
+    ],
+    [
+      "Hacker's Guide to UART Root Shells",
+      "https://www.youtube.com/watch?v=01mw0oTHwxg"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 14:50:22",
       "https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming"
     ],
@@ -137,16 +147,6 @@
     [
       "The Future of the Web is on the Edge",
       "https://deno.com/blog/the-future-of-web-is-on-the-edge"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 14:37:51",
-      "https://lobste.rs/s/p5lhde/avoiding_allocations_rust_shrink_wasm"
-    ],
-    [
-      "Avoiding allocations in Rust to shrink Wasm modules",
-      "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
     ]
   ],
   [
