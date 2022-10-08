@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
 * [2022-10-08, 06:37:09](https://lobste.rs/s/jfwfvp/singe_leveraging_warp_specialization) - [Singe: Leveraging Warp Specialization for High Performance on GPUS](https://cs.stanford.edu/~sjt/pubs/ppopp14.pdf)
 * [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
 * [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 * [2022-10-07, 19:38:51](https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown) - [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
-* [2022-10-07, 18:10:55](https://lobste.rs/s/lrolvj/cppq_simple_reliable_efficient) - [cppq: Simple, reliable & efficient distributed task queue for C++17. Backed by Redis](https://github.com/jafarlihi/cppq)
 * [2022-10-07, 17:53:14](https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from) - [Migrating our monorepo seamlessly from Dep to Go Modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/)
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
