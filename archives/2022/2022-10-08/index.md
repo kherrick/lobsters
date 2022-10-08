@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-08](index.md)
 
+* [2022-10-08, 22:00:07](https://lobste.rs/s/pwdwdw/smaller_debug_info_with_constructor_type) - [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)
 * [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/travisgoodspeed_maskromtool_tool_for) - [travisgoodspeed/maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 18:57:28](https://lobste.rs/s/inb0dj/swift_programming_tutorial_full_course) - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw)
 * [2022-10-08, 17:16:34](https://lobste.rs/s/byummx/parseable_release_v0_0_4_better_queries) - [Parseable release v0.0.4, better queries, bug fixes and more](https://github.com/parseablehq/parseable/releases/tag/v0.0.4)
