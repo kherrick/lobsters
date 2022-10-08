@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-08](index.md)
 
+* [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 * [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
 * [2022-10-08, 09:10:42](https://lobste.rs/s/fzi9ic/computer_saturation_productivity) - [Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)

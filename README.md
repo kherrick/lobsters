@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 * [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
 * [2022-10-08, 09:10:42](https://lobste.rs/s/fzi9ic/computer_saturation_productivity) - [Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
@@ -22,7 +23,6 @@
 * [2022-10-06, 23:55:42](https://lobste.rs/s/vnnyip/lambda_8cc_x86_c_compiler_written_untyped) - [lambda-8cc: An x86 C compiler written in untyped lambda calculus](https://github.com/woodrush/lambda-8cc)
 * [2022-10-06, 21:29:40](https://lobste.rs/s/dqxx4h/libgrapheme_2_0_0_released_suckless) - [libgrapheme 2.0.0 released - A suckless Unicode string library](https://libs.suckless.org/libgrapheme/)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
-* [2022-10-06, 16:06:11](https://lobste.rs/s/x7hxyq/apple_airpods_pro_are_as_unrepairable_as) - [Apple AirPods Pro Are As Unrepairable As Ever](https://www.ifixit.com/News/66194/apples-new-airpods-are-telling-users-to-replace-the-batteries-already-too-bad-thats-impossible)
 * [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 * [2022-10-06, 14:54:42](https://lobste.rs/s/d1awxg/webvm_linux_virtualization_webassembly) - [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/)
 
