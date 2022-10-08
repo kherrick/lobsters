@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-08, 06:37:09",
+      "https://lobste.rs/s/jfwfvp/singe_leveraging_warp_specialization"
+    ],
+    [
+      "Singe: Leveraging Warp Specialization for High Performance on GPUS",
+      "https://cs.stanford.edu/~sjt/pubs/ppopp14.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-08, 02:22:02",
       "https://lobste.rs/s/zddoxt/discussion_on_printk"
     ],
@@ -237,16 +247,6 @@
     [
       "WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale",
       "https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 09:19:25",
-      "https://lobste.rs/s/f4my9u/bbsing_at_300_bits_per_second"
-    ],
-    [
-      "BBSing at 300 Bits Per Second",
-      "https://jcs.org/2022/10/02/whisper_writer"
     ]
   ]
 ]
