@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
 * [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 * [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
 * [2022-10-08, 09:10:42](https://lobste.rs/s/fzi9ic/computer_saturation_productivity) - [Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
@@ -8,7 +9,6 @@
 * [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
 * [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 * [2022-10-07, 19:38:51](https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown) - [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
-* [2022-10-07, 17:53:14](https://lobste.rs/s/bntuh7/migrating_our_monorepo_seamlessly_from) - [Migrating our monorepo seamlessly from Dep to Go Modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules/)
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 14:59:19](https://lobste.rs/s/v89rpi/lanczos_interpolation_explained) - [Lánczos interpolation explained](https://mazzo.li/posts/lanczos.html)
