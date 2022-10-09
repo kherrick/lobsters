@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-09, 18:57:53",
+      "https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style"
+    ],
+    [
+      "Emacs: Reveal in macOS Finder (DWIM style)",
+      "https://xenodium.com/emacs-reveal-in-finder-dwim-style/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 18:47:39",
+      "https://lobste.rs/s/mmcnfb/circle_language_quick_reference"
+    ],
+    [
+      "Circle Language Quick Reference",
+      "https://www.circle-lang.org/quickref.html"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 18:17:34",
       "https://lobste.rs/s/rrp0fq/git_for_beginners_handout"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-10-08, 07:27:46",
-      "https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye"
-    ],
-    [
-      "It's time to to thank UVM and say goodbye",
-      "http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 00:46:24",
       "https://lobste.rs/s/e5l6ok/4x4_ascii_font"
     ],
     [
       "4x4 ASCII Font",
       "https://simplifier.neocities.org/4x4.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 17:30:47",
-      "https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv"
-    ],
-    [
-      "Moving files in ZSH - The wonderful world of zmv",
-      "https://filipe.kiss.ink/zmv-zsh-rename/"
     ]
   ]
 ]
