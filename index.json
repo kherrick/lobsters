@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-09, 12:04:55",
+      "https://lobste.rs/s/np4zbg/know_your_carrying_capacity"
+    ],
+    [
+      "Know your carrying capacity",
+      "https://www.macchaffee.com/blog/2022/carrying-capacity/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 12:04:44",
+      "https://lobste.rs/s/wbdvze/python_preloaded_bundle_python"
+    ],
+    [
+      "Python Preloaded: Bundle Python executable with preloaded modules",
+      "https://github.com/albertz/python-preloaded"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 07:29:59",
       "https://lobste.rs/s/oui6xj/discovering_faster_matrix"
     ],
@@ -197,26 +217,6 @@
     [
       "The Hundred-Year Programming Language",
       "https://codefol.io/posts/the-hundred-year-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 14:59:19",
-      "https://lobste.rs/s/v89rpi/lanczos_interpolation_explained"
-    ],
-    [
-      "Lánczos interpolation explained",
-      "https://mazzo.li/posts/lanczos.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 14:51:00",
-      "https://lobste.rs/s/1ru8ni/future_web_is_on_edge"
-    ],
-    [
-      "The Future of the Web is on the Edge",
-      "https://deno.com/blog/the-future-of-web-is-on-the-edge"
     ]
   ],
   [
