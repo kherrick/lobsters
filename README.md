@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
-* [2022-10-09, 07:02:24](https://lobste.rs/s/iaalmn/libsql) - [libSQL](https://libsql.org)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 04:12:01](https://lobste.rs/s/p07vus/manufacturer_s_perspective_on_pl) - [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
 * [2022-10-09, 03:50:21](https://lobste.rs/s/3wc4x6/memory_safety_modern_systems) - [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
@@ -22,6 +21,7 @@
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 14:59:19](https://lobste.rs/s/v89rpi/lanczos_interpolation_explained) - [Lánczos interpolation explained](https://mazzo.li/posts/lanczos.html)
+* [2022-10-07, 14:51:00](https://lobste.rs/s/1ru8ni/future_web_is_on_edge) - [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
