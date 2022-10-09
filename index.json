@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-09, 03:50:21",
+      "https://lobste.rs/s/3wc4x6/memory_safety_modern_systems"
+    ],
+    [
+      "Memory Safety in a Modern Systems Programming Language, Part 1",
+      "https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 03:35:34",
+      "https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator"
+    ],
+    [
+      "Untangling Lifetimes: The Arena Allocator",
+      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 01:57:58",
       "https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-10-08, 06:37:09",
-      "https://lobste.rs/s/jfwfvp/singe_leveraging_warp_specialization"
-    ],
-    [
-      "Singe: Leveraging Warp Specialization for High Performance on GPUS",
-      "https://cs.stanford.edu/~sjt/pubs/ppopp14.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-08, 02:22:02",
       "https://lobste.rs/s/zddoxt/discussion_on_printk"
     ],
@@ -177,16 +187,6 @@
     [
       "Lánczos interpolation explained",
       "https://mazzo.li/posts/lanczos.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-07, 14:51:00",
-      "https://lobste.rs/s/1ru8ni/future_web_is_on_edge"
-    ],
-    [
-      "The Future of the Web is on the Edge",
-      "https://deno.com/blog/the-future-of-web-is-on-the-edge"
     ]
   ],
   [
