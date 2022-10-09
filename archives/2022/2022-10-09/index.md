@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-09](index.md)
 
+* [2022-10-09, 15:27:58](https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework) - [Tonic: A low profile component framework](https://tonicframework.dev/)
 * [2022-10-09, 14:50:08](https://lobste.rs/s/9na40w/what_general_diagonal_argument_looks) - [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
 * [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)

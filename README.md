@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 15:27:58](https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework) - [Tonic: A low profile component framework](https://tonicframework.dev/)
 * [2022-10-09, 14:50:08](https://lobste.rs/s/9na40w/what_general_diagonal_argument_looks) - [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
 * [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
@@ -21,7 +22,6 @@
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
 * [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
 * [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
-* [2022-10-07, 19:38:51](https://lobste.rs/s/fkpx0k/mastodon_technology_shutdown) - [mastodon.technology Shutdown](https://ashfurrow.com/blog/mastodon-technology-shutdown/)
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
