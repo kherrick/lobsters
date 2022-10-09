@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 18:17:34](https://lobste.rs/s/rrp0fq/git_for_beginners_handout) - [GIT for Beginners (handout)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 * [2022-10-09, 16:55:06](https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are) - [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
 * [2022-10-09, 15:27:58](https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework) - [Tonic: A low profile component framework](https://tonicframework.dev/)
@@ -22,7 +23,6 @@
 * [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 * [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
 * [2022-10-08, 07:27:46](https://lobste.rs/s/d0q6k3/it_s_time_thank_uvm_say_goodbye) - [It's time to to thank UVM and say goodbye](http://olofkindgren.blogspot.com/2022/10/its-time-to-to-thank-uvm-and-say-goodbye.html)
-* [2022-10-08, 02:22:02](https://lobste.rs/s/zddoxt/discussion_on_printk) - [A discussion on printk()](https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/)
 * [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 * [2022-10-07, 17:30:47](https://lobste.rs/s/poktm4/moving_files_zsh_wonderful_world_zmv) - [Moving files in ZSH - The wonderful world of zmv](https://filipe.kiss.ink/zmv-zsh-rename/)
 
