@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 01:57:58](https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround) - [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
 * [2022-10-08, 22:00:07](https://lobste.rs/s/pwdwdw/smaller_debug_info_with_constructor_type) - [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)
 * [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/travisgoodspeed_maskromtool_tool_for) - [travisgoodspeed/maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 18:57:28](https://lobste.rs/s/inb0dj/swift_programming_tutorial_full_course) - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw)
-* [2022-10-08, 17:16:34](https://lobste.rs/s/byummx/parseable_release_v0_0_4_better_queries) - [Parseable release v0.0.4, better queries, bug fixes and more](https://github.com/parseablehq/parseable/releases/tag/v0.0.4)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 * [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
