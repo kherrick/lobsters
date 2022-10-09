@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-09](index.md)
 
+* [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 * [2022-10-09, 07:02:24](https://lobste.rs/s/iaalmn/libsql) - [libSQL](https://libsql.org)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 04:12:01](https://lobste.rs/s/p07vus/manufacturer_s_perspective_on_pl) - [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)

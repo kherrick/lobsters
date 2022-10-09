@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 * [2022-10-09, 07:02:24](https://lobste.rs/s/iaalmn/libsql) - [libSQL](https://libsql.org)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 04:12:01](https://lobste.rs/s/p07vus/manufacturer_s_perspective_on_pl) - [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
@@ -7,7 +8,7 @@
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 * [2022-10-09, 01:57:58](https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround) - [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
 * [2022-10-08, 22:00:07](https://lobste.rs/s/pwdwdw/smaller_debug_info_with_constructor_type) - [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)
-* [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/travisgoodspeed_maskromtool_tool_for) - [travisgoodspeed/maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
+* [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits) - [maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 * [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
@@ -24,7 +25,6 @@
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
-* [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
 
 ## [Archives](archives/index.md)
 
