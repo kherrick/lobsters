@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 07:02:24](https://lobste.rs/s/iaalmn/libsql) - [libSQL](https://libsql.org)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 04:12:01](https://lobste.rs/s/p07vus/manufacturer_s_perspective_on_pl) - [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
 * [2022-10-09, 03:50:21](https://lobste.rs/s/3wc4x6/memory_safety_modern_systems) - [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
@@ -24,7 +25,6 @@
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
 * [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 * [2022-10-06, 20:17:26](https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on) - [I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age](https://liam-on-linux.dreamwidth.org/87435.html)
-* [2022-10-06, 15:24:16](https://lobste.rs/s/gmxvun/hard_mode_rust) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
 
 ## [Archives](archives/index.md)
 
