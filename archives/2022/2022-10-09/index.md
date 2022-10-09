@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-09](index.md)
 
+* [2022-10-09, 14:50:08](https://lobste.rs/s/9na40w/what_general_diagonal_argument_looks) - [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
+* [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 * [2022-10-09, 12:04:55](https://lobste.rs/s/np4zbg/know_your_carrying_capacity) - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
 * [2022-10-09, 12:04:44](https://lobste.rs/s/wbdvze/python_preloaded_bundle_python) - [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
