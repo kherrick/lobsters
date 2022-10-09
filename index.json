@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-09, 20:03:52",
+      "https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design"
+    ],
+    [
+      "What’s wrong with Git? A conceptual design analysis (2016)",
+      "https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 18:57:53",
       "https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style"
     ],
@@ -167,16 +177,6 @@
     [
       "ProtonVPN IP Leakage on Linux and Workaround",
       "https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 22:00:07",
-      "https://lobste.rs/s/pwdwdw/smaller_debug_info_with_constructor_type"
-    ],
-    [
-      "Smaller debug info with constructor type homing (2021)",
-      "https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/"
     ]
   ],
   [
