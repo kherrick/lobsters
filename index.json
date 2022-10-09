@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-09, 07:29:59",
+      "https://lobste.rs/s/oui6xj/discovering_faster_matrix"
+    ],
+    [
+      "Discovering faster matrix multiplication algorithms with reinforcement learning",
+      "https://www.nature.com/articles/s41586-022-05172-4"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 07:02:24",
       "https://lobste.rs/s/iaalmn/libsql"
     ],
@@ -72,10 +82,10 @@
   [
     [
       "2022-10-08, 19:58:16",
-      "https://lobste.rs/s/rjkykc/travisgoodspeed_maskromtool_tool_for"
+      "https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits"
     ],
     [
-      "travisgoodspeed/maskromtool: A tool for extracting bits from Mask ROM photographs",
+      "maskromtool: A tool for extracting bits from Mask ROM photographs",
       "https://github.com/travisgoodspeed/maskromtool"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-10-06, 20:17:26",
-      "https://lobste.rs/s/m4vz4k/i_ve_been_playing_with_os_2_again_more_on"
-    ],
-    [
-      "I've been playing with OS/2 again -- more on that soon -- but it was doomed from a young age",
-      "https://liam-on-linux.dreamwidth.org/87435.html"
     ]
   ]
 ]
