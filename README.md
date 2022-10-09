@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 * [2022-10-09, 12:04:55](https://lobste.rs/s/np4zbg/know_your_carrying_capacity) - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
 * [2022-10-09, 12:04:44](https://lobste.rs/s/wbdvze/python_preloaded_bundle_python) - [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
 * [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
@@ -24,7 +25,6 @@
 * [2022-10-07, 16:35:51](https://lobste.rs/s/pd3ljn/hundred_year_programming_language) - [The Hundred-Year Programming Language](https://codefol.io/posts/the-hundred-year-programming-language/)
 * [2022-10-07, 13:32:16](https://lobste.rs/s/ydvomf/game_engine_elm_style) - [A Game Engine in the Elm Style](https://vsyncronicity.com/2020/03/01/a-game-engine-in-the-elm-style/)
 * [2022-10-07, 12:23:29](https://lobste.rs/s/goihvc/leanqt_official_release_core_xml_modules) - [LeanQt - official release of the core and xml modules](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-06)
-* [2022-10-07, 10:18:34](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fu523l/what_are_you_doing_this_weekend)
 
 ## [Archives](archives/index.md)
 
