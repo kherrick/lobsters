@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-09, 20:03:52](https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design) - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
 * [2022-10-09, 18:47:39](https://lobste.rs/s/mmcnfb/circle_language_quick_reference) - [Circle Language Quick Reference](https://www.circle-lang.org/quickref.html)
 * [2022-10-09, 18:17:34](https://lobste.rs/s/rrp0fq/git_for_beginners_handout) - [GIT for Beginners (handout)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
@@ -17,7 +18,6 @@
 * [2022-10-09, 03:50:21](https://lobste.rs/s/3wc4x6/memory_safety_modern_systems) - [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 * [2022-10-09, 01:57:58](https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround) - [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
-* [2022-10-08, 22:00:07](https://lobste.rs/s/pwdwdw/smaller_debug_info_with_constructor_type) - [Smaller debug info with constructor type homing (2021)](https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/)
 * [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits) - [maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
