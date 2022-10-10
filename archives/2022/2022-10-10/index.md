@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 19:53:43](https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable) - [InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards](https://github.com/invoke-ai/InvokeAI)
 * [2022-10-10, 19:34:01](https://lobste.rs/s/nfzgr8/what_does_values_aligned_software) - [What does values-aligned software development look like?](https://technical.ly/software-development/fastmail-values-aligned-product/)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)

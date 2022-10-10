@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 19:53:43](https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable) - [InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards](https://github.com/invoke-ai/InvokeAI)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
 * [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
@@ -22,7 +23,6 @@
 * [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
-* [2022-10-09, 16:55:06](https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are) - [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
 * [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 
