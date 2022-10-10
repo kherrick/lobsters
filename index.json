@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 18:56:26",
+      "https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n"
+    ],
+    [
+      "Sync a Bitcoin full node using a STARK proof in n(1) time",
+      "https://github.com/lucidLuckylee/zerosync"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 18:54:37",
+      "https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know"
+    ],
+    [
+      "All Major C++17 Features You Should Know",
+      "https://www.cppstories.com/2017/01/cpp17features/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 17:18:08",
       "https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-09, 15:27:58",
-      "https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework"
-    ],
-    [
-      "Tonic: A low profile component framework",
-      "https://tonicframework.dev/"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 14:48:01",
       "https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you"
     ],
@@ -237,16 +247,6 @@
     [
       "Know your carrying capacity",
       "https://www.macchaffee.com/blog/2022/carrying-capacity/"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 05:46:38",
-      "https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone"
-    ],
-    [
-      "Going where BeOS NetPositive hasn't gone before: NetPositive+",
-      "https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html"
     ]
   ]
 ]
