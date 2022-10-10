@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 * [2022-10-10, 04:04:42](https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99) - [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
 * [2022-10-10, 02:16:53](https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
 * [2022-10-10, 00:45:34](https://lobste.rs/s/2vw1iq/bitcoin_economic_nihilism) - [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
@@ -22,7 +23,6 @@
 * [2022-10-09, 03:50:21](https://lobste.rs/s/3wc4x6/memory_safety_modern_systems) - [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 * [2022-10-09, 01:57:58](https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround) - [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
-* [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits) - [maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 * [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 
