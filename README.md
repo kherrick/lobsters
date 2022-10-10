@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 19:53:43](https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable) - [InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards](https://github.com/invoke-ai/InvokeAI)
@@ -21,7 +22,6 @@
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 * [2022-10-10, 04:04:42](https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99) - [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
 * [2022-10-10, 02:16:53](https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
-* [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 * [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 21:10:25](https://lobste.rs/s/dbcgha/brief_history_hackerdom) - [A Brief History of Hackerdom](http://www.catb.org/~esr/writings/hacker-history/hacker-history.html)
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
