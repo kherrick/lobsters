@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 19:34:01](https://lobste.rs/s/nfzgr8/what_does_values_aligned_software) - [What does values-aligned software development look like?](https://technical.ly/software-development/fastmail-values-aligned-product/)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
 * [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
 * [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
@@ -18,7 +19,6 @@
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 * [2022-10-10, 04:04:42](https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99) - [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
 * [2022-10-10, 02:16:53](https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
-* [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 * [2022-10-09, 16:55:06](https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are) - [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 19:34:01](https://lobste.rs/s/nfzgr8/what_does_values_aligned_software) - [What does values-aligned software development look like?](https://technical.ly/software-development/fastmail-values-aligned-product/)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
 * [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
 * [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
