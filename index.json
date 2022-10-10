@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 17:18:08",
+      "https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration"
+    ],
+    [
+      "Coding with Copilot for acceleration and exploration",
+      "https://austinhenley.com/blog/copilotmodes.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 16:57:02",
+      "https://lobste.rs/s/yg3irn/cheri_capability_model_revisiting_risc"
+    ],
+    [
+      "The CHERI capability model: Revisiting RISC in an age of risk",
+      "https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 16:36:49",
       "https://lobste.rs/s/ey2fey/how_are_mysql_postgres_enums_different"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-09, 20:03:52",
-      "https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design"
-    ],
-    [
-      "What’s wrong with Git? A conceptual design analysis (2016)",
-      "https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 18:57:53",
       "https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style"
     ],
@@ -227,16 +237,6 @@
     [
       "Know your carrying capacity",
       "https://www.macchaffee.com/blog/2022/carrying-capacity/"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 12:04:44",
-      "https://lobste.rs/s/wbdvze/python_preloaded_bundle_python"
-    ],
-    [
-      "Python Preloaded: Bundle Python executable with preloaded modules",
-      "https://github.com/albertz/python-preloaded"
     ]
   ],
   [
