@@ -10,7 +10,6 @@
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 * [2022-10-10, 04:04:42](https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99) - [Halfix: a portable x86 emulator written in C99](https://github.com/nepx/halfix)
 * [2022-10-10, 02:16:53](https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
-* [2022-10-10, 00:45:34](https://lobste.rs/s/2vw1iq/bitcoin_economic_nihilism) - [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
 * [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 20:03:52](https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design) - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
@@ -23,6 +22,7 @@
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 * [2022-10-09, 12:04:55](https://lobste.rs/s/np4zbg/know_your_carrying_capacity) - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
 * [2022-10-09, 12:04:44](https://lobste.rs/s/wbdvze/python_preloaded_bundle_python) - [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
+* [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 
