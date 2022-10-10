@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-10, 06:33:39",
+      "https://lobste.rs/s/byail8/static_html_comments"
+    ],
+    [
+      "Static HTML comments",
+      "https://sive.rs/shc"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 04:26:55",
       "https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing"
     ],
@@ -217,16 +227,6 @@
     [
       "Untangling Lifetimes: The Arena Allocator",
       "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 01:57:58",
-      "https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround"
-    ],
-    [
-      "ProtonVPN IP Leakage on Linux and Workaround",
-      "https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/"
     ]
   ],
   [
