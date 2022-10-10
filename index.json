@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-10, 12:13:24",
+      "https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it"
+    ],
+    [
+      "I have come to bury the BIOS, not to open it",
+      "https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 12:02:35",
+      "https://lobste.rs/s/94avol/back_android_for_time_being"
+    ],
+    [
+      "Back to Android (for the time being)",
+      "https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 11:52:50",
+      "https://lobste.rs/s/5bejdq/focus_writing_with_despite_latex"
+    ],
+    [
+      "Focus writing with (despite) LaTeX",
+      "https://jmtd.net/log/latex_writing/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 11:01:18",
       "https://lobste.rs/s/ygwgje/tum_fatig_ads_blocking_with_openbsd"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-10-09, 14:50:08",
-      "https://lobste.rs/s/9na40w/what_general_diagonal_argument_looks"
-    ],
-    [
-      "What A General Diagonal Argument Looks Like (Category Theory)",
-      "https://www.youtube.com/watch?v=dwNxVpbEVcc"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 14:48:01",
       "https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-10-09, 07:29:59",
-      "https://lobste.rs/s/oui6xj/discovering_faster_matrix"
-    ],
-    [
-      "Discovering faster matrix multiplication algorithms with reinforcement learning",
-      "https://www.nature.com/articles/s41586-022-05172-4"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 05:46:38",
       "https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone"
     ],
@@ -237,16 +247,6 @@
     [
       "Untangling Lifetimes: The Arena Allocator",
       "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 14:50:22",
-      "https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming"
-    ],
-    [
-      "Why is it hard to learn another programming language?",
-      "https://austinhenley.com/blog/learnanotherpl.html"
     ]
   ]
 ]
