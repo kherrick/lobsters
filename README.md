@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 02:16:53](https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS)
+* [2022-10-10, 00:45:34](https://lobste.rs/s/2vw1iq/bitcoin_economic_nihilism) - [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
+* [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 20:03:52](https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design) - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
 * [2022-10-09, 18:47:39](https://lobste.rs/s/mmcnfb/circle_language_quick_reference) - [Circle Language Quick Reference](https://www.circle-lang.org/quickref.html)
@@ -19,12 +22,9 @@
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 * [2022-10-09, 01:57:58](https://lobste.rs/s/bzapik/protonvpn_ip_leakage_on_linux_workaround) - [ProtonVPN IP Leakage on Linux and Workaround](https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/)
 * [2022-10-08, 19:58:16](https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits) - [maskromtool: A tool for extracting bits from Mask ROM photographs](https://github.com/travisgoodspeed/maskromtool)
-* [2022-10-08, 15:27:33](https://lobste.rs/s/evgcuz/hacker_s_guide_uart_root_shells) - [Hacker's Guide to UART Root Shells](https://www.youtube.com/watch?v=01mw0oTHwxg)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
-* [2022-10-08, 13:36:52](https://lobste.rs/s/edywgv/python_type_hints_how_gradually_add_types) - [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/)
 * [2022-10-08, 12:17:06](https://lobste.rs/s/6lvk6w/introducing_pgproxy) - [Introducing pgproxy](https://tailscale.com/blog/introducing-pgproxy/)
 * [2022-10-08, 11:29:30](https://lobste.rs/s/uitpqm/my_class_is_bigger_than_your_class) - [My class is bigger than your class • (metaclass tomfoolery)](http://blog.erezsh.com/my-class-is-bigger-than-your-class/)
-* [2022-10-08, 00:46:24](https://lobste.rs/s/e5l6ok/4x4_ascii_font) - [4x4 ASCII Font](https://simplifier.neocities.org/4x4.html)
 
 ## [Archives](archives/index.md)
 
