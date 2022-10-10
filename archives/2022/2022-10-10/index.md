@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
+* [2022-10-10, 16:57:02](https://lobste.rs/s/yg3irn/cheri_capability_model_revisiting_risc) - [The CHERI capability model: Revisiting RISC in an age of risk](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf)
 * [2022-10-10, 16:36:49](https://lobste.rs/s/ey2fey/how_are_mysql_postgres_enums_different) - [How are MySQL and Postgres ENUMs different?](https://readyset.io/blog/enums-mysql-vs-postgres)
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
