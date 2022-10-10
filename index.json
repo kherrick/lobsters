@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-10, 04:26:55",
+      "https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing"
+    ],
+    [
+      "More about the Google plasma globe thing",
+      "https://lcamtuf.coredump.cx/plasma_globe.txt"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 04:04:42",
       "https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99"
     ],
@@ -217,16 +227,6 @@
     [
       "ProtonVPN IP Leakage on Linux and Workaround",
       "https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/"
-    ]
-  ],
-  [
-    [
-      "2022-10-08, 19:58:16",
-      "https://lobste.rs/s/rjkykc/maskromtool_tool_for_extracting_bits"
-    ],
-    [
-      "maskromtool: A tool for extracting bits from Mask ROM photographs",
-      "https://github.com/travisgoodspeed/maskromtool"
     ]
   ],
   [
