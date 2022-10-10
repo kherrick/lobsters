@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 12:13:24](https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it) - [I have come to bury the BIOS, not to open it](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
+* [2022-10-10, 12:02:35](https://lobste.rs/s/94avol/back_android_for_time_being) - [Back to Android (for the time being)](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
+* [2022-10-10, 11:52:50](https://lobste.rs/s/5bejdq/focus_writing_with_despite_latex) - [Focus writing with (despite) LaTeX](https://jmtd.net/log/latex_writing/)
 * [2022-10-10, 11:01:18](https://lobste.rs/s/ygwgje/tum_fatig_ads_blocking_with_openbsd) - [TuM'Fatig - Ads blocking with OpenBSD unbound(8)](https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/)
 * [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 * [2022-10-10, 09:03:29](https://lobste.rs/s/pmlxwv/kons_9_common_lisp_3d_graphics_project) - [kons-9: Common Lisp 3D Graphics Project](https://github.com/kaveh808/kons-9)
@@ -16,15 +19,12 @@
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 * [2022-10-09, 16:55:06](https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are) - [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
 * [2022-10-09, 15:27:58](https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework) - [Tonic: A low profile component framework](https://tonicframework.dev/)
-* [2022-10-09, 14:50:08](https://lobste.rs/s/9na40w/what_general_diagonal_argument_looks) - [What A General Diagonal Argument Looks Like (Category Theory)](https://www.youtube.com/watch?v=dwNxVpbEVcc)
 * [2022-10-09, 14:48:01](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you) - [What sql database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 * [2022-10-09, 14:34:12](https://lobste.rs/s/x4snip/diy_out_band_management_remote_power) - [DIY out of band management: remote power button](https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/)
 * [2022-10-09, 12:04:55](https://lobste.rs/s/np4zbg/know_your_carrying_capacity) - [Know your carrying capacity](https://www.macchaffee.com/blog/2022/carrying-capacity/)
 * [2022-10-09, 12:04:44](https://lobste.rs/s/wbdvze/python_preloaded_bundle_python) - [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
-* [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
-* [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
 
 ## [Archives](archives/index.md)
 

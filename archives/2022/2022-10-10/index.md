@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 12:13:24](https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it) - [I have come to bury the BIOS, not to open it](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
+* [2022-10-10, 12:02:35](https://lobste.rs/s/94avol/back_android_for_time_being) - [Back to Android (for the time being)](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
+* [2022-10-10, 11:52:50](https://lobste.rs/s/5bejdq/focus_writing_with_despite_latex) - [Focus writing with (despite) LaTeX](https://jmtd.net/log/latex_writing/)
 * [2022-10-10, 11:01:18](https://lobste.rs/s/ygwgje/tum_fatig_ads_blocking_with_openbsd) - [TuM'Fatig - Ads blocking with OpenBSD unbound(8)](https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/)
 * [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 * [2022-10-10, 09:03:29](https://lobste.rs/s/pmlxwv/kons_9_common_lisp_3d_graphics_project) - [kons-9: Common Lisp 3D Graphics Project](https://github.com/kaveh808/kons-9)
