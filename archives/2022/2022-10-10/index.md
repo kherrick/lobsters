@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
+* [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
 * [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
 * [2022-10-10, 16:57:02](https://lobste.rs/s/yg3irn/cheri_capability_model_revisiting_risc) - [The CHERI capability model: Revisiting RISC in an age of risk](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf)
 * [2022-10-10, 16:36:49](https://lobste.rs/s/ey2fey/how_are_mysql_postgres_enums_different) - [How are MySQL and Postgres ENUMs different?](https://readyset.io/blog/enums-mysql-vs-postgres)
