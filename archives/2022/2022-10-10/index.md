@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-10](index.md)
 
+* [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 * [2022-10-10, 09:03:29](https://lobste.rs/s/pmlxwv/kons_9_common_lisp_3d_graphics_project) - [kons-9: Common Lisp 3D Graphics Project](https://github.com/kaveh808/kons-9)
 * [2022-10-10, 06:33:39](https://lobste.rs/s/byail8/static_html_comments) - [Static HTML comments](https://sive.rs/shc)
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)

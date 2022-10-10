@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 * [2022-10-10, 09:03:29](https://lobste.rs/s/pmlxwv/kons_9_common_lisp_3d_graphics_project) - [kons-9: Common Lisp 3D Graphics Project](https://github.com/kaveh808/kons-9)
 * [2022-10-10, 06:33:39](https://lobste.rs/s/byail8/static_html_comments) - [Static HTML comments](https://sive.rs/shc)
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
@@ -21,7 +22,6 @@
 * [2022-10-09, 12:04:44](https://lobste.rs/s/wbdvze/python_preloaded_bundle_python) - [Python Preloaded: Bundle Python executable with preloaded modules](https://github.com/albertz/python-preloaded)
 * [2022-10-09, 07:29:59](https://lobste.rs/s/oui6xj/discovering_faster_matrix) - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 * [2022-10-09, 05:46:38](https://lobste.rs/s/aperer/going_where_beos_netpositive_hasn_t_gone) - [Going where BeOS NetPositive hasn't gone before: NetPositive+](https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html)
-* [2022-10-09, 04:12:01](https://lobste.rs/s/p07vus/manufacturer_s_perspective_on_pl) - [A Manufacturer's Perspective on PL Progress](http://lambda-the-ultimate.org/node/5655)
 * [2022-10-09, 03:50:21](https://lobste.rs/s/3wc4x6/memory_safety_modern_systems) - [Memory Safety in a Modern Systems Programming Language, Part 1](https://dlang.org/blog/2022/06/21/dip1000-memory-safety-in-a-modern-system-programming-language-pt-1/)
 * [2022-10-09, 03:35:34](https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator) - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 * [2022-10-08, 14:50:22](https://lobste.rs/s/gvfpzb/why_is_it_hard_learn_another_programming) - [Why is it hard to learn another programming language?](https://austinhenley.com/blog/learnanotherpl.html)
