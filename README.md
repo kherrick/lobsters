@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-10, 21:10:25](https://lobste.rs/s/dbcgha/brief_history_hackerdom) - [A Brief History of Hackerdom](http://www.catb.org/~esr/writings/hacker-history/hacker-history.html)
+* [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 19:53:43](https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable) - [InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards](https://github.com/invoke-ai/InvokeAI)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
