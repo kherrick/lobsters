@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-10, 19:34:01",
-      "https://lobste.rs/s/nfzgr8/what_does_values_aligned_software"
-    ],
-    [
-      "What does values-aligned software development look like?",
-      "https://technical.ly/software-development/fastmail-values-aligned-product/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 18:56:26",
       "https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n"
     ],
@@ -227,6 +217,16 @@
     [
       "Zig-style generics are not well-suited for most languages",
       "https://typesanitizer.com/blog/zig-generics.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 16:55:06",
+      "https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are"
+    ],
+    [
+      "How old various Unix signals are",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld"
     ]
   ],
   [
