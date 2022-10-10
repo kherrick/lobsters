@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-10-10, 00:45:34",
-      "https://lobste.rs/s/2vw1iq/bitcoin_economic_nihilism"
-    ],
-    [
-      "Bitcoin and economic nihilism",
-      "https://xeiaso.net/blog/cryptocurrency-ownership"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 00:26:45",
       "https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly"
     ],
@@ -227,6 +217,16 @@
     [
       "Python Preloaded: Bundle Python executable with preloaded modules",
       "https://github.com/albertz/python-preloaded"
+    ]
+  ],
+  [
+    [
+      "2022-10-09, 07:29:59",
+      "https://lobste.rs/s/oui6xj/discovering_faster_matrix"
+    ],
+    [
+      "Discovering faster matrix multiplication algorithms with reinforcement learning",
+      "https://www.nature.com/articles/s41586-022-05172-4"
     ]
   ],
   [
