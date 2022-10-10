@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-10, 16:36:49",
+      "https://lobste.rs/s/ey2fey/how_are_mysql_postgres_enums_different"
+    ],
+    [
+      "How are MySQL and Postgres ENUMs different?",
+      "https://readyset.io/blog/enums-mysql-vs-postgres"
+    ]
+  ],
+  [
+    [
+      "2022-10-10, 16:10:29",
+      "https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional"
+    ],
+    [
+      "Mike Acton’s Expectations of Professional Software Engineers",
+      "https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 14:46:23",
       "https://lobste.rs/s/kxzhfz/4th_year_serenityos"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-09, 18:47:39",
-      "https://lobste.rs/s/mmcnfb/circle_language_quick_reference"
-    ],
-    [
-      "Circle Language Quick Reference",
-      "https://www.circle-lang.org/quickref.html"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 16:58:40",
       "https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Going where BeOS NetPositive hasn't gone before: NetPositive+",
       "https://oldvcr.blogspot.com/2022/10/going-where-beos-netpositive-hasnt-gone.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 03:35:34",
-      "https://lobste.rs/s/l5e7oz/untangling_lifetimes_arena_allocator"
-    ],
-    [
-      "Untangling Lifetimes: The Arena Allocator",
-      "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
     ]
   ]
 ]
