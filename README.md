@@ -15,7 +15,7 @@
 * [2022-10-10, 00:26:45](https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly) - [WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)](http://troubles.md/wasm-is-not-a-stack-machine/)
 * [2022-10-09, 20:03:52](https://lobste.rs/s/z6wuiw/what_s_wrong_with_git_conceptual_design) - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [2022-10-09, 18:57:53](https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style) - [Emacs: Reveal in macOS Finder (DWIM style)](https://xenodium.com/emacs-reveal-in-finder-dwim-style/)
-* [2022-10-09, 18:17:34](https://lobste.rs/s/rrp0fq/git_for_beginners_handout) - [GIT for Beginners (handout)](https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf)
+* [2022-10-09, 18:47:39](https://lobste.rs/s/mmcnfb/circle_language_quick_reference) - [Circle Language Quick Reference](https://www.circle-lang.org/quickref.html)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 * [2022-10-09, 16:55:06](https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are) - [How old various Unix signals are](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld)
 * [2022-10-09, 15:27:58](https://lobste.rs/s/jae5rf/tonic_low_profile_component_framework) - [Tonic: A low profile component framework](https://tonicframework.dev/)
