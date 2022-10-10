@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-10, 19:53:43",
+      "https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable"
+    ],
+    [
+      "InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards",
+      "https://github.com/invoke-ai/InvokeAI"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 19:34:01",
       "https://lobste.rs/s/nfzgr8/what_does_values_aligned_software"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2022-10-10, 00:26:45",
+      "https://lobste.rs/s/qd5wqv/webassembly_troubles_part_1_webassembly"
+    ],
+    [
+      "WebAssembly Troubles part 1: WebAssembly Is Not a Stack Machine (2019)",
+      "http://troubles.md/wasm-is-not-a-stack-machine/"
+    ]
+  ],
+  [
+    [
       "2022-10-09, 18:57:53",
       "https://lobste.rs/s/qcpujw/emacs_reveal_macos_finder_dwim_style"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-10-09, 16:55:06",
-      "https://lobste.rs/s/wd6tjx/how_old_various_unix_signals_are"
-    ],
-    [
-      "How old various Unix signals are",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/SignalsHowOld"
-    ]
-  ],
-  [
-    [
       "2022-10-09, 14:48:01",
       "https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you"
     ],
@@ -237,16 +247,6 @@
     [
       "DIY out of band management: remote power button",
       "https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 12:04:55",
-      "https://lobste.rs/s/np4zbg/know_your_carrying_capacity"
-    ],
-    [
-      "Know your carrying capacity",
-      "https://www.macchaffee.com/blog/2022/carrying-capacity/"
     ]
   ]
 ]
