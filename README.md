@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 00:22:53](https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on) - [Improving Firefox responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
 * [2022-10-10, 23:42:45](https://lobste.rs/s/7yibyw/passing_command_line_arguments_nix) - [passing command line arguments to nix flakes](https://mat.services/posts/command-line-flake-arguments/)
 * [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
-* [2022-10-10, 19:53:43](https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable) - [InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards](https://github.com/invoke-ai/InvokeAI)
 * [2022-10-10, 18:56:26](https://lobste.rs/s/d9rbbm/sync_bitcoin_full_node_using_stark_proof_n) - [Sync a Bitcoin full node using a STARK proof in n(1) time](https://github.com/lucidLuckylee/zerosync)
 * [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
 * [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)

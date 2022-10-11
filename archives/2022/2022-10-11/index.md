@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-10-11](index.md)
+
+* [2022-10-11, 00:22:53](https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on) - [Improving Firefox responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
