@@ -1,11 +1,41 @@
 [
   [
     [
-      "2022-10-11, 15:43:27",
-      "https://lobste.rs/s/qmgjk9/little_typer"
+      "2022-10-11, 16:41:34",
+      "https://lobste.rs/s/wqpds6/grid_parts_relationships"
     ],
     [
-      "The Little Typer",
+      "Grid parts and relationships",
+      "https://www.redblobgames.com/grids/parts/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 16:34:37",
+      "https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr"
+    ],
+    [
+      "Elm at a Billion Dollar Company with Vendr CTO Aaron White",
+      "https://elm-radio.com/episode/elm-at-a-billion-dollar-company/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 16:15:15",
+      "https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number"
+    ],
+    [
+      "Protect your privacy and your phone number with Firefox Relay",
+      "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 15:43:27",
+      "https://lobste.rs/s/qmgjk9/little_typer_2018"
+    ],
+    [
+      "The Little Typer (2018)",
       "https://thelittletyper.com"
     ]
   ],
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2022-10-10, 18:54:37",
-      "https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know"
-    ],
-    [
-      "All Major C++17 Features You Should Know",
-      "https://www.cppstories.com/2017/01/cpp17features/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 17:18:08",
-      "https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration"
-    ],
-    [
-      "Coding with Copilot for acceleration and exploration",
-      "https://austinhenley.com/blog/copilotmodes.html"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 16:10:29",
       "https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional"
     ],
@@ -237,16 +247,6 @@
     [
       "Back to Android (for the time being)",
       "https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 09:25:40",
-      "https://lobste.rs/s/upxidp/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/upxidp/what_are_you_doing_this_week"
     ]
   ]
 ]
