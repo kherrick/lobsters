@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-11](index.md)
 
+* [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)
 * [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 * [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)

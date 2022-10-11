@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)
 * [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 * [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
@@ -19,7 +20,6 @@
 * [2022-10-10, 23:42:45](https://lobste.rs/s/7yibyw/passing_command_line_arguments_nix) - [passing command line arguments to nix flakes](https://mat.services/posts/command-line-flake-arguments/)
 * [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
-* [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
 * [2022-10-10, 14:43:07](https://lobste.rs/s/strz2g/when_use_memory_safe_languages) - [When to Use Memory Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1)
