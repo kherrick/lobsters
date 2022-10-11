@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-11, 03:53:00",
+      "https://lobste.rs/s/xopp45/maspar_mp_1_architecture_1990"
+    ],
+    [
+      "The MasPar MP-1 architecture (1990)",
+      "https://courses.cs.washington.edu/courses/cse591n/06au/papers/maspar.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 03:48:55",
+      "https://lobste.rs/s/lofkmy/performance_preconceptions"
+    ],
+    [
+      "Performance Preconceptions",
+      "https://blog.brownplt.org/2022/10/10/performance-preconceptions.html"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 00:22:53",
       "https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on"
     ],
@@ -47,16 +67,6 @@
     [
       "Migrating a Mastodon Account",
       "https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 19:53:43",
-      "https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable"
-    ],
-    [
-      "InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards",
-      "https://github.com/invoke-ai/InvokeAI"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "More about the Google plasma globe thing",
       "https://lcamtuf.coredump.cx/plasma_globe.txt"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 04:04:42",
-      "https://lobste.rs/s/awrron/halfix_portable_x86_emulator_written_c99"
-    ],
-    [
-      "Halfix: a portable x86 emulator written in C99",
-      "https://github.com/nepx/halfix"
     ]
   ],
   [
