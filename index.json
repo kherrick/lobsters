@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-10-10, 19:53:43",
+      "https://lobste.rs/s/oz35pb/invokeai_multiplatform_stable"
+    ],
+    [
+      "InvokeAI: multiplatform Stable Diffusion toolkit that works with 4GB GPU cards",
+      "https://github.com/invoke-ai/InvokeAI"
+    ]
+  ],
+  [
+    [
       "2022-10-10, 18:54:37",
       "https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know"
     ],
@@ -217,16 +227,6 @@
     [
       "More about the Google plasma globe thing",
       "https://lcamtuf.coredump.cx/plasma_globe.txt"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 02:16:53",
-      "https://lobste.rs/s/zxte7r/swift_was_always_going_be_part_os"
-    ],
-    [
-      "Swift was always going to be part of the OS",
-      "https://belkadan.com/blog/2022/10/Swift-in-the-OS"
     ]
   ],
   [
