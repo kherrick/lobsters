@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 10:18:31](https://lobste.rs/s/hqvkid/let_s_encrypt_wildcard_certificates_made) - [Let's Encrypt Wildcard Certificates Made Easy with Agnos](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)
 * [2022-10-11, 08:53:28](https://lobste.rs/s/kyn6x8/worry_free_nixos_refactors) - [Worry-free NixOS refactors](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
 * [2022-10-11, 03:53:00](https://lobste.rs/s/xopp45/maspar_mp_1_architecture_1990) - [The MasPar MP-1 architecture (1990)](https://courses.cs.washington.edu/courses/cse591n/06au/papers/maspar.pdf)
 * [2022-10-11, 03:48:55](https://lobste.rs/s/lofkmy/performance_preconceptions) - [Performance Preconceptions](https://blog.brownplt.org/2022/10/10/performance-preconceptions.html)
@@ -21,7 +22,6 @@
 * [2022-10-10, 11:52:50](https://lobste.rs/s/5bejdq/focus_writing_with_despite_latex) - [Focus writing with (despite) LaTeX](https://jmtd.net/log/latex_writing/)
 * [2022-10-10, 11:01:18](https://lobste.rs/s/ygwgje/ads_blocking_with_openbsd_unbound_8) - [Ads blocking with OpenBSD unbound(8)](https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/)
 * [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
-* [2022-10-10, 09:03:29](https://lobste.rs/s/pmlxwv/kons_9_common_lisp_3d_graphics_project) - [kons-9: Common Lisp 3D Graphics Project](https://github.com/kaveh808/kons-9)
 * [2022-10-10, 06:33:39](https://lobste.rs/s/byail8/static_html_comments) - [Static HTML comments](https://sive.rs/shc)
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 * [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
