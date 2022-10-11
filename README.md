@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-11, 15:43:27](https://lobste.rs/s/qmgjk9/little_typer) - [The Little Typer](https://thelittletyper.com)
+* [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
+* [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
+* [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
+* [2022-10-11, 15:43:27](https://lobste.rs/s/qmgjk9/little_typer_2018) - [The Little Typer (2018)](https://thelittletyper.com)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 * [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 * [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
@@ -17,14 +20,11 @@
 * [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
-* [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
-* [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
 * [2022-10-10, 14:43:07](https://lobste.rs/s/strz2g/when_use_memory_safe_languages) - [When to Use Memory Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1)
 * [2022-10-10, 12:13:24](https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it) - [I have come to bury the BIOS, not to open it](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
 * [2022-10-10, 12:02:35](https://lobste.rs/s/94avol/back_android_for_time_being) - [Back to Android (for the time being)](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
-* [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 
 ## [Archives](archives/index.md)
 

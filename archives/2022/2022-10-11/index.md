@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-10-11](index.md)
 
+* [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
+* [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
+* [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
+* [2022-10-11, 15:43:27](https://lobste.rs/s/qmgjk9/little_typer_2018) - [The Little Typer (2018)](https://thelittletyper.com)
 * [2022-10-11, 15:43:27](https://lobste.rs/s/qmgjk9/little_typer) - [The Little Typer](https://thelittletyper.com)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 * [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
