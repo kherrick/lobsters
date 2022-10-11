@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 19:52:21](https://lobste.rs/s/acxhqi/carlafox_open_source_web_based_carla) - [Carlafox, an open-source web-based CARLA visualizer](https://www.collabora.com/news-and-blog/blog/2022/10/11/carlafox-open-source-web-based-carla-visualizer/)
 * [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)
 * [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
@@ -7,7 +8,6 @@
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
-* [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 * [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
