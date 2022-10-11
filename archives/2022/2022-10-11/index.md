@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-11](index.md)
 
+* [2022-10-11, 21:22:57](https://lobste.rs/s/nedpqm/type_annotation_via_automated) - [Type annotation via automated refactoring](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 19:52:21](https://lobste.rs/s/acxhqi/carlafox_open_source_web_based_carla) - [Carlafox, an open-source web-based CARLA visualizer](https://www.collabora.com/news-and-blog/blog/2022/10/11/carlafox-open-source-web-based-carla-visualizer/)
 * [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)

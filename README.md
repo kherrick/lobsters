@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 21:22:57](https://lobste.rs/s/nedpqm/type_annotation_via_automated) - [Type annotation via automated refactoring](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 19:52:21](https://lobste.rs/s/acxhqi/carlafox_open_source_web_based_carla) - [Carlafox, an open-source web-based CARLA visualizer](https://www.collabora.com/news-and-blog/blog/2022/10/11/carlafox-open-source-web-based-carla-visualizer/)
 * [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)
@@ -20,7 +21,6 @@
 * [2022-10-11, 08:53:28](https://lobste.rs/s/kyn6x8/worry_free_nixos_refactors) - [Worry-free NixOS refactors](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
 * [2022-10-11, 00:22:53](https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on) - [Improving Firefox responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
 * [2022-10-10, 23:42:45](https://lobste.rs/s/7yibyw/passing_command_line_arguments_nix) - [passing command line arguments to nix flakes](https://mat.services/posts/command-line-flake-arguments/)
-* [2022-10-10, 22:37:26](https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard) - [Hyperproperties and why they're hard](https://kmicinski.com/hyperproperties-hard)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
