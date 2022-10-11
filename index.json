@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-11, 14:35:31",
+      "https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end"
+    ],
+    [
+      "A deeper look into the GCC Rust front-end",
+      "https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 14:34:58",
+      "https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html"
+    ],
+    [
+      "Phoenix LiveView 0.18: New Special HTML Attributes",
+      "https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 13:54:09",
       "https://lobste.rs/s/ullchg/try_enarx"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-10-10, 16:57:02",
-      "https://lobste.rs/s/yg3irn/cheri_capability_model_revisiting_risc"
-    ],
-    [
-      "The CHERI capability model: Revisiting RISC in an age of risk",
-      "https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 16:10:29",
       "https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional"
     ],
@@ -237,16 +247,6 @@
     [
       "More about the Google plasma globe thing",
       "https://lcamtuf.coredump.cx/plasma_globe.txt"
-    ]
-  ],
-  [
-    [
-      "2022-10-09, 16:58:40",
-      "https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for"
-    ],
-    [
-      "Zig-style generics are not well-suited for most languages",
-      "https://typesanitizer.com/blog/zig-generics.html"
     ]
   ]
 ]
