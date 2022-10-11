@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-11, 21:22:57",
+      "https://lobste.rs/s/nedpqm/type_annotation_via_automated"
+    ],
+    [
+      "Type annotation via automated refactoring",
+      "https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 20:35:43",
       "https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types"
     ],
@@ -197,16 +207,6 @@
     [
       "passing command line arguments to nix flakes",
       "https://mat.services/posts/command-line-flake-arguments/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 22:37:26",
-      "https://lobste.rs/s/sn0kyz/hyperproperties_why_they_re_hard"
-    ],
-    [
-      "Hyperproperties and why they're hard",
-      "https://kmicinski.com/hyperproperties-hard"
     ]
   ],
   [
