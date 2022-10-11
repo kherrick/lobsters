@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
-* [2022-10-11, 13:54:09](https://lobste.rs/s/ullchg/try_enarx) - [Try Enarx](https://try.enarx.dev)
 * [2022-10-11, 13:47:18](https://lobste.rs/s/ogcqv1/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2022](https://www.haiku-os.org/blog/waddlesplash/2022-10-10_haiku_activity_contract_report_september_2022/)
 * [2022-10-11, 12:43:25](https://lobste.rs/s/v39lbr/eliminating_format_from_lisp_2003) - [Eliminating FORMAT from Lisp (2003)](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
 * [2022-10-11, 12:15:24](https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender) - [Wayland Support on Linux for Blender](https://code.blender.org/2022/10/wayland-support-on-linux/)
