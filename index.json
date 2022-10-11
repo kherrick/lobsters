@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-11, 15:43:27",
+      "https://lobste.rs/s/qmgjk9/little_typer"
+    ],
+    [
+      "The Little Typer",
+      "https://thelittletyper.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 15:28:33",
+      "https://lobste.rs/s/wq2pbe/12_factor_app_revisited"
+    ],
+    [
+      "12 Factor App Revisited",
+      "https://architecturenotes.co/12-factor-app-revisited/"
+    ]
+  ],
+  [
+    [
+      "2022-10-11, 15:25:09",
+      "https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting"
+    ],
+    [
+      "Traits, dynamic dispatch and upcasting",
+      "https://articles.bchlr.de/traits-dynamic-dispatch-upcasting"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 15:03:13",
       "https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2022-10-10, 11:01:18",
-      "https://lobste.rs/s/ygwgje/ads_blocking_with_openbsd_unbound_8"
-    ],
-    [
-      "Ads blocking with OpenBSD unbound(8)",
-      "https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/"
-    ]
-  ],
-  [
-    [
       "2022-10-10, 09:25:40",
       "https://lobste.rs/s/upxidp/what_are_you_doing_this_week"
     ],
     [
       "What are you doing this week?",
       "https://lobste.rs/s/upxidp/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 06:33:39",
-      "https://lobste.rs/s/byail8/static_html_comments"
-    ],
-    [
-      "Static HTML comments",
-      "https://sive.rs/shc"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 04:26:55",
-      "https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing"
-    ],
-    [
-      "More about the Google plasma globe thing",
-      "https://lcamtuf.coredump.cx/plasma_globe.txt"
     ]
   ]
 ]
