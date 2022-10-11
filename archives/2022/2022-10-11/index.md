@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-11](index.md)
 
+* [2022-10-11, 13:54:09](https://lobste.rs/s/ullchg/try_enarx) - [Try Enarx](https://try.enarx.dev)
+* [2022-10-11, 13:47:18](https://lobste.rs/s/ogcqv1/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2022](https://www.haiku-os.org/blog/waddlesplash/2022-10-10_haiku_activity_contract_report_september_2022/)
 * [2022-10-11, 12:43:25](https://lobste.rs/s/v39lbr/eliminating_format_from_lisp_2003) - [Eliminating FORMAT from Lisp (2003)](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
 * [2022-10-11, 12:15:24](https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender) - [Wayland Support on Linux for Blender](https://code.blender.org/2022/10/wayland-support-on-linux/)
 * [2022-10-11, 10:18:31](https://lobste.rs/s/hqvkid/let_s_encrypt_wildcard_certificates_made) - [Let's Encrypt Wildcard Certificates Made Easy with Agnos](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)
