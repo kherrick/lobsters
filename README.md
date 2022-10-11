@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
+* [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
 * [2022-10-11, 13:54:09](https://lobste.rs/s/ullchg/try_enarx) - [Try Enarx](https://try.enarx.dev)
 * [2022-10-11, 13:47:18](https://lobste.rs/s/ogcqv1/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2022](https://www.haiku-os.org/blog/waddlesplash/2022-10-10_haiku_activity_contract_report_september_2022/)
 * [2022-10-11, 12:43:25](https://lobste.rs/s/v39lbr/eliminating_format_from_lisp_2003) - [Eliminating FORMAT from Lisp (2003)](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
@@ -14,7 +16,6 @@
 * [2022-10-10, 20:43:50](https://lobste.rs/s/c0kecw/migrating_mastodon_account) - [Migrating a Mastodon Account](https://codingitwrong.com/2022/10/10/migrating-a-mastodon-account.html)
 * [2022-10-10, 18:54:37](https://lobste.rs/s/d0zrfe/all_major_c_17_features_you_should_know) - [All Major C++17 Features You Should Know](https://www.cppstories.com/2017/01/cpp17features/)
 * [2022-10-10, 17:18:08](https://lobste.rs/s/ffizin/coding_with_copilot_for_acceleration) - [Coding with Copilot for acceleration and exploration](https://austinhenley.com/blog/copilotmodes.html)
-* [2022-10-10, 16:57:02](https://lobste.rs/s/yg3irn/cheri_capability_model_revisiting_risc) - [The CHERI capability model: Revisiting RISC in an age of risk](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201406-isca2014-cheri.pdf)
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
 * [2022-10-10, 14:43:07](https://lobste.rs/s/strz2g/when_use_memory_safe_languages) - [When to Use Memory Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1)
@@ -24,7 +25,6 @@
 * [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
 * [2022-10-10, 06:33:39](https://lobste.rs/s/byail8/static_html_comments) - [Static HTML comments](https://sive.rs/shc)
 * [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
-* [2022-10-09, 16:58:40](https://lobste.rs/s/jktewn/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages](https://typesanitizer.com/blog/zig-generics.html)
 
 ## [Archives](archives/index.md)
 
