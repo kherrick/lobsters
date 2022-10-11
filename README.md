@@ -8,6 +8,7 @@
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
+* [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 * [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
@@ -23,7 +24,6 @@
 * [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
 * [2022-10-10, 14:43:07](https://lobste.rs/s/strz2g/when_use_memory_safe_languages) - [When to Use Memory Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1)
-* [2022-10-10, 12:13:24](https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it) - [I have come to bury the BIOS, not to open it](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
 * [2022-10-10, 12:02:35](https://lobste.rs/s/94avol/back_android_for_time_being) - [Back to Android (for the time being)](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
 
 ## [Archives](archives/index.md)
