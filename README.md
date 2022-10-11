@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-11, 15:43:27](https://lobste.rs/s/qmgjk9/little_typer) - [The Little Typer](https://thelittletyper.com)
+* [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
+* [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 * [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
@@ -21,10 +24,7 @@
 * [2022-10-10, 14:43:07](https://lobste.rs/s/strz2g/when_use_memory_safe_languages) - [When to Use Memory Safe Languages](https://verdagon.dev/blog/when-to-use-memory-safe-part-1)
 * [2022-10-10, 12:13:24](https://lobste.rs/s/zfnr2v/i_have_come_bury_bios_not_open_it) - [I have come to bury the BIOS, not to open it](https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/)
 * [2022-10-10, 12:02:35](https://lobste.rs/s/94avol/back_android_for_time_being) - [Back to Android (for the time being)](https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/)
-* [2022-10-10, 11:01:18](https://lobste.rs/s/ygwgje/ads_blocking_with_openbsd_unbound_8) - [Ads blocking with OpenBSD unbound(8)](https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/)
 * [2022-10-10, 09:25:40](https://lobste.rs/s/upxidp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/upxidp/what_are_you_doing_this_week)
-* [2022-10-10, 06:33:39](https://lobste.rs/s/byail8/static_html_comments) - [Static HTML comments](https://sive.rs/shc)
-* [2022-10-10, 04:26:55](https://lobste.rs/s/ajsx2q/more_about_google_plasma_globe_thing) - [More about the Google plasma globe thing](https://lcamtuf.coredump.cx/plasma_globe.txt)
 
 ## [Archives](archives/index.md)
 
