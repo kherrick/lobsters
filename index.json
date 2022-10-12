@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 17:39:35",
+      "https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009"
+    ],
+    [
+      "Reverse Engineering a GPU from 2009",
+      "https://garnet.codeberg.page/posts/gpu-reversing/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 16:56:22",
       "https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad"
     ],
@@ -117,16 +127,6 @@
     [
       "Emacs: macOS sharing (DWIM style)",
       "https://xenodium.com/emacs-macos-share-from-dired-dwim-style/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 08:01:59",
-      "https://lobste.rs/s/jurllp/gdb_black_magics_optimized_out"
-    ],
-    [
-      "Gdb Black Magics  <optimized out>",
-      "http://luajit.io/post/2022/gdb-black-magics/"
     ]
   ],
   [
