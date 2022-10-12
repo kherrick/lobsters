@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
+* [2022-10-12, 16:29:25](https://lobste.rs/s/zullkz/little_smalltalk_timothy_budd_1987) - [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook)
 * [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
 * [2022-10-12, 15:01:59](https://lobste.rs/s/mhduwk/verifying_distributed_systems_with) - [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 * [2022-10-12, 13:39:38](https://lobste.rs/s/8p6mfu/mlstruct_principal_type_inference) - [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
@@ -14,9 +16,7 @@
 * [2022-10-12, 07:39:52](https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten) - [nursery: Programs and libs that I haven't gotten around to formally packaging](https://github.com/chrisbarrett/nursery)
 * [2022-10-12, 07:15:46](https://lobste.rs/s/ha4ywz/moving_online_webserver_using_public) - [Moving online webserver using public transport](https://www.youtube.com/watch?v=vQ5MA685ApE)
 * [2022-10-12, 02:31:49](https://lobste.rs/s/obgesg/state_ghc) - [The State of GHC](https://www.youtube.com/watch?v=gJSTSkI0Uj8)
-* [2022-10-11, 21:22:57](https://lobste.rs/s/nedpqm/type_annotation_via_automated) - [Type annotation via automated refactoring](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
-* [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
