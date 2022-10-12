@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-12](index.md)
 
+* [2022-10-12, 17:39:35](https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009) - [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
 * [2022-10-12, 16:29:25](https://lobste.rs/s/zullkz/little_smalltalk_timothy_budd_1987) - [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook)
 * [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
