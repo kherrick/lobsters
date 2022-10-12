@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-10-11, 12:43:25",
+      "https://lobste.rs/s/v39lbr/eliminating_format_from_lisp_2003"
+    ],
+    [
+      "Eliminating FORMAT from Lisp (2003)",
+      "http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 12:15:24",
       "https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender"
     ],
@@ -217,16 +227,6 @@
     [
       "Let's Encrypt Wildcard Certificates Made Easy with Agnos",
       "https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 08:53:28",
-      "https://lobste.rs/s/kyn6x8/worry_free_nixos_refactors"
-    ],
-    [
-      "Worry-free NixOS refactors",
-      "https://www.tweag.io/blog/2022-10-11-stable-narhashes/"
     ]
   ],
   [
