@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-10-12](index.md)
 
 * [2022-10-12, 09:08:19](https://lobste.rs/s/lr7ykr/squoze_reversible_unicode_string_hashes) - [Squoze - reversible unicode string hashes](https://squoze.org/)
+* [2022-10-12, 08:51:59](https://lobste.rs/s/ra8vvk/i_wish_my_web_server_were_corner_my_room) - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
 * [2022-10-12, 08:51:35](https://lobste.rs/s/gkzg5f/fast_signum_with_avx512) - [Fast signum with AVX512](https://wunkolo.github.io/post/2022/10/vfixupimm-signum/)
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
 * [2022-10-12, 08:01:59](https://lobste.rs/s/jurllp/gdb_black_magics_optimized_out) - [Gdb Black Magics  <optimized out>](http://luajit.io/post/2022/gdb-black-magics/)
