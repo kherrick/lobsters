@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 19:54:28",
+      "https://lobste.rs/s/fvrpdx/improving_on_emacs_macos_sharing"
+    ],
+    [
+      "Improving on Emacs macOS sharing",
+      "https://xenodium.com/emacs-macos-sharing-dwim-style-improved"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 19:50:57",
       "https://lobste.rs/s/d4ks9r/seven_sins_numerical_linear_algebra"
     ],
@@ -227,16 +237,6 @@
     [
       "Wayland Support on Linux for Blender",
       "https://code.blender.org/2022/10/wayland-support-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 10:18:31",
-      "https://lobste.rs/s/hqvkid/let_s_encrypt_wildcard_certificates_made"
-    ],
-    [
-      "Let's Encrypt Wildcard Certificates Made Easy with Agnos",
-      "https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta"
     ]
   ],
   [
