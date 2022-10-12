@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 19:50:57](https://lobste.rs/s/d4ks9r/seven_sins_numerical_linear_algebra) - [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 * [2022-10-12, 17:39:35](https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009) - [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
 * [2022-10-12, 16:29:25](https://lobste.rs/s/zullkz/little_smalltalk_timothy_budd_1987) - [A Little Smalltalk (Timothy Budd) (1987)](https://archive.org/details/ALittleSmalltalkBook)
@@ -9,7 +10,6 @@
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 13:13:27](https://lobste.rs/s/n7ta2n/i_solved_dandelions_paper_pencil_game) - [I solved the Dandelions paper-and-pencil game](https://nullprogram.com/blog/2022/10/12/)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
-* [2022-10-12, 09:08:19](https://lobste.rs/s/lr7ykr/squoze_reversible_unicode_string_hashes) - [Squoze - reversible unicode string hashes](https://squoze.org/)
 * [2022-10-12, 08:51:59](https://lobste.rs/s/ra8vvk/i_wish_my_web_server_were_corner_my_room) - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
 * [2022-10-12, 08:51:35](https://lobste.rs/s/gkzg5f/fast_signum_with_avx512) - [Fast signum with AVX512](https://wunkolo.github.io/post/2022/10/vfixupimm-signum/)
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
