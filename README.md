@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 19:54:28](https://lobste.rs/s/fvrpdx/improving_on_emacs_macos_sharing) - [Improving on Emacs macOS sharing](https://xenodium.com/emacs-macos-sharing-dwim-style-improved)
 * [2022-10-12, 19:50:57](https://lobste.rs/s/d4ks9r/seven_sins_numerical_linear_algebra) - [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 * [2022-10-12, 17:39:35](https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009) - [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
@@ -23,7 +24,6 @@
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 12:15:24](https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender) - [Wayland Support on Linux for Blender](https://code.blender.org/2022/10/wayland-support-on-linux/)
-* [2022-10-11, 10:18:31](https://lobste.rs/s/hqvkid/let_s_encrypt_wildcard_certificates_made) - [Let's Encrypt Wildcard Certificates Made Easy with Agnos](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 
 ## [Archives](archives/index.md)
