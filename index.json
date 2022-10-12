@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2022-10-12, 08:51:59",
+      "https://lobste.rs/s/ra8vvk/i_wish_my_web_server_were_corner_my_room"
+    ],
+    [
+      "I wish my web server were in the corner of my room",
+      "https://interconnected.org/home/2022/10/10/servers"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 08:51:35",
       "https://lobste.rs/s/gkzg5f/fast_signum_with_avx512"
     ],
@@ -67,16 +77,6 @@
     [
       "The State of GHC",
       "https://www.youtube.com/watch?v=gJSTSkI0Uj8"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 21:22:57",
-      "https://lobste.rs/s/nedpqm/type_annotation_via_automated"
-    ],
-    [
-      "Type annotation via automated refactoring",
-      "https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4"
     ]
   ],
   [
