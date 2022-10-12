@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 00:28:56](https://lobste.rs/s/omo2hi/introduction_webassembly_crystal) - [Introduction to WebAssembly in Crystal](https://glue.im/noah/introduction-to-webassembly-in-crystal)
 * [2022-10-11, 21:22:57](https://lobste.rs/s/nedpqm/type_annotation_via_automated) - [Type annotation via automated refactoring](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 19:52:21](https://lobste.rs/s/acxhqi/carlafox_open_source_web_based_carla) - [Carlafox, an open-source web-based CARLA visualizer](https://www.collabora.com/news-and-blog/blog/2022/10/11/carlafox-open-source-web-based-carla-visualizer/)
@@ -11,7 +12,6 @@
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
 * [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
-* [2022-10-11, 15:03:13](https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model) - [Read a paper: The CHERI capability model — Revisiting RISC in an age of risk](https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
 * [2022-10-11, 14:34:58](https://lobste.rs/s/mntbl5/phoenix_liveview_0_18_new_special_html) - [Phoenix LiveView 0.18: New Special HTML Attributes](https://blog.appsignal.com/2022/10/11/phoenix-liveview-018-new-special-html-attributes.html)
 * [2022-10-11, 13:47:18](https://lobste.rs/s/ogcqv1/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2022](https://www.haiku-os.org/blog/waddlesplash/2022-10-10_haiku_activity_contract_report_september_2022/)
