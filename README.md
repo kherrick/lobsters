@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
+* [2022-10-12, 15:01:59](https://lobste.rs/s/mhduwk/verifying_distributed_systems_with) - [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 * [2022-10-12, 13:39:38](https://lobste.rs/s/8p6mfu/mlstruct_principal_type_inference) - [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 13:13:27](https://lobste.rs/s/n7ta2n/i_solved_dandelions_paper_pencil_game) - [I solved the Dandelions paper-and-pencil game](https://nullprogram.com/blog/2022/10/12/)
@@ -18,12 +20,10 @@
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
+* [2022-10-11, 15:25:09](https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting) - [Traits, dynamic dispatch and upcasting](https://articles.bchlr.de/traits-dynamic-dispatch-upcasting)
 * [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
-* [2022-10-11, 13:47:18](https://lobste.rs/s/ogcqv1/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2022](https://www.haiku-os.org/blog/waddlesplash/2022-10-10_haiku_activity_contract_report_september_2022/)
-* [2022-10-11, 12:43:25](https://lobste.rs/s/v39lbr/eliminating_format_from_lisp_2003) - [Eliminating FORMAT from Lisp (2003)](http://cs-www.cs.yale.edu/homes/dvm/format-stinks.html)
 * [2022-10-11, 12:15:24](https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender) - [Wayland Support on Linux for Blender](https://code.blender.org/2022/10/wayland-support-on-linux/)
 * [2022-10-11, 10:18:31](https://lobste.rs/s/hqvkid/let_s_encrypt_wildcard_certificates_made) - [Let's Encrypt Wildcard Certificates Made Easy with Agnos](https://ocamlpro.com/blog/2022_10_05_agnos_0.1.0-beta)
-* [2022-10-11, 00:22:53](https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on) - [Improving Firefox responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
 
 ## [Archives](archives/index.md)

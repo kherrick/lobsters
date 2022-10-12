@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-12](index.md)
 
+* [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
+* [2022-10-12, 15:01:59](https://lobste.rs/s/mhduwk/verifying_distributed_systems_with) - [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 * [2022-10-12, 13:39:38](https://lobste.rs/s/8p6mfu/mlstruct_principal_type_inference) - [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 13:13:27](https://lobste.rs/s/n7ta2n/i_solved_dandelions_paper_pencil_game) - [I solved the Dandelions paper-and-pencil game](https://nullprogram.com/blog/2022/10/12/)
