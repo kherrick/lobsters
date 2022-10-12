@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-12, 22:14:21",
+      "https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android"
+    ],
+    [
+      "Removing SMS support from Signal Android (soon)",
+      "https://signal.org/blog/sms-removal-android/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 22:07:09",
+      "https://lobste.rs/s/blavfc/blog_comments_on_static_site_via_social"
+    ],
+    [
+      "Blog comments on a static site via social networks",
+      "https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 19:54:28",
       "https://lobste.rs/s/fvrpdx/improving_on_emacs_macos_sharing"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-11, 16:15:15",
-      "https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number"
-    ],
-    [
-      "Protect your privacy and your phone number with Firefox Relay",
-      "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 15:28:33",
       "https://lobste.rs/s/wq2pbe/12_factor_app_revisited"
     ],
@@ -237,16 +247,6 @@
     [
       "Wayland Support on Linux for Blender",
       "https://code.blender.org/2022/10/wayland-support-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 21:35:27",
-      "https://lobste.rs/s/7f8exp/how_wine_works_101"
-    ],
-    [
-      "How Wine works 101",
-      "https://werat.dev/blog/how-wine-works-101/"
     ]
   ]
 ]
