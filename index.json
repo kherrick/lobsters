@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 12:12:13",
+      "https://lobste.rs/s/q5tvl6/python_dependency_management"
+    ],
+    [
+      "Python dependency management difficulty is an unhelpful meme",
+      "https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 09:08:19",
       "https://lobste.rs/s/lr7ykr/squoze_reversible_unicode_string_hashes"
     ],
@@ -147,16 +157,6 @@
     [
       "12 Factor App Revisited",
       "https://architecturenotes.co/12-factor-app-revisited/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 15:25:09",
-      "https://lobste.rs/s/ts34lw/traits_dynamic_dispatch_upcasting"
-    ],
-    [
-      "Traits, dynamic dispatch and upcasting",
-      "https://articles.bchlr.de/traits-dynamic-dispatch-upcasting"
     ]
   ],
   [
