@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 07:15:46](https://lobste.rs/s/ha4ywz/moving_online_webserver_using_public) - [Moving online webserver using public transport](https://www.youtube.com/watch?v=vQ5MA685ApE)
 * [2022-10-12, 02:31:49](https://lobste.rs/s/obgesg/state_ghc) - [The State of GHC](https://www.youtube.com/watch?v=gJSTSkI0Uj8)
 * [2022-10-12, 00:28:56](https://lobste.rs/s/omo2hi/introduction_webassembly_crystal) - [Introduction to WebAssembly in Crystal](https://glue.im/noah/introduction-to-webassembly-in-crystal)
 * [2022-10-11, 21:22:57](https://lobste.rs/s/nedpqm/type_annotation_via_automated) - [Type annotation via automated refactoring](https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 19:52:21](https://lobste.rs/s/acxhqi/carlafox_open_source_web_based_carla) - [Carlafox, an open-source web-based CARLA visualizer](https://www.collabora.com/news-and-blog/blog/2022/10/11/carlafox-open-source-web-based-carla-visualizer/)
-* [2022-10-11, 19:21:16](https://lobste.rs/s/vemkuk/understanding_c99_inlines) - [Understanding C99 inlines](https://www.humprog.org/~stephen/blog/2022/10/10/#understanding-c99-inlines)
 * [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 * [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
