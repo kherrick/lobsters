@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 02:31:49",
+      "https://lobste.rs/s/obgesg/state_ghc"
+    ],
+    [
+      "The State of GHC",
+      "https://www.youtube.com/watch?v=gJSTSkI0Uj8"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 00:28:56",
       "https://lobste.rs/s/omo2hi/introduction_webassembly_crystal"
     ],
@@ -237,16 +247,6 @@
     [
       "The 4th year of SerenityOS",
       "https://serenityos.org/happy/4th/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 12:02:35",
-      "https://lobste.rs/s/94avol/back_android_for_time_being"
-    ],
-    [
-      "Back to Android (for the time being)",
-      "https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/"
     ]
   ]
 ]
