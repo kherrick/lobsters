@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-12, 09:08:19](https://lobste.rs/s/lr7ykr/squoze_reversible_unicode_string_hashes) - [Squoze - reversible unicode string hashes](https://squoze.org/)
+* [2022-10-12, 08:51:35](https://lobste.rs/s/gkzg5f/fast_signum_with_avx512) - [Fast signum with AVX512](https://wunkolo.github.io/post/2022/10/vfixupimm-signum/)
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
 * [2022-10-12, 08:01:59](https://lobste.rs/s/jurllp/gdb_black_magics_optimized_out) - [Gdb Black Magics  <optimized out>](http://luajit.io/post/2022/gdb-black-magics/)
 * [2022-10-12, 07:39:52](https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten) - [nursery: Programs and libs that I haven't gotten around to formally packaging](https://github.com/chrisbarrett/nursery)
@@ -9,7 +11,6 @@
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 17:35:21](https://lobste.rs/s/ic1j2y/unravelling_if_statements) - [Unravelling `if` statements](https://snarky.ca/unravelling-if-statements/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
-* [2022-10-11, 16:41:34](https://lobste.rs/s/wqpds6/grid_parts_relationships) - [Grid parts and relationships](https://www.redblobgames.com/grids/parts/)
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 16:15:15](https://lobste.rs/s/azqqe5/protect_your_privacy_your_phone_number) - [Protect your privacy and your phone number with Firefox Relay](https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
@@ -23,7 +24,6 @@
 * [2022-10-11, 08:53:28](https://lobste.rs/s/kyn6x8/worry_free_nixos_refactors) - [Worry-free NixOS refactors](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
 * [2022-10-11, 00:22:53](https://lobste.rs/s/tbwed0/improving_firefox_responsiveness_on) - [Improving Firefox responsiveness on macOS](https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/)
 * [2022-10-10, 21:35:27](https://lobste.rs/s/7f8exp/how_wine_works_101) - [How Wine works 101](https://werat.dev/blog/how-wine-works-101/)
-* [2022-10-10, 16:10:29](https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional) - [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/)
 * [2022-10-10, 14:46:23](https://lobste.rs/s/kxzhfz/4th_year_serenityos) - [The 4th year of SerenityOS](https://serenityos.org/happy/4th/)
 
 ## [Archives](archives/index.md)
