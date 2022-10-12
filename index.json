@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-12, 08:13:45",
+      "https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style"
+    ],
+    [
+      "Emacs: macOS sharing (DWIM style)",
+      "https://xenodium.com/emacs-macos-share-from-dired-dwim-style/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 08:01:59",
+      "https://lobste.rs/s/jurllp/gdb_black_magics_optimized_out"
+    ],
+    [
+      "Gdb Black Magics  <optimized out>",
+      "http://luajit.io/post/2022/gdb-black-magics/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 07:39:52",
       "https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten"
     ],
@@ -27,16 +47,6 @@
     [
       "The State of GHC",
       "https://www.youtube.com/watch?v=gJSTSkI0Uj8"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 00:28:56",
-      "https://lobste.rs/s/omo2hi/introduction_webassembly_crystal"
-    ],
-    [
-      "Introduction to WebAssembly in Crystal",
-      "https://glue.im/noah/introduction-to-webassembly-in-crystal"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Improving Firefox responsiveness on macOS",
       "https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 23:42:45",
-      "https://lobste.rs/s/7yibyw/passing_command_line_arguments_nix"
-    ],
-    [
-      "passing command line arguments to nix flakes",
-      "https://mat.services/posts/command-line-flake-arguments/"
     ]
   ],
   [
