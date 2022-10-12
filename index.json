@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-12, 09:08:19",
+      "https://lobste.rs/s/lr7ykr/squoze_reversible_unicode_string_hashes"
+    ],
+    [
+      "Squoze - reversible unicode string hashes",
+      "https://squoze.org/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 08:51:35",
+      "https://lobste.rs/s/gkzg5f/fast_signum_with_avx512"
+    ],
+    [
+      "Fast signum with AVX512",
+      "https://wunkolo.github.io/post/2022/10/vfixupimm-signum/"
+    ]
+  ],
+  [
+    [
       "2022-10-12, 08:13:45",
       "https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style"
     ],
@@ -87,16 +107,6 @@
     [
       "Simplifying the Craigslist Gallery",
       "https://tdarb.org/blog/craigslist-gallery.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 16:41:34",
-      "https://lobste.rs/s/wqpds6/grid_parts_relationships"
-    ],
-    [
-      "Grid parts and relationships",
-      "https://www.redblobgames.com/grids/parts/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "How Wine works 101",
       "https://werat.dev/blog/how-wine-works-101/"
-    ]
-  ],
-  [
-    [
-      "2022-10-10, 16:10:29",
-      "https://lobste.rs/s/nqni8l/mike_acton_s_expectations_professional"
-    ],
-    [
-      "Mike Acton’s Expectations of Professional Software Engineers",
-      "https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/"
     ]
   ],
   [
