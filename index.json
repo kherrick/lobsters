@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-12, 00:28:56",
+      "https://lobste.rs/s/omo2hi/introduction_webassembly_crystal"
+    ],
+    [
+      "Introduction to WebAssembly in Crystal",
+      "https://glue.im/noah/introduction-to-webassembly-in-crystal"
+    ]
+  ],
+  [
+    [
       "2022-10-11, 21:22:57",
       "https://lobste.rs/s/nedpqm/type_annotation_via_automated"
     ],
@@ -107,16 +117,6 @@
     [
       "Traits, dynamic dispatch and upcasting",
       "https://articles.bchlr.de/traits-dynamic-dispatch-upcasting"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 15:03:13",
-      "https://lobste.rs/s/sehcyp/read_paper_cheri_capability_model"
-    ],
-    [
-      "Read a paper: The CHERI capability model — Revisiting RISC in an age of risk",
-      "https://www.youtube.com/watch?v=ljmOIHtNupo&list=WL&index=4"
     ]
   ],
   [
