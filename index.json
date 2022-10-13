@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-13, 09:48:13",
+      "https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql"
+    ],
+    [
+      "A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
+      "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 03:27:17",
       "https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support"
     ],
@@ -237,16 +247,6 @@
     [
       "Elm at a Billion Dollar Company with Vendr CTO Aaron White",
       "https://elm-radio.com/episode/elm-at-a-billion-dollar-company/"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 15:28:33",
-      "https://lobste.rs/s/wq2pbe/12_factor_app_revisited"
-    ],
-    [
-      "12 Factor App Revisited",
-      "https://architecturenotes.co/12-factor-app-revisited/"
     ]
   ]
 ]
