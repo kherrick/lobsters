@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 03:27:17](https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support) - [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
+* [2022-10-13, 02:49:17](https://lobste.rs/s/n6qvpg/using_framework_will_harm_maintenance) - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
+* [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 * [2022-10-12, 22:14:21](https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android) - [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
 * [2022-10-12, 22:07:09](https://lobste.rs/s/blavfc/blog_comments_on_static_site_via_social) - [Blog comments on a static site via social networks](https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/)
 * [2022-10-12, 19:54:28](https://lobste.rs/s/fvrpdx/improving_on_emacs_macos_sharing) - [Improving on Emacs macOS sharing](https://xenodium.com/emacs-macos-sharing-dwim-style-improved)
@@ -18,13 +21,10 @@
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
 * [2022-10-12, 07:39:52](https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten) - [nursery: Programs and libs that I haven't gotten around to formally packaging](https://github.com/chrisbarrett/nursery)
 * [2022-10-12, 07:15:46](https://lobste.rs/s/ha4ywz/moving_online_webserver_using_public) - [Moving online webserver using public transport](https://www.youtube.com/watch?v=vQ5MA685ApE)
-* [2022-10-12, 02:31:49](https://lobste.rs/s/obgesg/state_ghc) - [The State of GHC](https://www.youtube.com/watch?v=gJSTSkI0Uj8)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 * [2022-10-11, 16:34:37](https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr) - [Elm at a Billion Dollar Company with Vendr CTO Aaron White](https://elm-radio.com/episode/elm-at-a-billion-dollar-company/)
 * [2022-10-11, 15:28:33](https://lobste.rs/s/wq2pbe/12_factor_app_revisited) - [12 Factor App Revisited](https://architecturenotes.co/12-factor-app-revisited/)
-* [2022-10-11, 14:35:31](https://lobste.rs/s/crgmtb/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/SubscriberLink/909887/c69ee127309e50e3/)
-* [2022-10-11, 12:15:24](https://lobste.rs/s/ia33jn/wayland_support_on_linux_for_blender) - [Wayland Support on Linux for Blender](https://code.blender.org/2022/10/wayland-support-on-linux/)
 
 ## [Archives](archives/index.md)
 
