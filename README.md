@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
 * [2022-10-13, 13:53:45](https://lobste.rs/s/99e1oo/rfparty_new_way_see_ble) - [Rfparty - a new way to see BLE](https://blog.dataparty.xyz/blog/rfparty-a-new-way-to-see-ble/)
 * [2022-10-13, 13:47:19](https://lobste.rs/s/m0kxdt/postgresql_15_released) - [PostgreSQL 15 Released](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
 * [2022-10-13, 13:46:09](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now) - [RacketCon tickets on sale now](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now)
@@ -11,7 +12,6 @@
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 * [2022-10-12, 22:14:21](https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android) - [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
 * [2022-10-12, 22:07:09](https://lobste.rs/s/blavfc/blog_comments_on_static_site_via_social) - [Blog comments on a static site via social networks](https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/)
-* [2022-10-12, 19:54:28](https://lobste.rs/s/fvrpdx/improving_on_emacs_macos_sharing) - [Improving on Emacs macOS sharing](https://xenodium.com/emacs-macos-sharing-dwim-style-improved)
 * [2022-10-12, 19:50:57](https://lobste.rs/s/d4ks9r/seven_sins_numerical_linear_algebra) - [Seven Sins of Numerical Linear Algebra](https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/)
 * [2022-10-12, 17:39:35](https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009) - [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
