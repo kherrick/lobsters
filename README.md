@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 20:17:01](https://lobste.rs/s/v4r1jy/how_ai_image_generators_work_stable) - [How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 * [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
 * [2022-10-13, 19:22:02](https://lobste.rs/s/kxctmc/rewriting_modern_web_rust) - [Rewriting The Modern Web In Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust#rewriting-the-modern)
 * [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
@@ -16,7 +17,6 @@
 * [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 09:48:13](https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql) - [A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 * [2022-10-13, 03:27:17](https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support) - [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
-* [2022-10-13, 02:49:17](https://lobste.rs/s/n6qvpg/using_framework_will_harm_maintenance) - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 * [2022-10-12, 22:14:21](https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android) - [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
 * [2022-10-12, 22:07:09](https://lobste.rs/s/blavfc/blog_comments_on_static_site_via_social) - [Blog comments on a static site via social networks](https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/)
