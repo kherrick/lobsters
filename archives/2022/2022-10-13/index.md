@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 22:01:46](https://lobste.rs/s/pttgwm/fixing_firmware_file_systems) - [Fixing Firmware File Systems](https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/)
+* [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
 * [2022-10-13, 21:23:59](https://lobste.rs/s/shhgtg/intro_embedded_re_part_1_tools_series) - [Intro to Embedded RE Part 1: Tools and Series Overview](https://voidstarsec.com/blog/intro-to-embedded-part-1)
 * [2022-10-13, 20:17:01](https://lobste.rs/s/v4r1jy/how_ai_image_generators_work_stable) - [How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
