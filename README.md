@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 19:22:02](https://lobste.rs/s/kxctmc/rewriting_modern_web_rust) - [Rewriting The Modern Web In Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust#rewriting-the-modern)
+* [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)
 * [2022-10-13, 18:03:53](https://lobste.rs/s/yt884z/building_highly_optimized_home) - [Building a highly optimized home environment with Nix](https://determinate.systems/posts/nix-home-env)
 * [2022-10-13, 17:56:55](https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0) - [A rust kernel for the Teensy 4.0](https://github.com/SharpCoder/teensycore)
@@ -21,10 +23,8 @@
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
 * [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
 * [2022-10-12, 15:01:59](https://lobste.rs/s/mhduwk/verifying_distributed_systems_with) - [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
-* [2022-10-12, 13:39:38](https://lobste.rs/s/8p6mfu/mlstruct_principal_type_inference) - [MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types](https://lptk.github.io/files/[v6.1]%20mlstruct.pdf)
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
-* [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
 
 ## [Archives](archives/index.md)
 

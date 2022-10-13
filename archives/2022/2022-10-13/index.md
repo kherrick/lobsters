@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 19:22:02](https://lobste.rs/s/kxctmc/rewriting_modern_web_rust) - [Rewriting The Modern Web In Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust#rewriting-the-modern)
+* [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)
 * [2022-10-13, 18:03:53](https://lobste.rs/s/yt884z/building_highly_optimized_home) - [Building a highly optimized home environment with Nix](https://determinate.systems/posts/nix-home-env)
 * [2022-10-13, 17:56:55](https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0) - [A rust kernel for the Teensy 4.0](https://github.com/SharpCoder/teensycore)
