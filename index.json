@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-13, 20:17:01",
+      "https://lobste.rs/s/v4r1jy/how_ai_image_generators_work_stable"
+    ],
+    [
+      "How AI Image Generators Work (Stable Diffusion / Dall-E)",
+      "https://www.youtube.com/watch?v=1CIpzeNxIhU"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 19:49:48",
       "https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on"
     ],
@@ -157,16 +167,6 @@
     [
       "How I fixed git-grep macOS UTF-8 support",
       "https://www.spinellis.gr/blog/20221012/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 02:49:17",
-      "https://lobste.rs/s/n6qvpg/using_framework_will_harm_maintenance"
-    ],
-    [
-      "Using a Framework will harm the maintenance of your software",
-      "https://berk.es/2022/09/06/frameworks-harm-maintenance/"
     ]
   ],
   [
