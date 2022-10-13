@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 17:56:55](https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0) - [A rust kernel for the Teensy 4.0](https://github.com/SharpCoder/teensycore)
 * [2022-10-13, 15:42:42](https://lobste.rs/s/ugtjqb/endless_collection_accessible_color) - [An endless collection of accessible color combinations](https://randoma11y.com/)
 * [2022-10-13, 15:19:52](https://lobste.rs/s/jcx49z/database_without_dynamic_memory) - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)

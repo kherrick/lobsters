@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 17:56:55](https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0) - [A rust kernel for the Teensy 4.0](https://github.com/SharpCoder/teensycore)
 * [2022-10-13, 15:42:42](https://lobste.rs/s/ugtjqb/endless_collection_accessible_color) - [An endless collection of accessible color combinations](https://randoma11y.com/)
 * [2022-10-13, 15:19:52](https://lobste.rs/s/jcx49z/database_without_dynamic_memory) - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
@@ -24,7 +25,6 @@
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
-* [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
 
 ## [Archives](archives/index.md)
 
