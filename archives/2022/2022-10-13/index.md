@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
 * [2022-10-13, 19:22:02](https://lobste.rs/s/kxctmc/rewriting_modern_web_rust) - [Rewriting The Modern Web In Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust#rewriting-the-modern)
 * [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)

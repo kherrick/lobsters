@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
 * [2022-10-13, 19:22:02](https://lobste.rs/s/kxctmc/rewriting_modern_web_rust) - [Rewriting The Modern Web In Rust](https://implfuture.dev/blog/rewriting-the-modern-web-in-rust#rewriting-the-modern)
 * [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)
@@ -21,7 +22,6 @@
 * [2022-10-12, 22:07:09](https://lobste.rs/s/blavfc/blog_comments_on_static_site_via_social) - [Blog comments on a static site via social networks](https://berk.es/2022/10/12/blog-comments-on-a-static-site-via-social-networks/)
 * [2022-10-12, 17:39:35](https://lobste.rs/s/lm0ukr/reverse_engineering_gpu_from_2009) - [Reverse Engineering a GPU from 2009](https://garnet.codeberg.page/posts/gpu-reversing/)
 * [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
-* [2022-10-12, 15:19:50](https://lobste.rs/s/yj1rjs/katara_synthesize_crdts_from_classic) - [katara: Synthesize CRDTs from classic data types with verified lifting](https://github.com/hydro-project/katara)
 * [2022-10-12, 15:01:59](https://lobste.rs/s/mhduwk/verifying_distributed_systems_with) - [Verifying distributed systems with Isabelle/HOL, by Martin Kleppmann](https://lawrencecpaulson.github.io/2022/10/12/verifying-distributed-systems-isabelle.html)
 * [2022-10-12, 13:38:23](https://lobste.rs/s/zatcrb/std_nix_flakes_framework_for) - [std: The Nix Flakes framework for perfectionists with deadlines](https://github.com/divnix/std)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
