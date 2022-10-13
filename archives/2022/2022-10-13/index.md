@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 10:39:55](https://lobste.rs/s/ttosul/hello_world_under_microscope) - [Hello World under the microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
+* [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 09:48:13](https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql) - [A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 * [2022-10-13, 03:27:17](https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support) - [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
 * [2022-10-13, 02:49:17](https://lobste.rs/s/n6qvpg/using_framework_will_harm_maintenance) - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)

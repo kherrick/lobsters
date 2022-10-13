@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 10:39:55](https://lobste.rs/s/ttosul/hello_world_under_microscope) - [Hello World under the microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
+* [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 09:48:13](https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql) - [A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 * [2022-10-13, 03:27:17](https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support) - [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
 * [2022-10-13, 02:49:17](https://lobste.rs/s/n6qvpg/using_framework_will_harm_maintenance) - [Using a Framework will harm the maintenance of your software](https://berk.es/2022/09/06/frameworks-harm-maintenance/)
@@ -18,9 +20,7 @@
 * [2022-10-12, 13:13:27](https://lobste.rs/s/n7ta2n/i_solved_dandelions_paper_pencil_game) - [I solved the Dandelions paper-and-pencil game](https://nullprogram.com/blog/2022/10/12/)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
 * [2022-10-12, 08:51:59](https://lobste.rs/s/ra8vvk/i_wish_my_web_server_were_corner_my_room) - [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
-* [2022-10-12, 08:51:35](https://lobste.rs/s/gkzg5f/fast_signum_with_avx512) - [Fast signum with AVX512](https://wunkolo.github.io/post/2022/10/vfixupimm-signum/)
 * [2022-10-12, 08:13:45](https://lobste.rs/s/qga1px/emacs_macos_sharing_dwim_style) - [Emacs: macOS sharing (DWIM style)](https://xenodium.com/emacs-macos-share-from-dired-dwim-style/)
-* [2022-10-12, 07:39:52](https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten) - [nursery: Programs and libs that I haven't gotten around to formally packaging](https://github.com/chrisbarrett/nursery)
 * [2022-10-12, 07:15:46](https://lobste.rs/s/ha4ywz/moving_online_webserver_using_public) - [Moving online webserver using public transport](https://www.youtube.com/watch?v=vQ5MA685ApE)
 * [2022-10-11, 20:35:43](https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types) - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 * [2022-10-11, 17:29:34](https://lobste.rs/s/9taha7/simplifying_craigslist_gallery) - [Simplifying the Craigslist Gallery](https://tdarb.org/blog/craigslist-gallery.html)
