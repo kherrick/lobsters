@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-13, 13:53:45",
+      "https://lobste.rs/s/99e1oo/rfparty_new_way_see_ble"
+    ],
+    [
+      "Rfparty - a new way to see BLE",
+      "https://blog.dataparty.xyz/blog/rfparty-a-new-way-to-see-ble/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:47:19",
+      "https://lobste.rs/s/m0kxdt/postgresql_15_released"
+    ],
+    [
+      "PostgreSQL 15 Released",
+      "https://www.postgresql.org/about/news/postgresql-15-released-2526/"
+    ]
+  ],
+  [
+    [
+      "2022-10-13, 13:46:09",
+      "https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now"
+    ],
+    [
+      "RacketCon tickets on sale now",
+      "https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 12:21:17",
       "https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2022-10-12, 07:15:46",
-      "https://lobste.rs/s/ha4ywz/moving_online_webserver_using_public"
-    ],
-    [
-      "Moving online webserver using public transport",
-      "https://www.youtube.com/watch?v=vQ5MA685ApE"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 20:35:43",
-      "https://lobste.rs/s/t23dgt/my_future_with_elixir_set_theoretic_types"
-    ],
-    [
-      "My Future with Elixir: set-theoretic types",
-      "https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/"
-    ]
-  ],
-  [
-    [
       "2022-10-11, 17:29:34",
       "https://lobste.rs/s/9taha7/simplifying_craigslist_gallery"
     ],
     [
       "Simplifying the Craigslist Gallery",
       "https://tdarb.org/blog/craigslist-gallery.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-11, 16:34:37",
-      "https://lobste.rs/s/ehqmv2/elm_at_billion_dollar_company_with_vendr"
-    ],
-    [
-      "Elm at a Billion Dollar Company with Vendr CTO Aaron White",
-      "https://elm-radio.com/episode/elm-at-a-billion-dollar-company/"
     ]
   ]
 ]
