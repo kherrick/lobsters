@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 22:35:10](https://lobste.rs/s/d0xrvo/feather_teaching_tcl_objects_fly_2000) - [Feather: Teaching Tcl Objects to Fly (2000)](https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf)
+* [2022-10-13, 22:19:59](https://lobste.rs/s/r5tst5/toyota_suffered_data_breach_by) - [Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 * [2022-10-13, 22:01:46](https://lobste.rs/s/pttgwm/fixing_firmware_file_systems) - [Fixing Firmware File Systems](https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
