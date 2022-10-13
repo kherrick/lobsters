@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-13, 10:39:55",
-      "https://lobste.rs/s/ttosul/hello_world_under_microscope"
-    ],
-    [
-      "Hello World under the microscope",
-      "https://asawicki.info/articles/Hello_world_under_the_microscope.php5"
-    ]
-  ],
-  [
-    [
       "2022-10-13, 10:33:16",
       "https://lobste.rs/s/9m8xsk/hello_world_under_microscope"
     ],
@@ -207,6 +197,16 @@
     [
       "Emacs: macOS sharing (DWIM style)",
       "https://xenodium.com/emacs-macos-share-from-dired-dwim-style/"
+    ]
+  ],
+  [
+    [
+      "2022-10-12, 07:39:52",
+      "https://lobste.rs/s/quddsf/nursery_programs_libs_i_haven_t_gotten"
+    ],
+    [
+      "nursery: Programs and libs that I haven't gotten around to formally packaging",
+      "https://github.com/chrisbarrett/nursery"
     ]
   ],
   [
