@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-13](index.md)
 
+* [2022-10-13, 23:07:33](https://lobste.rs/s/v5p9yt/computer_mysteries) - [Computer Mysteries](https://computer-mysteries.netlify.app)
 * [2022-10-13, 22:35:10](https://lobste.rs/s/d0xrvo/feather_teaching_tcl_objects_fly_2000) - [Feather: Teaching Tcl Objects to Fly (2000)](https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf)
 * [2022-10-13, 22:19:59](https://lobste.rs/s/r5tst5/toyota_suffered_data_breach_by) - [Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 * [2022-10-13, 22:01:46](https://lobste.rs/s/pttgwm/fixing_firmware_file_systems) - [Fixing Firmware File Systems](https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/)

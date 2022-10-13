@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-13, 23:07:33](https://lobste.rs/s/v5p9yt/computer_mysteries) - [Computer Mysteries](https://computer-mysteries.netlify.app)
 * [2022-10-13, 22:35:10](https://lobste.rs/s/d0xrvo/feather_teaching_tcl_objects_fly_2000) - [Feather: Teaching Tcl Objects to Fly (2000)](https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf)
 * [2022-10-13, 22:19:59](https://lobste.rs/s/r5tst5/toyota_suffered_data_breach_by) - [Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub](https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/)
 * [2022-10-13, 22:01:46](https://lobste.rs/s/pttgwm/fixing_firmware_file_systems) - [Fixing Firmware File Systems](https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
-* [2022-10-13, 21:23:59](https://lobste.rs/s/shhgtg/intro_embedded_re_part_1_tools_series) - [Intro to Embedded RE Part 1: Tools and Series Overview](https://voidstarsec.com/blog/intro-to-embedded-part-1)
 * [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
 * [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)
