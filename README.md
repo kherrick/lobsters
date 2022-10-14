@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 05:16:23](https://lobste.rs/s/dbxet4/hardware_software_education_setup) - [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
 * [2022-10-14, 03:41:58](https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security) - [Various Linux Kernel WLAN security issues (RCE/DOS) found](https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-14, 01:25:35](https://lobste.rs/s/n4ufrq/floppotron_3_0) - [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
@@ -19,7 +20,6 @@
 * [2022-10-13, 13:46:09](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now) - [RacketCon tickets on sale now](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now)
 * [2022-10-13, 12:21:17](https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd) - [Matrix protocol added to ejabberd](https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/)
 * [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
-* [2022-10-13, 09:48:13](https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql) - [A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)
 * [2022-10-13, 03:27:17](https://lobste.rs/s/fg9izc/how_i_fixed_git_grep_macos_utf_8_support) - [How I fixed git-grep macOS UTF-8 support](https://www.spinellis.gr/blog/20221012/)
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 * [2022-10-12, 22:14:21](https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android) - [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
