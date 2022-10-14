@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 05:16:23",
+      "https://lobste.rs/s/dbxet4/hardware_software_education_setup"
+    ],
+    [
+      "Hardware, Software, Education Setup",
+      "https://dev.to/p10q/fresh-computer-setup-5flm"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 03:41:58",
       "https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security"
     ],
@@ -187,16 +197,6 @@
     [
       "Hello World under the microscope",
       "https://gynvael.coldwind.pl/?lang=en&id=754"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 09:48:13",
-      "https://lobste.rs/s/acpxdy/new_scylladb_go_driver_faster_than_gocql"
-    ],
-    [
-      "A New ScyllaDB Go Driver: Faster Than GoCQL and Its Rust Counterpart",
-      "https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/"
     ]
   ],
   [
