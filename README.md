@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 03:41:58](https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security) - [Various Linux Kernel WLAN security issues (RCE/DOS) found](https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-14, 01:25:35](https://lobste.rs/s/n4ufrq/floppotron_3_0) - [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-10-13, 23:07:33](https://lobste.rs/s/v5p9yt/computer_mysteries) - [Computer Mysteries](https://computer-mysteries.netlify.app)
-* [2022-10-13, 22:35:10](https://lobste.rs/s/d0xrvo/feather_teaching_tcl_objects_fly_2000) - [Feather: Teaching Tcl Objects to Fly (2000)](https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
 * [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
