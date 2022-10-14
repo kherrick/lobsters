@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 03:41:58",
+      "https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security"
+    ],
+    [
+      "Various Linux Kernel WLAN security issues (RCE/DOS) found",
+      "https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 01:41:52",
       "https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware"
     ],
@@ -27,16 +37,6 @@
     [
       "Computer Mysteries",
       "https://computer-mysteries.netlify.app"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 22:35:10",
-      "https://lobste.rs/s/d0xrvo/feather_teaching_tcl_objects_fly_2000"
-    ],
-    [
-      "Feather: Teaching Tcl Objects to Fly (2000)",
-      "https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf"
     ]
   ],
   [
