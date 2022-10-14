@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 20:24:14](https://lobste.rs/s/jjhlv0/order_pizza_from_tes4_oblivion_nickies) - [Order pizza from TES4 Oblivion: Nickies' Pizzablivion -mod](https://www.nexusmods.com/oblivion/mods/52398)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 15:24:33](https://lobste.rs/s/d2a9m0/fixing_coordinated_omission_cassandra) - [Fixing Coordinated Omission in Cassandra Stress (2016)](https://psy-lob-saw.blogspot.com/2016/07/fixing-co-in-cstress.html)
 * [2022-10-14, 15:02:50](https://lobste.rs/s/asdoqi/bob_2023_mar_17_berlin_call_for) - [BOB 2023 (Mar 17, Berlin) - Call for Contributions is open](https://bobkonf.de/2023/en/cfc.html)
