@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 23:28:19](https://lobste.rs/s/yq6qwq/skylake_intel_s_longest_serving) - [Skylake: Intel’s Longest Serving Architecture](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/)
 * [2022-10-14, 20:49:10](https://lobste.rs/s/jwakzd/haskell_playground_wip) - [Haskell Playground (WIP)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 * [2022-10-14, 20:24:14](https://lobste.rs/s/jjhlv0/order_pizza_from_tes4_oblivion_nickies) - [Order pizza from TES4 Oblivion: Nickies' Pizzablivion -mod](https://www.nexusmods.com/oblivion/mods/52398)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
