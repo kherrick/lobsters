@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 09:40:23",
+      "https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp"
+    ],
+    [
+      "Zero Feet: a proposal for a systems-free Lisp",
+      "https://applied-langua.ge/posts/zero-feet.html"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 08:26:26",
       "https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend"
     ],
@@ -227,16 +237,6 @@
     [
       "We are stuck with egrep and fgrep (unless you like beating people)",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 22:14:21",
-      "https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android"
-    ],
-    [
-      "Removing SMS support from Signal Android (soon)",
-      "https://signal.org/blog/sms-removal-android/"
     ]
   ],
   [
