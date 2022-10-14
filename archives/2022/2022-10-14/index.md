@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 * [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)

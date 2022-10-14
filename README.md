@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 * [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)
@@ -14,7 +15,6 @@
 * [2022-10-14, 01:25:35](https://lobste.rs/s/n4ufrq/floppotron_3_0) - [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
-* [2022-10-13, 19:49:48](https://lobste.rs/s/nwcazu/gibbon_compiler_for_operating_on) - [Gibbon: a compiler for operating on serialized trees](http://iu-parfunc.github.io/gibbon/)
 * [2022-10-13, 19:09:21](https://lobste.rs/s/sf1x1q/layout_breakouts_with_css_grid) - [Layout Breakouts with CSS Grid](https://ryanmulligan.dev/blog/layout-breakouts/)
 * [2022-10-13, 18:13:25](https://lobste.rs/s/ebjnel/is_this_parable_about_software) - [Is this a parable about software development?](https://jacobian.org/2022/oct/13/software-parable/)
 * [2022-10-13, 17:56:55](https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0) - [A rust kernel for the Teensy 4.0](https://github.com/SharpCoder/teensycore)
