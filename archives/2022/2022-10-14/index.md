@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 15:24:33](https://lobste.rs/s/d2a9m0/fixing_coordinated_omission_cassandra) - [Fixing Coordinated Omission in Cassandra Stress (2016)](https://psy-lob-saw.blogspot.com/2016/07/fixing-co-in-cstress.html)
+* [2022-10-14, 15:02:50](https://lobste.rs/s/asdoqi/bob_2023_mar_17_berlin_call_for) - [BOB 2023 (Mar 17, Berlin) - Call for Contributions is open](https://bobkonf.de/2023/en/cfc.html)
 * [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
