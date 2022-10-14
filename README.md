@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
+* [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 * [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
@@ -19,9 +21,7 @@
 * [2022-10-13, 15:42:42](https://lobste.rs/s/ugtjqb/endless_collection_accessible_color) - [An endless collection of accessible color combinations](https://randoma11y.com/)
 * [2022-10-13, 15:19:52](https://lobste.rs/s/jcx49z/database_without_dynamic_memory) - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
-* [2022-10-13, 13:53:45](https://lobste.rs/s/99e1oo/rfparty_new_way_see_ble) - [Rfparty - a new way to see BLE](https://blog.dataparty.xyz/blog/rfparty-a-new-way-to-see-ble/)
 * [2022-10-13, 13:47:19](https://lobste.rs/s/m0kxdt/postgresql_15_released) - [PostgreSQL 15 Released](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
-* [2022-10-13, 13:46:09](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now) - [RacketCon tickets on sale now](https://lobste.rs/s/kno0ca/racketcon_tickets_on_sale_now)
 * [2022-10-13, 12:21:17](https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd) - [Matrix protocol added to ejabberd](https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/)
 * [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
