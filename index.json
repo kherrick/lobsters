@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-10-14, 03:41:58",
+      "https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security"
+    ],
+    [
+      "Various Linux Kernel WLAN security issues (RCE/DOS) found",
+      "https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 01:41:52",
       "https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware"
     ],
@@ -227,16 +237,6 @@
     [
       "Removing SMS support from Signal Android (soon)",
       "https://signal.org/blog/sms-removal-android/"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 16:56:22",
-      "https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad"
-    ],
-    [
-      "Monads are everywhere... Maybe that's bad?",
-      "https://www.youtube.com/watch?v=nGhoZzihbHY"
     ]
   ],
   [
