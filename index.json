@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-14, 01:41:52",
+      "https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware"
+    ],
+    [
+      "Algorithms for Modern Hardware",
+      "https://en.algorithmica.org/hpc/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 01:25:35",
+      "https://lobste.rs/s/n4ufrq/floppotron_3_0"
+    ],
+    [
+      "The Floppotron 3.0",
+      "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"
+    ]
+  ],
+  [
+    [
       "2022-10-13, 23:07:33",
       "https://lobste.rs/s/v5p9yt/computer_mysteries"
     ],
@@ -17,26 +37,6 @@
     [
       "Feather: Teaching Tcl Objects to Fly (2000)",
       "https://www.usenix.org/legacy/publications/library/proceedings/tcl2k/full_papers/duffin/duffin.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 22:19:59",
-      "https://lobste.rs/s/r5tst5/toyota_suffered_data_breach_by"
-    ],
-    [
-      "Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub",
-      "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 22:01:46",
-      "https://lobste.rs/s/pttgwm/fixing_firmware_file_systems"
-    ],
-    [
-      "Fixing Firmware File Systems",
-      "https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/"
     ]
   ],
   [
