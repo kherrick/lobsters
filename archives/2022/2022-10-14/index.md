@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 07:58:11](https://lobste.rs/s/jkq66o/prusti_static_analyzer_for_rust) - [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
 * [2022-10-14, 06:41:39](https://lobste.rs/s/qytdxl/modern_fortran_scientific_programming) - [A Modern Fortran Scientific Programming Ecosystem](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html)
 * [2022-10-14, 05:16:23](https://lobste.rs/s/dbxet4/hardware_software_education_setup) - [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
