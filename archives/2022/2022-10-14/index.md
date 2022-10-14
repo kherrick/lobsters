@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-14](index.md)
 
+* [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 07:58:11](https://lobste.rs/s/jkq66o/prusti_static_analyzer_for_rust) - [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)

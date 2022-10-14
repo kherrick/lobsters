@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 07:58:11](https://lobste.rs/s/jkq66o/prusti_static_analyzer_for_rust) - [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
@@ -24,7 +25,6 @@
 * [2022-10-13, 12:21:17](https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd) - [Matrix protocol added to ejabberd](https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/)
 * [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
-* [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
 
 ## [Archives](archives/index.md)
 
