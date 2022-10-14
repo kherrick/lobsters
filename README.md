@@ -5,6 +5,7 @@
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
 * [2022-10-14, 06:41:39](https://lobste.rs/s/qytdxl/modern_fortran_scientific_programming) - [A Modern Fortran Scientific Programming Ecosystem](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html)
 * [2022-10-14, 05:16:23](https://lobste.rs/s/dbxet4/hardware_software_education_setup) - [Hardware, Software, Education Setup](https://dev.to/p10q/fresh-computer-setup-5flm)
+* [2022-10-14, 03:41:58](https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security) - [Various Linux Kernel WLAN security issues (RCE/DOS) found](https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-14, 01:25:35](https://lobste.rs/s/n4ufrq/floppotron_3_0) - [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
@@ -23,7 +24,6 @@
 * [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
 * [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 * [2022-10-12, 22:14:21](https://lobste.rs/s/fpekm4/removing_sms_support_from_signal_android) - [Removing SMS support from Signal Android (soon)](https://signal.org/blog/sms-removal-android/)
-* [2022-10-12, 16:56:22](https://lobste.rs/s/h8uevl/monads_are_everywhere_maybe_s_bad) - [Monads are everywhere... Maybe that's bad?](https://www.youtube.com/watch?v=nGhoZzihbHY)
 * [2022-10-12, 12:12:13](https://lobste.rs/s/q5tvl6/python_dependency_management) - [Python dependency management difficulty is an unhelpful meme](https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme)
 
 ## [Archives](archives/index.md)
