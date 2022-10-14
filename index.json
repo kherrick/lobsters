@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 09:56:12",
+      "https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip"
+    ],
+    [
+      "Hans Camenzind on the Invention of the Microchip",
+      "https://www.youtube.com/watch?v=JIXEJhDfNwM"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 09:40:23",
       "https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp"
     ],
@@ -237,16 +247,6 @@
     [
       "We are stuck with egrep and fgrep (unless you like beating people)",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith"
-    ]
-  ],
-  [
-    [
-      "2022-10-12, 12:12:13",
-      "https://lobste.rs/s/q5tvl6/python_dependency_management"
-    ],
-    [
-      "Python dependency management difficulty is an unhelpful meme",
-      "https://blog.viraptor.info/post/python-dependency-management-difficulty-is-an-unhelpful-meme"
     ]
   ]
 ]
