@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-14, 20:49:10",
+      "https://lobste.rs/s/jwakzd/haskell_playground_wip"
+    ],
+    [
+      "Haskell Playground (WIP)",
+      "https://www.youtube.com/watch?v=UFZeRgqZs7E"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 20:24:14",
       "https://lobste.rs/s/jjhlv0/order_pizza_from_tes4_oblivion_nickies"
     ],
@@ -67,6 +77,16 @@
     [
       "You should not be using AWS. Probably",
       "https://www.karlsutt.com/articles/you-should-not-be-using-aws/"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 09:56:12",
+      "https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip"
+    ],
+    [
+      "Hans Camenzind on the Invention of the Microchip",
+      "https://www.youtube.com/watch?v=JIXEJhDfNwM"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Matrix protocol added to ejabberd",
       "https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 10:33:16",
-      "https://lobste.rs/s/9m8xsk/hello_world_under_microscope"
-    ],
-    [
-      "Hello World under the microscope",
-      "https://gynvael.coldwind.pl/?lang=en&id=754"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 02:32:48",
-      "https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you"
-    ],
-    [
-      "We are stuck with egrep and fgrep (unless you like beating people)",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith"
     ]
   ]
 ]
