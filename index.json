@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-14, 15:24:33",
+      "https://lobste.rs/s/d2a9m0/fixing_coordinated_omission_cassandra"
+    ],
+    [
+      "Fixing Coordinated Omission in Cassandra Stress (2016)",
+      "https://psy-lob-saw.blogspot.com/2016/07/fixing-co-in-cstress.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-14, 15:02:50",
+      "https://lobste.rs/s/asdoqi/bob_2023_mar_17_berlin_call_for"
+    ],
+    [
+      "BOB 2023 (Mar 17, Berlin) - Call for Contributions is open",
+      "https://bobkonf.de/2023/en/cfc.html"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 14:56:22",
       "https://lobste.rs/s/bykiep/go_s_several_function_argument_passing"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-10-14, 03:41:58",
-      "https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security"
-    ],
-    [
-      "Various Linux Kernel WLAN security issues (RCE/DOS) found",
-      "https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 01:41:52",
       "https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware"
     ],
@@ -157,16 +167,6 @@
     [
       "Layout Breakouts with CSS Grid",
       "https://ryanmulligan.dev/blog/layout-breakouts/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 18:13:25",
-      "https://lobste.rs/s/ebjnel/is_this_parable_about_software"
-    ],
-    [
-      "Is this a parable about software development?",
-      "https://jacobian.org/2022/oct/13/software-parable/"
     ]
   ],
   [
