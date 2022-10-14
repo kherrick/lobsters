@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-14, 20:49:10](https://lobste.rs/s/jwakzd/haskell_playground_wip) - [Haskell Playground (WIP)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 * [2022-10-14, 20:24:14](https://lobste.rs/s/jjhlv0/order_pizza_from_tes4_oblivion_nickies) - [Order pizza from TES4 Oblivion: Nickies' Pizzablivion -mod](https://www.nexusmods.com/oblivion/mods/52398)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 15:24:33](https://lobste.rs/s/d2a9m0/fixing_coordinated_omission_cassandra) - [Fixing Coordinated Omission in Cassandra Stress (2016)](https://psy-lob-saw.blogspot.com/2016/07/fixing-co-in-cstress.html)
@@ -7,6 +8,7 @@
 * [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
+* [2022-10-14, 09:56:12](https://lobste.rs/s/pr7t1k/hans_camenzind_on_invention_microchip) - [Hans Camenzind on the Invention of the Microchip](https://www.youtube.com/watch?v=JIXEJhDfNwM)
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 07:58:11](https://lobste.rs/s/jkq66o/prusti_static_analyzer_for_rust) - [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
@@ -23,8 +25,6 @@
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
 * [2022-10-13, 13:47:19](https://lobste.rs/s/m0kxdt/postgresql_15_released) - [PostgreSQL 15 Released](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
 * [2022-10-13, 12:21:17](https://lobste.rs/s/motznn/matrix_protocol_added_ejabberd) - [Matrix protocol added to ejabberd](https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/)
-* [2022-10-13, 10:33:16](https://lobste.rs/s/9m8xsk/hello_world_under_microscope) - [Hello World under the microscope](https://gynvael.coldwind.pl/?lang=en&id=754)
-* [2022-10-13, 02:32:48](https://lobste.rs/s/vgnnjt/we_are_stuck_with_egrep_fgrep_unless_you) - [We are stuck with egrep and fgrep (unless you like beating people)](https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith)
 
 ## [Archives](archives/index.md)
 
