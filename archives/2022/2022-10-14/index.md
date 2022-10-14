@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-10-14](index.md)
+
+* [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+* [2022-10-14, 01:25:35](https://lobste.rs/s/n4ufrq/floppotron_3_0) - [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
