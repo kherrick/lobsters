@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 12:06:58](https://lobste.rs/s/4q62p6/avoiding_featurism) - [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
 * [2022-10-15, 11:41:19](https://lobste.rs/s/gfuko8/np_complete_problems_physical_reality) - [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
 * [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
@@ -17,7 +18,6 @@
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
-* [2022-10-14, 03:41:58](https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security) - [Various Linux Kernel WLAN security issues (RCE/DOS) found](https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
