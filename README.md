@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 17:26:19](https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette) - [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
 * [2022-10-15, 15:36:37](https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 * [2022-10-15, 14:44:04](https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on) - [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
 * [2022-10-15, 13:16:49](https://lobste.rs/s/hukblj/designing_programming_malleable) - [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
@@ -15,7 +16,6 @@
 * [2022-10-14, 20:49:10](https://lobste.rs/s/jwakzd/haskell_playground_wip) - [Haskell Playground (WIP)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 * [2022-10-14, 20:24:14](https://lobste.rs/s/jjhlv0/order_pizza_from_tes4_oblivion_nickies) - [Order pizza from TES4 Oblivion: Nickies' Pizzablivion -mod](https://www.nexusmods.com/oblivion/mods/52398)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
-* [2022-10-14, 15:02:50](https://lobste.rs/s/asdoqi/bob_2023_mar_17_berlin_call_for) - [BOB 2023 (Mar 17, Berlin) - Call for Contributions is open](https://bobkonf.de/2023/en/cfc.html)
 * [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
