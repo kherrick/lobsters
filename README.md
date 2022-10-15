@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 22:25:51](https://lobste.rs/s/qfjd9z/building_high_performance_database) - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 * [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
@@ -23,7 +24,6 @@
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
-* [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
 
 ## [Archives](archives/index.md)

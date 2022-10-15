@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-15](index.md)
 
+* [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 22:25:51](https://lobste.rs/s/qfjd9z/building_high_performance_database) - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 * [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
