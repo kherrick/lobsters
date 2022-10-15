@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-15](index.md)
 
+* [2022-10-15, 11:41:19](https://lobste.rs/s/gfuko8/np_complete_problems_physical_reality) - [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
 * [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 * [2022-10-15, 03:29:19](https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler) - [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
