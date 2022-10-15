@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-15, 13:16:49",
+      "https://lobste.rs/s/hukblj/designing_programming_malleable"
+    ],
+    [
+      "Designing and Programming Malleable Software",
+      "https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 12:40:47",
       "https://lobste.rs/s/pbfl35/hexagonal_grids"
     ],
@@ -227,16 +237,6 @@
     [
       "Make your QEMU 10 times faster with this one weird trick",
       "https://determinate.systems/posts/qemu-fix"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 13:47:19",
-      "https://lobste.rs/s/m0kxdt/postgresql_15_released"
-    ],
-    [
-      "PostgreSQL 15 Released",
-      "https://www.postgresql.org/about/news/postgresql-15-released-2526/"
     ]
   ],
   [
