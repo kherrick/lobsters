@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-15](index.md)
 
+* [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 * [2022-10-15, 18:01:45](https://lobste.rs/s/2zxuqn/runnning_lambda_functions_on_specific) - [Runnning lambda functions on a specific thread with Qt](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)
 * [2022-10-15, 17:26:19](https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette) - [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
 * [2022-10-15, 15:36:37](https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
