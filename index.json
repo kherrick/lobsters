@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-15, 03:32:34",
+      "https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status"
+    ],
+    [
+      "GNU Modula-2 patch review status",
+      "https://splendidisolation.ddns.net/public/modula2/patchsummary.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 03:29:19",
+      "https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler"
+    ],
+    [
+      "m2lang: The LLVM-based Modula-2 compiler",
+      "https://github.com/redstar/m2lang"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 03:25:56",
+      "https://lobste.rs/s/ivamrr/trestle_by_example_modula_3_cross"
+    ],
+    [
+      "Trestle by Example (a Modula-3 cross platform GUI toolkit for X11 and Win32)",
+      "http://www.opencm3.net/doc/tutorial/ui/tutorial.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-15, 03:20:54",
+      "https://lobste.rs/s/ygxges/announcing_algol_68_genie_3_0"
+    ],
+    [
+      "Announcing Algol 68 Genie 3.0",
+      "https://jmvdveer.home.xs4all.nl/en.post.announcing-algol-68-genie.html"
+    ]
+  ],
+  [
+    [
       "2022-10-14, 23:28:19",
       "https://lobste.rs/s/yq6qwq/skylake_intel_s_longest_serving"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2022-10-14, 06:41:39",
-      "https://lobste.rs/s/qytdxl/modern_fortran_scientific_programming"
-    ],
-    [
-      "A Modern Fortran Scientific Programming Ecosystem",
-      "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html"
-    ]
-  ],
-  [
-    [
       "2022-10-14, 03:41:58",
       "https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security"
     ],
@@ -177,36 +207,6 @@
     [
       "The Missing Prelude to The Little Typer's Trickiest Chapter",
       "https://ahelwer.ca/post/2022-10-13-little-typer-ch9/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 18:13:25",
-      "https://lobste.rs/s/ebjnel/is_this_parable_about_software"
-    ],
-    [
-      "Is this a parable about software development?",
-      "https://jacobian.org/2022/oct/13/software-parable/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 17:56:55",
-      "https://lobste.rs/s/8skm3e/rust_kernel_for_teensy_4_0"
-    ],
-    [
-      "A rust kernel for the Teensy 4.0",
-      "https://github.com/SharpCoder/teensycore"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 15:42:42",
-      "https://lobste.rs/s/ugtjqb/endless_collection_accessible_color"
-    ],
-    [
-      "An endless collection of accessible color combinations",
-      "https://randoma11y.com/"
     ]
   ],
   [
