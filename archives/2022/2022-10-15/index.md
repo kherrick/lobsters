@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-15](index.md)
 
+* [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 * [2022-10-15, 03:29:19](https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler) - [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
 * [2022-10-15, 03:25:56](https://lobste.rs/s/ivamrr/trestle_by_example_modula_3_cross) - [Trestle by Example (a Modula-3 cross platform GUI toolkit for X11 and Win32)](http://www.opencm3.net/doc/tutorial/ui/tutorial.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 * [2022-10-15, 03:29:19](https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler) - [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
 * [2022-10-15, 03:25:56](https://lobste.rs/s/ivamrr/trestle_by_example_modula_3_cross) - [Trestle by Example (a Modula-3 cross platform GUI toolkit for X11 and Win32)](http://www.opencm3.net/doc/tutorial/ui/tutorial.html)
@@ -15,7 +16,6 @@
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
-* [2022-10-14, 07:58:11](https://lobste.rs/s/jkq66o/prusti_static_analyzer_for_rust) - [Prusti: Static Analyzer for Rust](https://github.com/viperproject/prusti-dev)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
 * [2022-10-14, 03:41:58](https://lobste.rs/s/zkqof8/various_linux_kernel_wlan_security) - [Various Linux Kernel WLAN security issues (RCE/DOS) found](https://lwn.net/ml/oss-security/20221013101046.GB20615@suse.de/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
