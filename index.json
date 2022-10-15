@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-15, 18:01:45",
+      "https://lobste.rs/s/2zxuqn/runnning_lambda_functions_on_specific"
+    ],
+    [
+      "Runnning lambda functions on a specific thread with Qt",
+      "https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/"
+    ]
+  ],
+  [
+    [
       "2022-10-15, 17:26:19",
       "https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette"
     ],
@@ -187,16 +197,6 @@
     [
       "You should not be using AWS. Probably",
       "https://www.karlsutt.com/articles/you-should-not-be-using-aws/"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 09:40:23",
-      "https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp"
-    ],
-    [
-      "Zero Feet: a proposal for a systems-free Lisp",
-      "https://applied-langua.ge/posts/zero-feet.html"
     ]
   ],
   [
