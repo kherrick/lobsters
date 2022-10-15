@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2022-10-15, 12:06:58](https://lobste.rs/s/4q62p6/avoiding_featurism) - [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
 * [2022-10-15, 11:41:19](https://lobste.rs/s/gfuko8/np_complete_problems_physical_reality) - [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
 * [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
@@ -20,7 +21,6 @@
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
 * [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
-* [2022-10-13, 21:34:02](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest) - [The Missing Prelude to The Little Typer's Trickiest Chapter](https://ahelwer.ca/post/2022-10-13-little-typer-ch9/)
 * [2022-10-13, 15:19:52](https://lobste.rs/s/jcx49z/database_without_dynamic_memory) - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
 * [2022-10-13, 13:47:19](https://lobste.rs/s/m0kxdt/postgresql_15_released) - [PostgreSQL 15 Released](https://www.postgresql.org/about/news/postgresql-15-released-2526/)
