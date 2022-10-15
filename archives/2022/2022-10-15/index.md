@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-15](index.md)
 
+* [2022-10-15, 15:36:37](https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 * [2022-10-15, 14:44:04](https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on) - [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
 * [2022-10-15, 13:16:49](https://lobste.rs/s/hukblj/designing_programming_malleable) - [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
 * [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)

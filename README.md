@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 15:36:37](https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 * [2022-10-15, 14:44:04](https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on) - [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
 * [2022-10-15, 13:16:49](https://lobste.rs/s/hukblj/designing_programming_malleable) - [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
 * [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
@@ -21,7 +22,6 @@
 * [2022-10-14, 09:40:23](https://lobste.rs/s/mqwigo/zero_feet_proposal_for_systems_free_lisp) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
 * [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
-* [2022-10-14, 01:41:52](https://lobste.rs/s/xvns9o/algorithms_for_modern_hardware) - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [2022-10-13, 21:58:52](https://lobste.rs/s/8duj58/rust_library_manage_emails) - [A Rust library to manage emails](https://git.sr.ht/~soywod/himalaya-lib)
 * [2022-10-13, 15:19:52](https://lobste.rs/s/jcx49z/database_without_dynamic_memory) - [A Database Without Dynamic Memory Allocation](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
