@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-15, 22:25:51](https://lobste.rs/s/qfjd9z/building_high_performance_database) - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 * [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 * [2022-10-15, 18:01:45](https://lobste.rs/s/2zxuqn/runnning_lambda_functions_on_specific) - [Runnning lambda functions on a specific thread with Qt](https://lnj.gitlab.io/post/running-lambdas-on-a-thread-with-qt/)
@@ -16,7 +17,6 @@
 * [2022-10-15, 03:25:56](https://lobste.rs/s/ivamrr/trestle_by_example_modula_3_cross) - [Trestle by Example (a Modula-3 cross platform GUI toolkit for X11 and Win32)](http://www.opencm3.net/doc/tutorial/ui/tutorial.html)
 * [2022-10-15, 03:20:54](https://lobste.rs/s/ygxges/announcing_algol_68_genie_3_0) - [Announcing Algol 68 Genie 3.0](https://jmvdveer.home.xs4all.nl/en.post.announcing-algol-68-genie.html)
 * [2022-10-14, 23:28:19](https://lobste.rs/s/yq6qwq/skylake_intel_s_longest_serving) - [Skylake: Intel’s Longest Serving Architecture](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/)
-* [2022-10-14, 20:49:10](https://lobste.rs/s/jwakzd/haskell_playground_wip) - [Haskell Playground (WIP)](https://www.youtube.com/watch?v=UFZeRgqZs7E)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
