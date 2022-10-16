@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 06:35:17",
+      "https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones"
+    ],
+    [
+      "Interview with Simon Peyton Jones",
+      "https://haskell.foundation/podcast/11/"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 04:52:28",
       "https://lobste.rs/s/njmnhy/mini5_word_crusher"
     ],
@@ -217,16 +227,6 @@
     [
       "hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)",
       "https://t.mkws.sh"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 14:56:22",
-      "https://lobste.rs/s/bykiep/go_s_several_function_argument_passing"
-    ],
-    [
-      "Go's several function argument passing modes",
-      "https://www.sobyte.net/post/2022-10/go-func/"
     ]
   ],
   [
