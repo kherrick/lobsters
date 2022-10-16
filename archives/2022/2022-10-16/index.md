@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-16](index.md)
 
+* [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
+* [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
+* [2022-10-16, 18:19:09](https://lobste.rs/s/epppxf/communication_world_pervasive) - [Communication in a world of pervasive surveillance](https://pure.tue.nl/ws/portalfiles/portal/197416841/20220325_Appelbaum_hf.pdf)
 * [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 14:32:59](https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest) - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)

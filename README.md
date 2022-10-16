@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
+* [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
+* [2022-10-16, 18:19:09](https://lobste.rs/s/epppxf/communication_world_pervasive) - [Communication in a world of pervasive surveillance](https://pure.tue.nl/ws/portalfiles/portal/197416841/20220325_Appelbaum_hf.pdf)
 * [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 14:32:59](https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest) - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
@@ -12,7 +15,6 @@
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 04:52:28](https://lobste.rs/s/njmnhy/mini5_word_crusher) - [Mini5 Word Crusher](https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html)
 * [2022-10-16, 03:04:18](https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner) - [IR-controlling the new air conditioner in the vintage server room](https://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html)
-* [2022-10-16, 01:37:58](https://lobste.rs/s/ot4rer/probability_for_slay_spire_fanatics) - [Probability for Slay the Spire fanatics](https://www.haskellforall.com/2021/06/probability-for-slay-spire-fanatics.html)
 * [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
 * [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 22:25:51](https://lobste.rs/s/qfjd9z/building_high_performance_database) - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
@@ -20,11 +22,9 @@
 * [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 * [2022-10-15, 17:26:19](https://lobste.rs/s/xn0fg5/automating_screenshots_for_datasette) - [Automating screenshots for the Datasette documentation using shot-scraper](https://simonwillison.net/2022/Oct/14/automating-screenshots/)
 * [2022-10-15, 15:36:37](https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
-* [2022-10-15, 14:44:04](https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on) - [We're moving away from swap partitions on our Linux servers](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore)
 * [2022-10-15, 13:16:49](https://lobste.rs/s/hukblj/designing_programming_malleable) - [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
 * [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2022-10-15, 12:06:58](https://lobste.rs/s/4q62p6/avoiding_featurism) - [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
-* [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 
 ## [Archives](archives/index.md)
 
