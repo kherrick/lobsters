@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 14:32:59](https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest) - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 11:44:13](https://lobste.rs/s/gi9qa4/formal_modeling_analysis_distributed) - [Formal Modeling and Analysis of Distributed Systems](https://www.youtube.com/watch?v=5YjsSDDWFDY)
@@ -23,7 +24,6 @@
 * [2022-10-15, 13:16:49](https://lobste.rs/s/hukblj/designing_programming_malleable) - [Designing and Programming Malleable Software](https://tcher.tech/publications/PhilipTchernavskij_PhDThesis.pdf)
 * [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2022-10-15, 12:06:58](https://lobste.rs/s/4q62p6/avoiding_featurism) - [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
-* [2022-10-15, 11:41:19](https://lobste.rs/s/gfuko8/np_complete_problems_physical_reality) - [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 
 ## [Archives](archives/index.md)
