@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-16](index.md)
 
+* [2022-10-16, 10:30:22](https://lobste.rs/s/lshn9a/deferred_argument_evaluation) - [Deferred argument evaluation](http://bannalia.blogspot.com/2022/10/deferred-argument-evaluation.html?m=1)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
 * [2022-10-16, 09:34:28](https://lobste.rs/s/o7cp3r/practical_example_modeling_birthday) - [Practical Example - Modeling a Birthday Message Service · Unison programming language](https://www.unison-lang.org/blog/birthday-kata/)
 * [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
