@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 21:34:07",
+      "https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees"
+    ],
+    [
+      "Neural Networks are Decision Trees",
+      "https://doi.org/10.48550/arXiv.2210.05189"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 20:32:54",
       "https://lobste.rs/s/dac5xk/musings_on_python_type_hints"
     ],
@@ -237,16 +247,6 @@
     [
       "Hexagonal Grids",
       "https://www.redblobgames.com/grids/hexagons/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 12:06:58",
-      "https://lobste.rs/s/4q62p6/avoiding_featurism"
-    ],
-    [
-      "Avoiding Featurism",
-      "https://tdarb.org/blog/avoid-featurism.html"
     ]
   ]
 ]
