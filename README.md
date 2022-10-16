@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
 * [2022-10-16, 18:19:09](https://lobste.rs/s/epppxf/communication_world_pervasive) - [Communication in a world of pervasive surveillance](https://pure.tue.nl/ws/portalfiles/portal/197416841/20220325_Appelbaum_hf.pdf)
@@ -12,7 +13,6 @@
 * [2022-10-16, 09:34:28](https://lobste.rs/s/o7cp3r/practical_example_modeling_birthday) - [Practical Example - Modeling a Birthday Message Service · Unison programming language](https://www.unison-lang.org/blog/birthday-kata/)
 * [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
-* [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 04:52:28](https://lobste.rs/s/njmnhy/mini5_word_crusher) - [Mini5 Word Crusher](https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html)
 * [2022-10-16, 03:04:18](https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner) - [IR-controlling the new air conditioner in the vintage server room](https://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html)
 * [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
