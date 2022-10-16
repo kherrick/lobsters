@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 20:32:54",
+      "https://lobste.rs/s/dac5xk/musings_on_python_type_hints"
+    ],
+    [
+      "Musings on Python Type Hints",
+      "https://samgeo.codes/blog/python-types/"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 19:25:31",
       "https://lobste.rs/s/yy3hwo/tao_programming"
     ],
@@ -57,16 +67,6 @@
     [
       "BazelCon 2022",
       "https://opensourcelive.withgoogle.com/events/bazelcon2022"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 14:32:59",
-      "https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest"
-    ],
-    [
-      "Postgres Full Text Search vs the rest",
-      "https://supabase.com/blog/postgres-full-text-search-vs-the-rest"
     ]
   ],
   [
