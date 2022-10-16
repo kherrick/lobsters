@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 04:52:28](https://lobste.rs/s/njmnhy/mini5_word_crusher) - [Mini5 Word Crusher](https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html)
 * [2022-10-16, 03:04:18](https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner) - [IR-controlling the new air conditioner in the vintage server room](https://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html)
@@ -21,7 +22,6 @@
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 * [2022-10-15, 03:29:19](https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler) - [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
 * [2022-10-15, 03:20:54](https://lobste.rs/s/ygxges/announcing_algol_68_genie_3_0) - [Announcing Algol 68 Genie 3.0](https://jmvdveer.home.xs4all.nl/en.post.announcing-algol-68-genie.html)
-* [2022-10-14, 23:28:19](https://lobste.rs/s/yq6qwq/skylake_intel_s_longest_serving) - [Skylake: Intel’s Longest Serving Architecture](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
