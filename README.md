@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 01:37:58](https://lobste.rs/s/ot4rer/probability_for_slay_spire_fanatics) - [Probability for Slay the Spire fanatics](https://www.haskellforall.com/2021/06/probability-for-slay-spire-fanatics.html)
+* [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
 * [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 22:25:51](https://lobste.rs/s/qfjd9z/building_high_performance_database) - [Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
@@ -15,14 +17,12 @@
 * [2022-10-15, 08:27:35](https://lobste.rs/s/hydcgr/fake_ai_conversation_between_best) - [A fake (AI) conversation between the best programmer in the world with a junior](https://onebite.dev/a-fake-conversation-between-the-best-programmer-in-the-world-with-a-junior/)
 * [2022-10-15, 03:32:34](https://lobste.rs/s/jsdncn/gnu_modula_2_patch_review_status) - [GNU Modula-2 patch review status](https://splendidisolation.ddns.net/public/modula2/patchsummary.html)
 * [2022-10-15, 03:29:19](https://lobste.rs/s/q1cyw6/m2lang_llvm_based_modula_2_compiler) - [m2lang: The LLVM-based Modula-2 compiler](https://github.com/redstar/m2lang)
-* [2022-10-15, 03:25:56](https://lobste.rs/s/ivamrr/trestle_by_example_modula_3_cross) - [Trestle by Example (a Modula-3 cross platform GUI toolkit for X11 and Win32)](http://www.opencm3.net/doc/tutorial/ui/tutorial.html)
 * [2022-10-15, 03:20:54](https://lobste.rs/s/ygxges/announcing_algol_68_genie_3_0) - [Announcing Algol 68 Genie 3.0](https://jmvdveer.home.xs4all.nl/en.post.announcing-algol-68-genie.html)
 * [2022-10-14, 23:28:19](https://lobste.rs/s/yq6qwq/skylake_intel_s_longest_serving) - [Skylake: Intel’s Longest Serving Architecture](https://chipsandcheese.com/2022/10/14/skylake-intels-longest-serving-architecture/)
 * [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 14:56:22](https://lobste.rs/s/bykiep/go_s_several_function_argument_passing) - [Go's several function argument passing modes](https://www.sobyte.net/post/2022-10/go-func/)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
-* [2022-10-14, 08:26:26](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c56ik2/what_are_you_doing_this_weekend)
 * [2022-10-14, 06:52:40](https://lobste.rs/s/n7pk2c/voodoo2_3dfx_s_final_dedicated_3d_gaming) - [Voodoo2: 3dfx's final dedicated 3d gaming card](https://www.raspberrypi.com/news/voodoo2-3dfxs-final-dedicated-3d-gaming-card/)
 * [2022-10-13, 15:11:03](https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this) - [Make your QEMU 10 times faster with this one weird trick](https://determinate.systems/posts/qemu-fix)
 
