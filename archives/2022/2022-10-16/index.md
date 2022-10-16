@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-16](index.md)
 
+* [2022-10-16, 21:34:07](https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees) - [Neural Networks are Decision Trees](https://doi.org/10.48550/arXiv.2210.05189)
 * [2022-10-16, 20:32:54](https://lobste.rs/s/dac5xk/musings_on_python_type_hints) - [Musings on Python Type Hints](https://samgeo.codes/blog/python-types/)
 * [2022-10-16, 19:25:31](https://lobste.rs/s/yy3hwo/tao_programming) - [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
