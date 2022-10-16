@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-16](index.md)
 
+* [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 04:52:28](https://lobste.rs/s/njmnhy/mini5_word_crusher) - [Mini5 Word Crusher](https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html)
