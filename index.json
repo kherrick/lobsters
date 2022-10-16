@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-16, 18:24:31",
+      "https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for"
+    ],
+    [
+      "Shortcat - Universal command palette for your Mac",
+      "https://shortcat.app"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:21:43",
+      "https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol"
+    ],
+    [
+      "ISC DHCP Server has reached EOL",
+      "https://www.isc.org/blogs/isc-dhcp-eol/"
+    ]
+  ],
+  [
+    [
+      "2022-10-16, 18:19:09",
+      "https://lobste.rs/s/epppxf/communication_world_pervasive"
+    ],
+    [
+      "Communication in a world of pervasive surveillance",
+      "https://pure.tue.nl/ws/portalfiles/portal/197416841/20220325_Appelbaum_hf.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 16:17:06",
       "https://lobste.rs/s/qdbjgh/bazelcon_2022"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2022-10-16, 01:37:58",
-      "https://lobste.rs/s/ot4rer/probability_for_slay_spire_fanatics"
-    ],
-    [
-      "Probability for Slay the Spire fanatics",
-      "https://www.haskellforall.com/2021/06/probability-for-slay-spire-fanatics.html"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 01:05:06",
       "https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-15, 14:44:04",
-      "https://lobste.rs/s/aabqgu/we_re_moving_away_from_swap_partitions_on"
-    ],
-    [
-      "We're moving away from swap partitions on our Linux servers",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 13:16:49",
       "https://lobste.rs/s/hukblj/designing_programming_malleable"
     ],
@@ -237,16 +247,6 @@
     [
       "Avoiding Featurism",
       "https://tdarb.org/blog/avoid-featurism.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-14, 12:23:56",
-      "https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably"
-    ],
-    [
-      "You should not be using AWS. Probably",
-      "https://www.karlsutt.com/articles/you-should-not-be-using-aws/"
     ]
   ]
 ]
