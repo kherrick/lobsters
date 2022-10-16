@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-16, 04:52:28",
+      "https://lobste.rs/s/njmnhy/mini5_word_crusher"
+    ],
+    [
+      "Mini5 Word Crusher",
+      "https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 03:04:18",
       "https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner"
     ],
@@ -237,16 +247,6 @@
     [
       "You should not be using AWS. Probably",
       "https://www.karlsutt.com/articles/you-should-not-be-using-aws/"
-    ]
-  ],
-  [
-    [
-      "2022-10-13, 15:11:03",
-      "https://lobste.rs/s/ezqwux/make_your_qemu_10_times_faster_with_this"
-    ],
-    [
-      "Make your QEMU 10 times faster with this one weird trick",
-      "https://determinate.systems/posts/qemu-fix"
     ]
   ]
 ]
