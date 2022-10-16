@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 19:25:31](https://lobste.rs/s/yy3hwo/tao_programming) - [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
@@ -8,7 +9,6 @@
 * [2022-10-16, 14:32:59](https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest) - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 11:44:13](https://lobste.rs/s/gi9qa4/formal_modeling_analysis_distributed) - [Formal Modeling and Analysis of Distributed Systems](https://www.youtube.com/watch?v=5YjsSDDWFDY)
-* [2022-10-16, 10:30:22](https://lobste.rs/s/lshn9a/deferred_argument_evaluation) - [Deferred argument evaluation](http://bannalia.blogspot.com/2022/10/deferred-argument-evaluation.html?m=1)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
 * [2022-10-16, 09:34:28](https://lobste.rs/s/o7cp3r/practical_example_modeling_birthday) - [Practical Example - Modeling a Birthday Message Service · Unison programming language](https://www.unison-lang.org/blog/birthday-kata/)
 * [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
