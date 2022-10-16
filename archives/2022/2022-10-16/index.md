@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-16](index.md)
 
+* [2022-10-16, 14:32:59](https://lobste.rs/s/siknna/postgres_full_text_search_vs_rest) - [Postgres Full Text Search vs the rest](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 11:44:13](https://lobste.rs/s/gi9qa4/formal_modeling_analysis_distributed) - [Formal Modeling and Analysis of Distributed Systems](https://www.youtube.com/watch?v=5YjsSDDWFDY)
 * [2022-10-16, 10:30:22](https://lobste.rs/s/lshn9a/deferred_argument_evaluation) - [Deferred argument evaluation](http://bannalia.blogspot.com/2022/10/deferred-argument-evaluation.html?m=1)
