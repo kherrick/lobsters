@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 11:44:13](https://lobste.rs/s/gi9qa4/formal_modeling_analysis_distributed) - [Formal Modeling and Analysis of Distributed Systems](https://www.youtube.com/watch?v=5YjsSDDWFDY)
 * [2022-10-16, 10:30:22](https://lobste.rs/s/lshn9a/deferred_argument_evaluation) - [Deferred argument evaluation](http://bannalia.blogspot.com/2022/10/deferred-argument-evaluation.html?m=1)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
@@ -22,7 +23,6 @@
 * [2022-10-15, 12:40:47](https://lobste.rs/s/pbfl35/hexagonal_grids) - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [2022-10-15, 12:06:58](https://lobste.rs/s/4q62p6/avoiding_featurism) - [Avoiding Featurism](https://tdarb.org/blog/avoid-featurism.html)
 * [2022-10-15, 11:41:19](https://lobste.rs/s/gfuko8/np_complete_problems_physical_reality) - [NP-complete Problems and Physical Reality [2005]](https://www.scottaaronson.com/papers/npcomplete.pdf)
-* [2022-10-14, 19:55:40](https://lobste.rs/s/8ce4fk/hack_css_new_css_water_css_sakura_pico) - [hack.css, new.css, Water.css, sakura, Pico themes for my static site generator (mkws)](https://t.mkws.sh)
 * [2022-10-14, 12:35:07](https://lobste.rs/s/o0hyz4/yes_lisp_is_useful_for_devops_automation) - [Yes, Lisp is useful for DevOps and automation](https://dev.to/yonkeltron/yes-lisp-is-useful-for-devops-and-automation-1dak)
 * [2022-10-14, 12:23:56](https://lobste.rs/s/eibd0s/you_should_not_be_using_aws_probably) - [You should not be using AWS. Probably](https://www.karlsutt.com/articles/you-should-not-be-using-aws/)
 
