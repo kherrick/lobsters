@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
 * [2022-10-17, 04:30:52](https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously) - [Escaping user input is ridonkulously hard](https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously)
 * [2022-10-17, 03:42:53](https://lobste.rs/s/uio2pm/what_it_means_see_bad_certificate_tls) - [What it means to see a 'bad' certificate in TLS Certificate Transparency logs](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings)
@@ -13,7 +14,6 @@
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
-* [2022-10-16, 18:19:09](https://lobste.rs/s/epppxf/communication_world_pervasive) - [Communication in a world of pervasive surveillance](https://pure.tue.nl/ws/portalfiles/portal/197416841/20220325_Appelbaum_hf.pdf)
 * [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)

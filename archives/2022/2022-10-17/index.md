@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
 * [2022-10-17, 04:30:52](https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously) - [Escaping user input is ridonkulously hard](https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously)
 * [2022-10-17, 03:42:53](https://lobste.rs/s/uio2pm/what_it_means_see_bad_certificate_tls) - [What it means to see a 'bad' certificate in TLS Certificate Transparency logs](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings)
