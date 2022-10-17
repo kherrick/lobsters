@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 19:16:32](https://lobste.rs/s/58ijxk/on_bypassing_ebpf_security_monitoring) - [On Bypassing eBPF Security Monitoring](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html)
+* [2022-10-17, 19:12:31](https://lobste.rs/s/jdghit/proposal_go_2_error_handling_try) - [proposal: Go 2: error handling: try statement with handler](https://github.com/golang/go/issues/56165)
 * [2022-10-17, 18:38:23](https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern) - [ViewComponent in the Wild: building modern Rails frontends](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
 * [2022-10-17, 18:38:03](https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770) - [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 * [2022-10-17, 18:12:37](https://lobste.rs/s/vucahg/porting_slate_qt_for_webassembly) - [Porting Slate to Qt for WebAssembly](https://www.qt.io/blog/porting-slate-to-qt-for-webassembly)
