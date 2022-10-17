@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-10-17, 19:12:31",
-      "https://lobste.rs/s/jdghit/proposal_go_2_error_handling_try"
-    ],
-    [
-      "proposal: Go 2: error handling: try statement with handler",
-      "https://github.com/golang/go/issues/56165"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 18:38:03",
       "https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770"
     ],
@@ -67,6 +57,16 @@
     [
       "Practical Parsing in Rust with nom",
       "https://naiveai.hashnode.dev/practical-parsing-nom"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 16:15:30",
+      "https://lobste.rs/s/evrw8y/mgba_0_10_0"
+    ],
+    [
+      "mGBA 0.10.0",
+      "https://mgba.io/2022/10/11/mgba-0.10.0/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2022-10-17, 08:35:02",
+      "https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas"
+    ],
+    [
+      "Semgrep: Writing quick rules to verify ideas",
+      "https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 04:30:52",
       "https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing KataOS and Sparrow",
       "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 18:24:31",
-      "https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for"
-    ],
-    [
-      "Shortcat - Universal command palette for your Mac",
-      "https://shortcat.app"
     ]
   ],
   [
