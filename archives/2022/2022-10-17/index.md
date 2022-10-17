@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
+* [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
 * [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
 * [2022-10-17, 14:40:20](https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator) - [retrowin32, a win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
 * [2022-10-17, 14:23:25](https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on) - [How we built our data layer on FoundationDB | Tigris](https://blog.tigrisdata.com/data-layer-foundationdb)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
+* [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
 * [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
 * [2022-10-17, 14:40:20](https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator) - [retrowin32, a win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
 * [2022-10-17, 14:23:25](https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on) - [How we built our data layer on FoundationDB](https://blog.tigrisdata.com/data-layer-foundationdb)
@@ -16,10 +18,8 @@
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
 * [2022-10-17, 02:21:59](https://lobste.rs/s/9k3kka/one_billion_apples_secret_sauce_recipe) - [One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol (2018)](https://arxiv.org/pdf/1808.03156.pdf)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions) - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-* [2022-10-17, 00:09:20](https://lobste.rs/s/wjfuyh/reverse_image_search_using_perceptual) - [Reverse Image Search Using Perceptual Hashes and DynamoDB](https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934)
 * [2022-10-16, 21:34:07](https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees) - [Neural Networks are Decision Trees](https://doi.org/10.48550/arXiv.2210.05189)
 * [2022-10-16, 20:32:54](https://lobste.rs/s/dac5xk/musings_on_python_type_hints) - [Musings on Python Type Hints](https://samgeo.codes/blog/python-types/)
-* [2022-10-16, 19:25:31](https://lobste.rs/s/yy3hwo/tao_programming) - [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
