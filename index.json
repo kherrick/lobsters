@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-17, 09:25:02",
+      "https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust"
+    ],
+    [
+      "puff: run (and extend) Python code as Rust greenlet (on Tokio)",
+      "https://github.com/hansonkd/puff"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 08:35:02",
       "https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas"
     ],
@@ -167,16 +177,6 @@
     [
       "Unison Share",
       "https://share.unison-lang.org"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 09:34:28",
-      "https://lobste.rs/s/o7cp3r/practical_example_modeling_birthday"
-    ],
-    [
-      "Practical Example - Modeling a Birthday Message Service · Unison programming language",
-      "https://www.unison-lang.org/blog/birthday-kata/"
     ]
   ],
   [
