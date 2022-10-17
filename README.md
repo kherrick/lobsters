@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 14:23:25](https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on) - [How we built our data layer on FoundationDB | Tigris](https://blog.tigrisdata.com/data-layer-foundationdb)
+* [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 13:40:29](https://lobste.rs/s/59omas/modern_trunk_based_development) - [Modern trunk-based development](https://reviewpad.com/blog/modern-trunk-based-development/)
 * [2022-10-17, 12:18:32](https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level) - [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
@@ -22,8 +24,6 @@
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
-* [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
-* [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 
 ## [Archives](archives/index.md)
