@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-17, 03:01:59",
+      "https://lobste.rs/s/zhmgwq/python_flask_sqlite"
+    ],
+    [
+      "Python, Flask, and SQLite",
+      "https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 02:21:59",
+      "https://lobste.rs/s/9k3kka/one_billion_apples_secret_sauce_recipe"
+    ],
+    [
+      "One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol (2018)",
+      "https://arxiv.org/pdf/1808.03156.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 01:47:38",
+      "https://lobste.rs/s/quywfp/yagni_exceptions"
+    ],
+    [
+      "YAGNI exceptions",
+      "https://lukeplant.me.uk/blog/posts/yagni-exceptions/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 00:09:20",
+      "https://lobste.rs/s/wjfuyh/reverse_image_search_using_perceptual"
+    ],
+    [
+      "Reverse Image Search Using Perceptual Hashes and DynamoDB",
+      "https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934"
+    ]
+  ],
+  [
+    [
       "2022-10-16, 21:34:07",
       "https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees"
     ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2022-10-16, 11:44:13",
-      "https://lobste.rs/s/gi9qa4/formal_modeling_analysis_distributed"
-    ],
-    [
-      "Formal Modeling and Analysis of Distributed Systems",
-      "https://www.youtube.com/watch?v=5YjsSDDWFDY"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 10:30:22",
       "https://lobste.rs/s/lshn9a/deferred_argument_evaluation"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-10-16, 04:52:28",
-      "https://lobste.rs/s/njmnhy/mini5_word_crusher"
-    ],
-    [
-      "Mini5 Word Crusher",
-      "https://www.leadedsolder.com/2022/10/09/pwp50ha-nec-mini5-word-processor-pickup.html"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 03:04:18",
       "https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-15, 22:25:51",
-      "https://lobste.rs/s/qfjd9z/building_high_performance_database"
-    ],
-    [
-      "Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode",
-      "https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig"
-    ]
-  ],
-  [
-    [
       "2022-10-15, 21:53:43",
       "https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction"
     ],
@@ -227,16 +237,6 @@
     [
       "Possibly a new way of drawing boxes in the terminal",
       "https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 15:36:37",
-      "https://lobste.rs/s/6x4ahh/pimping_my_casio_with_oddly_specific"
-    ],
-    [
-      "Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware",
-      "https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html"
     ]
   ],
   [
