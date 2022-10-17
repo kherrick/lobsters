@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 * [2022-10-17, 19:21:47](https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with) - [A Look at Postgres 15: MERGE Command with Examples](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples)
 * [2022-10-17, 18:38:23](https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern) - [ViewComponent in the Wild: building modern Rails frontends](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
@@ -18,7 +19,6 @@
 * [2022-10-17, 11:15:05](https://lobste.rs/s/c9mnwt/openbsd_minimalist_desktop) - [OpenBSD Minimalist Desktop](https://nechtan.io/articles/openbsd_minimalist_desktop.html)
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
-* [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 04:30:52](https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously) - [Escaping user input is ridonkulously hard](https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously)
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions) - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
