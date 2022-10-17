@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
+* [2022-10-17, 17:32:38](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender) - [Introducing Elm as a frontend contender](https://nais.io/blog/posts/elm/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 16:15:30](https://lobste.rs/s/evrw8y/mgba_0_10_0) - [mGBA 0.10.0](https://mgba.io/2022/10/11/mgba-0.10.0/)
 * [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
