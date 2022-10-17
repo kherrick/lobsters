@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-17, 18:38:23",
+      "https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern"
+    ],
+    [
+      "ViewComponent in the Wild: building modern Rails frontends",
+      "https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 18:38:03",
+      "https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770"
+    ],
+    [
+      "Someone improved my code by 40,832,277,770%",
+      "https://www.youtube.com/watch?v=c33AZBnRHks"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 18:12:37",
+      "https://lobste.rs/s/vucahg/porting_slate_qt_for_webassembly"
+    ],
+    [
+      "Porting Slate to Qt for WebAssembly",
+      "https://www.qt.io/blog/porting-slate-to-qt-for-webassembly"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 17:55:18",
       "https://lobste.rs/s/gpzy80/how_build_software_like_sre"
     ],
@@ -27,16 +57,6 @@
     [
       "Practical Parsing in Rust with nom",
       "https://naiveai.hashnode.dev/practical-parsing-nom"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 16:15:30",
-      "https://lobste.rs/s/evrw8y/mgba_0_10_0"
-    ],
-    [
-      "mGBA 0.10.0",
-      "https://mgba.io/2022/10/11/mgba-0.10.0/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-17, 07:54:07",
-      "https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require"
-    ],
-    [
-      "Lucid Multi-Key Deputies Require Commitment",
-      "https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 04:30:52",
       "https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously"
     ],
@@ -237,16 +247,6 @@
     [
       "Whipping up a new Shell – Lash#Cat9",
       "https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/"
-    ]
-  ],
-  [
-    [
-      "2022-10-15, 21:53:43",
-      "https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction"
-    ],
-    [
-      "A Real World React -> htmx Port: 67% reduction in LoC",
-      "https://htmx.org/essays/a-real-world-react-to-htmx-port/"
     ]
   ]
 ]
