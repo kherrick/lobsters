@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 09:25:02](https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust) - [puff: run (and extend) Python code as Rust greenlet (on Tokio)](https://github.com/hansonkd/puff)
 * [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
@@ -24,7 +25,6 @@
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
-* [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 
 ## [Archives](archives/index.md)
 
