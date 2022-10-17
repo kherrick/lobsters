@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-17, 17:55:18",
+      "https://lobste.rs/s/gpzy80/how_build_software_like_sre"
+    ],
+    [
+      "How to Build Software like an SRE",
+      "https://www.willett.io/posts/precepts/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 17:32:38",
+      "https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender"
+    ],
+    [
+      "Introducing Elm as a frontend contender",
+      "https://nais.io/blog/posts/elm/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 16:59:21",
       "https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom"
     ],
@@ -57,16 +77,6 @@
     [
       "retrowin32, a win32 emulator",
       "https://neugierig.org/software/blog/2022/10/retrowin32.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 14:23:25",
-      "https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on"
-    ],
-    [
-      "How we built our data layer on FoundationDB",
-      "https://blog.tigrisdata.com/data-layer-foundationdb"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Python, Flask, and SQLite",
       "https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 02:21:59",
-      "https://lobste.rs/s/9k3kka/one_billion_apples_secret_sauce_recipe"
-    ],
-    [
-      "One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol (2018)",
-      "https://arxiv.org/pdf/1808.03156.pdf"
     ]
   ],
   [
