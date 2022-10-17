@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 * [2022-10-17, 11:15:05](https://lobste.rs/s/c9mnwt/openbsd_minimalist_desktop) - [OpenBSD Minimalist Desktop](https://nechtan.io/articles/openbsd_minimalist_desktop.html)
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)

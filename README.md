@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 * [2022-10-17, 11:15:05](https://lobste.rs/s/c9mnwt/openbsd_minimalist_desktop) - [OpenBSD Minimalist Desktop](https://nechtan.io/articles/openbsd_minimalist_desktop.html)
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
@@ -21,7 +22,6 @@
 * [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
-* [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
