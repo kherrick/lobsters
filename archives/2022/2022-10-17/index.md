@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
+* [2022-10-17, 14:40:20](https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator) - [retrowin32, a win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
 * [2022-10-17, 14:23:25](https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on) - [How we built our data layer on FoundationDB | Tigris](https://blog.tigrisdata.com/data-layer-foundationdb)
 * [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 13:40:29](https://lobste.rs/s/59omas/modern_trunk_based_development) - [Modern trunk-based development](https://reviewpad.com/blog/modern-trunk-based-development/)
