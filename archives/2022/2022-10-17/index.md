@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 19:21:47](https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with) - [A Look at Postgres 15: MERGE Command with Examples](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples)
 * [2022-10-17, 19:16:32](https://lobste.rs/s/58ijxk/on_bypassing_ebpf_security_monitoring) - [On Bypassing eBPF Security Monitoring](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html)
 * [2022-10-17, 19:12:31](https://lobste.rs/s/jdghit/proposal_go_2_error_handling_try) - [proposal: Go 2: error handling: try statement with handler](https://github.com/golang/go/issues/56165)
 * [2022-10-17, 18:38:23](https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern) - [ViewComponent in the Wild: building modern Rails frontends](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
