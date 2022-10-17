@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 * [2022-10-17, 19:21:47](https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with) - [A Look at Postgres 15: MERGE Command with Examples](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples)
 * [2022-10-17, 19:16:32](https://lobste.rs/s/58ijxk/on_bypassing_ebpf_security_monitoring) - [On Bypassing eBPF Security Monitoring](https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html)
 * [2022-10-17, 19:12:31](https://lobste.rs/s/jdghit/proposal_go_2_error_handling_try) - [proposal: Go 2: error handling: try statement with handler](https://github.com/golang/go/issues/56165)
