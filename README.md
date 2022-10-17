@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
 * [2022-10-17, 04:30:52](https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously) - [Escaping user input is ridonkulously hard](https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously)
 * [2022-10-17, 03:42:53](https://lobste.rs/s/uio2pm/what_it_means_see_bad_certificate_tls) - [What it means to see a 'bad' certificate in TLS Certificate Transparency logs](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings)
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
@@ -20,7 +21,6 @@
 * [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
-* [2022-10-16, 03:04:18](https://lobste.rs/s/rhn3xl/ir_controlling_new_air_conditioner) - [IR-controlling the new air conditioner in the vintage server room](https://oldvcr.blogspot.com/2022/10/ir-controlling-new-air-conditioner-in.html)
 * [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
 * [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
