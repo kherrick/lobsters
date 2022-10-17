@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-17, 16:15:30",
+      "https://lobste.rs/s/evrw8y/mgba_0_10_0"
+    ],
+    [
+      "mGBA 0.10.0",
+      "https://mgba.io/2022/10/11/mgba-0.10.0/"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 15:45:42",
       "https://lobste.rs/s/czthpn/stateful_serverless_for_rust"
     ],
@@ -177,16 +187,6 @@
     [
       "YAGNI exceptions",
       "https://lukeplant.me.uk/blog/posts/yagni-exceptions/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 21:34:07",
-      "https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees"
-    ],
-    [
-      "Neural Networks are Decision Trees",
-      "https://doi.org/10.48550/arXiv.2210.05189"
     ]
   ],
   [
