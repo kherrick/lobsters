@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 16:15:30](https://lobste.rs/s/evrw8y/mgba_0_10_0) - [mGBA 0.10.0](https://mgba.io/2022/10/11/mgba-0.10.0/)
 * [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
 * [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
 * [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
