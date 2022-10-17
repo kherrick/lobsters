@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 16:15:30](https://lobste.rs/s/evrw8y/mgba_0_10_0) - [mGBA 0.10.0](https://mgba.io/2022/10/11/mgba-0.10.0/)
 * [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
 * [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
@@ -19,7 +20,6 @@
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
 * [2022-10-17, 02:21:59](https://lobste.rs/s/9k3kka/one_billion_apples_secret_sauce_recipe) - [One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol (2018)](https://arxiv.org/pdf/1808.03156.pdf)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions) - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-* [2022-10-16, 20:32:54](https://lobste.rs/s/dac5xk/musings_on_python_type_hints) - [Musings on Python Type Hints](https://samgeo.codes/blog/python-types/)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 18:24:31](https://lobste.rs/s/nyx2ua/shortcat_universal_command_palette_for) - [Shortcat - Universal command palette for your Mac](https://shortcat.app)
 * [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
