@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 11:15:05](https://lobste.rs/s/c9mnwt/openbsd_minimalist_desktop) - [OpenBSD Minimalist Desktop](https://nechtan.io/articles/openbsd_minimalist_desktop.html)
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 09:25:02](https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust) - [puff: run (and extend) Python code as Rust greenlet (on Tokio)](https://github.com/hansonkd/puff)
