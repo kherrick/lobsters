@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-17, 15:45:42",
+      "https://lobste.rs/s/czthpn/stateful_serverless_for_rust"
+    ],
+    [
+      "Stateful Serverless for Rust",
+      "https://www.shuttle.rs/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 15:40:33",
+      "https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust"
+    ],
+    [
+      "MOS-6502 and NES emulator in Rust",
+      "https://github.com/henrikpersson/potatis"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 14:41:24",
       "https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-17, 00:09:20",
-      "https://lobste.rs/s/wjfuyh/reverse_image_search_using_perceptual"
-    ],
-    [
-      "Reverse Image Search Using Perceptual Hashes and DynamoDB",
-      "https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934"
-    ]
-  ],
-  [
-    [
       "2022-10-16, 21:34:07",
       "https://lobste.rs/s/iq21pe/neural_networks_are_decision_trees"
     ],
@@ -187,16 +197,6 @@
     [
       "Musings on Python Type Hints",
       "https://samgeo.codes/blog/python-types/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 19:25:31",
-      "https://lobste.rs/s/yy3hwo/tao_programming"
-    ],
-    [
-      "The Tao of Programming",
-      "https://www.mit.edu/~xela/tao.html"
     ]
   ],
   [
