@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-17, 14:41:24",
+      "https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard"
+    ],
+    [
+      "Kanal: Channels 80x faster than the standard library",
+      "https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 14:40:20",
+      "https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator"
+    ],
+    [
+      "retrowin32, a win32 emulator",
+      "https://neugierig.org/software/blog/2022/10/retrowin32.html"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 14:23:25",
       "https://lobste.rs/s/qthnn2/how_we_built_our_data_layer_on"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2022-10-17, 09:25:02",
-      "https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust"
-    ],
-    [
-      "puff: run (and extend) Python code as Rust greenlet (on Tokio)",
-      "https://github.com/hansonkd/puff"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 08:35:02",
       "https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas"
     ],
@@ -117,16 +127,6 @@
     [
       "Escaping user input is ridonkulously hard",
       "https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 03:42:53",
-      "https://lobste.rs/s/uio2pm/what_it_means_see_bad_certificate_tls"
-    ],
-    [
-      "What it means to see a 'bad' certificate in TLS Certificate Transparency logs",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertTransBadCertMeanings"
     ]
   ],
   [
