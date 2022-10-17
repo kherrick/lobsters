@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 09:25:02](https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust) - [puff: run (and extend) Python code as Rust greenlet (on Tokio)](https://github.com/hansonkd/puff)
 * [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
@@ -22,7 +23,6 @@
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
 * [2022-10-16, 01:05:06](https://lobste.rs/s/vlhm1i/chicken_mcnugget_monoid) - [The Chicken McNugget Monoid](https://www.johndcook.com/blog/2022/10/10/mcnugget-monoid/)
-* [2022-10-15, 23:07:58](https://lobste.rs/s/rvqxxx/disproportionate_influence_early_tech) - [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
 * [2022-10-15, 21:53:43](https://lobste.rs/s/bmsmbu/real_world_react_htmx_port_67_reduction) - [A Real World React -> htmx Port: 67% reduction in LoC](https://htmx.org/essays/a-real-world-react-to-htmx-port/)
 * [2022-10-15, 19:20:34](https://lobste.rs/s/zzbiii/possibly_new_way_drawing_boxes_terminal) - [Possibly a new way of drawing boxes in the terminal](https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/)
 

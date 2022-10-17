@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-17](index.md)
 
+* [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 09:25:02](https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust) - [puff: run (and extend) Python code as Rust greenlet (on Tokio)](https://github.com/hansonkd/puff)
 * [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
