@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-17, 09:25:02](https://lobste.rs/s/mixphd/puff_run_extend_python_code_as_rust) - [puff: run (and extend) Python code as Rust greenlet (on Tokio)](https://github.com/hansonkd/puff)
 * [2022-10-17, 08:35:02](https://lobste.rs/s/nbwiuc/semgrep_writing_quick_rules_verify_ideas) - [Semgrep: Writing quick rules to verify ideas](https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html)
 * [2022-10-17, 07:54:07](https://lobste.rs/s/mjdnwd/lucid_multi_key_deputies_require) - [Lucid Multi-Key Deputies Require Commitment](https://scottarc.blog/2022/10/17/lucid-multi-key-deputies-require-commitment/)
 * [2022-10-17, 04:30:52](https://lobste.rs/s/rieakl/escaping_user_input_is_ridonkulously) - [Escaping user input is ridonkulously hard](https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously)
@@ -17,7 +18,6 @@
 * [2022-10-16, 16:17:06](https://lobste.rs/s/qdbjgh/bazelcon_2022) - [BazelCon 2022](https://opensourcelive.withgoogle.com/events/bazelcon2022)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 * [2022-10-16, 09:37:14](https://lobste.rs/s/g5tkmk/unison_share) - [Unison Share](https://share.unison-lang.org)
-* [2022-10-16, 09:34:28](https://lobste.rs/s/o7cp3r/practical_example_modeling_birthday) - [Practical Example - Modeling a Birthday Message Service · Unison programming language](https://www.unison-lang.org/blog/birthday-kata/)
 * [2022-10-16, 08:17:06](https://lobste.rs/s/ytets7/tp_link_network_equipment_hijacks_some) - [TP-Link network equipment hijacks some DNS requests](https://www.ctrl.blog/entry/tplink-dns-hijacking.html)
 * [2022-10-16, 06:51:47](https://lobste.rs/s/se2mqr/ox64_is_risc_v_linux_capable_sbc_for_8) - [Ox64 is a RISC-V Linux-capable SBC for $8, expected in November](https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/)
 * [2022-10-16, 06:35:17](https://lobste.rs/s/c47pcz/interview_with_simon_peyton_jones) - [Interview with Simon Peyton Jones](https://haskell.foundation/podcast/11/)
