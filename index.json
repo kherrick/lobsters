@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-17, 19:21:47",
+      "https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with"
+    ],
+    [
+      "A Look at Postgres 15: MERGE Command with Examples",
+      "https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples"
+    ]
+  ],
+  [
+    [
       "2022-10-17, 19:16:32",
       "https://lobste.rs/s/58ijxk/on_bypassing_ebpf_security_monitoring"
     ],
@@ -17,26 +27,6 @@
     [
       "proposal: Go 2: error handling: try statement with handler",
       "https://github.com/golang/go/issues/56165"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 18:38:23",
-      "https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern"
-    ],
-    [
-      "ViewComponent in the Wild: building modern Rails frontends",
-      "https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 18:38:03",
-      "https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770"
-    ],
-    [
-      "Someone improved my code by 40,832,277,770%",
-      "https://www.youtube.com/watch?v=c33AZBnRHks"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Kanal: Channels 80x faster than the standard library",
       "https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/"
+    ]
+  ],
+  [
+    [
+      "2022-10-17, 14:40:20",
+      "https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator"
+    ],
+    [
+      "retrowin32, a win32 emulator",
+      "https://neugierig.org/software/blog/2022/10/retrowin32.html"
     ]
   ],
   [
