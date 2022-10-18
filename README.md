@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 22:34:47](https://lobste.rs/s/vaivwh/ted_tiny_exfiltrating_debugger) - [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 19:28:25](https://lobste.rs/s/o1kd40/legendary_comm_engine) - [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 * [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
@@ -19,7 +20,6 @@
 * [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 * [2022-10-17, 18:38:03](https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770) - [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
-* [2022-10-17, 17:32:38](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender) - [Introducing Elm as a frontend contender](https://nais.io/blog/posts/elm/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 12:18:32](https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level) - [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
