@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 11:39:06](https://lobste.rs/s/bagmec/difftastic_diffing_with_magit) - [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-18, 04:20:11](https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift) - [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 * [2022-10-18, 01:51:38](https://lobste.rs/s/mve42y/compiling_swift_generics) - [Compiling Swift Generics](https://download.swift.org/docs/assets/generics.pdf)
@@ -11,7 +12,6 @@
 * [2022-10-17, 17:32:38](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender) - [Introducing Elm as a frontend contender](https://nais.io/blog/posts/elm/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 16:15:30](https://lobste.rs/s/evrw8y/mgba_0_10_0) - [mGBA 0.10.0](https://mgba.io/2022/10/11/mgba-0.10.0/)
-* [2022-10-17, 15:45:42](https://lobste.rs/s/czthpn/stateful_serverless_for_rust) - [Stateful Serverless for Rust](https://www.shuttle.rs/)
 * [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
 * [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
 * [2022-10-17, 14:40:20](https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator) - [retrowin32, a win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
