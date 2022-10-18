@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-18, 08:16:05",
+      "https://lobste.rs/s/bclngd/announcing_freebsd_firecracker"
+    ],
+    [
+      "Announcing the FreeBSD/Firecracker platform",
+      "https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 04:20:11",
       "https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift"
     ],
@@ -227,16 +237,6 @@
     [
       "YAGNI exceptions (2021)",
       "https://lukeplant.me.uk/blog/posts/yagni-exceptions/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 18:42:51",
-      "https://lobste.rs/s/xjriu5/announcing_kataos_sparrow"
-    ],
-    [
-      "Announcing KataOS and Sparrow",
-      "https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html"
     ]
   ],
   [
