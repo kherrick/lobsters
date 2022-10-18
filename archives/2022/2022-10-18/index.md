@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-18](index.md)
 
+* [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 19:28:25](https://lobste.rs/s/o1kd40/legendary_comm_engine) - [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 * [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
