@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 01:51:38](https://lobste.rs/s/mve42y/compiling_swift_generics) - [Compiling Swift Generics](https://download.swift.org/docs/assets/generics.pdf)
+* [2022-10-18, 00:34:03](https://lobste.rs/s/hddngk/pagnis_probably_are_gonna_need_its) - [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
-* [2022-10-17, 19:21:47](https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with) - [A Look at Postgres 15: MERGE Command with Examples](https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples)
 * [2022-10-17, 18:38:23](https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern) - [ViewComponent in the Wild: building modern Rails frontends](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
 * [2022-10-17, 18:38:03](https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770) - [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
@@ -23,7 +24,6 @@
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions) - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
-* [2022-10-16, 18:21:43](https://lobste.rs/s/xdjvlh/isc_dhcp_server_has_reached_eol) - [ISC DHCP Server has reached EOL](https://www.isc.org/blogs/isc-dhcp-eol/)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 
 ## [Archives](archives/index.md)
