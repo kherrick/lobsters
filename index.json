@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-18, 18:21:49",
+      "https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game"
+    ],
+    [
+      "Elevator Saga - the elevator programming game",
+      "https://play.elevatorsaga.com/"
+    ]
+  ],
+  [
+    [
+      "2022-10-18, 18:03:35",
+      "https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal"
+    ],
+    [
+      "Introducing fine-grained personal access tokens for GitHub",
+      "https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 17:39:42",
       "https://lobste.rs/s/nleble/geeky_timer_for_your_terminal"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-10-17, 19:21:47",
-      "https://lobste.rs/s/kgm8lt/look_at_postgres_15_merge_command_with"
-    ],
-    [
-      "A Look at Postgres 15: MERGE Command with Examples",
-      "https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 18:38:03",
       "https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770"
     ],
@@ -167,16 +177,6 @@
     [
       "Practical Parsing in Rust with nom",
       "https://naiveai.hashnode.dev/practical-parsing-nom"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 14:41:24",
-      "https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard"
-    ],
-    [
-      "Kanal: Channels 80x faster than the standard library",
-      "https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/"
     ]
   ],
   [
