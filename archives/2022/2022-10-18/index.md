@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-18](index.md)
 
+* [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
 * [2022-10-18, 12:48:15](https://lobste.rs/s/rmwzea/relaying_yubikeys) - [Relaying YubiKeys](https://cube0x0.github.io/Relaying-YubiKeys/)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
 * [2022-10-18, 12:48:15](https://lobste.rs/s/rmwzea/relaying_yubikeys) - [Relaying YubiKeys](https://cube0x0.github.io/Relaying-YubiKeys/)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
@@ -14,9 +15,8 @@
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 * [2022-10-17, 17:32:38](https://lobste.rs/s/rkgbnt/introducing_elm_as_frontend_contender) - [Introducing Elm as a frontend contender](https://nais.io/blog/posts/elm/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
-* [2022-10-17, 15:40:33](https://lobste.rs/s/9dehez/mos_6502_nes_emulator_rust) - [MOS-6502 and NES emulator in Rust](https://github.com/henrikpersson/potatis)
+* [2022-10-17, 16:15:30](https://lobste.rs/s/evrw8y/mgba_0_10_0) - [mGBA 0.10.0](https://mgba.io/2022/10/11/mgba-0.10.0/)
 * [2022-10-17, 14:41:24](https://lobste.rs/s/vsfbvs/kanal_channels_80x_faster_than_standard) - [Kanal: Channels 80x faster than the standard library](https://www.reddit.com/r/rust/comments/y5im3n/kanal_channels_80x_faster_than_the_standard/)
-* [2022-10-17, 14:40:20](https://lobste.rs/s/fcu2dl/retrowin32_win32_emulator) - [retrowin32, a win32 emulator](https://neugierig.org/software/blog/2022/10/retrowin32.html)
 * [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 12:18:32](https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level) - [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
