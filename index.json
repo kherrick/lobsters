@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-18, 17:39:42",
+      "https://lobste.rs/s/nleble/geeky_timer_for_your_terminal"
+    ],
+    [
+      "Geeky Timer for Your Terminal",
+      "https://github.com/sepandhaghighi/mytimer"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 16:40:47",
       "https://lobste.rs/s/qgvgxv/customizing_packages_nix"
     ],
@@ -237,16 +247,6 @@
     [
       "YAGNI exceptions (2021)",
       "https://lukeplant.me.uk/blog/posts/yagni-exceptions/"
-    ]
-  ],
-  [
-    [
-      "2022-10-16, 11:53:51",
-      "https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9"
-    ],
-    [
-      "Whipping up a new Shell – Lash#Cat9",
-      "https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/"
     ]
   ]
 ]
