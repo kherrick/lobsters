@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 04:20:11](https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift) - [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 * [2022-10-18, 01:51:38](https://lobste.rs/s/mve42y/compiling_swift_generics) - [Compiling Swift Generics](https://download.swift.org/docs/assets/generics.pdf)
-* [2022-10-18, 00:34:03](https://lobste.rs/s/hddngk/pagnis_probably_are_gonna_need_its) - [PAGNIs: Probably Are Gonna Need Its](https://simonwillison.net/2021/Jul/1/pagnis/)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 * [2022-10-17, 18:38:23](https://lobste.rs/s/zswqhf/viewcomponent_wild_building_modern) - [ViewComponent in the Wild: building modern Rails frontends](https://evilmartians.com/chronicles/viewcomponent-in-the-wild-building-modern-rails-frontends)
@@ -22,7 +22,7 @@
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
-* [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions) - [YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
+* [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 * [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 
