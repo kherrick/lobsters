@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-18, 11:39:06",
+      "https://lobste.rs/s/bagmec/difftastic_diffing_with_magit"
+    ],
+    [
+      "Difftastic diffing with Magit",
+      "https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html"
+    ]
+  ],
+  [
+    [
       "2022-10-18, 08:16:05",
       "https://lobste.rs/s/bclngd/announcing_freebsd_firecracker"
     ],
@@ -107,16 +117,6 @@
     [
       "mGBA 0.10.0",
       "https://mgba.io/2022/10/11/mgba-0.10.0/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 15:45:42",
-      "https://lobste.rs/s/czthpn/stateful_serverless_for_rust"
-    ],
-    [
-      "Stateful Serverless for Rust",
-      "https://www.shuttle.rs/"
     ]
   ],
   [
