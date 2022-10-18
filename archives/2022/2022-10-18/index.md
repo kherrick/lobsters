@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-18](index.md)
 
+* [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
+* [2022-10-18, 18:03:35](https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal) - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 * [2022-10-18, 17:39:42](https://lobste.rs/s/nleble/geeky_timer_for_your_terminal) - [Geeky Timer for Your Terminal](https://github.com/sepandhaghighi/mytimer)
 * [2022-10-18, 16:40:47](https://lobste.rs/s/qgvgxv/customizing_packages_nix) - [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 * [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
