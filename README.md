@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-18, 04:20:11](https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift) - [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 * [2022-10-18, 01:51:38](https://lobste.rs/s/mve42y/compiling_swift_generics) - [Compiling Swift Generics](https://download.swift.org/docs/assets/generics.pdf)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
@@ -23,7 +24,6 @@
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 03:01:59](https://lobste.rs/s/zhmgwq/python_flask_sqlite) - [Python, Flask, and SQLite](https://quindarius.com/timeline/2022/10/16/python-flask-sqlite.html)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-* [2022-10-16, 18:42:51](https://lobste.rs/s/xjriu5/announcing_kataos_sparrow) - [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html)
 * [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 
 ## [Archives](archives/index.md)
