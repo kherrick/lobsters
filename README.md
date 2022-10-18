@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 17:39:42](https://lobste.rs/s/nleble/geeky_timer_for_your_terminal) - [Geeky Timer for Your Terminal](https://github.com/sepandhaghighi/mytimer)
 * [2022-10-18, 16:40:47](https://lobste.rs/s/qgvgxv/customizing_packages_nix) - [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 * [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
@@ -24,7 +25,6 @@
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-* [2022-10-16, 11:53:51](https://lobste.rs/s/hpyilg/whipping_up_new_shell_lash_cat9) - [Whipping up a new Shell – Lash#Cat9](https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/)
 
 ## [Archives](archives/index.md)
 
