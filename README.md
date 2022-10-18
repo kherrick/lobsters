@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 * [2022-10-18, 18:03:35](https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal) - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 * [2022-10-18, 17:39:42](https://lobste.rs/s/nleble/geeky_timer_for_your_terminal) - [Geeky Timer for Your Terminal](https://github.com/sepandhaghighi/mytimer)
@@ -21,7 +22,6 @@
 * [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 12:18:32](https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level) - [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
-* [2022-10-17, 11:15:05](https://lobste.rs/s/c9mnwt/openbsd_minimalist_desktop) - [OpenBSD Minimalist Desktop](https://nechtan.io/articles/openbsd_minimalist_desktop.html)
 * [2022-10-17, 10:23:29](https://lobste.rs/s/fjuchq/why_philosophers_should_care_about) - [Why Philosophers Should Care About Computational Complexity (2011)](https://arxiv.org/abs/1108.1791)
 * [2022-10-17, 10:08:48](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ubspdt/what_are_you_doing_this_week)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)

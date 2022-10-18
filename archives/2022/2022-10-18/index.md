@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-18](index.md)
 
+* [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 * [2022-10-18, 18:03:35](https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal) - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 * [2022-10-18, 17:39:42](https://lobste.rs/s/nleble/geeky_timer_for_your_terminal) - [Geeky Timer for Your Terminal](https://github.com/sepandhaghighi/mytimer)
