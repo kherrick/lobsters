@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 17:26:16](https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft) - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
 * [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 * [2022-10-19, 16:35:46](https://lobste.rs/s/exmdxa/stop_writing_dead_programs) - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
@@ -7,7 +8,6 @@
 * [2022-10-19, 14:52:09](https://lobste.rs/s/o8v1gn/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision (2012)](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2022-10-19, 13:28:10](https://lobste.rs/s/f2dzui/yid_oylem_s_first_programming_shprach) - [Yid++ the oylem’s first programming shprach](https://schorrm.github.io/ypp/)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
-* [2022-10-19, 12:35:37](https://lobste.rs/s/xhpgpg/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
