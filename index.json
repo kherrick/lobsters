@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-19, 21:05:34",
+      "https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock"
+    ],
+    [
+      "What's the difference between a computer and a rock?",
+      "https://ahelwer.ca/post/2022-10-19-defining-computation/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 20:34:39",
       "https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code"
     ],
@@ -217,16 +227,6 @@
     [
       "Elevator Saga - the elevator programming game",
       "https://play.elevatorsaga.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 16:40:47",
-      "https://lobste.rs/s/qgvgxv/customizing_packages_nix"
-    ],
-    [
-      "Customizing packages in Nix",
-      "https://bobvanderlinden.me/customizing-packages-in-nix/"
     ]
   ],
   [
