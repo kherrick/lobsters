@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
+* [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
+* [2022-10-19, 16:35:46](https://lobste.rs/s/exmdxa/stop_writing_dead_programs) - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 * [2022-10-19, 14:56:09](https://lobste.rs/s/gts52d/feasibility_pledge_on_linux) - [The feasibility of pledge() on Linux](https://blog.gnoack.org/post/pledge-on-linux/)
 * [2022-10-19, 14:52:09](https://lobste.rs/s/o8v1gn/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision (2012)](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2022-10-19, 13:28:10](https://lobste.rs/s/f2dzui/yid_oylem_s_first_programming_shprach) - [Yid++ the oylem’s first programming shprach](https://schorrm.github.io/ypp/)
