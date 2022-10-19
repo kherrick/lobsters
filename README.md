@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 09:01:33](https://lobste.rs/s/xtdr7v/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://link.medium.com/81Z24ApBeub)
 * [2022-10-19, 08:20:41](https://lobste.rs/s/inszgt/tree_search_haskell) - [Tree search in Haskell](https://blog.plover.com/prog/haskell/lazy-search.html)
 * [2022-10-19, 07:56:46](https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog) - [Phew, that's a lot of traffic - What happens when a blog post goes viral?](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
@@ -14,7 +15,6 @@
 * [2022-10-18, 19:28:25](https://lobste.rs/s/o1kd40/legendary_comm_engine) - [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 * [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
-* [2022-10-18, 18:03:35](https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal) - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 * [2022-10-18, 16:40:47](https://lobste.rs/s/qgvgxv/customizing_packages_nix) - [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 * [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
