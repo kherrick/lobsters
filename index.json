@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-19, 17:26:16",
+      "https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft"
+    ],
+    [
+      "Keynote: Formal Methods at Microsoft - Nikolaj Bjørner",
+      "https://www.youtube.com/watch?v=GEsvGGp0jyQ"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 16:40:57",
       "https://lobste.rs/s/ff90xt/small_benchmark_for_functional"
     ],
@@ -67,16 +77,6 @@
     [
       "Why we're leaving the cloud",
       "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 12:35:37",
-      "https://lobste.rs/s/xhpgpg/how_we_built_multi_product_sso_system_with"
-    ],
-    [
-      "How we built a multi-product SSO system with asynchronous messages using RabbitMQ",
-      "https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1"
     ]
   ],
   [
