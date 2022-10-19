@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 14:56:09](https://lobste.rs/s/gts52d/feasibility_pledge_on_linux) - [The feasibility of pledge() on Linux](https://blog.gnoack.org/post/pledge-on-linux/)
+* [2022-10-19, 14:52:09](https://lobste.rs/s/o8v1gn/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision (2012)](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
 * [2022-10-19, 13:28:10](https://lobste.rs/s/f2dzui/yid_oylem_s_first_programming_shprach) - [Yid++ the oylem’s first programming shprach](https://schorrm.github.io/ypp/)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
 * [2022-10-19, 12:35:37](https://lobste.rs/s/xhpgpg/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
