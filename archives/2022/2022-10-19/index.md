@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
 * [2022-10-19, 09:01:33](https://lobste.rs/s/xtdr7v/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://link.medium.com/81Z24ApBeub)
 * [2022-10-19, 08:20:41](https://lobste.rs/s/inszgt/tree_search_haskell) - [Tree search in Haskell](https://blog.plover.com/prog/haskell/lazy-search.html)
 * [2022-10-19, 07:56:46](https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog) - [Phew, that's a lot of traffic - What happens when a blog post goes viral?](https://www.jvt.me/posts/2022/10/14/blog-viral/)
