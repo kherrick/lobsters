@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 13:28:10](https://lobste.rs/s/f2dzui/yid_oylem_s_first_programming_shprach) - [Yid++ the oylem’s first programming shprach](https://schorrm.github.io/ypp/)
+* [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+* [2022-10-19, 12:35:37](https://lobste.rs/s/xhpgpg/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://medium.com/wttj-tech/how-we-built-a-multi-product-sso-system-with-asynchronous-messages-using-rabbitmq-889fefba02b1)
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
@@ -8,10 +11,8 @@
 * [2022-10-19, 06:11:34](https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler) - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
 * [2022-10-19, 05:56:48](https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson) - [Converting Ultimate++ framework to the Meson build system](https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598)
 * [2022-10-19, 04:41:22](https://lobste.rs/s/fmkh76/memory_corruption_vulnerabilities_edge) - [Memory corruption vulnerabilities in Edge](https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/)
-* [2022-10-19, 03:30:35](https://lobste.rs/s/mdpqln/canon_user_experience) - [A canon of user experience](http://www.bogieland.com/postings/post_canonux.php)
 * [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 * [2022-10-19, 00:52:23](https://lobste.rs/s/qvwpho/reducing_logging_cost_by_two_orders) - [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
-* [2022-10-18, 22:34:47](https://lobste.rs/s/vaivwh/ted_tiny_exfiltrating_debugger) - [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 19:28:25](https://lobste.rs/s/o1kd40/legendary_comm_engine) - [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 * [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
@@ -24,7 +25,6 @@
 * [2022-10-18, 11:39:06](https://lobste.rs/s/bagmec/difftastic_diffing_with_magit) - [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
-* [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 
 ## [Archives](archives/index.md)
 
