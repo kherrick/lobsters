@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-19, 19:25:59",
+      "https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos"
+    ],
+    [
+      "That Time I Tried Porting Zig to SerenityOS",
+      "https://sin-ack.github.io/posts/sycl-talk-20221007/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 18:37:42",
       "https://lobste.rs/s/dukvpv/look_at_vulkan_extensions_venus"
     ],
@@ -217,16 +227,6 @@
     [
       "No Congress 2022: Looking forward to decentralized alternatives and Camp 2023",
       "https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 13:23:16",
-      "https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any"
-    ],
-    [
-      "When is a slice of any not a slice of any?",
-      "https://www.timr.co/slice-of-any-not-slice-of-any/"
     ]
   ],
   [
