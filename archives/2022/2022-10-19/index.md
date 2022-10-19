@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 20:19:47](https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx) - [Contrasting Intel AMX and Apple AMX](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
+* [2022-10-19, 20:19:31](https://lobste.rs/s/kt7ztd/ahkpm_autohotkey_package_manager) - [ahkpm - The AutoHotKey Package Manager](https://github.com/joshuacc/ahkpm)
+* [2022-10-19, 20:13:34](https://lobste.rs/s/bq7lyq/non_euclidean_geometry_games_2019) - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
 * [2022-10-19, 18:37:42](https://lobste.rs/s/dukvpv/look_at_vulkan_extensions_venus) - [A look at Vulkan extensions in Venus](https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/)
 * [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
