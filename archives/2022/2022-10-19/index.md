@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 21:05:34](https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock) - [What's the difference between a computer and a rock?](https://ahelwer.ca/post/2022-10-19-defining-computation/)
 * [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
 * [2022-10-19, 20:29:05](https://lobste.rs/s/l0dozn/unix_pipe_card_game) - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2022-10-19, 20:19:47](https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx) - [Contrasting Intel AMX and Apple AMX](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
