@@ -19,11 +19,11 @@
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
+* [2022-10-19, 08:20:41](https://lobste.rs/s/inszgt/tree_search_haskell) - [Tree search in Haskell](https://blog.plover.com/prog/haskell/lazy-search.html)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 * [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
-* [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 
 ## [Archives](archives/index.md)
