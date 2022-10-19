@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
 * [2022-10-19, 17:26:16](https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft) - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
 * [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)

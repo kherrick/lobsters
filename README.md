@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
 * [2022-10-19, 17:26:16](https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft) - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
 * [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
@@ -23,7 +24,6 @@
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 * [2022-10-18, 11:39:06](https://lobste.rs/s/bagmec/difftastic_diffing_with_magit) - [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
-* [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 
 ## [Archives](archives/index.md)
