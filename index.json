@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-19, 06:11:34",
+      "https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler"
+    ],
+    [
+      "How we use binary search to find compiler bugs",
+      "https://bernsteinbear.com/blog/cinder-jit-bisect/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 05:56:48",
+      "https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson"
+    ],
+    [
+      "Converting Ultimate++ framework to the Meson build system",
+      "https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 04:41:22",
       "https://lobste.rs/s/fmkh76/memory_corruption_vulnerabilities_edge"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-18, 04:20:11",
-      "https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift"
-    ],
-    [
-      "A Possible Vision for Macros in Swift",
-      "https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 22:47:37",
       "https://lobste.rs/s/4imnvy/github_copilot_investigation"
     ],
@@ -237,16 +247,6 @@
     [
       "The wasted potential of CSS attribute selectors",
       "https://elisehe.in/2022/10/16/attribute-selectors"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 01:47:38",
-      "https://lobste.rs/s/quywfp/yagni_exceptions_2021"
-    ],
-    [
-      "YAGNI exceptions (2021)",
-      "https://lukeplant.me.uk/blog/posts/yagni-exceptions/"
     ]
   ]
 ]
