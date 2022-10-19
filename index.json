@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-19, 14:56:09",
+      "https://lobste.rs/s/gts52d/feasibility_pledge_on_linux"
+    ],
+    [
+      "The feasibility of pledge() on Linux",
+      "https://blog.gnoack.org/post/pledge-on-linux/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 14:52:09",
+      "https://lobste.rs/s/o8v1gn/intermediate_floating_point_precision"
+    ],
+    [
+      "Intermediate Floating-Point Precision (2012)",
+      "https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 13:28:10",
       "https://lobste.rs/s/f2dzui/yid_oylem_s_first_programming_shprach"
     ],
@@ -137,26 +157,6 @@
     [
       "Sound",
       "https://ciechanow.ski/sound/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 19:28:25",
-      "https://lobste.rs/s/o1kd40/legendary_comm_engine"
-    ],
-    [
-      "The Legendary Comm Engine",
-      "http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 19:03:19",
-      "https://lobste.rs/s/vufln7/at_protocol"
-    ],
-    [
-      "The AT Protocol",
-      "https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol"
     ]
   ],
   [
