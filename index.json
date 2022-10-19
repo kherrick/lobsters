@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-19, 16:40:57",
+      "https://lobste.rs/s/ff90xt/small_benchmark_for_functional"
+    ],
+    [
+      "A small benchmark for functional languages targeting web browsers",
+      "https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 16:37:38",
+      "https://lobste.rs/s/nvnehr/programming_as_play"
+    ],
+    [
+      "Programming as play",
+      "https://austinhenley.com/blog/programmingasplay.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 16:35:46",
+      "https://lobste.rs/s/exmdxa/stop_writing_dead_programs"
+    ],
+    [
+      "Stop Writing Dead Programs",
+      "https://www.youtube.com/watch?v=8Ab3ArE8W3s"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 14:56:09",
       "https://lobste.rs/s/gts52d/feasibility_pledge_on_linux"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2022-10-19, 05:56:48",
-      "https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson"
-    ],
-    [
-      "Converting Ultimate++ framework to the Meson build system",
-      "https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 04:41:22",
       "https://lobste.rs/s/fmkh76/memory_corruption_vulnerabilities_edge"
     ],
@@ -137,16 +157,6 @@
     [
       "Syntax design",
       "https://cs.lmu.edu/~ray/notes/syntaxdesign/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 00:52:23",
-      "https://lobste.rs/s/qvwpho/reducing_logging_cost_by_two_orders"
-    ],
-    [
-      "Reducing Logging Cost by Two Orders of Magnitude using CLP",
-      "https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "When is a slice of any not a slice of any?",
       "https://www.timr.co/slice-of-any-not-slice-of-any/"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 12:48:15",
-      "https://lobste.rs/s/rmwzea/relaying_yubikeys"
-    ],
-    [
-      "Relaying YubiKeys",
-      "https://cube0x0.github.io/Relaying-YubiKeys/"
     ]
   ],
   [
