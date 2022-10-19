@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-19, 04:41:22",
+      "https://lobste.rs/s/fmkh76/memory_corruption_vulnerabilities_edge"
+    ],
+    [
+      "Memory corruption vulnerabilities in Edge",
+      "https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 03:30:35",
+      "https://lobste.rs/s/mdpqln/canon_user_experience"
+    ],
+    [
+      "A canon of user experience",
+      "http://www.bogieland.com/postings/post_canonux.php"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 02:28:35",
       "https://lobste.rs/s/4n0kz8/syntax_design"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-18, 01:51:38",
-      "https://lobste.rs/s/mve42y/compiling_swift_generics"
-    ],
-    [
-      "Compiling Swift Generics",
-      "https://download.swift.org/docs/assets/generics.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-17, 22:47:37",
       "https://lobste.rs/s/4imnvy/github_copilot_investigation"
     ],
@@ -217,16 +227,6 @@
     [
       "Practical Parsing in Rust with nom",
       "https://naiveai.hashnode.dev/practical-parsing-nom"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 14:08:36",
-      "https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher"
-    ],
-    [
-      "Dr. Logo - The world's best computer teacher",
-      "https://computeradsfromthepast.substack.com/p/dr-logo"
     ]
   ],
   [
