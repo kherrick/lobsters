@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 04:41:22](https://lobste.rs/s/fmkh76/memory_corruption_vulnerabilities_edge) - [Memory corruption vulnerabilities in Edge](https://microsoftedge.github.io/edgevr/posts/memory-corruption-vulnerabilities-in-edge/)
+* [2022-10-19, 03:30:35](https://lobste.rs/s/mdpqln/canon_user_experience) - [A canon of user experience](http://www.bogieland.com/postings/post_canonux.php)
 * [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 * [2022-10-19, 00:52:23](https://lobste.rs/s/qvwpho/reducing_logging_cost_by_two_orders) - [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
 * [2022-10-18, 22:34:47](https://lobste.rs/s/vaivwh/ted_tiny_exfiltrating_debugger) - [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
@@ -16,13 +18,11 @@
 * [2022-10-18, 11:39:06](https://lobste.rs/s/bagmec/difftastic_diffing_with_magit) - [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-18, 04:20:11](https://lobste.rs/s/onvkc6/possible_vision_for_macros_swift) - [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
-* [2022-10-18, 01:51:38](https://lobste.rs/s/mve42y/compiling_swift_generics) - [Compiling Swift Generics](https://download.swift.org/docs/assets/generics.pdf)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 22:20:49](https://lobste.rs/s/o2ewu3/optimizing_hell_out_my_website) - [Optimizing the hell out of my website](https://kmaasrud.com/posts/2022-09-26%20Optimizing%20the%20hell%20out%20of%20my%20website.html)
 * [2022-10-17, 18:38:03](https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770) - [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
-* [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 
