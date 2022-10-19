@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 07:56:46](https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog) - [Phew, that's a lot of traffic - What happens when a blog post goes viral?](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 * [2022-10-19, 06:11:34](https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler) - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
 * [2022-10-19, 05:56:48](https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson) - [Converting Ultimate++ framework to the Meson build system](https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598)
@@ -21,7 +22,6 @@
 * [2022-10-18, 11:39:06](https://lobste.rs/s/bagmec/difftastic_diffing_with_magit) - [Difftastic diffing with Magit](https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html)
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
-* [2022-10-17, 18:38:03](https://lobste.rs/s/nu8tk9/someone_improved_my_code_by_40_832_277_770) - [Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)

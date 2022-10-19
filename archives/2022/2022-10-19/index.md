@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 07:56:46](https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog) - [Phew, that's a lot of traffic - What happens when a blog post goes viral?](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 * [2022-10-19, 06:11:34](https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler) - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
 * [2022-10-19, 05:56:48](https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson) - [Converting Ultimate++ framework to the Meson build system](https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598)
