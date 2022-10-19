@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-19, 17:56:31",
+      "https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper"
+    ],
+    [
+      "RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message",
+      "https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 17:26:16",
       "https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft"
     ],
@@ -227,16 +237,6 @@
     [
       "Difftastic diffing with Magit",
       "https://tsdh.org/posts/2022-08-01-difftastic-diffing-with-magit.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-18, 08:16:05",
-      "https://lobste.rs/s/bclngd/announcing_freebsd_firecracker"
-    ],
-    [
-      "Announcing the FreeBSD/Firecracker platform",
-      "https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html"
     ]
   ],
   [
