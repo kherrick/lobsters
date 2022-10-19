@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
 * [2022-10-19, 09:01:33](https://lobste.rs/s/xtdr7v/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://link.medium.com/81Z24ApBeub)
 * [2022-10-19, 08:20:41](https://lobste.rs/s/inszgt/tree_search_haskell) - [Tree search in Haskell](https://blog.plover.com/prog/haskell/lazy-search.html)
@@ -24,7 +25,6 @@
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
-* [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 
 ## [Archives](archives/index.md)
 
