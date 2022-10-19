@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
+* [2022-10-19, 20:29:05](https://lobste.rs/s/l0dozn/unix_pipe_card_game) - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2022-10-19, 20:19:47](https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx) - [Contrasting Intel AMX and Apple AMX](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
 * [2022-10-19, 20:19:31](https://lobste.rs/s/kt7ztd/ahkpm_autohotkey_package_manager) - [ahkpm - The AutoHotKey Package Manager](https://github.com/joshuacc/ahkpm)
 * [2022-10-19, 20:13:34](https://lobste.rs/s/bq7lyq/non_euclidean_geometry_games_2019) - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)

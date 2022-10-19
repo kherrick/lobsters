@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
+* [2022-10-19, 20:29:05](https://lobste.rs/s/l0dozn/unix_pipe_card_game) - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2022-10-19, 20:19:47](https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx) - [Contrasting Intel AMX and Apple AMX](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
 * [2022-10-19, 20:19:31](https://lobste.rs/s/kt7ztd/ahkpm_autohotkey_package_manager) - [ahkpm - The AutoHotKey Package Manager](https://github.com/joshuacc/ahkpm)
 * [2022-10-19, 20:13:34](https://lobste.rs/s/bq7lyq/non_euclidean_geometry_games_2019) - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)
@@ -17,14 +19,12 @@
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
-* [2022-10-19, 06:11:34](https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler) - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
 * [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 * [2022-10-18, 16:40:47](https://lobste.rs/s/qgvgxv/customizing_packages_nix) - [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 * [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
-* [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 
 ## [Archives](archives/index.md)
 
