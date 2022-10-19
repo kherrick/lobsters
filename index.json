@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-19, 20:34:39",
+      "https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code"
+    ],
+    [
+      "markdown -> runnable notebooks w/ VS Code",
+      "http://runme.dev"
+    ]
+  ],
+  [
+    [
+      "2022-10-19, 20:29:05",
+      "https://lobste.rs/s/l0dozn/unix_pipe_card_game"
+    ],
+    [
+      "The UNIX Pipe Card Game",
+      "https://punkx.org/unix-pipe-game/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 20:19:47",
       "https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-19, 06:11:34",
-      "https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler"
-    ],
-    [
-      "How we use binary search to find compiler bugs",
-      "https://bernsteinbear.com/blog/cinder-jit-bisect/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 02:28:35",
       "https://lobste.rs/s/4n0kz8/syntax_design"
     ],
@@ -237,16 +247,6 @@
     [
       "Do you know any good programming games?",
       "https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 22:47:37",
-      "https://lobste.rs/s/4imnvy/github_copilot_investigation"
-    ],
-    [
-      "GitHub Copilot investigation",
-      "https://githubcopilotinvestigation.com/"
     ]
   ]
 ]
