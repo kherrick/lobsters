@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-19, 08:20:41",
+      "https://lobste.rs/s/inszgt/tree_search_haskell"
+    ],
+    [
+      "Tree search in Haskell",
+      "https://blog.plover.com/prog/haskell/lazy-search.html"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 07:56:46",
       "https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog"
     ],
@@ -227,16 +237,6 @@
     [
       "How to Build Software like an SRE",
       "https://www.willett.io/posts/precepts/"
-    ]
-  ],
-  [
-    [
-      "2022-10-17, 16:59:21",
-      "https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom"
-    ],
-    [
-      "Practical Parsing in Rust with nom",
-      "https://naiveai.hashnode.dev/practical-parsing-nom"
     ]
   ],
   [
