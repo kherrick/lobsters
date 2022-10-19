@@ -1,10 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
-* [2022-10-19, 09:01:33](https://lobste.rs/s/xtdr7v/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://link.medium.com/81Z24ApBeub)
 * [2022-10-19, 08:20:41](https://lobste.rs/s/inszgt/tree_search_haskell) - [Tree search in Haskell](https://blog.plover.com/prog/haskell/lazy-search.html)
-* [2022-10-19, 07:56:46](https://lobste.rs/s/dgh4uy/phew_s_lot_traffic_what_happens_when_blog) - [Phew, that's a lot of traffic - What happens when a blog post goes viral?](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 * [2022-10-19, 06:11:34](https://lobste.rs/s/yccrd4/how_we_use_binary_search_find_compiler) - [How we use binary search to find compiler bugs](https://bernsteinbear.com/blog/cinder-jit-bisect/)
 * [2022-10-19, 05:56:48](https://lobste.rs/s/nefrzo/converting_ultimate_framework_meson) - [Converting Ultimate++ framework to the Meson build system](https://itnext.io/converting-ultimate-framework-to-meson-build-system-to-make-it-externally-consumable-by-others-99b54bc25598)
@@ -25,6 +24,7 @@
 * [2022-10-18, 08:16:05](https://lobste.rs/s/bclngd/announcing_freebsd_firecracker) - [Announcing the FreeBSD/Firecracker platform](https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html)
 * [2022-10-17, 22:47:37](https://lobste.rs/s/4imnvy/github_copilot_investigation) - [GitHub Copilot investigation](https://githubcopilotinvestigation.com/)
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
+* [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 
 ## [Archives](archives/index.md)
 

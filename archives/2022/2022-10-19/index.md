@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-19](index.md)
 
+* [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 09:29:58](https://lobste.rs/s/b0efj3/exploratory_data_analysis_for) - [Exploratory Data Analysis for Cybersecurity Intrusion Detection](https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99)
 * [2022-10-19, 09:01:33](https://lobste.rs/s/xtdr7v/how_we_built_multi_product_sso_system_with) - [How we built a multi-product SSO system with asynchronous messages using RabbitMQ](https://link.medium.com/81Z24ApBeub)
