@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
+* [2022-10-19, 00:52:23](https://lobste.rs/s/qvwpho/reducing_logging_cost_by_two_orders) - [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/)
 * [2022-10-18, 22:34:47](https://lobste.rs/s/vaivwh/ted_tiny_exfiltrating_debugger) - [TED: The Tiny Exfiltrating Debugger](https://www.codereversing.com/archives/561)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
 * [2022-10-18, 19:28:25](https://lobste.rs/s/o1kd40/legendary_comm_engine) - [The Legendary Comm Engine](http://forgedinstars.blogspot.com/2022/03/the-legendary-comm-engine.html)
 * [2022-10-18, 19:03:19](https://lobste.rs/s/vufln7/at_protocol) - [The AT Protocol](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
 * [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 * [2022-10-18, 18:03:35](https://lobste.rs/s/rdfdzd/introducing_fine_grained_personal) - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
-* [2022-10-18, 17:39:42](https://lobste.rs/s/nleble/geeky_timer_for_your_terminal) - [Geeky Timer for Your Terminal](https://github.com/sepandhaghighi/mytimer)
 * [2022-10-18, 16:40:47](https://lobste.rs/s/qgvgxv/customizing_packages_nix) - [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 * [2022-10-18, 13:28:23](https://lobste.rs/s/s2hgh7/no_congress_2022_looking_forward) - [No Congress 2022: Looking forward to decentralized alternatives and Camp 2023](https://events.ccc.de/2022/10/18/no-congress-2022/#no-congress-2022-en)
 * [2022-10-18, 13:23:16](https://lobste.rs/s/wto4lv/when_is_slice_any_not_slice_any) - [When is a slice of any not a slice of any?](https://www.timr.co/slice-of-any-not-slice-of-any/)
@@ -22,7 +23,6 @@
 * [2022-10-17, 17:55:18](https://lobste.rs/s/gpzy80/how_build_software_like_sre) - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/)
 * [2022-10-17, 16:59:21](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom) - [Practical Parsing in Rust with nom](https://naiveai.hashnode.dev/practical-parsing-nom)
 * [2022-10-17, 14:08:36](https://lobste.rs/s/1jgukb/dr_logo_world_s_best_computer_teacher) - [Dr. Logo - The world's best computer teacher](https://computeradsfromthepast.substack.com/p/dr-logo)
-* [2022-10-17, 12:18:32](https://lobste.rs/s/igk6jx/go_webassembly_abi_at_low_level) - [The Go WebAssembly ABI at a Low Level](https://xeiaso.net/talks/wasm-abi)
 * [2022-10-17, 11:36:35](https://lobste.rs/s/kfg4uc/wasted_potential_css_attribute) - [The wasted potential of CSS attribute selectors](https://elisehe.in/2022/10/16/attribute-selectors)
 * [2022-10-17, 01:47:38](https://lobste.rs/s/quywfp/yagni_exceptions_2021) - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
 
