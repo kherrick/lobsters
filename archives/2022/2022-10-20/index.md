@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-20](index.md)
 
+* [2022-10-20, 14:55:43](https://lobste.rs/s/gwegxo/how_make_mock_api_server_javascript) - [How to make a mock API server in JavaScript](https://snyk.io/blog/how-to-mock-api-server-javascript/)
+* [2022-10-20, 14:46:00](https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer) - [Reverse Engineering the Apple MultiPeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
 * [2022-10-20, 14:02:23](https://lobste.rs/s/uxyx6d/computer_networks_systems_approach) - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 * [2022-10-20, 13:53:36](https://lobste.rs/s/vojk2t/mystery_355_113_2010) - [The Mystery of 355/113 (2010)](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
