@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-20, 14:55:43",
+      "https://lobste.rs/s/gwegxo/how_make_mock_api_server_javascript"
+    ],
+    [
+      "How to make a mock API server in JavaScript",
+      "https://snyk.io/blog/how-to-mock-api-server-javascript/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 14:46:00",
+      "https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer"
+    ],
+    [
+      "Reverse Engineering the Apple MultiPeer Connectivity Framework",
+      "https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 14:11:59",
       "https://lobste.rs/s/8majeg/openbsd_7_2_release"
     ],
@@ -117,26 +137,6 @@
     [
       "The UNIX Pipe Card Game",
       "https://punkx.org/unix-pipe-game/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 20:19:47",
-      "https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx"
-    ],
-    [
-      "Contrasting Intel AMX and Apple AMX",
-      "http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 20:19:31",
-      "https://lobste.rs/s/kt7ztd/ahkpm_autohotkey_package_manager"
-    ],
-    [
-      "ahkpm - The AutoHotKey Package Manager",
-      "https://github.com/joshuacc/ahkpm"
     ]
   ],
   [
