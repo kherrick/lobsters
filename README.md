@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 18:01:00](https://lobste.rs/s/drjb5y/podcast_how_open_source_with_richard) - [[podcast] How to Open Source with Richard Schneeman](https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/)
 * [2022-10-20, 17:27:16](https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has) - [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
 * [2022-10-20, 17:15:47](https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns) - [Why it's called \"MagicDNS\" instead of \"Magic DNS\"](https://tailscale.com/blog/magicdns-why-name/)
 * [2022-10-20, 16:51:25](https://lobste.rs/s/7amjqw/bevel_command_line_history_sqlite) - [Bevel: Command line history in an SQLite database for effective re-use](https://github.com/NorfairKing/bevel)
 * [2022-10-20, 15:55:07](https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle) - [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
 * [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
-* [2022-10-20, 15:26:21](https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild) - [Kinesis Keyboard Rebuild](https://www.youtube.com/watch?v=ab1uCwgTTe0)
 * [2022-10-20, 14:46:00](https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer) - [Reverse Engineering the Apple MultiPeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
 * [2022-10-20, 14:02:23](https://lobste.rs/s/uxyx6d/computer_networks_systems_approach) - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
