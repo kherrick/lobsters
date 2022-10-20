@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-20, 21:13:19",
+      "https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems"
+    ],
+    [
+      "Oil 0.12.7 - Garbage Collector Problems",
+      "https://www.oilshell.org/blog/2022/10/garbage-collector.html"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 18:01:00",
       "https://lobste.rs/s/drjb5y/podcast_how_open_source_with_richard"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2022-10-20, 16:51:25",
-      "https://lobste.rs/s/7amjqw/bevel_command_line_history_sqlite"
-    ],
-    [
-      "Bevel: Command line history in an SQLite database for effective re-use",
-      "https://github.com/NorfairKing/bevel"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 15:55:07",
       "https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle"
     ],
@@ -57,6 +57,16 @@
     [
       "What does \"isomorphic\" mean (in Haskell)?",
       "https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 15:26:21",
+      "https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild"
+    ],
+    [
+      "Kinesis Keyboard Rebuild",
+      "https://www.youtube.com/watch?v=ab1uCwgTTe0"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message",
       "https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 16:40:57",
-      "https://lobste.rs/s/ff90xt/small_benchmark_for_functional"
-    ],
-    [
-      "A small benchmark for functional languages targeting web browsers",
-      "https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers"
     ]
   ],
   [
