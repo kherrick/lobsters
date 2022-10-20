@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 15:55:07](https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle) - [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
+* [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 * [2022-10-20, 15:26:21](https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild) - [Kinesis Keyboard Rebuild](https://www.youtube.com/watch?v=ab1uCwgTTe0)
 * [2022-10-20, 14:55:43](https://lobste.rs/s/gwegxo/how_make_mock_api_server_javascript) - [How to make a mock API server in JavaScript](https://snyk.io/blog/how-to-mock-api-server-javascript/)
 * [2022-10-20, 14:46:00](https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer) - [Reverse Engineering the Apple MultiPeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
@@ -20,10 +22,8 @@
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
 * [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 * [2022-10-19, 16:35:46](https://lobste.rs/s/exmdxa/stop_writing_dead_programs) - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
-* [2022-10-19, 14:56:09](https://lobste.rs/s/gts52d/feasibility_pledge_on_linux) - [The feasibility of pledge() on Linux](https://blog.gnoack.org/post/pledge-on-linux/)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
-* [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 
 ## [Archives](archives/index.md)
