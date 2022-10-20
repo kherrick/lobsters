@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-20](index.md)
 
+* [2022-10-20, 17:27:16](https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has) - [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
 * [2022-10-20, 17:15:47](https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns) - [Why it's called \"MagicDNS\" instead of \"Magic DNS\"](https://tailscale.com/blog/magicdns-why-name/)
 * [2022-10-20, 16:51:25](https://lobste.rs/s/7amjqw/bevel_command_line_history_sqlite) - [Bevel: Command line history in an SQLite database for effective re-use](https://github.com/NorfairKing/bevel)
 * [2022-10-20, 15:55:07](https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle) - [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
