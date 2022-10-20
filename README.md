@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 11:06:52](https://lobste.rs/s/amncmq/rust_like_traits_c) - [Rust-like traits in C++](https://dragly.org/2018/04/21/rust-like-traits-in-cpp/)
 * [2022-10-20, 05:51:38](https://lobste.rs/s/ym3fba/state_css_2022) - [State of CSS 2022](https://web.dev/state-of-css-2022/)
 * [2022-10-20, 03:53:53](https://lobste.rs/s/j3fdtm/antix_22_released) - [antiX-22 released](https://antixlinux.com/antix-22-released/)
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
@@ -9,7 +10,6 @@
 * [2022-10-19, 20:29:05](https://lobste.rs/s/l0dozn/unix_pipe_card_game) - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2022-10-19, 20:19:47](https://lobste.rs/s/lr6ghx/contrasting_intel_amx_apple_amx) - [Contrasting Intel AMX and Apple AMX](http://www.corsix.org/content/contrasting-intel-amx-and-apple-amx)
 * [2022-10-19, 20:19:31](https://lobste.rs/s/kt7ztd/ahkpm_autohotkey_package_manager) - [ahkpm - The AutoHotKey Package Manager](https://github.com/joshuacc/ahkpm)
-* [2022-10-19, 20:13:34](https://lobste.rs/s/bq7lyq/non_euclidean_geometry_games_2019) - [Non-Euclidean geometry and games (2019)](https://zenorogue.scribe.rip/non-euclidean-geometry-and-games-fb46989320d4)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
 * [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
