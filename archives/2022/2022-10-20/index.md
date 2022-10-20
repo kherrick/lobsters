@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-20](index.md)
 
+* [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
 * [2022-10-20, 14:02:23](https://lobste.rs/s/uxyx6d/computer_networks_systems_approach) - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 * [2022-10-20, 13:53:36](https://lobste.rs/s/vojk2t/mystery_355_113_2010) - [The Mystery of 355/113 (2010)](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
 * [2022-10-20, 13:40:38](https://lobste.rs/s/d7wizl/text_generation_with_grammar_lispe) - [Text Generation with a Grammar in LispE](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
