@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-20, 17:27:16",
+      "https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has"
+    ],
+    [
+      "Eglot has landed on master: Emacs now has a built-in LSP client",
+      "https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 17:15:47",
       "https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns"
     ],
@@ -47,16 +57,6 @@
     [
       "Kinesis Keyboard Rebuild",
       "https://www.youtube.com/watch?v=ab1uCwgTTe0"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 14:55:43",
-      "https://lobste.rs/s/gwegxo/how_make_mock_api_server_javascript"
-    ],
-    [
-      "How to make a mock API server in JavaScript",
-      "https://snyk.io/blog/how-to-mock-api-server-javascript/"
     ]
   ],
   [
