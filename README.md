@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 12:17:22](https://lobste.rs/s/ojrpyv/we_are_still_early_with_cloud_why_software) - [We are still early with the cloud: why software development is overdue for a change](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
 * [2022-10-20, 11:06:52](https://lobste.rs/s/amncmq/rust_like_traits_c) - [Rust-like traits in C++](https://dragly.org/2018/04/21/rust-like-traits-in-cpp/)
 * [2022-10-20, 05:51:38](https://lobste.rs/s/ym3fba/state_css_2022) - [State of CSS 2022](https://web.dev/state-of-css-2022/)
 * [2022-10-20, 03:53:53](https://lobste.rs/s/j3fdtm/antix_22_released) - [antiX-22 released](https://antixlinux.com/antix-22-released/)
@@ -23,7 +24,6 @@
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 * [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 * [2022-10-18, 20:17:19](https://lobste.rs/s/v2fcp4/sound) - [Sound](https://ciechanow.ski/sound/)
-* [2022-10-18, 18:21:49](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game) - [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
 * [2022-10-18, 12:47:22](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games) - [Do you know any good programming games?](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 
 ## [Archives](archives/index.md)
