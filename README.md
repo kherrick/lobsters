@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 15:26:21](https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild) - [Kinesis Keyboard Rebuild](https://www.youtube.com/watch?v=ab1uCwgTTe0)
 * [2022-10-20, 14:55:43](https://lobste.rs/s/gwegxo/how_make_mock_api_server_javascript) - [How to make a mock API server in JavaScript](https://snyk.io/blog/how-to-mock-api-server-javascript/)
 * [2022-10-20, 14:46:00](https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer) - [Reverse Engineering the Apple MultiPeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
@@ -24,7 +25,6 @@
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 * [2022-10-19, 10:06:21](https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 * [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
-* [2022-10-19, 02:28:35](https://lobste.rs/s/4n0kz8/syntax_design) - [Syntax design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
 
 ## [Archives](archives/index.md)
 
