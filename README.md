@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-20, 17:15:47](https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns) - [Why it's called \"MagicDNS\" instead of \"Magic DNS\"](https://tailscale.com/blog/magicdns-why-name/)
+* [2022-10-20, 16:51:25](https://lobste.rs/s/7amjqw/bevel_command_line_history_sqlite) - [Bevel: Command line history in an SQLite database for effective re-use](https://github.com/NorfairKing/bevel)
 * [2022-10-20, 15:55:07](https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle) - [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
 * [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 * [2022-10-20, 15:26:21](https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild) - [Kinesis Keyboard Rebuild](https://www.youtube.com/watch?v=ab1uCwgTTe0)
@@ -16,7 +18,6 @@
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 * [2022-10-19, 21:05:34](https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock) - [What's the difference between a computer and a rock?](https://ahelwer.ca/post/2022-10-19-defining-computation/)
 * [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
-* [2022-10-19, 20:29:05](https://lobste.rs/s/l0dozn/unix_pipe_card_game) - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
 * [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
@@ -24,7 +25,6 @@
 * [2022-10-19, 16:35:46](https://lobste.rs/s/exmdxa/stop_writing_dead_programs) - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
-* [2022-10-19, 06:44:31](https://lobste.rs/s/fpikfk/trying_plasma_desktop_again) - [Trying Plasma Desktop again](https://blog.brixit.nl/trying-plasma-desktop-again/)
 
 ## [Archives](archives/index.md)
 
