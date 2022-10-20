@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-20, 15:55:07",
+      "https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle"
+    ],
+    [
+      "Is OpenStack fighting a lost battle?",
+      "https://memooo.ooo/posts/is-openstack-losing/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 15:37:24",
+      "https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell"
+    ],
+    [
+      "What does \"isomorphic\" mean (in Haskell)?",
+      "https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 15:26:21",
       "https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-19, 14:56:09",
-      "https://lobste.rs/s/gts52d/feasibility_pledge_on_linux"
-    ],
-    [
-      "The feasibility of pledge() on Linux",
-      "https://blog.gnoack.org/post/pledge-on-linux/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 13:19:37",
       "https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud"
     ],
@@ -227,16 +237,6 @@
     [
       "Why Linux Troubleshooting Advice Sucks",
       "https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 10:06:21",
-      "https://lobste.rs/s/ktpn8f/when_life_gives_you_lemons_write_better"
-    ],
-    [
-      "When life gives you lemons, write better error messages",
-      "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
     ]
   ],
   [
