@@ -14,6 +14,7 @@
 * [2022-10-19, 18:37:42](https://lobste.rs/s/dukvpv/look_at_vulkan_extensions_venus) - [A look at Vulkan extensions in Venus](https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/)
 * [2022-10-19, 17:56:31](https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper) - [RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message](https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html)
 * [2022-10-19, 17:26:16](https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft) - [Keynote: Formal Methods at Microsoft - Nikolaj Bjørner](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
+* [2022-10-19, 17:26:16](https://lobste.rs/s/udzsaa/formal_methods_at_microsoft) - [Formal Methods at Microsoft](https://www.youtube.com/watch?v=GEsvGGp0jyQ)
 * [2022-10-19, 16:40:57](https://lobste.rs/s/ff90xt/small_benchmark_for_functional) - [A small benchmark for functional languages targeting web browsers](https://gergo.erdi.hu/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers)
 * [2022-10-19, 16:37:38](https://lobste.rs/s/nvnehr/programming_as_play) - [Programming as play](https://austinhenley.com/blog/programmingasplay.html)
 * [2022-10-19, 16:35:46](https://lobste.rs/s/exmdxa/stop_writing_dead_programs) - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
