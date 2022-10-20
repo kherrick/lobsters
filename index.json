@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-20, 03:53:53",
+      "https://lobste.rs/s/j3fdtm/antix_22_released"
+    ],
+    [
+      "antiX-22 released",
+      "https://antixlinux.com/antix-22-released/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 03:52:41",
+      "https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad"
+    ],
+    [
+      "EasyList is in trouble and so are many ad blockers",
+      "https://adguard.com/en/blog/easylist-filter-problem-help.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 02:19:03",
+      "https://lobste.rs/s/diyzqd/chokuretsu_rom_hacking_challenges_part_1"
+    ],
+    [
+      "Chokuretsu ROM Hacking Challenges Part 1 – Cracking a Compression Algorithm",
+      "https://haroohie.club/blog/2022-10-19-chokuretsu-compression/"
+    ]
+  ],
+  [
+    [
       "2022-10-19, 21:05:34",
       "https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-10-19, 18:37:42",
-      "https://lobste.rs/s/dukvpv/look_at_vulkan_extensions_venus"
-    ],
-    [
-      "A look at Vulkan extensions in Venus",
-      "https://www.collabora.com/news-and-blog/blog/2022/10/19/a-look-at-vulkan-extensions-in-venus/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 17:56:31",
       "https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper"
     ],
@@ -92,10 +112,10 @@
   [
     [
       "2022-10-19, 17:26:16",
-      "https://lobste.rs/s/udzsaa/keynote_formal_methods_at_microsoft"
+      "https://lobste.rs/s/udzsaa/formal_methods_at_microsoft"
     ],
     [
-      "Keynote: Formal Methods at Microsoft - Nikolaj Bjørner",
+      "Formal Methods at Microsoft",
       "https://www.youtube.com/watch?v=GEsvGGp0jyQ"
     ]
   ],
@@ -177,26 +197,6 @@
     [
       "When life gives you lemons, write better error messages",
       "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 09:29:58",
-      "https://lobste.rs/s/b0efj3/exploratory_data_analysis_for"
-    ],
-    [
-      "Exploratory Data Analysis for Cybersecurity Intrusion Detection",
-      "https://github.com/guillaume-chevalier/EDA-for-Cybersecurity-Intrusion-Detection-KDD-Cup-99"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 08:20:41",
-      "https://lobste.rs/s/inszgt/tree_search_haskell"
-    ],
-    [
-      "Tree search in Haskell",
-      "https://blog.plover.com/prog/haskell/lazy-search.html"
     ]
   ],
   [
