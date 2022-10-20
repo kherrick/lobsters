@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-20, 17:15:47",
+      "https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns"
+    ],
+    [
+      "Why it's called \"MagicDNS\" instead of \"Magic DNS\"",
+      "https://tailscale.com/blog/magicdns-why-name/"
+    ]
+  ],
+  [
+    [
+      "2022-10-20, 16:51:25",
+      "https://lobste.rs/s/7amjqw/bevel_command_line_history_sqlite"
+    ],
+    [
+      "Bevel: Command line history in an SQLite database for effective re-use",
+      "https://github.com/NorfairKing/bevel"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 15:55:07",
       "https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-19, 20:29:05",
-      "https://lobste.rs/s/l0dozn/unix_pipe_card_game"
-    ],
-    [
-      "The UNIX Pipe Card Game",
-      "https://punkx.org/unix-pipe-game/"
-    ]
-  ],
-  [
-    [
       "2022-10-19, 19:25:59",
       "https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Linux Troubleshooting Advice Sucks",
       "https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 06:44:31",
-      "https://lobste.rs/s/fpikfk/trying_plasma_desktop_again"
-    ],
-    [
-      "Trying Plasma Desktop again",
-      "https://blog.brixit.nl/trying-plasma-desktop-again/"
     ]
   ]
 ]
