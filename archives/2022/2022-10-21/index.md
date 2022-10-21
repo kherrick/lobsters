@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:59:37](https://lobste.rs/s/fjjexg/magic_template_methods) - [Magic template methods](https://www.theabstraction.space/p/magic-template-methods)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
