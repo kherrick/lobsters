@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-21, 14:15:27",
+      "https://lobste.rs/s/yojntk/breaking_down_system_layer"
+    ],
+    [
+      "Breaking Down the System Layer",
+      "https://synit.org/book/system-layer.html"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 13:28:18",
       "https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust-like traits in C++",
       "https://dragly.org/2018/04/21/rust-like-traits-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 05:51:38",
-      "https://lobste.rs/s/ym3fba/state_css_2022"
-    ],
-    [
-      "State of CSS 2022",
-      "https://web.dev/state-of-css-2022/"
     ]
   ],
   [
