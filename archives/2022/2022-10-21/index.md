@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 18:16:56](https://lobste.rs/s/sjf5gt/look_across_pond_comparison_between_ghc) - [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 * [2022-10-21, 18:09:57](https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn) - [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)

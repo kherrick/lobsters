@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 18:16:56](https://lobste.rs/s/sjf5gt/look_across_pond_comparison_between_ghc) - [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 * [2022-10-21, 18:09:57](https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn) - [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
@@ -24,7 +25,6 @@
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
-* [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
 
 ## [Archives](archives/index.md)
 
