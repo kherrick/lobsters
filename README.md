@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 12:02:58](https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module) - [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
 * [2022-10-21, 10:34:49](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend)
@@ -19,7 +20,6 @@
 * [2022-10-20, 13:40:38](https://lobste.rs/s/d7wizl/text_generation_with_grammar_lispe) - [Text Generation with a Grammar in LispE](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
 * [2022-10-20, 12:17:22](https://lobste.rs/s/ojrpyv/we_are_still_early_with_cloud_why_software) - [We are still early with the cloud: why software development is overdue for a change](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
 * [2022-10-20, 11:06:52](https://lobste.rs/s/amncmq/rust_like_traits_c) - [Rust-like traits in C++](https://dragly.org/2018/04/21/rust-like-traits-in-cpp/)
-* [2022-10-20, 05:51:38](https://lobste.rs/s/ym3fba/state_css_2022) - [State of CSS 2022](https://web.dev/state-of-css-2022/)
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 * [2022-10-19, 21:05:34](https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock) - [What's the difference between a computer and a rock?](https://ahelwer.ca/post/2022-10-19-defining-computation/)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
