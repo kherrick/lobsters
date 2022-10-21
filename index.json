@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-21, 21:10:54",
+      "https://lobste.rs/s/vyaxdo/commodordion"
+    ],
+    [
+      "The Commodordion",
+      "https://linusakesson.net/commodordion/index.php"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 20:59:37",
+      "https://lobste.rs/s/fjjexg/magic_template_methods"
+    ],
+    [
+      "Magic template methods",
+      "https://www.theabstraction.space/p/magic-template-methods"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 20:13:29",
       "https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-10-20, 15:55:07",
-      "https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle"
-    ],
-    [
-      "Is OpenStack fighting a lost battle?",
-      "https://memooo.ooo/posts/is-openstack-losing/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 15:37:24",
       "https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell"
     ],
@@ -237,16 +247,6 @@
     [
       "EasyList is in trouble and so are many ad blockers",
       "https://adguard.com/en/blog/easylist-filter-problem-help.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 19:25:59",
-      "https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos"
-    ],
-    [
-      "That Time I Tried Porting Zig to SerenityOS",
-      "https://sin-ack.github.io/posts/sycl-talk-20221007/"
     ]
   ]
 ]
