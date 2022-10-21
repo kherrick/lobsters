@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
 * [2022-10-21, 07:46:14](https://lobste.rs/s/2ezkvy/brewing_microservices_property_based) - [Brewing Microservices | Property-Based Testing](https://filibuster.transistor.fm/episodes/property-based-testing)
 * [2022-10-21, 06:52:33](https://lobste.rs/s/awougm/sha_3_buffer_overflow) - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
-* [2022-10-21, 00:20:09](https://lobste.rs/s/59psky/some_undocumented_changes_go_1_18_1_19) - [Some Undocumented Changes in Go 1.18 and 1.19](https://go101.org/blog/2022-08-22-some-undocumented-changes-in-go-1.18-and-1.19.html)
 * [2022-10-20, 21:13:19](https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems) - [Oil 0.12.7 - Garbage Collector Problems](https://www.oilshell.org/blog/2022/10/garbage-collector.html)
 * [2022-10-20, 18:01:00](https://lobste.rs/s/drjb5y/podcast_how_open_source_with_richard) - [[podcast] How to Open Source with Richard Schneeman](https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/)
 * [2022-10-20, 17:27:16](https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has) - [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
