@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-21, 14:48:01",
+      "https://lobste.rs/s/jnzmyk/history_fpga"
+    ],
+    [
+      "The History of the FPGA",
+      "https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 14:37:53",
+      "https://lobste.rs/s/sl9e3z/howie_post_incident_guide"
+    ],
+    [
+      "Howie: The Post-Incident Guide",
+      "https://www.jeli.io/howie/welcome"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 14:15:27",
       "https://lobste.rs/s/yojntk/breaking_down_system_layer"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-20, 14:02:23",
-      "https://lobste.rs/s/uxyx6d/computer_networks_systems_approach"
-    ],
-    [
-      "Computer Networks: A Systems Approach",
-      "https://book.systemsapproach.org/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 13:53:36",
       "https://lobste.rs/s/vojk2t/mystery_355_113_2010"
     ],
@@ -187,16 +197,6 @@
     [
       "We are still early with the cloud: why software development is overdue for a change",
       "https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 11:06:52",
-      "https://lobste.rs/s/amncmq/rust_like_traits_c"
-    ],
-    [
-      "Rust-like traits in C++",
-      "https://dragly.org/2018/04/21/rust-like-traits-in-cpp/"
     ]
   ],
   [
