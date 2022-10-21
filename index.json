@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-21, 07:46:14",
+      "https://lobste.rs/s/2ezkvy/brewing_microservices_property_based"
+    ],
+    [
+      "Brewing Microservices | Property-Based Testing",
+      "https://filibuster.transistor.fm/episodes/property-based-testing"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 06:52:33",
       "https://lobste.rs/s/awougm/sha_3_buffer_overflow"
     ],
@@ -197,16 +207,6 @@
     [
       "That Time I Tried Porting Zig to SerenityOS",
       "https://sin-ack.github.io/posts/sycl-talk-20221007/"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 17:56:31",
-      "https://lobste.rs/s/mvg8lq/rfc_xxxx_asynchronous_rock_paper"
-    ],
-    [
-      "RFC XXXX: Asynchronous Rock-Paper-Scissors over Instant Message",
-      "https://flisk.xyz/rfc-xxxx-asynchronous-rock-paper-scissors-over-instant-message.html"
     ]
   ],
   [
