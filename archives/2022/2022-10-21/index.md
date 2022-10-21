@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 12:02:58](https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module) - [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
 * [2022-10-21, 10:34:49](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)

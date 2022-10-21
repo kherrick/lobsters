@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 12:02:58](https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module) - [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
 * [2022-10-21, 10:34:49](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
@@ -21,7 +22,6 @@
 * [2022-10-20, 05:51:38](https://lobste.rs/s/ym3fba/state_css_2022) - [State of CSS 2022](https://web.dev/state-of-css-2022/)
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 * [2022-10-19, 21:05:34](https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock) - [What's the difference between a computer and a rock?](https://ahelwer.ca/post/2022-10-19-defining-computation/)
-* [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
 * [2022-10-19, 19:25:59](https://lobste.rs/s/zon0fi/time_i_tried_porting_zig_serenityos) - [That Time I Tried Porting Zig to SerenityOS](https://sin-ack.github.io/posts/sycl-talk-20221007/)
 * [2022-10-19, 13:19:37](https://lobste.rs/s/9b0y0f/why_we_re_leaving_cloud) - [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
 * [2022-10-19, 11:18:55](https://lobste.rs/s/k4cbht/why_linux_troubleshooting_advice_sucks) - [Why Linux Troubleshooting Advice Sucks](https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html)
