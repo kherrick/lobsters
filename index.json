@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-21, 00:20:09",
+      "https://lobste.rs/s/59psky/some_undocumented_changes_go_1_18_1_19"
+    ],
+    [
+      "Some Undocumented Changes in Go 1.18 and 1.19",
+      "https://go101.org/blog/2022-08-22-some-undocumented-changes-in-go-1.18-and-1.19.html"
+    ]
+  ],
+  [
+    [
       "2022-10-20, 21:13:19",
       "https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems"
     ],
@@ -57,16 +67,6 @@
     [
       "What does \"isomorphic\" mean (in Haskell)?",
       "https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 15:26:21",
-      "https://lobste.rs/s/1nc2mi/kinesis_keyboard_rebuild"
-    ],
-    [
-      "Kinesis Keyboard Rebuild",
-      "https://www.youtube.com/watch?v=ab1uCwgTTe0"
     ]
   ],
   [
