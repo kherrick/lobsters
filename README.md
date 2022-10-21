@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 06:52:33](https://lobste.rs/s/awougm/sha_3_buffer_overflow) - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 * [2022-10-21, 00:20:09](https://lobste.rs/s/59psky/some_undocumented_changes_go_1_18_1_19) - [Some Undocumented Changes in Go 1.18 and 1.19](https://go101.org/blog/2022-08-22-some-undocumented-changes-in-go-1.18-and-1.19.html)
 * [2022-10-20, 21:13:19](https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems) - [Oil 0.12.7 - Garbage Collector Problems](https://www.oilshell.org/blog/2022/10/garbage-collector.html)
 * [2022-10-20, 18:01:00](https://lobste.rs/s/drjb5y/podcast_how_open_source_with_richard) - [[podcast] How to Open Source with Richard Schneeman](https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/)
@@ -15,7 +16,6 @@
 * [2022-10-20, 12:17:22](https://lobste.rs/s/ojrpyv/we_are_still_early_with_cloud_why_software) - [We are still early with the cloud: why software development is overdue for a change](https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html)
 * [2022-10-20, 11:06:52](https://lobste.rs/s/amncmq/rust_like_traits_c) - [Rust-like traits in C++](https://dragly.org/2018/04/21/rust-like-traits-in-cpp/)
 * [2022-10-20, 05:51:38](https://lobste.rs/s/ym3fba/state_css_2022) - [State of CSS 2022](https://web.dev/state-of-css-2022/)
-* [2022-10-20, 03:53:53](https://lobste.rs/s/j3fdtm/antix_22_released) - [antiX-22 released](https://antixlinux.com/antix-22-released/)
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 * [2022-10-19, 21:05:34](https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock) - [What's the difference between a computer and a rock?](https://ahelwer.ca/post/2022-10-19-defining-computation/)
 * [2022-10-19, 20:34:39](https://lobste.rs/s/hey1ud/markdown_runnable_notebooks_w_vs_code) - [markdown -> runnable notebooks w/ VS Code](http://runme.dev)
