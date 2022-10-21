@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-10-21, 18:38:18",
+      "https://lobste.rs/s/nxetk4/deepfake_phishing"
+    ],
+    [
+      "Deepfake phishing",
+      "https://www.jefftk.com/p/deepfake-phishing"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 18:16:56",
+      "https://lobste.rs/s/sjf5gt/look_across_pond_comparison_between_ghc"
+    ],
+    [
+      "A look across the pond: a comparison between GHC and Racket compilation models",
+      "https://www.youtube.com/watch?v=H0ATppFmt2o"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 18:09:57",
+      "https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn"
+    ],
+    [
+      "[CVE-2022-1786] A Journey To The Dawn",
+      "https://blog.kylebot.net/2022/10/16/CVE-2022-1786/"
+    ]
+  ],
+  [
+    [
+      "2022-10-21, 18:09:03",
+      "https://lobste.rs/s/rwz81y/canary_kernel_mine_exploiting_defending"
+    ],
+    [
+      "Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse",
+      "https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 14:48:01",
       "https://lobste.rs/s/jnzmyk/history_fpga"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-10-20, 18:01:00",
-      "https://lobste.rs/s/drjb5y/podcast_how_open_source_with_richard"
-    ],
-    [
-      "[podcast] How to Open Source with Richard Schneeman",
-      "https://www.hexdevs.com/posts/how-to-open-source-with-richard-schneeman-schneems/"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 17:27:16",
       "https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has"
     ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2022-10-20, 13:40:38",
-      "https://lobste.rs/s/d7wizl/text_generation_with_grammar_lispe"
-    ],
-    [
-      "Text Generation with a Grammar in LispE",
-      "https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 12:17:22",
-      "https://lobste.rs/s/ojrpyv/we_are_still_early_with_cloud_why_software"
-    ],
-    [
-      "We are still early with the cloud: why software development is overdue for a change",
-      "https://erikbern.com/2022/10/19/we-are-still-early-with-the-cloud.html"
-    ]
-  ],
-  [
-    [
       "2022-10-20, 03:52:41",
       "https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad"
     ],
     [
       "EasyList is in trouble and so are many ad blockers",
       "https://adguard.com/en/blog/easylist-filter-problem-help.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-19, 21:05:34",
-      "https://lobste.rs/s/pyyowl/what_s_difference_between_computer_rock"
-    ],
-    [
-      "What's the difference between a computer and a rock?",
-      "https://ahelwer.ca/post/2022-10-19-defining-computation/"
     ]
   ],
   [
