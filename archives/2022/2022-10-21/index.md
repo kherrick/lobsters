@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 23:16:46](https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath) - [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
+* [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:59:37](https://lobste.rs/s/fjjexg/magic_template_methods) - [Magic template methods](https://www.theabstraction.space/p/magic-template-methods)

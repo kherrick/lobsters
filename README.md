@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 23:16:46](https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath) - [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
+* [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:59:37](https://lobste.rs/s/fjjexg/magic_template_methods) - [Magic template methods](https://www.theabstraction.space/p/magic-template-methods)
@@ -20,10 +22,8 @@
 * [2022-10-21, 06:52:33](https://lobste.rs/s/awougm/sha_3_buffer_overflow) - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 * [2022-10-20, 21:13:19](https://lobste.rs/s/1jcvjk/oil_0_12_7_garbage_collector_problems) - [Oil 0.12.7 - Garbage Collector Problems](https://www.oilshell.org/blog/2022/10/garbage-collector.html)
 * [2022-10-20, 17:27:16](https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has) - [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
-* [2022-10-20, 17:15:47](https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns) - [Why it's called \"MagicDNS\" instead of \"Magic DNS\"](https://tailscale.com/blog/magicdns-why-name/)
 * [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
-* [2022-10-20, 13:53:36](https://lobste.rs/s/vojk2t/mystery_355_113_2010) - [The Mystery of 355/113 (2010)](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
 * [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 
 ## [Archives](archives/index.md)
