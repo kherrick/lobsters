@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-21, 12:02:58](https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module) - [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
 * [2022-10-21, 10:34:49](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
@@ -11,7 +12,6 @@
 * [2022-10-20, 17:15:47](https://lobste.rs/s/eov1ny/why_it_s_called_magicdns_instead_magic_dns) - [Why it's called \"MagicDNS\" instead of \"Magic DNS\"](https://tailscale.com/blog/magicdns-why-name/)
 * [2022-10-20, 15:55:07](https://lobste.rs/s/ueboqk/is_openstack_fighting_lost_battle) - [Is OpenStack fighting a lost battle?](https://memooo.ooo/posts/is-openstack-losing/)
 * [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
-* [2022-10-20, 14:46:00](https://lobste.rs/s/toz2pe/reverse_engineering_apple_multipeer) - [Reverse Engineering the Apple MultiPeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
 * [2022-10-20, 14:02:23](https://lobste.rs/s/uxyx6d/computer_networks_systems_approach) - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 * [2022-10-20, 13:53:36](https://lobste.rs/s/vojk2t/mystery_355_113_2010) - [The Mystery of 355/113 (2010)](http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html)
