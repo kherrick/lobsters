@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 14:48:01](https://lobste.rs/s/jnzmyk/history_fpga) - [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35)
+* [2022-10-21, 14:37:53](https://lobste.rs/s/sl9e3z/howie_post_incident_guide) - [Howie: The Post-Incident Guide](https://www.jeli.io/howie/welcome)
 * [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 12:02:58](https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module) - [LeanQt - Network and Concurrent module release, planned feature set reached](https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21)
