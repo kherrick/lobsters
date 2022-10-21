@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-21](index.md)
 
+* [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
+* [2022-10-21, 20:59:37](https://lobste.rs/s/fjjexg/magic_template_methods) - [Magic template methods](https://www.theabstraction.space/p/magic-template-methods)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
 * [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
