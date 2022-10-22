@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 23:18:00](https://lobste.rs/s/7jmpc2/discmaster_deep_faceted_search_94m) - [DiscMaster: Deep faceted search of 94M vintage computer files](http://discmaster.textfiles.com)
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 19:25:39](https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering) - [Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
@@ -21,7 +22,6 @@
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
 * [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
-* [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
