@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-22, 07:35:54",
+      "https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state"
+    ],
+    [
+      "Designing Logic Systems Using State Machines by Christopher R. Clare",
+      "https://archive.org/details/designinglogicsystemsusingstatemachines"
+    ]
+  ],
+  [
+    [
+      "2022-10-22, 07:26:51",
+      "https://lobste.rs/s/zqqbzr/prefer_core_language_features_over"
+    ],
+    [
+      "Prefer core-language features over library facilities",
+      "https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 05:58:13",
       "https://lobste.rs/s/fgfxvu/risc_2022"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-21, 12:02:58",
-      "https://lobste.rs/s/4tgwpl/leanqt_network_concurrent_module"
-    ],
-    [
-      "LeanQt - Network and Concurrent module release, planned feature set reached",
-      "https://github.com/rochus-keller/LeanQt/releases/tag/2022-10-21"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 10:34:49",
       "https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Eglot has landed on master: Emacs now has a built-in LSP client",
       "https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 14:11:59",
-      "https://lobste.rs/s/8majeg/openbsd_7_2_release"
-    ],
-    [
-      "OpenBSD 7.2 Release",
-      "https://www.openbsd.org/72.html"
     ]
   ]
 ]
