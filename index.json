@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-22, 13:55:11",
+      "https://lobste.rs/s/z8f8uc/minor_gotcha_open_2"
+    ],
+    [
+      "A minor gotcha in open(2)",
+      "https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 12:21:14",
       "https://lobste.rs/s/hibtvt/litestream_making_single_node"
     ],
@@ -137,16 +147,6 @@
     [
       "A look across the pond: a comparison between GHC and Racket compilation models",
       "https://www.youtube.com/watch?v=H0ATppFmt2o"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 18:09:57",
-      "https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn"
-    ],
-    [
-      "[CVE-2022-1786] A Journey To The Dawn",
-      "https://blog.kylebot.net/2022/10/16/CVE-2022-1786/"
     ]
   ],
   [
