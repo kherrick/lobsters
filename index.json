@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-22, 20:49:30",
+      "https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting"
+    ],
+    [
+      "Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers",
+      "https://github.com/JuliaPoo/Artfuscator"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 19:25:39",
       "https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering"
     ],
@@ -237,16 +247,6 @@
     [
       "Back to Ubuntu: Linux dual-boot, but cheaper",
       "https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 06:52:33",
-      "https://lobste.rs/s/awougm/sha_3_buffer_overflow"
-    ],
-    [
-      "SHA-3 Buffer Overflow",
-      "https://mouha.be/sha-3-buffer-overflow/"
     ]
   ]
 ]
