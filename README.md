@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 19:25:39](https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering) - [Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2022-10-22, 17:35:02](https://lobste.rs/s/x9ooy4/search_for_correct_amount_split_lock) - [The search for the correct amount of split-lock misery](https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/)
@@ -24,7 +25,6 @@
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
-* [2022-10-21, 06:52:33](https://lobste.rs/s/awougm/sha_3_buffer_overflow) - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)
 
 ## [Archives](archives/index.md)
 
