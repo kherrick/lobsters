@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-22, 01:15:03",
+      "https://lobste.rs/s/fvbryd/how_fpga_came_be"
+    ],
+    [
+      "How the FPGA Came to Be",
+      "https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/"
+    ]
+  ],
+  [
+    [
       "2022-10-21, 23:16:46",
       "https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenBSD 7.2 Release",
       "https://www.openbsd.org/72.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-20, 03:52:41",
-      "https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad"
-    ],
-    [
-      "EasyList is in trouble and so are many ad blockers",
-      "https://adguard.com/en/blog/easylist-filter-problem-help.html"
     ]
   ]
 ]
