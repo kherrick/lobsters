@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 01:15:03](https://lobste.rs/s/fvbryd/how_fpga_came_be) - [How the FPGA Came to Be](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/)
 * [2022-10-21, 23:16:46](https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath) - [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
 * [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
@@ -24,7 +25,6 @@
 * [2022-10-20, 17:27:16](https://lobste.rs/s/xcojdk/eglot_has_landed_on_master_emacs_now_has) - [Eglot has landed on master: Emacs now has a built-in LSP client](https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html)
 * [2022-10-20, 15:37:24](https://lobste.rs/s/qzpy3w/what_does_isomorphic_mean_haskell) - [What does \"isomorphic\" mean (in Haskell)?](https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html)
 * [2022-10-20, 14:11:59](https://lobste.rs/s/8majeg/openbsd_7_2_release) - [OpenBSD 7.2 Release](https://www.openbsd.org/72.html)
-* [2022-10-20, 03:52:41](https://lobste.rs/s/xat33i/easylist_is_trouble_so_are_many_ad) - [EasyList is in trouble and so are many ad blockers](https://adguard.com/en/blog/easylist-filter-problem-help.html)
 
 ## [Archives](archives/index.md)
 
