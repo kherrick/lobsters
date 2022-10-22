@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-22, 12:21:14",
+      "https://lobste.rs/s/hibtvt/litestream_making_single_node"
+    ],
+    [
+      "Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)",
+      "https://www.youtube.com/watch?v=drgriZCRyrQ"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 07:35:54",
       "https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state"
     ],
@@ -137,16 +147,6 @@
     [
       "[CVE-2022-1786] A Journey To The Dawn",
       "https://blog.kylebot.net/2022/10/16/CVE-2022-1786/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 18:09:03",
-      "https://lobste.rs/s/rwz81y/canary_kernel_mine_exploiting_defending"
-    ],
-    [
-      "Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse",
-      "https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse"
     ]
   ],
   [
