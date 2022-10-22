@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-22](index.md)
 
+* [2022-10-22, 12:21:14](https://lobste.rs/s/hibtvt/litestream_making_single_node) - [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)](https://www.youtube.com/watch?v=drgriZCRyrQ)
 * [2022-10-22, 07:35:54](https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state) - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
 * [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)

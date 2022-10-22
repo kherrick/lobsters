@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 12:21:14](https://lobste.rs/s/hibtvt/litestream_making_single_node) - [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)](https://www.youtube.com/watch?v=drgriZCRyrQ)
 * [2022-10-22, 07:35:54](https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state) - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
 * [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
@@ -14,7 +15,6 @@
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 18:16:56](https://lobste.rs/s/sjf5gt/look_across_pond_comparison_between_ghc) - [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 * [2022-10-21, 18:09:57](https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn) - [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
-* [2022-10-21, 18:09:03](https://lobste.rs/s/rwz81y/canary_kernel_mine_exploiting_defending) - [Canary in the Kernel Mine: Exploiting and Defending Against Same-Type Object Reuse](https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse)
 * [2022-10-21, 14:48:01](https://lobste.rs/s/jnzmyk/history_fpga) - [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35)
 * [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
