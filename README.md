@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 04:46:46](https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400) - [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
 * [2022-10-22, 01:15:03](https://lobste.rs/s/fvbryd/how_fpga_came_be) - [How the FPGA Came to Be](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/)
 * [2022-10-21, 23:16:46](https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath) - [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
 * [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
-* [2022-10-21, 20:59:37](https://lobste.rs/s/fjjexg/magic_template_methods) - [Magic template methods](https://www.theabstraction.space/p/magic-template-methods)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
 * [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
