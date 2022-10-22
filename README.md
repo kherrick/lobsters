@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 17:35:02](https://lobste.rs/s/x9ooy4/search_for_correct_amount_split_lock) - [The search for the correct amount of split-lock misery](https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/)
+* [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
 * [2022-10-22, 16:30:43](https://lobste.rs/s/mdkp9f/sticky_mark_bit_algorithm) - [The sticky mark-bit algorithm](https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 * [2022-10-22, 16:15:45](https://lobste.rs/s/vnbq23/linux_what_can_you_epoll) - [Linux: What can you epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
@@ -10,7 +12,6 @@
 * [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
 * [2022-10-22, 04:46:46](https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400) - [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
-* [2022-10-22, 01:15:03](https://lobste.rs/s/fvbryd/how_fpga_came_be) - [How the FPGA Came to Be](https://www.eejournal.com/article/how-the-fpga-came-to-be-part-1/)
 * [2022-10-21, 23:16:46](https://lobste.rs/s/o3xlzj/ziglibc_sweeping_out_rug_from_underneath) - [Ziglibc: Sweeping out the rug from underneath C](https://youtu.be/1N85yU6RMcY)
 * [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:23:48](https://lobste.rs/s/jcousj/concatenative_programming_from_ivory) - [Concatenative Programming: From Ivory to Metal](https://www.youtube.com/watch?v=_IgqJr8jG8M)
@@ -20,7 +21,6 @@
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
-* [2022-10-21, 10:34:49](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dly1ml/what_are_you_doing_this_weekend)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
 * [2022-10-21, 06:52:33](https://lobste.rs/s/awougm/sha_3_buffer_overflow) - [SHA-3 Buffer Overflow](https://mouha.be/sha-3-buffer-overflow/)

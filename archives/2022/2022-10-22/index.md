@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-22](index.md)
 
+* [2022-10-22, 17:35:02](https://lobste.rs/s/x9ooy4/search_for_correct_amount_split_lock) - [The search for the correct amount of split-lock misery](https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/)
+* [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
 * [2022-10-22, 16:30:43](https://lobste.rs/s/mdkp9f/sticky_mark_bit_algorithm) - [The sticky mark-bit algorithm](https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 * [2022-10-22, 16:15:45](https://lobste.rs/s/vnbq23/linux_what_can_you_epoll) - [Linux: What can you epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
