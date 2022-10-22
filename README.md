@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
 * [2022-10-22, 12:21:14](https://lobste.rs/s/hibtvt/litestream_making_single_node) - [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)](https://www.youtube.com/watch?v=drgriZCRyrQ)
 * [2022-10-22, 07:35:54](https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state) - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
 * [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
@@ -14,7 +15,6 @@
 * [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 18:16:56](https://lobste.rs/s/sjf5gt/look_across_pond_comparison_between_ghc) - [A look across the pond: a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
-* [2022-10-21, 18:09:57](https://lobste.rs/s/y7wn8s/cve_2022_1786_journey_dawn) - [[CVE-2022-1786] A Journey To The Dawn](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
 * [2022-10-21, 14:48:01](https://lobste.rs/s/jnzmyk/history_fpga) - [The History of the FPGA](https://www.youtube.com/watch?v=m-8G1Yixb34&list=PLKtxx9TnH76RiptUQ22iDGxNewdxjI6Xh&index=35)
 * [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
