@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-22, 19:25:39](https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering) - [Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2022-10-22, 17:35:02](https://lobste.rs/s/x9ooy4/search_for_correct_amount_split_lock) - [The search for the correct amount of split-lock misery](https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/)
 * [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
@@ -19,7 +20,6 @@
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
 * [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
-* [2022-10-21, 18:38:18](https://lobste.rs/s/nxetk4/deepfake_phishing) - [Deepfake phishing](https://www.jefftk.com/p/deepfake-phishing)
 * [2022-10-21, 14:15:27](https://lobste.rs/s/yojntk/breaking_down_system_layer) - [Breaking Down the System Layer](https://synit.org/book/system-layer.html)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 10:30:13](https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for) - [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
