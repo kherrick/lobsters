@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-23, 09:55:13](https://lobste.rs/s/pvvuvr/tiny_optional_replacement_for_std) - [tiny-optional: Replacement for std::optional that does not unnecessarily waste memory](https://github.com/Sedeniono/tiny-optional)
 * [2022-10-23, 08:39:08](https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image) - [Leveraging 'shot-scraper' and creating image diffs](https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/)
 * [2022-10-23, 08:31:45](https://lobste.rs/s/hohxag/searchable_pod_logs_on_kubernetes) - [Searchable Pod Logs on Kubernetes in Minutes - DZone Cloud](https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes)
 * [2022-10-23, 07:36:59](https://lobste.rs/s/3xrqkm/speaking_up_for_sass) - [Speaking up for Sass](https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/)
@@ -10,7 +11,6 @@
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 19:25:39](https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering) - [Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-* [2022-10-22, 17:35:02](https://lobste.rs/s/x9ooy4/search_for_correct_amount_split_lock) - [The search for the correct amount of split-lock misery](https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/)
 * [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
 * [2022-10-22, 16:30:43](https://lobste.rs/s/mdkp9f/sticky_mark_bit_algorithm) - [The sticky mark-bit algorithm](https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)

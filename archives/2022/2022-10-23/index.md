@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-23](index.md)
 
+* [2022-10-23, 09:55:13](https://lobste.rs/s/pvvuvr/tiny_optional_replacement_for_std) - [tiny-optional: Replacement for std::optional that does not unnecessarily waste memory](https://github.com/Sedeniono/tiny-optional)
 * [2022-10-23, 08:39:08](https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image) - [Leveraging 'shot-scraper' and creating image diffs](https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/)
 * [2022-10-23, 08:31:45](https://lobste.rs/s/hohxag/searchable_pod_logs_on_kubernetes) - [Searchable Pod Logs on Kubernetes in Minutes - DZone Cloud](https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes)
 * [2022-10-23, 07:36:59](https://lobste.rs/s/3xrqkm/speaking_up_for_sass) - [Speaking up for Sass](https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/)
