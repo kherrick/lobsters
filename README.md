@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 * [2022-10-23, 17:36:43](https://lobste.rs/s/svsxmn/unity_desktop_2022_trick_nostalgia_real) - [The Unity desktop in 2022 - A trick of nostalgia or the real deal?](https://www.dedoimedo.com/computers/unity-desktop-2022.html)
 * [2022-10-23, 15:57:00](https://lobste.rs/s/yfmqvm/big_data_storage) - [Big Data Storage](https://berthub.eu/articles/posts/big-data-storage/)
 * [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
@@ -21,7 +22,6 @@
 * [2022-10-22, 16:15:45](https://lobste.rs/s/vnbq23/linux_what_can_you_epoll) - [Linux: What can you epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
 * [2022-10-22, 16:02:16](https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival) - [Roguelike Celebration 2022: a festival about roguelike game design and procedural generation](https://www.roguelike.club)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
-* [2022-10-22, 07:35:54](https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state) - [Designing Logic Systems Using State Machines by Christopher R. Clare](https://archive.org/details/designinglogicsystemsusingstatemachines)
 * [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
 * [2022-10-22, 04:46:46](https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400) - [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)

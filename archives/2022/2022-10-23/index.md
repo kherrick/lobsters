@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-23](index.md)
 
+* [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 * [2022-10-23, 17:36:43](https://lobste.rs/s/svsxmn/unity_desktop_2022_trick_nostalgia_real) - [The Unity desktop in 2022 - A trick of nostalgia or the real deal?](https://www.dedoimedo.com/computers/unity-desktop-2022.html)
 * [2022-10-23, 15:57:00](https://lobste.rs/s/yfmqvm/big_data_storage) - [Big Data Storage](https://berthub.eu/articles/posts/big-data-storage/)
 * [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
