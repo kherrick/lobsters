@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-23, 22:05:47",
+      "https://lobste.rs/s/vbkamn/programming_language_comparison_by"
+    ],
+    [
+      "Programming language comparison by reimplementing the same transit data app",
+      "https://github.com/losvedir/transit-lang-cmp"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 17:36:43",
       "https://lobste.rs/s/svsxmn/unity_desktop_2022_trick_nostalgia_real"
     ],
@@ -207,16 +217,6 @@
     [
       "A minor gotcha in open(2)",
       "https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 07:35:54",
-      "https://lobste.rs/s/hhlp2q/designing_logic_systems_using_state"
-    ],
-    [
-      "Designing Logic Systems Using State Machines by Christopher R. Clare",
-      "https://archive.org/details/designinglogicsystemsusingstatemachines"
     ]
   ],
   [
