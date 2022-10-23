@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-23, 02:01:08",
+      "https://lobste.rs/s/aypdkj/on_coordinated_omission"
+    ],
+    [
+      "On Coordinated Omission",
+      "https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission"
+    ]
+  ],
+  [
+    [
+      "2022-10-23, 00:13:16",
+      "https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1"
+    ],
+    [
+      "Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals",
+      "https://jhalon.github.io/chrome-browser-exploitation-1/"
+    ]
+  ],
+  [
+    [
       "2022-10-22, 23:18:00",
       "https://lobste.rs/s/7jmpc2/discmaster_deep_faceted_search_94m"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-21, 21:23:48",
-      "https://lobste.rs/s/jcousj/concatenative_programming_from_ivory"
-    ],
-    [
-      "Concatenative Programming: From Ivory to Metal",
-      "https://www.youtube.com/watch?v=_IgqJr8jG8M"
-    ]
-  ],
-  [
-    [
       "2022-10-21, 21:10:54",
       "https://lobste.rs/s/vyaxdo/commodordion"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop Optimizing for Tutorials",
       "https://matduggan.com/why-are-containers-insecure-by-default/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 10:30:13",
-      "https://lobste.rs/s/mf8nkq/http_crash_course_nobody_asked_for"
-    ],
-    [
-      "The HTTP crash course nobody asked for",
-      "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
     ]
   ],
   [
