@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-23](index.md)
 
+* [2022-10-23, 17:36:43](https://lobste.rs/s/svsxmn/unity_desktop_2022_trick_nostalgia_real) - [The Unity desktop in 2022 - A trick of nostalgia or the real deal?](https://www.dedoimedo.com/computers/unity-desktop-2022.html)
 * [2022-10-23, 15:57:00](https://lobste.rs/s/yfmqvm/big_data_storage) - [Big Data Storage](https://berthub.eu/articles/posts/big-data-storage/)
 * [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
 * [2022-10-23, 13:33:14](https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows) - [How Rust 1.64 Became 10-20% Faster On Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
