@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-23, 07:36:59",
+      "https://lobste.rs/s/3xrqkm/speaking_up_for_sass"
+    ],
+    [
+      "Speaking up for Sass",
+      "https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 07:08:07",
       "https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop Optimizing for Tutorials",
       "https://matduggan.com/why-are-containers-insecure-by-default/"
-    ]
-  ],
-  [
-    [
-      "2022-10-21, 07:53:42",
-      "https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper"
-    ],
-    [
-      "Back to Ubuntu: Linux dual-boot, but cheaper",
-      "https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html"
     ]
   ]
 ]
