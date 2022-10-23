@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-23](index.md)
 
+* [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
 * [2022-10-23, 13:33:14](https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows) - [How Rust 1.64 Became 10-20% Faster On Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
 * [2022-10-23, 09:55:13](https://lobste.rs/s/pvvuvr/tiny_optional_replacement_for_std) - [tiny-optional: Replacement for std::optional that does not unnecessarily waste memory](https://github.com/Sedeniono/tiny-optional)
 * [2022-10-23, 08:39:08](https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image) - [Leveraging 'shot-scraper' and creating image diffs](https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/)
