@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-23, 15:57:00",
+      "https://lobste.rs/s/yfmqvm/big_data_storage"
+    ],
+    [
+      "Big Data Storage",
+      "https://berthub.eu/articles/posts/big-data-storage/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 14:57:36",
       "https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework"
     ],
@@ -187,16 +197,6 @@
     [
       "A minor gotcha in open(2)",
       "https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 12:21:14",
-      "https://lobste.rs/s/hibtvt/litestream_making_single_node"
-    ],
-    [
-      "Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)",
-      "https://www.youtube.com/watch?v=drgriZCRyrQ"
     ]
   ],
   [
