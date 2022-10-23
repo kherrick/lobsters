@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-10-23](index.md)
+
+* [2022-10-23, 02:01:08](https://lobste.rs/s/aypdkj/on_coordinated_omission) - [On Coordinated Omission](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
+* [2022-10-23, 00:13:16](https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1) - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
