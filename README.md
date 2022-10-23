@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-23, 07:08:07](https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000) - [A Last Gasp of 2D: The Cave CV1000](https://nicole.express/2022/games-made-in-a-cave.html)
 * [2022-10-23, 02:01:08](https://lobste.rs/s/aypdkj/on_coordinated_omission) - [On Coordinated Omission](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
 * [2022-10-23, 00:13:16](https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1) - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
 * [2022-10-22, 23:18:00](https://lobste.rs/s/7jmpc2/discmaster_deep_faceted_search_94m) - [DiscMaster: Deep faceted search of 94M vintage computer files](http://discmaster.textfiles.com)
@@ -22,7 +23,6 @@
 * [2022-10-21, 22:42:28](https://lobste.rs/s/c3pzyi/look_under_hood_new_student_loan_debt) - [A look under the hood of the new student loan debt relief application](https://adhoc.team/2022/10/21/student-loan-debt-application/)
 * [2022-10-21, 21:10:54](https://lobste.rs/s/vyaxdo/commodordion) - [The Commodordion](https://linusakesson.net/commodordion/index.php)
 * [2022-10-21, 20:13:29](https://lobste.rs/s/gzkgho/how_gas_app_cut_its_redis_engine_cpu) - [How Gas app cut its Redis Engine CPU Utilization by 80%](https://twitter.com/daveschatz/status/1583342175005220864)
-* [2022-10-21, 19:43:50](https://lobste.rs/s/ubntug/blending_modes) - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 * [2022-10-21, 13:28:18](https://lobste.rs/s/uhwecb/stop_optimizing_for_tutorials) - [Stop Optimizing for Tutorials](https://matduggan.com/why-are-containers-insecure-by-default/)
 * [2022-10-21, 07:53:42](https://lobste.rs/s/e5mivw/back_ubuntu_linux_dual_boot_cheaper) - [Back to Ubuntu: Linux dual-boot, but cheaper](https://linus.schreibt.jetzt/posts/switch-root-dual-boot.html)
 
