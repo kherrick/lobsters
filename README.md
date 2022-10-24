@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
 * [2022-10-24, 20:36:56](https://lobste.rs/s/mqy2xe/defense_depth_limit_outgoing_connection) - [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
 * [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 19:00:57](https://lobste.rs/s/n04zrk/parking_at_munich_airport_awful) - [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
@@ -23,7 +24,6 @@
 * [2022-10-24, 01:38:37](https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc) - [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 * [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
-* [2022-10-23, 13:33:14](https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows) - [How Rust 1.64 Became 10-20% Faster On Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 
 ## [Archives](archives/index.md)
