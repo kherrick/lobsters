@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-24, 17:13:34",
+      "https://lobste.rs/s/8yjlpb/7_redis_interview_questions_job_seekers"
+    ],
+    [
+      "7 Redis Interview Questions Job-Seekers Should Be Ready to Answer",
+      "https://redis.com/blog/redis-interview-questions/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 17:04:55",
+      "https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers"
+    ],
+    [
+      "How Fuzzy are Your Fuzzers?",
+      "https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 16:00:13",
       "https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-23, 15:57:00",
-      "https://lobste.rs/s/yfmqvm/big_data_storage"
-    ],
-    [
-      "Big Data Storage",
-      "https://berthub.eu/articles/posts/big-data-storage/"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 14:57:36",
       "https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework"
     ],
@@ -207,16 +217,6 @@
     [
       "How Rust 1.64 Became 10-20% Faster On Windows",
       "https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 08:39:08",
-      "https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image"
-    ],
-    [
-      "Leveraging 'shot-scraper' and creating image diffs",
-      "https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/"
     ]
   ],
   [
