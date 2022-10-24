@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 * [2022-10-24, 06:26:22](https://lobste.rs/s/bdue7f/ink_react_for_tui) - [Ink: React for TUI](https://github.com/vadimdemedes/ink)
 * [2022-10-24, 06:01:11](https://lobste.rs/s/9s0jwy/argument_for_self_modifying) - [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)

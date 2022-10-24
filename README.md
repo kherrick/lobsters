@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 * [2022-10-24, 06:26:22](https://lobste.rs/s/bdue7f/ink_react_for_tui) - [Ink: React for TUI](https://github.com/vadimdemedes/ink)
 * [2022-10-24, 06:01:11](https://lobste.rs/s/9s0jwy/argument_for_self_modifying) - [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
@@ -21,7 +22,6 @@
 * [2022-10-23, 07:08:07](https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000) - [A Last Gasp of 2D: The Cave CV1000](https://nicole.express/2022/games-made-in-a-cave.html)
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-* [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
