@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 13:02:12",
+      "https://lobste.rs/s/eedi86/significant_garbage_collection"
+    ],
+    [
+      "Significant Garbage Collection Improvement For Emacs",
+      "https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 12:58:34",
       "https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week"
     ],
@@ -177,16 +187,6 @@
     [
       "How Rust 1.64 Became 10-20% Faster On Windows",
       "https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 09:55:13",
-      "https://lobste.rs/s/pvvuvr/tiny_optional_replacement_for_std"
-    ],
-    [
-      "tiny-optional: Replacement for std::optional that does not unnecessarily waste memory",
-      "https://github.com/Sedeniono/tiny-optional"
     ]
   ],
   [
