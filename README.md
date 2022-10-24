@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 * [2022-10-24, 06:26:22](https://lobste.rs/s/bdue7f/ink_react_for_tui) - [Ink: React for TUI](https://github.com/vadimdemedes/ink)
@@ -24,7 +25,6 @@
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
-* [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
 
 ## [Archives](archives/index.md)
 
