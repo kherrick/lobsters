@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 23:11:51](https://lobste.rs/s/cd50yz/exploitation_contributors_enough) - [Exploitation of Contributors: Enough Already](https://reibase.rs/blog/exploitation-of-contributors.html)
 * [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
