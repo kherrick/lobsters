@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 21:21:43",
+      "https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment"
+    ],
+    [
+      "Emacs: A welcoming experiment",
+      "https://xenodium.com/emacs-a-welcoming-experiment/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 20:57:36",
       "https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra"
     ],
@@ -237,16 +247,6 @@
     [
       "We've released Textual 0.2.0, a TUI framework for Python",
       "https://www.textualize.io/blog/posts/textual-0-point-2-point-0"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 18:38:36",
-      "https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture"
-    ],
-    [
-      "Visual Studio Code is designed to fracture",
-      "https://ghuntley.com/fracture/"
     ]
   ]
 ]
