@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2022-10-23, 02:01:08",
+      "https://lobste.rs/s/aypdkj/on_coordinated_omission"
+    ],
+    [
+      "On Coordinated Omission",
+      "https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 00:13:16",
       "https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1"
     ],
@@ -217,16 +227,6 @@
     [
       "A minor gotcha in open(2)",
       "https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 07:26:51",
-      "https://lobste.rs/s/zqqbzr/prefer_core_language_features_over"
-    ],
-    [
-      "Prefer core-language features over library facilities",
-      "https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/"
     ]
   ],
   [
