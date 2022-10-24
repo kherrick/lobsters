@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
 * [2022-10-24, 20:36:56](https://lobste.rs/s/mqy2xe/defense_depth_limit_outgoing_connection) - [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
 * [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
