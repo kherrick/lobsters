@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
@@ -7,7 +8,6 @@
 * [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 19:00:57](https://lobste.rs/s/n04zrk/parking_at_munich_airport_awful) - [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
-* [2022-10-24, 18:35:01](https://lobste.rs/s/8uis5q/attacking_very_weak_rc4_like_ciphers_hard) - [Attacking Very Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
 * [2022-10-24, 17:58:05](https://lobste.rs/s/gmxg82/what_work_looks_like) - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 * [2022-10-24, 17:04:55](https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers) - [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
 * [2022-10-24, 16:00:13](https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released) - [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
