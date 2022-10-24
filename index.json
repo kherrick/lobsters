@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 07:49:08",
+      "https://lobste.rs/s/bsd0ys/encapsulation_functional_programming"
+    ],
+    [
+      "Encapsulation in Functional Programming",
+      "https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 06:26:22",
       "https://lobste.rs/s/bdue7f/ink_react_for_tui"
     ],
@@ -187,16 +197,6 @@
     [
       "Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers",
       "https://github.com/JuliaPoo/Artfuscator"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 19:25:39",
-      "https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering"
-    ],
-    [
-      "Style performance and concurrent rendering",
-      "https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/"
     ]
   ],
   [
