@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 06:26:22](https://lobste.rs/s/bdue7f/ink_react_for_tui) - [Ink: React for TUI](https://github.com/vadimdemedes/ink)
+* [2022-10-24, 06:01:11](https://lobste.rs/s/9s0jwy/argument_for_self_modifying) - [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-24, 03:20:45](https://lobste.rs/s/p5jouc/hashing_on_two_inputs) - [Hashing on Two Inputs](https://ender314.com/?p=106)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
@@ -16,13 +18,11 @@
 * [2022-10-23, 08:31:45](https://lobste.rs/s/hohxag/searchable_pod_logs_on_kubernetes) - [Searchable Pod Logs on Kubernetes in Minutes - DZone Cloud](https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes)
 * [2022-10-23, 07:36:59](https://lobste.rs/s/3xrqkm/speaking_up_for_sass) - [Speaking up for Sass](https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/)
 * [2022-10-23, 07:08:07](https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000) - [A Last Gasp of 2D: The Cave CV1000](https://nicole.express/2022/games-made-in-a-cave.html)
-* [2022-10-23, 00:13:16](https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1) - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 19:25:39](https://lobste.rs/s/lsnxys/style_performance_concurrent_rendering) - [Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
 * [2022-10-22, 17:17:58](https://lobste.rs/s/dyh8fw/nim_2_nimconf_2022) - [Nim 2 (NimConf 2022)](https://youtu.be/aDi50K_Id_k)
 * [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
-* [2022-10-22, 16:02:16](https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival) - [Roguelike Celebration 2022: a festival about roguelike game design and procedural generation](https://www.roguelike.club)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
 
