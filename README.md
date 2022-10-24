@@ -11,6 +11,7 @@
 * [2022-10-23, 08:31:45](https://lobste.rs/s/hohxag/searchable_pod_logs_on_kubernetes) - [Searchable Pod Logs on Kubernetes in Minutes - DZone Cloud](https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes)
 * [2022-10-23, 07:36:59](https://lobste.rs/s/3xrqkm/speaking_up_for_sass) - [Speaking up for Sass](https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/)
 * [2022-10-23, 07:08:07](https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000) - [A Last Gasp of 2D: The Cave CV1000](https://nicole.express/2022/games-made-in-a-cave.html)
+* [2022-10-23, 02:01:08](https://lobste.rs/s/aypdkj/on_coordinated_omission) - [On Coordinated Omission](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
 * [2022-10-23, 00:13:16](https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1) - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
 * [2022-10-22, 23:18:00](https://lobste.rs/s/7jmpc2/discmaster_deep_faceted_search_94m) - [DiscMaster: Deep faceted search of 94M vintage computer files](http://discmaster.textfiles.com)
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
@@ -22,7 +23,6 @@
 * [2022-10-22, 16:15:45](https://lobste.rs/s/vnbq23/linux_what_can_you_epoll) - [Linux: What can you epoll?](https://darkcoding.net/software/linux-what-can-you-epoll/)
 * [2022-10-22, 16:02:16](https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival) - [Roguelike Celebration 2022: a festival about roguelike game design and procedural generation](https://www.roguelike.club)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
-* [2022-10-22, 07:26:51](https://lobste.rs/s/zqqbzr/prefer_core_language_features_over) - [Prefer core-language features over library facilities](https://quuxplusone.github.io/blog/2022/10/16/prefer-core-over-library/)
 * [2022-10-22, 05:58:13](https://lobste.rs/s/fgfxvu/risc_2022) - [RISC In 2022](https://wiki.alopex.li/RiscIn2022)
 * [2022-10-22, 04:46:46](https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400) - [Refurb weekend: PowerBook 1400](https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html)
 
