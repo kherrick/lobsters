@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 22:17:07",
+      "https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now"
+    ],
+    [
+      "Python Insider: Python 3.11.0 is now available",
+      "https://blog.python.org/2022/10/python-3110-is-now-available.html"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 21:21:43",
       "https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment"
     ],
@@ -177,16 +187,6 @@
     [
       "Encapsulation in Functional Programming",
       "https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 06:26:22",
-      "https://lobste.rs/s/bdue7f/ink_react_for_tui"
-    ],
-    [
-      "Ink: React for TUI",
-      "https://github.com/vadimdemedes/ink"
     ]
   ],
   [
