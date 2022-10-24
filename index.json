@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 23:11:51",
+      "https://lobste.rs/s/cd50yz/exploitation_contributors_enough"
+    ],
+    [
+      "Exploitation of Contributors: Enough Already",
+      "https://reibase.rs/blog/exploitation-of-contributors.html"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 22:55:36",
       "https://lobste.rs/s/epvxfq/how_make_roguelike_2018"
     ],
@@ -187,16 +197,6 @@
     [
       "Encapsulation in Functional Programming",
       "https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 06:01:11",
-      "https://lobste.rs/s/9s0jwy/argument_for_self_modifying"
-    ],
-    [
-      "An argument for self-modifying applications",
-      "https://macoy.me/blog/programming/SelfModifyingApplications"
     ]
   ],
   [
