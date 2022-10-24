@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-24, 06:26:22",
+      "https://lobste.rs/s/bdue7f/ink_react_for_tui"
+    ],
+    [
+      "Ink: React for TUI",
+      "https://github.com/vadimdemedes/ink"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 06:01:11",
+      "https://lobste.rs/s/9s0jwy/argument_for_self_modifying"
+    ],
+    [
+      "An argument for self-modifying applications",
+      "https://macoy.me/blog/programming/SelfModifyingApplications"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 03:24:29",
       "https://lobste.rs/s/gragzr/how_clipboard_works"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-23, 00:13:16",
-      "https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1"
-    ],
-    [
-      "Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals",
-      "https://jhalon.github.io/chrome-browser-exploitation-1/"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 20:49:30",
       "https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting"
     ],
@@ -217,16 +227,6 @@
     [
       "Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not",
       "https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:02:16",
-      "https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival"
-    ],
-    [
-      "Roguelike Celebration 2022: a festival about roguelike game design and procedural generation",
-      "https://www.roguelike.club"
     ]
   ],
   [
