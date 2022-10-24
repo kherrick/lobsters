@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-24, 03:24:29",
+      "https://lobste.rs/s/gragzr/how_clipboard_works"
+    ],
+    [
+      "How the clipboard works",
+      "https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 03:20:45",
+      "https://lobste.rs/s/p5jouc/hashing_on_two_inputs"
+    ],
+    [
+      "Hashing on Two Inputs",
+      "https://ender314.com/?p=106"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 02:50:25",
+      "https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust"
+    ],
+    [
+      "Buffers on the edge: Python and Rust",
+      "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 02:29:51",
+      "https://lobste.rs/s/d1emw2/one_on_device_neural_engine_by_samsung"
+    ],
+    [
+      "ONE: On-device Neural Engine (by Samsung)",
+      "https://github.com/Samsung/ONE"
+    ]
+  ],
+  [
+    [
+      "2022-10-24, 01:38:37",
+      "https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc"
+    ],
+    [
+      "Debugging C With Cosmopolitan Libc",
+      "https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/"
+    ]
+  ],
+  [
+    [
       "2022-10-23, 22:32:26",
       "https://lobste.rs/s/wfp7oa/bazel_build_system_introduction_for_java"
     ],
@@ -111,32 +161,12 @@
   ],
   [
     [
-      "2022-10-23, 02:01:08",
-      "https://lobste.rs/s/aypdkj/on_coordinated_omission"
-    ],
-    [
-      "On Coordinated Omission",
-      "https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission"
-    ]
-  ],
-  [
-    [
       "2022-10-23, 00:13:16",
       "https://lobste.rs/s/h6kbes/chrome_browser_exploitation_part_1"
     ],
     [
       "Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals",
       "https://jhalon.github.io/chrome-browser-exploitation-1/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 23:18:00",
-      "https://lobste.rs/s/7jmpc2/discmaster_deep_faceted_search_94m"
-    ],
-    [
-      "DiscMaster: Deep faceted search of 94M vintage computer files",
-      "http://discmaster.textfiles.com"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2022-10-22, 16:30:43",
-      "https://lobste.rs/s/mdkp9f/sticky_mark_bit_algorithm"
-    ],
-    [
-      "The sticky mark-bit algorithm",
-      "https://wingolog.org/archives/2022/10/22/the-sticky-mark-bit-algorithm"
-    ]
-  ],
-  [
-    [
       "2022-10-22, 16:16:05",
       "https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse"
     ],
     [
       "Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not",
       "https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 16:15:45",
-      "https://lobste.rs/s/vnbq23/linux_what_can_you_epoll"
-    ],
-    [
-      "Linux: What can you epoll?",
-      "https://darkcoding.net/software/linux-what-can-you-epoll/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "RISC In 2022",
       "https://wiki.alopex.li/RiscIn2022"
-    ]
-  ],
-  [
-    [
-      "2022-10-22, 04:46:46",
-      "https://lobste.rs/s/filohz/refurb_weekend_powerbook_1400"
-    ],
-    [
-      "Refurb weekend: PowerBook 1400",
-      "https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html"
     ]
   ]
 ]
