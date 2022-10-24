@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 17:13:34](https://lobste.rs/s/8yjlpb/7_redis_interview_questions_job_seekers) - [7 Redis Interview Questions Job-Seekers Should Be Ready to Answer](https://redis.com/blog/redis-interview-questions/)
+* [2022-10-24, 17:04:55](https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers) - [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
 * [2022-10-24, 16:00:13](https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released) - [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 * [2022-10-24, 15:18:46](https://lobste.rs/s/ooukjg/obtaining_statistical_properties_by) - [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
