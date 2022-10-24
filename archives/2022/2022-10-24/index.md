@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 20:36:56](https://lobste.rs/s/mqy2xe/defense_depth_limit_outgoing_connection) - [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
 * [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 19:00:57](https://lobste.rs/s/n04zrk/parking_at_munich_airport_awful) - [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
