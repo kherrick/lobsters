@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 19:00:57](https://lobste.rs/s/n04zrk/parking_at_munich_airport_awful) - [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
 * [2022-10-24, 18:35:01](https://lobste.rs/s/8uis5q/attacking_very_weak_rc4_like_ciphers_hard) - [Attacking Very Weak RC4-Like Ciphers the Hard Way](https://research.checkpoint.com/2022/attacking-very-weak-rc4-like-ciphers-the-hard-way/)
@@ -17,7 +18,6 @@
 * [2022-10-24, 06:26:22](https://lobste.rs/s/bdue7f/ink_react_for_tui) - [Ink: React for TUI](https://github.com/vadimdemedes/ink)
 * [2022-10-24, 06:01:11](https://lobste.rs/s/9s0jwy/argument_for_self_modifying) - [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
-* [2022-10-24, 03:20:45](https://lobste.rs/s/p5jouc/hashing_on_two_inputs) - [Hashing on Two Inputs](https://ender314.com/?p=106)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 * [2022-10-24, 01:38:37](https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc) - [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
