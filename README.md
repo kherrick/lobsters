@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 16:00:13](https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released) - [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 * [2022-10-24, 15:18:46](https://lobste.rs/s/ooukjg/obtaining_statistical_properties_by) - [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
 * [2022-10-24, 13:02:12](https://lobste.rs/s/eedi86/significant_garbage_collection) - [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
@@ -13,7 +14,6 @@
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-24, 03:20:45](https://lobste.rs/s/p5jouc/hashing_on_two_inputs) - [Hashing on Two Inputs](https://ender314.com/?p=106)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
-* [2022-10-24, 02:29:51](https://lobste.rs/s/d1emw2/one_on_device_neural_engine_by_samsung) - [ONE: On-device Neural Engine (by Samsung)](https://github.com/Samsung/ONE)
 * [2022-10-24, 01:38:37](https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc) - [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 * [2022-10-23, 22:32:26](https://lobste.rs/s/wfp7oa/bazel_build_system_introduction_for_java) - [Bazel Build System Introduction for Java](https://kracekumar.com/post/bazel-build-system-intro-for-java/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)

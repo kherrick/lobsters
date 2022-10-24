@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-24](index.md)
 
+* [2022-10-24, 16:00:13](https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released) - [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 * [2022-10-24, 15:18:46](https://lobste.rs/s/ooukjg/obtaining_statistical_properties_by) - [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
 * [2022-10-24, 13:02:12](https://lobste.rs/s/eedi86/significant_garbage_collection) - [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
