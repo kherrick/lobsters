@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-24, 12:58:34](https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week)
+* [2022-10-24, 12:31:11](https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time) - [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 * [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
@@ -18,12 +20,10 @@
 * [2022-10-23, 13:33:14](https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows) - [How Rust 1.64 Became 10-20% Faster On Windows](https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70)
 * [2022-10-23, 09:55:13](https://lobste.rs/s/pvvuvr/tiny_optional_replacement_for_std) - [tiny-optional: Replacement for std::optional that does not unnecessarily waste memory](https://github.com/Sedeniono/tiny-optional)
 * [2022-10-23, 08:39:08](https://lobste.rs/s/33rwoo/leveraging_shot_scraper_creating_image) - [Leveraging 'shot-scraper' and creating image diffs](https://usrme.xyz/posts/leveraging-shot-scraper-and-creating-image-diffs/)
-* [2022-10-23, 08:31:45](https://lobste.rs/s/hohxag/searchable_pod_logs_on_kubernetes) - [Searchable Pod Logs on Kubernetes in Minutes - DZone Cloud](https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes)
 * [2022-10-23, 07:36:59](https://lobste.rs/s/3xrqkm/speaking_up_for_sass) - [Speaking up for Sass](https://www.brycewray.com/posts/2021/04/speaking-up-for-sass/)
 * [2022-10-23, 07:08:07](https://lobste.rs/s/9x1nzo/last_gasp_2d_cave_cv1000) - [A Last Gasp of 2D: The Cave CV1000](https://nicole.express/2022/games-made-in-a-cave.html)
 * [2022-10-22, 20:49:30](https://lobste.rs/s/asqtlx/artfuscator_c_compiler_targeting) - [Artfuscator: A C compiler targeting an artistically pleasing nightmare for reverse engineers](https://github.com/JuliaPoo/Artfuscator)
 * [2022-10-22, 18:38:36](https://lobste.rs/s/ka3anc/visual_studio_code_is_designed_fracture) - [Visual Studio Code is designed to fracture](https://ghuntley.com/fracture/)
-* [2022-10-22, 16:16:05](https://lobste.rs/s/f6yrwp/starlink_signals_can_be_reverse) - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
 * [2022-10-22, 13:55:11](https://lobste.rs/s/z8f8uc/minor_gotcha_open_2) - [A minor gotcha in open(2)](https://nessuent.net/posts/2022-10-22_open2_mode_gotcha.html)
 
 ## [Archives](archives/index.md)
