@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-24, 20:57:36",
+      "https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra"
+    ],
+    [
+      "Windows Dev Kit 2023 aka Project Volterra",
+      "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/"
+    ]
+  ],
+  [
+    [
       "2022-10-24, 20:36:56",
       "https://lobste.rs/s/mqy2xe/defense_depth_limit_outgoing_connection"
     ],
@@ -227,16 +237,6 @@
     [
       "We've released Textual 0.2.0, a TUI framework for Python",
       "https://www.textualize.io/blog/posts/textual-0-point-2-point-0"
-    ]
-  ],
-  [
-    [
-      "2022-10-23, 13:33:14",
-      "https://lobste.rs/s/5wv4n7/how_rust_1_64_became_10_20_faster_on_windows"
-    ],
-    [
-      "How Rust 1.64 Became 10-20% Faster On Windows",
-      "https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70"
     ]
   ],
   [
