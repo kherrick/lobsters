@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-24, 23:11:51](https://lobste.rs/s/cd50yz/exploitation_contributors_enough) - [Exploitation of Contributors: Enough Already](https://reibase.rs/blog/exploitation-of-contributors.html)
 * [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
@@ -20,6 +19,7 @@
 * [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
+* [2022-10-24, 06:01:11](https://lobste.rs/s/9s0jwy/argument_for_self_modifying) - [An argument for self-modifying applications](https://macoy.me/blog/programming/SelfModifyingApplications)
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 * [2022-10-24, 01:38:37](https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc) - [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
