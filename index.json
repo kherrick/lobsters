@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-25, 16:13:21",
+      "https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so"
+    ],
+    [
+      "Time is an illusion, Unix time doubly so",
+      "https://www.netmeister.org/blog/epoch.html"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 15:05:39",
       "https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next"
     ],
@@ -67,16 +77,6 @@
     [
       "Funding the vetting of the Software Supply-Chain",
       "https://blog.majid.info/supply-chain-vetting/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 07:13:06",
-      "https://lobste.rs/s/2ghppy/nmos_6502_phantom_reads_odd_yellowstone"
-    ],
-    [
-      "NMOS 6502 Phantom Reads, Odd Yellowstone Bugs",
-      "https://www.bigmessowires.com/2022/10/23/nmos-6502-phantom-reads-odd-yellowstone-bugs/"
     ]
   ],
   [
