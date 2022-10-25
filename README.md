@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
 * [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
@@ -22,7 +23,6 @@
 * [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
-* [2022-10-24, 01:38:37](https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc) - [Debugging C With Cosmopolitan Libc](https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 * [2022-10-23, 14:57:36](https://lobste.rs/s/iadsvb/we_ve_released_textual_0_2_0_tui_framework) - [We've released Textual 0.2.0, a TUI framework for Python](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
 
