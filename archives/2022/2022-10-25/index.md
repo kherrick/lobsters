@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
 * [2022-10-25, 20:01:42](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team) - [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413)
 * [2022-10-25, 19:47:54](https://lobste.rs/s/yyvthe/accessing_qemu_storage_features_without) - [Accessing QEMU storage features without a VM](https://lwn.net/SubscriberLink/911281/bf6208d2a55f040a/)
