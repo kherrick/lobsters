@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
+* [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 17:02:23](https://lobste.rs/s/wivfps/software_isomorphisms) - [Software Isomorphisms](https://buttondown.email/hillelwayne/archive/software-isomorphisms/)
 * [2022-10-25, 16:13:21](https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so) - [Time is an illusion, Unix time doubly so](https://www.netmeister.org/blog/epoch.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
