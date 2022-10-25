@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 11:21:44](https://lobste.rs/s/ffn1gc/rudra_finding_memory_safety_bugs_rust_at) - [RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem Scale](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
@@ -7,6 +8,7 @@
 * [2022-10-25, 06:20:26](https://lobste.rs/s/irajov/memtest86plus_official_repo_for) - [memtest86plus: Official repo for Memtest86+ v6.00 (based on pcmemtest)](https://github.com/memtest86plus/memtest86plus)
 * [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
+* [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
@@ -17,13 +19,11 @@
 * [2022-10-24, 17:04:55](https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers) - [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
 * [2022-10-24, 16:00:13](https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released) - [IHP 1.0 has been released](https://ihp.digitallyinduced.com/blog/c479f341-1374-496a-96d6-7af647005b21-ihp-1-0)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
-* [2022-10-24, 15:18:46](https://lobste.rs/s/ooukjg/obtaining_statistical_properties_by) - [Obtaining Statistical Properties by Simulating TLA+ Specs with TLC](https://www.youtube.com/watch?v=cYenTPD7740&t=4s)
 * [2022-10-24, 13:02:12](https://lobste.rs/s/eedi86/significant_garbage_collection) - [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
 * [2022-10-24, 12:58:34](https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week)
 * [2022-10-24, 12:31:11](https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time) - [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 * [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
-* [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
 
 ## [Archives](archives/index.md)

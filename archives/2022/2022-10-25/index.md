@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 11:21:44](https://lobste.rs/s/ffn1gc/rudra_finding_memory_safety_bugs_rust_at) - [RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem Scale](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
