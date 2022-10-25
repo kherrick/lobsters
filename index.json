@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-25, 11:41:08",
+      "https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw"
+    ],
+    [
+      "Stranger Strings: An exploitable flaw in SQLite",
+      "https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 11:21:44",
       "https://lobste.rs/s/ffn1gc/rudra_finding_memory_safety_bugs_rust_at"
     ],
@@ -77,16 +87,6 @@
     [
       "Stop writing Twitter threads",
       "https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 22:55:36",
-      "https://lobste.rs/s/epvxfq/how_make_roguelike_2018"
-    ],
-    [
-      "How to Make a Roguelike (2018)",
-      "https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/"
     ]
   ],
   [
