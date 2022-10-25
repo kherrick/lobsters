@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 07:13:06](https://lobste.rs/s/2ghppy/nmos_6502_phantom_reads_odd_yellowstone) - [NMOS 6502 Phantom Reads, Odd Yellowstone Bugs](https://www.bigmessowires.com/2022/10/23/nmos-6502-phantom-reads-odd-yellowstone-bugs/)
 * [2022-10-25, 06:20:26](https://lobste.rs/s/irajov/memtest86plus_official_repo_for) - [memtest86plus: Official repo for Memtest86+ v6.00 (based on pcmemtest)](https://github.com/memtest86plus/memtest86plus)
 * [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
@@ -7,7 +8,6 @@
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
-* [2022-10-24, 20:36:56](https://lobste.rs/s/mqy2xe/defense_depth_limit_outgoing_connection) - [Defense in depth: limit outgoing connection part 1](https://www.buymeacoffee.com/betterdev/limit-outgoing-connection)
 * [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 19:00:57](https://lobste.rs/s/n04zrk/parking_at_munich_airport_awful) - [Parking at Munich Airport: An Awful Experience](https://embeddeduse.com/2022/10/24/parking-at-munich-airport-an-awful-experience/)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
