@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-25, 20:22:28",
+      "https://lobste.rs/s/9czcez/how_date_recording_using_background"
+    ],
+    [
+      "How to date a recording using background electrical noise",
+      "https://robertheaton.com/enf/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 20:01:42",
+      "https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team"
+    ],
+    [
+      "Another iterator proposal from the Go team",
+      "https://github.com/golang/go/discussions/56413"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 19:47:54",
       "https://lobste.rs/s/yyvthe/accessing_qemu_storage_features_without"
     ],
@@ -27,26 +47,6 @@
     [
       "Jevko: a minimal general-purpose syntax",
       "https://djedr.github.io/posts/jevko-2022-02-22.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 18:45:09",
-      "https://lobste.rs/s/5cjcwi/opentelemetry_demo_1_0_0"
-    ],
-    [
-      "OpenTelemetry Demo 1.0.0",
-      "https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 18:21:16",
-      "https://lobste.rs/s/5wlv2o/how_we_built_browser_language_server"
-    ],
-    [
-      "How We Built an In-Browser Language Server Using WASM",
-      "https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Software Isomorphisms",
       "https://buttondown.email/hillelwayne/archive/software-isomorphisms/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 16:13:21",
+      "https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so"
+    ],
+    [
+      "Time is an illusion, Unix time doubly so",
+      "https://www.netmeister.org/blog/epoch.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Emacs: A welcoming experiment",
       "https://xenodium.com/emacs-a-welcoming-experiment/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 20:57:36",
-      "https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra"
-    ],
-    [
-      "Windows Dev Kit 2023 aka Project Volterra",
-      "https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/"
     ]
   ],
   [
