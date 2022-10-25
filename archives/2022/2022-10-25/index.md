@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 18:45:09](https://lobste.rs/s/5cjcwi/opentelemetry_demo_1_0_0) - [OpenTelemetry Demo 1.0.0](https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0)
+* [2022-10-25, 18:21:16](https://lobste.rs/s/5wlv2o/how_we_built_browser_language_server) - [How We Built an In-Browser Language Server Using WASM](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
+* [2022-10-25, 18:20:12](https://lobste.rs/s/mvfcot/turbopack_rust_based_successor_webpack) - [Turbopack: Rust-based successor to Webpack](https://turbo.build)
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
 * [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 17:02:23](https://lobste.rs/s/wivfps/software_isomorphisms) - [Software Isomorphisms](https://buttondown.email/hillelwayne/archive/software-isomorphisms/)

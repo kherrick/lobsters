@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 18:45:09](https://lobste.rs/s/5cjcwi/opentelemetry_demo_1_0_0) - [OpenTelemetry Demo 1.0.0](https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0)
+* [2022-10-25, 18:21:16](https://lobste.rs/s/5wlv2o/how_we_built_browser_language_server) - [How We Built an In-Browser Language Server Using WASM](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
+* [2022-10-25, 18:20:12](https://lobste.rs/s/mvfcot/turbopack_rust_based_successor_webpack) - [Turbopack: Rust-based successor to Webpack](https://turbo.build)
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
 * [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 17:02:23](https://lobste.rs/s/wivfps/software_isomorphisms) - [Software Isomorphisms](https://buttondown.email/hillelwayne/archive/software-isomorphisms/)
@@ -11,8 +14,6 @@
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
-* [2022-10-25, 06:20:26](https://lobste.rs/s/irajov/memtest86plus_official_repo_for) - [memtest86plus: Official repo for Memtest86+ v6.00 (based on pcmemtest)](https://github.com/memtest86plus/memtest86plus)
-* [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
@@ -23,7 +24,6 @@
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 * [2022-10-24, 13:02:12](https://lobste.rs/s/eedi86/significant_garbage_collection) - [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
 * [2022-10-24, 12:31:11](https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time) - [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
-* [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 
 ## [Archives](archives/index.md)
