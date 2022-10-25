@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 16:13:21](https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so) - [Time is an illusion, Unix time doubly so](https://www.netmeister.org/blog/epoch.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 * [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
