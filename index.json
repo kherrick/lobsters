@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-25, 17:27:21",
+      "https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir"
+    ],
+    [
+      "Gleam v0.24 released with full Elixir support",
+      "https://gleam.run/news/gleam-v0.24-released/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 17:24:37",
+      "https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world"
+    ],
+    [
+      "Brave New Trusted Boot World",
+      "https://0pointer.de/blog/brave-new-trusted-boot-world.html"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 17:02:23",
       "https://lobste.rs/s/wivfps/software_isomorphisms"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-10-24, 17:04:55",
-      "https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers"
-    ],
-    [
-      "How Fuzzy are Your Fuzzers?",
-      "https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html"
-    ]
-  ],
-  [
-    [
       "2022-10-24, 16:00:13",
       "https://lobste.rs/s/xcu4vv/ihp_1_0_has_been_released"
     ],
@@ -207,16 +217,6 @@
     [
       "Significant Garbage Collection Improvement For Emacs",
       "https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 12:58:34",
-      "https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/vi2wfa/what_are_you_doing_this_week"
     ]
   ],
   [
