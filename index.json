@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-25, 05:39:26",
+      "https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next"
+    ],
+    [
+      "Industrial Strength Laziness: What's Next?",
+      "https://www.youtube.com/watch?v=2PGUt_dcHX0"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 02:07:58",
       "https://lobste.rs/s/imvlwv/stop_writing_twitter_threads"
     ],
@@ -217,16 +227,6 @@
     [
       "Buffers on the edge: Python and Rust",
       "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 01:38:37",
-      "https://lobste.rs/s/mljl6o/debugging_c_with_cosmopolitan_libc"
-    ],
-    [
-      "Debugging C With Cosmopolitan Libc",
-      "https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/"
     ]
   ],
   [
