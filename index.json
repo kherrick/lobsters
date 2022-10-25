@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-25, 19:47:54",
+      "https://lobste.rs/s/yyvthe/accessing_qemu_storage_features_without"
+    ],
+    [
+      "Accessing QEMU storage features without a VM",
+      "https://lwn.net/SubscriberLink/911281/bf6208d2a55f040a/"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 19:33:15",
       "https://lobste.rs/s/itbcbm/introducing_turbopack_rust_based"
     ],
@@ -227,16 +237,6 @@
     [
       "Significant Garbage Collection Improvement For Emacs",
       "https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 12:31:11",
-      "https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time"
-    ],
-    [
-      "How to correctly cache build-time dependencies using Nix",
-      "https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html"
     ]
   ],
   [
