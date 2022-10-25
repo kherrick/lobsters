@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
 * [2022-10-25, 07:13:06](https://lobste.rs/s/2ghppy/nmos_6502_phantom_reads_odd_yellowstone) - [NMOS 6502 Phantom Reads, Odd Yellowstone Bugs](https://www.bigmessowires.com/2022/10/23/nmos-6502-phantom-reads-odd-yellowstone-bugs/)
 * [2022-10-25, 06:20:26](https://lobste.rs/s/irajov/memtest86plus_official_repo_for) - [memtest86plus: Official repo for Memtest86+ v6.00 (based on pcmemtest)](https://github.com/memtest86plus/memtest86plus)
 * [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
@@ -21,7 +22,6 @@
 * [2022-10-24, 12:31:11](https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time) - [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 * [2022-10-24, 10:53:43](https://lobste.rs/s/4udhvz/programming_portals) - [Programming Portals](https://maggieappleton.com/programming-portals)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
-* [2022-10-24, 07:49:08](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming) - [Encapsulation in Functional Programming](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/)
 * [2022-10-24, 03:24:29](https://lobste.rs/s/gragzr/how_clipboard_works) - [How the clipboard works](https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/)
 * [2022-10-24, 02:50:25](https://lobste.rs/s/8ype4b/buffers_on_edge_python_rust) - [Buffers on the edge: Python and Rust](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/)
 * [2022-10-23, 22:05:47](https://lobste.rs/s/vbkamn/programming_language_comparison_by) - [Programming language comparison by reimplementing the same transit data app](https://github.com/losvedir/transit-lang-cmp)
