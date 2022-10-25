@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 19:47:54](https://lobste.rs/s/yyvthe/accessing_qemu_storage_features_without) - [Accessing QEMU storage features without a VM](https://lwn.net/SubscriberLink/911281/bf6208d2a55f040a/)
 * [2022-10-25, 19:33:15](https://lobste.rs/s/itbcbm/introducing_turbopack_rust_based) - [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://vercel.com/blog/turbopack)
 * [2022-10-25, 19:19:21](https://lobste.rs/s/xm6mm4/jevko_minimal_general_purpose_syntax) - [Jevko: a minimal general-purpose syntax](https://djedr.github.io/posts/jevko-2022-02-22.html)
 * [2022-10-25, 18:45:09](https://lobste.rs/s/5cjcwi/opentelemetry_demo_1_0_0) - [OpenTelemetry Demo 1.0.0](https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0)
@@ -23,7 +24,6 @@
 * [2022-10-24, 17:58:05](https://lobste.rs/s/gmxg82/what_work_looks_like) - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 * [2022-10-24, 13:02:12](https://lobste.rs/s/eedi86/significant_garbage_collection) - [Significant Garbage Collection Improvement For Emacs](https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream)
-* [2022-10-24, 12:31:11](https://lobste.rs/s/iwrdsu/how_correctly_cache_build_time) - [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 * [2022-10-24, 09:42:02](https://lobste.rs/s/yjpdsg/emacs_user_survey_2022) - [Emacs User Survey (2022)](https://emacssurvey.org/)
 
 ## [Archives](archives/index.md)
