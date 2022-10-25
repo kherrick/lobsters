@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 17:02:23](https://lobste.rs/s/wivfps/software_isomorphisms) - [Software Isomorphisms](https://buttondown.email/hillelwayne/archive/software-isomorphisms/)
 * [2022-10-25, 16:13:21](https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so) - [Time is an illusion, Unix time doubly so](https://www.netmeister.org/blog/epoch.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 * [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
@@ -14,7 +15,6 @@
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)
-* [2022-10-24, 19:56:17](https://lobste.rs/s/tn7imh/gooey) - [Gooey](https://gooey.abstract.properties/)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
 * [2022-10-24, 17:58:05](https://lobste.rs/s/gmxg82/what_work_looks_like) - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 * [2022-10-24, 17:04:55](https://lobste.rs/s/nxxpue/how_fuzzy_are_your_fuzzers) - [How Fuzzy are Your Fuzzers?](https://fitzgeraldnick.com/2022/10/24/how-fuzzy-are-your-fuzzers.html)
