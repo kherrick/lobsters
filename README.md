@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
 * [2022-10-25, 07:13:06](https://lobste.rs/s/2ghppy/nmos_6502_phantom_reads_odd_yellowstone) - [NMOS 6502 Phantom Reads, Odd Yellowstone Bugs](https://www.bigmessowires.com/2022/10/23/nmos-6502-phantom-reads-odd-yellowstone-bugs/)
 * [2022-10-25, 06:20:26](https://lobste.rs/s/irajov/memtest86plus_official_repo_for) - [memtest86plus: Official repo for Memtest86+ v6.00 (based on pcmemtest)](https://github.com/memtest86plus/memtest86plus)
 * [2022-10-25, 05:39:26](https://lobste.rs/s/gtmrum/industrial_strength_laziness_what_s_next) - [Industrial Strength Laziness: What's Next?](https://www.youtube.com/watch?v=2PGUt_dcHX0)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
-* [2022-10-24, 22:55:36](https://lobste.rs/s/epvxfq/how_make_roguelike_2018) - [How to Make a Roguelike (2018)](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 21:21:43](https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment) - [Emacs: A welcoming experiment](https://xenodium.com/emacs-a-welcoming-experiment/)
 * [2022-10-24, 20:57:36](https://lobste.rs/s/xxcuej/windows_dev_kit_2023_aka_project_volterra) - [Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/)

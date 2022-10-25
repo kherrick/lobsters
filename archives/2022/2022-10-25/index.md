@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 09:03:45](https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain) - [Funding the vetting of the Software Supply-Chain](https://blog.majid.info/supply-chain-vetting/)
 * [2022-10-25, 07:13:06](https://lobste.rs/s/2ghppy/nmos_6502_phantom_reads_odd_yellowstone) - [NMOS 6502 Phantom Reads, Odd Yellowstone Bugs](https://www.bigmessowires.com/2022/10/23/nmos-6502-phantom-reads-odd-yellowstone-bugs/)
