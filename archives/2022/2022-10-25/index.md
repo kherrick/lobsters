@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 19:33:15](https://lobste.rs/s/itbcbm/introducing_turbopack_rust_based) - [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://vercel.com/blog/turbopack)
+* [2022-10-25, 19:19:21](https://lobste.rs/s/xm6mm4/jevko_minimal_general_purpose_syntax) - [Jevko: a minimal general-purpose syntax](https://djedr.github.io/posts/jevko-2022-02-22.html)
 * [2022-10-25, 18:45:09](https://lobste.rs/s/5cjcwi/opentelemetry_demo_1_0_0) - [OpenTelemetry Demo 1.0.0](https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0)
 * [2022-10-25, 18:21:16](https://lobste.rs/s/5wlv2o/how_we_built_browser_language_server) - [How We Built an In-Browser Language Server Using WASM](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
 * [2022-10-25, 18:20:12](https://lobste.rs/s/mvfcot/turbopack_rust_based_successor_webpack) - [Turbopack: Rust-based successor to Webpack](https://turbo.build)
