@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 15:26:49",
+      "https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos"
+    ],
+    [
+      "GPU-accelerated Computing with Nanos Unikernels",
+      "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 14:18:14",
       "https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document"
     ],
@@ -97,16 +107,6 @@
     [
       "A deeper look into the GCC Rust front-end",
       "https://lwn.net/Articles/909887/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 00:25:10",
-      "https://lobste.rs/s/iuviji/rewriting_high_performance_vector"
-    ],
-    [
-      "Rewriting a high performance vector database in Rust",
-      "https://www.pinecone.io/learn/rust-rewrite/"
     ]
   ],
   [
