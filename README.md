@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 17:22:37](https://lobste.rs/s/ftsghj/programming_proving_agda) - [Programming and Proving in Agda](https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf)
+* [2022-10-26, 17:19:06](https://lobste.rs/s/chcllt/using_dependent_types_write_proofs) - [Using dependent types to write proofs in Haskell](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 * [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)
 * [2022-10-26, 15:44:52](https://lobste.rs/s/g2swg7/debugging_wine_with_lldb_vscode) - [Debugging Wine with LLDB and VSCode](https://werat.dev/blog/debugging-wine-with-lldb-and-vscode/)
 * [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
@@ -21,10 +23,8 @@
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
 * [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
-* [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
-* [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 
 ## [Archives](archives/index.md)
 
