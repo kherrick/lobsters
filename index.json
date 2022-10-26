@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-10-26, 00:26:24",
-      "https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end_lwn_net"
-    ],
-    [
-      "A deeper look into the GCC Rust front-end [LWN.net]",
-      "https://lwn.net/Articles/909887/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 00:25:10",
       "https://lobste.rs/s/iuviji/rewriting_high_performance_vector"
     ],
@@ -177,6 +167,16 @@
     [
       "Stranger Strings: An exploitable flaw in SQLite",
       "https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 11:21:44",
+      "https://lobste.rs/s/ffn1gc/rudra_finding_memory_safety_bugs_rust_at"
+    ],
+    [
+      "RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem Scale",
+      "https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf"
     ]
   ],
   [
