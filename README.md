@@ -2,6 +2,7 @@
 
 * [2022-10-26, 04:05:15](https://lobste.rs/s/bj2nmx/encodings_for_numbers_lambda_calculus) - [Encodings for numbers in lambda calculus](https://xtao.org/blog/lambda-numbers.html)
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
+* [2022-10-26, 02:08:32](https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers) - [The Reciprocal Value of Access to Maintainers](https://words.filippo.io/dispatches/reciprocal/)
 * [2022-10-26, 00:25:10](https://lobste.rs/s/iuviji/rewriting_high_performance_vector) - [Rewriting a high performance vector database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
@@ -17,7 +18,6 @@
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 * [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
-* [2022-10-25, 11:21:44](https://lobste.rs/s/ffn1gc/rudra_finding_memory_safety_bugs_rust_at) - [RUDRA: Finding Memory Safety Bugs in Rust at the Ecosystem Scale](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
