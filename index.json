@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-10-26, 02:08:32",
+      "https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers"
+    ],
+    [
+      "The Reciprocal Value of Access to Maintainers",
+      "https://words.filippo.io/dispatches/reciprocal/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:26:24",
+      "https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end_lwn_net"
+    ],
+    [
+      "A deeper look into the GCC Rust front-end [LWN.net]",
+      "https://lwn.net/Articles/909887/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:25:10",
+      "https://lobste.rs/s/iuviji/rewriting_high_performance_vector"
+    ],
+    [
+      "Rewriting a high performance vector database in Rust",
+      "https://www.pinecone.io/learn/rust-rewrite/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:12:24",
+      "https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone"
+    ],
+    [
+      "Zero-cost push notifications to your phone or desktop via PUT/POST",
+      "https://ntfy.sh/"
+    ]
+  ],
+  [
+    [
+      "2022-10-25, 23:58:49",
+      "https://lobste.rs/s/wkbllg/vercel_og_image_generation"
+    ],
+    [
+      "Vercel OG Image Generation",
+      "https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images"
+    ]
+  ],
+  [
+    [
       "2022-10-25, 22:16:19",
       "https://lobste.rs/s/qfjawi/kdl_document_language"
     ],
@@ -91,26 +141,6 @@
   ],
   [
     [
-      "2022-10-25, 17:02:23",
-      "https://lobste.rs/s/wivfps/software_isomorphisms"
-    ],
-    [
-      "Software Isomorphisms",
-      "https://buttondown.email/hillelwayne/archive/software-isomorphisms/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 16:13:21",
-      "https://lobste.rs/s/6ruuno/time_is_illusion_unix_time_doubly_so"
-    ],
-    [
-      "Time is an illusion, Unix time doubly so",
-      "https://www.netmeister.org/blog/epoch.html"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 15:05:39",
       "https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2022-10-25, 09:03:45",
-      "https://lobste.rs/s/fkql8n/funding_vetting_software_supply_chain"
-    ],
-    [
-      "Funding the vetting of the Software Supply-Chain",
-      "https://blog.majid.info/supply-chain-vetting/"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 02:07:58",
       "https://lobste.rs/s/imvlwv/stop_writing_twitter_threads"
     ],
@@ -197,16 +217,6 @@
     [
       "Python Insider: Python 3.11.0 is now available",
       "https://blog.python.org/2022/10/python-3110-is-now-available.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 21:21:43",
-      "https://lobste.rs/s/fbwsjq/emacs_welcoming_experiment"
-    ],
-    [
-      "Emacs: A welcoming experiment",
-      "https://xenodium.com/emacs-a-welcoming-experiment/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Bolt.css - Another classless css library",
       "https://boltcss.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 13:02:12",
-      "https://lobste.rs/s/eedi86/significant_garbage_collection"
-    ],
-    [
-      "Significant Garbage Collection Improvement For Emacs",
-      "https://tdodge.consulting/blog/living-the-emacs-garbage-collection-dream"
     ]
   ]
 ]
