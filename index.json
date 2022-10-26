@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 10:22:07",
+      "https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer"
+    ],
+    [
+      "Allocation Removal in the Toy Optimizer",
+      "https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 08:55:18",
       "https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2022-10-26, 08:15:38",
-      "https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell_by_hello_erlang"
+      "https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell"
     ],
     [
-      "Zotonic with Marc Worrell by Hello, Erlang",
+      "Zotonic with Marc Worrell",
       "https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji"
     ]
   ],
@@ -52,21 +62,11 @@
   [
     [
       "2022-10-26, 00:26:24",
-      "https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end_lwn_net"
+      "https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end"
     ],
     [
-      "A deeper look into the GCC Rust front-end [LWN.net]",
+      "A deeper look into the GCC Rust front-end",
       "https://lwn.net/Articles/909887/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 00:25:10",
-      "https://lobste.rs/s/iuviji/rewriting_high_performance_vector"
-    ],
-    [
-      "Rewriting a high performance vector database in Rust",
-      "https://www.pinecone.io/learn/rust-rewrite/"
     ]
   ],
   [
