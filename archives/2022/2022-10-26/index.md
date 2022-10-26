@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
 * [2022-10-26, 14:18:14](https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document) - [Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 * [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 11:32:48](https://lobste.rs/s/79ptnv/custom_exception_inheritance) - [Custom exception inheritance](https://www.theabstraction.space/p/custom-exception-inheritance)
