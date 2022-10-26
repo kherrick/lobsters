@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 08:15:38](https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell_by_hello_erlang) - [Zotonic with Marc Worrell by Hello, Erlang](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
 * [2022-10-26, 04:05:15](https://lobste.rs/s/bj2nmx/encodings_for_numbers_lambda_calculus) - [Encodings for numbers in lambda calculus](https://xtao.org/blog/lambda-numbers.html)
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
 * [2022-10-26, 02:08:32](https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers) - [The Reciprocal Value of Access to Maintainers](https://words.filippo.io/dispatches/reciprocal/)
+* [2022-10-26, 00:26:24](https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end_lwn_net) - [A deeper look into the GCC Rust front-end [LWN.net]](https://lwn.net/Articles/909887/)
 * [2022-10-26, 00:25:10](https://lobste.rs/s/iuviji/rewriting_high_performance_vector) - [Rewriting a high performance vector database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
@@ -19,11 +21,9 @@
 * [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
-* [2022-10-25, 10:24:28](https://lobste.rs/s/euykwf/property_based_testing_how_implement) - [Property based testing: how to implement shrinking correctly](https://www.youtube.com/watch?v=mWOAyqmjMtU)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 * [2022-10-24, 18:57:10](https://lobste.rs/s/yy49ne/my_next_mac_might_be_last) - [My next Mac might be the last](http://morrick.me/archives/9667)
-* [2022-10-24, 17:58:05](https://lobste.rs/s/gmxg82/what_work_looks_like) - [What “Work” Looks Like](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
 * [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 
 ## [Archives](archives/index.md)
