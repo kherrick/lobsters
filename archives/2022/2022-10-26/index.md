@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 21:51:37](https://lobste.rs/s/zopbmi/accelerating_jupyterlab) - [Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 21:51:37](https://lobste.rs/s/zopbmi/accelerating_jupyterlab) - [Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
@@ -10,7 +11,6 @@
 * [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)
 * [2022-10-26, 15:44:52](https://lobste.rs/s/g2swg7/debugging_wine_with_lldb_vscode) - [Debugging Wine with LLDB and VSCode](https://werat.dev/blog/debugging-wine-with-lldb-and-vscode/)
 * [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
-* [2022-10-26, 14:18:14](https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document) - [Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 * [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 * [2022-10-26, 08:55:18](https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems) - [Accessible Palette: Create color systems with consistent lightness and contrast](https://accessiblepalette.com/)
