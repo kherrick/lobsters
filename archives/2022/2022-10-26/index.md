@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 22:12:38](https://lobste.rs/s/wp6raf/about_my_proposal_for_django_core_sprints) - [About my proposal for the Django Core Sprints](https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/)
 * [2022-10-26, 21:51:37](https://lobste.rs/s/zopbmi/accelerating_jupyterlab) - [Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)

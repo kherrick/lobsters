@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 22:12:38](https://lobste.rs/s/wp6raf/about_my_proposal_for_django_core_sprints) - [About my proposal for the Django Core Sprints](https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/)
 * [2022-10-26, 21:51:37](https://lobste.rs/s/zopbmi/accelerating_jupyterlab) - [Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
@@ -24,7 +25,6 @@
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
 * [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
-* [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
 
 ## [Archives](archives/index.md)
 
