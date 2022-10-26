@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 19:25:13](https://lobste.rs/s/ifknpq/replacing_cms_using_gitpod) - [Replacing a CMS using Gitpod](https://usrme.xyz/posts/replacing-a-cms-using-gitpod/)
 * [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 * [2022-10-26, 17:22:37](https://lobste.rs/s/ftsghj/programming_proving_agda) - [Programming and Proving in Agda](https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf)
 * [2022-10-26, 17:19:06](https://lobste.rs/s/chcllt/using_dependent_types_write_proofs) - [Using dependent types to write proofs in Haskell](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
@@ -24,7 +25,6 @@
 * [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
-* [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 
 ## [Archives](archives/index.md)
 
