@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 14:18:14](https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document) - [Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 * [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 11:32:48](https://lobste.rs/s/79ptnv/custom_exception_inheritance) - [Custom exception inheritance](https://www.theabstraction.space/p/custom-exception-inheritance)
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)

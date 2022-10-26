@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 14:18:14](https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document) - [Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
 * [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 11:32:48](https://lobste.rs/s/79ptnv/custom_exception_inheritance) - [Custom exception inheritance](https://www.theabstraction.space/p/custom-exception-inheritance)
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
@@ -13,7 +14,6 @@
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
 * [2022-10-25, 20:01:42](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team) - [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413)
-* [2022-10-25, 19:33:15](https://lobste.rs/s/itbcbm/introducing_turbopack_rust_based) - [Introducing Turbopack: Rust-based successor to Webpack](https://vercel.com/blog/turbopack)
 * [2022-10-25, 19:19:21](https://lobste.rs/s/xm6mm4/jevko_minimal_general_purpose_syntax) - [Jevko: a minimal general-purpose syntax](https://djedr.github.io/posts/jevko-2022-02-22.html)
 * [2022-10-25, 18:20:12](https://lobste.rs/s/mvfcot/turbopack_rust_based_successor_webpack) - [Turbopack: Rust-based successor to Webpack](https://turbo.build)
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
