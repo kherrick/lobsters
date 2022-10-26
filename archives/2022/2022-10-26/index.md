@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 * [2022-10-26, 17:22:37](https://lobste.rs/s/ftsghj/programming_proving_agda) - [Programming and Proving in Agda](https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf)
 * [2022-10-26, 17:19:06](https://lobste.rs/s/chcllt/using_dependent_types_write_proofs) - [Using dependent types to write proofs in Haskell](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 * [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)

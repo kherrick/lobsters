@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 * [2022-10-26, 17:22:37](https://lobste.rs/s/ftsghj/programming_proving_agda) - [Programming and Proving in Agda](https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf)
 * [2022-10-26, 17:19:06](https://lobste.rs/s/chcllt/using_dependent_types_write_proofs) - [Using dependent types to write proofs in Haskell](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 * [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)
@@ -11,7 +12,6 @@
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 * [2022-10-26, 08:55:18](https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems) - [Accessible Palette: Create color systems with consistent lightness and contrast](https://accessiblepalette.com/)
 * [2022-10-26, 08:15:38](https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell) - [Zotonic with Marc Worrell](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
-* [2022-10-26, 04:05:15](https://lobste.rs/s/bj2nmx/encodings_for_numbers_lambda_calculus) - [Encodings for numbers in lambda calculus](https://xtao.org/blog/lambda-numbers.html)
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
 * [2022-10-26, 02:08:32](https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers) - [The Reciprocal Value of Access to Maintainers](https://words.filippo.io/dispatches/reciprocal/)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
