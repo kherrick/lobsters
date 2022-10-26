@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 08:15:38",
+      "https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell_by_hello_erlang"
+    ],
+    [
+      "Zotonic with Marc Worrell by Hello, Erlang",
+      "https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 04:05:15",
       "https://lobste.rs/s/bj2nmx/encodings_for_numbers_lambda_calculus"
     ],
@@ -27,6 +37,16 @@
     [
       "The Reciprocal Value of Access to Maintainers",
       "https://words.filippo.io/dispatches/reciprocal/"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 00:26:24",
+      "https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end_lwn_net"
+    ],
+    [
+      "A deeper look into the GCC Rust front-end [LWN.net]",
+      "https://lwn.net/Articles/909887/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-10-25, 10:24:28",
-      "https://lobste.rs/s/euykwf/property_based_testing_how_implement"
-    ],
-    [
-      "Property based testing: how to implement shrinking correctly",
-      "https://www.youtube.com/watch?v=mWOAyqmjMtU"
-    ]
-  ],
-  [
-    [
       "2022-10-25, 02:07:58",
       "https://lobste.rs/s/imvlwv/stop_writing_twitter_threads"
     ],
@@ -227,16 +237,6 @@
     [
       "My next Mac might be the last",
       "http://morrick.me/archives/9667"
-    ]
-  ],
-  [
-    [
-      "2022-10-24, 17:58:05",
-      "https://lobste.rs/s/gmxg82/what_work_looks_like"
-    ],
-    [
-      "What “Work” Looks Like",
-      "https://blog.jim-nielsen.com/2022/what-work-looks-like/"
     ]
   ],
   [
