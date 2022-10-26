@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
+* [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 * [2022-10-26, 19:52:07](https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea) - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
 * [2022-10-26, 19:25:13](https://lobste.rs/s/ifknpq/replacing_cms_using_gitpod) - [Replacing a CMS using Gitpod](https://usrme.xyz/posts/replacing-a-cms-using-gitpod/)
 * [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
