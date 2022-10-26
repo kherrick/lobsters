@@ -10,6 +10,7 @@
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
 * [2022-10-26, 02:08:32](https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers) - [The Reciprocal Value of Access to Maintainers](https://words.filippo.io/dispatches/reciprocal/)
 * [2022-10-26, 00:26:24](https://lobste.rs/s/xu7u3f/deeper_look_into_gcc_rust_front_end) - [A deeper look into the GCC Rust front-end](https://lwn.net/Articles/909887/)
+* [2022-10-26, 00:25:10](https://lobste.rs/s/iuviji/rewriting_high_performance_vector) - [Rewriting a high performance vector database in Rust](https://www.pinecone.io/learn/rust-rewrite/)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
@@ -24,7 +25,6 @@
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
 * [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
-* [2022-10-24, 15:34:43](https://lobste.rs/s/rombme/bolt_css_another_classless_css_library) - [Bolt.css - Another classless css library](https://boltcss.com)
 
 ## [Archives](archives/index.md)
 
