@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-25](index.md)
 
+* [2022-10-25, 23:58:49](https://lobste.rs/s/wkbllg/vercel_og_image_generation) - [Vercel OG Image Generation](https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images)
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
 * [2022-10-25, 20:01:42](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team) - [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413)
