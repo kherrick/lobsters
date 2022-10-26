@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-26, 14:18:14",
+      "https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document"
+    ],
+    [
+      "Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers",
+      "https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 12:16:15",
       "https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks"
     ],
@@ -127,16 +137,6 @@
     [
       "Another iterator proposal from the Go team",
       "https://github.com/golang/go/discussions/56413"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 19:33:15",
-      "https://lobste.rs/s/itbcbm/introducing_turbopack_rust_based"
-    ],
-    [
-      "Introducing Turbopack: Rust-based successor to Webpack",
-      "https://vercel.com/blog/turbopack"
     ]
   ],
   [
