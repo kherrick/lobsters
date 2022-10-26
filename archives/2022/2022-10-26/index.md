@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 11:32:48](https://lobste.rs/s/79ptnv/custom_exception_inheritance) - [Custom exception inheritance](https://www.theabstraction.space/p/custom-exception-inheritance)
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 * [2022-10-26, 08:55:18](https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems) - [Accessible Palette: Create color systems with consistent lightness and contrast](https://accessiblepalette.com/)
