@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 * [2022-10-26, 19:52:07](https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea) - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
@@ -14,7 +15,6 @@
 * [2022-10-26, 10:22:07](https://lobste.rs/s/j9b4j9/allocation_removal_toy_optimizer) - [Allocation Removal in the Toy Optimizer](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 * [2022-10-26, 08:55:18](https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems) - [Accessible Palette: Create color systems with consistent lightness and contrast](https://accessiblepalette.com/)
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
-* [2022-10-26, 02:08:32](https://lobste.rs/s/k7exnp/reciprocal_value_access_maintainers) - [The Reciprocal Value of Access to Maintainers](https://words.filippo.io/dispatches/reciprocal/)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
 * [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
