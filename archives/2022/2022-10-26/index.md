@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-26](index.md)
 
+* [2022-10-26, 08:55:18](https://lobste.rs/s/bzjciu/accessible_palette_create_color_systems) - [Accessible Palette: Create color systems with consistent lightness and contrast](https://accessiblepalette.com/)
 * [2022-10-26, 08:15:38](https://lobste.rs/s/aab0rd/zotonic_with_marc_worrell_by_hello_erlang) - [Zotonic with Marc Worrell by Hello, Erlang](https://anchor.fm/helloerlang/episodes/Zotonic-with-Marc-Worrell-e1po1sj/a-a8ocvji)
 * [2022-10-26, 04:05:15](https://lobste.rs/s/bj2nmx/encodings_for_numbers_lambda_calculus) - [Encodings for numbers in lambda calculus](https://xtao.org/blog/lambda-numbers.html)
 * [2022-10-26, 02:55:22](https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory) - [Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling](https://gvisor.dev/blog/2022/10/24/buffer-pooling/)
