@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)
 * [2022-10-26, 15:44:52](https://lobste.rs/s/g2swg7/debugging_wine_with_lldb_vscode) - [Debugging Wine with LLDB and VSCode](https://werat.dev/blog/debugging-wine-with-lldb-and-vscode/)
 * [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
 * [2022-10-26, 14:18:14](https://lobste.rs/s/isc8vh/using_vba_macros_from_word_document) - [Using VBA Macros (from a Word Document) to Exploit Vulnerable Drivers](https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/)
@@ -23,7 +24,6 @@
 * [2022-10-25, 13:19:26](https://lobste.rs/s/n19hkz/multi_kernel_drifting) - [Multi-Kernel Drifting](https://luqman.ca/blog/multi-kernel-drifting/)
 * [2022-10-25, 11:41:08](https://lobste.rs/s/bhmqto/stranger_strings_exploitable_flaw) - [Stranger Strings: An exploitable flaw in SQLite](https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/)
 * [2022-10-25, 10:47:30](https://lobste.rs/s/17cadc/risc_deprogrammer) - [The RISC Deprogrammer](https://blog.erratasec.com/2022/10/the-risc-deprogrammer.html)
-* [2022-10-25, 02:07:58](https://lobste.rs/s/imvlwv/stop_writing_twitter_threads) - [Stop writing Twitter threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
 * [2022-10-24, 22:17:07](https://lobste.rs/s/fbusfd/python_insider_python_3_11_0_is_now) - [Python Insider: Python 3.11.0 is now available](https://blog.python.org/2022/10/python-3110-is-now-available.html)
 
 ## [Archives](archives/index.md)
