@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 22:08:02](https://lobste.rs/s/wiyxwr/linux_userspace_api_uapi_group) - [The Linux Userspace API (UAPI) Group](https://uapi-group.org/)
 * [2022-10-27, 21:21:05](https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object) - [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
 * [2022-10-27, 21:01:35](https://lobste.rs/s/or4oq9/automate_pull_requests_1_minute_with) - [Automate pull requests in 1 minute with Reviewpad](https://reviewpad.com/blog/automate-pull-requests-in-one-minute)
 * [2022-10-27, 20:58:10](https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s) - [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
@@ -22,7 +23,6 @@
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-27, 01:20:46](https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022) - [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 * [2022-10-26, 22:27:06](https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering) - [Announcing Turbosrc: empowering contributors](https://turbosrc.org/blog/initial-release.html)
-* [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 * [2022-10-26, 19:52:07](https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea) - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
 
