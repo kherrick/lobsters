@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 21:21:05](https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object) - [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
 * [2022-10-27, 21:01:35](https://lobste.rs/s/or4oq9/automate_pull_requests_1_minute_with) - [Automate pull requests in 1 minute with Reviewpad](https://reviewpad.com/blog/automate-pull-requests-in-one-minute)
 * [2022-10-27, 20:58:10](https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s) - [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
 * [2022-10-27, 20:49:35](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite) - [Recommendations thread: Your favorite sources of raw data (of any type)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
 * [2022-10-27, 20:22:19](https://lobste.rs/s/wfczln/nes_nesume_nes_game_based_resume_rom) - [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
-* [2022-10-27, 18:46:03](https://lobste.rs/s/aosjeg/talk_about_rust_development_on_espressif) - [A talk about Rust development on Espressif chips](https://www.youtube.com/watch?v=gjkz3ivNPLM&t=1347s)
 * [2022-10-27, 16:56:17](https://lobste.rs/s/rq0qy3/sidekiq_7_0) - [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
 * [2022-10-27, 15:32:12](https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice) - [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
 * [2022-10-27, 13:59:33](https://lobste.rs/s/rnzyys/how_leverage_http_conditional_requests) - [How to leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)

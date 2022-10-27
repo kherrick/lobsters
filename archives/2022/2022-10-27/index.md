@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 21:21:05](https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object) - [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
 * [2022-10-27, 21:01:35](https://lobste.rs/s/or4oq9/automate_pull_requests_1_minute_with) - [Automate pull requests in 1 minute with Reviewpad](https://reviewpad.com/blog/automate-pull-requests-in-one-minute)
 * [2022-10-27, 20:58:10](https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s) - [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
 * [2022-10-27, 20:49:35](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite) - [Recommendations thread: Your favorite sources of raw data (of any type)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
