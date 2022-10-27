@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 13:59:33](https://lobste.rs/s/rnzyys/how_meta_google_github_others_leverage) - [How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)
 * [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 * [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
@@ -7,9 +8,8 @@
 * [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 11:56:43](https://lobste.rs/s/kmj5io/ventura_volume_layout) - [Ventura volume layout](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
 * [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
-* [2022-10-27, 11:01:58](https://lobste.rs/s/u000ag/const_syntax) - [Const Syntax](https://blog.yoshuawuyts.com/const-syntax/#the-need-to-specialize)
-* [2022-10-27, 10:51:43](https://lobste.rs/s/jdemfc/adventures_cross_compilation) - [Adventures In Cross Compilation](https://kentiklabs.com/blog/adventures-in-cross-compilation/)
 * [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
+* [2022-10-27, 08:42:15](https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own) - [SMTP, OrangeWebsite and using your own computing resources](https://ageinghacker.net/blog/posts/32/)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
 * [2022-10-27, 07:55:22](https://lobste.rs/s/g4qcfg/systemd_isn_t_safe_run_anywhere_2021) - [systemd isn't safe to run anywhere (2021)](https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html)
