@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-27, 08:06:05",
+      "https://lobste.rs/s/xamwub/announcing_haskell_error_index"
+    ],
+    [
+      "Announcing the Haskell Error Index",
+      "https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 08:03:07",
+      "https://lobste.rs/s/feawyf/do_we_need_rust_standard"
+    ],
+    [
+      "Do we need a \"Rust Standard\"?",
+      "https://blog.m-ou.se/rust-standard/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 07:55:22",
+      "https://lobste.rs/s/g4qcfg/systemd_isn_t_safe_run_anywhere_2021"
+    ],
+    [
+      "systemd isn't safe to run anywhere (2021)",
+      "https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 07:18:52",
       "https://lobste.rs/s/sslqcs/nub_haystack"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2022-10-26, 22:12:38",
-      "https://lobste.rs/s/wp6raf/about_my_proposal_for_django_core_sprints"
-    ],
-    [
-      "About my proposal for the Django Core Sprints",
-      "https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 20:16:56",
       "https://lobste.rs/s/flinr6/metaballs"
     ],
@@ -127,16 +147,6 @@
     [
       "Phar Lap FrontRunner - The Winning DOS Desktop for Windows",
       "https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 17:22:37",
-      "https://lobste.rs/s/ftsghj/programming_proving_agda"
-    ],
-    [
-      "Programming and Proving in Agda",
-      "https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How to date a recording using background electrical noise",
       "https://robertheaton.com/enf/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 20:01:42",
-      "https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team"
-    ],
-    [
-      "Another iterator proposal from the Go team",
-      "https://github.com/golang/go/discussions/56413"
     ]
   ],
   [
