@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 23:02:09](https://lobste.rs/s/0gtykc/towards_next_generation_xnu_memory) - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
 * [2022-10-27, 22:08:02](https://lobste.rs/s/wiyxwr/linux_userspace_api_uapi_group) - [The Linux Userspace API (UAPI) Group](https://uapi-group.org/)
 * [2022-10-27, 21:21:05](https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object) - [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
 * [2022-10-27, 21:01:35](https://lobste.rs/s/or4oq9/automate_pull_requests_1_minute_with) - [Automate pull requests in 1 minute with Reviewpad](https://reviewpad.com/blog/automate-pull-requests-in-one-minute)
