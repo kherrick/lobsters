@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 20:49:35](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite) - [Recommendations thread: Your favorite sources of raw data (of any type)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
 * [2022-10-27, 20:29:45](https://lobste.rs/s/n0krbz/get_blogging) - [Get Blogging](https://getblogging.org)
+* [2022-10-27, 20:22:19](https://lobste.rs/s/wfczln/nes_nesume_nes_game_based_resume_rom) - [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
 * [2022-10-27, 20:22:19](https://lobste.rs/s/wfczln/github_ronaldstoner_nes_nesume_nes_game) - [GitHub - ronaldstoner/nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
 * [2022-10-27, 18:46:03](https://lobste.rs/s/aosjeg/talk_about_rust_development_on_espressif) - [A talk about Rust development on Espressif chips](https://www.youtube.com/watch?v=gjkz3ivNPLM&t=1347s)
 * [2022-10-27, 17:44:54](https://lobste.rs/s/2xf6bo/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/2021/a-heat-map-reporter-for-minitest/)
