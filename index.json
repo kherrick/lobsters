@@ -1,12 +1,42 @@
 [
   [
     [
+      "2022-10-27, 02:51:12",
+      "https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our"
+    ],
+    [
+      "Our computer security problems are our own fault",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 01:20:46",
+      "https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022"
+    ],
+    [
+      "How to speed up the Rust compiler in October 2022",
+      "https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html"
+    ]
+  ],
+  [
+    [
       "2022-10-26, 22:27:06",
       "https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering"
     ],
     [
       "Announcing Turbosrc: empowering contributors",
       "https://turbosrc.org/blog/initial-release.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-26, 22:12:38",
+      "https://lobste.rs/s/wp6raf/about_my_proposal_for_django_core_sprints"
+    ],
+    [
+      "About my proposal for the Django Core Sprints",
+      "https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2022-10-26, 17:19:06",
-      "https://lobste.rs/s/chcllt/using_dependent_types_write_proofs"
-    ],
-    [
-      "Using dependent types to write proofs in Haskell",
-      "https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 16:47:27",
       "https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-26, 02:55:22",
-      "https://lobste.rs/s/7ioimx/eliminating_99_gvisor_networking_memory"
-    ],
-    [
-      "Eliminating 99% of gVisor Networking Memory Allocations with Enhanced Buffer Pooling",
-      "https://gvisor.dev/blog/2022/10/24/buffer-pooling/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 00:12:24",
       "https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone"
     ],
@@ -207,16 +217,6 @@
     [
       "Jevko: a minimal general-purpose syntax",
       "https://djedr.github.io/posts/jevko-2022-02-22.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 18:20:12",
-      "https://lobste.rs/s/mvfcot/turbopack_rust_based_successor_webpack"
-    ],
-    [
-      "Turbopack: Rust-based successor to Webpack",
-      "https://turbo.build"
     ]
   ],
   [
