@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 07:18:52",
+      "https://lobste.rs/s/sslqcs/nub_haystack"
+    ],
+    [
+      "A nub in the haystack",
+      "https://www.tweag.io/blog/2022-10-27-bytecode-performance-regression/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 05:18:03",
       "https://lobste.rs/s/b1w1pg/recovery_function_prototypes_visual"
     ],
@@ -57,16 +67,6 @@
     [
       "About my proposal for the Django Core Sprints",
       "https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 21:51:37",
-      "https://lobste.rs/s/zopbmi/accelerating_jupyterlab"
-    ],
-    [
-      "Accelerating JupyterLab",
-      "https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602"
     ]
   ],
   [
