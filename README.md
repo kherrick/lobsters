@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
+* [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
+* [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
 * [2022-10-27, 12:12:05](https://lobste.rs/s/pl3ogs/undecidability_1999) - [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
 * [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 11:56:43](https://lobste.rs/s/kmj5io/ventura_volume_layout) - [Ventura volume layout](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
@@ -21,9 +24,6 @@
 * [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 * [2022-10-26, 16:47:27](https://lobste.rs/s/lll2q0/sadservers_troubleshooting_linux) - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/)
 * [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
-* [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
-* [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
-* [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 
 ## [Archives](archives/index.md)

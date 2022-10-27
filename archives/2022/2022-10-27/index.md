@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
+* [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
+* [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
 * [2022-10-27, 12:12:05](https://lobste.rs/s/pl3ogs/undecidability_1999) - [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
 * [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 11:56:43](https://lobste.rs/s/kmj5io/ventura_volume_layout) - [Ventura volume layout](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
