@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 07:18:52](https://lobste.rs/s/sslqcs/nub_haystack) - [A nub in the haystack](https://www.tweag.io/blog/2022-10-27-bytecode-performance-regression/)
 * [2022-10-27, 05:18:03](https://lobste.rs/s/b1w1pg/recovery_function_prototypes_visual) - [Recovery of function prototypes in Visual Basic 6 executables](https://decoded.avast.io/davidzimmer/recovery-of-function-prototypes-in-visual-basic-6-executables/)
 * [2022-10-27, 03:34:18](https://lobste.rs/s/7tgwlb/nnstreamer_neural_network_for_gstreamer) - [NNStreamer: Neural Network for GStreamer (by Samsung)](https://nnstreamer.ai/)
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-27, 01:20:46](https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022) - [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 * [2022-10-26, 22:27:06](https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering) - [Announcing Turbosrc: empowering contributors](https://turbosrc.org/blog/initial-release.html)
 * [2022-10-26, 22:12:38](https://lobste.rs/s/wp6raf/about_my_proposal_for_django_core_sprints) - [About my proposal for the Django Core Sprints](https://www.paulox.net/2022/10/26/about-my-proposal-for-the-django-core-sprints/)
-* [2022-10-26, 21:51:37](https://lobste.rs/s/zopbmi/accelerating_jupyterlab) - [Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:14:56](https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on) - [SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri](https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
