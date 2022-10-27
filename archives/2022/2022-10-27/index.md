@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 11:56:43](https://lobste.rs/s/kmj5io/ventura_volume_layout) - [Ventura volume layout](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
+* [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
 * [2022-10-27, 11:01:58](https://lobste.rs/s/u000ag/const_syntax) - [Const Syntax](https://blog.yoshuawuyts.com/const-syntax/#the-need-to-specialize)
 * [2022-10-27, 10:51:43](https://lobste.rs/s/jdemfc/adventures_cross_compilation) - [Adventures In Cross Compilation](https://kentiklabs.com/blog/adventures-in-cross-compilation/)
 * [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
