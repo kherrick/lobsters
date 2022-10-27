@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-27, 11:56:43",
+      "https://lobste.rs/s/kmj5io/ventura_volume_layout"
+    ],
+    [
+      "Ventura volume layout",
+      "https://eclecticlight.co/2022/10/25/ventura-volume-layout/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 11:53:01",
+      "https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth"
+    ],
+    [
+      "Remembering Professor Kathleen Booth, 1922-2022",
+      "http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 11:01:58",
       "https://lobste.rs/s/u000ag/const_syntax"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-10-26, 15:44:52",
-      "https://lobste.rs/s/g2swg7/debugging_wine_with_lldb_vscode"
-    ],
-    [
-      "Debugging Wine with LLDB and VSCode",
-      "https://werat.dev/blog/debugging-wine-with-lldb-and-vscode/"
-    ]
-  ],
-  [
-    [
       "2022-10-26, 15:26:49",
       "https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos"
     ],
@@ -227,16 +237,6 @@
     [
       "How to date a recording using background electrical noise",
       "https://robertheaton.com/enf/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 17:27:21",
-      "https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir"
-    ],
-    [
-      "Gleam v0.24 released with full Elixir support",
-      "https://gleam.run/news/gleam-v0.24-released/"
     ]
   ],
   [
