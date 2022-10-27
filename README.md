@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 03:34:18](https://lobste.rs/s/7tgwlb/nnstreamer_neural_network_for_gstreamer) - [NNStreamer: Neural Network for GStreamer (by Samsung)](https://nnstreamer.ai/)
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-27, 01:20:46](https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022) - [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 * [2022-10-26, 22:27:06](https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering) - [Announcing Turbosrc: empowering contributors](https://turbosrc.org/blog/initial-release.html)
@@ -23,7 +24,6 @@
 * [2022-10-25, 20:01:42](https://lobste.rs/s/gjyxba/another_iterator_proposal_from_go_team) - [Another iterator proposal from the Go team](https://github.com/golang/go/discussions/56413)
 * [2022-10-25, 19:19:21](https://lobste.rs/s/xm6mm4/jevko_minimal_general_purpose_syntax) - [Jevko: a minimal general-purpose syntax](https://djedr.github.io/posts/jevko-2022-02-22.html)
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
-* [2022-10-25, 17:24:37](https://lobste.rs/s/5n48ni/brave_new_trusted_boot_world) - [Brave New Trusted Boot World](https://0pointer.de/blog/brave-new-trusted-boot-world.html)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 
 ## [Archives](archives/index.md)
