@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
 * [2022-10-27, 08:42:15](https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own) - [SMTP, OrangeWebsite and using your own computing resources](https://ageinghacker.net/blog/posts/32/)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
@@ -21,7 +22,6 @@
 * [2022-10-26, 15:26:49](https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos) - [GPU-accelerated Computing with Nanos Unikernels](https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels)
 * [2022-10-26, 12:16:15](https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks) - [A Potpourri of Emacs Tweaks](https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html)
 * [2022-10-26, 00:12:24](https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone) - [Zero-cost push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/)
-* [2022-10-25, 22:16:19](https://lobste.rs/s/qfjawi/kdl_document_language) - [The KDL Document Language](https://kdl.dev)
 * [2022-10-25, 20:22:28](https://lobste.rs/s/9czcez/how_date_recording_using_background) - [How to date a recording using background electrical noise](https://robertheaton.com/enf/)
 * [2022-10-25, 17:27:21](https://lobste.rs/s/wjs4a2/gleam_v0_24_released_with_full_elixir) - [Gleam v0.24 released with full Elixir support](https://gleam.run/news/gleam-v0.24-released/)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)

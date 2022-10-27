@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
 * [2022-10-27, 08:42:15](https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own) - [SMTP, OrangeWebsite and using your own computing resources](https://ageinghacker.net/blog/posts/32/)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
