@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 15:32:12](https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice) - [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
 * [2022-10-27, 15:08:18](https://lobste.rs/s/gaim9o/from_lua_json_refactoring_wireplumber_s) - [From Lua to JSON: refactoring WirePlumber's configuration system](https://www.collabora.com/news-and-blog/blog/2022/10/27/from-lua-to-json-refactoring-wireplumber-configuration-system/)
 * [2022-10-27, 13:59:33](https://lobste.rs/s/rnzyys/how_meta_google_github_others_leverage) - [How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)
 * [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-27, 15:32:12](https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice) - [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
 * [2022-10-27, 15:08:18](https://lobste.rs/s/gaim9o/from_lua_json_refactoring_wireplumber_s) - [From Lua to JSON: refactoring WirePlumber's configuration system](https://www.collabora.com/news-and-blog/blog/2022/10/27/from-lua-to-json-refactoring-wireplumber-configuration-system/)
 * [2022-10-27, 13:59:33](https://lobste.rs/s/rnzyys/how_meta_google_github_others_leverage) - [How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs](https://quadratic.fm/p/how-meta-microsoft-google-github)
 * [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
@@ -15,7 +16,6 @@
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
 * [2022-10-27, 07:55:22](https://lobste.rs/s/g4qcfg/systemd_isn_t_safe_run_anywhere_2021) - [systemd isn't safe to run anywhere (2021)](https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html)
-* [2022-10-27, 05:18:03](https://lobste.rs/s/b1w1pg/recovery_function_prototypes_visual) - [Recovery of function prototypes in Visual Basic 6 executables](https://decoded.avast.io/davidzimmer/recovery-of-function-prototypes-in-visual-basic-6-executables/)
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-27, 01:20:46](https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022) - [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 * [2022-10-26, 22:27:06](https://lobste.rs/s/oe7vh9/announcing_turbosrc_empowering) - [Announcing Turbosrc: empowering contributors](https://turbosrc.org/blog/initial-release.html)
