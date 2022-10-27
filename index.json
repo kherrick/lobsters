@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 15:08:18",
+      "https://lobste.rs/s/gaim9o/from_lua_json_refactoring_wireplumber_s"
+    ],
+    [
+      "From Lua to JSON: refactoring WirePlumber's configuration system",
+      "https://www.collabora.com/news-and-blog/blog/2022/10/27/from-lua-to-json-refactoring-wireplumber-configuration-system/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 13:59:33",
       "https://lobste.rs/s/rnzyys/how_meta_google_github_others_leverage"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2022-10-27, 10:51:43",
+      "https://lobste.rs/s/jdemfc/adventures_cross_compilation"
+    ],
+    [
+      "Adventures In Cross Compilation",
+      "https://kentiklabs.com/blog/adventures-in-cross-compilation/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 10:07:53",
       "https://lobste.rs/s/ehrvpz/exploring_intricate_execution"
     ],
@@ -127,16 +147,6 @@
     [
       "systemd isn't safe to run anywhere (2021)",
       "https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 07:18:52",
-      "https://lobste.rs/s/sslqcs/nub_haystack"
-    ],
-    [
-      "A nub in the haystack",
-      "https://www.tweag.io/blog/2022-10-27-bytecode-performance-regression/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "SadServers - Troubleshooting Linux Servers",
       "https://sadservers.com/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 15:26:49",
-      "https://lobste.rs/s/meajnx/gpu_accelerated_computing_with_nanos"
-    ],
-    [
-      "GPU-accelerated Computing with Nanos Unikernels",
-      "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
     ]
   ],
   [
