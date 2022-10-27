@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 18:46:03](https://lobste.rs/s/aosjeg/talk_about_rust_development_on_espressif) - [A talk about Rust development on Espressif chips](https://www.youtube.com/watch?v=gjkz3ivNPLM&t=1347s)
 * [2022-10-27, 17:44:54](https://lobste.rs/s/2xf6bo/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/2021/a-heat-map-reporter-for-minitest/)
 * [2022-10-27, 16:56:17](https://lobste.rs/s/rq0qy3/sidekiq_7_0) - [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
 * [2022-10-27, 15:32:12](https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice) - [What do we really mean by microservice configuration?](https://encore.dev/blog/designing-a-config-api)
