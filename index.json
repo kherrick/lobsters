@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-27, 12:12:05",
+      "https://lobste.rs/s/pl3ogs/undecidability_1999"
+    ],
+    [
+      "Undecidability (1999)",
+      "https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 12:10:29",
+      "https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts"
+    ],
+    [
+      "Booting an M1 Mac from hardware to kexts",
+      "https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 11:56:43",
       "https://lobste.rs/s/kmj5io/ventura_volume_layout"
     ],
@@ -47,16 +67,6 @@
     [
       "Exploring intricate execution mysteries by reversing a crackme",
       "http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 08:42:15",
-      "https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own"
-    ],
-    [
-      "SMTP, OrangeWebsite and using your own computing resources",
-      "https://ageinghacker.net/blog/posts/32/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Metaballs",
       "https://varun.ca/metaballs/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 20:14:56",
-      "https://lobste.rs/s/vl7upn/sirispy_ios_bug_allowed_apps_eavesdrop_on"
-    ],
-    [
-      "SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri",
-      "https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop"
     ]
   ],
   [
