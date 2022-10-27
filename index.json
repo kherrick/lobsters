@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 13:59:33",
+      "https://lobste.rs/s/rnzyys/how_meta_google_github_others_leverage"
+    ],
+    [
+      "How Meta, Google, Github and others leverage HTTP conditional requests to build robust REST APIs",
+      "https://quadratic.fm/p/how-meta-microsoft-google-github"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 13:28:40",
       "https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line"
     ],
@@ -71,32 +81,22 @@
   ],
   [
     [
-      "2022-10-27, 11:01:58",
-      "https://lobste.rs/s/u000ag/const_syntax"
-    ],
-    [
-      "Const Syntax",
-      "https://blog.yoshuawuyts.com/const-syntax/#the-need-to-specialize"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 10:51:43",
-      "https://lobste.rs/s/jdemfc/adventures_cross_compilation"
-    ],
-    [
-      "Adventures In Cross Compilation",
-      "https://kentiklabs.com/blog/adventures-in-cross-compilation/"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 10:07:53",
       "https://lobste.rs/s/ehrvpz/exploring_intricate_execution"
     ],
     [
       "Exploring intricate execution mysteries by reversing a crackme",
       "http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 08:42:15",
+      "https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own"
+    ],
+    [
+      "SMTP, OrangeWebsite and using your own computing resources",
+      "https://ageinghacker.net/blog/posts/32/"
     ]
   ],
   [
