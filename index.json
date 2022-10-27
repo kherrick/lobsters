@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 20:29:45",
+      "https://lobste.rs/s/n0krbz/get_blogging"
+    ],
+    [
+      "Get Blogging",
+      "https://getblogging.org"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 20:22:19",
       "https://lobste.rs/s/wfczln/github_ronaldstoner_nes_nesume_nes_game"
     ],
@@ -237,16 +247,6 @@
     [
       "Open source sustainment and the future of Gitea",
       "https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 15:05:39",
-      "https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next"
-    ],
-    [
-      "Zig is Self-hosted Now, What's Next?",
-      "https://kristoff.it/blog/zig-self-hosted-now-what/"
     ]
   ]
 ]
