@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-27, 15:32:12",
+      "https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice"
+    ],
+    [
+      "What do we really mean by microservice configuration?",
+      "https://encore.dev/blog/designing-a-config-api"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 15:08:18",
       "https://lobste.rs/s/gaim9o/from_lua_json_refactoring_wireplumber_s"
     ],
@@ -147,16 +157,6 @@
     [
       "systemd isn't safe to run anywhere (2021)",
       "https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 05:18:03",
-      "https://lobste.rs/s/b1w1pg/recovery_function_prototypes_visual"
-    ],
-    [
-      "Recovery of function prototypes in Visual Basic 6 executables",
-      "https://decoded.avast.io/davidzimmer/recovery-of-function-prototypes-in-visual-basic-6-executables/"
     ]
   ],
   [
