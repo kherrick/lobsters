@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-27, 13:28:40",
+      "https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line"
+    ],
+    [
+      "Keyboard Shortcuts every Command Line Hacker should know about GNU Readline",
+      "https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 13:24:45",
+      "https://lobste.rs/s/knvmr1/shell_script_best_practices"
+    ],
+    [
+      "Shell Script Best Practices",
+      "https://sharats.me/posts/shell-script-best-practices/"
+    ]
+  ],
+  [
+    [
+      "2022-10-27, 13:23:11",
+      "https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve"
+    ],
+    [
+      "Upcoming critical OpenSSL CVE",
+      "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 12:12:05",
       "https://lobste.rs/s/pl3ogs/undecidability_1999"
     ],
@@ -207,36 +237,6 @@
     [
       "GPU-accelerated Computing with Nanos Unikernels",
       "https://nanovms.com/dev/tutorials/gpu-accelerated-computing-nanos-unikernels"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 12:16:15",
-      "https://lobste.rs/s/vtny4b/potpourri_emacs_tweaks"
-    ],
-    [
-      "A Potpourri of Emacs Tweaks",
-      "https://tony-zorman.com/posts/2022-10-22-emacs-potpourri.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 00:12:24",
-      "https://lobste.rs/s/41dq13/zero_cost_push_notifications_your_phone"
-    ],
-    [
-      "Zero-cost push notifications to your phone or desktop via PUT/POST",
-      "https://ntfy.sh/"
-    ]
-  ],
-  [
-    [
-      "2022-10-25, 20:22:28",
-      "https://lobste.rs/s/9czcez/how_date_recording_using_background"
-    ],
-    [
-      "How to date a recording using background electrical noise",
-      "https://robertheaton.com/enf/"
     ]
   ],
   [
