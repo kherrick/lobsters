@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-27](index.md)
 
+* [2022-10-27, 12:12:05](https://lobste.rs/s/pl3ogs/undecidability_1999) - [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
+* [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 11:56:43](https://lobste.rs/s/kmj5io/ventura_volume_layout) - [Ventura volume layout](https://eclecticlight.co/2022/10/25/ventura-volume-layout/)
 * [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
 * [2022-10-27, 11:01:58](https://lobste.rs/s/u000ag/const_syntax) - [Const Syntax](https://blog.yoshuawuyts.com/const-syntax/#the-need-to-specialize)
