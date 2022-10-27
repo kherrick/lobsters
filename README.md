@@ -14,7 +14,6 @@
 * [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
 * [2022-10-27, 10:51:43](https://lobste.rs/s/jdemfc/adventures_cross_compilation) - [Adventures In Cross Compilation](https://kentiklabs.com/blog/adventures-in-cross-compilation/)
 * [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
-* [2022-10-27, 08:42:15](https://lobste.rs/s/cacctt/smtp_orangewebsite_using_your_own) - [SMTP, OrangeWebsite and using your own computing resources](https://ageinghacker.net/blog/posts/32/)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
 * [2022-10-27, 07:55:22](https://lobste.rs/s/g4qcfg/systemd_isn_t_safe_run_anywhere_2021) - [systemd isn't safe to run anywhere (2021)](https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html)
@@ -24,6 +23,7 @@
 * [2022-10-26, 20:16:56](https://lobste.rs/s/flinr6/metaballs) - [Metaballs](https://varun.ca/metaballs/)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 * [2022-10-26, 19:52:07](https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea) - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
+* [2022-10-26, 18:04:19](https://lobste.rs/s/odqdmg/phar_lap_frontrunner_winning_dos_desktop) - [Phar Lap FrontRunner - The Winning DOS Desktop for Windows](https://computeradsfromthepast.substack.com/p/phar-lap-frontrunner)
 * [2022-10-25, 15:05:39](https://lobste.rs/s/csax21/zig_is_self_hosted_now_what_s_next) - [Zig is Self-hosted Now, What's Next?](https://kristoff.it/blog/zig-self-hosted-now-what/)
 
 ## [Archives](archives/index.md)
