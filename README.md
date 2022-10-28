@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 * [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
 * [2022-10-28, 01:30:03](https://lobste.rs/s/dpfgi0/starting_services) - [Starting Services](https://quindarius.com/timeline/2022/10/27/starting-services.html)
 * [2022-10-27, 23:02:09](https://lobste.rs/s/0gtykc/towards_next_generation_xnu_memory) - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
@@ -17,7 +18,6 @@
 * [2022-10-27, 12:12:05](https://lobste.rs/s/pl3ogs/undecidability_1999) - [Undecidability (1999)](https://www.cs.rochester.edu/u/nelson/courses/csc_173/computability/undecidable.html)
 * [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
-* [2022-10-27, 10:51:43](https://lobste.rs/s/jdemfc/adventures_cross_compilation) - [Adventures In Cross Compilation](https://kentiklabs.com/blog/adventures-in-cross-compilation/)
 * [2022-10-27, 10:07:53](https://lobste.rs/s/ehrvpz/exploring_intricate_execution) - [Exploring intricate execution mysteries by reversing a crackme](http://blog.pkh.me/p/34-exploring-intricate-execution-mysteries-by-reversing-a-crackme.html)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
