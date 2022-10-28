@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-28, 01:30:03",
+      "https://lobste.rs/s/dpfgi0/starting_services"
+    ],
+    [
+      "Starting Services",
+      "https://quindarius.com/timeline/2022/10/27/starting-services.html"
+    ]
+  ],
+  [
+    [
       "2022-10-27, 23:02:09",
       "https://lobste.rs/s/0gtykc/towards_next_generation_xnu_memory"
     ],
@@ -197,16 +207,6 @@
     [
       "Do we need a \"Rust Standard\"?",
       "https://blog.m-ou.se/rust-standard/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 07:55:22",
-      "https://lobste.rs/s/g4qcfg/systemd_isn_t_safe_run_anywhere_2021"
-    ],
-    [
-      "systemd isn't safe to run anywhere (2021)",
-      "https://www.unixsheikh.com/articles/systemd-isnt-safe-to-run-anywhere.html"
     ]
   ],
   [
