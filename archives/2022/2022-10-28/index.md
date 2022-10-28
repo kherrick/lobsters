@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
+* [2022-10-28, 15:26:22](https://lobste.rs/s/s6dmop/pingcap_talent_plan_open_source_training) - [pingcap/talent-plan: open source training courses about distributed database and distributed systems](https://github.com/pingcap/talent-plan)
 * [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 * [2022-10-28, 13:13:17](https://lobste.rs/s/xt7min/how_communicate_effectively_as) - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)

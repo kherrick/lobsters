@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
+* [2022-10-28, 15:26:22](https://lobste.rs/s/s6dmop/pingcap_talent_plan_open_source_training) - [pingcap/talent-plan: open source training courses about distributed database and distributed systems](https://github.com/pingcap/talent-plan)
 * [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 * [2022-10-28, 13:13:17](https://lobste.rs/s/xt7min/how_communicate_effectively_as) - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
@@ -13,9 +15,7 @@
 * [2022-10-28, 06:47:37](https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [2022-10-28, 06:36:46](https://lobste.rs/s/bzncor/one_time_programs) - [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
 * [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
-* [2022-10-28, 02:55:30](https://lobste.rs/s/zs3kuw/apple_books_app_2022_pictures) - [Apple Books app 2022, in pictures](https://techreflect.net/2022/10/apple-books-2022-in-pictures/)
 * [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
-* [2022-10-28, 01:30:03](https://lobste.rs/s/dpfgi0/starting_services) - [Starting Services](https://quindarius.com/timeline/2022/10/27/starting-services.html)
 * [2022-10-27, 23:02:09](https://lobste.rs/s/0gtykc/towards_next_generation_xnu_memory) - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
 * [2022-10-27, 20:58:10](https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s) - [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
 * [2022-10-27, 20:49:35](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite) - [Recommendations thread: Your favorite sources of raw data (of any type)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
