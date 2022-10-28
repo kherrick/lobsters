@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-28, 18:49:35",
+      "https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual"
+    ],
+    [
+      "What are your favorite diagrams / visual explanations in CS / Software Engineering?",
+      "https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 18:29:44",
       "https://lobste.rs/s/bry0l0/taxonomy_is_hard"
     ],
@@ -177,16 +187,6 @@
     [
       "Towards the next generation of XNU memory safety: kalloc_type",
       "https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 20:58:10",
-      "https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s"
-    ],
-    [
-      "specialist: Visualize CPython 3.11's specializing, adaptive interpreter",
-      "https://pypi.org/project/specialist/"
     ]
   ],
   [
