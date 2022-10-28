@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 * [2022-10-28, 13:13:17](https://lobste.rs/s/xt7min/how_communicate_effectively_as) - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
 * [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
