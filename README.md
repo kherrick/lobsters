@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
 * [2022-10-28, 01:30:03](https://lobste.rs/s/dpfgi0/starting_services) - [Starting Services](https://quindarius.com/timeline/2022/10/27/starting-services.html)
 * [2022-10-27, 23:02:09](https://lobste.rs/s/0gtykc/towards_next_generation_xnu_memory) - [Towards the next generation of XNU memory safety: kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
 * [2022-10-27, 22:08:02](https://lobste.rs/s/wiyxwr/linux_userspace_api_uapi_group) - [The Linux Userspace API (UAPI) Group](https://uapi-group.org/)
 * [2022-10-27, 21:21:05](https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object) - [Real World Adversarial Attacks on Object Detectors](https://arxiv.org/abs/1910.14667)
-* [2022-10-27, 21:01:35](https://lobste.rs/s/or4oq9/automate_pull_requests_1_minute_with) - [Automate pull requests in 1 minute with Reviewpad](https://reviewpad.com/blog/automate-pull-requests-in-one-minute)
 * [2022-10-27, 20:58:10](https://lobste.rs/s/cx6z47/specialist_visualize_cpython_3_11_s) - [specialist: Visualize CPython 3.11's specializing, adaptive interpreter](https://pypi.org/project/specialist/)
 * [2022-10-27, 20:49:35](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite) - [Recommendations thread: Your favorite sources of raw data (of any type)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
 * [2022-10-27, 20:22:19](https://lobste.rs/s/wfczln/nes_nesume_nes_game_based_resume_rom) - [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
