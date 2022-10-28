@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-28, 09:22:13",
+      "https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink"
+    ],
+    [
+      "Introduction to Firmware Analysis of a Reolink IP Camera",
+      "https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 08:29:35",
       "https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker"
     ],
@@ -237,16 +247,6 @@
     [
       "What if the team hates my functional code?",
       "https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/"
-    ]
-  ],
-  [
-    [
-      "2022-10-26, 19:52:07",
-      "https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea"
-    ],
-    [
-      "Open source sustainment and the future of Gitea",
-      "https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/"
     ]
   ]
 ]
