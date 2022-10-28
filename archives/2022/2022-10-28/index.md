@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
 * [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
 * [2022-10-28, 15:26:22](https://lobste.rs/s/s6dmop/pingcap_talent_plan_open_source_training) - [pingcap/talent-plan: open source training courses about distributed database and distributed systems](https://github.com/pingcap/talent-plan)
