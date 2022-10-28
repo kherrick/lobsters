@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 09:22:13](https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink) - [Introduction to Firmware Analysis of a Reolink IP Camera](https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/)
 * [2022-10-28, 08:29:35](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker) - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 * [2022-10-28, 08:27:43](https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters) - [Necro ML: Generating OCaml Interpreters](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
 * [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)

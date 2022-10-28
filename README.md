@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 09:22:13](https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink) - [Introduction to Firmware Analysis of a Reolink IP Camera](https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/)
 * [2022-10-28, 08:29:35](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker) - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 * [2022-10-28, 08:27:43](https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters) - [Necro ML: Generating OCaml Interpreters](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
 * [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
@@ -24,7 +25,6 @@
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-27, 01:20:46](https://lobste.rs/s/ph7foo/how_speed_up_rust_compiler_october_2022) - [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
-* [2022-10-26, 19:52:07](https://lobste.rs/s/jglkoo/open_source_sustainment_future_gitea) - [Open source sustainment and the future of Gitea](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
 
 ## [Archives](archives/index.md)
 
