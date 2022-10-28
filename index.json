@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-28, 15:31:45",
+      "https://lobste.rs/s/wp5nnh/open_letter_gitea"
+    ],
+    [
+      "An Open Letter to Gitea",
+      "https://gitea-open-letter.coding.social/"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 15:26:22",
+      "https://lobste.rs/s/s6dmop/pingcap_talent_plan_open_source_training"
+    ],
+    [
+      "pingcap/talent-plan: open source training courses about distributed database and distributed systems",
+      "https://github.com/pingcap/talent-plan"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 14:05:46",
       "https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2022-10-28, 02:55:30",
-      "https://lobste.rs/s/zs3kuw/apple_books_app_2022_pictures"
-    ],
-    [
-      "Apple Books app 2022, in pictures",
-      "https://techreflect.net/2022/10/apple-books-2022-in-pictures/"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 02:47:42",
       "https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime"
     ],
     [
       "Safely renaming a table with no downtime in Postgres",
       "https://brandur.org/fragments/postgres-table-rename"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 01:30:03",
-      "https://lobste.rs/s/dpfgi0/starting_services"
-    ],
-    [
-      "Starting Services",
-      "https://quindarius.com/timeline/2022/10/27/starting-services.html"
     ]
   ],
   [
