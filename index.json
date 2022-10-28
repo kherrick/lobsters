@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-28, 08:29:35",
+      "https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker"
+    ],
+    [
+      "Bringing a dynamic environment to C: My linker project",
+      "https://macoy.me/blog/programming/LinkerLoaderIntro"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 08:27:43",
+      "https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters"
+    ],
+    [
+      "Necro ML: Generating OCaml Interpreters",
+      "https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 08:27:38",
+      "https://lobste.rs/s/zwugbc/why_is_markdown_popular"
+    ],
+    [
+      "Why is Markdown popular?",
+      "https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 06:47:37",
       "https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2022-10-27, 22:08:02",
-      "https://lobste.rs/s/wiyxwr/linux_userspace_api_uapi_group"
-    ],
-    [
-      "The Linux Userspace API (UAPI) Group",
-      "https://uapi-group.org/"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 21:21:05",
       "https://lobste.rs/s/0p1wci/real_world_adversarial_attacks_on_object"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-10-27, 15:32:12",
-      "https://lobste.rs/s/rzvs21/what_do_we_really_mean_by_microservice"
-    ],
-    [
-      "What do we really mean by microservice configuration?",
-      "https://encore.dev/blog/designing-a-config-api"
-    ]
-  ],
-  [
-    [
       "2022-10-27, 13:59:33",
       "https://lobste.rs/s/rnzyys/how_leverage_http_conditional_requests"
     ],
@@ -187,16 +197,6 @@
     [
       "Booting an M1 Mac from hardware to kexts",
       "https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 08:06:05",
-      "https://lobste.rs/s/xamwub/announcing_haskell_error_index"
-    ],
-    [
-      "Announcing the Haskell Error Index",
-      "https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195"
     ]
   ],
   [
