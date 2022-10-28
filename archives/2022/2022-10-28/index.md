@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
+* [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
 * [2022-10-28, 09:41:28](https://lobste.rs/s/r5ga12/fuguita_7_2_fuguita) - [FuguIta/7.2 - FuguIta](https://fuguita.org/index.php?FuguIta/7.2)
 * [2022-10-28, 09:36:54](https://lobste.rs/s/jbom2u/rspamd_dashboard) - [rspamd dashboard](https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html)
 * [2022-10-28, 09:22:13](https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink) - [Introduction to Firmware Analysis of a Reolink IP Camera](https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/)

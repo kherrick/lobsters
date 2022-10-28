@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
+* [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
 * [2022-10-28, 09:41:28](https://lobste.rs/s/r5ga12/fuguita_7_2_fuguita) - [FuguIta/7.2 - FuguIta](https://fuguita.org/index.php?FuguIta/7.2)
 * [2022-10-28, 09:36:54](https://lobste.rs/s/jbom2u/rspamd_dashboard) - [rspamd dashboard](https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html)
 * [2022-10-28, 09:22:13](https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink) - [Introduction to Firmware Analysis of a Reolink IP Camera](https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/)
@@ -21,9 +23,7 @@
 * [2022-10-27, 13:28:40](https://lobste.rs/s/xooyhy/keyboard_shortcuts_every_command_line) - [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 * [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
-* [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
-* [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
 * [2022-10-26, 20:01:46](https://lobste.rs/s/zshds2/what_if_team_hates_my_functional_code) - [What if the team hates my functional code?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
 
 ## [Archives](archives/index.md)
