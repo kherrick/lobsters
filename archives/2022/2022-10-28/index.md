@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-28](index.md)
 
+* [2022-10-28, 06:47:37](https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [2022-10-28, 06:36:46](https://lobste.rs/s/bzncor/one_time_programs) - [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
 * [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 * [2022-10-28, 02:55:30](https://lobste.rs/s/zs3kuw/apple_books_app_2022_pictures) - [Apple Books app 2022, in pictures](https://techreflect.net/2022/10/apple-books-2022-in-pictures/)

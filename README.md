@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 06:47:37](https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [2022-10-28, 06:36:46](https://lobste.rs/s/bzncor/one_time_programs) - [One-Time Programs](https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/)
 * [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 * [2022-10-28, 02:55:30](https://lobste.rs/s/zs3kuw/apple_books_app_2022_pictures) - [Apple Books app 2022, in pictures](https://techreflect.net/2022/10/apple-books-2022-in-pictures/)
@@ -18,7 +19,6 @@
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 * [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
 * [2022-10-27, 12:10:29](https://lobste.rs/s/hfr9se/booting_m1_mac_from_hardware_kexts) - [Booting an M1 Mac from hardware to kexts](https://eclecticlight.co/2022/01/04/booting-an-m1-mac-from-hardware-to-kexts-1-hardware/)
-* [2022-10-27, 11:53:01](https://lobste.rs/s/pzwr6t/remembering_professor_kathleen_booth) - [Remembering Professor Kathleen Booth, 1922-2022](http://blogs.bbk.ac.uk/bbkcomments/2022/10/06/remembering-professor-kathleen-booth-1922-2022/)
 * [2022-10-27, 08:06:05](https://lobste.rs/s/xamwub/announcing_haskell_error_index) - [Announcing the Haskell Error Index](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195)
 * [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
 * [2022-10-27, 02:51:12](https://lobste.rs/s/akwo1d/our_computer_security_problems_are_our) - [Our computer security problems are our own fault](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityItsOurOwnFault)
