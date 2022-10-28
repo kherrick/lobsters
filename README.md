@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 21:45:37](https://lobste.rs/s/yrmv1m/kde_qt5_patch_collection_has_been_rebased) - [The KDE Qt5 Patch Collection has been rebased on top of Qt 5.15.7](https://tsdgeos.blogspot.com/2022/10/the-kde-qt5-patch-collection-has-been.html?m=1)
 * [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
 * [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
@@ -9,7 +10,6 @@
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
 * [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
 * [2022-10-28, 09:41:28](https://lobste.rs/s/r5ga12/fuguita_7_2_fuguita) - [FuguIta/7.2 - FuguIta](https://fuguita.org/index.php?FuguIta/7.2)
-* [2022-10-28, 09:36:54](https://lobste.rs/s/jbom2u/rspamd_dashboard) - [rspamd dashboard](https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html)
 * [2022-10-28, 09:22:13](https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink) - [Introduction to Firmware Analysis of a Reolink IP Camera](https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/)
 * [2022-10-28, 08:29:35](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker) - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 * [2022-10-28, 08:27:43](https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters) - [Necro ML: Generating OCaml Interpreters](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
