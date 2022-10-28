@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-28, 22:00:04",
+      "https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved"
+    ],
+    [
+      "PyTorch 1.13 release, including improved support for Apple's new M1 chips",
+      "https://pytorch.org/blog/PyTorch-1.13-release/"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 21:45:37",
       "https://lobste.rs/s/yrmv1m/kde_qt5_patch_collection_has_been_rebased"
     ],
@@ -37,16 +47,6 @@
     [
       "An Open Letter to Gitea",
       "https://gitea-open-letter.coding.social/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 15:26:22",
-      "https://lobste.rs/s/s6dmop/pingcap_talent_plan_open_source_training"
-    ],
-    [
-      "pingcap/talent-plan: open source training courses about distributed database and distributed systems",
-      "https://github.com/pingcap/talent-plan"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "FuguIta/7.2 - FuguIta",
       "https://fuguita.org/index.php?FuguIta/7.2"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 09:22:13",
-      "https://lobste.rs/s/nwd5bx/introduction_firmware_analysis_reolink"
-    ],
-    [
-      "Introduction to Firmware Analysis of a Reolink IP Camera",
-      "https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Safely renaming a table with no downtime in Postgres",
       "https://brandur.org/fragments/postgres-table-rename"
+    ]
+  ],
+  [
+    [
+      "2022-10-28, 01:30:03",
+      "https://lobste.rs/s/dpfgi0/starting_services"
+    ],
+    [
+      "Starting Services",
+      "https://quindarius.com/timeline/2022/10/27/starting-services.html"
     ]
   ],
   [
