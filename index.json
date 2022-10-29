@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-29, 20:46:00",
+      "https://lobste.rs/s/tgen6r/perfect_commit"
+    ],
+    [
+      "The Perfect Commit",
+      "https://simonwillison.net/2022/Oct/29/the-perfect-commit/"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 19:45:16",
       "https://lobste.rs/s/h72rpu/ideal_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Shell Script Best Practices",
       "https://sharats.me/posts/shell-script-best-practices/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 13:23:11",
-      "https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve"
-    ],
-    [
-      "Upcoming critical OpenSSL CVE",
-      "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html"
     ]
   ]
 ]
