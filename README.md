@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
 * [2022-10-29, 19:02:54](https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any) - [rset(1): configure systems using any scripting language](https://scriptedconfiguration.org/)
 * [2022-10-29, 07:23:09](https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems) - [The Talos II, Blackbird POWER9 systems support tagged memory](https://www.devever.net/~hl/power9tags)
 * [2022-10-29, 02:30:18](https://lobste.rs/s/khshsx/computer_chronicles_hypercard_1987) - [The Computer Chronicles - Hypercard (1987)](https://youtube.com/watch?v=FquNpWdf9vg)
@@ -7,7 +8,6 @@
 * [2022-10-29, 01:35:52](https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3) - [Source code for SunOS 4.1.3](https://github.com/Arquivotheca/SunOS-4.1.3)
 * [2022-10-28, 23:54:39](https://lobste.rs/s/svzb5j/rc4_is_still_considered_harmful) - [RC4 Is Still Considered Harmful](https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html)
 * [2022-10-28, 22:00:04](https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved) - [PyTorch 1.13 release, including improved support for Apple's new M1 chips](https://pytorch.org/blog/PyTorch-1.13-release/)
-* [2022-10-28, 21:45:37](https://lobste.rs/s/yrmv1m/kde_qt5_patch_collection_has_been_rebased) - [The KDE Qt5 Patch Collection has been rebased on top of Qt 5.15.7](https://tsdgeos.blogspot.com/2022/10/the-kde-qt5-patch-collection-has-been.html?m=1)
 * [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
 * [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
