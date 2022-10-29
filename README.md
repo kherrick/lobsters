@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-28, 23:54:39](https://lobste.rs/s/svzb5j/rc4_is_still_considered_harmful) - [RC4 Is Still Considered Harmful](https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html)
 * [2022-10-28, 22:00:04](https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved) - [PyTorch 1.13 release, including improved support for Apple's new M1 chips](https://pytorch.org/blog/PyTorch-1.13-release/)
 * [2022-10-28, 21:45:37](https://lobste.rs/s/yrmv1m/kde_qt5_patch_collection_has_been_rebased) - [The KDE Qt5 Patch Collection has been rebased on top of Qt 5.15.7](https://tsdgeos.blogspot.com/2022/10/the-kde-qt5-patch-collection-has-been.html?m=1)
 * [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
@@ -24,7 +25,6 @@
 * [2022-10-27, 16:56:17](https://lobste.rs/s/rq0qy3/sidekiq_7_0) - [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 * [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
-* [2022-10-27, 08:03:07](https://lobste.rs/s/feawyf/do_we_need_rust_standard) - [Do we need a \"Rust Standard\"?](https://blog.m-ou.se/rust-standard/)
 
 ## [Archives](archives/index.md)
 
