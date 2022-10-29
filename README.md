@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 * [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
 * [2022-10-29, 19:02:54](https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any) - [rset(1): configure systems using any scripting language](https://scriptedconfiguration.org/)
 * [2022-10-29, 07:23:09](https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems) - [The Talos II, Blackbird POWER9 systems support tagged memory](https://www.devever.net/~hl/power9tags)
@@ -24,7 +25,6 @@
 * [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
 * [2022-10-27, 16:56:17](https://lobste.rs/s/rq0qy3/sidekiq_7_0) - [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
-* [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
 
 ## [Archives](archives/index.md)
 
