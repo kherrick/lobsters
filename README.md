@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-29, 19:02:54](https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any) - [rset(1): configure systems using any scripting language](https://scriptedconfiguration.org/)
 * [2022-10-29, 07:23:09](https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems) - [The Talos II, Blackbird POWER9 systems support tagged memory](https://www.devever.net/~hl/power9tags)
 * [2022-10-29, 02:30:18](https://lobste.rs/s/khshsx/computer_chronicles_hypercard_1987) - [The Computer Chronicles - Hypercard (1987)](https://youtube.com/watch?v=FquNpWdf9vg)
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
@@ -21,7 +22,6 @@
 * [2022-10-28, 06:47:37](https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 * [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
-* [2022-10-27, 20:22:19](https://lobste.rs/s/wfczln/nes_nesume_nes_game_based_resume_rom) - [nes-nesume: A NES game based resume in ROM format](https://github.com/ronaldstoner/nes-nesume)
 * [2022-10-27, 16:56:17](https://lobste.rs/s/rq0qy3/sidekiq_7_0) - [Sidekiq 7.0](https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/)
 * [2022-10-27, 13:24:45](https://lobste.rs/s/knvmr1/shell_script_best_practices) - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 * [2022-10-27, 13:23:11](https://lobste.rs/s/lyofy4/upcoming_critical_openssl_cve) - [Upcoming critical OpenSSL CVE](https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html)
