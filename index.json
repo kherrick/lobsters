@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-28, 23:54:39",
+      "https://lobste.rs/s/svzb5j/rc4_is_still_considered_harmful"
+    ],
+    [
+      "RC4 Is Still Considered Harmful",
+      "https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html"
+    ]
+  ],
+  [
+    [
       "2022-10-28, 22:00:04",
       "https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved"
     ],
@@ -237,16 +247,6 @@
     [
       "Upcoming critical OpenSSL CVE",
       "https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 08:03:07",
-      "https://lobste.rs/s/feawyf/do_we_need_rust_standard"
-    ],
-    [
-      "Do we need a \"Rust Standard\"?",
-      "https://blog.m-ou.se/rust-standard/"
     ]
   ]
 ]
