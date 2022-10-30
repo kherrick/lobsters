@@ -1,11 +1,21 @@
 [
   [
     [
-      "2022-10-30, 14:55:17",
-      "https://lobste.rs/s/lq9oi9/netbsd_hunting_kernel_lock_interrupt"
+      "2022-10-30, 16:35:05",
+      "https://lobste.rs/s/621mue/idris_2_version_0_6_0_released"
     ],
     [
-      "[NetBSD] Hunting kernel lock and interrupt latency",
+      "Idris 2 version 0.6.0 Released",
+      "https://www.idris-lang.org/idris-2-version-060-released.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 14:55:17",
+      "https://lobste.rs/s/lq9oi9/hunting_kernel_lock_interrupt_latency"
+    ],
+    [
+      "Hunting kernel lock and interrupt latency",
       "https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Passkeys as a tool for user retention",
       "https://matduggan.com/passkeys-as-a-tool-for-user-retention/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 13:13:17",
-      "https://lobste.rs/s/xt7min/how_communicate_effectively_as"
-    ],
-    [
-      "How to communicate effectively as a developer",
-      "https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/"
     ]
   ],
   [
