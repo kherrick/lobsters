@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 22:37:46](https://lobste.rs/s/oj7l70/legacy_database_migration_what_know) - [Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 * [2022-10-30, 22:20:18](https://lobste.rs/s/poxbcr/does_experience_make_you_better) - [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 * [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2022-10-30, 21:11:27](https://lobste.rs/s/l1tqf2/apple_ii_tale_told_complete_by_late_tony) - [An Apple II Tale Told Complete by the Late Tony Diaz](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
