@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 06:21:55](https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable) - [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-30, 00:47:26](https://lobste.rs/s/t7yj9p/mini5_hello_world) - [A Mini5 Hello World](https://www.leadedsolder.com/2022/10/29/pwp50ha-nec-mini5-cpm-programming.html)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
@@ -18,7 +19,6 @@
 * [2022-10-28, 13:13:17](https://lobste.rs/s/xt7min/how_communicate_effectively_as) - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
 * [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
-* [2022-10-28, 09:41:28](https://lobste.rs/s/r5ga12/fuguita_7_2_fuguita) - [FuguIta/7.2 - FuguIta](https://fuguita.org/index.php?FuguIta/7.2)
 * [2022-10-28, 08:29:35](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker) - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 * [2022-10-28, 08:27:43](https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters) - [Necro ML: Generating OCaml Interpreters](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
 * [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
