@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 18:27:03](https://lobste.rs/s/bktc82/discerning_dominant_out_order) - [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
+* [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
+* [2022-10-30, 18:01:23](https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject) - [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
 * [2022-10-30, 17:56:17](https://lobste.rs/s/diox9o/precision_timed_machines_2012) - [Precision Timed Machines (2012)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-113.pdf)
 * [2022-10-30, 17:16:44](https://lobste.rs/s/awjfmo/7_estimation_anti_patterns) - [7 Estimation Anti-Patterns](https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)

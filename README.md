@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 18:27:03](https://lobste.rs/s/bktc82/discerning_dominant_out_order) - [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
+* [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
+* [2022-10-30, 18:01:23](https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject) - [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
 * [2022-10-30, 17:56:17](https://lobste.rs/s/diox9o/precision_timed_machines_2012) - [Precision Timed Machines (2012)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-113.pdf)
 * [2022-10-30, 17:16:44](https://lobste.rs/s/awjfmo/7_estimation_anti_patterns) - [7 Estimation Anti-Patterns](https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
@@ -18,13 +21,10 @@
 * [2022-10-29, 02:30:18](https://lobste.rs/s/khshsx/computer_chronicles_hypercard_1987) - [The Computer Chronicles - Hypercard (1987)](https://youtube.com/watch?v=FquNpWdf9vg)
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
 * [2022-10-29, 01:35:52](https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3) - [Source code for SunOS 4.1.3](https://github.com/Arquivotheca/SunOS-4.1.3)
-* [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
 * [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
 * [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
-* [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
-* [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
 
 ## [Archives](archives/index.md)
 
