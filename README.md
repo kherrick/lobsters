@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 * [2022-10-30, 06:21:55](https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable) - [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-30, 00:47:26](https://lobste.rs/s/t7yj9p/mini5_hello_world) - [A Mini5 Hello World](https://www.leadedsolder.com/2022/10/29/pwp50ha-nec-mini5-cpm-programming.html)
@@ -22,7 +23,6 @@
 * [2022-10-28, 08:29:35](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker) - [Bringing a dynamic environment to C: My linker project](https://macoy.me/blog/programming/LinkerLoaderIntro)
 * [2022-10-28, 08:27:43](https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters) - [Necro ML: Generating OCaml Interpreters](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
 * [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
-* [2022-10-28, 06:47:37](https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent) - [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 * [2022-10-28, 02:47:42](https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime) - [Safely renaming a table with no downtime in Postgres](https://brandur.org/fragments/postgres-table-rename)
 
