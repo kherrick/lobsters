@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 17:56:17](https://lobste.rs/s/diox9o/precision_timed_machines_2012) - [Precision Timed Machines (2012)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-113.pdf)
 * [2022-10-30, 17:16:44](https://lobste.rs/s/awjfmo/7_estimation_anti_patterns) - [7 Estimation Anti-Patterns](https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
@@ -24,7 +25,6 @@
 * [2022-10-28, 12:59:17](https://lobste.rs/s/1640ea/early_speed_optimizations_aren_t) - [Early speed optimizations aren’t premature](https://pythonspeed.com/articles/premature-optimization/)
 * [2022-10-28, 12:17:53](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend)
 * [2022-10-28, 08:27:38](https://lobste.rs/s/zwugbc/why_is_markdown_popular) - [Why is Markdown popular?](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
-* [2022-10-28, 04:12:35](https://lobste.rs/s/u1vffw/beating_super_mario_bros_3_19_frames) - [Beating Super Mario Bros 3 in 19 frames](https://tasvideos.org/7245S)
 
 ## [Archives](archives/index.md)
 

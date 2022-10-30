@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 17:56:17](https://lobste.rs/s/diox9o/precision_timed_machines_2012) - [Precision Timed Machines (2012)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-113.pdf)
 * [2022-10-30, 17:16:44](https://lobste.rs/s/awjfmo/7_estimation_anti_patterns) - [7 Estimation Anti-Patterns](https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
