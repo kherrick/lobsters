@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 * [2022-10-30, 06:21:55](https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable) - [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
@@ -12,7 +13,6 @@
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
 * [2022-10-29, 01:35:52](https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3) - [Source code for SunOS 4.1.3](https://github.com/Arquivotheca/SunOS-4.1.3)
 * [2022-10-28, 23:54:39](https://lobste.rs/s/svzb5j/rc4_is_still_considered_harmful) - [RC4 Is Still Considered Harmful](https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html)
-* [2022-10-28, 22:00:04](https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved) - [PyTorch 1.13 release, including improved support for Apple's new M1 chips](https://pytorch.org/blog/PyTorch-1.13-release/)
 * [2022-10-28, 18:49:35](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual) - [What are your favorite diagrams / visual explanations in CS / Software Engineering?](https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual)
 * [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
