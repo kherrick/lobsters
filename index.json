@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-30, 14:55:17",
+      "https://lobste.rs/s/lq9oi9/netbsd_hunting_kernel_lock_interrupt"
+    ],
+    [
+      "[NetBSD] Hunting kernel lock and interrupt latency",
+      "https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 13:07:29",
       "https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit"
     ],
@@ -217,16 +227,6 @@
     [
       "Bringing a dynamic environment to C: My linker project",
       "https://macoy.me/blog/programming/LinkerLoaderIntro"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 08:27:43",
-      "https://lobste.rs/s/smayfg/necro_ml_generating_ocaml_interpreters"
-    ],
-    [
-      "Necro ML: Generating OCaml Interpreters",
-      "https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf"
     ]
   ],
   [
