@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-30, 12:00:26",
+      "https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare"
+    ],
+    [
+      "Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?",
+      "https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 09:52:16",
       "https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few"
     ],
@@ -117,16 +127,6 @@
     [
       "RC4 Is Still Considered Harmful",
       "https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 22:00:04",
-      "https://lobste.rs/s/yqfqzb/pytorch_1_13_release_including_improved"
-    ],
-    [
-      "PyTorch 1.13 release, including improved support for Apple's new M1 chips",
-      "https://pytorch.org/blog/PyTorch-1.13-release/"
     ]
   ],
   [
