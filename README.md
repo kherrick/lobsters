@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 22:20:18](https://lobste.rs/s/poxbcr/does_experience_make_you_better) - [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 * [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2022-10-30, 21:11:27](https://lobste.rs/s/l1tqf2/apple_ii_tale_told_complete_by_late_tony) - [An Apple II Tale Told Complete by the Late Tony Diaz](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
 * [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
@@ -19,7 +20,6 @@
 * [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 * [2022-10-30, 06:21:55](https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable) - [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
-* [2022-10-30, 00:47:26](https://lobste.rs/s/t7yj9p/mini5_hello_world) - [A Mini5 Hello World](https://www.leadedsolder.com/2022/10/29/pwp50ha-nec-mini5-cpm-programming.html)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 * [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
 * [2022-10-29, 19:02:54](https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any) - [rset(1): configure systems using any scripting language](https://scriptedconfiguration.org/)
