@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-30, 00:47:26",
+      "https://lobste.rs/s/t7yj9p/mini5_hello_world"
+    ],
+    [
+      "A Mini5 Hello World",
+      "https://www.leadedsolder.com/2022/10/29/pwp50ha-nec-mini5-cpm-programming.html"
+    ]
+  ],
+  [
+    [
       "2022-10-29, 20:46:00",
       "https://lobste.rs/s/tgen6r/perfect_commit"
     ],
@@ -237,16 +247,6 @@
     [
       "Sidekiq 7.0",
       "https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/"
-    ]
-  ],
-  [
-    [
-      "2022-10-27, 13:24:45",
-      "https://lobste.rs/s/knvmr1/shell_script_best_practices"
-    ],
-    [
-      "Shell Script Best Practices",
-      "https://sharats.me/posts/shell-script-best-practices/"
     ]
   ]
 ]
