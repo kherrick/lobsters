@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 14:55:17](https://lobste.rs/s/lq9oi9/netbsd_hunting_kernel_lock_interrupt) - [[NetBSD] Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)
 * [2022-10-30, 13:07:29](https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit) - [Agon light - low cost open-source 8-bit microcomputer and microcontroller](https://www.thebyteattic.com/p/agon.html)
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
