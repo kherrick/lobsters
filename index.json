@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-30, 09:52:16",
+      "https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few"
+    ],
+    [
+      "A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)",
+      "https://www.stroustrup.com/tour3.html"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 06:21:55",
       "https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable"
     ],
@@ -217,16 +227,6 @@
     [
       "Why is Markdown popular?",
       "https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 06:47:37",
-      "https://lobste.rs/s/nxryzr/understanding_clojure_s_persistent"
-    ],
-    [
-      "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
-      "https://hypirion.com/musings/understanding-persistent-vector-pt-1"
     ]
   ],
   [
