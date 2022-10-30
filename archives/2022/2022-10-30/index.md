@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
+* [2022-10-30, 20:02:32](https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby) - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
 * [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 * [2022-10-30, 18:29:06](https://lobste.rs/s/nzzqow/teletel_french_internet_80s_how_did_it) - [Télétel, the French Internet of the 80s — How did it work?](https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1)
 * [2022-10-30, 18:27:03](https://lobste.rs/s/bktc82/discerning_dominant_out_order) - [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
