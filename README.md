@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
+* [2022-10-30, 21:11:27](https://lobste.rs/s/l1tqf2/apple_ii_tale_told_complete_by_late_tony) - [An Apple II Tale Told Complete by the Late Tony Diaz](https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/)
 * [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2022-10-30, 20:02:32](https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby) - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
 * [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
@@ -23,8 +25,6 @@
 * [2022-10-29, 19:02:54](https://lobste.rs/s/0ju7yt/rset_1_configure_systems_using_any) - [rset(1): configure systems using any scripting language](https://scriptedconfiguration.org/)
 * [2022-10-29, 07:23:09](https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems) - [The Talos II, Blackbird POWER9 systems support tagged memory](https://www.devever.net/~hl/power9tags)
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
-* [2022-10-29, 01:35:52](https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3) - [Source code for SunOS 4.1.3](https://github.com/Arquivotheca/SunOS-4.1.3)
-* [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 
 ## [Archives](archives/index.md)
 
