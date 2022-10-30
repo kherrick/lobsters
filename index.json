@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-10-30, 18:27:03",
+      "https://lobste.rs/s/bktc82/discerning_dominant_out_order"
+    ],
+    [
+      "Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)",
+      "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 18:10:44",
+      "https://lobste.rs/s/sdxq68/decker"
+    ],
+    [
+      "Decker",
+      "https://beyondloom.com/decker/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 18:01:23",
+      "https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject"
+    ],
+    [
+      "About the sqlite3 WASM/JS Subproject",
+      "https://sqlite.org/wasm/doc/tip/about.md"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 17:56:17",
       "https://lobste.rs/s/diox9o/precision_timed_machines_2012"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2022-10-28, 18:49:35",
-      "https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual"
-    ],
-    [
-      "What are your favorite diagrams / visual explanations in CS / Software Engineering?",
-      "https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 18:29:44",
       "https://lobste.rs/s/bry0l0/taxonomy_is_hard"
     ],
@@ -227,26 +247,6 @@
     [
       "Early speed optimizations aren’t premature",
       "https://pythonspeed.com/articles/premature-optimization/"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 12:17:53",
-      "https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 08:27:38",
-      "https://lobste.rs/s/zwugbc/why_is_markdown_popular"
-    ],
-    [
-      "Why is Markdown popular?",
-      "https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html"
     ]
   ]
 ]
