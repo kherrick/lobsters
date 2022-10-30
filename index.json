@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-30, 17:16:44",
+      "https://lobste.rs/s/awjfmo/7_estimation_anti_patterns"
+    ],
+    [
+      "7 Estimation Anti-Patterns",
+      "https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 17:03:34",
+      "https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep"
+    ],
+    [
+      "Compatibility: How Go Programs Keep Working",
+      "https://www.youtube.com/watch?v=v24wrd3RwGo"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 16:35:05",
       "https://lobste.rs/s/621mue/idris_2_version_0_6_0_released"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-10-28, 23:54:39",
-      "https://lobste.rs/s/svzb5j/rc4_is_still_considered_harmful"
-    ],
-    [
-      "RC4 Is Still Considered Harmful",
-      "https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html"
-    ]
-  ],
-  [
-    [
       "2022-10-28, 18:49:35",
       "https://lobste.rs/s/uhanj1/what_are_your_favorite_diagrams_visual"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/twqmn1/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 08:29:35",
-      "https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker"
-    ],
-    [
-      "Bringing a dynamic environment to C: My linker project",
-      "https://macoy.me/blog/programming/LinkerLoaderIntro"
     ]
   ],
   [
