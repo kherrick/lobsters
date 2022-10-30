@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2022-10-30](index.md)
 
+* [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-30, 00:47:26](https://lobste.rs/s/t7yj9p/mini5_hello_world) - [A Mini5 Hello World](https://www.leadedsolder.com/2022/10/29/pwp50ha-nec-mini5-cpm-programming.html)
