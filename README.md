@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 * [2022-10-30, 18:29:06](https://lobste.rs/s/nzzqow/teletel_french_internet_80s_how_did_it) - [Télétel, the French Internet of the 80s — How did it work?](https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1)
 * [2022-10-30, 18:27:03](https://lobste.rs/s/bktc82/discerning_dominant_out_order) - [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
@@ -22,7 +23,6 @@
 * [2022-10-29, 02:30:18](https://lobste.rs/s/khshsx/computer_chronicles_hypercard_1987) - [The Computer Chronicles - Hypercard (1987)](https://youtube.com/watch?v=FquNpWdf9vg)
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
 * [2022-10-29, 01:35:52](https://lobste.rs/s/ec45zx/source_code_for_sunos_4_1_3) - [Source code for SunOS 4.1.3](https://github.com/Arquivotheca/SunOS-4.1.3)
-* [2022-10-28, 18:29:44](https://lobste.rs/s/bry0l0/taxonomy_is_hard) - [Taxonomy is Hard](https://www.autodidacts.io/taxonomy-is-hard/)
 * [2022-10-28, 15:31:45](https://lobste.rs/s/wp5nnh/open_letter_gitea) - [An Open Letter to Gitea](https://gitea-open-letter.coding.social/)
 * [2022-10-28, 14:05:46](https://lobste.rs/s/xqv3j3/passkeys_as_tool_for_user_retention) - [Passkeys as a tool for user retention](https://matduggan.com/passkeys-as-a-tool-for-user-retention/)
 
