@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-30, 13:07:29",
+      "https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit"
+    ],
+    [
+      "Agon light - low cost open-source 8-bit microcomputer and microcontroller",
+      "https://www.thebyteattic.com/p/agon.html"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 12:00:26",
       "https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare"
     ],
@@ -237,16 +247,6 @@
     [
       "Beating Super Mario Bros 3 in 19 frames",
       "https://tasvideos.org/7245S"
-    ]
-  ],
-  [
-    [
-      "2022-10-28, 02:47:42",
-      "https://lobste.rs/s/0jz1xo/safely_renaming_table_with_no_downtime"
-    ],
-    [
-      "Safely renaming a table with no downtime in Postgres",
-      "https://brandur.org/fragments/postgres-table-rename"
     ]
   ]
 ]
