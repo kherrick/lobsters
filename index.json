@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 19:22:43",
+      "https://lobste.rs/s/2beyk4/fast_differentiable_tensor_library"
+    ],
+    [
+      "Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight",
+      "https://github.com/facebookresearch/shumai"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 16:44:55",
       "https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement"
     ],
@@ -117,16 +127,6 @@
     [
       "The SAFe Delusion – Information for decision-makers considering the SAFe framework",
       "https://safedelusion.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 07:32:07",
-      "https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file"
-    ],
-    [
-      "Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?",
-      "https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547"
     ]
   ],
   [
