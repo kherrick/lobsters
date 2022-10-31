@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 19:22:43](https://lobste.rs/s/2beyk4/fast_differentiable_tensor_library) - [Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai)
 * [2022-10-31, 16:44:55](https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement) - [Go 1.19.3 and Go 1.18.8 pre-announcement](https://groups.google.com/g/golang-announce/c/dRtDK7WS78g/m/T5pVQ7PoAQAJ?pli=1)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
@@ -13,6 +14,7 @@
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
+* [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 * [2022-10-31, 02:39:00](https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig) - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
@@ -21,10 +23,8 @@
 * [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2022-10-30, 20:02:32](https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby) - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
-* [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
-* [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 
 ## [Archives](archives/index.md)
 
