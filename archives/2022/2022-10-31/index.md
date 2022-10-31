@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
 * [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
