@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 00:11:31](https://lobste.rs/s/otyize/brewing_microservices_serverless_redux) - [Brewing Microservices | Serverless Redux](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)
 * [2022-10-30, 22:37:46](https://lobste.rs/s/oj7l70/legacy_database_migration_what_know) - [Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 * [2022-10-30, 22:20:18](https://lobste.rs/s/poxbcr/does_experience_make_you_better) - [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
 * [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
@@ -23,7 +24,6 @@
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 * [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
-* [2022-10-29, 07:23:09](https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems) - [The Talos II, Blackbird POWER9 systems support tagged memory](https://www.devever.net/~hl/power9tags)
 * [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
 
 ## [Archives](archives/index.md)
