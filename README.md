@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-10-31, 17:11:57](https://lobste.rs/s/zhpzm1/how_i_became_self_taught_software) - [How I Became a Self-Taught Software Engineer by Beating the System](https://medium.com/@philipshen13/how-i-became-a-self-taught-software-engineer-by-beating-the-system-dc854a43861b)
 * [2022-10-31, 16:44:55](https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement) - [Go 1.19.3 and Go 1.18.8 pre-announcement](https://groups.google.com/g/golang-announce/c/dRtDK7WS78g/m/T5pVQ7PoAQAJ?pli=1)
 * [2022-10-31, 15:58:10](https://lobste.rs/s/eg1sk1/world_machine_1985) - [The World and the Machine (1985)](http://mcs.open.ac.uk/mj665/icse17kn.pdf)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
@@ -22,6 +21,7 @@
 * [2022-10-30, 21:26:09](https://lobste.rs/s/m6qaeb/jakt_programming_language) - [Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2022-10-30, 20:02:32](https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby) - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
+* [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
