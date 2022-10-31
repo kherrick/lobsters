@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 06:19:19",
+      "https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl"
+    ],
+    [
+      "Google explains why it's removing JPEG XL from the Chromium code base",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 06:01:33",
+      "https://lobste.rs/s/dcczib/wiring_my_home_with_fiber"
+    ],
+    [
+      "Wiring my home with Fiber",
+      "https://sschueller.github.io/posts/wiring-a-home-with-fiber/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 02:39:00",
       "https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig"
     ],
@@ -37,16 +57,6 @@
     [
       "Brewing Microservices | Serverless Redux",
       "https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 22:37:46",
-      "https://lobste.rs/s/oj7l70/legacy_database_migration_what_know"
-    ],
-    [
-      "Legacy Database Migration: What To Know Before You Start",
-      "https://redis.com/blog/legacy-database-migration/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Télétel, the French Internet of the 80s — How did it work?",
       "https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:27:03",
-      "https://lobste.rs/s/bktc82/discerning_dominant_out_order"
-    ],
-    [
-      "Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)",
-      "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf"
     ]
   ],
   [
