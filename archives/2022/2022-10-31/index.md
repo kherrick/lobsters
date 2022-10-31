@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
+* [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 * [2022-10-31, 14:26:57](https://lobste.rs/s/yko0wa/packaging_rust_for_fedora) - [Packaging Rust for Fedora](https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/)
 * [2022-10-31, 14:02:46](https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter) - [We Need a Replacement for TCP in the Datacenter](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 * [2022-10-31, 13:49:06](https://lobste.rs/s/dgeg42/using_go_s_runtime_cgo_pass_values_between) - [Using Go's runtime/cgo to pass values between C and Go](https://www.arsenm.dev/blog/runtime-cgo/)

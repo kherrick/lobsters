@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
+* [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 * [2022-10-31, 14:26:57](https://lobste.rs/s/yko0wa/packaging_rust_for_fedora) - [Packaging Rust for Fedora](https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/)
 * [2022-10-31, 14:02:46](https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter) - [We Need a Replacement for TCP in the Datacenter](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 * [2022-10-31, 13:49:06](https://lobste.rs/s/dgeg42/using_go_s_runtime_cgo_pass_values_between) - [Using Go's runtime/cgo to pass values between C and Go](https://www.arsenm.dev/blog/runtime-cgo/)
@@ -21,10 +23,8 @@
 * [2022-10-30, 18:49:04](https://lobste.rs/s/anxhne/50_useful_vim_commands) - [50 Useful Vim Commands](https://vimtricks.com/p/50-useful-vim-commands/)
 * [2022-10-30, 18:29:06](https://lobste.rs/s/nzzqow/teletel_french_internet_80s_how_did_it) - [Télétel, the French Internet of the 80s — How did it work?](https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
-* [2022-10-30, 18:01:23](https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject) - [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
-* [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 
 ## [Archives](archives/index.md)
 
