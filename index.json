@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 13:49:06",
+      "https://lobste.rs/s/dgeg42/using_go_s_runtime_cgo_pass_values_between"
+    ],
+    [
+      "Using Go's runtime/cgo to pass values between C and Go",
+      "https://www.arsenm.dev/blog/runtime-cgo/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 13:04:38",
+      "https://lobste.rs/s/zsmepy/golang_aha_moments_generics"
+    ],
+    [
+      "Golang Aha! Moments: Generics",
+      "https://openziti.io/golang-aha-moments-generics"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 12:23:56",
       "https://lobste.rs/s/jc2oru/configuration_management_system_for"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-10-31, 00:11:31",
-      "https://lobste.rs/s/otyize/brewing_microservices_serverless_redux"
-    ],
-    [
-      "Brewing Microservices | Serverless Redux",
-      "https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 22:20:18",
       "https://lobste.rs/s/poxbcr/does_experience_make_you_better"
     ],
@@ -137,16 +147,6 @@
     [
       "Jakt Programming Language",
       "https://github.com/SerenityOS/jakt"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 21:11:27",
-      "https://lobste.rs/s/l1tqf2/apple_ii_tale_told_complete_by_late_tony"
-    ],
-    [
-      "An Apple II Tale Told Complete by the Late Tony Diaz",
-      "https://bytecellar.com/2022/10/29/an-apple-ii-tale-told-complete-by-the-late-tony-diaz/"
     ]
   ],
   [
