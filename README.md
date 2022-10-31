@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
 * [2022-10-31, 09:21:43](https://lobste.rs/s/4eqwis/introduction_extensionkit) - [An introduction to ExtensionKit](https://www.chimehq.com/blog/extensionkit-intro)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
@@ -23,7 +24,6 @@
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 * [2022-10-30, 13:07:29](https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit) - [Agon light - low cost open-source 8-bit microcomputer and microcontroller](https://www.thebyteattic.com/p/agon.html)
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
-* [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 
 ## [Archives](archives/index.md)

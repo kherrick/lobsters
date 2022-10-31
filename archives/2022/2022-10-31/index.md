@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
 * [2022-10-31, 09:21:43](https://lobste.rs/s/4eqwis/introduction_extensionkit) - [An introduction to ExtensionKit](https://www.chimehq.com/blog/extensionkit-intro)
 * [2022-10-31, 09:19:45](https://lobste.rs/s/eyyqr1/open_obfuscator_free_open_source) - [Open-Obfuscator: A free and open-source obfuscator for mobile applications](https://www.romainthomas.fr/post/22-10-open-obfuscator/)
