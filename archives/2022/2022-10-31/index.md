@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 14:26:57](https://lobste.rs/s/yko0wa/packaging_rust_for_fedora) - [Packaging Rust for Fedora](https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/)
+* [2022-10-31, 14:02:46](https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter) - [We Need a Replacement for TCP in the Datacenter](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 * [2022-10-31, 13:49:06](https://lobste.rs/s/dgeg42/using_go_s_runtime_cgo_pass_values_between) - [Using Go's runtime/cgo to pass values between C and Go](https://www.arsenm.dev/blog/runtime-cgo/)
 * [2022-10-31, 13:04:38](https://lobste.rs/s/zsmepy/golang_aha_moments_generics) - [Golang Aha! Moments: Generics](https://openziti.io/golang-aha-moments-generics)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
