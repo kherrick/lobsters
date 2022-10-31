@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-10-31, 21:29:55",
-      "https://lobste.rs/s/vrhues/tale_simple_apple_kernel_bug"
-    ],
-    [
-      "A tale of a simple Apple kernel bug",
-      "https://pwning.systems/posts/easy-apple-kernel-bug/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 21:29:21",
       "https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023"
     ],
@@ -117,6 +107,16 @@
     [
       "Using Go's runtime/cgo to pass values between C and Go",
       "https://www.arsenm.dev/blog/runtime-cgo/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 13:04:38",
+      "https://lobste.rs/s/zsmepy/golang_aha_moments_generics"
+    ],
+    [
+      "Golang Aha! Moments: Generics",
+      "https://openziti.io/golang-aha-moments-generics"
     ]
   ],
   [
