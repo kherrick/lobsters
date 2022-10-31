@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 17:11:57",
+      "https://lobste.rs/s/zhpzm1/how_i_became_self_taught_software"
+    ],
+    [
+      "How I Became a Self-Taught Software Engineer by Beating the System",
+      "https://medium.com/@philipshen13/how-i-became-a-self-taught-software-engineer-by-beating-the-system-dc854a43861b"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 16:44:55",
       "https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement"
     ],
@@ -111,22 +121,22 @@
   ],
   [
     [
+      "2022-10-31, 10:43:46",
+      "https://lobste.rs/s/ptvnva/immutable_laws_security"
+    ],
+    [
+      "The immutable laws of security",
+      "https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 08:40:07",
       "https://lobste.rs/s/asbowa/safe_delusion_information_for_decision"
     ],
     [
       "The SAFe Delusion – Information for decision-makers considering the SAFe framework",
       "https://safedelusion.com"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 07:32:07",
-      "https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file"
-    ],
-    [
-      "Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?",
-      "https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "rbperf: A sampling profiler and tracer for Ruby which runs in BPF",
       "https://github.com/javierhonduco/rbperf"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:49:04",
-      "https://lobste.rs/s/anxhne/50_useful_vim_commands"
-    ],
-    [
-      "50 Useful Vim Commands",
-      "https://vimtricks.com/p/50-useful-vim-commands/"
     ]
   ],
   [
