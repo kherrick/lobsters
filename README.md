@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 02:39:00](https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig) - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
+* [2022-10-31, 01:22:54](https://lobste.rs/s/vzkcf6/kemal_lightning_fast_super_simple_web) - [Kemal: Lightning fast, super simple web framework written in Crystal](https://kemalcr.com/)
+* [2022-10-31, 01:12:08](https://lobste.rs/s/wesjln/rip_kathleen_booth_inventor_assembly) - [RIP: Kathleen Booth, the inventor of assembly language](https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/)
 * [2022-10-31, 00:11:31](https://lobste.rs/s/otyize/brewing_microservices_serverless_redux) - [Brewing Microservices | Serverless Redux](https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition)
 * [2022-10-30, 22:37:46](https://lobste.rs/s/oj7l70/legacy_database_migration_what_know) - [Legacy Database Migration: What To Know Before You Start](https://redis.com/blog/legacy-database-migration/)
 * [2022-10-30, 22:20:18](https://lobste.rs/s/poxbcr/does_experience_make_you_better) - [Does experience make you a better programmer?](https://austinhenley.com/blog/experienceversusskill.html)
@@ -12,8 +15,6 @@
 * [2022-10-30, 18:27:03](https://lobste.rs/s/bktc82/discerning_dominant_out_order) - [Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/asplos13-mcfarlin-ooo.pdf)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
 * [2022-10-30, 18:01:23](https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject) - [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
-* [2022-10-30, 17:56:17](https://lobste.rs/s/diox9o/precision_timed_machines_2012) - [Precision Timed Machines (2012)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-113.pdf)
-* [2022-10-30, 17:16:44](https://lobste.rs/s/awjfmo/7_estimation_anti_patterns) - [7 Estimation Anti-Patterns](https://medium.com/awesome-agile/7-estimation-anti-patterns-448cc81f7301)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 * [2022-10-30, 14:55:17](https://lobste.rs/s/lq9oi9/hunting_kernel_lock_interrupt_latency) - [Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)
@@ -24,7 +25,6 @@
 * [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 * [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
-* [2022-10-29, 02:19:02](https://lobste.rs/s/9eas9d/you_should_prepare_for_openssl_3_x_secvuln) - [You should prepare for the OpenSSL 3.x secvuln](https://xeiaso.net/blog/openssl-3.x-secvuln-incoming)
 
 ## [Archives](archives/index.md)
 
