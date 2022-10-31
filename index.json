@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 15:58:10",
+      "https://lobste.rs/s/eg1sk1/world_machine_1985"
+    ],
+    [
+      "The World and the Machine (1985)",
+      "http://mcs.open.ac.uk/mj665/icse17kn.pdf"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 15:40:48",
       "https://lobste.rs/s/4tlpcf/synit_squeakphone_demo"
     ],
@@ -17,16 +27,6 @@
     [
       "Approaches in Cloud Development Ergonomics",
       "https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 14:26:57",
-      "https://lobste.rs/s/yko0wa/packaging_rust_for_fedora"
-    ],
-    [
-      "Packaging Rust for Fedora",
-      "https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Lessons Learned from a Hardware Upgrade Gone Wrong",
       "https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 10:43:46",
+      "https://lobste.rs/s/ptvnva/immutable_laws_security"
+    ],
+    [
+      "The immutable laws of security",
+      "https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "50 Useful Vim Commands",
       "https://vimtricks.com/p/50-useful-vim-commands/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 18:29:06",
-      "https://lobste.rs/s/nzzqow/teletel_french_internet_80s_how_did_it"
-    ],
-    [
-      "Télétel, the French Internet of the 80s — How did it work?",
-      "https://dmitryelj.medium.com/t%C3%A9l%C3%A9tel-the-french-internet-of-the-80s-how-did-it-work-f910666a80c1"
     ]
   ],
   [
