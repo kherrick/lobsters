@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-10-31, 00:11:31",
+      "https://lobste.rs/s/otyize/brewing_microservices_serverless_redux"
+    ],
+    [
+      "Brewing Microservices | Serverless Redux",
+      "https://filibuster.transistor.fm/episodes/serverless-redux-halloween-edition"
+    ]
+  ],
+  [
+    [
       "2022-10-30, 22:37:46",
       "https://lobste.rs/s/oj7l70/legacy_database_migration_what_know"
     ],
@@ -227,16 +237,6 @@
     [
       "Ideal open source",
       "https://nedbatchelder.com/blog/202210/ideal_open_source.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 07:23:09",
-      "https://lobste.rs/s/psisxf/talos_ii_blackbird_power9_systems"
-    ],
-    [
-      "The Talos II, Blackbird POWER9 systems support tagged memory",
-      "https://www.devever.net/~hl/power9tags"
     ]
   ],
   [
