@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-10-31, 17:11:57",
-      "https://lobste.rs/s/zhpzm1/how_i_became_self_taught_software"
-    ],
-    [
-      "How I Became a Self-Taught Software Engineer by Beating the System",
-      "https://medium.com/@philipshen13/how-i-became-a-self-taught-software-engineer-by-beating-the-system-dc854a43861b"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 16:44:55",
       "https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement"
     ],
@@ -217,6 +207,16 @@
     [
       "rbperf: A sampling profiler and tracer for Ruby which runs in BPF",
       "https://github.com/javierhonduco/rbperf"
+    ]
+  ],
+  [
+    [
+      "2022-10-30, 18:49:04",
+      "https://lobste.rs/s/anxhne/50_useful_vim_commands"
+    ],
+    [
+      "50 Useful Vim Commands",
+      "https://vimtricks.com/p/50-useful-vim-commands/"
     ]
   ],
   [
