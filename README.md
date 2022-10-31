@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
+* [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
-* [2022-10-31, 09:21:43](https://lobste.rs/s/4eqwis/introduction_extensionkit) - [An introduction to ExtensionKit](https://www.chimehq.com/blog/extensionkit-intro)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
 * [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
@@ -22,7 +23,6 @@
 * [2022-10-30, 18:01:23](https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject) - [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
 * [2022-10-30, 17:03:34](https://lobste.rs/s/f8fbjm/compatibility_how_go_programs_keep) - [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
 * [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
-* [2022-10-30, 13:07:29](https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit) - [Agon light - low cost open-source 8-bit microcomputer and microcontroller](https://www.thebyteattic.com/p/agon.html)
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 
