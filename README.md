@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2022-10-31, 16:44:55](https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement) - [Go 1.19.3 and Go 1.18.8 pre-announcement](https://groups.google.com/g/golang-announce/c/dRtDK7WS78g/m/T5pVQ7PoAQAJ?pli=1)
-* [2022-10-31, 15:58:10](https://lobste.rs/s/eg1sk1/world_machine_1985) - [The World and the Machine (1985)](http://mcs.open.ac.uk/mj665/icse17kn.pdf)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 * [2022-10-31, 14:26:57](https://lobste.rs/s/yko0wa/packaging_rust_for_fedora) - [Packaging Rust for Fedora](https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/)
@@ -13,6 +12,7 @@
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
+* [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 * [2022-10-31, 02:39:00](https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig) - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
