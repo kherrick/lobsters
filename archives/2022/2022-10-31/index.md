@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 16:44:55](https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement) - [Go 1.19.3 and Go 1.18.8 pre-announcement](https://groups.google.com/g/golang-announce/c/dRtDK7WS78g/m/T5pVQ7PoAQAJ?pli=1)
 * [2022-10-31, 15:58:10](https://lobste.rs/s/eg1sk1/world_machine_1985) - [The World and the Machine (1985)](http://mcs.open.ac.uk/mj665/icse17kn.pdf)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
