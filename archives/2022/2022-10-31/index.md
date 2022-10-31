@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 19:22:43](https://lobste.rs/s/2beyk4/fast_differentiable_tensor_library) - [Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai)
 * [2022-10-31, 17:11:57](https://lobste.rs/s/zhpzm1/how_i_became_self_taught_software) - [How I Became a Self-Taught Software Engineer by Beating the System](https://medium.com/@philipshen13/how-i-became-a-self-taught-software-engineer-by-beating-the-system-dc854a43861b)

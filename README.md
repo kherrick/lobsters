@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 19:22:43](https://lobste.rs/s/2beyk4/fast_differentiable_tensor_library) - [Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai)
 * [2022-10-31, 16:44:55](https://lobste.rs/s/pgnluy/go_1_19_3_go_1_18_8_pre_announcement) - [Go 1.19.3 and Go 1.18.8 pre-announcement](https://groups.google.com/g/golang-announce/c/dRtDK7WS78g/m/T5pVQ7PoAQAJ?pli=1)
@@ -12,7 +13,6 @@
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 * [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
-* [2022-10-31, 10:43:46](https://lobste.rs/s/ptvnva/immutable_laws_security) - [The immutable laws of security](https://learn.microsoft.com/en-us/security/compass/ten-laws-of-security)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
 * [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
