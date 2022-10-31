@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 21:15:43](https://lobste.rs/s/x9ihlh/i_made_outlines_for_kde_breeze_window) - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
+* [2022-10-31, 21:14:39](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes) - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 19:22:43](https://lobste.rs/s/2beyk4/fast_differentiable_tensor_library) - [Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight](https://github.com/facebookresearch/shumai)
