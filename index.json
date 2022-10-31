@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 15:40:48",
+      "https://lobste.rs/s/4tlpcf/synit_squeakphone_demo"
+    ],
+    [
+      "Synit and SqueakPhone demo",
+      "https://www.youtube.com/watch?v=aEfssFQ1X1M"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 15:34:03",
+      "https://lobste.rs/s/sn2qjd/approaches_cloud_development"
+    ],
+    [
+      "Approaches in Cloud Development Ergonomics",
+      "https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 14:26:57",
       "https://lobste.rs/s/yko0wa/packaging_rust_for_fedora"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-10-30, 18:01:23",
-      "https://lobste.rs/s/fng5wh/about_sqlite3_wasm_js_subproject"
-    ],
-    [
-      "About the sqlite3 WASM/JS Subproject",
-      "https://sqlite.org/wasm/doc/tip/about.md"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 16:35:05",
       "https://lobste.rs/s/621mue/idris_2_version_0_6_0_released"
     ],
@@ -237,16 +247,6 @@
     [
       "Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?",
       "https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 20:46:00",
-      "https://lobste.rs/s/tgen6r/perfect_commit"
-    ],
-    [
-      "The Perfect Commit",
-      "https://simonwillison.net/2022/Oct/29/the-perfect-commit/"
     ]
   ]
 ]
