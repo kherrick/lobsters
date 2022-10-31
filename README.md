@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 * [2022-10-31, 02:39:00](https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig) - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)
@@ -22,7 +23,6 @@
 * [2022-10-30, 12:00:26](https://lobste.rs/s/uh1hj2/workarounds_computer_access_healthcare) - [Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient?](https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf)
 * [2022-10-30, 09:52:16](https://lobste.rs/s/hquivj/tour_c_3rd_edition_covering_c_20_plus_few) - [A Tour of C++, 3rd edition (covering C++20 plus a few likely features of C++23)](https://www.stroustrup.com/tour3.html)
 * [2022-10-30, 06:21:55](https://lobste.rs/s/ui4a0b/plasma_5_26_review_pretty_reasonable) - [Plasma 5.26 review - Pretty reasonable](https://www.dedoimedo.com/computers/plasma-5-26-review.html)
-* [2022-10-30, 02:32:43](https://lobste.rs/s/2htyoy/shell_new_machine_quickly_configure_new) - [Shell Of A New Machine: Quickly configure new environments](https://github.com/benwr/soanm)
 * [2022-10-29, 20:46:00](https://lobste.rs/s/tgen6r/perfect_commit) - [The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
 * [2022-10-29, 19:45:16](https://lobste.rs/s/h72rpu/ideal_open_source) - [Ideal open source](https://nedbatchelder.com/blog/202210/ideal_open_source.html)
 
