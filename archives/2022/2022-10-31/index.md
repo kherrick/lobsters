@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 21:29:55](https://lobste.rs/s/vrhues/tale_simple_apple_kernel_bug) - [A tale of a simple Apple kernel bug](https://pwning.systems/posts/easy-apple-kernel-bug/)
+* [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
+* [2022-10-31, 21:19:28](https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes) - [Data validation in Haskell with newtypes, smart constructors, and aeson](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
 * [2022-10-31, 21:15:43](https://lobste.rs/s/x9ihlh/i_made_outlines_for_kde_breeze_window) - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
 * [2022-10-31, 21:14:39](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes) - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
