@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 15:58:10](https://lobste.rs/s/eg1sk1/world_machine_1985) - [The World and the Machine (1985)](http://mcs.open.ac.uk/mj665/icse17kn.pdf)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 * [2022-10-31, 14:26:57](https://lobste.rs/s/yko0wa/packaging_rust_for_fedora) - [Packaging Rust for Fedora](https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/)
