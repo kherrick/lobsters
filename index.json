@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-10-31, 09:21:43",
+      "https://lobste.rs/s/4eqwis/introduction_extensionkit"
+    ],
+    [
+      "An introduction to ExtensionKit",
+      "https://www.chimehq.com/blog/extensionkit-intro"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 09:19:45",
+      "https://lobste.rs/s/eyyqr1/open_obfuscator_free_open_source"
+    ],
+    [
+      "Open-Obfuscator: A free and open-source obfuscator for mobile applications",
+      "https://www.romainthomas.fr/post/22-10-open-obfuscator/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 08:40:07",
       "https://lobste.rs/s/asbowa/safe_delusion_information_for_decision"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-10-30, 14:55:17",
-      "https://lobste.rs/s/lq9oi9/hunting_kernel_lock_interrupt_latency"
-    ],
-    [
-      "Hunting kernel lock and interrupt latency",
-      "https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html"
-    ]
-  ],
-  [
-    [
       "2022-10-30, 13:07:29",
       "https://lobste.rs/s/qxtbfw/agon_light_low_cost_open_source_8_bit"
     ],
@@ -237,16 +247,6 @@
     [
       "The Perfect Commit",
       "https://simonwillison.net/2022/Oct/29/the-perfect-commit/"
-    ]
-  ],
-  [
-    [
-      "2022-10-29, 19:45:16",
-      "https://lobste.rs/s/h72rpu/ideal_open_source"
-    ],
-    [
-      "Ideal open source",
-      "https://nedbatchelder.com/blog/202210/ideal_open_source.html"
     ]
   ]
 ]
