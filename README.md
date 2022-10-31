@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-10-31, 21:38:13](https://lobste.rs/s/cx7wl2/elements_great_markup_language) - [Elements Of a Great Markup Language](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html)
 * [2022-10-31, 21:29:55](https://lobste.rs/s/vrhues/tale_simple_apple_kernel_bug) - [A tale of a simple Apple kernel bug](https://pwning.systems/posts/easy-apple-kernel-bug/)
 * [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
 * [2022-10-31, 21:19:28](https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes) - [Data validation in Haskell with newtypes, smart constructors, and aeson](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
@@ -24,7 +25,6 @@
 * [2022-10-30, 20:11:58](https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc) - [If one GUI's not enough for your SPARC workstation, try four](https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html)
 * [2022-10-30, 20:02:32](https://lobste.rs/s/1eryiz/rbperf_sampling_profiler_tracer_for_ruby) - [rbperf: A sampling profiler and tracer for Ruby which runs in BPF](https://github.com/javierhonduco/rbperf)
 * [2022-10-30, 18:10:44](https://lobste.rs/s/sdxq68/decker) - [Decker](https://beyondloom.com/decker/index.html)
-* [2022-10-30, 16:35:05](https://lobste.rs/s/621mue/idris_2_version_0_6_0_released) - [Idris 2 version 0.6.0 Released](https://www.idris-lang.org/idris-2-version-060-released.html)
 
 ## [Archives](archives/index.md)
 

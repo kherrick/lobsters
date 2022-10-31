@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-10-31](index.md)
 
+* [2022-10-31, 21:38:13](https://lobste.rs/s/cx7wl2/elements_great_markup_language) - [Elements Of a Great Markup Language](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html)
 * [2022-10-31, 21:29:55](https://lobste.rs/s/vrhues/tale_simple_apple_kernel_bug) - [A tale of a simple Apple kernel bug](https://pwning.systems/posts/easy-apple-kernel-bug/)
 * [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
 * [2022-10-31, 21:19:28](https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes) - [Data validation in Haskell with newtypes, smart constructors, and aeson](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
