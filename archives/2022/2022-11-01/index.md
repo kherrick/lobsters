@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 18:46:18](https://lobste.rs/s/vqndrj/introducing_rnbo_cycling_74) - [Introducing RNBO | Cycling '74](https://cycling74.com/products/rnbo)
 * [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
 * [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
