@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 13:03:04](https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report) - [HardenedBSD October 2022 Status Report | HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report)
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:57:25](https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022) - [A Hipster History of CORS (Strange Loop 2022)](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
 * [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
@@ -21,7 +22,6 @@
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 * [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
-* [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 * [2022-10-31, 01:12:08](https://lobste.rs/s/wesjln/rip_kathleen_booth_inventor_assembly) - [RIP: Kathleen Booth, the inventor of assembly language](https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/)
