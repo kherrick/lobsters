@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 * [2022-11-01, 10:46:00](https://lobste.rs/s/ygocim/increasing_battery_life_on_arch_linux) - [Increasing Battery Life on an Arch Linux Laptop (ThinkPad T14s)](https://austingwalters.com/increasing-battery-life-on-an-arch-linux-laptop-thinkpad-t14s/)
 * [2022-11-01, 10:34:55](https://lobste.rs/s/ibvix3/christian_schafmeister_talk_brief) - [Christian Schafmeister talk - brief update about his \"molecular lego\" supported by his Lisp compiler](https://www.youtube.com/watch?v=tQgkvghzW0M)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
@@ -15,7 +16,6 @@
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
-* [2022-10-31, 15:34:03](https://lobste.rs/s/sn2qjd/approaches_cloud_development) - [Approaches in Cloud Development Ergonomics](https://metalbear.co/blog/approaches-in-cloud-development-ergonomics/)
 * [2022-10-31, 14:02:46](https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter) - [We Need a Replacement for TCP in the Datacenter](https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 * [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
