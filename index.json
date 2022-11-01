@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-10-31, 14:26:57",
-      "https://lobste.rs/s/yko0wa/packaging_rust_for_fedora"
-    ],
-    [
-      "Packaging Rust for Fedora",
-      "https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 14:02:46",
       "https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter"
     ],
@@ -167,6 +157,16 @@
     [
       "The SAFe Delusion – Information for decision-makers considering the SAFe framework",
       "https://safedelusion.com"
+    ]
+  ],
+  [
+    [
+      "2022-10-31, 07:32:07",
+      "https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file"
+    ],
+    [
+      "Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?",
+      "https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547"
     ]
   ],
   [
