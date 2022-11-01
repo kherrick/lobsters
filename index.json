@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-01, 14:35:08",
+      "https://lobste.rs/s/ipkizx/wii_u_architecture"
+    ],
+    [
+      "Wii U Architecture",
+      "https://www.copetti.org/writings/consoles/wiiu/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 13:43:28",
       "https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android"
     ],
@@ -217,16 +227,6 @@
     [
       "A configuration management system for Pets, not Cattle",
       "https://github.com/ema/pets"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 10:57:05",
-      "https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade"
-    ],
-    [
-      "Lessons Learned from a Hardware Upgrade Gone Wrong",
-      "https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/"
     ]
   ],
   [
