@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-11-01](index.md)
+
+* [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
