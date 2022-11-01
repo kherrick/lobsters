@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 18:06:09",
+      "https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache"
+    ],
+    [
+      "Build FFmpeg filters without the headache",
+      "https://ffmpeg.guide/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 17:42:54",
+      "https://lobste.rs/s/kv3dxl/sms_multifactor_authentication"
+    ],
+    [
+      "SMS Multifactor Authentication in Antarctica",
+      "https://brr.fyi/posts/sms-mfa"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 16:38:57",
       "https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-31, 21:38:13",
-      "https://lobste.rs/s/cx7wl2/elements_great_markup_language"
-    ],
-    [
-      "Elements Of a Great Markup Language",
-      "https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 21:29:21",
       "https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "A configuration management system for Pets, not Cattle",
       "https://github.com/ema/pets"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 06:19:19",
-      "https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl"
-    ],
-    [
-      "Google explains why it's removing JPEG XL from the Chromium code base",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84"
     ]
   ]
 ]
