@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 * [2022-11-01, 18:46:18](https://lobste.rs/s/vqndrj/introducing_rnbo_cycling_74) - [Introducing RNBO | Cycling '74](https://cycling74.com/products/rnbo)
 * [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
