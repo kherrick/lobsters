@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
+* [2022-11-01, 22:17:09](https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue) - [OpenSSL gave everyone alarm fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
 * [2022-11-01, 20:23:01](https://lobste.rs/s/s51fxz/how_boost_code_coverage_with_functional) - [How to Boost Code Coverage with Functional Testing](https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/)
 * [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
