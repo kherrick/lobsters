@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 14:52:25](https://lobste.rs/s/wldnlg/amiga_1000_restoration_part_3) - [Amiga 1000 Restoration, Part 3](https://shred.zone/cilla/page/479/amiga-1000-restauration-part-3.html)
 * [2022-11-01, 14:35:08](https://lobste.rs/s/ipkizx/wii_u_architecture) - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 * [2022-11-01, 13:43:28](https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android) - [A technical analysis of Pegasus for Android - Part 1](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 * [2022-11-01, 13:41:37](https://lobste.rs/s/mvdo0q/timestamp_based_algorithms_for) - [Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems](https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html)
@@ -10,7 +11,6 @@
 * [2022-11-01, 10:46:00](https://lobste.rs/s/ygocim/increasing_battery_life_on_arch_linux) - [Increasing Battery Life on an Arch Linux Laptop (ThinkPad T14s)](https://austingwalters.com/increasing-battery-life-on-an-arch-linux-laptop-thinkpad-t14s/)
 * [2022-11-01, 10:34:55](https://lobste.rs/s/ibvix3/christian_schafmeister_talk_brief) - [Christian Schafmeister talk - brief update about his \"molecular lego\" supported by his Lisp compiler](https://www.youtube.com/watch?v=tQgkvghzW0M)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
-* [2022-11-01, 09:24:59](https://lobste.rs/s/zatjnq/begin_your_mv3_migration_by_implementing) - [Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
 * [2022-11-01, 08:51:11](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my) - [More Untappd data explorations with jq - my top ranking beer types (part 1)](https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/)
 * [2022-11-01, 08:04:18](https://lobste.rs/s/u9emn9/pie_menus_30_year_retrospective) - [Pie Menus: A 30 Year Retrospective](https://donhopkins.medium.com/pie-menus-936fed383ff1)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
