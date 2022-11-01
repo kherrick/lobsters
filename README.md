@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
+* [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:21:29](https://lobste.rs/s/pke5fn/cve_2022_3786_cve_2022_3602_x_509_email) - [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
@@ -16,7 +18,6 @@
 * [2022-11-01, 08:51:11](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my) - [More Untappd data explorations with jq - my top ranking beer types (part 1)](https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/)
 * [2022-11-01, 08:04:18](https://lobste.rs/s/u9emn9/pie_menus_30_year_retrospective) - [Pie Menus: A 30 Year Retrospective](https://donhopkins.medium.com/pie-menus-936fed383ff1)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
-* [2022-10-31, 21:38:13](https://lobste.rs/s/cx7wl2/elements_great_markup_language) - [Elements Of a Great Markup Language](https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html)
 * [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
 * [2022-10-31, 21:19:28](https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes) - [Data validation in Haskell with newtypes, smart constructors, and aeson](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
 * [2022-10-31, 21:15:43](https://lobste.rs/s/x9ihlh/i_made_outlines_for_kde_breeze_window) - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
@@ -24,7 +25,6 @@
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
-* [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 
 ## [Archives](archives/index.md)
 
