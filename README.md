@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 16:20:21](https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for) - [Time Modulation Protocol: a \"Killer App\" for Reowolf?](https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/)
+* [2022-11-01, 16:09:35](https://lobste.rs/s/vjemu5/openssl_security_advisory_01_november) - [OpenSSL Security Advisory [01 November 2022]](https://www.openssl.org/news/secadv/20221101.txt)
+* [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 * [2022-11-01, 15:53:56](https://lobste.rs/s/xfvm1g/volare_version_manager_builder_for) - [volare: Version manager (and builder) for the Google sky130 and gf180mcu Open PDK](https://github.com/efabless/volare)
-* [2022-11-01, 15:43:51](https://lobste.rs/s/kpict2/how_write_your_first_unit_test_javascript) - [How to write your first unit test in JavaScript](https://snyk.io/blog/how-to-write-unit-test-in-javascript/)
 * [2022-11-01, 14:52:25](https://lobste.rs/s/wldnlg/amiga_1000_restoration_part_3) - [Amiga 1000 Restoration, Part 3](https://shred.zone/cilla/page/479/amiga-1000-restauration-part-3.html)
 * [2022-11-01, 14:35:08](https://lobste.rs/s/ipkizx/wii_u_architecture) - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 * [2022-11-01, 13:03:04](https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report) - [HardenedBSD October 2022 Status Report | HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report)
@@ -20,11 +22,9 @@
 * [2022-10-31, 21:15:43](https://lobste.rs/s/x9ihlh/i_made_outlines_for_kde_breeze_window) - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
 * [2022-10-31, 21:14:39](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes) - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
-* [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
-* [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 
 ## [Archives](archives/index.md)
 

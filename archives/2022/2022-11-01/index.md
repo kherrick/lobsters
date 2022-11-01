@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 16:20:21](https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for) - [Time Modulation Protocol: a \"Killer App\" for Reowolf?](https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/)
+* [2022-11-01, 16:09:35](https://lobste.rs/s/vjemu5/openssl_security_advisory_01_november) - [OpenSSL Security Advisory [01 November 2022]](https://www.openssl.org/news/secadv/20221101.txt)
+* [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 * [2022-11-01, 15:53:56](https://lobste.rs/s/xfvm1g/volare_version_manager_builder_for) - [volare: Version manager (and builder) for the Google sky130 and gf180mcu Open PDK](https://github.com/efabless/volare)
 * [2022-11-01, 15:43:51](https://lobste.rs/s/kpict2/how_write_your_first_unit_test_javascript) - [How to write your first unit test in JavaScript](https://snyk.io/blog/how-to-write-unit-test-in-javascript/)
 * [2022-11-01, 14:52:25](https://lobste.rs/s/wldnlg/amiga_1000_restoration_part_3) - [Amiga 1000 Restoration, Part 3](https://shred.zone/cilla/page/479/amiga-1000-restauration-part-3.html)
