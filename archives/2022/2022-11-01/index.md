@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 23:04:23](https://lobste.rs/s/uh1o4g/zen_go) - [The Zen of Go](https://www.youtube.com/watch?v=yd_rtwYaXps)
 * [2022-11-01, 22:29:39](https://lobste.rs/s/cy63x1/announcing_typescript_4_9_rc) - [Announcing TypeScript 4.9 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/)
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 22:17:09](https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue) - [OpenSSL gave everyone alarm fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
