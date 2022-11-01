@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-11-01, 20:23:01",
-      "https://lobste.rs/s/s51fxz/how_boost_code_coverage_with_functional"
+      "2022-11-01, 22:17:19",
+      "https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata"
     ],
     [
-      "How to Boost Code Coverage with Functional Testing",
-      "https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/"
+      "Sandspiel Studio: Cellular Automata Designer",
+      "https://studio.sandspiel.club/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 22:17:09",
+      "https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue"
+    ],
+    [
+      "OpenSSL gave everyone alarm fatigue",
+      "https://xeiaso.net/blog/openssl-alarm-fatigue"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Linux on Microsoft Dev Kit 2023",
       "https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 21:19:28",
-      "https://lobste.rs/s/ulqssr/data_validation_haskell_with_newtypes"
-    ],
-    [
-      "Data validation in Haskell with newtypes, smart constructors, and aeson",
-      "https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html"
     ]
   ],
   [
