@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-01, 01:56:53",
+      "https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates"
+    ],
+    [
+      "SourceHut terms of service updates, cryptocurrency-related projects to be removed",
+      "https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 21:38:13",
       "https://lobste.rs/s/cx7wl2/elements_great_markup_language"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2022-10-31, 14:26:57",
+      "https://lobste.rs/s/yko0wa/packaging_rust_for_fedora"
+    ],
+    [
+      "Packaging Rust for Fedora",
+      "https://lwn.net/SubscriberLink/912202/79e7892b07f9350a/"
+    ]
+  ],
+  [
+    [
       "2022-10-31, 14:02:46",
       "https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter"
     ],
@@ -107,16 +127,6 @@
     [
       "Using Go's runtime/cgo to pass values between C and Go",
       "https://www.arsenm.dev/blog/runtime-cgo/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 13:04:38",
-      "https://lobste.rs/s/zsmepy/golang_aha_moments_generics"
-    ],
-    [
-      "Golang Aha! Moments: Generics",
-      "https://openziti.io/golang-aha-moments-generics"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Does experience make you a better programmer?",
       "https://austinhenley.com/blog/experienceversusskill.html"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 21:26:09",
-      "https://lobste.rs/s/m6qaeb/jakt_programming_language"
-    ],
-    [
-      "Jakt Programming Language",
-      "https://github.com/SerenityOS/jakt"
     ]
   ],
   [
