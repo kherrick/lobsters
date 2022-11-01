@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 * [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
 * [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
@@ -13,9 +14,9 @@
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:57:25](https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022) - [A Hipster History of CORS (Strange Loop 2022)](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
 * [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
+* [2022-11-01, 10:46:00](https://lobste.rs/s/ygocim/increasing_battery_life_on_arch_linux) - [Increasing Battery Life on an Arch Linux Laptop (ThinkPad T14s)](https://austingwalters.com/increasing-battery-life-on-an-arch-linux-laptop-thinkpad-t14s/)
 * [2022-11-01, 10:34:55](https://lobste.rs/s/ibvix3/christian_schafmeister_talk_brief) - [Christian Schafmeister talk - brief update about his \"molecular lego\" supported by his Lisp compiler](https://www.youtube.com/watch?v=tQgkvghzW0M)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
-* [2022-11-01, 08:51:11](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my) - [More Untappd data explorations with jq - my top ranking beer types (part 1)](https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/)
 * [2022-11-01, 08:04:18](https://lobste.rs/s/u9emn9/pie_menus_30_year_retrospective) - [Pie Menus: A 30 Year Retrospective](https://donhopkins.medium.com/pie-menus-936fed383ff1)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
 * [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
@@ -23,7 +24,6 @@
 * [2022-10-31, 21:15:43](https://lobste.rs/s/x9ihlh/i_made_outlines_for_kde_breeze_window) - [I made outlines for KDE Breeze window decoration](https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html)
 * [2022-10-31, 21:14:39](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes) - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
-* [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
 
 ## [Archives](archives/index.md)
