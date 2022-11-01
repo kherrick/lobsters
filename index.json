@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 12:25:16",
+      "https://lobste.rs/s/qbsbcj/streamline_your_github_actions"
+    ],
+    [
+      "Streamline your GitHub Actions dependencies using Nix",
+      "https://determinate.systems/posts/nix-github-actions"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 11:57:25",
+      "https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022"
+    ],
+    [
+      "A Hipster History of CORS (Strange Loop 2022)",
+      "https://www.youtube.com/watch?v=0YJ-yhoJh2I"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 11:12:50",
       "https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-10-31, 14:02:46",
-      "https://lobste.rs/s/hfux8r/we_need_replacement_for_tcp_datacenter"
-    ],
-    [
-      "We Need a Replacement for TCP in the Datacenter",
-      "https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 12:23:56",
       "https://lobste.rs/s/jc2oru/configuration_management_system_for"
     ],
@@ -237,16 +247,6 @@
     [
       "RIP: Kathleen Booth, the inventor of assembly language",
       "https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/"
-    ]
-  ],
-  [
-    [
-      "2022-10-30, 20:11:58",
-      "https://lobste.rs/s/iaemyl/if_one_gui_s_not_enough_for_your_sparc"
-    ],
-    [
-      "If one GUI's not enough for your SPARC workstation, try four",
-      "https://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html"
     ]
   ]
 ]
