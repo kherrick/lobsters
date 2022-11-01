@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-01, 16:38:57",
+      "https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side"
+    ],
+    [
+      "My Simple Kubernetes Setup for Side Projects",
+      "https://bas.codes/posts/simple-kubernetes"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 16:34:17",
+      "https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql"
+    ],
+    [
+      "Forcing Sequential Scans on PostgreSQL Using Large Integers",
+      "https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 16:21:29",
+      "https://lobste.rs/s/pke5fn/cve_2022_3786_cve_2022_3602_x_509_email"
+    ],
+    [
+      "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
+      "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 16:20:21",
       "https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for"
     ],
@@ -31,42 +61,12 @@
   ],
   [
     [
-      "2022-11-01, 15:53:56",
-      "https://lobste.rs/s/xfvm1g/volare_version_manager_builder_for"
-    ],
-    [
-      "volare: Version manager (and builder) for the Google sky130 and gf180mcu Open PDK",
-      "https://github.com/efabless/volare"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 14:52:25",
-      "https://lobste.rs/s/wldnlg/amiga_1000_restoration_part_3"
-    ],
-    [
-      "Amiga 1000 Restoration, Part 3",
-      "https://shred.zone/cilla/page/479/amiga-1000-restauration-part-3.html"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 14:35:08",
       "https://lobste.rs/s/ipkizx/wii_u_architecture"
     ],
     [
       "Wii U Architecture",
       "https://www.copetti.org/writings/consoles/wiiu/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 13:03:04",
-      "https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report"
-    ],
-    [
-      "HardenedBSD October 2022 Status Report | HardenedBSD",
-      "https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report"
     ]
   ],
   [
