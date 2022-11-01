@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 14:35:08](https://lobste.rs/s/ipkizx/wii_u_architecture) - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 * [2022-11-01, 13:43:28](https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android) - [A technical analysis of Pegasus for Android - Part 1](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 * [2022-11-01, 13:41:37](https://lobste.rs/s/mvdo0q/timestamp_based_algorithms_for) - [Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems](https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html)
 * [2022-11-01, 13:03:04](https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report) - [HardenedBSD October 2022 Status Report | HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report)
