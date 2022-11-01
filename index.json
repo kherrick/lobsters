@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-01, 13:43:28",
+      "https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android"
+    ],
+    [
+      "A technical analysis of Pegasus for Android - Part 1",
+      "https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 13:41:37",
+      "https://lobste.rs/s/mvdo0q/timestamp_based_algorithms_for"
+    ],
+    [
+      "Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems",
+      "https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 13:03:04",
       "https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-10-31, 12:23:37",
-      "https://lobste.rs/s/aa48tk/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/aa48tk/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2022-10-31, 10:57:05",
       "https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade"
     ],
@@ -237,16 +247,6 @@
     [
       "Wiring my home with Fiber",
       "https://sschueller.github.io/posts/wiring-a-home-with-fiber/"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 01:12:08",
-      "https://lobste.rs/s/wesjln/rip_kathleen_booth_inventor_assembly"
-    ],
-    [
-      "RIP: Kathleen Booth, the inventor of assembly language",
-      "https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/"
     ]
   ]
 ]
