@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 20:23:01](https://lobste.rs/s/s51fxz/how_boost_code_coverage_with_functional) - [How to Boost Code Coverage with Functional Testing](https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/)
 * [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 * [2022-11-01, 18:46:18](https://lobste.rs/s/vqndrj/introducing_rnbo_cycling_74) - [Introducing RNBO | Cycling '74](https://cycling74.com/products/rnbo)
 * [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
 * [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
+* [2022-11-01, 17:23:15](https://lobste.rs/s/hyz8u9/2022_state_haskell_survey) - [2022 state of Haskell survey](https://haskellweekly.news/survey/2022.html)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:21:29](https://lobste.rs/s/pke5fn/cve_2022_3786_cve_2022_3602_x_509_email) - [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
