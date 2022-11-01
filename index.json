@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-01, 22:29:39",
+      "https://lobste.rs/s/cy63x1/announcing_typescript_4_9_rc"
+    ],
+    [
+      "Announcing TypeScript 4.9 RC",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 22:17:19",
       "https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata"
     ],
@@ -97,16 +107,6 @@
     [
       "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
       "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:20:21",
-      "https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for"
-    ],
-    [
-      "Time Modulation Protocol: a \"Killer App\" for Reowolf?",
-      "https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/"
     ]
   ],
   [
