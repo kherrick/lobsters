@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 09:24:59](https://lobste.rs/s/zatjnq/begin_your_mv3_migration_by_implementing) - [Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
 * [2022-11-01, 08:51:11](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my) - [More Untappd data explorations with jq - my top ranking beer types (part 1)](https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/)
 * [2022-11-01, 08:04:18](https://lobste.rs/s/u9emn9/pie_menus_30_year_retrospective) - [Pie Menus: A 30 Year Retrospective](https://donhopkins.medium.com/pie-menus-936fed383ff1)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
@@ -18,7 +19,6 @@
 * [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 08:40:07](https://lobste.rs/s/asbowa/safe_delusion_information_for_decision) - [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com)
-* [2022-10-31, 07:32:07](https://lobste.rs/s/ibcmbm/why_does_ms_dos_put_int_20h_at_byte_0_com_file) - [Why does MS-DOS put an int 20h at byte 0 of the COM file program segment?](https://devblogs.microsoft.com/oldnewthing/20200309-00/?p=103547)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
 * [2022-10-31, 02:39:00](https://lobste.rs/s/1naxw7/minimal_rocksdb_example_with_zig) - [A minimal RocksDB example with Zig](https://notes.eatonphil.com/zigrocks.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 09:24:59](https://lobste.rs/s/zatjnq/begin_your_mv3_migration_by_implementing) - [Begin your MV3 migration by implementing new features today](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
 * [2022-11-01, 08:51:11](https://lobste.rs/s/9xyxjh/more_untappd_data_explorations_with_jq_my) - [More Untappd data explorations with jq - my top ranking beer types (part 1)](https://qmacro.org/blog/posts/2022/10/30/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-1)/)
 * [2022-11-01, 08:04:18](https://lobste.rs/s/u9emn9/pie_menus_30_year_retrospective) - [Pie Menus: A 30 Year Retrospective](https://donhopkins.medium.com/pie-menus-936fed383ff1)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
