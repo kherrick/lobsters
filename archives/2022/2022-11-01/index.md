@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 13:43:28](https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android) - [A technical analysis of Pegasus for Android - Part 1](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
+* [2022-11-01, 13:41:37](https://lobste.rs/s/mvdo0q/timestamp_based_algorithms_for) - [Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems](https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html)
 * [2022-11-01, 13:03:04](https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report) - [HardenedBSD October 2022 Status Report | HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report)
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:57:25](https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022) - [A Hipster History of CORS (Strange Loop 2022)](https://www.youtube.com/watch?v=0YJ-yhoJh2I)

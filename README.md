@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 13:43:28](https://lobste.rs/s/ct0rih/technical_analysis_pegasus_for_android) - [A technical analysis of Pegasus for Android - Part 1](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
+* [2022-11-01, 13:41:37](https://lobste.rs/s/mvdo0q/timestamp_based_algorithms_for) - [Timestamp-based Algorithms for Concurrency Control in Distributed Database Systems](https://muratbuffalo.blogspot.com/2022/11/timestamp-based-algorithms-for.html)
 * [2022-11-01, 13:03:04](https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report) - [HardenedBSD October 2022 Status Report | HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report)
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:57:25](https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022) - [A Hipster History of CORS (Strange Loop 2022)](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
@@ -20,11 +22,9 @@
 * [2022-10-31, 20:16:27](https://lobste.rs/s/fl79nh/python_3_11_micro_benchmark) - [Python 3.11 micro-benchmark](https://kracekumar.com/post/micro-benchmark-python-311/)
 * [2022-10-31, 15:40:48](https://lobste.rs/s/4tlpcf/synit_squeakphone_demo) - [Synit and SqueakPhone demo](https://www.youtube.com/watch?v=aEfssFQ1X1M)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
-* [2022-10-31, 12:23:37](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/aa48tk/what_are_you_doing_this_week)
 * [2022-10-31, 10:57:05](https://lobste.rs/s/g4f5g3/lessons_learned_from_hardware_upgrade) - [Lessons Learned from a Hardware Upgrade Gone Wrong](https://batsov.com/articles/2022/10/30/lessons-learned-from-a-hardware-upgrade-gone-wrong/)
 * [2022-10-31, 06:19:19](https://lobste.rs/s/27hc2m/google_explains_why_it_s_removing_jpeg_xl) - [Google explains why it's removing JPEG XL from the Chromium code base](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84)
 * [2022-10-31, 06:01:33](https://lobste.rs/s/dcczib/wiring_my_home_with_fiber) - [Wiring my home with Fiber](https://sschueller.github.io/posts/wiring-a-home-with-fiber/)
-* [2022-10-31, 01:12:08](https://lobste.rs/s/wesjln/rip_kathleen_booth_inventor_assembly) - [RIP: Kathleen Booth, the inventor of assembly language](https://www.telegraph.co.uk/obituaries/2022/10/25/kathleen-booth-computer-pioneer-who-made-major-breakthrough/)
 
 ## [Archives](archives/index.md)
 
