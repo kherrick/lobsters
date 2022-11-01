@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-01](index.md)
 
+* [2022-11-01, 22:29:39](https://lobste.rs/s/cy63x1/announcing_typescript_4_9_rc) - [Announcing TypeScript 4.9 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/)
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 22:17:09](https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue) - [OpenSSL gave everyone alarm fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
 * [2022-11-01, 20:23:01](https://lobste.rs/s/s51fxz/how_boost_code_coverage_with_functional) - [How to Boost Code Coverage with Functional Testing](https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/)

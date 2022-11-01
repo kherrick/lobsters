@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-01, 22:29:39](https://lobste.rs/s/cy63x1/announcing_typescript_4_9_rc) - [Announcing TypeScript 4.9 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/)
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 22:17:09](https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue) - [OpenSSL gave everyone alarm fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
 * [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
@@ -10,7 +11,6 @@
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:21:29](https://lobste.rs/s/pke5fn/cve_2022_3786_cve_2022_3602_x_509_email) - [CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog](https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/)
-* [2022-11-01, 16:20:21](https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for) - [Time Modulation Protocol: a \"Killer App\" for Reowolf?](https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/)
 * [2022-11-01, 16:09:35](https://lobste.rs/s/vjemu5/openssl_security_advisory_01_november) - [OpenSSL Security Advisory [01 November 2022]](https://www.openssl.org/news/secadv/20221101.txt)
 * [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 * [2022-11-01, 14:35:08](https://lobste.rs/s/ipkizx/wii_u_architecture) - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
