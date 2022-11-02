@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
 * [2022-11-02, 09:45:43](https://lobste.rs/s/ll3jk3/comparing_tcp_quic) - [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [2022-11-02, 09:39:57](https://lobste.rs/s/gympur/gcc_translation_validation_part_2) - [GCC translation validation part 2: Verifying GCC optimizations using an SMT solver](https://kristerw.github.io/2022/11/01/verifying-optimizations/)
 * [2022-11-02, 06:50:13](https://lobste.rs/s/w4wfzm/vs_code_can_do) - [VS Code Can Do That?](https://vscodecandothat.com/)
 * [2022-11-02, 06:31:25](https://lobste.rs/s/3jaqmw/few_my_favourite_things_about_openbsd) - [A few of my favourite things about the OpenBSD Packet Filter tools](https://blog.apnic.net/2022/11/02/openbsd-packet-filter-tools/)
 * [2022-11-02, 02:42:37](https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new) - [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
-* [2022-11-01, 23:04:23](https://lobste.rs/s/uh1o4g/zen_go) - [The Zen of Go](https://www.youtube.com/watch?v=yd_rtwYaXps)
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 22:17:09](https://lobste.rs/s/xuwtwe/openssl_gave_everyone_alarm_fatigue) - [OpenSSL gave everyone alarm fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
 * [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
