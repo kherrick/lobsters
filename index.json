@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-11-01, 23:04:23",
+      "https://lobste.rs/s/uh1o4g/zen_go"
+    ],
+    [
+      "The Zen of Go",
+      "https://www.youtube.com/watch?v=yd_rtwYaXps"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 22:17:19",
       "https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata"
     ],
@@ -137,16 +147,6 @@
     [
       "Forcing Sequential Scans on PostgreSQL Using Large Integers",
       "https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:21:29",
-      "https://lobste.rs/s/pke5fn/cve_2022_3786_cve_2022_3602_x_509_email"
-    ],
-    [
-      "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
-      "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
     ]
   ],
   [
