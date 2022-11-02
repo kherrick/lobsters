@@ -1,22 +1,12 @@
 [
   [
     [
-      "2022-11-01, 23:04:23",
-      "https://lobste.rs/s/uh1o4g/zen_go"
+      "2022-11-02, 02:42:37",
+      "https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new"
     ],
     [
-      "The Zen of Go",
-      "https://www.youtube.com/watch?v=yd_rtwYaXps"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 22:29:39",
-      "https://lobste.rs/s/cy63x1/announcing_typescript_4_9_rc"
-    ],
-    [
-      "Announcing TypeScript 4.9 RC",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/"
+      "Godot’s Graduation: Godot moves to a new Foundation",
+      "https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "OpenSSL gave everyone alarm fatigue",
       "https://xeiaso.net/blog/openssl-alarm-fatigue"
+    ]
+  ],
+  [
+    [
+      "2022-11-01, 20:23:01",
+      "https://lobste.rs/s/s51fxz/how_boost_code_coverage_with_functional"
+    ],
+    [
+      "How to Boost Code Coverage with Functional Testing",
+      "https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2022-11-01, 13:03:04",
+      "https://lobste.rs/s/nqqhxb/hardenedbsd_october_2022_status_report"
+    ],
+    [
+      "HardenedBSD October 2022 Status Report | HardenedBSD",
+      "https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report"
+    ]
+  ],
+  [
+    [
       "2022-11-01, 12:25:16",
       "https://lobste.rs/s/qbsbcj/streamline_your_github_actions"
     ],
     [
       "Streamline your GitHub Actions dependencies using Nix",
       "https://determinate.systems/posts/nix-github-actions"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:57:25",
-      "https://lobste.rs/s/7lmziv/hipster_history_cors_strange_loop_2022"
-    ],
-    [
-      "A Hipster History of CORS (Strange Loop 2022)",
-      "https://www.youtube.com/watch?v=0YJ-yhoJh2I"
     ]
   ],
   [
