@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-02](index.md)
 
+* [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 19:14:09](https://lobste.rs/s/x96xpq/doing_what_you_love_when_money_won_t_follow) - [Doing what you love when the money won’t follow](https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow)
 * [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
 * [2022-11-02, 19:06:40](https://lobste.rs/s/ipka0a/c_is_next_c) - [C++ is the next C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)

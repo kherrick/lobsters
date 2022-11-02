@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 19:14:09](https://lobste.rs/s/x96xpq/doing_what_you_love_when_money_won_t_follow) - [Doing what you love when the money won’t follow](https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow)
 * [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
 * [2022-11-02, 19:06:40](https://lobste.rs/s/ipka0a/c_is_next_c) - [C++ is the next C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)
@@ -24,7 +25,6 @@
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
-* [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 
 ## [Archives](archives/index.md)
 
