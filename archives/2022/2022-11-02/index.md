@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-02](index.md)
 
+* [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
+* [2022-11-02, 19:06:40](https://lobste.rs/s/ipka0a/c_is_next_c) - [C++ is the next C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)
 * [2022-11-02, 18:21:50](https://lobste.rs/s/8prsda/love_letter_react) - [A love letter to React](https://fly.io/blog/love-letter-react/)
 * [2022-11-02, 18:04:31](https://lobste.rs/s/bj7rg6/why_did_openssl_punycode_vulnerability) - [Why Did the OpenSSL Punycode Vulnerability Happen?](https://words.filippo.io/dispatches/openssl-punycode/)
 * [2022-11-02, 17:29:42](https://lobste.rs/s/k5dwfg/zfs_on_openbsd_2013) - [ZFS on OpenBSD (2013)](https://flak.tedunangst.com/post/ZFS-on-OpenBSD)
