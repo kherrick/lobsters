@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-02](index.md)
 
+* [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
+* [2022-11-02, 15:14:21](https://lobste.rs/s/qpzkpp/c_checked_c_by_3c) - [C to Checked C by 3C](https://dl.acm.org/doi/pdf/10.1145/3527322)
 * [2022-11-02, 14:49:15](https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust) - [Memory safety in C++, Zig, & Rust](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 * [2022-11-02, 14:46:46](https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase) - [Booting an Embedded OS: the Booting and U-Boot Phase](https://serhack.me/articles/os-embedded-booting-phase-uboot/)

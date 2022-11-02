@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
+* [2022-11-02, 15:14:21](https://lobste.rs/s/qpzkpp/c_checked_c_by_3c) - [C to Checked C by 3C](https://dl.acm.org/doi/pdf/10.1145/3527322)
 * [2022-11-02, 14:49:15](https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust) - [Memory safety in C++, Zig, & Rust](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 * [2022-11-02, 14:46:46](https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase) - [Booting an Embedded OS: the Booting and U-Boot Phase](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
@@ -15,7 +17,6 @@
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
-* [2022-11-01, 18:06:09](https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache) - [Build FFmpeg filters without the headache](https://ffmpeg.guide/)
 * [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
@@ -24,7 +25,6 @@
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
-* [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 
 ## [Archives](archives/index.md)
 
