@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 20:52:48](https://lobste.rs/s/uuuknh/experts_debate_ethics_linkedin_s) - [Experts debate the ethics of LinkedIn’s algorithm experiments on 20M users](https://arstechnica.com/tech-policy/2022/09/experts-debate-the-ethics-of-linkedins-algorithm-experiments-on-20m-users/)
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
-* [2022-11-02, 19:14:09](https://lobste.rs/s/x96xpq/doing_what_you_love_when_money_won_t_follow) - [Doing what you love when the money won’t follow](https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow)
 * [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
 * [2022-11-02, 19:06:40](https://lobste.rs/s/ipka0a/c_is_next_c) - [C++ is the next C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)
 * [2022-11-02, 18:21:50](https://lobste.rs/s/8prsda/love_letter_react) - [A love letter to React](https://fly.io/blog/love-letter-react/)
