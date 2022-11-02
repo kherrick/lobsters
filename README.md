@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 06:50:13](https://lobste.rs/s/w4wfzm/vs_code_can_do) - [VS Code Can Do That?](https://vscodecandothat.com/)
 * [2022-11-02, 06:31:25](https://lobste.rs/s/3jaqmw/few_my_favourite_things_about_openbsd) - [A few of my favourite things about the OpenBSD Packet Filter tools](https://blog.apnic.net/2022/11/02/openbsd-packet-filter-tools/)
 * [2022-11-02, 02:42:37](https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new) - [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
 * [2022-11-01, 23:04:23](https://lobste.rs/s/uh1o4g/zen_go) - [The Zen of Go](https://www.youtube.com/watch?v=yd_rtwYaXps)
@@ -21,7 +22,6 @@
 * [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
 * [2022-11-01, 01:56:53](https://lobste.rs/s/z1a1kc/sourcehut_terms_service_updates) - [SourceHut terms of service updates, cryptocurrency-related projects to be removed](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/)
-* [2022-10-31, 21:29:21](https://lobste.rs/s/yunyq1/linux_on_microsoft_dev_kit_2023) - [Linux on Microsoft Dev Kit 2023](https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/)
 * [2022-10-31, 21:14:39](https://lobste.rs/s/gsizcf/zig_0_10_0_release_notes) - [Zig 0.10.0 Release Notes](https://ziglang.org/download/0.10.0/release-notes.html)
 * [2022-10-31, 20:49:09](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects) - [Do you use Nix or equivalent to manage projects and/or systems?](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 * [2022-10-31, 12:23:56](https://lobste.rs/s/jc2oru/configuration_management_system_for) - [A configuration management system for Pets, not Cattle](https://github.com/ema/pets)
