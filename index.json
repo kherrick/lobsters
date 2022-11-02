@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-02, 19:09:14",
+      "https://lobste.rs/s/jtzgsb/booth_metadata_secure_video"
+    ],
+    [
+      "Booth, Metadata-Secure Video Conferencing",
+      "https://booth.video"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 19:06:40",
+      "https://lobste.rs/s/ipka0a/c_is_next_c"
+    ],
+    [
+      "C++ is the next C++",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 18:21:50",
       "https://lobste.rs/s/8prsda/love_letter_react"
     ],
@@ -227,26 +247,6 @@
     [
       "Streamline your GitHub Actions dependencies using Nix",
       "https://determinate.systems/posts/nix-github-actions"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 11:12:50",
-      "https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite"
-    ],
-    [
-      "Is Turbopack really 10x Faster than Vite?",
-      "https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 10:12:05",
-      "https://lobste.rs/s/87hbtd/djot_light_markup_language"
-    ],
-    [
-      "Djot, a Light Markup Language",
-      "https://djot.net"
     ]
   ]
 ]
