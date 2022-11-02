@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-02, 09:45:43",
+      "https://lobste.rs/s/ll3jk3/comparing_tcp_quic"
+    ],
+    [
+      "Comparing TCP and QUIC",
+      "https://www.potaroo.net/ispcol/2022-11/quicvtcp.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 09:39:57",
+      "https://lobste.rs/s/gympur/gcc_translation_validation_part_2"
+    ],
+    [
+      "GCC translation validation part 2: Verifying GCC optimizations using an SMT solver",
+      "https://kristerw.github.io/2022/11/01/verifying-optimizations/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 06:50:13",
       "https://lobste.rs/s/w4wfzm/vs_code_can_do"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2022-11-01, 17:23:15",
-      "https://lobste.rs/s/hyz8u9/2022_state_haskell_survey"
-    ],
-    [
-      "2022 state of Haskell survey",
-      "https://haskellweekly.news/survey/2022.html"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 16:38:57",
       "https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side"
     ],
@@ -137,16 +147,6 @@
     [
       "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
       "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:20:21",
-      "https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for"
-    ],
-    [
-      "Time Modulation Protocol: a \"Killer App\" for Reowolf?",
-      "https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/"
     ]
   ],
   [
