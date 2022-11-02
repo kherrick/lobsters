@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-02, 18:04:31",
+      "https://lobste.rs/s/bj7rg6/why_did_openssl_punycode_vulnerability"
+    ],
+    [
+      "Why Did the OpenSSL Punycode Vulnerability Happen?",
+      "https://words.filippo.io/dispatches/openssl-punycode/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 17:29:42",
       "https://lobste.rs/s/k5dwfg/zfs_on_openbsd"
     ],
@@ -207,16 +217,6 @@
     [
       "OpenSSL version 3.0.7 published",
       "https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 14:35:08",
-      "https://lobste.rs/s/ipkizx/wii_u_architecture"
-    ],
-    [
-      "Wii U Architecture",
-      "https://www.copetti.org/writings/consoles/wiiu/"
     ]
   ],
   [
