@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-02, 15:15:11",
+      "https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1"
+    ],
+    [
+      "Moving past TCP in the data center, part 1",
+      "https://lwn.net/SubscriberLink/913260/91d14334d26bd267/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:14:21",
+      "https://lobste.rs/s/qpzkpp/c_checked_c_by_3c"
+    ],
+    [
+      "C to Checked C by 3C",
+      "https://dl.acm.org/doi/pdf/10.1145/3527322"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 14:49:15",
       "https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-11-01, 18:06:09",
-      "https://lobste.rs/s/bumvhu/build_ffmpeg_filters_without_headache"
-    ],
-    [
-      "Build FFmpeg filters without the headache",
-      "https://ffmpeg.guide/"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 17:42:54",
       "https://lobste.rs/s/kv3dxl/sms_multifactor_authentication"
     ],
@@ -237,16 +247,6 @@
     [
       "Djot, a Light Markup Language",
       "https://djot.net"
-    ]
-  ],
-  [
-    [
-      "2022-10-31, 20:49:09",
-      "https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects"
-    ],
-    [
-      "Do you use Nix or equivalent to manage projects and/or systems?",
-      "https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects"
     ]
   ]
 ]
