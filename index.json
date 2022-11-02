@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-02, 13:50:04",
+      "https://lobste.rs/s/fuwmou/why_functional_programming_should_be"
+    ],
+    [
+      "Why Functional Programming Should Be the Future of Software Development",
+      "https://spectrum.ieee.org/functional-programming"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 12:58:25",
+      "https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming"
+    ],
+    [
+      "OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer",
+      "https://sdadams.org/blog/introducing-muxfs/"
+    ]
+  ],
+  [
+    [
       "2022-11-02, 10:49:41",
       "https://lobste.rs/s/95ammp/sile_modern_rewrite_tex"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-01, 17:23:15",
-      "https://lobste.rs/s/hyz8u9/2022_state_haskell_survey"
-    ],
-    [
-      "2022 state of Haskell survey",
-      "https://haskellweekly.news/survey/2022.html"
-    ]
-  ],
-  [
-    [
       "2022-11-01, 16:38:57",
       "https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side"
     ],
@@ -147,16 +157,6 @@
     [
       "Forcing Sequential Scans on PostgreSQL Using Large Integers",
       "https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:20:21",
-      "https://lobste.rs/s/megrbg/time_modulation_protocol_killer_app_for"
-    ],
-    [
-      "Time Modulation Protocol: a \"Killer App\" for Reowolf?",
-      "https://reowolf.net/time-modulation-protocol-a-killer-app-for-reowolf/"
     ]
   ],
   [
