@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-02](index.md)
 
+* [2022-11-02, 13:50:04](https://lobste.rs/s/fuwmou/why_functional_programming_should_be) - [Why Functional Programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming)
+* [2022-11-02, 12:58:25](https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming) - [OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer](https://sdadams.org/blog/introducing-muxfs/)
 * [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
 * [2022-11-02, 09:45:43](https://lobste.rs/s/ll3jk3/comparing_tcp_quic) - [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [2022-11-02, 09:39:57](https://lobste.rs/s/gympur/gcc_translation_validation_part_2) - [GCC translation validation part 2: Verifying GCC optimizations using an SMT solver](https://kristerw.github.io/2022/11/01/verifying-optimizations/)
