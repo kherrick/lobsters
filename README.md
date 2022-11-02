@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-02, 18:04:31](https://lobste.rs/s/bj7rg6/why_did_openssl_punycode_vulnerability) - [Why Did the OpenSSL Punycode Vulnerability Happen?](https://words.filippo.io/dispatches/openssl-punycode/)
 * [2022-11-02, 17:29:42](https://lobste.rs/s/k5dwfg/zfs_on_openbsd) - [ZFS on OpenBSD](https://flak.tedunangst.com/post/ZFS-on-OpenBSD)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
@@ -21,7 +22,6 @@
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
-* [2022-11-01, 14:35:08](https://lobste.rs/s/ipkizx/wii_u_architecture) - [Wii U Architecture](https://www.copetti.org/writings/consoles/wiiu/)
 * [2022-11-01, 12:25:16](https://lobste.rs/s/qbsbcj/streamline_your_github_actions) - [Streamline your GitHub Actions dependencies using Nix](https://determinate.systems/posts/nix-github-actions)
 * [2022-11-01, 11:12:50](https://lobste.rs/s/on6ncu/is_turbopack_really_10x_faster_than_vite) - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 * [2022-11-01, 10:12:05](https://lobste.rs/s/87hbtd/djot_light_markup_language) - [Djot, a Light Markup Language](https://djot.net)
