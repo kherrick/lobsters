@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-11-03, 14:23:01",
-      "https://lobste.rs/s/im4sta/software_world_tour"
-    ],
-    [
-      "Software World Tour",
-      "https://corecursive.com/software-world-tour-with-son-luong-ngoc/"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 14:19:05",
       "https://lobste.rs/s/gmolpk/darklang_release_6"
     ],
@@ -217,6 +207,16 @@
     [
       "Notes on Every Strangeloop 2022 Talk I Attended",
       "https://www.hillelwayne.com/post/strangeloop-22/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 14:46:46",
+      "https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase"
+    ],
+    [
+      "Booting an Embedded OS: the Booting and U-Boot Phase",
+      "https://serhack.me/articles/os-embedded-booting-phase-uboot/"
     ]
   ],
   [
