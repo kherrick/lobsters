@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 13:19:55](https://lobste.rs/s/1ulrrd/domm_perl_things_i_learned_at_pgconf_eu) - [domm /   Perl /  Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
+* [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months) - [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 11:43:04](https://lobste.rs/s/kttfxc/using_magic_wand_break_iphone_s_last) - [Using a magic wand to break the iPhone's last security barrier](https://github.com/tihmstar/gido_public/raw/master/Using%20a%20magic%20wand%20to%20break%20the%20iPhone's%20last%20security%20barrier.pdf)
 * [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
