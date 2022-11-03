@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
 * [2022-11-03, 19:16:30](https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022) - [Videos from EuroBSDcon 2022](https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf)
 * [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
@@ -23,7 +24,6 @@
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
-* [2022-11-02, 12:58:25](https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming) - [OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer](https://sdadams.org/blog/introducing-muxfs/)
 * [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
 
 ## [Archives](archives/index.md)
