@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-03, 14:32:21",
+      "https://lobste.rs/s/qojcz4/announcing_rust_1_65_0"
+    ],
+    [
+      "Announcing Rust 1.65.0",
+      "https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 14:23:01",
+      "https://lobste.rs/s/im4sta/software_world_tour"
+    ],
+    [
+      "Software World Tour",
+      "https://corecursive.com/software-world-tour-with-son-luong-ngoc/"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 14:19:05",
+      "https://lobste.rs/s/gmolpk/darklang_release_6"
+    ],
+    [
+      "Darklang Release 6",
+      "https://blog.darklang.com/darklang-release-6/"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 14:17:34",
+      "https://lobste.rs/s/1nzold/why_lisp"
+    ],
+    [
+      "Why Lisp",
+      "https://github.com/naver/lispe/wiki/6.16-Why-Lisp"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 14:01:24",
       "https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix"
     ],
@@ -22,10 +62,10 @@
   [
     [
       "2022-11-03, 13:18:40",
-      "https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months"
+      "https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019"
     ],
     [
-      "Thoughts on Rust after six months",
+      "Thoughts on Rust after six months (2019)",
       "https://127.io/2019/02/22/rust-six-months-later/"
     ]
   ],
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2022-11-02, 19:09:14",
-      "https://lobste.rs/s/jtzgsb/booth_metadata_secure_video"
-    ],
-    [
-      "Booth, Metadata-Secure Video Conferencing",
-      "https://booth.video"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 19:06:40",
-      "https://lobste.rs/s/ipka0a/c_is_next_c"
-    ],
-    [
-      "C++ is the next C++",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html"
-    ]
-  ],
-  [
-    [
       "2022-11-02, 18:21:50",
       "https://lobste.rs/s/8prsda/love_letter_react"
     ],
     [
       "A love letter to React",
       "https://fly.io/blog/love-letter-react/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 17:29:42",
-      "https://lobste.rs/s/k5dwfg/zfs_on_openbsd_2013"
-    ],
-    [
-      "ZFS on OpenBSD (2013)",
-      "https://flak.tedunangst.com/post/ZFS-on-OpenBSD"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Sile: A modern rewrite of TeX",
       "https://sile-typesetter.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 19:14:58",
-      "https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal"
-    ],
-    [
-      "Potluck: Dynamic documents as personal software",
-      "https://www.inkandswitch.com/potluck/"
     ]
   ]
 ]
