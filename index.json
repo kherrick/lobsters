@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 20:29:53",
+      "https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive"
+    ],
+    [
+      "Spinrite 6.0 on UEFI and an NVMe SSD drive",
+      "https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 19:16:30",
       "https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022"
     ],
@@ -167,16 +177,6 @@
     [
       "The Case for JPEG XL",
       "https://cloudinary.com/blog/the-case-for-jpeg-xl"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 05:38:51",
-      "https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements"
-    ],
-    [
-      "Deno 1.27: Major IDE Improvements",
-      "https://deno.com/blog/v1.27"
     ]
   ],
   [
