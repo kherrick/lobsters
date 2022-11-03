@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-11-03, 06:44:28",
-      "https://lobste.rs/s/lqgn2m/is_criticizing_tech_on_political_grounds"
-    ],
-    [
-      "Is criticizing tech on political grounds valid?",
-      "https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 05:38:51",
       "https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements"
     ],
@@ -157,6 +147,16 @@
     [
       "Moving past TCP in the data center, part 1",
       "https://lwn.net/SubscriberLink/913260/91d14334d26bd267/"
+    ]
+  ],
+  [
+    [
+      "2022-11-02, 15:14:21",
+      "https://lobste.rs/s/qpzkpp/c_checked_c_by_3c"
+    ],
+    [
+      "C to Checked C by 3C",
+      "https://dl.acm.org/doi/pdf/10.1145/3527322"
     ]
   ],
   [
