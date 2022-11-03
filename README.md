@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 02:17:27](https://lobste.rs/s/g29ghr/history_fd_set_fd_setsize_how_it_relates) - [A history of the fd_set, FD_SETSIZE, and how it relates to WinSock](https://devblogs.microsoft.com/oldnewthing/20221102-00/?p=107343)
+* [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 * [2022-11-02, 20:52:48](https://lobste.rs/s/uuuknh/experts_debate_ethics_linkedin_s) - [Experts debate the ethics of LinkedIn’s algorithm experiments on 20M users](https://arstechnica.com/tech-policy/2022/09/experts-debate-the-ethics-of-linkedins-algorithm-experiments-on-20m-users/)
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
@@ -19,9 +21,7 @@
 * [2022-11-02, 06:50:13](https://lobste.rs/s/w4wfzm/vs_code_can_do) - [VS Code Can Do That?](https://vscodecandothat.com/)
 * [2022-11-02, 02:42:37](https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new) - [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
-* [2022-11-01, 19:51:25](https://lobste.rs/s/jionfg/zen_erlang_2016) - [The Zen of Erlang (2016)](https://ferd.ca/the-zen-of-erlang.html)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
-* [2022-11-01, 17:42:54](https://lobste.rs/s/kv3dxl/sms_multifactor_authentication) - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
 * [2022-11-01, 16:34:17](https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql) - [Forcing Sequential Scans on PostgreSQL Using Large Integers](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
 * [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
