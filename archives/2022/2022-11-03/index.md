@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 15:50:04](https://lobste.rs/s/2sdzhv/submarine_cable_map) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2022-11-03, 15:24:13](https://lobste.rs/s/0zgx9r/good_old_fashioned_code_optimization) - [Good old-fashioned code optimization never goes out of style](https://pythonspeed.com/articles/old-fashioned-software-optimized/)
 * [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)

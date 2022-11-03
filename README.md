@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 15:50:04](https://lobste.rs/s/2sdzhv/submarine_cable_map) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2022-11-03, 15:24:13](https://lobste.rs/s/0zgx9r/good_old_fashioned_code_optimization) - [Good old-fashioned code optimization never goes out of style](https://pythonspeed.com/articles/old-fashioned-software-optimized/)
 * [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
@@ -19,7 +20,6 @@
 * [2022-11-02, 18:21:50](https://lobste.rs/s/8prsda/love_letter_react) - [A love letter to React](https://fly.io/blog/love-letter-react/)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
-* [2022-11-02, 14:49:15](https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust) - [Memory safety in C++, Zig, & Rust](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 * [2022-11-02, 14:46:46](https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase) - [Booting an Embedded OS: the Booting and U-Boot Phase](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
 * [2022-11-02, 13:50:04](https://lobste.rs/s/fuwmou/why_functional_programming_should_be) - [Why Functional Programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming)
