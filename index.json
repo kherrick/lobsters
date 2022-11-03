@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 05:38:51",
+      "https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements"
+    ],
+    [
+      "Deno 1.27: Major IDE Improvements",
+      "https://deno.com/blog/v1.27"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 05:06:05",
       "https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos"
     ],
@@ -237,16 +247,6 @@
     [
       "My Simple Kubernetes Setup for Side Projects",
       "https://bas.codes/posts/simple-kubernetes"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:03:59",
-      "https://lobste.rs/s/376oeh/openssl_version_3_0_7_published"
-    ],
-    [
-      "OpenSSL version 3.0.7 published",
-      "https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html"
     ]
   ]
 ]
