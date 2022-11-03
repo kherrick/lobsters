@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
+* [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 15:50:04](https://lobste.rs/s/2sdzhv/submarine_cable_map) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2022-11-03, 15:24:13](https://lobste.rs/s/0zgx9r/good_old_fashioned_code_optimization) - [Good old-fashioned code optimization never goes out of style](https://pythonspeed.com/articles/old-fashioned-software-optimized/)
@@ -21,8 +23,6 @@
 * [2022-11-02, 18:21:50](https://lobste.rs/s/8prsda/love_letter_react) - [A love letter to React](https://fly.io/blog/love-letter-react/)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
-* [2022-11-02, 14:46:46](https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase) - [Booting an Embedded OS: the Booting and U-Boot Phase](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
-* [2022-11-02, 13:50:04](https://lobste.rs/s/fuwmou/why_functional_programming_should_be) - [Why Functional Programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming)
 * [2022-11-02, 12:58:25](https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming) - [OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer](https://sdadams.org/blog/introducing-muxfs/)
 * [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
 

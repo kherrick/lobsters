@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
+* [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 15:50:04](https://lobste.rs/s/2sdzhv/submarine_cable_map) - [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [2022-11-03, 15:24:13](https://lobste.rs/s/0zgx9r/good_old_fashioned_code_optimization) - [Good old-fashioned code optimization never goes out of style](https://pythonspeed.com/articles/old-fashioned-software-optimized/)
