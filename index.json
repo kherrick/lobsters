@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-03, 19:16:30",
+      "https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022"
+    ],
+    [
+      "Videos from EuroBSDcon 2022",
+      "https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 19:08:23",
+      "https://lobste.rs/s/ejhe0y/experiment_improving_rust_book"
+    ],
+    [
+      "Experiment: Improving the Rust book",
+      "https://rust-book.cs.brown.edu/"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 18:55:25",
       "https://lobste.rs/s/vflzn5/lemon_sours_surges"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-11-03, 02:17:27",
-      "https://lobste.rs/s/g29ghr/history_fd_set_fd_setsize_how_it_relates"
-    ],
-    [
-      "A history of the fd_set, FD_SETSIZE, and how it relates to WinSock",
-      "https://devblogs.microsoft.com/oldnewthing/20221102-00/?p=107343"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 01:48:50",
       "https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal"
     ],
@@ -197,16 +207,6 @@
     [
       "Google Play will prevent VPN apps from interacting with and blocking ads",
       "https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 18:21:50",
-      "https://lobste.rs/s/8prsda/love_letter_react"
-    ],
-    [
-      "A love letter to React",
-      "https://fly.io/blog/love-letter-react/"
     ]
   ],
   [
