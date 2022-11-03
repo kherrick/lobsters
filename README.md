@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 11:43:04](https://lobste.rs/s/kttfxc/using_magic_wand_break_iphone_s_last) - [Using a magic wand to break the iPhone's last security barrier](https://github.com/tihmstar/gido_public/raw/master/Using%20a%20magic%20wand%20to%20break%20the%20iPhone's%20last%20security%20barrier.pdf)
 * [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 * [2022-11-03, 06:44:28](https://lobste.rs/s/lqgn2m/is_criticizing_tech_on_political_grounds) - [Is criticizing tech on political grounds valid?](https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html)
@@ -15,7 +16,6 @@
 * [2022-11-02, 17:29:42](https://lobste.rs/s/k5dwfg/zfs_on_openbsd_2013) - [ZFS on OpenBSD (2013)](https://flak.tedunangst.com/post/ZFS-on-OpenBSD)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
-* [2022-11-02, 15:14:21](https://lobste.rs/s/qpzkpp/c_checked_c_by_3c) - [C to Checked C by 3C](https://dl.acm.org/doi/pdf/10.1145/3527322)
 * [2022-11-02, 14:49:15](https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust) - [Memory safety in C++, Zig, & Rust](https://www.youtube.com/watch?v=qeiRGbYCD-0)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 * [2022-11-02, 14:46:46](https://lobste.rs/s/axgu0j/booting_embedded_os_booting_u_boot_phase) - [Booting an Embedded OS: the Booting and U-Boot Phase](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
