@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 05:38:51](https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements) - [Deno 1.27: Major IDE Improvements](https://deno.com/blog/v1.27)
 * [2022-11-03, 05:06:05](https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos) - [Hard user separation with NixOS](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/)
 * [2022-11-03, 02:17:27](https://lobste.rs/s/g29ghr/history_fd_set_fd_setsize_how_it_relates) - [A history of the fd_set, FD_SETSIZE, and how it relates to WinSock](https://devblogs.microsoft.com/oldnewthing/20221102-00/?p=107343)
 * [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
@@ -24,7 +25,6 @@
 * [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 * [2022-11-01, 16:38:57](https://lobste.rs/s/4lwaky/my_simple_kubernetes_setup_for_side) - [My Simple Kubernetes Setup for Side Projects](https://bas.codes/posts/simple-kubernetes)
-* [2022-11-01, 16:03:59](https://lobste.rs/s/376oeh/openssl_version_3_0_7_published) - [OpenSSL version 3.0.7 published](https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html)
 
 ## [Archives](archives/index.md)
 
