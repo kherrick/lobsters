@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
 * [2022-11-03, 14:23:01](https://lobste.rs/s/im4sta/software_world_tour) - [Software World Tour](https://corecursive.com/software-world-tour-with-son-luong-ngoc/)
 * [2022-11-03, 14:19:05](https://lobste.rs/s/gmolpk/darklang_release_6) - [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
