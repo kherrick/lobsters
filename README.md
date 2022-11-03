@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 * [2022-11-03, 06:44:28](https://lobste.rs/s/lqgn2m/is_criticizing_tech_on_political_grounds) - [Is criticizing tech on political grounds valid?](https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html)
 * [2022-11-03, 05:38:51](https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements) - [Deno 1.27: Major IDE Improvements](https://deno.com/blog/v1.27)
@@ -21,7 +22,6 @@
 * [2022-11-02, 13:50:04](https://lobste.rs/s/fuwmou/why_functional_programming_should_be) - [Why Functional Programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming)
 * [2022-11-02, 12:58:25](https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming) - [OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer](https://sdadams.org/blog/introducing-muxfs/)
 * [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
-* [2022-11-02, 09:45:43](https://lobste.rs/s/ll3jk3/comparing_tcp_quic) - [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [2022-11-02, 06:50:13](https://lobste.rs/s/w4wfzm/vs_code_can_do) - [VS Code Can Do That?](https://vscodecandothat.com/)
 * [2022-11-02, 02:42:37](https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new) - [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
