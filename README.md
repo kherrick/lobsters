@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 * [2022-11-03, 06:44:28](https://lobste.rs/s/lqgn2m/is_criticizing_tech_on_political_grounds) - [Is criticizing tech on political grounds valid?](https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html)
 * [2022-11-03, 05:38:51](https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements) - [Deno 1.27: Major IDE Improvements](https://deno.com/blog/v1.27)
 * [2022-11-03, 05:06:05](https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos) - [Hard user separation with NixOS](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/)
@@ -23,7 +24,6 @@
 * [2022-11-02, 09:45:43](https://lobste.rs/s/ll3jk3/comparing_tcp_quic) - [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [2022-11-02, 06:50:13](https://lobste.rs/s/w4wfzm/vs_code_can_do) - [VS Code Can Do That?](https://vscodecandothat.com/)
 * [2022-11-02, 02:42:37](https://lobste.rs/s/nsiyoz/godot_s_graduation_godot_moves_new) - [Godot’s Graduation: Godot moves to a new Foundation](https://godotengine.org/article/godots-graduation-godot-moves-to-a-new-foundation)
-* [2022-11-01, 22:17:19](https://lobste.rs/s/ejb5bl/sandspiel_studio_cellular_automata) - [Sandspiel Studio: Cellular Automata Designer](https://studio.sandspiel.club/)
 * [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 * [2022-11-03, 06:44:28](https://lobste.rs/s/lqgn2m/is_criticizing_tech_on_political_grounds) - [Is criticizing tech on political grounds valid?](https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html)
 * [2022-11-03, 05:38:51](https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements) - [Deno 1.27: Major IDE Improvements](https://deno.com/blog/v1.27)
 * [2022-11-03, 05:06:05](https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos) - [Hard user separation with NixOS](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/)
