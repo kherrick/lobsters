@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 21:32:34](https://lobste.rs/s/dm9aes/new_css_media_query_range_syntax) - [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
-* [2022-11-03, 19:16:30](https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022) - [Videos from EuroBSDcon 2022](https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
