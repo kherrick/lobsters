@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
 * [2022-11-03, 19:16:30](https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022) - [Videos from EuroBSDcon 2022](https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf)
 * [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)

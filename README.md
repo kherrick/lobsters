@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
 * [2022-11-03, 19:16:30](https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022) - [Videos from EuroBSDcon 2022](https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf)
 * [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
@@ -17,7 +18,6 @@
 * [2022-11-03, 11:43:04](https://lobste.rs/s/kttfxc/using_magic_wand_break_iphone_s_last) - [Using a magic wand to break the iPhone's last security barrier](https://github.com/tihmstar/gido_public/raw/master/Using%20a%20magic%20wand%20to%20break%20the%20iPhone's%20last%20security%20barrier.pdf)
 * [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
-* [2022-11-03, 05:38:51](https://lobste.rs/s/mysr5d/deno_1_27_major_ide_improvements) - [Deno 1.27: Major IDE Improvements](https://deno.com/blog/v1.27)
 * [2022-11-03, 05:06:05](https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos) - [Hard user separation with NixOS](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/)
 * [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
