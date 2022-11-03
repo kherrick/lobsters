@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-03, 05:06:05",
+      "https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos"
+    ],
+    [
+      "Hard user separation with NixOS",
+      "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 02:17:27",
       "https://lobste.rs/s/g29ghr/history_fd_set_fd_setsize_how_it_relates"
     ],
@@ -227,16 +237,6 @@
     [
       "My Simple Kubernetes Setup for Side Projects",
       "https://bas.codes/posts/simple-kubernetes"
-    ]
-  ],
-  [
-    [
-      "2022-11-01, 16:34:17",
-      "https://lobste.rs/s/jgl9w2/forcing_sequential_scans_on_postgresql"
-    ],
-    [
-      "Forcing Sequential Scans on PostgreSQL Using Large Integers",
-      "https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html"
     ]
   ],
   [
