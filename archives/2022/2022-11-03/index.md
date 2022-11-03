@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
+* [2022-11-03, 14:23:01](https://lobste.rs/s/im4sta/software_world_tour) - [Software World Tour](https://corecursive.com/software-world-tour-with-son-luong-ngoc/)
+* [2022-11-03, 14:19:05](https://lobste.rs/s/gmolpk/darklang_release_6) - [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
+* [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 13:19:55](https://lobste.rs/s/1ulrrd/domm_perl_things_i_learned_at_pgconf_eu) - [domm /   Perl /  Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
+* [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019) - [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months) - [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 11:43:04](https://lobste.rs/s/kttfxc/using_magic_wand_break_iphone_s_last) - [Using a magic wand to break the iPhone's last security barrier](https://github.com/tihmstar/gido_public/raw/master/Using%20a%20magic%20wand%20to%20break%20the%20iPhone's%20last%20security%20barrier.pdf)
 * [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)

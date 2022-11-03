@@ -1,8 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
+* [2022-11-03, 14:23:01](https://lobste.rs/s/im4sta/software_world_tour) - [Software World Tour](https://corecursive.com/software-world-tour-with-son-luong-ngoc/)
+* [2022-11-03, 14:19:05](https://lobste.rs/s/gmolpk/darklang_release_6) - [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
+* [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 13:19:55](https://lobste.rs/s/1ulrrd/domm_perl_things_i_learned_at_pgconf_eu) - [domm /   Perl /  Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
-* [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months) - [Thoughts on Rust after six months](https://127.io/2019/02/22/rust-six-months-later/)
+* [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019) - [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 11:43:04](https://lobste.rs/s/kttfxc/using_magic_wand_break_iphone_s_last) - [Using a magic wand to break the iPhone's last security barrier](https://github.com/tihmstar/gido_public/raw/master/Using%20a%20magic%20wand%20to%20break%20the%20iPhone's%20last%20security%20barrier.pdf)
 * [2022-11-03, 10:39:21](https://lobste.rs/s/cat5kx/original_source_code_microsoft_gw_basic) - [The original source code of Microsoft GW-BASIC from 1983](https://github.com/microsoft/GW-BASIC)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
@@ -12,10 +16,7 @@
 * [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 * [2022-11-02, 20:52:48](https://lobste.rs/s/uuuknh/experts_debate_ethics_linkedin_s) - [Experts debate the ethics of LinkedIn’s algorithm experiments on 20M users](https://arstechnica.com/tech-policy/2022/09/experts-debate-the-ethics-of-linkedins-algorithm-experiments-on-20m-users/)
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
-* [2022-11-02, 19:09:14](https://lobste.rs/s/jtzgsb/booth_metadata_secure_video) - [Booth, Metadata-Secure Video Conferencing](https://booth.video)
-* [2022-11-02, 19:06:40](https://lobste.rs/s/ipka0a/c_is_next_c) - [C++ is the next C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)
 * [2022-11-02, 18:21:50](https://lobste.rs/s/8prsda/love_letter_react) - [A love letter to React](https://fly.io/blog/love-letter-react/)
-* [2022-11-02, 17:29:42](https://lobste.rs/s/k5dwfg/zfs_on_openbsd_2013) - [ZFS on OpenBSD (2013)](https://flak.tedunangst.com/post/ZFS-on-OpenBSD)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 15:15:11](https://lobste.rs/s/pn3uaz/moving_past_tcp_data_center_part_1) - [Moving past TCP in the data center, part 1](https://lwn.net/SubscriberLink/913260/91d14334d26bd267/)
 * [2022-11-02, 14:49:15](https://lobste.rs/s/sylcwt/memory_safety_c_zig_rust) - [Memory safety in C++, Zig, & Rust](https://www.youtube.com/watch?v=qeiRGbYCD-0)
@@ -24,7 +25,6 @@
 * [2022-11-02, 13:50:04](https://lobste.rs/s/fuwmou/why_functional_programming_should_be) - [Why Functional Programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming)
 * [2022-11-02, 12:58:25](https://lobste.rs/s/w5znzu/openbsd_gets_mirroring_checksumming) - [OpenBSD Gets Mirroring/Checksumming/Self-Healing Filesystem Layer](https://sdadams.org/blog/introducing-muxfs/)
 * [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
-* [2022-11-01, 19:14:58](https://lobste.rs/s/ywvjox/potluck_dynamic_documents_as_personal) - [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 
 ## [Archives](archives/index.md)
 
