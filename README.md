@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 04:52:05](https://lobste.rs/s/unnstl/binary_packet_parsing) - [Binary Packet Parsing](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
 * [2022-11-04, 03:24:58](https://lobste.rs/s/xqrxi6/robb_oat_is_robot_software_engineer) - [Robb Oat is a robot software engineer](https://robboat.com)
 * [2022-11-04, 02:24:29](https://lobste.rs/s/v4alqm/gpt_3_can_talk_like_philosopher_daniel) - [GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words](http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
@@ -20,7 +21,6 @@
 * [2022-11-03, 13:19:55](https://lobste.rs/s/1ulrrd/things_i_learned_at_pgconf_eu_2022) - [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
 * [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019) - [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
-* [2022-11-03, 05:06:05](https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos) - [Hard user separation with NixOS](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/)
 * [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
