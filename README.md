@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-04, 08:25:40](https://lobste.rs/s/ovmbyn/does_e_ip_wrap_around_16_bit_segments) - [Does (E)IP Wrap Around in 16-bit Segments?](https://www.os2museum.com/wp/does-eip-wrap-around-in-16-bit-segments/)
 * [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
 * [2022-11-04, 04:52:05](https://lobste.rs/s/unnstl/binary_packet_parsing) - [Binary Packet Parsing](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
@@ -9,7 +10,6 @@
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
-* [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
