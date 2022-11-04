@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-04, 18:56:08",
+      "https://lobste.rs/s/kbwb4d/defense_linked_lists"
+    ],
+    [
+      "In defense of linked lists",
+      "http://antirez.com/news/138"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 18:37:05",
       "https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2022-11-03, 20:29:53",
-      "https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive"
+      "2022-11-03, 18:55:25",
+      "https://lobste.rs/s/vflzn5/lemon_sours_surges"
     ],
     [
-      "Spinrite 6.0 on UEFI and an NVMe SSD drive",
-      "https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html"
+      "The Lemon Sours Surges",
+      "https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Case for JPEG XL",
       "https://cloudinary.com/blog/the-case-for-jpeg-xl"
-    ]
-  ],
-  [
-    [
-      "2022-11-02, 14:48:48",
-      "https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i"
-    ],
-    [
-      "Notes on Every Strangeloop 2022 Talk I Attended",
-      "https://www.hillelwayne.com/post/strangeloop-22/"
     ]
   ]
 ]
