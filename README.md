@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 15:11:57](https://lobste.rs/s/rvvjkb/recent_progress_around_libressl) - [Recent progress in and around LibreSSL](https://www.youtube.com/watch?v=bF1d_aCSzS0)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 * [2022-11-04, 12:14:23](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero) - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html)
 * [2022-11-04, 12:11:57](https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20) - [A new diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
@@ -22,7 +23,6 @@
 * [2022-11-03, 14:19:05](https://lobste.rs/s/gmolpk/darklang_release_6) - [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
 * [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
-* [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019) - [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 
