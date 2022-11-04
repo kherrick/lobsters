@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 * [2022-11-04, 12:14:23](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero) - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html)
 * [2022-11-04, 12:11:57](https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20) - [A new diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
 * [2022-11-04, 10:50:05](https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp) - [Decoupling AVS from being \"just\" a Winamp plugin](https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/)
@@ -7,7 +8,6 @@
 * [2022-11-04, 08:25:40](https://lobste.rs/s/ovmbyn/does_e_ip_wrap_around_16_bit_segments) - [Does (E)IP Wrap Around in 16-bit Segments?](https://www.os2museum.com/wp/does-eip-wrap-around-in-16-bit-segments/)
 * [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
 * [2022-11-04, 04:52:05](https://lobste.rs/s/unnstl/binary_packet_parsing) - [Binary Packet Parsing](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
-* [2022-11-04, 02:24:29](https://lobste.rs/s/v4alqm/gpt_3_can_talk_like_philosopher_daniel) - [GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words](http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
