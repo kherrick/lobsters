@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
 * [2022-11-04, 17:00:03](https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your) - [How branches influence the performance of your code and what can you do about it?](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
 * [2022-11-04, 16:09:44](https://lobste.rs/s/lnwycm/freebsd_japan_presentation_at_november) - [FreeBSD in Japan (presentation at November 2022 FreeBSD Vendor Summit)](https://people.freebsd.org/~hrs/presentations/sato-20221104-vendorsummit-pub.pdf)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
@@ -20,7 +21,6 @@
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
-* [2022-11-03, 14:19:05](https://lobste.rs/s/gmolpk/darklang_release_6) - [Darklang Release 6](https://blog.darklang.com/darklang-release-6/)
 * [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
