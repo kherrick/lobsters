@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-04](index.md)
 
+* [2022-11-04, 20:13:30](https://lobste.rs/s/tcasnp/who_gets_last_word_on_steve_jobs_he_might) - [Who Gets the Last Word on Steve Jobs? He Might](https://www.nytimes.com/2022/10/22/technology/steve-jobs-archive.html)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
