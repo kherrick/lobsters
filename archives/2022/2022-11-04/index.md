@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-04](index.md)
 
+* [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
 * [2022-11-04, 20:13:30](https://lobste.rs/s/tcasnp/who_gets_last_word_on_steve_jobs_he_might) - [Who Gets the Last Word on Steve Jobs? He Might](https://www.nytimes.com/2022/10/22/technology/steve-jobs-archive.html)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)

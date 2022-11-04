@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
 * [2022-11-04, 17:00:03](https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your) - [How branches influence the performance of your code and what can you do about it?](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
-* [2022-11-04, 16:09:44](https://lobste.rs/s/lnwycm/freebsd_japan_presentation_at_november) - [FreeBSD in Japan (presentation at November 2022 FreeBSD Vendor Summit)](https://people.freebsd.org/~hrs/presentations/sato-20221104-vendorsummit-pub.pdf)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
 * [2022-11-04, 15:11:57](https://lobste.rs/s/rvvjkb/recent_progress_around_libressl) - [Recent progress in and around LibreSSL](https://www.youtube.com/watch?v=bF1d_aCSzS0)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
