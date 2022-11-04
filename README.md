@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
@@ -17,7 +18,6 @@
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
-* [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
