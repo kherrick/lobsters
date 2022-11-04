@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-03](index.md)
 
+* [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:32:34](https://lobste.rs/s/dm9aes/new_css_media_query_range_syntax) - [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
