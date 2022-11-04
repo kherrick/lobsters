@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-04](index.md)
 
+* [2022-11-04, 17:00:03](https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your) - [How branches influence the performance of your code and what can you do about it?](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
 * [2022-11-04, 16:09:44](https://lobste.rs/s/lnwycm/freebsd_japan_presentation_at_november) - [FreeBSD in Japan (presentation at November 2022 FreeBSD Vendor Summit)](https://people.freebsd.org/~hrs/presentations/sato-20221104-vendorsummit-pub.pdf)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
 * [2022-11-04, 15:11:57](https://lobste.rs/s/rvvjkb/recent_progress_around_libressl) - [Recent progress in and around LibreSSL](https://www.youtube.com/watch?v=bF1d_aCSzS0)
