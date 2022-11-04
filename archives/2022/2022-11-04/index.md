@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-04](index.md)
 
+* [2022-11-04, 10:50:05](https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp) - [Decoupling AVS from being \"just\" a Winamp plugin](https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-04, 08:25:40](https://lobste.rs/s/ovmbyn/does_e_ip_wrap_around_16_bit_segments) - [Does (E)IP Wrap Around in 16-bit Segments?](https://www.os2museum.com/wp/does-eip-wrap-around-in-16-bit-segments/)
 * [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
