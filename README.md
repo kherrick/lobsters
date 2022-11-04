@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
 * [2022-11-04, 17:00:03](https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your) - [How branches influence the performance of your code and what can you do about it?](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
 * [2022-11-04, 16:09:44](https://lobste.rs/s/lnwycm/freebsd_japan_presentation_at_november) - [FreeBSD in Japan (presentation at November 2022 FreeBSD Vendor Summit)](https://people.freebsd.org/~hrs/presentations/sato-20221104-vendorsummit-pub.pdf)
@@ -16,7 +17,7 @@
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
-* [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
+* [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 15:10:39](https://lobste.rs/s/fkrulx/reselling_kubernetes) - [Reselling Kubernetes](https://garrit.xyz/posts/2022-11-03-reselling-managed-kubernetes)
@@ -24,7 +25,6 @@
 * [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
-* [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 
 ## [Archives](archives/index.md)
 
