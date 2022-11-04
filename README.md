@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 03:24:58](https://lobste.rs/s/xqrxi6/robb_oat_is_robot_software_engineer) - [Robb Oat is a robot software engineer](https://robboat.com)
+* [2022-11-04, 02:24:29](https://lobste.rs/s/v4alqm/gpt_3_can_talk_like_philosopher_daniel) - [GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words](http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:32:34](https://lobste.rs/s/dm9aes/new_css_media_query_range_syntax) - [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
-* [2022-11-03, 19:16:30](https://lobste.rs/s/bgdu0l/videos_from_eurobsdcon_2022) - [Videos from EuroBSDcon 2022](https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf)
 * [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
@@ -24,7 +25,6 @@
 * [2022-11-02, 19:25:08](https://lobste.rs/s/ezdz2s/google_play_will_prevent_vpn_apps_from) - [Google Play will prevent VPN apps from interacting with and blocking ads](https://mezha.media/en/2022/08/31/google-play-will-prevent-vpn-apps-from-interacting-with-and-blocking-ads/)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
-* [2022-11-02, 10:49:41](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex) - [Sile: A modern rewrite of TeX](https://sile-typesetter.org/)
 
 ## [Archives](archives/index.md)
 
