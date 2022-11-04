@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-04](index.md)
 
+* [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
+* [2022-11-04, 23:40:06](https://lobste.rs/s/ks6uwg/system_hardening_android_11_2020) - [System hardening in Android 11 (2020)](https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [2022-11-04, 22:47:25](https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit) - [Writing a symbolizer for the Cinder JIT](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
