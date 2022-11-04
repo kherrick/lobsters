@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-04, 04:52:05",
+      "https://lobste.rs/s/unnstl/binary_packet_parsing"
+    ],
+    [
+      "Binary Packet Parsing",
+      "https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 03:24:58",
       "https://lobste.rs/s/xqrxi6/robb_oat_is_robot_software_engineer"
     ],
@@ -197,16 +207,6 @@
     [
       "The Case for JPEG XL",
       "https://cloudinary.com/blog/the-case-for-jpeg-xl"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 05:06:05",
-      "https://lobste.rs/s/j1gleu/hard_user_separation_with_nixos"
-    ],
-    [
-      "Hard user separation with NixOS",
-      "https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/"
     ]
   ],
   [
