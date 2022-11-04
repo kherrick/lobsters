@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 12:14:23](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero) - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html)
+* [2022-11-04, 12:11:57](https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20) - [A new diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
 * [2022-11-04, 10:50:05](https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp) - [Decoupling AVS from being \"just\" a Winamp plugin](https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-04, 08:25:40](https://lobste.rs/s/ovmbyn/does_e_ip_wrap_around_16_bit_segments) - [Does (E)IP Wrap Around in 16-bit Segments?](https://www.os2museum.com/wp/does-eip-wrap-around-in-16-bit-segments/)
@@ -10,7 +12,6 @@
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
-* [2022-11-03, 19:08:23](https://lobste.rs/s/ejhe0y/experiment_improving_rust_book) - [Experiment: Improving the Rust book](https://rust-book.cs.brown.edu/)
 * [2022-11-03, 18:55:25](https://lobste.rs/s/vflzn5/lemon_sours_surges) - [The Lemon Sours Surges](https://computeradsfromthepast.substack.com/p/the-lemon-sours-surges)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
@@ -22,7 +23,6 @@
 * [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 13:18:40](https://lobste.rs/s/2jndgd/thoughts_on_rust_after_six_months_2019) - [Thoughts on Rust after six months (2019)](https://127.io/2019/02/22/rust-six-months-later/)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
-* [2022-11-03, 01:48:50](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal) - [How do you sync code between personal machines?](https://lobste.rs/s/ookgy7/how_do_you_sync_code_between_personal)
 * [2022-11-02, 17:18:59](https://lobste.rs/s/dlkvvs/mosh_1_4_0_released) - [mosh 1.4.0 released](https://mosh.org/mosh-1.4.0-released.html)
 * [2022-11-02, 14:48:48](https://lobste.rs/s/2mljml/notes_on_every_strangeloop_2022_talk_i) - [Notes on Every Strangeloop 2022 Talk I Attended](https://www.hillelwayne.com/post/strangeloop-22/)
 
