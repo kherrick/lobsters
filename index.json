@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-04, 23:43:39",
+      "https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003"
+    ],
+    [
+      "Programming With DOS Debugger (2003)",
+      "https://susam.net/blog/programming-with-dos-debugger.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-04, 23:40:06",
+      "https://lobste.rs/s/ks6uwg/system_hardening_android_11_2020"
+    ],
+    [
+      "System hardening in Android 11 (2020)",
+      "https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 22:47:25",
       "https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit"
     ],
@@ -57,16 +77,6 @@
     [
       "nQUIC: Noise-Based QUIC Packet Protection (2019)",
       "https://eprint.iacr.org/2019/028"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 17:00:03",
-      "https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your"
-    ],
-    [
-      "How branches influence the performance of your code and what can you do about it?",
-      "https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Nix.Camp 2021 to 2022",
       "https://nix.how/blog/nixcamp-2021-to-2022"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 21:22:39",
-      "https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl"
-    ],
-    [
-      "OKLCH in CSS: why we moved from RGB and HSL",
-      "https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"
     ]
   ],
   [
