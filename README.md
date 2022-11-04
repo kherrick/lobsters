@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
 * [2022-11-04, 04:52:05](https://lobste.rs/s/unnstl/binary_packet_parsing) - [Binary Packet Parsing](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
 * [2022-11-04, 03:24:58](https://lobste.rs/s/xqrxi6/robb_oat_is_robot_software_engineer) - [Robb Oat is a robot software engineer](https://robboat.com)
 * [2022-11-04, 02:24:29](https://lobste.rs/s/v4alqm/gpt_3_can_talk_like_philosopher_daniel) - [GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words](http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
-* [2022-11-03, 21:32:34](https://lobste.rs/s/dm9aes/new_css_media_query_range_syntax) - [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 20:29:53](https://lobste.rs/s/trdwg7/spinrite_6_0_on_uefi_nvme_ssd_drive) - [Spinrite 6.0 on UEFI and an NVMe SSD drive](https://raymii.org/s/blog/Spinrite_6.0_on_UEFI_and_NVMe_ssd_drives.html)
