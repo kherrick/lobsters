@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-04, 13:36:48",
+      "https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow"
+    ],
+    [
+      "CVE-2022-43995 sudo: heap-based overflow with very small passwords",
+      "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
+    ]
+  ],
+  [
+    [
       "2022-11-04, 12:14:23",
       "https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero"
     ],
@@ -67,16 +77,6 @@
     [
       "Binary Packet Parsing",
       "https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 02:24:29",
-      "https://lobste.rs/s/v4alqm/gpt_3_can_talk_like_philosopher_daniel"
-    ],
-    [
-      "GPT-3 Can Talk Like the Philosopher Daniel Dennett Without Parroting His Words",
-      "http://schwitzsplinters.blogspot.com/2022/11/gpt-3-can-talk-like-dennett-without.html"
     ]
   ],
   [
