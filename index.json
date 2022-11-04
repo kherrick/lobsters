@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2022-11-03, 19:08:23",
+      "https://lobste.rs/s/ejhe0y/experiment_improving_rust_book"
+    ],
+    [
+      "Experiment: Improving the Rust book",
+      "https://rust-book.cs.brown.edu/"
+    ]
+  ],
+  [
+    [
       "2022-11-03, 18:55:25",
       "https://lobste.rs/s/vflzn5/lemon_sours_surges"
     ],
@@ -187,16 +197,6 @@
     [
       "FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server",
       "https://people.freebsd.org/~gallatin/talks/euro2022.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 13:19:55",
-      "https://lobste.rs/s/1ulrrd/things_i_learned_at_pgconf_eu_2022"
-    ],
-    [
-      "Things I learned at PGConf.EU 2022",
-      "https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html"
     ]
   ],
   [
