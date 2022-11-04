@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
 * [2022-11-04, 17:00:03](https://lobste.rs/s/fmx0wx/how_branches_influence_performance_your) - [How branches influence the performance of your code and what can you do about it?](https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/)
@@ -13,7 +14,6 @@
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-04, 08:25:40](https://lobste.rs/s/ovmbyn/does_e_ip_wrap_around_16_bit_segments) - [Does (E)IP Wrap Around in 16-bit Segments?](https://www.os2museum.com/wp/does-eip-wrap-around-in-16-bit-segments/)
 * [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
-* [2022-11-04, 03:24:58](https://lobste.rs/s/xqrxi6/robb_oat_is_robot_software_engineer) - [Robb Oat is a robot software engineer](https://robboat.com)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:22:39](https://lobste.rs/s/r6ilc3/oklch_css_why_we_moved_from_rgb_hsl) - [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
