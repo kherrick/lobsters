@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 03:22:24](https://lobste.rs/s/tgtj6i/nfs_on_netbsd_server_client_side) - [NFS on NetBSD: server and client side](https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side)
 * [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
 * [2022-11-05, 02:37:26](https://lobste.rs/s/8txpin/thread_local_state_go_huh) - [Thread-Local State in Go, Huh?](https://puzpuzpuz.dev/thread-local-state-in-go-huh)
 * [2022-11-05, 02:00:50](https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async) - [Scoped threads in Rust, and why its async counterpart would be unsound](https://wishawa.github.io/posts/thread-scoped-async/)
@@ -18,7 +19,6 @@
 * [2022-11-04, 12:11:57](https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20) - [A new diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
 * [2022-11-04, 10:50:05](https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp) - [Decoupling AVS from being \"just\" a Winamp plugin](https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
-* [2022-11-04, 06:42:30](https://lobste.rs/s/hkf3hz/postgres_insider_terminology) - [Postgres Insider Terminology](https://postgr.es/p/5rA)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
