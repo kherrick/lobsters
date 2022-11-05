@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-05, 07:02:58",
+      "https://lobste.rs/s/wggcjk/mdn_converted_markdown"
+    ],
+    [
+      "MDN converted to Markdown",
+      "https://openwebdocs.org/content/posts/markdown-conversion/"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 06:16:08",
       "https://lobste.rs/s/ff6foy/distribution_packaging_for_linux"
     ],
@@ -167,16 +177,6 @@
     [
       "From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework",
       "https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 12:11:57",
-      "https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20"
-    ],
-    [
-      "A new diagram-based explanation of Rust/C++20 atomic orderings",
-      "https://sabrinajewson.org/rust-nomicon/atomics/atomics.html"
     ]
   ],
   [
