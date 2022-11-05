@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple) - [GitHub - jafarlihi/clex: clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 17:50:40](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc) - [Racket meet-up 5 November at 18:00 UTC](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc)
 * [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
 * [2022-11-05, 15:56:18](https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for) - [ShadowRealms – an ECMAScript proposal for a better `eval()`](https://2ality.com/2022/04/shadow-realms.html)
@@ -14,7 +15,6 @@
 * [2022-11-05, 02:00:50](https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async) - [Scoped threads in Rust, and why its async counterpart would be unsound](https://wishawa.github.io/posts/thread-scoped-async/)
 * [2022-11-05, 00:17:21](https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue) - [Simple Scalable Unbounded Queue](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)
 * [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
-* [2022-11-04, 23:40:06](https://lobste.rs/s/ks6uwg/system_hardening_android_11_2020) - [System hardening in Android 11 (2020)](https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [2022-11-04, 22:47:25](https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit) - [Writing a symbolizer for the Cinder JIT](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
