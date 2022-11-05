@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 06:16:08](https://lobste.rs/s/ff6foy/distribution_packaging_for_linux) - [Distribution packaging for Linux desktop applications is unsustainable](https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/)
 * [2022-11-05, 03:22:24](https://lobste.rs/s/tgtj6i/nfs_on_netbsd_server_client_side) - [NFS on NetBSD: server and client side](https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side)
@@ -24,7 +25,6 @@
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
-* [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
 
 ## [Archives](archives/index.md)
 

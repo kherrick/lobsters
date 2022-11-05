@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-05](index.md)
 
+* [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 06:16:08](https://lobste.rs/s/ff6foy/distribution_packaging_for_linux) - [Distribution packaging for Linux desktop applications is unsustainable](https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/)
 * [2022-11-05, 03:22:24](https://lobste.rs/s/tgtj6i/nfs_on_netbsd_server_client_side) - [NFS on NetBSD: server and client side](https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side)
