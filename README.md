@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 21:41:46](https://lobste.rs/s/cagcib/how_close_is_risc_v_risc_i) - [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple) - [GitHub - jafarlihi/clex: clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 17:50:40](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc) - [Racket meet-up 5 November at 18:00 UTC](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc)
@@ -22,7 +23,6 @@
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
-* [2022-11-04, 12:14:23](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero) - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 
