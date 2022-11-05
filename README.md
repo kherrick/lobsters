@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 23:35:41](https://lobste.rs/s/awkwdj/why_web_pages_can_have_size_problem) - [Why web pages can have a size problem](https://blog.datawrapper.de/why-web-pages-can-have-a-size-problem/)
 * [2022-11-05, 21:41:46](https://lobste.rs/s/cagcib/how_close_is_risc_v_risc_i) - [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple) - [GitHub - jafarlihi/clex: clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
@@ -21,7 +22,6 @@
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
-* [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
