@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-05, 13:53:36",
+      "https://lobste.rs/s/8bso3f/gregor_samsa_exploiting_java_s_xml"
+    ],
+    [
+      "Gregor Samsa: Exploiting Java's XML Signature Verification",
+      "https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 11:45:46",
       "https://lobste.rs/s/r9q9v2/systemtap_4_8_released"
     ],
@@ -187,16 +197,6 @@
     [
       "From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework",
       "https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 10:50:05",
-      "https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp"
-    ],
-    [
-      "Decoupling AVS from being \"just\" a Winamp plugin",
-      "https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/"
     ]
   ],
   [
