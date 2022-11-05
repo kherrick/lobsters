@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-05, 02:44:23",
+      "https://lobste.rs/s/d0dutz/accessibility_px_rem"
+    ],
+    [
+      "Accessibility: px or rem?",
+      "https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 02:37:26",
+      "https://lobste.rs/s/8txpin/thread_local_state_go_huh"
+    ],
+    [
+      "Thread-Local State in Go, Huh?",
+      "https://puzpuzpuz.dev/thread-local-state-in-go-huh"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 02:00:50",
+      "https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async"
+    ],
+    [
+      "Scoped threads in Rust, and why its async counterpart would be unsound",
+      "https://wishawa.github.io/posts/thread-scoped-async/"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 00:17:21",
       "https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue"
     ],
@@ -77,16 +107,6 @@
     [
       "In defense of linked lists",
       "http://antirez.com/news/138"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 18:37:05",
-      "https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection"
-    ],
-    [
-      "nQUIC: Noise-Based QUIC Packet Protection (2019)",
-      "https://eprint.iacr.org/2019/028"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-03, 16:12:15",
-      "https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh"
-    ],
-    [
-      "Developing on Remote Machines using SSH and Visual Studio Code",
-      "https://code.visualstudio.com/docs/remote/ssh"
-    ]
-  ],
-  [
-    [
       "2022-11-03, 14:32:21",
       "https://lobste.rs/s/qojcz4/announcing_rust_1_65_0"
     ],
@@ -227,16 +237,6 @@
     [
       "Why Lisp",
       "https://github.com/naver/lispe/wiki/6.16-Why-Lisp"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 14:01:24",
-      "https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix"
-    ],
-    [
-      "FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server",
-      "https://people.freebsd.org/~gallatin/talks/euro2022.pdf"
     ]
   ],
   [
