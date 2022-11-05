@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [2022-11-05, 13:53:36](https://lobste.rs/s/8bso3f/gregor_samsa_exploiting_java_s_xml) - [Gregor Samsa: Exploiting Java's XML Signature Verification](https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html)
 * [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
@@ -13,7 +14,6 @@
 * [2022-11-04, 23:40:06](https://lobste.rs/s/ks6uwg/system_hardening_android_11_2020) - [System hardening in Android 11 (2020)](https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html)
 * [2022-11-04, 22:47:25](https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit) - [Writing a symbolizer for the Cinder JIT](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
-* [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)

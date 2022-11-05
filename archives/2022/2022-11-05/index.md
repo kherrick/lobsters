@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-05](index.md)
 
+* [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [2022-11-05, 13:53:36](https://lobste.rs/s/8bso3f/gregor_samsa_exploiting_java_s_xml) - [Gregor Samsa: Exploiting Java's XML Signature Verification](https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html)
 * [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
