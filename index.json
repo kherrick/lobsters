@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-05, 15:56:18",
+      "https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for"
+    ],
+    [
+      "ShadowRealms – an ECMAScript proposal for a better `eval()`",
+      "https://2ality.com/2022/04/shadow-realms.html"
+    ]
+  ],
+  [
+    [
       "2022-11-05, 15:37:02",
       "https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file"
     ],
@@ -227,16 +237,6 @@
     [
       "GitHub Copilot litigation",
       "https://githubcopilotlitigation.com"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 18:51:25",
-      "https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using"
-    ],
-    [
-      "mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit",
-      "https://vgel.me/posts/mmap-arena-alloc/"
     ]
   ],
   [
