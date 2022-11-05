@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
+* [2022-11-05, 02:37:26](https://lobste.rs/s/8txpin/thread_local_state_go_huh) - [Thread-Local State in Go, Huh?](https://puzpuzpuz.dev/thread-local-state-in-go-huh)
+* [2022-11-05, 02:00:50](https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async) - [Scoped threads in Rust, and why its async counterpart would be unsound](https://wishawa.github.io/posts/thread-scoped-async/)
 * [2022-11-05, 00:17:21](https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue) - [Simple Scalable Unbounded Queue](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)
 * [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
 * [2022-11-04, 23:40:06](https://lobste.rs/s/ks6uwg/system_hardening_android_11_2020) - [System hardening in Android 11 (2020)](https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html)
@@ -8,7 +11,6 @@
 * [2022-11-04, 20:58:36](https://lobste.rs/s/gqmnsn/openssl_checker_bookmarklet) - [OpenSSL Checker Bookmarklet](https://sourcegraph-community.github.io/openssl-checker/)
 * [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
-* [2022-11-04, 18:37:05](https://lobste.rs/s/nn1ozt/nquic_noise_based_quic_packet_protection) - [nQUIC: Noise-Based QUIC Packet Protection (2019)](https://eprint.iacr.org/2019/028)
 * [2022-11-04, 16:02:42](https://lobste.rs/s/18dtmj/securely_generating_totp_tokens_with) - [Securely Generating TOTP tokens with Emacs](https://www.masteringemacs.org/article/securely-generating-totp-tokens-emacs)
 * [2022-11-04, 15:11:57](https://lobste.rs/s/rvvjkb/recent_progress_around_libressl) - [Recent progress in and around LibreSSL](https://www.youtube.com/watch?v=bF1d_aCSzS0)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
@@ -20,10 +22,8 @@
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
 * [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 * [2022-11-03, 18:51:25](https://lobste.rs/s/zlz6lj/mmap_1tb_rust_arena_allocator_ab_using) - [mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit](https://vgel.me/posts/mmap-arena-alloc/)
-* [2022-11-03, 16:12:15](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh) - [Developing on Remote Machines using SSH and Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)
 * [2022-11-03, 14:32:21](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0) - [Announcing Rust 1.65.0](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
 * [2022-11-03, 14:17:34](https://lobste.rs/s/1nzold/why_lisp) - [Why Lisp](https://github.com/naver/lispe/wiki/6.16-Why-Lisp)
-* [2022-11-03, 14:01:24](https://lobste.rs/s/eeg8zk/freebsd_optimizations_used_by_netflix) - [FreeBSD optimizations used by Netflix to serve video at 800Gb/s from a single server](https://people.freebsd.org/~gallatin/talks/euro2022.pdf)
 * [2022-11-03, 09:31:15](https://lobste.rs/s/ibbboy/case_for_jpeg_xl) - [The Case for JPEG XL](https://cloudinary.com/blog/the-case-for-jpeg-xl)
 
 ## [Archives](archives/index.md)
