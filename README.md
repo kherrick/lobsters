@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 06:16:08](https://lobste.rs/s/ff6foy/distribution_packaging_for_linux) - [Distribution packaging for Linux desktop applications is unsustainable](https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/)
 * [2022-11-05, 03:22:24](https://lobste.rs/s/tgtj6i/nfs_on_netbsd_server_client_side) - [NFS on NetBSD: server and client side](https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side)
 * [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
@@ -17,7 +18,6 @@
 * [2022-11-04, 15:11:57](https://lobste.rs/s/rvvjkb/recent_progress_around_libressl) - [Recent progress in and around LibreSSL](https://www.youtube.com/watch?v=bF1d_aCSzS0)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 * [2022-11-04, 12:14:23](https://lobste.rs/s/6n01dm/from_fuzzing_proof_using_kani_with_bolero) - [From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework](https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html)
-* [2022-11-04, 12:11:57](https://lobste.rs/s/jp77y4/new_diagram_based_explanation_rust_c_20) - [A new diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
 * [2022-11-04, 10:50:05](https://lobste.rs/s/bmglre/decoupling_avs_from_being_just_winamp) - [Decoupling AVS from being \"just\" a Winamp plugin](https://avs.sh/blog/posts/02-a-cut-right-down-the-middle/)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
 * [2022-11-03, 23:58:27](https://lobste.rs/s/hp2zm0/nix_camp_2021_2022) - [Nix.Camp 2021 to 2022](https://nix.how/blog/nixcamp-2021-to-2022)
