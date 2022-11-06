@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-06, 07:23:39](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media) - [Are you still active in any social media platforms?](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media)
 * [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
 * [2022-11-06, 02:12:00](https://lobste.rs/s/2kfjum/peep_lil) - [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
 * [2022-11-06, 00:51:28](https://lobste.rs/s/04rrsd/reverse_branch_target_buffer_poisoning) - [Reverse Branch Target Buffer Poisoning](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
@@ -20,7 +21,6 @@
 * [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
 * [2022-11-04, 22:47:25](https://lobste.rs/s/snorgb/writing_symbolizer_for_cinder_jit) - [Writing a symbolizer for the Cinder JIT](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
-* [2022-11-04, 19:12:17](https://lobste.rs/s/jfjoig/nix_on_nix_docker_build_packaging_systems) - [Nix (on Nix and Docker and build and packaging systems)](https://whynowtech.substack.com/p/nix)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 * [2022-11-04, 10:39:11](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lqgkwt/what_are_you_doing_this_weekend)
