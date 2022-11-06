@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-06, 18:22:50",
+      "https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal"
+    ],
+    [
+      "Making Tables Responsive With Minimal CSS (2019)",
+      "https://tdarb.org/blog/responsive-tables.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 18:21:54",
+      "https://lobste.rs/s/ik7ahj/stack_overflow_ceo_on_how_it_became_world_s"
+    ],
+    [
+      "Stack Overflow CEO on how it became the world's most popular programming site",
+      "https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 18:12:21",
       "https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-05, 00:17:21",
-      "https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue"
-    ],
-    [
-      "Simple Scalable Unbounded Queue",
-      "https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2"
-    ]
-  ],
-  [
-    [
       "2022-11-04, 23:43:39",
       "https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003"
     ],
@@ -237,16 +247,6 @@
     [
       "In defense of linked lists",
       "http://antirez.com/news/138"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 13:36:48",
-      "https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow"
-    ],
-    [
-      "CVE-2022-43995 sudo: heap-based overflow with very small passwords",
-      "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
     ]
   ]
 ]
