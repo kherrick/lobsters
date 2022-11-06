@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-06, 21:13:16](https://lobste.rs/s/gplfvm/what_blog_about) - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
 * [2022-11-06, 20:56:30](https://lobste.rs/s/gqsigz/vector_text_rendering_unreal_engine) - [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
 * [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
 * [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
@@ -22,7 +23,6 @@
 * [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
-* [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-06](index.md)
 
+* [2022-11-06, 21:13:16](https://lobste.rs/s/gplfvm/what_blog_about) - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
 * [2022-11-06, 20:56:30](https://lobste.rs/s/gqsigz/vector_text_rendering_unreal_engine) - [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
 * [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
 * [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
