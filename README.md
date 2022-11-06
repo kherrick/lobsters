@@ -19,12 +19,12 @@
 * [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
-* [2022-11-05, 02:00:50](https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async) - [Scoped threads in Rust, and why its async counterpart would be unsound](https://wishawa.github.io/posts/thread-scoped-async/)
 * [2022-11-05, 00:17:21](https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue) - [Simple Scalable Unbounded Queue](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)
 * [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
+* [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 
 ## [Archives](archives/index.md)
 
