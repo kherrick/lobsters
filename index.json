@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-06, 02:12:00",
+      "https://lobste.rs/s/2kfjum/peep_lil"
+    ],
+    [
+      "The Peep of Lil",
+      "https://beyondloom.com/blog/peepoflil.html#fnref:1"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 00:51:28",
       "https://lobste.rs/s/04rrsd/reverse_branch_target_buffer_poisoning"
     ],
@@ -107,16 +117,6 @@
     [
       "MDN converted to Markdown",
       "https://openwebdocs.org/content/posts/markdown-conversion/"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 06:16:08",
-      "https://lobste.rs/s/ff6foy/distribution_packaging_for_linux"
-    ],
-    [
-      "Distribution packaging for Linux desktop applications is unsustainable",
-      "https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/"
     ]
   ],
   [
