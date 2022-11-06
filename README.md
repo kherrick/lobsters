@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
+* [2022-11-06, 18:21:54](https://lobste.rs/s/ik7ahj/stack_overflow_ceo_on_how_it_became_world_s) - [Stack Overflow CEO on how it became the world's most popular programming site](https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/)
 * [2022-11-06, 18:12:21](https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse) - [Three things to like about the Fediverse](https://twitter.com/marekgibney/status/1589315796383453185)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 * [2022-11-06, 07:57:38](https://lobste.rs/s/37rlgn/performance_musings) - [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
@@ -20,11 +22,9 @@
 * [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
-* [2022-11-05, 00:17:21](https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue) - [Simple Scalable Unbounded Queue](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)
 * [2022-11-04, 23:43:39](https://lobste.rs/s/qka8b2/programming_with_dos_debugger_2003) - [Programming With DOS Debugger (2003)](https://susam.net/blog/programming-with-dos-debugger.html)
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
-* [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
 
 ## [Archives](archives/index.md)
 

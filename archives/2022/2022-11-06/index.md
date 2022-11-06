@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-06](index.md)
 
+* [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
+* [2022-11-06, 18:21:54](https://lobste.rs/s/ik7ahj/stack_overflow_ceo_on_how_it_became_world_s) - [Stack Overflow CEO on how it became the world's most popular programming site](https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/)
 * [2022-11-06, 18:12:21](https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse) - [Three things to like about the Fediverse](https://twitter.com/marekgibney/status/1589315796383453185)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 * [2022-11-06, 07:57:38](https://lobste.rs/s/37rlgn/performance_musings) - [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
