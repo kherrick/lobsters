@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2022-11-05, 02:00:50",
-      "https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async"
-    ],
-    [
-      "Scoped threads in Rust, and why its async counterpart would be unsound",
-      "https://wishawa.github.io/posts/thread-scoped-async/"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 00:17:21",
       "https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue"
     ],
@@ -247,6 +237,16 @@
     [
       "CVE-2022-43995 sudo: heap-based overflow with very small passwords",
       "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
+    ]
+  ],
+  [
+    [
+      "2022-11-03, 21:04:47",
+      "https://lobste.rs/s/ukgknn/github_copilot_litigation"
+    ],
+    [
+      "GitHub Copilot litigation",
+      "https://githubcopilotlitigation.com"
     ]
   ]
 ]
