@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-06](index.md)
 
+* [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
+* [2022-11-06, 07:29:30](https://lobste.rs/s/earjf1/janky_twitter_replacement_using_git) - [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
 * [2022-11-06, 07:23:39](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media) - [Are you still active in any social media platforms?](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media)
 * [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
 * [2022-11-06, 02:12:00](https://lobste.rs/s/2kfjum/peep_lil) - [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
