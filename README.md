@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 * [2022-11-06, 07:57:38](https://lobste.rs/s/37rlgn/performance_musings) - [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
 * [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
 * [2022-11-06, 07:29:30](https://lobste.rs/s/earjf1/janky_twitter_replacement_using_git) - [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
@@ -24,7 +25,6 @@
 * [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 * [2022-11-04, 13:36:48](https://lobste.rs/s/fh4hku/cve_2022_43995_sudo_heap_based_overflow) - [CVE-2022-43995 sudo: heap-based overflow with very small passwords](https://bugzilla.redhat.com/show_bug.cgi?id=2139911)
-* [2022-11-03, 21:04:47](https://lobste.rs/s/ukgknn/github_copilot_litigation) - [GitHub Copilot litigation](https://githubcopilotlitigation.com)
 
 ## [Archives](archives/index.md)
 
