@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-06, 11:09:00",
+      "https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding"
+    ],
+    [
+      "The essence of Reed-Solomon coding",
+      "https://mazzo.li/posts/reed-solomon.html"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 07:57:38",
       "https://lobste.rs/s/37rlgn/performance_musings"
     ],
@@ -237,16 +247,6 @@
     [
       "CVE-2022-43995 sudo: heap-based overflow with very small passwords",
       "https://bugzilla.redhat.com/show_bug.cgi?id=2139911"
-    ]
-  ],
-  [
-    [
-      "2022-11-03, 21:04:47",
-      "https://lobste.rs/s/ukgknn/github_copilot_litigation"
-    ],
-    [
-      "GitHub Copilot litigation",
-      "https://githubcopilotlitigation.com"
     ]
   ]
 ]
