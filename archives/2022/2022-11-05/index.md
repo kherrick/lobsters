@@ -8,6 +8,7 @@
 * [2022-11-05, 21:41:46](https://lobste.rs/s/cagcib/how_close_is_risc_v_risc_i) - [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple) - [GitHub - jafarlihi/clex: clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
+* [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/clex_is_simple_lexer_generator_for_c) - [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 17:50:40](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc) - [Racket meet-up 5 November at 18:00 UTC](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc)
 * [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
 * [2022-11-05, 15:56:18](https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for) - [ShadowRealms – an ECMAScript proposal for a better `eval()`](https://2ality.com/2022/04/shadow-realms.html)
