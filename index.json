@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-06, 20:31:13",
+      "https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify"
+    ],
+    [
+      "A case for Go code generation: testify",
+      "https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 18:22:50",
       "https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal"
     ],
@@ -177,16 +187,6 @@
     [
       "How To Corrupt An SQLite Database File",
       "https://www.sqlite.org/howtocorrupt.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-05, 13:53:36",
-      "https://lobste.rs/s/8bso3f/gregor_samsa_exploiting_java_s_xml"
-    ],
-    [
-      "Gregor Samsa: Exploiting Java's XML Signature Verification",
-      "https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html"
     ]
   ],
   [
