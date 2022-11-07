@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-07](index.md)
 
+* [2022-11-07, 15:35:49](https://lobste.rs/s/q837n4/better_python_code_grepping_with) - [Better Python code grepping with pyastgrep](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
 * [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 * [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
