@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 08:12:32](https://lobste.rs/s/y9zgkp/break_gently_with_pattern_synonyms) - [Break Gently with Pattern Synonyms](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
 * [2022-11-07, 04:52:19](https://lobste.rs/s/uck2iw/xess_2_css_variable_edition) - [Xess 2: CSS variable edition](https://xeiaso.net/blog/xess-css-variables)
 * [2022-11-07, 01:18:44](https://lobste.rs/s/k5yw5e/making_dns_query_ruby_from_scratch) - [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
 * [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
@@ -21,7 +22,6 @@
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/clex_is_simple_lexer_generator_for_c) - [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
-* [2022-11-05, 15:56:18](https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for) - [ShadowRealms – an ECMAScript proposal for a better `eval()`](https://2ality.com/2022/04/shadow-realms.html)
 * [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
