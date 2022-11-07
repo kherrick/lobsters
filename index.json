@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-07, 01:18:44",
+      "https://lobste.rs/s/k5yw5e/making_dns_query_ruby_from_scratch"
+    ],
+    [
+      "Making a DNS query in Ruby from scratch",
+      "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2022-11-06, 23:56:52",
+      "https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used"
+    ],
+    [
+      "5 Reasons Why Fortran is Still Used",
+      "https://www.matecdev.com/posts/why-fortran-still-used.html"
+    ]
+  ],
+  [
+    [
       "2022-11-06, 22:11:50",
       "https://lobste.rs/s/wxrsqk/is_social_media_off_topic"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-05, 15:56:18",
-      "https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for"
-    ],
-    [
-      "ShadowRealms – an ECMAScript proposal for a better `eval()`",
-      "https://2ality.com/2022/04/shadow-realms.html"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 15:37:02",
       "https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file"
     ],
@@ -227,16 +237,6 @@
     [
       "MDN converted to Markdown",
       "https://openwebdocs.org/content/posts/markdown-conversion/"
-    ]
-  ],
-  [
-    [
-      "2022-11-04, 22:13:40",
-      "https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with"
-    ],
-    [
-      "Creating a pick and place control board with the RP2040",
-      "https://blog.thea.codes/starfish-a-control-board-with-the-rp2040"
     ]
   ],
   [
