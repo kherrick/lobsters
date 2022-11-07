@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-07, 01:30:48",
+      "https://lobste.rs/s/3f6ume/i_m_out_job"
+    ],
+    [
+      "I'm out of a job",
+      "https://calebporzio.com/im-out-of-a-job"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 01:18:44",
       "https://lobste.rs/s/k5yw5e/making_dns_query_ruby_from_scratch"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2022-11-06, 18:12:21",
-      "https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse"
-    ],
-    [
-      "Three things to like about the Fediverse",
-      "https://twitter.com/marekgibney/status/1589315796383453185"
-    ]
-  ],
-  [
-    [
       "2022-11-06, 11:09:00",
       "https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-11-05, 21:41:46",
-      "https://lobste.rs/s/cagcib/how_close_is_risc_v_risc_i"
-    ],
-    [
-      "How close is RISC-V to RISC-I?",
-      "https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/"
-    ]
-  ],
-  [
-    [
       "2022-11-05, 21:14:16",
       "https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache"
     ],
@@ -217,6 +207,16 @@
     [
       "Hey Emacs, where did I take that photo?",
       "https://xenodium.com/hey-emacs-where-did-i-take-that-photo/"
+    ]
+  ],
+  [
+    [
+      "2022-11-05, 15:56:18",
+      "https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for"
+    ],
+    [
+      "ShadowRealms – an ECMAScript proposal for a better `eval()`",
+      "https://2ality.com/2022/04/shadow-realms.html"
     ]
   ],
   [
