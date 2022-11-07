@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-07, 21:47:40",
+      "https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers"
+    ],
+    [
+      "Introduction to Genomics for Engineers",
+      "https://learngenomics.dev/"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 21:38:16",
       "https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl"
     ],
@@ -217,16 +227,6 @@
     [
       "A case for Go code generation: testify",
       "https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 18:22:50",
-      "https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal"
-    ],
-    [
-      "Making Tables Responsive With Minimal CSS (2019)",
-      "https://tdarb.org/blog/responsive-tables.html"
     ]
   ],
   [
