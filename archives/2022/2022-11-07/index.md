@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-07](index.md)
 
+* [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
+* [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
 * [2022-11-07, 12:50:13](https://lobste.rs/s/csaqfj/open_source_infrastructure) - [Open Source Infrastructure](https://opensourceinfra.org/)
 * [2022-11-07, 11:21:52](https://lobste.rs/s/rrqnxi/jeadie_go_l_game_life_with_different) - [Jeadie/Go-L: Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)](https://github.com/Jeadie/Go-L)
