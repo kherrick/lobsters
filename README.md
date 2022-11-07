@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/)
 * [2022-11-07, 21:22:22](https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust) - [How to build a Semantic Search Engine in Rust](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
@@ -22,7 +23,6 @@
 * [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 * [2022-11-06, 20:56:30](https://lobste.rs/s/gqsigz/vector_text_rendering_unreal_engine) - [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
 * [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
-* [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 * [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
 
