@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
+* [2022-11-07, 17:13:07](https://lobste.rs/s/blxkld/haptics_with_input_using_linear_resonant) - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2020)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
 * [2022-11-07, 15:35:49](https://lobste.rs/s/q837n4/better_python_code_grepping_with) - [Better Python code grepping with pyastgrep](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
 * [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 * [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
@@ -23,8 +25,6 @@
 * [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
 * [2022-11-06, 07:29:30](https://lobste.rs/s/earjf1/janky_twitter_replacement_using_git) - [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
 * [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
-* [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
-* [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
 
 ## [Archives](archives/index.md)
 
