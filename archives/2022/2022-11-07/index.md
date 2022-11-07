@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-07](index.md)
 
+* [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-07, 08:12:32](https://lobste.rs/s/y9zgkp/break_gently_with_pattern_synonyms) - [Break Gently with Pattern Synonyms](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)

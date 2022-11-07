@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-07, 08:12:32](https://lobste.rs/s/y9zgkp/break_gently_with_pattern_synonyms) - [Break Gently with Pattern Synonyms](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
@@ -19,7 +20,6 @@
 * [2022-11-06, 07:23:39](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media) - [Are you still active in any social media platforms?](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media)
 * [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
 * [2022-11-06, 02:12:00](https://lobste.rs/s/2kfjum/peep_lil) - [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
-* [2022-11-06, 00:51:28](https://lobste.rs/s/04rrsd/reverse_branch_target_buffer_poisoning) - [Reverse Branch Target Buffer Poisoning](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/clex_is_simple_lexer_generator_for_c) - [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
