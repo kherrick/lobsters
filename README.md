@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/)
 * [2022-11-07, 21:22:22](https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust) - [How to build a Semantic Search Engine in Rust](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
@@ -16,7 +17,6 @@
 * [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-07, 08:12:32](https://lobste.rs/s/y9zgkp/break_gently_with_pattern_synonyms) - [Break Gently with Pattern Synonyms](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
-* [2022-11-07, 04:52:19](https://lobste.rs/s/uck2iw/xess_2_css_variable_edition) - [Xess 2: CSS variable edition](https://xeiaso.net/blog/xess-css-variables)
 * [2022-11-07, 01:18:44](https://lobste.rs/s/k5yw5e/making_dns_query_ruby_from_scratch) - [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
 * [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
 * [2022-11-06, 22:11:50](https://lobste.rs/s/wxrsqk/is_social_media_off_topic) - [Is social media off-topic?](https://lobste.rs/s/wxrsqk/is_social_media_off_topic)
