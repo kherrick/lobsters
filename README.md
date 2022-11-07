@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 21:22:22](https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust) - [How to build a Semantic Search Engine in Rust](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
 * [2022-11-07, 17:13:07](https://lobste.rs/s/blxkld/haptics_with_input_using_linear_resonant) - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2020)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
@@ -24,7 +25,6 @@
 * [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 * [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
-* [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
 
 ## [Archives](archives/index.md)
 
