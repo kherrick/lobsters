@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-06](index.md)
 
+* [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
 * [2022-11-06, 22:11:50](https://lobste.rs/s/wxrsqk/is_social_media_off_topic) - [Is social media off-topic?](https://lobste.rs/s/wxrsqk/is_social_media_off_topic)
 * [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 * [2022-11-06, 21:13:16](https://lobste.rs/s/gplfvm/what_blog_about) - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)

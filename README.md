@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-07, 01:18:44](https://lobste.rs/s/k5yw5e/making_dns_query_ruby_from_scratch) - [Making a DNS query in Ruby from scratch](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/)
+* [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
 * [2022-11-06, 22:11:50](https://lobste.rs/s/wxrsqk/is_social_media_off_topic) - [Is social media off-topic?](https://lobste.rs/s/wxrsqk/is_social_media_off_topic)
 * [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 * [2022-11-06, 21:13:16](https://lobste.rs/s/gplfvm/what_blog_about) - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
@@ -20,10 +22,8 @@
 * [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
 * [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/clex_is_simple_lexer_generator_for_c) - [clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
-* [2022-11-05, 15:56:18](https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for) - [ShadowRealms – an ECMAScript proposal for a better `eval()`](https://2ality.com/2022/04/shadow-realms.html)
 * [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
-* [2022-11-04, 22:13:40](https://lobste.rs/s/koiyhg/creating_pick_place_control_board_with) - [Creating a pick and place control board with the RP2040](https://blog.thea.codes/starfish-a-control-board-with-the-rp2040)
 * [2022-11-04, 18:56:08](https://lobste.rs/s/kbwb4d/defense_linked_lists) - [In defense of linked lists](http://antirez.com/news/138)
 
 ## [Archives](archives/index.md)
