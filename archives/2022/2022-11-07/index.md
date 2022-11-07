@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-07](index.md)
 
+* [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/)
