@@ -3,7 +3,7 @@
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
-* [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/)
+* [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2022-11-07, 21:22:22](https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust) - [How to build a Semantic Search Engine in Rust](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
