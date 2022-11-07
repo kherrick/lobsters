@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-07](index.md)
 
+* [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
 * [2022-11-07, 17:13:07](https://lobste.rs/s/blxkld/haptics_with_input_using_linear_resonant) - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2020)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
 * [2022-11-07, 15:35:49](https://lobste.rs/s/q837n4/better_python_code_grepping_with) - [Better Python code grepping with pyastgrep](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
