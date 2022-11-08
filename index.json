@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 22:10:00",
+      "https://lobste.rs/s/hsm5vt/better_cpu_selection_for_timer"
+    ],
+    [
+      "Better CPU selection for timer expiration",
+      "https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 21:10:59",
       "https://lobste.rs/s/qxseuq/feep_search_search_engine_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo",
       "https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 12:50:34",
-      "https://lobste.rs/s/ddnakl/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/ddnakl/what_are_you_doing_this_week"
     ]
   ]
 ]
