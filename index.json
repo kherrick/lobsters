@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 16:42:03",
+      "https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror"
+    ],
+    [
+      "Migrating from Monaco Editor to CodeMirror",
+      "https://about.sourcegraph.com/blog/migrating-monaco-codemirror"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 16:21:04",
       "https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded"
     ],
@@ -67,16 +77,6 @@
     [
       "How I write offline API tests in Go",
       "https://youtu.be/DjNERjqzILQ"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 07:02:07",
-      "https://lobste.rs/s/nacbiq/is_logout_endpoint_broken"
-    ],
-    [
-      "Is the logout endpoint broken?",
-      "https://lobste.rs/s/nacbiq/is_logout_endpoint_broken"
     ]
   ],
   [
