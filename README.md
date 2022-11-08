@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 07:02:07](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken) - [Is the logout endpoint broken?](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken)
 * [2022-11-08, 02:17:34](https://lobste.rs/s/uwwo41/mdl_micro_architecture_description) - [MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
@@ -20,7 +21,6 @@
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-07, 08:12:32](https://lobste.rs/s/y9zgkp/break_gently_with_pattern_synonyms) - [Break Gently with Pattern Synonyms](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
 * [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
-* [2022-11-06, 22:11:50](https://lobste.rs/s/wxrsqk/is_social_media_off_topic) - [Is social media off-topic?](https://lobste.rs/s/wxrsqk/is_social_media_off_topic)
 * [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 * [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
