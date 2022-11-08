@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 10:41:28",
+      "https://lobste.rs/s/d378ga/inline_caches_skybison_python_runtime"
+    ],
+    [
+      "Inline caches in the Skybison Python runtime",
+      "https://bernsteinbear.com/blog/inline-caches-in-skybison/"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 09:34:06",
       "https://lobste.rs/s/dwn96p/statistical_process_control_manager_s"
     ],
@@ -167,16 +177,6 @@
     [
       "Open Source Infrastructure",
       "https://opensourceinfra.org/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 11:21:52",
-      "https://lobste.rs/s/rrqnxi/jeadie_go_l_game_life_with_different"
-    ],
-    [
-      "Jeadie/Go-L: Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)",
-      "https://github.com/Jeadie/Go-L"
     ]
   ],
   [
