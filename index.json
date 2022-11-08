@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2022-11-08, 02:17:34",
+      "https://lobste.rs/s/uwwo41/mdl_micro_architecture_description"
+    ],
+    [
+      "MDL: A Micro-Architecture Description Language for LLVM",
+      "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409"
+    ]
+  ],
+  [
+    [
       "2022-11-07, 23:01:58",
       "https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore"
     ],
@@ -237,16 +247,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/ddnakl/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 09:49:28",
-      "https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two"
-    ],
-    [
-      "Fast builds, secure builds. Choose two",
-      "https://stripe.com/blog/fast-secure-builds-choose-two"
     ]
   ]
 ]
