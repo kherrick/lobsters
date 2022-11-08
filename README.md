@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 23:18:27](https://lobste.rs/s/ee2sv3/physx_5_open_sourced) - [PhysX 5 open sourced](https://github.com/NVIDIA-Omniverse/PhysX)
 * [2022-11-08, 22:10:00](https://lobste.rs/s/hsm5vt/better_cpu_selection_for_timer) - [Better CPU selection for timer expiration](https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/)
 * [2022-11-08, 21:10:59](https://lobste.rs/s/qxseuq/feep_search_search_engine_for) - [Feep! search - a search engine for independent programming resources](https://search.feep.dev/)
 * [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
@@ -24,7 +25,6 @@
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
-* [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 
 ## [Archives](archives/index.md)
 
