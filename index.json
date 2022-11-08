@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 19:11:37",
+      "https://lobste.rs/s/kkodyr/creating_priority_queue_with_custom_sort"
+    ],
+    [
+      "Creating a priority queue with a custom sort order using a binary heap in Rust",
+      "https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 18:36:48",
       "https://lobste.rs/s/gpaamc/creating_dedicated_development"
     ],
@@ -237,16 +247,6 @@
     [
       "Exploring Alternatives to the Centralized Web",
       "https://hypha.coop/dripline/p2p-primer-part-1/"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 23:56:52",
-      "https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used"
-    ],
-    [
-      "5 Reasons Why Fortran is Still Used",
-      "https://www.matecdev.com/posts/why-fortran-still-used.html"
     ]
   ]
 ]
