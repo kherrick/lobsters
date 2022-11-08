@@ -15,6 +15,7 @@
 * [2022-11-07, 21:22:22](https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust) - [How to build a Semantic Search Engine in Rust](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9)
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
+* [2022-11-07, 17:13:07](https://lobste.rs/s/blxkld/haptics_with_input_using_linear_resonant) - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2020)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
 * [2022-11-07, 15:35:49](https://lobste.rs/s/q837n4/better_python_code_grepping_with) - [Better Python code grepping with pyastgrep](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
 * [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 * [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
@@ -24,7 +25,6 @@
 * [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
-* [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
 
 ## [Archives](archives/index.md)
 
