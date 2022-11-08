@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 16:21:04](https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded) - [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
 * [2022-11-08, 13:39:13](https://lobste.rs/s/51aey4/we_sign_code_now) - [We sign code now](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 * [2022-11-08, 13:14:48](https://lobste.rs/s/zerhjf/pure_meson_ray_tracer) - [A pure-meson ray tracer](https://mochiro.moe/posts/09-meson-raytracer/)
@@ -16,7 +17,6 @@
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 17:18:44](https://lobste.rs/s/qekvvy/peach_without_fuzz) - [The Peach without Fuzz](https://computeradsfromthepast.substack.com/p/the-peach-without-fuzz)
 * [2022-11-07, 17:13:07](https://lobste.rs/s/blxkld/haptics_with_input_using_linear_resonant) - [Haptics with Input: Using Linear Resonant Actuators for Sensing (2020)](https://ai.googleblog.com/2020/11/haptics-with-input-using-linear.html)
-* [2022-11-07, 15:35:49](https://lobste.rs/s/q837n4/better_python_code_grepping_with) - [Better Python code grepping with pyastgrep](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
 * [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 * [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
