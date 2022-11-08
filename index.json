@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 19:30:41",
+      "https://lobste.rs/s/8ddlsj/net_7_is_available_today"
+    ],
+    [
+      ".NET 7 is Available Today",
+      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 19:11:37",
       "https://lobste.rs/s/kkodyr/creating_priority_queue_with_custom_sort"
     ],
@@ -197,16 +207,6 @@
     [
       "Undefined Isn’t Unpredictable",
       "http://www.os2museum.com/wp/undefined-isnt-unpredictable/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 14:27:02",
-      "https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device"
-    ],
-    [
-      "The case for mapping PCIe BARs as device memory on arm64",
-      "https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/"
     ]
   ],
   [
