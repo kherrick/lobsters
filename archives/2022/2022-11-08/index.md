@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
+* [2022-11-08, 21:10:59](https://lobste.rs/s/qxseuq/feep_search_search_engine_for) - [Feep! search - a search engine for independent programming resources](https://search.feep.dev/)
+* [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
+* [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 * [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)
 * [2022-11-08, 20:13:25](https://lobste.rs/s/ifbecl/recommendations_for_publishing_end_life) - [Recommendations for publishing End-of-life dates and support timelines](https://endoflife.date/recommendations)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
