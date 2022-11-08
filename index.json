@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 18:36:48",
+      "https://lobste.rs/s/gpaamc/creating_dedicated_development"
+    ],
+    [
+      "Creating a Dedicated Development Environment for Teaching",
+      "https://coder.com/blog/dedicated-development-environment-for-teaching"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 18:13:39",
       "https://lobste.rs/s/9xivks/differential_datalog_programming"
     ],
@@ -217,16 +227,6 @@
     [
       "Fast builds, secure builds. Choose two",
       "https://stripe.com/blog/fast-secure-builds-choose-two"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 08:58:58",
-      "https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image"
-    ],
-    [
-      "ImageWand: privacy-first image conversion experiment with Golang & WASM",
-      "https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/"
     ]
   ],
   [
