@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
+* [2022-11-08, 23:25:05](https://lobste.rs/s/et8t41/xmake_v2_7_3_released) - [Xmake v2.7.3 Released](https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support)
 * [2022-11-08, 23:18:27](https://lobste.rs/s/ee2sv3/physx_5_open_sourced) - [PhysX 5 open sourced](https://github.com/NVIDIA-Omniverse/PhysX)
 * [2022-11-08, 22:10:00](https://lobste.rs/s/hsm5vt/better_cpu_selection_for_timer) - [Better CPU selection for timer expiration](https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/)
 * [2022-11-08, 21:10:59](https://lobste.rs/s/qxseuq/feep_search_search_engine_for) - [Feep! search - a search engine for independent programming resources](https://search.feep.dev/)
