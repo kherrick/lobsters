@@ -18,13 +18,13 @@
 * [2022-11-08, 10:41:28](https://lobste.rs/s/d378ga/inline_caches_skybison_python_runtime) - [Inline caches in the Skybison Python runtime](https://bernsteinbear.com/blog/inline-caches-in-skybison/)
 * [2022-11-08, 09:34:06](https://lobste.rs/s/dwn96p/statistical_process_control_manager_s) - [Statistical Process Control: A Manager’s Guide](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go) - [How I write offline API tests in Go](https://youtu.be/DjNERjqzILQ)
+* [2022-11-08, 02:17:34](https://lobste.rs/s/uwwo41/mdl_micro_architecture_description) - [MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
-* [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
 
 ## [Archives](archives/index.md)
 
