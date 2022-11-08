@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
+* [2022-11-08, 19:11:37](https://lobste.rs/s/kkodyr/creating_priority_queue_with_custom_sort) - [Creating a priority queue with a custom sort order using a binary heap in Rust](https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab)
 * [2022-11-08, 18:36:48](https://lobste.rs/s/gpaamc/creating_dedicated_development) - [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching)
 * [2022-11-08, 18:13:39](https://lobste.rs/s/9xivks/differential_datalog_programming) - [differential-datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
 * [2022-11-08, 16:42:03](https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror) - [Migrating from Monaco Editor to CodeMirror](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)
