@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 10:41:28](https://lobste.rs/s/d378ga/inline_caches_skybison_python_runtime) - [Inline caches in the Skybison Python runtime](https://bernsteinbear.com/blog/inline-caches-in-skybison/)
 * [2022-11-08, 09:34:06](https://lobste.rs/s/dwn96p/statistical_process_control_manager_s) - [Statistical Process Control: A Manager’s Guide](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html)
 * [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go) - [How I write offline API tests in Go](https://youtu.be/DjNERjqzILQ)
 * [2022-11-08, 07:02:07](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken) - [Is the logout endpoint broken?](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken)
@@ -17,7 +18,6 @@
 * [2022-11-07, 14:27:02](https://lobste.rs/s/9pozvf/case_for_mapping_pcie_bars_as_device) - [The case for mapping PCIe BARs as device memory on arm64](https://threedots.ovh/blog/2022/11/the-case-for-mapping-pcie-bars-as-device-memory-on-arm64/)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
 * [2022-11-07, 12:50:13](https://lobste.rs/s/csaqfj/open_source_infrastructure) - [Open Source Infrastructure](https://opensourceinfra.org/)
-* [2022-11-07, 11:21:52](https://lobste.rs/s/rrqnxi/jeadie_go_l_game_life_with_different) - [Jeadie/Go-L: Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.)](https://github.com/Jeadie/Go-L)
 * [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
