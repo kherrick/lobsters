@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 09:34:06",
+      "https://lobste.rs/s/dwn96p/statistical_process_control_manager_s"
+    ],
+    [
+      "Statistical Process Control: A Manager’s Guide",
+      "https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 07:30:22",
       "https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go"
     ],
@@ -227,16 +237,6 @@
     [
       "Haskell, Python, and Readability",
       "https://mazzo.li/posts/haskell-readability.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-06, 20:31:13",
-      "https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify"
-    ],
-    [
-      "A case for Go code generation: testify",
-      "https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1"
     ]
   ],
   [
