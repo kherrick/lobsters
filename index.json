@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 20:13:25",
+      "https://lobste.rs/s/ifbecl/recommendations_for_publishing_end_life"
+    ],
+    [
+      "Recommendations for publishing End-of-life dates and support timelines",
+      "https://endoflife.date/recommendations"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 19:43:45",
       "https://lobste.rs/s/tnjs4j/python_3_11_gotcha"
     ],
@@ -177,16 +187,6 @@
     [
       "93% of Paint Splatters are Valid Perl Programs (2019)",
       "https://www.mcmillen.dev/sigbovik/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 21:22:22",
-      "https://lobste.rs/s/ym6l3s/how_build_semantic_search_engine_rust"
-    ],
-    [
-      "How to build a Semantic Search Engine in Rust",
-      "https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9"
     ]
   ],
   [
