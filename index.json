@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-08, 23:25:05",
+      "https://lobste.rs/s/et8t41/xmake_v2_7_3_released"
+    ],
+    [
+      "Xmake v2.7.3 Released",
+      "https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support"
+    ]
+  ],
+  [
+    [
       "2022-11-08, 23:18:27",
       "https://lobste.rs/s/ee2sv3/physx_5_open_sourced"
     ],
@@ -197,16 +207,6 @@
     [
       "How I write offline API tests in Go",
       "https://youtu.be/DjNERjqzILQ"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 02:17:34",
-      "https://lobste.rs/s/uwwo41/mdl_micro_architecture_description"
-    ],
-    [
-      "MDL: A Micro-Architecture Description Language for LLVM",
-      "https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409"
     ]
   ],
   [
