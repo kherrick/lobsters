@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 18:36:48](https://lobste.rs/s/gpaamc/creating_dedicated_development) - [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching)
 * [2022-11-08, 18:13:39](https://lobste.rs/s/9xivks/differential_datalog_programming) - [differential-datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
 * [2022-11-08, 16:42:03](https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror) - [Migrating from Monaco Editor to CodeMirror](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)
 * [2022-11-08, 16:21:04](https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded) - [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
@@ -22,7 +23,6 @@
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
 * [2022-11-07, 12:50:13](https://lobste.rs/s/csaqfj/open_source_infrastructure) - [Open Source Infrastructure](https://opensourceinfra.org/)
 * [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
-* [2022-11-07, 08:58:58](https://lobste.rs/s/oi4nfj/imagewand_privacy_first_image) - [ImageWand: privacy-first image conversion experiment with Golang & WASM](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 * [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
 

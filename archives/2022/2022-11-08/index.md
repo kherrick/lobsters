@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
+* [2022-11-08, 18:36:48](https://lobste.rs/s/gpaamc/creating_dedicated_development) - [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching)
 * [2022-11-08, 18:13:39](https://lobste.rs/s/9xivks/differential_datalog_programming) - [differential-datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
 * [2022-11-08, 16:42:03](https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror) - [Migrating from Monaco Editor to CodeMirror](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)
 * [2022-11-08, 16:21:04](https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded) - [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
