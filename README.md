@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/testing_my_transistor_fm_api_client_go) - [Testing my Transistor.fm API client in Go](https://youtu.be/DjNERjqzILQ)
 * [2022-11-08, 07:02:07](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken) - [Is the logout endpoint broken?](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken)
 * [2022-11-08, 02:17:34](https://lobste.rs/s/uwwo41/mdl_micro_architecture_description) - [MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
@@ -24,7 +25,6 @@
 * [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
 * [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
 * [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
-* [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
 
 ## [Archives](archives/index.md)
 
