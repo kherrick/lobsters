@@ -5,5 +5,6 @@
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
 * [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/testing_my_transistor_fm_api_client_go) - [Testing my Transistor.fm API client in Go](https://youtu.be/DjNERjqzILQ)
+* [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go) - [How I write offline API tests in Go](https://youtu.be/DjNERjqzILQ)
 * [2022-11-08, 07:02:07](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken) - [Is the logout endpoint broken?](https://lobste.rs/s/nacbiq/is_logout_endpoint_broken)
 * [2022-11-08, 02:17:34](https://lobste.rs/s/uwwo41/mdl_micro_architecture_description) - [MDL: A Micro-Architecture Description Language for LLVM](https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409)
