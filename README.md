@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)
 * [2022-11-08, 20:13:25](https://lobste.rs/s/ifbecl/recommendations_for_publishing_end_life) - [Recommendations for publishing End-of-life dates and support timelines](https://endoflife.date/recommendations)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 * [2022-11-08, 19:30:41](https://lobste.rs/s/8ddlsj/net_7_is_available_today) - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
@@ -22,7 +23,6 @@
 * [2022-11-07, 19:26:33](https://lobste.rs/s/3dbvo8/argo_rollouts_at_scale_bringing) - [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
 * [2022-11-07, 14:37:06](https://lobste.rs/s/o5tx5a/undefined_isn_t_unpredictable) - [Undefined Isn’t Unpredictable](http://www.os2museum.com/wp/undefined-isnt-unpredictable/)
 * [2022-11-07, 12:50:34](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ddnakl/what_are_you_doing_this_week)
-* [2022-11-07, 12:50:13](https://lobste.rs/s/csaqfj/open_source_infrastructure) - [Open Source Infrastructure](https://opensourceinfra.org/)
 * [2022-11-07, 09:49:28](https://lobste.rs/s/jnp8us/fast_builds_secure_builds_choose_two) - [Fast builds, secure builds. Choose two](https://stripe.com/blog/fast-secure-builds-choose-two)
 * [2022-11-07, 08:47:30](https://lobste.rs/s/exmdsm/exploring_alternatives_centralized_web) - [Exploring Alternatives to the Centralized Web](https://hypha.coop/dripline/p2p-primer-part-1/)
 

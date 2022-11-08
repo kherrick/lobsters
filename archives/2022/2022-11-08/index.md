@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-08](index.md)
 
+* [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)
 * [2022-11-08, 20:13:25](https://lobste.rs/s/ifbecl/recommendations_for_publishing_end_life) - [Recommendations for publishing End-of-life dates and support timelines](https://endoflife.date/recommendations)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 * [2022-11-08, 19:30:41](https://lobste.rs/s/8ddlsj/net_7_is_available_today) - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
