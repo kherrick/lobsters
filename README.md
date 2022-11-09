@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 * [2022-11-09, 11:14:24](https://lobste.rs/s/ijnybd/error_handling_rust) - [Error Handling in Rust](https://nrc.github.io/error-docs/)
 * [2022-11-09, 10:21:47](https://lobste.rs/s/btrt7m/stretch_iphone_its_limit_2gib_model_can) - [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
 * [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
@@ -21,7 +22,6 @@
 * [2022-11-08, 13:39:13](https://lobste.rs/s/51aey4/we_sign_code_now) - [We sign code now](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 * [2022-11-08, 13:14:48](https://lobste.rs/s/zerhjf/pure_meson_ray_tracer) - [A pure-meson ray tracer](https://mochiro.moe/posts/09-meson-raytracer/)
-* [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go) - [How I write offline API tests in Go](https://youtu.be/DjNERjqzILQ)
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
