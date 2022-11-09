@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-09](index.md)
 
+* [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
+* [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
 * [2022-11-09, 18:31:46](https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve) - [Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM](https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/)
 * [2022-11-09, 18:10:36](https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other) - [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
