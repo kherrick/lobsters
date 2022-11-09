@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-09](index.md)
 
+* [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 * [2022-11-09, 11:43:11](https://lobste.rs/s/rztkb1/can_you_rely_on_google_cloud_platform) - [Can you rely on Google Cloud Platform?](https://lobste.rs/s/rztkb1/can_you_rely_on_google_cloud_platform)
 * [2022-11-09, 11:14:24](https://lobste.rs/s/ijnybd/error_handling_rust) - [Error Handling in Rust](https://nrc.github.io/error-docs/)
