@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-09, 16:06:54",
+      "https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript"
+    ],
+    [
+      "Squint is an experimental ClojureScript syntax to JavaScript compiler",
+      "https://github.com/squint-cljs/squint"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 16:02:08",
+      "https://lobste.rs/s/cc3agw/public_domain_posix_make"
+    ],
+    [
+      "Public domain POSIX make",
+      "https://frippery.org/make/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 14:46:48",
       "https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-08, 20:13:25",
-      "https://lobste.rs/s/ifbecl/recommendations_for_publishing_end_life"
-    ],
-    [
-      "Recommendations for publishing End-of-life dates and support timelines",
-      "https://endoflife.date/recommendations"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 19:43:45",
       "https://lobste.rs/s/tnjs4j/python_3_11_gotcha"
     ],
@@ -227,16 +237,6 @@
     [
       "A pure-meson ray tracer",
       "https://mochiro.moe/posts/09-meson-raytracer/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 22:10:59",
-      "https://lobste.rs/s/jyao6l/influence_self"
-    ],
-    [
-      "The influence of Self",
-      "https://dubroy.com/blog/self/"
     ]
   ],
   [
