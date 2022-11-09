@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 * [2022-11-08, 23:25:05](https://lobste.rs/s/et8t41/xmake_v2_7_3_released) - [Xmake v2.7.3 Released](https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support)
 * [2022-11-08, 23:18:27](https://lobste.rs/s/ee2sv3/physx_5_open_sourced) - [PhysX 5 open sourced](https://github.com/NVIDIA-Omniverse/PhysX)
 * [2022-11-08, 22:10:00](https://lobste.rs/s/hsm5vt/better_cpu_selection_for_timer) - [Better CPU selection for timer expiration](https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/)
@@ -23,7 +24,6 @@
 * [2022-11-08, 07:30:22](https://lobste.rs/s/fwbxfq/how_i_write_offline_api_tests_go) - [How I write offline API tests in Go](https://youtu.be/DjNERjqzILQ)
 * [2022-11-07, 23:01:58](https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore) - [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
 * [2022-11-07, 22:10:59](https://lobste.rs/s/jyao6l/influence_self) - [The influence of Self](https://dubroy.com/blog/self/)
-* [2022-11-07, 21:47:40](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers) - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 * [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 
 ## [Archives](archives/index.md)
