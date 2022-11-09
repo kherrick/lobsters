@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-09, 19:43:34",
+      "https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014"
+    ],
+    [
+      "DOS Debugging Quirk (2014)",
+      "https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 19:42:24",
+      "https://lobste.rs/s/ktxmvl/pairing_on_open_source"
+    ],
+    [
+      "Pairing on Open Source",
+      "https://www.schneems.com/2022/11/09/pairing-on-open-source/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 18:31:46",
       "https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-11-08, 23:18:27",
-      "https://lobste.rs/s/ee2sv3/physx_5_open_sourced"
-    ],
-    [
-      "PhysX 5 open sourced",
-      "https://github.com/NVIDIA-Omniverse/PhysX"
-    ]
-  ],
-  [
-    [
       "2022-11-08, 21:02:48",
       "https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai"
     ],
@@ -237,16 +247,6 @@
     [
       "Containers are chroot with a Marketing Budget",
       "https://earthly.dev/blog/chroot/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:14:48",
-      "https://lobste.rs/s/zerhjf/pure_meson_ray_tracer"
-    ],
-    [
-      "A pure-meson ray tracer",
-      "https://mochiro.moe/posts/09-meson-raytracer/"
     ]
   ]
 ]
