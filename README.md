@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 17:09:30](https://lobste.rs/s/3omsld/ever_had_bullshit_job) - [Ever had a bullshit job?](https://lobste.rs/s/3omsld/ever_had_bullshit_job)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 * [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
@@ -12,7 +13,6 @@
 * [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 * [2022-11-08, 23:25:05](https://lobste.rs/s/et8t41/xmake_v2_7_3_released) - [Xmake v2.7.3 Released](https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support)
 * [2022-11-08, 23:18:27](https://lobste.rs/s/ee2sv3/physx_5_open_sourced) - [PhysX 5 open sourced](https://github.com/NVIDIA-Omniverse/PhysX)
-* [2022-11-08, 21:10:59](https://lobste.rs/s/qxseuq/feep_search_search_engine_for) - [Feep! search - a search engine for independent programming resources](https://search.feep.dev/)
 * [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
 * [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 * [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-09](index.md)
 
+* [2022-11-09, 17:09:30](https://lobste.rs/s/3omsld/ever_had_bullshit_job) - [Ever had a bullshit job?](https://lobste.rs/s/3omsld/ever_had_bullshit_job)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 * [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
