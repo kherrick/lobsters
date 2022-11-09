@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-09, 14:35:55",
+      "https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache"
+    ],
+    [
+      "A GC-Friendly Go Interning Cache",
+      "https://words.filippo.io/dispatches/certificate-interning/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 14:18:28",
       "https://lobste.rs/s/n69fab/pyscript_developments"
     ],
@@ -217,16 +227,6 @@
     [
       "A pure-meson ray tracer",
       "https://mochiro.moe/posts/09-meson-raytracer/"
-    ]
-  ],
-  [
-    [
-      "2022-11-07, 23:01:58",
-      "https://lobste.rs/s/lf5il4/c_isn_t_programming_language_anymore"
-    ],
-    [
-      "C Isn't A Programming Language Anymore",
-      "https://faultlore.com/blah/c-isnt-a-language/"
     ]
   ],
   [
