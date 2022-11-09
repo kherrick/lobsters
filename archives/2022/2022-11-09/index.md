@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-09](index.md)
 
+* [2022-11-09, 20:56:51](https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with) - [Improve keyboard comfort and usability with advanced customization](https://github.com/jtroo/kanata)
 * [2022-11-09, 20:38:17](https://lobste.rs/s/h3s03c/evans_more_expressive_universal_grpc) - [Evans: more expressive universal gRPC client](https://github.com/ktr0731/evans)
 * [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 20:10:27](https://lobste.rs/s/jrko8q/everything_new_from_github_universe_2022) - [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)

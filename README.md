@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 20:56:51](https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with) - [Improve keyboard comfort and usability with advanced customization](https://github.com/jtroo/kanata)
 * [2022-11-09, 20:38:17](https://lobste.rs/s/h3s03c/evans_more_expressive_universal_grpc) - [Evans: more expressive universal gRPC client](https://github.com/ktr0731/evans)
 * [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 20:10:27](https://lobste.rs/s/jrko8q/everything_new_from_github_universe_2022) - [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
-* [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
 * [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
 * [2022-11-09, 18:10:36](https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other) - [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
