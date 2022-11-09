@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+* [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 * [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
 * [2022-11-09, 16:02:08](https://lobste.rs/s/cc3agw/public_domain_posix_make) - [Public domain POSIX make](https://frippery.org/make/)
 * [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
@@ -16,7 +18,6 @@
 * [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 * [2022-11-08, 19:30:41](https://lobste.rs/s/8ddlsj/net_7_is_available_today) - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
-* [2022-11-08, 19:11:37](https://lobste.rs/s/kkodyr/creating_priority_queue_with_custom_sort) - [Creating a priority queue with a custom sort order using a binary heap in Rust](https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab)
 * [2022-11-08, 18:36:48](https://lobste.rs/s/gpaamc/creating_dedicated_development) - [Creating a Dedicated Development Environment for Teaching](https://coder.com/blog/dedicated-development-environment-for-teaching)
 * [2022-11-08, 18:13:39](https://lobste.rs/s/9xivks/differential_datalog_programming) - [differential-datalog: a programming language for incremental computation](https://github.com/vmware/differential-datalog)
 * [2022-11-08, 16:42:03](https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror) - [Migrating from Monaco Editor to CodeMirror](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)
@@ -24,7 +25,6 @@
 * [2022-11-08, 13:39:13](https://lobste.rs/s/51aey4/we_sign_code_now) - [We sign code now](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 * [2022-11-08, 13:14:48](https://lobste.rs/s/zerhjf/pure_meson_ray_tracer) - [A pure-meson ray tracer](https://mochiro.moe/posts/09-meson-raytracer/)
-* [2022-11-07, 21:38:16](https://lobste.rs/s/ivhdd6/93_paint_splatters_are_valid_perl) - [93% of Paint Splatters are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 
 ## [Archives](archives/index.md)
 
