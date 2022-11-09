@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-09, 18:31:46",
+      "https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve"
+    ],
+    [
+      "Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM",
+      "https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 18:10:36",
       "https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other"
     ],
@@ -127,16 +137,6 @@
     [
       "Three new utility functions in C++23",
       "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 23:25:05",
-      "https://lobste.rs/s/et8t41/xmake_v2_7_3_released"
-    ],
-    [
-      "Xmake v2.7.3 Released",
-      "https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support"
     ]
   ],
   [
