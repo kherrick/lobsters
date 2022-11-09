@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 * [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 * [2022-11-09, 11:14:24](https://lobste.rs/s/ijnybd/error_handling_rust) - [Error Handling in Rust](https://nrc.github.io/error-docs/)
@@ -7,7 +8,6 @@
 * [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 * [2022-11-08, 23:25:05](https://lobste.rs/s/et8t41/xmake_v2_7_3_released) - [Xmake v2.7.3 Released](https://github.com/xmake-io/xmake/wiki/Xmake-v2.7.3-Released,-Package-Components-and-Cplusplus-Modules-Incremental-Build-Support)
 * [2022-11-08, 23:18:27](https://lobste.rs/s/ee2sv3/physx_5_open_sourced) - [PhysX 5 open sourced](https://github.com/NVIDIA-Omniverse/PhysX)
-* [2022-11-08, 22:10:00](https://lobste.rs/s/hsm5vt/better_cpu_selection_for_timer) - [Better CPU selection for timer expiration](https://lwn.net/SubscriberLink/913568/5150974329ecf2e1/)
 * [2022-11-08, 21:10:59](https://lobste.rs/s/qxseuq/feep_search_search_engine_for) - [Feep! search - a search engine for independent programming resources](https://search.feep.dev/)
 * [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
 * [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
