@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
+* [2022-11-09, 20:10:27](https://lobste.rs/s/jrko8q/everything_new_from_github_universe_2022) - [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
 * [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
 * [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
 * [2022-11-09, 18:31:46](https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve) - [Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM](https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/)
@@ -9,7 +11,6 @@
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 * [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
-* [2022-11-09, 16:02:08](https://lobste.rs/s/cc3agw/public_domain_posix_make) - [Public domain POSIX make](https://frippery.org/make/)
 * [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 * [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
@@ -18,7 +19,6 @@
 * [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 * [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
 * [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
-* [2022-11-08, 20:46:53](https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for) - [Yakread is a simple reader app for the unbundled web](https://tfos.co/p/introducing-yakread/)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 * [2022-11-08, 19:30:41](https://lobste.rs/s/8ddlsj/net_7_is_available_today) - [.NET 7 is Available Today](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/)
 * [2022-11-08, 16:42:03](https://lobste.rs/s/exy6ud/migrating_from_monaco_editor_codemirror) - [Migrating from Monaco Editor to CodeMirror](https://about.sourcegraph.com/blog/migrating-monaco-codemirror)
