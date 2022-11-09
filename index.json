@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-09, 20:26:25",
+      "https://lobste.rs/s/fauofc/announcing_rescript_tea_elm"
+    ],
+    [
+      "Announcing: Rescript-tea - the Elm Architecture for Rescript",
+      "https://blog.darklang.com/rescript-tea/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 20:10:27",
+      "https://lobste.rs/s/jrko8q/everything_new_from_github_universe_2022"
+    ],
+    [
+      "Everything new from GitHub Universe 2022",
+      "https://github.blog/2022-11-09-everything-new-from-github-universe-2022/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 19:43:34",
       "https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-11-09, 16:02:08",
-      "https://lobste.rs/s/cc3agw/public_domain_posix_make"
-    ],
-    [
-      "Public domain POSIX make",
-      "https://frippery.org/make/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 14:46:48",
       "https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware"
     ],
@@ -177,16 +187,6 @@
     [
       "Improving the experience of JSON in Haskell with autodocodec and bifunctors",
       "https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 20:46:53",
-      "https://lobste.rs/s/ziwufh/yakread_is_simple_reader_app_for"
-    ],
-    [
-      "Yakread is a simple reader app for the unbundled web",
-      "https://tfos.co/p/introducing-yakread/"
     ]
   ],
   [
