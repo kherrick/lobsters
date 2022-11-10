@@ -23,7 +23,7 @@
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
-* [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
+* [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 
 ## [Archives](archives/index.md)
