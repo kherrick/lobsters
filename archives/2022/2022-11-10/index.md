@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-10](index.md)
 
+* [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
 * [2022-11-10, 22:34:22](https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java) - [eemit: Tiny event emitter library for Java](https://github.com/jafarlihi/eemit)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)

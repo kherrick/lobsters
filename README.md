@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
 * [2022-11-10, 22:34:22](https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java) - [eemit: Tiny event emitter library for Java](https://github.com/jafarlihi/eemit)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
@@ -24,7 +25,6 @@
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
-* [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 
 ## [Archives](archives/index.md)
 
