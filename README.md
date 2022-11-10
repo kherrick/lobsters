@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
 * [2022-11-10, 15:24:03](https://lobste.rs/s/w6f8py/hpts_comes_full_circle) - [HPTS Comes Full Circle](https://perspectives.mvdirona.com/2022/11/hpts-2022/)
@@ -12,7 +13,6 @@
 * [2022-11-10, 02:26:20](https://lobste.rs/s/ggbslf/github_code_search_beta) - [GitHub code search [Beta]](https://github.com/features/code-search)
 * [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
-* [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
 * [2022-11-09, 18:10:36](https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other) - [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
