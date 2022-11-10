@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-10, 14:35:04",
+      "https://lobste.rs/s/rslctm/seeing_through_hardware_counters"
+    ],
+    [
+      "Seeing through hardware counters: a journey to threefold performance increase",
+      "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 12:45:29",
       "https://lobste.rs/s/u10oek/look_out_divergent_representations_are"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2022-11-10, 02:04:18",
-      "https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had"
-    ],
-    [
-      "What's the least bullshit job you've had?",
-      "https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 20:26:25",
       "https://lobste.rs/s/fauofc/announcing_rescript_tea_elm"
     ],
@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2022-11-09, 18:10:36",
+      "https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other"
+    ],
+    [
+      "Hash Codes, Non-Determinism, and Other Eldritch Horrors",
+      "https://verdagon.dev/blog/generics-hash-codes-horrors"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 17:30:59",
       "https://lobste.rs/s/wfvpup/forms_should_be_postable_without"
     ],
     [
       "Forms should be postable without JavaScript",
       "https://blog.jim-nielsen.com/2022/browsers-json-formdata/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 17:09:30",
-      "https://lobste.rs/s/3omsld/ever_had_bullshit_job"
-    ],
-    [
-      "Ever had a bullshit job?",
-      "https://lobste.rs/s/3omsld/ever_had_bullshit_job"
     ]
   ],
   [
