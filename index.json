@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-10, 23:11:45",
+      "https://lobste.rs/s/93pfub/cooking_with_typescript_collection"
+    ],
+    [
+      "Cooking with TypeScript: a collection of patterns for TypeScript 4.8",
+      "https://github.com/adamshaylor/cooking-with-typescript"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 22:34:22",
       "https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java"
     ],
@@ -237,16 +247,6 @@
     [
       "Redditor discovers legendary 1956 computer in grandparents’ basement",
       "https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 14:35:55",
-      "https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache"
-    ],
-    [
-      "A GC-Friendly Go Interning Cache",
-      "https://words.filippo.io/dispatches/certificate-interning/"
     ]
   ]
 ]
