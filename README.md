@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-09, 20:56:51](https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with) - [Improve keyboard comfort and usability with advanced customization](https://github.com/jtroo/kanata)
-* [2022-11-09, 20:38:17](https://lobste.rs/s/h3s03c/evans_more_expressive_universal_grpc) - [Evans: more expressive universal gRPC client](https://github.com/ktr0731/evans)
+* [2022-11-10, 02:26:20](https://lobste.rs/s/ggbslf/github_code_search_beta) - [GitHub code search [Beta]](https://github.com/features/code-search)
+* [2022-11-10, 02:04:18](https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had) - [What's the least bullshit job you've had?](https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had)
 * [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
 * [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
