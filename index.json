@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 21:49:40",
+      "https://lobste.rs/s/kph1uq/thirteen_years_go"
+    ],
+    [
+      "Thirteen Years of Go",
+      "https://go.dev/blog/13years"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 21:48:32",
+      "https://lobste.rs/s/yub9ir/wordcraft_writers_workshop"
+    ],
+    [
+      "Wordcraft Writers Workshop",
+      "https://wordcraft-writers-workshop.appspot.com/learn"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 21:13:55",
       "https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-11-09, 14:35:55",
-      "https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache"
-    ],
-    [
-      "A GC-Friendly Go Interning Cache",
-      "https://words.filippo.io/dispatches/certificate-interning/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 14:18:28",
       "https://lobste.rs/s/n69fab/pyscript_developments"
     ],
     [
       "PyScript developments",
       "https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:27:44",
-      "https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing"
-    ],
-    [
-      "Containers are chroot with a Marketing Budget",
-      "https://earthly.dev/blog/chroot/"
     ]
   ]
 ]
