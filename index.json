@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-10, 15:24:03",
+      "https://lobste.rs/s/w6f8py/hpts_comes_full_circle"
+    ],
+    [
+      "HPTS Comes Full Circle",
+      "https://perspectives.mvdirona.com/2022/11/hpts-2022/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 14:35:04",
       "https://lobste.rs/s/rslctm/seeing_through_hardware_counters"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2022-11-09, 20:56:51",
-      "https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with"
-    ],
-    [
-      "Improve keyboard comfort and usability with advanced customization",
-      "https://github.com/jtroo/kanata"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 20:26:25",
       "https://lobste.rs/s/fauofc/announcing_rescript_tea_elm"
     ],
@@ -97,6 +97,16 @@
     [
       "DOS Debugging Quirk (2014)",
       "https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/"
+    ]
+  ],
+  [
+    [
+      "2022-11-09, 19:42:24",
+      "https://lobste.rs/s/ktxmvl/pairing_on_open_source"
+    ],
+    [
+      "Pairing on Open Source",
+      "https://www.schneems.com/2022/11/09/pairing-on-open-source/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Three new utility functions in C++23",
       "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 19:43:45",
-      "https://lobste.rs/s/tnjs4j/python_3_11_gotcha"
-    ],
-    [
-      "A Python 3.11 \"gotcha\"",
-      "https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/"
     ]
   ],
   [
