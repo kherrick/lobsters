@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 22:34:22",
+      "https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java"
+    ],
+    [
+      "eemit: Tiny event emitter library for Java",
+      "https://github.com/jafarlihi/eemit"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 22:28:51",
+      "https://lobste.rs/s/cb4oqs/trie_python"
+    ],
+    [
+      "Trie in Python",
+      "https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 21:49:40",
       "https://lobste.rs/s/kph1uq/thirteen_years_go"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-09, 18:10:36",
-      "https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other"
-    ],
-    [
-      "Hash Codes, Non-Determinism, and Other Eldritch Horrors",
-      "https://verdagon.dev/blog/generics-hash-codes-horrors"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 17:30:59",
       "https://lobste.rs/s/wfvpup/forms_should_be_postable_without"
     ],
@@ -237,16 +247,6 @@
     [
       "A GC-Friendly Go Interning Cache",
       "https://words.filippo.io/dispatches/certificate-interning/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 14:18:28",
-      "https://lobste.rs/s/n69fab/pyscript_developments"
-    ],
-    [
-      "PyScript developments",
-      "https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython"
     ]
   ]
 ]
