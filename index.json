@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-10, 10:47:05",
+      "https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go"
+    ],
+    [
+      "What's the proper way to wrap errors in Go?",
+      "https://youtu.be/MRbhtMptago"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 02:26:20",
       "https://lobste.rs/s/ggbslf/github_code_search_beta"
     ],
@@ -227,16 +237,6 @@
     [
       "A Python 3.11 \"gotcha\"",
       "https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 16:21:04",
-      "https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded"
-    ],
-    [
-      "Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust",
-      "https://github.com/cozodb/cozo"
     ]
   ],
   [
