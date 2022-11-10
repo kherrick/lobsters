@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-11-09, 18:31:46",
+      "https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve"
+    ],
+    [
+      "Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM",
+      "https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 18:10:36",
       "https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other"
     ],
@@ -207,16 +217,6 @@
     [
       "A Python 3.11 \"gotcha\"",
       "https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 19:30:41",
-      "https://lobste.rs/s/8ddlsj/net_7_is_available_today"
-    ],
-    [
-      ".NET 7 is Available Today",
-      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/"
     ]
   ],
   [
