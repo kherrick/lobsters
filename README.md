@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
 * [2022-11-10, 02:26:20](https://lobste.rs/s/ggbslf/github_code_search_beta) - [GitHub code search [Beta]](https://github.com/features/code-search)
 * [2022-11-10, 02:04:18](https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had) - [What's the least bullshit job you've had?](https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had)
 * [2022-11-09, 20:56:51](https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with) - [Improve keyboard comfort and usability with advanced customization](https://github.com/jtroo/kanata)
@@ -23,7 +24,6 @@
 * [2022-11-08, 21:02:48](https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai) - [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/pdf/2211.03622.pdf)
 * [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
-* [2022-11-08, 16:21:04](https://lobste.rs/s/gcepzn/cozo_new_graph_db_with_datalog_embedded) - [Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust](https://github.com/cozodb/cozo)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 
 ## [Archives](archives/index.md)
