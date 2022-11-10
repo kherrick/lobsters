@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-09, 20:56:51",
+      "https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with"
+    ],
+    [
+      "Improve keyboard comfort and usability with advanced customization",
+      "https://github.com/jtroo/kanata"
+    ]
+  ],
+  [
+    [
       "2022-11-09, 20:26:25",
       "https://lobste.rs/s/fauofc/announcing_rescript_tea_elm"
     ],
@@ -227,16 +237,6 @@
     [
       "Cozo – new Graph DB with Datalog, embedded like SQLite, written in Rust",
       "https://github.com/cozodb/cozo"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 13:39:13",
-      "https://lobste.rs/s/51aey4/we_sign_code_now"
-    ],
-    [
-      "We sign code now",
-      "https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/"
     ]
   ],
   [
