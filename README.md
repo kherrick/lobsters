@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 21:13:55](https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program) - [Measuring the memory usage of your C++ program](https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/)
 * [2022-11-10, 20:57:14](https://lobste.rs/s/9xs5ww/good_bad_ugly_unix_legacy_2001) - [The good, the bad, and the ugly. The Unix legacy (2001)](http://herpolhode.com/rob/ugly.pdf)
 * [2022-11-10, 20:47:14](https://lobste.rs/s/iaejks/understanding_qasconst_std_as_const) - [Understanding qAsConst and std::as_const](https://www.kdab.com/blog-qasconst-and-stdas_const/)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
@@ -20,7 +21,6 @@
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
-* [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
 * [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 * [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)

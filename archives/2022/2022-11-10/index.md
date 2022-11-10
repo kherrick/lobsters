@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-10](index.md)
 
+* [2022-11-10, 21:13:55](https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program) - [Measuring the memory usage of your C++ program](https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/)
 * [2022-11-10, 20:57:14](https://lobste.rs/s/9xs5ww/good_bad_ugly_unix_legacy_2001) - [The good, the bad, and the ugly. The Unix legacy (2001)](http://herpolhode.com/rob/ugly.pdf)
 * [2022-11-10, 20:47:14](https://lobste.rs/s/iaejks/understanding_qasconst_std_as_const) - [Understanding qAsConst and std::as_const](https://www.kdab.com/blog-qasconst-and-stdas_const/)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
