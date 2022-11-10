@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+* [2022-11-10, 19:45:52](https://lobste.rs/s/m8jphf/bc1_compression_revisited) - [BC1 Compression Revisited](http://www.ludicon.com/castano/blog/2022/11/bc1-compression-revisited/)
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
@@ -18,12 +20,10 @@
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 * [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 * [2022-11-09, 16:06:54](https://lobste.rs/s/ifwavx/squint_is_experimental_clojurescript) - [Squint is an experimental ClojureScript syntax to JavaScript compiler](https://github.com/squint-cljs/squint)
-* [2022-11-09, 16:02:08](https://lobste.rs/s/cc3agw/public_domain_posix_make) - [Public domain POSIX make](https://frippery.org/make/)
 * [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 * [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
 * [2022-11-09, 10:21:47](https://lobste.rs/s/btrt7m/stretch_iphone_its_limit_2gib_model_can) - [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
-* [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 
 ## [Archives](archives/index.md)

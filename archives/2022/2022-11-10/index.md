@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-10](index.md)
 
+* [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+* [2022-11-10, 19:45:52](https://lobste.rs/s/m8jphf/bc1_compression_revisited) - [BC1 Compression Revisited](http://www.ludicon.com/castano/blog/2022/11/bc1-compression-revisited/)
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
