@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 20:57:14](https://lobste.rs/s/9xs5ww/good_bad_ugly_unix_legacy_2001) - [The good, the bad, and the ugly. The Unix legacy (2001)](http://herpolhode.com/rob/ugly.pdf)
 * [2022-11-10, 20:47:14](https://lobste.rs/s/iaejks/understanding_qasconst_std_as_const) - [Understanding qAsConst and std::as_const](https://www.kdab.com/blog-qasconst-and-stdas_const/)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 * [2022-11-10, 19:45:52](https://lobste.rs/s/m8jphf/bc1_compression_revisited) - [BC1 Compression Revisited](http://www.ludicon.com/castano/blog/2022/11/bc1-compression-revisited/)
@@ -23,7 +24,6 @@
 * [2022-11-09, 14:46:48](https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware) - [Dissecting Reolink RLC-810A Hardware: A Detailed View](https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/)
 * [2022-11-09, 14:35:55](https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache) - [A GC-Friendly Go Interning Cache](https://words.filippo.io/dispatches/certificate-interning/)
 * [2022-11-09, 14:18:28](https://lobste.rs/s/n69fab/pyscript_developments) - [PyScript developments](https://www.anaconda.com/blog/pyscript-updates-bytecode-alliance-pyodide-and-micropython)
-* [2022-11-09, 10:21:47](https://lobste.rs/s/btrt7m/stretch_iphone_its_limit_2gib_model_can) - [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 
 ## [Archives](archives/index.md)
