@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-10](index.md)
 
+* [2022-11-10, 22:34:22](https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java) - [eemit: Tiny event emitter library for Java](https://github.com/jafarlihi/eemit)
+* [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
 * [2022-11-10, 21:48:32](https://lobste.rs/s/yub9ir/wordcraft_writers_workshop) - [Wordcraft Writers Workshop](https://wordcraft-writers-workshop.appspot.com/learn)
 * [2022-11-10, 21:13:55](https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program) - [Measuring the memory usage of your C++ program](https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/)
