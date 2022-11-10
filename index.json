@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 19:51:33",
+      "https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition"
+    ],
+    [
+      "FizzBuzz Enterprise Edition",
+      "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 19:45:52",
+      "https://lobste.rs/s/m8jphf/bc1_compression_revisited"
+    ],
+    [
+      "BC1 Compression Revisited",
+      "http://www.ludicon.com/castano/blog/2022/11/bc1-compression-revisited/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 17:12:01",
       "https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-11-09, 16:02:08",
-      "https://lobste.rs/s/cc3agw/public_domain_posix_make"
-    ],
-    [
-      "Public domain POSIX make",
-      "https://frippery.org/make/"
-    ]
-  ],
-  [
-    [
       "2022-11-09, 14:46:48",
       "https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware"
     ],
@@ -227,16 +237,6 @@
     [
       "Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket",
       "https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 09:13:13",
-      "https://lobste.rs/s/stky5h/three_new_utility_functions_c_23"
-    ],
-    [
-      "Three new utility functions in C++23",
-      "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
     ]
   ],
   [
