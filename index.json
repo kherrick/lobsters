@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 12:45:29",
+      "https://lobste.rs/s/u10oek/look_out_divergent_representations_are"
+    ],
+    [
+      "Look out! Divergent representations are everywhere",
+      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 12:00:39",
+      "https://lobste.rs/s/7ounij/dlrobertson_capsicum_rs_rust_bindings"
+    ],
+    [
+      "dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework",
+      "https://github.com/dlrobertson/capsicum-rs"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 11:52:09",
       "https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen"
     ],
@@ -87,16 +107,6 @@
     [
       "Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM",
       "https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 18:10:36",
-      "https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other"
-    ],
-    [
-      "Hash Codes, Non-Determinism, and Other Eldritch Horrors",
-      "https://verdagon.dev/blog/generics-hash-codes-horrors"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Three new utility functions in C++23",
       "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 20:56:15",
-      "https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with"
-    ],
-    [
-      "Improving the experience of JSON in Haskell with autodocodec and bifunctors",
-      "https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html"
     ]
   ],
   [
