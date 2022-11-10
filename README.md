@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-10, 12:45:29](https://lobste.rs/s/u10oek/look_out_divergent_representations_are) - [Look out! Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
+* [2022-11-10, 12:00:39](https://lobste.rs/s/7ounij/dlrobertson_capsicum_rs_rust_bindings) - [dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework](https://github.com/dlrobertson/capsicum-rs)
 * [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
@@ -9,7 +11,6 @@
 * [2022-11-09, 19:43:34](https://lobste.rs/s/vnwuez/dos_debugging_quirk_2014) - [DOS Debugging Quirk (2014)](https://blog.danieljanus.pl/2014/04/06/dos-debugging-quirk/)
 * [2022-11-09, 19:42:24](https://lobste.rs/s/ktxmvl/pairing_on_open_source) - [Pairing on Open Source](https://www.schneems.com/2022/11/09/pairing-on-open-source/)
 * [2022-11-09, 18:31:46](https://lobste.rs/s/t6qvmn/virtualization_showdown_freebsd_bhyve) - [Virtualization Showdown: FreeBSD Bhyve vs. Linux KVM](https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/)
-* [2022-11-09, 18:10:36](https://lobste.rs/s/iuvylj/hash_codes_non_determinism_other) - [Hash Codes, Non-Determinism, and Other Eldritch Horrors](https://verdagon.dev/blog/generics-hash-codes-horrors)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 17:09:30](https://lobste.rs/s/3omsld/ever_had_bullshit_job) - [Ever had a bullshit job?](https://lobste.rs/s/3omsld/ever_had_bullshit_job)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
@@ -22,7 +23,6 @@
 * [2022-11-09, 11:14:24](https://lobste.rs/s/ijnybd/error_handling_rust) - [Error Handling in Rust](https://nrc.github.io/error-docs/)
 * [2022-11-09, 10:21:47](https://lobste.rs/s/btrt7m/stretch_iphone_its_limit_2gib_model_can) - [Stretch iPhone to its Limit, a 2GiB Model that can Draw Everything in Your Pocket](https://liuliu.me/eyes/stretch-iphone-to-its-limit-a-2gib-model-that-can-draw-everything-in-your-pocket/)
 * [2022-11-09, 09:13:13](https://lobste.rs/s/stky5h/three_new_utility_functions_c_23) - [Three new utility functions in C++23](https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/)
-* [2022-11-08, 20:56:15](https://lobste.rs/s/zovrwf/improving_experience_json_haskell_with) - [Improving the experience of JSON in Haskell with autodocodec and bifunctors](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
 * [2022-11-08, 19:43:45](https://lobste.rs/s/tnjs4j/python_3_11_gotcha) - [A Python 3.11 \"gotcha\"](https://www.b-list.org/weblog/2022/nov/08/python-311-gotcha/)
 * [2022-11-08, 13:27:44](https://lobste.rs/s/zntiwp/containers_are_chroot_with_marketing) - [Containers are chroot with a Marketing Budget](https://earthly.dev/blog/chroot/)
 

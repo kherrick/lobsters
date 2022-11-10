@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-10](index.md)
 
+* [2022-11-10, 12:45:29](https://lobste.rs/s/u10oek/look_out_divergent_representations_are) - [Look out! Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
+* [2022-11-10, 12:00:39](https://lobste.rs/s/7ounij/dlrobertson_capsicum_rs_rust_bindings) - [dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework](https://github.com/dlrobertson/capsicum-rs)
 * [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
