@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2022-11-09, 14:46:48",
-      "https://lobste.rs/s/ylanli/dissecting_reolink_rlc_810a_hardware"
+      "2022-11-09, 14:35:55",
+      "https://lobste.rs/s/ecrgqb/gc_friendly_go_interning_cache"
     ],
     [
-      "Dissecting Reolink RLC-810A Hardware: A Detailed View",
-      "https://serhack.me/articles/dissecting-reolink-rlc810a-hardware-detailed-view/"
+      "A GC-Friendly Go Interning Cache",
+      "https://words.filippo.io/dispatches/certificate-interning/"
     ]
   ],
   [
