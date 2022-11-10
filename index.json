@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-10, 11:52:09",
+      "https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen"
+    ],
+    [
+      "Accidental $70k Google Pixel Lock Screen Bypass",
+      "https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 11:50:37",
+      "https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history"
+    ],
+    [
+      "ddworken/hishtory: Your shell history: synced, queryable, and in context",
+      "https://github.com/ddworken/hishtory"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 10:47:05",
       "https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go"
     ],
@@ -27,16 +47,6 @@
     [
       "What's the least bullshit job you've had?",
       "https://lobste.rs/s/fp9zn6/what_s_least_bullshit_job_you_ve_had"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 20:56:51",
-      "https://lobste.rs/s/ekzezf/improve_keyboard_comfort_usability_with"
-    ],
-    [
-      "Improve keyboard comfort and usability with advanced customization",
-      "https://github.com/jtroo/kanata"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Three new utility functions in C++23",
       "https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/"
-    ]
-  ],
-  [
-    [
-      "2022-11-08, 21:02:48",
-      "https://lobste.rs/s/mell2s/do_users_write_more_insecure_code_with_ai"
-    ],
-    [
-      "Do Users Write More Insecure Code with AI Assistants?",
-      "https://arxiv.org/pdf/2211.03622.pdf"
     ]
   ],
   [
