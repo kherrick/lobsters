@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 15:15:03](https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability) - [Can Rust-wrapped C++ offer stability and performance benefits?](https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9)
+* [2022-11-11, 15:12:34](https://lobste.rs/s/agukep/cap_n_proto_v0_15_gats) - [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
 * [2022-11-11, 14:47:30](https://lobste.rs/s/lfqfyq/fusionauth_java_http_full_featured_stand) - [FusionAuth/java-http: A full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java](https://github.com/FusionAuth/java-http)
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
