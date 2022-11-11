@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 05:01:51](https://lobste.rs/s/cfmgxg/home_invasion_mastodon_s_eternal) - [Home invasion - Mastodon's Eternal September begins](https://www.hughrundle.net/home-invasion/)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
