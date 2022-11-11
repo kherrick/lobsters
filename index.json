@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-11, 01:42:45",
+      "https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust"
+    ],
+    [
+      "Blessed.rs — an unofficial guide to the Rust ecosystem",
+      "https://blessed.rs/crates"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 00:33:52",
+      "https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20"
+    ],
+    [
+      "macOS DNS resolving change in Go 1.20",
+      "https://danp.net/posts/macos-dns-change-in-go-1-20/"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 23:11:45",
       "https://lobste.rs/s/93pfub/cooking_with_typescript_collection"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-11-10, 15:24:03",
-      "https://lobste.rs/s/w6f8py/hpts_comes_full_circle"
-    ],
-    [
-      "HPTS Comes Full Circle",
-      "https://perspectives.mvdirona.com/2022/11/hpts-2022/"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 14:35:04",
       "https://lobste.rs/s/rslctm/seeing_through_hardware_counters"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Rosetta 2 fast?",
       "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 16:40:06",
-      "https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956"
-    ],
-    [
-      "Redditor discovers legendary 1956 computer in grandparents’ basement",
-      "https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/"
     ]
   ]
 ]
