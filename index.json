@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-11-10, 23:11:45",
+      "https://lobste.rs/s/93pfub/cooking_with_typescript_collection"
+    ],
+    [
+      "Cooking with TypeScript: a collection of patterns for TypeScript 4.8",
+      "https://github.com/adamshaylor/cooking-with-typescript"
+    ]
+  ],
+  [
+    [
       "2022-11-10, 22:28:51",
       "https://lobste.rs/s/cb4oqs/trie_python"
     ],
@@ -237,16 +247,6 @@
     [
       "ddworken/hishtory: Your shell history: synced, queryable, and in context",
       "https://github.com/ddworken/hishtory"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 10:47:05",
-      "https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go"
-    ],
-    [
-      "What's the proper way to wrap errors in Go?",
-      "https://youtu.be/MRbhtMptago"
     ]
   ]
 ]
