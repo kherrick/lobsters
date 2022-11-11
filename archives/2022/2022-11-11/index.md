@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
 * [2022-11-11, 17:28:01](https://lobste.rs/s/2fpif9/structured_logging_for_go) - [Structured Logging for Go](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)

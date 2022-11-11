@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
 * [2022-11-11, 17:28:01](https://lobste.rs/s/2fpif9/structured_logging_for_go) - [Structured Logging for Go](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
@@ -21,7 +22,6 @@
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
 * [2022-11-10, 14:35:04](https://lobste.rs/s/rslctm/seeing_through_hardware_counters) - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
-* [2022-11-10, 12:45:29](https://lobste.rs/s/u10oek/look_out_divergent_representations_are) - [Look out! Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
 * [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
