@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
 * [2022-11-11, 17:28:01](https://lobste.rs/s/2fpif9/structured_logging_for_go) - [Structured Logging for Go](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
@@ -19,7 +20,6 @@
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-* [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
 * [2022-11-10, 14:35:04](https://lobste.rs/s/rslctm/seeing_through_hardware_counters) - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
 * [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
