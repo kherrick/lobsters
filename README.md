@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 * [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
@@ -14,7 +15,6 @@
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
-* [2022-11-10, 15:24:03](https://lobste.rs/s/w6f8py/hpts_comes_full_circle) - [HPTS Comes Full Circle](https://perspectives.mvdirona.com/2022/11/hpts-2022/)
 * [2022-11-10, 14:35:04](https://lobste.rs/s/rslctm/seeing_through_hardware_counters) - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
 * [2022-11-10, 12:45:29](https://lobste.rs/s/u10oek/look_out_divergent_representations_are) - [Look out! Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
 * [2022-11-10, 12:00:39](https://lobste.rs/s/7ounij/dlrobertson_capsicum_rs_rust_bindings) - [dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework](https://github.com/dlrobertson/capsicum-rs)
