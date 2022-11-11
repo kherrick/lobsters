@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-11, 19:05:06",
+      "https://lobste.rs/s/nvprwc/matrix_cookbook"
+    ],
+    [
+      "The Matrix Cookbook",
+      "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 17:45:02",
       "https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning"
     ],
@@ -157,16 +167,6 @@
     [
       "macOS DNS resolving change in Go 1.20",
       "https://danp.net/posts/macos-dns-change-in-go-1-20/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 23:11:45",
-      "https://lobste.rs/s/93pfub/cooking_with_typescript_collection"
-    ],
-    [
-      "Cooking with TypeScript: a collection of patterns for TypeScript 4.8",
-      "https://github.com/adamshaylor/cooking-with-typescript"
     ]
   ],
   [
