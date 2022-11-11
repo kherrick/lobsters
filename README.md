@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
+* [2022-11-11, 00:33:52](https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20) - [macOS DNS resolving change in Go 1.20](https://danp.net/posts/macos-dns-change-in-go-1-20/)
 * [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
 * [2022-11-10, 22:34:22](https://lobste.rs/s/y5sgk1/eemit_tiny_event_emitter_library_for_java) - [eemit: Tiny event emitter library for Java](https://github.com/jafarlihi/eemit)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
@@ -13,7 +15,6 @@
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
 * [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
-* [2022-11-10, 15:24:03](https://lobste.rs/s/w6f8py/hpts_comes_full_circle) - [HPTS Comes Full Circle](https://perspectives.mvdirona.com/2022/11/hpts-2022/)
 * [2022-11-10, 14:35:04](https://lobste.rs/s/rslctm/seeing_through_hardware_counters) - [Seeing through hardware counters: a journey to threefold performance increase](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
 * [2022-11-10, 12:45:29](https://lobste.rs/s/u10oek/look_out_divergent_representations_are) - [Look out! Divergent representations are everywhere](https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/)
 * [2022-11-10, 12:00:39](https://lobste.rs/s/7ounij/dlrobertson_capsicum_rs_rust_bindings) - [dlrobertson/capsicum-rs: Rust bindings for the FreeBSD capsicum framework](https://github.com/dlrobertson/capsicum-rs)
@@ -24,7 +25,6 @@
 * [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-* [2022-11-09, 16:40:06](https://lobste.rs/s/ifcqts/redditor_discovers_legendary_1956) - [Redditor discovers legendary 1956 computer in grandparents’ basement](https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 
 ## [Archives](archives/index.md)
 
