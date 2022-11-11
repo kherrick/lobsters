@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 19:05:06](https://lobste.rs/s/nvprwc/matrix_cookbook) - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
 * [2022-11-11, 17:28:01](https://lobste.rs/s/2fpif9/structured_logging_for_go) - [Structured Logging for Go](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
@@ -16,7 +17,6 @@
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 * [2022-11-11, 00:33:52](https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20) - [macOS DNS resolving change in Go 1.20](https://danp.net/posts/macos-dns-change-in-go-1-20/)
-* [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
