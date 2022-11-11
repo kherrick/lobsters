@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 23:35:38](https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers) - [An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:23](https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox) - [Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts](https://github.com/jetpack-io/devbox/releases/tag/0.1.1)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)

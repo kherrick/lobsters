@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 23:35:38](https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers) - [An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:23](https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox) - [Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts](https://github.com/jetpack-io/devbox/releases/tag/0.1.1)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
@@ -22,7 +23,6 @@
 * [2022-11-11, 00:33:52](https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20) - [macOS DNS resolving change in Go 1.20](https://danp.net/posts/macos-dns-change-in-go-1-20/)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
-* [2022-11-10, 15:37:51](https://lobste.rs/s/fniffh/entries_lisp_game_jam_2022) - [Entries in the Lisp Game Jam 2022](https://itch.io/jam/lisp-game-jam-2022/results)
 * [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 
