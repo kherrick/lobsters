@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2022-11-11, 05:01:51",
-      "https://lobste.rs/s/cfmgxg/home_invasion_mastodon_s_eternal"
-    ],
-    [
-      "Home invasion - Mastodon's Eternal September begins",
-      "https://www.hughrundle.net/home-invasion/"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 01:42:45",
       "https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust"
     ],
@@ -107,6 +97,16 @@
     [
       "The good, the bad, and the ugly. The Unix legacy (2001)",
       "http://herpolhode.com/rob/ugly.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-10, 20:47:14",
+      "https://lobste.rs/s/iaejks/understanding_qasconst_std_as_const"
+    ],
+    [
+      "Understanding qAsConst and std::as_const",
+      "https://www.kdab.com/blog-qasconst-and-stdas_const/"
     ]
   ],
   [
