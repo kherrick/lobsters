@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 * [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)

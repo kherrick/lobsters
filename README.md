@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 * [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
@@ -24,7 +25,6 @@
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
 * [2022-11-10, 02:26:20](https://lobste.rs/s/ggbslf/github_code_search_beta) - [GitHub code search [Beta]](https://github.com/features/code-search)
-* [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 
 ## [Archives](archives/index.md)
 
