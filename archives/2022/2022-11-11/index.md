@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 * [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 * [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)

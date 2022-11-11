@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 * [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 * [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
@@ -22,7 +23,6 @@
 * [2022-11-10, 11:50:37](https://lobste.rs/s/c6mbot/ddworken_hishtory_your_shell_history) - [ddworken/hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [2022-11-10, 10:47:05](https://lobste.rs/s/ppja9c/what_s_proper_way_wrap_errors_go) - [What's the proper way to wrap errors in Go?](https://youtu.be/MRbhtMptago)
 * [2022-11-10, 02:26:20](https://lobste.rs/s/ggbslf/github_code_search_beta) - [GitHub code search [Beta]](https://github.com/features/code-search)
-* [2022-11-09, 20:26:25](https://lobste.rs/s/fauofc/announcing_rescript_tea_elm) - [Announcing: Rescript-tea - the Elm Architecture for Rescript](https://blog.darklang.com/rescript-tea/)
 * [2022-11-09, 17:30:59](https://lobste.rs/s/wfvpup/forms_should_be_postable_without) - [Forms should be postable without JavaScript](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
 * [2022-11-09, 16:48:06](https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast) - [Why is Rosetta 2 fast?](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
 
