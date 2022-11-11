@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
-* [2022-11-11, 05:01:51](https://lobste.rs/s/cfmgxg/home_invasion_mastodon_s_eternal) - [Home invasion - Mastodon's Eternal September begins](https://www.hughrundle.net/home-invasion/)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 * [2022-11-11, 00:33:52](https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20) - [macOS DNS resolving change in Go 1.20](https://danp.net/posts/macos-dns-change-in-go-1-20/)
 * [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
@@ -11,6 +10,7 @@
 * [2022-11-10, 21:48:32](https://lobste.rs/s/yub9ir/wordcraft_writers_workshop) - [Wordcraft Writers Workshop](https://wordcraft-writers-workshop.appspot.com/learn)
 * [2022-11-10, 21:13:55](https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program) - [Measuring the memory usage of your C++ program](https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/)
 * [2022-11-10, 20:57:14](https://lobste.rs/s/9xs5ww/good_bad_ugly_unix_legacy_2001) - [The good, the bad, and the ugly. The Unix legacy (2001)](http://herpolhode.com/rob/ugly.pdf)
+* [2022-11-10, 20:47:14](https://lobste.rs/s/iaejks/understanding_qasconst_std_as_const) - [Understanding qAsConst and std::as_const](https://www.kdab.com/blog-qasconst-and-stdas_const/)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)
