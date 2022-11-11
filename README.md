@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
 * [2022-11-11, 15:15:03](https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability) - [Can Rust-wrapped C++ offer stability and performance benefits?](https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9)
 * [2022-11-11, 15:12:34](https://lobste.rs/s/agukep/cap_n_proto_v0_15_gats) - [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
 * [2022-11-11, 14:47:30](https://lobste.rs/s/lfqfyq/fusionauth_java_http_full_featured_stand) - [FusionAuth/java-http: A full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java](https://github.com/FusionAuth/java-http)
@@ -14,7 +15,6 @@
 * [2022-11-10, 23:11:45](https://lobste.rs/s/93pfub/cooking_with_typescript_collection) - [Cooking with TypeScript: a collection of patterns for TypeScript 4.8](https://github.com/adamshaylor/cooking-with-typescript)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 * [2022-11-10, 21:49:40](https://lobste.rs/s/kph1uq/thirteen_years_go) - [Thirteen Years of Go](https://go.dev/blog/13years)
-* [2022-11-10, 21:13:55](https://lobste.rs/s/w4orub/measuring_memory_usage_your_c_program) - [Measuring the memory usage of your C++ program](https://lemire.me/blog/2022/11/10/measuring-the-memory-usage-of-your-c-program/)
 * [2022-11-10, 19:51:33](https://lobste.rs/s/qz26yq/fizzbuzz_enterprise_edition) - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 * [2022-11-10, 17:12:01](https://lobste.rs/s/qinbrd/why_qt_containers_do_we_3_them) - [Why Qt containers? And do we <3 them?](http://ib-krajewski.blogspot.com/2022/11/why-qt-containers-and-do-we-them.html?m=1)
 * [2022-11-10, 16:26:51](https://lobste.rs/s/1xcwfw/javascript_destructing_untrusted_data) - [Javascript Destructing and Untrusted Data](http://www.petecorey.com/blog/2022/11/09/javascript-destructing-and-untrusted-data/)

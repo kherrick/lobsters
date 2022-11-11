@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-11](index.md)
 
+* [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
 * [2022-11-11, 15:15:03](https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability) - [Can Rust-wrapped C++ offer stability and performance benefits?](https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9)
 * [2022-11-11, 15:12:34](https://lobste.rs/s/agukep/cap_n_proto_v0_15_gats) - [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
 * [2022-11-11, 14:47:30](https://lobste.rs/s/lfqfyq/fusionauth_java_http_full_featured_stand) - [FusionAuth/java-http: A full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java](https://github.com/FusionAuth/java-http)
