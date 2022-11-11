@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-11, 20:18:23",
+      "https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox"
+    ],
+    [
+      "Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts",
+      "https://github.com/jetpack-io/devbox/releases/tag/0.1.1"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 20:18:03",
+      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
+    ],
+    [
+      "Distributed bittorrent-like social network?",
+      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 19:05:06",
       "https://lobste.rs/s/nvprwc/matrix_cookbook"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-11-10, 23:11:45",
-      "https://lobste.rs/s/93pfub/cooking_with_typescript_collection"
-    ],
-    [
-      "Cooking with TypeScript: a collection of patterns for TypeScript 4.8",
-      "https://github.com/adamshaylor/cooking-with-typescript"
-    ]
-  ],
-  [
-    [
       "2022-11-10, 22:28:51",
       "https://lobste.rs/s/cb4oqs/trie_python"
     ],
@@ -217,16 +227,6 @@
     [
       "Entries in the Lisp Game Jam 2022",
       "https://itch.io/jam/lisp-game-jam-2022/results"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 14:35:04",
-      "https://lobste.rs/s/rslctm/seeing_through_hardware_counters"
-    ],
-    [
-      "Seeing through hardware counters: a journey to threefold performance increase",
-      "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822"
     ]
   ],
   [
