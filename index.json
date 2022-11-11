@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-11, 12:59:20",
+      "https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d"
+    ],
+    [
+      "LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets",
+      "https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 11:45:48",
       "https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05"
     ],
@@ -237,16 +247,6 @@
     [
       "Forms should be postable without JavaScript",
       "https://blog.jim-nielsen.com/2022/browsers-json-formdata/"
-    ]
-  ],
-  [
-    [
-      "2022-11-09, 16:48:06",
-      "https://lobste.rs/s/kugi2v/why_is_rosetta_2_fast"
-    ],
-    [
-      "Why is Rosetta 2 fast?",
-      "https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/"
     ]
   ]
 ]
