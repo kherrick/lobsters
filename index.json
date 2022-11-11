@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-11, 17:31:51",
+      "https://lobste.rs/s/sgix0f/does_technology_destroy_art"
+    ],
+    [
+      "Does Technology Destroy Art?",
+      "https://www.youtube.com/watch?v=MG8BEYhQ-KE"
+    ]
+  ],
+  [
+    [
       "2022-11-11, 17:28:01",
       "https://lobste.rs/s/2fpif9/structured_logging_for_go"
     ],
@@ -207,16 +217,6 @@
     [
       "Seeing through hardware counters: a journey to threefold performance increase",
       "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 12:45:29",
-      "https://lobste.rs/s/u10oek/look_out_divergent_representations_are"
-    ],
-    [
-      "Look out! Divergent representations are everywhere",
-      "https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/"
     ]
   ],
   [
