@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-12](index.md)
 
+* [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 * [2022-11-12, 16:28:47](https://lobste.rs/s/cn9jxi/analyzing_carbon_dioxide_levels_while) - [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)

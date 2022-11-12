@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 * [2022-11-12, 16:28:47](https://lobste.rs/s/cn9jxi/analyzing_carbon_dioxide_levels_while) - [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
@@ -24,7 +25,6 @@
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 * [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
-* [2022-11-10, 11:52:09](https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen) - [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)
 
 ## [Archives](archives/index.md)
 
