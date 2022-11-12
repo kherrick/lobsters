@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-12](index.md)
 
+* [2022-11-12, 20:53:46](https://lobste.rs/s/p6qxhm/array_short_circuiting_futhark) - [Array short-circuiting in Futhark](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 * [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
