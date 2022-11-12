@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 20:36:48",
+      "https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for"
+    ],
+    [
+      "Shufflecake: plausible deniability for multiple hidden filesystems on Linux",
+      "https://shufflecake.net/"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 20:18:53",
       "https://lobste.rs/s/xacnlt/lang_lua"
     ],
@@ -237,16 +247,6 @@
     [
       "Trie in Python",
       "https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/"
-    ]
-  ],
-  [
-    [
-      "2022-11-10, 11:52:09",
-      "https://lobste.rs/s/ny6jjf/accidental_70k_google_pixel_lock_screen"
-    ],
-    [
-      "Accidental $70k Google Pixel Lock Screen Bypass",
-      "https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/"
     ]
   ]
 ]
