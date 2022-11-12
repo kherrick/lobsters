@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 18:21:56",
+      "https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library"
+    ],
+    [
+      "zig-dns: Experimental DNS library implemented in zig",
+      "https://github.com/dantecatalfamo/zig-dns"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 16:28:47",
       "https://lobste.rs/s/cn9jxi/analyzing_carbon_dioxide_levels_while"
     ],
@@ -187,16 +197,6 @@
     [
       "Surviving and thriving through the 2022-11-05 meltdown",
       "https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 09:53:39",
-      "https://lobste.rs/s/nugwqu/immutable_collections_should_be_your"
-    ],
-    [
-      "Immutable Collections should be Your Default",
-      "https://alexn.org/blog/2022/10/27/immutable-collections-your-default/"
     ]
   ],
   [
