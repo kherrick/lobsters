@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/fogus_one_about_lisp_interactivity) - [fogus: The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 * [2022-11-11, 23:35:38](https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers) - [An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
@@ -8,7 +9,6 @@
 * [2022-11-11, 19:05:06](https://lobste.rs/s/nvprwc/matrix_cookbook) - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
-* [2022-11-11, 17:28:01](https://lobste.rs/s/2fpif9/structured_logging_for_go) - [Structured Logging for Go](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
 * [2022-11-11, 15:15:03](https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability) - [Can Rust-wrapped C++ offer stability and performance benefits?](https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9)
