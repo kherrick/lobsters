@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 12:39:08",
+      "https://lobste.rs/s/byvl7o/why_typescript_should_replace"
+    ],
+    [
+      "Why TypeScript Should Replace JavaScript in Your Tech Stack",
+      "https://www.typescriptcourse.com/why-typescript"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 11:45:36",
       "https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days"
     ],
@@ -207,16 +217,6 @@
     [
       "Blessed.rs — an unofficial guide to the Rust ecosystem",
       "https://blessed.rs/crates"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 00:33:52",
-      "https://lobste.rs/s/m2hqh9/macos_dns_resolving_change_go_1_20"
-    ],
-    [
-      "macOS DNS resolving change in Go 1.20",
-      "https://danp.net/posts/macos-dns-change-in-go-1-20/"
     ]
   ],
   [
