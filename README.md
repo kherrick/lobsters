@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 * [2022-11-12, 16:28:47](https://lobste.rs/s/cn9jxi/analyzing_carbon_dioxide_levels_while) - [Analyzing Carbon Dioxide levels while attending IETF-115 in London, UK](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
 * [2022-11-12, 12:39:08](https://lobste.rs/s/byvl7o/why_typescript_should_replace) - [Why TypeScript Should Replace JavaScript in Your Tech Stack](https://www.typescriptcourse.com/why-typescript)
 * [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
@@ -19,7 +20,6 @@
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
-* [2022-11-11, 09:53:39](https://lobste.rs/s/nugwqu/immutable_collections_should_be_your) - [Immutable Collections should be Your Default](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 * [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
 * [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
