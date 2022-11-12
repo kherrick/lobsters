@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 * [2022-11-12, 04:23:08](https://lobste.rs/s/c55by9/accessibility_overlays_underwhelm) - [Accessibility Overlays Underwhelm](https://adrianroselli.com/2022/11/overlays-underwhelm-at-wordpress-a11y-day.html)
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/fogus_one_about_lisp_interactivity) - [fogus: The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
@@ -11,7 +12,6 @@
 * [2022-11-11, 17:31:51](https://lobste.rs/s/sgix0f/does_technology_destroy_art) - [Does Technology Destroy Art?](https://www.youtube.com/watch?v=MG8BEYhQ-KE)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
-* [2022-11-11, 15:15:03](https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability) - [Can Rust-wrapped C++ offer stability and performance benefits?](https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9)
 * [2022-11-11, 15:12:34](https://lobste.rs/s/agukep/cap_n_proto_v0_15_gats) - [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
 * [2022-11-11, 14:47:30](https://lobste.rs/s/lfqfyq/fusionauth_java_http_full_featured_stand) - [FusionAuth/java-http: A full featured, stand-alone, high-performance HTTP server and client written entirely in plain Java](https://github.com/FusionAuth/java-http)
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
