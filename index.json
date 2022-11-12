@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-12, 05:44:59",
+      "https://lobste.rs/s/wf9bfx/refactoring_with_delete"
+    ],
+    [
+      "Refactoring with =delete",
+      "https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/"
+    ]
+  ],
+  [
+    [
       "2022-11-12, 04:23:08",
       "https://lobste.rs/s/c55by9/accessibility_overlays_underwhelm"
     ],
@@ -107,16 +117,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 15:15:03",
-      "https://lobste.rs/s/sqnih2/can_rust_wrapped_c_offer_stability"
-    ],
-    [
-      "Can Rust-wrapped C++ offer stability and performance benefits?",
-      "https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9"
     ]
   ],
   [
