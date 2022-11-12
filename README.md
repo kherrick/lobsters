@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 * [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 * [2022-11-12, 04:23:08](https://lobste.rs/s/c55by9/accessibility_overlays_underwhelm) - [Accessibility Overlays Underwhelm](https://adrianroselli.com/2022/11/overlays-underwhelm-at-wordpress-a11y-day.html)
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/fogus_one_about_lisp_interactivity) - [fogus: The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
-* [2022-11-11, 23:35:38](https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers) - [An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:23](https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox) - [Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts](https://github.com/jetpack-io/devbox/releases/tag/0.1.1)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
