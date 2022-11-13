@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-13, 20:50:24",
+      "https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard"
+    ],
+    [
+      "Advent of Code 2022 Racket Leaderboard",
+      "https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 20:49:55",
+      "https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not"
+    ],
+    [
+      "What software do you dream about, but do not have time to code yourself?",
+      "https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 19:12:30",
       "https://lobste.rs/s/bppol8/unattended_upgrades_debian"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-11-13, 04:39:40",
-      "https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon"
-    ],
-    [
-      "B2G OS fork: Capyloon",
-      "https://capyloon.org/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 03:06:01",
       "https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator"
     ],
@@ -237,16 +247,6 @@
     [
       "GZIP exceptions, but only on hot or rainy days",
       "https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 05:44:59",
-      "https://lobste.rs/s/wf9bfx/refactoring_with_delete"
-    ],
-    [
-      "Refactoring with =delete",
-      "https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/"
     ]
   ]
 ]
