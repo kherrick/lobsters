@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-13](index.md)
 
+* [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 * [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)

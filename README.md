@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 * [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
@@ -19,7 +20,6 @@
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
 * [2022-11-13, 01:15:58](https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes) - [Emacs: quickly killing processes](https://xenodium.com/emacs-quick-kill-process/)
-* [2022-11-13, 00:21:15](https://lobste.rs/s/9kgq5r/wind3x_ipod_classic_nano_3_4_5g_bootrom) - [wInd3x: iPod Classic and Nano 3/4/5G bootrom exploit](https://github.com/freemyipod/wInd3x)
 * [2022-11-12, 20:53:46](https://lobste.rs/s/p6qxhm/array_short_circuiting_futhark) - [Array short-circuiting in Futhark](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 * [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
