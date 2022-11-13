@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
@@ -24,7 +25,6 @@
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
-* [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 
 ## [Archives](archives/index.md)
 
