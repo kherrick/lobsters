@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
 * [2022-11-13, 10:54:35](https://lobste.rs/s/1fmqy3/pqchacks_gentle_introduction_post) - [PQCHacks: a gentle introduction to post-quantum cryptography (2015)](https://youtu.be/-LlkJZJ5DMQ)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
@@ -23,7 +24,6 @@
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
-* [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-13](index.md)
 
+* [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
 * [2022-11-13, 10:54:35](https://lobste.rs/s/1fmqy3/pqchacks_gentle_introduction_post) - [PQCHacks: a gentle introduction to post-quantum cryptography (2015)](https://youtu.be/-LlkJZJ5DMQ)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
