@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-13, 03:06:01",
+      "https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator"
+    ],
+    [
+      "Meet your new two-factor authenticator: your Commodore 64",
+      "https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 02:42:32",
+      "https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for"
+    ],
+    [
+      "Out of the Software Crisis: Systems-Thinking for Software Projects",
+      "https://softwarecrisis.baldurbjarnason.com/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 01:15:58",
+      "https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes"
+    ],
+    [
+      "Emacs: quickly killing processes",
+      "https://xenodium.com/emacs-quick-kill-process/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 00:21:15",
       "https://lobste.rs/s/9kgq5r/wind3x_ipod_classic_nano_3_4_5g_bootrom"
     ],
@@ -91,21 +121,11 @@
   ],
   [
     [
-      "2022-11-12, 04:23:08",
-      "https://lobste.rs/s/c55by9/accessibility_overlays_underwhelm"
-    ],
-    [
-      "Accessibility Overlays Underwhelm",
-      "https://adrianroselli.com/2022/11/overlays-underwhelm-at-wordpress-a11y-day.html"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 02:32:12",
-      "https://lobste.rs/s/mqnalo/fogus_one_about_lisp_interactivity"
+      "https://lobste.rs/s/mqnalo/one_about_lisp_interactivity"
     ],
     [
-      "fogus: The one about Lisp interactivity",
+      "The one about Lisp interactivity",
       "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "Another Markdown implementation in Go (src.elv.sh/pkg/md)",
       "https://pkg.go.dev/src.elv.sh/pkg/md@master"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 23:35:38",
-      "https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers"
-    ],
-    [
-      "An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]",
-      "http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Surviving and thriving through the 2022-11-05 meltdown",
       "https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 08:11:50",
-      "https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign"
-    ],
-    [
-      "Pharmageddon, a demo for a pharmacy LED sign",
-      "https://gasman.zxdemo.org/pharmageddon/"
     ]
   ],
   [
