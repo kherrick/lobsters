@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 00:21:15](https://lobste.rs/s/9kgq5r/wind3x_ipod_classic_nano_3_4_5g_bootrom) - [wInd3x: iPod Classic and Nano 3/4/5G bootrom exploit](https://github.com/freemyipod/wInd3x)
 * [2022-11-12, 20:53:46](https://lobste.rs/s/p6qxhm/array_short_circuiting_futhark) - [Array short-circuiting in Futhark](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 * [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
@@ -11,6 +12,7 @@
 * [2022-11-12, 04:23:08](https://lobste.rs/s/c55by9/accessibility_overlays_underwhelm) - [Accessibility Overlays Underwhelm](https://adrianroselli.com/2022/11/overlays-underwhelm-at-wordpress-a11y-day.html)
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/fogus_one_about_lisp_interactivity) - [fogus: The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
+* [2022-11-11, 23:35:38](https://lobste.rs/s/q8xjnp/interesting_pattern_prime_numbers) - [An Interesting Pattern in the Prime Numbers: Parallax Compression [2018]](http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:23](https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox) - [Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts](https://github.com/jetpack-io/devbox/releases/tag/0.1.1)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
@@ -22,9 +24,7 @@
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 * [2022-11-11, 08:11:50](https://lobste.rs/s/hknfo0/pharmageddon_demo_for_pharmacy_led_sign) - [Pharmageddon, a demo for a pharmacy LED sign](https://gasman.zxdemo.org/pharmageddon/)
-* [2022-11-11, 05:07:09](https://lobste.rs/s/6uc9rg/too_much_efficiency_makes_everything) - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart’s law](http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 * [2022-11-11, 01:42:45](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust) - [Blessed.rs — an unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
-* [2022-11-10, 22:28:51](https://lobste.rs/s/cb4oqs/trie_python) - [Trie in Python](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/)
 
 ## [Archives](archives/index.md)
 
