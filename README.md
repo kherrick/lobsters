@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 23:42:38](https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings) - [OpenBSD immutable userland mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
 * [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
@@ -13,7 +14,6 @@
 * [2022-11-13, 13:12:42](https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow) - [Tracing HTTP Requests with tcpflow · Anantha Kumaran](https://ananthakumaran.in/2022/11/12/trace-http-requests.html)
 * [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
-* [2022-11-13, 10:54:35](https://lobste.rs/s/1fmqy3/pqchacks_gentle_introduction_post) - [PQCHacks: a gentle introduction to post-quantum cryptography (2015)](https://youtu.be/-LlkJZJ5DMQ)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
