@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 04:39:40",
+      "https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon"
+    ],
+    [
+      "B2G OS fork: Capyloon",
+      "https://capyloon.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 03:06:01",
       "https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator"
     ],
@@ -147,16 +157,6 @@
     [
       "Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript",
       "https://rome.tools/blog/2022/11/08/rome-10/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:18:23",
-      "https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox"
-    ],
-    [
-      "Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts",
-      "https://github.com/jetpack-io/devbox/releases/tag/0.1.1"
     ]
   ],
   [
