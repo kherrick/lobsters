@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
 * [2022-11-13, 16:46:07](https://lobste.rs/s/brekwz/curating_dependency_vulnerabilities) - [Curating Dependency Vulnerabilities](https://beny23.github.io/posts/curating_vulnerabilities/)
@@ -24,7 +25,6 @@
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 * [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 * [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
-* [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/one_about_lisp_interactivity) - [The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 
 ## [Archives](archives/index.md)
 
