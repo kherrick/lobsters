@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-13, 14:38:35",
+      "https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language"
+    ],
+    [
+      "MikeOS - simple x86 assembly language operating system",
+      "https://mikeos.sourceforge.net/"
+    ]
+  ],
+  [
+    [
+      "2022-11-13, 14:32:20",
+      "https://lobste.rs/s/w61gci/replacement_for_strong_parameters"
+    ],
+    [
+      "A replacement for strong parameters",
+      "https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 13:12:42",
       "https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-11-12, 01:02:11",
-      "https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src"
-    ],
-    [
-      "Another Markdown implementation in Go (src.elv.sh/pkg/md)",
-      "https://pkg.go.dev/src.elv.sh/pkg/md@master"
-    ]
-  ],
-  [
-    [
       "2022-11-11, 20:18:03",
       "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
     ],
     [
       "Distributed bittorrent-like social network?",
       "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 14:36:19",
-      "https://lobste.rs/s/urnptx/how_stdbuf_works"
-    ],
-    [
-      "How stdbuf works",
-      "https://hmarr.com/blog/how-stdbuf-works/"
     ]
   ],
   [
