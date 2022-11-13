@@ -11,7 +11,6 @@
 * [2022-11-13, 10:54:35](https://lobste.rs/s/1fmqy3/pqchacks_gentle_introduction_post) - [PQCHacks: a gentle introduction to post-quantum cryptography (2015)](https://youtu.be/-LlkJZJ5DMQ)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
-* [2022-11-13, 05:36:38](https://lobste.rs/s/umqxns/what_it_s_like_dissect_cadaver) - [What it's like to dissect a cadaver](https://alok.github.io/2022/11/09/dissection/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
@@ -25,6 +24,7 @@
 * [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 * [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/one_about_lisp_interactivity) - [The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
+* [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
 
 ## [Archives](archives/index.md)
 
