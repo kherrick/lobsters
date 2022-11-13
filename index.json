@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 17:45:23",
+      "https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts"
+    ],
+    [
+      "A Mastodon instance for Emacs enthusiasts",
+      "https://emacs.ch"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 17:06:05",
       "https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering"
     ],
@@ -237,16 +247,6 @@
     [
       "The one about Lisp interactivity",
       "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:18:03",
-      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
-    ],
-    [
-      "Distributed bittorrent-like social network?",
-      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
     ]
   ]
 ]
