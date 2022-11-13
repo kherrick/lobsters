@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 22:03:54",
+      "https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021"
+    ],
+    [
+      "On Running a Mastodon Instance (2021)",
+      "https://rixx.de/blog/on-running-a-mastodon-instance/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 20:50:24",
       "https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard"
     ],
@@ -187,16 +197,6 @@
     [
       "Emacs: quickly killing processes",
       "https://xenodium.com/emacs-quick-kill-process/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 00:21:15",
-      "https://lobste.rs/s/9kgq5r/wind3x_ipod_classic_nano_3_4_5g_bootrom"
-    ],
-    [
-      "wInd3x: iPod Classic and Nano 3/4/5G bootrom exploit",
-      "https://github.com/freemyipod/wInd3x"
     ]
   ],
   [
