@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 16:46:07",
+      "https://lobste.rs/s/brekwz/curating_dependency_vulnerabilities"
+    ],
+    [
+      "Curating Dependency Vulnerabilities",
+      "https://beny23.github.io/posts/curating_vulnerabilities/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 16:21:17",
       "https://lobste.rs/s/py7g4p/how_regexes_work_1998"
     ],
@@ -237,16 +247,6 @@
     [
       "The one about Lisp interactivity",
       "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-11, 20:18:03",
-      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
-    ],
-    [
-      "Distributed bittorrent-like social network?",
-      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
     ]
   ]
 ]
