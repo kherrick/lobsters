@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-13](index.md)
 
+* [2022-11-13, 16:21:17](https://lobste.rs/s/py7g4p/how_regexes_work_1998) - [How Regexes Work (1998)](https://perl.plover.com/Regex/article.html)
+* [2022-11-13, 16:13:42](https://lobste.rs/s/ybklws/round_up_aa_aaa_cells_2022_pt_2_results) - [Round-Up: AA & AAA Cells (2022) – Pt 2: Results & Analysis](https://goughlui.com/2022/11/13/round-up-aa-aaa-cells-2022-pt-2-results-analysis/)
 * [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
 * [2022-11-13, 14:32:20](https://lobste.rs/s/w61gci/replacement_for_strong_parameters) - [A replacement for strong parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
 * [2022-11-13, 13:12:42](https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow) - [Tracing HTTP Requests with tcpflow · Anantha Kumaran](https://ananthakumaran.in/2022/11/12/trace-http-requests.html)
