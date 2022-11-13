@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 10:54:35](https://lobste.rs/s/1fmqy3/pqchacks_gentle_introduction_post) - [PQCHacks: a gentle introduction to post-quantum cryptography (2015)](https://youtu.be/-LlkJZJ5DMQ)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
 * [2022-11-13, 05:36:38](https://lobste.rs/s/umqxns/what_it_s_like_dissect_cadaver) - [What it's like to dissect a cadaver](https://alok.github.io/2022/11/09/dissection/)
@@ -20,7 +21,6 @@
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
-* [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
 * [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 12:59:20](https://lobste.rs/s/u5ql1w/leanqt_now_with_cross_platform_windows_2d) - [LeanQt - now with cross-platform windows and 2d graphics - on the way to the widgets](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
