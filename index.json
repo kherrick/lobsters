@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2022-11-12, 12:39:08",
-      "https://lobste.rs/s/byvl7o/why_typescript_should_replace"
-    ],
-    [
-      "Why TypeScript Should Replace JavaScript in Your Tech Stack",
-      "https://www.typescriptcourse.com/why-typescript"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 11:45:36",
       "https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days"
     ],
@@ -207,6 +197,16 @@
     [
       "Thoughts on my first machine learning project",
       "https://www.holovaty.com/writing/machine-learning-thoughts/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 17:15:27",
+      "https://lobste.rs/s/aucfzc/cost_model_for_nim"
+    ],
+    [
+      "A cost model for Nim",
+      "https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html"
     ]
   ],
   [
