@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 05:36:38](https://lobste.rs/s/umqxns/what_it_s_like_dissect_cadaver) - [What it's like to dissect a cadaver](https://alok.github.io/2022/11/09/dissection/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
@@ -18,7 +19,6 @@
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
-* [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
 * [2022-11-11, 15:46:17](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/il2bcx/what_are_you_doing_this_weekend)
 * [2022-11-11, 15:12:34](https://lobste.rs/s/agukep/cap_n_proto_v0_15_gats) - [Cap'n Proto v0.15: GATs, CapabilityServerSet, and async packing](https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html)
