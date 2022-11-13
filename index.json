@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-13, 19:12:30",
+      "https://lobste.rs/s/bppol8/unattended_upgrades_debian"
+    ],
+    [
+      "Unattended Upgrades Debian",
+      "https://prezu.ca/post/unattended-upgrades-debian/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 17:45:23",
       "https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts"
     ],
@@ -237,16 +247,6 @@
     [
       "Refactoring with =delete",
       "https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 02:32:12",
-      "https://lobste.rs/s/mqnalo/one_about_lisp_interactivity"
-    ],
-    [
-      "The one about Lisp interactivity",
-      "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
     ]
   ]
 ]
