@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-13](index.md)
 
+* [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
 * [2022-11-13, 16:46:07](https://lobste.rs/s/brekwz/curating_dependency_vulnerabilities) - [Curating Dependency Vulnerabilities](https://beny23.github.io/posts/curating_vulnerabilities/)
 * [2022-11-13, 16:21:17](https://lobste.rs/s/py7g4p/how_regexes_work_1998) - [How Regexes Work (1998)](https://perl.plover.com/Regex/article.html)
 * [2022-11-13, 16:13:42](https://lobste.rs/s/ybklws/round_up_aa_aaa_cells_2022_pt_2_results) - [Round-Up: AA & AAA Cells (2022) – Pt 2: Results & Analysis](https://goughlui.com/2022/11/13/round-up-aa-aaa-cells-2022-pt-2-results-analysis/)
