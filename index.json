@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-11-13, 05:36:38",
-      "https://lobste.rs/s/umqxns/what_it_s_like_dissect_cadaver"
-    ],
-    [
-      "What it's like to dissect a cadaver",
-      "https://alok.github.io/2022/11/09/dissection/"
-    ]
-  ],
-  [
-    [
       "2022-11-13, 05:24:03",
       "https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly"
     ],
@@ -247,6 +237,16 @@
     [
       "The one about Lisp interactivity",
       "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/"
+    ]
+  ],
+  [
+    [
+      "2022-11-11, 20:18:03",
+      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
+    ],
+    [
+      "Distributed bittorrent-like social network?",
+      "https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social"
     ]
   ]
 ]
