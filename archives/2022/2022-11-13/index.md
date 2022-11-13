@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-13](index.md)
 
+* [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
 * [2022-11-13, 05:36:38](https://lobste.rs/s/umqxns/what_it_s_like_dissect_cadaver) - [What it's like to dissect a cadaver](https://alok.github.io/2022/11/09/dissection/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
