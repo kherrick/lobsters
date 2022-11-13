@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
+* [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 * [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
@@ -14,7 +16,6 @@
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
-* [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
 * [2022-11-13, 01:15:58](https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes) - [Emacs: quickly killing processes](https://xenodium.com/emacs-quick-kill-process/)
@@ -24,7 +25,6 @@
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 * [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
-* [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 
 ## [Archives](archives/index.md)
 
