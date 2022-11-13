@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
+* [2022-11-13, 14:32:20](https://lobste.rs/s/w61gci/replacement_for_strong_parameters) - [A replacement for strong parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
 * [2022-11-13, 13:12:42](https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow) - [Tracing HTTP Requests with tcpflow · Anantha Kumaran](https://ananthakumaran.in/2022/11/12/trace-http-requests.html)
 * [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
@@ -21,9 +23,7 @@
 * [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 * [2022-11-12, 05:44:59](https://lobste.rs/s/wf9bfx/refactoring_with_delete) - [Refactoring with =delete](https://quuxplusone.github.io/blog/2022/11/11/refactoring-with-delete/)
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/one_about_lisp_interactivity) - [The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
-* [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
-* [2022-11-11, 14:36:19](https://lobste.rs/s/urnptx/how_stdbuf_works) - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 * [2022-11-11, 11:45:48](https://lobste.rs/s/czknru/surviving_thriving_through_2022_11_05) - [Surviving and thriving through the 2022-11-05 meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
 
 ## [Archives](archives/index.md)
