@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-13, 04:39:40](https://lobste.rs/s/nu2ipp/b2g_os_fork_capyloon) - [B2G OS fork: Capyloon](https://capyloon.org/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
 * [2022-11-13, 01:15:58](https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes) - [Emacs: quickly killing processes](https://xenodium.com/emacs-quick-kill-process/)
@@ -15,7 +16,6 @@
 * [2022-11-12, 02:32:12](https://lobste.rs/s/mqnalo/one_about_lisp_interactivity) - [The one about Lisp interactivity](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/)
 * [2022-11-12, 01:02:11](https://lobste.rs/s/sagoyl/another_markdown_implementation_go_src) - [Another Markdown implementation in Go (src.elv.sh/pkg/md)](https://pkg.go.dev/src.elv.sh/pkg/md@master)
 * [2022-11-11, 20:46:02](https://lobste.rs/s/djbbex/announcing_rome_v10_fast_linter) - [Announcing Rome v10 - A fast linter and formatter for JavaScript and TypeScript](https://rome.tools/blog/2022/11/08/rome-10/)
-* [2022-11-11, 20:18:23](https://lobste.rs/s/2kuvql/devbox_0_1_1_now_with_nixpkg_pinning_devbox) - [Devbox 0.1.1: Now with Nixpkg pinning and Devbox Scripts](https://github.com/jetpack-io/devbox/releases/tag/0.1.1)
 * [2022-11-11, 20:18:03](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social) - [Distributed bittorrent-like social network?](https://lobste.rs/s/wzkqos/distributed_bittorrent_like_social)
 * [2022-11-11, 17:45:02](https://lobste.rs/s/6xktuc/thoughts_on_my_first_machine_learning) - [Thoughts on my first machine learning project](https://www.holovaty.com/writing/machine-learning-thoughts/)
 * [2022-11-11, 17:15:27](https://lobste.rs/s/aucfzc/cost_model_for_nim) - [A cost model for Nim](https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html)
