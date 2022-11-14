@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 13:59:18",
+      "https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules"
+    ],
+    [
+      "Deno 1.28: Featuring 1.3 Million New Modules",
+      "https://deno.com/blog/v1.28"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 12:49:05",
       "https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "MikeOS - simple x86 assembly language operating system",
       "https://mikeos.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 13:12:42",
-      "https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow"
-    ],
-    [
-      "Tracing HTTP Requests with tcpflow · Anantha Kumaran",
-      "https://ananthakumaran.in/2022/11/12/trace-http-requests.html"
     ]
   ],
   [
