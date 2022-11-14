@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-14, 02:05:04",
+      "https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb"
+    ],
+    [
+      "Writing a SQL database, take two: Zig and RocksDB",
+      "https://notes.eatonphil.com/zigrocks-sql.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 01:38:31",
+      "https://lobste.rs/s/up8yik/your_next_smart_home_device_is_30_used"
+    ],
+    [
+      "Your next smart home device is a $30 used Kindle",
+      "https://matthealy.com/kindle"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 01:09:36",
+      "https://lobste.rs/s/2sw9no/taking_off_with_nix_at_flightaware"
+    ],
+    [
+      "Taking off with Nix at FlightAware",
+      "https://flightaware.engineering/taking-off-with-nix-at-flightaware/"
+    ]
+  ],
+  [
+    [
       "2022-11-13, 23:42:38",
       "https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings"
     ],
@@ -67,16 +97,6 @@
     [
       "mold 1.7.0 - author seriously considering license change away from open source",
       "https://github.com/rui314/mold/releases/tag/v1.7.0"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 16:46:07",
-      "https://lobste.rs/s/brekwz/curating_dependency_vulnerabilities"
-    ],
-    [
-      "Curating Dependency Vulnerabilities",
-      "https://beny23.github.io/posts/curating_vulnerabilities/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-13, 01:15:58",
-      "https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes"
-    ],
-    [
-      "Emacs: quickly killing processes",
-      "https://xenodium.com/emacs-quick-kill-process/"
-    ]
-  ],
-  [
-    [
       "2022-11-12, 20:53:46",
       "https://lobste.rs/s/p6qxhm/array_short_circuiting_futhark"
     ],
@@ -237,16 +247,6 @@
     [
       "zig-dns: Experimental DNS library implemented in zig",
       "https://github.com/dantecatalfamo/zig-dns"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 11:45:36",
-      "https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days"
-    ],
-    [
-      "GZIP exceptions, but only on hot or rainy days",
-      "https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/"
     ]
   ]
 ]
