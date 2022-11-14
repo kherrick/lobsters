@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 08:42:53",
+      "https://lobste.rs/s/4tdg4k/odr_violation_detection"
+    ],
+    [
+      "ODR violation detection",
+      "https://maskray.me/blog/2022-11-13-odr-violation-detection"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 07:45:40",
       "https://lobste.rs/s/dtomgj/rust_c_interoperability"
     ],
@@ -187,16 +197,6 @@
     [
       "Stop writing Rust linked list libraries",
       "https://diziet.dreamwidth.org/13476.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 08:19:40",
-      "https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum"
-    ],
-    [
-      "Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work",
-      "https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/"
     ]
   ],
   [
