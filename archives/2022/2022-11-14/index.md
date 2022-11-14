@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 15:31:00](https://lobste.rs/s/yko3et/c_20_coroutines_io_uring_part_1_3) - [C++20 Coroutines and io_uring - Part 1/3](https://pabloariasal.github.io/2022/11/12/couring-1/)
+* [2022-11-14, 15:29:51](https://lobste.rs/s/ixos6y/comparing_opensuse_microos_fedora) - [Comparing openSUSE MicroOS and Fedora Silverblue 37](https://www.ypsidanger.com/comparing-opensuse-microos-to-fedora-silverblue-37/)
+* [2022-11-14, 15:22:45](https://lobste.rs/s/aev5bq/multi_ciphertext_security_degradation) - [Multi-ciphertext security degradation for lattices](https://cr.yp.to/papers/lprrr-20221114.pdf)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_70_faster_with_one) - [Making a Go program 70% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
