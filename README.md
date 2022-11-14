@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-14, 20:54:51](https://lobste.rs/s/ntktai/mold_linker_may_not_switch_source) - [Mold linker may not switch to a source-available license](https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 19:04:32](https://lobste.rs/s/pnsvks/tips_for_large_scale_codemods) - [Tips for large-scale codemods](https://blog.jez.io/codemods-tips/)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
@@ -18,6 +17,7 @@
 * [2022-11-14, 12:49:05](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week)
 * [2022-11-14, 12:33:20](https://lobste.rs/s/sf3vns/performance_optimizations_can_have) - [Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
+* [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
 * [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
