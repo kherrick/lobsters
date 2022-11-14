@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
+* [2022-11-14, 01:38:31](https://lobste.rs/s/up8yik/your_next_smart_home_device_is_30_used) - [Your next smart home device is a $30 used Kindle](https://matthealy.com/kindle)
+* [2022-11-14, 01:09:36](https://lobste.rs/s/2sw9no/taking_off_with_nix_at_flightaware) - [Taking off with Nix at FlightAware](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
 * [2022-11-13, 23:42:38](https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings) - [OpenBSD immutable userland mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
 * [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
@@ -7,7 +10,6 @@
 * [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
-* [2022-11-13, 16:46:07](https://lobste.rs/s/brekwz/curating_dependency_vulnerabilities) - [Curating Dependency Vulnerabilities](https://beny23.github.io/posts/curating_vulnerabilities/)
 * [2022-11-13, 16:21:17](https://lobste.rs/s/py7g4p/how_regexes_work_1998) - [How Regexes Work (1998)](https://perl.plover.com/Regex/article.html)
 * [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
 * [2022-11-13, 14:32:20](https://lobste.rs/s/w61gci/replacement_for_strong_parameters) - [A replacement for strong parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
@@ -19,12 +21,10 @@
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
-* [2022-11-13, 01:15:58](https://lobste.rs/s/yllvqe/emacs_quickly_killing_processes) - [Emacs: quickly killing processes](https://xenodium.com/emacs-quick-kill-process/)
 * [2022-11-12, 20:53:46](https://lobste.rs/s/p6qxhm/array_short_circuiting_futhark) - [Array short-circuiting in Futhark](https://futhark-lang.org/blog/2022-11-03-short-circuiting.html)
 * [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
-* [2022-11-12, 11:45:36](https://lobste.rs/s/cdxbsf/gzip_exceptions_only_on_hot_rainy_days) - [GZIP exceptions, but only on hot or rainy days](https://alexyorke.github.io/2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
 
 ## [Archives](archives/index.md)
 
