@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
 * [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
@@ -24,7 +25,6 @@
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
-* [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 
 ## [Archives](archives/index.md)
 

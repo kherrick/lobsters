@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
 * [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
