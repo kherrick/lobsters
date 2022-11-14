@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 20:10:38",
+      "https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes"
+    ],
+    [
+      "Machine Learning with Unix Pipes",
+      "https://jott.live/markdown/ml_pipes"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 19:04:32",
       "https://lobste.rs/s/pnsvks/tips_for_large_scale_codemods"
     ],
@@ -27,16 +37,6 @@
     [
       "Bevy 0.9 released",
       "https://bevyengine.org/news/bevy-0-9/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 18:51:14",
-      "https://lobste.rs/s/ebjx8l/using_final_c_improve_performance"
-    ],
-    [
-      "Using final in C++ to improve performance",
-      "https://blog.feabhas.com/2022/11/using-final-in-c-to-improve-performance/"
     ]
   ],
   [
