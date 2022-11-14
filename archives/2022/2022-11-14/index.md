@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 17:42:38](https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded) - [picolibc: a C library designed for embedded 32-bit and 64-bit systems](https://github.com/picolibc/picolibc)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 16:44:42](https://lobste.rs/s/uolhei/you_can_finally_disable_snap_updates) - [You can finally disable Snap updates](https://merlijn.sebrechts.be/blog/2022-11-10-turn-off-snap-updates/)
