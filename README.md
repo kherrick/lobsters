@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
 * [2022-11-14, 14:21:59](https://lobste.rs/s/zy2d4v/cve_2022_32929_bypass_ios_backup_s_tcc) - [CVE-2022-32929 - Bypass iOS backup's TCC protection](https://theevilbit.github.io/posts/cve-2022-32929/)
 * [2022-11-14, 13:59:18](https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules) - [Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28)
@@ -17,7 +18,6 @@
 * [2022-11-13, 23:42:38](https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings) - [OpenBSD immutable userland mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
 * [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
-* [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
 * [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
