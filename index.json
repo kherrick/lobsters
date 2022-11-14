@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-14, 16:53:50",
+      "https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain"
+    ],
+    [
+      "C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?",
+      "https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 16:50:56",
+      "https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off"
+    ],
+    [
+      "The Fediverse is Inefficient (but that's a good trade-off)",
+      "https://berk.es/2022/11/08/fediverse-inefficiencies/"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 16:44:42",
+      "https://lobste.rs/s/uolhei/you_can_finally_disable_snap_updates"
+    ],
+    [
+      "You can finally disable Snap updates",
+      "https://merlijn.sebrechts.be/blog/2022-11-10-turn-off-snap-updates/"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 15:31:00",
       "https://lobste.rs/s/yko3et/c_20_coroutines_io_uring_part_1_3"
     ],
@@ -32,10 +62,10 @@
   [
     [
       "2022-11-14, 14:48:23",
-      "https://lobste.rs/s/cpbsdp/making_go_program_70_faster_with_one"
+      "https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one"
     ],
     [
-      "Making a Go program 70% faster with a one character change",
+      "Making a Go program 42% faster with a one character change",
       "https://hmarr.com/blog/go-allocation-hunting/"
     ]
   ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2022-11-14, 04:00:55",
-      "https://lobste.rs/s/6s4tqm/unusual_bootstrap_drivers_inside_8086"
-    ],
-    [
-      "The unusual bootstrap drivers inside the 8086 microprocessor chip",
-      "http://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 02:05:04",
       "https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb"
     ],
@@ -227,26 +247,6 @@
     [
       "mold 1.7.0 - author seriously considering license change away from open source",
       "https://github.com/rui314/mold/releases/tag/v1.7.0"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 14:38:35",
-      "https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language"
-    ],
-    [
-      "MikeOS - simple x86 assembly language operating system",
-      "https://mikeos.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 05:24:03",
-      "https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly"
-    ],
-    [
-      "why does zsh start so slowly?",
-      "https://pickard.cc/posts/why-does-zsh-start-slowly/"
     ]
   ]
 ]
