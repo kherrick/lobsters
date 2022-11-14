@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 19:04:32](https://lobste.rs/s/pnsvks/tips_for_large_scale_codemods) - [Tips for large-scale codemods](https://blog.jez.io/codemods-tips/)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
-* [2022-11-14, 18:51:14](https://lobste.rs/s/ebjx8l/using_final_c_improve_performance) - [Using final in C++ to improve performance](https://blog.feabhas.com/2022/11/using-final-in-c-to-improve-performance/)
 * [2022-11-14, 18:39:59](https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered) - [\"How do I test X\" is almost always answered with \"by controlling X\"](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
