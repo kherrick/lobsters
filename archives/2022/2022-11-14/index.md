@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 13:59:18](https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules) - [Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28)
 * [2022-11-14, 12:49:05](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week)
 * [2022-11-14, 12:33:20](https://lobste.rs/s/sf3vns/performance_optimizations_can_have) - [Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
