@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 17:42:38",
+      "https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded"
+    ],
+    [
+      "picolibc: a C library designed for embedded 32-bit and 64-bit systems",
+      "https://github.com/picolibc/picolibc"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 16:53:50",
       "https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain"
     ],
@@ -227,16 +237,6 @@
     [
       "What software do you dream about, but do not have time to code yourself?",
       "https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 17:45:23",
-      "https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts"
-    ],
-    [
-      "A Mastodon instance for Emacs enthusiasts",
-      "https://emacs.ch"
     ]
   ],
   [
