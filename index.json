@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-11-14, 20:54:51",
-      "https://lobste.rs/s/ntktai/mold_linker_may_not_switch_source"
-    ],
-    [
-      "Mold linker may not switch to a source-available license",
-      "https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 20:10:38",
       "https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes"
     ],
@@ -177,6 +167,16 @@
     [
       "The Circle of Fifths",
       "https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 09:36:48",
+      "https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving"
+    ],
+    [
+      "buildomat: a software build labour-saving device",
+      "https://github.com/oxidecomputer/buildomat"
     ]
   ],
   [
