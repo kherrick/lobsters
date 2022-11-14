@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 18:39:59](https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered) - [\"How do I test X\" is almost always answered with \"by controlling X\"](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 * [2022-11-14, 17:42:38](https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded) - [picolibc: a C library designed for embedded 32-bit and 64-bit systems](https://github.com/picolibc/picolibc)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
