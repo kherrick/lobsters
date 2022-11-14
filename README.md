@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 19:04:32](https://lobste.rs/s/pnsvks/tips_for_large_scale_codemods) - [Tips for large-scale codemods](https://blog.jez.io/codemods-tips/)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
 * [2022-11-14, 18:51:14](https://lobste.rs/s/ebjx8l/using_final_c_improve_performance) - [Using final in C++ to improve performance](https://blog.feabhas.com/2022/11/using-final-in-c-to-improve-performance/)
@@ -19,7 +20,6 @@
 * [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
-* [2022-11-14, 07:45:40](https://lobste.rs/s/dtomgj/rust_c_interoperability) - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 * [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
 * [2022-11-14, 01:38:31](https://lobste.rs/s/up8yik/your_next_smart_home_device_is_30_used) - [Your next smart home device is a $30 used Kindle](https://matthealy.com/kindle)
 * [2022-11-14, 01:09:36](https://lobste.rs/s/2sw9no/taking_off_with_nix_at_flightaware) - [Taking off with Nix at FlightAware](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
