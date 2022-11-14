@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 07:45:40](https://lobste.rs/s/dtomgj/rust_c_interoperability) - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 * [2022-11-14, 04:00:55](https://lobste.rs/s/6s4tqm/unusual_bootstrap_drivers_inside_8086) - [The unusual bootstrap drivers inside the 8086 microprocessor chip](http://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html)
 * [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
 * [2022-11-14, 01:38:31](https://lobste.rs/s/up8yik/your_next_smart_home_device_is_30_used) - [Your next smart home device is a $30 used Kindle](https://matthealy.com/kindle)
@@ -22,7 +23,6 @@
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
-* [2022-11-12, 20:36:48](https://lobste.rs/s/zeib6c/shufflecake_plausible_deniability_for) - [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 
