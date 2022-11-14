@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 11:42:42",
+      "https://lobste.rs/s/hpojf8/circle_fifths"
+    ],
+    [
+      "The Circle of Fifths",
+      "https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 09:36:48",
       "https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving"
     ],
@@ -237,16 +247,6 @@
     [
       "#lang lua",
       "https://defn.io/2022/11/12/ann-racket-lua/"
-    ]
-  ],
-  [
-    [
-      "2022-11-12, 18:21:56",
-      "https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library"
-    ],
-    [
-      "zig-dns: Experimental DNS library implemented in zig",
-      "https://github.com/dantecatalfamo/zig-dns"
     ]
   ]
 ]
