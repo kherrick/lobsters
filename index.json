@@ -1,22 +1,42 @@
 [
   [
     [
+      "2022-11-14, 18:51:52",
+      "https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last"
+    ],
+    [
+      "Perl performance evolution over the last decade",
+      "http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 18:51:22",
+      "https://lobste.rs/s/ctspws/bevy_0_9_released"
+    ],
+    [
+      "Bevy 0.9 released",
+      "https://bevyengine.org/news/bevy-0-9/"
+    ]
+  ],
+  [
+    [
+      "2022-11-14, 18:51:14",
+      "https://lobste.rs/s/ebjx8l/using_final_c_improve_performance"
+    ],
+    [
+      "Using final in C++ to improve performance",
+      "https://blog.feabhas.com/2022/11/using-final-in-c-to-improve-performance/"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 18:39:59",
       "https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered"
     ],
     [
       "\"How do I test X\" is almost always answered with \"by controlling X\"",
       "https://berk.es/2022/09/19/test-x-by-controlling-x/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 17:42:38",
-      "https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded"
-    ],
-    [
-      "picolibc: a C library designed for embedded 32-bit and 64-bit systems",
-      "https://github.com/picolibc/picolibc"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Codeberg is moving ... and what this means to you",
       "https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 14:21:59",
-      "https://lobste.rs/s/zy2d4v/cve_2022_32929_bypass_ios_backup_s_tcc"
-    ],
-    [
-      "CVE-2022-32929 - Bypass iOS backup's TCC protection",
-      "https://theevilbit.github.io/posts/cve-2022-32929/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Taking off with Nix at FlightAware",
       "https://flightaware.engineering/taking-off-with-nix-at-flightaware/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 23:42:38",
-      "https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings"
-    ],
-    [
-      "OpenBSD immutable userland mappings",
-      "https://marc.info/?l=openbsd-tech&m=166203784715942"
     ]
   ],
   [
