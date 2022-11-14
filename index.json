@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-14, 20:54:51",
+      "https://lobste.rs/s/ntktai/mold_linker_may_not_switch_source"
+    ],
+    [
+      "Mold linker may not switch to a source-available license",
+      "https://bluewhalesystems.blogspot.com/2022/11/mold-linker-may-not-switch-to-source.html"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 20:10:38",
       "https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes"
     ],
@@ -57,16 +67,6 @@
     [
       "picolibc: a C library designed for embedded 32-bit and 64-bit systems",
       "https://github.com/picolibc/picolibc"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 16:53:50",
-      "https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain"
-    ],
-    [
-      "C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?",
-      "https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393"
     ]
   ],
   [
