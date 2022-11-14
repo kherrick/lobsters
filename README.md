@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
+* [2022-11-14, 14:21:59](https://lobste.rs/s/zy2d4v/cve_2022_32929_bypass_ios_backup_s_tcc) - [CVE-2022-32929 - Bypass iOS backup's TCC protection](https://theevilbit.github.io/posts/cve-2022-32929/)
 * [2022-11-14, 13:59:18](https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules) - [Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28)
 * [2022-11-14, 12:49:05](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week)
 * [2022-11-14, 12:33:20](https://lobste.rs/s/sf3vns/performance_optimizations_can_have) - [Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
@@ -14,7 +16,6 @@
 * [2022-11-14, 01:09:36](https://lobste.rs/s/2sw9no/taking_off_with_nix_at_flightaware) - [Taking off with Nix at FlightAware](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
 * [2022-11-13, 23:42:38](https://lobste.rs/s/wck0g4/openbsd_immutable_userland_mappings) - [OpenBSD immutable userland mappings](https://marc.info/?l=openbsd-tech&m=166203784715942)
 * [2022-11-13, 22:03:54](https://lobste.rs/s/9iuaek/on_running_mastodon_instance_2021) - [On Running a Mastodon Instance (2021)](https://rixx.de/blog/on-running-a-mastodon-instance/)
-* [2022-11-13, 20:50:24](https://lobste.rs/s/wiwepy/advent_code_2022_racket_leaderboard) - [Advent of Code 2022 Racket Leaderboard](https://racket.discourse.group/t/advent-of-code-2022-racket-leaderboard/1461)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 * [2022-11-13, 19:12:30](https://lobste.rs/s/bppol8/unattended_upgrades_debian) - [Unattended Upgrades Debian](https://prezu.ca/post/unattended-upgrades-debian/)
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
@@ -24,7 +25,6 @@
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-* [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 
 ## [Archives](archives/index.md)
 
