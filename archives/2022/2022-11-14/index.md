@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
+* [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
+* [2022-11-14, 18:51:14](https://lobste.rs/s/ebjx8l/using_final_c_improve_performance) - [Using final in C++ to improve performance](https://blog.feabhas.com/2022/11/using-final-in-c-to-improve-performance/)
 * [2022-11-14, 18:39:59](https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered) - [\"How do I test X\" is almost always answered with \"by controlling X\"](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 * [2022-11-14, 17:42:38](https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded) - [picolibc: a C library designed for embedded 32-bit and 64-bit systems](https://github.com/picolibc/picolibc)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
