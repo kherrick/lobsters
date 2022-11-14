@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
 * [2022-11-14, 07:45:40](https://lobste.rs/s/dtomgj/rust_c_interoperability) - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 * [2022-11-14, 04:00:55](https://lobste.rs/s/6s4tqm/unusual_bootstrap_drivers_inside_8086) - [The unusual bootstrap drivers inside the 8086 microprocessor chip](http://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html)
 * [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
@@ -19,7 +20,6 @@
 * [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
-* [2022-11-13, 08:19:40](https://lobste.rs/s/hor6dr/cryptography_s_future_will_be_quantum) - [Cryptography’s Future Will Be Quantum-Safe. Here’s How It Will Work](https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
 * [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
