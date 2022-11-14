@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_70_faster_with_one) - [Making a Go program 70% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
 * [2022-11-14, 14:21:59](https://lobste.rs/s/zy2d4v/cve_2022_32929_bypass_ios_backup_s_tcc) - [CVE-2022-32929 - Bypass iOS backup's TCC protection](https://theevilbit.github.io/posts/cve-2022-32929/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_70_faster_with_one) - [Making a Go program 70% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
 * [2022-11-14, 14:21:59](https://lobste.rs/s/zy2d4v/cve_2022_32929_bypass_ios_backup_s_tcc) - [CVE-2022-32929 - Bypass iOS backup's TCC protection](https://theevilbit.github.io/posts/cve-2022-32929/)
@@ -21,7 +22,6 @@
 * [2022-11-13, 17:45:23](https://lobste.rs/s/sgvsql/mastodon_instance_for_emacs_enthusiasts) - [A Mastodon instance for Emacs enthusiasts](https://emacs.ch)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
 * [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
-* [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
