@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
+* [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
 * [2022-11-14, 07:45:40](https://lobste.rs/s/dtomgj/rust_c_interoperability) - [Rust and C++ Interoperability](https://slint-ui.com/blog/rust-and-cpp.html)
 * [2022-11-14, 04:00:55](https://lobste.rs/s/6s4tqm/unusual_bootstrap_drivers_inside_8086) - [The unusual bootstrap drivers inside the 8086 microprocessor chip](http://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html)
@@ -16,13 +18,11 @@
 * [2022-11-13, 16:21:17](https://lobste.rs/s/py7g4p/how_regexes_work_1998) - [How Regexes Work (1998)](https://perl.plover.com/Regex/article.html)
 * [2022-11-13, 14:38:35](https://lobste.rs/s/qivf2w/mikeos_simple_x86_assembly_language) - [MikeOS - simple x86 assembly language operating system](https://mikeos.sourceforge.net/)
 * [2022-11-13, 14:32:20](https://lobste.rs/s/w61gci/replacement_for_strong_parameters) - [A replacement for strong parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
-* [2022-11-13, 13:12:42](https://lobste.rs/s/8s3etm/tracing_http_requests_with_tcpflow) - [Tracing HTTP Requests with tcpflow · Anantha Kumaran](https://ananthakumaran.in/2022/11/12/trace-http-requests.html)
 * [2022-11-13, 11:35:53](https://lobste.rs/s/4hkuvo/elixirconf_2022_playlist) - [ElixirConf 2022 playlist](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
 * [2022-11-13, 11:27:16](https://lobste.rs/s/2gfudm/twitter2nitter_redirect_twitter_url) - [twitter2nitter - redirect twitter url to nitter [android app]](https://github.com/AucT/twitter2nitter)
 * [2022-11-13, 10:26:32](https://lobste.rs/s/tcayeq/stop_writing_rust_linked_list_libraries) - [Stop writing Rust linked list libraries](https://diziet.dreamwidth.org/13476.html)
 * [2022-11-13, 05:24:03](https://lobste.rs/s/gvuxbd/why_does_zsh_start_so_slowly) - [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 * [2022-11-13, 03:06:01](https://lobste.rs/s/hfzpwa/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html)
-* [2022-11-13, 02:42:32](https://lobste.rs/s/wiooyx/out_software_crisis_systems_thinking_for) - [Out of the Software Crisis: Systems-Thinking for Software Projects](https://softwarecrisis.baldurbjarnason.com/)
 * [2022-11-12, 20:18:53](https://lobste.rs/s/xacnlt/lang_lua) - [#lang lua](https://defn.io/2022/11/12/ann-racket-lua/)
 * [2022-11-12, 18:21:56](https://lobste.rs/s/mdxlct/zig_dns_experimental_dns_library) - [zig-dns: Experimental DNS library implemented in zig](https://github.com/dantecatalfamo/zig-dns)
 
