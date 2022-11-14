@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2022-11-14, 17:42:38",
+      "https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded"
+    ],
+    [
+      "picolibc: a C library designed for embedded 32-bit and 64-bit systems",
+      "https://github.com/picolibc/picolibc"
+    ]
+  ],
+  [
+    [
       "2022-11-14, 16:53:50",
       "https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain"
     ],
@@ -87,16 +97,6 @@
     [
       "Comparing openSUSE MicroOS and Fedora Silverblue 37",
       "https://www.ypsidanger.com/comparing-opensuse-microos-to-fedora-silverblue-37/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 15:22:45",
-      "https://lobste.rs/s/aev5bq/multi_ciphertext_security_degradation"
-    ],
-    [
-      "Multi-ciphertext security degradation for lattices",
-      "https://cr.yp.to/papers/lprrr-20221114.pdf"
     ]
   ],
   [
