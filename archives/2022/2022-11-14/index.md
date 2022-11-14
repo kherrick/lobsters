@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-14](index.md)
 
+* [2022-11-14, 12:49:05](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week)
+* [2022-11-14, 12:33:20](https://lobste.rs/s/sf3vns/performance_optimizations_can_have) - [Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
 * [2022-11-14, 09:36:48](https://lobste.rs/s/ie5q9i/buildomat_software_build_labour_saving) - [buildomat: a software build labour-saving device](https://github.com/oxidecomputer/buildomat)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
