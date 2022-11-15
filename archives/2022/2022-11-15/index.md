@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
+* [2022-11-15, 17:17:58](https://lobste.rs/s/ql8xub/how_planetscale_boost_serves_your_sql) - [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)
 * [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
 * [2022-11-15, 15:37:38](https://lobste.rs/s/g3qc6q/scaling_mastodon_is_impossible) - [Scaling Mastodon is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
+* [2022-11-15, 17:17:58](https://lobste.rs/s/ql8xub/how_planetscale_boost_serves_your_sql) - [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)
 * [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
 * [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
@@ -23,8 +25,6 @@
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
-* [2022-11-14, 13:59:18](https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules) - [Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28)
-* [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
 
 ## [Archives](archives/index.md)
 
