@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 03:24:05",
+      "https://lobste.rs/s/5px6cu/io_domains_considered_harmful"
+    ],
+    [
+      ".io domains considered harmful",
+      "https://j3s.sh/thought/.io-domains-considered-harmful.html"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 02:52:31",
       "https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend"
     ],
@@ -77,16 +87,6 @@
     [
       "\"How do I test X\" is almost always answered with \"by controlling X\"",
       "https://berk.es/2022/09/19/test-x-by-controlling-x/"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 17:42:38",
-      "https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded"
-    ],
-    [
-      "picolibc: a C library designed for embedded 32-bit and 64-bit systems",
-      "https://github.com/picolibc/picolibc"
     ]
   ],
   [
