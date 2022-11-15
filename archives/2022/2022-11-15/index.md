@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 19:35:34](https://lobste.rs/s/bmbdnk/berkeley_db_is_too_slow_compared_recent_db) - [Berkeley DB is too slow compared to recent DB engines (2015)](https://github.com/MKLab-ITI/multimedia-indexing/issues/2)
+* [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid) - [Perl is Actually Portable | Computoid](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 * [2022-11-15, 19:10:45](https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game) - [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
 * [2022-11-15, 18:19:26](https://lobste.rs/s/bjzf96/racket_v8_7) - [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
