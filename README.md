@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
 * [2022-11-15, 21:02:20](https://lobste.rs/s/vvhmnw/how_fast_is_asp_net_core) - [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 * [2022-11-15, 20:58:19](https://lobste.rs/s/4fnmhm/filespooler) - [Filespooler](https://www.complete.org/filespooler/)
 * [2022-11-15, 20:56:31](https://lobste.rs/s/ugy9hx/wasmedge_bring_cloud_native_serverless) - [WasmEdge: Bring the cloud-native and serverless application paradigms to Edge Computing](https://wasmedge.org/)
@@ -16,7 +17,6 @@
 * [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
 * [2022-11-15, 11:52:14](https://lobste.rs/s/toilv4/tinycpm_cp_m_on_tiny_2040) - [TinyCPM - CP/M on a Tiny 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
-* [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
