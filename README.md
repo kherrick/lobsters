@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
 * [2022-11-15, 11:52:14](https://lobste.rs/s/toilv4/tinycpm_cp_m_on_tiny_2040) - [TinyCPM - CP/M on a Tiny 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
@@ -13,7 +14,6 @@
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
-* [2022-11-14, 18:39:59](https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered) - [\"How do I test X\" is almost always answered with \"by controlling X\"](https://berk.es/2022/09/19/test-x-by-controlling-x/)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
