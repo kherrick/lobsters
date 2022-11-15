@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 01:02:22](https://lobste.rs/s/b36rvb/project_everest_provably_secure) - [Project Everest: Provably Secure Communication Software](https://project-everest.github.io/)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
@@ -10,7 +11,6 @@
 * [2022-11-14, 17:42:38](https://lobste.rs/s/wptemz/picolibc_c_library_designed_for_embedded) - [picolibc: a C library designed for embedded 32-bit and 64-bit systems](https://github.com/picolibc/picolibc)
 * [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
-* [2022-11-14, 15:29:51](https://lobste.rs/s/ixos6y/comparing_opensuse_microos_fedora) - [Comparing openSUSE MicroOS and Fedora Silverblue 37](https://www.ypsidanger.com/comparing-opensuse-microos-to-fedora-silverblue-37/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
