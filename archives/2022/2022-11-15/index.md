@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
 * [2022-11-15, 15:37:38](https://lobste.rs/s/g3qc6q/scaling_mastodon_is_impossible) - [Scaling Mastodon is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
 * [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
