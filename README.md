@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 06:08:36](https://lobste.rs/s/d6vi8m/80_20_refactoring) - [80/20 Refactoring](https://euroquis.nl//kde/2022/11/14/refactor.html)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 01:02:22](https://lobste.rs/s/b36rvb/project_everest_provably_secure) - [Project Everest: Provably Secure Communication Software](https://project-everest.github.io/)
@@ -20,7 +21,6 @@
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
 * [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-14, 08:42:53](https://lobste.rs/s/4tdg4k/odr_violation_detection) - [ODR violation detection](https://maskray.me/blog/2022-11-13-odr-violation-detection)
-* [2022-11-14, 02:05:04](https://lobste.rs/s/ophvp3/writing_sql_database_take_two_zig_rocksdb) - [Writing a SQL database, take two: Zig and RocksDB](https://notes.eatonphil.com/zigrocks-sql.html)
 * [2022-11-14, 01:38:31](https://lobste.rs/s/up8yik/your_next_smart_home_device_is_30_used) - [Your next smart home device is a $30 used Kindle](https://matthealy.com/kindle)
 * [2022-11-14, 01:09:36](https://lobste.rs/s/2sw9no/taking_off_with_nix_at_flightaware) - [Taking off with Nix at FlightAware](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
