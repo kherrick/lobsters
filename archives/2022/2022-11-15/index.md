@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 20:43:35](https://lobste.rs/s/z6iihk/gofai_is_dead_long_live_nf_ai) - [GOFAI is dead – long live (NF) AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
 * [2022-11-15, 19:35:34](https://lobste.rs/s/bmbdnk/berkeley_db_is_too_slow_compared_recent_db) - [Berkeley DB is too slow compared to recent DB engines (2015)](https://github.com/MKLab-ITI/multimedia-indexing/issues/2)
 * [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid) - [Perl is Actually Portable | Computoid](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 * [2022-11-15, 19:10:45](https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game) - [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
