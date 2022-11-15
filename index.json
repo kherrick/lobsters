@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 18:04:48",
+      "https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly"
+    ],
+    [
+      "Sapling: Source control that’s user-friendly and scalable",
+      "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 17:20:05",
       "https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement"
     ],
@@ -157,16 +167,6 @@
     [
       "Stacked Area Graphs Are Not Your Friend",
       "https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 01:02:22",
-      "https://lobste.rs/s/b36rvb/project_everest_provably_secure"
-    ],
-    [
-      "Project Everest: Provably Secure Communication Software",
-      "https://project-everest.github.io/"
     ]
   ],
   [
