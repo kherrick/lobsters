@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 15:00:04](https://lobste.rs/s/e11lx5/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2022](https://www.haiku-os.org/blog/waddlesplash/2022-11-14_haiku_activity_contract_report_october_2022/)
 * [2022-11-15, 14:39:46](https://lobste.rs/s/2wbire/staged_programming_with_typeclasses) - [Staged programming with typeclasses](https://tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
 * [2022-11-15, 14:19:02](https://lobste.rs/s/8gas4q/kuzu_new_embedddable_property_graph) - [Kùzu: a new embedddable property graph database](https://kuzudb.com/docs/blog)
 * [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
