@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 20:58:19](https://lobste.rs/s/4fnmhm/filespooler) - [Filespooler](https://www.complete.org/filespooler/)
+* [2022-11-15, 20:56:31](https://lobste.rs/s/ugy9hx/wasmedge_bring_cloud_native_serverless) - [WasmEdge: Bring the cloud-native and serverless application paradigms to Edge Computing](https://wasmedge.org/)
 * [2022-11-15, 20:43:35](https://lobste.rs/s/z6iihk/gofai_is_dead_long_live_nf_ai) - [GOFAI is dead – long live (NF) AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
-* [2022-11-15, 19:35:34](https://lobste.rs/s/bmbdnk/berkeley_db_is_too_slow_compared_recent_db) - [Berkeley DB is too slow compared to recent DB engines (2015)](https://github.com/MKLab-ITI/multimedia-indexing/issues/2)
 * [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid) - [Perl is Actually Portable | Computoid](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 * [2022-11-15, 18:19:26](https://lobste.rs/s/bjzf96/racket_v8_7) - [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
@@ -21,7 +22,6 @@
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
-* [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
