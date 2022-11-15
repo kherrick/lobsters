@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
 * [2022-11-15, 15:00:04](https://lobste.rs/s/e11lx5/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2022](https://www.haiku-os.org/blog/waddlesplash/2022-11-14_haiku_activity_contract_report_october_2022/)
 * [2022-11-15, 14:39:46](https://lobste.rs/s/2wbire/staged_programming_with_typeclasses) - [Staged programming with typeclasses](https://tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
 * [2022-11-15, 14:19:02](https://lobste.rs/s/8gas4q/kuzu_new_embedddable_property_graph) - [Kùzu: a new embedddable property graph database](https://kuzudb.com/docs/blog)
