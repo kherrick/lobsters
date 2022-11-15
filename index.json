@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 18:19:26",
+      "https://lobste.rs/s/bjzf96/racket_v8_7"
+    ],
+    [
+      "Racket v8.7",
+      "https://blog.racket-lang.org/2022/11/racket-v8-7.html"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 18:04:48",
       "https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly"
     ],
@@ -187,16 +197,6 @@
     [
       "Machine Learning with Unix Pipes",
       "https://jott.live/markdown/ml_pipes"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 18:51:52",
-      "https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last"
-    ],
-    [
-      "Perl performance evolution over the last decade",
-      "http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html"
     ]
   ],
   [
