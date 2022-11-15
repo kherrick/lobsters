@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 * [2022-11-15, 17:17:58](https://lobste.rs/s/ql8xub/how_planetscale_boost_serves_your_sql) - [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)
 * [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
@@ -16,7 +17,6 @@
 * [2022-11-15, 06:08:36](https://lobste.rs/s/d6vi8m/80_20_refactoring) - [80/20 Refactoring](https://euroquis.nl//kde/2022/11/14/refactor.html)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
-* [2022-11-15, 01:02:22](https://lobste.rs/s/b36rvb/project_everest_provably_secure) - [Project Everest: Provably Secure Communication Software](https://project-everest.github.io/)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
