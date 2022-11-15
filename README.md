@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 11:52:14](https://lobste.rs/s/toilv4/tinycpm_cp_m_on_tiny_2040) - [TinyCPM - CP/M on a Tiny 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
@@ -22,7 +23,6 @@
 * [2022-11-14, 12:49:05](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sbkb7w/what_are_you_doing_this_week)
 * [2022-11-14, 12:33:20](https://lobste.rs/s/sf3vns/performance_optimizations_can_have) - [Performance Optimizations Can Have Unexpectedly Large Effects When Combined With Caches](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
-* [2022-11-14, 09:36:16](https://lobste.rs/s/gtqxkc/bob_cd) - [Bob CD](https://bob-cd.github.io/)
 * [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 * [2022-11-13, 17:06:05](https://lobste.rs/s/kfpwxn/mold_1_7_0_author_seriously_considering) - [mold 1.7.0 - author seriously considering license change away from open source](https://github.com/rui314/mold/releases/tag/v1.7.0)
 
