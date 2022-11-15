@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 18:19:26](https://lobste.rs/s/bjzf96/racket_v8_7) - [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 * [2022-11-15, 17:17:58](https://lobste.rs/s/ql8xub/how_planetscale_boost_serves_your_sql) - [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 18:19:26](https://lobste.rs/s/bjzf96/racket_v8_7) - [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 * [2022-11-15, 17:17:58](https://lobste.rs/s/ql8xub/how_planetscale_boost_serves_your_sql) - [How PlanetScale Boost serves your SQL queries instantly](https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly)
@@ -19,7 +20,6 @@
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
-* [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
