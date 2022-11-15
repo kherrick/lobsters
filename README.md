@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 21:02:20](https://lobste.rs/s/vvhmnw/how_fast_is_asp_net_core) - [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 * [2022-11-15, 20:58:19](https://lobste.rs/s/4fnmhm/filespooler) - [Filespooler](https://www.complete.org/filespooler/)
 * [2022-11-15, 20:56:31](https://lobste.rs/s/ugy9hx/wasmedge_bring_cloud_native_serverless) - [WasmEdge: Bring the cloud-native and serverless application paradigms to Edge Computing](https://wasmedge.org/)
 * [2022-11-15, 20:43:35](https://lobste.rs/s/z6iihk/gofai_is_dead_long_live_nf_ai) - [GOFAI is dead – long live (NF) AI](https://billwadge.com/2022/11/13/gofai-is-dead-long-live-nf-ai/)
@@ -17,7 +18,6 @@
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
-* [2022-11-15, 10:54:39](https://lobste.rs/s/a55yek/explain_parameterized_statement) - [EXPLAIN that parameterized statement in PostgreSQL](https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
