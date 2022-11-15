@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-15, 21:02:20",
+      "https://lobste.rs/s/vvhmnw/how_fast_is_asp_net_core"
+    ],
+    [
+      "How fast is ASP.NET Core?",
+      "https://dusted.codes/how-fast-is-really-aspnet-core"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 20:58:19",
       "https://lobste.rs/s/4fnmhm/filespooler"
     ],
@@ -167,16 +177,6 @@
     [
       "More Evidence for Problems in VM Warmup",
       "https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 10:54:39",
-      "https://lobste.rs/s/a55yek/explain_parameterized_statement"
-    ],
-    [
-      "EXPLAIN that parameterized statement in PostgreSQL",
-      "https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/"
     ]
   ],
   [
