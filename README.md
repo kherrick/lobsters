@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
 * [2022-11-15, 10:54:39](https://lobste.rs/s/a55yek/explain_parameterized_statement) - [EXPLAIN that parameterized statement in PostgreSQL](https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/)
@@ -9,7 +10,6 @@
 * [2022-11-15, 01:02:22](https://lobste.rs/s/b36rvb/project_everest_provably_secure) - [Project Everest: Provably Secure Communication Software](https://project-everest.github.io/)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
-* [2022-11-14, 19:04:32](https://lobste.rs/s/pnsvks/tips_for_large_scale_codemods) - [Tips for large-scale codemods](https://blog.jez.io/codemods-tips/)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
 * [2022-11-14, 18:39:59](https://lobste.rs/s/vo9lgr/how_do_i_test_x_is_almost_always_answered) - [\"How do I test X\" is almost always answered with \"by controlling X\"](https://berk.es/2022/09/19/test-x-by-controlling-x/)
