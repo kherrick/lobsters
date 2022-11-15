@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-15](index.md)
 
+* [2022-11-15, 11:03:23](https://lobste.rs/s/6dhbvw/building_tuis_with_textual_first) - [Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
 * [2022-11-15, 10:54:39](https://lobste.rs/s/a55yek/explain_parameterized_statement) - [EXPLAIN that parameterized statement in PostgreSQL](https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/)
 * [2022-11-15, 06:08:36](https://lobste.rs/s/d6vi8m/80_20_refactoring) - [80/20 Refactoring](https://euroquis.nl//kde/2022/11/14/refactor.html)
