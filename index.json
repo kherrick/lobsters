@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-15, 15:45:46",
+      "https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec"
+    ],
+    [
+      "Stealing passwords from infosec Mastodon - without bypassing CSP",
+      "https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 15:37:38",
+      "https://lobste.rs/s/g3qc6q/scaling_mastodon_is_impossible"
+    ],
+    [
+      "Scaling Mastodon is Impossible",
+      "https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 15:21:47",
       "https://lobste.rs/s/zomdi1/announcing_fedora_linux_37"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-11-14, 16:53:50",
-      "https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain"
-    ],
-    [
-      "C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?",
-      "https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393"
-    ]
-  ],
-  [
-    [
       "2022-11-14, 16:50:56",
       "https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off"
     ],
@@ -237,16 +247,6 @@
     [
       "The Circle of Fifths",
       "https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/"
-    ]
-  ],
-  [
-    [
-      "2022-11-13, 20:49:55",
-      "https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not"
-    ],
-    [
-      "What software do you dream about, but do not have time to code yourself?",
-      "https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not"
     ]
   ]
 ]
