@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-15, 19:35:34",
+      "https://lobste.rs/s/bmbdnk/berkeley_db_is_too_slow_compared_recent_db"
+    ],
+    [
+      "Berkeley DB is too slow compared to recent DB engines (2015)",
+      "https://github.com/MKLab-ITI/multimedia-indexing/issues/2"
+    ]
+  ],
+  [
+    [
+      "2022-11-15, 19:34:49",
+      "https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid"
+    ],
+    [
+      "Perl is Actually Portable | Computoid",
+      "https://computoid.com/posts/Perl-is-Actually-Portable.html"
+    ]
+  ],
+  [
+    [
       "2022-11-15, 19:10:45",
       "https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2022-11-15, 14:39:46",
-      "https://lobste.rs/s/2wbire/staged_programming_with_typeclasses"
-    ],
-    [
-      "Staged programming with typeclasses",
-      "https://tweag.io/blog/2022-11-15-unrolling-with-typeclasses/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 13:55:40",
       "https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could"
     ],
@@ -157,16 +167,6 @@
     [
       "EXPLAIN that parameterized statement in PostgreSQL",
       "https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 06:08:36",
-      "https://lobste.rs/s/d6vi8m/80_20_refactoring"
-    ],
-    [
-      "80/20 Refactoring",
-      "https://euroquis.nl//kde/2022/11/14/refactor.html"
     ]
   ],
   [
