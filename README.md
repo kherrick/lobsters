@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
+* [2022-11-15, 15:37:38](https://lobste.rs/s/g3qc6q/scaling_mastodon_is_impossible) - [Scaling Mastodon is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
 * [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
 * [2022-11-15, 15:00:04](https://lobste.rs/s/e11lx5/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2022](https://www.haiku-os.org/blog/waddlesplash/2022-11-14_haiku_activity_contract_report_october_2022/)
 * [2022-11-15, 14:39:46](https://lobste.rs/s/2wbire/staged_programming_with_typeclasses) - [Staged programming with typeclasses](https://tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
@@ -17,14 +19,12 @@
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 18:51:52](https://lobste.rs/s/nwz9uf/perl_performance_evolution_over_last) - [Perl performance evolution over the last decade](http://blogs.perl.org/users/dimitrios_kechagias/2022/11/perl-performance-evolution-over-the-last-decade.html)
 * [2022-11-14, 18:51:22](https://lobste.rs/s/ctspws/bevy_0_9_released) - [Bevy 0.9 released](https://bevyengine.org/news/bevy-0-9/)
-* [2022-11-14, 16:53:50](https://lobste.rs/s/xc7gfz/c_constexpr_parlor_tricks_how_can_i_obtain) - [C++ constexpr parlor tricks: How can I obtain the length of a string at compile time?](https://devblogs.microsoft.com/oldnewthing/20221114-00/?p=107393)
 * [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 * [2022-11-14, 14:23:03](https://lobste.rs/s/4peaax/codeberg_is_moving_what_this_means_you) - [Codeberg is moving ... and what this means to you](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
 * [2022-11-14, 13:59:18](https://lobste.rs/s/my2jxi/deno_1_28_featuring_1_3_million_new_modules) - [Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28)
 * [2022-11-14, 11:42:42](https://lobste.rs/s/hpojf8/circle_fifths) - [The Circle of Fifths](https://johncarlosbaez.wordpress.com/2022/11/12/the-circle-of-fifths/)
-* [2022-11-13, 20:49:55](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
 
 ## [Archives](archives/index.md)
 
