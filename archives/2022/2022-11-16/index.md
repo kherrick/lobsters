@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 22:07:03](https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued) - [GitHub Copilot is Getting Sued](https://build.typogram.co/p/github-copilot-is-getting-sued)
 * [2022-11-16, 21:11:21](https://lobste.rs/s/cnuebf/magical_world_particles_with_react_three) - [The magical world of Particles with React Three Fiber and Shaders](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/)
 * [2022-11-16, 20:22:27](https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions) - [Zero-Cost Memory Safety with Vale Regions (Preview)](https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview)
 * [2022-11-16, 20:20:48](https://lobste.rs/s/lomcwl/liblithium_lightweight_portable) - [liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)

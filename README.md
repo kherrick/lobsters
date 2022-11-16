@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 22:07:03](https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued) - [GitHub Copilot is Getting Sued](https://build.typogram.co/p/github-copilot-is-getting-sued)
 * [2022-11-16, 21:11:21](https://lobste.rs/s/cnuebf/magical_world_particles_with_react_three) - [The magical world of Particles with React Three Fiber and Shaders](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/)
 * [2022-11-16, 20:22:27](https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions) - [Zero-Cost Memory Safety with Vale Regions (Preview)](https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview)
 * [2022-11-16, 20:20:48](https://lobste.rs/s/lomcwl/liblithium_lightweight_portable) - [liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
@@ -7,7 +8,6 @@
 * [2022-11-16, 20:00:09](https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques) - [Seamless texture tiling techniques](https://iquilezles.org/articles/texturerepetition/)
 * [2022-11-16, 19:33:09](https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird) - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
 * [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
-* [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
 * [2022-11-16, 18:02:51](https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects) - [P2723R0: Zero-initialize objects of automatic storage duration](https://isocpp.org/files/papers/P2723R0.html)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
 * [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
