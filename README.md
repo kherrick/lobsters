@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 17:44:57](https://lobste.rs/s/bsmgtp/sql_teaching) - [SQL Teaching](https://www.sqlteaching.com/)
 * [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based) - [cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
@@ -17,7 +18,6 @@
 * [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable) - [Perl is Actually Portable](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 * [2022-11-15, 19:10:45](https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game) - [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
-* [2022-11-15, 17:20:05](https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement) - [Who controls parallelism? A disagreement that leads to slower code](https://pythonspeed.com/articles/concurrency-control/)
 * [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
 * [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
