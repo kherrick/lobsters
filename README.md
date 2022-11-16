@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
 * [2022-11-16, 22:07:03](https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued) - [GitHub Copilot is Getting Sued](https://build.typogram.co/p/github-copilot-is-getting-sued)
 * [2022-11-16, 21:11:21](https://lobste.rs/s/cnuebf/magical_world_particles_with_react_three) - [The magical world of Particles with React Three Fiber and Shaders](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/)
 * [2022-11-16, 20:22:27](https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions) - [Zero-Cost Memory Safety with Vale Regions (Preview)](https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview)
 * [2022-11-16, 20:20:48](https://lobste.rs/s/lomcwl/liblithium_lightweight_portable) - [liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
-* [2022-11-16, 20:17:03](https://lobste.rs/s/g6tqqt/distributed_computing_manifesto) - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
 * [2022-11-16, 20:00:09](https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques) - [Seamless texture tiling techniques](https://iquilezles.org/articles/texturerepetition/)
 * [2022-11-16, 19:33:09](https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird) - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
 * [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
