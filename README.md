@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 05:53:12](https://lobste.rs/s/a3g8ra/algorithm_transformed_world) - [The Algorithm That Transformed The World](https://www.youtube.com/watch?v=nmgFG7PUHfo)
 * [2022-11-16, 04:43:22](https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm) - [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
-* [2022-11-16, 01:26:10](https://lobste.rs/s/apkxox/paxos_raft_epaxos_how_has_distributed) - [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
