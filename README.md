@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based) - [cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim](https://github.com/cshuaimin/ssr.nvim/)
+* [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 * [2022-11-16, 15:17:37](https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded) - [Understanding the UBI File System in Embedded Devices](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
 * [2022-11-16, 14:04:12](https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time) - [Announcing greptimedb, a scalable time-series database we are working on](https://www.greptime.com/blogs/2022-11-15-this-time-for-real)
 * [2022-11-16, 13:51:11](https://lobste.rs/s/c5vm2q/cohesion) - [Cohesion](https://www.codewithjason.com/cohesion/)
@@ -7,7 +9,6 @@
 * [2022-11-16, 10:27:25](https://lobste.rs/s/lptwjh/optimizing_server_side_rendering_memory) - [Optimizing Server-Side Rendering Memory Usage](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 * [2022-11-16, 05:53:12](https://lobste.rs/s/a3g8ra/algorithm_transformed_world) - [The Algorithm That Transformed The World](https://www.youtube.com/watch?v=nmgFG7PUHfo)
-* [2022-11-16, 04:43:22](https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm) - [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
@@ -24,7 +25,6 @@
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
-* [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 
 ## [Archives](archives/index.md)
 
