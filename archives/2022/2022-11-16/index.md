@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
 * [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
 * [2022-11-16, 18:02:51](https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects) - [P2723R0: Zero-initialize objects of automatic storage duration](https://isocpp.org/files/papers/P2723R0.html)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
 * [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
 * [2022-11-16, 18:02:51](https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects) - [P2723R0: Zero-initialize objects of automatic storage duration](https://isocpp.org/files/papers/P2723R0.html)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
@@ -21,7 +22,6 @@
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2022-11-15, 15:58:27](https://lobste.rs/s/jpfxkz/cparse_is_lr_1_parser_generator_for_c) - [cparse is an LR(1) parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
-* [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
 * [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
