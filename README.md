@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
 * [2022-11-15, 21:02:20](https://lobste.rs/s/vvhmnw/how_fast_is_asp_net_core) - [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
@@ -22,7 +23,6 @@
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
 * [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
-* [2022-11-14, 16:50:56](https://lobste.rs/s/eupoyl/fediverse_is_inefficient_s_good_trade_off) - [The Fediverse is Inefficient (but that's a good trade-off)](https://berk.es/2022/11/08/fediverse-inefficiencies/)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 
