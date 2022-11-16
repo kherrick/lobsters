@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 01:26:10",
+      "https://lobste.rs/s/apkxox/paxos_raft_epaxos_how_has_distributed"
+    ],
+    [
+      "Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?",
+      "https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 01:19:00",
       "https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than"
     ],
@@ -52,10 +62,10 @@
   [
     [
       "2022-11-15, 19:34:49",
-      "https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid"
+      "https://lobste.rs/s/k9mm26/perl_is_actually_portable"
     ],
     [
-      "Perl is Actually Portable | Computoid",
+      "Perl is Actually Portable",
       "https://computoid.com/posts/Perl-is-Actually-Portable.html"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Command K Bars",
       "https://maggieappleton.com/command-bar"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 20:10:38",
-      "https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes"
-    ],
-    [
-      "Machine Learning with Unix Pipes",
-      "https://jott.live/markdown/ml_pipes"
     ]
   ],
   [
