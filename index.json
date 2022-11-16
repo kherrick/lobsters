@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 22:07:03",
+      "https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued"
+    ],
+    [
+      "GitHub Copilot is Getting Sued",
+      "https://build.typogram.co/p/github-copilot-is-getting-sued"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 21:11:21",
       "https://lobste.rs/s/cnuebf/magical_world_particles_with_react_three"
     ],
@@ -67,16 +77,6 @@
     [
       "Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"",
       "https://www.bentkowski.info/2022/11/google-roulette/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 18:06:56",
-      "https://lobste.rs/s/oxlxbk/cve_2022_32932"
-    ],
-    [
-      "CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue",
-      "https://0x36.github.io/CVE-2022-32932/"
     ]
   ],
   [
