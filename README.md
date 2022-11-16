@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 01:26:10](https://lobste.rs/s/apkxox/paxos_raft_epaxos_how_has_distributed) - [Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?](https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127)
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
 * [2022-11-15, 21:02:20](https://lobste.rs/s/vvhmnw/how_fast_is_asp_net_core) - [How fast is ASP.NET Core?](https://dusted.codes/how-fast-is-really-aspnet-core)
 * [2022-11-15, 20:58:19](https://lobste.rs/s/4fnmhm/filespooler) - [Filespooler](https://www.complete.org/filespooler/)
-* [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable_computoid) - [Perl is Actually Portable | Computoid](https://computoid.com/posts/Perl-is-Actually-Portable.html)
+* [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable) - [Perl is Actually Portable](https://computoid.com/posts/Perl-is-Actually-Portable.html)
 * [2022-11-15, 19:10:45](https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game) - [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
 * [2022-11-15, 18:19:26](https://lobste.rs/s/bjzf96/racket_v8_7) - [Racket v8.7](https://blog.racket-lang.org/2022/11/racket-v8-7.html)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
@@ -22,7 +23,6 @@
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 * [2022-11-15, 02:52:31](https://lobste.rs/s/jtjgpl/stacked_area_graphs_are_not_your_friend) - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 * [2022-11-15, 00:59:28](https://lobste.rs/s/7plsfc/command_k_bars) - [Command K Bars](https://maggieappleton.com/command-bar)
-* [2022-11-14, 20:10:38](https://lobste.rs/s/fbphgg/machine_learning_with_unix_pipes) - [Machine Learning with Unix Pipes](https://jott.live/markdown/ml_pipes)
 * [2022-11-14, 14:48:23](https://lobste.rs/s/cpbsdp/making_go_program_42_faster_with_one) - [Making a Go program 42% faster with a one character change](https://hmarr.com/blog/go-allocation-hunting/)
 * [2022-11-14, 14:32:21](https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code) - [Why do we call it \"boilerplate code?\"](https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/)
 
