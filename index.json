@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-16, 16:14:32",
+      "https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based"
+    ],
+    [
+      "cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim",
+      "https://github.com/cshuaimin/ssr.nvim/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 16:06:44",
+      "https://lobste.rs/s/u768se/let_s_prove_leftpad"
+    ],
+    [
+      "Let's Prove Leftpad",
+      "https://www.hillelwayne.com/post/lpl/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 15:17:37",
       "https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded"
     ],
@@ -67,16 +87,6 @@
     [
       "The Algorithm That Transformed The World",
       "https://www.youtube.com/watch?v=nmgFG7PUHfo"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 04:43:22",
-      "https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm"
-    ],
-    [
-      "Rewriting as a Computational Paradigm",
-      "https://www.freefour.com/rewriting-as-a-computational-paradigm/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       ".io domains considered harmful",
       "https://j3s.sh/thought/.io-domains-considered-harmful.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-14, 14:32:21",
-      "https://lobste.rs/s/wstbnz/why_do_we_call_it_boilerplate_code"
-    ],
-    [
-      "Why do we call it \"boilerplate code?\"",
-      "https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/"
     ]
   ]
 ]
