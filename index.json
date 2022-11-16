@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-16, 18:06:56",
+      "https://lobste.rs/s/oxlxbk/cve_2022_32932"
+    ],
+    [
+      "CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue",
+      "https://0x36.github.io/CVE-2022-32932/"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 18:02:51",
+      "https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects"
+    ],
+    [
+      "P2723R0: Zero-initialize objects of automatic storage duration",
+      "https://isocpp.org/files/papers/P2723R0.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 17:56:21",
+      "https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from"
+    ],
+    [
+      "Debugging mysterious traffic from Boardman, OR",
+      "https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 17:44:57",
       "https://lobste.rs/s/bsmgtp/sql_teaching"
     ],
@@ -57,16 +87,6 @@
     [
       "Announcing greptimedb, a scalable time-series database we are working on",
       "https://www.greptime.com/blogs/2022-11-15-this-time-for-real"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 13:51:11",
-      "https://lobste.rs/s/c5vm2q/cohesion"
-    ],
-    [
-      "Cohesion",
-      "https://www.codewithjason.com/cohesion/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "How fast is ASP.NET Core?",
       "https://dusted.codes/how-fast-is-really-aspnet-core"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 20:58:19",
-      "https://lobste.rs/s/4fnmhm/filespooler"
-    ],
-    [
-      "Filespooler",
-      "https://www.complete.org/filespooler/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Split Your Overwhelmed Teams",
       "https://queue.acm.org/detail.cfm?id=3570920"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 10:56:16",
-      "https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup"
-    ],
-    [
-      "More Evidence for Problems in VM Warmup",
-      "https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html"
     ]
   ],
   [
