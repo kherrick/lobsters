@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
+* [2022-11-16, 18:02:51](https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects) - [P2723R0: Zero-initialize objects of automatic storage duration](https://isocpp.org/files/papers/P2723R0.html)
+* [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
 * [2022-11-16, 17:44:57](https://lobste.rs/s/bsmgtp/sql_teaching) - [SQL Teaching](https://www.sqlteaching.com/)
 * [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based) - [cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim](https://github.com/cshuaimin/ssr.nvim/)
