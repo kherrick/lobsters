@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based) - [cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 * [2022-11-16, 15:17:37](https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded) - [Understanding the UBI File System in Embedded Devices](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
