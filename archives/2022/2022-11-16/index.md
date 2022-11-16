@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 23:44:06](https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional) - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
 * [2022-11-16, 23:21:25](https://lobste.rs/s/1oiymo/fosdem_2023_nix_nixos_devroom) - [FOSDEM 2023: Nix and NixOS devroom](https://discourse.nixos.org/t/fosdem-2023-nix-and-nixos-devroom/23133?u=bjth)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
