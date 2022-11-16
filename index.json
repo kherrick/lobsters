@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 14:04:12",
+      "https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time"
+    ],
+    [
+      "Announcing greptimedb, a scalable time-series database we are working on",
+      "https://www.greptime.com/blogs/2022-11-15-this-time-for-real"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 13:51:11",
       "https://lobste.rs/s/c5vm2q/cohesion"
     ],
@@ -117,16 +127,6 @@
     [
       "When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended",
       "https://posts.decontextualize.com/pocket-sp/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 18:19:26",
-      "https://lobste.rs/s/bjzf96/racket_v8_7"
-    ],
-    [
-      "Racket v8.7",
-      "https://blog.racket-lang.org/2022/11/racket-v8-7.html"
     ]
   ],
   [
