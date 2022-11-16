@@ -62,10 +62,10 @@
   [
     [
       "2022-11-16, 16:14:32",
-      "https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_treesitter_based"
+      "https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search"
     ],
     [
-      "cshuaimin/ssr.nvim: Treesitter based structural search and replace plugin for Neovim",
+      "cshuaimin/ssr.nvim: Structural search and replace",
       "https://github.com/cshuaimin/ssr.nvim/"
     ]
   ],
