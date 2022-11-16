@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-16, 20:22:27",
+      "https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions"
+    ],
+    [
+      "Zero-Cost Memory Safety with Vale Regions (Preview)",
+      "https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 20:20:48",
+      "https://lobste.rs/s/lomcwl/liblithium_lightweight_portable"
+    ],
+    [
+      "liblithium: A lightweight and portable cryptography library",
+      "https://github.com/teslamotors/liblithium"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 20:17:03",
+      "https://lobste.rs/s/g6tqqt/distributed_computing_manifesto"
+    ],
+    [
+      "The Distributed Computing Manifesto",
+      "https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 20:00:09",
+      "https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques"
+    ],
+    [
+      "Seamless texture tiling techniques",
+      "https://iquilezles.org/articles/texturerepetition/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 19:33:09",
       "https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird"
     ],
@@ -171,26 +211,6 @@
   ],
   [
     [
-      "2022-11-15, 19:34:49",
-      "https://lobste.rs/s/k9mm26/perl_is_actually_portable"
-    ],
-    [
-      "Perl is Actually Portable",
-      "https://computoid.com/posts/Perl-is-Actually-Portable.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 19:10:45",
-      "https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game"
-    ],
-    [
-      "When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended",
-      "https://posts.decontextualize.com/pocket-sp/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 18:04:48",
       "https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2022-11-15, 15:21:47",
-      "https://lobste.rs/s/zomdi1/announcing_fedora_linux_37"
-    ],
-    [
-      "Announcing Fedora Linux 37",
-      "https://fedoramagazine.org/announcing-fedora-37/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 13:55:40",
       "https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could"
     ],
     [
       "ABI compatibility in Python: how hard could it be?",
       "https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 11:44:16",
-      "https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams"
-    ],
-    [
-      "Split Your Overwhelmed Teams",
-      "https://queue.acm.org/detail.cfm?id=3570920"
     ]
   ],
   [
