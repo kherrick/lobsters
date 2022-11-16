@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 22:12:02",
+      "https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests"
+    ],
+    [
+      "noticing and preventing network requests should be easy",
+      "https://github.com/nathants/mighty-snitch"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 22:07:03",
       "https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued"
     ],
@@ -227,16 +237,6 @@
     [
       "Stealing passwords from infosec Mastodon - without bypassing CSP",
       "https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 13:55:40",
-      "https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could"
-    ],
-    [
-      "ABI compatibility in Python: how hard could it be?",
-      "https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/"
     ]
   ],
   [
