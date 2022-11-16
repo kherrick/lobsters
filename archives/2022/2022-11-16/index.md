@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 10:27:25](https://lobste.rs/s/lptwjh/optimizing_server_side_rendering_memory) - [Optimizing Server-Side Rendering Memory Usage](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 * [2022-11-16, 05:53:12](https://lobste.rs/s/a3g8ra/algorithm_transformed_world) - [The Algorithm That Transformed The World](https://www.youtube.com/watch?v=nmgFG7PUHfo)
 * [2022-11-16, 04:43:22](https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm) - [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
