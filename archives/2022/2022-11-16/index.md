@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 15:17:37](https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded) - [Understanding the UBI File System in Embedded Devices](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
 * [2022-11-16, 14:04:12](https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time) - [Announcing greptimedb, a scalable time-series database we are working on](https://www.greptime.com/blogs/2022-11-15-this-time-for-real)
 * [2022-11-16, 13:51:11](https://lobste.rs/s/c5vm2q/cohesion) - [Cohesion](https://www.codewithjason.com/cohesion/)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
