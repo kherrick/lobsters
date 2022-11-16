@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 20:22:27](https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions) - [Zero-Cost Memory Safety with Vale Regions (Preview)](https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview)
+* [2022-11-16, 20:20:48](https://lobste.rs/s/lomcwl/liblithium_lightweight_portable) - [liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
+* [2022-11-16, 20:17:03](https://lobste.rs/s/g6tqqt/distributed_computing_manifesto) - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+* [2022-11-16, 20:00:09](https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques) - [Seamless texture tiling techniques](https://iquilezles.org/articles/texturerepetition/)
 * [2022-11-16, 19:33:09](https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird) - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
 * [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
 * [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
@@ -17,13 +21,9 @@
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
-* [2022-11-15, 19:34:49](https://lobste.rs/s/k9mm26/perl_is_actually_portable) - [Perl is Actually Portable](https://computoid.com/posts/Perl-is-Actually-Portable.html)
-* [2022-11-15, 19:10:45](https://lobste.rs/s/vuffsz/when_hold_em_when_fold_em_adding_hinge_game) - [When to hold ’em and when to fold ’em: Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 * [2022-11-15, 15:45:46](https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec) - [Stealing passwords from infosec Mastodon - without bypassing CSP](https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp)
-* [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
 * [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
-* [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
 
 ## [Archives](archives/index.md)

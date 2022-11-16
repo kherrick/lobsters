@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 20:22:27](https://lobste.rs/s/crpnzv/zero_cost_memory_safety_with_vale_regions) - [Zero-Cost Memory Safety with Vale Regions (Preview)](https://verdagon.dev/blog/zero-cost-memory-safety-regions-overview)
+* [2022-11-16, 20:20:48](https://lobste.rs/s/lomcwl/liblithium_lightweight_portable) - [liblithium: A lightweight and portable cryptography library](https://github.com/teslamotors/liblithium)
+* [2022-11-16, 20:17:03](https://lobste.rs/s/g6tqqt/distributed_computing_manifesto) - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+* [2022-11-16, 20:00:09](https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques) - [Seamless texture tiling techniques](https://iquilezles.org/articles/texturerepetition/)
 * [2022-11-16, 19:33:09](https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird) - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
 * [2022-11-16, 19:08:20](https://lobste.rs/s/00kv3b/chromium_same_origin_policy_bypass) - [Chromium Same Origin Policy bypass within a single site a.k.a. \"Google Roulette\"](https://www.bentkowski.info/2022/11/google-roulette/)
 * [2022-11-16, 18:06:56](https://lobste.rs/s/oxlxbk/cve_2022_32932) - [CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue](https://0x36.github.io/CVE-2022-32932/)
