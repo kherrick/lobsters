@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-16, 17:44:57",
+      "https://lobste.rs/s/bsmgtp/sql_teaching"
+    ],
+    [
+      "SQL Teaching",
+      "https://www.sqlteaching.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-16, 17:20:34",
       "https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program"
     ],
@@ -167,16 +177,6 @@
     [
       "Sapling: Source control that’s user-friendly and scalable",
       "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 17:20:05",
-      "https://lobste.rs/s/n6jdsz/who_controls_parallelism_disagreement"
-    ],
-    [
-      "Who controls parallelism? A disagreement that leads to slower code",
-      "https://pythonspeed.com/articles/concurrency-control/"
     ]
   ],
   [
