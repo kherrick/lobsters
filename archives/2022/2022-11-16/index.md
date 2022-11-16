@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-16](index.md)
 
+* [2022-11-16, 13:51:11](https://lobste.rs/s/c5vm2q/cohesion) - [Cohesion](https://www.codewithjason.com/cohesion/)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
 * [2022-11-16, 10:27:25](https://lobste.rs/s/lptwjh/optimizing_server_side_rendering_memory) - [Optimizing Server-Side Rendering Memory Usage](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)

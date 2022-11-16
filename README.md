@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 13:51:11](https://lobste.rs/s/c5vm2q/cohesion) - [Cohesion](https://www.codewithjason.com/cohesion/)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
 * [2022-11-16, 10:27:25](https://lobste.rs/s/lptwjh/optimizing_server_side_rendering_memory) - [Optimizing Server-Side Rendering Memory Usage](https://blog.wolt.com/engineering/2022/11/10/optimizing-ssr-memory-usage-on-wolt-com/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 * [2022-11-16, 05:53:12](https://lobste.rs/s/a3g8ra/algorithm_transformed_world) - [The Algorithm That Transformed The World](https://www.youtube.com/watch?v=nmgFG7PUHfo)
-* [2022-11-16, 04:43:22](https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm) - [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 22:57:31](https://lobste.rs/s/1amma7/why_i_enjoy_using_nim_programming) - [Why I enjoy using the Nim programming language at Reddit](https://old.reddit.com/r/RedditEng/comments/yvbt4h/why_i_enjoy_using_the_nim_programming_language_at/.compact)
 * [2022-11-15, 21:32:12](https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site) - [Adventures in making my website: static site generation](https://prefetch.eu/blog/2022/website-adventures-generators/)
