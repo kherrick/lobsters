@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 * [2022-11-16, 05:53:12](https://lobste.rs/s/a3g8ra/algorithm_transformed_world) - [The Algorithm That Transformed The World](https://www.youtube.com/watch?v=nmgFG7PUHfo)
 * [2022-11-16, 04:43:22](https://lobste.rs/s/3ggf8q/rewriting_as_computational_paradigm) - [Rewriting as a Computational Paradigm](https://www.freefour.com/rewriting-as-a-computational-paradigm/)
 * [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
@@ -18,7 +19,6 @@
 * [2022-11-15, 15:21:47](https://lobste.rs/s/zomdi1/announcing_fedora_linux_37) - [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/)
 * [2022-11-15, 15:00:04](https://lobste.rs/s/e11lx5/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2022](https://www.haiku-os.org/blog/waddlesplash/2022-11-14_haiku_activity_contract_report_october_2022/)
 * [2022-11-15, 13:55:40](https://lobste.rs/s/pk94fw/abi_compatibility_python_how_hard_could) - [ABI compatibility in Python: how hard could it be?](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
-* [2022-11-15, 11:52:14](https://lobste.rs/s/toilv4/tinycpm_cp_m_on_tiny_2040) - [TinyCPM - CP/M on a Tiny 2040](https://www.kianryan.co.uk/2022-11-14-tiny-cpm/)
 * [2022-11-15, 11:44:16](https://lobste.rs/s/5flb6a/split_your_overwhelmed_teams) - [Split Your Overwhelmed Teams](https://queue.acm.org/detail.cfm?id=3570920)
 * [2022-11-15, 10:56:16](https://lobste.rs/s/wm1y9a/more_evidence_for_problems_vm_warmup) - [More Evidence for Problems in VM Warmup](https://tratt.net/laurie/blog/2022/more_evidence_for_problems_in_vm_warmup.html)
 * [2022-11-15, 03:24:05](https://lobste.rs/s/5px6cu/io_domains_considered_harmful) - [.io domains considered harmful](https://j3s.sh/thought/.io-domains-considered-harmful.html)
