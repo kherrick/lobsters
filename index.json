@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 14:17:10",
+      "https://lobste.rs/s/zy7q4t/online_deadlock_detection_go_golang"
+    ],
+    [
+      "Online deadlock detection in go (golang)",
+      "https://github.com/sasha-s/go-deadlock"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 13:17:26",
       "https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive"
     ],
@@ -77,16 +87,6 @@
     [
       "RFC 9078: Reaction: Indicating Summary Reaction to a Message",
       "https://datatracker.ietf.org/doc/rfc9078/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 23:44:06",
-      "https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional"
-    ],
-    [
-      "What’s so great about functional programming anyway?",
-      "https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway"
     ]
   ],
   [
