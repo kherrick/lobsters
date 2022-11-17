@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 03:08:41",
+      "https://lobste.rs/s/lrzggf/hardware_backdoors_x86_cpus"
+    ],
+    [
+      "Hardware Backdoors in x86 CPUs",
+      "https://www.youtube.com/watch?v=_eSAF_qT_FY"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 01:59:08",
       "https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for"
     ],
@@ -57,6 +67,16 @@
     [
       "noticing and preventing network requests should be easy",
       "https://github.com/nathants/mighty-snitch"
+    ]
+  ],
+  [
+    [
+      "2022-11-16, 22:07:03",
+      "https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued"
+    ],
+    [
+      "GitHub Copilot is Getting Sued",
+      "https://build.typogram.co/p/github-copilot-is-getting-sued"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2022-11-15, 21:32:12",
-      "https://lobste.rs/s/x2bknz/adventures_making_my_website_static_site"
-    ],
-    [
-      "Adventures in making my website: static site generation",
-      "https://prefetch.eu/blog/2022/website-adventures-generators/"
-    ]
-  ],
-  [
-    [
       "2022-11-15, 18:04:48",
       "https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly"
     ],
     [
       "Sapling: Source control that’s user-friendly and scalable",
       "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 15:45:46",
-      "https://lobste.rs/s/nzkjwp/stealing_passwords_from_infosec"
-    ],
-    [
-      "Stealing passwords from infosec Mastodon - without bypassing CSP",
-      "https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp"
     ]
   ]
 ]
