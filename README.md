@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 06:58:26](https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity) - [Connect FreeBSD to FreeIPA/Red Hat Identity Management](https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-17, 03:08:41](https://lobste.rs/s/lrzggf/hardware_backdoors_x86_cpus) - [Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY)
 * [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
@@ -17,7 +18,6 @@
 * [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search) - [cshuaimin/ssr.nvim: Structural search and replace](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
-* [2022-11-16, 15:17:37](https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded) - [Understanding the UBI File System in Embedded Devices](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
 * [2022-11-16, 14:04:12](https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time) - [Announcing greptimedb, a scalable time-series database we are working on](https://www.greptime.com/blogs/2022-11-15-this-time-for-real)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)

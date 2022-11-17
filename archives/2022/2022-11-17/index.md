@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 06:58:26](https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity) - [Connect FreeBSD to FreeIPA/Red Hat Identity Management](https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-17, 03:08:41](https://lobste.rs/s/lrzggf/hardware_backdoors_x86_cpus) - [Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY)
 * [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
