@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 17:57:29](https://lobste.rs/s/envyzl/fast_declarative_reproducible) - [Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
 * [2022-11-17, 14:54:57](https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go) - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
@@ -20,7 +21,6 @@
 * [2022-11-16, 20:00:09](https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques) - [Seamless texture tiling techniques](https://iquilezles.org/articles/texturerepetition/)
 * [2022-11-16, 19:33:09](https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird) - [Why is the terminal input so weird?](https://www.warp.dev/blog/why-is-the-terminal-input-so-weird)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
-* [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search) - [cshuaimin/ssr.nvim: Structural search and replace](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
