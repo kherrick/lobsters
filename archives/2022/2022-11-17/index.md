@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
+* [2022-11-17, 19:35:54](https://lobste.rs/s/wicg1z/faster_dns_name_decompression) - [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
 * [2022-11-17, 18:50:29](https://lobste.rs/s/jqnrvz/self_self_whys_wherefores_2009) - [Self and Self: Whys and Wherefores (2009)](https://www.youtube.com/watch?v=3ka4KY7TMTU)
 * [2022-11-17, 18:45:46](https://lobste.rs/s/gkipy5/c_for_babies) - [C# for Babies](https://lp.jetbrains.com/csharp-for-babies/)
 * [2022-11-17, 18:40:44](https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter) - [TinyBASIC: a graphical BASIC interpreter for Uxntal](https://git.sr.ht/~rabbits/tiny-basic)
