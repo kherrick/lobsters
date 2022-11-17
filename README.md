@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 14:28:50](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get) - [Run SQL queries against your system and get back structured data using osquery and Babashka](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get)
 * [2022-11-17, 14:17:10](https://lobste.rs/s/zy7q4t/online_deadlock_detection_go_golang) - [Online deadlock detection in go (golang)](https://github.com/sasha-s/go-deadlock)
 * [2022-11-17, 13:17:26](https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive) - [Diagrammar: Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
@@ -23,7 +24,6 @@
 * [2022-11-16, 14:04:12](https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time) - [Announcing greptimedb, a scalable time-series database we are working on](https://www.greptime.com/blogs/2022-11-15-this-time-for-real)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
-* [2022-11-16, 01:19:00](https://lobste.rs/s/vmg6cb/digital_books_wear_out_faster_than) - [Digital Books wear out faster than Physical Books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
 * [2022-11-15, 18:04:48](https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
 
 ## [Archives](archives/index.md)
