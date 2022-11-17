@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
 * [2022-11-17, 14:54:57](https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go) - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
 * [2022-11-17, 14:28:50](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get) - [Run SQL queries against your system and get back structured data using osquery and Babashka](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get)

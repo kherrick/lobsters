@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
 * [2022-11-17, 14:54:57](https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go) - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
 * [2022-11-17, 14:28:50](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get) - [Run SQL queries against your system and get back structured data using osquery and Babashka](https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get)
@@ -22,7 +23,6 @@
 * [2022-11-16, 17:20:34](https://lobste.rs/s/seyqnp/how_does_linux_kernel_run_program) - [How does the Linux kernel run a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search) - [cshuaimin/ssr.nvim: Structural search and replace](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
-* [2022-11-16, 14:04:12](https://lobste.rs/s/mpzj9g/announcing_greptimedb_scalable_time) - [Announcing greptimedb, a scalable time-series database we are working on](https://www.greptime.com/blogs/2022-11-15-this-time-for-real)
 * [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
 * [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 
