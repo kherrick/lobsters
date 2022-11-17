@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 22:28:22](https://lobste.rs/s/6mkhbf/pushing_back) - [Pushing Back](https://wellquite.org/posts/lshift/pushing_back/)
 * [2022-11-17, 21:01:39](https://lobste.rs/s/85g5fz/target_clones_is_trap) - [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
 * [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
@@ -18,7 +19,6 @@
 * [2022-11-17, 06:58:26](https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity) - [Connect FreeBSD to FreeIPA/Red Hat Identity Management](https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
-* [2022-11-17, 00:38:32](https://lobste.rs/s/qxw857/rfc_9078_reaction_indicating_summary) - [RFC 9078: Reaction: Indicating Summary Reaction to a Message](https://datatracker.ietf.org/doc/rfc9078/)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
 * [2022-11-16, 22:07:03](https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued) - [GitHub Copilot is Getting Sued](https://build.typogram.co/p/github-copilot-is-getting-sued)
