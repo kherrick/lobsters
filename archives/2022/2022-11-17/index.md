@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
+* [2022-11-17, 18:15:24](https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world) - [Building a Dynamic VRChat World](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 * [2022-11-17, 17:57:29](https://lobste.rs/s/envyzl/fast_declarative_reproducible) - [Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)

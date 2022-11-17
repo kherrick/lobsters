@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
+* [2022-11-17, 18:15:24](https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world) - [Building a Dynamic VRChat World](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 * [2022-11-17, 17:57:29](https://lobste.rs/s/envyzl/fast_declarative_reproducible) - [Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
@@ -23,8 +25,6 @@
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
 * [2022-11-16, 16:14:32](https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search) - [cshuaimin/ssr.nvim: Structural search and replace](https://github.com/cshuaimin/ssr.nvim/)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
-* [2022-11-16, 11:31:00](https://lobste.rs/s/e0vx3s/ai_found_bug_my_code) - [AI Found a Bug in My Code](https://joel.tools/codegen/)
-* [2022-11-16, 07:36:13](https://lobste.rs/s/tzpwfk/finding_sbc) - [Finding an SBC](https://blog.brixit.nl/finding-an-sbc/)
 
 ## [Archives](archives/index.md)
 
