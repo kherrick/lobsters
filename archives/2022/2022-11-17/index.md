@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 21:01:39](https://lobste.rs/s/85g5fz/target_clones_is_trap) - [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
 * [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
 * [2022-11-17, 19:35:54](https://lobste.rs/s/wicg1z/faster_dns_name_decompression) - [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
