@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 14:54:57",
+      "https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go"
+    ],
+    [
+      "Let's write a tiny chess engine in Go",
+      "https://zserge.com/posts/carnatus/"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 14:28:50",
       "https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get"
     ],
@@ -237,16 +247,6 @@
     [
       "Finding an SBC",
       "https://blog.brixit.nl/finding-an-sbc/"
-    ]
-  ],
-  [
-    [
-      "2022-11-15, 18:04:48",
-      "https://lobste.rs/s/6jllik/sapling_source_control_s_user_friendly"
-    ],
-    [
-      "Sapling: Source control that’s user-friendly and scalable",
-      "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
     ]
   ]
 ]
