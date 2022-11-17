@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-17, 18:45:46",
+      "https://lobste.rs/s/gkipy5/c_for_babies"
+    ],
+    [
+      "C# for Babies",
+      "https://lp.jetbrains.com/csharp-for-babies/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 18:40:44",
+      "https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter"
+    ],
+    [
+      "TinyBASIC: a graphical BASIC interpreter for Uxntal",
+      "https://git.sr.ht/~rabbits/tiny-basic"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 18:27:32",
       "https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2022-11-17, 14:17:10",
-      "https://lobste.rs/s/zy7q4t/online_deadlock_detection_go_golang"
-    ],
-    [
-      "Online deadlock detection in go (golang)",
-      "https://github.com/sasha-s/go-deadlock"
-    ]
-  ],
-  [
-    [
       "2022-11-17, 13:17:26",
       "https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive"
     ],
@@ -127,16 +137,6 @@
     [
       "Easy Interfaces with Zig 0.10.0",
       "https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 03:08:41",
-      "https://lobste.rs/s/lrzggf/hardware_backdoors_x86_cpus"
-    ],
-    [
-      "Hardware Backdoors in x86 CPUs",
-      "https://www.youtube.com/watch?v=_eSAF_qT_FY"
     ]
   ],
   [
