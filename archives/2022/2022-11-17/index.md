@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 18:50:29](https://lobste.rs/s/jqnrvz/self_self_whys_wherefores_2009) - [Self and Self: Whys and Wherefores (2009)](https://www.youtube.com/watch?v=3ka4KY7TMTU)
 * [2022-11-17, 18:45:46](https://lobste.rs/s/gkipy5/c_for_babies) - [C# for Babies](https://lp.jetbrains.com/csharp-for-babies/)
 * [2022-11-17, 18:40:44](https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter) - [TinyBASIC: a graphical BASIC interpreter for Uxntal](https://git.sr.ht/~rabbits/tiny-basic)
 * [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
