@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
 * [2022-11-17, 22:52:07](https://lobste.rs/s/r0rtob/micropython_officially_becomes_part) - [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 * [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_zero_devops_kubernetes) - [Launchpad: Zero devOps Kubernetes deployments](https://github.com/jetpack-io/launchpad)
+* [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes) - [Launchpad: All in one Kubernetes development workflow](https://github.com/jetpack-io/launchpad)
 * [2022-11-17, 22:28:22](https://lobste.rs/s/6mkhbf/pushing_back) - [Pushing Back](https://wellquite.org/posts/lshift/pushing_back/)
 * [2022-11-17, 21:01:39](https://lobste.rs/s/85g5fz/target_clones_is_trap) - [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
