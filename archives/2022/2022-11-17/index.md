@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 18:45:46](https://lobste.rs/s/gkipy5/c_for_babies) - [C# for Babies](https://lp.jetbrains.com/csharp-for-babies/)
+* [2022-11-17, 18:40:44](https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter) - [TinyBASIC: a graphical BASIC interpreter for Uxntal](https://git.sr.ht/~rabbits/tiny-basic)
 * [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
 * [2022-11-17, 18:15:24](https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world) - [Building a Dynamic VRChat World](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 * [2022-11-17, 17:57:29](https://lobste.rs/s/envyzl/fast_declarative_reproducible) - [Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/)
