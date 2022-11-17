@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-17, 18:27:32",
+      "https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra"
+    ],
+    [
+      "Security concerns with the e-Tugra certificate authority",
+      "https://ian.sh/etugra"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 18:15:24",
+      "https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world"
+    ],
+    [
+      "Building a Dynamic VRChat World",
+      "https://blog.natalie.ee/posts/building-dynamic-vrchat-world/"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 17:57:29",
       "https://lobste.rs/s/envyzl/fast_declarative_reproducible"
     ],
@@ -227,26 +247,6 @@
     [
       "Let's Prove Leftpad",
       "https://www.hillelwayne.com/post/lpl/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 11:31:00",
-      "https://lobste.rs/s/e0vx3s/ai_found_bug_my_code"
-    ],
-    [
-      "AI Found a Bug in My Code",
-      "https://joel.tools/codegen/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 07:36:13",
-      "https://lobste.rs/s/tzpwfk/finding_sbc"
-    ],
-    [
-      "Finding an SBC",
-      "https://blog.brixit.nl/finding-an-sbc/"
     ]
   ]
 ]
