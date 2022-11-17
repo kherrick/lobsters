@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 06:58:26",
+      "https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity"
+    ],
+    [
+      "Connect FreeBSD to FreeIPA/Red Hat Identity Management",
+      "https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 05:24:09",
       "https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0"
     ],
@@ -167,16 +177,6 @@
     [
       "Let's Prove Leftpad",
       "https://www.hillelwayne.com/post/lpl/"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 15:17:37",
-      "https://lobste.rs/s/180mdf/understanding_ubi_file_system_embedded"
-    ],
-    [
-      "Understanding the UBI File System in Embedded Devices",
-      "https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/"
     ]
   ],
   [
