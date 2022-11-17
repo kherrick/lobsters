@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-17, 19:38:02",
+      "https://lobste.rs/s/p977tl/kindelia_foundation"
+    ],
+    [
+      "Kindelia Foundation",
+      "https://kindelia.org/"
+    ]
+  ],
+  [
+    [
+      "2022-11-17, 19:35:54",
+      "https://lobste.rs/s/wicg1z/faster_dns_name_decompression"
+    ],
+    [
+      "Faster DNS name decompression",
+      "https://dotat.at/@/2022-11-17-dns-decompress.html"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 18:50:29",
       "https://lobste.rs/s/jqnrvz/self_self_whys_wherefores_2009"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2022-11-17, 14:28:50",
+      "https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get"
+    ],
+    [
+      "Run SQL queries against your system and get back structured data using osquery and Babashka",
+      "https://lobste.rs/s/psardi/run_sql_queries_against_your_system_get"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 13:17:26",
       "https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-11-16, 23:21:25",
-      "https://lobste.rs/s/1oiymo/fosdem_2023_nix_nixos_devroom"
-    ],
-    [
-      "FOSDEM 2023: Nix and NixOS devroom",
-      "https://discourse.nixos.org/t/fosdem-2023-nix-and-nixos-devroom/23133?u=bjth"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 22:52:39",
       "https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-16, 20:00:09",
-      "https://lobste.rs/s/ohfzsl/seamless_texture_tiling_techniques"
-    ],
-    [
-      "Seamless texture tiling techniques",
-      "https://iquilezles.org/articles/texturerepetition/"
-    ]
-  ],
-  [
-    [
       "2022-11-16, 19:33:09",
       "https://lobste.rs/s/scpvw0/why_is_terminal_input_so_weird"
     ],
@@ -227,16 +237,6 @@
     [
       "Debugging mysterious traffic from Boardman, OR",
       "https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 16:14:32",
-      "https://lobste.rs/s/zi2xbs/cshuaimin_ssr_nvim_structural_search"
-    ],
-    [
-      "cshuaimin/ssr.nvim: Structural search and replace",
-      "https://github.com/cshuaimin/ssr.nvim/"
     ]
   ],
   [
