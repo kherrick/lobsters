@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-17, 14:17:10](https://lobste.rs/s/zy7q4t/online_deadlock_detection_go_golang) - [Online deadlock detection in go (golang)](https://github.com/sasha-s/go-deadlock)
 * [2022-11-17, 13:17:26](https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive) - [Diagrammar: Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 * [2022-11-17, 07:33:08](https://lobste.rs/s/odxpgi/sreutils_structural_regex_powered_grep) - [sreutils: structural regex powered grep(, sed and awk)](https://github.com/segf00lt/sreutils)
@@ -8,7 +9,6 @@
 * [2022-11-17, 03:08:41](https://lobste.rs/s/lrzggf/hardware_backdoors_x86_cpus) - [Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY)
 * [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
 * [2022-11-17, 00:38:32](https://lobste.rs/s/qxw857/rfc_9078_reaction_indicating_summary) - [RFC 9078: Reaction: Indicating Summary Reaction to a Message](https://datatracker.ietf.org/doc/rfc9078/)
-* [2022-11-16, 23:44:06](https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional) - [What’s so great about functional programming anyway?](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway)
 * [2022-11-16, 23:21:25](https://lobste.rs/s/1oiymo/fosdem_2023_nix_nixos_devroom) - [FOSDEM 2023: Nix and NixOS devroom](https://discourse.nixos.org/t/fosdem-2023-nix-and-nixos-devroom/23133?u=bjth)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)

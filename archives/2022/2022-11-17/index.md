@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-17](index.md)
 
+* [2022-11-17, 14:17:10](https://lobste.rs/s/zy7q4t/online_deadlock_detection_go_golang) - [Online deadlock detection in go (golang)](https://github.com/sasha-s/go-deadlock)
 * [2022-11-17, 13:17:26](https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive) - [Diagrammar: Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 * [2022-11-17, 07:33:08](https://lobste.rs/s/odxpgi/sreutils_structural_regex_powered_grep) - [sreutils: structural regex powered grep(, sed and awk)](https://github.com/segf00lt/sreutils)
