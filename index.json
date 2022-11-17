@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-17, 15:34:31",
+      "https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded"
+    ],
+    [
+      "The Effectiveness of Checksums for Embedded Control Networks",
+      "https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 14:54:57",
       "https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go"
     ],
@@ -167,16 +177,6 @@
     [
       "Why is the terminal input so weird?",
       "https://www.warp.dev/blog/why-is-the-terminal-input-so-weird"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 18:02:51",
-      "https://lobste.rs/s/lvb8in/p2723r0_zero_initialize_objects"
-    ],
-    [
-      "P2723R0: Zero-initialize objects of automatic storage duration",
-      "https://isocpp.org/files/papers/P2723R0.html"
     ]
   ],
   [
