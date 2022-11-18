@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 04:33:52](https://lobste.rs/s/5pzyfh/dissecting_dummy_promo_minidisc) - [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 * [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 * [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
@@ -15,7 +16,6 @@
 * [2022-11-17, 18:15:24](https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world) - [Building a Dynamic VRChat World](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 * [2022-11-17, 17:57:29](https://lobste.rs/s/envyzl/fast_declarative_reproducible) - [Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
-* [2022-11-17, 15:34:31](https://lobste.rs/s/jhkkao/effectiveness_checksums_for_embedded) - [The Effectiveness of Checksums for Embedded Control Networks](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
 * [2022-11-17, 14:54:57](https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go) - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
 * [2022-11-17, 13:17:26](https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive) - [Diagrammar: Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
