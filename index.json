@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-18, 17:30:39",
+      "https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker"
+    ],
+    [
+      "bluewhalesystems/sold: The sold linker",
+      "https://github.com/bluewhalesystems/sold"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 17:10:19",
       "https://lobste.rs/s/hpia4x/how_use_raspberry_pi_kiosk_mode"
     ],
@@ -157,16 +167,6 @@
     [
       "Faster DNS name decompression",
       "https://dotat.at/@/2022-11-17-dns-decompress.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 18:40:44",
-      "https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter"
-    ],
-    [
-      "TinyBASIC: a graphical BASIC interpreter for Uxntal",
-      "https://git.sr.ht/~rabbits/tiny-basic"
     ]
   ],
   [
