@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-18, 14:53:46](https://lobste.rs/s/5nrboi/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/?)
 * [2022-11-18, 11:18:54](https://lobste.rs/s/hhw8kd/monolith_real_time_recommendation) - [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)
 * [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
@@ -21,6 +20,7 @@
 * [2022-11-17, 14:54:57](https://lobste.rs/s/y6dcv8/let_s_write_tiny_chess_engine_go) - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
 * [2022-11-17, 13:17:26](https://lobste.rs/s/m6guxi/diagrammar_simply_make_interactive) - [Diagrammar: Simply Make Interactive Diagrams](https://www.youtube.com/watch?v=gT9Xu-ctNqI)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
+* [2022-11-17, 06:58:26](https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity) - [Connect FreeBSD to FreeIPA/Red Hat Identity Management](https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
