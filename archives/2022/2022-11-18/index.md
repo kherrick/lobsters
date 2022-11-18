@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-18](index.md)
 
+* [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 * [2022-11-18, 04:33:52](https://lobste.rs/s/5pzyfh/dissecting_dummy_promo_minidisc) - [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
