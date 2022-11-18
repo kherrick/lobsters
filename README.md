@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 17:10:19](https://lobste.rs/s/hpia4x/how_use_raspberry_pi_kiosk_mode) - [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
@@ -24,7 +25,6 @@
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
-* [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 
 ## [Archives](archives/index.md)
 
