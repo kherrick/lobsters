@@ -22,10 +22,10 @@
   [
     [
       "2022-11-17, 22:51:37",
-      "https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes"
+      "https://lobste.rs/s/alvb7n/launchpad_deploy_on_kubernetes_without"
     ],
     [
-      "Launchpad: All in one Kubernetes development workflow",
+      "Launchpad: deploy on Kubernetes, without any Kubernetes knowledge",
       "https://github.com/jetpack-io/launchpad"
     ]
   ],
