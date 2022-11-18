@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 17:10:19](https://lobste.rs/s/hpia4x/how_use_raspberry_pi_kiosk_mode) - [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 * [2022-11-18, 16:16:10](https://lobste.rs/s/uihych/unauthenticated_remote_code_execution) - [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
@@ -16,7 +17,6 @@
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
 * [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
 * [2022-11-17, 19:35:54](https://lobste.rs/s/wicg1z/faster_dns_name_decompression) - [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
-* [2022-11-17, 18:40:44](https://lobste.rs/s/jvcsmo/tinybasic_graphical_basic_interpreter) - [TinyBASIC: a graphical BASIC interpreter for Uxntal](https://git.sr.ht/~rabbits/tiny-basic)
 * [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
 * [2022-11-17, 18:15:24](https://lobste.rs/s/fgiyt2/building_dynamic_vrchat_world) - [Building a Dynamic VRChat World](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-18](index.md)
 
+* [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 17:10:19](https://lobste.rs/s/hpia4x/how_use_raspberry_pi_kiosk_mode) - [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 * [2022-11-18, 16:16:10](https://lobste.rs/s/uihych/unauthenticated_remote_code_execution) - [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
