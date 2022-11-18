@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 * [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 * [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
 * [2022-11-17, 22:52:07](https://lobste.rs/s/r0rtob/micropython_officially_becomes_part) - [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
@@ -20,7 +21,6 @@
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 * [2022-11-17, 06:58:26](https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity) - [Connect FreeBSD to FreeIPA/Red Hat Identity Management](https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
-* [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
