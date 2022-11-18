@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 11:18:54](https://lobste.rs/s/hhw8kd/monolith_real_time_recommendation) - [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)
 * [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
-* [2022-11-18, 04:33:52](https://lobste.rs/s/5pzyfh/dissecting_dummy_promo_minidisc) - [Dissecting a Dummy Promo MiniDisc](https://www.pagetable.com/?p=1693)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 * [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 * [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
