@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-18](index.md)
 
+* [2022-11-18, 18:18:01](https://lobste.rs/s/abjnzo/inside_boost_unordered_flat_map) - [Inside boost::unordered_flat_map](https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1)
 * [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
