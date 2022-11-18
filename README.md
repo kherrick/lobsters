@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 16:16:10](https://lobste.rs/s/uihych/unauthenticated_remote_code_execution) - [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
 * [2022-11-18, 11:18:54](https://lobste.rs/s/hhw8kd/monolith_real_time_recommendation) - [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)
 * [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 * [2022-11-17, 05:24:09](https://lobste.rs/s/sygfxw/easy_interfaces_with_zig_0_10_0) - [Easy Interfaces with Zig 0.10.0](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
-* [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 
 ## [Archives](archives/index.md)
