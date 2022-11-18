@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-18](index.md)
 
+* [2022-11-18, 14:53:46](https://lobste.rs/s/5nrboi/sapling_source_control_s_user_friendly) - [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/?)
 * [2022-11-18, 11:18:54](https://lobste.rs/s/hhw8kd/monolith_real_time_recommendation) - [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)
 * [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
