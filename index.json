@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-18, 15:30:37",
+      "https://lobste.rs/s/vhxxjj/google_s_go_styleguide"
+    ],
+    [
+      "Google's go styleguide",
+      "https://google.github.io/styleguide/go/guide"
+    ]
+  ],
+  [
+    [
       "2022-11-18, 11:18:54",
       "https://lobste.rs/s/hhw8kd/monolith_real_time_recommendation"
     ],
@@ -197,16 +207,6 @@
     [
       "Considering C99 for curl",
       "https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 06:58:26",
-      "https://lobste.rs/s/xktw2j/connect_freebsd_freeipa_red_hat_identity"
-    ],
-    [
-      "Connect FreeBSD to FreeIPA/Red Hat Identity Management",
-      "https://vermaden.wordpress.com/2022/11/17/connect-freebsd-freeipa-idm/"
     ]
   ],
   [
