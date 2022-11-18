@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 * [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
 * [2022-11-17, 22:52:07](https://lobste.rs/s/r0rtob/micropython_officially_becomes_part) - [MicroPython officially becomes part of the Arduino ecosystem](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
-* [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_deploy_on_kubernetes_without) - [Launchpad: deploy on Kubernetes, without any Kubernetes knowledge](https://github.com/jetpack-io/launchpad)
+* [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes) - [Launchpad: All in one Kubernetes deployments](https://github.com/jetpack-io/launchpad)
 * [2022-11-17, 22:28:22](https://lobste.rs/s/6mkhbf/pushing_back) - [Pushing Back](https://wellquite.org/posts/lshift/pushing_back/)
 * [2022-11-17, 21:01:39](https://lobste.rs/s/85g5fz/target_clones_is_trap) - [target_clones is a trap](https://cohost.org/zeux/post/321642-target-clones-is-a-t)
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
@@ -22,7 +23,6 @@
 * [2022-11-17, 01:59:08](https://lobste.rs/s/uzwd5j/autohotunit_unit_testing_framework_for) - [AutoHotUnit: A unit testing framework for AutoHotkey](https://github.com/joshuacc/AutoHotUnit)
 * [2022-11-16, 22:52:39](https://lobste.rs/s/teffwy/infosys_leaked_fulladminaccess_aws_keys) - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/)
 * [2022-11-16, 22:12:02](https://lobste.rs/s/wfw1cz/noticing_preventing_network_requests) - [noticing and preventing network requests should be easy](https://github.com/nathants/mighty-snitch)
-* [2022-11-16, 22:07:03](https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued) - [GitHub Copilot is Getting Sued](https://build.typogram.co/p/github-copilot-is-getting-sued)
 * [2022-11-16, 17:56:21](https://lobste.rs/s/iym7eb/debugging_mysterious_traffic_from) - [Debugging mysterious traffic from Boardman, OR](https://contra.com/p/rvYgOWmF-debugging-mysterious-traffic-from-boardman-or)
 * [2022-11-16, 16:06:44](https://lobste.rs/s/u768se/let_s_prove_leftpad) - [Let's Prove Leftpad](https://www.hillelwayne.com/post/lpl/)
 
