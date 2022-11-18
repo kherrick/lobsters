@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-18, 00:02:50",
+      "https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon"
+    ],
+    [
+      "Resize a video with FFmpeg for Mastodon",
+      "https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/"
+    ]
+  ],
+  [
+    [
       "2022-11-17, 23:36:10",
       "https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one"
     ],
@@ -22,10 +32,10 @@
   [
     [
       "2022-11-17, 22:51:37",
-      "https://lobste.rs/s/alvb7n/launchpad_deploy_on_kubernetes_without"
+      "https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes"
     ],
     [
-      "Launchpad: deploy on Kubernetes, without any Kubernetes knowledge",
+      "Launchpad: All in one Kubernetes deployments",
       "https://github.com/jetpack-io/launchpad"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "noticing and preventing network requests should be easy",
       "https://github.com/nathants/mighty-snitch"
-    ]
-  ],
-  [
-    [
-      "2022-11-16, 22:07:03",
-      "https://lobste.rs/s/vlwboy/github_copilot_is_getting_sued"
-    ],
-    [
-      "GitHub Copilot is Getting Sued",
-      "https://build.typogram.co/p/github-copilot-is-getting-sued"
     ]
   ],
   [
