@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 03:32:52](https://lobste.rs/s/mnbebj/i_ve_seen_lot_people_asking_why_does) - [I've seen a lot of people asking \"why does everyone think Twitter is doomed?\"](https://twitter.com/MosquitoCapital/status/1593552978811957248)
 * [2022-11-19, 02:52:46](https://lobste.rs/s/g25ixp/rust_6_2_kernel) - [Rust in the 6.2 kernel](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/)
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * [2022-11-18, 23:09:36](https://lobste.rs/s/rbv7vy/letting_mu4e_reply_from_catchall_address) - [Letting mu4e reply from a catchall address](https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/)
@@ -22,7 +23,6 @@
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
 * [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
 * [2022-11-17, 19:35:54](https://lobste.rs/s/wicg1z/faster_dns_name_decompression) - [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
-* [2022-11-17, 18:27:32](https://lobste.rs/s/jmv8kq/security_concerns_with_e_tugra) - [Security concerns with the e-Tugra certificate authority](https://ian.sh/etugra)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)
 
