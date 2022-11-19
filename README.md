@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
+* [2022-11-19, 20:03:12](https://lobste.rs/s/nybutx/secure_efficient) - [Secure and efficient QNetworkAccessManager use](https://www.volkerkrause.eu/2022/11/19/qt-qnetworkaccessmanager-best-practices.html)
 * [2022-11-19, 19:25:29](https://lobste.rs/s/8li2jq/web_technology_optimism_hour) - [Web technology optimism hour](https://macwright.com/2022/11/18/optimism-updates.html)
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:42:58](https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow) - [If a Tree Falls in a Forest, Does It Overflow the Stack?](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
@@ -22,8 +24,6 @@
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 * [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
-* [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
-* [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes) - [Launchpad: All in one Kubernetes deployments](https://github.com/jetpack-io/launchpad)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 
 ## [Archives](archives/index.md)
