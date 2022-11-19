@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
 * [2022-11-19, 20:03:12](https://lobste.rs/s/nybutx/secure_efficient) - [Secure and efficient QNetworkAccessManager use](https://www.volkerkrause.eu/2022/11/19/qt-qnetworkaccessmanager-best-practices.html)
@@ -16,7 +17,6 @@
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * [2022-11-18, 23:09:36](https://lobste.rs/s/rbv7vy/letting_mu4e_reply_from_catchall_address) - [Letting mu4e reply from a catchall address](https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
-* [2022-11-18, 18:18:01](https://lobste.rs/s/abjnzo/inside_boost_unordered_flat_map) - [Inside boost::unordered_flat_map](https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1)
 * [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
