@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 16:45:53",
+      "https://lobste.rs/s/8ptksk/watch_quake_quake_1_port_for_apple_watch"
+    ],
+    [
+      "Watch_Quake: Quake 1 port for Apple Watch",
+      "https://github.com/ByteOverlord/Watch_Quake"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 15:04:22",
       "https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver"
     ],
@@ -177,16 +187,6 @@
     [
       "The Rails Foundation kicks off with one million dollars",
       "https://rubyonrails.org/2022/11/14/the-rails-foundation"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 22:52:07",
-      "https://lobste.rs/s/r0rtob/micropython_officially_becomes_part"
-    ],
-    [
-      "MicroPython officially becomes part of the Arduino ecosystem",
-      "https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/"
     ]
   ],
   [
