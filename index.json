@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 20:46:56",
+      "https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks"
+    ],
+    [
+      "Higher-Order Leak and Deadlock Free Locks",
+      "https://julesjacobs.com/pdf/locks.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 20:38:43",
       "https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus"
     ],
@@ -157,16 +167,6 @@
     [
       "Investigating why Steam started picking a random font",
       "http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 18:18:01",
-      "https://lobste.rs/s/abjnzo/inside_boost_unordered_flat_map"
-    ],
-    [
-      "Inside boost::unordered_flat_map",
-      "https://bannalia.blogspot.com/2022/11/inside-boostunorderedflatmap.html?m=1"
     ]
   ],
   [
