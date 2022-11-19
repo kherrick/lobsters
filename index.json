@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-19, 20:09:56",
+      "https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online"
+    ],
+    [
+      "Don't store TOTP in Bitwarden for your online accounts",
+      "https://prezu.ca/post/dont-use-totp-in-bitwarden/"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 20:03:12",
+      "https://lobste.rs/s/nybutx/secure_efficient"
+    ],
+    [
+      "Secure and efficient QNetworkAccessManager use",
+      "https://www.volkerkrause.eu/2022/11/19/qt-qnetworkaccessmanager-best-practices.html"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 19:25:29",
       "https://lobste.rs/s/8li2jq/web_technology_optimism_hour"
     ],
@@ -217,26 +237,6 @@
     [
       "Resize a video with FFmpeg for Mastodon",
       "https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 23:36:10",
-      "https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one"
-    ],
-    [
-      "The Rails Foundation kicks off with one million dollars",
-      "https://rubyonrails.org/2022/11/14/the-rails-foundation"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 22:51:37",
-      "https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes"
-    ],
-    [
-      "Launchpad: All in one Kubernetes deployments",
-      "https://github.com/jetpack-io/launchpad"
     ]
   ],
   [
