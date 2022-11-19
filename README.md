@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 17:08:27](https://lobste.rs/s/h9an60/fiwixos_3_2_released) - [FiwixOS 3.2 released](https://www.fiwix.org/news/20221115.html)
 * [2022-11-19, 16:45:53](https://lobste.rs/s/8ptksk/watch_quake_quake_1_port_for_apple_watch) - [Watch_Quake: Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
 * [2022-11-19, 15:04:22](https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver) - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
@@ -21,7 +22,6 @@
 * [2022-11-17, 23:36:10](https://lobste.rs/s/rpraxd/rails_foundation_kicks_off_with_one) - [The Rails Foundation kicks off with one million dollars](https://rubyonrails.org/2022/11/14/the-rails-foundation)
 * [2022-11-17, 22:51:37](https://lobste.rs/s/alvb7n/launchpad_all_one_kubernetes) - [Launchpad: All in one Kubernetes deployments](https://github.com/jetpack-io/launchpad)
 * [2022-11-17, 20:18:13](https://lobste.rs/s/artq99/is_everything_is_file) - [Is Everything Is A File?](https://blog.sunfishcode.online/is-everything-is-a-file/)
-* [2022-11-17, 19:38:02](https://lobste.rs/s/p977tl/kindelia_foundation) - [Kindelia Foundation](https://kindelia.org/)
 * [2022-11-17, 19:35:54](https://lobste.rs/s/wicg1z/faster_dns_name_decompression) - [Faster DNS name decompression](https://dotat.at/@/2022-11-17-dns-decompress.html)
 * [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 * [2022-11-17, 11:49:54](https://lobste.rs/s/yjwbha/considering_c99_for_curl) - [Considering C99 for curl](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-19](index.md)
 
+* [2022-11-19, 17:08:27](https://lobste.rs/s/h9an60/fiwixos_3_2_released) - [FiwixOS 3.2 released](https://www.fiwix.org/news/20221115.html)
 * [2022-11-19, 16:45:53](https://lobste.rs/s/8ptksk/watch_quake_quake_1_port_for_apple_watch) - [Watch_Quake: Quake 1 port for Apple Watch](https://github.com/ByteOverlord/Watch_Quake)
 * [2022-11-19, 15:04:22](https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver) - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
