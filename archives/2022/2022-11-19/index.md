@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-19](index.md)
 
+* [2022-11-19, 19:25:29](https://lobste.rs/s/8li2jq/web_technology_optimism_hour) - [Web technology optimism hour](https://macwright.com/2022/11/18/optimism-updates.html)
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:42:58](https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow) - [If a Tree Falls in a Forest, Does It Overflow the Stack?](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
 * [2022-11-19, 18:36:13](https://lobste.rs/s/9e8qsh/go_1_21_may_have_clear_x_builtin) - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
