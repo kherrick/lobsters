@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 03:52:12](https://lobste.rs/s/qkjjp0/spark_by_example_is_adaptation_acsl_by) - [SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is](https://github.com/tofgarion/spark-by-example/tree/Community2019)
 * [2022-11-19, 03:32:52](https://lobste.rs/s/mnbebj/i_ve_seen_lot_people_asking_why_does) - [I've seen a lot of people asking \"why does everyone think Twitter is doomed?\"](https://twitter.com/MosquitoCapital/status/1593552978811957248)
 * [2022-11-19, 02:52:46](https://lobste.rs/s/g25ixp/rust_6_2_kernel) - [Rust in the 6.2 kernel](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/)
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
@@ -10,7 +11,6 @@
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 17:10:19](https://lobste.rs/s/hpia4x/how_use_raspberry_pi_kiosk_mode) - [How to use a Raspberry Pi in kiosk mode](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
-* [2022-11-18, 16:16:10](https://lobste.rs/s/uihych/unauthenticated_remote_code_execution) - [Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/blog/remote-code-execution-in-spotifys-backstage)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
 * [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
