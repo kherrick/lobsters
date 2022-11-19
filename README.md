@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
 * [2022-11-19, 20:03:12](https://lobste.rs/s/nybutx/secure_efficient) - [Secure and efficient QNetworkAccessManager use](https://www.volkerkrause.eu/2022/11/19/qt-qnetworkaccessmanager-best-practices.html)
 * [2022-11-19, 19:25:29](https://lobste.rs/s/8li2jq/web_technology_optimism_hour) - [Web technology optimism hour](https://macwright.com/2022/11/18/optimism-updates.html)
@@ -24,7 +25,6 @@
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 * [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
-* [2022-11-17, 17:03:27](https://lobste.rs/s/4lp2pz/bringing_revsets_git) - [Bringing revsets to Git](https://blog.waleedkhan.name/bringing-revsets-to-git/)
 
 ## [Archives](archives/index.md)
 
