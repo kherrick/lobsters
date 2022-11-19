@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
+* [2022-11-19, 22:15:45](https://lobste.rs/s/aiji0m/rssnix_is_unix_style_filesystem_based_rss) - [rssnix is a Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
 * [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
@@ -21,10 +23,8 @@
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
-* [2022-11-18, 11:07:43](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/htugyk/what_are_you_doing_this_weekend)
 * [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
-* [2022-11-18, 00:02:50](https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon) - [Resize a video with FFmpeg for Mastodon](https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/)
 
 ## [Archives](archives/index.md)
 

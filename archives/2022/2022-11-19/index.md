@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-19](index.md)
 
+* [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
+* [2022-11-19, 22:15:45](https://lobste.rs/s/aiji0m/rssnix_is_unix_style_filesystem_based_rss) - [rssnix is a Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
 * [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
