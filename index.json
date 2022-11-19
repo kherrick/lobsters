@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-19, 18:53:14",
+      "https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go"
+    ],
+    [
+      "coredumpctl, delve and debug packages for Go",
+      "https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/"
+    ]
+  ],
+  [
+    [
       "2022-11-19, 18:42:58",
       "https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow"
     ],
@@ -237,16 +247,6 @@
     [
       "Bringing revsets to Git",
       "https://blog.waleedkhan.name/bringing-revsets-to-git/"
-    ]
-  ],
-  [
-    [
-      "2022-11-17, 11:49:54",
-      "https://lobste.rs/s/yjwbha/considering_c99_for_curl"
-    ],
-    [
-      "Considering C99 for curl",
-      "https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/"
     ]
   ]
 ]
