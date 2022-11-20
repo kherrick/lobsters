@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 13:05:09](https://lobste.rs/s/om1vfr/codeguessr_geoguessr_like_game_for) - [Codeguessr - a Geoguessr-like game for popular open source projects](https://healeycodes.com/codeguessr)
 * [2022-11-20, 12:09:04](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include) - [Should Lobsters profiles include a/multiple Fediverse links?](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include)
 * [2022-11-20, 09:40:04](https://lobste.rs/s/td5s4u/web3_metaverse_lack_useful_innovation) - [Web3, the Metaverse, and the Lack of Useful Innovation](https://americanaffairsjournal.org/2022/11/web3-the-metaverse-and-the-lack-of-useful-innovation/)
 * [2022-11-20, 08:15:45](https://lobste.rs/s/vaf6tc/gitlab_as_terraform_state_backend) - [GitLab as a Terraform state backend](https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/)
@@ -24,7 +25,6 @@
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 * [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
-* [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 
 ## [Archives](archives/index.md)
 
