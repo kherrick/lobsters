@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
+* [2022-11-20, 16:24:17](https://lobste.rs/s/hjuqah/migrating_typescript_podcast_season) - [Migrating to TypeScript Podcast Season](https://open.spotify.com/show/5fVWxK2CksFsxm7Di7pvhY)
 * [2022-11-20, 16:05:13](https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from) - [Next steps toward mimmutable, from deraadt@](http://undeadly.org/cgi?action=article;sid=20221120115616)
 * [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 * [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
@@ -13,7 +15,6 @@
 * [2022-11-20, 02:44:40](https://lobste.rs/s/pyko5k/blink_tiniest_x86_64_linux_emulator) - [blink: tiniest x86-64-linux emulator](https://github.com/jart/blink)
 * [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
 * [2022-11-19, 22:15:45](https://lobste.rs/s/aiji0m/rssnix_is_unix_style_filesystem_based_rss) - [rssnix is a Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
-* [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
 * [2022-11-19, 19:25:29](https://lobste.rs/s/8li2jq/web_technology_optimism_hour) - [Web technology optimism hour](https://macwright.com/2022/11/18/optimism-updates.html)
@@ -23,7 +24,6 @@
 * [2022-11-19, 17:08:27](https://lobste.rs/s/h9an60/fiwixos_3_2_released) - [FiwixOS 3.2 released](https://www.fiwix.org/news/20221115.html)
 * [2022-11-19, 15:04:22](https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver) - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
-* [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 
 ## [Archives](archives/index.md)
