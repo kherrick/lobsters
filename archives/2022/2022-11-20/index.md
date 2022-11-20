@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
 * [2022-11-20, 16:24:17](https://lobste.rs/s/hjuqah/migrating_typescript_podcast_season) - [Migrating to TypeScript Podcast Season](https://open.spotify.com/show/5fVWxK2CksFsxm7Di7pvhY)
