@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
 * [2022-11-20, 16:24:17](https://lobste.rs/s/hjuqah/migrating_typescript_podcast_season) - [Migrating to TypeScript Podcast Season](https://open.spotify.com/show/5fVWxK2CksFsxm7Di7pvhY)
 * [2022-11-20, 16:05:13](https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from) - [Next steps toward mimmutable, from deraadt@](http://undeadly.org/cgi?action=article;sid=20221120115616)
