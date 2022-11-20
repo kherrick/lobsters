@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-20, 07:48:22",
+      "https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time"
+    ],
+    [
+      "Tracking Mastodon user numbers over time with a bucket of tricks",
+      "https://simonwillison.net/2022/Nov/20/tracking-mastodon/"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 04:48:36",
       "https://lobste.rs/s/f8127x/how_use_exceptions_correctly"
     ],
@@ -227,16 +237,6 @@
     [
       "bluewhalesystems/sold: The sold linker",
       "https://github.com/bluewhalesystems/sold"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 15:30:37",
-      "https://lobste.rs/s/vhxxjj/google_s_go_styleguide"
-    ],
-    [
-      "Google's go styleguide",
-      "https://google.github.io/styleguide/go/guide"
     ]
   ],
   [
