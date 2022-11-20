@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 16:05:13](https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from) - [Next steps toward mimmutable, from deraadt@](http://undeadly.org/cgi?action=article;sid=20221120115616)
 * [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 * [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
 * [2022-11-20, 13:05:09](https://lobste.rs/s/om1vfr/codeguessr_geoguessr_like_game_for) - [Codeguessr - a Geoguessr-like game for popular open source projects](https://healeycodes.com/codeguessr)
@@ -24,7 +25,6 @@
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
-* [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 
 ## [Archives](archives/index.md)
 

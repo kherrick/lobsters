@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 16:05:13](https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from) - [Next steps toward mimmutable, from deraadt@](http://undeadly.org/cgi?action=article;sid=20221120115616)
 * [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 * [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
 * [2022-11-20, 13:05:09](https://lobste.rs/s/om1vfr/codeguessr_geoguessr_like_game_for) - [Codeguessr - a Geoguessr-like game for popular open source projects](https://healeycodes.com/codeguessr)
