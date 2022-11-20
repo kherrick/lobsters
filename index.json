@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-11-20, 22:07:11",
+      "https://lobste.rs/s/j8jwvz/modern_observability_problem"
+    ],
+    [
+      "The Modern Observability Problem",
+      "https://failingfast.io/opentelemetry-observability/"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 22:03:37",
+      "https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc"
+    ],
+    [
+      "libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89",
+      "https://github.com/libav/c99-to-c89"
+    ]
+  ],
+  [
+    [
+      "2022-11-20, 21:58:42",
+      "https://lobste.rs/s/r4lsdd/machines_chaos"
+    ],
+    [
+      "Machines and Chaos",
+      "https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 21:37:14",
       "https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2022-11-20, 04:48:36",
-      "https://lobste.rs/s/f8127x/how_use_exceptions_correctly"
-    ],
-    [
-      "How To Use Exceptions Correctly",
-      "https://thelig.ht/correct-exceptions/"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 03:57:13",
       "https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-11-19, 20:09:56",
-      "https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online"
-    ],
-    [
-      "Don't store TOTP in Bitwarden for your online accounts",
-      "https://prezu.ca/post/dont-use-totp-in-bitwarden/"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 18:53:14",
       "https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go"
     ],
@@ -217,16 +227,6 @@
     [
       "Go 1.21 may have a clear(x) builtin",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 15:04:22",
-      "https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver"
-    ],
-    [
-      "Redbean Tiddlywiki Saver",
-      "https://rpdillon.net/redbean-tiddlywiki-saver.html"
     ]
   ],
   [
