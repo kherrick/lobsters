@@ -19,11 +19,11 @@
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
 * [2022-11-19, 02:52:46](https://lobste.rs/s/g25ixp/rust_6_2_kernel) - [Rust in the 6.2 kernel](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/)
 * [2022-11-19, 00:36:10](https://lobste.rs/s/9w29so/fediverse_could_be_awesome_if_we_don_t) - [The Fediverse Could Be Awesome (if we don’t screw it up)](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
-* [2022-11-18, 23:09:36](https://lobste.rs/s/rbv7vy/letting_mu4e_reply_from_catchall_address) - [Letting mu4e reply from a catchall address](https://bascht.com/tech/2022/11/09/letting-mu4e-reply-from-a-catchall-address/)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 * [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
+* [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 
 ## [Archives](archives/index.md)
