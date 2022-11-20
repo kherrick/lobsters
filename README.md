@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 01:47:46](https://lobste.rs/s/huasvd/i_quit_my_programmer_job_become_chicken) - [I Quit my Programmer Job to Become a Chicken](https://sebastiancarlos.medium.com/how-i-quit-my-programmer-job-to-become-a-chicken-b733c20680b1)
 * [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
 * [2022-11-19, 22:15:45](https://lobste.rs/s/aiji0m/rssnix_is_unix_style_filesystem_based_rss) - [rssnix is a Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader](https://github.com/jafarlihi/rssnix)
 * [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
@@ -23,7 +24,6 @@
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
 * [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
-* [2022-11-18, 10:21:24](https://lobste.rs/s/3lf26p/solving_puzzles_with_hypothesis) - [Solving puzzles with hypothesis](https://edoput.it/2022/11/18/hypothesis.html)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 
 ## [Archives](archives/index.md)
