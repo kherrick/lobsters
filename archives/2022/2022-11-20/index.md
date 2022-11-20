@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
+* [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
 * [2022-11-20, 13:05:09](https://lobste.rs/s/om1vfr/codeguessr_geoguessr_like_game_for) - [Codeguessr - a Geoguessr-like game for popular open source projects](https://healeycodes.com/codeguessr)
 * [2022-11-20, 12:09:04](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include) - [Should Lobsters profiles include a/multiple Fediverse links?](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include)
 * [2022-11-20, 09:40:04](https://lobste.rs/s/td5s4u/web3_metaverse_lack_useful_innovation) - [Web3, the Metaverse, and the Lack of Useful Innovation](https://americanaffairsjournal.org/2022/11/web3-the-metaverse-and-the-lack-of-useful-innovation/)
