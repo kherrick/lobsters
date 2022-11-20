@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-11-20, 21:58:42",
-      "https://lobste.rs/s/r4lsdd/machines_chaos"
-    ],
-    [
-      "Machines and Chaos",
-      "https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 21:37:14",
       "https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code"
     ],
@@ -197,6 +187,16 @@
     [
       "Scaling Mastodon in the Face of an Exodus",
       "https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/"
+    ]
+  ],
+  [
+    [
+      "2022-11-19, 20:09:56",
+      "https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online"
+    ],
+    [
+      "Don't store TOTP in Bitwarden for your online accounts",
+      "https://prezu.ca/post/dont-use-totp-in-bitwarden/"
     ]
   ],
   [
