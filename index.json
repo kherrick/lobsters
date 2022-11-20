@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-20, 17:19:55",
+      "https://lobste.rs/s/v8vipf/who_says_c_is_simple"
+    ],
+    [
+      "Who Says C is Simple?",
+      "https://cil-project.github.io/cil/doc/html/cil/cil016.html"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 16:39:49",
       "https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go"
     ],
@@ -147,16 +157,6 @@
     [
       "OKSolar - Improving on Solarized using the OKLab perceptual colorspace",
       "https://meat.io/oksolar"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 22:15:45",
-      "https://lobste.rs/s/aiji0m/rssnix_is_unix_style_filesystem_based_rss"
-    ],
-    [
-      "rssnix is a Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader",
-      "https://github.com/jafarlihi/rssnix"
     ]
   ],
   [
