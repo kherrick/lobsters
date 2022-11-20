@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 21:04:43](https://lobste.rs/s/9tcush/reed_solomon_error_correcting_codes_from) - [Reed-Solomon Error Correcting Codes from the Bottom Up](https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
@@ -9,7 +10,6 @@
 * [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
 * [2022-11-20, 13:05:09](https://lobste.rs/s/om1vfr/codeguessr_geoguessr_like_game_for) - [Codeguessr - a Geoguessr-like game for popular open source projects](https://healeycodes.com/codeguessr)
 * [2022-11-20, 12:09:04](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include) - [Should Lobsters profiles include a/multiple Fediverse links?](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include)
-* [2022-11-20, 09:40:04](https://lobste.rs/s/td5s4u/web3_metaverse_lack_useful_innovation) - [Web3, the Metaverse, and the Lack of Useful Innovation](https://americanaffairsjournal.org/2022/11/web3-the-metaverse-and-the-lack-of-useful-innovation/)
 * [2022-11-20, 08:15:45](https://lobste.rs/s/vaf6tc/gitlab_as_terraform_state_backend) - [GitLab as a Terraform state backend](https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/)
 * [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 * [2022-11-20, 04:48:36](https://lobste.rs/s/f8127x/how_use_exceptions_correctly) - [How To Use Exceptions Correctly](https://thelig.ht/correct-exceptions/)
