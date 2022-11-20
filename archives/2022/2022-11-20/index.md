@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 12:09:04](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include) - [Should Lobsters profiles include a/multiple Fediverse links?](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include)
 * [2022-11-20, 09:40:04](https://lobste.rs/s/td5s4u/web3_metaverse_lack_useful_innovation) - [Web3, the Metaverse, and the Lack of Useful Innovation](https://americanaffairsjournal.org/2022/11/web3-the-metaverse-and-the-lack-of-useful-innovation/)
 * [2022-11-20, 08:15:45](https://lobste.rs/s/vaf6tc/gitlab_as_terraform_state_backend) - [GitLab as a Terraform state backend](https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/)
 * [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 12:09:04](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include) - [Should Lobsters profiles include a/multiple Fediverse links?](https://lobste.rs/s/bdyq17/should_lobsters_profiles_include)
 * [2022-11-20, 09:40:04](https://lobste.rs/s/td5s4u/web3_metaverse_lack_useful_innovation) - [Web3, the Metaverse, and the Lack of Useful Innovation](https://americanaffairsjournal.org/2022/11/web3-the-metaverse-and-the-lack-of-useful-innovation/)
 * [2022-11-20, 08:15:45](https://lobste.rs/s/vaf6tc/gitlab_as_terraform_state_backend) - [GitLab as a Terraform state backend](https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/)
 * [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
@@ -11,7 +12,6 @@
 * [2022-11-19, 20:46:56](https://lobste.rs/s/xy1ymy/higher_order_leak_deadlock_free_locks) - [Higher-Order Leak and Deadlock Free Locks](https://julesjacobs.com/pdf/locks.pdf)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 * [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
-* [2022-11-19, 20:03:12](https://lobste.rs/s/nybutx/secure_efficient) - [Secure and efficient QNetworkAccessManager use](https://www.volkerkrause.eu/2022/11/19/qt-qnetworkaccessmanager-best-practices.html)
 * [2022-11-19, 19:25:29](https://lobste.rs/s/8li2jq/web_technology_optimism_hour) - [Web technology optimism hour](https://macwright.com/2022/11/18/optimism-updates.html)
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:42:58](https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow) - [If a Tree Falls in a Forest, Does It Overflow the Stack?](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
