@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 21:37:14](https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code) - [libjsonschema -   A JSON schema code generator for C](https://git.sr.ht/~emersion/libjsonschema)
 * [2022-11-20, 21:04:43](https://lobste.rs/s/9tcush/reed_solomon_error_correcting_codes_from) - [Reed-Solomon Error Correcting Codes from the Bottom Up](https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
@@ -21,7 +22,6 @@
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:42:58](https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow) - [If a Tree Falls in a Forest, Does It Overflow the Stack?](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
 * [2022-11-19, 18:36:13](https://lobste.rs/s/9e8qsh/go_1_21_may_have_clear_x_builtin) - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
-* [2022-11-19, 17:08:27](https://lobste.rs/s/h9an60/fiwixos_3_2_released) - [FiwixOS 3.2 released](https://www.fiwix.org/news/20221115.html)
 * [2022-11-19, 15:04:22](https://lobste.rs/s/vg7rsm/redbean_tiddlywiki_saver) - [Redbean Tiddlywiki Saver](https://rpdillon.net/redbean-tiddlywiki-saver.html)
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
 * [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
