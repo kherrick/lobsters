@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 * [2022-11-20, 04:48:36](https://lobste.rs/s/f8127x/how_use_exceptions_correctly) - [How To Use Exceptions Correctly](https://thelig.ht/correct-exceptions/)
 * [2022-11-20, 03:57:13](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon) - [What are your favorite Mastodon technology/programming community servers](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon)
 * [2022-11-20, 02:44:40](https://lobste.rs/s/pyko5k/blink_tiniest_x86_64_linux_emulator) - [blink: tiniest x86-64-linux emulator](https://github.com/jart/blink)
@@ -23,7 +24,6 @@
 * [2022-11-18, 17:53:24](https://lobste.rs/s/4xivo6/new_si_prefixes_just_dropped) - [New SI prefixes just dropped](https://www.bipm.org/documents/20126/77765681/Resolutions-2022.pdf/281f3160-fc56-3e63-dbf7-77b76500990f)
 * [2022-11-18, 17:38:50](https://lobste.rs/s/bhl0ab/swift_project_2023) - [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/)
 * [2022-11-18, 17:30:39](https://lobste.rs/s/dbr6fc/bluewhalesystems_sold_sold_linker) - [bluewhalesystems/sold: The sold linker](https://github.com/bluewhalesystems/sold)
-* [2022-11-18, 15:30:37](https://lobste.rs/s/vhxxjj/google_s_go_styleguide) - [Google's go styleguide](https://google.github.io/styleguide/go/guide)
 * [2022-11-18, 03:49:10](https://lobste.rs/s/3xgkgg/rip_fred_p_brooks_computer_scientist) - [RIP: Fred P. Brooks, computer scientist and author of \"The Mythical Man-Month\"](https://twitter.com/SteveBellovin/status/1593414068634734592)
 
 ## [Archives](archives/index.md)

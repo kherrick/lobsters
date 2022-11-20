@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-20](index.md)
 
+* [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 * [2022-11-20, 04:48:36](https://lobste.rs/s/f8127x/how_use_exceptions_correctly) - [How To Use Exceptions Correctly](https://thelig.ht/correct-exceptions/)
 * [2022-11-20, 03:57:13](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon) - [What are your favorite Mastodon technology/programming community servers](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon)
 * [2022-11-20, 03:57:13](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastadon) - [What are your favorite Mastadon technology/programming community servers](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastadon)
