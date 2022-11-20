@@ -2,7 +2,6 @@
 
 * [2022-11-20, 22:07:11](https://lobste.rs/s/j8jwvz/modern_observability_problem) - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
 * [2022-11-20, 22:03:37](https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc) - [libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89](https://github.com/libav/c99-to-c89)
-* [2022-11-20, 21:58:42](https://lobste.rs/s/r4lsdd/machines_chaos) - [Machines and Chaos](https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86)
 * [2022-11-20, 21:37:14](https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code) - [libjsonschema -   A JSON schema code generator for C](https://git.sr.ht/~emersion/libjsonschema)
 * [2022-11-20, 21:04:43](https://lobste.rs/s/9tcush/reed_solomon_error_correcting_codes_from) - [Reed-Solomon Error Correcting Codes from the Bottom Up](https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
@@ -20,6 +19,7 @@
 * [2022-11-20, 02:44:40](https://lobste.rs/s/pyko5k/blink_tiniest_x86_64_linux_emulator) - [blink: tiniest x86-64-linux emulator](https://github.com/jart/blink)
 * [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
+* [2022-11-19, 20:09:56](https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online) - [Don't store TOTP in Bitwarden for your online accounts](https://prezu.ca/post/dont-use-totp-in-bitwarden/)
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:42:58](https://lobste.rs/s/kzqvzu/if_tree_falls_forest_does_it_overflow) - [If a Tree Falls in a Forest, Does It Overflow the Stack?](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
 * [2022-11-19, 18:36:13](https://lobste.rs/s/9e8qsh/go_1_21_may_have_clear_x_builtin) - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
