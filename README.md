@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 17:31:57](https://lobste.rs/s/8vetn9/dittytoy_music_synths_audio_fx_with_js) - [Dittytoy - Music / Synths / Audio FX with JS](https://dittytoy.net/)
 * [2022-11-21, 17:25:05](https://lobste.rs/s/yjdu27/commodore_lcd_portable_recreation) - [Commodore LCD portable recreation project](http://www.6502.org/users/sjgray/projects/clcd/index.html)
 * [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
 * [2022-11-21, 17:13:21](https://lobste.rs/s/xa3pez/building_bft_json_crdt) - [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
@@ -17,7 +18,6 @@
 * [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
 * [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
-* [2022-11-20, 22:03:37](https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc) - [libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89](https://github.com/libav/c99-to-c89)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
