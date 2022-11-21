@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-21, 00:12:56",
+      "https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance"
+    ],
+    [
+      "Hosting your own ActivityPub instance for free",
+      "https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance"
+    ]
+  ],
+  [
+    [
       "2022-11-20, 22:07:11",
       "https://lobste.rs/s/j8jwvz/modern_observability_problem"
     ],
@@ -187,16 +197,6 @@
     [
       "Scaling Mastodon in the Face of an Exodus",
       "https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 20:09:56",
-      "https://lobste.rs/s/xsfhho/don_t_store_totp_bitwarden_for_your_online"
-    ],
-    [
-      "Don't store TOTP in Bitwarden for your online accounts",
-      "https://prezu.ca/post/dont-use-totp-in-bitwarden/"
     ]
   ],
   [
