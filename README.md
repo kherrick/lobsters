@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 * [2022-11-21, 13:13:38](https://lobste.rs/s/l6dhlf/telepathic_technical_writing) - [Telepathic technical writing](https://derw.substack.com/p/telepathic-technical-writing)
 * [2022-11-21, 13:00:50](https://lobste.rs/s/6lkkqc/how_categorize_c_programs_by_behavior) - [How to categorize C programs by behavior](https://developers.redhat.com/articles/2022/11/15/how-categorize-c-programs-behavior)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2022-11-20, 03:57:13](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon) - [What are your favorite Mastodon technology/programming community servers](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon)
 * [2022-11-19, 22:19:21](https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using) - [OKSolar - Improving on Solarized using the OKLab perceptual colorspace](https://meat.io/oksolar)
 * [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
-* [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
 
 ## [Archives](archives/index.md)
 
