@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 16:45:52",
+      "https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development"
+    ],
+    [
+      "Intel 8080 CPU Chip Development",
+      "https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 16:43:10",
+      "https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for"
+    ],
+    [
+      "chalk.ahk: An AutoHotkey library for colorizing terminal output",
+      "https://github.com/joshuacc/chalk.ahk"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 16:17:38",
       "https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-20, 22:07:11",
-      "https://lobste.rs/s/j8jwvz/modern_observability_problem"
-    ],
-    [
-      "The Modern Observability Problem",
-      "https://failingfast.io/opentelemetry-observability/"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 22:03:37",
       "https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc"
     ],
@@ -237,16 +247,6 @@
     [
       "What are your favorite Mastodon technology/programming community servers",
       "https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 20:38:43",
-      "https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus"
-    ],
-    [
-      "Scaling Mastodon in the Face of an Exodus",
-      "https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/"
     ]
   ]
 ]
