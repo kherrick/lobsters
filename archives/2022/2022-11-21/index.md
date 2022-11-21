@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
+* [2022-11-21, 22:07:59](https://lobste.rs/s/ak90b5/trusted_hart_for_mobile_risc_v_security) - [Trusted Hart for Mobile RISC-V Security](https://arxiv.org/pdf/2211.10299.pdf)
+* [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
+* [2022-11-21, 22:07:21](https://lobste.rs/s/dnfs5v/improving_robustness_tcm_based_robust) - [Improving Robustness of TCM-based Robust Steganography with Variable Robustness Cost](https://arxiv.org/pdf/2211.10095.pdf)
+* [2022-11-21, 22:04:33](https://lobste.rs/s/zktjyj/applications_quantum_annealing) - [Applications of Quantum Annealing in Cryptography](https://arxiv.org/pdf/2211.10076.pdf)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
 * [2022-11-21, 20:13:15](https://lobste.rs/s/alatma/how_measure_string_sso_length_with) - [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
