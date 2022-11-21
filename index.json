@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 15:18:48",
+      "https://lobste.rs/s/tsh7jd/little_languages_are_future_programming"
+    ],
+    [
+      "Little Languages Are The Future Of Programming",
+      "https://chreke.com/little-languages.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 15:17:18",
+      "https://lobste.rs/s/nv9cde/rethinking_library_os_from_top_down_2011"
+    ],
+    [
+      "Rethinking the Library OS from the Top Down (2011)",
+      "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 14:05:10",
       "https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-11-20, 21:04:43",
-      "https://lobste.rs/s/9tcush/reed_solomon_error_correcting_codes_from"
-    ],
-    [
-      "Reed-Solomon Error Correcting Codes from the Bottom Up",
-      "https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html"
-    ]
-  ],
-  [
-    [
       "2022-11-20, 17:19:55",
       "https://lobste.rs/s/v8vipf/who_says_c_is_simple"
     ],
@@ -167,16 +177,6 @@
     [
       "Self-hosting GoToSocial on NixOS",
       "https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 15:39:35",
-      "https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc"
-    ],
-    [
-      "LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4",
-      "https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4"
     ]
   ],
   [
