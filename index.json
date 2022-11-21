@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-21, 15:49:53",
+      "https://lobste.rs/s/x8a810/all_about_go_errors_package"
+    ],
+    [
+      "All about the Go errors package",
+      "https://youtu.be/5DUuyWxXnC0"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 15:24:19",
       "https://lobste.rs/s/gzioiw/deploying_nix_built_containers"
     ],
@@ -127,16 +137,6 @@
     [
       "libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89",
       "https://github.com/libav/c99-to-c89"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 21:37:14",
-      "https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code"
-    ],
-    [
-      "libjsonschema -   A JSON schema code generator for C",
-      "https://git.sr.ht/~emersion/libjsonschema"
     ]
   ],
   [
