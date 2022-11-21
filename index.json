@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-21, 20:13:15",
+      "https://lobste.rs/s/alatma/how_measure_string_sso_length_with"
+    ],
+    [
+      "How to Measure String SSO Length with constinit and constexpr",
+      "https://www.cppstories.com/2022/sso-cpp20-checks/"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 19:16:36",
       "https://lobste.rs/s/lvts5e/taming_fox"
     ],
@@ -187,16 +197,6 @@
     [
       "A conceptual introduction to rsyscall",
       "https://github.com/catern/rsyscall/blob/master/docs/conceptual.org"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 00:12:56",
-      "https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance"
-    ],
-    [
-      "Hosting your own ActivityPub instance for free",
-      "https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance"
     ]
   ],
   [
