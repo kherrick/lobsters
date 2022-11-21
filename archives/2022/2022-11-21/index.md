@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
 * [2022-11-21, 15:24:19](https://lobste.rs/s/gzioiw/deploying_nix_built_containers) - [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)

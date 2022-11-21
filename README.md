@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
 * [2022-11-21, 15:24:19](https://lobste.rs/s/gzioiw/deploying_nix_built_containers) - [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
@@ -10,7 +11,6 @@
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
 * [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
-* [2022-11-21, 01:59:46](https://lobste.rs/s/t8vhtj/reform_ai_alignment) - [Reform AI Alignment](https://scottaaronson.blog/?p=6821)
 * [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
 * [2022-11-20, 22:07:11](https://lobste.rs/s/j8jwvz/modern_observability_problem) - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
 * [2022-11-20, 22:03:37](https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc) - [libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89](https://github.com/libav/c99-to-c89)
