@@ -8,7 +8,7 @@
 * [2022-11-21, 17:25:05](https://lobste.rs/s/yjdu27/commodore_lcd_portable_recreation) - [Commodore LCD portable recreation project](http://www.6502.org/users/sjgray/projects/clcd/index.html)
 * [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
 * [2022-11-21, 17:13:21](https://lobste.rs/s/xa3pez/building_bft_json_crdt) - [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
-* [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development) - [Intel 8080 CPU Chip Development](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
+* [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development_2007) - [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
 * [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 * [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
