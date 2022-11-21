@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
 * [2022-11-21, 15:24:19](https://lobste.rs/s/gzioiw/deploying_nix_built_containers) - [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 * [2022-11-21, 15:17:18](https://lobste.rs/s/nv9cde/rethinking_library_os_from_top_down_2011) - [Rethinking the Library OS from the Top Down (2011)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
@@ -13,7 +14,6 @@
 * [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
 * [2022-11-20, 22:07:11](https://lobste.rs/s/j8jwvz/modern_observability_problem) - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
 * [2022-11-20, 22:03:37](https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc) - [libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89](https://github.com/libav/c99-to-c89)
-* [2022-11-20, 21:37:14](https://lobste.rs/s/qwpfap/libjsonschema_json_schema_code) - [libjsonschema -   A JSON schema code generator for C](https://git.sr.ht/~emersion/libjsonschema)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
