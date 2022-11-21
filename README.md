@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
+* [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
 * [2022-11-21, 01:59:46](https://lobste.rs/s/t8vhtj/reform_ai_alignment) - [Reform AI Alignment](https://scottaaronson.blog/?p=6821)
 * [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
 * [2022-11-20, 22:07:11](https://lobste.rs/s/j8jwvz/modern_observability_problem) - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
@@ -9,7 +11,6 @@
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
-* [2022-11-20, 16:24:17](https://lobste.rs/s/hjuqah/migrating_typescript_podcast_season) - [Migrating to TypeScript Podcast Season](https://open.spotify.com/show/5fVWxK2CksFsxm7Di7pvhY)
 * [2022-11-20, 16:05:13](https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from) - [Next steps toward mimmutable, from deraadt@](http://undeadly.org/cgi?action=article;sid=20221120115616)
 * [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 * [2022-11-20, 15:39:35](https://lobste.rs/s/pjnrmf/lts_20_release_for_ghc_9_2_nightly_now_on_ghc) - [LTS 20 release for ghc-9.2 and Nightly now on ghc-9.4](https://www.stackage.org/blog/2022/11/announce-lts-20-nightly-ghc9.4)
@@ -24,7 +25,6 @@
 * [2022-11-19, 18:53:14](https://lobste.rs/s/x0qiml/coredumpctl_delve_debug_packages_for_go) - [coredumpctl, delve and debug packages for Go](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
 * [2022-11-19, 18:36:13](https://lobste.rs/s/9e8qsh/go_1_21_may_have_clear_x_builtin) - [Go 1.21 may have a clear(x) builtin](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin)
 * [2022-11-19, 13:09:13](https://lobste.rs/s/6zbj5q/one_can_create_interactive_trees_pure) - [One can create interactive trees in pure html with a single css rule](https://twitter.com/marekgibney/status/1593950777739218947)
-* [2022-11-18, 22:21:50](https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking) - [Investigating why Steam started picking a random font](http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html)
 
 ## [Archives](archives/index.md)
 
