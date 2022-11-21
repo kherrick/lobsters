@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 13:13:38",
+      "https://lobste.rs/s/l6dhlf/telepathic_technical_writing"
+    ],
+    [
+      "Telepathic technical writing",
+      "https://derw.substack.com/p/telepathic-technical-writing"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 13:00:50",
+      "https://lobste.rs/s/6lkkqc/how_categorize_c_programs_by_behavior"
+    ],
+    [
+      "How to categorize C programs by behavior",
+      "https://developers.redhat.com/articles/2022/11/15/how-categorize-c-programs-behavior"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 11:34:01",
       "https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-11-20, 02:44:40",
-      "https://lobste.rs/s/pyko5k/blink_tiniest_x86_64_linux_emulator"
-    ],
-    [
-      "blink: tiniest x86-64-linux emulator",
-      "https://github.com/jart/blink"
-    ]
-  ],
-  [
-    [
       "2022-11-19, 22:19:21",
       "https://lobste.rs/s/agajwe/oksolar_improving_on_solarized_using"
     ],
@@ -227,16 +237,6 @@
     [
       "Scaling Mastodon in the Face of an Exodus",
       "https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/"
-    ]
-  ],
-  [
-    [
-      "2022-11-19, 18:36:13",
-      "https://lobste.rs/s/9e8qsh/go_1_21_may_have_clear_x_builtin"
-    ],
-    [
-      "Go 1.21 may have a clear(x) builtin",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoFutureClearBuiltin"
     ]
   ],
   [
