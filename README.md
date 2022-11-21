@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development) - [Intel 8080 CPU Chip Development](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
+* [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 * [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
 * [2022-11-21, 15:24:19](https://lobste.rs/s/gzioiw/deploying_nix_built_containers) - [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
@@ -12,7 +14,6 @@
 * [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
 * [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
-* [2022-11-20, 22:07:11](https://lobste.rs/s/j8jwvz/modern_observability_problem) - [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/)
 * [2022-11-20, 22:03:37](https://lobste.rs/s/cl5jkp/libav_c99_c89_tool_convert_c99_code_msvc) - [libav/c99-to-c89: Tool to convert C99 code to MSVC-compatible C89](https://github.com/libav/c99-to-c89)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
@@ -24,7 +25,6 @@
 * [2022-11-20, 08:15:45](https://lobste.rs/s/vaf6tc/gitlab_as_terraform_state_backend) - [GitLab as a Terraform state backend](https://balaskas.gr/blog/2022/11/11/gitlab-as-a-terraform-state-backend/)
 * [2022-11-20, 07:48:22](https://lobste.rs/s/juznrz/tracking_mastodon_user_numbers_over_time) - [Tracking Mastodon user numbers over time with a bucket of tricks](https://simonwillison.net/2022/Nov/20/tracking-mastodon/)
 * [2022-11-20, 03:57:13](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon) - [What are your favorite Mastodon technology/programming community servers](https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon)
-* [2022-11-19, 20:38:43](https://lobste.rs/s/r4u62z/scaling_mastodon_face_exodus) - [Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 
 ## [Archives](archives/index.md)
 

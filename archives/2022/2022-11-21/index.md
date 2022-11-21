@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development) - [Intel 8080 CPU Chip Development](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
+* [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 * [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:49:53](https://lobste.rs/s/x8a810/all_about_go_errors_package) - [All about the Go errors package](https://youtu.be/5DUuyWxXnC0)
 * [2022-11-21, 15:24:19](https://lobste.rs/s/gzioiw/deploying_nix_built_containers) - [Deploying Nix-built containers to Kubernetes](https://determinate.systems/posts/nix-to-kubernetes)
