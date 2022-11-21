@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
 * [2022-11-21, 20:13:15](https://lobste.rs/s/alatma/how_measure_string_sso_length_with) - [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
 * [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox_landry_breuil) - [Taming the fox - Landry Breuil](https://www.youtube.com/watch?v=JbawVeKFLMc)

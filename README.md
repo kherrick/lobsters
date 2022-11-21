@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
+* [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 20:13:15](https://lobste.rs/s/alatma/how_measure_string_sso_length_with) - [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
 * [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox) - [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
