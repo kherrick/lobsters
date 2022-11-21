@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-11-21](index.md)
+
+* [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
