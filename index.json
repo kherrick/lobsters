@@ -1,12 +1,12 @@
 [
   [
     [
-      "2022-11-21, 21:06:19",
-      "https://lobste.rs/s/bifzw3/programming_is_pop_culture"
+      "2022-11-21, 21:13:27",
+      "https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows"
     ],
     [
-      "Programming is a Pop Culture",
-      "https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/"
+      "connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo",
+      "https://github.com/jafarlihi/connmap"
     ]
   ],
   [
