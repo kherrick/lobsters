@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 05:02:44",
+      "https://lobste.rs/s/qwc0qg/strong_booleans"
+    ],
+    [
+      "Strong Booleans",
+      "https://euroquis.nl//blabla/2022/11/21/strong-bool.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 04:55:40",
+      "https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall"
+    ],
+    [
+      "A conceptual introduction to rsyscall",
+      "https://github.com/catern/rsyscall/blob/master/docs/conceptual.org"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 01:59:46",
       "https://lobste.rs/s/t8vhtj/reform_ai_alignment"
     ],
@@ -87,16 +107,6 @@
     [
       "Implementing State Machines",
       "https://www.embeddedrelated.com/showarticle/543.php"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 16:24:17",
-      "https://lobste.rs/s/hjuqah/migrating_typescript_podcast_season"
-    ],
-    [
-      "Migrating to TypeScript Podcast Season",
-      "https://open.spotify.com/show/5fVWxK2CksFsxm7Di7pvhY"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "One can create interactive trees in pure html with a single css rule",
       "https://twitter.com/marekgibney/status/1593950777739218947"
-    ]
-  ],
-  [
-    [
-      "2022-11-18, 22:21:50",
-      "https://lobste.rs/s/xrrrfs/investigating_why_steam_started_picking"
-    ],
-    [
-      "Investigating why Steam started picking a random font",
-      "http://blog.pkh.me/p/35-investigating-why-steam-started-picking-a-random-font.html"
     ]
   ]
 ]
