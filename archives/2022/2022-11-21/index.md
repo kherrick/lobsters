@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 13:13:38](https://lobste.rs/s/l6dhlf/telepathic_technical_writing) - [Telepathic technical writing](https://derw.substack.com/p/telepathic-technical-writing)
+* [2022-11-21, 13:00:50](https://lobste.rs/s/6lkkqc/how_categorize_c_programs_by_behavior) - [How to categorize C programs by behavior](https://developers.redhat.com/articles/2022/11/15/how-categorize-c-programs-behavior)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
 * [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
