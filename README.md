@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox_landry_breuil) - [Taming the fox - Landry Breuil](https://www.youtube.com/watch?v=JbawVeKFLMc)
+* [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox) - [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 * [2022-11-21, 17:46:03](https://lobste.rs/s/8racnc/broken_windows_software) - [Broken Windows in Software](https://lobste.rs/s/8racnc/broken_windows_software)
