@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 20:13:15](https://lobste.rs/s/alatma/how_measure_string_sso_length_with) - [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
 * [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox_landry_breuil) - [Taming the fox - Landry Breuil](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox) - [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
