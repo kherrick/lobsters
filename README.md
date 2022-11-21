@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox_landry_breuil) - [Taming the fox - Landry Breuil](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 * [2022-11-21, 17:46:03](https://lobste.rs/s/8racnc/broken_windows_software) - [Broken Windows in Software](https://lobste.rs/s/8racnc/broken_windows_software)
@@ -18,7 +19,6 @@
 * [2022-11-21, 13:13:38](https://lobste.rs/s/l6dhlf/telepathic_technical_writing) - [Telepathic technical writing](https://derw.substack.com/p/telepathic-technical-writing)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
-* [2022-11-21, 00:12:56](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance) - [Hosting your own ActivityPub instance for free](https://lobste.rs/s/akbljz/hosting_your_own_activitypub_instance)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
 * [2022-11-20, 16:39:49](https://lobste.rs/s/bnknq7/ssh_port_forwarding_with_go) - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 * [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
