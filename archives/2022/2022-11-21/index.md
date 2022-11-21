@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 17:46:03](https://lobste.rs/s/8racnc/broken_windows_software) - [Broken Windows in Software](https://lobste.rs/s/8racnc/broken_windows_software)
 * [2022-11-21, 17:31:57](https://lobste.rs/s/8vetn9/dittytoy_music_synths_audio_fx_with_js) - [Dittytoy - Music / Synths / Audio FX with JS](https://dittytoy.net/)
 * [2022-11-21, 17:25:05](https://lobste.rs/s/yjdu27/commodore_lcd_portable_recreation) - [Commodore LCD portable recreation project](http://www.6502.org/users/sjgray/projects/clcd/index.html)
 * [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)

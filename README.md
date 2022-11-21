@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-21, 17:46:03](https://lobste.rs/s/8racnc/broken_windows_software) - [Broken Windows in Software](https://lobste.rs/s/8racnc/broken_windows_software)
 * [2022-11-21, 17:31:57](https://lobste.rs/s/8vetn9/dittytoy_music_synths_audio_fx_with_js) - [Dittytoy - Music / Synths / Audio FX with JS](https://dittytoy.net/)
 * [2022-11-21, 17:25:05](https://lobste.rs/s/yjdu27/commodore_lcd_portable_recreation) - [Commodore LCD portable recreation project](http://www.6502.org/users/sjgray/projects/clcd/index.html)
 * [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
@@ -13,7 +14,6 @@
 * [2022-11-21, 15:17:18](https://lobste.rs/s/nv9cde/rethinking_library_os_from_top_down_2011) - [Rethinking the Library OS from the Top Down (2011)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 * [2022-11-21, 13:13:38](https://lobste.rs/s/l6dhlf/telepathic_technical_writing) - [Telepathic technical writing](https://derw.substack.com/p/telepathic-technical-writing)
-* [2022-11-21, 13:00:50](https://lobste.rs/s/6lkkqc/how_categorize_c_programs_by_behavior) - [How to categorize C programs by behavior](https://developers.redhat.com/articles/2022/11/15/how-categorize-c-programs-behavior)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
 * [2022-11-21, 05:02:44](https://lobste.rs/s/qwc0qg/strong_booleans) - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 * [2022-11-21, 04:55:40](https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall) - [A conceptual introduction to rsyscall](https://github.com/catern/rsyscall/blob/master/docs/conceptual.org)
