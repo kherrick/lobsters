@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-21, 19:11:44",
+      "https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being"
+    ],
+    [
+      "How Precision Time Protocol is being deployed at Meta",
+      "https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 19:05:01",
+      "https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns"
+    ],
+    [
+      "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
+      "https://emily.id.au/tailscale"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 17:46:03",
       "https://lobste.rs/s/8racnc/broken_windows_software"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-11-21, 05:02:44",
-      "https://lobste.rs/s/qwc0qg/strong_booleans"
-    ],
-    [
-      "Strong Booleans",
-      "https://euroquis.nl//blabla/2022/11/21/strong-bool.html"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 04:55:40",
       "https://lobste.rs/s/oozmvx/conceptual_introduction_rsyscall"
     ],
@@ -207,16 +217,6 @@
     [
       "Implementing State Machines",
       "https://www.embeddedrelated.com/showarticle/543.php"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 16:05:13",
-      "https://lobste.rs/s/dvummv/next_steps_toward_mimmutable_from"
-    ],
-    [
-      "Next steps toward mimmutable, from deraadt@",
-      "http://undeadly.org/cgi?action=article;sid=20221120115616"
     ]
   ],
   [
