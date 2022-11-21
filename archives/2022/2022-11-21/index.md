@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
+* [2022-11-21, 15:17:18](https://lobste.rs/s/nv9cde/rethinking_library_os_from_top_down_2011) - [Rethinking the Library OS from the Top Down (2011)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 * [2022-11-21, 13:13:38](https://lobste.rs/s/l6dhlf/telepathic_technical_writing) - [Telepathic technical writing](https://derw.substack.com/p/telepathic-technical-writing)
 * [2022-11-21, 13:00:50](https://lobste.rs/s/6lkkqc/how_categorize_c_programs_by_behavior) - [How to categorize C programs by behavior](https://developers.redhat.com/articles/2022/11/15/how-categorize-c-programs-behavior)
