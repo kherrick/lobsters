@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-11-21, 22:09:17",
+      "https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust"
+    ],
+    [
+      "C++ Move Semantics Considered Harmful (Rust is better) (2021)",
+      "https://www.thecodedmessage.com/posts/cpp-move/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 22:07:59",
+      "https://lobste.rs/s/ak90b5/trusted_hart_for_mobile_risc_v_security"
+    ],
+    [
+      "Trusted Hart for Mobile RISC-V Security",
+      "https://arxiv.org/pdf/2211.10299.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 22:07:54",
+      "https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy"
+    ],
+    [
+      "Python Type Hints: case study on Parsy",
+      "https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 22:07:21",
+      "https://lobste.rs/s/dnfs5v/improving_robustness_tcm_based_robust"
+    ],
+    [
+      "Improving Robustness of TCM-based Robust Steganography with Variable Robustness Cost",
+      "https://arxiv.org/pdf/2211.10095.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 22:04:33",
+      "https://lobste.rs/s/zktjyj/applications_quantum_annealing"
+    ],
+    [
+      "Applications of Quantum Annealing in Cryptography",
+      "https://arxiv.org/pdf/2211.10076.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 21:13:27",
       "https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows"
     ],
@@ -61,26 +111,6 @@
   ],
   [
     [
-      "2022-11-21, 17:31:57",
-      "https://lobste.rs/s/8vetn9/dittytoy_music_synths_audio_fx_with_js"
-    ],
-    [
-      "Dittytoy - Music / Synths / Audio FX with JS",
-      "https://dittytoy.net/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 17:25:05",
-      "https://lobste.rs/s/yjdu27/commodore_lcd_portable_recreation"
-    ],
-    [
-      "Commodore LCD portable recreation project",
-      "http://www.6502.org/users/sjgray/projects/clcd/index.html"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 17:16:42",
       "https://lobste.rs/s/stsa7r/kmem_guard_t"
     ],
@@ -127,16 +157,6 @@
     [
       "A history of ARM, part 2: Everything starts to come together",
       "https://arstechnica.com/?p=1896053"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 15:49:53",
-      "https://lobste.rs/s/x8a810/all_about_go_errors_package"
-    ],
-    [
-      "All about the Go errors package",
-      "https://youtu.be/5DUuyWxXnC0"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Self-hosting GoToSocial on NixOS",
       "https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 12:09:04",
-      "https://lobste.rs/s/bdyq17/should_lobsters_profiles_include"
-    ],
-    [
-      "Should Lobsters profiles include a/multiple Fediverse links?",
-      "https://lobste.rs/s/bdyq17/should_lobsters_profiles_include"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 03:57:13",
-      "https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon"
-    ],
-    [
-      "What are your favorite Mastodon technology/programming community servers",
-      "https://lobste.rs/s/4yyai6/what_are_your_favorite_mastodon"
     ]
   ]
 ]
