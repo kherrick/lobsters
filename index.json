@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-22, 00:20:32",
+      "https://lobste.rs/s/0ofqxe/vmaf_ftw_how_vimeo_turned_metric_for_video"
+    ],
+    [
+      "VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming",
+      "https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c"
+    ]
+  ],
+  [
+    [
+      "2022-11-21, 23:53:54",
+      "https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun"
+    ],
+    [
+      "Exploiting Protocols for Fun",
+      "https://matt-rickard.com/exploiting-protocols-for-fun"
+    ]
+  ],
+  [
+    [
       "2022-11-21, 22:09:17",
       "https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust"
     ],
@@ -57,16 +77,6 @@
     [
       "connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo",
       "https://github.com/jafarlihi/connmap"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 20:13:15",
-      "https://lobste.rs/s/alatma/how_measure_string_sso_length_with"
-    ],
-    [
-      "How to Measure String SSO Length with constinit and constexpr",
-      "https://www.cppstories.com/2022/sso-cpp20-checks/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Who Says C is Simple?",
       "https://cil-project.github.io/cil/doc/html/cil/cil016.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 16:35:58",
-      "https://lobste.rs/s/k0qhav/implementing_state_machines"
-    ],
-    [
-      "Implementing State Machines",
-      "https://www.embeddedrelated.com/showarticle/543.php"
     ]
   ],
   [
