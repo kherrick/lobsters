@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 16:26:21](https://lobste.rs/s/wwgwjk/cicero_ai_agent_negotiates_persuades) - [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+* [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_this) - [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
@@ -18,11 +20,9 @@
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-22, 02:13:42](https://lobste.rs/s/5kh46u/are_we_stack_efficient_yet) - [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
-* [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
-* [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 

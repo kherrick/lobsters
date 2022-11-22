@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 16:26:21](https://lobste.rs/s/wwgwjk/cicero_ai_agent_negotiates_persuades) - [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+* [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_this) - [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
