@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 14:45:07](https://lobste.rs/s/b9klkz/tinyllama_tiny_x86_retro_computer) - [TinyLlama: A tiny x86 retro computer](https://github.com/eivindbohler/tinyllama)
 * [2022-11-22, 13:46:17](https://lobste.rs/s/f3hkun/feature_comparison_pkg_config_pkgconf) - [Feature comparison of pkg-config and pkgconf, a pkg-config replacement](http://pkgconf.org/features.html)
 * [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
 * [2022-11-22, 12:51:51](https://lobste.rs/s/85hoo1/hanami_2_0_better_faster_stronger) - [Hanami 2.0: Better, Faster, Stronger](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
