@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2022-11-22, 16:55:30",
+      "https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting"
+    ],
+    [
+      "D2 made open source: a diagram scripting language",
+      "https://github.com/terrastruct/d2"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 16:29:15",
       "https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math"
     ],
@@ -77,16 +87,6 @@
     [
       "TinyLlama: A tiny x86 retro computer",
       "https://github.com/eivindbohler/tinyllama"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 13:46:17",
-      "https://lobste.rs/s/f3hkun/feature_comparison_pkg_config_pkgconf"
-    ],
-    [
-      "Feature comparison of pkg-config and pkgconf, a pkg-config replacement",
-      "http://pkgconf.org/features.html"
     ]
   ],
   [
