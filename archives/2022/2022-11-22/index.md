@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 18:24:54](https://lobste.rs/s/hqqboy/retrospective_on_dorado_high) - [A Retrospective on the Dorado, A High-Performance Personal Computer (1983)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/ISL-83-1_A_Retrospective_on_the_Dorado_A_High-Performance_Personal_Computer.pdf)
 * [2022-11-22, 17:58:12](https://lobste.rs/s/udlz3z/build_8_bit_computer_from_scratch) - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 * [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2022-11-22, 17:18:42](https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over) - [Kubernetes Dashboard over OpenBSD (over vmm(4))](https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html)
