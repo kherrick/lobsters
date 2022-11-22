@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
+* [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
+* [2022-11-22, 17:18:42](https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over) - [Kubernetes Dashboard over OpenBSD (over vmm(4))](https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html)
 * [2022-11-22, 16:29:15](https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math) - [How to rotate an actor with Raylib without math knowledge](https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html)
 * [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
@@ -24,7 +25,6 @@
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
-* [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 
 ## [Archives](archives/index.md)
 
