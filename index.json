@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 13:46:17",
+      "https://lobste.rs/s/f3hkun/feature_comparison_pkg_config_pkgconf"
+    ],
+    [
+      "Feature comparison of pkg-config and pkgconf, a pkg-config replacement",
+      "http://pkgconf.org/features.html"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 12:53:28",
       "https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re"
     ],
@@ -237,16 +247,6 @@
     [
       "Buzz, a small/lightweight typed scripting language written in Zig",
       "https://github.com/buzz-language/buzz"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 11:34:01",
-      "https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week"
     ]
   ]
 ]
