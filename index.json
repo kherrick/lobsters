@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-22, 12:15:45",
+      "https://lobste.rs/s/ydy5vs/extremely_linear_git_history"
+    ],
+    [
+      "Extremely Linear Git History",
+      "https://westling.dev/b/extremely-linear-git"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 12:15:33",
+      "https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust"
+    ],
+    [
+      "Flux: Refinement Types for Rust",
+      "https://liquid-rust.github.io/2022/11/14/introducing-flux/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 11:28:55",
       "https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-11-21, 23:53:54",
-      "https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun"
-    ],
-    [
-      "Exploiting Protocols for Fun",
-      "https://matt-rickard.com/exploiting-protocols-for-fun"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 22:09:17",
       "https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2022-11-20, 15:44:03",
-      "https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos"
-    ],
-    [
-      "Self-hosting GoToSocial on NixOS",
-      "https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos"
     ]
   ]
 ]
