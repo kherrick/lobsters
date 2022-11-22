@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-22, 16:26:21",
+      "https://lobste.rs/s/wwgwjk/cicero_ai_agent_negotiates_persuades"
+    ],
+    [
+      "CICERO: An AI agent that negotiates, persuades, and cooperates with people",
+      "https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 16:17:25",
+      "https://lobste.rs/s/jl6ufv/sprint_driven_development"
+    ],
+    [
+      "Sprint Driven Development",
+      "https://timkellogg.me/blog/2022/11/22/sprints"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 15:55:11",
       "https://lobste.rs/s/l4izja/improving_firefox_stability_with_this"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-11-21, 22:09:17",
-      "https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust"
-    ],
-    [
-      "C++ Move Semantics Considered Harmful (Rust is better) (2021)",
-      "https://www.thecodedmessage.com/posts/cpp-move/"
-    ]
-  ],
-  [
-    [
       "2022-11-21, 22:07:54",
       "https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy"
     ],
@@ -217,16 +227,6 @@
     [
       "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
       "https://emily.id.au/tailscale"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 16:17:38",
-      "https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come"
-    ],
-    [
-      "A history of ARM, part 2: Everything starts to come together",
-      "https://arstechnica.com/?p=1896053"
     ]
   ],
   [
