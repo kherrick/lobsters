@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 10:24:55",
+      "https://lobste.rs/s/tqrbx9/risc_zero_general_purpose_verifiable"
+    ],
+    [
+      "RISC Zero : General-Purpose Verifiable Computing | RISC Zero",
+      "https://www.risczero.com/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 09:37:22",
       "https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc"
     ],
@@ -157,16 +167,6 @@
     [
       "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
       "https://emily.id.au/tailscale"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 17:13:21",
-      "https://lobste.rs/s/xa3pez/building_bft_json_crdt"
-    ],
-    [
-      "Building a BFT JSON CRDT",
-      "https://jzhao.xyz/posts/bft-json-crdt/"
     ]
   ],
   [
