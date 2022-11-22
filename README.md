@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 10:40:56](https://lobste.rs/s/zijsvt/postgresql_error_permission_denied_for) - [PostgreSQL ERROR: permission denied for schema public](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
 * [2022-11-22, 10:24:55](https://lobste.rs/s/tqrbx9/risc_zero_general_purpose_verifiable) - [RISC Zero : General-Purpose Verifiable Computing | RISC Zero](https://www.risczero.com/)
 * [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
@@ -15,7 +16,6 @@
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
-* [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 * [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development_2007) - [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
