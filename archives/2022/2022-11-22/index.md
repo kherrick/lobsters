@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 17:58:12](https://lobste.rs/s/udlz3z/build_8_bit_computer_from_scratch) - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 * [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2022-11-22, 17:18:42](https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over) - [Kubernetes Dashboard over OpenBSD (over vmm(4))](https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html)
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
