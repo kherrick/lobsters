@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 10:40:56](https://lobste.rs/s/zijsvt/postgresql_error_permission_denied_for) - [PostgreSQL ERROR: permission denied for schema public](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
 * [2022-11-22, 10:24:55](https://lobste.rs/s/tqrbx9/risc_zero_general_purpose_verifiable) - [RISC Zero : General-Purpose Verifiable Computing | RISC Zero](https://www.risczero.com/)
@@ -18,7 +19,6 @@
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
-* [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development_2007) - [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
 * [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 * [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
