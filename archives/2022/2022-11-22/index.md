@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 08:27:38](https://lobste.rs/s/7ru5zk/tamarin_fun_pragmatic_scripting) - [Tamarin, a fun/pragmatic scripting language written in Go](https://github.com/cloudcmds/tamarin)
+* [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)

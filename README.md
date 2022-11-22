@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 08:27:38](https://lobste.rs/s/7ru5zk/tamarin_fun_pragmatic_scripting) - [Tamarin, a fun/pragmatic scripting language written in Go](https://github.com/cloudcmds/tamarin)
+* [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
@@ -8,10 +10,8 @@
 * [2022-11-21, 23:53:54](https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun) - [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
-* [2022-11-21, 22:04:33](https://lobste.rs/s/zktjyj/applications_quantum_annealing) - [Applications of Quantum Annealing in Cryptography](https://arxiv.org/pdf/2211.10076.pdf)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
-* [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox) - [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
 * [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
