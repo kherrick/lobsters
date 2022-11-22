@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 23:15:36](https://lobste.rs/s/mxmdgh/announcing_silicon_valley_nix_nixos_user) - [Announcing Silicon Valley Nix / NixOS User Group](https://notes.softinio.com/p/announcing-silicon-valley-nix-nixos)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
-* [2022-11-22, 20:19:09](https://lobste.rs/s/upxzvu/catbird_experimental_game_engine_for) - [Catbird: An experimental game engine for Scheme programmers](https://dthompson.us/catbird-an-experimental-game-engine-for-scheme-programmers.html)
 * [2022-11-22, 19:06:05](https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming) - [The case for dynamic, functional programming](https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html)
 * [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2022-11-22, 17:18:42](https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over) - [Kubernetes Dashboard over OpenBSD (over vmm(4))](https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html)
