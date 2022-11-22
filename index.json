@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 16:55:30",
+      "https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting"
+    ],
+    [
+      "D2 made open source: a diagram scripting language",
+      "https://github.com/terrastruct/d2"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 16:29:15",
       "https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math"
     ],
@@ -22,10 +32,10 @@
   [
     [
       "2022-11-22, 15:55:11",
-      "https://lobste.rs/s/l4izja/improving_firefox_stability_with_this"
+      "https://lobste.rs/s/l4izja/improving_firefox_stability_with_change"
     ],
     [
-      "Improving Firefox stability with this one weird trick",
+      "Improving Firefox stability [with a change to handling of failed memory allocations]",
       "https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Llama - Terminal File Manager",
       "https://github.com/antonmedv/llama"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 04:32:59",
-      "https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification"
-    ],
-    [
-      "A jq255 Elliptic Curve Specification, and a Retrospective",
-      "https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/"
     ]
   ],
   [
