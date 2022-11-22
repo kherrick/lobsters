@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 08:27:38](https://lobste.rs/s/7ru5zk/tamarin_fun_pragmatic_scripting) - [Tamarin, a fun/pragmatic scripting language written in Go](https://github.com/cloudcmds/tamarin)
 * [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)

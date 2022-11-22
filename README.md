@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 08:27:38](https://lobste.rs/s/7ru5zk/tamarin_fun_pragmatic_scripting) - [Tamarin, a fun/pragmatic scripting language written in Go](https://github.com/cloudcmds/tamarin)
 * [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
@@ -14,7 +15,6 @@
 * [2022-11-21, 21:06:19](https://lobste.rs/s/bifzw3/programming_is_pop_culture) - [Programming is a Pop Culture](https://www.baldurbjarnason.com/2022/programming-is-a-pop-culture/)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
-* [2022-11-21, 17:16:42](https://lobste.rs/s/stsa7r/kmem_guard_t) - [kmem_guard_t](https://saaramar.github.io/kmem_guard_t_blogpost/)
 * [2022-11-21, 17:13:21](https://lobste.rs/s/xa3pez/building_bft_json_crdt) - [Building a BFT JSON CRDT](https://jzhao.xyz/posts/bft-json-crdt/)
 * [2022-11-21, 16:45:52](https://lobste.rs/s/bjdy3i/intel_8080_cpu_chip_development_2007) - [Intel 8080 CPU Chip Development (2007)](https://baltazarstudios.com/webshare/A-Z80/Library/Intel%208080%20CPU%20Chip%20Development%20(IEEE).pdf)
 * [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
