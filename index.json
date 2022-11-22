@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 19:06:05",
+      "https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming"
+    ],
+    [
+      "The case for dynamic, functional programming",
+      "https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 18:24:54",
       "https://lobste.rs/s/hqqboy/retrospective_on_dorado_high"
     ],
@@ -227,16 +237,6 @@
     [
       "connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo",
       "https://github.com/jafarlihi/connmap"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 19:05:01",
-      "https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns"
-    ],
-    [
-      "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
-      "https://emily.id.au/tailscale"
     ]
   ],
   [
