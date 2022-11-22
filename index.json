@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-22, 09:37:22",
+      "https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc"
+    ],
+    [
+      "WebAssembly backend merged into GHC",
+      "https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 09:19:14",
       "https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real"
     ],
@@ -207,16 +217,6 @@
     [
       "Little Languages Are The Future Of Programming",
       "https://chreke.com/little-languages.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 15:17:18",
-      "https://lobste.rs/s/nv9cde/rethinking_library_os_from_top_down_2011"
-    ],
-    [
-      "Rethinking the Library OS from the Top Down (2011)",
-      "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf"
     ]
   ],
   [
