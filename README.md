@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 00:20:32](https://lobste.rs/s/0ofqxe/vmaf_ftw_how_vimeo_turned_metric_for_video) - [VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming](https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c)
+* [2022-11-21, 23:53:54](https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun) - [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:59](https://lobste.rs/s/ak90b5/trusted_hart_for_mobile_risc_v_security) - [Trusted Hart for Mobile RISC-V Security](https://arxiv.org/pdf/2211.10299.pdf)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 * [2022-11-21, 22:07:21](https://lobste.rs/s/dnfs5v/improving_robustness_tcm_based_robust) - [Improving Robustness of TCM-based Robust Steganography with Variable Robustness Cost](https://arxiv.org/pdf/2211.10095.pdf)
 * [2022-11-21, 22:04:33](https://lobste.rs/s/zktjyj/applications_quantum_annealing) - [Applications of Quantum Annealing in Cryptography](https://arxiv.org/pdf/2211.10076.pdf)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
-* [2022-11-21, 20:13:15](https://lobste.rs/s/alatma/how_measure_string_sso_length_with) - [How to Measure String SSO Length with constinit and constexpr](https://www.cppstories.com/2022/sso-cpp20-checks/)
 * [2022-11-21, 19:16:36](https://lobste.rs/s/lvts5e/taming_fox) - [Taming the fox](https://www.youtube.com/watch?v=JbawVeKFLMc)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
@@ -23,7 +24,6 @@
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
 * [2022-11-20, 17:19:55](https://lobste.rs/s/v8vipf/who_says_c_is_simple) - [Who Says C is Simple?](https://cil-project.github.io/cil/doc/html/cil/cil016.html)
-* [2022-11-20, 16:35:58](https://lobste.rs/s/k0qhav/implementing_state_machines) - [Implementing State Machines](https://www.embeddedrelated.com/showarticle/543.php)
 * [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 
 ## [Archives](archives/index.md)

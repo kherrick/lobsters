@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-21](index.md)
 
+* [2022-11-21, 23:53:54](https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun) - [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:59](https://lobste.rs/s/ak90b5/trusted_hart_for_mobile_risc_v_security) - [Trusted Hart for Mobile RISC-V Security](https://arxiv.org/pdf/2211.10299.pdf)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
