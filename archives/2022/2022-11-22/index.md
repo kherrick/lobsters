@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_this) - [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
+* [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 14:45:07](https://lobste.rs/s/b9klkz/tinyllama_tiny_x86_retro_computer) - [TinyLlama: A tiny x86 retro computer](https://github.com/eivindbohler/tinyllama)
 * [2022-11-22, 13:46:17](https://lobste.rs/s/f3hkun/feature_comparison_pkg_config_pkgconf) - [Feature comparison of pkg-config and pkgconf, a pkg-config replacement](http://pkgconf.org/features.html)
