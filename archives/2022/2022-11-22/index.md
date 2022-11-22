@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
+* [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 10:40:56](https://lobste.rs/s/zijsvt/postgresql_error_permission_denied_for) - [PostgreSQL ERROR: permission denied for schema public](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)

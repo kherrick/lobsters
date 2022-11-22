@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
+* [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 10:40:56](https://lobste.rs/s/zijsvt/postgresql_error_permission_denied_for) - [PostgreSQL ERROR: permission denied for schema public](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
@@ -13,7 +15,6 @@
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-22, 02:16:20](https://lobste.rs/s/yajsap/rust_enum_match_code_generation) - [Rust enum-match code generation](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
 * [2022-11-22, 02:13:42](https://lobste.rs/s/5kh46u/are_we_stack_efficient_yet) - [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
-* [2022-11-21, 23:53:54](https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun) - [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
@@ -24,7 +25,6 @@
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)
 * [2022-11-21, 11:34:01](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zhdo5a/what_are_you_doing_this_week)
-* [2022-11-20, 15:44:03](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos) - [Self-hosting GoToSocial on NixOS](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos)
 
 ## [Archives](archives/index.md)
 
