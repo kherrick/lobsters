@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
+* [2022-11-22, 12:51:51](https://lobste.rs/s/85hoo1/hanami_2_0_better_faster_stronger) - [Hanami 2.0: Better, Faster, Stronger](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
 * [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 * [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
@@ -8,7 +10,6 @@
 * [2022-11-22, 10:24:55](https://lobste.rs/s/tqrbx9/risc_zero_general_purpose_verifiable) - [RISC Zero : General-Purpose Verifiable Computing | RISC Zero](https://www.risczero.com/)
 * [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
-* [2022-11-22, 08:27:38](https://lobste.rs/s/7ru5zk/tamarin_fun_pragmatic_scripting) - [Tamarin, a fun/pragmatic scripting language written in Go](https://github.com/cloudcmds/tamarin)
 * [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
@@ -20,7 +21,6 @@
 * [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 19:11:44](https://lobste.rs/s/1c8uhn/how_precision_time_protocol_is_being) - [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 * [2022-11-21, 19:05:01](https://lobste.rs/s/ypn8zp/cve_2022_41924_rce_tailscale_dns) - [CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You](https://emily.id.au/tailscale)
-* [2022-11-21, 16:43:10](https://lobste.rs/s/vzijnh/chalk_ahk_autohotkey_library_for) - [chalk.ahk: An AutoHotkey library for colorizing terminal output](https://github.com/joshuacc/chalk.ahk)
 * [2022-11-21, 16:17:38](https://lobste.rs/s/1zqco6/history_arm_part_2_everything_starts_come) - [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/?p=1896053)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 * [2022-11-21, 14:05:10](https://lobste.rs/s/kosfvz/buzz_small_lightweight_typed_scripting) - [Buzz, a small/lightweight typed scripting language written in Zig](https://github.com/buzz-language/buzz)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
+* [2022-11-22, 12:51:51](https://lobste.rs/s/85hoo1/hanami_2_0_better_faster_stronger) - [Hanami 2.0: Better, Faster, Stronger](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
 * [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 * [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
