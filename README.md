@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 14:45:07](https://lobste.rs/s/b9klkz/tinyllama_tiny_x86_retro_computer) - [TinyLlama: A tiny x86 retro computer](https://github.com/eivindbohler/tinyllama)
 * [2022-11-22, 13:46:17](https://lobste.rs/s/f3hkun/feature_comparison_pkg_config_pkgconf) - [Feature comparison of pkg-config and pkgconf, a pkg-config replacement](http://pkgconf.org/features.html)
 * [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
@@ -8,7 +9,6 @@
 * [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 11:28:55](https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit) - [GitUI 0.22 support submodules and commit message history](https://github.com/extrawurst/gitui/releases/tag/v0.22.1)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
-* [2022-11-22, 10:40:56](https://lobste.rs/s/zijsvt/postgresql_error_permission_denied_for) - [PostgreSQL ERROR: permission denied for schema public](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
 * [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
