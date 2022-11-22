@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
 * [2022-11-22, 16:29:15](https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math) - [How to rotate an actor with Raylib without math knowledge](https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html)
 * [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
-* [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_this) - [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
+* [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 14:45:07](https://lobste.rs/s/b9klkz/tinyllama_tiny_x86_retro_computer) - [TinyLlama: A tiny x86 retro computer](https://github.com/eivindbohler/tinyllama)
@@ -17,7 +18,6 @@
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 08:20:43](https://lobste.rs/s/u96jtw/relocatable_linking) - [Relocatable linking](https://maskray.me/blog/2022-11-21-relocatable-linking)
 * [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
-* [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-22, 02:13:42](https://lobste.rs/s/5kh46u/are_we_stack_efficient_yet) - [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
