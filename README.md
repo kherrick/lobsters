@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-22, 16:26:21](https://lobste.rs/s/wwgwjk/cicero_ai_agent_negotiates_persuades) - [CICERO: An AI agent that negotiates, persuades, and cooperates with people](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+* [2022-11-22, 16:29:15](https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math) - [How to rotate an actor with Raylib without math knowledge](https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html)
 * [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_this) - [Improving Firefox stability with this one weird trick](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
