@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-22](index.md)
 
+* [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-22, 02:16:20](https://lobste.rs/s/yajsap/rust_enum_match_code_generation) - [Rust enum-match code generation](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)

@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:32:59](https://lobste.rs/s/fedojt/jq255_elliptic_curve_specification) - [A jq255 Elliptic Curve Specification, and a Retrospective](https://research.nccgroup.com/2022/11/21/a-jq255-elliptic-curve-specification-and-a-retrospective/)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-22, 02:16:20](https://lobste.rs/s/yajsap/rust_enum_match_code_generation) - [Rust enum-match code generation](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
 * [2022-11-22, 02:13:42](https://lobste.rs/s/5kh46u/are_we_stack_efficient_yet) - [Are we stack-efficient yet?](https://arewestackefficientyet.com/)
-* [2022-11-22, 00:20:32](https://lobste.rs/s/0ofqxe/vmaf_ftw_how_vimeo_turned_metric_for_video) - [VMAF FTW: How Vimeo turned a metric for video quality into better adaptive streaming](https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c)
 * [2022-11-21, 23:53:54](https://lobste.rs/s/6mmlki/exploiting_protocols_for_fun) - [Exploiting Protocols for Fun](https://matt-rickard.com/exploiting-protocols-for-fun)
 * [2022-11-21, 22:09:17](https://lobste.rs/s/jyq2jm/c_move_semantics_considered_harmful_rust) - [C++ Move Semantics Considered Harmful (Rust is better) (2021)](https://www.thecodedmessage.com/posts/cpp-move/)
 * [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
