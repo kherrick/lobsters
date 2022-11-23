@@ -6,6 +6,7 @@
 
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 * [2022-11-23, 11:50:29](https://lobste.rs/s/8xjjz2/class_c2_interpolating_splines) - [A Class of C2 Interpolating Splines](http://www.cemyuksel.com/research/interpolating_splines/)
+* [2022-11-23, 11:45:16](https://lobste.rs/s/wz4bcc/how_commit_computer_fraud_70s_style_1972) - [How to commit computer fraud - 70s style (1972)](https://www.youtube.com/watch?v=RHo3d_4d2SM)
 * [2022-11-23, 11:45:16](https://lobste.rs/s/wz4bcc/how_commit_computer_fraud_70s_style) - [How to commit COMPUTER FRAUD - 70s style | Tomorrow’s World (1972)](https://www.youtube.com/watch?v=RHo3d_4d2SM)
 * [2022-11-23, 11:33:17](https://lobste.rs/s/vxjmeh/from_service_platform_ranking_system_go) - [From Service to Platform: A Ranking System in Go](https://www.reddit.com/r/RedditEng/comments/z137m3/from_service_to_platform_a_ranking_system_in_go/)
 * [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com | Ben E. C. Boyter](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
