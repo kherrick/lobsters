@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:50:40](https://lobste.rs/s/phpzle/vectorfusion_text_svg_by_abstracting) - [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://ajayj.com/vectorfusion)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 13:59:40](https://lobste.rs/s/gadjjf/database_for_react_native) - [Database for React Native](https://rxdb.info/react-native-database.html)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 * [2022-11-23, 11:50:29](https://lobste.rs/s/8xjjz2/class_c2_interpolating_splines) - [A Class of C2 Interpolating Splines](http://www.cemyuksel.com/research/interpolating_splines/)
 * [2022-11-23, 11:45:16](https://lobste.rs/s/wz4bcc/how_commit_computer_fraud_70s_style_1972) - [How to commit computer fraud - 70s style (1972)](https://www.youtube.com/watch?v=RHo3d_4d2SM)
-* [2022-11-23, 11:33:17](https://lobste.rs/s/vxjmeh/from_service_platform_ranking_system_go) - [From Service to Platform: A Ranking System in Go](https://www.reddit.com/r/RedditEng/comments/z137m3/from_service_to_platform_a_ranking_system_in_go/)
 * [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 * [2022-11-23, 09:10:32](https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching) - [cppdataloader is a batching and caching library for C++17](https://github.com/jafarlihi/cppdataloader)
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
