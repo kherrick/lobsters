@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/podcast_rivers_cuomo_guido_van_rossum) - [[Podcast] Rivers Cuomo and Guido van Rossum — Sing for Science](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 20:49:36](https://lobste.rs/s/kbxpik/ruby_concurrency_is_hard_how_i_became_ruby) - [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
 * [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
