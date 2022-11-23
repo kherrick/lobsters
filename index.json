@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-23, 18:30:55",
+      "https://lobste.rs/s/nkrveb/haskell_production_fossa"
+    ],
+    [
+      "Haskell in Production: FOSSA",
+      "https://serokell.io/blog/haskell-in-production-fossa"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 18:27:11",
+      "https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet"
+    ],
+    [
+      "Comfortably monitor your internet traffic in real-time with Sniffnet",
+      "https://github.com/GyulyVGC/sniffnet"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 17:44:38",
       "https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2022-11-23, 09:10:32",
-      "https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching"
-    ],
-    [
-      "cppdataloader is a batching and caching library for C++17",
-      "https://github.com/jafarlihi/cppdataloader"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 08:24:03",
       "https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens"
     ],
@@ -157,16 +167,6 @@
     [
       "Building the fastest Lua interpreter.. automatically",
       "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 19:06:05",
-      "https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming"
-    ],
-    [
-      "The case for dynamic, functional programming",
-      "https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html"
     ]
   ],
   [
