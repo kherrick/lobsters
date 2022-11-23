@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 13:59:40](https://lobste.rs/s/gadjjf/database_for_react_native) - [Database for React Native](https://rxdb.info/react-native-database.html)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 * [2022-11-23, 11:50:29](https://lobste.rs/s/8xjjz2/class_c2_interpolating_splines) - [A Class of C2 Interpolating Splines](http://www.cemyuksel.com/research/interpolating_splines/)

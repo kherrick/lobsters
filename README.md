@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 13:59:40](https://lobste.rs/s/gadjjf/database_for_react_native) - [Database for React Native](https://rxdb.info/react-native-database.html)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 * [2022-11-23, 11:50:29](https://lobste.rs/s/8xjjz2/class_c2_interpolating_splines) - [A Class of C2 Interpolating Splines](http://www.cemyuksel.com/research/interpolating_splines/)
@@ -10,7 +11,6 @@
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 * [2022-11-23, 07:31:21](https://lobste.rs/s/bxa2iw/typeshare_rust_types_for_kotlin_swift) - [Typeshare: Rust types for Kotlin, Swift, and TypeScript](https://github.com/1Password/typeshare)
 * [2022-11-23, 00:18:13](https://lobste.rs/s/oeinpb/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
-* [2022-11-22, 23:15:36](https://lobste.rs/s/mxmdgh/announcing_silicon_valley_nix_nixos_user) - [Announcing Silicon Valley Nix / NixOS User Group](https://notes.softinio.com/p/announcing-silicon-valley-nix-nixos)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
 * [2022-11-22, 19:06:05](https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming) - [The case for dynamic, functional programming](https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html)
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
