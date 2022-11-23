@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 01:17:47](https://lobste.rs/s/o8n46r/presenting_styleguide_colors) - [Presenting Styleguide Colors](https://blog.noredink.com/post/701651083488018432/presenting-styleguide-colors)
+* [2022-11-23, 00:18:13](https://lobste.rs/s/oeinpb/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
 * [2022-11-22, 23:15:36](https://lobste.rs/s/mxmdgh/announcing_silicon_valley_nix_nixos_user) - [Announcing Silicon Valley Nix / NixOS User Group](https://notes.softinio.com/p/announcing-silicon-valley-nix-nixos)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
+* [2022-11-22, 20:19:09](https://lobste.rs/s/upxzvu/catbird_experimental_game_engine_for) - [Catbird: An experimental game engine for Scheme programmers](https://dthompson.us/catbird-an-experimental-game-engine-for-scheme-programmers.html)
 * [2022-11-22, 19:06:05](https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming) - [The case for dynamic, functional programming](https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html)
 * [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2022-11-22, 17:18:42](https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over) - [Kubernetes Dashboard over OpenBSD (over vmm(4))](https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html)
@@ -20,10 +23,7 @@
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
-* [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
-* [2022-11-21, 22:07:54](https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy) - [Python Type Hints: case study on Parsy](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)
-* [2022-11-21, 21:13:27](https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows) - [connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo](https://github.com/jafarlihi/connmap)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 
 ## [Archives](archives/index.md)
