@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
+* [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
+* [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
 * [2022-11-23, 19:34:00](https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at) - [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
-* [2022-11-23, 18:35:16](https://lobste.rs/s/6iolv7/open_source_software_vs_proposed_cyber) - [Open-source software vs. the proposed Cyber Resilience Act](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
 * [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
 * [2022-11-23, 17:44:38](https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc) - [Exploring the Operating System of Reolink RLC-801A](https://serhack.me/articles/operating-system-reolink-rlc-810-a/)
