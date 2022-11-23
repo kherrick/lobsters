@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 15:50:40",
+      "https://lobste.rs/s/phpzle/vectorfusion_text_svg_by_abstracting"
+    ],
+    [
+      "VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models",
+      "https://ajayj.com/vectorfusion"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 15:44:23",
       "https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale"
     ],
@@ -87,16 +97,6 @@
     [
       "A Better Way to Borrow in Rust: Stack Tokens",
       "https://lucumr.pocoo.org/2022/11/23/stack-tokens/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 07:31:21",
-      "https://lobste.rs/s/bxa2iw/typeshare_rust_types_for_kotlin_swift"
-    ],
-    [
-      "Typeshare: Rust types for Kotlin, Swift, and TypeScript",
-      "https://github.com/1Password/typeshare"
     ]
   ],
   [
