@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/podcast_rivers_cuomo_guido_van_rossum) - [[Podcast] Rivers Cuomo and Guido van Rossum — Sing for Science](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
