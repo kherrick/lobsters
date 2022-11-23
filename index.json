@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-23, 01:17:47",
+      "https://lobste.rs/s/o8n46r/presenting_styleguide_colors"
+    ],
+    [
+      "Presenting Styleguide Colors",
+      "https://blog.noredink.com/post/701651083488018432/presenting-styleguide-colors"
+    ]
+  ],
+  [
+    [
+      "2022-11-23, 00:18:13",
+      "https://lobste.rs/s/oeinpb/carcinization_go_programs"
+    ],
+    [
+      "The carcinization of Go programs",
+      "https://xeiaso.net/blog/carcinization-golang"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 23:15:36",
       "https://lobste.rs/s/mxmdgh/announcing_silicon_valley_nix_nixos_user"
     ],
@@ -17,6 +37,16 @@
     [
       "Building the fastest Lua interpreter.. automatically",
       "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 20:19:09",
+      "https://lobste.rs/s/upxzvu/catbird_experimental_game_engine_for"
+    ],
+    [
+      "Catbird: An experimental game engine for Scheme programmers",
+      "https://dthompson.us/catbird-an-experimental-game-engine-for-scheme-programmers.html"
     ]
   ],
   [
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2022-11-22, 08:08:54",
-      "https://lobste.rs/s/njzkpv/llama_terminal_file_manager"
-    ],
-    [
-      "Llama - Terminal File Manager",
-      "https://github.com/antonmedv/llama"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 04:14:34",
       "https://lobste.rs/s/8i19nz/always_use_closed_open_intervals"
     ],
     [
       "Always use [closed, open) intervals",
       "https://fhur.me/posts/always-use-closed-open-intervals"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 22:07:54",
-      "https://lobste.rs/s/1elwat/python_type_hints_case_study_on_parsy"
-    ],
-    [
-      "Python Type Hints: case study on Parsy",
-      "https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/"
-    ]
-  ],
-  [
-    [
-      "2022-11-21, 21:13:27",
-      "https://lobste.rs/s/zjp6mj/connmap_is_x11_desktop_widget_shows"
-    ],
-    [
-      "connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo",
-      "https://github.com/jafarlihi/connmap"
     ]
   ],
   [
