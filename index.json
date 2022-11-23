@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 10:18:37",
+      "https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for"
+    ],
+    [
+      "Building a custom code search index in Go for searchcode.com | Ben E. C. Boyter",
+      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 09:10:32",
       "https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching"
     ],
@@ -107,16 +117,6 @@
     [
       "D2 made open source: a diagram scripting language",
       "https://github.com/terrastruct/d2"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 16:29:15",
-      "https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math"
-    ],
-    [
-      "How to rotate an actor with Raylib without math knowledge",
-      "https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html"
     ]
   ],
   [
