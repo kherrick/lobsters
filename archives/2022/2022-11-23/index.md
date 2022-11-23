@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com | Ben E. C. Boyter](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 * [2022-11-23, 09:10:32](https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching) - [cppdataloader is a batching and caching library for C++17](https://github.com/jafarlihi/cppdataloader)
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 * [2022-11-23, 07:31:21](https://lobste.rs/s/bxa2iw/typeshare_rust_types_for_kotlin_swift) - [Typeshare: Rust types for Kotlin, Swift, and TypeScript](https://github.com/1Password/typeshare)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com | Ben E. C. Boyter](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 * [2022-11-23, 09:10:32](https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching) - [cppdataloader is a batching and caching library for C++17](https://github.com/jafarlihi/cppdataloader)
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 * [2022-11-23, 07:31:21](https://lobste.rs/s/bxa2iw/typeshare_rust_types_for_kotlin_swift) - [Typeshare: Rust types for Kotlin, Swift, and TypeScript](https://github.com/1Password/typeshare)
@@ -11,7 +12,6 @@
 * [2022-11-22, 19:06:05](https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming) - [The case for dynamic, functional programming](https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html)
 * [2022-11-22, 17:20:56](https://lobste.rs/s/rifpmy/k3s_cluster_over_openbsd_vmm_4) - [K3s cluster over OpenBSD (vmm(4))](https://x61.sh/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
-* [2022-11-22, 16:29:15](https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math) - [How to rotate an actor with Raylib without math knowledge](https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html)
 * [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
