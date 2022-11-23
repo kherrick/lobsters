@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-11-22, 17:18:42",
-      "https://lobste.rs/s/t9jcmi/kubernetes_dashboard_over_openbsd_over"
-    ],
-    [
-      "Kubernetes Dashboard over OpenBSD (over vmm(4))",
-      "https://x61.sh/log/2022/11/20221122T153344-kubernetes_dashboard.html"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 16:55:30",
       "https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting"
     ],
@@ -197,6 +187,16 @@
     [
       "Flux: Refinement Types for Rust",
       "https://liquid-rust.github.io/2022/11/14/introducing-flux/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 11:28:55",
+      "https://lobste.rs/s/thj8p3/gitui_0_22_support_submodules_commit"
+    ],
+    [
+      "GitUI 0.22 support submodules and commit message history",
+      "https://github.com/extrawurst/gitui/releases/tag/v0.22.1"
     ]
   ],
   [
