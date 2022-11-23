@@ -161,22 +161,22 @@
   ],
   [
     [
+      "2022-11-22, 19:06:05",
+      "https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming"
+    ],
+    [
+      "The case for dynamic, functional programming",
+      "https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html"
+    ]
+  ],
+  [
+    [
       "2022-11-22, 16:55:30",
       "https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting"
     ],
     [
       "D2 made open source: a diagram scripting language",
       "https://github.com/terrastruct/d2"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 15:55:11",
-      "https://lobste.rs/s/l4izja/improving_firefox_stability_with_change"
-    ],
-    [
-      "Improving Firefox stability [with a change to handling of failed memory allocations]",
-      "https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/"
     ]
   ],
   [
