@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 17:44:38](https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc) - [Exploring the Operating System of Reolink RLC-801A](https://serhack.me/articles/operating-system-reolink-rlc-810-a/)
 * [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
 * [2022-11-23, 16:59:44](https://lobste.rs/s/6t4dn3/building_pidp_11_dec_pdp_11_replica) - [Building the PiDP-11 DEC PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
 * [2022-11-23, 16:59:03](https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
@@ -18,7 +19,6 @@
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
-* [2022-11-22, 12:51:51](https://lobste.rs/s/85hoo1/hanami_2_0_better_faster_stronger) - [Hanami 2.0: Better, Faster, Stronger](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/)
 * [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 * [2022-11-22, 12:15:33](https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust) - [Flux: Refinement Types for Rust](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)

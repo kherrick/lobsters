@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 17:44:38](https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc) - [Exploring the Operating System of Reolink RLC-801A](https://serhack.me/articles/operating-system-reolink-rlc-810-a/)
 * [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
 * [2022-11-23, 16:59:44](https://lobste.rs/s/6t4dn3/building_pidp_11_dec_pdp_11_replica) - [Building the PiDP-11 DEC PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
 * [2022-11-23, 16:59:03](https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
