@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 20:49:36](https://lobste.rs/s/kbxpik/ruby_concurrency_is_hard_how_i_became_ruby) - [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
 * [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
 * [2022-11-23, 19:34:00](https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at) - [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
@@ -21,7 +22,6 @@
 * [2022-11-23, 00:18:13](https://lobste.rs/s/oeinpb/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
-* [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
