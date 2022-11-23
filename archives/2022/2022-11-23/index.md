@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
+* [2022-11-23, 23:13:29](https://lobste.rs/s/wm0msu/announcing_wasmer_3_0) - [Announcing Wasmer 3.0](https://wasmer.io/posts/announcing-wasmer-3.0)
+* [2022-11-23, 23:01:13](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using) - [Out of curiosity, why is Lobste.rs using \"noreferrer\" on links?](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
