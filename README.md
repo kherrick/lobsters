@@ -12,7 +12,6 @@
 * [2022-11-22, 16:29:15](https://lobste.rs/s/wt4lpe/how_rotate_actor_with_raylib_without_math) - [How to rotate an actor with Raylib without math knowledge](https://www.akselmo.dev/2022/11/21/How-To-Rotate-an-Actor-with-Raylib.html)
 * [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
-* [2022-11-22, 15:54:23](https://lobste.rs/s/retmfy/rapidblock_project) - [The RapidBlock Project](https://rapidblock.org/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 14:45:07](https://lobste.rs/s/b9klkz/tinyllama_tiny_x86_retro_computer) - [TinyLlama: A tiny x86 retro computer](https://github.com/eivindbohler/tinyllama)
 * [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
@@ -23,6 +22,7 @@
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
 * [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
+* [2022-11-22, 08:08:54](https://lobste.rs/s/njzkpv/llama_terminal_file_manager) - [Llama - Terminal File Manager](https://github.com/antonmedv/llama)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 * [2022-11-21, 15:18:48](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming) - [Little Languages Are The Future Of Programming](https://chreke.com/little-languages.html)
 
