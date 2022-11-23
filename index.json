@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 18:35:16",
+      "https://lobste.rs/s/6iolv7/open_source_software_vs_proposed_cyber"
+    ],
+    [
+      "Open-source software vs. the proposed Cyber Resilience Act",
+      "https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 18:30:55",
       "https://lobste.rs/s/nkrveb/haskell_production_fossa"
     ],
@@ -197,16 +207,6 @@
     [
       "Extremely Linear Git History",
       "https://westling.dev/b/extremely-linear-git"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 12:15:33",
-      "https://lobste.rs/s/zuwlbr/flux_refinement_types_for_rust"
-    ],
-    [
-      "Flux: Refinement Types for Rust",
-      "https://liquid-rust.github.io/2022/11/14/introducing-flux/"
     ]
   ],
   [
