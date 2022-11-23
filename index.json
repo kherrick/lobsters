@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 19:34:00",
+      "https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at"
+    ],
+    [
+      "Retrofitting null-safety onto Java at Meta",
+      "https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 18:35:16",
       "https://lobste.rs/s/6iolv7/open_source_software_vs_proposed_cyber"
     ],
@@ -217,16 +227,6 @@
     [
       "Towards End-to-End Encryption for Direct Messages in the Fediverse",
       "https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 09:37:22",
-      "https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc"
-    ],
-    [
-      "WebAssembly backend merged into GHC",
-      "https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/"
     ]
   ],
   [
