@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2022-11-22, 15:54:23",
-      "https://lobste.rs/s/retmfy/rapidblock_project"
-    ],
-    [
-      "The RapidBlock Project",
-      "https://rapidblock.org/"
-    ]
-  ],
-  [
-    [
       "2022-11-22, 15:30:39",
       "https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress"
     ],
@@ -227,6 +217,16 @@
     [
       "Why Twitter Didn’t Go Down: From a Real Twitter SRE",
       "https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 08:08:54",
+      "https://lobste.rs/s/njzkpv/llama_terminal_file_manager"
+    ],
+    [
+      "Llama - Terminal File Manager",
+      "https://github.com/antonmedv/llama"
     ]
   ],
   [
