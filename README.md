@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 13:59:40](https://lobste.rs/s/gadjjf/database_for_react_native) - [Database for React Native](https://rxdb.info/react-native-database.html)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 * [2022-11-23, 11:50:29](https://lobste.rs/s/8xjjz2/class_c2_interpolating_splines) - [A Class of C2 Interpolating Splines](http://www.cemyuksel.com/research/interpolating_splines/)
 * [2022-11-23, 11:45:16](https://lobste.rs/s/wz4bcc/how_commit_computer_fraud_70s_style_1972) - [How to commit computer fraud - 70s style (1972)](https://www.youtube.com/watch?v=RHo3d_4d2SM)
@@ -13,7 +14,6 @@
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
 * [2022-11-22, 19:06:05](https://lobste.rs/s/eqvcmb/case_for_dynamic_functional_programming) - [The case for dynamic, functional programming](https://www.onebigfluke.com/2022/11/the-case-for-dynamic-functional.html)
 * [2022-11-22, 16:55:30](https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting) - [D2 made open source: a diagram scripting language](https://github.com/terrastruct/d2)
-* [2022-11-22, 16:17:25](https://lobste.rs/s/jl6ufv/sprint_driven_development) - [Sprint Driven Development](https://timkellogg.me/blog/2022/11/22/sprints)
 * [2022-11-22, 15:55:11](https://lobste.rs/s/l4izja/improving_firefox_stability_with_change) - [Improving Firefox stability [with a change to handling of failed memory allocations]](https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/)
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 12:53:28](https://lobste.rs/s/d1aydy/please_restore_our_registers_when_you_re) - [Please restore our registers when you’re done with them](https://randomascii.wordpress.com/2022/11/21/please-restore-our-registers-when-youre-done-with-them/)
