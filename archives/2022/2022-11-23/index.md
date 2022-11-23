@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 09:10:32](https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching) - [cppdataloader is a batching and caching library for C++17](https://github.com/jafarlihi/cppdataloader)
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 * [2022-11-23, 07:31:21](https://lobste.rs/s/bxa2iw/typeshare_rust_types_for_kotlin_swift) - [Typeshare: Rust types for Kotlin, Swift, and TypeScript](https://github.com/1Password/typeshare)
 * [2022-11-23, 04:52:11](https://lobste.rs/s/rvohmn/mind_gap) - [Mind the Gap](https://googleprojectzero.blogspot.com/2022/11/mind-the-gap.html)
