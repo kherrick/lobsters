@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 16:39:59](https://lobste.rs/s/1yhmh3/history_webassembly) - [A History of WebAssembly](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)
 * [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:50:40](https://lobste.rs/s/phpzle/vectorfusion_text_svg_by_abstracting) - [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://ajayj.com/vectorfusion)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
