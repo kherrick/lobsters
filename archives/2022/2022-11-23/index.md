@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
+* [2022-11-23, 16:59:44](https://lobste.rs/s/6t4dn3/building_pidp_11_dec_pdp_11_replica) - [Building the PiDP-11 DEC PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
+* [2022-11-23, 16:59:03](https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
 * [2022-11-23, 16:39:59](https://lobste.rs/s/1yhmh3/history_webassembly) - [A History of WebAssembly](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)
 * [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:50:40](https://lobste.rs/s/phpzle/vectorfusion_text_svg_by_abstracting) - [VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models](https://ajayj.com/vectorfusion)
