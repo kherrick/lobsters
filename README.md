@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-23, 19:34:00](https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at) - [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
 * [2022-11-23, 18:35:16](https://lobste.rs/s/6iolv7/open_source_software_vs_proposed_cyber) - [Open-source software vs. the proposed Cyber Resilience Act](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
 * [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
@@ -22,7 +23,6 @@
 * [2022-11-22, 15:30:39](https://lobste.rs/s/8mazot/asahi_linux_november_2022_progress) - [Asahi Linux November 2022 Progress Report](https://asahilinux.org/2022/11/november-2022-report/)
 * [2022-11-22, 12:15:45](https://lobste.rs/s/ydy5vs/extremely_linear_git_history) - [Extremely Linear Git History](https://westling.dev/b/extremely-linear-git)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
-* [2022-11-22, 09:37:22](https://lobste.rs/s/d2ltiv/webassembly_backend_merged_into_ghc) - [WebAssembly backend merged into GHC](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
 * [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 * [2022-11-22, 04:14:34](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals) - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals)
 

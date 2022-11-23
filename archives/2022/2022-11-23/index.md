@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 19:34:00](https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at) - [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
 * [2022-11-23, 18:35:16](https://lobste.rs/s/6iolv7/open_source_software_vs_proposed_cyber) - [Open-source software vs. the proposed Cyber Resilience Act](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
 * [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
