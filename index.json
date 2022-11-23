@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-23, 21:29:41",
+      "https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level"
+    ],
+    [
+      "Make it Purple: An Introduction to Type Level Programming",
+      "https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 21:14:32",
       "https://lobste.rs/s/aywoq3/podcast_rivers_cuomo_guido_van_rossum"
     ],
@@ -217,16 +227,6 @@
     [
       "Building the fastest Lua interpreter.. automatically",
       "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 16:55:30",
-      "https://lobste.rs/s/zyrmoc/d2_made_open_source_diagram_scripting"
-    ],
-    [
-      "D2 made open source: a diagram scripting language",
-      "https://github.com/terrastruct/d2"
     ]
   ],
   [
