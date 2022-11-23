@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
+* [2022-11-23, 11:33:17](https://lobste.rs/s/vxjmeh/from_service_platform_ranking_system_go) - [From Service to Platform: A Ranking System in Go](https://www.reddit.com/r/RedditEng/comments/z137m3/from_service_to_platform_a_ranking_system_in_go/)
 * [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com | Ben E. C. Boyter](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 * [2022-11-23, 09:10:32](https://lobste.rs/s/gl0hdr/cppdataloader_is_batching_caching) - [cppdataloader is a batching and caching library for C++17](https://github.com/jafarlihi/cppdataloader)
 * [2022-11-23, 08:24:03](https://lobste.rs/s/zmi716/better_way_borrow_rust_stack_tokens) - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
