@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2022-11-23](index.md)
 
 * [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
+* [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/podcast_rivers_cuomo_guido_van_rossum) - [[Podcast] Rivers Cuomo and Guido van Rossum — Sing for Science](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 20:49:36](https://lobste.rs/s/kbxpik/ruby_concurrency_is_hard_how_i_became_ruby) - [Ruby concurrency is hard: how I became a Ruby on Rails contributor](https://mensfeld.pl/2022/11/ruby-concurrency-is-hard-how-i-became-a-ruby-on-rails-contributor/)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
