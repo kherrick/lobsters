@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 00:35:35](https://lobste.rs/s/nmaht8/subreply_css) - [Subreply CSS](https://github.com/hoangtuan110/subreply-css)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 23:13:29](https://lobste.rs/s/wm0msu/announcing_wasmer_3_0) - [Announcing Wasmer 3.0](https://wasmer.io/posts/announcing-wasmer-3.0)
 * [2022-11-23, 23:01:13](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using) - [Out of curiosity, why is Lobste.rs using \"noreferrer\" on links?](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using)
@@ -24,7 +25,6 @@
 * [2022-11-23, 00:18:13](https://lobste.rs/s/oeinpb/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)
 * [2022-11-22, 10:59:01](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct) - [Towards End-to-End Encryption for Direct Messages in the Fediverse](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/)
-* [2022-11-22, 09:19:14](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real) - [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
 
 ## [Archives](archives/index.md)
 
