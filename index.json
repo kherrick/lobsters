@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-24, 12:36:56",
+      "https://lobste.rs/s/4cpqwv/tag_proposal_fediverse"
+    ],
+    [
+      "Tag proposal: fediverse",
+      "https://lobste.rs/s/4cpqwv/tag_proposal_fediverse"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 11:34:09",
       "https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd"
     ],
@@ -237,16 +247,6 @@
     [
       "Building a custom code search index in Go for searchcode.com",
       "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 21:55:50",
-      "https://lobste.rs/s/c02xce/building_fastest_lua_interpreter"
-    ],
-    [
-      "Building the fastest Lua interpreter.. automatically",
-      "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
     ]
   ]
 ]
