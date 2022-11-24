@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 04:04:46](https://lobste.rs/s/57vffe/you_must_be_64_bit_ride_this_ferry) - [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
+* [2022-11-24, 03:57:14](https://lobste.rs/s/brdiig/hermit_deterministic_linux_for) - [Hermit: Deterministic Linux for Controlled Testing and Software Bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
 * [2022-11-24, 03:38:18](https://lobste.rs/s/yg70oq/finding_reminding_file_organization) - [Finding and Reminding: File Organization from the Desktop (1995)](https://homepages.cwi.nl/~steven/sigchi/bulletin/1995.3/barreau.html)
 * [2022-11-24, 00:35:35](https://lobste.rs/s/nmaht8/subreply_css) - [Subreply CSS](https://github.com/hoangtuan110/subreply-css)

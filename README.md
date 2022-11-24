@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 04:04:46](https://lobste.rs/s/57vffe/you_must_be_64_bit_ride_this_ferry) - [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
+* [2022-11-24, 03:57:14](https://lobste.rs/s/brdiig/hermit_deterministic_linux_for) - [Hermit: Deterministic Linux for Controlled Testing and Software Bug-finding](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/)
 * [2022-11-24, 03:38:18](https://lobste.rs/s/yg70oq/finding_reminding_file_organization) - [Finding and Reminding: File Organization from the Desktop (1995)](https://homepages.cwi.nl/~steven/sigchi/bulletin/1995.3/barreau.html)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 23:13:29](https://lobste.rs/s/wm0msu/announcing_wasmer_3_0) - [Announcing Wasmer 3.0](https://wasmer.io/posts/announcing-wasmer-3.0)
-* [2022-11-23, 23:01:13](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using) - [Out of curiosity, why is Lobste.rs using \"noreferrer\" on links?](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
-* [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
 * [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
