@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 14:02:31](https://lobste.rs/s/1ggv1v/generating_alerts_from_your_log_events) - [Generating alerts from your log events](https://www.parseable.io/docs/alerts)
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
 * [2022-11-24, 11:34:09](https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd) - [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
 * [2022-11-24, 11:32:03](https://lobste.rs/s/lly2yq/installing_openbsd_on_oracle_cloud) - [Installing OpenBSD on Oracle Cloud](https://icyphox.sh/blog/openbsd-oci/)
