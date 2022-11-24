@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-24, 14:38:14",
+      "https://lobste.rs/s/ohyutt/night_1000_alerts_only_on_linux_boxes"
+    ],
+    [
+      "The night of 1000 alerts (but only on the Linux boxes)",
+      "http://rachelbythebay.com/w/2022/11/23/alerts/"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 14:32:48",
+      "https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small"
+    ],
+    [
+      "An efficient ActivityPub Server, for small installs with multiple domains",
+      "https://jointakahe.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 14:21:10",
       "https://lobste.rs/s/fpsxm6/compiler_errors_for_humans_2015"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-11-23, 19:57:04",
-      "https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right"
-    ],
-    [
-      "Sign the open letter about the universal right to install any software on any device",
-      "https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 19:40:48",
       "https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right"
     ],
@@ -207,16 +217,6 @@
     [
       "Hacking the parking gate",
       "https://engineering.q42.nl/parking-hack/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 16:00:51",
-      "https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line"
-    ],
-    [
-      "git-delete-merged-branches: Command-line tool to delete merged Git branches",
-      "https://github.com/hartwork/git-delete-merged-branches"
     ]
   ],
   [
