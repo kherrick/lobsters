@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-24, 16:12:48",
+      "https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data"
+    ],
+    [
+      "Ruby adds a new core class called Data to represent simple immutable value objects",
+      "https://blog.saeloun.com/2022/11/22/data-immutable-object"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 16:12:22",
+      "https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame"
+    ],
+    [
+      "Ignore RuboCop changes in Git Blame",
+      "https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 16:06:12",
+      "https://lobste.rs/s/irygno/compiler_provenance_recovery_for_multi"
+    ],
+    [
+      "Compiler Provenance Recovery for Multi-CPU Architectures Using a Centrifuge Mechanism",
+      "https://arxiv.org/pdf/2211.13110.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 16:05:19",
+      "https://lobste.rs/s/nvdeev/emerging_biometric_modalities_their_use"
+    ],
+    [
+      "Emerging Biometric Modalities & their Use: Loopholes in Terminology of GDPR & Resulting Privacy Risk",
+      "https://arxiv.org/pdf/2211.12899.pdf"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 14:44:53",
       "https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2022-11-24, 05:14:12",
-      "https://lobste.rs/s/mxmdgc/fathom_declarative_data_definition"
-    ],
-    [
-      "fathom - A declarative data definition language for formally specifying binary data",
-      "https://github.com/yeslogic/fathom"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 04:36:10",
       "https://lobste.rs/s/f59yfr/installing_mastodon_inside_freebsd_jail"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2022-11-23, 20:08:32",
-      "https://lobste.rs/s/eusaxy/how_be_better_roboticist"
-    ],
-    [
-      "How To Be A Better Roboticist",
-      "https://wiki.alopex.li/HowToBeABetterRoboticist"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 19:40:48",
       "https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right"
     ],
     [
       "You'll Never Do Agile Right",
       "https://danschnau.com/blog/agile_is_meaningless"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 19:34:00",
-      "https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at"
-    ],
-    [
-      "Retrofitting null-safety onto Java at Meta",
-      "https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Comfortably monitor your internet traffic in real-time with Sniffnet",
       "https://github.com/GyulyVGC/sniffnet"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 17:02:32",
-      "https://lobste.rs/s/ot7jhc/hacking_parking_gate"
-    ],
-    [
-      "Hacking the parking gate",
-      "https://engineering.q42.nl/parking-hack/"
     ]
   ],
   [
