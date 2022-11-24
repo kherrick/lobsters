@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 21:38:12](https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux) - [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
 * [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
 * [2022-11-24, 19:54:37](https://lobste.rs/s/frpsc0/linux_traceroute) - [Linux’ Traceroute](https://weberblog.net/linux-traceroute/)
@@ -22,7 +23,6 @@
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
 * [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
-* [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
 

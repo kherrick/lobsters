@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 21:38:12](https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux) - [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
 * [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
 * [2022-11-24, 19:54:37](https://lobste.rs/s/frpsc0/linux_traceroute) - [Linux’ Traceroute](https://weberblog.net/linux-traceroute/)
