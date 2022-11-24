@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 21:50:01](https://lobste.rs/s/2kitbx/takahe_0_3_0_aeracode) - [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
+* [2022-11-24, 21:46:27](https://lobste.rs/s/edpthd/federico_mena_quintero_talks_about) - [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
 * [2022-11-24, 21:38:12](https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux) - [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
 * [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
