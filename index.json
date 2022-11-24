@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-24, 09:13:26",
+      "https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd"
+    ],
+    [
+      "Dendrite (Matrix) over OpenBSD",
+      "https://x61.sh/log/2022/10/20221021T153746-dendrite.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 09:12:32",
+      "https://lobste.rs/s/yjgxsm/honk_into_activitypub"
+    ],
+    [
+      "Honk into ActivityPub",
+      "https://x61.sh/log/2022/10/20221015T145211-honk.html"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 08:57:30",
       "https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2022-11-23, 21:14:32",
-      "https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum"
-    ],
-    [
-      "Rivers Cuomo and Guido van Rossum",
-      "https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum"
-    ]
-  ],
-  [
-    [
       "2022-11-23, 20:08:32",
       "https://lobste.rs/s/eusaxy/how_be_better_roboticist"
     ],
@@ -167,16 +177,6 @@
     [
       "Hacking the parking gate",
       "https://engineering.q42.nl/parking-hack/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 16:59:03",
-      "https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over"
-    ],
-    [
-      "A Programmer-Friendly I/O Abstraction Over io_uring and kqueue",
-      "https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/"
     ]
   ],
   [
