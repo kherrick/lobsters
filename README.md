@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:38:14](https://lobste.rs/s/ohyutt/night_1000_alerts_only_on_linux_boxes) - [The night of 1000 alerts (but only on the Linux boxes)](http://rachelbythebay.com/w/2022/11/23/alerts/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 * [2022-11-24, 14:21:10](https://lobste.rs/s/fpsxm6/compiler_errors_for_humans_2015) - [Compiler Errors for Humans (2015)](https://elm-lang.org/news/compiler-errors-for-humans)
@@ -24,7 +25,6 @@
 * [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
-* [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 
 ## [Archives](archives/index.md)
 
