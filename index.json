@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-24, 11:34:09",
+      "https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd"
+    ],
+    [
+      "OCI stack ported to FreeBSD",
+      "https://mastodon.world/@dfr/109398481906495685"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 11:32:03",
+      "https://lobste.rs/s/lly2yq/installing_openbsd_on_oracle_cloud"
+    ],
+    [
+      "Installing OpenBSD on Oracle Cloud",
+      "https://icyphox.sh/blog/openbsd-oci/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 09:55:19",
       "https://lobste.rs/s/jcbufr/tls_may_not_be_what_you_think_it_is"
     ],
@@ -227,26 +247,6 @@
     [
       "Building a custom code search index in Go for searchcode.com",
       "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 00:18:13",
-      "https://lobste.rs/s/oeinpb/carcinization_go_programs"
-    ],
-    [
-      "The carcinization of Go programs",
-      "https://xeiaso.net/blog/carcinization-golang"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 21:55:50",
-      "https://lobste.rs/s/c02xce/building_fastest_lua_interpreter"
-    ],
-    [
-      "Building the fastest Lua interpreter.. automatically",
-      "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
     ]
   ]
 ]
