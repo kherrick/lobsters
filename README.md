@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 09:55:19](https://lobste.rs/s/jcbufr/tls_may_not_be_what_you_think_it_is) - [TLS may not be what you think it is](https://blog.mro.name/2022/11/tls-may-not-be-what-you-think-it-is/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
@@ -21,7 +22,6 @@
 * [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
-* [2022-11-23, 11:45:16](https://lobste.rs/s/wz4bcc/how_commit_computer_fraud_70s_style_1972) - [How to commit computer fraud - 70s style (1972)](https://www.youtube.com/watch?v=RHo3d_4d2SM)
 * [2022-11-23, 10:18:37](https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for) - [Building a custom code search index in Go for searchcode.com](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/)
 * [2022-11-23, 00:18:13](https://lobste.rs/s/oeinpb/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net/blog/carcinization-golang)
 * [2022-11-22, 21:55:50](https://lobste.rs/s/c02xce/building_fastest_lua_interpreter) - [Building the fastest Lua interpreter.. automatically](https://sillycross.github.io/2022/11/22/2022-11-22/index.html)

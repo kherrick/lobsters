@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 09:55:19](https://lobste.rs/s/jcbufr/tls_may_not_be_what_you_think_it_is) - [TLS may not be what you think it is](https://blog.mro.name/2022/11/tls-may-not-be-what-you-think-it-is/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
