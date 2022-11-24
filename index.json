@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2022-11-24, 14:02:31",
-      "https://lobste.rs/s/1ggv1v/generating_alerts_from_your_log_events"
-    ],
-    [
-      "Generating alerts from your log events",
-      "https://www.parseable.io/docs/alerts"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 12:36:56",
       "https://lobste.rs/s/4cpqwv/tag_proposal_fediverse"
     ],
@@ -117,6 +107,16 @@
     [
       "The Great Renaming FAQ 1985 - 1988",
       "https://www.livinginternet.com/u/ui_modern_renamingfaq.htm"
+    ]
+  ],
+  [
+    [
+      "2022-11-24, 05:14:12",
+      "https://lobste.rs/s/mxmdgc/fathom_declarative_data_definition"
+    ],
+    [
+      "fathom - A declarative data definition language for formally specifying binary data",
+      "https://github.com/yeslogic/fathom"
     ]
   ],
   [
