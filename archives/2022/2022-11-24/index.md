@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
 * [2022-11-24, 19:54:37](https://lobste.rs/s/frpsc0/linux_traceroute) - [Linux’ Traceroute](https://weberblog.net/linux-traceroute/)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
