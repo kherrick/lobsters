@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-24](index.md)
 
+* [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
+* [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 * [2022-11-24, 08:57:30](https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988) - [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
 * [2022-11-24, 05:58:11](https://lobste.rs/s/ebdawm/threads_messages_with_rust_webassembly) - [Threads and messages with Rust and WebAssembly](https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/)
 * [2022-11-24, 05:14:12](https://lobste.rs/s/mxmdgc/fathom_declarative_data_definition) - [fathom - A declarative data definition language for formally specifying binary data](https://github.com/yeslogic/fathom)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
+* [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 * [2022-11-24, 08:57:30](https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988) - [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
 * [2022-11-24, 05:14:12](https://lobste.rs/s/mxmdgc/fathom_declarative_data_definition) - [fathom - A declarative data definition language for formally specifying binary data](https://github.com/yeslogic/fathom)
 * [2022-11-24, 04:36:10](https://lobste.rs/s/f59yfr/installing_mastodon_inside_freebsd_jail) - [Installing Mastodon inside a FreeBSD jail](https://it-notes.dragas.net/2022/11/23/installing-mastodon-on-a-freebsd-jail/)
@@ -8,7 +10,6 @@
 * [2022-11-23, 23:13:29](https://lobste.rs/s/wm0msu/announcing_wasmer_3_0) - [Announcing Wasmer 3.0](https://wasmer.io/posts/announcing-wasmer-3.0)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
-* [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
 * [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
 * [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
@@ -17,7 +18,6 @@
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
 * [2022-11-23, 17:44:38](https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc) - [Exploring the Operating System of Reolink RLC-801A](https://serhack.me/articles/operating-system-reolink-rlc-810-a/)
 * [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
-* [2022-11-23, 16:59:03](https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
 * [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [2022-11-23, 12:00:21](https://lobste.rs/s/lsspr7/porting_58000_lines_d_c_jai_part_0_why_how) - [Porting 58000 lines of D and C++ to jai, Part 0: Why and How](https://www.yet-another-blog.com/porting_the_game_to_jai_part0/)
