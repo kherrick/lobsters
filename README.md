@@ -2,7 +2,6 @@
 
 * [2022-11-24, 00:35:35](https://lobste.rs/s/nmaht8/subreply_css) - [Subreply CSS](https://github.com/hoangtuan110/subreply-css)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
-* [2022-11-23, 23:13:29](https://lobste.rs/s/wm0msu/announcing_wasmer_3_0) - [Announcing Wasmer 3.0](https://wasmer.io/posts/announcing-wasmer-3.0)
 * [2022-11-23, 23:01:13](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using) - [Out of curiosity, why is Lobste.rs using \"noreferrer\" on links?](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 21:29:41](https://lobste.rs/s/hbv7jk/make_it_purple_introduction_type_level) - [Make it Purple: An Introduction to Type Level Programming](https://www.youtube.com/watch?app=desktop&v=fQggLFtdTTo&feature=youtu.be)
@@ -14,6 +13,7 @@
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
 * [2022-11-23, 17:44:38](https://lobste.rs/s/jhgo7t/exploring_operating_system_reolink_rlc) - [Exploring the Operating System of Reolink RLC-801A](https://serhack.me/articles/operating-system-reolink-rlc-810-a/)
 * [2022-11-23, 17:02:32](https://lobste.rs/s/ot7jhc/hacking_parking_gate) - [Hacking the parking gate](https://engineering.q42.nl/parking-hack/)
+* [2022-11-23, 16:59:44](https://lobste.rs/s/6t4dn3/building_pidp_11_dec_pdp_11_replica) - [Building the PiDP-11 DEC PDP-11 Replica Minicomputer](https://bigdanzblog.wordpress.com/2022/11/22/building-the-pidp-11-dec-pdp-11-replica-minicomputer/)
 * [2022-11-23, 16:59:03](https://lobste.rs/s/rdcxgd/programmer_friendly_i_o_abstraction_over) - [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/)
 * [2022-11-23, 16:00:51](https://lobste.rs/s/d0nyzp/git_delete_merged_branches_command_line) - [git-delete-merged-branches: Command-line tool to delete merged Git branches](https://github.com/hartwork/git-delete-merged-branches)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
