@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-24, 04:36:10",
+      "https://lobste.rs/s/f59yfr/installing_mastodon_inside_freebsd_jail"
+    ],
+    [
+      "Installing Mastodon inside a FreeBSD jail",
+      "https://it-notes.dragas.net/2022/11/23/installing-mastodon-on-a-freebsd-jail/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 04:04:46",
       "https://lobste.rs/s/57vffe/you_must_be_64_bit_ride_this_ferry"
     ],
@@ -37,16 +47,6 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 23:13:29",
-      "https://lobste.rs/s/wm0msu/announcing_wasmer_3_0"
-    ],
-    [
-      "Announcing Wasmer 3.0",
-      "https://wasmer.io/posts/announcing-wasmer-3.0"
     ]
   ],
   [
