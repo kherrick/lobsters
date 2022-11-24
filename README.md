@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-11-24, 00:35:35](https://lobste.rs/s/nmaht8/subreply_css) - [Subreply CSS](https://github.com/hoangtuan110/subreply-css)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 23:01:13](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using) - [Out of curiosity, why is Lobste.rs using \"noreferrer\" on links?](https://lobste.rs/s/usfrje/out_curiosity_why_is_lobste_rs_using)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
@@ -8,6 +7,7 @@
 * [2022-11-23, 21:14:32](https://lobste.rs/s/aywoq3/rivers_cuomo_guido_van_rossum) - [Rivers Cuomo and Guido van Rossum](https://www.singforscience.org/episodes/rivers-cuomo-guido-van-rossum)
 * [2022-11-23, 20:08:32](https://lobste.rs/s/eusaxy/how_be_better_roboticist) - [How To Be A Better Roboticist](https://wiki.alopex.li/HowToBeABetterRoboticist)
 * [2022-11-23, 19:57:04](https://lobste.rs/s/39lr0k/sign_open_letter_about_universal_right) - [Sign the open letter about the universal right to install any software on any device](https://blog.documentfoundation.org/blog/2022/11/23/sign-the-open-letter-about-the-universal-right-to-install-any-software-on-any-device/)
+* [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
 * [2022-11-23, 19:34:00](https://lobste.rs/s/bfaomo/retrofitting_null_safety_onto_java_at) - [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
 * [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 18:27:11](https://lobste.rs/s/osrzgt/comfortably_monitor_your_internet) - [Comfortably monitor your internet traffic in real-time with Sniffnet](https://github.com/GyulyVGC/sniffnet)
