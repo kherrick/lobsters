@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-24, 05:58:11](https://lobste.rs/s/ebdawm/threads_messages_with_rust_webassembly) - [Threads and messages with Rust and WebAssembly](https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/)
 * [2022-11-24, 05:14:12](https://lobste.rs/s/mxmdgc/fathom_declarative_data_definition) - [fathom - A declarative data definition language for formally specifying binary data](https://github.com/yeslogic/fathom)
-* [2022-11-24, 04:36:10](https://lobste.rs/s/f59yfr/installing_mastodon_inside_freebsd_jail) - [Installing Mastodon inside a FreeBSD jail](https://it-notes.dragas.net/2022/11/23/installing-mastodon-on-a-freebsd-jail/)
 * [2022-11-24, 04:04:46](https://lobste.rs/s/57vffe/you_must_be_64_bit_ride_this_ferry) - [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
