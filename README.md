@@ -5,7 +5,6 @@
 * [2022-11-24, 21:38:12](https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux) - [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
 * [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
-* [2022-11-24, 19:54:37](https://lobste.rs/s/frpsc0/linux_traceroute) - [Linux’ Traceroute](https://weberblog.net/linux-traceroute/)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
 * [2022-11-24, 16:12:22](https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame) - [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
@@ -24,6 +23,7 @@
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
+* [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 
 ## [Archives](archives/index.md)
