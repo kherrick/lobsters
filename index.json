@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-24, 14:44:53",
+      "https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions"
+    ],
+    [
+      "Gleam v0.25 - Introducing use expressions",
+      "https://gleam.run/news/v0.25-introducing-use-expressions/"
+    ]
+  ],
+  [
+    [
       "2022-11-24, 14:38:14",
       "https://lobste.rs/s/ohyutt/night_1000_alerts_only_on_linux_boxes"
     ],
@@ -237,16 +247,6 @@
     [
       "Porting 58000 lines of D and C++ to jai, Part 0: Why and How",
       "https://www.yet-another-blog.com/porting_the_game_to_jai_part0/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 10:18:37",
-      "https://lobste.rs/s/dxgose/building_custom_code_search_index_go_for"
-    ],
-    [
-      "Building a custom code search index in Go for searchcode.com",
-      "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
     ]
   ]
 ]
