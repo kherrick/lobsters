@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2022-11-24, 09:55:19",
-      "https://lobste.rs/s/jcbufr/tls_may_not_be_what_you_think_it_is"
-    ],
-    [
-      "TLS may not be what you think it is",
-      "https://blog.mro.name/2022/11/tls-may-not-be-what-you-think-it-is/"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 09:32:03",
       "https://lobste.rs/s/gyccjr/smart_move_google"
     ],
@@ -247,6 +237,16 @@
     [
       "Building a custom code search index in Go for searchcode.com",
       "https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/"
+    ]
+  ],
+  [
+    [
+      "2022-11-22, 21:55:50",
+      "https://lobste.rs/s/c02xce/building_fastest_lua_interpreter"
+    ],
+    [
+      "Building the fastest Lua interpreter.. automatically",
+      "https://sillycross.github.io/2022/11/22/2022-11-22/index.html"
     ]
   ]
 ]
