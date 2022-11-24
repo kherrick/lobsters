@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-24, 00:35:35",
+      "https://lobste.rs/s/nmaht8/subreply_css"
+    ],
+    [
+      "Subreply CSS",
+      "https://github.com/hoangtuan110/subreply-css"
+    ]
+  ],
+  [
+    [
       "2022-11-23, 23:22:06",
       "https://lobste.rs/s/ts48up/diataxis"
     ],
@@ -237,16 +247,6 @@
     [
       "Towards End-to-End Encryption for Direct Messages in the Fediverse",
       "https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/"
-    ]
-  ],
-  [
-    [
-      "2022-11-22, 09:19:14",
-      "https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real"
-    ],
-    [
-      "Why Twitter Didn’t Go Down: From a Real Twitter SRE",
-      "https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a"
     ]
   ]
 ]
