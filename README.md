@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
+* [2022-11-25, 13:05:14](https://lobste.rs/s/wv3i7g/make_mastodon_bot_on_aws_free_tier) - [Make a Mastodon Bot on AWS Free Tier](https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/)
+* [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 * [2022-11-25, 11:43:53](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend)
 * [2022-11-25, 09:02:50](https://lobste.rs/s/6ig3hq/why_is_open_source_software_so_badly) - [Why is open source software so badly designed?](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss)
 * [2022-11-25, 09:02:41](https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source) - [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss)
@@ -20,11 +23,8 @@
 * [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 * [2022-11-24, 08:57:30](https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988) - [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
-* [2022-11-24, 04:04:46](https://lobste.rs/s/57vffe/you_must_be_64_bit_ride_this_ferry) - [You Must Be 64-Bit to Ride This Ferry](https://medium.com/@joey.watts/you-must-be-64-bit-to-ride-this-ferry-61ed45c57a93)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
-* [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
-* [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 
 ## [Archives](archives/index.md)
 

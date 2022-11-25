@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-25](index.md)
 
+* [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
+* [2022-11-25, 13:05:14](https://lobste.rs/s/wv3i7g/make_mastodon_bot_on_aws_free_tier) - [Make a Mastodon Bot on AWS Free Tier](https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/)
+* [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 * [2022-11-25, 11:43:53](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend)
 * [2022-11-25, 09:02:50](https://lobste.rs/s/6ig3hq/why_is_open_source_software_so_badly) - [Why is open source software so badly designed?](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss)
 * [2022-11-25, 09:02:41](https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source) - [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss)
