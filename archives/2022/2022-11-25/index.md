@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-25](index.md)
 
+* [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
 * [2022-11-25, 18:01:31](https://lobste.rs/s/jb7mys/experimenting_with_federation) - [Experimenting with Federation and Migrating Accounts](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
