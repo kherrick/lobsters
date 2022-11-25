@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 19:34:29",
+      "https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm"
+    ],
+    [
+      "Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize",
+      "https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 18:35:39",
       "https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with"
     ],
@@ -177,16 +187,6 @@
     [
       "Ruby adds a new core class called Data to represent simple immutable value objects",
       "https://blog.saeloun.com/2022/11/22/data-immutable-object"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 16:12:22",
-      "https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame"
-    ],
-    [
-      "Ignore RuboCop changes in Git Blame",
-      "https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/"
     ]
   ],
   [
