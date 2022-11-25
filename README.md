@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
 * [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 13:05:14](https://lobste.rs/s/wv3i7g/make_mastodon_bot_on_aws_free_tier) - [Make a Mastodon Bot on AWS Free Tier](https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
@@ -18,7 +19,6 @@
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
 * [2022-11-24, 11:34:09](https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd) - [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
-* [2022-11-24, 11:32:03](https://lobste.rs/s/lly2yq/installing_openbsd_on_oracle_cloud) - [Installing OpenBSD on Oracle Cloud](https://icyphox.sh/blog/openbsd-oci/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
