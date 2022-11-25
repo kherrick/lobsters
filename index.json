@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-11-25, 09:02:41",
-      "https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source"
-    ],
-    [
-      "How to make volunteer-driven open source projects successful",
-      "https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss"
-    ]
-  ],
-  [
-    [
       "2022-11-25, 08:32:22",
       "https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with"
     ],
@@ -117,6 +107,16 @@
     [
       "Fast transformer inference with Metal Performance Shaders",
       "https://explosion.ai/blog/metal-performance-shaders"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 06:11:30",
+      "https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes"
+    ],
+    [
+      "Where Did My Variable Go? Poking Holes in Incomplete Debug Information",
+      "https://arxiv.org/abs/2211.09568"
     ]
   ],
   [
