@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-25, 18:10:10",
+      "https://lobste.rs/s/qxj8q0/mdoc_7"
+    ],
+    [
+      "MDOC(7)",
+      "https://mandoc.bsd.lv/man/mdoc.7.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 18:01:31",
+      "https://lobste.rs/s/jb7mys/experimenting_with_federation"
+    ],
+    [
+      "Experimenting with Federation and Migrating Accounts",
+      "https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 17:07:26",
       "https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-11-24, 11:34:09",
-      "https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd"
-    ],
-    [
-      "OCI stack ported to FreeBSD",
-      "https://mastodon.world/@dfr/109398481906495685"
-    ]
-  ],
-  [
-    [
       "2022-11-24, 09:32:03",
       "https://lobste.rs/s/gyccjr/smart_move_google"
     ],
@@ -227,16 +237,6 @@
     [
       "Honk into ActivityPub",
       "https://x61.sh/log/2022/10/20221015T145211-honk.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 08:57:30",
-      "https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988"
-    ],
-    [
-      "The Great Renaming FAQ 1985 - 1988",
-      "https://www.livinginternet.com/u/ui_modern_renamingfaq.htm"
     ]
   ],
   [
