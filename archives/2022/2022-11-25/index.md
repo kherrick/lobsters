@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-25](index.md)
 
+* [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
 * [2022-11-25, 15:08:37](https://lobste.rs/s/xya6vx/greg_korah_hartman_on_linux_s_development) - [Greg Korah Hartman on Linux's development cycle and testing (2008)](https://www.youtube.com/watch?v=L2SED6sewRw)
