@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 17:07:26",
+      "https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub"
+    ],
+    [
+      "Go-Fed, comprehensive ActivityPub framework for Go",
+      "https://go-fed.org/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 16:06:27",
       "https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore"
     ],
@@ -107,16 +117,6 @@
     [
       "Fast transformer inference with Metal Performance Shaders",
       "https://explosion.ai/blog/metal-performance-shaders"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 06:11:30",
-      "https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes"
-    ],
-    [
-      "Where Did My Variable Go? Poking Holes in Incomplete Debug Information",
-      "https://arxiv.org/abs/2211.09568"
     ]
   ],
   [
