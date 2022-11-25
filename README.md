@@ -2,8 +2,8 @@
 
 * [2022-11-25, 07:06:39](https://lobste.rs/s/tn1tgx/fast_transformer_inference_with_metal) - [Fast transformer inference with Metal Performance Shaders](https://explosion.ai/blog/metal-performance-shaders)
 * [2022-11-25, 06:11:30](https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes) - [Where Did My Variable Go? Poking Holes in Incomplete Debug Information](https://arxiv.org/abs/2211.09568)
-* [2022-11-25, 01:06:08](https://lobste.rs/s/abtrox/writing_docs_well_why_should_software) - [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
 * [2022-11-24, 21:50:01](https://lobste.rs/s/2kitbx/takahe_0_3_0_aeracode) - [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
+* [2022-11-24, 21:46:27](https://lobste.rs/s/edpthd/federico_mena_quintero_talks_about) - [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
 * [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 21:15:29](https://lobste.rs/s/46d5eo/end_kaslr_bypasses) - [An End to KASLR Bypasses?](https://windows-internals.com/an-end-to-kaslr-bypasses/)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
