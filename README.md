@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
+* [2022-11-25, 18:01:31](https://lobste.rs/s/jb7mys/experimenting_with_federation) - [Experimenting with Federation and Migrating Accounts](https://medium.com/@kris-nova/experimenting-with-federation-and-migrating-accounts-eae61a688c3c)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
@@ -19,11 +21,9 @@
 * [2022-11-24, 14:38:14](https://lobste.rs/s/ohyutt/night_1000_alerts_only_on_linux_boxes) - [The night of 1000 alerts (but only on the Linux boxes)](http://rachelbythebay.com/w/2022/11/23/alerts/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
-* [2022-11-24, 11:34:09](https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd) - [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:13:26](https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd) - [Dendrite (Matrix) over OpenBSD](https://x61.sh/log/2022/10/20221021T153746-dendrite.html)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
-* [2022-11-24, 08:57:30](https://lobste.rs/s/rmo6aa/great_renaming_faq_1985_1988) - [The Great Renaming FAQ 1985 - 1988](https://www.livinginternet.com/u/ui_modern_renamingfaq.htm)
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 
 ## [Archives](archives/index.md)
