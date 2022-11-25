@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-25](index.md)
 
+* [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 * [2022-11-25, 19:34:29](https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm) - [Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize](https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/)
 * [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)

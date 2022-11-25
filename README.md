@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 * [2022-11-25, 19:34:29](https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm) - [Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize](https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/)
 * [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
@@ -17,7 +18,6 @@
 * [2022-11-25, 09:02:50](https://lobste.rs/s/6ig3hq/why_is_open_source_software_so_badly) - [Why is open source software so badly designed?](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss)
 * [2022-11-25, 08:32:22](https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with) - [Figuring out round, floor and ceil with integer division](http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html)
 * [2022-11-25, 07:06:39](https://lobste.rs/s/tn1tgx/fast_transformer_inference_with_metal) - [Fast transformer inference with Metal Performance Shaders](https://explosion.ai/blog/metal-performance-shaders)
-* [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
