@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 18:35:39",
+      "https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with"
+    ],
+    [
+      "Making all your integers positive with zigzag encoding",
+      "https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 18:17:31",
       "https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos"
     ],
@@ -217,16 +227,6 @@
     [
       "Smart Move, Google",
       "https://garrit.xyz/posts/2022-11-24-smart-move-google"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 09:13:26",
-      "https://lobste.rs/s/ovtrpy/dendrite_matrix_over_openbsd"
-    ],
-    [
-      "Dendrite (Matrix) over OpenBSD",
-      "https://x61.sh/log/2022/10/20221021T153746-dendrite.html"
     ]
   ],
   [
