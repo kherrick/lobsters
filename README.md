@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
 * [2022-11-25, 15:08:37](https://lobste.rs/s/xya6vx/greg_korah_hartman_on_linux_s_development) - [Greg Korah Hartman on Linux's development cycle and testing (2008)](https://www.youtube.com/watch?v=L2SED6sewRw)
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
@@ -11,7 +12,6 @@
 * [2022-11-25, 09:02:41](https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source) - [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss)
 * [2022-11-25, 08:32:22](https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with) - [Figuring out round, floor and ceil with integer division](http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html)
 * [2022-11-25, 07:06:39](https://lobste.rs/s/tn1tgx/fast_transformer_inference_with_metal) - [Fast transformer inference with Metal Performance Shaders](https://explosion.ai/blog/metal-performance-shaders)
-* [2022-11-24, 21:50:01](https://lobste.rs/s/2kitbx/takahe_0_3_0_aeracode) - [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
 * [2022-11-24, 16:12:22](https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame) - [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
