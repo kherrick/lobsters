@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 01:06:08](https://lobste.rs/s/abtrox/writing_docs_well_why_should_software) - [Writing docs well: why should a software engineer care?](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/)
 * [2022-11-24, 21:50:01](https://lobste.rs/s/2kitbx/takahe_0_3_0_aeracode) - [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
 * [2022-11-24, 21:46:27](https://lobste.rs/s/edpthd/federico_mena_quintero_talks_about) - [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
 * [2022-11-24, 21:38:12](https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux) - [Bookmark: gather information on a Linux process' physical memory pages' status](https://github.com/javierhonduco/bookmark)
@@ -23,7 +24,6 @@
 * [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 * [2022-11-23, 22:26:46](https://lobste.rs/s/67kxim/2_years_at_twitter) - [2 years at Twitter](https://eed3si9n.com/2years-at-twitter/)
 * [2022-11-23, 19:40:48](https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right) - [You'll Never Do Agile Right](https://danschnau.com/blog/agile_is_meaningless)
-* [2022-11-23, 18:30:55](https://lobste.rs/s/nkrveb/haskell_production_fossa) - [Haskell in Production: FOSSA](https://serokell.io/blog/haskell-in-production-fossa)
 * [2022-11-23, 15:44:23](https://lobste.rs/s/8beouf/using_rust_at_startup_cautionary_tale) - [Using Rust at a startup: A cautionary tale](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 
 ## [Archives](archives/index.md)
