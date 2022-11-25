@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-25](index.md)
 
+* [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
+* [2022-11-25, 15:08:37](https://lobste.rs/s/xya6vx/greg_korah_hartman_on_linux_s_development) - [Greg Korah Hartman on Linux's development cycle and testing (2008)](https://www.youtube.com/watch?v=L2SED6sewRw)
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
 * [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 13:05:14](https://lobste.rs/s/wv3i7g/make_mastodon_bot_on_aws_free_tier) - [Make a Mastodon Bot on AWS Free Tier](https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/)
