@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 06:11:30",
+      "https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes"
+    ],
+    [
+      "Where Did My Variable Go? Poking Holes in Incomplete Debug Information",
+      "https://arxiv.org/abs/2211.09568"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 01:06:08",
       "https://lobste.rs/s/abtrox/writing_docs_well_why_should_software"
     ],
@@ -27,16 +37,6 @@
     [
       "Federico Mena-Quintero talks about the Document-Centric Desktop (2011)",
       "https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 21:38:12",
-      "https://lobste.rs/s/up9rrc/bookmark_gather_information_on_linux"
-    ],
-    [
-      "Bookmark: gather information on a Linux process' physical memory pages' status",
-      "https://github.com/javierhonduco/bookmark"
     ]
   ],
   [
