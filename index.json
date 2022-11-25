@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 21:51:17",
+      "https://lobste.rs/s/hdqxae/recognizing_patterns_memory"
+    ],
+    [
+      "Recognizing patterns in memory",
+      "https://www.timdbg.com/posts/recognizing-patterns/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 19:34:29",
       "https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm"
     ],
@@ -167,16 +177,6 @@
     [
       "Fast transformer inference with Metal Performance Shaders",
       "https://explosion.ai/blog/metal-performance-shaders"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 17:00:31",
-      "https://lobste.rs/s/hnxsxx/database_optimisation_analytics"
-    ],
-    [
-      "Database optimisation, analytics and burnout",
-      "https://blog.zm.is/database-optimisation-analytics-burnout/"
     ]
   ],
   [
