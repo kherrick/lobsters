@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 11:43:53](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend)
 * [2022-11-25, 09:02:50](https://lobste.rs/s/6ig3hq/why_is_open_source_software_so_badly) - [Why is open source software so badly designed?](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss)
 * [2022-11-25, 09:02:41](https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source) - [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss)
 * [2022-11-25, 08:32:22](https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with) - [Figuring out round, floor and ceil with integer division](http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html)
@@ -12,7 +13,6 @@
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:38:14](https://lobste.rs/s/ohyutt/night_1000_alerts_only_on_linux_boxes) - [The night of 1000 alerts (but only on the Linux boxes)](http://rachelbythebay.com/w/2022/11/23/alerts/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
-* [2022-11-24, 14:21:10](https://lobste.rs/s/fpsxm6/compiler_errors_for_humans_2015) - [Compiler Errors for Humans (2015)](https://elm-lang.org/news/compiler-errors-for-humans)
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
 * [2022-11-24, 11:34:09](https://lobste.rs/s/oeu9xn/oci_stack_ported_freebsd) - [OCI stack ported to FreeBSD](https://mastodon.world/@dfr/109398481906495685)
 * [2022-11-24, 11:32:03](https://lobste.rs/s/lly2yq/installing_openbsd_on_oracle_cloud) - [Installing OpenBSD on Oracle Cloud](https://icyphox.sh/blog/openbsd-oci/)
