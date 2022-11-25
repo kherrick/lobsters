@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 09:02:50](https://lobste.rs/s/6ig3hq/why_is_open_source_software_so_badly) - [Why is open source software so badly designed?](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss)
+* [2022-11-25, 09:02:41](https://lobste.rs/s/taixjc/how_make_volunteer_driven_open_source) - [How to make volunteer-driven open source projects successful](https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss)
 * [2022-11-25, 08:32:22](https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with) - [Figuring out round, floor and ceil with integer division](http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html)
 * [2022-11-25, 07:06:39](https://lobste.rs/s/tn1tgx/fast_transformer_inference_with_metal) - [Fast transformer inference with Metal Performance Shaders](https://explosion.ai/blog/metal-performance-shaders)
 * [2022-11-25, 06:11:30](https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes) - [Where Did My Variable Go? Poking Holes in Incomplete Debug Information](https://arxiv.org/abs/2211.09568)
 * [2022-11-24, 21:50:01](https://lobste.rs/s/2kitbx/takahe_0_3_0_aeracode) - [Takahē 0.3.0 - Aeracode](https://aeracode.org/2022/11/24/takahe-030/)
-* [2022-11-24, 21:46:27](https://lobste.rs/s/edpthd/federico_mena_quintero_talks_about) - [Federico Mena-Quintero talks about the Document-Centric Desktop (2011)](https://www.derstandard.at/story/1318461320472/federico-mena-quintero-talks-about-the-document-centric-desktop)
-* [2022-11-24, 21:28:50](https://lobste.rs/s/v00ubp/jessie_simple_universal_safe_mobile_code) - [Jessie, simple universal safe mobile code](https://github.com/endojs/Jessie)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
 * [2022-11-24, 16:12:22](https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame) - [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
