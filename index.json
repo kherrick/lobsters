@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-25, 15:19:54",
+      "https://lobste.rs/s/httq78/unix_history_is_mostly_old_now"
+    ],
+    [
+      "Unix History Is Mostly Old Now",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow"
+    ]
+  ],
+  [
+    [
+      "2022-11-25, 15:08:37",
+      "https://lobste.rs/s/xya6vx/greg_korah_hartman_on_linux_s_development"
+    ],
+    [
+      "Greg Korah Hartman on Linux's development cycle and testing (2008)",
+      "https://www.youtube.com/watch?v=L2SED6sewRw"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 13:44:41",
       "https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown"
     ],
@@ -87,16 +107,6 @@
     [
       "Fast transformer inference with Metal Performance Shaders",
       "https://explosion.ai/blog/metal-performance-shaders"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 06:11:30",
-      "https://lobste.rs/s/l4my8h/where_did_my_variable_go_poking_holes"
-    ],
-    [
-      "Where Did My Variable Go? Poking Holes in Incomplete Debug Information",
-      "https://arxiv.org/abs/2211.09568"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 19:40:48",
-      "https://lobste.rs/s/n9czsb/you_ll_never_do_agile_right"
-    ],
-    [
-      "You'll Never Do Agile Right",
-      "https://danschnau.com/blog/agile_is_meaningless"
     ]
   ]
 ]
