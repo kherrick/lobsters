@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-25, 13:44:41",
+      "https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown"
+    ],
+    [
+      "TEstable SHell sessions in Markdown",
+      "https://github.com/OceanSprint/tesh"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 13:05:28",
       "https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon"
     ],
@@ -177,16 +187,6 @@
     [
       "OCI stack ported to FreeBSD",
       "https://mastodon.world/@dfr/109398481906495685"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 11:32:03",
-      "https://lobste.rs/s/lly2yq/installing_openbsd_on_oracle_cloud"
-    ],
-    [
-      "Installing OpenBSD on Oracle Cloud",
-      "https://icyphox.sh/blog/openbsd-oci/"
     ]
   ],
   [
