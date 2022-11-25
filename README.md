@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-25, 19:34:29](https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm) - [Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize](https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/)
 * [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
@@ -18,7 +19,6 @@
 * [2022-11-25, 07:06:39](https://lobste.rs/s/tn1tgx/fast_transformer_inference_with_metal) - [Fast transformer inference with Metal Performance Shaders](https://explosion.ai/blog/metal-performance-shaders)
 * [2022-11-24, 17:00:31](https://lobste.rs/s/hnxsxx/database_optimisation_analytics) - [Database optimisation, analytics and burnout](https://blog.zm.is/database-optimisation-analytics-burnout/)
 * [2022-11-24, 16:12:48](https://lobste.rs/s/w6zvzv/ruby_adds_new_core_class_called_data) - [Ruby adds a new core class called Data to represent simple immutable value objects](https://blog.saeloun.com/2022/11/22/data-immutable-object)
-* [2022-11-24, 16:12:22](https://lobste.rs/s/dncfqn/ignore_rubocop_changes_git_blame) - [Ignore RuboCop changes in Git Blame](https://blog.testdouble.com/posts/2022-11-21-rubocop-git-blame/)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
