@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-26, 03:43:40",
+      "https://lobste.rs/s/szp6i7/cache_invalidation_really_is_one_hardest"
+    ],
+    [
+      "Cache invalidation really is one of the hardest problems in computer science",
+      "https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 03:32:47",
       "https://lobste.rs/s/prwwht/you_can_program_functionally_any"
     ],
@@ -147,16 +157,6 @@
     [
       "From Ubuntu to NixOS the story of a mastodon migration",
       "https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 13:05:14",
-      "https://lobste.rs/s/wv3i7g/make_mastodon_bot_on_aws_free_tier"
-    ],
-    [
-      "Make a Mastodon Bot on AWS Free Tier",
-      "https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/"
     ]
   ],
   [
