@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 08:02:39](https://lobste.rs/s/ijd8h9/origins_python_lambert_meertens) - [The Origins of Python | Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:43:40](https://lobste.rs/s/szp6i7/cache_invalidation_really_is_one_hardest) - [Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
@@ -22,7 +23,6 @@
 * [2022-11-25, 08:32:22](https://lobste.rs/s/eggk4l/figuring_out_round_floor_ceil_with) - [Figuring out round, floor and ceil with integer division](http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
-* [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 
