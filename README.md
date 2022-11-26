@@ -14,7 +14,6 @@
 * [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 * [2022-11-26, 01:15:33](https://lobste.rs/s/pijnex/test_factory_functions_django) - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
 * [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
-* [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
@@ -23,6 +22,7 @@
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
 * [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
+* [2022-11-25, 11:43:53](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 
