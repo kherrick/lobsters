@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-26, 21:43:16",
+      "https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust"
+    ],
+    [
+      "Slippery RansomExx Malware Moves to Rust, Evading VirusTotal",
+      "https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 21:32:51",
       "https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.25 - Introducing use expressions",
       "https://gleam.run/news/v0.25-introducing-use-expressions/"
-    ]
-  ],
-  [
-    [
-      "2022-11-24, 09:32:03",
-      "https://lobste.rs/s/gyccjr/smart_move_google"
-    ],
-    [
-      "Smart Move, Google",
-      "https://garrit.xyz/posts/2022-11-24-smart-move-google"
     ]
   ]
 ]
