@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-26](index.md)
 
+* [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 08:02:39](https://lobste.rs/s/ijd8h9/origins_python_lambert_meertens) - [The Origins of Python | Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)

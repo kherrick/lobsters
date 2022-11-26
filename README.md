@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 08:02:39](https://lobste.rs/s/ijd8h9/origins_python_lambert_meertens) - [The Origins of Python | Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
@@ -24,7 +25,6 @@
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 14:32:48](https://lobste.rs/s/qingh6/efficient_activitypub_server_for_small) - [An efficient ActivityPub Server, for small installs with multiple domains](https://jointakahe.org/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
-* [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
 
 ## [Archives](archives/index.md)
 
