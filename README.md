@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 01:15:33](https://lobste.rs/s/pijnex/test_factory_functions_django) - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
 * [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 * [2022-11-25, 19:34:29](https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm) - [Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize](https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/)
 * [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
@@ -24,7 +25,6 @@
 * [2022-11-24, 12:36:56](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse) - [Tag proposal: fediverse](https://lobste.rs/s/4cpqwv/tag_proposal_fediverse)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 * [2022-11-24, 09:12:32](https://lobste.rs/s/yjgxsm/honk_into_activitypub) - [Honk into ActivityPub](https://x61.sh/log/2022/10/20221015T145211-honk.html)
-* [2022-11-23, 23:22:06](https://lobste.rs/s/ts48up/diataxis) - [Diátaxis](https://diataxis.fr/)
 
 ## [Archives](archives/index.md)
 
