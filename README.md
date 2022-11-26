@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 * [2022-11-26, 20:02:19](https://lobste.rs/s/7wmuue/luajit_remake_ongoing_attempt_re) - [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
@@ -22,7 +23,6 @@
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
 * [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
-* [2022-11-25, 11:43:53](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zq7nva/what_are_you_doing_this_weekend)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
 * [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 
