@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-26](index.md)
 
+* [2022-11-26, 17:22:48](https://lobste.rs/s/qjecvy/guido_van_rossum_python_future) - [Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)](https://lexfridman.com/guido-van-rossum-2/)
 * [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 * [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)

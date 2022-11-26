@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 17:22:48](https://lobste.rs/s/qjecvy/guido_van_rossum_python_future) - [Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)](https://lexfridman.com/guido-van-rossum-2/)
 * [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 * [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
@@ -10,7 +11,6 @@
 * [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 * [2022-11-26, 01:15:33](https://lobste.rs/s/pijnex/test_factory_functions_django) - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
 * [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
-* [2022-11-25, 19:34:29](https://lobste.rs/s/p2gs5u/paolo_melchiorre_2022_malcolm) - [Paolo Melchiorre - 2022 Malcolm Tredinnick Memorial Prize](https://www.paulox.net/2022/11/25/2022-malcolm-tredinnick-memorial-prize/)
 * [2022-11-25, 18:35:39](https://lobste.rs/s/ob8jly/making_all_your_integers_positive_with) - [Making all your integers positive with zigzag encoding](https://lemire.me/blog/2022/11/25/making-all-your-integers-positive-with-zigzag-encoding/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
