@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-26, 01:15:33",
+      "https://lobste.rs/s/pijnex/test_factory_functions_django"
+    ],
+    [
+      "Test factory functions in Django",
+      "https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/"
+    ]
+  ],
+  [
+    [
       "2022-11-25, 21:51:17",
       "https://lobste.rs/s/hdqxae/recognizing_patterns_memory"
     ],
@@ -237,16 +247,6 @@
     [
       "Honk into ActivityPub",
       "https://x61.sh/log/2022/10/20221015T145211-honk.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-23, 23:22:06",
-      "https://lobste.rs/s/ts48up/diataxis"
-    ],
-    [
-      "Diátaxis",
-      "https://diataxis.fr/"
     ]
   ]
 ]
