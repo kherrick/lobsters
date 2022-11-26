@@ -7,6 +7,7 @@
 * [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 08:02:39](https://lobste.rs/s/ijd8h9/origins_python_lambert_meertens) - [The Origins of Python | Lambert Meertens](https://inference-review.com/article/the-origins-of-python)
+* [2022-11-26, 08:02:39](https://lobste.rs/s/ijd8h9/origins_python) - [The Origins of Python](https://inference-review.com/article/the-origins-of-python)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:43:40](https://lobste.rs/s/szp6i7/cache_invalidation_really_is_one_hardest) - [Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
