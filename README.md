@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 21:43:16](https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust) - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
@@ -24,7 +25,6 @@
 * [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 * [2022-11-24, 14:44:53](https://lobste.rs/s/yxwubn/gleam_v0_25_introducing_use_expressions) - [Gleam v0.25 - Introducing use expressions](https://gleam.run/news/v0.25-introducing-use-expressions/)
-* [2022-11-24, 09:32:03](https://lobste.rs/s/gyccjr/smart_move_google) - [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
 
 ## [Archives](archives/index.md)
 
