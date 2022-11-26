@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 23:05:11](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project) - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
 * [2022-11-26, 22:38:45](https://lobste.rs/s/ipv7gj/osquery_sql_powered_operating_system) - [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:43:16](https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust) - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
@@ -18,7 +19,6 @@
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
 * [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 * [2022-11-26, 01:15:33](https://lobste.rs/s/pijnex/test_factory_functions_django) - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
-* [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
