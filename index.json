@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-26, 09:39:46",
+      "https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck"
+    ],
+    [
+      "I/O is no longer the bottleneck",
+      "https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/"
+    ]
+  ],
+  [
+    [
       "2022-11-26, 08:02:39",
       "https://lobste.rs/s/ijd8h9/origins_python_lambert_meertens"
     ],
@@ -147,16 +157,6 @@
     [
       "Unix History Is Mostly Old Now",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 15:08:37",
-      "https://lobste.rs/s/xya6vx/greg_kroah_hartman_on_linux_s_development"
-    ],
-    [
-      "Greg Kroah-Hartman on Linux's development cycle and testing (2008)",
-      "https://www.youtube.com/watch?v=L2SED6sewRw"
     ]
   ],
   [
