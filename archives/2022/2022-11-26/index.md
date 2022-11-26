@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-26](index.md)
 
+* [2022-11-26, 22:38:45](https://lobste.rs/s/ipv7gj/osquery_sql_powered_operating_system) - [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:43:16](https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust) - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 22:38:45](https://lobste.rs/s/ipv7gj/osquery_sql_powered_operating_system) - [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:43:16](https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust) - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
@@ -23,7 +24,6 @@
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
-* [2022-11-25, 13:05:28](https://lobste.rs/s/wynvf6/from_ubuntu_nixos_story_mastodon) - [From Ubuntu to NixOS the story of a mastodon migration](https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 
 ## [Archives](archives/index.md)
