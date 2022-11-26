@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-26](index.md)
 
+* [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 * [2022-11-26, 20:02:19](https://lobste.rs/s/7wmuue/luajit_remake_ongoing_attempt_re) - [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)

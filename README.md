@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 * [2022-11-26, 20:02:19](https://lobste.rs/s/7wmuue/luajit_remake_ongoing_attempt_re) - [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)
@@ -16,7 +17,6 @@
 * [2022-11-26, 01:15:33](https://lobste.rs/s/pijnex/test_factory_functions_django) - [Test factory functions in Django](https://lukeplant.me.uk/blog/posts/test-factory-functions-in-django/)
 * [2022-11-25, 21:51:17](https://lobste.rs/s/hdqxae/recognizing_patterns_memory) - [Recognizing patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
-* [2022-11-25, 18:10:10](https://lobste.rs/s/qxj8q0/mdoc_7) - [MDOC(7)](https://mandoc.bsd.lv/man/mdoc.7.html)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
