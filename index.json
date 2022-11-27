@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2022-11-26, 20:02:19",
-      "https://lobste.rs/s/7wmuue/luajit_remake_ongoing_attempt_re"
-    ],
-    [
-      "LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch",
-      "https://github.com/luajit-remake/luajit-remake"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 19:38:30",
       "https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible"
     ],
@@ -237,6 +227,16 @@
     [
       "You can program functionally in any computer language",
       "http://boston.conman.org/2022/11/25.1"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 02:27:36",
+      "https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release"
+    ],
+    [
+      "Stable Diffusion 2.0 Release",
+      "https://stability.ai/blog/stable-diffusion-v2-release"
     ]
   ],
   [
