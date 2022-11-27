@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 21:00:51",
+      "https://lobste.rs/s/tc2hvk/rune_is_programming_language_developed"
+    ],
+    [
+      "Rune is a programming language developed to test ideas for improving security and efficiency",
+      "https://github.com/google/rune"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 19:04:59",
       "https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes"
     ],
@@ -177,16 +187,6 @@
     [
       "The inner workings of ZigSelf's actor model",
       "https://sin-ack.github.io/posts/zigself-actor/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 21:14:23",
-      "https://lobste.rs/s/mmmyno/mangle_programming_language_for"
-    ],
-    [
-      "Mangle, a programming language for deductive database programming",
-      "https://github.com/google/mangle"
     ]
   ],
   [
