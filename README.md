@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 21:00:51](https://lobste.rs/s/tc2hvk/rune_is_programming_language_developed) - [Rune is a programming language developed to test ideas for improving security and efficiency](https://github.com/google/rune)
 * [2022-11-27, 19:04:59](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes) - [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 * [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
@@ -18,7 +19,6 @@
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:43:16](https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust) - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
-* [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
 * [2022-11-26, 17:22:48](https://lobste.rs/s/qjecvy/guido_van_rossum_python_future) - [Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)](https://lexfridman.com/guido-van-rossum-2/)
