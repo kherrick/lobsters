@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-27, 22:19:25",
+      "https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild"
+    ],
+    [
+      "GCC undefined behaviors are getting wild",
+      "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 22:12:00",
+      "https://lobste.rs/s/6wo1m9/keenwrite_2_10_0_r_meets_tex"
+    ],
+    [
+      "KeenWrite 2.10.0: R meets TeX",
+      "https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 21:28:03",
       "https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-11-26, 21:43:16",
-      "https://lobste.rs/s/bnvtav/slippery_ransomexx_malware_moves_rust"
-    ],
-    [
-      "Slippery RansomExx Malware Moves to Rust, Evading VirusTotal",
-      "https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal"
-    ]
-  ],
-  [
-    [
       "2022-11-26, 21:32:51",
       "https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model"
     ],
@@ -237,16 +247,6 @@
     [
       "I/O is no longer the bottleneck",
       "https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 03:32:47",
-      "https://lobste.rs/s/prwwht/you_can_program_functionally_any"
-    ],
-    [
-      "You can program functionally in any computer language",
-      "http://boston.conman.org/2022/11/25.1"
     ]
   ]
 ]
