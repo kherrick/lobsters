@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-27](index.md)
 
+* [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
+* [2022-11-27, 22:12:00](https://lobste.rs/s/6wo1m9/keenwrite_2_10_0_r_meets_tex) - [KeenWrite 2.10.0: R meets TeX](https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0)
 * [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
 * [2022-11-27, 21:00:51](https://lobste.rs/s/tc2hvk/rune_is_programming_language_developed) - [Rune is a programming language developed to test ideas for improving security and efficiency](https://github.com/google/rune)
 * [2022-11-27, 19:04:59](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes) - [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
