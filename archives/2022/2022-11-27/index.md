@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-27](index.md)
 
+* [2022-11-27, 22:32:05](https://lobste.rs/s/utz7to/meet_library_babel_every_possible) - [Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written](https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever)
+* [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 * [2022-11-27, 22:12:00](https://lobste.rs/s/6wo1m9/keenwrite_2_10_0_r_meets_tex) - [KeenWrite 2.10.0: R meets TeX](https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0)
 * [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)

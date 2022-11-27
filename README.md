@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 22:32:05](https://lobste.rs/s/utz7to/meet_library_babel_every_possible) - [Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written](https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever)
+* [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 * [2022-11-27, 22:12:00](https://lobste.rs/s/6wo1m9/keenwrite_2_10_0_r_meets_tex) - [KeenWrite 2.10.0: R meets TeX](https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0)
 * [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
@@ -9,7 +11,6 @@
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
-* [2022-11-27, 13:41:18](https://lobste.rs/s/lomtoh/post_quantum_signatures_dnssec_via) - [Post-quantum signatures in DNSSEC via request-based fragmentation](https://www.douglas.stebila.ca/research/papers/EPRINT-GoeSte22/)
 * [2022-11-27, 12:43:52](https://lobste.rs/s/rhejie/derby_static_software_testing_joern_vs) - [The Derby of Static Software Testing: Joern vs. CodeQl](https://elmanto.github.io/posts/sast_derby_joern_vs_codeql)
 * [2022-11-27, 12:01:30](https://lobste.rs/s/fcs2an/understand_assembly_generated_for) - [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 * [2022-11-27, 07:50:31](https://lobste.rs/s/kp9iro/creating_2d_physics_engine_from_scratch) - [Creating a 2D physics engine from scratch in Javascript](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/)
@@ -22,7 +23,6 @@
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
-* [2022-11-26, 17:22:48](https://lobste.rs/s/qjecvy/guido_van_rossum_python_future) - [Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)](https://lexfridman.com/guido-van-rossum-2/)
 * [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 
