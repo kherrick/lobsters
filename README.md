@@ -16,7 +16,6 @@
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 21:14:23](https://lobste.rs/s/mmmyno/mangle_programming_language_for) - [Mangle, a programming language for deductive database programming](https://github.com/google/mangle)
 * [2022-11-26, 20:14:30](https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig) - [SuperMemo2 implementation in Zig](https://len.falken.directory/code/sm2.git/)
-* [2022-11-26, 20:02:19](https://lobste.rs/s/7wmuue/luajit_remake_ongoing_attempt_re) - [LuaJIT Remake: An ongoing attempt to re-engineer LuaJIT from scratch](https://github.com/luajit-remake/luajit-remake)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
 * [2022-11-26, 17:22:48](https://lobste.rs/s/qjecvy/guido_van_rossum_python_future) - [Guido van Rossum: Python and the Future of Programming (Lex Fridman Podcast)](https://lexfridman.com/guido-van-rossum-2/)
 * [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
@@ -24,6 +23,7 @@
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
+* [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 
 ## [Archives](archives/index.md)
