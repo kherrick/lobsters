@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
@@ -23,7 +24,6 @@
 * [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 * [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
-* [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
 
 ## [Archives](archives/index.md)

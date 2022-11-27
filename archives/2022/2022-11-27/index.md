@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-27](index.md)
 
+* [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
