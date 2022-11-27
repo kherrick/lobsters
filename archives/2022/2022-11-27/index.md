@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-27](index.md)
 
+* [2022-11-27, 19:04:59](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes) - [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 * [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
