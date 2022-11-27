@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 15:29:05",
+      "https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env"
+    ],
+    [
+      "Git hook to automatically and safely sync .env variables with env.sample",
+      "https://github.com/acaloiaro/pre-commit-env-sample-sync"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 14:03:52",
       "https://lobste.rs/s/dxhzem/computers_are_for_girls"
     ],
@@ -227,16 +237,6 @@
     [
       "You can program functionally in any computer language",
       "http://boston.conman.org/2022/11/25.1"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 02:27:36",
-      "https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release"
-    ],
-    [
-      "Stable Diffusion 2.0 Release",
-      "https://stability.ai/blog/stable-diffusion-v2-release"
     ]
   ],
   [
