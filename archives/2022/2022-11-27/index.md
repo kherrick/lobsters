@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-27](index.md)
 
+* [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
 * [2022-11-27, 21:00:51](https://lobste.rs/s/tc2hvk/rune_is_programming_language_developed) - [Rune is a programming language developed to test ideas for improving security and efficiency](https://github.com/google/rune)
 * [2022-11-27, 19:04:59](https://lobste.rs/s/n0nfeu/index_merges_vs_composite_indexes) - [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 * [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
