@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 02:55:22](https://lobste.rs/s/wdrcxv/interview_with_michael_nielsen_quantum) - [Interview with Michael Nielsen, Quantum Physicist, Author, and Open Science Advocate](https://heritageproject.caltech.edu/interviews-updates/michael-nielsen)
 * [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
 * [2022-11-26, 23:52:44](https://lobste.rs/s/bsrxdn/ai_is_changing_scientists_understanding) - [AI is changing scientists’ understanding of language learning](https://theconversation.com/ai-is-changing-scientists-understanding-of-language-learning-and-raising-questions-about-an-innate-grammar-190594)
 * [2022-11-26, 23:05:11](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project) - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
@@ -22,7 +23,6 @@
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
 * [2022-11-25, 17:07:26](https://lobste.rs/s/z647y3/go_fed_comprehensive_activitypub) - [Go-Fed, comprehensive ActivityPub framework for Go](https://go-fed.org/)
 * [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
-* [2022-11-25, 15:19:54](https://lobste.rs/s/httq78/unix_history_is_mostly_old_now) - [Unix History Is Mostly Old Now](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixHistoryMostlyOldNow)
 * [2022-11-25, 13:44:41](https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown) - [TEstable SHell sessions in Markdown](https://github.com/OceanSprint/tesh)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 
