@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 12:43:52",
+      "https://lobste.rs/s/rhejie/derby_static_software_testing_joern_vs"
+    ],
+    [
+      "The Derby of Static Software Testing: Joern vs. CodeQl",
+      "https://elmanto.github.io/posts/sast_derby_joern_vs_codeql"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 12:01:30",
       "https://lobste.rs/s/fcs2an/understand_assembly_generated_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?",
       "https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 13:44:41",
-      "https://lobste.rs/s/kf6xqi/testable_shell_sessions_markdown"
-    ],
-    [
-      "TEstable SHell sessions in Markdown",
-      "https://github.com/OceanSprint/tesh"
     ]
   ],
   [
