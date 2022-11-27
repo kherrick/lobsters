@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 * [2022-11-27, 13:41:18](https://lobste.rs/s/lomtoh/post_quantum_signatures_dnssec_via) - [Post-quantum signatures in DNSSEC via request-based fragmentation](https://www.douglas.stebila.ca/research/papers/EPRINT-GoeSte22/)
@@ -24,7 +25,6 @@
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
-* [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 
 ## [Archives](archives/index.md)
 
