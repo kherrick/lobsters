@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 13:41:18](https://lobste.rs/s/lomtoh/post_quantum_signatures_dnssec_via) - [Post-quantum signatures in DNSSEC via request-based fragmentation](https://www.douglas.stebila.ca/research/papers/EPRINT-GoeSte22/)
 * [2022-11-27, 12:43:52](https://lobste.rs/s/rhejie/derby_static_software_testing_joern_vs) - [The Derby of Static Software Testing: Joern vs. CodeQl](https://elmanto.github.io/posts/sast_derby_joern_vs_codeql)
 * [2022-11-27, 12:01:30](https://lobste.rs/s/fcs2an/understand_assembly_generated_for) - [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 * [2022-11-27, 07:50:31](https://lobste.rs/s/kp9iro/creating_2d_physics_engine_from_scratch) - [Creating a 2D physics engine from scratch in Javascript](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/)
@@ -23,7 +24,6 @@
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
 * [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
-* [2022-11-25, 16:06:27](https://lobste.rs/s/tnyhqc/cloudflare_servers_don_t_own_ips_anymore) - [Cloudflare servers don't own IPs anymore – so how do they connect to the Internet?](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/)
 * [2022-11-25, 12:59:17](https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial) - [Rice's theorem - an interactive tutorial](https://busy-beavers.tigyog.app/rice)
 
 ## [Archives](archives/index.md)
