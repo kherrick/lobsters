@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-27, 06:36:36](https://lobste.rs/s/clibpz/pure_c_clang_is_better_than_gcc) - [[Pure C] Clang is better than GCC](https://yurichev.org/clang/)
 * [2022-11-27, 03:52:47](https://lobste.rs/s/hmgt7e/bug_fix_8086_microprocessor_revealed_die) - [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
 * [2022-11-27, 02:55:22](https://lobste.rs/s/wdrcxv/interview_with_michael_nielsen_quantum) - [Interview with Michael Nielsen, Quantum Physicist, Author, and Open Science Advocate](https://heritageproject.caltech.edu/interviews-updates/michael-nielsen)
 * [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
@@ -17,7 +18,6 @@
 * [2022-11-26, 11:45:29](https://lobste.rs/s/qmlkdl/oh_my_github_1_0_is_out) - [Oh My GitHub 1.0 is out](https://en.liujiacai.net/2022/11/26/oh-my-github-1-0/)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 * [2022-11-26, 07:05:54](https://lobste.rs/s/4yjjhx/redox_os_0_8_0) - [Redox OS 0.8.0](https://www.redox-os.org/news/release-0.8.0/)
-* [2022-11-26, 03:43:40](https://lobste.rs/s/szp6i7/cache_invalidation_really_is_one_hardest) - [Cache invalidation really is one of the hardest problems in computer science](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/)
 * [2022-11-26, 03:32:47](https://lobste.rs/s/prwwht/you_can_program_functionally_any) - [You can program functionally in any computer language](http://boston.conman.org/2022/11/25.1)
 * [2022-11-26, 02:27:36](https://lobste.rs/s/0fmhdi/stable_diffusion_2_0_release) - [Stable Diffusion 2.0 Release](https://stability.ai/blog/stable-diffusion-v2-release)
 * [2022-11-25, 18:17:31](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos) - [How do you backup iOS photos?](https://lobste.rs/s/qsikwv/how_do_you_backup_ios_photos)
