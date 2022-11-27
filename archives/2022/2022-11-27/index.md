@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-11-27](index.md)
+
+* [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
