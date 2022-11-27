@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-27, 15:44:10",
+      "https://lobste.rs/s/r6csxw/taking_good_picture_pcb"
+    ],
+    [
+      "Taking a good picture of a PCB",
+      "https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/"
+    ]
+  ],
+  [
+    [
       "2022-11-27, 15:29:05",
       "https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env"
     ],
@@ -237,16 +247,6 @@
     [
       "You can program functionally in any computer language",
       "http://boston.conman.org/2022/11/25.1"
-    ]
-  ],
-  [
-    [
-      "2022-11-25, 12:59:17",
-      "https://lobste.rs/s/ywcoiy/rice_s_theorem_interactive_tutorial"
-    ],
-    [
-      "Rice's theorem - an interactive tutorial",
-      "https://busy-beavers.tigyog.app/rice"
     ]
   ]
 ]
