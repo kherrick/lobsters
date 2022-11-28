@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 14:42:07](https://lobste.rs/s/7dzsv5/seeing_beyond_brain_conditional) - [Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://arxiv.org/pdf/2211.06956.pdf)
+* [2022-11-28, 14:39:00](https://lobste.rs/s/yox0tv/how_internet_works_is_paid_for) - [How the Internet works (and is paid for)](https://plumconsulting.co.uk/how-the-internet-works-and-is-paid-for/)
 * [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
 * [2022-11-28, 12:04:19](https://lobste.rs/s/kojxip/homebrew_social_networking) - [Homebrew social networking](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
