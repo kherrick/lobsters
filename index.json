@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-28, 21:32:23",
+      "https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008"
+    ],
+    [
+      "I Repeat: Do Not Listen to Your Users (2008)",
+      "https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 21:11:29",
       "https://lobste.rs/s/tfabjt/pointer_compression_oilpan_v8"
     ],
@@ -227,16 +237,6 @@
     [
       "GCC undefined behaviors are getting wild",
       "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 15:29:05",
-      "https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env"
-    ],
-    [
-      "Git hook to automatically and safely sync .env variables with env.sample",
-      "https://github.com/acaloiaro/pre-commit-env-sample-sync"
     ]
   ],
   [
