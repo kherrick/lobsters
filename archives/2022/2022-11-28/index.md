@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/type_theory_forall_17_lost_elegance) - [Type Theory Forall - #17 The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
+* [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/lost_elegance_computation) - [The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 14:42:07](https://lobste.rs/s/7dzsv5/seeing_beyond_brain_conditional) - [Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://arxiv.org/pdf/2211.06956.pdf)
 * [2022-11-28, 14:39:00](https://lobste.rs/s/yox0tv/how_internet_works_is_paid_for) - [How the Internet works (and is paid for)](https://plumconsulting.co.uk/how-the-internet-works-and-is-paid-for/)
