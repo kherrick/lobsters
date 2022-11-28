@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
 * [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/type_theory_forall_17_lost_elegance) - [Type Theory Forall - #17 The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/lost_elegance_computation) - [The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)

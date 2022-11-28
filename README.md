@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
 * [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/lost_elegance_computation) - [The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
@@ -24,7 +25,6 @@
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
-* [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 
 ## [Archives](archives/index.md)
 
