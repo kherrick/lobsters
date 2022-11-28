@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 23:02:26](https://lobste.rs/s/ggl0da/how_paxos_two_phase_commit_differ) - [How Paxos and Two-Phase Commit Differ](https://predr.ag/blog/paxos-vs-2pc/)
+* [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/richard_feldman_pushing_boundaries_with) - [Richard Feldman, \"Pushing Boundaries with Roc\"](https://www.youtube.com/watch?v=9f12S001TGQ)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
 * [2022-11-28, 21:32:23](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008) - [I Repeat: Do Not Listen to Your Users (2008)](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/)
