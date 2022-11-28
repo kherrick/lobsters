@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
@@ -8,7 +9,6 @@
 * [2022-11-28, 15:53:18](https://lobste.rs/s/dvr8hu/undefined_behavior_can_result_time) - [Undefined behavior can result in time travel (2014)](https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633)
 * [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
 * [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
-* [2022-11-28, 15:03:36](https://lobste.rs/s/niy87c/lost_elegance_computation) - [The Lost Elegance of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 14:42:07](https://lobste.rs/s/7dzsv5/seeing_beyond_brain_conditional) - [Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://arxiv.org/pdf/2211.06956.pdf)
 * [2022-11-28, 14:39:00](https://lobste.rs/s/yox0tv/how_internet_works_is_paid_for) - [How the Internet works (and is paid for)](https://plumconsulting.co.uk/how-the-internet-works-and-is-paid-for/)
