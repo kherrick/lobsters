@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
+* [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
+* [2022-11-28, 16:13:25](https://lobste.rs/s/olyshw/const_vs_constexpr_vs_consteval_vs) - [const vs constexpr vs consteval vs constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
 * [2022-11-28, 15:58:04](https://lobste.rs/s/ztwklu/permutations_combinations) - [Permutations and Combinations](https://okso.app/showcase/permutations-and-combinations)
 * [2022-11-28, 15:53:18](https://lobste.rs/s/dvr8hu/undefined_behavior_can_result_time) - [Undefined behavior can result in time travel (2014)](https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633)
 * [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
