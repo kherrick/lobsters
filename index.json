@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-28, 10:42:28",
+      "https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm"
+    ],
+    [
+      "PoC of running Doom on top of GraalVM",
+      "https://github.com/stepstone-tech/doom-graalvm"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 05:09:49",
       "https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast"
     ],
@@ -207,16 +217,6 @@
     [
       "The inner workings of ZigSelf's actor model",
       "https://sin-ack.github.io/posts/zigself-actor/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 20:14:30",
-      "https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig"
-    ],
-    [
-      "SuperMemo2 implementation in Zig",
-      "https://len.falken.directory/code/sm2.git/"
     ]
   ],
   [
