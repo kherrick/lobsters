@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-28, 15:03:36",
+      "https://lobste.rs/s/niy87c/type_theory_forall_17_lost_elegance"
+    ],
+    [
+      "Type Theory Forall - #17 The Lost Elegance of Computation",
+      "https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 14:56:16",
+      "https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about"
+    ],
+    [
+      "Falsehoods programmers believe about undefined behavior",
+      "https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 14:42:07",
       "https://lobste.rs/s/7dzsv5/seeing_beyond_brain_conditional"
     ],
@@ -207,26 +227,6 @@
     [
       "Computers are for Girls",
       "https://www.datagubbe.se/girls/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 23:05:11",
-      "https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project"
-    ],
-    [
-      "Coping strategies for the serial project hoarder",
-      "https://simonwillison.net/2022/Nov/26/productivity/"
-    ]
-  ],
-  [
-    [
-      "2022-11-26, 21:32:51",
-      "https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model"
-    ],
-    [
-      "The inner workings of ZigSelf's actor model",
-      "https://sin-ack.github.io/posts/zigself-actor/"
     ]
   ],
   [
