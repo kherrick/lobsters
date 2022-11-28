@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
 * [2022-11-28, 12:04:19](https://lobste.rs/s/kojxip/homebrew_social_networking) - [Homebrew social networking](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
 * [2022-11-28, 12:00:20](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week)
@@ -19,7 +20,6 @@
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
-* [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
 * [2022-11-26, 23:05:11](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project) - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
