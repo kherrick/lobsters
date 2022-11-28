@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 12:04:19](https://lobste.rs/s/kojxip/homebrew_social_networking) - [Homebrew social networking](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
+* [2022-11-28, 12:00:20](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week)
 * [2022-11-28, 11:13:54](https://lobste.rs/s/p74cox/openbsd_webzine_issue_12) - [OpenBSD webzine issue #12](https://webzine.puffy.cafe/issue-12.html)
 * [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 * [2022-11-28, 10:59:21](https://lobste.rs/s/vx0uzs/using_your_core_dumps) - [Using Your Core Dumps](https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/)
