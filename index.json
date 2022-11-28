@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-28, 12:04:19",
+      "https://lobste.rs/s/kojxip/homebrew_social_networking"
+    ],
+    [
+      "Homebrew social networking",
+      "http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 12:00:20",
+      "https://lobste.rs/s/uwm6li/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/uwm6li/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 11:13:54",
       "https://lobste.rs/s/p74cox/openbsd_webzine_issue_12"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2022-11-27, 12:01:30",
-      "https://lobste.rs/s/fcs2an/understand_assembly_generated_for"
-    ],
-    [
-      "Understand the Assembly Generated for Arrays, Tuples, Box, and Option",
-      "https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 06:36:36",
       "https://lobste.rs/s/clibpz/pure_c_clang_is_better_than_gcc"
     ],
     [
       "[Pure C] Clang is better than GCC",
       "https://yurichev.org/clang/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 03:52:47",
-      "https://lobste.rs/s/hmgt7e/bug_fix_8086_microprocessor_revealed_die"
-    ],
-    [
-      "A bug fix in the 8086 microprocessor, revealed in the die's silicon",
-      "http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html"
     ]
   ],
   [
