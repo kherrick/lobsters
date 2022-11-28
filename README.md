@@ -17,12 +17,12 @@
 * [2022-11-28, 12:00:20](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week)
 * [2022-11-28, 11:13:54](https://lobste.rs/s/p74cox/openbsd_webzine_issue_12) - [OpenBSD webzine issue #12](https://webzine.puffy.cafe/issue-12.html)
 * [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
+* [2022-11-28, 10:42:28](https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm) - [PoC of running Doom on top of GraalVM](https://github.com/stepstone-tech/doom-graalvm)
 * [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 * [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 * [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
 * [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
-* [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 
