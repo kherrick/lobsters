@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-28, 13:35:36",
+      "https://lobste.rs/s/jnj9in/snmp_on_openbsd"
+    ],
+    [
+      "snmp on OpenBSD",
+      "https://x61.sh/log/2022/11/20221128T131619-snmp.html"
+    ]
+  ],
+  [
+    [
       "2022-11-28, 12:23:54",
       "https://lobste.rs/s/fieavz/tofu_web"
     ],
@@ -187,16 +197,6 @@
     [
       "Computers are for Girls",
       "https://www.datagubbe.se/girls/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 01:08:27",
-      "https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types"
-    ],
-    [
-      "Simple Refinement of Anonymous Sum Types in Pattern Matches",
-      "https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types"
     ]
   ],
   [
