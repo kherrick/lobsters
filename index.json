@@ -1,11 +1,21 @@
 [
   [
     [
-      "2022-11-28, 15:03:36",
-      "https://lobste.rs/s/niy87c/type_theory_forall_17_lost_elegance"
+      "2022-11-28, 15:14:43",
+      "https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy"
     ],
     [
-      "Type Theory Forall - #17 The Lost Elegance of Computation",
+      "Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming",
+      "https://racketfest.com"
+    ]
+  ],
+  [
+    [
+      "2022-11-28, 15:03:36",
+      "https://lobste.rs/s/niy87c/lost_elegance_computation"
+    ],
+    [
+      "The Lost Elegance of Computation",
       "https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "GCC undefined behaviors are getting wild",
       "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 22:12:00",
-      "https://lobste.rs/s/6wo1m9/keenwrite_2_10_0_r_meets_tex"
-    ],
-    [
-      "KeenWrite 2.10.0: R meets TeX",
-      "https://github.com/DaveJarvis/keenwrite/releases/tag/2.10.0"
     ]
   ],
   [
