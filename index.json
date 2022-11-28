@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2022-11-28, 10:42:28",
-      "https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm"
-    ],
-    [
-      "PoC of running Doom on top of GraalVM",
-      "https://github.com/stepstone-tech/doom-graalvm"
-    ]
-  ],
-  [
-    [
       "2022-11-28, 05:09:49",
       "https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast"
     ],
@@ -227,6 +217,16 @@
     [
       "A pragmatic approach to shell completion",
       "https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0"
+    ]
+  ],
+  [
+    [
+      "2022-11-27, 17:58:09",
+      "https://lobste.rs/s/acbp3c/impossible_port_macos"
+    ],
+    [
+      "The Impossible Port: MacOS",
+      "https://blog.ryujinx.org/the-impossible-port-macos/"
     ]
   ],
   [
