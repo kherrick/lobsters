@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 * [2022-11-28, 04:37:09](https://lobste.rs/s/zptnui/llvm_s_new_pass_manager_2021) - [LLVM's New Pass Manager (2021)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
 * [2022-11-27, 22:32:05](https://lobste.rs/s/utz7to/meet_library_babel_every_possible) - [Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written](https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever)
 * [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
@@ -12,7 +13,6 @@
 * [2022-11-27, 15:44:10](https://lobste.rs/s/r6csxw/taking_good_picture_pcb) - [Taking a good picture of a PCB](https://blog.brixit.nl/taking-a-good-picture-from-a-pcb/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
-* [2022-11-27, 12:43:52](https://lobste.rs/s/rhejie/derby_static_software_testing_joern_vs) - [The Derby of Static Software Testing: Joern vs. CodeQl](https://elmanto.github.io/posts/sast_derby_joern_vs_codeql)
 * [2022-11-27, 12:01:30](https://lobste.rs/s/fcs2an/understand_assembly_generated_for) - [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 * [2022-11-27, 06:36:36](https://lobste.rs/s/clibpz/pure_c_clang_is_better_than_gcc) - [[Pure C] Clang is better than GCC](https://yurichev.org/clang/)
 * [2022-11-27, 03:52:47](https://lobste.rs/s/hmgt7e/bug_fix_8086_microprocessor_revealed_die) - [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
