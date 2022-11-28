@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 11:13:54](https://lobste.rs/s/p74cox/openbsd_webzine_issue_12) - [OpenBSD webzine issue #12](https://webzine.puffy.cafe/issue-12.html)
+* [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 * [2022-11-28, 10:59:21](https://lobste.rs/s/vx0uzs/using_your_core_dumps) - [Using Your Core Dumps](https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/)
 * [2022-11-28, 10:42:28](https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm) - [PoC of running Doom on top of GraalVM](https://github.com/stepstone-tech/doom-graalvm)
 * [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
@@ -19,11 +21,9 @@
 * [2022-11-27, 03:52:47](https://lobste.rs/s/hmgt7e/bug_fix_8086_microprocessor_revealed_die) - [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
 * [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
 * [2022-11-26, 23:05:11](https://lobste.rs/s/7fiajr/coping_strategies_for_serial_project) - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
-* [2022-11-26, 22:38:45](https://lobste.rs/s/ipv7gj/osquery_sql_powered_operating_system) - [osquery: SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/osquery/osquery)
 * [2022-11-26, 22:22:04](https://lobste.rs/s/cmoxll/using_nrepl_as_system_interface) - [Using nREPL as System Interface](https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html)
 * [2022-11-26, 21:32:51](https://lobste.rs/s/oguatb/inner_workings_zigself_s_actor_model) - [The inner workings of ZigSelf's actor model](https://sin-ack.github.io/posts/zigself-actor/)
 * [2022-11-26, 19:38:30](https://lobste.rs/s/bv9dcq/devenv_0_4_fast_declarative_reproducible) - [devenv 0.4 - Fast, Declarative, Reproducible, and Composable Developer Environments](https://devenv.sh/blog/2022/11/27/devenv-04)
-* [2022-11-26, 15:56:00](https://lobste.rs/s/mbvrnv/whatsapp_data_breach_sees_nearly_500) - [WhatsApp data breach sees nearly 500 million user records up for sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
 * [2022-11-26, 09:39:46](https://lobste.rs/s/gwamzp/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck](https://benhoyt.com/writings/io-is-no-longer-the-bottleneck/)
 
 ## [Archives](archives/index.md)
