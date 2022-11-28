@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 10:59:21](https://lobste.rs/s/vx0uzs/using_your_core_dumps) - [Using Your Core Dumps](https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/)
 * [2022-11-28, 10:42:28](https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm) - [PoC of running Doom on top of GraalVM](https://github.com/stepstone-tech/doom-graalvm)
 * [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 * [2022-11-28, 04:37:09](https://lobste.rs/s/zptnui/llvm_s_new_pass_manager_2021) - [LLVM's New Pass Manager (2021)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)

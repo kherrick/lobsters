@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 10:59:21](https://lobste.rs/s/vx0uzs/using_your_core_dumps) - [Using Your Core Dumps](https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/)
 * [2022-11-28, 10:42:28](https://lobste.rs/s/hmz49u/poc_running_doom_on_top_graalvm) - [PoC of running Doom on top of GraalVM](https://github.com/stepstone-tech/doom-graalvm)
 * [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 * [2022-11-28, 04:37:09](https://lobste.rs/s/zptnui/llvm_s_new_pass_manager_2021) - [LLVM's New Pass Manager (2021)](https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/)
@@ -14,7 +15,6 @@
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 * [2022-11-27, 12:01:30](https://lobste.rs/s/fcs2an/understand_assembly_generated_for) - [Understand the Assembly Generated for Arrays, Tuples, Box, and Option](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
-* [2022-11-27, 07:50:31](https://lobste.rs/s/kp9iro/creating_2d_physics_engine_from_scratch) - [Creating a 2D physics engine from scratch in Javascript](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/)
 * [2022-11-27, 06:36:36](https://lobste.rs/s/clibpz/pure_c_clang_is_better_than_gcc) - [[Pure C] Clang is better than GCC](https://yurichev.org/clang/)
 * [2022-11-27, 03:52:47](https://lobste.rs/s/hmgt7e/bug_fix_8086_microprocessor_revealed_die) - [A bug fix in the 8086 microprocessor, revealed in the die's silicon](http://www.righto.com/2022/11/a-bug-fix-in-8086-microprocessor.html)
 * [2022-11-27, 01:08:27](https://lobste.rs/s/r8udw9/simple_refinement_anonymous_sum_types) - [Simple Refinement of Anonymous Sum Types in Pattern Matches](https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types)
