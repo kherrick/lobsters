@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 21:11:29](https://lobste.rs/s/tfabjt/pointer_compression_oilpan_v8) - [Pointer compression in Oilpan · V8](https://v8.dev/blog/oilpan-pointer-compression)
+* [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 * [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
