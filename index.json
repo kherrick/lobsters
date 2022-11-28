@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2022-11-27, 22:32:05",
-      "https://lobste.rs/s/utz7to/meet_library_babel_every_possible"
-    ],
-    [
-      "Meet the Library of Babel: Every Possible Combination of Letters That has Been (or could be) Written",
-      "https://futurism.com/meet-the-digital-library-of-babel-a-complete-combination-of-every-possible-combination-of-letters-ever"
-    ]
-  ],
-  [
-    [
       "2022-11-27, 22:30:55",
       "https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow"
     ],
@@ -217,6 +207,16 @@
     [
       "The inner workings of ZigSelf's actor model",
       "https://sin-ack.github.io/posts/zigself-actor/"
+    ]
+  ],
+  [
+    [
+      "2022-11-26, 20:14:30",
+      "https://lobste.rs/s/qmqwyk/supermemo2_implementation_zig"
+    ],
+    [
+      "SuperMemo2 implementation in Zig",
+      "https://len.falken.directory/code/sm2.git/"
     ]
   ],
   [
