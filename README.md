@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
 * [2022-11-28, 16:13:25](https://lobste.rs/s/olyshw/const_vs_constexpr_vs_consteval_vs) - [const vs constexpr vs consteval vs constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
@@ -22,7 +23,6 @@
 * [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 * [2022-11-27, 21:28:03](https://lobste.rs/s/ykdqfv/pragmatic_approach_shell_completion) - [A pragmatic approach to shell completion](https://dev.to/rsteube/a-pragmatic-approach-to-shell-completion-4gp0)
-* [2022-11-27, 17:58:09](https://lobste.rs/s/acbp3c/impossible_port_macos) - [The Impossible Port: MacOS](https://blog.ryujinx.org/the-impossible-port-macos/)
 * [2022-11-27, 15:29:05](https://lobste.rs/s/uxjkgb/git_hook_automatically_safely_sync_env) - [Git hook to automatically and safely sync .env variables with env.sample](https://github.com/acaloiaro/pre-commit-env-sample-sync)
 * [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 

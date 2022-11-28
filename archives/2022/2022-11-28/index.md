@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-28](index.md)
 
+* [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
 * [2022-11-28, 16:13:25](https://lobste.rs/s/olyshw/const_vs_constexpr_vs_consteval_vs) - [const vs constexpr vs consteval vs constinit in C++20](https://www.cppstories.com/2022/const-options-cpp20/)
