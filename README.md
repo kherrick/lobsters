@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/richard_feldman_pushing_boundaries_with) - [Richard Feldman, \"Pushing Boundaries with Roc\"](https://www.youtube.com/watch?v=9f12S001TGQ)
 * [2022-11-28, 21:32:23](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008) - [I Repeat: Do Not Listen to Your Users (2008)](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/)
 * [2022-11-28, 21:11:29](https://lobste.rs/s/tfabjt/pointer_compression_oilpan_v8) - [Pointer compression in Oilpan · V8](https://v8.dev/blog/oilpan-pointer-compression)
 * [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
@@ -14,7 +15,6 @@
 * [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 14:42:07](https://lobste.rs/s/7dzsv5/seeing_beyond_brain_conditional) - [Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://arxiv.org/pdf/2211.06956.pdf)
-* [2022-11-28, 14:39:00](https://lobste.rs/s/yox0tv/how_internet_works_is_paid_for) - [How the Internet works (and is paid for)](https://plumconsulting.co.uk/how-the-internet-works-and-is-paid-for/)
 * [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
 * [2022-11-28, 12:04:19](https://lobste.rs/s/kojxip/homebrew_social_networking) - [Homebrew social networking](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
