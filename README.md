@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
+* [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)
 * [2022-11-29, 13:30:09](https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers) - [A review of elementary data types : numbers and strings](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)
 * [2022-11-29, 12:55:19](https://lobste.rs/s/y9rpfr/internals_qmail_2004) - [Internals of qmail (2004)](https://perl.plover.com/yak/qmail/samples/slide001.html)
 * [2022-11-29, 12:45:21](https://lobste.rs/s/naj7gh/dirdiff_efficiently_compute) - [dirdiff: Efficiently compute the differences between two directories](https://github.com/OCamlPro/dirdiff)
@@ -16,9 +18,7 @@
 * [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
-* [2022-11-28, 15:58:04](https://lobste.rs/s/ztwklu/permutations_combinations) - [Permutations and Combinations](https://okso.app/showcase/permutations-and-combinations)
 * [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
-* [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
