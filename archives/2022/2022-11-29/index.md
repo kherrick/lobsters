@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 14:25:50](https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests) - [Dealing with Flaky Tests](https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 * [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)
 * [2022-11-29, 13:30:09](https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers) - [A review of elementary data types : numbers and strings](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)

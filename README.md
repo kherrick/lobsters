@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 14:25:50](https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests) - [Dealing with Flaky Tests](https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 * [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)
 * [2022-11-29, 13:30:09](https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers) - [A review of elementary data types : numbers and strings](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)
@@ -10,7 +11,6 @@
 * [2022-11-29, 12:10:22](https://lobste.rs/s/ynkofw/windows_arm64_on_samsung_galaxy_book_go_5g) - [Windows Arm64 on a Samsung Galaxy Book Go 5G](https://cristianadam.eu/20221126/windows-arm64-samsung-galaxy-book-go-5g/)
 * [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-* [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
 * [2022-11-28, 21:32:23](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008) - [I Repeat: Do Not Listen to Your Users (2008)](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/)
 * [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
