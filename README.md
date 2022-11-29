@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 * [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 15:29:04](https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post) - [Sketchy Pencil Effect with Three.js Post-Processing](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
@@ -15,7 +16,6 @@
 * [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
-* [2022-11-28, 21:32:23](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008) - [I Repeat: Do Not Listen to Your Users (2008)](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/)
 * [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 * [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
