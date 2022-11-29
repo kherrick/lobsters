@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-29, 15:36:42",
+      "https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf"
+    ],
+    [
+      "DWARF-based Stack Walking Using eBPF",
+      "https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 15:29:04",
+      "https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post"
+    ],
+    [
+      "Sketchy Pencil Effect with Three.js Post-Processing",
+      "https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 14:25:50",
       "https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests"
     ],
@@ -207,26 +227,6 @@
     [
       "snmp on OpenBSD",
       "https://x61.sh/log/2022/11/20221128T131619-snmp.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 12:23:54",
-      "https://lobste.rs/s/fieavz/tofu_web"
-    ],
-    [
-      "TOFU and the Web",
-      "http://unmitigatedrisk.com/?p=702"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 12:00:20",
-      "https://lobste.rs/s/uwm6li/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/uwm6li/what_are_you_doing_this_week"
     ]
   ],
   [
