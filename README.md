@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 03:15:00](https://lobste.rs/s/p5mni6/yet_another_try_at_bpf_program_allocator) - [Yet another try at the BPF program allocator](https://lwn.net/SubscriberLink/915005/e6719b680bacbdfe/)
 * [2022-11-28, 23:02:26](https://lobste.rs/s/ggl0da/how_paxos_two_phase_commit_differ) - [How Paxos and Two-Phase Commit Differ](https://predr.ag/blog/paxos-vs-2pc/)
 * [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
@@ -24,7 +25,6 @@
 * [2022-11-28, 05:09:49](https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast) - [Refurb weekend: Sega Dreamcast](https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html)
 * [2022-11-27, 22:30:55](https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow) - [SwiftUI is convenient, but slow](https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
-* [2022-11-27, 14:03:52](https://lobste.rs/s/dxhzem/computers_are_for_girls) - [Computers are for Girls](https://www.datagubbe.se/girls/)
 
 ## [Archives](archives/index.md)
 
