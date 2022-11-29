@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 23:02:53](https://lobste.rs/s/azdhzs/reducing_data_streaming_cost_by_90_using) - [Reducing Data Streaming cost by 90% using Benthos](https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7)
+* [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
 * [2022-11-29, 22:04:20](https://lobste.rs/s/aktexs/why_you_hate_matplotlib_2020) - [Why You Hate Matplotlib (2020)](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
 * [2022-11-29, 21:39:16](https://lobste.rs/s/nemroe/color_formats_css) - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
