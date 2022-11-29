@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 21:15:06",
+      "https://lobste.rs/s/at52tk/active_knowledge_software_development"
+    ],
+    [
+      "Active Knowledge in Software Development",
+      "https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 20:37:17",
       "https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we"
     ],
@@ -227,16 +237,6 @@
     [
       "Falsehoods programmers believe about undefined behavior",
       "https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 13:35:36",
-      "https://lobste.rs/s/jnj9in/snmp_on_openbsd"
-    ],
-    [
-      "snmp on OpenBSD",
-      "https://x61.sh/log/2022/11/20221128T131619-snmp.html"
     ]
   ],
   [
