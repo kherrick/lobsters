@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-29, 19:35:46",
+      "https://lobste.rs/s/sbsqgy/need_for_speed_static_analysis_version"
+    ],
+    [
+      "Need for speed: static analysis version",
+      "https://r2c.dev/blog/2022/static-analysis-speed/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 19:33:22",
+      "https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux"
+    ],
+    [
+      "Tales of the M1 GPU - Asahi Linux",
+      "https://asahilinux.org/2022/11/tales-of-the-m1-gpu/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 19:13:25",
       "https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2022-11-29, 14:25:50",
-      "https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests"
-    ],
-    [
-      "Dealing with Flaky Tests",
-      "https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 14:19:52",
       "https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction"
     ],
@@ -77,16 +87,6 @@
     [
       "Hijacking service workers via DOM Clobbering",
       "https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 13:30:09",
-      "https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers"
-    ],
-    [
-      "A review of elementary data types : numbers and strings",
-      "https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/"
     ]
   ],
   [
