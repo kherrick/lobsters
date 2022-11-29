@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 13:30:09](https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers) - [A review of elementary data types : numbers and strings](https://lemire.me/blog/2022/09/30/a-review-of-elementary-data-types-numbers-and-strings/)
 * [2022-11-29, 12:55:19](https://lobste.rs/s/y9rpfr/internals_qmail_2004) - [Internals of qmail (2004)](https://perl.plover.com/yak/qmail/samples/slide001.html)
 * [2022-11-29, 12:45:21](https://lobste.rs/s/naj7gh/dirdiff_efficiently_compute) - [dirdiff: Efficiently compute the differences between two directories](https://github.com/OCamlPro/dirdiff)
 * [2022-11-29, 12:38:44](https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template) - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
