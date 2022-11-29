@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
+* [2022-11-29, 20:28:41](https://lobste.rs/s/8u2th9/bringing_faster_authentication_prosody) - [Bringing FASTer authentication to Prosody and XMPP](https://blog.prosody.im/fast-auth/)
 * [2022-11-29, 19:35:46](https://lobste.rs/s/sbsqgy/need_for_speed_static_analysis_version) - [Need for speed: static analysis version](https://r2c.dev/blog/2022/static-analysis-speed/)
 * [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 * [2022-11-29, 19:13:25](https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released) - [ClamAV 1.0.0 LTS released](https://blog.clamav.net/2022/11/clamav-100-lts-released.html)
