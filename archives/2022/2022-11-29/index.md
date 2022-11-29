@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 20:37:17](https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we) - [Test Driven Development: That’s Not What We Meant](https://youtu.be/yuEbZYKgZas)
 * [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
 * [2022-11-29, 20:28:41](https://lobste.rs/s/8u2th9/bringing_faster_authentication_prosody) - [Bringing FASTer authentication to Prosody and XMPP](https://blog.prosody.im/fast-auth/)
 * [2022-11-29, 19:35:46](https://lobste.rs/s/sbsqgy/need_for_speed_static_analysis_version) - [Need for speed: static analysis version](https://r2c.dev/blog/2022/static-analysis-speed/)
