@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-11-29, 14:19:52",
+      "https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction"
+    ],
+    [
+      "Tailwind is a Leaky Abstraction",
+      "https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 14:11:04",
+      "https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom"
+    ],
+    [
+      "Hijacking service workers via DOM Clobbering",
+      "https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 13:30:09",
       "https://lobste.rs/s/cmwikb/review_elementary_data_types_numbers"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2022-11-28, 15:58:04",
-      "https://lobste.rs/s/ztwklu/permutations_combinations"
-    ],
-    [
-      "Permutations and Combinations",
-      "https://okso.app/showcase/permutations-and-combinations"
-    ]
-  ],
-  [
-    [
       "2022-11-28, 15:43:59",
       "https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with"
     ],
     [
       "Shadow DOM and accessibility: the trouble with ARIA",
       "https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 15:14:43",
-      "https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy"
-    ],
-    [
-      "Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming",
-      "https://racketfest.com"
     ]
   ],
   [
