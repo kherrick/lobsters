@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 * [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 15:29:04](https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post) - [Sketchy Pencil Effect with Three.js Post-Processing](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
 * [2022-11-29, 14:25:50](https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests) - [Dealing with Flaky Tests](https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html)
