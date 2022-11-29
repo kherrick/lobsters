@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:37:17](https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we) - [Test Driven Development: That’s Not What We Meant](https://youtu.be/yuEbZYKgZas)
 * [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
 * [2022-11-29, 20:28:41](https://lobste.rs/s/8u2th9/bringing_faster_authentication_prosody) - [Bringing FASTer authentication to Prosody and XMPP](https://blog.prosody.im/fast-auth/)
@@ -23,7 +24,6 @@
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
-* [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 
 ## [Archives](archives/index.md)
