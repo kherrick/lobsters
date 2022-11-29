@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
+* [2022-11-29, 15:29:04](https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post) - [Sketchy Pencil Effect with Three.js Post-Processing](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
 * [2022-11-29, 14:25:50](https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests) - [Dealing with Flaky Tests](https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 * [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
+* [2022-11-29, 15:29:04](https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post) - [Sketchy Pencil Effect with Three.js Post-Processing](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
 * [2022-11-29, 14:25:50](https://lobste.rs/s/gxrpwx/dealing_with_flaky_tests) - [Dealing with Flaky Tests](https://naildrivin5.com/blog/2022/11/29/dealing-with-flaky-tests.html)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 * [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)
@@ -21,8 +23,6 @@
 * [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
-* [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
-* [2022-11-28, 12:00:20](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week)
 * [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
 * [2022-11-27, 22:19:25](https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild) - [GCC undefined behaviors are getting wild](http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html)
 
