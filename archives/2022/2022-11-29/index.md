@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 19:35:46](https://lobste.rs/s/sbsqgy/need_for_speed_static_analysis_version) - [Need for speed: static analysis version](https://r2c.dev/blog/2022/static-analysis-speed/)
+* [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 * [2022-11-29, 19:13:25](https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released) - [ClamAV 1.0.0 LTS released](https://blog.clamav.net/2022/11/clamav-100-lts-released.html)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
