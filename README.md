@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
+* [2022-11-29, 05:53:58](https://lobste.rs/s/h5ogz8/postgresql_14_5_on_openbsd_7_2_install) - [PostgreSQL 14.5 On OpenBSD 7.2 Install](https://obsd.solutions/en/blog/2022/11/13/postgresql-145-on-openbsd-72-install/index.html)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-* [2022-11-29, 03:15:00](https://lobste.rs/s/p5mni6/yet_another_try_at_bpf_program_allocator) - [Yet another try at the BPF program allocator](https://lwn.net/SubscriberLink/915005/e6719b680bacbdfe/)
 * [2022-11-28, 23:02:26](https://lobste.rs/s/ggl0da/how_paxos_two_phase_commit_differ) - [How Paxos and Two-Phase Commit Differ](https://predr.ag/blog/paxos-vs-2pc/)
 * [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
@@ -18,7 +19,6 @@
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 * [2022-11-28, 13:35:36](https://lobste.rs/s/jnj9in/snmp_on_openbsd) - [snmp on OpenBSD](https://x61.sh/log/2022/11/20221128T131619-snmp.html)
 * [2022-11-28, 12:23:54](https://lobste.rs/s/fieavz/tofu_web) - [TOFU and the Web](http://unmitigatedrisk.com/?p=702)
-* [2022-11-28, 12:04:19](https://lobste.rs/s/kojxip/homebrew_social_networking) - [Homebrew social networking](http://dtrace.org/blogs/bmc/2022/11/27/homebrew-social-networking/)
 * [2022-11-28, 12:00:20](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uwm6li/what_are_you_doing_this_week)
 * [2022-11-28, 11:13:54](https://lobste.rs/s/p74cox/openbsd_webzine_issue_12) - [OpenBSD webzine issue #12](https://webzine.puffy.cafe/issue-12.html)
 * [2022-11-28, 11:11:07](https://lobste.rs/s/xwg4ro/open_source_saying_no) - [Open Source & Saying \"No\"](https://connortumbleson.com/2022/11/28/open-source-saying-no/)
