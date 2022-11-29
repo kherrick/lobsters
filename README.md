@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 12:10:22](https://lobste.rs/s/ynkofw/windows_arm64_on_samsung_galaxy_book_go_5g) - [Windows Arm64 on a Samsung Galaxy Book Go 5G](https://cristianadam.eu/20221126/windows-arm64-samsung-galaxy-book-go-5g/)
 * [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
 * [2022-11-29, 05:53:58](https://lobste.rs/s/h5ogz8/postgresql_14_5_on_openbsd_7_2_install) - [PostgreSQL 14.5 On OpenBSD 7.2 Install](https://obsd.solutions/en/blog/2022/11/13/postgresql-145-on-openbsd-72-install/index.html)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
@@ -7,7 +8,6 @@
 * [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 * [2022-11-28, 21:53:42](https://lobste.rs/s/nyq4ic/pushing_boundaries_with_roc) - [Pushing Boundaries with Roc](https://www.youtube.com/watch?v=9f12S001TGQ)
 * [2022-11-28, 21:32:23](https://lobste.rs/s/lkvnx6/i_repeat_do_not_listen_your_users_2008) - [I Repeat: Do Not Listen to Your Users (2008)](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/)
-* [2022-11-28, 21:11:29](https://lobste.rs/s/tfabjt/pointer_compression_oilpan_v8) - [Pointer compression in Oilpan · V8](https://v8.dev/blog/oilpan-pointer-compression)
 * [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 * [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:51:06](https://lobste.rs/s/ujaoxs/complete_guide_lock_convoys) - [A Complete Guide to Lock Convoys](https://davekilian.com/lock-convoys.html)
