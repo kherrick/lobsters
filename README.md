@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 22:04:20](https://lobste.rs/s/aktexs/why_you_hate_matplotlib_2020) - [Why You Hate Matplotlib (2020)](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
 * [2022-11-29, 21:39:16](https://lobste.rs/s/nemroe/color_formats_css) - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:37:17](https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we) - [Test Driven Development: That’s Not What We Meant](https://youtu.be/yuEbZYKgZas)
@@ -20,7 +21,6 @@
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 * [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-* [2022-11-28, 21:02:11](https://lobste.rs/s/4xdx12/infinity_beyond_enabling_future_github_s) - [To infinity and beyond: enabling the future of GitHub's REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 * [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)

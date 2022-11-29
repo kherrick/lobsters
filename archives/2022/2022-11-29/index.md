@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-29](index.md)
 
+* [2022-11-29, 22:04:20](https://lobste.rs/s/aktexs/why_you_hate_matplotlib_2020) - [Why You Hate Matplotlib (2020)](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
 * [2022-11-29, 21:39:16](https://lobste.rs/s/nemroe/color_formats_css) - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:37:17](https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we) - [Test Driven Development: That’s Not What We Meant](https://youtu.be/yuEbZYKgZas)
