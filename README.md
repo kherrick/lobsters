@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 * [2022-11-29, 03:15:00](https://lobste.rs/s/p5mni6/yet_another_try_at_bpf_program_allocator) - [Yet another try at the BPF program allocator](https://lwn.net/SubscriberLink/915005/e6719b680bacbdfe/)
 * [2022-11-28, 23:02:26](https://lobste.rs/s/ggl0da/how_paxos_two_phase_commit_differ) - [How Paxos and Two-Phase Commit Differ](https://predr.ag/blog/paxos-vs-2pc/)
 * [2022-11-28, 23:01:48](https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years) - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
@@ -12,7 +13,6 @@
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
 * [2022-11-28, 15:58:04](https://lobste.rs/s/ztwklu/permutations_combinations) - [Permutations and Combinations](https://okso.app/showcase/permutations-and-combinations)
-* [2022-11-28, 15:53:18](https://lobste.rs/s/dvr8hu/undefined_behavior_can_result_time) - [Undefined behavior can result in time travel (2014)](https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633)
 * [2022-11-28, 15:43:59](https://lobste.rs/s/emshf8/shadow_dom_accessibility_trouble_with) - [Shadow DOM and accessibility: the trouble with ARIA](https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/)
 * [2022-11-28, 15:14:43](https://lobste.rs/s/1wh73s/racketfest_2023_delightful_place_enjoy) - [Racketfest 2023 A delightful place to enjoy Racket and language-oriented programming](https://racketfest.com)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
