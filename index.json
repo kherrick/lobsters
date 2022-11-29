@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-29, 17:34:55",
+      "https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing"
+    ],
+    [
+      "I am disappointed by dynamic typing",
+      "https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 15:36:42",
       "https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf"
     ],
@@ -237,16 +247,6 @@
     [
       "Open Source & Saying \"No\"",
       "https://connortumbleson.com/2022/11/28/open-source-saying-no/"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 22:19:25",
-      "https://lobste.rs/s/tp6nxh/gcc_undefined_behaviors_are_getting_wild"
-    ],
-    [
-      "GCC undefined behaviors are getting wild",
-      "http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html"
     ]
   ]
 ]
