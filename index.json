@@ -1,6 +1,46 @@
 [
   [
     [
+      "2022-11-29, 12:55:19",
+      "https://lobste.rs/s/y9rpfr/internals_qmail_2004"
+    ],
+    [
+      "Internals of qmail (2004)",
+      "https://perl.plover.com/yak/qmail/samples/slide001.html"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 12:45:21",
+      "https://lobste.rs/s/naj7gh/dirdiff_efficiently_compute"
+    ],
+    [
+      "dirdiff: Efficiently compute the differences between two directories",
+      "https://github.com/OCamlPro/dirdiff"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 12:38:44",
+      "https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template"
+    ],
+    [
+      "Scaling Mastodon with systemd template units",
+      "https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/"
+    ]
+  ],
+  [
+    [
+      "2022-11-29, 12:27:37",
+      "https://lobste.rs/s/qcvbxf/best_go_framework_no_framework"
+    ],
+    [
+      "The Best Go framework: no framework?",
+      "https://threedots.tech/post/best-go-framework/"
+    ]
+  ],
+  [
+    [
       "2022-11-29, 12:10:22",
       "https://lobste.rs/s/ynkofw/windows_arm64_on_samsung_galaxy_book_go_5g"
     ],
@@ -21,16 +61,6 @@
   ],
   [
     [
-      "2022-11-29, 05:53:58",
-      "https://lobste.rs/s/h5ogz8/postgresql_14_5_on_openbsd_7_2_install"
-    ],
-    [
-      "PostgreSQL 14.5 On OpenBSD 7.2 Install",
-      "https://obsd.solutions/en/blog/2022/11/13/postgresql-145-on-openbsd-72-install/index.html"
-    ]
-  ],
-  [
-    [
       "2022-11-29, 05:07:14",
       "https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then"
     ],
@@ -47,16 +77,6 @@
     [
       "How Paxos and Two-Phase Commit Differ",
       "https://predr.ag/blog/paxos-vs-2pc/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 23:01:48",
-      "https://lobste.rs/s/ptgwh3/stripe_s_payments_apis_first_ten_years"
-    ],
-    [
-      "Stripe’s payments APIs: the first ten years",
-      "https://stripe.com/blog/payment-api-design"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Open Source & Saying \"No\"",
       "https://connortumbleson.com/2022/11/28/open-source-saying-no/"
-    ]
-  ],
-  [
-    [
-      "2022-11-28, 05:09:49",
-      "https://lobste.rs/s/8rx3lb/refurb_weekend_sega_dreamcast"
-    ],
-    [
-      "Refurb weekend: Sega Dreamcast",
-      "https://oldvcr.blogspot.com/2022/11/refurb-weekend-sega-dreamcast.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-27, 22:30:55",
-      "https://lobste.rs/s/lvwgbb/swiftui_is_convenient_slow"
-    ],
-    [
-      "SwiftUI is convenient, but slow",
-      "https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow"
     ]
   ],
   [
