@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 13:26:48](https://lobste.rs/s/hvygg4/can_we_agree_on_facts_about_qwacs) - [Can we agree on the facts about QWACs?](https://educatedguesswork.org/posts/eidas-article45/)
 * [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
@@ -22,7 +23,6 @@
 * [2022-11-29, 12:55:19](https://lobste.rs/s/y9rpfr/internals_qmail_2004) - [Internals of qmail (2004)](https://perl.plover.com/yak/qmail/samples/slide001.html)
 * [2022-11-29, 12:38:44](https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template) - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
-* [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 
