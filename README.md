@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 01:21:30](https://lobste.rs/s/rjxaat/announcing_circle_haskell_client_for) - [Announcing circle: a Haskell client for Circle's REST API](https://www.dylanamartin.com/2022/11/29/announcing-circle.html)
 * [2022-11-29, 23:02:53](https://lobste.rs/s/azdhzs/reducing_data_streaming_cost_by_90_using) - [Reducing Data Streaming cost by 90% using Benthos](https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7)
 * [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
 * [2022-11-29, 22:04:20](https://lobste.rs/s/aktexs/why_you_hate_matplotlib_2020) - [Why You Hate Matplotlib (2020)](https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/)
@@ -7,7 +8,6 @@
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:37:17](https://lobste.rs/s/fmc446/test_driven_development_s_not_what_we) - [Test Driven Development: That’s Not What We Meant](https://youtu.be/yuEbZYKgZas)
 * [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
-* [2022-11-29, 20:28:41](https://lobste.rs/s/8u2th9/bringing_faster_authentication_prosody) - [Bringing FASTer authentication to Prosody and XMPP](https://blog.prosody.im/fast-auth/)
 * [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 * [2022-11-29, 19:13:25](https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released) - [ClamAV 1.0.0 LTS released](https://blog.clamav.net/2022/11/clamav-100-lts-released.html)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
