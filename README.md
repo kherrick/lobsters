@@ -9,7 +9,6 @@
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 * [2022-11-30, 04:53:46](https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components) - [A postmortem on “Cramming More Components Onto Integrated Circuits”](https://www.wired.com/story/moores-law-really-dead/)
-* [2022-11-30, 04:06:39](https://lobste.rs/s/vo0vlq/vs_code_sandboxing) - [VS Code Sandboxing](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 * [2022-11-30, 01:21:30](https://lobste.rs/s/rjxaat/announcing_circle_haskell_client_for) - [Announcing circle: a Haskell client for Circle's REST API](https://www.dylanamartin.com/2022/11/29/announcing-circle.html)
 * [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
@@ -23,6 +22,7 @@
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 * [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
+* [2022-11-29, 12:55:19](https://lobste.rs/s/y9rpfr/internals_qmail_2004) - [Internals of qmail (2004)](https://perl.plover.com/yak/qmail/samples/slide001.html)
 * [2022-11-29, 12:38:44](https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template) - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 
