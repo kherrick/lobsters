@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-30, 19:13:12",
+      "https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs"
+    ],
+    [
+      "Release 22.11 · NixOS/nixpkgs",
+      "https://github.com/NixOS/nixpkgs/releases/tag/22.11"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 18:41:45",
       "https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking"
     ],
@@ -147,16 +157,6 @@
     [
       "How Do Software Projects End?",
       "https://danielbmarkham.com/how-do-software-projects-end/"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 22:04:20",
-      "https://lobste.rs/s/aktexs/why_you_hate_matplotlib_2020"
-    ],
-    [
-      "Why You Hate Matplotlib (2020)",
-      "https://ryxcommar.com/2020/04/11/why-you-hate-matplotlib/"
     ]
   ],
   [
