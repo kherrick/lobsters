@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 * [2022-11-30, 17:13:09](https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas) - [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
 * [2022-11-30, 16:20:55](https://lobste.rs/s/6j99hg/behind_pretty_frames_death_stranding) - [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
@@ -23,7 +24,6 @@
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 * [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
-* [2022-11-29, 12:38:44](https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template) - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 
 ## [Archives](archives/index.md)
