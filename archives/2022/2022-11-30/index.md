@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-30](index.md)
 
+* [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 * [2022-11-30, 13:26:48](https://lobste.rs/s/hvygg4/can_we_agree_on_facts_about_qwacs) - [Can we agree on the facts about QWACs?](https://educatedguesswork.org/posts/eidas-article45/)
 * [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
