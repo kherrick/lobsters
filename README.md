@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 * [2022-11-30, 04:53:46](https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components) - [A postmortem on “Cramming More Components Onto Integrated Circuits”](https://www.wired.com/story/moores-law-really-dead/)
 * [2022-11-30, 04:06:39](https://lobste.rs/s/vo0vlq/vs_code_sandboxing) - [VS Code Sandboxing](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
@@ -21,7 +22,6 @@
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 * [2022-11-29, 05:54:14](https://lobste.rs/s/e3solt/starlisp_for_parallel_computation_on) - [StarLisp for parallel computation on Connection Machine (1986)](https://en.wikipedia.org/wiki/*Lisp)
 * [2022-11-29, 05:07:14](https://lobste.rs/s/hiykhv/uefi_boot_how_does_actually_work_then) - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
-* [2022-11-28, 20:29:52](https://lobste.rs/s/h5qjlp/everything_i_wish_i_knew_when_learning_c) - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 * [2022-11-28, 16:16:46](https://lobste.rs/s/aq0qvj/activitypub_could_be_future_2020) - [ActivityPub could be the future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/)
 * [2022-11-28, 16:15:00](https://lobste.rs/s/mbevlx/illegal_hashes) - [Illegal Hashes](https://shkspr.mobi/blog/2022/11/illegal-hashes/)
 * [2022-11-28, 14:56:16](https://lobste.rs/s/xz1jen/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about undefined behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
