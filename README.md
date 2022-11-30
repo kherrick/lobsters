@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
 * [2022-11-30, 21:22:51](https://lobste.rs/s/9rvt2p/new_details_on_commercial_spyware_vendor) - [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
 * [2022-11-30, 21:22:20](https://lobste.rs/s/qwwlup/implementing_new_memory_safety_approach) - [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
 * [2022-11-30, 20:11:22](https://lobste.rs/s/k6hthl/open_source_rage_diamond_2014) - [An Open Source Rage Diamond [2014]](https://olivierlacan.com/posts/an-open-source-rage-diamond/)
@@ -20,7 +21,6 @@
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
 * [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
-* [2022-11-29, 19:13:25](https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released) - [ClamAV 1.0.0 LTS released](https://blog.clamav.net/2022/11/clamav-100-lts-released.html)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
