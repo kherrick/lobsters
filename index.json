@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-30, 04:53:46",
+      "https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components"
+    ],
+    [
+      "A postmortem on “Cramming More Components Onto Integrated Circuits”",
+      "https://www.wired.com/story/moores-law-really-dead/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 04:06:39",
       "https://lobste.rs/s/vo0vlq/vs_code_sandboxing"
     ],
@@ -27,16 +37,6 @@
     [
       "Announcing circle: a Haskell client for Circle's REST API",
       "https://www.dylanamartin.com/2022/11/29/announcing-circle.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 23:02:53",
-      "https://lobste.rs/s/azdhzs/reducing_data_streaming_cost_by_90_using"
-    ],
-    [
-      "Reducing Data Streaming cost by 90% using Benthos",
-      "https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7"
     ]
   ],
   [
