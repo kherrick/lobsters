@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-11-30](index.md)
 
+* [2022-11-30, 21:22:51](https://lobste.rs/s/9rvt2p/new_details_on_commercial_spyware_vendor) - [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
+* [2022-11-30, 21:22:20](https://lobste.rs/s/qwwlup/implementing_new_memory_safety_approach) - [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
 * [2022-11-30, 20:11:22](https://lobste.rs/s/k6hthl/open_source_rage_diamond_2014) - [An Open Source Rage Diamond [2014]](https://olivierlacan.com/posts/an-open-source-rage-diamond/)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)

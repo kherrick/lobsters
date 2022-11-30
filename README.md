@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 21:22:51](https://lobste.rs/s/9rvt2p/new_details_on_commercial_spyware_vendor) - [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
+* [2022-11-30, 21:22:20](https://lobste.rs/s/qwwlup/implementing_new_memory_safety_approach) - [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
 * [2022-11-30, 20:11:22](https://lobste.rs/s/k6hthl/open_source_rage_diamond_2014) - [An Open Source Rage Diamond [2014]](https://olivierlacan.com/posts/an-open-source-rage-diamond/)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
@@ -13,7 +15,6 @@
 * [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
-* [2022-11-30, 04:53:46](https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components) - [A postmortem on “Cramming More Components Onto Integrated Circuits”](https://www.wired.com/story/moores-law-really-dead/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 * [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
@@ -22,7 +23,6 @@
 * [2022-11-29, 19:13:25](https://lobste.rs/s/umqdin/clamav_1_0_0_lts_released) - [ClamAV 1.0.0 LTS released](https://blog.clamav.net/2022/11/clamav-100-lts-released.html)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
-* [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 
