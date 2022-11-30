@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-30](index.md)
 
+* [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
 * [2022-11-30, 14:48:09](https://lobste.rs/s/h4neyp/techniques_for_setting_up_peripherals) - [Techniques for Setting up Peripherals via DMA and PIO](https://serhack.me/articles/techniques-setting-up-pheripherals-dma-pio/)
 * [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
