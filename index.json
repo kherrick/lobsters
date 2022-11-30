@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-11-30, 20:11:22",
+      "https://lobste.rs/s/k6hthl/open_source_rage_diamond_2014"
+    ],
+    [
+      "An Open Source Rage Diamond [2014]",
+      "https://olivierlacan.com/posts/an-open-source-rage-diamond/"
+    ]
+  ],
+  [
+    [
       "2022-11-30, 19:13:12",
       "https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs"
     ],
@@ -137,16 +147,6 @@
     [
       "‘Let It Crash’ under attack",
       "http://blog.syncpup.com/posts/let-it-crash-under-attack.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 01:21:30",
-      "https://lobste.rs/s/rjxaat/announcing_circle_haskell_client_for"
-    ],
-    [
-      "Announcing circle: a Haskell client for Circle's REST API",
-      "https://www.dylanamartin.com/2022/11/29/announcing-circle.html"
     ]
   ],
   [
