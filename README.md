@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 04:06:39](https://lobste.rs/s/vo0vlq/vs_code_sandboxing) - [VS Code Sandboxing](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 * [2022-11-30, 01:21:30](https://lobste.rs/s/rjxaat/announcing_circle_haskell_client_for) - [Announcing circle: a Haskell client for Circle's REST API](https://www.dylanamartin.com/2022/11/29/announcing-circle.html)
 * [2022-11-29, 23:02:53](https://lobste.rs/s/azdhzs/reducing_data_streaming_cost_by_90_using) - [Reducing Data Streaming cost by 90% using Benthos](https://medium.com/plarium-engineering/how-we-reduce-our-streaming-cost-by-90-using-benthos-fe04fcdffea7)
@@ -15,7 +16,6 @@
 * [2022-11-29, 15:36:42](https://lobste.rs/s/sizobe/dwarf_based_stack_walking_using_ebpf) - [DWARF-based Stack Walking Using eBPF](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/)
 * [2022-11-29, 15:29:04](https://lobste.rs/s/wop9nk/sketchy_pencil_effect_with_three_js_post) - [Sketchy Pencil Effect with Three.js Post-Processing](https://tympanus.net/codrops/2022/11/29/sketchy-pencil-effect-with-three-js-post-processing/)
 * [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
-* [2022-11-29, 14:11:04](https://lobste.rs/s/xosrpu/hijacking_service_workers_via_dom) - [Hijacking service workers via DOM Clobbering](https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering)
 * [2022-11-29, 12:55:19](https://lobste.rs/s/y9rpfr/internals_qmail_2004) - [Internals of qmail (2004)](https://perl.plover.com/yak/qmail/samples/slide001.html)
 * [2022-11-29, 12:38:44](https://lobste.rs/s/f3orud/scaling_mastodon_with_systemd_template) - [Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
 * [2022-11-29, 12:27:37](https://lobste.rs/s/qcvbxf/best_go_framework_no_framework) - [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
