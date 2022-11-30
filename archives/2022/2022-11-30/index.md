@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-30](index.md)
 
+* [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 * [2022-11-30, 04:53:46](https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components) - [A postmortem on “Cramming More Components Onto Integrated Circuits”](https://www.wired.com/story/moores-law-really-dead/)
 * [2022-11-30, 04:06:39](https://lobste.rs/s/vo0vlq/vs_code_sandboxing) - [VS Code Sandboxing](https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox)
