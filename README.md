@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-11-30, 20:11:22](https://lobste.rs/s/k6hthl/open_source_rage_diamond_2014) - [An Open Source Rage Diamond [2014]](https://olivierlacan.com/posts/an-open-source-rage-diamond/)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 * [2022-11-30, 17:13:09](https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas) - [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
@@ -14,7 +15,6 @@
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 * [2022-11-30, 04:53:46](https://lobste.rs/s/yici8t/postmortem_on_cramming_more_components) - [A postmortem on “Cramming More Components Onto Integrated Circuits”](https://www.wired.com/story/moores-law-really-dead/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
-* [2022-11-30, 01:21:30](https://lobste.rs/s/rjxaat/announcing_circle_haskell_client_for) - [Announcing circle: a Haskell client for Circle's REST API](https://www.dylanamartin.com/2022/11/29/announcing-circle.html)
 * [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
 * [2022-11-29, 21:15:06](https://lobste.rs/s/at52tk/active_knowledge_software_development) - [Active Knowledge in Software Development](https://stayrelevant.globant.com/en/technology/agile-delivery/active-knowledge-in-software-development/)
 * [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
