@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-11-30](index.md)
 
+* [2022-11-30, 14:48:09](https://lobste.rs/s/h4neyp/techniques_for_setting_up_peripherals) - [Techniques for Setting up Peripherals via DMA and PIO](https://serhack.me/articles/techniques-setting-up-pheripherals-dma-pio/)
 * [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 * [2022-11-30, 13:26:48](https://lobste.rs/s/hvygg4/can_we_agree_on_facts_about_qwacs) - [Can we agree on the facts about QWACs?](https://educatedguesswork.org/posts/eidas-article45/)
