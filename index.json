@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 19:58:15",
+      "https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages"
+    ],
+    [
+      "Do Repeat Yourself: Global Packages Considered Harmful",
+      "https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 18:39:37",
       "https://lobste.rs/s/s2ridw/memory_safe_languages_android_13"
     ],
@@ -217,16 +227,6 @@
     [
       "How to JIT",
       "https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 13:40:49",
-      "https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one"
-    ],
-    [
-      "Speeding up the JavaScript ecosystem - one library at a time",
-      "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/"
     ]
   ],
   [
