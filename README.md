@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 05:27:22](https://lobste.rs/s/b4uqub/higher_orderness_is_first_order) - [Higher-orderness is first-order interaction](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
 * [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-12-01, 02:12:25](https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable) - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
 * [2022-12-01, 02:00:56](https://lobste.rs/s/roxdoe/optimizing_aws_f1_dma) - [Optimizing AWS F1 DMA](https://hackmd.io/RBnMLnVUR3O9_TkqCvHfRg)
 * [2022-12-01, 00:37:40](https://lobste.rs/s/zujo8p/wasmedge_high_performance_webassembly) - [WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)](https://github.com/WasmEdge/WasmEdge)
-* [2022-12-01, 00:36:46](https://lobste.rs/s/rxulwm/inverse_turing_test) - [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 * [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
