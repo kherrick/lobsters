@@ -12,6 +12,7 @@
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-12-01, 02:12:25](https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable) - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
+* [2022-12-01, 00:36:46](https://lobste.rs/s/rxulwm/inverse_turing_test) - [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 * [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
@@ -23,7 +24,6 @@
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
-* [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 
 ## [Archives](archives/index.md)
