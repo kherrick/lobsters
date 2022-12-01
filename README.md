@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 10:45:36](https://lobste.rs/s/7qdwyf/from_zero_50_million_uploads_per_day) - [From Zero to 50 Million Uploads per Day: Scaling Media at Canva](https://canvatechblog.com/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva-c81fa0c92f34)
 * [2022-12-01, 08:30:42](https://lobste.rs/s/xxnr2d/release_3_12_0_mirrord) - [Release 3.12.0 · mirrord](https://github.com/metalbear-co/mirrord/releases/tag/3.12.0)
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 05:27:22](https://lobste.rs/s/b4uqub/higher_orderness_is_first_order) - [Higher-orderness is first-order interaction](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
@@ -22,7 +23,6 @@
 * [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
-* [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
 
