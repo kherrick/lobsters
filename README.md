@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 08:30:42](https://lobste.rs/s/xxnr2d/release_3_12_0_mirrord) - [Release 3.12.0 · mirrord](https://github.com/metalbear-co/mirrord/releases/tag/3.12.0)
+* [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 05:27:22](https://lobste.rs/s/b4uqub/higher_orderness_is_first_order) - [Higher-orderness is first-order interaction](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
 * [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
@@ -10,8 +12,6 @@
 * [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
-* [2022-11-30, 21:22:51](https://lobste.rs/s/9rvt2p/new_details_on_commercial_spyware_vendor) - [New details on commercial spyware vendor Variston](https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/)
-* [2022-11-30, 21:22:20](https://lobste.rs/s/qwwlup/implementing_new_memory_safety_approach) - [Implementing a New Memory Safety Approach, Part 1](https://verdagon.dev/blog/making-regions-part-1-human-factor)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 * [2022-11-30, 17:13:09](https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas) - [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)

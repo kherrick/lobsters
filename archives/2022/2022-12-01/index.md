@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 08:30:42](https://lobste.rs/s/xxnr2d/release_3_12_0_mirrord) - [Release 3.12.0 · mirrord](https://github.com/metalbear-co/mirrord/releases/tag/3.12.0)
+* [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 05:27:22](https://lobste.rs/s/b4uqub/higher_orderness_is_first_order) - [Higher-orderness is first-order interaction](https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/)
 * [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
