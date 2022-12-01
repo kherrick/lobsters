@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 13:41:04",
+      "https://lobste.rs/s/fo5h8u/handle_errors_simple_stable_consistent"
+    ],
+    [
+      "Handle errors in a simple, stable, consistent way",
+      "https://github.com/ehmicky/modern-errors"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 13:00:44",
       "https://lobste.rs/s/ujujgy/typeset_future_typography_design"
     ],
@@ -97,16 +107,6 @@
     [
       "Optimizing AWS F1 DMA",
       "https://hackmd.io/RBnMLnVUR3O9_TkqCvHfRg"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 00:37:40",
-      "https://lobste.rs/s/zujo8p/wasmedge_high_performance_webassembly"
-    ],
-    [
-      "WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)",
-      "https://github.com/WasmEdge/WasmEdge"
     ]
   ],
   [
