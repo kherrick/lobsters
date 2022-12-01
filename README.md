@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 00:37:40](https://lobste.rs/s/zujo8p/wasmedge_high_performance_webassembly) - [WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)](https://github.com/WasmEdge/WasmEdge)
+* [2022-12-01, 00:36:46](https://lobste.rs/s/rxulwm/inverse_turing_test) - [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 * [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
@@ -20,11 +22,9 @@
 * [2022-11-30, 05:41:21](https://lobste.rs/s/7pqagj/just_time_jit_compilers_computerphile) - [Just In Time (JIT) Compilers - Computerphile](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 * [2022-11-29, 23:02:13](https://lobste.rs/s/mwwwiq/how_do_software_projects_end) - [How Do Software Projects End?](https://danielbmarkham.com/how-do-software-projects-end/)
-* [2022-11-29, 20:35:04](https://lobste.rs/s/4nmxmm/tiny_c_header_only_risc_v_emulator) - [A tiny C header-only risc-v emulator](https://github.com/cnlohr/mini-rv32ima)
 * [2022-11-29, 19:33:22](https://lobste.rs/s/rxmii0/tales_m1_gpu_asahi_linux) - [Tales of the M1 GPU - Asahi Linux](https://asahilinux.org/2022/11/tales-of-the-m1-gpu/)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
 * [2022-11-29, 17:34:55](https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing) - [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/)
-* [2022-11-29, 14:19:52](https://lobste.rs/s/rcckgp/tailwind_is_leaky_abstraction) - [Tailwind is a Leaky Abstraction](https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/)
 
 ## [Archives](archives/index.md)
 
