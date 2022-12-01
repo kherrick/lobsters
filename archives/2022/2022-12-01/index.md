@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
+* [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
 * [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/handle_errors_simple_stable_consistent) - [Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
 * [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
 * [2022-12-01, 10:45:36](https://lobste.rs/s/7qdwyf/from_zero_50_million_uploads_per_day) - [From Zero to 50 Million Uploads per Day: Scaling Media at Canva](https://canvatechblog.com/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva-c81fa0c92f34)
