@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-01, 18:18:35",
+      "https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir"
+    ],
+    [
+      "Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)",
+      "https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 18:18:01",
+      "https://lobste.rs/s/fm08m8/extism_make_all_software_programmable"
+    ],
+    [
+      "Extism: make all software programmable |",
+      "https://extism.org/blog/announcing-extism/"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 18:08:01",
+      "https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac"
+    ],
+    [
+      "Insignia's SoftWindows - Run Windows on a Mac",
+      "https://computeradsfromthepast.substack.com/p/insignias-softwindows"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 17:35:03",
       "https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2022-12-01, 08:30:42",
-      "https://lobste.rs/s/xxnr2d/release_3_12_0_mirrord"
-    ],
-    [
-      "Release 3.12.0 · mirrord",
-      "https://github.com/metalbear-co/mirrord/releases/tag/3.12.0"
-    ]
-  ],
-  [
-    [
       "2022-12-01, 08:25:01",
       "https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar"
     ],
@@ -117,16 +137,6 @@
     [
       "FreeBSD: Stack overflow in ping(8)",
       "https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 02:12:25",
-      "https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable"
-    ],
-    [
-      "Making unphishable 2FA phishable",
-      "https://mjg59.dreamwidth.org/62175.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "‘Let It Crash’ under attack",
       "http://blog.syncpup.com/posts/let-it-crash-under-attack.html"
-    ]
-  ],
-  [
-    [
-      "2022-11-29, 17:34:55",
-      "https://lobste.rs/s/yog9fh/i_am_disappointed_by_dynamic_typing"
-    ],
-    [
-      "I am disappointed by dynamic typing",
-      "https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"
     ]
   ]
 ]
