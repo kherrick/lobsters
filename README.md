@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 14:47:33](https://lobste.rs/s/qb9s2l/owning_your_content_on_web_should_not) - [Owning your content on the web should not require extensive technical knowledge](https://mxb.dev/blog/the-indieweb-for-everyone/)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
 * [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
@@ -20,7 +21,6 @@
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
 * [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
-* [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 * [2022-11-29, 18:18:18](https://lobste.rs/s/h0apsh/emacs_29_is_nigh_what_can_we_expect) - [Emacs 29 is nigh! What can we expect?](https://blog.phundrak.com/emacs-29-what-can-we-expect/)
