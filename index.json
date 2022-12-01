@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-01, 05:27:22",
+      "https://lobste.rs/s/b4uqub/higher_orderness_is_first_order"
+    ],
+    [
+      "Higher-orderness is first-order interaction",
+      "https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/"
+    ]
+  ],
+  [
+    [
       "2022-12-01, 03:31:00",
       "https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch"
     ],
@@ -57,16 +67,6 @@
     [
       "WasmEdge, a high-performance WebAssembly runtime in C++  (Wasm on the serve side)",
       "https://github.com/WasmEdge/WasmEdge"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 00:36:46",
-      "https://lobste.rs/s/rxulwm/inverse_turing_test"
-    ],
-    [
-      "An Inverse Turing Test",
-      "https://calmcode.io/blog/inverse-turing-test.html"
     ]
   ],
   [
