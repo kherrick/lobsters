@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 18:18:35](https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir) - [Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
 * [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable |](https://extism.org/blog/announcing-extism/)
@@ -22,7 +23,6 @@
 * [2022-11-30, 17:13:09](https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas) - [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
 * [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
-* [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 * [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 * [2022-11-30, 03:11:30](https://lobste.rs/s/8oygyd/let_it_crash_under_attack) - [‘Let It Crash’ under attack](http://blog.syncpup.com/posts/let-it-crash-under-attack.html)
 
