@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 18:18:35](https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir) - [Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
+* [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable |](https://extism.org/blog/announcing-extism/)
+* [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 15:43:47](https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt) - [Adventures in generating music via ChatGPT text prompts](https://www.holovaty.com/writing/chatgpt-music-generation/)
 * [2022-12-01, 14:47:33](https://lobste.rs/s/qb9s2l/owning_your_content_on_web_should_not) - [Owning your content on the web should not require extensive technical knowledge](https://mxb.dev/blog/the-indieweb-for-everyone/)
