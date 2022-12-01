@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-12-01, 02:12:25](https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable) - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)

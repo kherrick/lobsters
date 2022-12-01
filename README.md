@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-12-01, 02:12:25](https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable) - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
@@ -16,7 +17,6 @@
 * [2022-11-30, 17:13:09](https://lobste.rs/s/gzr1en/natto_dev_write_javascript_on_2d_canvas) - [natto.dev - write JavaScript on a 2D canvas](https://natto.dev/@paul/f33b7f5924634fb687a90d85ed03f289)
 * [2022-11-30, 16:20:55](https://lobste.rs/s/6j99hg/behind_pretty_frames_death_stranding) - [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
-* [2022-11-30, 14:48:09](https://lobste.rs/s/h4neyp/techniques_for_setting_up_peripherals) - [Techniques for Setting up Peripherals via DMA and PIO](https://serhack.me/articles/techniques-setting-up-pheripherals-dma-pio/)
 * [2022-11-30, 13:55:07](https://lobste.rs/s/88r0yh/how_jit) - [How to JIT](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 * [2022-11-30, 13:40:49](https://lobste.rs/s/ayszgp/speeding_up_javascript_ecosystem_one) - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
 * [2022-11-30, 12:22:18](https://lobste.rs/s/lxyog3/acid_debugger_built_from_language) - [ACID: A Debugger Built from a Language](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/acid-debugger-built-language)
