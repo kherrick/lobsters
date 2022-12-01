@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 15:43:47](https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt) - [Adventures in generating music via ChatGPT text prompts](https://www.holovaty.com/writing/chatgpt-music-generation/)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
@@ -12,7 +13,6 @@
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-12-01, 02:12:25](https://lobste.rs/s/kkbscu/making_unphishable_2fa_phishable) - [Making unphishable 2FA phishable](https://mjg59.dreamwidth.org/62175.html)
-* [2022-12-01, 00:36:46](https://lobste.rs/s/rxulwm/inverse_turing_test) - [An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 * [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
