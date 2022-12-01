@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 15:43:47](https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt) - [Adventures in generating music via ChatGPT text prompts](https://www.holovaty.com/writing/chatgpt-music-generation/)
 * [2022-12-01, 14:47:33](https://lobste.rs/s/qb9s2l/owning_your_content_on_web_should_not) - [Owning your content on the web should not require extensive technical knowledge](https://mxb.dev/blog/the-indieweb-for-everyone/)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
