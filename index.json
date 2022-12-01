@@ -1,11 +1,21 @@
 [
   [
     [
-      "2022-12-01, 13:41:04",
-      "https://lobste.rs/s/fo5h8u/handle_errors_simple_stable_consistent"
+      "2022-12-01, 14:06:09",
+      "https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop"
     ],
     [
-      "Handle errors in a simple, stable, consistent way",
+      "My secret life as an 11-year-old BBS sysop",
+      "https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/"
+    ]
+  ],
+  [
+    [
+      "2022-12-01, 13:41:04",
+      "https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple"
+    ],
+    [
+      "Modern Errors: Handle errors in a simple, stable, consistent way",
       "https://github.com/ehmicky/modern-errors"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Advent(2) -- The System Call Advent Calendar: starts today",
       "https://osg.tuhh.de/Advent/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 05:27:22",
-      "https://lobste.rs/s/b4uqub/higher_orderness_is_first_order"
-    ],
-    [
-      "Higher-orderness is first-order interaction",
-      "https://www.tweag.io/blog/2022-12-01-higherorderness-is-interaction/"
     ]
   ],
   [
