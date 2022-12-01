@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 18:18:35](https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir) - [Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
 * [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable |](https://extism.org/blog/announcing-extism/)
 * [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
@@ -14,7 +15,6 @@
 * [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
-* [2022-11-30, 23:32:20](https://lobste.rs/s/mvttvj/python_random_graph_generator_version_1_3) - [Python Random Graph Generator - Version 1.3](https://github.com/sepandhaghighi/pyrgg)
 * [2022-11-30, 23:24:06](https://lobste.rs/s/ssevxq/solving_murder_mystery) - [Solving a Murder Mystery](https://paulosman.me/2022/11/29/solving-a-murder-mystery/)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)

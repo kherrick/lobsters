@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 18:18:35](https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir) - [Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
 * [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable |](https://extism.org/blog/announcing-extism/)
 * [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
