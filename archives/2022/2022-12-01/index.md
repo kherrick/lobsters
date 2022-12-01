@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-01](index.md)
 
+* [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
 * [2022-12-01, 10:45:36](https://lobste.rs/s/7qdwyf/from_zero_50_million_uploads_per_day) - [From Zero to 50 Million Uploads per Day: Scaling Media at Canva](https://canvatechblog.com/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva-c81fa0c92f34)
 * [2022-12-01, 08:30:42](https://lobste.rs/s/xxnr2d/release_3_12_0_mirrord) - [Release 3.12.0 · mirrord](https://github.com/metalbear-co/mirrord/releases/tag/3.12.0)
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
