@@ -2,7 +2,7 @@
 
 * [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
 * [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
-* [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell_wasp) - [Tutorial: `forall` in Haskell | Wasp](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
+* [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 * [2022-12-01, 22:02:13](https://lobste.rs/s/8wnskb/remotely_unlock_start_locate_flash_honk) - [Remotely unlock, start, locate, flash, and honk any remotely connected Honda, Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
 * [2022-12-01, 21:37:24](https://lobste.rs/s/ieemsg/source_code_delores_thimbleweed_park) - [Source code to Delores: A Thimbleweed Park mini-adventure released](https://github.com/grumpygamer/DeloresDev)
@@ -10,7 +10,7 @@
 * [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 18:18:35](https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir) - [Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)](https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt)
-* [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable |](https://extism.org/blog/announcing-extism/)
+* [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable](https://extism.org/blog/announcing-extism/)
 * [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 15:43:47](https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt) - [Adventures in generating music via ChatGPT text prompts](https://www.holovaty.com/writing/chatgpt-music-generation/)
