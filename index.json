@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 14:44:01",
+      "https://lobste.rs/s/ziqye2/scaling_mastodon_compendium"
+    ],
+    [
+      "Scaling Mastodon: The Compendium",
+      "https://hazelweakly.me/blog/scaling-mastodon"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 14:33:43",
       "https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution"
     ],
@@ -237,16 +247,6 @@
     [
       "How much does Rust's bounds checking actually cost?",
       "https://blog.readyset.io/bounds-checks/"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 15:35:13",
-      "https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party"
-    ],
-    [
-      "Tandem – maliciously secure two-party computation engine written in Rust",
-      "https://github.com/sine-fdn/tandem"
     ]
   ]
 ]
