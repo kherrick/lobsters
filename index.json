@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 09:18:20",
+      "https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022"
+    ],
+    [
+      "Help the OpenBSD Foundation Reach Its 2022 Funding Goal",
+      "https://undeadly.org/cgi?action=article;sid=20221202062601"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 08:43:26",
       "https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b"
     ],
@@ -157,16 +167,6 @@
     [
       "My secret life as an 11-year-old BBS sysop",
       "https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 13:41:04",
-      "https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple"
-    ],
-    [
-      "Modern Errors: Handle errors in a simple, stable, consistent way",
-      "https://github.com/ehmicky/modern-errors"
     ]
   ],
   [
