@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 * [2022-12-02, 18:04:10](https://lobste.rs/s/q83ezz/no_code_first_speed_flexibility_pick_two) - [No-Code-First: speed, flexibility - pick two](https://zupa.hu/posts/no-code-first)
 * [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
 * [2022-12-02, 16:22:09](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend)
@@ -20,7 +21,6 @@
 * [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable](https://extism.org/blog/announcing-extism/)
-* [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
