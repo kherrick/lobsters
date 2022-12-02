@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
 * [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
@@ -21,7 +22,6 @@
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
-* [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-02](index.md)
 
+* [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
 * [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
