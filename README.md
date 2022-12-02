@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell_wasp) - [Tutorial: `forall` in Haskell | Wasp](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
-* [2022-12-02, 00:47:14](https://lobste.rs/s/adbzyf/how_should_we_evaluate_progress_ai) - [How should we evaluate progress in AI?](https://metarationality.com/artificial-intelligence-progress)
 * [2022-12-01, 22:02:13](https://lobste.rs/s/8wnskb/remotely_unlock_start_locate_flash_honk) - [Remotely unlock, start, locate, flash, and honk any remotely connected Honda, Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
 * [2022-12-01, 21:37:24](https://lobste.rs/s/ieemsg/source_code_delores_thimbleweed_park) - [Source code to Delores: A Thimbleweed Park mini-adventure released](https://github.com/grumpygamer/DeloresDev)
 * [2022-12-01, 20:21:06](https://lobste.rs/s/p7ffca/vic_20_text_speech_synthesizer_using) - [VIC-20 text-to-speech synthesizer using the iconic voice of SAM](https://www.youtube.com/watch?v=_YioAfmzkQc)
