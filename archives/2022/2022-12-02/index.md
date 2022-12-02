@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-02](index.md)
 
+* [2022-12-02, 18:54:41](https://lobste.rs/s/2ej9eo/tending_my_digital_garden) - [Tending to My Digital Garden](https://www.taniarascia.com/digital-gardening/)
 * [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 * [2022-12-02, 18:04:10](https://lobste.rs/s/q83ezz/no_code_first_speed_flexibility_pick_two) - [No-Code-First: speed, flexibility - pick two](https://zupa.hu/posts/no-code-first)
 * [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
