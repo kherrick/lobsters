@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
 * [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
 * [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
@@ -18,7 +19,6 @@
 * [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
 * [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
-* [2022-12-01, 03:31:00](https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch) - [Writing a Chat Client from Scratch](http://blog.jmp.chat/b/2022-chat-client-from-scratch)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-11-30, 21:51:25](https://lobste.rs/s/ps6bei/simple_go_link_shortener_for_tailscale) - [Simple Go link shortener for Tailscale](https://tailscale.com/blog/golink/)
