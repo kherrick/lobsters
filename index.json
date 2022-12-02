@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 15:54:22",
+      "https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be"
+    ],
+    [
+      "Looking at the Python documentation can be dangerous",
+      "https://twitter.com/marekgibney/status/1598706464583028736"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 15:44:35",
       "https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security"
     ],
@@ -187,16 +197,6 @@
     [
       "FLENG Version 12 - A compiler for a concurrent logic programming language",
       "http://www.call-with-current-continuation.org/fleng/fleng.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 15:43:47",
-      "https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt"
-    ],
-    [
-      "Adventures in generating music via ChatGPT text prompts",
-      "https://www.holovaty.com/writing/chatgpt-music-generation/"
     ]
   ],
   [
