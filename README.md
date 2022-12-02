@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 18:04:10](https://lobste.rs/s/q83ezz/no_code_first_speed_flexibility_pick_two) - [No-Code-First: speed, flexibility - pick two](https://zupa.hu/posts/no-code-first)
 * [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
 * [2022-12-02, 16:22:09](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend)
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
@@ -22,7 +23,6 @@
 * [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-* [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 
