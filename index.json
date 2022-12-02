@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 08:43:26",
+      "https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b"
+    ],
+    [
+      "NixOS: On Raspberry Pi 3B",
+      "https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 06:17:40",
       "https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how"
     ],
@@ -177,16 +187,6 @@
     [
       "Advent(2) -- The System Call Advent Calendar: starts today",
       "https://osg.tuhh.de/Advent/"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 03:31:00",
-      "https://lobste.rs/s/tdgw7w/writing_chat_client_from_scratch"
-    ],
-    [
-      "Writing a Chat Client from Scratch",
-      "http://blog.jmp.chat/b/2022-chat-client-from-scratch"
     ]
   ],
   [
