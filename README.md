@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
+* [2022-12-02, 16:22:09](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend)
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 15:05:42](https://lobste.rs/s/7nbede/git_parable_different_approach) - [The Git Parable: a different approach to understanding Git](https://youtu.be/ANNboouhNHE)
@@ -13,7 +15,6 @@
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 * [2022-12-01, 22:02:13](https://lobste.rs/s/8wnskb/remotely_unlock_start_locate_flash_honk) - [Remotely unlock, start, locate, flash, and honk any remotely connected Honda, Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
-* [2022-12-01, 21:37:24](https://lobste.rs/s/ieemsg/source_code_delores_thimbleweed_park) - [Source code to Delores: A Thimbleweed Park mini-adventure released](https://github.com/grumpygamer/DeloresDev)
 * [2022-12-01, 20:07:10](https://lobste.rs/s/pzscr9/ai_solves_advent_code_2022) - [AI solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
 * [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
@@ -21,7 +22,6 @@
 * [2022-12-01, 18:08:01](https://lobste.rs/s/rwcgq1/insignia_s_softwindows_run_windows_on_mac) - [Insignia's SoftWindows - Run Windows on a Mac](https://computeradsfromthepast.substack.com/p/insignias-softwindows)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-* [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)

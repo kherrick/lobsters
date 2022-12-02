@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-02](index.md)
 
+* [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
+* [2022-12-02, 16:22:09](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend)
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 15:05:42](https://lobste.rs/s/7nbede/git_parable_different_approach) - [The Git Parable: a different approach to understanding Git](https://youtu.be/ANNboouhNHE)
