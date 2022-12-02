@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
 * [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
 * [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
@@ -16,7 +17,6 @@
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 15:43:47](https://lobste.rs/s/ek6f6b/adventures_generating_music_via_chatgpt) - [Adventures in generating music via ChatGPT text prompts](https://www.holovaty.com/writing/chatgpt-music-generation/)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
-* [2022-12-01, 13:41:04](https://lobste.rs/s/fo5h8u/modern_errors_handle_errors_simple) - [Modern Errors: Handle errors in a simple, stable, consistent way](https://github.com/ehmicky/modern-errors)
 * [2022-12-01, 13:00:44](https://lobste.rs/s/ujujgy/typeset_future_typography_design) - [Typeset In The Future - Typography and Design in Science Fiction Movies](https://typesetinthefuture.com/)
 * [2022-12-01, 08:25:01](https://lobste.rs/s/k0ygh7/advent_2_system_call_advent_calendar) - [Advent(2) -- The System Call Advent Calendar: starts today](https://osg.tuhh.de/Advent/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
