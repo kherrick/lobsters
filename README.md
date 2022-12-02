@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
 * [2022-12-02, 14:33:43](https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution) - [Visual Studio Code: Remote Code Execution](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
 * [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
@@ -24,7 +25,6 @@
 * [2022-12-01, 02:20:32](https://lobste.rs/s/omcheb/freebsd_stack_overflow_ping_8) - [FreeBSD: Stack overflow in ping(8)](https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc)
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
-* [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
 
 ## [Archives](archives/index.md)
 
