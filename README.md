@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell_wasp) - [Tutorial: `forall` in Haskell | Wasp](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 * [2022-12-01, 22:02:13](https://lobste.rs/s/8wnskb/remotely_unlock_start_locate_flash_honk) - [Remotely unlock, start, locate, flash, and honk any remotely connected Honda, Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
@@ -24,7 +25,6 @@
 * [2022-11-30, 19:13:12](https://lobste.rs/s/gyxq4s/release_22_11_nixos_nixpkgs) - [Release 22.11 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/releases/tag/22.11)
 * [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 * [2022-11-30, 15:35:13](https://lobste.rs/s/dqcfeq/tandem_maliciously_secure_two_party) - [Tandem – maliciously secure two-party computation engine written in Rust](https://github.com/sine-fdn/tandem)
-* [2022-11-30, 10:26:19](https://lobste.rs/s/lzns5y/firefox_translations_translate) - [Firefox Translations – Translate websites in your browser without using the cloud](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
 
 ## [Archives](archives/index.md)
 
