@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 23:43:42](https://lobste.rs/s/dlhd04/scaling_mastodon) - [Scaling the Mastodon](https://leah.is/posts/scaling-the-mastodon/)
 * [2022-12-02, 20:40:38](https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working) - [strung.ahk: A utility library for working with strings in AutoHotkey 2](https://github.com/joshuacc/strung.ahk)
 * [2022-12-02, 18:54:41](https://lobste.rs/s/2ej9eo/tending_my_digital_garden) - [Tending to My Digital Garden](https://www.taniarascia.com/digital-gardening/)
 * [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
@@ -17,7 +18,6 @@
 * [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
-* [2022-12-01, 22:02:13](https://lobste.rs/s/8wnskb/remotely_unlock_start_locate_flash_honk) - [Remotely unlock, start, locate, flash, and honk any remotely connected Honda, Nissan](https://twitter.com/samwcyo/status/1597792097175674880)
 * [2022-12-01, 20:07:10](https://lobste.rs/s/pzscr9/ai_solves_advent_code_2022) - [AI solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
 * [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
