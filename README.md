@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-02, 20:40:38](https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working) - [strung.ahk: A utility library for working with strings in AutoHotkey 2](https://github.com/joshuacc/strung.ahk)
 * [2022-12-02, 18:54:41](https://lobste.rs/s/2ej9eo/tending_my_digital_garden) - [Tending to My Digital Garden](https://www.taniarascia.com/digital-gardening/)
 * [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 * [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
@@ -24,7 +25,6 @@
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
-* [2022-11-30, 18:41:45](https://lobste.rs/s/u4k7ln/how_much_does_rust_s_bounds_checking) - [How much does Rust's bounds checking actually cost?](https://blog.readyset.io/bounds-checks/)
 
 ## [Archives](archives/index.md)
 
