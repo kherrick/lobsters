@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-02](index.md)
 
+* [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 15:05:42](https://lobste.rs/s/7nbede/git_parable_different_approach) - [The Git Parable: a different approach to understanding Git](https://youtu.be/ANNboouhNHE)
 * [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
 * [2022-12-02, 14:33:43](https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution) - [Visual Studio Code: Remote Code Execution](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
