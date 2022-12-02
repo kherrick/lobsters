@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 14:33:43",
+      "https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution"
+    ],
+    [
+      "Visual Studio Code: Remote Code Execution",
+      "https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 11:59:23",
       "https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms"
     ],
@@ -117,16 +127,6 @@
     [
       "Memory Safe Languages in Android 13",
       "https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-01, 18:18:35",
-      "https://lobste.rs/s/ybvnto/race_condition_snap_confine_s_must_mkdir"
-    ],
-    [
-      "Race condition in snap-confine's must_mkdir_and_open_with_perms() (CVE-2022-3328)",
-      "https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt"
     ]
   ],
   [
