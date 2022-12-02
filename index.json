@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-02, 05:22:04",
+      "https://lobste.rs/s/qfaoid/algorithm_haskell"
+    ],
+    [
+      "A* Algorithm in Haskell",
+      "https://notes.abhinavsarkar.net/2022/astar"
+    ]
+  ],
+  [
+    [
       "2022-12-02, 04:19:41",
       "https://lobste.rs/s/tousvy/tutorial_forall_haskell_wasp"
     ],
@@ -237,16 +247,6 @@
     [
       "Tandem – maliciously secure two-party computation engine written in Rust",
       "https://github.com/sine-fdn/tandem"
-    ]
-  ],
-  [
-    [
-      "2022-11-30, 10:26:19",
-      "https://lobste.rs/s/lzns5y/firefox_translations_translate"
-    ],
-    [
-      "Firefox Translations – Translate websites in your browser without using the cloud",
-      "https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/"
     ]
   ]
 ]
