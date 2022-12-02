@@ -22,10 +22,10 @@
   [
     [
       "2022-12-02, 04:19:41",
-      "https://lobste.rs/s/tousvy/tutorial_forall_haskell_wasp"
+      "https://lobste.rs/s/tousvy/tutorial_forall_haskell"
     ],
     [
-      "Tutorial: `forall` in Haskell | Wasp",
+      "Tutorial: `forall` in Haskell",
       "https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://lobste.rs/s/fm08m8/extism_make_all_software_programmable"
     ],
     [
-      "Extism: make all software programmable |",
+      "Extism: make all software programmable",
       "https://extism.org/blog/announcing-extism/"
     ]
   ],
