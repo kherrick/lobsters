@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 00:27:17](https://lobste.rs/s/dj0rfh/vimwiki_release_v2022_12_02) - [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
 * [2022-12-02, 23:43:42](https://lobste.rs/s/dlhd04/scaling_mastodon) - [Scaling the Mastodon](https://leah.is/posts/scaling-the-mastodon/)
 * [2022-12-02, 20:40:38](https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working) - [strung.ahk: A utility library for working with strings in AutoHotkey 2](https://github.com/joshuacc/strung.ahk)
 * [2022-12-02, 18:54:41](https://lobste.rs/s/2ej9eo/tending_my_digital_garden) - [Tending to My Digital Garden](https://www.taniarascia.com/digital-gardening/)
@@ -21,7 +22,6 @@
 * [2022-12-01, 20:07:10](https://lobste.rs/s/pzscr9/ai_solves_advent_code_2022) - [AI solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
 * [2022-12-01, 19:58:15](https://lobste.rs/s/hqtcek/do_repeat_yourself_global_packages) - [Do Repeat Yourself: Global Packages Considered Harmful](https://www.jetpack.io/blog/do-repeat-yourself-global-packages-considered-harmful/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
-* [2022-12-01, 18:18:01](https://lobste.rs/s/fm08m8/extism_make_all_software_programmable) - [Extism: make all software programmable](https://extism.org/blog/announcing-extism/)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2022-12-01, 14:06:09](https://lobste.rs/s/eef5lw/my_secret_life_as_11_year_old_bbs_sysop) - [My secret life as an 11-year-old BBS sysop](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
