@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-03, 22:00:35",
+      "https://lobste.rs/s/ny6dwz/how_8086_processor_s_microcode_engine"
+    ],
+    [
+      "How the 8086 processor's microcode engine works",
+      "https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html"
+    ]
+  ],
+  [
+    [
       "2022-12-03, 20:27:46",
       "https://lobste.rs/s/salvpp/origins_ascii_smiley_character_2011"
     ],
@@ -217,16 +227,6 @@
     [
       "Scaling Mastodon: The Compendium",
       "https://hazelweakly.me/blog/scaling-mastodon"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 11:59:23",
-      "https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms"
-    ],
-    [
-      "A collection of array rotation algorithms",
-      "https://github.com/scandum/rotate"
     ]
   ],
   [
