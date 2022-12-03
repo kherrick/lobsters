@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 15:42:01](https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive) - [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 * [2022-12-03, 13:30:25](https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for) - [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
 * [2022-12-03, 12:04:58](https://lobste.rs/s/vjrvxb/getting_started_with_pdq_deploy) - [Getting Started with PDQ Deploy & Inventory](https://lazyadmin.nl/it/pdq-deploy-inventory/)
@@ -7,7 +8,6 @@
 * [2022-12-03, 07:01:56](https://lobste.rs/s/lgeaun/refurbishing_hp_c1400a_keyboard_from_hp) - [Refurbishing an HP C1400A Keyboard from an HP 700/96 Terminal](https://bigdanzblog.wordpress.com/2022/12/01/refurbishing-an-hp-c1400a-keyboard-from-an-hp-700-96-terminal/)
 * [2022-12-03, 06:34:10](https://lobste.rs/s/suc5rs/pre_auth_rce_with_codeql_under_20_minutes) - [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
-* [2022-12-03, 01:28:48](https://lobste.rs/s/ywqsku/tracing_stateless_video_hardware) - [Tracing stateless video hardware decoding in V4L2](https://www.collabora.com/news-and-blog/blog/2022/12/02/tracing-stateless-video-hardware-decoding-in-v4l2/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
 * [2022-12-03, 00:27:17](https://lobste.rs/s/dj0rfh/vimwiki_release_v2022_12_02) - [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
 * [2022-12-02, 20:40:38](https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working) - [strung.ahk: A utility library for working with strings in AutoHotkey 2](https://github.com/joshuacc/strung.ahk)
