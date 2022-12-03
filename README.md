@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 * [2022-12-03, 17:12:37](https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460)
 * [2022-12-03, 17:12:17](https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
@@ -19,7 +20,6 @@
 * [2022-12-02, 16:22:09](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s4ddww/what_are_you_doing_this_weekend)
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
-* [2022-12-02, 15:05:42](https://lobste.rs/s/7nbede/git_parable_different_approach) - [The Git Parable: a different approach to understanding Git](https://youtu.be/ANNboouhNHE)
 * [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
 * [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)

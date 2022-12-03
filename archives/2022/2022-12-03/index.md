@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 * [2022-12-03, 17:12:37](https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460)
 * [2022-12-03, 17:12:17](https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
