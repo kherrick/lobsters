@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
+* [2022-12-03, 17:12:37](https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460)
+* [2022-12-03, 17:12:17](https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
 * [2022-12-03, 15:42:01](https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive) - [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 * [2022-12-03, 14:44:28](https://lobste.rs/s/ipm2ls/peer_programming_buggy_world_with) - [Peer-Programming a Buggy World with ChatGPT AI](https://blog.chipx86.com/2022/12/02/peer-programming-a-buggy-world-with-chatgpt-ai/)

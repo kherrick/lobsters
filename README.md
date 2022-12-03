@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
+* [2022-12-03, 17:12:37](https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460)
+* [2022-12-03, 17:12:17](https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
 * [2022-12-03, 15:42:01](https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive) - [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 * [2022-12-03, 13:30:25](https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for) - [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
@@ -10,7 +13,6 @@
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
 * [2022-12-03, 00:27:17](https://lobste.rs/s/dj0rfh/vimwiki_release_v2022_12_02) - [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
-* [2022-12-02, 20:40:38](https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working) - [strung.ahk: A utility library for working with strings in AutoHotkey 2](https://github.com/joshuacc/strung.ahk)
 * [2022-12-02, 18:54:41](https://lobste.rs/s/2ej9eo/tending_my_digital_garden) - [Tending to My Digital Garden](https://www.taniarascia.com/digital-gardening/)
 * [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 * [2022-12-02, 16:22:56](https://lobste.rs/s/fhccfk/i_tried_chatgpt_from_openai_my_mind_was) - [I tried ChatGPT from OpenAI and my mind was blown](https://hackernoon.com/i-tried-chatgpt-from-openai-and-my-mind-was-blown)
@@ -19,11 +21,9 @@
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 15:05:42](https://lobste.rs/s/7nbede/git_parable_different_approach) - [The Git Parable: a different approach to understanding Git](https://youtu.be/ANNboouhNHE)
 * [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
-* [2022-12-02, 14:33:43](https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution) - [Visual Studio Code: Remote Code Execution](https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m)
 * [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
-* [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 
 ## [Archives](archives/index.md)
