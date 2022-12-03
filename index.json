@@ -1,32 +1,12 @@
 [
   [
     [
-      "2022-12-03, 14:44:28",
-      "https://lobste.rs/s/ipm2ls/peer_programming_buggy_world_with"
-    ],
-    [
-      "Peer-Programming a Buggy World with ChatGPT AI",
-      "https://blog.chipx86.com/2022/12/02/peer-programming-a-buggy-world-with-chatgpt-ai/"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 13:30:25",
       "https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for"
     ],
     [
       "Clerk Garden: a simple publishing space for Clerk notebooks",
       "https://github.clerk.garden/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 13:11:00",
-      "https://lobste.rs/s/metddz/chatgpt_corrects_itself_when_you_tell_it"
-    ],
-    [
-      "ChatGPT corrects itself when you tell it off",
-      "https://djharper.dev/post/2022/12/02/chatgpt-corrects-itself-when-you-tell-it-off/"
     ]
   ],
   [
@@ -77,6 +57,16 @@
     [
       "Building an ASCII Particle Engine in Janet",
       "https://tilde.team/~kiedtl/blog/particles/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 01:28:48",
+      "https://lobste.rs/s/ywqsku/tracing_stateless_video_hardware"
+    ],
+    [
+      "Tracing stateless video hardware decoding in V4L2",
+      "https://www.collabora.com/news-and-blog/blog/2022/12/02/tracing-stateless-video-hardware-decoding-in-v4l2/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "NixOS: On Raspberry Pi 3B",
       "https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-02, 05:22:04",
+      "https://lobste.rs/s/qfaoid/algorithm_haskell"
+    ],
+    [
+      "A* Algorithm in Haskell",
+      "https://notes.abhinavsarkar.net/2022/astar"
     ]
   ],
   [
