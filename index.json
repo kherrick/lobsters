@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-03, 15:22:03",
+      "https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy"
+    ],
+    [
+      "Gameboy Doctor: debug and fix your gameboy emulator",
+      "https://robertheaton.com/gameboy-doctor/"
+    ]
+  ],
+  [
+    [
       "2022-12-03, 13:30:25",
       "https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for"
     ],
@@ -217,16 +227,6 @@
     [
       "NixOS: On Raspberry Pi 3B",
       "https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 05:22:04",
-      "https://lobste.rs/s/qfaoid/algorithm_haskell"
-    ],
-    [
-      "A* Algorithm in Haskell",
-      "https://notes.abhinavsarkar.net/2022/astar"
     ]
   ],
   [
