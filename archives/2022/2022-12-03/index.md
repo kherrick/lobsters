@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 13:30:25](https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for) - [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
 * [2022-12-03, 13:11:00](https://lobste.rs/s/metddz/chatgpt_corrects_itself_when_you_tell_it) - [ChatGPT corrects itself when you tell it off](https://djharper.dev/post/2022/12/02/chatgpt-corrects-itself-when-you-tell-it-off/)
 * [2022-12-03, 12:04:58](https://lobste.rs/s/vjrvxb/getting_started_with_pdq_deploy) - [Getting Started with PDQ Deploy & Inventory](https://lazyadmin.nl/it/pdq-deploy-inventory/)
 * [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)

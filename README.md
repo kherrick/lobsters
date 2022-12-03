@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 13:30:25](https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for) - [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
 * [2022-12-03, 13:11:00](https://lobste.rs/s/metddz/chatgpt_corrects_itself_when_you_tell_it) - [ChatGPT corrects itself when you tell it off](https://djharper.dev/post/2022/12/02/chatgpt-corrects-itself-when-you-tell-it-off/)
 * [2022-12-03, 12:04:58](https://lobste.rs/s/vjrvxb/getting_started_with_pdq_deploy) - [Getting Started with PDQ Deploy & Inventory](https://lazyadmin.nl/it/pdq-deploy-inventory/)
 * [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
@@ -22,7 +23,6 @@
 * [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
-* [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 
