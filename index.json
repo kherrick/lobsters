@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-03, 17:13:00",
+      "https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money"
+    ],
+    [
+      "Twenty five thousand dollars of funny money",
+      "http://rachelbythebay.com/w/2022/12/02/25k/"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 17:12:37",
+      "https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00"
+    ],
+    [
+      "Racket meet-up Saturday 3 December at 18:00 UTC :racket",
+      "https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460"
+    ]
+  ],
+  [
+    [
+      "2022-12-03, 17:12:17",
+      "https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00"
+    ],
+    [
+      "Racket meet-up Saturday 3 December at 18:00 UTC :racket",
+      "https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle"
+    ]
+  ],
+  [
+    [
       "2022-12-03, 15:42:01",
       "https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2022-12-02, 20:40:38",
-      "https://lobste.rs/s/o4mtrs/strung_ahk_utility_library_for_working"
-    ],
-    [
-      "strung.ahk: A utility library for working with strings in AutoHotkey 2",
-      "https://github.com/joshuacc/strung.ahk"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 18:54:41",
       "https://lobste.rs/s/2ej9eo/tending_my_digital_garden"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2022-12-02, 14:33:43",
-      "https://lobste.rs/s/nmezba/visual_studio_code_remote_code_execution"
-    ],
-    [
-      "Visual Studio Code: Remote Code Execution",
-      "https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m"
-    ]
-  ],
-  [
-    [
       "2022-12-02, 11:59:23",
       "https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms"
     ],
@@ -227,16 +237,6 @@
     [
       "NixOS: On Raspberry Pi 3B",
       "https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 04:19:41",
-      "https://lobste.rs/s/tousvy/tutorial_forall_haskell"
-    ],
-    [
-      "Tutorial: `forall` in Haskell",
-      "https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial"
     ]
   ],
   [
