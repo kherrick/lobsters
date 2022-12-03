@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 18:56:50](https://lobste.rs/s/x3fxdt/trusted_platform_module_key_hierarchy) - [The Trusted Platform Module Key Hierarchy](https://ericchiang.github.io/post/tpm-keys/)
+* [2022-12-03, 18:51:48](https://lobste.rs/s/r3i3le/emacsconf_2022) - [EmacsConf -  2022](https://emacsconf.org/2022/)
 * [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 * [2022-12-03, 17:12:37](https://lobste.rs/s/hrnsdh/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460)
