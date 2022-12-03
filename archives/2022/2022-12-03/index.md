@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 06:34:10](https://lobste.rs/s/suc5rs/pre_auth_rce_with_codeql_under_20_minutes) - [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 * [2022-12-03, 01:28:48](https://lobste.rs/s/ywqsku/tracing_stateless_video_hardware) - [Tracing stateless video hardware decoding in V4L2](https://www.collabora.com/news-and-blog/blog/2022/12/02/tracing-stateless-video-hardware-decoding-in-v4l2/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
