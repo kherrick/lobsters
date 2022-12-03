@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 * [2022-12-03, 01:28:48](https://lobste.rs/s/ywqsku/tracing_stateless_video_hardware) - [Tracing stateless video hardware decoding in V4L2](https://www.collabora.com/news-and-blog/blog/2022/12/02/tracing-stateless-video-hardware-decoding-in-v4l2/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
 * [2022-12-03, 01:25:56](https://lobste.rs/s/otgdkq/bean_machine_retrospective_part_1) - [Bean Machine Retrospective, part 1](https://ericlippert.com/2022/12/02/bean-machine-retrospective-part-1/)
@@ -24,7 +25,6 @@
 * [2022-12-01, 20:07:10](https://lobste.rs/s/pzscr9/ai_solves_advent_code_2022) - [AI solves Advent of Code 2022](https://note89.github.io/the-advent-of-code-ai-edition/)
 * [2022-12-01, 18:39:37](https://lobste.rs/s/s2ridw/memory_safe_languages_android_13) - [Memory Safe Languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
 * [2022-12-01, 17:35:03](https://lobste.rs/s/e0gwac/fleng_version_12_compiler_for_concurrent) - [FLENG Version 12 - A compiler for a concurrent logic programming language](http://www.call-with-current-continuation.org/fleng/fleng.html)
-* [2022-12-01, 02:25:00](https://lobste.rs/s/hcx5oi/advent_code_2022) - [Advent of Code 2022](https://adventofcode.com/2022)
 
 ## [Archives](archives/index.md)
 
