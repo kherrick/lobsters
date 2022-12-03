@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-03](index.md)
 
+* [2022-12-03, 20:27:46](https://lobste.rs/s/salvpp/origins_ascii_smiley_character_2011) - [Origins of the ASCII Smiley Character (2011)](https://www.vintagecomputing.com/index.php/archives/790/the-ibm-smiley-character-turns-30)
 * [2022-12-03, 18:56:50](https://lobste.rs/s/x3fxdt/trusted_platform_module_key_hierarchy) - [The Trusted Platform Module Key Hierarchy](https://ericchiang.github.io/post/tpm-keys/)
 * [2022-12-03, 18:51:48](https://lobste.rs/s/r3i3le/emacsconf_2022) - [EmacsConf -  2022](https://emacsconf.org/2022/)
 * [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
