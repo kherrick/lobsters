@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
 * [2022-12-03, 07:01:56](https://lobste.rs/s/lgeaun/refurbishing_hp_c1400a_keyboard_from_hp) - [Refurbishing an HP C1400A Keyboard from an HP 700/96 Terminal](https://bigdanzblog.wordpress.com/2022/12/01/refurbishing-an-hp-c1400a-keyboard-from-an-hp-700-96-terminal/)
 * [2022-12-03, 06:34:10](https://lobste.rs/s/suc5rs/pre_auth_rce_with_codeql_under_20_minutes) - [Pre-Auth RCE with CodeQL in Under 20 Minutes](https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html)
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
@@ -20,7 +21,6 @@
 * [2022-12-02, 11:59:23](https://lobste.rs/s/hcnzwt/collection_array_rotation_algorithms) - [A collection of array rotation algorithms](https://github.com/scandum/rotate)
 * [2022-12-02, 09:18:20](https://lobste.rs/s/mkchq4/help_openbsd_foundation_reach_its_2022) - [Help the OpenBSD Foundation Reach Its 2022 Funding Goal](https://undeadly.org/cgi?action=article;sid=20221202062601)
 * [2022-12-02, 08:43:26](https://lobste.rs/s/ojpq0w/nixos_on_raspberry_pi_3b) - [NixOS: On Raspberry Pi 3B](https://myme.no/posts/2022-12-01-nixos-on-raspberrypi.html)
-* [2022-12-02, 06:17:40](https://lobste.rs/s/j1vvfg/checking_if_certificate_is_revoked_how) - [Checking if a Certificate is Revoked: How Hard Can It Be?](https://www.agwa.name/blog/post/checking_if_a_certificate_is_revoked_how_hard_can_it_be)
 * [2022-12-02, 05:22:04](https://lobste.rs/s/qfaoid/algorithm_haskell) - [A* Algorithm in Haskell](https://notes.abhinavsarkar.net/2022/astar)
 * [2022-12-02, 04:19:41](https://lobste.rs/s/tousvy/tutorial_forall_haskell) - [Tutorial: `forall` in Haskell](https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial)
 * [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
