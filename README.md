@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-04, 05:34:44](https://lobste.rs/s/wcx8z7/using_comptime_invert_bijective) - [Using comptime to invert bijective functions on enums](https://zig.news/rbino/using-comptime-to-invert-bijective-functions-on-enums-3pmk)
 * [2022-12-04, 04:43:21](https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck) - [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 * [2022-12-03, 23:35:21](https://lobste.rs/s/mrdhu1/go_will_add_support_for_wrapping_multiple) - [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
@@ -24,7 +25,6 @@
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
-* [2022-12-02, 00:50:26](https://lobste.rs/s/ngmflm/is_it_worth_writing_about) - [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
 
 ## [Archives](archives/index.md)
 
