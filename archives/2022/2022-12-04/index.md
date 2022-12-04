@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-04](index.md)
 
+* [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 * [2022-12-04, 19:27:27](https://lobste.rs/s/t5oefb/samsung_s_android_app_signing_key_has) - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 * [2022-12-04, 19:24:44](https://lobste.rs/s/cy3yal/practice_oriented_provable_security) - [Practice-Oriented Provable Security and the Social Construction of Cryptography, Rogaway](https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf)
 * [2022-12-04, 18:23:45](https://lobste.rs/s/jjlkwm/leaving_canonical_again) - [Leaving Canonical, again](http://www.mardy.it/blog/2022/12/leaving-canonical-again.html)

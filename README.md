@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 * [2022-12-04, 19:27:27](https://lobste.rs/s/t5oefb/samsung_s_android_app_signing_key_has) - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 * [2022-12-04, 19:24:44](https://lobste.rs/s/cy3yal/practice_oriented_provable_security) - [Practice-Oriented Provable Security and the Social Construction of Cryptography, Rogaway](https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf)
 * [2022-12-04, 18:03:27](https://lobste.rs/s/6yijgt/theseus_zipper) - [Theseus and the Zipper](https://en.wikibooks.org/wiki/Haskell/Zippers#Theseus_and_the_Zipper)
@@ -19,7 +20,6 @@
 * [2022-12-03, 18:51:48](https://lobste.rs/s/r3i3le/emacsconf_2022) - [EmacsConf -  2022](https://emacsconf.org/2022/)
 * [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
-* [2022-12-03, 17:12:17](https://lobste.rs/s/bibghm/racket_meet_up_saturday_3_december_at_18_00) - [Racket meet-up Saturday 3 December at 18:00 UTC :racket](https://racket.discourse.group/t/racket-meet-up-saturday-3-december-at-18-00-utc/1460?u=spdegabrielle)
 * [2022-12-03, 15:42:01](https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive) - [Super Charging Fine-Grained Reactive Performance](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 * [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
