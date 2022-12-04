@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-04, 15:23:10",
+      "https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons"
+    ],
+    [
+      "The Design of Silicon Notes, with Cartoons",
+      "https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 13:32:42",
       "https://lobste.rs/s/lf0bmu/leaving_basement"
     ],
@@ -207,16 +217,6 @@
     [
       "Datasette’s new JSON write API: The first alpha of Datasette 1.0",
       "https://simonwillison.net/2022/Dec/2/datasette-write-api/"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 18:24:35",
-      "https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level"
-    ],
-    [
-      "Solving Rock-Paper-Scissors in Type-level Haskell",
-      "https://notes.abhinavsarkar.net/2022/type-level-rps"
     ]
   ],
   [
