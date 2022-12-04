@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-04, 08:55:37",
+      "https://lobste.rs/s/vhdhcp/x86_quine_12_bytes_machine_code_print"
+    ],
+    [
+      "x86 Quine: 12 Bytes of Machine Code That Print Themselves (2005)",
+      "https://susam.net/blog/x86-quine.html"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 05:34:44",
       "https://lobste.rs/s/wcx8z7/using_comptime_invert_bijective"
     ],
@@ -137,16 +147,6 @@
     [
       "Clerk Garden: a simple publishing space for Clerk notebooks",
       "https://github.clerk.garden/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 12:04:58",
-      "https://lobste.rs/s/vjrvxb/getting_started_with_pdq_deploy"
-    ],
-    [
-      "Getting Started with PDQ Deploy & Inventory",
-      "https://lazyadmin.nl/it/pdq-deploy-inventory/"
     ]
   ],
   [
