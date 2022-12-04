@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-04, 12:13:04",
+      "https://lobste.rs/s/zp8cjg/debunking_cisc_vs_risc_code_density"
+    ],
+    [
+      "Debunking CISC vs RISC code density",
+      "https://www.bitsnbites.eu/cisc-vs-risc-code-density/"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 11:23:39",
       "https://lobste.rs/s/ytucou/creating_modifiable_gzipped_disk_image"
     ],
@@ -187,16 +197,6 @@
     [
       "Datasette’s new JSON write API: The first alpha of Datasette 1.0",
       "https://simonwillison.net/2022/Dec/2/datasette-write-api/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 00:27:17",
-      "https://lobste.rs/s/dj0rfh/vimwiki_release_v2022_12_02"
-    ],
-    [
-      "VimWiki release v2022.12.02",
-      "https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02"
     ]
   ],
   [
