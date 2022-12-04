@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-04, 05:34:44",
+      "https://lobste.rs/s/wcx8z7/using_comptime_invert_bijective"
+    ],
+    [
+      "Using comptime to invert bijective functions on enums",
+      "https://zig.news/rbino/using-comptime-to-invert-bijective-functions-on-enums-3pmk"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 04:43:21",
       "https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck"
     ],
@@ -237,16 +247,6 @@
     [
       "Scaling Mastodon: The Compendium",
       "https://hazelweakly.me/blog/scaling-mastodon"
-    ]
-  ],
-  [
-    [
-      "2022-12-02, 00:50:26",
-      "https://lobste.rs/s/ngmflm/is_it_worth_writing_about"
-    ],
-    [
-      "Is it worth writing about?",
-      "https://notes.eatonphil.com/is-it-worth-writing-about.html"
     ]
   ]
 ]
