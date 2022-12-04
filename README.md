@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-04, 15:23:10](https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons) - [The Design of Silicon Notes, with Cartoons](https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
 * [2022-12-04, 12:13:04](https://lobste.rs/s/zp8cjg/debunking_cisc_vs_risc_code_density) - [Debunking CISC vs RISC code density](https://www.bitsnbites.eu/cisc-vs-risc-code-density/)
 * [2022-12-04, 11:23:39](https://lobste.rs/s/ytucou/creating_modifiable_gzipped_disk_image) - [Creating a modifiable gzipped disk image](https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/)
@@ -21,7 +22,6 @@
 * [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
-* [2022-12-02, 18:24:35](https://lobste.rs/s/frbwzf/solving_rock_paper_scissors_type_level) - [Solving Rock-Paper-Scissors in Type-level Haskell](https://notes.abhinavsarkar.net/2022/type-level-rps)
 * [2022-12-02, 15:54:22](https://lobste.rs/s/rzoe4i/looking_at_python_documentation_can_be) - [Looking at the Python documentation can be dangerous](https://twitter.com/marekgibney/status/1598706464583028736)
 * [2022-12-02, 15:44:35](https://lobste.rs/s/srggug/james_mickens_keynote_usenix_security) - [James Mickens Keynote, USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [2022-12-02, 14:44:01](https://lobste.rs/s/ziqye2/scaling_mastodon_compendium) - [Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon)
