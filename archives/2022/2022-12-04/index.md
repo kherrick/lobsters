@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-04](index.md)
 
+* [2022-12-04, 18:23:45](https://lobste.rs/s/jjlkwm/leaving_canonical_again) - [Leaving Canonical, again](http://www.mardy.it/blog/2022/12/leaving-canonical-again.html)
 * [2022-12-04, 18:03:27](https://lobste.rs/s/6yijgt/theseus_zipper) - [Theseus and the Zipper](https://en.wikibooks.org/wiki/Haskell/Zippers#Theseus_and_the_Zipper)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 15:23:10](https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons) - [The Design of Silicon Notes, with Cartoons](https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons)
