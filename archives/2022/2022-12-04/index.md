@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-04](index.md)
 
+* [2022-12-04, 22:43:59](https://lobste.rs/s/160e8z/i_want_memory_diagram_generator) - [I Want a Memory Diagram Generator](https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/)
 * [2022-12-04, 22:29:49](https://lobste.rs/s/lk7qyi/conceptual_introduction_spritely) - [A Conceptual Introduction to Spritely Goblins](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
 * [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
 * [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
