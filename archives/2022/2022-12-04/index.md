@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-04](index.md)
 
+* [2022-12-04, 22:29:49](https://lobste.rs/s/lk7qyi/conceptual_introduction_spritely) - [A Conceptual Introduction to Spritely Goblins](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
+* [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
 * [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 * [2022-12-04, 19:27:27](https://lobste.rs/s/t5oefb/samsung_s_android_app_signing_key_has) - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 * [2022-12-04, 19:24:44](https://lobste.rs/s/cy3yal/practice_oriented_provable_security) - [Practice-Oriented Provable Security and the Social Construction of Cryptography, Rogaway](https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf)
