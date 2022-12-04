@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-04, 11:23:39](https://lobste.rs/s/ytucou/creating_modifiable_gzipped_disk_image) - [Creating a modifiable gzipped disk image](https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/)
 * [2022-12-04, 08:55:37](https://lobste.rs/s/vhdhcp/x86_quine_12_bytes_machine_code_print) - [x86 Quine: 12 Bytes of Machine Code That Print Themselves (2005)](https://susam.net/blog/x86-quine.html)
 * [2022-12-04, 05:34:44](https://lobste.rs/s/wcx8z7/using_comptime_invert_bijective) - [Using comptime to invert bijective functions on enums](https://zig.news/rbino/using-comptime-to-invert-bijective-functions-on-enums-3pmk)
 * [2022-12-04, 04:43:21](https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck) - [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
@@ -16,7 +17,6 @@
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 * [2022-12-03, 13:30:25](https://lobste.rs/s/hzdypk/clerk_garden_simple_publishing_space_for) - [Clerk Garden: a simple publishing space for Clerk notebooks](https://github.clerk.garden/)
 * [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
-* [2022-12-03, 07:01:56](https://lobste.rs/s/lgeaun/refurbishing_hp_c1400a_keyboard_from_hp) - [Refurbishing an HP C1400A Keyboard from an HP 700/96 Terminal](https://bigdanzblog.wordpress.com/2022/12/01/refurbishing-an-hp-c1400a-keyboard-from-an-hp-700-96-terminal/)
 * [2022-12-03, 03:46:23](https://lobste.rs/s/63wq0q/building_ascii_particle_engine_janet) - [Building an ASCII Particle Engine in Janet](https://tilde.team/~kiedtl/blog/particles/)
 * [2022-12-03, 01:28:27](https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha) - [Datasette’s new JSON write API: The first alpha of Datasette 1.0](https://simonwillison.net/2022/Dec/2/datasette-write-api/)
 * [2022-12-03, 00:27:17](https://lobste.rs/s/dj0rfh/vimwiki_release_v2022_12_02) - [VimWiki release v2022.12.02](https://github.com/vimwiki/vimwiki/releases/tag/v2022.12.02)
