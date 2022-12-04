@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-04, 22:29:49",
+      "https://lobste.rs/s/lk7qyi/conceptual_introduction_spritely"
+    ],
+    [
+      "A Conceptual Introduction to Spritely Goblins",
+      "https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 22:27:18",
+      "https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit"
+    ],
+    [
+      "Show HN: Automatically generate commit messages using ChatGPT",
+      "https://github.com/RomanHotsiy/commitgpt"
+    ]
+  ],
+  [
+    [
       "2022-12-04, 21:50:31",
       "https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-12-03, 15:42:01",
-      "https://lobste.rs/s/ldrzfs/super_charging_fine_grained_reactive"
-    ],
-    [
-      "Super Charging Fine-Grained Reactive Performance",
-      "https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph"
-    ]
-  ],
-  [
-    [
       "2022-12-03, 15:22:03",
       "https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy"
     ],
@@ -237,16 +247,6 @@
     [
       "Building an ASCII Particle Engine in Janet",
       "https://tilde.team/~kiedtl/blog/particles/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 01:28:27",
-      "https://lobste.rs/s/xm6iqa/datasette_s_new_json_write_api_first_alpha"
-    ],
-    [
-      "Datasette’s new JSON write API: The first alpha of Datasette 1.0",
-      "https://simonwillison.net/2022/Dec/2/datasette-write-api/"
     ]
   ]
 ]
