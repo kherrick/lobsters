@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:57:59](https://lobste.rs/s/ep77dq/2_apple_1) - [The $2 Apple-1](http://obsolescenceguaranteed.blogspot.com/2022/12/the-2-apple-1.html?m=1)
 * [2022-12-05, 06:31:17](https://lobste.rs/s/f6db7j/apex_interface_definition_language_for) - [Apex: an interface definition language for generating code](https://apexlang.io/)

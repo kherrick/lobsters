@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:57:59](https://lobste.rs/s/ep77dq/2_apple_1) - [The $2 Apple-1](http://obsolescenceguaranteed.blogspot.com/2022/12/the-2-apple-1.html?m=1)
 * [2022-12-05, 06:31:17](https://lobste.rs/s/f6db7j/apex_interface_definition_language_for) - [Apex: an interface definition language for generating code](https://apexlang.io/)
@@ -12,7 +13,6 @@
 * [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
 * [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 * [2022-12-04, 19:27:27](https://lobste.rs/s/t5oefb/samsung_s_android_app_signing_key_has) - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
-* [2022-12-04, 19:24:44](https://lobste.rs/s/cy3yal/practice_oriented_provable_security) - [Practice-Oriented Provable Security and the Social Construction of Cryptography, Rogaway](https://www.cs.ucdavis.edu/~rogaway/papers/cc.pdf)
 * [2022-12-04, 18:03:27](https://lobste.rs/s/6yijgt/theseus_zipper) - [Theseus and the Zipper](https://en.wikibooks.org/wiki/Haskell/Zippers#Theseus_and_the_Zipper)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 15:23:10](https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons) - [The Design of Silicon Notes, with Cartoons](https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons)
