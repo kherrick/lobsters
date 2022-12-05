@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 20:39:33](https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available) - [FreeBSD 12.4-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html)
 * [2022-12-05, 20:06:08](https://lobste.rs/s/p2yswh/voice_loops_as_coordination_aids_space) - [Voice Loops as Coordination Aids in Space Shuttle Mission Control (1998)](https://interruptions.net/literature/Patterson-CSCW-JCC99.pdf)
 * [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)

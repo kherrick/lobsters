@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 20:39:33](https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available) - [FreeBSD 12.4-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html)
 * [2022-12-05, 20:06:08](https://lobste.rs/s/p2yswh/voice_loops_as_coordination_aids_space) - [Voice Loops as Coordination Aids in Space Shuttle Mission Control (1998)](https://interruptions.net/literature/Patterson-CSCW-JCC99.pdf)
 * [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
@@ -24,7 +25,6 @@
 * [2022-12-04, 19:27:27](https://lobste.rs/s/t5oefb/samsung_s_android_app_signing_key_has) - [Samsung’s Android app-signing key has leaked, is being used to sign malware](https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
-* [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 ## [Archives](archives/index.md)
 
