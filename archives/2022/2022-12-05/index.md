@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
 * [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 18:00:16](https://lobste.rs/s/sumius/flying_start_modern_c) - [A flying start in modern C++](https://bits-chips.nl/artikel/a-flying-start-in-modern-c/)

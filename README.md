@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
 * [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
@@ -15,7 +16,6 @@
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:31:17](https://lobste.rs/s/f6db7j/apex_interface_definition_language_for) - [Apex: an interface definition language for generating code](https://apexlang.io/)
-* [2022-12-05, 05:22:58](https://lobste.rs/s/0gi7bi/upg_create_edit_programs_with_natural) - [UPG - Create and edit programs with natural language](https://gptlabs.us/upg)
 * [2022-12-05, 04:31:32](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design) - [Right and wrong: ten choices in language design](https://arxiv.org/pdf/2211.16597.pdf)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-04, 22:29:49](https://lobste.rs/s/lk7qyi/conceptual_introduction_spritely) - [A Conceptual Introduction to Spritely Goblins](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
