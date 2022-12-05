@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-05, 15:01:16",
+      "https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s"
+    ],
+    [
+      "Using Polars on results from DuckDB's Arrow interface in Rust",
+      "https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 14:59:47",
+      "https://lobste.rs/s/zn2mfi/llq_wait_free_spsc_linked_list_queue_with"
+    ],
+    [
+      "llq: a wait-free SPSC linked-list queue with recyclable nodes",
+      "https://glowcoil.com/posts/llq/"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 14:44:29",
       "https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-04, 12:13:04",
-      "https://lobste.rs/s/zp8cjg/debunking_cisc_vs_risc_code_density"
-    ],
-    [
-      "Debunking CISC vs RISC code density",
-      "https://www.bitsnbites.eu/cisc-vs-risc-code-density/"
-    ]
-  ],
-  [
-    [
       "2022-12-04, 04:43:21",
       "https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck"
     ],
@@ -237,16 +247,6 @@
     [
       "Building A Virtual Machine inside ChatGPT",
       "https://www.engraved.blog/building-a-virtual-machine-inside/"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 17:13:00",
-      "https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money"
-    ],
-    [
-      "Twenty five thousand dollars of funny money",
-      "http://rachelbythebay.com/w/2022/12/02/25k/"
     ]
   ]
 ]
