@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-05, 14:44:29",
+      "https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with"
+    ],
+    [
+      "Augmenting Existing Struct APIs with Rust Traits",
+      "http://rtpg.co/2022/12/05/rust-trait-object-apis.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 14:42:38",
+      "https://lobste.rs/s/nrtdol/you_might_not_need_crdt"
+    ],
+    [
+      "You might not need a CRDT",
+      "https://driftingin.space/posts/you-might-not-need-a-crdt"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 12:31:22",
       "https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern"
     ],
@@ -47,16 +67,6 @@
     [
       "The Wavefunction Collapse Algorithm explained very clearly",
       "https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 06:57:59",
-      "https://lobste.rs/s/ep77dq/2_apple_1"
-    ],
-    [
-      "The $2 Apple-1",
-      "http://obsolescenceguaranteed.blogspot.com/2022/12/the-2-apple-1.html?m=1"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Debunking CISC vs RISC code density",
       "https://www.bitsnbites.eu/cisc-vs-risc-code-density/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 08:55:37",
-      "https://lobste.rs/s/vhdhcp/x86_quine_12_bytes_machine_code_print"
-    ],
-    [
-      "x86 Quine: 12 Bytes of Machine Code That Print Themselves (2005)",
-      "https://susam.net/blog/x86-quine.html"
     ]
   ],
   [
