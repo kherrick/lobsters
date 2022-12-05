@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-05, 20:39:33",
+      "https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available"
+    ],
+    [
+      "FreeBSD 12.4-RELEASE Now Available",
+      "https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 20:06:08",
       "https://lobste.rs/s/p2yswh/voice_loops_as_coordination_aids_space"
     ],
@@ -237,16 +247,6 @@
     [
       "Leaving the Basement",
       "https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 04:18:54",
-      "https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt"
-    ],
-    [
-      "Building A Virtual Machine inside ChatGPT",
-      "https://www.engraved.blog/building-a-virtual-machine-inside/"
     ]
   ]
 ]
