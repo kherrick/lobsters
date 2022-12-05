@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-05, 15:25:26",
+      "https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file"
+    ],
+    [
+      "QOIR: A fast, simple, lossless image file format",
+      "https://nigeltao.github.io/blog/2022/qoir.html"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 15:01:16",
       "https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s"
     ],
@@ -187,16 +197,6 @@
     [
       "Samsung’s Android app-signing key has leaked, is being used to sign malware",
       "https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 18:03:27",
-      "https://lobste.rs/s/6yijgt/theseus_zipper"
-    ],
-    [
-      "Theseus and the Zipper",
-      "https://en.wikibooks.org/wiki/Haskell/Zippers#Theseus_and_the_Zipper"
     ]
   ],
   [
