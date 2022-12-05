@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
@@ -20,7 +21,6 @@
 * [2022-12-04, 15:23:10](https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons) - [The Design of Silicon Notes, with Cartoons](https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
 * [2022-12-04, 12:13:04](https://lobste.rs/s/zp8cjg/debunking_cisc_vs_risc_code_density) - [Debunking CISC vs RISC code density](https://www.bitsnbites.eu/cisc-vs-risc-code-density/)
-* [2022-12-04, 11:23:39](https://lobste.rs/s/ytucou/creating_modifiable_gzipped_disk_image) - [Creating a modifiable gzipped disk image](https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/)
 * [2022-12-04, 08:55:37](https://lobste.rs/s/vhdhcp/x86_quine_12_bytes_machine_code_print) - [x86 Quine: 12 Bytes of Machine Code That Print Themselves (2005)](https://susam.net/blog/x86-quine.html)
 * [2022-12-04, 04:43:21](https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck) - [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)

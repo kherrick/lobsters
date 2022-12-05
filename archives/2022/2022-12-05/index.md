@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
