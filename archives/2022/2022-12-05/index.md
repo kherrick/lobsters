@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-12-05](index.md)
+
+* [2022-12-05, 00:21:43](https://lobste.rs/s/ul7yjo/doomed_fail_horror_story) - [DOOMed to Fail: A Horror Story](https://corecursive.com/doomed-to-fail-with-burger-becky/)

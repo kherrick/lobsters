@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 00:21:43](https://lobste.rs/s/ul7yjo/doomed_fail_horror_story) - [DOOMed to Fail: A Horror Story](https://corecursive.com/doomed-to-fail-with-burger-becky/)
 * [2022-12-04, 22:43:59](https://lobste.rs/s/160e8z/i_want_memory_diagram_generator) - [I Want a Memory Diagram Generator](https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/)
 * [2022-12-04, 22:29:49](https://lobste.rs/s/lk7qyi/conceptual_introduction_spritely) - [A Conceptual Introduction to Spritely Goblins](https://garbados.github.io/my-blog/conceptual-intro-to-spritely-goblins.html)
 * [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
@@ -24,7 +25,6 @@
 * [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
-* [2022-12-03, 08:01:53](https://lobste.rs/s/ufwfbw/magic_cap_from_magic_link_datarover_stuff) - [Magic Cap, from the Magic Link to the DataRover and the stuff in-between](https://oldvcr.blogspot.com/2022/12/magic-cap-from-magic-link-to-datarover.html)
 
 ## [Archives](archives/index.md)
 
