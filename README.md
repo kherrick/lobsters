@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
@@ -23,7 +24,6 @@
 * [2022-12-04, 08:55:37](https://lobste.rs/s/vhdhcp/x86_quine_12_bytes_machine_code_print) - [x86 Quine: 12 Bytes of Machine Code That Print Themselves (2005)](https://susam.net/blog/x86-quine.html)
 * [2022-12-04, 04:43:21](https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck) - [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-* [2022-12-03, 23:35:21](https://lobste.rs/s/mrdhu1/go_will_add_support_for_wrapping_multiple) - [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 
 ## [Archives](archives/index.md)
