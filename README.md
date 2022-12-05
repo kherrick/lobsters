@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 15:01:16](https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s) - [Using Polars on results from DuckDB's Arrow interface in Rust](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
+* [2022-12-05, 14:59:47](https://lobste.rs/s/zn2mfi/llq_wait_free_spsc_linked_list_queue_with) - [llq: a wait-free SPSC linked-list queue with recyclable nodes](https://glowcoil.com/posts/llq/)
 * [2022-12-05, 14:44:29](https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with) - [Augmenting Existing Struct APIs with Rust Traits](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
@@ -21,10 +23,8 @@
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 15:23:10](https://lobste.rs/s/fzyxd9/design_silicon_notes_with_cartoons) - [The Design of Silicon Notes, with Cartoons](https://blog.bityard.net/articles/2022/December/the-design-of-silicon-notes-with-cartoons)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
-* [2022-12-04, 12:13:04](https://lobste.rs/s/zp8cjg/debunking_cisc_vs_risc_code_density) - [Debunking CISC vs RISC code density](https://www.bitsnbites.eu/cisc-vs-risc-code-density/)
 * [2022-12-04, 04:43:21](https://lobste.rs/s/zvr3es/buck2_build_system_successor_buck) - [buck2: Build system, successor to Buck](https://github.com/facebookincubator/buck2)
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-* [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 
 ## [Archives](archives/index.md)
 

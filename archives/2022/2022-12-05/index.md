@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 15:01:16](https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s) - [Using Polars on results from DuckDB's Arrow interface in Rust](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
+* [2022-12-05, 14:59:47](https://lobste.rs/s/zn2mfi/llq_wait_free_spsc_linked_list_queue_with) - [llq: a wait-free SPSC linked-list queue with recyclable nodes](https://glowcoil.com/posts/llq/)
 * [2022-12-05, 14:44:29](https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with) - [Augmenting Existing Struct APIs with Rust Traits](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
