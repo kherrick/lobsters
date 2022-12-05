@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 14:44:29](https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with) - [Augmenting Existing Struct APIs with Rust Traits](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
+* [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
