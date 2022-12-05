@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 16:09:55](https://lobste.rs/s/v1ifs3/6_ways_you_can_contribute_open_knowledge) - [6 ways you can contribute to open knowledge right now](https://garrit.xyz/posts/2022-12-05-contributing-to-open-source-knowledge)
 * [2022-12-05, 15:25:26](https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file) - [QOIR: A fast, simple, lossless image file format](https://nigeltao.github.io/blog/2022/qoir.html)
 * [2022-12-05, 15:01:16](https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s) - [Using Polars on results from DuckDB's Arrow interface in Rust](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
 * [2022-12-05, 14:59:47](https://lobste.rs/s/zn2mfi/llq_wait_free_spsc_linked_list_queue_with) - [llq: a wait-free SPSC linked-list queue with recyclable nodes](https://glowcoil.com/posts/llq/)
@@ -11,7 +12,6 @@
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:31:17](https://lobste.rs/s/f6db7j/apex_interface_definition_language_for) - [Apex: an interface definition language for generating code](https://apexlang.io/)
-* [2022-12-05, 05:22:58](https://lobste.rs/s/0gi7bi/upg_create_edit_programs_with_natural) - [UPG - Create and edit programs with natural language](https://gptlabs.us/upg)
 * [2022-12-05, 04:31:32](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design) - [Right and wrong: ten choices in language design](https://arxiv.org/pdf/2211.16597.pdf)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-05, 00:21:43](https://lobste.rs/s/ul7yjo/doomed_fail_horror_story) - [DOOMed to Fail: A Horror Story](https://corecursive.com/doomed-to-fail-with-burger-becky/)
