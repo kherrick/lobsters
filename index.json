@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-05, 18:00:16",
-      "https://lobste.rs/s/sumius/flying_start_modern_c"
+      "2022-12-05, 18:17:40",
+      "https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural"
     ],
     [
-      "A flying start in modern C++",
-      "https://bits-chips.nl/artikel/a-flying-start-in-modern-c/"
+      "Turing Machines are Recurrent Neural Networks (1996)",
+      "http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/"
+    ]
+  ],
+  [
+    [
+      "2022-12-05, 18:17:01",
+      "https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing"
+    ],
+    [
+      "RNNs are probably not practically Turing Complete (2017)",
+      "https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "DOOMed to Fail: A Horror Story",
       "https://corecursive.com/doomed-to-fail-with-burger-becky/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 22:43:59",
-      "https://lobste.rs/s/160e8z/i_want_memory_diagram_generator"
-    ],
-    [
-      "I Want a Memory Diagram Generator",
-      "https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/"
     ]
   ],
   [
