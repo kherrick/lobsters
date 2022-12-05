@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:57:59](https://lobste.rs/s/ep77dq/2_apple_1) - [The $2 Apple-1](http://obsolescenceguaranteed.blogspot.com/2022/12/the-2-apple-1.html?m=1)
 * [2022-12-05, 06:31:17](https://lobste.rs/s/f6db7j/apex_interface_definition_language_for) - [Apex: an interface definition language for generating code](https://apexlang.io/)
 * [2022-12-05, 05:22:58](https://lobste.rs/s/0gi7bi/upg_create_edit_programs_with_natural) - [UPG - Create and edit programs with natural language](https://gptlabs.us/upg)
@@ -24,7 +25,6 @@
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 * [2022-12-03, 23:35:21](https://lobste.rs/s/mrdhu1/go_will_add_support_for_wrapping_multiple) - [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
-* [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
 
 ## [Archives](archives/index.md)
 
