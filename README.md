@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-05, 05:22:58](https://lobste.rs/s/0gi7bi/upg_create_edit_programs_with_natural) - [UPG - Create and edit programs with natural language](https://gptlabs.us/upg)
 * [2022-12-05, 04:31:32](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design) - [Right and wrong: ten choices in language design](https://arxiv.org/pdf/2211.16597.pdf)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-05, 00:21:43](https://lobste.rs/s/ul7yjo/doomed_fail_horror_story) - [DOOMed to Fail: A Horror Story](https://corecursive.com/doomed-to-fail-with-burger-becky/)
@@ -21,7 +22,6 @@
 * [2022-12-04, 04:18:54](https://lobste.rs/s/ldhk0l/building_virtual_machine_inside_chatgpt) - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 * [2022-12-03, 23:35:21](https://lobste.rs/s/mrdhu1/go_will_add_support_for_wrapping_multiple) - [Go will add support for wrapping multiple errors in 1.20](https://github.com/golang/go/issues/53435)
 * [2022-12-03, 22:00:35](https://lobste.rs/s/ny6dwz/how_8086_processor_s_microcode_engine) - [How the 8086 processor's microcode engine works](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)
-* [2022-12-03, 20:27:46](https://lobste.rs/s/salvpp/origins_ascii_smiley_character_2011) - [Origins of the ASCII Smiley Character (2011)](https://www.vintagecomputing.com/index.php/archives/790/the-ibm-smiley-character-turns-30)
 * [2022-12-03, 18:40:44](https://lobste.rs/s/cur3an/adventures_advent_code) - [Adventures in Advent of Code](https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/)
 * [2022-12-03, 17:13:00](https://lobste.rs/s/tuz3tu/twenty_five_thousand_dollars_funny_money) - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)
 * [2022-12-03, 15:22:03](https://lobste.rs/s/lu89xv/gameboy_doctor_debug_fix_your_gameboy) - [Gameboy Doctor: debug and fix your gameboy emulator](https://robertheaton.com/gameboy-doctor/)
