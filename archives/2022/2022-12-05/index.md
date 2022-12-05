@@ -7,6 +7,7 @@
 * [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
 * [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 18:00:16](https://lobste.rs/s/sumius/flying_start_modern_c) - [A flying start in modern C++](https://bits-chips.nl/artikel/a-flying-start-in-modern-c/)
+* [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
 * [2022-12-05, 16:09:55](https://lobste.rs/s/v1ifs3/6_ways_you_can_contribute_open_knowledge) - [6 ways you can contribute to open knowledge right now](https://garrit.xyz/posts/2022-12-05-contributing-to-open-source-knowledge)
 * [2022-12-05, 15:25:26](https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file) - [QOIR: A fast, simple, lossless image file format](https://nigeltao.github.io/blog/2022/qoir.html)
 * [2022-12-05, 15:01:16](https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s) - [Using Polars on results from DuckDB's Arrow interface in Rust](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
