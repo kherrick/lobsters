@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-05](index.md)
 
+* [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 06:57:59](https://lobste.rs/s/ep77dq/2_apple_1) - [The $2 Apple-1](http://obsolescenceguaranteed.blogspot.com/2022/12/the-2-apple-1.html?m=1)
