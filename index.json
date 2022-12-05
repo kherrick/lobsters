@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-05, 06:31:17",
+      "https://lobste.rs/s/f6db7j/apex_interface_definition_language_for"
+    ],
+    [
+      "Apex: an interface definition language for generating code",
+      "https://apexlang.io/"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 05:22:58",
       "https://lobste.rs/s/0gi7bi/upg_create_edit_programs_with_natural"
     ],
@@ -207,16 +217,6 @@
     [
       "Go will add support for wrapping multiple errors in 1.20",
       "https://github.com/golang/go/issues/53435"
-    ]
-  ],
-  [
-    [
-      "2022-12-03, 22:00:35",
-      "https://lobste.rs/s/ny6dwz/how_8086_processor_s_microcode_engine"
-    ],
-    [
-      "How the 8086 processor's microcode engine works",
-      "https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html"
     ]
   ],
   [
