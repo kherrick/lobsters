@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2022-12-05, 17:55:13",
+      "https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned"
+    ],
+    [
+      "AI-generated answers temporarily banned on Stack Overflow",
+      "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers"
+    ]
+  ],
+  [
+    [
       "2022-12-05, 16:09:55",
       "https://lobste.rs/s/v1ifs3/6_ways_you_can_contribute_open_knowledge"
     ],
@@ -87,16 +97,6 @@
     [
       "Using Polars on results from DuckDB's Arrow interface in Rust",
       "https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 14:59:47",
-      "https://lobste.rs/s/zn2mfi/llq_wait_free_spsc_linked_list_queue_with"
-    ],
-    [
-      "llq: a wait-free SPSC linked-list queue with recyclable nodes",
-      "https://glowcoil.com/posts/llq/"
     ]
   ],
   [
