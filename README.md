@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 * [2022-12-06, 04:53:48](https://lobste.rs/s/mz8och/fine_grained_locking_with_two_bit_mutexes) - [Fine-grained Locking with Two-Bit Mutexes](https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/)
 * [2022-12-06, 04:48:22](https://lobste.rs/s/otian2/what_s_so_hard_about_views_enumerate) - [What's so hard about views::enumerate?](https://brevzin.github.io/c++/2022/12/05/enumerate/)
 * [2022-12-06, 02:08:35](https://lobste.rs/s/qbv3lg/bauble) - [Bauble](https://bauble.studio/)
@@ -22,7 +23,6 @@
 * [2022-12-05, 04:31:32](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design) - [Right and wrong: ten choices in language design](https://arxiv.org/pdf/2211.16597.pdf)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
-* [2022-12-04, 21:50:31](https://lobste.rs/s/h5yfxa/chatgpt_generate_ruby_code_check_user) - [Chatgpt Generate Ruby Code to Check User Exists in Github](https://kracekumar.com/post/chatgpt-gh-profile-lookup/)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
 
