@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 * [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 14:06:23](https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code) - [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
@@ -18,7 +19,6 @@
 * [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
-* [2022-12-05, 15:25:26](https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file) - [QOIR: A fast, simple, lossless image file format](https://nigeltao.github.io/blog/2022/qoir.html)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)

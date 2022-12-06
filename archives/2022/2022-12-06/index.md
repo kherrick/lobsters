@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 * [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 14:06:23](https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code) - [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
