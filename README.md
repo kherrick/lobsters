@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 21:22:53](https://lobste.rs/s/m5a2fe/blockchain_is_dead_long_life_web5) - [Blockchain is dead—Long Life Web5: The EFFEKTIO white paper](https://effektio.org/2022/12/06/blockchain-is-dead-long-life-web5-the-effektio-white-paper/)
+* [2022-12-06, 21:13:56](https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming) - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 * [2022-12-06, 19:21:28](https://lobste.rs/s/i0l4th/mini_connectix_color_quickcam) - [Mini: Connectix Color QuickCam](https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam)
 * [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 * [2022-12-06, 17:07:56](https://lobste.rs/s/mnkidm/windows_root_ca_certificates) - [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
@@ -10,7 +12,6 @@
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 * [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 14:06:23](https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code) - [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
-* [2022-12-06, 13:18:56](https://lobste.rs/s/366wap/thehole_new_world_how_small_leak_will_sink) - [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
@@ -21,7 +22,6 @@
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
-* [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
