@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
+* [2022-12-06, 10:40:07](https://lobste.rs/s/zoa7tv/newcomers_gnome_wiki) - [Newcomers - GNOME Wiki](https://wiki.gnome.org/Newcomers)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 * [2022-12-06, 04:53:48](https://lobste.rs/s/mz8och/fine_grained_locking_with_two_bit_mutexes) - [Fine-grained Locking with Two-Bit Mutexes](https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/)
 * [2022-12-06, 04:48:22](https://lobste.rs/s/otian2/what_s_so_hard_about_views_enumerate) - [What's so hard about views::enumerate?](https://brevzin.github.io/c++/2022/12/05/enumerate/)
@@ -13,7 +15,6 @@
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
 * [2022-12-05, 15:25:26](https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file) - [QOIR: A fast, simple, lossless image file format](https://nigeltao.github.io/blog/2022/qoir.html)
 * [2022-12-05, 15:01:16](https://lobste.rs/s/r7jg2z/using_polars_on_results_from_duckdb_s) - [Using Polars on results from DuckDB's Arrow interface in Rust](https://vikramoberoi.com/using-polars-on-results-from-duckdbs-arrow-interface-in-rust/)
-* [2022-12-05, 14:44:29](https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with) - [Augmenting Existing Struct APIs with Rust Traits](http://rtpg.co/2022/12/05/rust-trait-object-apis.html)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
@@ -22,7 +23,6 @@
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 04:31:32](https://lobste.rs/s/6eh9oh/right_wrong_ten_choices_language_design) - [Right and wrong: ten choices in language design](https://arxiv.org/pdf/2211.16597.pdf)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
-* [2022-12-04, 22:27:18](https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit) - [Show HN: Automatically generate commit messages using ChatGPT](https://github.com/RomanHotsiy/commitgpt)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 * [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
 
