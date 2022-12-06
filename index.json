@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-12-05, 20:06:08",
-      "https://lobste.rs/s/p2yswh/voice_loops_as_coordination_aids_space"
-    ],
-    [
-      "Voice Loops as Coordination Aids in Space Shuttle Mission Control (1998)",
-      "https://interruptions.net/literature/Patterson-CSCW-JCC99.pdf"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 19:18:14",
       "https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week"
     ],
@@ -217,6 +207,16 @@
     [
       "Commodore 64 side border bitmap scroller",
       "https://www.c64demo.com/side-border-bitmap-scroller/"
+    ]
+  ],
+  [
+    [
+      "2022-12-04, 22:27:18",
+      "https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit"
+    ],
+    [
+      "Show HN: Automatically generate commit messages using ChatGPT",
+      "https://github.com/RomanHotsiy/commitgpt"
     ]
   ],
   [
