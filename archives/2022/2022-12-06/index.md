@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
+* [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 14:06:23](https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code) - [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
 * [2022-12-06, 13:18:56](https://lobste.rs/s/366wap/thehole_new_world_how_small_leak_will_sink) - [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
+* [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 14:06:23](https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code) - [KernelCI now testing Linux Rust code](https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html)
 * [2022-12-06, 13:18:56](https://lobste.rs/s/366wap/thehole_new_world_how_small_leak_will_sink) - [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
@@ -9,7 +11,6 @@
 * [2022-12-06, 10:40:07](https://lobste.rs/s/zoa7tv/newcomers_gnome_wiki) - [Newcomers - GNOME Wiki](https://wiki.gnome.org/Newcomers)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 * [2022-12-06, 04:53:48](https://lobste.rs/s/mz8och/fine_grained_locking_with_two_bit_mutexes) - [Fine-grained Locking with Two-Bit Mutexes](https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/)
-* [2022-12-06, 04:48:22](https://lobste.rs/s/otian2/what_s_so_hard_about_views_enumerate) - [What's so hard about views::enumerate?](https://brevzin.github.io/c++/2022/12/05/enumerate/)
 * [2022-12-06, 02:08:35](https://lobste.rs/s/qbv3lg/bauble) - [Bauble](https://bauble.studio/)
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
@@ -22,7 +23,6 @@
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
-* [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 
