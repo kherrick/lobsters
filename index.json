@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-06, 14:45:58",
+      "https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program"
+    ],
+    [
+      "Debugging Lisp: in CL we can resume a program from any point in the stack",
+      "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 14:40:08",
+      "https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores"
+    ],
+    [
+      "Linux Certificate Authority root stores have a too simple view of 'trust'",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 14:06:23",
       "https://lobste.rs/s/impz45/kernelci_now_testing_linux_rust_code"
     ],
@@ -87,16 +107,6 @@
     [
       "Fine-grained Locking with Two-Bit Mutexes",
       "https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 04:48:22",
-      "https://lobste.rs/s/otian2/what_s_so_hard_about_views_enumerate"
-    ],
-    [
-      "What's so hard about views::enumerate?",
-      "https://brevzin.github.io/c++/2022/12/05/enumerate/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "An update on leap seconds",
       "https://dotat.at/@/2022-12-04-leap-seconds.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 08:43:56",
-      "https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update"
-    ],
-    [
-      "Loko Scheme 2022 Q4 Update",
-      "https://weinholt.se/articles/loko-scheme-2022-q4/"
     ]
   ],
   [
