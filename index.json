@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-06, 10:47:48",
+      "https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical"
+    ],
+    [
+      "Exploring Docker Hub’s WASM technical preview",
+      "https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4"
+    ]
+  ],
+  [
+    [
+      "2022-12-06, 10:40:07",
+      "https://lobste.rs/s/zoa7tv/newcomers_gnome_wiki"
+    ],
+    [
+      "Newcomers - GNOME Wiki",
+      "https://wiki.gnome.org/Newcomers"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 08:30:09",
       "https://lobste.rs/s/ijra26/honking_from_console_like_real_honker"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-05, 14:44:29",
-      "https://lobste.rs/s/8hv93h/augmenting_existing_struct_apis_with"
-    ],
-    [
-      "Augmenting Existing Struct APIs with Rust Traits",
-      "http://rtpg.co/2022/12/05/rust-trait-object-apis.html"
-    ]
-  ],
-  [
-    [
       "2022-12-05, 14:42:38",
       "https://lobste.rs/s/nrtdol/you_might_not_need_crdt"
     ],
@@ -217,16 +227,6 @@
     [
       "Commodore 64 side border bitmap scroller",
       "https://www.c64demo.com/side-border-bitmap-scroller/"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 22:27:18",
-      "https://lobste.rs/s/mfbp23/show_hn_automatically_generate_commit"
-    ],
-    [
-      "Show HN: Automatically generate commit messages using ChatGPT",
-      "https://github.com/RomanHotsiy/commitgpt"
     ]
   ],
   [
