@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 11:21:43](https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement) - [FreeBSD 12.4-RELEASE Announcement](https://www.freebsd.org/releases/12.4R/announce/)
 * [2022-12-06, 10:53:29](https://lobste.rs/s/kamaxp/easy_wasmedge_rust_sdk_get_started_with) - [Easy WasmEdge Rust SDK to get started with Wasm runtime quickly(Wasm on Server Side)](https://github.com/apepkuss/wasmedge-rust-examples)
 * [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
@@ -24,7 +25,6 @@
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 * [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
-* [2022-12-04, 13:32:42](https://lobste.rs/s/lf0bmu/leaving_basement) - [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
 
 ## [Archives](archives/index.md)
 
