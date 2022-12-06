@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 19:21:28](https://lobste.rs/s/i0l4th/mini_connectix_color_quickcam) - [Mini: Connectix Color QuickCam](https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam)
 * [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 * [2022-12-06, 17:07:56](https://lobste.rs/s/mnkidm/windows_root_ca_certificates) - [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
 * [2022-12-06, 17:04:16](https://lobste.rs/s/cimsee/algorithmic_symphonies_from_one_line) - [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
