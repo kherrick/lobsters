@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 13:18:56](https://lobste.rs/s/366wap/thehole_new_world_how_small_leak_will_sink) - [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 11:21:43](https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement) - [FreeBSD 12.4-RELEASE Announcement](https://www.freebsd.org/releases/12.4R/announce/)
@@ -23,7 +24,6 @@
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 * [2022-12-05, 08:43:56](https://lobste.rs/s/vxliov/loko_scheme_2022_q4_update) - [Loko Scheme 2022 Q4 Update](https://weinholt.se/articles/loko-scheme-2022-q4/)
 * [2022-12-05, 08:42:32](https://lobste.rs/s/qdxxm7/wavefunction_collapse_algorithm) - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
-* [2022-12-05, 04:26:39](https://lobste.rs/s/a9hmyc/commodore_64_side_border_bitmap_scroller) - [Commodore 64 side border bitmap scroller](https://www.c64demo.com/side-border-bitmap-scroller/)
 * [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 
 ## [Archives](archives/index.md)
