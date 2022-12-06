@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 11:21:43](https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement) - [FreeBSD 12.4-RELEASE Announcement](https://www.freebsd.org/releases/12.4R/announce/)
 * [2022-12-06, 10:53:29](https://lobste.rs/s/kamaxp/easy_wasmedge_rust_sdk_get_started_with) - [Easy WasmEdge Rust SDK to get started with Wasm runtime quickly(Wasm on Server Side)](https://github.com/apepkuss/wasmedge-rust-examples)
 * [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 * [2022-12-06, 10:40:07](https://lobste.rs/s/zoa7tv/newcomers_gnome_wiki) - [Newcomers - GNOME Wiki](https://wiki.gnome.org/Newcomers)
