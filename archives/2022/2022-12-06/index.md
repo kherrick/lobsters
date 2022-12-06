@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 * [2022-12-06, 17:07:56](https://lobste.rs/s/mnkidm/windows_root_ca_certificates) - [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
 * [2022-12-06, 17:04:16](https://lobste.rs/s/cimsee/algorithmic_symphonies_from_one_line) - [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 * [2022-12-06, 16:51:37](https://lobste.rs/s/qhs84c/new_desktop_synth_prismatic_spray_offers) - [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)

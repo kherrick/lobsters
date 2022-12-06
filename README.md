@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 * [2022-12-06, 17:07:56](https://lobste.rs/s/mnkidm/windows_root_ca_certificates) - [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
 * [2022-12-06, 17:04:16](https://lobste.rs/s/cimsee/algorithmic_symphonies_from_one_line) - [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 * [2022-12-06, 16:51:37](https://lobste.rs/s/qhs84c/new_desktop_synth_prismatic_spray_offers) - [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
@@ -19,7 +20,6 @@
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 * [2022-12-05, 20:39:33](https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available) - [FreeBSD 12.4-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html)
-* [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
