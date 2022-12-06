@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 16:51:37](https://lobste.rs/s/qhs84c/new_desktop_synth_prismatic_spray_offers) - [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
 * [2022-12-06, 15:26:59](https://lobste.rs/s/qfgafv/inside_story_texas_instruments_biggest) - [The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor](https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor)
 * [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
@@ -24,7 +25,6 @@
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
-* [2022-12-04, 18:01:31](https://lobste.rs/s/so5l7i/chatgpt_passes_2022_ap_computer_science) - [ChatGPT passes the 2022 AP Computer Science A free response section](https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a)
 
 ## [Archives](archives/index.md)
 

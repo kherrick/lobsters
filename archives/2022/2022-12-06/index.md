@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 16:51:37](https://lobste.rs/s/qhs84c/new_desktop_synth_prismatic_spray_offers) - [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
 * [2022-12-06, 15:26:59](https://lobste.rs/s/qfgafv/inside_story_texas_instruments_biggest) - [The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor](https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor)
 * [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
