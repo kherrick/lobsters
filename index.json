@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-06, 12:34:10",
+      "https://lobste.rs/s/alseaj/faster_base64_curl"
+    ],
+    [
+      "Faster base64 in curl",
+      "https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 11:26:06",
       "https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux"
     ],
@@ -127,16 +137,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 18:17:40",
-      "https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural"
-    ],
-    [
-      "Turing Machines are Recurrent Neural Networks (1996)",
-      "http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/"
     ]
   ],
   [
