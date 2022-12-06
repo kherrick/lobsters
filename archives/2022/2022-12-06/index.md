@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 21:33:10](https://lobste.rs/s/8xwywx/loopr_loop_reduction_macro_for_clojure) - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
 * [2022-12-06, 21:22:53](https://lobste.rs/s/m5a2fe/blockchain_is_dead_long_life_web5) - [Blockchain is dead—Long Life Web5: The EFFEKTIO white paper](https://effektio.org/2022/12/06/blockchain-is-dead-long-life-web5-the-effektio-white-paper/)
 * [2022-12-06, 21:13:56](https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming) - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 * [2022-12-06, 19:21:28](https://lobste.rs/s/i0l4th/mini_connectix_color_quickcam) - [Mini: Connectix Color QuickCam](https://computeradsfromthepast.substack.com/p/mini-connectix-color-quickcam)
