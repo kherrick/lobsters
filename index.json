@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-06, 11:26:06",
+      "https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux"
+    ],
+    [
+      "Find anything you need with fzf, the Linux fuzzy finder tool",
+      "https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder"
+    ]
+  ],
+  [
+    [
       "2022-12-06, 11:21:43",
       "https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement"
     ],
@@ -237,16 +247,6 @@
     [
       "ChatGPT passes the 2022 AP Computer Science A free response section",
       "https://gist.github.com/Gaelan/cf5ae4a1e9d8d64cb0b732cf3a38e04a"
-    ]
-  ],
-  [
-    [
-      "2022-12-04, 13:32:42",
-      "https://lobste.rs/s/lf0bmu/leaving_basement"
-    ],
-    [
-      "Leaving the Basement",
-      "https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/"
     ]
   ]
 ]
