@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-06](index.md)
 
+* [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 11:21:43](https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement) - [FreeBSD 12.4-RELEASE Announcement](https://www.freebsd.org/releases/12.4R/announce/)
 * [2022-12-06, 10:53:29](https://lobste.rs/s/kamaxp/easy_wasmedge_rust_sdk_get_started_with) - [Easy WasmEdge Rust SDK to get started with Wasm runtime quickly(Wasm on Server Side)](https://github.com/apepkuss/wasmedge-rust-examples)

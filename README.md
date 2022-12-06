@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 11:21:43](https://lobste.rs/s/xwgvcz/freebsd_12_4_release_announcement) - [FreeBSD 12.4-RELEASE Announcement](https://www.freebsd.org/releases/12.4R/announce/)
 * [2022-12-06, 10:53:29](https://lobste.rs/s/kamaxp/easy_wasmedge_rust_sdk_get_started_with) - [Easy WasmEdge Rust SDK to get started with Wasm runtime quickly(Wasm on Server Side)](https://github.com/apepkuss/wasmedge-rust-examples)
@@ -13,7 +14,6 @@
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 * [2022-12-05, 20:39:33](https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available) - [FreeBSD 12.4-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html)
 * [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
-* [2022-12-05, 18:17:40](https://lobste.rs/s/4egxj1/turing_machines_are_recurrent_neural) - [Turing Machines are Recurrent Neural Networks (1996)](http://users.ics.aalto.fi/tho/stes/step96/hyotyniemi1/)
 * [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
 * [2022-12-05, 15:25:26](https://lobste.rs/s/fufhjm/qoir_fast_simple_lossless_image_file) - [QOIR: A fast, simple, lossless image file format](https://nigeltao.github.io/blog/2022/qoir.html)
