@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-06, 17:07:56](https://lobste.rs/s/mnkidm/windows_root_ca_certificates) - [Windows and Root CA Certificates](https://cohost.org/ecn/post/498568-windows-and-root-ca)
+* [2022-12-06, 17:04:16](https://lobste.rs/s/cimsee/algorithmic_symphonies_from_one_line) - [Algorithmic symphonies from one line of code -- how and why? [2011]](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 * [2022-12-06, 16:51:37](https://lobste.rs/s/qhs84c/new_desktop_synth_prismatic_spray_offers) - [New Desktop Synth, Prismatic Spray, Offers Knobby Control Of Bytebeat Synthesis](https://www.synthtopia.com/content/2022/12/05/new-desktop-synth-prismatic-spray-offers-knobby-control-of-bytebeat-synthesis/)
 * [2022-12-06, 15:26:59](https://lobste.rs/s/qfgafv/inside_story_texas_instruments_biggest) - [The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor](https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor)
 * [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
@@ -9,7 +11,6 @@
 * [2022-12-06, 13:18:56](https://lobste.rs/s/366wap/thehole_new_world_how_small_leak_will_sink) - [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
-* [2022-12-06, 10:53:29](https://lobste.rs/s/kamaxp/easy_wasmedge_rust_sdk_get_started_with) - [Easy WasmEdge Rust SDK to get started with Wasm runtime quickly(Wasm on Server Side)](https://github.com/apepkuss/wasmedge-rust-examples)
 * [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 * [2022-12-06, 10:40:07](https://lobste.rs/s/zoa7tv/newcomers_gnome_wiki) - [Newcomers - GNOME Wiki](https://wiki.gnome.org/Newcomers)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
@@ -19,7 +20,6 @@
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 * [2022-12-05, 20:39:33](https://lobste.rs/s/spydsj/freebsd_12_4_release_now_available) - [FreeBSD 12.4-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html)
 * [2022-12-05, 19:18:14](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xzi4wc/what_are_you_doing_this_week)
-* [2022-12-05, 18:17:01](https://lobste.rs/s/pjy19j/rnns_are_probably_not_practically_turing) - [RNNs are probably not practically Turing Complete (2017)](https://metarecursive.com/writings/RNNs_are_probably_not_practically_Turing_Complete..htm)
 * [2022-12-05, 17:55:13](https://lobste.rs/s/hphtxm/ai_generated_answers_temporarily_banned) - [AI-generated answers temporarily banned on Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
 * [2022-12-05, 14:42:38](https://lobste.rs/s/nrtdol/you_might_not_need_crdt) - [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 * [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
