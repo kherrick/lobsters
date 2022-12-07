@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 17:58:47",
+      "https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers"
+    ],
+    [
+      "Why does JSON.parse corrupt large numbers and how to solve this?",
+      "https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 14:36:43",
       "https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when"
     ],
@@ -187,16 +197,6 @@
     [
       "ChatGPT and the viability of replacing humans with circus tricks",
       "https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 15:26:59",
-      "https://lobste.rs/s/qfgafv/inside_story_texas_instruments_biggest"
-    ],
-    [
-      "The Inside Story of Texas Instruments’ Biggest Blunder: The TMS9900 Microprocessor",
-      "https://spectrum.ieee.org/the-inside-story-of-texas-instruments-biggest-blunder-the-tms9900-microprocessor"
     ]
   ],
   [
