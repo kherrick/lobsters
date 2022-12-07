@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 05:34:16](https://lobste.rs/s/35s1k5/automagically_assimilating_nixos) - [Automagically assimilating NixOS machines into your Tailnet with Terraform](https://xeiaso.net/blog/nix-flakes-terraform)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 * [2022-12-07, 00:36:36](https://lobste.rs/s/udtbc8/announcing_lottie_4_0_for_ios) - [Announcing Lottie 4.0 for iOS](https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54)
 * [2022-12-06, 21:33:10](https://lobste.rs/s/8xwywx/loopr_loop_reduction_macro_for_clojure) - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
@@ -22,7 +23,6 @@
 * [2022-12-06, 02:08:35](https://lobste.rs/s/qbv3lg/bauble) - [Bauble](https://bauble.studio/)
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
-* [2022-12-05, 12:31:22](https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern) - [Thunderbird For Android Preview: Modern Message Redesign](https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/)
 * [2022-12-05, 10:30:48](https://lobste.rs/s/vtmmmi/reinventing_how_we_use_computers) - [Reinventing How We Use Computers](https://ploum.net/2022-12-03-reinventing-how-we-use-computers.html)
 * [2022-12-05, 09:33:20](https://lobste.rs/s/qzwjfs/update_on_leap_seconds) - [An update on leap seconds](https://dotat.at/@/2022-12-04-leap-seconds.html)
 
