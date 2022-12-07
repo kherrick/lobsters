@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
+* [2022-12-07, 13:33:52](https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree) - [Navigating config files using tree-sitter](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 11:12:02](https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40) - [Reverse Engineering the OMNIVISION OS12D40 Driver](https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/)
 * [2022-12-07, 11:04:28](https://lobste.rs/s/eolo9t/create_embedded_linux_system_using) - [Create an embedded Linux system using Buildroot](https://marcocetica.com/posts/buildroot-tutorial/)
