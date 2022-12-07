@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-07, 21:04:17",
+      "https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon"
+    ],
+    [
+      "Tor Browser 12.0: Native Apple Silicon support",
+      "https://blog.torproject.org/new-release-tor-browser-120/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 21:01:30",
+      "https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more"
+    ],
+    [
+      "Apple adds end-to-end encryption to more categories",
+      "https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 19:21:38",
       "https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles"
     ],
@@ -47,16 +67,6 @@
     [
       "data-diff - Efficiently diff tables in or across SQL databases",
       "https://github.com/datafold/data-diff"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 13:33:52",
-      "https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree"
-    ],
-    [
-      "Navigating config files using tree-sitter",
-      "https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Losing the magic",
       "https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 14:45:58",
-      "https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program"
-    ],
-    [
-      "Debugging Lisp: in CL we can resume a program from any point in the stack",
-      "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/"
     ]
   ],
   [
