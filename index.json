@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2022-12-07, 11:04:28",
-      "https://lobste.rs/s/eolo9t/create_embedded_linux_system_using"
-    ],
-    [
-      "Create an embedded Linux system using Buildroot",
-      "https://marcocetica.com/posts/buildroot-tutorial/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 10:47:36",
       "https://lobste.rs/s/syfafu/how_much_did_you_get_done_today_use_org_mode"
     ],
@@ -137,6 +127,16 @@
     [
       "Structured concurrency in Java with Loom",
       "https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 08:55:22",
+      "https://lobste.rs/s/vagjrr/async_transparency_practice_2021"
+    ],
+    [
+      "async transparency in practice (2021)",
+      "https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/"
     ]
   ],
   [
