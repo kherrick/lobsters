@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 13:45:40",
+      "https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update"
+    ],
+    [
+      "Soft updates: a solution to the metadata update problem in file systems (2000)",
+      "https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 13:37:01",
       "https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across"
     ],
@@ -37,16 +47,6 @@
     [
       "Reverse Engineering the OMNIVISION OS12D40 Driver",
       "https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 11:04:28",
-      "https://lobste.rs/s/eolo9t/create_embedded_linux_system_using"
-    ],
-    [
-      "Create an embedded Linux system using Buildroot",
-      "https://marcocetica.com/posts/buildroot-tutorial/"
     ]
   ],
   [
