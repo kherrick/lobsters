@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 05:34:16",
+      "https://lobste.rs/s/35s1k5/automagically_assimilating_nixos"
+    ],
+    [
+      "Automagically assimilating NixOS machines into your Tailnet with Terraform",
+      "https://xeiaso.net/blog/nix-flakes-terraform"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 04:30:11",
       "https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights"
     ],
@@ -217,16 +227,6 @@
     [
       "Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers",
       "https://invisv.com/articles/zerotrust.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 12:31:22",
-      "https://lobste.rs/s/xj6jn4/thunderbird_for_android_preview_modern"
-    ],
-    [
-      "Thunderbird For Android Preview: Modern Message Redesign",
-      "https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/"
     ]
   ],
   [
