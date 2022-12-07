@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 04:30:11",
+      "https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights"
+    ],
+    [
+      "Helix Release 22.12 Highlights",
+      "https://helix-editor.com/news/release-22-12-highlights/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 00:36:36",
       "https://lobste.rs/s/udtbc8/announcing_lottie_4_0_for_ios"
     ],
@@ -177,16 +187,6 @@
     [
       "honking from the console like a real honker",
       "https://x61.sh/log/2022/12/20221205T205745-honk-cli.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 04:53:48",
-      "https://lobste.rs/s/mz8och/fine_grained_locking_with_two_bit_mutexes"
-    ],
-    [
-      "Fine-grained Locking with Two-Bit Mutexes",
-      "https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/"
     ]
   ],
   [
