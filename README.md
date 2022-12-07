@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 23:50:25](https://lobste.rs/s/thdhn6/congestion_control_arrives_tor_0_4_7) - [Congestion Control Arrives in Tor 0.4.7-stable](https://blog.torproject.org/congestion-contrl-047/)
 * [2022-12-07, 22:06:50](https://lobste.rs/s/ovn2b1/go_1_20_release_candidate_1_is_released) - [Go 1.20 Release Candidate 1 is released](https://groups.google.com/g/golang-announce/c/iqUo0Spdl9I/m/r6EJ6wR5BQAJ)
 * [2022-12-07, 21:04:17](https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon) - [Tor Browser 12.0: Native Apple Silicon support](https://blog.torproject.org/new-release-tor-browser-120/)
 * [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more) - [Apple adds end-to-end encryption to more categories](https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/)
@@ -14,7 +15,6 @@
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
 * [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
-* [2022-12-07, 08:55:22](https://lobste.rs/s/vagjrr/async_transparency_practice_2021) - [async transparency in practice (2021)](https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/)
 * [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 * [2022-12-07, 07:31:50](https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom) - [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
 * [2022-12-07, 06:28:57](https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux) - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)

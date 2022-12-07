@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 23:50:25](https://lobste.rs/s/thdhn6/congestion_control_arrives_tor_0_4_7) - [Congestion Control Arrives in Tor 0.4.7-stable](https://blog.torproject.org/congestion-contrl-047/)
 * [2022-12-07, 22:06:50](https://lobste.rs/s/ovn2b1/go_1_20_release_candidate_1_is_released) - [Go 1.20 Release Candidate 1 is released](https://groups.google.com/g/golang-announce/c/iqUo0Spdl9I/m/r6EJ6wR5BQAJ)
 * [2022-12-07, 21:04:17](https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon) - [Tor Browser 12.0: Native Apple Silicon support](https://blog.torproject.org/new-release-tor-browser-120/)
 * [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more) - [Apple adds end-to-end encryption to more categories](https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/)
