@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-07, 13:37:01",
+      "https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across"
+    ],
+    [
+      "data-diff - Efficiently diff tables in or across SQL databases",
+      "https://github.com/datafold/data-diff"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 13:33:52",
+      "https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree"
+    ],
+    [
+      "Navigating config files using tree-sitter",
+      "https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 13:28:29",
       "https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations"
     ],
@@ -67,16 +87,6 @@
     [
       "Structured concurrency in Java with Loom",
       "https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 08:55:22",
-      "https://lobste.rs/s/vagjrr/async_transparency_practice_2021"
-    ],
-    [
-      "async transparency in practice (2021)",
-      "https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "ChatGPT and the viability of replacing humans with circus tricks",
       "https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 17:07:56",
-      "https://lobste.rs/s/mnkidm/windows_root_ca_certificates"
-    ],
-    [
-      "Windows and Root CA Certificates",
-      "https://cohost.org/ecn/post/498568-windows-and-root-ca"
     ]
   ],
   [
