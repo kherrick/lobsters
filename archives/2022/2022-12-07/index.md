@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 13:45:40](https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update) - [Soft updates: a solution to the metadata update problem in file systems (2000)](https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:33:52](https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree) - [Navigating config files using tree-sitter](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)

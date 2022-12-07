@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 13:45:40](https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update) - [Soft updates: a solution to the metadata update problem in file systems (2000)](https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:33:52](https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree) - [Navigating config files using tree-sitter](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 11:12:02](https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40) - [Reverse Engineering the OMNIVISION OS12D40 Driver](https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/)
-* [2022-12-07, 11:04:28](https://lobste.rs/s/eolo9t/create_embedded_linux_system_using) - [Create an embedded Linux system using Buildroot](https://marcocetica.com/posts/buildroot-tutorial/)
 * [2022-12-07, 10:47:36](https://lobste.rs/s/syfafu/how_much_did_you_get_done_today_use_org_mode) - [How much did you get done today? Use Org mode to find out](https://200ok.ch/posts/2022-12-06_how_much_did_you_get_done_today.html)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
