@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 14:36:43](https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when) - [Making an Orbic Speed RC400L autoboot when USB power is attached](https://mjg59.dreamwidth.org/62419.html)
 * [2022-12-07, 13:45:40](https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update) - [Soft updates: a solution to the metadata update problem in file systems (2000)](https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:33:52](https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree) - [Navigating config files using tree-sitter](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
@@ -23,7 +24,6 @@
 * [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 * [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
-* [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 
 ## [Archives](archives/index.md)
