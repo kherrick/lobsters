@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 10:47:36](https://lobste.rs/s/syfafu/how_much_did_you_get_done_today_use_org_mode) - [How much did you get done today? Use Org mode to find out](https://200ok.ch/posts/2022-12-06_how_much_did_you_get_done_today.html)
+* [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
 * [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
 * [2022-12-07, 08:55:22](https://lobste.rs/s/vagjrr/async_transparency_practice_2021) - [async transparency in practice (2021)](https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/)
@@ -23,8 +25,6 @@
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
-* [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
-* [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
 
 ## [Archives](archives/index.md)
 
