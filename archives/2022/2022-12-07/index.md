@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
 * [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
 * [2022-12-07, 08:55:22](https://lobste.rs/s/vagjrr/async_transparency_practice_2021) - [async transparency in practice (2021)](https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/)
 * [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)

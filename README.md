@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
 * [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
 * [2022-12-07, 08:55:22](https://lobste.rs/s/vagjrr/async_transparency_practice_2021) - [async transparency in practice (2021)](https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/)
 * [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
@@ -21,7 +22,6 @@
 * [2022-12-06, 14:40:08](https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores) - [Linux Certificate Authority root stores have a too simple view of 'trust'](https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
-* [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
