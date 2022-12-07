@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-07, 19:21:38",
+      "https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles"
+    ],
+    [
+      "Hanukkah of Data: 8 data puzzles",
+      "https://hanukkah.bluebird.sh/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 17:58:47",
       "https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers"
     ],
@@ -217,16 +227,6 @@
     [
       "Debugging Lisp: in CL we can resume a program from any point in the stack",
       "https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 14:40:08",
-      "https://lobste.rs/s/yf6bbc/linux_certificate_authority_root_stores"
-    ],
-    [
-      "Linux Certificate Authority root stores have a too simple view of 'trust'",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem"
     ]
   ],
   [
