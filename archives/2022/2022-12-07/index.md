@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 17:58:47](https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers) - [Why does JSON.parse corrupt large numbers and how to solve this?](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 * [2022-12-07, 14:36:43](https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when) - [Making an Orbic Speed RC400L autoboot when USB power is attached](https://mjg59.dreamwidth.org/62419.html)
 * [2022-12-07, 13:45:40](https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update) - [Soft updates: a solution to the metadata update problem in file systems (2000)](https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
