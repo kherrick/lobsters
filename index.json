@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-07, 08:43:43",
+      "https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger"
+    ],
+    [
+      "SimpleX Chat: private and secure messenger without any user IDs (not even random)",
+      "https://simplex.chat/"
+    ]
+  ],
+  [
+    [
+      "2022-12-07, 08:43:37",
+      "https://lobste.rs/s/odqzey/docker_desktop_new_release_run_wasm"
+    ],
+    [
+      "Docker Desktop New Release: Run WASM Applications Alongside Linux Containers in Docker",
+      "https://lobste.rs/s/odqzey/docker_desktop_new_release_run_wasm"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 07:31:50",
       "https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2022-12-06, 02:08:35",
-      "https://lobste.rs/s/qbv3lg/bauble"
-    ],
-    [
-      "Bauble",
-      "https://bauble.studio/"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 01:48:33",
       "https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers",
       "https://invisv.com/articles/zerotrust.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-05, 09:33:20",
-      "https://lobste.rs/s/qzwjfs/update_on_leap_seconds"
-    ],
-    [
-      "An update on leap seconds",
-      "https://dotat.at/@/2022-12-04-leap-seconds.html"
     ]
   ]
 ]
