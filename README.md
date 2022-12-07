@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 21:04:17](https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon) - [Tor Browser 12.0: Native Apple Silicon support](https://blog.torproject.org/new-release-tor-browser-120/)
+* [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more) - [Apple adds end-to-end encryption to more categories](https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 17:58:47](https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers) - [Why does JSON.parse corrupt large numbers and how to solve this?](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 * [2022-12-07, 14:36:43](https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when) - [Making an Orbic Speed RC400L autoboot when USB power is attached](https://mjg59.dreamwidth.org/62419.html)
 * [2022-12-07, 13:45:40](https://lobste.rs/s/hbuvr2/soft_updates_solution_metadata_update) - [Soft updates: a solution to the metadata update problem in file systems (2000)](https://scholar.archive.org/work/fmkipy32yvdmncsizasjvjm5fu)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
-* [2022-12-07, 13:33:52](https://lobste.rs/s/wjmrpa/navigating_config_files_using_tree) - [Navigating config files using tree-sitter](https://blog.meain.io/2022/navigating-config-files-using-tree-sitter/)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 11:12:02](https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40) - [Reverse Engineering the OMNIVISION OS12D40 Driver](https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/)
 * [2022-12-07, 11:04:28](https://lobste.rs/s/eolo9t/create_embedded_linux_system_using) - [Create an embedded Linux system using Buildroot](https://marcocetica.com/posts/buildroot-tutorial/)
@@ -22,7 +23,6 @@
 * [2022-12-06, 21:13:56](https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming) - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 * [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 * [2022-12-06, 14:49:15](https://lobste.rs/s/mwnslf/losing_magic) - [Losing the magic](https://lwn.net/SubscriberLink/915163/ba83480903b82cb8/)
-* [2022-12-06, 14:45:58](https://lobste.rs/s/auu3eo/debugging_lisp_cl_we_can_resume_program) - [Debugging Lisp: in CL we can resume a program from any point in the stack](https://lisp-journey.gitlab.io/blog/debugging-lisp-fix-and-resume-a-program-from-any-point-in-stack/)
 * [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
 

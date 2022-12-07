@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 21:04:17](https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon) - [Tor Browser 12.0: Native Apple Silicon support](https://blog.torproject.org/new-release-tor-browser-120/)
+* [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more) - [Apple adds end-to-end encryption to more categories](https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 17:58:47](https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers) - [Why does JSON.parse corrupt large numbers and how to solve this?](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 * [2022-12-07, 14:36:43](https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when) - [Making an Orbic Speed RC400L autoboot when USB power is attached](https://mjg59.dreamwidth.org/62419.html)
