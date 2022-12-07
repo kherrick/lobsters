@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-07](index.md)
 
+* [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
+* [2022-12-07, 08:55:22](https://lobste.rs/s/vagjrr/async_transparency_practice_2021) - [async transparency in practice (2021)](https://hyperscript.org/posts/2021-04-06-aysnc-transparency-in-practice/)
 * [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 * [2022-12-07, 08:43:37](https://lobste.rs/s/odqzey/docker_desktop_new_release_run_wasm) - [Docker Desktop New Release: Run WASM Applications Alongside Linux Containers in Docker](https://lobste.rs/s/odqzey/docker_desktop_new_release_run_wasm)
 * [2022-12-07, 07:31:50](https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom) - [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
