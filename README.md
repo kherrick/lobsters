@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 * [2022-12-07, 00:36:36](https://lobste.rs/s/udtbc8/announcing_lottie_4_0_for_ios) - [Announcing Lottie 4.0 for iOS](https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54)
 * [2022-12-06, 21:33:10](https://lobste.rs/s/8xwywx/loopr_loop_reduction_macro_for_clojure) - [Loopr: A Loop/Reduction Macro for Clojure](https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure)
 * [2022-12-06, 21:13:56](https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming) - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
@@ -18,7 +19,6 @@
 * [2022-12-06, 11:26:06](https://lobste.rs/s/x9mztx/find_anything_you_need_with_fzf_linux) - [Find anything you need with fzf, the Linux fuzzy finder tool](https://www.redhat.com/sysadmin/fzf-linux-fuzzy-finder)
 * [2022-12-06, 10:47:48](https://lobste.rs/s/6rbszn/exploring_docker_hub_s_wasm_technical) - [Exploring Docker Hub’s WASM technical preview](https://medium.com/@shyamsundarb/exploring-docker-hubs-wasm-technical-preview-76de28c3b1b4)
 * [2022-12-06, 08:30:09](https://lobste.rs/s/ijra26/honking_from_console_like_real_honker) - [honking from the console like a real honker](https://x61.sh/log/2022/12/20221205T205745-honk-cli.html)
-* [2022-12-06, 04:53:48](https://lobste.rs/s/mz8och/fine_grained_locking_with_two_bit_mutexes) - [Fine-grained Locking with Two-Bit Mutexes](https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/)
 * [2022-12-06, 02:08:35](https://lobste.rs/s/qbv3lg/bauble) - [Bauble](https://bauble.studio/)
 * [2022-12-06, 01:48:33](https://lobste.rs/s/ttnjme/silver_bullet_markdown_based_extensible) - [Silver Bullet - markdown-based extensible open source personal knowledge platform](https://silverbullet.md/)
 * [2022-12-05, 21:38:45](https://lobste.rs/s/hx6lg0/why_zero_trust_is_misnomer_fallacy) - [Why Zero Trust is a Misnomer: the Fallacy of Absolute Trust in Zero Trust Providers](https://invisv.com/articles/zerotrust.html)
