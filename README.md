@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 * [2022-12-08, 10:01:29](https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond) - [Querying Parquet with Millisecond Latency](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees) - [Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 * [2022-12-08, 08:04:17](https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c) - [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
@@ -17,7 +18,6 @@
 * [2022-12-07, 10:47:36](https://lobste.rs/s/syfafu/how_much_did_you_get_done_today_use_org_mode) - [How much did you get done today? Use Org mode to find out](https://200ok.ch/posts/2022-12-06_how_much_did_you_get_done_today.html)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
-* [2022-12-07, 09:03:31](https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom) - [Structured concurrency in Java with Loom](https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/)
 * [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 * [2022-12-07, 07:31:50](https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom) - [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
 * [2022-12-07, 06:28:57](https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux) - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
