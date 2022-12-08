@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
 * [2022-12-08, 15:33:38](https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text) - [egui 0.20.0 - AccessKit, prettier text, overlapping widgets](https://github.com/emilk/egui/releases/tag/0.20.0)
@@ -24,7 +25,6 @@
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 06:28:57](https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux) - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
-* [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
 
 ## [Archives](archives/index.md)
 

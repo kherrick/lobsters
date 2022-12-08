@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
 * [2022-12-08, 15:33:38](https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text) - [egui 0.20.0 - AccessKit, prettier text, overlapping widgets](https://github.com/emilk/egui/releases/tag/0.20.0)
