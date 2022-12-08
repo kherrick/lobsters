@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 08:04:17](https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c) - [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
 * [2022-12-08, 04:18:18](https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data) - [Composefs for integrity protection and data sharing](https://lwn.net/SubscriberLink/917097/88e6e29487df7947/)
 * [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
@@ -9,7 +10,6 @@
 * [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_more) - [Apple adds end-to-end encryption to more categories](https://arstechnica.com/gadgets/2022/12/apple-adds-end-to-end-encryption-to-icloud-device-backups-and-more/)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 17:58:47](https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers) - [Why does JSON.parse corrupt large numbers and how to solve this?](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
-* [2022-12-07, 14:36:43](https://lobste.rs/s/bziywc/making_orbic_speed_rc400l_autoboot_when) - [Making an Orbic Speed RC400L autoboot when USB power is attached](https://mjg59.dreamwidth.org/62419.html)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 11:12:02](https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40) - [Reverse Engineering the OMNIVISION OS12D40 Driver](https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/)
