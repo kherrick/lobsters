@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 * [2022-12-08, 20:33:31](https://lobste.rs/s/e3wtqq/dev_environments_cloud_are_half_baked) - [Dev environments in the cloud are a half-baked solution](https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution)
 * [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
 * [2022-12-08, 20:05:22](https://lobste.rs/s/jrgroa/specialising_dynamic_techniques_for) - [Specialising Dynamic Techniques for Implementing the Ruby Programming Language (2015)](https://chrisseaton.com/phd/specialising-ruby.pdf)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
-* [2022-12-08, 18:20:36](https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu) - [Solving Advent of Code with the Lamdu projectional editor](https://www.youtube.com/@yairchu/streams)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
 * [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then) - [Raspberry Pi brags about hiring a spy, then doubles down, insults and blocks surprised replies](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
