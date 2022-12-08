@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-08, 15:33:38",
+      "https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text"
+    ],
+    [
+      "egui 0.20.0 - AccessKit, prettier text, overlapping widgets",
+      "https://github.com/emilk/egui/releases/tag/0.20.0"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 15:29:10",
+      "https://lobste.rs/s/iybtnq/fuzzing_ping_8"
+    ],
+    [
+      "Fuzzing ping(8)",
+      "https://tlakh.xyz/fuzzing-ping.html"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 15:14:47",
       "https://lobste.rs/s/myyznl/tooling_for_tooling"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-12-07, 21:04:17",
-      "https://lobste.rs/s/82r2h5/tor_browser_12_0_native_apple_silicon"
-    ],
-    [
-      "Tor Browser 12.0: Native Apple Silicon support",
-      "https://blog.torproject.org/new-release-tor-browser-120/"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 21:01:30",
       "https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_icloud"
     ],
@@ -207,16 +217,6 @@
     [
       "How can I boot NixOS? Let me count the ways",
       "https://linus.schreibt.jetzt/posts/booting-nixos.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 07:31:50",
-      "https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom"
-    ],
-    [
-      "A Christmas tree bauble that plays Doom",
-      "https://spritesmods.com/?art=doom-bauble&page=1"
     ]
   ],
   [
