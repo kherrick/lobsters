@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 22:28:49",
+      "https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more"
+    ],
+    [
+      "Bumblebee: GPT2, Stable Diffusion, and More in Elixir",
+      "https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 21:01:47",
       "https://lobste.rs/s/g55iso/goodbye_c_implementation_zig"
     ],
@@ -97,16 +107,6 @@
     [
       "Try Tauri",
       "https://philidor.dev/blog/tauri-solidjs-macos/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 16:24:09",
-      "https://lobste.rs/s/cth0dv/design_distributed_cloud_native"
-    ],
-    [
-      "Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database",
-      "https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design"
     ]
   ],
   [
