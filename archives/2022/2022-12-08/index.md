@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 12:39:26](https://lobste.rs/s/d16dqw/pulling_mikrotik_into_limelight) - [Pulling MikroTik into the Limelight](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
+* [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 * [2022-12-08, 10:01:29](https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond) - [Querying Parquet with Millisecond Latency](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees) - [Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)](https://www.youtube.com/watch?v=zg6YRqT4Duo)
