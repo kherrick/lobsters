@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 23:19:26](https://lobste.rs/s/kyfuhp/how_structure_clojure_app_101) - [How to Structure a Clojure App 101](https://mccue.dev/pages/12-7-22-clojure-web-primer)
 * [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
@@ -22,7 +23,6 @@
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/twintrees_baxter_permutations) - [Twintrees, Baxter Permutations, and Floorplans](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
 * [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
-* [2022-12-07, 22:06:50](https://lobste.rs/s/ovn2b1/go_1_20_release_candidate_1_is_released) - [Go 1.20 Release Candidate 1 is released](https://groups.google.com/g/golang-announce/c/iqUo0Spdl9I/m/r6EJ6wR5BQAJ)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
