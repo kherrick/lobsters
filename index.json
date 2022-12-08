@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 16:24:09",
+      "https://lobste.rs/s/cth0dv/design_distributed_cloud_native"
+    ],
+    [
+      "Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database",
+      "https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 15:33:38",
       "https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text"
     ],
@@ -117,16 +127,6 @@
     [
       "Twintrees, Baxter Permutations, and Floorplans",
       "https://www.youtube.com/watch?v=zg6YRqT4Duo"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 08:04:17",
-      "https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c"
-    ],
-    [
-      "whisper.cpp: Port of OpenAI's Whisper model in C/C++",
-      "https://github.com/ggerganov/whisper.cpp"
     ]
   ],
   [
