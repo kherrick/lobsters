@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 08:35:27",
+      "https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees"
+    ],
+    [
+      "Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)",
+      "https://www.youtube.com/watch?v=zg6YRqT4Duo"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 08:04:17",
       "https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c"
     ],
@@ -237,16 +247,6 @@
     [
       "ChatGPT and the viability of replacing humans with circus tricks",
       "https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 12:34:10",
-      "https://lobste.rs/s/alseaj/faster_base64_curl"
-    ],
-    [
-      "Faster base64 in curl",
-      "https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/"
     ]
   ]
 ]
