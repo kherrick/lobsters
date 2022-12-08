@@ -14,6 +14,7 @@
 * [2022-12-08, 18:20:36](https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu) - [Solving Advent of Code with the Lamdu projectional editor](https://www.youtube.com/@yairchu/streams)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
 * [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then) - [Raspberry Pi brags about hiring a spy, then doubles down](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
+* [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring) - [Raspberry Pi brags about hiring surveillance cop, insults and blocks surprised users](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:48:07](https://lobste.rs/s/ekdojo/raysterizer_framework_transforms) - [Raysterizer, a framework that transforms OpenGL programs to instead use raytracing](https://maknee.github.io/blog/2022/Raysterizer/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
