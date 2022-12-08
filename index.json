@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-08, 17:48:35",
+      "https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7"
+    ],
+    [
+      "It’s time to stop using Python 3.7",
+      "https://pythonspeed.com/articles/stop-using-python-3.7/"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 17:48:07",
+      "https://lobste.rs/s/ekdojo/raysterizer_framework_transforms"
+    ],
+    [
+      "Raysterizer, a framework that transforms OpenGL programs to instead use raytracing",
+      "https://maknee.github.io/blog/2022/Raysterizer/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 17:24:39",
       "https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-07, 21:01:30",
-      "https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_icloud"
-    ],
-    [
-      "Apple adds end-to-end encryption to iCloud device backups and more",
-      "https://support.apple.com/en-us/HT202303#advanced"
-    ]
-  ],
-  [
-    [
       "2022-12-07, 19:21:38",
       "https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles"
     ],
@@ -227,16 +237,6 @@
     [
       "How can I boot NixOS? Let me count the ways",
       "https://linus.schreibt.jetzt/posts/booting-nixos.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 06:28:57",
-      "https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux"
-    ],
-    [
-      "Apple GPU drivers now in Asahi Linux",
-      "https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/"
     ]
   ],
   [
