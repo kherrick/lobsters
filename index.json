@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-08, 18:12:11",
-      "https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then"
+      "2022-12-08, 18:20:36",
+      "https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu"
     ],
     [
-      "Raspberry Pi brags about hiring a spy, then doubles down",
-      "https://raspberrypi.social/@Raspberry_Pi/109476972427437410"
+      "Solving Advent of Code with the Lamdu projectional editor",
+      "https://www.youtube.com/@yairchu/streams"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 18:15:18",
+      "https://lobste.rs/s/5trrxo/verifying_token_contract"
+    ],
+    [
+      "Verifying a Token Contract",
+      "https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Tooling for Tooling",
       "https://uptointerpretation.com/posts/tooling-for-tooling/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 15:06:06",
-      "https://lobste.rs/s/5xnahe/pair_programming_with_ai_writing"
-    ],
-    [
-      "Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT",
-      "https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550"
     ]
   ],
   [
