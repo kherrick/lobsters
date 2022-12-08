@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 10:01:29](https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond) - [Querying Parquet with Millisecond Latency](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees) - [Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 * [2022-12-08, 08:04:17](https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c) - [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
@@ -13,7 +14,6 @@
 * [2022-12-07, 17:58:47](https://lobste.rs/s/angsgr/why_does_json_parse_corrupt_large_numbers) - [Why does JSON.parse corrupt large numbers and how to solve this?](https://jsoneditoronline.org/indepth/parse/why-does-json-parse-corrupt-large-numbers/)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
-* [2022-12-07, 11:12:02](https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40) - [Reverse Engineering the OMNIVISION OS12D40 Driver](https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/)
 * [2022-12-07, 10:47:36](https://lobste.rs/s/syfafu/how_much_did_you_get_done_today_use_org_mode) - [How much did you get done today? Use Org mode to find out](https://200ok.ch/posts/2022-12-06_how_much_did_you_get_done_today.html)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 10:31:39](https://lobste.rs/s/hdxbdl/using_sqlite_as_data_source_framework) - [Using SQLite as a data source: a framework and an example](https://emacsconf.org/2022/talks/sqlite/)
