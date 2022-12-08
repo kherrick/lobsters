@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
+* [2022-12-08, 17:48:07](https://lobste.rs/s/ekdojo/raysterizer_framework_transforms) - [Raysterizer, a framework that transforms OpenGL programs to instead use raytracing](https://maknee.github.io/blog/2022/Raysterizer/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
@@ -18,12 +20,10 @@
 * [2022-12-08, 04:18:18](https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data) - [Composefs for integrity protection and data sharing](https://lwn.net/SubscriberLink/917097/88e6e29487df7947/)
 * [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
 * [2022-12-07, 22:06:50](https://lobste.rs/s/ovn2b1/go_1_20_release_candidate_1_is_released) - [Go 1.20 Release Candidate 1 is released](https://groups.google.com/g/golang-announce/c/iqUo0Spdl9I/m/r6EJ6wR5BQAJ)
-* [2022-12-07, 21:01:30](https://lobste.rs/s/iqcs0n/apple_adds_end_end_encryption_icloud) - [Apple adds end-to-end encryption to iCloud device backups and more](https://support.apple.com/en-us/HT202303#advanced)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
-* [2022-12-07, 06:28:57](https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux) - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
 ## [Archives](archives/index.md)

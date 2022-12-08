@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
+* [2022-12-08, 17:48:07](https://lobste.rs/s/ekdojo/raysterizer_framework_transforms) - [Raysterizer, a framework that transforms OpenGL programs to instead use raytracing](https://maknee.github.io/blog/2022/Raysterizer/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
