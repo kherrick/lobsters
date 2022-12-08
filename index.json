@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-08, 04:18:18",
+      "https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data"
+    ],
+    [
+      "Composefs for integrity protection and data sharing",
+      "https://lwn.net/SubscriberLink/917097/88e6e29487df7947/"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 04:15:23",
+      "https://lobste.rs/s/hoylvy/axioms_linking"
+    ],
+    [
+      "The Axioms of linking",
+      "https://rosshemsley.co.uk/posts/linking/"
+    ]
+  ],
+  [
+    [
       "2022-12-07, 23:50:25",
       "https://lobste.rs/s/thdhn6/congestion_control_arrives_tor_0_4_7"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2022-12-06, 21:33:10",
-      "https://lobste.rs/s/8xwywx/loopr_loop_reduction_macro_for_clojure"
-    ],
-    [
-      "Loopr: A Loop/Reduction Macro for Clojure",
-      "https://aphyr.com/posts/360-loopr-a-loop-reduction-macro-for-clojure"
-    ]
-  ],
-  [
-    [
       "2022-12-06, 21:13:56",
       "https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "Faster base64 in curl",
       "https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/"
-    ]
-  ],
-  [
-    [
-      "2022-12-06, 08:30:09",
-      "https://lobste.rs/s/ijra26/honking_from_console_like_real_honker"
-    ],
-    [
-      "honking from the console like a real honker",
-      "https://x61.sh/log/2022/12/20221205T205745-honk-cli.html"
     ]
   ]
 ]
