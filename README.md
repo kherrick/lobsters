@@ -2,12 +2,12 @@
 
 * [2022-12-08, 18:20:36](https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu) - [Solving Advent of Code with the Lamdu projectional editor](https://www.youtube.com/@yairchu/streams)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
+* [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then) - [Raspberry Pi brags about hiring a spy, then doubles down](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:48:07](https://lobste.rs/s/ekdojo/raysterizer_framework_transforms) - [Raysterizer, a framework that transforms OpenGL programs to instead use raytracing](https://maknee.github.io/blog/2022/Raysterizer/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
-* [2022-12-08, 15:33:38](https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text) - [egui 0.20.0 - AccessKit, prettier text, overlapping widgets](https://github.com/emilk/egui/releases/tag/0.20.0)
 * [2022-12-08, 15:29:10](https://lobste.rs/s/iybtnq/fuzzing_ping_8) - [Fuzzing ping(8)](https://tlakh.xyz/fuzzing-ping.html)
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
 * [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
