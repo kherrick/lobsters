@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
 * [2022-12-08, 15:06:06](https://lobste.rs/s/5xnahe/pair_programming_with_ai_writing) - [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)
 * [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
@@ -20,7 +21,6 @@
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
 * [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
-* [2022-12-07, 08:43:43](https://lobste.rs/s/fzljek/simplex_chat_private_secure_messenger) - [SimpleX Chat: private and secure messenger without any user IDs (not even random)](https://simplex.chat/)
 * [2022-12-07, 07:31:50](https://lobste.rs/s/qydaca/christmas_tree_bauble_plays_doom) - [A Christmas tree bauble that plays Doom](https://spritesmods.com/?art=doom-bauble&page=1)
 * [2022-12-07, 06:28:57](https://lobste.rs/s/zsntfa/apple_gpu_drivers_now_asahi_linux) - [Apple GPU drivers now in Asahi Linux](https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
