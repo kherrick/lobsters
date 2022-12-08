@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 10:35:56",
+      "https://lobste.rs/s/qjqgnd/this_rich_open_source"
+    ],
+    [
+      "This Rich To Open Source",
+      "https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 10:01:29",
       "https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond"
     ],
@@ -167,16 +177,6 @@
     [
       "Using SQLite as a data source: a framework and an example",
       "https://emacsconf.org/2022/talks/sqlite/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 09:03:31",
-      "https://lobste.rs/s/bgyypi/structured_concurrency_java_with_loom"
-    ],
-    [
-      "Structured concurrency in Java with Loom",
-      "https://www.davidvlijmincx.com/posts/loom/java_structured_concurrency/"
     ]
   ],
   [
