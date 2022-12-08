@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 21:01:47",
+      "https://lobste.rs/s/g55iso/goodbye_c_implementation_zig"
+    ],
+    [
+      "Goodbye to the C++ Implementation of Zig",
+      "https://ziglang.org/news/goodbye-cpp/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 20:50:12",
       "https://lobste.rs/s/9q8rx2/delimiter_first_code"
     ],
@@ -27,16 +37,6 @@
     [
       "What I learned from pairing by default",
       "https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 20:05:22",
-      "https://lobste.rs/s/jrgroa/specialising_dynamic_techniques_for"
-    ],
-    [
-      "Specialising Dynamic Techniques for Implementing the Ruby Programming Language (2015)",
-      "https://chrisseaton.com/phd/specialising-ruby.pdf"
     ]
   ],
   [
