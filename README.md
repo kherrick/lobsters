@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 16:24:09](https://lobste.rs/s/cth0dv/design_distributed_cloud_native) - [Design a Distributed, Cloud-native, and Enhanced Analytical Ability time-series Database](https://greptime.com/blogs/2022-12-08-GreptimeDB-internal-design)
 * [2022-12-08, 15:33:38](https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text) - [egui 0.20.0 - AccessKit, prettier text, overlapping widgets](https://github.com/emilk/egui/releases/tag/0.20.0)
 * [2022-12-08, 15:29:10](https://lobste.rs/s/iybtnq/fuzzing_ping_8) - [Fuzzing ping(8)](https://tlakh.xyz/fuzzing-ping.html)
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
@@ -12,7 +13,6 @@
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 * [2022-12-08, 10:01:29](https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond) - [Querying Parquet with Millisecond Latency](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/twintrees_baxter_permutations) - [Twintrees, Baxter Permutations, and Floorplans](https://www.youtube.com/watch?v=zg6YRqT4Duo)
-* [2022-12-08, 08:04:17](https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c) - [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
 * [2022-12-08, 04:18:18](https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data) - [Composefs for integrity protection and data sharing](https://lwn.net/SubscriberLink/917097/88e6e29487df7947/)
 * [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
