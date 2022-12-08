@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees) - [Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 * [2022-12-08, 08:04:17](https://lobste.rs/s/tkywzr/whisper_cpp_port_openai_s_whisper_model_c_c) - [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
 * [2022-12-08, 04:18:18](https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data) - [Composefs for integrity protection and data sharing](https://lwn.net/SubscriberLink/917097/88e6e29487df7947/)
@@ -24,7 +25,6 @@
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 * [2022-12-06, 21:13:56](https://lobste.rs/s/gmuu0b/cloudy_layers_modern_day_programming) - [The cloudy layers of modern-day programming](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)
 * [2022-12-06, 17:20:46](https://lobste.rs/s/mi2jyu/chatgpt_viability_replacing_humans_with) - [ChatGPT and the viability of replacing humans with circus tricks](https://adamshaylor.svbtle.com/chatgpt-and-the-viability-of-replacing-humans)
-* [2022-12-06, 12:34:10](https://lobste.rs/s/alseaj/faster_base64_curl) - [Faster base64 in curl](https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/)
 
 ## [Archives](archives/index.md)
 
