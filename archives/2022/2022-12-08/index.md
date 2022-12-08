@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
+* [2022-12-08, 20:05:22](https://lobste.rs/s/jrgroa/specialising_dynamic_techniques_for) - [Specialising Dynamic Techniques for Implementing the Ruby Programming Language (2015)](https://chrisseaton.com/phd/specialising-ruby.pdf)
 * [2022-12-08, 20:02:50](https://lobste.rs/s/kap12y/memory_giant) - [In Memory of a Giant](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
 * [2022-12-08, 18:20:36](https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu) - [Solving Advent of Code with the Lamdu projectional editor](https://www.youtube.com/@yairchu/streams)
