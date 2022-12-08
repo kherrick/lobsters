@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 23:28:29](https://lobste.rs/s/fnr76f/jank_development_update_lots_new_changes) - [jank: Development update - lots of new changes](https://jank-lang.org/blog/2022-12-08-progress-update/)
 * [2022-12-08, 23:19:26](https://lobste.rs/s/kyfuhp/how_structure_clojure_app_101) - [How to Structure a Clojure App 101](https://mccue.dev/pages/12-7-22-clojure-web-primer)
 * [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
@@ -8,7 +9,6 @@
 * [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
-* [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring) - [Raspberry Pi brags about hiring surveillance cop, insults and blocks surprised users](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)

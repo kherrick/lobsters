@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 23:28:29](https://lobste.rs/s/fnr76f/jank_development_update_lots_new_changes) - [jank: Development update - lots of new changes](https://jank-lang.org/blog/2022-12-08-progress-update/)
 * [2022-12-08, 23:19:26](https://lobste.rs/s/kyfuhp/how_structure_clojure_app_101) - [How to Structure a Clojure App 101](https://mccue.dev/pages/12-7-22-clojure-web-primer)
 * [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
