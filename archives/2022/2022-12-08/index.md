@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 15:33:38](https://lobste.rs/s/mvdq4z/egui_0_20_0_accesskit_prettier_text) - [egui 0.20.0 - AccessKit, prettier text, overlapping widgets](https://github.com/emilk/egui/releases/tag/0.20.0)
+* [2022-12-08, 15:29:10](https://lobste.rs/s/iybtnq/fuzzing_ping_8) - [Fuzzing ping(8)](https://tlakh.xyz/fuzzing-ping.html)
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
 * [2022-12-08, 15:06:06](https://lobste.rs/s/5xnahe/pair_programming_with_ai_writing) - [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)
 * [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
