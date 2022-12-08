@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 20:02:50](https://lobste.rs/s/kap12y/memory_giant) - [In Memory of a Giant](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
 * [2022-12-08, 18:20:36](https://lobste.rs/s/nksfov/solving_advent_code_with_lamdu) - [Solving Advent of Code with the Lamdu projectional editor](https://www.youtube.com/@yairchu/streams)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
