@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 15:06:06](https://lobste.rs/s/5xnahe/pair_programming_with_ai_writing) - [Pair Programming with AI: Writing a Distributed, Fault-Tolerant Redis Client using ChatGPT](https://medium.com/@saileshmukil/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550)
+* [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
 * [2022-12-08, 14:09:31](https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers) - [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
 * [2022-12-08, 12:39:26](https://lobste.rs/s/d16dqw/pulling_mikrotik_into_limelight) - [Pulling MikroTik into the Limelight](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
