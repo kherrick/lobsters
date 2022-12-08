@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-08, 18:12:11](https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then) - [Raspberry Pi brags about hiring a spy, then doubles down](https://raspberrypi.social/@Raspberry_Pi/109476972427437410)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:48:07](https://lobste.rs/s/ekdojo/raysterizer_framework_transforms) - [Raysterizer, a framework that transforms OpenGL programs to instead use raytracing](https://maknee.github.io/blog/2022/Raysterizer/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
@@ -22,7 +23,6 @@
 * [2022-12-07, 22:06:50](https://lobste.rs/s/ovn2b1/go_1_20_release_candidate_1_is_released) - [Go 1.20 Release Candidate 1 is released](https://groups.google.com/g/golang-announce/c/iqUo0Spdl9I/m/r6EJ6wR5BQAJ)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 13:37:01](https://lobste.rs/s/5xrzpi/data_diff_efficiently_diff_tables_across) - [data-diff - Efficiently diff tables in or across SQL databases](https://github.com/datafold/data-diff)
-* [2022-12-07, 13:28:29](https://lobste.rs/s/qlwzhn/get_rid_your_old_database_migrations) - [Get Rid of Your Old Database Migrations](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2022-12-07, 10:44:32](https://lobste.rs/s/zc3qbe/how_can_i_boot_nixos_let_me_count_ways) - [How can I boot NixOS? Let me count the ways](https://linus.schreibt.jetzt/posts/booting-nixos.html)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
