@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-08, 20:05:47",
+      "https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default"
+    ],
+    [
+      "What I learned from pairing by default",
+      "https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 20:05:22",
+      "https://lobste.rs/s/jrgroa/specialising_dynamic_techniques_for"
+    ],
+    [
+      "Specialising Dynamic Techniques for Implementing the Ruby Programming Language (2015)",
+      "https://chrisseaton.com/phd/specialising-ruby.pdf"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 20:02:50",
       "https://lobste.rs/s/kap12y/memory_giant"
     ],
@@ -45,7 +65,7 @@
       "https://lobste.rs/s/cqiixy/raspberry_pi_brags_about_hiring_spy_then"
     ],
     [
-      "Raspberry Pi brags about hiring a spy, then doubles down",
+      "Raspberry Pi brags about hiring a spy, then doubles down, insults and blocks surprised replies",
       "https://raspberrypi.social/@Raspberry_Pi/109476972427437410"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "It’s time to stop using Python 3.7",
       "https://pythonspeed.com/articles/stop-using-python-3.7/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 17:48:07",
-      "https://lobste.rs/s/ekdojo/raysterizer_framework_transforms"
-    ],
-    [
-      "Raysterizer, a framework that transforms OpenGL programs to instead use raytracing",
-      "https://maknee.github.io/blog/2022/Raysterizer/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "OCamlPro/owi: OCaml WebAssembly Interpreter",
       "https://github.com/OCamlPro/owi"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 04:18:18",
-      "https://lobste.rs/s/pnec6g/composefs_for_integrity_protection_data"
-    ],
-    [
-      "Composefs for integrity protection and data sharing",
-      "https://lwn.net/SubscriberLink/917097/88e6e29487df7947/"
     ]
   ],
   [
