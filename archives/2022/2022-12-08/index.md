@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-08](index.md)
 
+* [2022-12-08, 14:09:31](https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers) - [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
 * [2022-12-08, 12:39:26](https://lobste.rs/s/d16dqw/pulling_mikrotik_into_limelight) - [Pulling MikroTik into the Limelight](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
