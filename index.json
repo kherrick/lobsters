@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-08, 10:01:29",
+      "https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond"
+    ],
+    [
+      "Querying Parquet with Millisecond Latency",
+      "https://www.influxdata.com/blog/querying-parquet-millisecond-latency/"
+    ]
+  ],
+  [
+    [
       "2022-12-08, 08:35:27",
       "https://lobste.rs/s/p1gqrz/stanford_lecture_don_knuth_twintrees"
     ],
@@ -127,16 +137,6 @@
     [
       "Get Rid of Your Old Database Migrations",
       "https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/"
-    ]
-  ],
-  [
-    [
-      "2022-12-07, 11:12:02",
-      "https://lobste.rs/s/vmg80g/reverse_engineering_omnivision_os12d40"
-    ],
-    [
-      "Reverse Engineering the OMNIVISION OS12D40 Driver",
-      "https://serhack.me/articles/reverse-engineering-omnivision-os12d40-driver/"
     ]
   ],
   [
