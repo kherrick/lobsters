@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-09, 18:24:11",
+      "https://lobste.rs/s/xvvjza/playing_with_activitypub"
+    ],
+    [
+      "Playing with ActivityPub",
+      "https://macwright.com/2022/12/09/activitypub.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-09, 18:21:03",
+      "https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers"
+    ],
+    [
+      "Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters",
+      "https://notes.abhinavsarkar.net/2022/aoc-7"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 16:56:19",
       "https://lobste.rs/s/tgfnwh/swift_org_future_foundation"
     ],
@@ -57,16 +77,6 @@
     [
       "Bugs and fixes in the kernel history",
       "https://lwn.net/SubscriberLink/914632/192f456167443313/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 13:34:23",
-      "https://lobste.rs/s/lfqwou/illustrated_transformer_2018"
-    ],
-    [
-      "The Illustrated Transformer (2018)",
-      "https://jalammar.github.io/illustrated-transformer/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Dev environments in the cloud are a half-baked solution",
       "https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 20:05:47",
-      "https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default"
-    ],
-    [
-      "What I learned from pairing by default",
-      "https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/"
     ]
   ],
   [
