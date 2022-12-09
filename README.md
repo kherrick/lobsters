@@ -4,6 +4,7 @@
 * [2022-12-09, 03:47:14](https://lobste.rs/s/khix65/introducing_passkeys_chrome) - [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 * [2022-12-09, 03:36:43](https://lobste.rs/s/9trcx1/debugging_manifesto) - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 * [2022-12-09, 01:51:49](https://lobste.rs/s/x8uv9q/chrome_10_years_later) - [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
+* [2022-12-09, 00:29:01](https://lobste.rs/s/a8az46/gancraft_unsupervised_3d_neural) - [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
 * [2022-12-08, 23:28:29](https://lobste.rs/s/fnr76f/jank_development_update_lots_new_changes) - [jank: Development update - lots of new changes](https://jank-lang.org/blog/2022-12-08-progress-update/)
 * [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
@@ -22,7 +23,6 @@
 * [2022-12-08, 14:09:31](https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers) - [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
-* [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 * [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
