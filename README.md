@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 20:34:14](https://lobste.rs/s/iosfqd/twelve_days_chapel_advent_code_2022) - [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
 * [2022-12-09, 19:55:50](https://lobste.rs/s/ixvk9f/valheim_matrix_bridge) - [Valheim Matrix bridge](https://nheko.im/nheko-reborn/valheimmatrix)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
@@ -17,7 +18,6 @@
 * [2022-12-09, 04:40:58](https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels) - [noclip -  A digital museum of video game levels](https://noclip.website/)
 * [2022-12-09, 03:36:43](https://lobste.rs/s/9trcx1/debugging_manifesto) - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 * [2022-12-09, 01:51:49](https://lobste.rs/s/x8uv9q/chrome_10_years_later) - [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
-* [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 * [2022-12-08, 20:33:31](https://lobste.rs/s/e3wtqq/dev_environments_cloud_are_half_baked) - [Dev environments in the cloud are a half-baked solution](https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution)
