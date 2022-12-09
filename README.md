@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 00:29:01](https://lobste.rs/s/a8az46/gancraft_unsupervised_3d_neural) - [GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds](https://nvlabs.github.io/GANcraft/)
 * [2022-12-08, 23:28:29](https://lobste.rs/s/fnr76f/jank_development_update_lots_new_changes) - [jank: Development update - lots of new changes](https://jank-lang.org/blog/2022-12-08-progress-update/)
 * [2022-12-08, 23:19:26](https://lobste.rs/s/kyfuhp/how_structure_clojure_app_101) - [How to Structure a Clojure App 101](https://mccue.dev/pages/12-7-22-clojure-web-primer)
 * [2022-12-08, 22:28:49](https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more) - [Bumblebee: GPT2, Stable Diffusion, and More in Elixir](https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O)
@@ -19,7 +20,6 @@
 * [2022-12-08, 14:09:31](https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers) - [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
-* [2022-12-08, 10:01:29](https://lobste.rs/s/vcnqj2/querying_parquet_with_millisecond) - [Querying Parquet with Millisecond Latency](https://www.influxdata.com/blog/querying-parquet-millisecond-latency/)
 * [2022-12-08, 08:35:27](https://lobste.rs/s/p1gqrz/twintrees_baxter_permutations) - [Twintrees, Baxter Permutations, and Floorplans](https://www.youtube.com/watch?v=zg6YRqT4Duo)
 * [2022-12-08, 06:39:22](https://lobste.rs/s/j8pppm/ocamlpro_owi_ocaml_webassembly) - [OCamlPro/owi: OCaml WebAssembly Interpreter](https://github.com/OCamlPro/owi)
 * [2022-12-08, 04:15:23](https://lobste.rs/s/hoylvy/axioms_linking) - [The Axioms of linking](https://rosshemsley.co.uk/posts/linking/)
