@@ -13,6 +13,7 @@
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 * [2022-12-08, 20:33:31](https://lobste.rs/s/e3wtqq/dev_environments_cloud_are_half_baked) - [Dev environments in the cloud are a half-baked solution](https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution)
 * [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
+* [2022-12-08, 20:02:50](https://lobste.rs/s/kap12y/memory_giant) - [In Memory of a Giant](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
 * [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
@@ -24,7 +25,6 @@
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
-* [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
 
 ## [Archives](archives/index.md)
 
