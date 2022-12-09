@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2022-12-08, 23:28:29",
-      "https://lobste.rs/s/fnr76f/jank_development_update_lots_new_changes"
-    ],
-    [
-      "jank: Development update - lots of new changes",
-      "https://jank-lang.org/blog/2022-12-08-progress-update/"
-    ]
-  ],
-  [
-    [
       "2022-12-08, 22:28:49",
       "https://lobste.rs/s/bke4gp/bumblebee_gpt2_stable_diffusion_more"
     ],
@@ -217,6 +207,16 @@
     [
       "PHP 8.2.0",
       "https://www.php.net/releases/8.2/index.php"
+    ]
+  ],
+  [
+    [
+      "2022-12-08, 14:09:31",
+      "https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers"
+    ],
+    [
+      "AOC 2022 in q by experienced q programmers",
+      "https://github.com/qbists/studyq/tree/main/aoc/2022"
     ]
   ],
   [
