@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 23:47:29](https://lobste.rs/s/hvb4dd/reviewing_pull_requests_2019) - [Reviewing Pull Requests (2019)](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
 * [2022-12-09, 23:12:44](https://lobste.rs/s/u07ba8/racket_meet_up_saturday_7_january_at_18_00) - [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
 * [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 20:34:14](https://lobste.rs/s/iosfqd/twelve_days_chapel_advent_code_2022) - [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
