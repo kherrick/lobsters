@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 10:58:25](https://lobste.rs/s/ukyypk/data_driven_performance_optimization) - [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
 * [2022-12-09, 10:00:33](https://lobste.rs/s/cka4rn/how_grow_as_database_developer) - [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
 * [2022-12-09, 09:06:54](https://lobste.rs/s/fwgccb/end_end_encrypted_messages_need_more_than) - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 * [2022-12-09, 04:40:58](https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels) - [noclip -  A digital museum of video game levels](https://noclip.website/)
@@ -21,7 +22,6 @@
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
 * [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
-* [2022-12-08, 14:09:31](https://lobste.rs/s/jabldz/aoc_2022_q_by_experienced_q_programmers) - [AOC 2022 in q by experienced q programmers](https://github.com/qbists/studyq/tree/main/aoc/2022)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
