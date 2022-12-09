@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 15:22:56](https://lobste.rs/s/jqial5/simple_opinionated_struct_based) - [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
+* [2022-12-09, 15:21:12](https://lobste.rs/s/7blsww/functional_table_driven_tests_go) - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
+* [2022-12-09, 15:18:47](https://lobste.rs/s/umys3w/knight_s_landing_atom_with_avx_512) - [Knight’s Landing: Atom with AVX-512](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
 * [2022-12-09, 14:51:20](https://lobste.rs/s/nznqux/bugs_fixes_kernel_history) - [Bugs and fixes in the kernel history](https://lwn.net/SubscriberLink/914632/192f456167443313/)
 * [2022-12-09, 13:34:23](https://lobste.rs/s/lfqwou/illustrated_transformer_2018) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2022-12-09, 10:58:25](https://lobste.rs/s/ukyypk/data_driven_performance_optimization) - [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
@@ -14,17 +17,14 @@
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 * [2022-12-08, 20:33:31](https://lobste.rs/s/e3wtqq/dev_environments_cloud_are_half_baked) - [Dev environments in the cloud are a half-baked solution](https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution)
 * [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
-* [2022-12-08, 20:02:50](https://lobste.rs/s/kap12y/memory_giant) - [In Memory of a Giant](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
-* [2022-12-08, 15:29:10](https://lobste.rs/s/iybtnq/fuzzing_ping_8) - [Fuzzing ping(8)](https://tlakh.xyz/fuzzing-ping.html)
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
 * [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
-* [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 
 ## [Archives](archives/index.md)
 

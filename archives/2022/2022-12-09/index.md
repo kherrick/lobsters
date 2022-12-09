@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 15:22:56](https://lobste.rs/s/jqial5/simple_opinionated_struct_based) - [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
+* [2022-12-09, 15:21:12](https://lobste.rs/s/7blsww/functional_table_driven_tests_go) - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
+* [2022-12-09, 15:18:47](https://lobste.rs/s/umys3w/knight_s_landing_atom_with_avx_512) - [Knight’s Landing: Atom with AVX-512](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
 * [2022-12-09, 14:51:20](https://lobste.rs/s/nznqux/bugs_fixes_kernel_history) - [Bugs and fixes in the kernel history](https://lwn.net/SubscriberLink/914632/192f456167443313/)
 * [2022-12-09, 13:34:23](https://lobste.rs/s/lfqwou/illustrated_transformer_2018) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2022-12-09, 10:58:25](https://lobste.rs/s/ukyypk/data_driven_performance_optimization) - [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
