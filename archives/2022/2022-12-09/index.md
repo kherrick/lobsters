@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 16:40:01](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend)
 * [2022-12-09, 15:22:56](https://lobste.rs/s/jqial5/simple_opinionated_struct_based) - [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
 * [2022-12-09, 15:21:12](https://lobste.rs/s/7blsww/functional_table_driven_tests_go) - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
 * [2022-12-09, 15:18:47](https://lobste.rs/s/umys3w/knight_s_landing_atom_with_avx_512) - [Knight’s Landing: Atom with AVX-512](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)

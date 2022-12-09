@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 16:40:01](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend)
 * [2022-12-09, 15:22:56](https://lobste.rs/s/jqial5/simple_opinionated_struct_based) - [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
 * [2022-12-09, 15:21:12](https://lobste.rs/s/7blsww/functional_table_driven_tests_go) - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
 * [2022-12-09, 15:18:47](https://lobste.rs/s/umys3w/knight_s_landing_atom_with_avx_512) - [Knight’s Landing: Atom with AVX-512](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
@@ -22,7 +23,6 @@
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 * [2022-12-08, 15:14:47](https://lobste.rs/s/myyznl/tooling_for_tooling) - [Tooling for Tooling](https://uptointerpretation.com/posts/tooling-for-tooling/)
-* [2022-12-08, 15:01:28](https://lobste.rs/s/xtsrcq/srfi_226_control_features) - [SRFI 226: Control Features](https://srfi.schemers.org/srfi-226/srfi-226.html)
 * [2022-12-08, 14:20:55](https://lobste.rs/s/x7kzvl/php_8_2_0) - [PHP 8.2.0](https://www.php.net/releases/8.2/index.php)
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 
