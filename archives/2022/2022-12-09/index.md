@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 09:06:54](https://lobste.rs/s/fwgccb/end_end_encrypted_messages_need_more_than) - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 * [2022-12-09, 04:40:58](https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels) - [noclip -  A digital museum of video game levels](https://noclip.website/)
 * [2022-12-09, 03:47:14](https://lobste.rs/s/khix65/introducing_passkeys_chrome) - [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 * [2022-12-09, 03:36:43](https://lobste.rs/s/9trcx1/debugging_manifesto) - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)

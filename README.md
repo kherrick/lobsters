@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 09:06:54](https://lobste.rs/s/fwgccb/end_end_encrypted_messages_need_more_than) - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 * [2022-12-09, 04:40:58](https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels) - [noclip -  A digital museum of video game levels](https://noclip.website/)
 * [2022-12-09, 03:47:14](https://lobste.rs/s/khix65/introducing_passkeys_chrome) - [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 * [2022-12-09, 03:36:43](https://lobste.rs/s/9trcx1/debugging_manifesto) - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
@@ -24,7 +25,6 @@
 * [2022-12-08, 12:16:47](https://lobste.rs/s/rpc6xp/neovimconf_2022) - [NeovimConf 2022](https://www.neovimconf.live/)
 * [2022-12-08, 10:35:56](https://lobste.rs/s/qjqgnd/this_rich_open_source) - [This Rich To Open Source](https://writing.kemitchell.com/2022/12/06/This-Rich-to-Open-Source)
 * [2022-12-07, 19:21:38](https://lobste.rs/s/zo5ndo/hanukkah_data_8_data_puzzles) - [Hanukkah of Data: 8 data puzzles](https://hanukkah.bluebird.sh/)
-* [2022-12-07, 04:30:11](https://lobste.rs/s/fe2kkg/helix_release_22_12_highlights) - [Helix Release 22.12 Highlights](https://helix-editor.com/news/release-22-12-highlights/)
 
 ## [Archives](archives/index.md)
 
