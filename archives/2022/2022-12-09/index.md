@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 * [2022-12-09, 18:21:03](https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers) - [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
 * [2022-12-09, 16:56:19](https://lobste.rs/s/tgfnwh/swift_org_future_foundation) - [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
