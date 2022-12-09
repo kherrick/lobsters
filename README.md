@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-09, 14:51:20](https://lobste.rs/s/nznqux/bugs_fixes_kernel_history) - [Bugs and fixes in the kernel history](https://lwn.net/SubscriberLink/914632/192f456167443313/)
 * [2022-12-09, 13:34:23](https://lobste.rs/s/lfqwou/illustrated_transformer_2018) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2022-12-09, 10:58:25](https://lobste.rs/s/ukyypk/data_driven_performance_optimization) - [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
 * [2022-12-09, 10:00:33](https://lobste.rs/s/cka4rn/how_grow_as_database_developer) - [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
@@ -15,7 +16,6 @@
 * [2022-12-08, 20:05:47](https://lobste.rs/s/mkapgl/what_i_learned_from_pairing_by_default) - [What I learned from pairing by default](https://blog.testdouble.com/posts/2022-12-07-what-i-learned-from-pairing/)
 * [2022-12-08, 20:02:50](https://lobste.rs/s/kap12y/memory_giant) - [In Memory of a Giant](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
 * [2022-12-08, 19:31:51](https://lobste.rs/s/w4jz9t/google_zanzibar_through_our_eyes) - [Google Zanzibar Through Our Eyes](https://zanzibar.tech/)
-* [2022-12-08, 18:15:18](https://lobste.rs/s/5trrxo/verifying_token_contract) - [Verifying a Token Contract](https://whileydave.com/2022/09/15/formal-verification-of-a-token-contract/)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
 * [2022-12-08, 17:24:39](https://lobste.rs/s/b9pmgv/phlex_fast_object_oriented_view) - [Phlex — fast, object-oriented view framework for Ruby](https://phlex.fun)
 * [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)

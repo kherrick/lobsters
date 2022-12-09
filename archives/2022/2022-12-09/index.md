@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-09](index.md)
 
+* [2022-12-09, 14:51:20](https://lobste.rs/s/nznqux/bugs_fixes_kernel_history) - [Bugs and fixes in the kernel history](https://lwn.net/SubscriberLink/914632/192f456167443313/)
 * [2022-12-09, 13:34:23](https://lobste.rs/s/lfqwou/illustrated_transformer_2018) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2022-12-09, 10:58:25](https://lobste.rs/s/ukyypk/data_driven_performance_optimization) - [Data-driven performance optimization with Rust and Miri](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
 * [2022-12-09, 10:00:33](https://lobste.rs/s/cka4rn/how_grow_as_database_developer) - [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
