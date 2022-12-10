@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 04:55:08",
+      "https://lobste.rs/s/cyoivn/strang_decomposition_cr"
+    ],
+    [
+      "The Strang Decomposition A = CR",
+      "https://www.youtube.com/watch?v=NJKe2MQxa9k"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 03:50:20",
       "https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601"
     ],
@@ -147,16 +157,6 @@
     [
       "Functional table-driven tests in Go",
       "https://arslan.io/2022/12/04/functional-table-driven-tests-in-go"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 15:18:47",
-      "https://lobste.rs/s/umys3w/knight_s_landing_atom_with_avx_512"
-    ],
-    [
-      "Knight’s Landing: Atom with AVX-512",
-      "https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/"
     ]
   ],
   [
