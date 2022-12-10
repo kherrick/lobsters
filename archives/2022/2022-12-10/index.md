@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-10](index.md)
 
+* [2022-12-10, 20:07:20](https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer) - [Zero-Cost Well-Defined Signed Integer Overflow In C++](https://rentry.co/c955s)
 * [2022-12-10, 13:37:23](https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange) - [How can I do the opposite of compare_exchange and exchange if the value is different?](https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570)
 * [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
 * [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
