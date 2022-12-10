@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 13:37:23",
+      "https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange"
+    ],
+    [
+      "How can I do the opposite of compare_exchange and exchange if the value is different?",
+      "https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 12:07:12",
       "https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release"
     ],
@@ -97,16 +107,6 @@
     [
       "Code coverage for your AWK programs",
       "https://benhoyt.com/writings/goawk-coverage/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 23:12:44",
-      "https://lobste.rs/s/u07ba8/racket_meet_up_saturday_7_january_at_18_00"
-    ],
-    [
-      "Racket meet-up Saturday 7 January at 18:00 UTC",
-      "https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle"
     ]
   ],
   [
