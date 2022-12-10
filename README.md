@@ -9,6 +9,7 @@
 * [2022-12-09, 23:12:44](https://lobste.rs/s/u07ba8/racket_meet_up_saturday_7_january_at_18_00) - [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
 * [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 20:34:14](https://lobste.rs/s/iosfqd/twelve_days_chapel_advent_code_2022) - [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
+* [2022-12-09, 19:55:50](https://lobste.rs/s/ixvk9f/valheim_matrix_bridge) - [Valheim Matrix bridge](https://nheko.im/nheko-reborn/valheimmatrix)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 * [2022-12-09, 18:21:03](https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers) - [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
@@ -24,7 +25,6 @@
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
 * [2022-12-08, 17:48:35](https://lobste.rs/s/xsfd1a/it_s_time_stop_using_python_3_7) - [It’s time to stop using Python 3.7](https://pythonspeed.com/articles/stop-using-python-3.7/)
-* [2022-12-08, 16:47:47](https://lobste.rs/s/qdginb/try_tauri) - [Try Tauri](https://philidor.dev/blog/tauri-solidjs-macos/)
 
 ## [Archives](archives/index.md)
 
