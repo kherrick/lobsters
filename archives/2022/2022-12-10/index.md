@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-10](index.md)
 
+* [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
 * [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
