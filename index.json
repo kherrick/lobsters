@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 23:53:37",
+      "https://lobste.rs/s/lt9sgh/quick_intro_reflexbehaviors_rails"
+    ],
+    [
+      "Quick intro to ReflexBehaviors, a Rails/Hotwire library",
+      "https://www.youtube.com/watch?v=WERDPzOz1sA"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 22:58:34",
       "https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do"
     ],
@@ -217,16 +227,6 @@
     [
       "A simple, opinionated, struct-based argument parser in Zig",
       "https://github.com/jiacai2050/simargs"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 10:00:33",
-      "https://lobste.rs/s/cka4rn/how_grow_as_database_developer"
-    ],
-    [
-      "How to grow as a database developer?",
-      "https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer"
     ]
   ],
   [
