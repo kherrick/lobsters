@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 * [2022-12-10, 20:07:20](https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer) - [Zero-Cost Well-Defined Signed Integer Overflow In C++](https://rentry.co/c955s)
 * [2022-12-10, 13:37:23](https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange) - [How can I do the opposite of compare_exchange and exchange if the value is different?](https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570)
 * [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
@@ -21,7 +22,6 @@
 * [2022-12-09, 16:56:19](https://lobste.rs/s/tgfnwh/swift_org_future_foundation) - [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
 * [2022-12-09, 16:40:01](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend)
 * [2022-12-09, 15:22:56](https://lobste.rs/s/jqial5/simple_opinionated_struct_based) - [A simple, opinionated, struct-based argument parser in Zig](https://github.com/jiacai2050/simargs)
-* [2022-12-09, 15:21:12](https://lobste.rs/s/7blsww/functional_table_driven_tests_go) - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go)
 * [2022-12-09, 10:00:33](https://lobste.rs/s/cka4rn/how_grow_as_database_developer) - [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
 * [2022-12-09, 01:51:49](https://lobste.rs/s/x8uv9q/chrome_10_years_later) - [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
