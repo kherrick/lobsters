@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 00:46:46",
+      "https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs"
+    ],
+    [
+      "Code coverage for your AWK programs",
+      "https://benhoyt.com/writings/goawk-coverage/"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 23:47:29",
       "https://lobste.rs/s/hvb4dd/reviewing_pull_requests_2019"
     ],
@@ -217,16 +227,6 @@
     [
       "Delimiter-first code",
       "https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 20:33:31",
-      "https://lobste.rs/s/e3wtqq/dev_environments_cloud_are_half_baked"
-    ],
-    [
-      "Dev environments in the cloud are a half-baked solution",
-      "https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution"
     ]
   ],
   [
