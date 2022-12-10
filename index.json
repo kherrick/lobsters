@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-10, 03:42:06",
+      "https://lobste.rs/s/hbnd7k/mimmutable_for_openbsd"
+    ],
+    [
+      "mimmutable() for OpenBSD",
+      "https://lwn.net/SubscriberLink/915640/53bc300d11179c62/"
+    ]
+  ],
+  [
+    [
+      "2022-12-10, 03:39:51",
+      "https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5"
+    ],
+    [
+      "Wayland native interface in Qt 6.5",
+      "https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 03:11:02",
       "https://lobste.rs/s/hzxlnz/postscript_digital_printing_press"
     ],
@@ -17,16 +37,6 @@
     [
       "Code coverage for your AWK programs",
       "https://benhoyt.com/writings/goawk-coverage/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 23:47:29",
-      "https://lobste.rs/s/hvb4dd/reviewing_pull_requests_2019"
-    ],
-    [
-      "Reviewing Pull Requests (2019)",
-      "https://chelseatroy.com/2019/12/18/reviewing-pull-requests/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Knight’s Landing: Atom with AVX-512",
       "https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 10:58:25",
-      "https://lobste.rs/s/ukyypk/data_driven_performance_optimization"
-    ],
-    [
-      "Data-driven performance optimization with Rust and Miri",
-      "https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35"
     ]
   ],
   [
