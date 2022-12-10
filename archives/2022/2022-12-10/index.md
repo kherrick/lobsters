@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-10](index.md)
 
+* [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
 * [2022-12-10, 04:55:08](https://lobste.rs/s/cyoivn/strang_decomposition_cr) - [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)

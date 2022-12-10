@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
 * [2022-12-10, 04:55:08](https://lobste.rs/s/cyoivn/strang_decomposition_cr) - [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
@@ -20,7 +21,6 @@
 * [2022-12-09, 10:00:33](https://lobste.rs/s/cka4rn/how_grow_as_database_developer) - [How to grow as a database developer?](https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer)
 * [2022-12-09, 09:06:54](https://lobste.rs/s/fwgccb/end_end_encrypted_messages_need_more_than) - [End-to-end encrypted messages need more than libsignal](https://mjg59.dreamwidth.org/62598.html)
 * [2022-12-09, 04:40:58](https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels) - [noclip -  A digital museum of video game levels](https://noclip.website/)
-* [2022-12-09, 03:36:43](https://lobste.rs/s/9trcx1/debugging_manifesto) - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 * [2022-12-09, 01:51:49](https://lobste.rs/s/x8uv9q/chrome_10_years_later) - [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 * [2022-12-08, 20:50:12](https://lobste.rs/s/9q8rx2/delimiter_first_code) - [Delimiter-first code](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
