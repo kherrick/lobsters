@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2022-12-10, 03:42:06](https://lobste.rs/s/hbnd7k/mimmutable_for_openbsd) - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
 * [2022-12-10, 03:39:51](https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5) - [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
 * [2022-12-10, 03:11:02](https://lobste.rs/s/hzxlnz/postscript_digital_printing_press) - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
@@ -7,7 +8,6 @@
 * [2022-12-09, 23:12:44](https://lobste.rs/s/u07ba8/racket_meet_up_saturday_7_january_at_18_00) - [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
 * [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 20:34:14](https://lobste.rs/s/iosfqd/twelve_days_chapel_advent_code_2022) - [Twelve Days of Chapel: Advent of Code 2022](https://chapel-lang.org/blog/posts/aoc2022-day00-intro/)
-* [2022-12-09, 19:55:50](https://lobste.rs/s/ixvk9f/valheim_matrix_bridge) - [Valheim Matrix bridge](https://nheko.im/nheko-reborn/valheimmatrix)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 * [2022-12-09, 18:21:03](https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers) - [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
