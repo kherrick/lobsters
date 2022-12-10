@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-10, 13:37:23](https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange) - [How can I do the opposite of compare_exchange and exchange if the value is different?](https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570)
 * [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
 * [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
@@ -10,7 +11,6 @@
 * [2022-12-10, 03:39:51](https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5) - [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
 * [2022-12-10, 03:11:02](https://lobste.rs/s/hzxlnz/postscript_digital_printing_press) - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
 * [2022-12-10, 00:46:46](https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs) - [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)
-* [2022-12-09, 23:12:44](https://lobste.rs/s/u07ba8/racket_meet_up_saturday_7_january_at_18_00) - [Racket meet-up Saturday 7 January at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-7-january-at-18-00-utc/1547?u=spdegabrielle)
 * [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 19:55:50](https://lobste.rs/s/ixvk9f/valheim_matrix_bridge) - [Valheim Matrix bridge](https://nheko.im/nheko-reborn/valheimmatrix)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
