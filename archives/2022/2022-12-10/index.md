@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-10](index.md)
 
+* [2022-12-10, 23:53:37](https://lobste.rs/s/lt9sgh/quick_intro_reflexbehaviors_rails) - [Quick intro to ReflexBehaviors, a Rails/Hotwire library](https://www.youtube.com/watch?v=WERDPzOz1sA)
 * [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 * [2022-12-10, 20:07:20](https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer) - [Zero-Cost Well-Defined Signed Integer Overflow In C++](https://rentry.co/c955s)
