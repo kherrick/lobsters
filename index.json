@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-12-09, 19:55:50",
+      "https://lobste.rs/s/ixvk9f/valheim_matrix_bridge"
+    ],
+    [
+      "Valheim Matrix bridge",
+      "https://nheko.im/nheko-reborn/valheimmatrix"
+    ]
+  ],
+  [
+    [
       "2022-12-09, 19:22:21",
       "https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font"
     ],
@@ -237,16 +247,6 @@
     [
       "It’s time to stop using Python 3.7",
       "https://pythonspeed.com/articles/stop-using-python-3.7/"
-    ]
-  ],
-  [
-    [
-      "2022-12-08, 16:47:47",
-      "https://lobste.rs/s/qdginb/try_tauri"
-    ],
-    [
-      "Try Tauri",
-      "https://philidor.dev/blog/tauri-solidjs-macos/"
     ]
   ]
 ]
