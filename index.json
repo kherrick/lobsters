@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-10, 20:07:20",
+      "https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer"
+    ],
+    [
+      "Zero-Cost Well-Defined Signed Integer Overflow In C++",
+      "https://rentry.co/c955s"
+    ]
+  ],
+  [
+    [
       "2022-12-10, 13:37:23",
       "https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange"
     ],
@@ -217,16 +227,6 @@
     [
       "How to grow as a database developer?",
       "https://minimalmodeling.substack.com/p/how-to-grow-as-a-database-developer"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 04:40:58",
-      "https://lobste.rs/s/z2xzaw/noclip_digital_museum_video_game_levels"
-    ],
-    [
-      "noclip -  A digital museum of video game levels",
-      "https://noclip.website/"
     ]
   ],
   [
