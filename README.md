@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
 * [2022-12-11, 02:54:42](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with) - [Over-engineering Secret Santa with Python cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
 * [2022-12-11, 00:49:25](https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen) - [Restoring a Convergent Technologies NGEN PC/Workstation (Burroughs B25/Unisys)](https://www.smbaker.com/restoring-a-convergent-technologies-ngen-pc-workstation-burroughs-b25-unisys)
 * [2022-12-10, 23:53:37](https://lobste.rs/s/lt9sgh/quick_intro_reflexbehaviors_rails) - [Quick intro to ReflexBehaviors, a Rails/Hotwire library](https://www.youtube.com/watch?v=WERDPzOz1sA)
@@ -23,7 +24,6 @@
 * [2022-12-09, 18:21:03](https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers) - [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
 * [2022-12-09, 16:56:19](https://lobste.rs/s/tgfnwh/swift_org_future_foundation) - [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
 * [2022-12-09, 16:40:01](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend)
-* [2022-12-09, 01:51:49](https://lobste.rs/s/x8uv9q/chrome_10_years_later) - [Chrome, 10 years later](https://neugierig.org/software/blog/2022/12/chrome.html)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
 
 ## [Archives](archives/index.md)
