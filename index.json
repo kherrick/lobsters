@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-11, 03:52:20",
+      "https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt"
+    ],
+    [
+      "Disputing A Parking Fine with ChatGPT",
+      "https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 03:51:09",
+      "https://lobste.rs/s/wvl3in/ipv6_internet_is_broken"
+    ],
+    [
+      "IPv6 Internet Is Broken",
+      "https://adminhacks.com/broken-IPv6.html"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 03:13:36",
       "https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks"
     ],
@@ -67,16 +87,6 @@
     [
       "Zero-Cost Well-Defined Signed Integer Overflow In C++",
       "https://rentry.co/c955s"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 13:37:23",
-      "https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange"
-    ],
-    [
-      "How can I do the opposite of compare_exchange and exchange if the value is different?",
-      "https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Playing with ActivityPub",
       "https://macwright.com/2022/12/09/activitypub.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 18:21:03",
-      "https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers"
-    ],
-    [
-      "Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters",
-      "https://notes.abhinavsarkar.net/2022/aoc-7"
     ]
   ],
   [
