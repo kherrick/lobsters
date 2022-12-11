@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-11, 18:03:47](https://lobste.rs/s/o4i78v/building_your_own_custom_fedora) - [Building your own custom Fedora Silverblue image](https://www.ypsidanger.com/building-your-own-fedora-silverblue-image/)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 * [2022-12-11, 14:27:33](https://lobste.rs/s/zpeiqh/coverage_profiling_support_for) - [Coverage profiling support for integration tests - The Go Programming Language](https://go.dev/testing/coverage/)
@@ -22,7 +23,6 @@
 * [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2022-12-10, 03:42:06](https://lobste.rs/s/hbnd7k/mimmutable_for_openbsd) - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
-* [2022-12-10, 03:11:02](https://lobste.rs/s/hzxlnz/postscript_digital_printing_press) - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
 * [2022-12-10, 00:46:46](https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs) - [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 
