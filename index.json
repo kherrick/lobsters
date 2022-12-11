@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-11, 18:17:14",
+      "https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions"
+    ],
+    [
+      "SQLean: The ultimate set of SQLite extensions",
+      "https://github.com/nalgeon/sqlean"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 18:03:47",
       "https://lobste.rs/s/o4i78v/building_your_own_custom_fedora"
     ],
@@ -197,16 +207,6 @@
     [
       "Run Your Own Instant Messaging Service on FreeBSD",
       "https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 07:53:00",
-      "https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022"
-    ],
-    [
-      "SELECT solution FROM aoc WHERE year = 2022",
-      "https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/"
     ]
   ],
   [
