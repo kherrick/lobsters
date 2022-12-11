@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 * [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
@@ -19,7 +20,6 @@
 * [2022-12-10, 03:39:51](https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5) - [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
 * [2022-12-10, 03:11:02](https://lobste.rs/s/hzxlnz/postscript_digital_printing_press) - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
 * [2022-12-10, 00:46:46](https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs) - [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)
-* [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 * [2022-12-09, 16:56:19](https://lobste.rs/s/tgfnwh/swift_org_future_foundation) - [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)

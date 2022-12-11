@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-11](index.md)
 
+* [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 * [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
