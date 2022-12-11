@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-11](index.md)
 
+* [2022-12-11, 21:59:10](https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022) - [Yuzu Progress Report November 2022](https://yuzu-emu.org/entry/yuzu-progress-report-nov-2022/)
 * [2022-12-11, 21:04:13](https://lobste.rs/s/qypyme/writing_at_work) - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
 * [2022-12-11, 18:47:37](https://lobste.rs/s/8owty0/review_s5648x_2q4z_switch_part_2_mpls) - [Review: S5648X-2Q4Z Switch - Part 2: MPLS](https://ipng.ch/s/articles/2022/12/09/oem-switch-2.html)
 * [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
