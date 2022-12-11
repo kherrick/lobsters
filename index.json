@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-11, 04:13:10",
+      "https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security"
+    ],
+    [
+      "Invisible npm malware - evading security checks with crafted versions",
+      "https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 03:52:20",
       "https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt"
     ],
@@ -127,16 +137,6 @@
     [
       "SELECT solution FROM aoc WHERE year = 2022",
       "https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 04:55:08",
-      "https://lobste.rs/s/cyoivn/strang_decomposition_cr"
-    ],
-    [
-      "The Strang Decomposition A = CR",
-      "https://www.youtube.com/watch?v=NJKe2MQxa9k"
     ]
   ],
   [
