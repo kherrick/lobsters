@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-11, 22:13:25",
+      "https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer"
+    ],
+    [
+      "Porting OkLab colorspace to integer arithmetic",
+      "http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 22:03:44",
+      "https://lobste.rs/s/7jtird/neat_xor_trick"
+    ],
+    [
+      "A neat XOR trick",
+      "https://www.mattkeeter.com/blog/2022-12-10-xor/"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 21:59:10",
       "https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2022-12-10, 23:53:37",
-      "https://lobste.rs/s/lt9sgh/quick_intro_reflexbehaviors_rails"
-    ],
-    [
-      "Quick intro to ReflexBehaviors, a Rails/Hotwire library",
-      "https://www.youtube.com/watch?v=WERDPzOz1sA"
-    ]
-  ],
-  [
-    [
       "2022-12-10, 22:58:34",
       "https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do"
     ],
@@ -197,16 +207,6 @@
     [
       "Getting started with tmux",
       "https://ittavern.com/getting-started-with-tmux/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 20:07:20",
-      "https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer"
-    ],
-    [
-      "Zero-Cost Well-Defined Signed Integer Overflow In C++",
-      "https://rentry.co/c955s"
     ]
   ],
   [
