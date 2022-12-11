@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-11, 18:47:37",
+      "https://lobste.rs/s/8owty0/review_s5648x_2q4z_switch_part_2_mpls"
+    ],
+    [
+      "Review: S5648X-2Q4Z Switch - Part 2: MPLS",
+      "https://ipng.ch/s/articles/2022/12/09/oem-switch-2.html"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 18:17:14",
       "https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions"
     ],
@@ -227,16 +237,6 @@
     [
       "mimmutable() for OpenBSD",
       "https://lwn.net/SubscriberLink/915640/53bc300d11179c62/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 00:46:46",
-      "https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs"
-    ],
-    [
-      "Code coverage for your AWK programs",
-      "https://benhoyt.com/writings/goawk-coverage/"
     ]
   ],
   [
