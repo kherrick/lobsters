@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-11](index.md)
 
+* [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)

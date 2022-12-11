@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
@@ -13,7 +14,6 @@
 * [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
-* [2022-12-10, 04:55:08](https://lobste.rs/s/cyoivn/strang_decomposition_cr) - [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2022-12-10, 03:42:06](https://lobste.rs/s/hbnd7k/mimmutable_for_openbsd) - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
 * [2022-12-10, 03:39:51](https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5) - [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
