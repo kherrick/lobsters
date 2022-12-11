@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-11, 02:54:42",
+      "https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with"
+    ],
+    [
+      "Over-engineering Secret Santa with Python cryptography and Datasette",
+      "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/"
+    ]
+  ],
+  [
+    [
       "2022-12-11, 00:49:25",
       "https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 15:22:56",
-      "https://lobste.rs/s/jqial5/simple_opinionated_struct_based"
-    ],
-    [
-      "A simple, opinionated, struct-based argument parser in Zig",
-      "https://github.com/jiacai2050/simargs"
     ]
   ],
   [
