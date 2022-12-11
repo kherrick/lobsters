@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-11](index.md)
 
+* [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 * [2022-12-11, 14:27:33](https://lobste.rs/s/zpeiqh/coverage_profiling_support_for) - [Coverage profiling support for integration tests - The Go Programming Language](https://go.dev/testing/coverage/)
 * [2022-12-11, 14:23:38](https://lobste.rs/s/3rvawz/shallow_typed_racket) - [Shallow Typed Racket](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
