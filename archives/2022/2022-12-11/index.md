@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-11](index.md)
 
+* [2022-12-11, 14:27:33](https://lobste.rs/s/zpeiqh/coverage_profiling_support_for) - [Coverage profiling support for integration tests - The Go Programming Language](https://go.dev/testing/coverage/)
+* [2022-12-11, 14:23:38](https://lobste.rs/s/3rvawz/shallow_typed_racket) - [Shallow Typed Racket](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
 * [2022-12-11, 12:52:48](https://lobste.rs/s/fdjsmk/you_should_write_more) - [You should write more](https://lcamtuf.substack.com/p/you-should-write-more)
 * [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 * [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
