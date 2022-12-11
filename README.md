@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
+* [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
 * [2022-12-11, 02:54:42](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with) - [Over-engineering Secret Santa with Python cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
 * [2022-12-11, 00:49:25](https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen) - [Restoring a Convergent Technologies NGEN PC/Workstation (Burroughs B25/Unisys)](https://www.smbaker.com/restoring-a-convergent-technologies-ngen-pc-workstation-burroughs-b25-unisys)
@@ -7,7 +9,6 @@
 * [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 * [2022-12-10, 20:07:20](https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer) - [Zero-Cost Well-Defined Signed Integer Overflow In C++](https://rentry.co/c955s)
-* [2022-12-10, 13:37:23](https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange) - [How can I do the opposite of compare_exchange and exchange if the value is different?](https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570)
 * [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
 * [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
@@ -21,7 +22,6 @@
 * [2022-12-09, 21:56:04](https://lobste.rs/s/wlyvhk/programming_languages_application) - [Programming Languages: Application and Interpretation (PLAI) Version 3.2](https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf)
 * [2022-12-09, 19:22:21](https://lobste.rs/s/mthwbp/creating_handwritten_truetype_font) - [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
-* [2022-12-09, 18:21:03](https://lobste.rs/s/bwq4eh/solving_advent_code_day_7_with_parsers) - [Solving Advent of Code Day 7 with Parsers, Zippers and Interpreters](https://notes.abhinavsarkar.net/2022/aoc-7)
 * [2022-12-09, 16:56:19](https://lobste.rs/s/tgfnwh/swift_org_future_foundation) - [Swift.org - The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
 * [2022-12-09, 16:40:01](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dqshxf/what_are_you_doing_this_weekend)
 * [2022-12-08, 21:01:47](https://lobste.rs/s/g55iso/goodbye_c_implementation_zig) - [Goodbye to the C++ Implementation of Zig](https://ziglang.org/news/goodbye-cpp/)
