@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2022-12-12, 06:45:55",
-      "https://lobste.rs/s/dbc2cc/generating_chord_progressions_f"
-    ],
-    [
-      "Generating chord progressions in F#",
-      "https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 05:53:10",
       "https://lobste.rs/s/xzj2za/dom_clobbering"
     ],
@@ -227,6 +217,16 @@
     [
       "A neat XOR trick",
       "https://www.mattkeeter.com/blog/2022-12-10-xor/"
+    ]
+  ],
+  [
+    [
+      "2022-12-11, 18:17:14",
+      "https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions"
+    ],
+    [
+      "SQLean: The ultimate set of SQLite extensions",
+      "https://github.com/nalgeon/sqlean"
     ]
   ],
   [
