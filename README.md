@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
 * [2022-12-12, 20:01:34](https://lobste.rs/s/nm5nl9/migrating_my_blog_new_host_with_no) - [Migrating My Blog to a New Host with no Downtime](https://aggressivelyparaphrasing.me/2022/12/04/migrating-my-blog-to-a-new-host-with-no-downtime/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
@@ -22,7 +23,6 @@
 * [2022-12-12, 02:35:45](https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial) - [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
 * [2022-12-11, 22:13:25](https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer) - [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
-* [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 
