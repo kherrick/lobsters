@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-12](index.md)
 
+* [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
 * [2022-12-12, 15:39:26](https://lobste.rs/s/saj28g/two_s_complement_programming_podcast_by) - [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
 * [2022-12-12, 15:35:53](https://lobste.rs/s/r6jfip/logic_primitive_transformations_with) - [Logic Primitive Transformations with Yosys Techmap](https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
 * [2022-12-12, 15:39:26](https://lobste.rs/s/saj28g/two_s_complement_programming_podcast_by) - [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
 * [2022-12-12, 15:35:53](https://lobste.rs/s/r6jfip/logic_primitive_transformations_with) - [Logic Primitive Transformations with Yosys Techmap](https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/)
@@ -22,7 +23,6 @@
 * [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
-* [2022-12-11, 12:52:48](https://lobste.rs/s/fdjsmk/you_should_write_more) - [You should write more](https://lcamtuf.substack.com/p/you-should-write-more)
 * [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 
