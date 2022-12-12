@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 01:39:33",
+      "https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown"
+    ],
+    [
+      "100G-LR4 optic cable teardown",
+      "https://social.afront.org/@kwf/109492743645650432"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 00:05:01",
       "https://lobste.rs/s/p94oiq/exploiting_cve_2022_42703_bringing_back"
     ],
@@ -237,16 +247,6 @@
     [
       "RFC 3339 vs ISO 8601",
       "https://ijmacd.github.io/rfc3339-iso8601/"
-    ]
-  ],
-  [
-    [
-      "2022-12-09, 18:24:11",
-      "https://lobste.rs/s/xvvjza/playing_with_activitypub"
-    ],
-    [
-      "Playing with ActivityPub",
-      "https://macwright.com/2022/12/09/activitypub.html"
     ]
   ]
 ]
