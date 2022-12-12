@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 02:35:45](https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial) - [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
 * [2022-12-12, 01:39:33](https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown) - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
 * [2022-12-12, 00:05:01](https://lobste.rs/s/p94oiq/exploiting_cve_2022_42703_bringing_back) - [Exploiting CVE-2022-42703 - Bringing back the stack attack](https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html)
 * [2022-12-11, 22:13:25](https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer) - [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
@@ -20,7 +21,6 @@
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
 * [2022-12-11, 02:54:42](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with) - [Over-engineering Secret Santa with Python cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
-* [2022-12-11, 00:49:25](https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen) - [Restoring a Convergent Technologies NGEN PC/Workstation (Burroughs B25/Unisys)](https://www.smbaker.com/restoring-a-convergent-technologies-ngen-pc-workstation-burroughs-b25-unisys)
 * [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
