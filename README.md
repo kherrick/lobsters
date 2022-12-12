@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 00:05:01](https://lobste.rs/s/p94oiq/exploiting_cve_2022_42703_bringing_back) - [Exploiting CVE-2022-42703 - Bringing back the stack attack](https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html)
 * [2022-12-11, 22:13:25](https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer) - [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
 * [2022-12-11, 21:59:10](https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022) - [Yuzu Progress Report November 2022](https://yuzu-emu.org/entry/yuzu-progress-report-nov-2022/)
@@ -21,7 +22,6 @@
 * [2022-12-11, 00:49:25](https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen) - [Restoring a Convergent Technologies NGEN PC/Workstation (Burroughs B25/Unisys)](https://www.smbaker.com/restoring-a-convergent-technologies-ngen-pc-workstation-burroughs-b25-unisys)
 * [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
-* [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
