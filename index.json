@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 22:29:39",
+      "https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets"
+    ],
+    [
+      "Emacs: Context-aware yasnippets",
+      "https://xenodium.com/emacs-generate-a-swift-initializer/"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 20:01:34",
       "https://lobste.rs/s/nm5nl9/migrating_my_blog_new_host_with_no"
     ],
@@ -237,16 +247,6 @@
     [
       "The Verse Calculus: a Core Calculus for Functional Logic Programming",
       "https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 03:51:09",
-      "https://lobste.rs/s/wvl3in/ipv6_internet_is_broken"
-    ],
-    [
-      "IPv6 Internet Is Broken",
-      "https://adminhacks.com/broken-IPv6.html"
     ]
   ]
 ]
