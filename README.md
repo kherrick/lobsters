@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 01:39:33](https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown) - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
 * [2022-12-12, 00:05:01](https://lobste.rs/s/p94oiq/exploiting_cve_2022_42703_bringing_back) - [Exploiting CVE-2022-42703 - Bringing back the stack attack](https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html)
 * [2022-12-11, 22:13:25](https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer) - [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
@@ -24,7 +25,6 @@
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 * [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
 * [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
-* [2022-12-09, 18:24:11](https://lobste.rs/s/xvvjza/playing_with_activitypub) - [Playing with ActivityPub](https://macwright.com/2022/12/09/activitypub.html)
 
 ## [Archives](archives/index.md)
 
