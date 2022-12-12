@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-12](index.md)
 
+* [2022-12-12, 06:49:06](https://lobste.rs/s/2xnb5y/fail_slow_at_scale_evidence_hardware) - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems (2018)](https://dl.acm.org/doi/10.1145/3242086)
+* [2022-12-12, 06:45:55](https://lobste.rs/s/dbc2cc/generating_chord_progressions_f) - [Generating chord progressions in F#](https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html)
 * [2022-12-12, 05:53:10](https://lobste.rs/s/xzj2za/dom_clobbering) - [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 * [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
 * [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 06:49:06](https://lobste.rs/s/2xnb5y/fail_slow_at_scale_evidence_hardware) - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems (2018)](https://dl.acm.org/doi/10.1145/3242086)
+* [2022-12-12, 06:45:55](https://lobste.rs/s/dbc2cc/generating_chord_progressions_f) - [Generating chord progressions in F#](https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html)
 * [2022-12-12, 05:53:10](https://lobste.rs/s/xzj2za/dom_clobbering) - [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 * [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
 * [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
@@ -11,7 +13,6 @@
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
 * [2022-12-11, 21:59:10](https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022) - [Yuzu Progress Report November 2022](https://yuzu-emu.org/entry/yuzu-progress-report-nov-2022/)
 * [2022-12-11, 21:04:13](https://lobste.rs/s/qypyme/writing_at_work) - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
-* [2022-12-11, 18:47:37](https://lobste.rs/s/8owty0/review_s5648x_2q4z_switch_part_2_mpls) - [Review: S5648X-2Q4Z Switch - Part 2: MPLS](https://ipng.ch/s/articles/2022/12/09/oem-switch-2.html)
 * [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
 * [2022-12-11, 18:03:47](https://lobste.rs/s/o4i78v/building_your_own_custom_fedora) - [Building your own custom Fedora Silverblue image](https://www.ypsidanger.com/building-your-own-fedora-silverblue-image/)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
@@ -23,7 +24,6 @@
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
-* [2022-12-11, 02:54:42](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with) - [Over-engineering Secret Santa with Python cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 
 ## [Archives](archives/index.md)
