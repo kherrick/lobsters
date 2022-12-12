@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 * [2022-12-12, 11:34:52](https://lobste.rs/s/hl2lxx/person_docker_day_meetup_this_thursday) - [In-person Docker Day Meetup this thursday in Singapore](https://www.eventbrite.com/e/docker-day-meetup-tickets-483728965357)
 * [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
@@ -24,7 +25,6 @@
 * [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
-* [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
 
 ## [Archives](archives/index.md)
 
