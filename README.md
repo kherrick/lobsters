@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 17:38:56](https://lobste.rs/s/xrh1bz/add_moc_includes_speed_up_qt_compilation) - [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 * [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
 * [2022-12-12, 15:39:26](https://lobste.rs/s/saj28g/two_s_complement_programming_podcast_by) - [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
@@ -19,7 +20,6 @@
 * [2022-12-12, 01:39:33](https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown) - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
 * [2022-12-11, 22:13:25](https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer) - [Porting OkLab colorspace to integer arithmetic](http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html)
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)
-* [2022-12-11, 21:04:13](https://lobste.rs/s/qypyme/writing_at_work) - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
 * [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
