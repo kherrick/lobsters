@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 02:35:45",
+      "https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial"
+    ],
+    [
+      "The 6.1 kernel is out, including initial support for Rust",
+      "https://lwn.net/Articles/917504/"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 01:39:33",
       "https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown"
     ],
@@ -197,16 +207,6 @@
     [
       "Over-engineering Secret Santa with Python cryptography and Datasette",
       "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 00:49:25",
-      "https://lobste.rs/s/xuq0o7/restoring_convergent_technologies_ngen"
-    ],
-    [
-      "Restoring a Convergent Technologies NGEN PC/Workstation (Burroughs B25/Unisys)",
-      "https://www.smbaker.com/restoring-a-convergent-technologies-ngen-pc-workstation-burroughs-b25-unisys"
     ]
   ],
   [
