@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
 * [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
 * [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 * [2022-12-12, 02:35:45](https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial) - [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
@@ -18,7 +19,6 @@
 * [2022-12-11, 14:23:38](https://lobste.rs/s/3rvawz/shallow_typed_racket) - [Shallow Typed Racket](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
 * [2022-12-11, 12:52:48](https://lobste.rs/s/fdjsmk/you_should_write_more) - [You should write more](https://lcamtuf.substack.com/p/you-should-write-more)
 * [2022-12-11, 12:19:40](https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors) - [New in Go 1.20: wrapping multiple errors](https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/)
-* [2022-12-11, 04:13:10](https://lobste.rs/s/nthygb/invisible_npm_malware_evading_security) - [Invisible npm malware - evading security checks with crafted versions](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 * [2022-12-11, 03:52:20](https://lobste.rs/s/umi2m0/disputing_parking_fine_with_chatgpt) - [Disputing A Parking Fine with ChatGPT](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html)
 * [2022-12-11, 03:51:09](https://lobste.rs/s/wvl3in/ipv6_internet_is_broken) - [IPv6 Internet Is Broken](https://adminhacks.com/broken-IPv6.html)
 * [2022-12-11, 03:13:36](https://lobste.rs/s/ywbeae/simple_stack_for_today_s_web_hacks) - [A simple stack for today's web hacks](https://neugierig.org/software/blog/2022/12/simple-web-hacks.html)
