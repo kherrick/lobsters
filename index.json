@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-12, 04:04:53",
+      "https://lobste.rs/s/vrazee/c23_implications_for_c_libraries"
+    ],
+    [
+      "C23 implications for C libraries",
+      "https://gustedt.gitlabpages.inria.fr/c23-library/"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 03:59:04",
+      "https://lobste.rs/s/pmieoo/what_is_modern_code_editor"
+    ],
+    [
+      "What is in a modern code editor?",
+      "https://blog.meain.io/2022/modern-text-editor/"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 02:35:45",
       "https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial"
     ],
@@ -227,26 +247,6 @@
     [
       "Getting started with tmux",
       "https://ittavern.com/getting-started-with-tmux/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 08:51:36",
-      "https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on"
-    ],
-    [
-      "Run Your Own Instant Messaging Service on FreeBSD",
-      "https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2022-12-10, 03:50:20",
-      "https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601"
-    ],
-    [
-      "RFC 3339 vs ISO 8601",
-      "https://ijmacd.github.io/rfc3339-iso8601/"
     ]
   ]
 ]
