@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2022-12-12, 15:35:53",
-      "https://lobste.rs/s/r6jfip/logic_primitive_transformations_with"
-    ],
-    [
-      "Logic Primitive Transformations with Yosys Techmap",
-      "https://blog.yosyshq.com/p/logic-primitive-transformations-with-yosys-techmap/"
-    ]
-  ],
-  [
-    [
       "2022-12-12, 14:56:16",
       "https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported"
     ],
@@ -137,6 +127,16 @@
     [
       "Arch Linux in November 2022",
       "https://monthly-reports.archlinux.page/2022/11/"
+    ]
+  ],
+  [
+    [
+      "2022-12-12, 06:45:55",
+      "https://lobste.rs/s/dbc2cc/generating_chord_progressions_f"
+    ],
+    [
+      "Generating chord progressions in F#",
+      "https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html"
     ]
   ],
   [
