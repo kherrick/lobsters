@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-12](index.md)
 
+* [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 * [2022-12-12, 11:34:52](https://lobste.rs/s/hl2lxx/person_docker_day_meetup_this_thursday) - [In-person Docker Day Meetup this thursday in Singapore](https://www.eventbrite.com/e/docker-day-meetup-tickets-483728965357)
 * [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 * [2022-12-12, 07:30:36](https://lobste.rs/s/chrc2x/arch_linux_november_2022) - [Arch Linux in November 2022](https://monthly-reports.archlinux.page/2022/11/)
