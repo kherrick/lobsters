@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 19:21:05",
+      "https://lobste.rs/s/kstnhp/rust_2023"
+    ],
+    [
+      "Rust in 2023",
+      "https://www.ncameron.org/blog/rust-in-2023/"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 18:11:39",
       "https://lobste.rs/s/xvrxoq/wine_on_wayland_2022_update_more_games"
     ],
@@ -227,16 +237,6 @@
     [
       "The Verse Calculus: a Core Calculus for Functional Logic Programming",
       "https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 12:19:40",
-      "https://lobste.rs/s/y3kk8n/new_go_1_20_wrapping_multiple_errors"
-    ],
-    [
-      "New in Go 1.20: wrapping multiple errors",
-      "https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/"
     ]
   ],
   [
