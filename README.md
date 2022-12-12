@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 * [2022-12-12, 07:30:36](https://lobste.rs/s/chrc2x/arch_linux_november_2022) - [Arch Linux in November 2022](https://monthly-reports.archlinux.page/2022/11/)
 * [2022-12-12, 06:49:06](https://lobste.rs/s/2xnb5y/fail_slow_at_scale_evidence_hardware) - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems (2018)](https://dl.acm.org/doi/10.1145/3242086)
 * [2022-12-12, 06:45:55](https://lobste.rs/s/dbc2cc/generating_chord_progressions_f) - [Generating chord progressions in F#](https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html)
@@ -15,7 +16,6 @@
 * [2022-12-11, 21:59:10](https://lobste.rs/s/93odsg/yuzu_progress_report_november_2022) - [Yuzu Progress Report November 2022](https://yuzu-emu.org/entry/yuzu-progress-report-nov-2022/)
 * [2022-12-11, 21:04:13](https://lobste.rs/s/qypyme/writing_at_work) - [Writing at work](https://lcamtuf.substack.com/p/writing-at-work)
 * [2022-12-11, 18:17:14](https://lobste.rs/s/xtgvgp/sqlean_ultimate_set_sqlite_extensions) - [SQLean: The ultimate set of SQLite extensions](https://github.com/nalgeon/sqlean)
-* [2022-12-11, 18:03:47](https://lobste.rs/s/o4i78v/building_your_own_custom_fedora) - [Building your own custom Fedora Silverblue image](https://www.ypsidanger.com/building-your-own-fedora-silverblue-image/)
 * [2022-12-11, 17:17:43](https://lobste.rs/s/6idhvy/golden_age_pl_research) - [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 * [2022-12-11, 16:57:18](https://lobste.rs/s/neochc/verse_calculus_core_calculus_for) - [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 * [2022-12-11, 14:23:38](https://lobste.rs/s/3rvawz/shallow_typed_racket) - [Shallow Typed Racket](https://cs.brown.edu/people/bgreenma/resources/talks/g-rcon-2020.pdf)
