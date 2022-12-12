@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 20:01:34](https://lobste.rs/s/nm5nl9/migrating_my_blog_new_host_with_no) - [Migrating My Blog to a New Host with no Downtime](https://aggressivelyparaphrasing.me/2022/12/04/migrating-my-blog-to-a-new-host-with-no-downtime/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 * [2022-12-12, 18:11:39](https://lobste.rs/s/xvrxoq/wine_on_wayland_2022_update_more_games) - [Wine on Wayland 2022 update: more games, more apps, more fun](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-2022-updatye-more-games-more-apps-more-fun.html)
 * [2022-12-12, 17:38:56](https://lobste.rs/s/xrh1bz/add_moc_includes_speed_up_qt_compilation) - [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
@@ -13,7 +14,6 @@
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 * [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 * [2022-12-12, 07:30:36](https://lobste.rs/s/chrc2x/arch_linux_november_2022) - [Arch Linux in November 2022](https://monthly-reports.archlinux.page/2022/11/)
-* [2022-12-12, 06:45:55](https://lobste.rs/s/dbc2cc/generating_chord_progressions_f) - [Generating chord progressions in F#](https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html)
 * [2022-12-12, 05:53:10](https://lobste.rs/s/xzj2za/dom_clobbering) - [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 * [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
 * [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
