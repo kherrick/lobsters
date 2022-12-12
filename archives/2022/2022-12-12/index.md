@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-12](index.md)
 
+* [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 14:47:03](https://lobste.rs/s/7jv0uo/using_zig_for_advent_code) - [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
