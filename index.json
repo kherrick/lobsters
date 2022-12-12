@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 11:34:52",
+      "https://lobste.rs/s/hl2lxx/person_docker_day_meetup_this_thursday"
+    ],
+    [
+      "In-person Docker Day Meetup this thursday in Singapore",
+      "https://www.eventbrite.com/e/docker-day-meetup-tickets-483728965357"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 09:15:20",
       "https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture"
     ],
@@ -17,16 +27,6 @@
     [
       "Arch Linux in November 2022",
       "https://monthly-reports.archlinux.page/2022/11/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 06:49:06",
-      "https://lobste.rs/s/2xnb5y/fail_slow_at_scale_evidence_hardware"
-    ],
-    [
-      "Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems (2018)",
-      "https://dl.acm.org/doi/10.1145/3242086"
     ]
   ],
   [
