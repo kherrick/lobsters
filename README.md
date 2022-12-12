@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
+* [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 * [2022-12-12, 02:35:45](https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial) - [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
 * [2022-12-12, 01:39:33](https://lobste.rs/s/ipl0o2/100g_lr4_optic_cable_teardown) - [100G-LR4 optic cable teardown](https://social.afront.org/@kwf/109492743645650432)
 * [2022-12-12, 00:05:01](https://lobste.rs/s/p94oiq/exploiting_cve_2022_42703_bringing_back) - [Exploiting CVE-2022-42703 - Bringing back the stack attack](https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html)
@@ -23,8 +25,6 @@
 * [2022-12-11, 02:54:42](https://lobste.rs/s/lqpbqe/over_engineering_secret_santa_with) - [Over-engineering Secret Santa with Python cryptography and Datasette](https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/)
 * [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 * [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
-* [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
-* [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 
 ## [Archives](archives/index.md)
 
