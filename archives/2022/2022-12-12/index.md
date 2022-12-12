@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-12](index.md)
 
+* [2022-12-12, 07:30:36](https://lobste.rs/s/chrc2x/arch_linux_november_2022) - [Arch Linux in November 2022](https://monthly-reports.archlinux.page/2022/11/)
 * [2022-12-12, 06:49:06](https://lobste.rs/s/2xnb5y/fail_slow_at_scale_evidence_hardware) - [Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems (2018)](https://dl.acm.org/doi/10.1145/3242086)
 * [2022-12-12, 06:45:55](https://lobste.rs/s/dbc2cc/generating_chord_progressions_f) - [Generating chord progressions in F#](https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html)
 * [2022-12-12, 05:53:10](https://lobste.rs/s/xzj2za/dom_clobbering) - [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
