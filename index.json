@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-12, 20:01:34",
+      "https://lobste.rs/s/nm5nl9/migrating_my_blog_new_host_with_no"
+    ],
+    [
+      "Migrating My Blog to a New Host with no Downtime",
+      "https://aggressivelyparaphrasing.me/2022/12/04/migrating-my-blog-to-a-new-host-with-no-downtime/"
+    ]
+  ],
+  [
+    [
       "2022-12-12, 19:21:05",
       "https://lobste.rs/s/kstnhp/rust_2023"
     ],
@@ -127,16 +137,6 @@
     [
       "Arch Linux in November 2022",
       "https://monthly-reports.archlinux.page/2022/11/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 06:45:55",
-      "https://lobste.rs/s/dbc2cc/generating_chord_progressions_f"
-    ],
-    [
-      "Generating chord progressions in F#",
-      "https://blog.emneb.dev/posts/02-generating-chord-progressions-in-fsharp.html"
     ]
   ],
   [
