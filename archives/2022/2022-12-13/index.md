@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-13](index.md)
 
+* [2022-12-13, 18:19:53](https://lobste.rs/s/ydta2e/fine_grained_sandboxing_with_v8_isolates) - [Fine-Grained Sandboxing with V8 Isolates [2019]](https://www.infoq.com/presentations/cloudflare-v8/)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
