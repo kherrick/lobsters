@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
 * [2022-12-13, 21:17:03](https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations) - [Integrating Unikernel Optimizations in a General Purpose OS](https://arxiv.org/abs/2206.00789)
 * [2022-12-13, 18:19:53](https://lobste.rs/s/ydta2e/fine_grained_sandboxing_with_v8_isolates) - [Fine-Grained Sandboxing with V8 Isolates [2019]](https://www.infoq.com/presentations/cloudflare-v8/)
 * [2022-12-13, 18:17:46](https://lobste.rs/s/2co7mm/programming_culture_late_aughts) - [Programming culture in the late aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
@@ -16,7 +17,6 @@
 * [2022-12-13, 11:11:26](https://lobste.rs/s/45anev/how_well_does_chatgpt_understand_go) - [How well does ChatGPT understand Go?](https://youtu.be/OldZ3hAgsqQ)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
-* [2022-12-13, 00:40:25](https://lobste.rs/s/xsd1ip/look_at_dyn_code_generation) - [A Look at dyn* Code Generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 * [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
