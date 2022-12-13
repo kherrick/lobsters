@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 09:57:24](https://lobste.rs/s/fs4rcr/inside_radical_new_project_democratize) - [Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/)
 * [2022-12-13, 09:44:57](https://lobste.rs/s/nwbk0x/how_popular_is_matplotlib_usage_on_arxiv) - [How Popular is Matplotlib? (usage on arXiv)](https://www.coiled.io/blog/how-popular-is-matplotlib)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
@@ -18,7 +19,6 @@
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 * [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
-* [2022-12-12, 05:53:10](https://lobste.rs/s/xzj2za/dom_clobbering) - [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 * [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
 * [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
 * [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
