@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-13, 09:44:57",
+      "https://lobste.rs/s/nwbk0x/how_popular_is_matplotlib_usage_on_arxiv"
+    ],
+    [
+      "How Popular is Matplotlib? (usage on arXiv)",
+      "https://www.coiled.io/blog/how-popular-is-matplotlib"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 03:33:59",
       "https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it"
     ],
@@ -217,16 +227,6 @@
     [
       "The 6.1 kernel is out, including initial support for Rust",
       "https://lwn.net/Articles/917504/"
-    ]
-  ],
-  [
-    [
-      "2022-12-11, 22:13:25",
-      "https://lobste.rs/s/xcbeth/porting_oklab_colorspace_integer"
-    ],
-    [
-      "Porting OkLab colorspace to integer arithmetic",
-      "http://blog.pkh.me/p/38-porting-oklab-colorspace-to-integer-arithmetic.html"
     ]
   ],
   [
