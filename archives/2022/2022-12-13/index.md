@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-13](index.md)
 
+* [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
+* [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 * [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 * [2022-12-13, 15:41:33](https://lobste.rs/s/xp4mld/can_good_explanation_really_prevent_prod) - [Can a good explanation really prevent a prod incident?](https://jaywhy13.hashnode.dev/can-a-good-explanation-really-prevent-a-prod-incident)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
+* [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 * [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 * [2022-12-13, 15:41:33](https://lobste.rs/s/xp4mld/can_good_explanation_really_prevent_prod) - [Can a good explanation really prevent a prod incident?](https://jaywhy13.hashnode.dev/can-a-good-explanation-really-prevent-a-prod-incident)
@@ -17,9 +19,7 @@
 * [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
-* [2022-12-12, 18:11:39](https://lobste.rs/s/xvrxoq/wine_on_wayland_2022_update_more_games) - [Wine on Wayland 2022 update: more games, more apps, more fun](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-2022-updatye-more-games-more-apps-more-fun.html)
 * [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
-* [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
 * [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 14:47:03](https://lobste.rs/s/7jv0uo/using_zig_for_advent_code) - [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
