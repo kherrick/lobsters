@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 11:51:24](https://lobste.rs/s/gyadfq/c_c_profiling_tools) - [C/C++ Profiling Tools](https://www.kdab.com/c-cpp-profiling-tools/)
 * [2022-12-13, 11:11:26](https://lobste.rs/s/45anev/how_well_does_chatgpt_understand_go) - [How well does ChatGPT understand Go?](https://youtu.be/OldZ3hAgsqQ)
 * [2022-12-13, 09:57:24](https://lobste.rs/s/fs4rcr/inside_radical_new_project_democratize) - [Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/)
 * [2022-12-13, 09:44:57](https://lobste.rs/s/nwbk0x/how_popular_is_matplotlib_usage_on_arxiv) - [How Popular is Matplotlib? (usage on arXiv)](https://www.coiled.io/blog/how-popular-is-matplotlib)
@@ -21,7 +22,6 @@
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
 * [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 * [2022-12-12, 04:55:59](https://lobste.rs/s/ymzfdl/aurae_runtime) - [Aurae Runtime](https://aurae.io/)
-* [2022-12-12, 04:04:53](https://lobste.rs/s/vrazee/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://gustedt.gitlabpages.inria.fr/c23-library/)
 * [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 * [2022-12-12, 02:35:45](https://lobste.rs/s/sewoky/6_1_kernel_is_out_including_initial) - [The 6.1 kernel is out, including initial support for Rust](https://lwn.net/Articles/917504/)
 * [2022-12-11, 22:03:44](https://lobste.rs/s/7jtird/neat_xor_trick) - [A neat XOR trick](https://www.mattkeeter.com/blog/2022-12-10-xor/)

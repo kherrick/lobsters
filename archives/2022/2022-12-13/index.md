@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-13](index.md)
 
+* [2022-12-13, 11:51:24](https://lobste.rs/s/gyadfq/c_c_profiling_tools) - [C/C++ Profiling Tools](https://www.kdab.com/c-cpp-profiling-tools/)
 * [2022-12-13, 11:11:26](https://lobste.rs/s/45anev/how_well_does_chatgpt_understand_go) - [How well does ChatGPT understand Go?](https://youtu.be/OldZ3hAgsqQ)
 * [2022-12-13, 09:57:24](https://lobste.rs/s/fs4rcr/inside_radical_new_project_democratize) - [Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/)
 * [2022-12-13, 09:44:57](https://lobste.rs/s/nwbk0x/how_popular_is_matplotlib_usage_on_arxiv) - [How Popular is Matplotlib? (usage on arXiv)](https://www.coiled.io/blog/how-popular-is-matplotlib)
