@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
 * [2022-12-13, 11:51:24](https://lobste.rs/s/gyadfq/c_c_profiling_tools) - [C/C++ Profiling Tools](https://www.kdab.com/c-cpp-profiling-tools/)
 * [2022-12-13, 11:11:26](https://lobste.rs/s/45anev/how_well_does_chatgpt_understand_go) - [How well does ChatGPT understand Go?](https://youtu.be/OldZ3hAgsqQ)
 * [2022-12-13, 09:57:24](https://lobste.rs/s/fs4rcr/inside_radical_new_project_democratize) - [Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/)
@@ -15,7 +16,6 @@
 * [2022-12-12, 17:38:56](https://lobste.rs/s/xrh1bz/add_moc_includes_speed_up_qt_compilation) - [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 * [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
-* [2022-12-12, 15:39:26](https://lobste.rs/s/saj28g/two_s_complement_programming_podcast_by) - [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
 * [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 14:47:03](https://lobste.rs/s/7jv0uo/using_zig_for_advent_code) - [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
