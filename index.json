@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-13, 23:28:39",
+      "https://lobste.rs/s/ynlfvu/prosody_0_12_2_released"
+    ],
+    [
+      "Prosody 0.12.2 released",
+      "https://blog.prosody.im/prosody-0.12.2-released/"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 22:38:11",
       "https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers"
     ],
@@ -27,16 +37,6 @@
     [
       "Integrating Unikernel Optimizations in a General Purpose OS",
       "https://arxiv.org/abs/2206.00789"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 18:19:53",
-      "https://lobste.rs/s/ydta2e/fine_grained_sandboxing_with_v8_isolates"
-    ],
-    [
-      "Fine-Grained Sandboxing with V8 Isolates [2019]",
-      "https://www.infoq.com/presentations/cloudflare-v8/"
     ]
   ],
   [
