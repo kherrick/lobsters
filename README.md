@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
 * [2022-12-13, 14:38:30](https://lobste.rs/s/k9jnjy/one_dockerfile_is_all_it_takes_falling) - [One Dockerfile is all it takes, falling in love with bake](https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling)
 * [2022-12-13, 14:27:24](https://lobste.rs/s/nukjst/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2022](https://www.haiku-os.org/blog/waddlesplash/2022-12-12_haiku_activity_contract_report_november_2022/)
 * [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
@@ -12,7 +13,6 @@
 * [2022-12-13, 00:40:25](https://lobste.rs/s/xsd1ip/look_at_dyn_code_generation) - [A Look at dyn* Code Generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 * [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
-* [2022-12-12, 20:01:34](https://lobste.rs/s/nm5nl9/migrating_my_blog_new_host_with_no) - [Migrating My Blog to a New Host with no Downtime](https://aggressivelyparaphrasing.me/2022/12/04/migrating-my-blog-to-a-new-host-with-no-downtime/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 * [2022-12-12, 18:11:39](https://lobste.rs/s/xvrxoq/wine_on_wayland_2022_update_more_games) - [Wine on Wayland 2022 update: more games, more apps, more fun](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-2022-updatye-more-games-more-apps-more-fun.html)
 * [2022-12-12, 17:38:56](https://lobste.rs/s/xrh1bz/add_moc_includes_speed_up_qt_compilation) - [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)

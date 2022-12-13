@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-13](index.md)
 
+* [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
 * [2022-12-13, 14:38:30](https://lobste.rs/s/k9jnjy/one_dockerfile_is_all_it_takes_falling) - [One Dockerfile is all it takes, falling in love with bake](https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling)
 * [2022-12-13, 14:27:24](https://lobste.rs/s/nukjst/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2022](https://www.haiku-os.org/blog/waddlesplash/2022-12-12_haiku_activity_contract_report_november_2022/)
 * [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
