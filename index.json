@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-13, 17:01:13",
+      "https://lobste.rs/s/h1bm09/noulith_new_programming_language"
+    ],
+    [
+      "Noulith: a new programming language",
+      "https://github.com/betaveros/noulith/"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 16:26:18",
       "https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes"
     ],
@@ -227,16 +237,6 @@
     [
       "Elixir-style Pipelines in 9 Lines of Ruby",
       "https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 09:15:20",
-      "https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture"
-    ],
-    [
-      "Make your own TEA (The Elm Architecture)",
-      "https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf"
     ]
   ],
   [
