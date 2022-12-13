@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
 * [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
 * [2022-12-13, 21:17:03](https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations) - [Integrating Unikernel Optimizations in a General Purpose OS](https://arxiv.org/abs/2206.00789)
 * [2022-12-13, 18:19:53](https://lobste.rs/s/ydta2e/fine_grained_sandboxing_with_v8_isolates) - [Fine-Grained Sandboxing with V8 Isolates [2019]](https://www.infoq.com/presentations/cloudflare-v8/)
@@ -20,7 +21,6 @@
 * [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
-* [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
