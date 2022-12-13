@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 * [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 * [2022-12-13, 15:41:33](https://lobste.rs/s/xp4mld/can_good_explanation_really_prevent_prod) - [Can a good explanation really prevent a prod incident?](https://jaywhy13.hashnode.dev/can-a-good-explanation-really-prevent-a-prod-incident)
 * [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
@@ -23,7 +24,6 @@
 * [2022-12-12, 14:47:03](https://lobste.rs/s/7jv0uo/using_zig_for_advent_code) - [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 * [2022-12-12, 12:12:26](https://lobste.rs/s/qadq0b/elixir_style_pipelines_9_lines_ruby) - [Elixir-style Pipelines in 9 Lines of Ruby](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)
-* [2022-12-12, 09:15:20](https://lobste.rs/s/udqgfe/make_your_own_tea_elm_architecture) - [Make your own TEA (The Elm Architecture)](https://derw.substack.com/p/make-your-own-tea-the-elm-architecture?sd=pf)
 * [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 
 ## [Archives](archives/index.md)
