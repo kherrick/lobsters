@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website) - [How to steal a website](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 * [2022-12-13, 00:40:25](https://lobste.rs/s/xsd1ip/look_at_dyn_code_generation) - [A Look at dyn* Code Generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 * [2022-12-12, 23:25:09](https://lobste.rs/s/7axscj/potato_programming) - [Potato Programming](https://blog.glyph.im/2022/12/potato-programming.html)
@@ -10,7 +11,6 @@
 * [2022-12-12, 17:38:56](https://lobste.rs/s/xrh1bz/add_moc_includes_speed_up_qt_compilation) - [Add moc includes to speed up Qt compilation](https://raymii.org/s/blog/Qt_add_moc_includes_to_speed_up_compilation.html)
 * [2022-12-12, 15:48:33](https://lobste.rs/s/3bpgft/how_i_found_bug_sqlite) - [How I found a bug in SQLite](https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/)
 * [2022-12-12, 15:47:01](https://lobste.rs/s/3441fo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3441fo/what_are_you_doing_this_week)
-* [2022-12-12, 15:39:26](https://lobste.rs/s/saj28g/two_s_complement_programming_podcast_by) - [Two's Complement - A Programming Podcast by the Compiler Explorer's Creator](https://www.twoscomplement.org/)
 * [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 14:47:03](https://lobste.rs/s/7jv0uo/using_zig_for_advent_code) - [Using Zig for Advent of Code](https://www.huy.rocks/everyday/12-11-2022-zig-using-zig-for-advent-of-code)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
