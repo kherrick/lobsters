@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-13](index.md)
 
+* [2022-12-13, 21:17:03](https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations) - [Integrating Unikernel Optimizations in a General Purpose OS](https://arxiv.org/abs/2206.00789)
 * [2022-12-13, 18:19:53](https://lobste.rs/s/ydta2e/fine_grained_sandboxing_with_v8_isolates) - [Fine-Grained Sandboxing with V8 Isolates [2019]](https://www.infoq.com/presentations/cloudflare-v8/)
 * [2022-12-13, 18:17:46](https://lobste.rs/s/2co7mm/programming_culture_late_aughts) - [Programming culture in the late aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
