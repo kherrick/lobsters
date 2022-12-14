@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-14, 19:28:56",
+      "https://lobste.rs/s/fiinse/tailnet_lock_white_paper"
+    ],
+    [
+      "Tailnet lock white paper",
+      "https://tailscale.com/kb/1230/tailnet-lock-whitepaper/"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 19:25:20",
+      "https://lobste.rs/s/knf8e2/pattern_collider"
+    ],
+    [
+      "Pattern Collider",
+      "https://aatishb.com/patterncollider/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 19:03:47",
       "https://lobste.rs/s/oqpxg8/colorblind_async"
     ],
@@ -227,26 +247,6 @@
     [
       "Google postpones Chrome changes",
       "https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 15:05:01",
-      "https://lobste.rs/s/ck4x28/clientless_oblivious_dns"
-    ],
-    [
-      "Clientless Oblivious DNS",
-      "https://invisv.com/articles/dns.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 03:33:59",
-      "https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it"
-    ],
-    [
-      "How to steal a website and how to prevent it",
-      "https://dev.to/saashub/how-to-steal-a-website-12p7"
     ]
   ]
 ]
