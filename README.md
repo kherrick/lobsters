@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 16:22:28](https://lobste.rs/s/gd5gka/combining_model_checking_testing) - [Combining Model Checking and Testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:49:11](https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware) - [From Zero to main(): Demystifying Firmware Linker Scripts](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 * [2022-12-14, 15:38:47](https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator) - [Samila v1.0: Generative Art Generator (Stable version)](https://github.com/sepandhaghighi/samila)
@@ -23,7 +24,6 @@
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 * [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 * [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
-* [2022-12-13, 14:38:30](https://lobste.rs/s/k9jnjy/one_dockerfile_is_all_it_takes_falling) - [One Dockerfile is all it takes, falling in love with bake](https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 
 ## [Archives](archives/index.md)
