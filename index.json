@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 15:49:11",
+      "https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware"
+    ],
+    [
+      "From Zero to main(): Demystifying Firmware Linker Scripts",
+      "https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 15:38:47",
       "https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator"
     ],
@@ -207,16 +217,6 @@
     [
       "Google postpones Chrome changes",
       "https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 15:41:33",
-      "https://lobste.rs/s/xp4mld/can_good_explanation_really_prevent_prod"
-    ],
-    [
-      "Can a good explanation really prevent a prod incident?",
-      "https://jaywhy13.hashnode.dev/can-a-good-explanation-really-prevent-a-prod-incident"
     ]
   ],
   [
