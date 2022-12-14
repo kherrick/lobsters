@@ -8,7 +8,7 @@
 * [2022-12-14, 15:49:11](https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware) - [From Zero to main(): Demystifying Firmware Linker Scripts](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 * [2022-12-14, 15:38:47](https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator) - [Samila v1.0: Generative Art Generator (Stable version)](https://github.com/sepandhaghighi/samila)
 * [2022-12-14, 15:26:18](https://lobste.rs/s/nzaioi/reverse_engineering_microchip_rn_171) - [Reverse engineering the Microchip RN-171 \"WiFly\"](https://the6p4c.github.io/2020/07/15/rn-171.html)
-* [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc_iog) - [JavaScript backend merged into GHC | IOG Engineering](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
+* [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc) - [JavaScript backend merged into GHC](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
 * [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
 * [2022-12-14, 12:39:47](https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog) - [State of GUI 2022 - KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
 * [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
