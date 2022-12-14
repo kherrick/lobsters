@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 17:02:36](https://lobste.rs/s/hsl1qv/orange_micro_s_grappler_imagine_it) - [Orange Micro's Grappler+ - Imagine It...Capture It](https://computeradsfromthepast.substack.com/p/orange-micros-grappler)
 * [2022-12-14, 16:44:35](https://lobste.rs/s/nn0ams/accelerating_network_functions_using) - [Accelerating Network Functions using Reconfigurable Hardware](https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf)
 * [2022-12-14, 16:22:28](https://lobste.rs/s/gd5gka/combining_model_checking_testing) - [Combining Model Checking and Testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
@@ -17,7 +18,6 @@
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 * [2022-12-14, 02:46:37](https://lobste.rs/s/fb4fuh/preventing_loss_dot_jpeg) - [Preventing Loss Dot JPEG](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
 * [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
-* [2022-12-13, 23:28:39](https://lobste.rs/s/ynlfvu/prosody_0_12_2_released) - [Prosody 0.12.2 released](https://blog.prosody.im/prosody-0.12.2-released/)
 * [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
