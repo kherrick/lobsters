@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:49:11](https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware) - [From Zero to main(): Demystifying Firmware Linker Scripts](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 * [2022-12-14, 15:38:47](https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator) - [Samila v1.0: Generative Art Generator (Stable version)](https://github.com/sepandhaghighi/samila)
 * [2022-12-14, 15:26:18](https://lobste.rs/s/nzaioi/reverse_engineering_microchip_rn_171) - [Reverse engineering the Microchip RN-171 \"WiFly\"](https://the6p4c.github.io/2020/07/15/rn-171.html)
@@ -17,7 +18,6 @@
 * [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
 * [2022-12-13, 23:28:39](https://lobste.rs/s/ynlfvu/prosody_0_12_2_released) - [Prosody 0.12.2 released](https://blog.prosody.im/prosody-0.12.2-released/)
 * [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
-* [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)

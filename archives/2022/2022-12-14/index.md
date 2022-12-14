@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-14](index.md)
 
+* [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:49:11](https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware) - [From Zero to main(): Demystifying Firmware Linker Scripts](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 * [2022-12-14, 15:38:47](https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator) - [Samila v1.0: Generative Art Generator (Stable version)](https://github.com/sepandhaghighi/samila)
 * [2022-12-14, 15:26:18](https://lobste.rs/s/nzaioi/reverse_engineering_microchip_rn_171) - [Reverse engineering the Microchip RN-171 \"WiFly\"](https://the6p4c.github.io/2020/07/15/rn-171.html)
