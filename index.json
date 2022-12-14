@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2022-12-14, 15:38:47",
-      "https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator"
-    ],
-    [
-      "Samila v1.0: Generative Art Generator (Stable version)",
-      "https://github.com/sepandhaghighi/samila"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 15:12:58",
       "https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc"
     ],
@@ -127,6 +117,16 @@
     [
       "Rust front-end merged to GCC master",
       "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 13:34:01",
+      "https://lobste.rs/s/zqvelk/corporate_legibility_for_software"
+    ],
+    [
+      "Corporate Legibility for Software Engineers",
+      "https://matt.blwt.io/post/corporate-legibility-for-engineers/"
     ]
   ],
   [
