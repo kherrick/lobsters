@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 10:53:25",
+      "https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss"
+    ],
+    [
+      "How to rebuild social media on top of RSS",
+      "https://tfos.co/p/rebuild-social-media/"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 08:37:39",
       "https://lobste.rs/s/eslfxr/ssh_server_hardening"
     ],
@@ -217,16 +227,6 @@
     [
       "a simple semi-space collector",
       "https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 22:29:39",
-      "https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets"
-    ],
-    [
-      "Emacs: Context-aware yasnippets",
-      "https://xenodium.com/emacs-generate-a-swift-initializer/"
     ]
   ],
   [
