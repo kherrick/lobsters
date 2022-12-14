@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 15:38:47](https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator) - [Samila v1.0: Generative Art Generator (Stable version)](https://github.com/sepandhaghighi/samila)
 * [2022-12-14, 15:26:18](https://lobste.rs/s/nzaioi/reverse_engineering_microchip_rn_171) - [Reverse engineering the Microchip RN-171 \"WiFly\"](https://the6p4c.github.io/2020/07/15/rn-171.html)
 * [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc_iog) - [JavaScript backend merged into GHC | IOG Engineering](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
 * [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
@@ -23,7 +24,6 @@
 * [2022-12-13, 15:41:33](https://lobste.rs/s/xp4mld/can_good_explanation_really_prevent_prod) - [Can a good explanation really prevent a prod incident?](https://jaywhy13.hashnode.dev/can-a-good-explanation-really-prevent-a-prod-incident)
 * [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
 * [2022-12-13, 14:38:30](https://lobste.rs/s/k9jnjy/one_dockerfile_is_all_it_takes_falling) - [One Dockerfile is all it takes, falling in love with bake](https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling)
-* [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 
 ## [Archives](archives/index.md)
