@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 12:39:47](https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog) - [State of GUI 2022 - KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
 * [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
 * [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
@@ -24,7 +25,6 @@
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
-* [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 
 ## [Archives](archives/index.md)
 
