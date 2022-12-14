@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 * [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
 * [2022-12-14, 07:24:42](https://lobste.rs/s/fholod/highlights_from_git_2_39) - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
@@ -19,7 +20,6 @@
 * [2022-12-13, 14:38:30](https://lobste.rs/s/k9jnjy/one_dockerfile_is_all_it_takes_falling) - [One Dockerfile is all it takes, falling in love with bake](https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling)
 * [2022-12-13, 14:27:24](https://lobste.rs/s/nukjst/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2022](https://www.haiku-os.org/blog/waddlesplash/2022-12-12_haiku_activity_contract_report_november_2022/)
 * [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
-* [2022-12-13, 11:51:24](https://lobste.rs/s/gyadfq/c_c_profiling_tools) - [C/C++ Profiling Tools](https://www.kdab.com/c-cpp-profiling-tools/)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
 * [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
