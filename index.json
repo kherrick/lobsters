@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-12-13, 23:46:43",
+      "https://lobste.rs/s/fmt4fb/project_butterfly_701c_org"
+    ],
+    [
+      "Project Butterfly / 701c.org",
+      "https://www.701c.org/"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 23:28:39",
       "https://lobste.rs/s/ynlfvu/prosody_0_12_2_released"
     ],
@@ -237,16 +247,6 @@
     [
       "a simple semi-space collector",
       "https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 19:21:05",
-      "https://lobste.rs/s/kstnhp/rust_2023"
-    ],
-    [
-      "Rust in 2023",
-      "https://www.ncameron.org/blog/rust-in-2023/"
     ]
   ]
 ]
