@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 16:44:35",
+      "https://lobste.rs/s/nn0ams/accelerating_network_functions_using"
+    ],
+    [
+      "Accelerating Network Functions using Reconfigurable Hardware",
+      "https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 16:22:28",
       "https://lobste.rs/s/gd5gka/combining_model_checking_testing"
     ],
@@ -67,16 +77,6 @@
     [
       "Rust front-end merged to GCC master",
       "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 13:34:01",
-      "https://lobste.rs/s/zqvelk/corporate_legibility_for_software"
-    ],
-    [
-      "Corporate Legibility for Software Engineers",
-      "https://matt.blwt.io/post/corporate-legibility-for-engineers/"
     ]
   ],
   [
