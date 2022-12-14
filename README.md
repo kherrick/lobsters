@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 02:46:37](https://lobste.rs/s/fb4fuh/preventing_loss_dot_jpeg) - [Preventing Loss Dot JPEG](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
+* [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
 * [2022-12-13, 23:46:43](https://lobste.rs/s/fmt4fb/project_butterfly_701c_org) - [Project Butterfly / 701c.org](https://www.701c.org/)
 * [2022-12-13, 23:28:39](https://lobste.rs/s/ynlfvu/prosody_0_12_2_released) - [Prosody 0.12.2 released](https://blog.prosody.im/prosody-0.12.2-released/)
 * [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
 * [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
-* [2022-12-13, 21:17:03](https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations) - [Integrating Unikernel Optimizations in a General Purpose OS](https://arxiv.org/abs/2206.00789)
 * [2022-12-13, 18:17:46](https://lobste.rs/s/2co7mm/programming_culture_late_aughts) - [Programming culture in the late aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
@@ -24,7 +25,6 @@
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 * [2022-12-12, 14:56:16](https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported) - [The Zig programming language has been ported to SerenityOS](https://twitter.com/awesomekling/status/1602315728320880640)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
-* [2022-12-12, 03:59:04](https://lobste.rs/s/pmieoo/what_is_modern_code_editor) - [What is in a modern code editor?](https://blog.meain.io/2022/modern-text-editor/)
 
 ## [Archives](archives/index.md)
 
