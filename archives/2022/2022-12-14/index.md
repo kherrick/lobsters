@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-14](index.md)
 
+* [2022-12-14, 22:11:18](https://lobste.rs/s/hvg3tc/when_types_lie_rust_themed_whodunnit) - [When types lie - a rust themed whodunnit](https://www.craft.do/s/Sn32pevFn2XYHO)
 * [2022-12-14, 19:28:56](https://lobste.rs/s/fiinse/tailnet_lock_white_paper) - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
 * [2022-12-14, 19:25:20](https://lobste.rs/s/knf8e2/pattern_collider) - [Pattern Collider](https://aatishb.com/patterncollider/)
 * [2022-12-14, 19:03:47](https://lobste.rs/s/oqpxg8/colorblind_async) - [Colorblind Async](https://github.com/tzolkincz/colorblind-async)
