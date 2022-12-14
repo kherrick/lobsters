@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2022-12-13, 21:17:03",
+      "https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations"
+    ],
+    [
+      "Integrating Unikernel Optimizations in a General Purpose OS",
+      "https://arxiv.org/abs/2206.00789"
+    ]
+  ],
+  [
+    [
       "2022-12-13, 18:17:46",
       "https://lobste.rs/s/2co7mm/programming_culture_late_aughts"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust in 2023",
       "https://www.ncameron.org/blog/rust-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 14:56:16",
-      "https://lobste.rs/s/bxuzmz/zig_programming_language_has_been_ported"
-    ],
-    [
-      "The Zig programming language has been ported to SerenityOS",
-      "https://twitter.com/awesomekling/status/1602315728320880640"
     ]
   ],
   [
