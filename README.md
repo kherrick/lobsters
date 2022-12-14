@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
 * [2022-12-14, 07:24:42](https://lobste.rs/s/fholod/highlights_from_git_2_39) - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 * [2022-12-14, 02:46:37](https://lobste.rs/s/fb4fuh/preventing_loss_dot_jpeg) - [Preventing Loss Dot JPEG](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
 * [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
-* [2022-12-13, 23:46:43](https://lobste.rs/s/fmt4fb/project_butterfly_701c_org) - [Project Butterfly / 701c.org](https://www.701c.org/)
 * [2022-12-13, 23:28:39](https://lobste.rs/s/ynlfvu/prosody_0_12_2_released) - [Prosody 0.12.2 released](https://blog.prosody.im/prosody-0.12.2-released/)
 * [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
 * [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
