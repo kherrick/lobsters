@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-14, 12:39:47",
+      "https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog"
+    ],
+    [
+      "State of GUI 2022 - KAS blog",
+      "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 11:22:13",
       "https://lobste.rs/s/oq78jm/using_commandline_process_csv_files"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust in 2023",
       "https://www.ncameron.org/blog/rust-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2022-12-12, 13:02:12",
-      "https://lobste.rs/s/vsb6ue/case_for_models"
-    ],
-    [
-      "The Case for Models",
-      "https://concerningquality.com/models/"
     ]
   ]
 ]
