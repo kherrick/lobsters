@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-14](index.md)
 
+* [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
 * [2022-12-14, 13:34:01](https://lobste.rs/s/zqvelk/corporate_legibility_for_software) - [Corporate Legibility for Software Engineers](https://matt.blwt.io/post/corporate-legibility-for-engineers/)
 * [2022-12-14, 12:39:47](https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog) - [State of GUI 2022 - KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
 * [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
