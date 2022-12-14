@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 * [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
 * [2022-12-14, 07:24:42](https://lobste.rs/s/fholod/highlights_from_git_2_39) - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
@@ -22,7 +23,6 @@
 * [2022-12-13, 13:35:43](https://lobste.rs/s/vleslg/what_s_great_about_julia) - [What's great about Julia?](https://viralinstruction.com/posts/goodjulia/)
 * [2022-12-13, 03:33:59](https://lobste.rs/s/gxilqj/how_steal_website_how_prevent_it) - [How to steal a website and how to prevent it](https://dev.to/saashub/how-to-steal-a-website-12p7)
 * [2022-12-13, 01:23:40](https://lobste.rs/s/p4co53/simple_semi_space_collector) - [a simple semi-space collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)
-* [2022-12-12, 22:29:39](https://lobste.rs/s/e5qdxb/emacs_context_aware_yasnippets) - [Emacs: Context-aware yasnippets](https://xenodium.com/emacs-generate-a-swift-initializer/)
 * [2022-12-12, 19:21:05](https://lobste.rs/s/kstnhp/rust_2023) - [Rust in 2023](https://www.ncameron.org/blog/rust-in-2023/)
 * [2022-12-12, 13:02:12](https://lobste.rs/s/vsb6ue/case_for_models) - [The Case for Models](https://concerningquality.com/models/)
 

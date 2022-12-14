@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-14](index.md)
 
+* [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 * [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
 * [2022-12-14, 07:24:42](https://lobste.rs/s/fholod/highlights_from_git_2_39) - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
