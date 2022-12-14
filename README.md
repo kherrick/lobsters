@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 19:03:47](https://lobste.rs/s/oqpxg8/colorblind_async) - [Colorblind Async](https://github.com/tzolkincz/colorblind-async)
 * [2022-12-14, 18:18:39](https://lobste.rs/s/sqilk6/native_internet_protocol_for_social) - [a native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
 * [2022-12-14, 17:02:36](https://lobste.rs/s/hsl1qv/orange_micro_s_grappler_imagine_it) - [Orange Micro's Grappler+ - Imagine It...Capture It](https://computeradsfromthepast.substack.com/p/orange-micros-grappler)
 * [2022-12-14, 16:44:35](https://lobste.rs/s/nn0ams/accelerating_network_functions_using) - [Accelerating Network Functions using Reconfigurable Hardware](https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf)
@@ -20,7 +21,6 @@
 * [2022-12-14, 02:46:37](https://lobste.rs/s/fb4fuh/preventing_loss_dot_jpeg) - [Preventing Loss Dot JPEG](https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html)
 * [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
-* [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 * [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 * [2022-12-13, 15:05:01](https://lobste.rs/s/ck4x28/clientless_oblivious_dns) - [Clientless Oblivious DNS](https://invisv.com/articles/dns.html)
