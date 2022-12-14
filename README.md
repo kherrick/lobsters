@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
 * [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 * [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
@@ -10,7 +11,6 @@
 * [2022-12-13, 23:28:39](https://lobste.rs/s/ynlfvu/prosody_0_12_2_released) - [Prosody 0.12.2 released](https://blog.prosody.im/prosody-0.12.2-released/)
 * [2022-12-13, 22:38:11](https://lobste.rs/s/at4sio/trying_remove_need_trust_cloud_providers) - [Trying to remove the need to trust cloud providers](https://mjg59.dreamwidth.org/63261.html)
 * [2022-12-13, 21:25:02](https://lobste.rs/s/zqmrxm/crimes_against_cloud_investigation) - [Crimes against cloud: an investigation](https://newsletter.goodtechthings.com/p/crimes-against-cloud-an-investigation)
-* [2022-12-13, 21:17:03](https://lobste.rs/s/8spr7g/integrating_unikernel_optimizations) - [Integrating Unikernel Optimizations in a General Purpose OS](https://arxiv.org/abs/2206.00789)
 * [2022-12-13, 18:17:46](https://lobste.rs/s/2co7mm/programming_culture_late_aughts) - [Programming culture in the late aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2022-12-13, 17:19:28](https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing) - [What we can learn from vintage computing](https://github.com/readme/featured/vintage-computing)
 * [2022-12-13, 17:10:48](https://lobste.rs/s/knzxe4/ajax_without_x_history_json) - [AJAX without the X: The History of JSON](https://thehistoryoftheweb.com/ajax-without-the-x-the-history-of-json/)
