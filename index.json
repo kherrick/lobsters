@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-14, 15:26:18",
+      "https://lobste.rs/s/nzaioi/reverse_engineering_microchip_rn_171"
+    ],
+    [
+      "Reverse engineering the Microchip RN-171 \"WiFly\"",
+      "https://the6p4c.github.io/2020/07/15/rn-171.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-14, 15:12:58",
+      "https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc_iog"
+    ],
+    [
+      "JavaScript backend merged into GHC | IOG Engineering",
+      "https://engineering.iog.io/2022-12-13-ghc-js-backend-merged"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 14:07:18",
       "https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-12-13, 23:46:43",
-      "https://lobste.rs/s/fmt4fb/project_butterfly_701c_org"
-    ],
-    [
-      "Project Butterfly / 701c.org",
-      "https://www.701c.org/"
-    ]
-  ],
-  [
-    [
       "2022-12-13, 23:28:39",
       "https://lobste.rs/s/ynlfvu/prosody_0_12_2_released"
     ],
@@ -217,16 +227,6 @@
     [
       "One Dockerfile is all it takes, falling in love with bake",
       "https://sliceofexperiments.substack.com/p/one-dockerfile-is-all-it-takes-falling"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 14:27:24",
-      "https://lobste.rs/s/nukjst/haiku_activity_contract_report_november"
-    ],
-    [
-      "Haiku Activity & Contract Report, November 2022",
-      "https://www.haiku-os.org/blog/waddlesplash/2022-12-12_haiku_activity_contract_report_november_2022/"
     ]
   ],
   [
