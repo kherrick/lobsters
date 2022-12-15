@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 06:31:00](https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries) - [Generic Tagging for RISC-V Binaries](https://arxiv.org/pdf/2212.05614.pdf)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 * [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
@@ -14,7 +15,6 @@
 * [2022-12-14, 17:02:36](https://lobste.rs/s/hsl1qv/orange_micro_s_grappler_imagine_it) - [Orange Micro's Grappler+ - Imagine It...Capture It](https://computeradsfromthepast.substack.com/p/orange-micros-grappler)
 * [2022-12-14, 16:22:28](https://lobste.rs/s/gd5gka/combining_model_checking_testing) - [Combining Model Checking and Testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
-* [2022-12-14, 15:49:11](https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware) - [From Zero to main(): Demystifying Firmware Linker Scripts](https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware)
 * [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc) - [JavaScript backend merged into GHC](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
 * [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
 * [2022-12-14, 12:39:47](https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog) - [State of GUI 2022 - KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)

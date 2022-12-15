@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 06:31:00](https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries) - [Generic Tagging for RISC-V Binaries](https://arxiv.org/pdf/2212.05614.pdf)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 * [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
