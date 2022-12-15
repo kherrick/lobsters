@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 18:15:02](https://lobste.rs/s/w0qcrc/december_update_merry_christmas_happy) - [December Update: Merry Christmas and Happy New PineTab](https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/)
 * [2022-12-15, 17:29:28](https://lobste.rs/s/ira75b/find_mentor_ruby_community) - [Find a mentor in the Ruby community](https://firstrubyfriend.org/)
@@ -9,9 +10,8 @@
 * [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 * [2022-12-15, 16:01:41](https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems) - [The Law of Stretched [Cognitive] Systems](https://ferd.ca/the-law-of-stretched-cognitive-systems.html)
-* [2022-12-15, 15:20:58](https://lobste.rs/s/nlr4mu/appcode_2022_3_release_end_sales_support) - [AppCode 2022.3 Release and End of Sales and Support](https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/)
-* [2022-12-15, 15:20:36](https://lobste.rs/s/bo6iml/machine_learning_with_etnaviv_opencl) - [Machine Learning with Etnaviv and OpenCL](https://www.collabora.com/news-and-blog/blog/2022/12/15/machine-learning-with-etnaviv-and-opencl/)
 * [2022-12-15, 14:27:15](https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws) - [Hashcracking with Hashcat and AWS](https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/)
+* [2022-12-15, 12:58:46](https://lobste.rs/s/911uqw/libjs_exploitation_broobwser_writeup) - [LibJS exploitation: 'broobwser' writeup](https://0xbigshaq.github.io/2022/12/08/broobwser/)
 * [2022-12-15, 12:29:20](https://lobste.rs/s/flutnd/storing_data_electron_applications) - [Storing Data in Electron Applications](https://rxdb.info/electron-database.html)
 * [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
