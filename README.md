@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
 * [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
 * [2022-12-15, 07:16:24](https://lobste.rs/s/0cetuz/coroutines_as_threads) - [Coroutines As Threads](https://dmitrykandalov.com/coroutines-as-threads)
@@ -19,7 +20,6 @@
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc) - [JavaScript backend merged into GHC](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
 * [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
-* [2022-12-14, 12:39:47](https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog) - [State of GUI 2022 - KAS blog](https://kas-gui.github.io/blog/state-of-GUI-2022.html)
 * [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
 * [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
