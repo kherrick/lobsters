@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 21:45:56](https://lobste.rs/s/vhydzz/announcing_vite_4) - [Announcing Vite 4](https://vitejs.dev/blog/announcing-vite4.html)
+* [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 21:19:12](https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns) - [Sen. Wyden Requests Probe into Sale of DNS Query Data](https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf)
 * [2022-12-15, 21:12:14](https://lobste.rs/s/n6nigc/nix_caching_cis) - [Nix, Caching, and CIs](https://garnix.io/blog/nix-caching-ci)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
