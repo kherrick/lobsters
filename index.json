@@ -1,6 +1,56 @@
 [
   [
     [
+      "2022-12-15, 16:22:12",
+      "https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application"
+    ],
+    [
+      "How to onboard an existing Helm application in ArgoCD",
+      "https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 16:18:46",
+      "https://lobste.rs/s/bc0xug/pycm_3_7_released_multi_class_confusion"
+    ],
+    [
+      "PyCM 3.7 released: Multi-class confusion matrix library in Python - ROC/PR curve added",
+      "https://github.com/sepandhaghighi/pycm"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 16:15:20",
+      "https://lobste.rs/s/h2jt79/choose_your_own_adventure_style"
+    ],
+    [
+      "Choose Your Own Adventure-style Debugging Mysteries",
+      "https://mysteries.wizardzines.com/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 16:01:46",
+      "https://lobste.rs/s/dixbti/native_reflection_rust"
+    ],
+    [
+      "Native Reflection in Rust",
+      "https://jack.wrenn.fyi/blog/deflect/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 16:01:41",
+      "https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems"
+    ],
+    [
+      "The Law of Stretched [Cognitive] Systems",
+      "https://ferd.ca/the-law-of-stretched-cognitive-systems.html"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 15:20:58",
       "https://lobste.rs/s/nlr4mu/appcode_2022_3_release_end_sales_support"
     ],
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2022-12-15, 03:22:45",
-      "https://lobste.rs/s/o5p1u0/compiler_tricks_avoid_abi_induced"
-    ],
-    [
-      "Compiler Tricks to Avoid ABI-Induced Crashes",
-      "https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 03:07:00",
       "https://lobste.rs/s/hot5by/garnet_generics_problem"
     ],
@@ -151,52 +191,12 @@
   ],
   [
     [
-      "2022-12-14, 19:25:20",
-      "https://lobste.rs/s/knf8e2/pattern_collider"
-    ],
-    [
-      "Pattern Collider",
-      "https://aatishb.com/patterncollider/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 19:03:47",
-      "https://lobste.rs/s/oqpxg8/colorblind_async"
-    ],
-    [
-      "Colorblind Async",
-      "https://github.com/tzolkincz/colorblind-async"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 18:18:39",
-      "https://lobste.rs/s/sqilk6/native_internet_protocol_for_social"
-    ],
-    [
-      "a native internet protocol for social media",
-      "https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 16:08:55",
       "https://lobste.rs/s/dkiosk/idn_is_crazy"
     ],
     [
       "IDN is crazy",
       "https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 15:12:58",
-      "https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc"
-    ],
-    [
-      "JavaScript backend merged into GHC",
-      "https://engineering.iog.io/2022-12-13-ghc-js-backend-merged"
     ]
   ],
   [
