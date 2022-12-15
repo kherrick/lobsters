@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 07:16:24](https://lobste.rs/s/0cetuz/coroutines_as_threads) - [Coroutines As Threads](https://dmitrykandalov.com/coroutines-as-threads)
 * [2022-12-15, 06:31:00](https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries) - [Generic Tagging for RISC-V Binaries](https://arxiv.org/pdf/2212.05614.pdf)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 * [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
@@ -22,7 +23,6 @@
 * [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 * [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
-* [2022-12-14, 07:24:42](https://lobste.rs/s/fholod/highlights_from_git_2_39) - [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 
