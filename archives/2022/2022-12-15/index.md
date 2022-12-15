@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 16:22:12](https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application) - [How to onboard an existing Helm application in ArgoCD](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)
+* [2022-12-15, 16:18:46](https://lobste.rs/s/bc0xug/pycm_3_7_released_multi_class_confusion) - [PyCM 3.7 released: Multi-class confusion matrix library in Python - ROC/PR curve added](https://github.com/sepandhaghighi/pycm)
+* [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
+* [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
+* [2022-12-15, 16:01:41](https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems) - [The Law of Stretched [Cognitive] Systems](https://ferd.ca/the-law-of-stretched-cognitive-systems.html)
 * [2022-12-15, 15:20:58](https://lobste.rs/s/nlr4mu/appcode_2022_3_release_end_sales_support) - [AppCode 2022.3 Release and End of Sales and Support](https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/)
 * [2022-12-15, 15:20:36](https://lobste.rs/s/bo6iml/machine_learning_with_etnaviv_opencl) - [Machine Learning with Etnaviv and OpenCL](https://www.collabora.com/news-and-blog/blog/2022/12/15/machine-learning-with-etnaviv-and-opencl/)
 * [2022-12-15, 14:27:15](https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws) - [Hashcracking with Hashcat and AWS](https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/)
