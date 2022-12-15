@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:21:20](https://lobste.rs/s/haydwp/rubbing_control_theory_on_go_scheduler) - [Rubbing control theory on the Go scheduler](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 * [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
