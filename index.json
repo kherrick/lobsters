@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 16:54:22",
+      "https://lobste.rs/s/yequwk/proofs_about_programs_interactive"
+    ],
+    [
+      "Proofs about programs - an interactive tutorial",
+      "https://busy-beavers.tigyog.app/proofs-about-programs"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 16:22:12",
       "https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application"
     ],
@@ -237,16 +247,6 @@
     [
       "SSH server hardening",
       "https://ittavern.com/ssh-server-hardening/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 03:32:32",
-      "https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs"
-    ],
-    [
-      "Protocols As Practice Projects: Or, Why RFCs aren't (that) scary",
-      "https://naiveai.hashnode.dev/protocols-as-practice-projects"
     ]
   ]
 ]
