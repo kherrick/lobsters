@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 10:41:29",
+      "https://lobste.rs/s/ebegpu/how_might_generative_ai_change"
+    ],
+    [
+      "How Might Generative AI Change Programming?",
+      "https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 09:03:05",
       "https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust front-end merged to GCC master",
       "https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 12:39:47",
-      "https://lobste.rs/s/iqcuuz/state_gui_2022_kas_blog"
-    ],
-    [
-      "State of GUI 2022 - KAS blog",
-      "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
     ]
   ],
   [
