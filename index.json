@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 19:00:48",
+      "https://lobste.rs/s/9px9yb/riffusion"
+    ],
+    [
+      "Riffusion",
+      "https://www.riffusion.com/about"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 18:32:58",
       "https://lobste.rs/s/vbku9l/announcing_rust_1_66_0"
     ],
@@ -91,32 +101,22 @@
   ],
   [
     [
-      "2022-12-15, 15:20:58",
-      "https://lobste.rs/s/nlr4mu/appcode_2022_3_release_end_sales_support"
-    ],
-    [
-      "AppCode 2022.3 Release and End of Sales and Support",
-      "https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 15:20:36",
-      "https://lobste.rs/s/bo6iml/machine_learning_with_etnaviv_opencl"
-    ],
-    [
-      "Machine Learning with Etnaviv and OpenCL",
-      "https://www.collabora.com/news-and-blog/blog/2022/12/15/machine-learning-with-etnaviv-and-opencl/"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 14:27:15",
       "https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws"
     ],
     [
       "Hashcracking with Hashcat and AWS",
       "https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 12:58:46",
+      "https://lobste.rs/s/911uqw/libjs_exploitation_broobwser_writeup"
+    ],
+    [
+      "LibJS exploitation: 'broobwser' writeup",
+      "https://0xbigshaq.github.io/2022/12/08/broobwser/"
     ]
   ],
   [
