@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-15, 21:19:12",
+      "https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns"
+    ],
+    [
+      "Sen. Wyden Requests Probe into Sale of DNS Query Data",
+      "https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 21:12:14",
+      "https://lobste.rs/s/n6nigc/nix_caching_cis"
+    ],
+    [
+      "Nix, Caching, and CIs",
+      "https://garnix.io/blog/nix-caching-ci"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 20:41:55",
       "https://lobste.rs/s/hmayss/more_challenging_projects_every"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-15, 12:29:20",
-      "https://lobste.rs/s/flutnd/storing_data_electron_applications"
-    ],
-    [
-      "Storing Data in Electron Applications",
-      "https://rxdb.info/electron-database.html"
-    ]
-  ],
-  [
-    [
       "2022-12-15, 10:41:29",
       "https://lobste.rs/s/ebegpu/how_might_generative_ai_change"
     ],
@@ -217,16 +227,6 @@
     [
       "Garnet: The Generics Problem",
       "https://man.sr.ht/~icefox/garnet/generics.md"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 19:28:56",
-      "https://lobste.rs/s/fiinse/tailnet_lock_white_paper"
-    ],
-    [
-      "Tailnet lock white paper",
-      "https://tailscale.com/kb/1230/tailnet-lock-whitepaper/"
     ]
   ],
   [
