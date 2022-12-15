@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 22:25:30](https://lobste.rs/s/skybrv/nist_retires_sha_1_cryptographic) - [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 * [2022-12-15, 21:45:56](https://lobste.rs/s/vhydzz/announcing_vite_4) - [Announcing Vite 4](https://vitejs.dev/blog/announcing-vite4.html)
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 21:19:12](https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns) - [Sen. Wyden Requests Probe into Sale of DNS Query Data](https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf)
@@ -24,7 +25,6 @@
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
-* [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 
 ## [Archives](archives/index.md)
 
