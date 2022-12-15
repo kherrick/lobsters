@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 12:29:20](https://lobste.rs/s/flutnd/storing_data_electron_applications) - [Storing Data in Electron Applications](https://rxdb.info/electron-database.html)
 * [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
 * [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
@@ -9,7 +10,6 @@
 * [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
 * [2022-12-15, 03:22:45](https://lobste.rs/s/o5p1u0/compiler_tricks_avoid_abi_induced) - [Compiler Tricks to Avoid ABI-Induced Crashes](https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/)
-* [2022-12-15, 03:22:26](https://lobste.rs/s/y0bs3k/answering_burning_questions_about_apple) - [Answering the burning questions about Apple’s reported App Store plans](https://sixcolors.com/post/2022/12/answering-the-burning-questions-about-apples-reported-app-store-plans/)
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
 * [2022-12-14, 22:11:18](https://lobste.rs/s/hvg3tc/when_types_lie_rust_themed_whodunnit) - [When types lie - a rust themed whodunnit](https://www.craft.do/s/Sn32pevFn2XYHO)
 * [2022-12-14, 19:28:56](https://lobste.rs/s/fiinse/tailnet_lock_white_paper) - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
