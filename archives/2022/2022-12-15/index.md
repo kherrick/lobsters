@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
+* [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
 * [2022-12-15, 07:16:24](https://lobste.rs/s/0cetuz/coroutines_as_threads) - [Coroutines As Threads](https://dmitrykandalov.com/coroutines-as-threads)
 * [2022-12-15, 06:31:00](https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries) - [Generic Tagging for RISC-V Binaries](https://arxiv.org/pdf/2212.05614.pdf)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)

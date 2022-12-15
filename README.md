@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
+* [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
 * [2022-12-15, 07:16:24](https://lobste.rs/s/0cetuz/coroutines_as_threads) - [Coroutines As Threads](https://dmitrykandalov.com/coroutines-as-threads)
 * [2022-12-15, 06:31:00](https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries) - [Generic Tagging for RISC-V Binaries](https://arxiv.org/pdf/2212.05614.pdf)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
@@ -13,7 +15,6 @@
 * [2022-12-14, 19:25:20](https://lobste.rs/s/knf8e2/pattern_collider) - [Pattern Collider](https://aatishb.com/patterncollider/)
 * [2022-12-14, 19:03:47](https://lobste.rs/s/oqpxg8/colorblind_async) - [Colorblind Async](https://github.com/tzolkincz/colorblind-async)
 * [2022-12-14, 18:18:39](https://lobste.rs/s/sqilk6/native_internet_protocol_for_social) - [a native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
-* [2022-12-14, 17:02:36](https://lobste.rs/s/hsl1qv/orange_micro_s_grappler_imagine_it) - [Orange Micro's Grappler+ - Imagine It...Capture It](https://computeradsfromthepast.substack.com/p/orange-micros-grappler)
 * [2022-12-14, 16:22:28](https://lobste.rs/s/gd5gka/combining_model_checking_testing) - [Combining Model Checking and Testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc) - [JavaScript backend merged into GHC](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
@@ -22,7 +23,6 @@
 * [2022-12-14, 11:22:13](https://lobste.rs/s/oq78jm/using_commandline_process_csv_files) - [Using Commandline To Process CSV files](https://muhammadraza.me/2022/data-oneliners/)
 * [2022-12-14, 10:53:25](https://lobste.rs/s/izkbzk/how_rebuild_social_media_on_top_rss) - [How to rebuild social media on top of RSS](https://tfos.co/p/rebuild-social-media/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
-* [2022-12-14, 08:10:03](https://lobste.rs/s/snekrx/beginner_friendly_introduction_free) - [Beginner-friendly introduction to Free Monads](https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf)
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
 
