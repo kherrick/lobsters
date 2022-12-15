@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
 * [2022-12-15, 03:22:45](https://lobste.rs/s/o5p1u0/compiler_tricks_avoid_abi_induced) - [Compiler Tricks to Avoid ABI-Induced Crashes](https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/)
 * [2022-12-15, 03:22:26](https://lobste.rs/s/y0bs3k/answering_burning_questions_about_apple) - [Answering the burning questions about Apple’s reported App Store plans](https://sixcolors.com/post/2022/12/answering-the-burning-questions-about-apples-reported-app-store-plans/)
@@ -24,7 +25,6 @@
 * [2022-12-14, 03:32:32](https://lobste.rs/s/spiw5g/protocols_as_practice_projects_why_rfcs) - [Protocols As Practice Projects: Or, Why RFCs aren't (that) scary](https://naiveai.hashnode.dev/protocols-as-practice-projects)
 * [2022-12-14, 02:14:21](https://lobste.rs/s/j8yyeb/webkit_features_safari_16_2) - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
 * [2022-12-13, 17:01:13](https://lobste.rs/s/h1bm09/noulith_new_programming_language) - [Noulith: a new programming language](https://github.com/betaveros/noulith/)
-* [2022-12-13, 16:26:18](https://lobste.rs/s/0pxg8n/google_postpones_chrome_changes) - [Google postpones Chrome changes](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
 
 ## [Archives](archives/index.md)
 
