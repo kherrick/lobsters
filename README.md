@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 21:19:12](https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns) - [Sen. Wyden Requests Probe into Sale of DNS Query Data](https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf)
+* [2022-12-15, 21:12:14](https://lobste.rs/s/n6nigc/nix_caching_cis) - [Nix, Caching, and CIs](https://garnix.io/blog/nix-caching-ci)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:21:20](https://lobste.rs/s/haydwp/rubbing_control_theory_on_go_scheduler) - [Rubbing control theory on the Go scheduler](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
@@ -13,7 +15,6 @@
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 * [2022-12-15, 16:01:41](https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems) - [The Law of Stretched [Cognitive] Systems](https://ferd.ca/the-law-of-stretched-cognitive-systems.html)
 * [2022-12-15, 14:27:15](https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws) - [Hashcracking with Hashcat and AWS](https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/)
-* [2022-12-15, 12:29:20](https://lobste.rs/s/flutnd/storing_data_electron_applications) - [Storing Data in Electron Applications](https://rxdb.info/electron-database.html)
 * [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
 * [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
@@ -22,7 +23,6 @@
 * [2022-12-15, 05:05:14](https://lobste.rs/s/cxzmbn/annotated_example_using_lpeg_parse) - [An annotated example of using LPeg to parse a string to generate LPeg to parse other strings](https://boston.conman.org/2022/12/14.1)
 * [2022-12-15, 03:28:25](https://lobste.rs/s/6tn0iz/update_from_world_fedora_workstation) - [Update from the world of Fedora Workstation](https://blogs.gnome.org/uraeus/2022/12/14/update-from-the-world-of-fedora-workstation/)
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
-* [2022-12-14, 19:28:56](https://lobste.rs/s/fiinse/tailnet_lock_white_paper) - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 
