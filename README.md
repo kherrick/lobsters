@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 17:29:28](https://lobste.rs/s/ira75b/find_mentor_ruby_community) - [Find a mentor in the Ruby community](https://firstrubyfriend.org/)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:22:12](https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application) - [How to onboard an existing Helm application in ArgoCD](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)
 * [2022-12-15, 16:18:46](https://lobste.rs/s/bc0xug/pycm_3_7_released_multi_class_confusion) - [PyCM 3.7 released: Multi-class confusion matrix library in Python - ROC/PR curve added](https://github.com/sepandhaghighi/pycm)
@@ -9,7 +10,6 @@
 * [2022-12-15, 15:20:58](https://lobste.rs/s/nlr4mu/appcode_2022_3_release_end_sales_support) - [AppCode 2022.3 Release and End of Sales and Support](https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/)
 * [2022-12-15, 15:20:36](https://lobste.rs/s/bo6iml/machine_learning_with_etnaviv_opencl) - [Machine Learning with Etnaviv and OpenCL](https://www.collabora.com/news-and-blog/blog/2022/12/15/machine-learning-with-etnaviv-and-opencl/)
 * [2022-12-15, 14:27:15](https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws) - [Hashcracking with Hashcat and AWS](https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/)
-* [2022-12-15, 12:58:46](https://lobste.rs/s/911uqw/libjs_exploitation_broobwser_writeup) - [LibJS exploitation: 'broobwser' writeup](https://0xbigshaq.github.io/2022/12/08/broobwser/)
 * [2022-12-15, 12:29:20](https://lobste.rs/s/flutnd/storing_data_electron_applications) - [Storing Data in Electron Applications](https://rxdb.info/electron-database.html)
 * [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)

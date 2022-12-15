@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 17:29:28](https://lobste.rs/s/ira75b/find_mentor_ruby_community) - [Find a mentor in the Ruby community](https://firstrubyfriend.org/)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:22:12](https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application) - [How to onboard an existing Helm application in ArgoCD](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)
 * [2022-12-15, 16:18:46](https://lobste.rs/s/bc0xug/pycm_3_7_released_multi_class_confusion) - [PyCM 3.7 released: Multi-class confusion matrix library in Python - ROC/PR curve added](https://github.com/sepandhaghighi/pycm)
