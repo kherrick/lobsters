@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 20:21:20](https://lobste.rs/s/haydwp/rubbing_control_theory_on_go_scheduler) - [Rubbing control theory on the Go scheduler](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
+* [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
+* [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
 * [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 18:15:02](https://lobste.rs/s/w0qcrc/december_update_merry_christmas_happy) - [December Update: Merry Christmas and Happy New PineTab](https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/)

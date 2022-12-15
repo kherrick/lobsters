@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 20:21:20](https://lobste.rs/s/haydwp/rubbing_control_theory_on_go_scheduler) - [Rubbing control theory on the Go scheduler](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
+* [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
+* [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
 * [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 18:15:02](https://lobste.rs/s/w0qcrc/december_update_merry_christmas_happy) - [December Update: Merry Christmas and Happy New PineTab](https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/)
 * [2022-12-15, 17:29:28](https://lobste.rs/s/ira75b/find_mentor_ruby_community) - [Find a mentor in the Ruby community](https://firstrubyfriend.org/)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
-* [2022-12-15, 16:22:12](https://lobste.rs/s/tolrfq/how_onboard_existing_helm_application) - [How to onboard an existing Helm application in ArgoCD](https://www.aviator.co/blog/how-to-onboard-an-existing-helm-application-in-argocd/)
-* [2022-12-15, 16:18:46](https://lobste.rs/s/bc0xug/pycm_3_7_released_multi_class_confusion) - [PyCM 3.7 released: Multi-class confusion matrix library in Python - ROC/PR curve added](https://github.com/sepandhaghighi/pycm)
 * [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 * [2022-12-15, 16:01:41](https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems) - [The Law of Stretched [Cognitive] Systems](https://ferd.ca/the-law-of-stretched-cognitive-systems.html)
@@ -23,7 +24,6 @@
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
 * [2022-12-14, 19:28:56](https://lobste.rs/s/fiinse/tailnet_lock_white_paper) - [Tailnet lock white paper](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
-* [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
 * [2022-12-14, 08:37:39](https://lobste.rs/s/eslfxr/ssh_server_hardening) - [SSH server hardening](https://ittavern.com/ssh-server-hardening/)
 
 ## [Archives](archives/index.md)
