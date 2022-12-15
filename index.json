@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-15, 03:22:45",
+      "https://lobste.rs/s/o5p1u0/compiler_tricks_avoid_abi_induced"
+    ],
+    [
+      "Compiler Tricks to Avoid ABI-Induced Crashes",
+      "https://randomascii.wordpress.com/2022/12/14/compiler-tricks-to-avoid-abi-induced-crashes/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 03:22:26",
+      "https://lobste.rs/s/y0bs3k/answering_burning_questions_about_apple"
+    ],
+    [
+      "Answering the burning questions about Apple’s reported App Store plans",
+      "https://sixcolors.com/post/2022/12/answering-the-burning-questions-about-apples-reported-app-store-plans/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 03:07:00",
+      "https://lobste.rs/s/hot5by/garnet_generics_problem"
+    ],
+    [
+      "Garnet: The Generics Problem",
+      "https://man.sr.ht/~icefox/garnet/generics.md"
+    ]
+  ],
+  [
+    [
       "2022-12-14, 22:11:18",
       "https://lobste.rs/s/hvg3tc/when_types_lie_rust_themed_whodunnit"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2022-12-14, 16:44:35",
-      "https://lobste.rs/s/nn0ams/accelerating_network_functions_using"
-    ],
-    [
-      "Accelerating Network Functions using Reconfigurable Hardware",
-      "https://tuprints.ulb.tu-darmstadt.de/22023/3/2022-09-07_Kundel_Ralf.pdf"
-    ]
-  ],
-  [
-    [
       "2022-12-14, 16:22:28",
       "https://lobste.rs/s/gd5gka/combining_model_checking_testing"
     ],
@@ -97,16 +117,6 @@
     [
       "From Zero to main(): Demystifying Firmware Linker Scripts",
       "https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 15:38:47",
-      "https://lobste.rs/s/wotdyu/samila_v1_0_generative_art_generator"
-    ],
-    [
-      "Samila v1.0: Generative Art Generator (Stable version)",
-      "https://github.com/sepandhaghighi/samila"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "WebKit Features in Safari 16.2",
       "https://webkit.org/blog/13591/webkit-features-in-safari-16-2/"
-    ]
-  ],
-  [
-    [
-      "2022-12-13, 17:19:28",
-      "https://lobste.rs/s/y15jce/what_we_can_learn_from_vintage_computing"
-    ],
-    [
-      "What we can learn from vintage computing",
-      "https://github.com/readme/featured/vintage-computing"
     ]
   ],
   [
