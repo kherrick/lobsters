@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-15, 14:27:15](https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws) - [Hashcracking with Hashcat and AWS](https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/)
 * [2022-12-15, 12:58:46](https://lobste.rs/s/911uqw/libjs_exploitation_broobwser_writeup) - [LibJS exploitation: 'broobwser' writeup](https://0xbigshaq.github.io/2022/12/08/broobwser/)
 * [2022-12-15, 12:29:20](https://lobste.rs/s/flutnd/storing_data_electron_applications) - [Storing Data in Electron Applications](https://rxdb.info/electron-database.html)
 * [2022-12-15, 10:41:29](https://lobste.rs/s/ebegpu/how_might_generative_ai_change) - [How Might Generative AI Change Programming?](https://tratt.net/laurie/blog/2022/how_might_generative_ai_change_programming.html)
@@ -17,7 +18,6 @@
 * [2022-12-14, 19:25:20](https://lobste.rs/s/knf8e2/pattern_collider) - [Pattern Collider](https://aatishb.com/patterncollider/)
 * [2022-12-14, 19:03:47](https://lobste.rs/s/oqpxg8/colorblind_async) - [Colorblind Async](https://github.com/tzolkincz/colorblind-async)
 * [2022-12-14, 18:18:39](https://lobste.rs/s/sqilk6/native_internet_protocol_for_social) - [a native internet protocol for social media](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112)
-* [2022-12-14, 16:22:28](https://lobste.rs/s/gd5gka/combining_model_checking_testing) - [Combining Model Checking and Testing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf)
 * [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 * [2022-12-14, 15:12:58](https://lobste.rs/s/ct7pvj/javascript_backend_merged_into_ghc) - [JavaScript backend merged into GHC](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged)
 * [2022-12-14, 14:07:18](https://lobste.rs/s/qxuriw/rust_front_end_merged_gcc_master) - [Rust front-end merged to GCC master](https://gcc.gnu.org/pipermail/gcc-patches/2022-December/608387.html)
