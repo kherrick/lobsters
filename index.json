@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 06:31:00",
+      "https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries"
+    ],
+    [
+      "Generic Tagging for RISC-V Binaries",
+      "https://arxiv.org/pdf/2212.05614.pdf"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 05:50:54",
       "https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser"
     ],
@@ -137,16 +147,6 @@
     [
       "IDN is crazy",
       "https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 15:49:11",
-      "https://lobste.rs/s/lreefm/from_zero_main_demystifying_firmware"
-    ],
-    [
-      "From Zero to main(): Demystifying Firmware Linker Scripts",
-      "https://interrupt.memfault.com/blog/how-to-write-linker-scripts-for-firmware"
     ]
   ],
   [
