@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 07:16:24",
+      "https://lobste.rs/s/0cetuz/coroutines_as_threads"
+    ],
+    [
+      "Coroutines As Threads",
+      "https://dmitrykandalov.com/coroutines-as-threads"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 06:31:00",
       "https://lobste.rs/s/zorlir/generic_tagging_for_risc_v_binaries"
     ],
@@ -217,16 +227,6 @@
     [
       "Beginner-friendly introduction to Free Monads",
       "https://notes.softinio.com/p/beginner-friendly-introduction-to?sd=pf"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 07:24:42",
-      "https://lobste.rs/s/fholod/highlights_from_git_2_39"
-    ],
-    [
-      "Highlights from Git 2.39",
-      "https://github.blog/2022-12-12-highlights-from-git-2-39/"
     ]
   ],
   [
