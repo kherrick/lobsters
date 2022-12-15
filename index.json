@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-15, 14:27:15",
+      "https://lobste.rs/s/0jn81z/hashcracking_with_hashcat_aws"
+    ],
+    [
+      "Hashcracking with Hashcat and AWS",
+      "https://akimbocore.com/article/hashcracking-with-hashcat-and-aws/"
+    ]
+  ],
+  [
+    [
       "2022-12-15, 12:58:46",
       "https://lobste.rs/s/911uqw/libjs_exploitation_broobwser_writeup"
     ],
@@ -167,16 +177,6 @@
     [
       "a native internet protocol for social media",
       "https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 16:22:28",
-      "https://lobste.rs/s/gd5gka/combining_model_checking_testing"
-    ],
-    [
-      "Combining Model Checking and Testing",
-      "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-24.pdf"
     ]
   ],
   [
