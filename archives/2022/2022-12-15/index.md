@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-15](index.md)
 
+* [2022-12-15, 23:30:09](https://lobste.rs/s/01zymt/loop_optimizations_interpreting) - [Loop Optimizations: interpreting the compiler optimization report](https://johnnysswlab.com/loop-optimizations-interpreting-the-compiler-optimization-report/)
 * [2022-12-15, 22:35:46](https://lobste.rs/s/bgzw06/finding_jit_optimizer_bugs_using_smt) - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
 * [2022-12-15, 22:25:30](https://lobste.rs/s/skybrv/nist_retires_sha_1_cryptographic) - [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 * [2022-12-15, 21:45:56](https://lobste.rs/s/vhydzz/announcing_vite_4) - [Announcing Vite 4](https://vitejs.dev/blog/announcing-vite4.html)
