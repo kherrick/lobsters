@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-16, 03:53:56](https://lobste.rs/s/zjxnc7/help_choose_syntax_for_css_nesting) - [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
 * [2022-12-16, 02:48:13](https://lobste.rs/s/ssd0ag/why_semver_is_broken) - [Why semver is broken](https://www.youtube.com/watch?v=oyLBGkS5ICk)
 * [2022-12-16, 02:34:13](https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails) - [The Basics of Receiving Webhooks in Rails](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
@@ -24,7 +25,6 @@
 * [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
-* [2022-12-14, 16:08:55](https://lobste.rs/s/dkiosk/idn_is_crazy) - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/)
 
 ## [Archives](archives/index.md)
 
