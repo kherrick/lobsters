@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 02:34:13](https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails) - [The Basics of Receiving Webhooks in Rails](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
 * [2022-12-15, 23:30:09](https://lobste.rs/s/01zymt/loop_optimizations_interpreting) - [Loop Optimizations: interpreting the compiler optimization report](https://johnnysswlab.com/loop-optimizations-interpreting-the-compiler-optimization-report/)
 * [2022-12-15, 22:35:46](https://lobste.rs/s/bgzw06/finding_jit_optimizer_bugs_using_smt) - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
-* [2022-12-15, 22:25:30](https://lobste.rs/s/skybrv/nist_retires_sha_1_cryptographic) - [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 * [2022-12-15, 21:45:56](https://lobste.rs/s/vhydzz/announcing_vite_4) - [Announcing Vite 4](https://vitejs.dev/blog/announcing-vite4.html)
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 21:19:12](https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns) - [Sen. Wyden Requests Probe into Sale of DNS Query Data](https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf)
