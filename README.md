@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 19:29:58](https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls) - [Detecting heap memory pitfalls](https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls)
 * [2022-12-16, 19:14:33](https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4) - [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
 * [2022-12-16, 19:10:58](https://lobste.rs/s/kjzufj/project_requirements_why_they_matter) - [Project Requirements: Why They Matter](https://davesmithhayes.com/posts/2022/12/project-requirements/)
 * [2022-12-16, 16:17:47](https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing) - [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js)](https://youtu.be/VuF3GY-Ho-s)
@@ -13,7 +14,6 @@
 * [2022-12-16, 08:27:06](https://lobste.rs/s/byrzlw/gaining_insight_into_your_codebase_with) - [Gaining insight into your codebase with elm-review](https://jfmengels.net/elm-review-insights/)
 * [2022-12-16, 08:08:52](https://lobste.rs/s/qnaja4/use_laptop_as_2nd_display_on_linux_using) - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
-* [2022-12-16, 02:34:13](https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails) - [The Basics of Receiving Webhooks in Rails](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 21:12:14](https://lobste.rs/s/n6nigc/nix_caching_cis) - [Nix, Caching, and CIs](https://garnix.io/blog/nix-caching-ci)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
