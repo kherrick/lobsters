@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 08:53:39](https://lobste.rs/s/3sqmxu/tiny_code_christmas_2022) - [Tiny Code Christmas 2022](https://tcc.lovebyte.party)
 * [2022-12-16, 08:27:06](https://lobste.rs/s/byrzlw/gaining_insight_into_your_codebase_with) - [Gaining insight into your codebase with elm-review](https://jfmengels.net/elm-review-insights/)
 * [2022-12-16, 08:08:52](https://lobste.rs/s/qnaja4/use_laptop_as_2nd_display_on_linux_using) - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 * [2022-12-16, 06:56:28](https://lobste.rs/s/04ki4t/debugging_cockroachdb_crash_go_runtime) - [Debugging cockroachdb crash in Go runtime during test run](https://github.com/oxidecomputer/omicron/issues/1146#issuecomment-1354255080)
@@ -15,7 +16,6 @@
 * [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
 * [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
-* [2022-12-15, 18:15:02](https://lobste.rs/s/w0qcrc/december_update_merry_christmas_happy) - [December Update: Merry Christmas and Happy New PineTab](https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
