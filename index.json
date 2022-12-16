@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-16, 04:18:32",
+      "https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file"
+    ],
+    [
+      "How I almost failed to search a 37 GB text file in under 1 millisecond",
+      "https://death.andgravity.com/pwned"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 03:53:56",
       "https://lobste.rs/s/zjxnc7/help_choose_syntax_for_css_nesting"
     ],
@@ -237,16 +247,6 @@
     [
       "Garnet: The Generics Problem",
       "https://man.sr.ht/~icefox/garnet/generics.md"
-    ]
-  ],
-  [
-    [
-      "2022-12-14, 16:08:55",
-      "https://lobste.rs/s/dkiosk/idn_is_crazy"
-    ],
-    [
-      "IDN is crazy",
-      "https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/"
     ]
   ]
 ]
