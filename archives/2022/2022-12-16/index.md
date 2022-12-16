@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-16](index.md)
 
+* [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 * [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
