@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-16, 18:37:44",
-      "https://lobste.rs/s/ertxsd/release_ocaml_5_0_0"
-    ],
-    [
-      "Release OCaml 5.0.0",
-      "https://github.com/ocaml/ocaml/releases/tag/5.0.0"
-    ]
-  ],
-  [
-    [
       "2022-12-16, 16:17:47",
       "https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing"
     ],
@@ -237,6 +227,16 @@
     [
       "Native Reflection in Rust",
       "https://jack.wrenn.fyi/blog/deflect/"
+    ]
+  ],
+  [
+    [
+      "2022-12-15, 09:03:05",
+      "https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem"
+    ],
+    [
+      "Our Trip to Prime Number Theorem",
+      "https://susam.net/club/trip-to-prime-number-theorem.html"
     ]
   ],
   [
