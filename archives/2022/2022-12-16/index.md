@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-16](index.md)
 
+* [2022-12-16, 18:37:44](https://lobste.rs/s/ertxsd/release_ocaml_5_0_0) - [Release OCaml 5.0.0](https://github.com/ocaml/ocaml/releases/tag/5.0.0)
 * [2022-12-16, 16:17:47](https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing) - [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js)](https://youtu.be/VuF3GY-Ho-s)
 * [2022-12-16, 15:29:40](https://lobste.rs/s/oujmm2/sunsetting_intel_macos_instances_cirrus) - [Sunsetting Intel macOS instances - Cirrus CI](https://cirrus-ci.org/blog/2022/11/08/sunsetting-intel-macos-instances/)
 * [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
