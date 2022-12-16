@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-16, 19:14:33",
+      "https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4"
+    ],
+    [
+      "Bean Machine Retrospective, part 4",
+      "https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/"
+    ]
+  ],
+  [
+    [
+      "2022-12-16, 19:10:58",
+      "https://lobste.rs/s/kjzufj/project_requirements_why_they_matter"
+    ],
+    [
+      "Project Requirements: Why They Matter",
+      "https://davesmithhayes.com/posts/2022/12/project-requirements/"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 16:17:47",
       "https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing"
     ],
@@ -97,16 +117,6 @@
     [
       "Use a laptop as a 2nd display on Linux using FreeRDP",
       "https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 06:56:28",
-      "https://lobste.rs/s/04ki4t/debugging_cockroachdb_crash_go_runtime"
-    ],
-    [
-      "Debugging cockroachdb crash in Go runtime during test run",
-      "https://github.com/oxidecomputer/omicron/issues/1146#issuecomment-1354255080"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Native Reflection in Rust",
       "https://jack.wrenn.fyi/blog/deflect/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 09:03:05",
-      "https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem"
-    ],
-    [
-      "Our Trip to Prime Number Theorem",
-      "https://susam.net/club/trip-to-prime-number-theorem.html"
     ]
   ],
   [
