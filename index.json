@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-16, 19:29:58",
+      "https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls"
+    ],
+    [
+      "Detecting heap memory pitfalls",
+      "https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 19:14:33",
       "https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4"
     ],
@@ -127,16 +137,6 @@
     [
       "How I almost failed to search a 37 GB text file in under 1 millisecond",
       "https://death.andgravity.com/pwned"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 02:34:13",
-      "https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails"
-    ],
-    [
-      "The Basics of Receiving Webhooks in Rails",
-      "https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails"
     ]
   ],
   [
