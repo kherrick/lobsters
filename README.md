@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
 * [2022-12-16, 19:29:58](https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls) - [Detecting heap memory pitfalls](https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls)
 * [2022-12-16, 19:14:33](https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4) - [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
 * [2022-12-16, 19:10:58](https://lobste.rs/s/kjzufj/project_requirements_why_they_matter) - [Project Requirements: Why They Matter](https://davesmithhayes.com/posts/2022/12/project-requirements/)
 * [2022-12-16, 16:17:47](https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing) - [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js)](https://youtu.be/VuF3GY-Ho-s)
-* [2022-12-16, 15:29:40](https://lobste.rs/s/oujmm2/sunsetting_intel_macos_instances_cirrus) - [Sunsetting Intel macOS instances - Cirrus CI](https://cirrus-ci.org/blog/2022/11/08/sunsetting-intel-macos-instances/)
 * [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
 * [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)

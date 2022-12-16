@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-16](index.md)
 
+* [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
 * [2022-12-16, 19:29:58](https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls) - [Detecting heap memory pitfalls](https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls)
 * [2022-12-16, 19:14:33](https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4) - [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
 * [2022-12-16, 19:10:58](https://lobste.rs/s/kjzufj/project_requirements_why_they_matter) - [Project Requirements: Why They Matter](https://davesmithhayes.com/posts/2022/12/project-requirements/)
