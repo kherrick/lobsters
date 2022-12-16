@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-16, 14:11:34",
+      "https://lobste.rs/s/z8w9kg/weathering_software_winter"
+    ],
+    [
+      "Weathering Software Winter",
+      "https://www.youtube.com/watch?v=9TJuOwy4aGA"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 12:58:58",
       "https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for"
     ],
@@ -97,16 +107,6 @@
     [
       "The Basics of Receiving Webhooks in Rails",
       "https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 22:35:46",
-      "https://lobste.rs/s/bgzw06/finding_jit_optimizer_bugs_using_smt"
-    ],
-    [
-      "Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing",
-      "https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html"
     ]
   ],
   [
