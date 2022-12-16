@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 03:53:56](https://lobste.rs/s/zjxnc7/help_choose_syntax_for_css_nesting) - [Help choose the syntax for CSS Nesting](https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/)
 * [2022-12-16, 02:48:13](https://lobste.rs/s/ssd0ag/why_semver_is_broken) - [Why semver is broken](https://www.youtube.com/watch?v=oyLBGkS5ICk)
 * [2022-12-16, 02:34:13](https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails) - [The Basics of Receiving Webhooks in Rails](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
 * [2022-12-15, 22:35:46](https://lobste.rs/s/bgzw06/finding_jit_optimizer_bugs_using_smt) - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
@@ -14,7 +15,6 @@
 * [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 18:15:02](https://lobste.rs/s/w0qcrc/december_update_merry_christmas_happy) - [December Update: Merry Christmas and Happy New PineTab](https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/)
-* [2022-12-15, 17:29:28](https://lobste.rs/s/ira75b/find_mentor_ruby_community) - [Find a mentor in the Ruby community](https://firstrubyfriend.org/)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
