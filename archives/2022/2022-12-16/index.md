@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-16](index.md)
 
+* [2022-12-16, 08:27:06](https://lobste.rs/s/byrzlw/gaining_insight_into_your_codebase_with) - [Gaining insight into your codebase with elm-review](https://jfmengels.net/elm-review-insights/)
 * [2022-12-16, 08:08:52](https://lobste.rs/s/qnaja4/use_laptop_as_2nd_display_on_linux_using) - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 * [2022-12-16, 06:56:28](https://lobste.rs/s/04ki4t/debugging_cockroachdb_crash_go_runtime) - [Debugging cockroachdb crash in Go runtime during test run](https://github.com/oxidecomputer/omicron/issues/1146#issuecomment-1354255080)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
