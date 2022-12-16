@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-12-16, 18:37:44](https://lobste.rs/s/ertxsd/release_ocaml_5_0_0) - [Release OCaml 5.0.0](https://github.com/ocaml/ocaml/releases/tag/5.0.0)
 * [2022-12-16, 16:17:47](https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing) - [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js)](https://youtu.be/VuF3GY-Ho-s)
 * [2022-12-16, 15:29:40](https://lobste.rs/s/oujmm2/sunsetting_intel_macos_instances_cirrus) - [Sunsetting Intel macOS instances - Cirrus CI](https://cirrus-ci.org/blog/2022/11/08/sunsetting-intel-macos-instances/)
 * [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
@@ -24,6 +23,7 @@
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
+* [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
 * [2022-12-15, 03:07:00](https://lobste.rs/s/hot5by/garnet_generics_problem) - [Garnet: The Generics Problem](https://man.sr.ht/~icefox/garnet/generics.md)
 
 ## [Archives](archives/index.md)
