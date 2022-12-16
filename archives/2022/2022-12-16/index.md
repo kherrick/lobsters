@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-16](index.md)
 
+* [2022-12-16, 15:29:40](https://lobste.rs/s/oujmm2/sunsetting_intel_macos_instances_cirrus) - [Sunsetting Intel macOS instances - Cirrus CI](https://cirrus-ci.org/blog/2022/11/08/sunsetting-intel-macos-instances/)
 * [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
 * [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
