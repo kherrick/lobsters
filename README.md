@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
+* [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 * [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
 * [2022-12-16, 08:53:39](https://lobste.rs/s/3sqmxu/tiny_code_christmas_2022) - [Tiny Code Christmas 2022](https://tcc.lovebyte.party)
 * [2022-12-16, 08:27:06](https://lobste.rs/s/byrzlw/gaining_insight_into_your_codebase_with) - [Gaining insight into your codebase with elm-review](https://jfmengels.net/elm-review-insights/)
@@ -18,9 +20,7 @@
 * [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
-* [2022-12-15, 16:15:20](https://lobste.rs/s/h2jt79/choose_your_own_adventure_style) - [Choose Your Own Adventure-style Debugging Mysteries](https://mysteries.wizardzines.com/)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
-* [2022-12-15, 16:01:41](https://lobste.rs/s/6ewqiv/law_stretched_cognitive_systems) - [The Law of Stretched [Cognitive] Systems](https://ferd.ca/the-law-of-stretched-cognitive-systems.html)
 * [2022-12-15, 09:03:05](https://lobste.rs/s/g0h68c/our_trip_prime_number_theorem) - [Our Trip to Prime Number Theorem](https://susam.net/club/trip-to-prime-number-theorem.html)
 * [2022-12-15, 08:56:49](https://lobste.rs/s/rowhfx/happy_9th_birthday_qutebrowser) - [Happy 9th birthday, qutebrowser](https://www.reddit.com/r/qutebrowser/comments/zm0x5c/happy_9th_birthday_qutebrowser/)
 * [2022-12-15, 05:50:54](https://lobste.rs/s/urjcmn/what_i_learn_by_implementing_argparser) - [What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
