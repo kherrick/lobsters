@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
 * [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
@@ -10,7 +11,6 @@
 * [2022-12-16, 06:56:28](https://lobste.rs/s/04ki4t/debugging_cockroachdb_crash_go_runtime) - [Debugging cockroachdb crash in Go runtime during test run](https://github.com/oxidecomputer/omicron/issues/1146#issuecomment-1354255080)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-16, 02:34:13](https://lobste.rs/s/vcn5ub/basics_receiving_webhooks_rails) - [The Basics of Receiving Webhooks in Rails](https://www.hookheroes.com/blog/basics-of-receiving-webhooks-in-rails)
-* [2022-12-15, 22:35:46](https://lobste.rs/s/bgzw06/finding_jit_optimizer_bugs_using_smt) - [Finding JIT Optimizer Bugs using SMT Solvers and Fuzzing](https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html)
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 21:19:12](https://lobste.rs/s/zyngjg/sen_wyden_requests_probe_into_sale_dns) - [Sen. Wyden Requests Probe into Sale of DNS Query Data](https://www.wyden.senate.gov/imo/media/doc/Signed%20Neustar%20letter%2012.15.22.pdf)
 * [2022-12-15, 21:12:14](https://lobste.rs/s/n6nigc/nix_caching_cis) - [Nix, Caching, and CIs](https://garnix.io/blog/nix-caching-ci)
