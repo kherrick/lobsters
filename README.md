@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 04:16:50](https://lobste.rs/s/zyyir7/let_s_encrypt_improves_ocsp_response) - [Let’s Encrypt improves OCSP response generation to survive full CDN cache loss](https://letsencrypt.org/2022/12/15/ocspcaching.html)
 * [2022-12-17, 02:49:29](https://lobste.rs/s/zl9lin/never_use_text_pixelation_redact) - [Never Use Text Pixelation To Redact Sensitive Information](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
@@ -18,7 +19,6 @@
 * [2022-12-16, 08:08:52](https://lobste.rs/s/qnaja4/use_laptop_as_2nd_display_on_linux_using) - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
-* [2022-12-15, 21:12:14](https://lobste.rs/s/n6nigc/nix_caching_cis) - [Nix, Caching, and CIs](https://garnix.io/blog/nix-caching-ci)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 * [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
