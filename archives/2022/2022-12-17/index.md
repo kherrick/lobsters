@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 22:16:54](https://lobste.rs/s/8d9mms/golden_age_basic_2014) - [The Golden Age of Basic (2014)](https://spectrum.ieee.org/the-golden-age-of-basic)
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 19:16:49](https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely) - [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 * [2022-12-17, 19:11:31](https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti) - [EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)](https://www.willsroot.io/2022/12/entrybleed.html)
