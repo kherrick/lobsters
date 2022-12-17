@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
 * [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 * [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
 * [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 * [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
@@ -13,7 +14,6 @@
 * [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 * [2022-12-17, 05:20:14](https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is) - [A practical issue with YAML: your schema is not actually documentation](https://utcc.utoronto.ca/~cks/space/blog/tech/YamlPracticalDocumentationIssue)
 * [2022-12-17, 05:08:50](https://lobste.rs/s/7n25qp/xen_4_17_is_released) - [Xen 4.17 is released](https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/)
-* [2022-12-17, 05:04:05](https://lobste.rs/s/oglx9l/8_linux_computer_part_2) - [The $8 Linux computer (part 2.)](https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1)
 * [2022-12-17, 04:56:32](https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac) - [The strange case of BeOS, SRS and the silent Power Mac 6500](https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html)
 * [2022-12-17, 02:49:29](https://lobste.rs/s/zl9lin/never_use_text_pixelation_redact) - [Never Use Text Pixelation To Redact Sensitive Information](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
