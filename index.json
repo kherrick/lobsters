@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 18:19:03",
+      "https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual"
+    ],
+    [
+      "Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?",
+      "https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 17:43:36",
       "https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity"
     ],
@@ -127,16 +137,6 @@
     [
       "Xen 4.17 is released",
       "https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 05:04:05",
-      "https://lobste.rs/s/oglx9l/8_linux_computer_part_2"
-    ],
-    [
-      "The $8 Linux computer (part 2.)",
-      "https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1"
     ]
   ],
   [
