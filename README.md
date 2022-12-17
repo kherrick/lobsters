@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 19:16:49](https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely) - [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 * [2022-12-17, 19:11:31](https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti) - [EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)](https://www.willsroot.io/2022/12/entrybleed.html)
 * [2022-12-17, 19:10:30](https://lobste.rs/s/mg8vcr/interactive_guide_flexbox) - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
@@ -21,7 +22,6 @@
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
 * [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
-* [2022-12-16, 19:10:58](https://lobste.rs/s/kjzufj/project_requirements_why_they_matter) - [Project Requirements: Why They Matter](https://davesmithhayes.com/posts/2022/12/project-requirements/)
 * [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
