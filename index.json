@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 09:15:29",
+      "https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa"
+    ],
+    [
+      "Let's Encrypt now supports ACME-CAA: closing the DV loophole",
+      "https://www.devever.net/~hl/acme-caa-live"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 05:20:14",
       "https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is"
     ],
@@ -197,16 +207,6 @@
     [
       "How I almost failed to search a 37 GB text file in under 1 millisecond",
       "https://death.andgravity.com/pwned"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 21:41:45",
-      "https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too"
-    ],
-    [
-      "What killed Haskell, could kill Rust, too (2020)",
-      "https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b"
     ]
   ],
   [
