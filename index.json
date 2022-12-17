@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 10:09:51",
+      "https://lobste.rs/s/mmpirb/getting_started_with_nmap"
+    ],
+    [
+      "Getting started with nmap",
+      "https://ittavern.com/getting-started-with-nmap/"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 09:15:29",
       "https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa"
     ],
@@ -227,16 +237,6 @@
     [
       "Why I moved away from Poetry for Python",
       "https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 16:54:22",
-      "https://lobste.rs/s/yequwk/proofs_about_programs_interactive"
-    ],
-    [
-      "Proofs about programs - an interactive tutorial",
-      "https://busy-beavers.tigyog.app/proofs-about-programs"
     ]
   ],
   [
