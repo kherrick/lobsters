@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-17, 19:11:31",
+      "https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti"
+    ],
+    [
+      "EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)",
+      "https://www.willsroot.io/2022/12/entrybleed.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 19:10:30",
+      "https://lobste.rs/s/mg8vcr/interactive_guide_flexbox"
+    ],
+    [
+      "An Interactive Guide to Flexbox",
+      "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 18:48:32",
       "https://lobste.rs/s/syzzto/sorting_with_simd"
     ],
@@ -227,26 +247,6 @@
     [
       "A Linux evening (Thunderbolt musings)",
       "https://fabiensanglard.net/a_linux_evening/index.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 10:32:01",
-      "https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 04:18:32",
-      "https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file"
-    ],
-    [
-      "How I almost failed to search a 37 GB text file in under 1 millisecond",
-      "https://death.andgravity.com/pwned"
     ]
   ]
 ]
