@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 13:19:40",
+      "https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic"
+    ],
+    [
+      "Zero-initialize objects of automatic storage duration",
+      "http://wg21.link/P2723"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 12:48:42",
       "https://lobste.rs/s/axkbmk/writing_static_site_generator_using"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I moved away from Poetry for Python",
       "https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 16:01:46",
-      "https://lobste.rs/s/dixbti/native_reflection_rust"
-    ],
-    [
-      "Native Reflection in Rust",
-      "https://jack.wrenn.fyi/blog/deflect/"
     ]
   ]
 ]
