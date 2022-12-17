@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 05:08:50](https://lobste.rs/s/7n25qp/xen_4_17_is_released) - [Xen 4.17 is released](https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/)
+* [2022-12-17, 05:04:05](https://lobste.rs/s/oglx9l/8_linux_computer_part_2) - [The $8 Linux computer (part 2.)](https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1)
+* [2022-12-17, 04:56:32](https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac) - [The strange case of BeOS, SRS and the silent Power Mac 6500](https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html)
 * [2022-12-17, 04:16:50](https://lobste.rs/s/zyyir7/let_s_encrypt_improves_ocsp_response) - [Let’s Encrypt improves OCSP response generation to survive full CDN cache loss](https://letsencrypt.org/2022/12/15/ocspcaching.html)
 * [2022-12-17, 02:49:29](https://lobste.rs/s/zl9lin/never_use_text_pixelation_redact) - [Never Use Text Pixelation To Redact Sensitive Information](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
 * [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
-* [2022-12-16, 19:29:58](https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls) - [Detecting heap memory pitfalls](https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls)
-* [2022-12-16, 19:14:33](https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4) - [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
 * [2022-12-16, 19:10:58](https://lobste.rs/s/kjzufj/project_requirements_why_they_matter) - [Project Requirements: Why They Matter](https://davesmithhayes.com/posts/2022/12/project-requirements/)
 * [2022-12-16, 16:17:47](https://lobste.rs/s/lucxxu/wacky_tricks_we_use_publishing) - [Wacky Tricks We Use in Publishing TypeScript Types (for Ember.js)](https://youtu.be/VuF3GY-Ho-s)
 * [2022-12-16, 14:11:34](https://lobste.rs/s/z8w9kg/weathering_software_winter) - [Weathering Software Winter](https://www.youtube.com/watch?v=9TJuOwy4aGA)
@@ -22,7 +23,6 @@
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 * [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
-* [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 
