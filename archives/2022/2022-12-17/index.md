@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 11:05:22](https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise) - [Using Org Mode to keep track of exercise](https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/)
 * [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
 * [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 * [2022-12-17, 05:20:14](https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is) - [A practical issue with YAML: your schema is not actually documentation](https://utcc.utoronto.ca/~cks/space/blog/tech/YamlPracticalDocumentationIssue)
