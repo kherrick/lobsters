@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
 * [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 * [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-17, 14:59:34](https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable) - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)

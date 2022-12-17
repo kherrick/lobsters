@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
 * [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 * [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-17, 14:59:34](https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable) - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
@@ -24,7 +25,6 @@
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 * [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
-* [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 
 ## [Archives](archives/index.md)
 
