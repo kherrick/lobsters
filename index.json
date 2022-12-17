@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-17, 05:08:50",
+      "https://lobste.rs/s/7n25qp/xen_4_17_is_released"
+    ],
+    [
+      "Xen 4.17 is released",
+      "https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 05:04:05",
+      "https://lobste.rs/s/oglx9l/8_linux_computer_part_2"
+    ],
+    [
+      "The $8 Linux computer (part 2.)",
+      "https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 04:56:32",
+      "https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac"
+    ],
+    [
+      "The strange case of BeOS, SRS and the silent Power Mac 6500",
+      "https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 04:16:50",
       "https://lobste.rs/s/zyyir7/let_s_encrypt_improves_ocsp_response"
     ],
@@ -47,26 +77,6 @@
     [
       "Your favorite timeless \"technical books\"?",
       "https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 19:29:58",
-      "https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls"
-    ],
-    [
-      "Detecting heap memory pitfalls",
-      "https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 19:14:33",
-      "https://lobste.rs/s/2xehfg/bean_machine_retrospective_part_4"
-    ],
-    [
-      "Bean Machine Retrospective, part 4",
-      "https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Cranelift Progress in 2022",
       "https://bytecodealliance.org/articles/cranelift-progress-2022"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 18:32:58",
-      "https://lobste.rs/s/vbku9l/announcing_rust_1_66_0"
-    ],
-    [
-      "Announcing Rust 1.66.0",
-      "https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html"
     ]
   ],
   [
