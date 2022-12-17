@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
 * [2022-12-17, 12:48:42](https://lobste.rs/s/axkbmk/writing_static_site_generator_using) - [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 * [2022-12-17, 11:44:43](https://lobste.rs/s/otr7ua/avr_gcc_compiler_makes_questionable_code) - [AVR-GCC Compiler Makes Questionable Code](https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/)
 * [2022-12-17, 11:05:22](https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise) - [Using Org Mode to keep track of exercise](https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/)
@@ -24,7 +25,6 @@
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
-* [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 
 ## [Archives](archives/index.md)
 

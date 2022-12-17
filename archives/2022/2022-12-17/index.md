@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
 * [2022-12-17, 12:48:42](https://lobste.rs/s/axkbmk/writing_static_site_generator_using) - [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 * [2022-12-17, 11:44:43](https://lobste.rs/s/otr7ua/avr_gcc_compiler_makes_questionable_code) - [AVR-GCC Compiler Makes Questionable Code](https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/)
 * [2022-12-17, 11:05:22](https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise) - [Using Org Mode to keep track of exercise](https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/)
