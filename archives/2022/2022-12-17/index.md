@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 19:11:31](https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti) - [EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)](https://www.willsroot.io/2022/12/entrybleed.html)
+* [2022-12-17, 19:10:30](https://lobste.rs/s/mg8vcr/interactive_guide_flexbox) - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 * [2022-12-17, 18:48:32](https://lobste.rs/s/syzzto/sorting_with_simd) - [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
 * [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)

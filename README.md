@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 19:11:31](https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti) - [EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)](https://www.willsroot.io/2022/12/entrybleed.html)
+* [2022-12-17, 19:10:30](https://lobste.rs/s/mg8vcr/interactive_guide_flexbox) - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 * [2022-12-17, 18:48:32](https://lobste.rs/s/syzzto/sorting_with_simd) - [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
 * [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
@@ -23,8 +25,6 @@
 * [2022-12-16, 12:58:58](https://lobste.rs/s/wsga9i/leanqt_widgets_are_ready_time_for) - [LeanQt: Widgets are ready - in time for the holidays](https://github.com/rochus-keller/LeanQt/releases/tag/2022-12-16)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
-* [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
-* [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 
 ## [Archives](archives/index.md)
 
