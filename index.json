@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 17:43:36",
+      "https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity"
+    ],
+    [
+      "Interactive xkcd comic about gravity",
+      "https://xkcd.com/2712/"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 17:11:23",
       "https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner"
     ],
@@ -237,16 +247,6 @@
     [
       "How I almost failed to search a 37 GB text file in under 1 millisecond",
       "https://death.andgravity.com/pwned"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 20:20:44",
-      "https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python"
-    ],
-    [
-      "Why I moved away from Poetry for Python",
-      "https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/"
     ]
   ]
 ]
