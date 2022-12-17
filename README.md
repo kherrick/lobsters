@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 12:48:42](https://lobste.rs/s/axkbmk/writing_static_site_generator_using) - [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 * [2022-12-17, 11:44:43](https://lobste.rs/s/otr7ua/avr_gcc_compiler_makes_questionable_code) - [AVR-GCC Compiler Makes Questionable Code](https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/)
 * [2022-12-17, 11:05:22](https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise) - [Using Org Mode to keep track of exercise](https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/)
 * [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
@@ -20,7 +21,6 @@
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 * [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
 * [2022-12-16, 08:53:39](https://lobste.rs/s/3sqmxu/tiny_code_christmas_2022) - [Tiny Code Christmas 2022](https://tcc.lovebyte.party)
-* [2022-12-16, 08:08:52](https://lobste.rs/s/qnaja4/use_laptop_as_2nd_display_on_linux_using) - [Use a laptop as a 2nd display on Linux using FreeRDP](https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
