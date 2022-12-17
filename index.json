@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-16, 23:58:53",
+      "https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust"
+    ],
+    [
+      "Hindley-Milner type inference (in Rust)",
+      "https://reasoning.page/compilers/hindley-milner-rust/"
+    ]
+  ],
+  [
+    [
       "2022-12-16, 22:22:59",
       "https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books"
     ],
@@ -237,16 +247,6 @@
     [
       "Native Reflection in Rust",
       "https://jack.wrenn.fyi/blog/deflect/"
-    ]
-  ],
-  [
-    [
-      "2022-12-15, 03:07:00",
-      "https://lobste.rs/s/hot5by/garnet_generics_problem"
-    ],
-    [
-      "Garnet: The Generics Problem",
-      "https://man.sr.ht/~icefox/garnet/generics.md"
     ]
   ]
 ]
