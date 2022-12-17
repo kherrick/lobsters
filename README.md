@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
 * [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
 * [2022-12-16, 19:29:58](https://lobste.rs/s/7jv4cm/detecting_heap_memory_pitfalls) - [Detecting heap memory pitfalls](https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls)
@@ -21,7 +22,6 @@
 * [2022-12-15, 20:21:20](https://lobste.rs/s/haydwp/rubbing_control_theory_on_go_scheduler) - [Rubbing control theory on the Go scheduler](https://www.cockroachlabs.com/blog/rubbing-control-theory/)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 * [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
-* [2022-12-15, 19:00:48](https://lobste.rs/s/9px9yb/riffusion) - [Riffusion](https://www.riffusion.com/about)
 * [2022-12-15, 18:32:58](https://lobste.rs/s/vbku9l/announcing_rust_1_66_0) - [Announcing Rust 1.66.0](https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)

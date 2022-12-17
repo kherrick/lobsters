@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-12-17](index.md)
+
+* [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
