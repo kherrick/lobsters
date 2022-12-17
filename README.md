@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
 * [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 * [2022-12-17, 05:20:14](https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is) - [A practical issue with YAML: your schema is not actually documentation](https://utcc.utoronto.ca/~cks/space/blog/tech/YamlPracticalDocumentationIssue)
 * [2022-12-17, 05:08:50](https://lobste.rs/s/7n25qp/xen_4_17_is_released) - [Xen 4.17 is released](https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/)
@@ -23,7 +24,6 @@
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
-* [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 
 ## [Archives](archives/index.md)
