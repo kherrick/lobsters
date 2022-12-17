@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
 * [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-17, 14:59:34](https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable) - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
 * [2022-12-17, 14:59:30](https://lobste.rs/s/3kzdzw/empty_list) - [The empty list](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
@@ -13,7 +14,6 @@
 * [2022-12-17, 05:08:50](https://lobste.rs/s/7n25qp/xen_4_17_is_released) - [Xen 4.17 is released](https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/)
 * [2022-12-17, 05:04:05](https://lobste.rs/s/oglx9l/8_linux_computer_part_2) - [The $8 Linux computer (part 2.)](https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1)
 * [2022-12-17, 04:56:32](https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac) - [The strange case of BeOS, SRS and the silent Power Mac 6500](https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html)
-* [2022-12-17, 04:16:50](https://lobste.rs/s/zyyir7/let_s_encrypt_improves_ocsp_response) - [Let’s Encrypt improves OCSP response generation to survive full CDN cache loss](https://letsencrypt.org/2022/12/15/ocspcaching.html)
 * [2022-12-17, 02:49:29](https://lobste.rs/s/zl9lin/never_use_text_pixelation_redact) - [Never Use Text Pixelation To Redact Sensitive Information](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
