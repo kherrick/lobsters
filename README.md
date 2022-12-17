@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 05:20:14](https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is) - [A practical issue with YAML: your schema is not actually documentation](https://utcc.utoronto.ca/~cks/space/blog/tech/YamlPracticalDocumentationIssue)
 * [2022-12-17, 05:08:50](https://lobste.rs/s/7n25qp/xen_4_17_is_released) - [Xen 4.17 is released](https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/)
 * [2022-12-17, 05:04:05](https://lobste.rs/s/oglx9l/8_linux_computer_part_2) - [The $8 Linux computer (part 2.)](https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer-part-2.html?m=1)
 * [2022-12-17, 04:56:32](https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac) - [The strange case of BeOS, SRS and the silent Power Mac 6500](https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html)
@@ -22,7 +23,6 @@
 * [2022-12-15, 21:41:45](https://lobste.rs/s/pkobeh/what_killed_haskell_could_kill_rust_too) - [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b)
 * [2022-12-15, 20:41:55](https://lobste.rs/s/hmayss/more_challenging_projects_every) - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
-* [2022-12-15, 20:11:01](https://lobste.rs/s/yzb2nf/cranelift_progress_2022) - [Cranelift Progress in 2022](https://bytecodealliance.org/articles/cranelift-progress-2022)
 * [2022-12-15, 16:54:22](https://lobste.rs/s/yequwk/proofs_about_programs_interactive) - [Proofs about programs - an interactive tutorial](https://busy-beavers.tigyog.app/proofs-about-programs)
 * [2022-12-15, 16:01:46](https://lobste.rs/s/dixbti/native_reflection_rust) - [Native Reflection in Rust](https://jack.wrenn.fyi/blog/deflect/)
 
