@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-17, 14:59:34](https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable) - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
 * [2022-12-17, 14:59:30](https://lobste.rs/s/3kzdzw/empty_list) - [The empty list](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 * [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
@@ -22,7 +23,6 @@
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
 * [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 * [2022-12-16, 10:32:01](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yxoovg/what_are_you_doing_this_weekend)
-* [2022-12-16, 08:53:39](https://lobste.rs/s/3sqmxu/tiny_code_christmas_2022) - [Tiny Code Christmas 2022](https://tcc.lovebyte.party)
 * [2022-12-16, 04:18:32](https://lobste.rs/s/xqseeq/how_i_almost_failed_search_37_gb_text_file) - [How I almost failed to search a 37 GB text file in under 1 millisecond](https://death.andgravity.com/pwned)
 * [2022-12-15, 20:20:44](https://lobste.rs/s/rllajn/why_i_moved_away_from_poetry_for_python) - [Why I moved away from Poetry for Python](https://usrme.xyz/posts/why-i-moved-away-from-poetry-for-python/)
 

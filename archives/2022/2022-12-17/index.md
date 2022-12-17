@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-17](index.md)
 
+* [2022-12-17, 16:44:27](https://lobste.rs/s/0rthcs/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-17, 14:59:34](https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable) - [Memory Pool System is a flexible and adaptable memory manager](https://www.ravenbrook.com/project/mps/)
 * [2022-12-17, 14:59:30](https://lobste.rs/s/3kzdzw/empty_list) - [The empty list](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 * [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
