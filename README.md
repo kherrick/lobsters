@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
 * [2022-12-17, 22:16:54](https://lobste.rs/s/8d9mms/golden_age_basic_2014) - [The Golden Age of Basic (2014)](https://spectrum.ieee.org/the-golden-age-of-basic)
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 19:16:49](https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely) - [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
@@ -17,7 +18,6 @@
 * [2022-12-17, 11:05:22](https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise) - [Using Org Mode to keep track of exercise](https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/)
 * [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
 * [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
-* [2022-12-17, 05:20:14](https://lobste.rs/s/wrk9r9/practical_issue_with_yaml_your_schema_is) - [A practical issue with YAML: your schema is not actually documentation](https://utcc.utoronto.ca/~cks/space/blog/tech/YamlPracticalDocumentationIssue)
 * [2022-12-17, 04:56:32](https://lobste.rs/s/yszu9m/strange_case_beos_srs_silent_power_mac) - [The strange case of BeOS, SRS and the silent Power Mac 6500](https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html)
 * [2022-12-17, 02:49:29](https://lobste.rs/s/zl9lin/never_use_text_pixelation_redact) - [Never Use Text Pixelation To Redact Sensitive Information](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
