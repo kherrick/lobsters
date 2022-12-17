@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-17, 11:05:22",
+      "https://lobste.rs/s/eythvh/using_org_mode_keep_track_exercise"
+    ],
+    [
+      "Using Org Mode to keep track of exercise",
+      "https://blog.polaris64.net/post/emacs-using-org-mode-to-track-exercises/"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 10:09:51",
       "https://lobste.rs/s/mmpirb/getting_started_with_nmap"
     ],
@@ -187,16 +197,6 @@
     [
       "Tiny Code Christmas 2022",
       "https://tcc.lovebyte.party"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 08:27:06",
-      "https://lobste.rs/s/byrzlw/gaining_insight_into_your_codebase_with"
-    ],
-    [
-      "Gaining insight into your codebase with elm-review",
-      "https://jfmengels.net/elm-review-insights/"
     ]
   ],
   [
