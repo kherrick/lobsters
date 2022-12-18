@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 07:27:08",
+      "https://lobste.rs/s/tifp2y/ethernet_transceiver"
+    ],
+    [
+      "Ethernet transceiver",
+      "https://imihajlov.tk/blog/posts/eth-to-spi/"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 06:38:44",
       "https://lobste.rs/s/wnsxjy/replacing_std_lock_guard_with_factory"
     ],
@@ -67,16 +77,6 @@
     [
       "The Koka Programming Language",
       "https://koka-lang.github.io/koka/doc/book.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 22:16:54",
-      "https://lobste.rs/s/8d9mms/golden_age_basic_2014"
-    ],
-    [
-      "The Golden Age of Basic (2014)",
-      "https://spectrum.ieee.org/the-golden-age-of-basic"
     ]
   ],
   [
