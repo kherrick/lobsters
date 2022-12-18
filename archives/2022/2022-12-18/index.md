@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-18](index.md)
 
+* [2022-12-18, 06:38:44](https://lobste.rs/s/wnsxjy/replacing_std_lock_guard_with_factory) - [Replacing std::lock_guard with a factory function](https://quuxplusone.github.io/blog/2022/12/14/my-lock-guard/)
 * [2022-12-18, 06:32:09](https://lobste.rs/s/stqy9r/i_tricked_m3_euagendas_org_twitter) - [I tricked m3.euagendas.org, the Twitter analysis website, with adversarial inputs (2019)](https://worthdoingbadly.com/nn-adversarial/)
 * [2022-12-18, 03:42:19](https://lobste.rs/s/sryur4/implementing_perceus_reference) - [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 * [2022-12-18, 01:22:30](https://lobste.rs/s/pasqme/bolin_programming_language) - [Bolin Programming Language](https://bolinlang.com/)

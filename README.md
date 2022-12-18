@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-18, 06:38:44](https://lobste.rs/s/wnsxjy/replacing_std_lock_guard_with_factory) - [Replacing std::lock_guard with a factory function](https://quuxplusone.github.io/blog/2022/12/14/my-lock-guard/)
 * [2022-12-18, 06:32:09](https://lobste.rs/s/stqy9r/i_tricked_m3_euagendas_org_twitter) - [I tricked m3.euagendas.org, the Twitter analysis website, with adversarial inputs (2019)](https://worthdoingbadly.com/nn-adversarial/)
 * [2022-12-18, 03:42:19](https://lobste.rs/s/sryur4/implementing_perceus_reference) - [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 * [2022-12-18, 01:22:30](https://lobste.rs/s/pasqme/bolin_programming_language) - [Bolin Programming Language](https://bolinlang.com/)
@@ -10,7 +11,6 @@
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 19:16:49](https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely) - [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 * [2022-12-17, 19:10:30](https://lobste.rs/s/mg8vcr/interactive_guide_flexbox) - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-* [2022-12-17, 18:48:32](https://lobste.rs/s/syzzto/sorting_with_simd) - [Sorting with SIMD](https://tweedegolf.nl/en/blog/79/sorting-with-simd)
 * [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 17:43:36](https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity) - [Interactive xkcd comic about gravity](https://xkcd.com/2712/)
 * [2022-12-17, 17:11:23](https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner) - [Open Closures: Disclosing lambda’s inner monomaniac object](https://www.iro.umontreal.ca/~monnier/oclosure.pdf)
