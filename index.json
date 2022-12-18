@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 01:22:30",
+      "https://lobste.rs/s/pasqme/bolin_programming_language"
+    ],
+    [
+      "Bolin Programming Language",
+      "https://bolinlang.com/"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 01:10:36",
       "https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on"
     ],
@@ -237,16 +247,6 @@
     [
       "OCaml 5.0.0 (with multicore and effects) is out",
       "https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 12:15:15",
-      "https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings"
-    ],
-    [
-      "A Linux evening (Thunderbolt musings)",
-      "https://fabiensanglard.net/a_linux_evening/index.html"
     ]
   ]
 ]
