@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [2022-12-18, 18:21:33](https://lobste.rs/s/qkgrux/html5_canvas_on_rails_part_1) - [HTML5 Canvas on Rails? Part 1](https://fogel.dev/software/canvas_on_rails_1/)
 * [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
@@ -19,7 +20,6 @@
 * [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
-* [2022-12-17, 14:59:30](https://lobste.rs/s/3kzdzw/empty_list) - [The empty list](https://www.tfeb.org/fragments/2022/12/16/the-empty-list/)
 * [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
 * [2022-12-17, 12:48:42](https://lobste.rs/s/axkbmk/writing_static_site_generator_using) - [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 * [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)

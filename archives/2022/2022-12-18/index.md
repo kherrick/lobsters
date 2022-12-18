@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-18](index.md)
 
+* [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [2022-12-18, 18:21:33](https://lobste.rs/s/qkgrux/html5_canvas_on_rails_part_1) - [HTML5 Canvas on Rails? Part 1](https://fogel.dev/software/canvas_on_rails_1/)
 * [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
