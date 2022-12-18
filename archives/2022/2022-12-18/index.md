@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-18](index.md)
 
+* [2022-12-18, 14:08:00](https://lobste.rs/s/bqdupq/taos_operating_system) - [TAOS Operating System](http://www.uruk.org/emu/Taos.html)
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 * [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
 * [2022-12-18, 07:27:08](https://lobste.rs/s/tifp2y/ethernet_transceiver) - [Ethernet transceiver](https://imihajlov.tk/blog/posts/eth-to-spi/)
