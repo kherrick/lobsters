@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-18, 03:42:19](https://lobste.rs/s/sryur4/implementing_perceus_reference) - [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 * [2022-12-18, 01:22:30](https://lobste.rs/s/pasqme/bolin_programming_language) - [Bolin Programming Language](https://bolinlang.com/)
 * [2022-12-18, 01:10:36](https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on) - [A minor memorial for Leo Laporte on terrestrial AM radio](https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
 * [2022-12-18, 00:01:46](https://lobste.rs/s/kzxhr7/converting_my_phd_thesis_into_html) - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
 * [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
-* [2022-12-17, 22:16:54](https://lobste.rs/s/8d9mms/golden_age_basic_2014) - [The Golden Age of Basic (2014)](https://spectrum.ieee.org/the-golden-age-of-basic)
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 19:16:49](https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely) - [Growing a Networked Garden with Spritely Goblins](https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html)
 * [2022-12-17, 19:10:30](https://lobste.rs/s/mg8vcr/interactive_guide_flexbox) - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
