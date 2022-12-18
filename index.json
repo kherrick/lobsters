@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 12:29:42",
+      "https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with"
+    ],
+    [
+      "Lockfile trick: Package an npm project with Nix in 20 lines",
+      "https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 09:44:47",
       "https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results"
     ],
@@ -147,16 +157,6 @@
     [
       "Interactive xkcd comic about gravity",
       "https://xkcd.com/2712/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 17:11:23",
-      "https://lobste.rs/s/kcm0fx/open_closures_disclosing_lambda_s_inner"
-    ],
-    [
-      "Open Closures: Disclosing lambda’s inner monomaniac object",
-      "https://www.iro.umontreal.ca/~monnier/oclosure.pdf"
     ]
   ],
   [
