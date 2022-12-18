@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-18](index.md)
 
+* [2022-12-18, 14:59:50](https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands) - [Emacs: ffmpeg and macOS aliasing commands](https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 * [2022-12-18, 14:08:00](https://lobste.rs/s/bqdupq/taos_operating_system) - [TAOS Operating System](http://www.uruk.org/emu/Taos.html)
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
