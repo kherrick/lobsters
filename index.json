@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-18, 01:10:36",
+      "https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on"
+    ],
+    [
+      "A minor memorial for Leo Laporte on terrestrial AM radio",
+      "https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-18, 00:01:46",
+      "https://lobste.rs/s/kzxhr7/converting_my_phd_thesis_into_html"
+    ],
+    [
+      "Converting my PhD thesis into HTML",
+      "https://desfontain.es/privacy/latex-to-html.html"
+    ]
+  ],
+  [
+    [
       "2022-12-17, 22:45:02",
       "https://lobste.rs/s/iau4ra/koka_programming_language"
     ],
@@ -37,16 +57,6 @@
     [
       "Growing a Networked Garden with Spritely Goblins",
       "https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 19:11:31",
-      "https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti"
-    ],
-    [
-      "EntryBleed: Breaking KASLR under KPTI with Prefetch (CVE-2022-4543)",
-      "https://www.willsroot.io/2022/12/entrybleed.html"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Open Closures: Disclosing lambda’s inner monomaniac object",
       "https://www.iro.umontreal.ca/~monnier/oclosure.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 14:59:34",
-      "https://lobste.rs/s/miyufs/memory_pool_system_is_flexible_adaptable"
-    ],
-    [
-      "Memory Pool System is a flexible and adaptable memory manager",
-      "https://www.ravenbrook.com/project/mps/"
     ]
   ],
   [
