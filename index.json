@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 15:22:17",
+      "https://lobste.rs/s/baahab/perlisisms_epigrams_programming_by_alan"
+    ],
+    [
+      "Perlisisms - \"Epigrams in Programming\" by Alan J. Perlis (1982)",
+      "http://www.cs.yale.edu/homes/perlis-alan/quotes.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 14:59:50",
       "https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands"
     ],
@@ -167,16 +177,6 @@
     [
       "Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?",
       "https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 17:43:36",
-      "https://lobste.rs/s/lhdm6m/interactive_xkcd_comic_about_gravity"
-    ],
-    [
-      "Interactive xkcd comic about gravity",
-      "https://xkcd.com/2712/"
     ]
   ],
   [
