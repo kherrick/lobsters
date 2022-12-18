@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-18, 01:22:30](https://lobste.rs/s/pasqme/bolin_programming_language) - [Bolin Programming Language](https://bolinlang.com/)
 * [2022-12-18, 01:10:36](https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on) - [A minor memorial for Leo Laporte on terrestrial AM radio](https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
 * [2022-12-18, 00:01:46](https://lobste.rs/s/kzxhr7/converting_my_phd_thesis_into_html) - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
 * [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
@@ -24,7 +25,6 @@
 * [2022-12-16, 23:58:53](https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust) - [Hindley-Milner type inference (in Rust)](https://reasoning.page/compilers/hindley-milner-rust/)
 * [2022-12-16, 22:22:59](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books) - [Your favorite timeless \"technical books\"?](https://lobste.rs/s/blfhr3/your_favorite_timeless_technical_books)
 * [2022-12-16, 12:41:00](https://lobste.rs/s/dpp19k/ocaml_5_0_0_with_multicore_effects_is_out) - [OCaml 5.0.0 (with multicore and effects) is out](https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974)
-* [2022-12-16, 12:15:15](https://lobste.rs/s/p7iaq6/linux_evening_thunderbolt_musings) - [A Linux evening (Thunderbolt musings)](https://fabiensanglard.net/a_linux_evening/index.html)
 
 ## [Archives](archives/index.md)
 
