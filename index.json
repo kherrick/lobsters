@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 17:23:29",
+      "https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified"
+    ],
+    [
+      "rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers",
+      "https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 15:57:07",
       "https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format"
     ],
@@ -157,16 +167,6 @@
     [
       "Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug",
       "https://worthdoingbadly.com/macdirtycow/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 19:16:49",
-      "https://lobste.rs/s/npc8ex/growing_networked_garden_with_spritely"
-    ],
-    [
-      "Growing a Networked Garden with Spritely Goblins",
-      "https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html"
     ]
   ],
   [
