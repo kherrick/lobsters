@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-18, 14:08:00",
+      "https://lobste.rs/s/bqdupq/taos_operating_system"
+    ],
+    [
+      "TAOS Operating System",
+      "http://www.uruk.org/emu/Taos.html"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 12:29:42",
       "https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Codeberg launches Forgejo",
       "https://blog.codeberg.org/codeberg-launches-forgejo.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-16, 23:58:53",
-      "https://lobste.rs/s/nshprk/hindley_milner_type_inference_rust"
-    ],
-    [
-      "Hindley-Milner type inference (in Rust)",
-      "https://reasoning.page/compilers/hindley-milner-rust/"
     ]
   ],
   [
