@@ -8,6 +8,7 @@
 * [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/perlisisms_epigrams_programming_by_alan) - [Perlisisms - \"Epigrams in Programming\" by Alan J. Perlis (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+* [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2022-12-18, 14:59:50](https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands) - [Emacs: ffmpeg and macOS aliasing commands](https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 * [2022-12-18, 14:08:00](https://lobste.rs/s/bqdupq/taos_operating_system) - [TAOS Operating System](http://www.uruk.org/emu/Taos.html)
