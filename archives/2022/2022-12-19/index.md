@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 * [2022-12-19, 13:18:38](https://lobste.rs/s/7tswcn/probability_monads_from_scratch_100) - [Probability Monads from scratch in 100 lines of Haskell](https://dennybritz.com/posts/probability-monads-from-scratch/)
 * [2022-12-19, 13:14:42](https://lobste.rs/s/mu5vau/digitally_sign_pdf_files_from_your) - [Digitally sign PDF files from your commandline - open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)
 * [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 * [2022-12-19, 13:18:38](https://lobste.rs/s/7tswcn/probability_monads_from_scratch_100) - [Probability Monads from scratch in 100 lines of Haskell](https://dennybritz.com/posts/probability-monads-from-scratch/)
 * [2022-12-19, 13:14:42](https://lobste.rs/s/mu5vau/digitally_sign_pdf_files_from_your) - [Digitally sign PDF files from your commandline - open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)
 * [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)
@@ -14,7 +15,6 @@
 * [2022-12-19, 03:23:55](https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem) - [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
 * [2022-12-19, 01:00:53](https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one) - [Technical details on the Musicstore, per one of the engineers](https://cohost.org/cathoderaydude/post/647905-technical-details-on)
 * [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
-* [2022-12-18, 18:21:33](https://lobste.rs/s/qkgrux/html5_canvas_on_rails_part_1) - [HTML5 Canvas on Rails? Part 1](https://fogel.dev/software/canvas_on_rails_1/)
 * [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
