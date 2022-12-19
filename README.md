@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 03:23:55](https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem) - [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
 * [2022-12-19, 01:00:53](https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one) - [Technical details on the Musicstore, per one of the engineers](https://cohost.org/cathoderaydude/post/647905-technical-details-on)
 * [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [2022-12-18, 18:21:33](https://lobste.rs/s/qkgrux/html5_canvas_on_rails_part_1) - [HTML5 Canvas on Rails? Part 1](https://fogel.dev/software/canvas_on_rails_1/)
@@ -22,7 +23,6 @@
 * [2022-12-17, 21:18:58](https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689) - [Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug](https://worthdoingbadly.com/macdirtycow/)
 * [2022-12-17, 18:19:03](https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual) - [Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?](https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598)
 * [2022-12-17, 13:19:40](https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic) - [Zero-initialize objects of automatic storage duration](http://wg21.link/P2723)
-* [2022-12-17, 10:09:51](https://lobste.rs/s/mmpirb/getting_started_with_nmap) - [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
 * [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 * [2022-12-17, 02:14:25](https://lobste.rs/s/9sqfty/codeberg_launches_forgejo) - [Codeberg launches Forgejo](https://blog.codeberg.org/codeberg-launches-forgejo.html)
 
