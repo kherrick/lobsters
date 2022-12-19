@@ -20,11 +20,11 @@
 * [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
+* [2022-12-19, 07:19:16](https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview) - [A Brief Introduction to Phoenix and LiveView (Part 1)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
 * [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
 * [2022-12-19, 05:29:56](https://lobste.rs/s/blqufg/death_line_death) - [Death to the line of death](https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
-* [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 
 ## [Archives](archives/index.md)
 
