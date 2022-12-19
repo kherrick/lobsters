@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released) - [GNU Guix 1.4.0 released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:34:52](https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23) - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
@@ -19,7 +20,6 @@
 * [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-* [2022-12-18, 14:59:50](https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands) - [Emacs: ffmpeg and macOS aliasing commands](https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 * [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
