@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
 * [2022-12-19, 19:55:41](https://lobste.rs/s/zwix4d/structured_bindings_c_17_5_years_later) - [Structured bindings in C++17, 5 years later](https://www.cppstories.com/2022/structured-bindings/)
 * [2022-12-19, 19:44:03](https://lobste.rs/s/nd0kaz/error_accumulating_composable) - [Error-accumulating composable assertions in C#](https://blog.ploeh.dk/2022/12/19/error-accumulating-composable-assertions-in-c/)
 * [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
@@ -16,7 +17,6 @@
 * [2022-12-19, 13:14:42](https://lobste.rs/s/mu5vau/digitally_sign_pdf_files_from_your) - [Digitally sign PDF files from your commandline - open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)
 * [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
-* [2022-12-19, 09:57:37](https://lobste.rs/s/3pvsed/i_hope_this_sticks_analyzing) - [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 07:19:16](https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview) - [A Brief Introduction to Phoenix and LiveView (Part 1)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
