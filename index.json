@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-19, 15:25:31",
-      "https://lobste.rs/s/b6mfim/good_read"
-    ],
-    [
-      "good read",
-      "https://near.org/blog/near-strategic-update-and-outlook-for-2023/"
-    ]
-  ],
-  [
-    [
       "2022-12-19, 14:48:48",
       "https://lobste.rs/s/gvfdvs/getting_started_with_server_health"
     ],
@@ -247,6 +237,16 @@
     [
       "Ethernet transceiver",
       "https://imihajlov.tk/blog/posts/eth-to-spi/"
+    ]
+  ],
+  [
+    [
+      "2022-12-17, 22:45:02",
+      "https://lobste.rs/s/iau4ra/koka_programming_language"
+    ],
+    [
+      "The Koka Programming Language",
+      "https://koka-lang.github.io/koka/doc/book.html"
     ]
   ]
 ]
