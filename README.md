@@ -2,7 +2,7 @@
 
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 07:19:16](https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview) - [A Brief Introduction to Phoenix and LiveView (Part 1)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
-* [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git_written_go) - [legit—web frontend for git, written in Go](https://git.icyphox.sh/legit)
+* [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
 * [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
 * [2022-12-19, 05:29:56](https://lobste.rs/s/blqufg/death_line_death) - [Death to the line of death](https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html)
 * [2022-12-19, 04:27:08](https://lobste.rs/s/vpunwm/copy_semantics_per_plato_s_sophist) - [Copy semantics, per Plato’s Sophist](https://quuxplusone.github.io/blog/2022/12/15/sophist/)
