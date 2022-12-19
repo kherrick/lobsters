@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-12-19, 15:25:31](https://lobste.rs/s/b6mfim/good_read) - [good read](https://near.org/blog/near-strategic-update-and-outlook-for-2023/)
 * [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:34:52](https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23) - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
@@ -25,6 +24,7 @@
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 * [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
 * [2022-12-18, 07:27:08](https://lobste.rs/s/tifp2y/ethernet_transceiver) - [Ethernet transceiver](https://imihajlov.tk/blog/posts/eth-to-spi/)
+* [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
 
 ## [Archives](archives/index.md)
 
