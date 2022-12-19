@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
 * [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
@@ -19,7 +20,6 @@
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
 * [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
 * [2022-12-19, 05:29:56](https://lobste.rs/s/blqufg/death_line_death) - [Death to the line of death](https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html)
-* [2022-12-19, 03:23:55](https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem) - [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
 * [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)

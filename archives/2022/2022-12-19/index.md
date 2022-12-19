@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
 * [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
