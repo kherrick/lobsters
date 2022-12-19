@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 06:36:47",
+      "https://lobste.rs/s/trcln1/legit_web_frontend_for_git_written_go"
+    ],
+    [
+      "legit—web frontend for git, written in Go",
+      "https://git.icyphox.sh/legit"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 05:30:23",
       "https://lobste.rs/s/q4rsif/xanadu_hypertext_documents"
     ],
@@ -227,16 +237,6 @@
     [
       "Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?",
       "https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 13:19:40",
-      "https://lobste.rs/s/l8bkmp/zero_initialize_objects_automatic"
-    ],
-    [
-      "Zero-initialize objects of automatic storage duration",
-      "http://wg21.link/P2723"
     ]
   ],
   [
