@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
+* [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
+* [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)
 * [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:34:52](https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23) - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
@@ -16,15 +19,12 @@
 * [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
 * [2022-12-19, 05:29:56](https://lobste.rs/s/blqufg/death_line_death) - [Death to the line of death](https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html)
 * [2022-12-19, 03:23:55](https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem) - [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
-* [2022-12-19, 01:00:53](https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one) - [Technical details on the Musicstore, per one of the engineers](https://cohost.org/cathoderaydude/post/647905-technical-details-on)
 * [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 * [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
-* [2022-12-18, 07:27:08](https://lobste.rs/s/tifp2y/ethernet_transceiver) - [Ethernet transceiver](https://imihajlov.tk/blog/posts/eth-to-spi/)
-* [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
 
 ## [Archives](archives/index.md)
 

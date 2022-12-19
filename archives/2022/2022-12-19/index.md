@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
+* [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
+* [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)
 * [2022-12-19, 15:25:31](https://lobste.rs/s/b6mfim/good_read) - [good read](https://near.org/blog/near-strategic-update-and-outlook-for-2023/)
 * [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released) - [GNU Guix 1.4.0 released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
