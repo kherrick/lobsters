@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2022-12-19, 07:19:16",
+      "https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview"
+    ],
+    [
+      "A Brief Introduction to Phoenix and LiveView (Part 1)",
+      "https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 06:36:47",
       "https://lobste.rs/s/trcln1/legit_web_frontend_for_git"
     ],
@@ -237,16 +247,6 @@
     [
       "Structuring Clojure Applications",
       "https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 12:29:42",
-      "https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with"
-    ],
-    [
-      "Lockfile trick: Package an npm project with Nix in 20 lines",
-      "https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html"
     ]
   ]
 ]
