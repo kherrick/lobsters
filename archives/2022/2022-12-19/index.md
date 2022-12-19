@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 * [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)

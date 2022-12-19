@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 * [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)
@@ -24,7 +25,6 @@
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
-* [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
 
 ## [Archives](archives/index.md)
 
