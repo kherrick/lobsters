@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-19, 14:34:52",
+      "https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23"
+    ],
+    [
+      "Checked integer arithmetic in the prospect of C23",
+      "https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 14:30:56",
+      "https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service"
+    ],
+    [
+      "Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?",
+      "https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 14:06:19",
       "https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2022-12-19, 04:27:08",
-      "https://lobste.rs/s/vpunwm/copy_semantics_per_plato_s_sophist"
-    ],
-    [
-      "Copy semantics, per Plato’s Sophist",
-      "https://quuxplusone.github.io/blog/2022/12/15/sophist/"
-    ]
-  ],
-  [
-    [
       "2022-12-19, 03:23:55",
       "https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem"
     ],
@@ -197,16 +207,6 @@
     [
       "Structuring Clojure Applications",
       "https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 14:08:00",
-      "https://lobste.rs/s/bqdupq/taos_operating_system"
-    ],
-    [
-      "TAOS Operating System",
-      "http://www.uruk.org/emu/Taos.html"
     ]
   ],
   [
