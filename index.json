@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 14:38:19",
+      "https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released"
+    ],
+    [
+      "GNU Guix 1.4.0 released",
+      "https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 14:34:52",
       "https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23"
     ],
@@ -187,16 +197,6 @@
     [
       "Epigrams in Programming (1982)",
       "http://www.cs.yale.edu/homes/perlis-alan/quotes.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 14:59:50",
-      "https://lobste.rs/s/kzr2mw/emacs_ffmpeg_macos_aliasing_commands"
-    ],
-    [
-      "Emacs: ffmpeg and macOS aliasing commands",
-      "https://xenodium.com/emacs-ffmpeg-and-macos-alias-commands/"
     ]
   ],
   [
