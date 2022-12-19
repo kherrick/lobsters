@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 09:57:37](https://lobste.rs/s/3pvsed/i_hope_this_sticks_analyzing) - [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 07:19:16](https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview) - [A Brief Introduction to Phoenix and LiveView (Part 1)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git_written_go) - [legit—web frontend for git, written in Go](https://git.icyphox.sh/legit)

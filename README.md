@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 09:57:37](https://lobste.rs/s/3pvsed/i_hope_this_sticks_analyzing) - [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 07:19:16](https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview) - [A Brief Introduction to Phoenix and LiveView (Part 1)](https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
@@ -24,7 +25,6 @@
 * [2022-12-18, 01:10:36](https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on) - [A minor memorial for Leo Laporte on terrestrial AM radio](https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
 * [2022-12-18, 00:01:46](https://lobste.rs/s/kzxhr7/converting_my_phd_thesis_into_html) - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
 * [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
-* [2022-12-17, 09:15:29](https://lobste.rs/s/j9scg2/let_s_encrypt_now_supports_acme_caa) - [Let's Encrypt now supports ACME-CAA: closing the DV loophole](https://www.devever.net/~hl/acme-caa-live)
 
 ## [Archives](archives/index.md)
 
