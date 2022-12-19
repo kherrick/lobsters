@@ -1,11 +1,21 @@
 [
   [
     [
-      "2022-12-19, 14:38:19",
-      "https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released"
+      "2022-12-19, 14:48:48",
+      "https://lobste.rs/s/gvfdvs/getting_started_with_server_health"
     ],
     [
-      "GNU Guix 1.4.0 released",
+      "Getting Started with Server Health Checks",
+      "https://betterstack.com/community/guides/monitoring/health-checks/"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 14:38:19",
+      "https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released"
+    ],
+    [
+      "GNU Guix 1.4.0 has released",
       "https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Copilot Internals",
       "https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 17:23:29",
-      "https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified"
-    ],
-    [
-      "rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers",
-      "https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html"
     ]
   ],
   [
