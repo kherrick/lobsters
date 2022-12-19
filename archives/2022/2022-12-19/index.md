@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 21:16:31](https://lobste.rs/s/rksvu0/nixpkgs_support_for_incremental_haskell) - [Nixpkgs support for incremental Haskell builds](https://www.haskellforall.com/2022/12/nixpkgs-support-for-incremental-haskell.html)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
 * [2022-12-19, 19:55:41](https://lobste.rs/s/zwix4d/structured_bindings_c_17_5_years_later) - [Structured bindings in C++17, 5 years later](https://www.cppstories.com/2022/structured-bindings/)
