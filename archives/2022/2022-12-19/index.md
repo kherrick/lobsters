@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 13:18:38](https://lobste.rs/s/7tswcn/probability_monads_from_scratch_100) - [Probability Monads from scratch in 100 lines of Haskell](https://dennybritz.com/posts/probability-monads-from-scratch/)
+* [2022-12-19, 13:14:42](https://lobste.rs/s/mu5vau/digitally_sign_pdf_files_from_your) - [Digitally sign PDF files from your commandline - open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)
 * [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
 * [2022-12-19, 09:57:37](https://lobste.rs/s/3pvsed/i_hope_this_sticks_analyzing) - [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
