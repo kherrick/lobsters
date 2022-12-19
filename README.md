@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-19, 12:34:19](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/evg4zc/what_are_you_doing_this_week)
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
 * [2022-12-19, 09:57:37](https://lobste.rs/s/3pvsed/i_hope_this_sticks_analyzing) - [I Hope This Sticks: Analyzing ClipboardEvent Listeners for Stored XSS](https://spaceraccoon.dev/analyzing-clipboardevent-listeners-stored-xss/)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
@@ -21,7 +22,6 @@
 * [2022-12-18, 12:29:42](https://lobste.rs/s/btnml1/lockfile_trick_package_npm_project_with) - [Lockfile trick: Package an npm project with Nix in 20 lines](https://www.nmattia.com/posts/2022-12-18-lockfile-trick-package-npm-project-with-nix.html)
 * [2022-12-18, 09:44:47](https://lobste.rs/s/eaoa7p/emacs_user_survey_2022_results) - [Emacs User Survey - 2022 - Results](https://emacssurvey.org/results/3425413930)
 * [2022-12-18, 07:27:08](https://lobste.rs/s/tifp2y/ethernet_transceiver) - [Ethernet transceiver](https://imihajlov.tk/blog/posts/eth-to-spi/)
-* [2022-12-18, 03:42:19](https://lobste.rs/s/sryur4/implementing_perceus_reference) - [Implementing the Perceus reference counting GC](https://dev.to/raviqqe/implementing-the-perceus-reference-counting-gc-5662)
 * [2022-12-18, 01:10:36](https://lobste.rs/s/cpgrka/minor_memorial_for_leo_laporte_on) - [A minor memorial for Leo Laporte on terrestrial AM radio](https://oldvcr.blogspot.com/2022/12/a-minor-memorial-for-leo-laporte-on.html)
 * [2022-12-18, 00:01:46](https://lobste.rs/s/kzxhr7/converting_my_phd_thesis_into_html) - [Converting my PhD thesis into HTML](https://desfontain.es/privacy/latex-to-html.html)
 * [2022-12-17, 22:45:02](https://lobste.rs/s/iau4ra/koka_programming_language) - [The Koka Programming Language](https://koka-lang.github.io/koka/doc/book.html)
