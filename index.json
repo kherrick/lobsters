@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-19, 05:30:23",
+      "https://lobste.rs/s/q4rsif/xanadu_hypertext_documents"
+    ],
+    [
+      "Xanadu Hypertext Documents Specification [1984]",
+      "http://fudco.com/chip/XanaduSDF1984OCR.pdf"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 05:29:56",
+      "https://lobste.rs/s/blqufg/death_line_death"
+    ],
+    [
+      "Death to the line of death",
+      "https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 04:27:08",
       "https://lobste.rs/s/vpunwm/copy_semantics_per_plato_s_sophist"
     ],
@@ -137,26 +157,6 @@
     [
       "Ethernet transceiver",
       "https://imihajlov.tk/blog/posts/eth-to-spi/"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 06:38:44",
-      "https://lobste.rs/s/wnsxjy/replacing_std_lock_guard_with_factory"
-    ],
-    [
-      "Replacing std::lock_guard with a factory function",
-      "https://quuxplusone.github.io/blog/2022/12/14/my-lock-guard/"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 06:32:09",
-      "https://lobste.rs/s/stqy9r/i_tricked_m3_euagendas_org_twitter"
-    ],
-    [
-      "I tricked m3.euagendas.org, the Twitter analysis website, with adversarial inputs (2019)",
-      "https://worthdoingbadly.com/nn-adversarial/"
     ]
   ],
   [
