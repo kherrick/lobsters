@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 09:01:03",
+      "https://lobste.rs/s/tcgsea/treating_email_more_like_password"
+    ],
+    [
+      "Treating Email More Like a Password Manager",
+      "https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 07:19:16",
       "https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview"
     ],
@@ -227,16 +237,6 @@
     [
       "The Koka Programming Language",
       "https://koka-lang.github.io/koka/doc/book.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 18:19:03",
-      "https://lobste.rs/s/5emns2/why_doesn_t_windows_use_64_bit_virtual"
-    ],
-    [
-      "Why doesn't Windows use the 64-bit virtual address space below 0x00000000`7ffe0000?",
-      "https://devblogs.microsoft.com/oldnewthing/20221216-00/?p=107598"
     ]
   ],
   [
