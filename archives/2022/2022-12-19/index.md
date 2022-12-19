@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 19:55:41](https://lobste.rs/s/zwix4d/structured_bindings_c_17_5_years_later) - [Structured bindings in C++17, 5 years later](https://www.cppstories.com/2022/structured-bindings/)
 * [2022-12-19, 19:44:03](https://lobste.rs/s/nd0kaz/error_accumulating_composable) - [Error-accumulating composable assertions in C#](https://blog.ploeh.dk/2022/12/19/error-accumulating-composable-assertions-in-c/)
 * [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
 * [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
