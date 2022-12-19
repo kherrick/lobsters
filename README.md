@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released) - [GNU Guix 1.4.0 released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
+* [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
+* [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:34:52](https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23) - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
@@ -17,7 +18,6 @@
 * [2022-12-19, 03:23:55](https://lobste.rs/s/bj7t4c/thoughts_on_user_interfaces_for_theorem) - [Thoughts on user interfaces for theorem provers](https://lawrencecpaulson.github.io//2022/12/14/User_interfaces.html)
 * [2022-12-19, 01:00:53](https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one) - [Technical details on the Musicstore, per one of the engineers](https://cohost.org/cathoderaydude/post/647905-technical-details-on)
 * [2022-12-18, 20:59:37](https://lobste.rs/s/0b03wt/copilot_internals) - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
-* [2022-12-18, 17:23:29](https://lobste.rs/s/rvs4xq/rodauth_oauth_1_0_0_openid_certified) - [rodauth-oauth 1.0.0 - an OpenID certified toolkit for building OAuth and OpenID Connect providers](https://honeyryderchuck.gitlab.io/rodauth-oauth/rdoc/files/doc/release_notes/1_0_0_md.html)
 * [2022-12-18, 15:57:07](https://lobste.rs/s/wy1vyr/qoi_is_now_my_favorite_asset_format) - [QOI is now my favorite asset format](https://nullprogram.com/blog/2022/12/18/)
 * [2022-12-18, 15:22:17](https://lobste.rs/s/baahab/epigrams_programming_1982) - [Epigrams in Programming (1982)](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-19](index.md)
 
+* [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_released) - [GNU Guix 1.4.0 released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
+* [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:34:52](https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23) - [Checked integer arithmetic in the prospect of C23](https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/)
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
