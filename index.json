@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-19, 16:16:54",
+      "https://lobste.rs/s/240vwb/beyond_functional_programming_verse"
+    ],
+    [
+      "Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)",
+      "https://www.youtube.com/watch?v=832JF1o7Ck8"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 16:10:48",
+      "https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky"
+    ],
+    [
+      "Enforce Git Hooks in Monorepos with Husky - But How?",
+      "https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma"
+    ]
+  ],
+  [
+    [
+      "2022-12-19, 16:07:38",
+      "https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released"
+    ],
+    [
+      "The Sequoia GnuPG Chameleon 0.1 is Released",
+      "https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 14:48:48",
       "https://lobste.rs/s/gvfdvs/getting_started_with_server_health"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2022-12-19, 01:00:53",
-      "https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one"
-    ],
-    [
-      "Technical details on the Musicstore, per one of the engineers",
-      "https://cohost.org/cathoderaydude/post/647905-technical-details-on"
-    ]
-  ],
-  [
-    [
       "2022-12-18, 20:59:37",
       "https://lobste.rs/s/0b03wt/copilot_internals"
     ],
@@ -227,26 +247,6 @@
     [
       "Emacs User Survey - 2022 - Results",
       "https://emacssurvey.org/results/3425413930"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 07:27:08",
-      "https://lobste.rs/s/tifp2y/ethernet_transceiver"
-    ],
-    [
-      "Ethernet transceiver",
-      "https://imihajlov.tk/blog/posts/eth-to-spi/"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 22:45:02",
-      "https://lobste.rs/s/iau4ra/koka_programming_language"
-    ],
-    [
-      "The Koka Programming Language",
-      "https://koka-lang.github.io/koka/doc/book.html"
     ]
   ]
 ]
