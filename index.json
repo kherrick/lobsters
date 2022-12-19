@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 22:25:38",
+      "https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf"
+    ],
+    [
+      "Astronomical Calculations for Hard SF in Common Lisp",
+      "https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 21:42:46",
       "https://lobste.rs/s/i7szmo/announcing_rust_magazine"
     ],
@@ -37,16 +47,6 @@
     [
       "Gleam developer survey 2022 results",
       "https://gleam.run/news/developer-survey-2022-results/ "
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 19:55:41",
-      "https://lobste.rs/s/zwix4d/structured_bindings_c_17_5_years_later"
-    ],
-    [
-      "Structured bindings in C++17, 5 years later",
-      "https://www.cppstories.com/2022/structured-bindings/"
     ]
   ],
   [
