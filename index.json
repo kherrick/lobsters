@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 07:19:16",
+      "https://lobste.rs/s/yhm6tr/brief_introduction_phoenix_liveview"
+    ],
+    [
+      "A Brief Introduction to Phoenix and LiveView (Part 1)",
+      "https://danieljaouendevelopment.com/2022/12/18/a-brief-introduction-to-phoenix-and-liveview-part-1/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 06:36:47",
       "https://lobste.rs/s/trcln1/legit_web_frontend_for_git_written_go"
     ],
@@ -217,16 +227,6 @@
     [
       "The Koka Programming Language",
       "https://koka-lang.github.io/koka/doc/book.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 21:18:58",
-      "https://lobste.rs/s/pdqg4e/get_root_on_macos_13_0_1_with_cve_2022_46689"
-    ],
-    [
-      "Get root on macOS 13.0.1 with CVE-2022-46689, the macOS Dirty Cow bug",
-      "https://worthdoingbadly.com/macdirtycow/"
     ]
   ],
   [
