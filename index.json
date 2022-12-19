@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-19, 01:00:53",
+      "https://lobste.rs/s/fa7ru0/technical_details_on_musicstore_per_one"
+    ],
+    [
+      "Technical details on the Musicstore, per one of the engineers",
+      "https://cohost.org/cathoderaydude/post/647905-technical-details-on"
+    ]
+  ],
+  [
+    [
       "2022-12-18, 20:59:37",
       "https://lobste.rs/s/0b03wt/copilot_internals"
     ],
@@ -207,16 +217,6 @@
     [
       "Zero-initialize objects of automatic storage duration",
       "http://wg21.link/P2723"
-    ]
-  ],
-  [
-    [
-      "2022-12-17, 12:48:42",
-      "https://lobste.rs/s/axkbmk/writing_static_site_generator_using"
-    ],
-    [
-      "Writing a Static Site Generator Using Shake",
-      "https://abhinavsarkar.net/posts/static-site-generator-using-shake/"
     ]
   ],
   [
