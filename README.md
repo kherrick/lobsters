@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 19:33:31](https://lobste.rs/s/hcudc8/potassco_answer_set_solving_collection) - [Potassco: The Answer Set Solving Collection](https://potassco.org/)
 * [2022-12-20, 19:01:22](https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available) - [NetBSD 10.0 BETA available](http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available)
 * [2022-12-20, 18:42:08](https://lobste.rs/s/jsxmgx/ssh_how_use_public_key_authentication_on) - [ssh - How to use public key authentication on Linux](https://ittavern.com/ssh-how-to-use-public-key-authentication-on-linux/)
 * [2022-12-20, 18:34:00](https://lobste.rs/s/2swees/elixir_openai_api_wrapper) - [Elixir OpenAI API Wrapper](https://github.com/hernanat/open_ai_ex)
@@ -15,7 +16,6 @@
 * [2022-12-20, 08:29:50](https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for) - [git-autofixup: create fixup commits for topic branches](https://github.com/torbiak/git-autofixup)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
-* [2022-12-20, 04:08:42](https://lobste.rs/s/yzrrkj/performance_inequality_gap_2023) - [The Performance Inequality Gap, 2023](https://infrequently.org/2022/12/performance-baseline-2023/)
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
