@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-20, 03:48:58",
+      "https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel"
+    ],
+    [
+      "Upgrading my old Chumby 8 Linux kernel part 1: U-Boot",
+      "https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 03:46:57",
+      "https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip"
+    ],
+    [
+      "Towards a More Open Secure Element Chip",
+      "https://www.bunniestudios.com/blog/?p=6606"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 03:12:19",
       "https://lobste.rs/s/4kjidq/implementing_strlen_using_sve"
     ],
@@ -227,26 +247,6 @@
     [
       "Xanadu Hypertext Documents Specification [1984]",
       "http://fudco.com/chip/XanaduSDF1984OCR.pdf"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 05:29:56",
-      "https://lobste.rs/s/blqufg/death_line_death"
-    ],
-    [
-      "Death to the line of death",
-      "https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-18, 14:53:13",
-      "https://lobste.rs/s/4h42vn/structuring_clojure_applications"
-    ],
-    [
-      "Structuring Clojure Applications",
-      "https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html"
     ]
   ]
 ]
