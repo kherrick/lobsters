@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 13:00:34",
+      "https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid"
+    ],
+    [
+      "An Ode to Unit Tests: In Defense of the Testing Pyramid",
+      "https://www.infoq.com/articles/unit-tests-testing-pyramid/"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 12:13:08",
       "https://lobste.rs/s/rxfrfa/union_all_data_types_performance"
     ],
@@ -97,16 +107,6 @@
     [
       "Faster Go code by being mindful of memory",
       "https://f4t.dev/software/go-performance-memory/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 22:25:38",
-      "https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf"
-    ],
-    [
-      "Astronomical Calculations for Hard SF in Common Lisp",
-      "https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp"
     ]
   ],
   [
