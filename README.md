@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 22:44:21](https://lobste.rs/s/0rtdbj/devbox_0_2_0_automatic_nix_installer) - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
 * [2022-12-20, 22:29:13](https://lobste.rs/s/aejjgw/what_not_forget_when_implementing) - [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)
 * [2022-12-20, 22:19:52](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year) - [Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
-* [2022-12-20, 21:23:11](https://lobste.rs/s/bdtrix/paper_vr_revisited_view_changes) - [Paper: VR Revisited - View changes - Questions (part 1)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)
 * [2022-12-20, 19:33:31](https://lobste.rs/s/hcudc8/potassco_answer_set_solving_collection) - [Potassco: The Answer Set Solving Collection](https://potassco.org/)
 * [2022-12-20, 19:01:22](https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available) - [NetBSD 10.0 BETA available](http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available)
 * [2022-12-20, 18:34:00](https://lobste.rs/s/2swees/elixir_openai_api_wrapper) - [Elixir OpenAI API Wrapper](https://github.com/hernanat/open_ai_ex)
