@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 08:29:50](https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for) - [git-autofixup: create fixup commits for topic branches](https://github.com/torbiak/git-autofixup)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
-* [2022-12-20, 05:48:34](https://lobste.rs/s/rbxgrm/gpt3_conversations_dall_e_integration) - [GPT3 conversations and DALL-E integration directly in Discord](https://github.com/Kav-K/GPT3Discord)
+* [2022-12-20, 04:08:42](https://lobste.rs/s/yzrrkj/performance_inequality_gap_2023) - [The Performance Inequality Gap, 2023](https://infrequently.org/2022/12/performance-baseline-2023/)
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
 * [2022-12-20, 03:46:57](https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip) - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 * [2022-12-20, 03:12:19](https://lobste.rs/s/4kjidq/implementing_strlen_using_sve) - [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
@@ -12,7 +13,6 @@
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 21:16:31](https://lobste.rs/s/rksvu0/nixpkgs_support_for_incremental_haskell) - [Nixpkgs support for incremental Haskell builds](https://www.haskellforall.com/2022/12/nixpkgs-support-for-incremental-haskell.html)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
-* [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 * [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)

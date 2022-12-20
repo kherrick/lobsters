@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 08:29:50](https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for) - [git-autofixup: create fixup commits for topic branches](https://github.com/torbiak/git-autofixup)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
 * [2022-12-20, 05:48:34](https://lobste.rs/s/rbxgrm/gpt3_conversations_dall_e_integration) - [GPT3 conversations and DALL-E integration directly in Discord](https://github.com/Kav-K/GPT3Discord)
