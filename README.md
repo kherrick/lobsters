@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 18:34:00](https://lobste.rs/s/2swees/elixir_openai_api_wrapper) - [Elixir OpenAI API Wrapper](https://github.com/hernanat/open_ai_ex)
 * [2022-12-20, 18:28:16](https://lobste.rs/s/rk47tk/painting_proficiency_with_your_tools) - [Painting and Proficiency With Your Tools](https://calebhearth.com/painting-and-proficiency)
 * [2022-12-20, 18:09:39](https://lobste.rs/s/lqqn19/libquotient_0_7_0_release) - [libQuotient 0.7.0 release](https://github.com/quotient-im/libQuotient/releases/tag/0.7.0)
 * [2022-12-20, 17:40:34](https://lobste.rs/s/ye3r1g/magical_container_macro_2012) - [The Magical container_of() Macro (2012)](https://radek.io/2012/11/10/magical-container_of-macro/)
@@ -18,7 +19,6 @@
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
-* [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 14:48:48](https://lobste.rs/s/gvfdvs/getting_started_with_server_health) - [Getting Started with Server Health Checks](https://betterstack.com/community/guides/monitoring/health-checks/)
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
