@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 22:25:38](https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf) - [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
 * [2022-12-19, 21:42:46](https://lobste.rs/s/i7szmo/announcing_rust_magazine) - [Announcing Rust Magazine](https://rustmagazine.github.io/announcing/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 21:16:31](https://lobste.rs/s/rksvu0/nixpkgs_support_for_incremental_haskell) - [Nixpkgs support for incremental Haskell builds](https://www.haskellforall.com/2022/12/nixpkgs-support-for-incremental-haskell.html)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
 * [2022-12-19, 18:27:21](https://lobste.rs/s/ekydhl/what_s_new_bazel_6_0) - [What’s new in Bazel 6.0](https://brentley.dev/whats-new-in-bazel-6.0/)
-* [2022-12-19, 17:34:40](https://lobste.rs/s/g6q0bk/search_for_siegel_zeros) - [The Search for Siegel Zeros](https://www.youtube.com/watch?v=Bn946gIck3g)
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
 * [2022-12-19, 16:10:48](https://lobste.rs/s/zswdlf/enforce_git_hooks_monorepos_with_husky) - [Enforce Git Hooks in Monorepos with Husky - But How?](https://dev.to/mimafogeus2/enforce-git-hooks-in-monorepos-with-husky-but-how-3fma)
 * [2022-12-19, 16:07:38](https://lobste.rs/s/tunv7m/sequoia_gnupg_chameleon_0_1_is_released) - [The Sequoia GnuPG Chameleon 0.1 is Released](https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/)
