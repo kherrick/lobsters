@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 16:34:36](https://lobste.rs/s/q5atik/write_latency_block_size_2010) - [Write Latency and Block Size (2010)](https://www.evanjones.ca/write-latency-alignment.html)
 * [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
