@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 05:48:34",
+      "https://lobste.rs/s/rbxgrm/gpt3_conversations_dall_e_integration"
+    ],
+    [
+      "GPT3 conversations and DALL-E integration directly in Discord",
+      "https://github.com/Kav-K/GPT3Discord"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 04:08:42",
       "https://lobste.rs/s/yzrrkj/performance_inequality_gap_2023"
     ],
@@ -157,16 +167,6 @@
     [
       "GNU Guix 1.4.0 has released",
       "https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 14:34:52",
-      "https://lobste.rs/s/zbevik/checked_integer_arithmetic_prospect_c23"
-    ],
-    [
-      "Checked integer arithmetic in the prospect of C23",
-      "https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/"
     ]
   ],
   [
