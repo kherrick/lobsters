@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 21:50:35",
+      "https://lobste.rs/s/xm27la/signed_distance_functions_46_lines"
+    ],
+    [
+      "Signed distance functions in 46 lines of Python",
+      "https://vgel.me/posts/donut/"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 21:25:05",
       "https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking"
     ],
@@ -137,16 +147,6 @@
     [
       "Feature Preview: Gitea Actions",
       "https://blog.gitea.io/2022/12/feature-preview-gitea-actions/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 08:29:50",
-      "https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for"
-    ],
-    [
-      "git-autofixup: create fixup commits for topic branches",
-      "https://github.com/torbiak/git-autofixup"
     ]
   ],
   [
