@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 22:29:13",
+      "https://lobste.rs/s/aejjgw/what_not_forget_when_implementing"
+    ],
+    [
+      "What not to forget when implementing a pattern-matching in Ruby for custom objects",
+      "https://zverok.space/blog/2022-12-20-pattern-matching.html"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 22:19:52",
       "https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year"
     ],
@@ -197,16 +207,6 @@
     [
       "Boring Python: code quality",
       "https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 20:56:40",
-      "https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results"
-    ],
-    [
-      "Gleam developer survey 2022 results",
-      "https://gleam.run/news/developer-survey-2022-results/ "
     ]
   ],
   [
