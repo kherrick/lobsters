@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-20, 21:29:41",
-      "https://lobste.rs/s/qqbzie/top_skills_learn_for_2023_ask_hn"
-    ],
-    [
-      "Top Skills to Learn for 2023? (Ask HN)",
-      "https://news.ycombinator.com/item?id=34054170"
-    ]
-  ],
-  [
-    [
       "2022-12-20, 21:25:05",
       "https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking"
     ],
@@ -147,6 +137,16 @@
     [
       "Feature Preview: Gitea Actions",
       "https://blog.gitea.io/2022/12/feature-preview-gitea-actions/"
+    ]
+  ],
+  [
+    [
+      "2022-12-20, 08:29:50",
+      "https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for"
+    ],
+    [
+      "git-autofixup: create fixup commits for topic branches",
+      "https://github.com/torbiak/git-autofixup"
     ]
   ],
   [
