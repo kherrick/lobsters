@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 13:00:34](https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid) - [An Ode to Unit Tests: In Defense of the Testing Pyramid](https://www.infoq.com/articles/unit-tests-testing-pyramid/)
 * [2022-12-20, 12:13:08](https://lobste.rs/s/rxfrfa/union_all_data_types_performance) - [UNION ALL, data types and performance](https://www.cybertec-postgresql.com/en/union-all-data-types-performance/)
 * [2022-12-20, 11:17:37](https://lobste.rs/s/zawvnf/11_laws_software_estimation_for_complex) - [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
 * [2022-12-20, 10:04:34](https://lobste.rs/s/8jiojq/feature_preview_gitea_actions_blog) - [Feature Preview: Gitea Actions - Blog](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/)
