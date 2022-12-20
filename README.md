@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
+* [2022-12-20, 03:46:57](https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip) - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 * [2022-12-20, 03:12:19](https://lobste.rs/s/4kjidq/implementing_strlen_using_sve) - [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 22:25:38](https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf) - [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
@@ -23,8 +25,6 @@
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
 * [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
-* [2022-12-19, 05:29:56](https://lobste.rs/s/blqufg/death_line_death) - [Death to the line of death](https://emilymstark.com/2022/12/18/death-to-the-line-of-death.html)
-* [2022-12-18, 14:53:13](https://lobste.rs/s/4h42vn/structuring_clojure_applications) - [Structuring Clojure Applications](https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html)
 
 ## [Archives](archives/index.md)
 
