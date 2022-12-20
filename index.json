@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 15:40:20",
+      "https://lobste.rs/s/y3rvpu/topologist_s_world_map"
+    ],
+    [
+      "The topologist's world map",
+      "https://tafc.space/qna/the-topologists-world-map/"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 14:57:49",
       "https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from"
     ],
@@ -27,16 +37,6 @@
     [
       "An Ode to Unit Tests: In Defense of the Testing Pyramid",
       "https://www.infoq.com/articles/unit-tests-testing-pyramid/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 12:13:08",
-      "https://lobste.rs/s/rxfrfa/union_all_data_types_performance"
-    ],
-    [
-      "UNION ALL, data types and performance",
-      "https://www.cybertec-postgresql.com/en/union-all-data-types-performance/"
     ]
   ],
   [
