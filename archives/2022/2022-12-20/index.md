@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2022-12-20, 13:00:34](https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid) - [An Ode to Unit Tests: In Defense of the Testing Pyramid](https://www.infoq.com/articles/unit-tests-testing-pyramid/)

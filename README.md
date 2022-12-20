@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2022-12-20, 13:00:34](https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid) - [An Ode to Unit Tests: In Defense of the Testing Pyramid](https://www.infoq.com/articles/unit-tests-testing-pyramid/)
-* [2022-12-20, 12:13:08](https://lobste.rs/s/rxfrfa/union_all_data_types_performance) - [UNION ALL, data types and performance](https://www.cybertec-postgresql.com/en/union-all-data-types-performance/)
 * [2022-12-20, 10:04:34](https://lobste.rs/s/8jiojq/feature_preview_gitea_actions) - [Feature Preview: Gitea Actions](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/)
 * [2022-12-20, 08:29:50](https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for) - [git-autofixup: create fixup commits for topic branches](https://github.com/torbiak/git-autofixup)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
