@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 01:25:18",
+      "https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory"
+    ],
+    [
+      "Faster Go code by being mindful of memory",
+      "https://f4t.dev/software/go-performance-memory/"
+    ]
+  ],
+  [
+    [
       "2022-12-19, 22:25:38",
       "https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf"
     ],
@@ -57,16 +67,6 @@
     [
       "What’s new in Bazel 6.0",
       "https://brentley.dev/whats-new-in-bazel-6.0/"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 17:34:40",
-      "https://lobste.rs/s/g6q0bk/search_for_siegel_zeros"
-    ],
-    [
-      "The Search for Siegel Zeros",
-      "https://www.youtube.com/watch?v=Bn946gIck3g"
     ]
   ],
   [
