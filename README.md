@@ -11,7 +11,7 @@
 * [2022-12-20, 03:46:57](https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip) - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 * [2022-12-20, 03:12:19](https://lobste.rs/s/4kjidq/implementing_strlen_using_sve) - [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
-* [2022-12-19, 21:42:46](https://lobste.rs/s/i7szmo/announcing_rust_magazine) - [Announcing Rust Magazine](https://rustmagazine.github.io/announcing/)
+* [2022-12-19, 22:25:38](https://lobste.rs/s/d7c6mv/astronomical_calculations_for_hard_sf) - [Astronomical Calculations for Hard SF in Common Lisp](https://borretti.me/article/astronomical-calculations-for-hard-sf-common-lisp)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 21:16:31](https://lobste.rs/s/rksvu0/nixpkgs_support_for_incremental_haskell) - [Nixpkgs support for incremental Haskell builds](https://www.haskellforall.com/2022/12/nixpkgs-support-for-incremental-haskell.html)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
