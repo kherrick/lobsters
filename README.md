@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 18:09:39](https://lobste.rs/s/lqqn19/libquotient_0_7_0_release) - [libQuotient 0.7.0 release](https://github.com/quotient-im/libQuotient/releases/tag/0.7.0)
 * [2022-12-20, 17:40:34](https://lobste.rs/s/ye3r1g/magical_container_macro_2012) - [The Magical container_of() Macro (2012)](https://radek.io/2012/11/10/magical-container_of-macro/)
 * [2022-12-20, 17:30:51](https://lobste.rs/s/ckg4qb/let_s_make_overtone_sing_like_sonic_pi_pt_2) - [Let’s Make Overtone Sing Like Sonic-Pi - Pt. 2: Melody](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi-pt2-melody/)
 * [2022-12-20, 16:34:36](https://lobste.rs/s/q5atik/write_latency_block_size_2010) - [Write Latency and Block Size (2010)](https://www.evanjones.ca/write-latency-alignment.html)
@@ -15,7 +16,6 @@
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
 * [2022-12-20, 03:46:57](https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip) - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
-* [2022-12-19, 21:42:46](https://lobste.rs/s/i7szmo/announcing_rust_magazine) - [Announcing Rust Magazine](https://rustmagazine.github.io/announcing/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
 * [2022-12-19, 16:16:54](https://lobste.rs/s/240vwb/beyond_functional_programming_verse) - [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8)
