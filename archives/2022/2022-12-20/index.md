@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 21:29:41](https://lobste.rs/s/qqbzie/top_skills_learn_for_2023_ask_hn) - [Top Skills to Learn for 2023? (Ask HN)](https://news.ycombinator.com/item?id=34054170)
 * [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
 * [2022-12-20, 21:23:11](https://lobste.rs/s/bdtrix/paper_vr_revisited_view_changes) - [Paper: VR Revisited - View changes - Questions (part 1)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)

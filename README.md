@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
 * [2022-12-20, 21:23:11](https://lobste.rs/s/bdtrix/paper_vr_revisited_view_changes) - [Paper: VR Revisited - View changes - Questions (part 1)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)
 * [2022-12-20, 20:25:29](https://lobste.rs/s/oeizaa/hacking_blind_2014) - [Hacking Blind (2014)](https://www.scs.stanford.edu/brop/bittau-brop.pdf)
@@ -14,7 +15,6 @@
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2022-12-20, 13:00:34](https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid) - [An Ode to Unit Tests: In Defense of the Testing Pyramid](https://www.infoq.com/articles/unit-tests-testing-pyramid/)
 * [2022-12-20, 10:04:34](https://lobste.rs/s/8jiojq/feature_preview_gitea_actions) - [Feature Preview: Gitea Actions](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/)
-* [2022-12-20, 08:29:50](https://lobste.rs/s/llxaji/git_autofixup_create_fixup_commits_for) - [git-autofixup: create fixup commits for topic branches](https://github.com/torbiak/git-autofixup)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
