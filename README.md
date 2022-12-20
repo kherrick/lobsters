@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 17:40:34](https://lobste.rs/s/ye3r1g/magical_container_macro_2012) - [The Magical container_of() Macro (2012)](https://radek.io/2012/11/10/magical-container_of-macro/)
 * [2022-12-20, 17:30:51](https://lobste.rs/s/ckg4qb/let_s_make_overtone_sing_like_sonic_pi_pt_2) - [Let’s Make Overtone Sing Like Sonic-Pi - Pt. 2: Melody](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi-pt2-melody/)
 * [2022-12-20, 16:34:36](https://lobste.rs/s/q5atik/write_latency_block_size_2010) - [Write Latency and Block Size (2010)](https://www.evanjones.ca/write-latency-alignment.html)
 * [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
@@ -23,7 +24,6 @@
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
-* [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
 
 ## [Archives](archives/index.md)
