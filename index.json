@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-20, 12:13:08",
+      "https://lobste.rs/s/rxfrfa/union_all_data_types_performance"
+    ],
+    [
+      "UNION ALL, data types and performance",
+      "https://www.cybertec-postgresql.com/en/union-all-data-types-performance/"
+    ]
+  ],
+  [
+    [
       "2022-12-20, 11:17:37",
       "https://lobste.rs/s/zawvnf/11_laws_software_estimation_for_complex"
     ],
@@ -47,16 +57,6 @@
     [
       "Control-flow integrity",
       "https://maskray.me/blog/2022-12-18-control-flow-integrity"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 04:08:42",
-      "https://lobste.rs/s/yzrrkj/performance_inequality_gap_2023"
-    ],
-    [
-      "The Performance Inequality Gap, 2023",
-      "https://infrequently.org/2022/12/performance-baseline-2023/"
     ]
   ],
   [
