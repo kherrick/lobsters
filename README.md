@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 04:08:42](https://lobste.rs/s/yzrrkj/performance_inequality_gap_2023) - [The Performance Inequality Gap, 2023](https://infrequently.org/2022/12/performance-baseline-2023/)
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
 * [2022-12-20, 03:46:57](https://lobste.rs/s/ohtyut/towards_more_open_secure_element_chip) - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
 * [2022-12-20, 03:12:19](https://lobste.rs/s/4kjidq/implementing_strlen_using_sve) - [Implementing ‘strlen’ using SVE](https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/)
@@ -24,7 +25,6 @@
 * [2022-12-19, 11:12:40](https://lobste.rs/s/tqdv2m/how_many_computers_are_your_computer) - [How Many Computers Are In Your Computer?](https://www.gwern.net/Computers)
 * [2022-12-19, 09:01:03](https://lobste.rs/s/tcgsea/treating_email_more_like_password) - [Treating Email More Like a Password Manager](https://dmitryfrank.com/articles/treating_email_more_like_a_password_manager)
 * [2022-12-19, 06:36:47](https://lobste.rs/s/trcln1/legit_web_frontend_for_git) - [legit—web frontend for git](https://git.icyphox.sh/legit)
-* [2022-12-19, 05:30:23](https://lobste.rs/s/q4rsif/xanadu_hypertext_documents) - [Xanadu Hypertext Documents Specification [1984]](http://fudco.com/chip/XanaduSDF1984OCR.pdf)
 
 ## [Archives](archives/index.md)
 
