@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2022-12-20](index.md)
 
+* [2022-12-20, 21:29:41](https://lobste.rs/s/qqbzie/top_skills_learn_for_2023_ask_hn) - [Top Skills to Learn for 2023? (Ask HN)](https://news.ycombinator.com/item?id=34054170)
+* [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
+* [2022-12-20, 21:23:11](https://lobste.rs/s/bdtrix/paper_vr_revisited_view_changes) - [Paper: VR Revisited - View changes - Questions (part 1)](https://jack-vanlightly.com/analyses/2022/12/20/paper-vr-revisited-view-change-questions-part1)
 * [2022-12-20, 20:25:29](https://lobste.rs/s/oeizaa/hacking_blind_2014) - [Hacking Blind (2014)](https://www.scs.stanford.edu/brop/bittau-brop.pdf)
 * [2022-12-20, 19:33:31](https://lobste.rs/s/hcudc8/potassco_answer_set_solving_collection) - [Potassco: The Answer Set Solving Collection](https://potassco.org/)
 * [2022-12-20, 19:01:22](https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available) - [NetBSD 10.0 BETA available](http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available)
