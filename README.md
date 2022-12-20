@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-20, 22:29:13](https://lobste.rs/s/aejjgw/what_not_forget_when_implementing) - [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)
 * [2022-12-20, 22:19:52](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year) - [Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
@@ -20,7 +21,6 @@
 * [2022-12-20, 03:48:58](https://lobste.rs/s/gxpdal/upgrading_my_old_chumby_8_linux_kernel) - [Upgrading my old Chumby 8 Linux kernel part 1: U-Boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-old-chumby-8-linux-kernel-part-1-u-boot/)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
-* [2022-12-19, 20:56:40](https://lobste.rs/s/2onxhu/gleam_developer_survey_2022_results) - [Gleam developer survey 2022 results](https://gleam.run/news/developer-survey-2022-results/ )
 * [2022-12-19, 14:38:19](https://lobste.rs/s/ssepal/gnu_guix_1_4_0_has_released) - [GNU Guix 1.4.0 has released](https://guix.gnu.org/en/blog/2022/gnu-guix-1.4.0-released/)
 * [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
