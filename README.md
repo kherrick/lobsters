@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 14:07:15](https://lobste.rs/s/n5ppud/storage_engine_design_catering_time) - [Storage Engine Design - Catering to Time Series Scenarios](https://www.greptime.com/blogs/2022-12-21-storage-engine-design)
 * [2022-12-21, 13:47:10](https://lobste.rs/s/rzkmr2/this_year_llvm_2022) - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 * [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 * [2022-12-21, 09:57:55](https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using) - [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
@@ -9,7 +10,6 @@
 * [2022-12-21, 08:26:51](https://lobste.rs/s/wwail5/tour_through_swift_attributes_by_marco) - [A Tour through Swift Attributes By Marco Eidinger](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 * [2022-12-21, 08:07:21](https://lobste.rs/s/6mzsxl/aggregating_data_for_analytics_using) - [Aggregating data for analytics using postgresql, ruby and sequel · honeyryder](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
-* [2022-12-21, 05:55:29](https://lobste.rs/s/9mzfrq/not_so_unfortunate_sharp_edge_pipenv) - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
 * [2022-12-21, 05:04:29](https://lobste.rs/s/chwvjt/mozilla_explore_healthy_social_media) - [Mozilla to Explore Healthy Social Media Alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
 * [2022-12-21, 02:15:56](https://lobste.rs/s/btebbn/auto_vectorization_how_get_beaten_by) - [Auto-vectorization: How to get beaten by compiler optimization ](https://itnext.io/auto-vectorization-how-to-get-beaten-by-compiler-optimization-java-jit-vector-api-92c72b97fba3)
 * [2022-12-21, 01:52:23](https://lobste.rs/s/4foz7d/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)

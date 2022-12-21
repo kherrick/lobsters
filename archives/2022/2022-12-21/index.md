@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 14:07:15](https://lobste.rs/s/n5ppud/storage_engine_design_catering_time) - [Storage Engine Design - Catering to Time Series Scenarios](https://www.greptime.com/blogs/2022-12-21-storage-engine-design)
 * [2022-12-21, 13:47:10](https://lobste.rs/s/rzkmr2/this_year_llvm_2022) - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 * [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 * [2022-12-21, 09:57:55](https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using) - [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
