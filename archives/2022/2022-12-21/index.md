@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 08:07:21](https://lobste.rs/s/6mzsxl/aggregating_data_for_analytics_using) - [Aggregating data for analytics using postgresql, ruby and sequel · honeyryder](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 * [2022-12-21, 05:55:29](https://lobste.rs/s/9mzfrq/not_so_unfortunate_sharp_edge_pipenv) - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
 * [2022-12-21, 05:04:29](https://lobste.rs/s/chwvjt/mozilla_explore_healthy_social_media) - [Mozilla to Explore Healthy Social Media Alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
