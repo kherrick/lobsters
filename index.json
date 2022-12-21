@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 10:23:38",
+      "https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3"
+    ],
+    [
+      "A free Twitter-like app for iOS that uses S3-compatible services as the backend",
+      "https://beluga.social"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 09:57:55",
       "https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using"
     ],
@@ -237,16 +247,6 @@
     [
       "Control-flow integrity",
       "https://maskray.me/blog/2022-12-18-control-flow-integrity"
-    ]
-  ],
-  [
-    [
-      "2022-12-19, 14:06:19",
-      "https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for"
-    ],
-    [
-      "Pixel Accurate Atkinson Dithering for Images in HTML",
-      "https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html"
     ]
   ]
 ]
