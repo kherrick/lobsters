@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 23:47:18",
+      "https://lobste.rs/s/jalksu/webassembly_docker_without_containers"
+    ],
+    [
+      "WebAssembly: Docker without containers",
+      "https://wasmlabs.dev/articles/docker-without-containers/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 22:59:05",
       "https://lobste.rs/s/fdtl36/userspace_isn_t_slow_some_kernel"
     ],
@@ -177,16 +187,6 @@
     [
       "The Generation Ship Model of Software Development",
       "https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 22:44:21",
-      "https://lobste.rs/s/0rtdbj/devbox_0_2_0_automatic_nix_installer"
-    ],
-    [
-      "Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services",
-      "https://www.jetpack.io/blog/devbox-0-2-0/"
     ]
   ],
   [
