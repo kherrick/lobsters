@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 09:57:55",
+      "https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using"
+    ],
+    [
+      "Saving power on an ESP8266 web server using delays",
+      "https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 09:33:36",
       "https://lobste.rs/s/wecbp0/there_oughta_be_game_boy_capture"
     ],
@@ -227,16 +237,6 @@
     [
       "Control-flow integrity",
       "https://maskray.me/blog/2022-12-18-control-flow-integrity"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 01:25:18",
-      "https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory"
-    ],
-    [
-      "Faster Go code by being mindful of memory",
-      "https://f4t.dev/software/go-performance-memory/"
     ]
   ],
   [
