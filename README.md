@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
 * [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional) - [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 17:00:15](https://lobste.rs/s/bjjy2e/dolphin_progress_report_september) - [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
@@ -12,7 +13,6 @@
 * [2022-12-21, 09:08:04](https://lobste.rs/s/fpoop6/how_visualize_database_using_minimal) - [How to visualize the database using Minimal Modeling](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-21, 08:26:51](https://lobste.rs/s/wwail5/tour_through_swift_attributes_by_marco) - [A Tour through Swift Attributes By Marco Eidinger](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
-* [2022-12-21, 08:07:21](https://lobste.rs/s/6mzsxl/aggregating_data_for_analytics_using) - [Aggregating data for analytics using postgresql, ruby and sequel · honeyryder](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 * [2022-12-21, 01:52:23](https://lobste.rs/s/4foz7d/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
 * [2022-12-21, 01:15:53](https://lobste.rs/s/nmwhyn/generation_ship_model_software) - [The Generation Ship Model of Software Development](https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b)

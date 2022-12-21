@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
 * [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional) - [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 17:00:15](https://lobste.rs/s/bjjy2e/dolphin_progress_report_september) - [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
