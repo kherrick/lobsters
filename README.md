@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 02:15:56](https://lobste.rs/s/btebbn/auto_vectorization_how_get_beaten_by) - [Auto-vectorization: How to get beaten by compiler optimization ](https://itnext.io/auto-vectorization-how-to-get-beaten-by-compiler-optimization-java-jit-vector-api-92c72b97fba3)
 * [2022-12-21, 01:52:23](https://lobste.rs/s/4foz7d/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
 * [2022-12-21, 01:15:53](https://lobste.rs/s/nmwhyn/generation_ship_model_software) - [The Generation Ship Model of Software Development](https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b)
 * [2022-12-20, 22:44:21](https://lobste.rs/s/0rtdbj/devbox_0_2_0_automatic_nix_installer) - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
@@ -12,7 +13,6 @@
 * [2022-12-20, 18:34:00](https://lobste.rs/s/2swees/elixir_openai_api_wrapper) - [Elixir OpenAI API Wrapper](https://github.com/hernanat/open_ai_ex)
 * [2022-12-20, 18:28:16](https://lobste.rs/s/rk47tk/painting_proficiency_with_your_tools) - [Painting and Proficiency With Your Tools](https://calebhearth.com/painting-and-proficiency)
 * [2022-12-20, 17:40:34](https://lobste.rs/s/ye3r1g/magical_container_macro_2012) - [The Magical container_of() Macro (2012)](https://radek.io/2012/11/10/magical-container_of-macro/)
-* [2022-12-20, 17:30:51](https://lobste.rs/s/ckg4qb/let_s_make_overtone_sing_like_sonic_pi_pt_2) - [Let’s Make Overtone Sing Like Sonic-Pi - Pt. 2: Melody](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi-pt2-melody/)
 * [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
