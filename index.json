@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 22:59:05",
+      "https://lobste.rs/s/fdtl36/userspace_isn_t_slow_some_kernel"
+    ],
+    [
+      "Userspace isn't slow, some kernel interfaces are",
+      "https://tailscale.com/blog/throughput-improvements/"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 22:17:22",
       "https://lobste.rs/s/gmq57b/bugs_literally_cost_money"
     ],
@@ -217,16 +227,6 @@
     [
       "NetBSD 10.0 BETA available",
       "http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 15:40:20",
-      "https://lobste.rs/s/y3rvpu/topologist_s_world_map"
-    ],
-    [
-      "The topologist's world map",
-      "https://tafc.space/qna/the-topologists-world-map/"
     ]
   ],
   [
