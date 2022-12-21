@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 22:59:05](https://lobste.rs/s/fdtl36/userspace_isn_t_slow_some_kernel) - [Userspace isn't slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
 * [2022-12-21, 22:17:22](https://lobste.rs/s/gmq57b/bugs_literally_cost_money) - [Bugs that literally cost money](https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/)
 * [2022-12-21, 20:50:05](https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures) - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
 * [2022-12-21, 20:17:06](https://lobste.rs/s/iv3lhs/darklang_releases_7_8) - [Darklang Releases 7 and 8](https://blog.darklang.com/darklang-releases-7-and-8/)
