@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional) - [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 17:00:15](https://lobste.rs/s/bjjy2e/dolphin_progress_report_september) - [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
 * [2022-12-21, 16:18:58](https://lobste.rs/s/tye0pd/how_do_things_with_babashka) - [How to Do Things With Babashka](https://presumably.de/how-to-do-things-with-babashka.html)
 * [2022-12-21, 14:07:15](https://lobste.rs/s/n5ppud/storage_engine_design_catering_time) - [Storage Engine Design - Catering to Time Series Scenarios](https://www.greptime.com/blogs/2022-12-21-storage-engine-design)
