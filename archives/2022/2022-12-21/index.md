@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
 * [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional) - [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
