@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-21, 16:18:58",
+      "https://lobste.rs/s/tye0pd/how_do_things_with_babashka"
+    ],
+    [
+      "How to Do Things With Babashka",
+      "https://presumably.de/how-to-do-things-with-babashka.html"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 14:07:15",
       "https://lobste.rs/s/n5ppud/storage_engine_design_catering_time"
     ],
@@ -97,16 +107,6 @@
     [
       "The Queues down in Queueville",
       "https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 02:15:56",
-      "https://lobste.rs/s/btebbn/auto_vectorization_how_get_beaten_by"
-    ],
-    [
-      "Auto-vectorization: How to get beaten by compiler optimization ",
-      "https://itnext.io/auto-vectorization-how-to-get-beaten-by-compiler-optimization-java-jit-vector-api-92c72b97fba3"
     ]
   ],
   [
