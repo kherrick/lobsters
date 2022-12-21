@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 20:17:06](https://lobste.rs/s/iv3lhs/darklang_releases_7_8) - [Darklang Releases 7 and 8](https://blog.darklang.com/darklang-releases-7-and-8/)
 * [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
@@ -15,7 +16,6 @@
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-21, 08:26:51](https://lobste.rs/s/wwail5/tour_through_swift_attributes_by_marco) - [A Tour through Swift Attributes By Marco Eidinger](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
-* [2022-12-21, 01:52:23](https://lobste.rs/s/4foz7d/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
 * [2022-12-21, 01:15:53](https://lobste.rs/s/nmwhyn/generation_ship_model_software) - [The Generation Ship Model of Software Development](https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b)
 * [2022-12-20, 22:44:21](https://lobste.rs/s/0rtdbj/devbox_0_2_0_automatic_nix_installer) - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
 * [2022-12-20, 22:29:13](https://lobste.rs/s/aejjgw/what_not_forget_when_implementing) - [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)

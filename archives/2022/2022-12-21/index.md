@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-21](index.md)
 
+* [2022-12-21, 20:17:06](https://lobste.rs/s/iv3lhs/darklang_releases_7_8) - [Darklang Releases 7 and 8](https://blog.darklang.com/darklang-releases-7-and-8/)
 * [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
