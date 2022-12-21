@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 23:47:18](https://lobste.rs/s/jalksu/webassembly_docker_without_containers) - [WebAssembly: Docker without containers](https://wasmlabs.dev/articles/docker-without-containers/)
 * [2022-12-21, 22:59:05](https://lobste.rs/s/fdtl36/userspace_isn_t_slow_some_kernel) - [Userspace isn't slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
 * [2022-12-21, 22:17:22](https://lobste.rs/s/gmq57b/bugs_literally_cost_money) - [Bugs that literally cost money](https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/)
 * [2022-12-21, 20:50:05](https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures) - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
@@ -18,7 +19,6 @@
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 * [2022-12-21, 01:15:53](https://lobste.rs/s/nmwhyn/generation_ship_model_software) - [The Generation Ship Model of Software Development](https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b)
-* [2022-12-20, 22:44:21](https://lobste.rs/s/0rtdbj/devbox_0_2_0_automatic_nix_installer) - [Devbox 0.2.0: Automatic Nix Installer, Plugins, and Background Services](https://www.jetpack.io/blog/devbox-0-2-0/)
 * [2022-12-20, 22:29:13](https://lobste.rs/s/aejjgw/what_not_forget_when_implementing) - [What not to forget when implementing a pattern-matching in Ruby for custom objects](https://zverok.space/blog/2022-12-20-pattern-matching.html)
 * [2022-12-20, 22:19:52](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year) - [Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
