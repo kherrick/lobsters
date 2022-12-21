@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 08:26:51](https://lobste.rs/s/wwail5/tour_through_swift_attributes_by_marco) - [A Tour through Swift Attributes By Marco Eidinger](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 * [2022-12-21, 08:07:21](https://lobste.rs/s/6mzsxl/aggregating_data_for_analytics_using) - [Aggregating data for analytics using postgresql, ruby and sequel · honeyryder](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
 * [2022-12-21, 07:43:31](https://lobste.rs/s/dzbbv5/queues_down_queueville) - [The Queues down in Queueville](https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/)
 * [2022-12-21, 05:55:29](https://lobste.rs/s/9mzfrq/not_so_unfortunate_sharp_edge_pipenv) - [A not so unfortunate sharp edge in Pipenv](https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/)
@@ -23,7 +24,6 @@
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
 * [2022-12-19, 21:33:55](https://lobste.rs/s/eima6i/boring_python_code_quality) - [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
-* [2022-12-19, 14:30:56](https://lobste.rs/s/cmraf6/why_does_my_blog_http_503_service) - [Why does my blog HTTP 503 Service Unavailable when I click around using Firefox on iPhone?](https://aggressivelyparaphrasing.me/2022/12/12/why-does-my-low-traffic-wordpress-blog-http-503-service-unavailable-when-i-click-around-using-firefox-on-iphone/)
 * [2022-12-19, 14:06:19](https://lobste.rs/s/iq1ej4/pixel_accurate_atkinson_dithering_for) - [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 
 ## [Archives](archives/index.md)
