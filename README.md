@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 05:04:29](https://lobste.rs/s/chwvjt/mozilla_explore_healthy_social_media) - [Mozilla to Explore Healthy Social Media Alternative](https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/)
 * [2022-12-21, 02:15:56](https://lobste.rs/s/btebbn/auto_vectorization_how_get_beaten_by) - [Auto-vectorization: How to get beaten by compiler optimization ](https://itnext.io/auto-vectorization-how-to-get-beaten-by-compiler-optimization-java-jit-vector-api-92c72b97fba3)
 * [2022-12-21, 01:52:23](https://lobste.rs/s/4foz7d/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2022/master/hitchhikers_guide.pdf)
 * [2022-12-21, 01:15:53](https://lobste.rs/s/nmwhyn/generation_ship_model_software) - [The Generation Ship Model of Software Development](https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b)
@@ -17,7 +18,6 @@
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2022-12-20, 13:00:34](https://lobste.rs/s/mw6kr3/ode_unit_tests_defense_testing_pyramid) - [An Ode to Unit Tests: In Defense of the Testing Pyramid](https://www.infoq.com/articles/unit-tests-testing-pyramid/)
-* [2022-12-20, 10:04:34](https://lobste.rs/s/8jiojq/feature_preview_gitea_actions) - [Feature Preview: Gitea Actions](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/)
 * [2022-12-20, 08:17:57](https://lobste.rs/s/is1su2/how_draw_ugly_lines_really_fast) - [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 * [2022-12-20, 07:46:06](https://lobste.rs/s/tkaei3/control_flow_integrity) - [Control-flow integrity](https://maskray.me/blog/2022-12-18-control-flow-integrity)
 * [2022-12-20, 01:25:18](https://lobste.rs/s/onnjzg/faster_go_code_by_being_mindful_memory) - [Faster Go code by being mindful of memory](https://f4t.dev/software/go-performance-memory/)
