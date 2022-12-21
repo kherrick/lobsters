@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-21, 09:08:04](https://lobste.rs/s/fpoop6/how_visualize_database_using_minimal) - [How to visualize the database using Minimal Modeling](https://minimalmodeling.substack.com/p/how-to-visualize-your-database-using)
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-21, 08:26:51](https://lobste.rs/s/wwail5/tour_through_swift_attributes_by_marco) - [A Tour through Swift Attributes By Marco Eidinger](https://notes.softinio.com/p/a-tour-through-swift-attributes?sd=pf)
 * [2022-12-21, 08:07:21](https://lobste.rs/s/6mzsxl/aggregating_data_for_analytics_using) - [Aggregating data for analytics using postgresql, ruby and sequel · honeyryder](https://honeyryderchuck.gitlab.io/2022/12/19/aggregating-data-for-analytics-using-postgresql-ruby-and-sequel.html)
@@ -15,7 +16,6 @@
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 21:25:05](https://lobste.rs/s/yclvqp/state_monado_s_visual_inertial_tracking) - [State of Monado's visual-inertial tracking](https://www.collabora.com/news-and-blog/blog/2022/12/20/state-of-monado-visual-inertial-tracking/)
 * [2022-12-20, 19:01:22](https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available) - [NetBSD 10.0 BETA available](http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available)
-* [2022-12-20, 18:28:16](https://lobste.rs/s/rk47tk/painting_proficiency_with_your_tools) - [Painting and Proficiency With Your Tools](https://calebhearth.com/painting-and-proficiency)
 * [2022-12-20, 17:40:34](https://lobste.rs/s/ye3r1g/magical_container_macro_2012) - [The Magical container_of() Macro (2012)](https://radek.io/2012/11/10/magical-container_of-macro/)
 * [2022-12-20, 15:40:20](https://lobste.rs/s/y3rvpu/topologist_s_world_map) - [The topologist's world map](https://tafc.space/qna/the-topologists-world-map/)
 * [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
