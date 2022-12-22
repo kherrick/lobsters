@@ -11,7 +11,7 @@
 * [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
-* [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kindelia_kind_next_gen_functional) - [Kindelia/Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
+* [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kind_next_gen_functional_language) - [Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 17:00:15](https://lobste.rs/s/bjjy2e/dolphin_progress_report_september) - [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
 * [2022-12-21, 16:18:58](https://lobste.rs/s/tye0pd/how_do_things_with_babashka) - [How to Do Things With Babashka](https://presumably.de/how-to-do-things-with-babashka.html)
 * [2022-12-21, 13:47:10](https://lobste.rs/s/rzkmr2/this_year_llvm_2022) - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
