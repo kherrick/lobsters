@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_with) - [Moving emails accounts to a new host, but with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
 * [2022-12-22, 02:38:48](https://lobste.rs/s/sels3w/systems_design_being_bitten_by_edge) - [Systems design and being bitten by edge-triggering](https://rachelbythebay.com/w/2022/12/21/boot/)
 * [2022-12-22, 02:37:26](https://lobste.rs/s/uf3xxu/unit_test_this) - [Unit test this](https://boston.conman.org/2022/12/21.1)
 * [2022-12-21, 23:47:18](https://lobste.rs/s/jalksu/webassembly_docker_without_containers) - [WebAssembly: Docker without containers](https://wasmlabs.dev/articles/docker-without-containers/)
@@ -23,7 +24,6 @@
 * [2022-12-20, 22:19:52](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year) - [Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 * [2022-12-20, 19:01:22](https://lobste.rs/s/qosmgk/netbsd_10_0_beta_available) - [NetBSD 10.0 BETA available](http://blog.netbsd.org/tnf/entry/netbsd_10_0_beta_available)
-* [2022-12-20, 14:57:49](https://lobste.rs/s/vtx6yf/dr_futamura_s_projection_machine_from) - [Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
 * [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 
 ## [Archives](archives/index.md)
