@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
 * [2022-12-22, 15:22:07](https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11) - [Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape](https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/)
 * [2022-12-22, 14:39:16](https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script) - [HOP, the open platform for Clojure(Script) developers](https://www.gethop.dev/)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
@@ -24,7 +25,6 @@
 * [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kind_next_gen_functional_language) - [Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 17:00:15](https://lobste.rs/s/bjjy2e/dolphin_progress_report_september) - [Dolphin Progress Report: September, October, and November 2022](https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/)
 * [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
-* [2022-12-21, 09:57:55](https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using) - [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
 
 ## [Archives](archives/index.md)
 
