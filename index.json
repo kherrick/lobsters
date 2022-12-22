@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 07:08:38",
+      "https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google"
+    ],
+    [
+      "Comprehensive Rust Guide from Google",
+      "https://google.github.io/comprehensive-rust/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 04:41:18",
       "https://lobste.rs/s/9ho5hq/oral_history_interview_with_martin"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2022-12-22, 03:55:29",
-      "https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_with"
+      "https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy"
     ],
     [
-      "Moving emails accounts to a new host, but with actual encryption",
+      "Moving emails accounts to a new host, imapcopy with actual encryption",
       "https://halestrom.net/darksleep/blog/049_imapcopy/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "The Queues down in Queueville",
       "https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 22:29:13",
-      "https://lobste.rs/s/aejjgw/what_not_forget_when_implementing"
-    ],
-    [
-      "What not to forget when implementing a pattern-matching in Ruby for custom objects",
-      "https://zverok.space/blog/2022-12-20-pattern-matching.html"
     ]
   ],
   [
