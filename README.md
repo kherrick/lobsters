@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 11:43:51](https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark) - [Generating audio with literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 08:19:55](https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance) - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
@@ -20,7 +21,6 @@
 * [2022-12-21, 13:47:10](https://lobste.rs/s/rzkmr2/this_year_llvm_2022) - [This year in LLVM (2022)](https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html)
 * [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 * [2022-12-21, 09:57:55](https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using) - [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
-* [2022-12-21, 09:33:36](https://lobste.rs/s/wecbp0/there_oughta_be_game_boy_capture) - [There oughta be a Game Boy capture cartridge](https://there.oughta.be/a/game-boy-capture-cartridge)
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-20, 22:19:52](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year) - [Fellow crustaceans, 2023 will be the year of ${TECHNOLOGY}](https://lobste.rs/s/ef3rhw/fellow_crustaceans_2023_will_be_year)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
