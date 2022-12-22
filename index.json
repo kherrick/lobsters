@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 13:53:20",
+      "https://lobste.rs/s/i1okih/devenv_sh_v0_5"
+    ],
+    [
+      "devenv.sh v0.5",
+      "https://devenv.sh/blog/2022/12/22/devenv-05/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 13:28:56",
       "https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot"
     ],
@@ -237,16 +247,6 @@
     [
       "Signed distance functions in 46 lines of Python",
       "https://vgel.me/posts/donut/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 14:32:58",
-      "https://lobste.rs/s/kljjlc/sigils_are_underappreciated"
-    ],
-    [
-      "Sigils are an underappreciated programming technology",
-      "https://raku-advent.blog/2022/12/20/sigils/"
     ]
   ]
 ]
