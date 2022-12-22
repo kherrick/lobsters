@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 16:27:49](https://lobste.rs/s/eqzjz5/santacoder_1_1b_multilingual_lm_for_code) - [SantaCoder - a 1.1B multilingual LM for code](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
 * [2022-12-22, 15:22:07](https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11) - [Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape](https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/)
@@ -13,7 +14,6 @@
 * [2022-12-22, 08:19:55](https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance) - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 * [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy) - [Moving emails accounts to a new host, imapcopy with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
-* [2022-12-22, 02:38:48](https://lobste.rs/s/sels3w/systems_design_being_bitten_by_edge) - [Systems design and being bitten by edge-triggering](https://rachelbythebay.com/w/2022/12/21/boot/)
 * [2022-12-22, 02:37:26](https://lobste.rs/s/uf3xxu/unit_test_this) - [Unit test this](https://boston.conman.org/2022/12/21.1)
 * [2022-12-21, 23:47:18](https://lobste.rs/s/jalksu/webassembly_docker_without_containers) - [WebAssembly: Docker without containers](https://wasmlabs.dev/articles/docker-without-containers/)
 * [2022-12-21, 22:59:05](https://lobste.rs/s/fdtl36/userspace_isn_t_slow_some_kernel) - [Userspace isn't slow, some kernel interfaces are](https://tailscale.com/blog/throughput-improvements/)
