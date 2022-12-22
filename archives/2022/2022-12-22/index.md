@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-22](index.md)
 
+* [2022-12-22, 14:39:16](https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script) - [HOP, the open platform for Clojure(Script) developers](https://www.gethop.dev/)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:28:56](https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot) - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
