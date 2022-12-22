@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 13:09:16",
+      "https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust"
+    ],
+    [
+      "MacroKata: Learn macros in Rust",
+      "https://github.com/tfpk/macrokata"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 12:12:41",
       "https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory"
     ],
@@ -47,16 +57,6 @@
     [
       "Comprehensive Rust Guide from Google",
       "https://google.github.io/comprehensive-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 04:41:18",
-      "https://lobste.rs/s/9ho5hq/oral_history_interview_with_martin"
-    ],
-    [
-      "Oral history interview with Martin Hellman (2004)",
-      "https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf?sequence=1&isAllowed=y"
     ]
   ],
   [
