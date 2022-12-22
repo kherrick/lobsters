@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-22, 02:38:48",
+      "https://lobste.rs/s/sels3w/systems_design_being_bitten_by_edge"
+    ],
+    [
+      "Systems design and being bitten by edge-triggering",
+      "https://rachelbythebay.com/w/2022/12/21/boot/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 02:37:26",
+      "https://lobste.rs/s/uf3xxu/unit_test_this"
+    ],
+    [
+      "Unit test this",
+      "https://boston.conman.org/2022/12/21.1"
+    ]
+  ],
+  [
+    [
       "2022-12-21, 23:47:18",
       "https://lobste.rs/s/jalksu/webassembly_docker_without_containers"
     ],
@@ -37,16 +57,6 @@
     [
       "Challenging algorithms and data structures every programmer should try",
       "https://austinhenley.com/blog/challengingalgorithms.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 20:17:06",
-      "https://lobste.rs/s/iv3lhs/darklang_releases_7_8"
-    ],
-    [
-      "Darklang Releases 7 and 8",
-      "https://blog.darklang.com/darklang-releases-7-and-8/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "The Queues down in Queueville",
       "https://community.hachyderm.io/blog/2022/12/20/the-queues-%EF%B8%8F-down-in-queueville/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 01:15:53",
-      "https://lobste.rs/s/nmwhyn/generation_ship_model_software"
-    ],
-    [
-      "The Generation Ship Model of Software Development",
-      "https://medium.com/@wm/the-generation-ship-model-of-software-development-5ef89a74854b"
     ]
   ],
   [
