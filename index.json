@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2022-12-22, 15:22:07",
-      "https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11"
-    ],
-    [
-      "Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape",
-      "https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 14:39:16",
       "https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script"
     ],
@@ -97,6 +87,16 @@
     [
       "devenv.sh v0.5",
       "https://devenv.sh/blog/2022/12/22/devenv-05/"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 13:28:56",
+      "https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot"
+    ],
+    [
+      "Large Language Models are Zero-Shot Reasoners",
+      "https://arxiv.org/abs/2205.11916"
     ]
   ],
   [
