@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 08:19:55",
+      "https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance"
+    ],
+    [
+      "Avoid exception throwing in performance-sensitive code",
+      "https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 07:08:38",
       "https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google"
     ],
@@ -177,16 +187,6 @@
     [
       "Saving power on an ESP8266 web server using delays",
       "https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 09:33:36",
-      "https://lobste.rs/s/wecbp0/there_oughta_be_game_boy_capture"
-    ],
-    [
-      "There oughta be a Game Boy capture cartridge",
-      "https://there.oughta.be/a/game-boy-capture-cartridge"
     ]
   ],
   [
