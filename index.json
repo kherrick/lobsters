@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 14:37:13",
+      "https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers"
+    ],
+    [
+      "A 1960s Children’s Book about Computers",
+      "https://www.pagetable.com/?p=1709"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 13:53:20",
       "https://lobste.rs/s/i1okih/devenv_sh_v0_5"
     ],
@@ -237,16 +247,6 @@
     [
       "Okta's source code stolen after GitHub repositories hacked",
       "https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"
-    ]
-  ],
-  [
-    [
-      "2022-12-20, 21:50:35",
-      "https://lobste.rs/s/xm27la/signed_distance_functions_46_lines"
-    ],
-    [
-      "Signed distance functions in 46 lines of Python",
-      "https://vgel.me/posts/donut/"
     ]
   ]
 ]
