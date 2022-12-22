@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:28:56](https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot) - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 * [2022-12-22, 13:09:16](https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust) - [MacroKata: Learn macros in Rust](https://github.com/tfpk/macrokata)
 * [2022-12-22, 12:12:41](https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory) - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
@@ -24,7 +25,6 @@
 * [2022-12-21, 09:57:55](https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using) - [Saving power on an ESP8266 web server using delays](https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/)
 * [2022-12-21, 08:29:55](https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github) - [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 * [2022-12-20, 21:50:35](https://lobste.rs/s/xm27la/signed_distance_functions_46_lines) - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
-* [2022-12-20, 14:32:58](https://lobste.rs/s/kljjlc/sigils_are_underappreciated) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 
 ## [Archives](archives/index.md)
 
