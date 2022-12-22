@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-22](index.md)
 
+* [2022-12-22, 16:43:38](https://lobste.rs/s/egsrlt/emulating_ipod_touch_1g_iphoneos_1_0_using) - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
 * [2022-12-22, 16:27:49](https://lobste.rs/s/eqzjz5/santacoder_1_1b_multilingual_lm_for_code) - [SantaCoder - a 1.1B multilingual LM for code](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
