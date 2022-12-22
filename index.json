@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 15:52:01",
+      "https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper"
+    ],
+    [
+      "eBPF-powered L4 package dropper",
+      "https://github.com/boratanrikulu/durdur"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 15:22:07",
       "https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11"
     ],
@@ -237,16 +247,6 @@
     [
       "A free Twitter-like app for iOS that uses S3-compatible services as the backend",
       "https://beluga.social"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 09:57:55",
-      "https://lobste.rs/s/5tgzov/saving_power_on_esp8266_web_server_using"
-    ],
-    [
-      "Saving power on an ESP8266 web server using delays",
-      "https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/"
     ]
   ]
 ]
