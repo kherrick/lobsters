@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
 * [2022-12-22, 15:22:07](https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11) - [Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape](https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/)
 * [2022-12-22, 14:39:16](https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script) - [HOP, the open platform for Clojure(Script) developers](https://www.gethop.dev/)
@@ -7,7 +8,6 @@
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:28:56](https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot) - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 * [2022-12-22, 13:09:16](https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust) - [MacroKata: Learn macros in Rust](https://github.com/tfpk/macrokata)
-* [2022-12-22, 12:12:41](https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory) - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
 * [2022-12-22, 11:43:51](https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark) - [Generating audio with literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 08:19:55](https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance) - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)

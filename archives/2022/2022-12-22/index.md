@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-22](index.md)
 
+* [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
 * [2022-12-22, 15:22:07](https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11) - [Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape](https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/)
 * [2022-12-22, 14:39:16](https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script) - [HOP, the open platform for Clojure(Script) developers](https://www.gethop.dev/)
