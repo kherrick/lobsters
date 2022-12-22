@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-22](index.md)
 
+* [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
 * [2022-12-22, 17:01:56](https://lobste.rs/s/wdhh0c/multi_screen) - [Multi Screen](https://notmart.org/blog/2022/12/multi-screen/)
 * [2022-12-22, 16:43:38](https://lobste.rs/s/egsrlt/emulating_ipod_touch_1g_iphoneos_1_0_using) - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
 * [2022-12-22, 16:27:49](https://lobste.rs/s/eqzjz5/santacoder_1_1b_multilingual_lm_for_code) - [SantaCoder - a 1.1B multilingual LM for code](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)
