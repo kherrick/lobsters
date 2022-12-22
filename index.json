@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 16:05:47",
+      "https://lobste.rs/s/9x1r4b/minimal_gif_decoder"
+    ],
+    [
+      "A minimal GIF decoder",
+      "http://www.lispology.com/show?47N8"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 15:52:01",
       "https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper"
     ],
@@ -67,16 +77,6 @@
     [
       "MacroKata: Learn macros in Rust",
       "https://github.com/tfpk/macrokata"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 12:12:41",
-      "https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory"
-    ],
-    [
-      "Introduction to Homotopy Type Theory",
-      "https://arxiv.org/abs/2212.11082"
     ]
   ],
   [
