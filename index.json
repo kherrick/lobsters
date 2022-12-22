@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 14:39:16",
+      "https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script"
+    ],
+    [
+      "HOP, the open platform for Clojure(Script) developers",
+      "https://www.gethop.dev/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 14:37:13",
       "https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers"
     ],
@@ -237,16 +247,6 @@
     [
       "Saving power on an ESP8266 web server using delays",
       "https://www.tablix.org/~avian/blog/archives/2022/08/saving_power_on_an_esp8266_web_server_using_delays/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 08:29:55",
-      "https://lobste.rs/s/bg2433/okta_s_source_code_stolen_after_github"
-    ],
-    [
-      "Okta's source code stolen after GitHub repositories hacked",
-      "https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"
     ]
   ]
 ]
