@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-22, 12:12:41",
+      "https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory"
+    ],
+    [
+      "Introduction to Homotopy Type Theory",
+      "https://arxiv.org/abs/2212.11082"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 11:43:51",
       "https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark"
     ],
@@ -177,16 +187,6 @@
     [
       "How to Do Things With Babashka",
       "https://presumably.de/how-to-do-things-with-babashka.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 13:47:10",
-      "https://lobste.rs/s/rzkmr2/this_year_llvm_2022"
-    ],
-    [
-      "This year in LLVM (2022)",
-      "https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html"
     ]
   ],
   [
