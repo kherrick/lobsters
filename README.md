@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 * [2022-12-23, 05:47:32](https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching) - [PEP 636 – Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
 * [2022-12-23, 04:39:34](https://lobste.rs/s/cxytxs/wslg_qt_creator) - [WSLg and Qt Creator](https://cristianadam.eu/20221222/wslg-and-qt-creator/)
 * [2022-12-23, 04:22:27](https://lobste.rs/s/sa07dp/meta_programmable_functional_notebooks) - [Meta-programmable functional notebooks with Livebook](https://youtu.be/EhSNXWkji6o)
@@ -19,7 +20,6 @@
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 * [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy) - [Moving emails accounts to a new host, imapcopy with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
 * [2022-12-22, 02:37:26](https://lobste.rs/s/uf3xxu/unit_test_this) - [Unit test this](https://boston.conman.org/2022/12/21.1)
-* [2022-12-21, 22:17:22](https://lobste.rs/s/gmq57b/bugs_literally_cost_money) - [Bugs that literally cost money](https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/)
 * [2022-12-21, 20:50:05](https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures) - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
 * [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
