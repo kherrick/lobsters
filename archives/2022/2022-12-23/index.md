@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-23](index.md)
 
+* [2022-12-23, 15:12:31](https://lobste.rs/s/tyuyhh/okta_code_repositories) - [Okta Code Repositories](https://sec.okta.com/articles/2022/12/okta-code-repositories)
+* [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
 * [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
 * [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
