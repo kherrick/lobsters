@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
+* [2022-12-23, 18:05:51](https://lobste.rs/s/e5gnii/dawn_dusk_sun_microsystems) - [The Dawn and Dusk of Sun Microsystems](https://www.youtube.com/watch?v=P1TsVW4P5DI)
 * [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 * [2022-12-23, 15:12:31](https://lobste.rs/s/tyuyhh/okta_code_repositories) - [Okta Code Repositories](https://sec.okta.com/articles/2022/12/okta-code-repositories)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
@@ -18,13 +20,11 @@
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
-* [2022-12-22, 11:43:51](https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark) - [Generating audio with literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 * [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy) - [Moving emails accounts to a new host, imapcopy with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
 * [2022-12-21, 20:50:05](https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures) - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
-* [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 
 ## [Archives](archives/index.md)
 
