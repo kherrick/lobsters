@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-23](index.md)
 
+* [2022-12-23, 21:48:12](https://lobste.rs/s/xkzz6w/using_leaking_sentinel_value_bypass) - [Using Leaking Sentinel Value to Bypass the Latest Chrome v8 HardenProtect](https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f)
 * [2022-12-23, 21:43:31](https://lobste.rs/s/ch9civ/linux_kernel_exploiting_netfilter_use) - [Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg](https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/)
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
