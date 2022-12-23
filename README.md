@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 * [2022-12-22, 22:26:29](https://lobste.rs/s/e3zxel/rest_musicstory) - [The Rest of the MusicStory](https://youtu.be/-7Sx05f2evo)
 * [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
 * [2022-12-22, 17:01:56](https://lobste.rs/s/wdhh0c/multi_screen) - [Multi Screen](https://notmart.org/blog/2022/12/multi-screen/)
@@ -7,7 +8,6 @@
 * [2022-12-22, 16:27:49](https://lobste.rs/s/eqzjz5/santacoder_1_1b_multilingual_lm_for_code) - [SantaCoder - a 1.1B multilingual LM for code](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
-* [2022-12-22, 15:22:07](https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11) - [Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape](https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:28:56](https://lobste.rs/s/lrbwhk/large_language_models_are_zero_shot) - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
