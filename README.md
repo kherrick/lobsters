@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
+* [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
 * [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 * [2022-12-23, 09:29:43](https://lobste.rs/s/eiirub/elf_section_retrieval_with_debuginfod) - [ELF section retrieval with debuginfod](https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod)
@@ -15,10 +17,8 @@
 * [2022-12-22, 15:52:01](https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper) - [eBPF-powered L4 package dropper](https://github.com/boratanrikulu/durdur)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
-* [2022-12-22, 13:09:16](https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust) - [MacroKata: Learn macros in Rust](https://github.com/tfpk/macrokata)
 * [2022-12-22, 11:43:51](https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark) - [Generating audio with literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
-* [2022-12-22, 08:19:55](https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance) - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 * [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy) - [Moving emails accounts to a new host, imapcopy with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
 * [2022-12-21, 20:50:05](https://lobste.rs/s/x8y89j/challenging_algorithms_data_structures) - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)

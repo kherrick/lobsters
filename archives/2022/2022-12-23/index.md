@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-23](index.md)
 
+* [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
+* [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
 * [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 * [2022-12-23, 09:29:43](https://lobste.rs/s/eiirub/elf_section_retrieval_with_debuginfod) - [ELF section retrieval with debuginfod](https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod)
