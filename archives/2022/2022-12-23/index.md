@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-23](index.md)
 
+* [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 * [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
 * [2022-12-23, 18:05:51](https://lobste.rs/s/e5gnii/dawn_dusk_sun_microsystems) - [The Dawn and Dusk of Sun Microsystems](https://www.youtube.com/watch?v=P1TsVW4P5DI)
 * [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
