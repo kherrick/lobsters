@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-23, 12:57:15",
+      "https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans"
+    ],
+    [
+      "Happy Holidays, Crustaceans",
+      "https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 12:56:15",
+      "https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 10:00:11",
       "https://lobste.rs/s/7muzke/mastering_emacs_book_club"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2022-12-22, 13:09:16",
-      "https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust"
-    ],
-    [
-      "MacroKata: Learn macros in Rust",
-      "https://github.com/tfpk/macrokata"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 11:43:51",
       "https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark"
     ],
@@ -177,16 +187,6 @@
     [
       "Nim version 2.0.0 release candidate",
       "https://nim-lang.org/blog/2022/12/21/version-20-rc.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 08:19:55",
-      "https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance"
-    ],
-    [
-      "Avoid exception throwing in performance-sensitive code",
-      "https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/"
     ]
   ],
   [
