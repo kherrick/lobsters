@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-23, 15:12:31",
+      "https://lobste.rs/s/tyuyhh/okta_code_repositories"
+    ],
+    [
+      "Okta Code Repositories",
+      "https://sec.okta.com/articles/2022/12/okta-code-repositories"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 15:09:43",
+      "https://lobste.rs/s/ezx10k/notice_recent_security_incident"
+    ],
+    [
+      "Notice of Recent Security Incident",
+      "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 12:57:15",
       "https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2022-12-22, 15:52:01",
-      "https://lobste.rs/s/oift8h/ebpf_powered_l4_package_dropper"
-    ],
-    [
-      "eBPF-powered L4 package dropper",
-      "https://github.com/boratanrikulu/durdur"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 14:37:13",
       "https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers"
     ],
@@ -217,16 +227,6 @@
     [
       "Challenging algorithms and data structures every programmer should try",
       "https://austinhenley.com/blog/challengingalgorithms.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 19:54:33",
-      "https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without"
-    ],
-    [
-      "Extending the AES-GCM Nonce Without Nightmare Fuel",
-      "https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/"
     ]
   ],
   [
