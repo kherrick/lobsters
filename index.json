@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-23, 00:28:45",
+      "https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language"
+    ],
+    [
+      "Sigils followup: semantics and language design",
+      "https://raku-advent.blog/2022/12/23/sigils-2/"
+    ]
+  ],
+  [
+    [
       "2022-12-22, 22:26:29",
       "https://lobste.rs/s/e3zxel/rest_musicstory"
     ],
@@ -67,16 +77,6 @@
     [
       "eBPF-powered L4 package dropper",
       "https://github.com/boratanrikulu/durdur"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 15:22:07",
-      "https://lobste.rs/s/nohfwb/using_mass_storage_devices_on_simh_pdp_11"
-    ],
-    [
-      "Using Mass Storage Devices on Simh PDP-11/RT-11: Paper Tape, Diskette, Dectape",
-      "https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/"
     ]
   ],
   [
