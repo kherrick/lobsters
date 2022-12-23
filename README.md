@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 21:43:31](https://lobste.rs/s/ch9civ/linux_kernel_exploiting_netfilter_use) - [Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg](https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/)
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 * [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
@@ -19,7 +20,6 @@
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 * [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
 * [2022-12-22, 16:43:38](https://lobste.rs/s/egsrlt/emulating_ipod_touch_1g_iphoneos_1_0_using) - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
-* [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 * [2022-12-22, 03:55:29](https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy) - [Moving emails accounts to a new host, imapcopy with actual encryption](https://halestrom.net/darksleep/blog/049_imapcopy/)
