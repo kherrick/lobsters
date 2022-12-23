@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 15:20:06](https://lobste.rs/s/qawbvr/lobsters_re_posting_bot_on_mastodon) - [Lobsters re-posting bot on Mastodon](https://mas.ink/@lobsters)
 * [2022-12-23, 15:12:31](https://lobste.rs/s/tyuyhh/okta_code_repositories) - [Okta Code Repositories](https://sec.okta.com/articles/2022/12/okta-code-repositories)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
@@ -12,7 +13,6 @@
 * [2022-12-23, 04:39:34](https://lobste.rs/s/cxytxs/wslg_qt_creator) - [WSLg and Qt Creator](https://cristianadam.eu/20221222/wslg-and-qt-creator/)
 * [2022-12-23, 04:22:27](https://lobste.rs/s/sa07dp/meta_programmable_functional_notebooks) - [Meta-programmable functional notebooks with Livebook](https://youtu.be/EhSNXWkji6o)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
-* [2022-12-22, 22:26:29](https://lobste.rs/s/e3zxel/rest_musicstory) - [The Rest of the MusicStory](https://youtu.be/-7Sx05f2evo)
 * [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
 * [2022-12-22, 16:43:38](https://lobste.rs/s/egsrlt/emulating_ipod_touch_1g_iphoneos_1_0_using) - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
