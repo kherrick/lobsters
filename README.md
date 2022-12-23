@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 04:39:34](https://lobste.rs/s/cxytxs/wslg_qt_creator) - [WSLg and Qt Creator](https://cristianadam.eu/20221222/wslg-and-qt-creator/)
 * [2022-12-23, 04:22:27](https://lobste.rs/s/sa07dp/meta_programmable_functional_notebooks) - [Meta-programmable functional notebooks with Livebook](https://youtu.be/EhSNXWkji6o)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 * [2022-12-22, 22:26:29](https://lobste.rs/s/e3zxel/rest_musicstory) - [The Rest of the MusicStory](https://youtu.be/-7Sx05f2evo)
@@ -12,7 +13,6 @@
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:09:16](https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust) - [MacroKata: Learn macros in Rust](https://github.com/tfpk/macrokata)
-* [2022-12-22, 12:12:41](https://lobste.rs/s/s6ysp5/introduction_homotopy_type_theory) - [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082)
 * [2022-12-22, 11:43:51](https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark) - [Generating audio with literate Futhark](https://futhark-lang.org/blog/2022-12-22-literate-audio.html)
 * [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 08:19:55](https://lobste.rs/s/pxvtgi/avoid_exception_throwing_performance) - [Avoid exception throwing in performance-sensitive code](https://lemire.me/blog/2022/05/13/avoid-exception-throwing-in-performance-sensitive-code/)
