@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 * [2022-12-23, 09:29:43](https://lobste.rs/s/eiirub/elf_section_retrieval_with_debuginfod) - [ELF section retrieval with debuginfod](https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod)
 * [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 * [2022-12-23, 05:47:32](https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching) - [PEP 636 – Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
@@ -11,7 +12,6 @@
 * [2022-12-22, 17:01:56](https://lobste.rs/s/wdhh0c/multi_screen) - [Multi Screen](https://notmart.org/blog/2022/12/multi-screen/)
 * [2022-12-22, 16:43:38](https://lobste.rs/s/egsrlt/emulating_ipod_touch_1g_iphoneos_1_0_using) - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part I)](https://devos50.github.io/blog/2022/ipod-touch-qemu/)
 * [2022-12-22, 16:05:47](https://lobste.rs/s/9x1r4b/minimal_gif_decoder) - [A minimal GIF decoder](http://www.lispology.com/show?47N8)
-* [2022-12-22, 14:39:16](https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script) - [HOP, the open platform for Clojure(Script) developers](https://www.gethop.dev/)
 * [2022-12-22, 14:37:13](https://lobste.rs/s/beccxn/1960s_children_s_book_about_computers) - [A 1960s Children’s Book about Computers](https://www.pagetable.com/?p=1709)
 * [2022-12-22, 13:53:20](https://lobste.rs/s/i1okih/devenv_sh_v0_5) - [devenv.sh v0.5](https://devenv.sh/blog/2022/12/22/devenv-05/)
 * [2022-12-22, 13:09:16](https://lobste.rs/s/4hyblq/macrokata_learn_macros_rust) - [MacroKata: Learn macros in Rust](https://github.com/tfpk/macrokata)
