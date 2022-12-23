@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-23, 18:19:18",
+      "https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9"
+    ],
+    [
+      "9th International Workshop on Plan 9",
+      "https://iwp9.org/"
+    ]
+  ],
+  [
+    [
+      "2022-12-23, 18:05:51",
+      "https://lobste.rs/s/e5gnii/dawn_dusk_sun_microsystems"
+    ],
+    [
+      "The Dawn and Dusk of Sun Microsystems",
+      "https://www.youtube.com/watch?v=P1TsVW4P5DI"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 15:37:39",
       "https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2022-12-22, 11:43:51",
-      "https://lobste.rs/s/lqfump/generating_audio_with_literate_futhark"
-    ],
-    [
-      "Generating audio with literate Futhark",
-      "https://futhark-lang.org/blog/2022-12-22-literate-audio.html"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 11:22:38",
       "https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix on the Steam Deck",
       "https://determinate.systems/posts/nix-on-the-steam-deck"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 10:23:38",
-      "https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3"
-    ],
-    [
-      "A free Twitter-like app for iOS that uses S3-compatible services as the backend",
-      "https://beluga.social"
     ]
   ]
 ]
