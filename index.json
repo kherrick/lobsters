@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2022-12-22, 16:27:49",
-      "https://lobste.rs/s/eqzjz5/santacoder_1_1b_multilingual_lm_for_code"
-    ],
-    [
-      "SantaCoder - a 1.1B multilingual LM for code",
-      "https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf"
-    ]
-  ],
-  [
-    [
       "2022-12-22, 16:05:47",
       "https://lobste.rs/s/9x1r4b/minimal_gif_decoder"
     ],
@@ -77,6 +67,16 @@
     [
       "eBPF-powered L4 package dropper",
       "https://github.com/boratanrikulu/durdur"
+    ]
+  ],
+  [
+    [
+      "2022-12-22, 14:39:16",
+      "https://lobste.rs/s/0femel/hop_open_platform_for_clojure_script"
+    ],
+    [
+      "HOP, the open platform for Clojure(Script) developers",
+      "https://www.gethop.dev/"
     ]
   ],
   [
