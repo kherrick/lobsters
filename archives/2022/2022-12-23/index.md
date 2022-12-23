@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-23](index.md)
 
+* [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 * [2022-12-23, 23:12:13](https://lobste.rs/s/f9txjq/build_custom_javascript_linter_5_minutes) - [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
 * [2022-12-23, 21:48:12](https://lobste.rs/s/xkzz6w/using_leaking_sentinel_value_bypass) - [Using Leaking Sentinel Value to Bypass the Latest Chrome v8 HardenProtect](https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f)
 * [2022-12-23, 21:43:31](https://lobste.rs/s/ch9civ/linux_kernel_exploiting_netfilter_use) - [Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg](https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/)
