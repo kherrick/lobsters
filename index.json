@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-23, 23:12:13",
+      "https://lobste.rs/s/f9txjq/build_custom_javascript_linter_5_minutes"
+    ],
+    [
+      "Build a custom Javascript linter in 5 minutes",
+      "https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 21:48:12",
       "https://lobste.rs/s/xkzz6w/using_leaking_sentinel_value_bypass"
     ],
@@ -227,16 +237,6 @@
     [
       "Comprehensive Rust Guide from Google",
       "https://google.github.io/comprehensive-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 03:55:29",
-      "https://lobste.rs/s/hte4uj/moving_emails_accounts_new_host_imapcopy"
-    ],
-    [
-      "Moving emails accounts to a new host, imapcopy with actual encryption",
-      "https://halestrom.net/darksleep/blog/049_imapcopy/"
     ]
   ],
   [
