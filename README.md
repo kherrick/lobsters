@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-23, 04:22:27](https://lobste.rs/s/sa07dp/meta_programmable_functional_notebooks) - [Meta-programmable functional notebooks with Livebook](https://youtu.be/EhSNXWkji6o)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 * [2022-12-22, 22:26:29](https://lobste.rs/s/e3zxel/rest_musicstory) - [The Rest of the MusicStory](https://youtu.be/-7Sx05f2evo)
 * [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
@@ -23,7 +24,6 @@
 * [2022-12-21, 19:54:33](https://lobste.rs/s/qa2i75/extending_aes_gcm_nonce_without) - [Extending the AES-GCM Nonce Without Nightmare Fuel](https://soatok.blog/2022/12/21/extending-the-aes-gcm-nonce-without-nightmare-fuel/)
 * [2022-12-21, 19:17:12](https://lobste.rs/s/egw5oh/nix_on_steam_deck) - [Nix on the Steam Deck](https://determinate.systems/posts/nix-on-the-steam-deck)
 * [2022-12-21, 18:24:11](https://lobste.rs/s/48gelt/how_share_terminal_demos_as_razor_sharp) - [How to share terminal demos as razor-sharp animated SVG](https://wasimlorgat.com/tils/how-to-share-terminal-demos-as-razor-sharp-animated-svg.html)
-* [2022-12-21, 17:31:43](https://lobste.rs/s/22yudo/kind_next_gen_functional_language) - [Kind: A next-gen functional language](https://github.com/Kindelia/Kind)
 * [2022-12-21, 10:23:38](https://lobste.rs/s/hvvf7a/free_twitter_like_app_for_ios_uses_s3) - [A free Twitter-like app for iOS that uses S3-compatible services as the backend](https://beluga.social)
 
 ## [Archives](archives/index.md)
