@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-24](index.md)
 
+* [2022-12-24, 16:55:43](https://lobste.rs/s/j9ojvy/google_privacy_policy_updated_recognize) - [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
 * [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-24, 16:55:43](https://lobste.rs/s/j9ojvy/google_privacy_policy_updated_recognize) - [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
 * [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
@@ -17,7 +18,6 @@
 * [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
 * [2022-12-23, 18:05:51](https://lobste.rs/s/e5gnii/dawn_dusk_sun_microsystems) - [The Dawn and Dusk of Sun Microsystems](https://www.youtube.com/watch?v=P1TsVW4P5DI)
 * [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
-* [2022-12-23, 15:12:31](https://lobste.rs/s/tyuyhh/okta_code_repositories) - [Okta Code Repositories](https://sec.okta.com/articles/2022/12/okta-code-repositories)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
 * [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
