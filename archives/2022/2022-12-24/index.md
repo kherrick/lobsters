@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-24](index.md)
 
+* [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)

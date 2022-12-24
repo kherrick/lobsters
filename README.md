@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
@@ -24,7 +25,6 @@
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 * [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 * [2022-12-23, 05:47:32](https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching) - [PEP 636 – Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
-* [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 
 ## [Archives](archives/index.md)
 
