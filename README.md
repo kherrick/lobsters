@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-24, 02:01:41](https://lobste.rs/s/ls6yfc/let_s_build_browser_engine) - [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [2022-12-24, 01:17:22](https://lobste.rs/s/hkpovb/wasm_runtime_is_included_fedora_37_rhel_9) - [The Wasm runtime is included in Fedora 37 and RHEL 9 is CNCF's WasmEdge](https://www.redhat.com/en/blog/red-hat-and-webassembly)
 * [2022-12-24, 00:34:01](https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac) - [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
 * [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
@@ -23,7 +24,6 @@
 * [2022-12-23, 04:22:27](https://lobste.rs/s/sa07dp/meta_programmable_functional_notebooks) - [Meta-programmable functional notebooks with Livebook](https://youtu.be/EhSNXWkji6o)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
 * [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
-* [2022-12-22, 11:22:38](https://lobste.rs/s/xyhepu/nim_version_2_0_0_release_candidate) - [Nim version 2.0.0 release candidate](https://nim-lang.org/blog/2022/12/21/version-20-rc.html)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 
 ## [Archives](archives/index.md)
