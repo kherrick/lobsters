@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-24, 05:49:06",
+      "https://lobste.rs/s/rnm9zm/news_for_ruby_3_2_0"
+    ],
+    [
+      "News for Ruby 3.2.0",
+      "https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 02:45:48",
       "https://lobste.rs/s/xpgorl/end_programming"
     ],
@@ -187,16 +197,6 @@
     [
       "A bottle of light",
       "https://tomscii.sig7.se/2022/12/A-bottle-of-light"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 09:29:43",
-      "https://lobste.rs/s/eiirub/elf_section_retrieval_with_debuginfod"
-    ],
-    [
-      "ELF section retrieval with debuginfod",
-      "https://www.redhat.com/en/blog/elf-section-retrieval-debuginfod"
     ]
   ],
   [
