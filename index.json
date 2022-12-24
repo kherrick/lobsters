@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-24, 00:34:01",
+      "https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac"
+    ],
+    [
+      "WPA3: no go on Raspberry Pi (plus some Mac gotchas)",
+      "https://rachelbythebay.com/w/2022/12/22/wpa3/"
+    ]
+  ],
+  [
+    [
       "2022-12-23, 23:47:36",
       "https://lobste.rs/s/gemicb/rotary_keyboard"
     ],
@@ -237,16 +247,6 @@
     [
       "Comprehensive Rust Guide from Google",
       "https://google.github.io/comprehensive-rust/"
-    ]
-  ],
-  [
-    [
-      "2022-12-21, 19:17:12",
-      "https://lobste.rs/s/egw5oh/nix_on_steam_deck"
-    ],
-    [
-      "Nix on the Steam Deck",
-      "https://determinate.systems/posts/nix-on-the-steam-deck"
     ]
   ]
 ]
