@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 * [2022-12-24, 05:49:06](https://lobste.rs/s/rnm9zm/news_for_ruby_3_2_0) - [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
 * [2022-12-24, 02:45:48](https://lobste.rs/s/xpgorl/end_programming) - [The End of Programming](https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
 * [2022-12-24, 02:01:41](https://lobste.rs/s/ls6yfc/let_s_build_browser_engine) - [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
@@ -23,7 +24,6 @@
 * [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 * [2022-12-23, 05:47:32](https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching) - [PEP 636 – Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
-* [2022-12-22, 18:14:18](https://lobste.rs/s/dmlak6/better_ui_find_next_tv_show_watch_using) - [Better UI to find the next TV show to watch using Rotten Tomatoes](https://tomatotree.tv/?r=lbstr)
 * [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 
 ## [Archives](archives/index.md)
