@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-24, 16:43:39",
+      "https://lobste.rs/s/iyxogf/automatic_plotloop_machine"
+    ],
+    [
+      "The Automatic #plotloop Machine",
+      "https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 15:35:52",
       "https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language"
     ],
@@ -237,16 +247,6 @@
     [
       "PEP 636 – Structural Pattern Matching: Tutorial",
       "https://peps.python.org/pep-0636/"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 00:28:45",
-      "https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language"
-    ],
-    [
-      "Sigils followup: semantics and language design",
-      "https://raku-advent.blog/2022/12/23/sigils-2/"
     ]
   ]
 ]
