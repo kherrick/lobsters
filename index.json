@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-24, 21:28:03",
+      "https://lobste.rs/s/q6qy6r/open_source_grindset_explained"
+    ],
+    [
+      "Open Source Grindset Explained",
+      "https://blog.orhun.dev/open-source-grindset/"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 20:12:28",
       "https://lobste.rs/s/l62nyu/improving_language_model_behavior_by"
     ],
@@ -237,16 +247,6 @@
     [
       "What more recent developments in PLT could be useful in languages targeting much older/limited hardw",
       "https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 05:47:32",
-      "https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching"
-    ],
-    [
-      "PEP 636 – Structural Pattern Matching: Tutorial",
-      "https://peps.python.org/pep-0636/"
     ]
   ]
 ]
