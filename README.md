@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+* [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
+* [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 * [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 * [2022-12-24, 05:49:06](https://lobste.rs/s/rnm9zm/news_for_ruby_3_2_0) - [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
 * [2022-12-24, 02:45:48](https://lobste.rs/s/xpgorl/end_programming) - [The End of Programming](https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
@@ -8,8 +11,6 @@
 * [2022-12-24, 00:34:01](https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac) - [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
 * [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 * [2022-12-23, 23:12:13](https://lobste.rs/s/f9txjq/build_custom_javascript_linter_5_minutes) - [Build a custom Javascript linter in 5 minutes](https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j)
-* [2022-12-23, 21:48:12](https://lobste.rs/s/xkzz6w/using_leaking_sentinel_value_bypass) - [Using Leaking Sentinel Value to Bypass the Latest Chrome v8 HardenProtect](https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f)
-* [2022-12-23, 21:43:31](https://lobste.rs/s/ch9civ/linux_kernel_exploiting_netfilter_use) - [Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg](https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/)
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 * [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
@@ -24,7 +25,6 @@
 * [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 * [2022-12-23, 05:47:32](https://lobste.rs/s/qvlhkh/pep_636_structural_pattern_matching) - [PEP 636 – Structural Pattern Matching: Tutorial](https://peps.python.org/pep-0636/)
 * [2022-12-23, 00:28:45](https://lobste.rs/s/dfqfdj/sigils_followup_semantics_language) - [Sigils followup: semantics and language design](https://raku-advent.blog/2022/12/23/sigils-2/)
-* [2022-12-22, 07:08:38](https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google) - [Comprehensive Rust Guide from Google](https://google.github.io/comprehensive-rust/)
 
 ## [Archives](archives/index.md)
 
