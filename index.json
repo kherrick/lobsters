@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-24, 01:17:22",
+      "https://lobste.rs/s/hkpovb/wasm_runtime_is_included_fedora_37_rhel_9"
+    ],
+    [
+      "The Wasm runtime is included in Fedora 37 and RHEL 9 is CNCF's WasmEdge",
+      "https://www.redhat.com/en/blog/red-hat-and-webassembly"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 00:34:01",
       "https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac"
     ],
@@ -187,16 +197,6 @@
     [
       "PEP 636 – Structural Pattern Matching: Tutorial",
       "https://peps.python.org/pep-0636/"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 04:39:34",
-      "https://lobste.rs/s/cxytxs/wslg_qt_creator"
-    ],
-    [
-      "WSLg and Qt Creator",
-      "https://cristianadam.eu/20221222/wslg-and-qt-creator/"
     ]
   ],
   [
