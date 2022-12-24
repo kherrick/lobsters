@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-24, 15:35:52",
+      "https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language"
+    ],
+    [
+      "Testing Without Mocks: A Pattern Language",
+      "https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 15:35:45",
+      "https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet"
+    ],
+    [
+      "The smallest inter-frame gap in Fast Ethernet",
+      "https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html"
+    ]
+  ],
+  [
+    [
+      "2022-12-24, 15:32:28",
+      "https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style"
+    ],
+    [
+      "Setting up my new laptop: nix style",
+      "https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 10:26:44",
       "https://lobste.rs/s/z4ggwb/meson_1_0_0"
     ],
@@ -77,26 +107,6 @@
     [
       "Build a custom Javascript linter in 5 minutes",
       "https://dev.to/geoffreycopin/build-a-custom-javascript-linter-in-5-minutes-4a1j"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 21:48:12",
-      "https://lobste.rs/s/xkzz6w/using_leaking_sentinel_value_bypass"
-    ],
-    [
-      "Using Leaking Sentinel Value to Bypass the Latest Chrome v8 HardenProtect",
-      "https://medium.com/@numencyberlabs/using-leaking-sentinel-value-to-bypass-the-latest-chrome-v8-hardenprotect-c4ed40e3d34f"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 21:43:31",
-      "https://lobste.rs/s/ch9civ/linux_kernel_exploiting_netfilter_use"
-    ],
-    [
-      "Linux Kernel: Exploiting a Netfilter Use-after-Free in kmalloc-cg",
-      "https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Sigils followup: semantics and language design",
       "https://raku-advent.blog/2022/12/23/sigils-2/"
-    ]
-  ],
-  [
-    [
-      "2022-12-22, 07:08:38",
-      "https://lobste.rs/s/gbkwsu/comprehensive_rust_guide_from_google"
-    ],
-    [
-      "Comprehensive Rust Guide from Google",
-      "https://google.github.io/comprehensive-rust/"
     ]
   ]
 ]
