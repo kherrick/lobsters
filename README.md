@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 19:50:46](https://lobste.rs/s/pqueok/dirtycred_remastered) - [DirtyCred Remastered](https://exploiter.dev/blog/2022/CVE-2022-2602.html)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
 * [2022-12-25, 19:31:24](https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022) - [The Matrix Holiday Update 2022](https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022)
@@ -23,7 +24,6 @@
 * [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 * [2022-12-24, 00:34:01](https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac) - [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
 * [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
-* [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 
 ## [Archives](archives/index.md)
