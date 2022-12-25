@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-25, 22:24:18",
+      "https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud"
+    ],
+    [
+      "General guidance when working as a cloud engineer",
+      "https://www.lockedinspace.com/posts/001.html"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 21:11:07",
       "https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points"
     ],
@@ -237,16 +247,6 @@
     [
       "Meson 1.0.0",
       "https://mesonbuild.com/Release-notes-for-1-0-0.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 23:47:36",
-      "https://lobste.rs/s/gemicb/rotary_keyboard"
-    ],
-    [
-      "Rotary Keyboard",
-      "https://squidgeefish.com/projects/rotary-keyboard/"
     ]
   ]
 ]
