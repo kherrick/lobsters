@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 20:12:28](https://lobste.rs/s/l62nyu/improving_language_model_behavior_by) - [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
 * [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
@@ -24,7 +25,6 @@
 * [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
 * [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
-* [2022-12-23, 05:52:32](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could) - [What more recent developments in PLT could be useful in languages targeting much older/limited hardw](https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could)
 
 ## [Archives](archives/index.md)
 
