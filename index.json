@@ -1,6 +1,36 @@
 [
   [
     [
+      "2022-12-25, 06:39:00",
+      "https://lobste.rs/s/v8vx0r/x11_conservancy_project"
+    ],
+    [
+      "The X11 Conservancy Project",
+      "https://x11cp.org/"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 06:34:25",
+      "https://lobste.rs/s/zr4ywu/qt_on_mcu_2018"
+    ],
+    [
+      "Qt on MCU (2018)",
+      "https://decovar.dev/blog/2022/12/24/qt-on-mcu/"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 06:30:38",
+      "https://lobste.rs/s/4jyycf/optimism_design"
+    ],
+    [
+      "Optimism in Design",
+      "https://vimeo.com/783228488"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 03:23:35",
       "https://lobste.rs/s/94t4gw/regular_expression_matching_virtual"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2022-12-23, 18:19:18",
-      "https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9"
-    ],
-    [
-      "9th International Workshop on Plan 9",
-      "https://iwp9.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 15:37:39",
-      "https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero"
-    ],
-    [
-      "Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation",
-      "https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/"
-    ]
-  ],
-  [
-    [
       "2022-12-23, 15:09:43",
       "https://lobste.rs/s/ezx10k/notice_recent_security_incident"
     ],
@@ -227,16 +237,6 @@
     [
       "Happy Holidays, Crustaceans",
       "https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 10:00:11",
-      "https://lobste.rs/s/7muzke/mastering_emacs_book_club"
-    ],
-    [
-      "Mastering Emacs Book Club",
-      "https://susam.net/club/mastering-emacs/"
     ]
   ],
   [
