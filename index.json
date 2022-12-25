@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-25, 00:01:39",
+      "https://lobste.rs/s/n5pafl/using_coalton_implement_quantum"
+    ],
+    [
+      "Using Coalton to Implement a Quantum Compiler",
+      "https://coalton-lang.github.io/20220906-quantum-compiler/"
+    ]
+  ],
+  [
+    [
       "2022-12-24, 21:28:03",
       "https://lobste.rs/s/q6qy6r/open_source_grindset_explained"
     ],
@@ -237,16 +247,6 @@
     [
       "A bottle of light",
       "https://tomscii.sig7.se/2022/12/A-bottle-of-light"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 05:52:32",
-      "https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could"
-    ],
-    [
-      "What more recent developments in PLT could be useful in languages targeting much older/limited hardw",
-      "https://lobste.rs/s/su2dgi/what_more_recent_developments_plt_could"
     ]
   ]
 ]
