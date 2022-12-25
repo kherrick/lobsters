@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 17:53:11](https://lobste.rs/s/yizqaj/receiving_blog_replies_from_anywhere_on) - [Receiving Blog Replies from anywhere on the Web](https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere)
 * [2022-12-25, 16:45:06](https://lobste.rs/s/wip3ta/golden_cove_s_lopsided_vector_register) - [Golden Cove’s Lopsided Vector Register File](https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
@@ -19,7 +20,6 @@
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 * [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
-* [2022-12-24, 02:01:41](https://lobste.rs/s/ls6yfc/let_s_build_browser_engine) - [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [2022-12-24, 00:34:01](https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac) - [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)
 * [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
