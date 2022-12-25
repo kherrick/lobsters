@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:41:02](https://lobste.rs/s/cd0qsm/openpgp_key_on_fst_01sz) - [OpenPGP key on FST-01SZ](https://blog.josefsson.org/2022/12/24/openpgp-key-on-fst-01sz/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
@@ -12,7 +13,6 @@
 * [2022-12-24, 20:12:28](https://lobste.rs/s/l62nyu/improving_language_model_behavior_by) - [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
 * [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
 * [2022-12-24, 16:55:43](https://lobste.rs/s/j9ojvy/google_privacy_policy_updated_recognize) - [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
-* [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
