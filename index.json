@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-25, 19:50:46",
+      "https://lobste.rs/s/pqueok/dirtycred_remastered"
+    ],
+    [
+      "DirtyCred Remastered",
+      "https://exploiter.dev/blog/2022/CVE-2022-2602.html"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 19:40:14",
       "https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension"
     ],
@@ -227,16 +237,6 @@
     [
       "Rotary Keyboard",
       "https://squidgeefish.com/projects/rotary-keyboard/"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 19:38:54",
-      "https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm"
-    ],
-    [
-      "Reverse Engineering Tiktok's VM Obfuscation",
-      "https://nullpt.rs/reverse-engineering-tiktok-vm-1"
     ]
   ],
   [
