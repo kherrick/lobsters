@@ -24,7 +24,7 @@
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
-* [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
+* [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
 
 ## [Archives](archives/index.md)
 
