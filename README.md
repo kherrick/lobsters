@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 01:14:03](https://lobste.rs/s/6dpca3/escaping_algorithms) - [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
 * [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 20:12:28](https://lobste.rs/s/l62nyu/improving_language_model_behavior_by) - [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
@@ -18,7 +19,6 @@
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
 * [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
-* [2022-12-23, 18:05:51](https://lobste.rs/s/e5gnii/dawn_dusk_sun_microsystems) - [The Dawn and Dusk of Sun Microsystems](https://www.youtube.com/watch?v=P1TsVW4P5DI)
 * [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
