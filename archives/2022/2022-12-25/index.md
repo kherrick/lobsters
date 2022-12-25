@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-25](index.md)
 
+* [2022-12-25, 06:41:02](https://lobste.rs/s/cd0qsm/openpgp_key_on_fst_01sz) - [OpenPGP key on FST-01SZ](https://blog.josefsson.org/2022/12/24/openpgp-key-on-fst-01sz/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
 * [2022-12-25, 06:34:25](https://lobste.rs/s/zr4ywu/qt_on_mcu_2018) - [Qt on MCU (2018)](https://decovar.dev/blog/2022/12/24/qt-on-mcu/)
 * [2022-12-25, 06:30:38](https://lobste.rs/s/4jyycf/optimism_design) - [Optimism in Design](https://vimeo.com/783228488)
