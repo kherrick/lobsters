@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 16:45:06](https://lobste.rs/s/wip3ta/golden_cove_s_lopsided_vector_register) - [Golden Cove’s Lopsided Vector Register File](https://chipsandcheese.com/2022/12/25/golden-coves-lopsided-vector-register-file/)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
-* [2022-12-25, 15:13:18](https://lobste.rs/s/ehgpig/please_forward_this_anyone_who_got) - [Please forward this to anyone who got a Raspberry Pi for Christmas](https://www.raspberrypi.com/news/please-forward-this-to-anyone-who-got-a-raspberry-pi-for-christmas/)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:41:02](https://lobste.rs/s/cd0qsm/openpgp_key_on_fst_01sz) - [OpenPGP key on FST-01SZ](https://blog.josefsson.org/2022/12/24/openpgp-key-on-fst-01sz/)
