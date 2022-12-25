@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
+* [2022-12-25, 06:34:25](https://lobste.rs/s/zr4ywu/qt_on_mcu_2018) - [Qt on MCU (2018)](https://decovar.dev/blog/2022/12/24/qt-on-mcu/)
+* [2022-12-25, 06:30:38](https://lobste.rs/s/4jyycf/optimism_design) - [Optimism in Design](https://vimeo.com/783228488)
 * [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-25, 01:14:03](https://lobste.rs/s/6dpca3/escaping_algorithms) - [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
 * [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
@@ -19,11 +22,8 @@
 * [2022-12-23, 23:47:36](https://lobste.rs/s/gemicb/rotary_keyboard) - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/)
 * [2022-12-23, 19:38:54](https://lobste.rs/s/m7chku/reverse_engineering_tiktok_s_vm) - [Reverse Engineering Tiktok's VM Obfuscation](https://nullpt.rs/reverse-engineering-tiktok-vm-1)
 * [2022-12-23, 19:04:48](https://lobste.rs/s/xf162v/haiku_r1_beta4_has_been_released) - [Haiku R1/beta4 has been released](https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/)
-* [2022-12-23, 18:19:18](https://lobste.rs/s/frp5jv/9th_international_workshop_on_plan_9) - [9th International Workshop on Plan 9](https://iwp9.org/)
-* [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
-* [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 
 ## [Archives](archives/index.md)
