@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-25, 01:14:03](https://lobste.rs/s/6dpca3/escaping_algorithms) - [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
 * [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
@@ -22,7 +23,6 @@
 * [2022-12-23, 15:37:39](https://lobste.rs/s/vijyei/fully_homomorphic_encryption_zero) - [Fully-homomorphic encryption, zero-knowledge proofs, and multiparty computation](https://www.notamonadtutorial.com/fully-homomorphic-encryption-zero-knowledge-proofs-and-multiparty-computation/)
 * [2022-12-23, 15:09:43](https://lobste.rs/s/ezx10k/notice_recent_security_incident) - [Notice of Recent Security Incident](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 * [2022-12-23, 12:57:15](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans) - [Happy Holidays, Crustaceans](https://lobste.rs/s/0q8v2t/happy_holidays_crustaceans)
-* [2022-12-23, 12:56:15](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gf45bd/what_are_you_doing_this_weekend)
 * [2022-12-23, 10:00:11](https://lobste.rs/s/7muzke/mastering_emacs_book_club) - [Mastering Emacs Book Club](https://susam.net/club/mastering-emacs/)
 * [2022-12-23, 09:39:07](https://lobste.rs/s/sav5fo/bottle_light) - [A bottle of light](https://tomscii.sig7.se/2022/12/A-bottle-of-light)
 
