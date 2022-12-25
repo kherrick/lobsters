@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-25](index.md)
 
+* [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 21:10:35](https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit) - [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 21:10:35](https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit) - [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit)
@@ -21,7 +22,6 @@
 * [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
-* [2022-12-24, 16:55:43](https://lobste.rs/s/j9ojvy/google_privacy_policy_updated_recognize) - [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 * [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
