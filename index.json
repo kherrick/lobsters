@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-25, 19:32:55",
+      "https://lobste.rs/s/fyghyd/return_lazy_imports_for_python"
+    ],
+    [
+      "The return of lazy imports for Python",
+      "https://lwn.net/Articles/917280/"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 19:31:24",
+      "https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022"
+    ],
+    [
+      "The Matrix Holiday Update 2022",
+      "https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 17:53:11",
       "https://lobste.rs/s/yizqaj/receiving_blog_replies_from_anywhere_on"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2022-12-24, 20:12:28",
-      "https://lobste.rs/s/l62nyu/improving_language_model_behavior_by"
-    ],
-    [
-      "Improving Language Model Behavior by Training on a Curated Dataset",
-      "https://openai.com/blog/improving-language-model-behavior/"
-    ]
-  ],
-  [
-    [
       "2022-12-24, 18:15:20",
       "https://lobste.rs/s/myhybl/win16_retro_development"
     ],
@@ -237,16 +247,6 @@
     [
       "Haiku R1/beta4 has been released",
       "https://www.haiku-os.org/news/2022-12-23_haiku_r1_beta4/"
-    ]
-  ],
-  [
-    [
-      "2022-12-23, 15:09:43",
-      "https://lobste.rs/s/ezx10k/notice_recent_security_incident"
-    ],
-    [
-      "Notice of Recent Security Incident",
-      "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
     ]
   ]
 ]
