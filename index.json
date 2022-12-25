@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-25, 19:40:14",
+      "https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension"
+    ],
+    [
+      "Long story short: I wrote a Ruby extension in Zig",
+      "https://katafrakt.me/2022/12/25/ruby-extension-zig/"
+    ]
+  ],
+  [
+    [
       "2022-12-25, 19:32:55",
       "https://lobste.rs/s/fyghyd/return_lazy_imports_for_python"
     ],
@@ -177,16 +187,6 @@
     [
       "Testing Without Mocks: A Pattern Language",
       "https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks"
-    ]
-  ],
-  [
-    [
-      "2022-12-24, 15:35:45",
-      "https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet"
-    ],
-    [
-      "The smallest inter-frame gap in Fast Ethernet",
-      "https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html"
     ]
   ],
   [
