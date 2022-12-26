@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-26](index.md)
 
+* [2022-12-26, 22:18:11](https://lobste.rs/s/ougtj9/critical_program_reading_1975) - [Critical Program Reading (1975)](https://youtu.be/7hdJQkn8rtA)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
 * [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 * [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)

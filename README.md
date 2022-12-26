@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 22:18:11](https://lobste.rs/s/ougtj9/critical_program_reading_1975) - [Critical Program Reading (1975)](https://youtu.be/7hdJQkn8rtA)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
 * [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 * [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
@@ -14,7 +15,6 @@
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
-* [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 21:10:35](https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit) - [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit)
