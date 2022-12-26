@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 00:32:21](https://lobste.rs/s/lyuco5/10_prompts_1000_ai_generated_images) - [10 prompts - 1000 AI generated images - openAI Dall-E](https://ittavern.com/10-prompts-1000-ai-generated-images-openai-dall-e/)
 * [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
@@ -19,7 +20,6 @@
 * [2022-12-25, 06:30:38](https://lobste.rs/s/4jyycf/optimism_design) - [Optimism in Design](https://vimeo.com/783228488)
 * [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-25, 01:14:03](https://lobste.rs/s/6dpca3/escaping_algorithms) - [Escaping the Algorithms](https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger)
-* [2022-12-25, 00:01:39](https://lobste.rs/s/n5pafl/using_coalton_implement_quantum) - [Using Coalton to Implement a Quantum Compiler](https://coalton-lang.github.io/20220906-quantum-compiler/)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
