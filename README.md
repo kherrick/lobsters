@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 15:36:34](https://lobste.rs/s/an7ptk/accelerating_zk_snarks_msm_ntt) - [Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
+* [2022-12-26, 15:31:44](https://lobste.rs/s/yz1lle/countable_reals) - [The countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
 * [2022-12-26, 14:26:36](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week)
 * [2022-12-26, 12:46:06](https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing) - [I lived  through 5 decades of computing milestones](https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/)
 * [2022-12-26, 12:40:25](https://lobste.rs/s/vqcnod/5ghz_problem_for_wi_fi_networks_dynamic) - [The 5GHz “Problem” For Wi-Fi Networks: Dynamic Frequency Selection (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
@@ -22,9 +24,7 @@
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
-* [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
-* [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 
 ## [Archives](archives/index.md)
 
