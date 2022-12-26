@@ -1,16 +1,6 @@
 [
   [
     [
-      "2022-12-26, 00:32:21",
-      "https://lobste.rs/s/lyuco5/10_prompts_1000_ai_generated_images"
-    ],
-    [
-      "10 prompts - 1000 AI generated images - openAI Dall-E",
-      "https://ittavern.com/10-prompts-1000-ai-generated-images-openai-dall-e/"
-    ]
-  ],
-  [
-    [
       "2022-12-25, 22:38:24",
       "https://lobste.rs/s/dsxr2v/go_proposals"
     ],
@@ -197,6 +187,16 @@
     [
       "Escaping the Algorithms",
       "https://www.commonwealmagazine.org/artificial-intelligence-AI-social-media-Heidegger"
+    ]
+  ],
+  [
+    [
+      "2022-12-25, 00:01:39",
+      "https://lobste.rs/s/n5pafl/using_coalton_implement_quantum"
+    ],
+    [
+      "Using Coalton to Implement a Quantum Compiler",
+      "https://coalton-lang.github.io/20220906-quantum-compiler/"
     ]
   ],
   [
