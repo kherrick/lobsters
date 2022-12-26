@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-26](index.md)
 
+* [2022-12-26, 11:12:15](https://lobste.rs/s/qrd0g6/log_structured_hash_table_for_fast_key) - [A Log-Structured Hash Table for Fast Key/Value Data  in Ruby](https://github.com/dineshgowda24/bitcask-rb)
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom_ng) - [LiveDOM.NG](https://livedom.bentkowski.info)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
