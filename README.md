@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
+* [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 * [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2022-12-26, 17:31:05](https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop) - [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
 * [2022-12-26, 15:36:34](https://lobste.rs/s/an7ptk/accelerating_zk_snarks_msm_ntt) - [Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
@@ -10,7 +12,6 @@
 * [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
 * [2022-12-26, 11:12:15](https://lobste.rs/s/qrd0g6/log_structured_hash_table_for_fast_key) - [A Log-Structured Hash Table for Fast Key/Value Data  in Ruby](https://github.com/dineshgowda24/bitcask-rb)
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
-* [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
@@ -24,7 +25,6 @@
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
-* [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
 
 ## [Archives](archives/index.md)
 
