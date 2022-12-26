@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 12:40:25](https://lobste.rs/s/vqcnod/5ghz_problem_for_wi_fi_networks_dynamic) - [The 5GHz “Problem” For Wi-Fi Networks: Dynamic Frequency Selection (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
+* [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
 * [2022-12-26, 11:12:15](https://lobste.rs/s/qrd0g6/log_structured_hash_table_for_fast_key) - [A Log-Structured Hash Table for Fast Key/Value Data  in Ruby](https://github.com/dineshgowda24/bitcask-rb)
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
@@ -19,12 +21,10 @@
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
-* [2022-12-25, 06:34:25](https://lobste.rs/s/zr4ywu/qt_on_mcu_2018) - [Qt on MCU (2018)](https://decovar.dev/blog/2022/12/24/qt-on-mcu/)
 * [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
-* [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
 
 ## [Archives](archives/index.md)
 
