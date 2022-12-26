@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 14:26:36](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week)
 * [2022-12-26, 12:46:06](https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing) - [I lived  through 5 decades of computing milestones](https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/)
 * [2022-12-26, 12:40:25](https://lobste.rs/s/vqcnod/5ghz_problem_for_wi_fi_networks_dynamic) - [The 5GHz “Problem” For Wi-Fi Networks: Dynamic Frequency Selection (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
 * [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
@@ -12,7 +13,6 @@
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 21:10:35](https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit) - [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit)
-* [2022-12-25, 19:50:46](https://lobste.rs/s/pqueok/dirtycred_remastered) - [DirtyCred Remastered](https://exploiter.dev/blog/2022/CVE-2022-2602.html)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
 * [2022-12-25, 19:31:24](https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022) - [The Matrix Holiday Update 2022](https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022)
