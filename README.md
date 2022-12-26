@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2022-12-26, 17:31:05](https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop) - [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
 * [2022-12-26, 15:36:34](https://lobste.rs/s/an7ptk/accelerating_zk_snarks_msm_ntt) - [Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
 * [2022-12-26, 15:31:44](https://lobste.rs/s/yz1lle/countable_reals) - [The countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
@@ -24,7 +25,6 @@
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
-* [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 
 ## [Archives](archives/index.md)
 
