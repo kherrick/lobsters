@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 12:46:06](https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing) - [I lived  through 5 decades of computing milestones](https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/)
 * [2022-12-26, 12:40:25](https://lobste.rs/s/vqcnod/5ghz_problem_for_wi_fi_networks_dynamic) - [The 5GHz “Problem” For Wi-Fi Networks: Dynamic Frequency Selection (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
 * [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
 * [2022-12-26, 11:12:15](https://lobste.rs/s/qrd0g6/log_structured_hash_table_for_fast_key) - [A Log-Structured Hash Table for Fast Key/Value Data  in Ruby](https://github.com/dineshgowda24/bitcask-rb)
@@ -23,7 +24,6 @@
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
 * [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
-* [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
 * [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
 
 ## [Archives](archives/index.md)
