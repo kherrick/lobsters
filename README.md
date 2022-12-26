@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom_ng) - [LiveDOM.NG](https://livedom.bentkowski.info)
+* [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 22:38:24](https://lobste.rs/s/dsxr2v/go_proposals) - [Go Proposals](https://research.swtch.com/proposals)
