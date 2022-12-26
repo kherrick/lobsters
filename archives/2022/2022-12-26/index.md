@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-26](index.md)
 
+* [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom_ng) - [LiveDOM.NG](https://livedom.bentkowski.info)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)

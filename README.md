@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:51:48](https://lobste.rs/s/ktjd2g/livedom) - [LiveDOM](https://livedom.bentkowski.info)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
@@ -18,7 +19,6 @@
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 * [2022-12-25, 06:39:00](https://lobste.rs/s/v8vx0r/x11_conservancy_project) - [The X11 Conservancy Project](https://x11cp.org/)
 * [2022-12-25, 06:34:25](https://lobste.rs/s/zr4ywu/qt_on_mcu_2018) - [Qt on MCU (2018)](https://decovar.dev/blog/2022/12/24/qt-on-mcu/)
-* [2022-12-25, 06:30:38](https://lobste.rs/s/4jyycf/optimism_design) - [Optimism in Design](https://vimeo.com/783228488)
 * [2022-12-25, 03:23:35](https://lobste.rs/s/94t4gw/regular_expression_matching_virtual) - [Regular Expression Matching: the Virtual Machine Approach (2009)](https://swtch.com/~rsc/regexp/regexp2.html)
 * [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
 * [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
