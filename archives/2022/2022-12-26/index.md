@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-26](index.md)
 
+* [2022-12-26, 17:31:05](https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop) - [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
 * [2022-12-26, 15:36:34](https://lobste.rs/s/an7ptk/accelerating_zk_snarks_msm_ntt) - [Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml](https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/)
 * [2022-12-26, 15:31:44](https://lobste.rs/s/yz1lle/countable_reals) - [The countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
 * [2022-12-26, 14:26:36](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week)
