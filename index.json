@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-26, 10:34:11",
+      "https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser"
+    ],
+    [
+      "cparse now supports LALR(1) - simple parser generator for C",
+      "https://github.com/jafarlihi/cparse"
+    ]
+  ],
+  [
+    [
       "2022-12-26, 07:51:48",
       "https://lobste.rs/s/ktjd2g/livedom"
     ],
@@ -177,16 +187,6 @@
     [
       "Qt on MCU (2018)",
       "https://decovar.dev/blog/2022/12/24/qt-on-mcu/"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 06:30:38",
-      "https://lobste.rs/s/4jyycf/optimism_design"
-    ],
-    [
-      "Optimism in Design",
-      "https://vimeo.com/783228488"
     ]
   ],
   [
