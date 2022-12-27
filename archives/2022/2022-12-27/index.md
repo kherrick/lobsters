@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-27](index.md)
 
+* [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 * [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
 * [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
 * [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
