@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-27, 12:05:49",
+      "https://lobste.rs/s/wi75v7/code_coverage_for_goawk"
+    ],
+    [
+      "Code Coverage for GoAWK",
+      "https://maximullaris.com/goawk_cover.html"
+    ]
+  ],
+  [
+    [
       "2022-12-27, 11:49:22",
       "https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability"
     ],
@@ -237,16 +247,6 @@
     [
       "Imposter Syndrome",
       "https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 13:50:17",
-      "https://lobste.rs/s/wqobdc/ruby_3_2_0_released"
-    ],
-    [
-      "Ruby 3.2.0 Released",
-      "https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/"
     ]
   ]
 ]
