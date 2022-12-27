@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-27](index.md)
 
+* [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
 * [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 * [2022-12-27, 09:00:38](https://lobste.rs/s/pvkjue/novell_netware_king_returns_from_dead) - [Novell NetWare: The King Returns from the Dead](http://web.archive.org/web/20200217014004/https://www.aaxnet.com/design/novell.html)
