@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 * [2022-12-27, 09:00:38](https://lobste.rs/s/pvkjue/novell_netware_king_returns_from_dead) - [Novell NetWare: The King Returns from the Dead (2001)](http://web.archive.org/web/20200217014004/https://www.aaxnet.com/design/novell.html)
 * [2022-12-27, 08:24:25](https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit) - [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
@@ -22,7 +23,6 @@
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
-* [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 
