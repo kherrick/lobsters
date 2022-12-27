@@ -1,12 +1,22 @@
 [
   [
     [
-      "2022-12-26, 22:18:11",
-      "https://lobste.rs/s/ougtj9/critical_program_reading_1975"
+      "2022-12-27, 01:40:04",
+      "https://lobste.rs/s/ktowsh/lichen"
     ],
     [
-      "Critical Program Reading (1975)",
-      "https://youtu.be/7hdJQkn8rtA"
+      "Lichen",
+      "https://lichen.sensorstation.co/"
+    ]
+  ],
+  [
+    [
+      "2022-12-27, 00:48:19",
+      "https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial"
+    ],
+    [
+      "Unintentionally BREAKing a serial console",
+      "http://rachelbythebay.com/w/2022/12/25/tty/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Nix and NixOS, my pain points",
       "https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-25, 21:10:35",
-      "https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit"
-    ],
-    [
-      "Benchmarking Ruby 3.2 with YJIT",
-      "https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit"
     ]
   ],
   [
