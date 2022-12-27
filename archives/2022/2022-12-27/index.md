@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-27](index.md)
 
+* [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 * [2022-12-27, 18:46:22](https://lobste.rs/s/c1takj/experimental_feature_gate_proposal) - [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
 * [2022-12-27, 18:44:31](https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one) - [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
 * [2022-12-27, 16:53:46](https://lobste.rs/s/ryvv2u/2022_slint_ui_toolkit_review) - [2022 Slint UI toolkit in review](https://slint-ui.com/blog/2022-in-review.html)
