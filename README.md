@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 16:53:46](https://lobste.rs/s/ryvv2u/2022_slint_ui_toolkit_review) - [2022 Slint UI toolkit in review](https://slint-ui.com/blog/2022-in-review.html)
 * [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 * [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 * [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
@@ -16,7 +17,6 @@
 * [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 * [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2022-12-26, 17:31:05](https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop) - [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
-* [2022-12-26, 15:31:44](https://lobste.rs/s/yz1lle/countable_reals) - [The countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
 * [2022-12-26, 14:26:36](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week)
 * [2022-12-26, 12:46:06](https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing) - [I lived  through 5 decades of computing milestones](https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/)
 * [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
