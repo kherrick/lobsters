@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 * [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 * [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
 * [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
@@ -18,7 +19,6 @@
 * [2022-12-26, 15:31:44](https://lobste.rs/s/yz1lle/countable_reals) - [The countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
 * [2022-12-26, 14:26:36](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bpogx0/what_are_you_doing_this_week)
 * [2022-12-26, 12:46:06](https://lobste.rs/s/s1cnj3/i_lived_through_5_decades_computing) - [I lived  through 5 decades of computing milestones](https://billwadge.com/2022/12/24/50-years-of-wow-i-lived-through-5-decades-of-computing-milestones/)
-* [2022-12-26, 12:40:25](https://lobste.rs/s/vqcnod/5ghz_problem_for_wi_fi_networks_dynamic) - [The 5GHz “Problem” For Wi-Fi Networks: Dynamic Frequency Selection (2018)](http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html)
 * [2022-12-26, 12:38:06](https://lobste.rs/s/rnsa2o/infinitude_primes_lean_theorem_prover) - [Infinitude of primes --- a Lean theorem prover demo](https://www.youtube.com/watch?v=b59fpAJ8Mfs)
 * [2022-12-26, 11:12:15](https://lobste.rs/s/qrd0g6/log_structured_hash_table_for_fast_key) - [A Log-Structured Hash Table for Fast Key/Value Data  in Ruby](https://github.com/dineshgowda24/bitcask-rb)
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
