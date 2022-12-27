@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
 * [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
 * [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
@@ -24,7 +25,6 @@
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
-* [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 
 ## [Archives](archives/index.md)
 
