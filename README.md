@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 08:24:25](https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit) - [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
+* [2022-12-27, 08:24:11](https://lobste.rs/s/1eu7yy/what_s_deal_with_cisco_devices_file_output) - [What’s the deal with Cisco devices in `file` output, anyway?](https://catfox.life/2022/12/27/whats-the-deal-with-cisco-devices-in-file-output-anyway/)
 * [2022-12-27, 07:22:04](https://lobste.rs/s/2ghxua/guide_terminal_console_shell) - [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
 * [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
 * [2022-12-27, 00:48:19](https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial) - [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
@@ -20,8 +22,6 @@
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
-* [2022-12-25, 19:31:24](https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022) - [The Matrix Holiday Update 2022](https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022)
-* [2022-12-25, 17:53:11](https://lobste.rs/s/yizqaj/receiving_blog_replies_from_anywhere_on) - [Receiving Blog Replies from anywhere on the Web](https://www.yusuf.fyi/posts/receiving-blog-replies-from-anywhere)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
