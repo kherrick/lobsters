@@ -21,7 +21,7 @@
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
-* [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
+* [2022-12-25, 19:31:24](https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022) - [The Matrix Holiday Update 2022](https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022)
 * [2022-12-25, 15:36:59](https://lobste.rs/s/5vttqr/imposter_syndrome) - [Imposter Syndrome](https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html)
 * [2022-12-25, 13:50:17](https://lobste.rs/s/wqobdc/ruby_3_2_0_released) - [Ruby 3.2.0 Released](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/)
 * [2022-12-25, 13:34:51](https://lobste.rs/s/rx6n5g/cracking_encrypted_lastpass_vaults) - [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
