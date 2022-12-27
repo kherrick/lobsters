@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-27, 07:22:04](https://lobste.rs/s/2ghxua/guide_terminal_console_shell) - [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
 * [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
 * [2022-12-27, 00:48:19](https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial) - [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
@@ -16,7 +17,6 @@
 * [2022-12-26, 10:34:11](https://lobste.rs/s/u3w37e/cparse_now_supports_lalr_1_simple_parser) - [cparse now supports LALR(1) - simple parser generator for C](https://github.com/jafarlihi/cparse)
 * [2022-12-26, 07:10:40](https://lobste.rs/s/t4zgpn/benchmarking_ruby_2_6_3_2) - [Benchmarking Ruby 2.6 to 3.2](https://gettalong.org/blog/2022/benchmarking-rubies.html)
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
-* [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
