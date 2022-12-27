@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2022-12-26, 22:18:11](https://lobste.rs/s/ougtj9/critical_program_reading_1975) - [Critical Program Reading (1975)](https://youtu.be/7hdJQkn8rtA)
+* [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
+* [2022-12-27, 00:48:19](https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial) - [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
 * [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
 * [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
@@ -17,7 +18,6 @@
 * [2022-12-26, 03:12:31](https://lobste.rs/s/wyshlv/building_hypermedia_systems) - [Building Hypermedia Systems](https://hypermedia.systems/)
 * [2022-12-25, 22:24:18](https://lobste.rs/s/r5yctg/general_guidance_when_working_as_cloud) - [General guidance when working as a cloud engineer](https://www.lockedinspace.com/posts/001.html)
 * [2022-12-25, 21:11:07](https://lobste.rs/s/7trk9v/nix_nixos_my_pain_points) - [Nix and NixOS, my pain points](https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html)
-* [2022-12-25, 21:10:35](https://lobste.rs/s/rxp6sq/benchmarking_ruby_3_2_with_yjit) - [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit)
 * [2022-12-25, 19:40:14](https://lobste.rs/s/ouxi1c/long_story_short_i_wrote_ruby_extension) - [Long story short: I wrote a Ruby extension in Zig](https://katafrakt.me/2022/12/25/ruby-extension-zig/)
 * [2022-12-25, 19:32:55](https://lobste.rs/s/fyghyd/return_lazy_imports_for_python) - [The return of lazy imports for Python](https://lwn.net/Articles/917280/)
 * [2022-12-25, 19:31:24](https://lobste.rs/s/tpp3i6/matrix_holiday_update_2022) - [The Matrix Holiday Update 2022](https://matrix.org/blog/2022/12/25/the-matrix-holiday-update-2022)
