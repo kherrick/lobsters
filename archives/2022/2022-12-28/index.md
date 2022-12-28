@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
 * [2022-12-28, 14:31:00](https://lobste.rs/s/ebaatv/cache_world_turbo_charging_firefox) - [Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability](https://www.jantrid.net/2022/12/22/Cache-the-World/)

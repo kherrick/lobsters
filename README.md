@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
 * [2022-12-28, 14:31:00](https://lobste.rs/s/ebaatv/cache_world_turbo_charging_firefox) - [Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability](https://www.jantrid.net/2022/12/22/Cache-the-World/)
@@ -20,7 +21,6 @@
 * [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 * [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 * [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
-* [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 * [2022-12-27, 08:24:25](https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit) - [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
 * [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
