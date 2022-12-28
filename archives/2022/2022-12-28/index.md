@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
+* [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
 * [2022-12-28, 12:41:37](https://lobste.rs/s/sngmpl/github_auct_uajax_universal_ajax_forms) - [GitHub - AucT/uajax: universal ajax forms [javascript for noobs]](https://github.com/AucT/uajax)
 * [2022-12-28, 11:14:57](https://lobste.rs/s/crmbqw/build_share_run_webassembly_apps_using) - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)

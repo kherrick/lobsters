@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
+* [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
 * [2022-12-28, 12:41:37](https://lobste.rs/s/sngmpl/github_auct_uajax_universal_ajax_forms) - [GitHub - AucT/uajax: universal ajax forms [javascript for noobs]](https://github.com/AucT/uajax)
 * [2022-12-28, 11:14:57](https://lobste.rs/s/crmbqw/build_share_run_webassembly_apps_using) - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
@@ -17,10 +19,8 @@
 * [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
 * [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
 * [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
-* [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 * [2022-12-27, 08:24:25](https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit) - [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
-* [2022-12-27, 08:24:11](https://lobste.rs/s/1eu7yy/what_s_deal_with_cisco_devices_file_output) - [What’s the deal with Cisco devices in `file` output, anyway?](https://catfox.life/2022/12/27/whats-the-deal-with-cisco-devices-in-file-output-anyway/)
 * [2022-12-27, 07:22:04](https://lobste.rs/s/2ghxua/guide_terminal_console_shell) - [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
 * [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
