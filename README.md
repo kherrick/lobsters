@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 20:24:28](https://lobste.rs/s/l2gjom/2002_why_yenc_is_good_for_usenet) - [[2002] Why yEnc is Good for Usenet](https://web.archive.org/web/20050122070204/http://www.ser1.net/Files/Essays/yEnc.html)
 * [2022-12-28, 19:45:58](https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4) - [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 * [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
@@ -11,7 +12,6 @@
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
-* [2022-12-28, 14:31:00](https://lobste.rs/s/ebaatv/cache_world_turbo_charging_firefox) - [Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability](https://www.jantrid.net/2022/12/22/Cache-the-World/)
 * [2022-12-28, 14:24:51](https://lobste.rs/s/1u22xo/redos_vulnerabilities_misaligned) - [ReDoS \"vulnerabilities\" and misaligned incentives](https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives)
 * [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
 * [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
