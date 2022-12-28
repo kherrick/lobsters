@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 * [2022-12-28, 17:31:06](https://lobste.rs/s/g7khf9/rethinking_classical_concurrency) - [Rethinking Classical Concurrency Patterns [PDF]](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
@@ -12,7 +13,6 @@
 * [2022-12-28, 14:24:51](https://lobste.rs/s/1u22xo/redos_vulnerabilities_misaligned) - [ReDoS \"vulnerabilities\" and misaligned incentives](https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives)
 * [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
 * [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
-* [2022-12-28, 11:14:57](https://lobste.rs/s/crmbqw/build_share_run_webassembly_apps_using) - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
 * [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
