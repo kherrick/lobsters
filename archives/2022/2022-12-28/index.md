@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 16:21:24](https://lobste.rs/s/ylcvzu/guided_intro_free_pascal_language) - [A Guided Intro to the Free Pascal Language](https://www.getlazarus.org/guides/intro/)
 * [2022-12-28, 16:00:51](https://lobste.rs/s/ueoszx/new_old_idea) - [A New Old Idea](https://systemstack.dev/2022/12/new-old-computer/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
