@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
 * [2022-12-28, 14:31:00](https://lobste.rs/s/ebaatv/cache_world_turbo_charging_firefox) - [Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability](https://www.jantrid.net/2022/12/22/Cache-the-World/)
 * [2022-12-28, 14:24:51](https://lobste.rs/s/1u22xo/redos_vulnerabilities_misaligned) - [ReDoS \"vulnerabilities\" and misaligned incentives](https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives)
 * [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
