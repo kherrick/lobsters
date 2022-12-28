@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
 * [2022-12-28, 20:24:28](https://lobste.rs/s/l2gjom/2002_why_yenc_is_good_for_usenet) - [[2002] Why yEnc is Good for Usenet](https://web.archive.org/web/20050122070204/http://www.ser1.net/Files/Essays/yEnc.html)
 * [2022-12-28, 19:45:58](https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4) - [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 * [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
@@ -21,7 +22,6 @@
 * [2022-12-28, 01:50:48](https://lobste.rs/s/zwuvmi/blake3_one_function_fast_everywhere) - [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
 * [2022-12-27, 20:59:26](https://lobste.rs/s/xnv977/lite_xl) - [Lite XL](https://lite-xl.com/)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
-* [2022-12-27, 18:46:22](https://lobste.rs/s/c1takj/experimental_feature_gate_proposal) - [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
 * [2022-12-27, 18:44:31](https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one) - [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
 * [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
