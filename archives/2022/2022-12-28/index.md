@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 19:45:58](https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4) - [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 * [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)

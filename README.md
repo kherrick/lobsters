@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 19:45:58](https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4) - [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 * [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
@@ -18,7 +19,6 @@
 * [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-28, 01:50:48](https://lobste.rs/s/zwuvmi/blake3_one_function_fast_everywhere) - [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
-* [2022-12-28, 00:33:24](https://lobste.rs/s/leyhfu/leandromoreira_cdn_up_running_cdn_up) - [leandromoreira/cdn-up-and-running: CDN Up and Running - Building a CDN from Scratch](https://github.com/leandromoreira/cdn-up-and-running)
 * [2022-12-27, 20:59:26](https://lobste.rs/s/xnv977/lite_xl) - [Lite XL](https://lite-xl.com/)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 * [2022-12-27, 18:46:22](https://lobste.rs/s/c1takj/experimental_feature_gate_proposal) - [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
