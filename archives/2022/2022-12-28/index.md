@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-28](index.md)
 
+* [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)

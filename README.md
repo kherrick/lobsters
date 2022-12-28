@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
-* [2022-12-28, 20:24:28](https://lobste.rs/s/l2gjom/2002_why_yenc_is_good_for_usenet) - [[2002] Why yEnc is Good for Usenet](https://web.archive.org/web/20050122070204/http://www.ser1.net/Files/Essays/yEnc.html)
 * [2022-12-28, 19:45:58](https://lobste.rs/s/ym9adv/jean_michel_jarre_s_classic_oxygene_4) - [Jean-Michel Jarre’s Classic ‘Oxygene 4’ Recreated With 19KB Of Javascript](https://www.synthtopia.com/content/2022/12/27/jean-michel-jarres-classic-oxygene-4-recreated-with-19kb-of-javascript/)
 * [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
