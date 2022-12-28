@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-28, 22:58:16",
+      "https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted"
+    ],
+    [
+      "Easy, alternative soft deletion: `deleted_record_insert`",
+      "https://brandur.org/fragments/deleted-record-insert"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 22:28:24",
       "https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing"
     ],
@@ -27,16 +37,6 @@
     [
       "Are we web yet? Yes, and it's freaking fast",
       "https://www.arewewebyet.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 20:24:28",
-      "https://lobste.rs/s/l2gjom/2002_why_yenc_is_good_for_usenet"
-    ],
-    [
-      "[2002] Why yEnc is Good for Usenet",
-      "https://web.archive.org/web/20050122070204/http://www.ser1.net/Files/Essays/yEnc.html"
     ]
   ],
   [
