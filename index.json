@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-28, 19:11:24",
+      "https://lobste.rs/s/ve7vp5/sudo_make_install"
+    ],
+    [
+      "sudo make install",
+      "https://bvnf.space/blog/008-sudo-make-install.html"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 18:14:08",
       "https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes"
     ],
@@ -227,16 +237,6 @@
     [
       "What’s in a PR statement: LastPass breach explained",
       "https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 12:05:49",
-      "https://lobste.rs/s/wi75v7/code_coverage_for_goawk"
-    ],
-    [
-      "Code Coverage for GoAWK",
-      "https://maximullaris.com/goawk_cover.html"
     ]
   ],
   [
