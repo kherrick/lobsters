@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-28, 17:48:46",
+      "https://lobste.rs/s/izunm2/actually_using_ed_2012"
+    ],
+    [
+      "Actually using ed (2012)",
+      "https://blog.sanctum.geek.nz/actually-using-ed/"
+    ]
+  ],
+  [
+    [
+      "2022-12-28, 17:42:27",
+      "https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend"
+    ],
+    [
+      "lchat 1.0 - suckless ii chat frontend",
+      "https://tools.suckless.org/lchat/"
+    ]
+  ],
+  [
+    [
       "2022-12-28, 17:31:06",
       "https://lobste.rs/s/g7khf9/rethinking_classical_concurrency"
     ],
@@ -227,26 +247,6 @@
     [
       "More use of Rust is inevitable in open source software",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 08:24:25",
-      "https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit"
-    ],
-    [
-      "From resource forks to quarantine, ResEdit to Gatekeeper",
-      "https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/"
-    ]
-  ],
-  [
-    [
-      "2022-12-26, 17:31:05",
-      "https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop"
-    ],
-    [
-      "2022 was the year of Linux on the Desktop",
-      "https://www.justingarrison.com/blog/year-of-linux-desktop/"
     ]
   ]
 ]
