@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-28, 02:17:51](https://lobste.rs/s/9c3mh3/how_risc_v_timer_interrupts_work) - [How RISC-V Timer Interrupts Work](https://danielmangum.com/posts/risc-v-bytes-timer-interrupts/)
 * [2022-12-28, 01:50:48](https://lobste.rs/s/zwuvmi/blake3_one_function_fast_everywhere) - [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
 * [2022-12-28, 00:33:24](https://lobste.rs/s/leyhfu/leandromoreira_cdn_up_running_cdn_up) - [leandromoreira/cdn-up-and-running: CDN Up and Running - Building a CDN from Scratch](https://github.com/leandromoreira/cdn-up-and-running)
@@ -23,7 +24,6 @@
 * [2022-12-27, 00:48:19](https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial) - [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)
 * [2022-12-26, 19:10:53](https://lobste.rs/s/dxn7i0/how_blocklists_prevent_internet_be) - [How blocklists prevent the internet to be decentralized – and safe](https://blog.codeberg.org/how-blocklists-prevent-the-internet-to-be-decentralized-and-safe.html)
 * [2022-12-26, 19:06:08](https://lobste.rs/s/2wuc9q/managing_infrastructure_with_terraform) - [Managing infrastructure with Terraform, CDKTF, and NixOS](https://vincent.bernat.ch/en/blog/2022-cdktf-nixos)
-* [2022-12-26, 17:36:24](https://lobste.rs/s/bk9sqg/critical_program_reading_1975) - [Critical Program Reading (1975)](https://www.youtube.com/watch?v=7hdJQkn8rtA)
 * [2022-12-26, 17:31:05](https://lobste.rs/s/9tu4e7/2022_was_year_linux_on_desktop) - [2022 was the year of Linux on the Desktop](https://www.justingarrison.com/blog/year-of-linux-desktop/)
 
 ## [Archives](archives/index.md)
