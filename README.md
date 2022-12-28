@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 17:31:06](https://lobste.rs/s/g7khf9/rethinking_classical_concurrency) - [Rethinking Classical Concurrency Patterns [PDF]](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
 * [2022-12-28, 16:21:24](https://lobste.rs/s/ylcvzu/guided_intro_free_pascal_language) - [A Guided Intro to the Free Pascal Language](https://www.getlazarus.org/guides/intro/)
 * [2022-12-28, 16:00:51](https://lobste.rs/s/ueoszx/new_old_idea) - [A New Old Idea](https://systemstack.dev/2022/12/new-old-computer/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
@@ -15,7 +16,6 @@
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-28, 01:50:48](https://lobste.rs/s/zwuvmi/blake3_one_function_fast_everywhere) - [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
 * [2022-12-28, 00:33:24](https://lobste.rs/s/leyhfu/leandromoreira_cdn_up_running_cdn_up) - [leandromoreira/cdn-up-and-running: CDN Up and Running - Building a CDN from Scratch](https://github.com/leandromoreira/cdn-up-and-running)
-* [2022-12-28, 00:32:44](https://lobste.rs/s/utolth/view_practical_model_for_analyzing_long) - [View of A practical model for analyzing long tails](https://firstmonday.org/ojs/index.php/fm/article/view/1832/1716)
 * [2022-12-27, 20:59:26](https://lobste.rs/s/xnv977/lite_xl) - [Lite XL](https://lite-xl.com/)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 * [2022-12-27, 18:46:22](https://lobste.rs/s/c1takj/experimental_feature_gate_proposal) - [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
