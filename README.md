@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
 * [2022-12-28, 20:24:28](https://lobste.rs/s/l2gjom/2002_why_yenc_is_good_for_usenet) - [[2002] Why yEnc is Good for Usenet](https://web.archive.org/web/20050122070204/http://www.ser1.net/Files/Essays/yEnc.html)
@@ -9,7 +10,7 @@
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 * [2022-12-28, 17:31:06](https://lobste.rs/s/g7khf9/rethinking_classical_concurrency) - [Rethinking Classical Concurrency Patterns [PDF]](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
-* [2022-12-28, 16:21:24](https://lobste.rs/s/ylcvzu/guided_intro_free_pascal_language) - [A Guided Intro to the Free Pascal Language](https://www.getlazarus.org/guides/intro/)
+* [2022-12-28, 16:00:51](https://lobste.rs/s/ueoszx/new_old_idea) - [A New Old Idea](https://systemstack.dev/2022/12/new-old-computer/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
@@ -20,7 +21,6 @@
 * [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-28, 01:50:48](https://lobste.rs/s/zwuvmi/blake3_one_function_fast_everywhere) - [BLAKE3: One Function, Fast Everywhere](https://github.com/BLAKE3-team/BLAKE3-specs/raw/master/blake3.pdf)
-* [2022-12-27, 20:59:26](https://lobste.rs/s/xnv977/lite_xl) - [Lite XL](https://lite-xl.com/)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 * [2022-12-27, 18:44:31](https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one) - [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
 * [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
