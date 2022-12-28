@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
 * [2022-12-28, 14:31:00](https://lobste.rs/s/ebaatv/cache_world_turbo_charging_firefox) - [Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability](https://www.jantrid.net/2022/12/22/Cache-the-World/)
 * [2022-12-28, 14:24:51](https://lobste.rs/s/1u22xo/redos_vulnerabilities_misaligned) - [ReDoS \"vulnerabilities\" and misaligned incentives](https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives)
 * [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
 * [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
-* [2022-12-28, 12:41:37](https://lobste.rs/s/sngmpl/github_auct_uajax_universal_ajax_forms) - [GitHub - AucT/uajax: universal ajax forms [javascript]](https://github.com/AucT/uajax)
 * [2022-12-28, 11:14:57](https://lobste.rs/s/crmbqw/build_share_run_webassembly_apps_using) - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
 * [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
