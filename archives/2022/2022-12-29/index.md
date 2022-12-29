@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-29](index.md)
 
+* [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
+* [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
 * [2022-12-29, 09:29:49](https://lobste.rs/s/8ni6wp/lyrics_translations_for_currently) - [Lyrics and translations for currently playing song in your Spotify account](https://github.com/boratanrikulu/lirik.app)
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit_2005) - [Cache missing for fun and profit (2005)](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit) - [Cache missing for fun and profit](http://www.daemonology.net/papers/htt.pdf)
