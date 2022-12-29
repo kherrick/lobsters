@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-29](index.md)
 
+* [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit_2005) - [Cache missing for fun and profit (2005)](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit) - [Cache missing for fun and profit](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 * [2022-12-29, 07:52:27](https://lobste.rs/s/fmvhh4/explore_fediverse_use_block_like_it_s) - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
