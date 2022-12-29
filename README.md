@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 00:42:40](https://lobste.rs/s/digon6/building_over_engineered_emoji_webcam) - [Building an Over-Engineered Emoji Webcam Filter During the Holidays](https://jott.live/markdown/images_as_emoji)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
@@ -9,7 +10,6 @@
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
-* [2022-12-28, 17:31:06](https://lobste.rs/s/g7khf9/rethinking_classical_concurrency) - [Rethinking Classical Concurrency Patterns [PDF]](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
 * [2022-12-28, 16:00:51](https://lobste.rs/s/ueoszx/new_old_idea) - [A New Old Idea](https://systemstack.dev/2022/12/new-old-computer/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
