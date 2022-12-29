@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 05:10:46](https://lobste.rs/s/jwxkbx/rust_microservice_demo_with_mysql_crud) - [A Rust Microservice demo with MySQL CRUD Support](https://github.com/second-state/microservice-rust-mysql)
 * [2022-12-29, 04:56:14](https://lobste.rs/s/uh1dhx/upgrading_my_chumby_8_kernel_part_2) - [Upgrading my Chumby 8 kernel part 2: Initial Linux boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-chumby-8-kernel-part-2-initial-linux-boot/)
 * [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
@@ -22,7 +23,6 @@
 * [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
-* [2022-12-27, 18:44:31](https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one) - [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
 * [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
 
