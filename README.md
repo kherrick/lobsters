@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 16:06:41](https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with) - [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
 * [2022-12-29, 15:28:45](https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter) - [Over-Engineering an Emoji Webcam Filter with a Neural Network](https://jott.live/markdown/images_as_emoji)
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 * [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
@@ -7,7 +8,6 @@
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit_2005) - [Cache missing for fun and profit (2005)](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 * [2022-12-29, 07:10:04](https://lobste.rs/s/qsuzc1/more_mature_chatgpt_competitor_palm_rlhf) - [A more mature ChatGPT competitor? PaLM + RLHF - Pytorch (wip)](https://github.com/lucidrains/PaLM-rlhf-pytorch)
-* [2022-12-29, 06:10:04](https://lobste.rs/s/ohgntv/reverse_prompt_engineering_for_fun_no) - [Reverse Prompt Engineering for Fun and (no) Profit](https://lspace.swyx.io/p/reverse-prompt-eng)
 * [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
