@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-29](index.md)
 
+* [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
+* [2022-12-29, 23:43:42](https://lobste.rs/s/60aldf/50_years_c_good_bad_ugly) - [50 years of C, the good, the bad and the ugly](https://streaming.media.ccc.de/jev22/relive/49151)
 * [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 20:06:30](https://lobste.rs/s/avcvds/deploying_django_apps_with_github) - [Deploying Django apps with Github Actions and Django Up](https://brntn.me/blog/django-up-actions/)
 * [2022-12-29, 20:05:52](https://lobste.rs/s/es6md1/discovering_latent_knowledge_language) - [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
