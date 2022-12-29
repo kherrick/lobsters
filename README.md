@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 07:10:04](https://lobste.rs/s/qsuzc1/more_mature_chatgpt_competitor_palm_rlhf) - [A more mature ChatGPT competitor? PaLM + RLHF - Pytorch (wip)](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 * [2022-12-29, 06:10:04](https://lobste.rs/s/ohgntv/reverse_prompt_engineering_for_fun_no) - [Reverse Prompt Engineering for Fun and (no) Profit](https://lspace.swyx.io/p/reverse-prompt-eng)
 * [2022-12-29, 05:10:46](https://lobste.rs/s/jwxkbx/rust_microservice_demo_with_mysql_crud) - [A Rust Microservice demo with MySQL CRUD Support](https://github.com/second-state/microservice-rust-mysql)
 * [2022-12-29, 04:56:14](https://lobste.rs/s/uh1dhx/upgrading_my_chumby_8_kernel_part_2) - [Upgrading my Chumby 8 kernel part 2: Initial Linux boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-chumby-8-kernel-part-2-initial-linux-boot/)
@@ -21,7 +22,6 @@
 * [2022-12-28, 13:00:38](https://lobste.rs/s/umqivw/ultimate_single_page_app) - [The ultimate single-page app](https://blog.sesse.net/blog/tech/2022-12-27-00-07_the_ultimate_single_page_app.html)
 * [2022-12-28, 12:45:03](https://lobste.rs/s/fhyh6l/sql_m4_composable_sql) - [SQL + M4 = Composable SQL](https://emiruz.com/post/2022-12-28-composable-sql/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
-* [2022-12-28, 08:36:30](https://lobste.rs/s/xijtbo/advent_code_2022_on_mikromikko_4tt_m326) - [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022/)
 * [2022-12-28, 06:43:41](https://lobste.rs/s/shvfr8/zen_forth) - [the zen of forth](https://cohost.org/offset---cyan/post/728975-the-zen-of-forth)
 * [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
 * [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
