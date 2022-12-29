@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 07:52:27](https://lobste.rs/s/fmvhh4/explore_fediverse_use_block_like_it_s) - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
 * [2022-12-29, 07:10:04](https://lobste.rs/s/qsuzc1/more_mature_chatgpt_competitor_palm_rlhf) - [A more mature ChatGPT competitor? PaLM + RLHF - Pytorch (wip)](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 * [2022-12-29, 06:10:04](https://lobste.rs/s/ohgntv/reverse_prompt_engineering_for_fun_no) - [Reverse Prompt Engineering for Fun and (no) Profit](https://lspace.swyx.io/p/reverse-prompt-eng)
 * [2022-12-29, 05:10:46](https://lobste.rs/s/jwxkbx/rust_microservice_demo_with_mysql_crud) - [A Rust Microservice demo with MySQL CRUD Support](https://github.com/second-state/microservice-rust-mysql)
@@ -14,7 +15,6 @@
 * [2022-12-28, 18:14:08](https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes) - [SQLite's automatic indexes](https://misfra.me/2022/sqlite-automatic-indexes/)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
-* [2022-12-28, 16:00:51](https://lobste.rs/s/ueoszx/new_old_idea) - [A New Old Idea](https://systemstack.dev/2022/12/new-old-computer/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 * [2022-12-28, 14:45:23](https://lobste.rs/s/sh9bkn/26_languages_25_days_strategy_tactics) - [26 languages in 25 days: Strategy, tactics, logistics](https://matt.might.net/articles/26-languages-part1/)
 * [2022-12-28, 14:35:01](https://lobste.rs/s/3jpbz3/donald_knuth_s_2022_christmas_tree) - [Donald Knuth's 2022 'Christmas Tree' Lecture Is about Trees](https://thenewstack.io/donald-knuths-2022-christmas-tree-lecture-is-about-trees/)
