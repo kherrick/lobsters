@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-29, 21:12:31",
+      "https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix"
+    ],
+    [
+      "NixVim: Configure Neovim with Nix",
+      "https://github.com/pta2002/nixvim"
+    ]
+  ],
+  [
+    [
       "2022-12-29, 20:06:30",
       "https://lobste.rs/s/avcvds/deploying_django_apps_with_github"
     ],
@@ -97,16 +107,6 @@
     [
       "Love Rust? Then OCaml's New Eio Library is for You",
       "https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 07:10:04",
-      "https://lobste.rs/s/qsuzc1/more_mature_chatgpt_competitor_palm_rlhf"
-    ],
-    [
-      "A more mature ChatGPT competitor? PaLM + RLHF - Pytorch (wip)",
-      "https://github.com/lucidrains/PaLM-rlhf-pytorch"
     ]
   ],
   [
