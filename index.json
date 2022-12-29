@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-29, 20:06:30",
+      "https://lobste.rs/s/avcvds/deploying_django_apps_with_github"
+    ],
+    [
+      "Deploying Django apps with Github Actions and Django Up",
+      "https://brntn.me/blog/django-up-actions/"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 20:05:52",
+      "https://lobste.rs/s/es6md1/discovering_latent_knowledge_language"
+    ],
+    [
+      "Discovering Latent Knowledge in Language Models Without Supervision",
+      "https://arxiv.org/abs/2212.03827"
+    ]
+  ],
+  [
+    [
       "2022-12-29, 19:00:06",
       "https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-12-28, 18:14:08",
-      "https://lobste.rs/s/8njmmx/sqlite_s_automatic_indexes"
-    ],
-    [
-      "SQLite's automatic indexes",
-      "https://misfra.me/2022/sqlite-automatic-indexes/"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 17:48:46",
       "https://lobste.rs/s/izunm2/actually_using_ed_2012"
     ],
@@ -217,16 +227,6 @@
     [
       "ReDoS \"vulnerabilities\" and misaligned incentives",
       "https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 12:45:03",
-      "https://lobste.rs/s/fhyh6l/sql_m4_composable_sql"
-    ],
-    [
-      "SQL + M4 = Composable SQL",
-      "https://emiruz.com/post/2022-12-28-composable-sql/"
     ]
   ],
   [
