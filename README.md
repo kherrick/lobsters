@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 09:29:49](https://lobste.rs/s/8ni6wp/lyrics_translations_for_currently) - [Lyrics and translations for currently playing song in your Spotify account](https://github.com/boratanrikulu/lirik.app)
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit_2005) - [Cache missing for fun and profit (2005)](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 * [2022-12-29, 07:52:27](https://lobste.rs/s/fmvhh4/explore_fediverse_use_block_like_it_s) - [Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse](https://boyter.org/posts/mastinator-activitypub-breaking-assumptions/)
@@ -7,7 +8,6 @@
 * [2022-12-29, 06:10:04](https://lobste.rs/s/ohgntv/reverse_prompt_engineering_for_fun_no) - [Reverse Prompt Engineering for Fun and (no) Profit](https://lspace.swyx.io/p/reverse-prompt-eng)
 * [2022-12-29, 05:10:46](https://lobste.rs/s/jwxkbx/rust_microservice_demo_with_mysql_crud) - [A Rust Microservice demo with MySQL CRUD Support](https://github.com/second-state/microservice-rust-mysql)
 * [2022-12-29, 04:56:14](https://lobste.rs/s/uh1dhx/upgrading_my_chumby_8_kernel_part_2) - [Upgrading my Chumby 8 kernel part 2: Initial Linux boot](https://www.downtowndougbrown.com/2022/12/upgrading-my-chumby-8-kernel-part-2-initial-linux-boot/)
-* [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
