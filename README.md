@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 20:06:30](https://lobste.rs/s/avcvds/deploying_django_apps_with_github) - [Deploying Django apps with Github Actions and Django Up](https://brntn.me/blog/django-up-actions/)
 * [2022-12-29, 20:05:52](https://lobste.rs/s/es6md1/discovering_latent_knowledge_language) - [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 * [2022-12-29, 19:00:06](https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved) - [EndBASIC 0.10: Core language, evolved](https://jmmv.dev/2022/12/endbasic-0.10.html)
@@ -10,7 +11,6 @@
 * [2022-12-29, 09:29:49](https://lobste.rs/s/8ni6wp/lyrics_translations_for_currently) - [Lyrics and translations for currently playing song in your Spotify account](https://github.com/boratanrikulu/lirik.app)
 * [2022-12-29, 08:31:41](https://lobste.rs/s/gxx4wv/cache_missing_for_fun_profit_2005) - [Cache missing for fun and profit (2005)](http://www.daemonology.net/papers/htt.pdf)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
-* [2022-12-29, 07:10:04](https://lobste.rs/s/qsuzc1/more_mature_chatgpt_competitor_palm_rlhf) - [A more mature ChatGPT competitor? PaLM + RLHF - Pytorch (wip)](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 * [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-29](index.md)
 
+* [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 20:06:30](https://lobste.rs/s/avcvds/deploying_django_apps_with_github) - [Deploying Django apps with Github Actions and Django Up](https://brntn.me/blog/django-up-actions/)
 * [2022-12-29, 20:05:52](https://lobste.rs/s/es6md1/discovering_latent_knowledge_language) - [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 * [2022-12-29, 19:00:06](https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved) - [EndBASIC 0.10: Core language, evolved](https://jmmv.dev/2022/12/endbasic-0.10.html)
