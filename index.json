@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-29, 05:10:46",
+      "https://lobste.rs/s/jwxkbx/rust_microservice_demo_with_mysql_crud"
+    ],
+    [
+      "A Rust Microservice demo with MySQL CRUD Support",
+      "https://github.com/second-state/microservice-rust-mysql"
+    ]
+  ],
+  [
+    [
       "2022-12-29, 04:56:14",
       "https://lobste.rs/s/uh1dhx/upgrading_my_chumby_8_kernel_part_2"
     ],
@@ -217,16 +227,6 @@
     [
       "Mainlining Nexus 9: First Boot",
       "https://ansari.sh/posts/mainline-nexus-9-p1/"
-    ]
-  ],
-  [
-    [
-      "2022-12-27, 18:44:31",
-      "https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one"
-    ],
-    [
-      "Lessons Learnt From Solving AoC in One Second",
-      "https://blog.sulami.xyz/posts/aoc-in-one-second/"
     ]
   ],
   [
