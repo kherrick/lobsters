@@ -9,6 +9,7 @@
 * [2022-12-30, 14:30:50](https://lobste.rs/s/ictxhp/house_cards) - [A House of Cards](http://www.os2museum.com/wp/a-house-of-cards/)
 * [2022-12-30, 14:29:12](https://lobste.rs/s/6s2hjp/http_network_services_preview_r1_beta_4) - [HTTP Network Services Preview in R1 Beta 4](https://www.haiku-os.org/blog/nielx/2022-12-30_http_network_services_preview_in_r1_beta_4/)
 * [2022-12-30, 13:38:28](https://lobste.rs/s/wkzrxb/ocaml_multicore_eio_effects_based_direct) - [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
+* [2022-12-30, 12:38:20](https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small) - [Quickly checking that a string belongs to a small set](https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/)
 * [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
@@ -24,7 +25,6 @@
 * [2022-12-29, 16:06:41](https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with) - [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
 * [2022-12-29, 15:28:45](https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter) - [Over-Engineering an Emoji Webcam Filter with a Neural Network](https://jott.live/markdown/images_as_emoji)
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
-* [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 
 ## [Archives](archives/index.md)
 
