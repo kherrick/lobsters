@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 06:37:22](https://lobste.rs/s/fx3988/http_2_performance_revisited_on) - [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)
 * [2022-12-30, 06:25:00](https://lobste.rs/s/uriveu/getting_first_picture_on_my_nezha_risc_v) - [Getting a First Picture on my Nezha RISC-V Board](https://cordlandwehr.wordpress.com/2022/12/29/getting-a-first-picture-on-my-nezha-risc-v-board/)
 * [2022-12-30, 06:22:26](https://lobste.rs/s/i4e2ll/don_t_use_shared_ptr_s_aliasing) - [Don’t Use shared_ptr’s Aliasing Constructor](https://ibob.bg/blog/2022/12/28/dont-use-shared_ptr-aliasing-ctor/)
@@ -17,7 +18,6 @@
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 * [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
-* [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)

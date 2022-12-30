@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 06:37:22](https://lobste.rs/s/fx3988/http_2_performance_revisited_on) - [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)
 * [2022-12-30, 06:25:00](https://lobste.rs/s/uriveu/getting_first_picture_on_my_nezha_risc_v) - [Getting a First Picture on my Nezha RISC-V Board](https://cordlandwehr.wordpress.com/2022/12/29/getting-a-first-picture-on-my-nezha-risc-v-board/)
 * [2022-12-30, 06:22:26](https://lobste.rs/s/i4e2ll/don_t_use_shared_ptr_s_aliasing) - [Don’t Use shared_ptr’s Aliasing Constructor](https://ibob.bg/blog/2022/12/28/dont-use-shared_ptr-aliasing-ctor/)
