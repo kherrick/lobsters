@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 06:53:16",
+      "https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced"
+    ],
+    [
+      "Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)",
+      "https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 06:37:22",
       "https://lobste.rs/s/fx3988/http_2_performance_revisited_on"
     ],
@@ -167,16 +177,6 @@
     [
       "Love Rust? Then OCaml's New Eio Library is for You",
       "https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 03:24:48",
-      "https://lobste.rs/s/nrdcvs/hash_collision_probabilities"
-    ],
-    [
-      "Hash Collision Probabilities",
-      "https://preshing.com/20110504/hash-collision-probabilities/"
     ]
   ],
   [
