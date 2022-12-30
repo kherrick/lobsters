@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 18:42:59",
+      "https://lobste.rs/s/xqpbyu/phoenix_1_7_is_view_less"
+    ],
+    [
+      "Phoenix 1.7 is View-less",
+      "https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 18:37:36",
       "https://lobste.rs/s/e74ev8/postgresql_software_development"
     ],
@@ -197,16 +207,6 @@
     [
       "Deploying Django apps with Github Actions and Django Up",
       "https://brntn.me/blog/django-up-actions/"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 19:00:06",
-      "https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved"
-    ],
-    [
-      "EndBASIC 0.10: Core language, evolved",
-      "https://jmmv.dev/2022/12/endbasic-0.10.html"
     ]
   ],
   [
