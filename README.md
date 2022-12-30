@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 16:16:50](https://lobste.rs/s/vcovay/taste_pavex_upcoming_rust_web_framework) - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
@@ -17,7 +18,6 @@
 * [2022-12-30, 05:18:13](https://lobste.rs/s/kznz47/beyond_coding_we_forge_forgejo_project_is) - [Beyond coding. We forge: The Forgejo project is now live](https://forgejo.org/2022-12-15-hello-forgejo/)
 * [2022-12-30, 02:48:48](https://lobste.rs/s/pom2qn/sup) - [sup](https://drew.shoes/posts/sup/)
 * [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
-* [2022-12-29, 23:43:42](https://lobste.rs/s/60aldf/50_years_c_good_bad_ugly) - [50 years of C, the good, the bad and the ugly](https://streaming.media.ccc.de/jev22/relive/49151)
 * [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 20:06:30](https://lobste.rs/s/avcvds/deploying_django_apps_with_github) - [Deploying Django apps with Github Actions and Django Up](https://brntn.me/blog/django-up-actions/)
 * [2022-12-29, 19:00:06](https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved) - [EndBASIC 0.10: Core language, evolved](https://jmmv.dev/2022/12/endbasic-0.10.html)
