@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2022-12-30, 08:36:58",
-      "https://lobste.rs/s/yhyqoz/sgcl_real_time_garbage_collector_for_c"
-    ],
-    [
-      "sgcl: A real-time Garbage Collector for C++",
-      "https://github.com/pebal/sgcl"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 07:27:25",
       "https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio"
     ],
@@ -207,6 +197,16 @@
     [
       "Deploying Django apps with Github Actions and Django Up",
       "https://brntn.me/blog/django-up-actions/"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 19:00:06",
+      "https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved"
+    ],
+    [
+      "EndBASIC 0.10: Core language, evolved",
+      "https://jmmv.dev/2022/12/endbasic-0.10.html"
     ]
   ],
   [
