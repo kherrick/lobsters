@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 08:36:58](https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage) - [GitHub - pebal/sgcl: A real-time Garbage Collector for C++](https://github.com/pebal/sgcl)
 * [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
