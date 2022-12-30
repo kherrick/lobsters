@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 12:38:20](https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small) - [Quickly checking that a string belongs to a small set](https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/)
 * [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
@@ -24,7 +25,6 @@
 * [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
-* [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 
 ## [Archives](archives/index.md)
 
