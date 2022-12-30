@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
 * [2022-12-30, 09:13:26](https://lobste.rs/s/txrbny/how_i_keep_my_work_life_organized_with) - [How I keep my work life organized with Notion](https://jaywhy13.hashnode.dev/how-i-keep-my-work-life-organized-with-notion)
