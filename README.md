@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 06:37:22](https://lobste.rs/s/fx3988/http_2_performance_revisited_on) - [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)
@@ -22,7 +23,6 @@
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
-* [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
 
