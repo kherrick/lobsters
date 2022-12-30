@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 12:38:20",
+      "https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small"
+    ],
+    [
+      "Quickly checking that a string belongs to a small set",
+      "https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 12:02:55",
       "https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Are we web yet? Yes, and it's freaking fast",
       "https://www.arewewebyet.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 17:42:27",
-      "https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend"
-    ],
-    [
-      "lchat 1.0 - suckless ii chat frontend",
-      "https://tools.suckless.org/lchat/"
     ]
   ]
 ]
