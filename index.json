@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 22:59:30",
+      "https://lobste.rs/s/w37ie2/why_i_recommend_ditching_lastpass"
+    ],
+    [
+      "Why I recommend ditching LastPass",
+      "https://infosec.exchange/@epixoip/109585049354200263"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 22:21:48",
       "https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion"
     ],
@@ -137,16 +147,6 @@
     [
       "Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II",
       "https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 07:27:25",
-      "https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio"
-    ],
-    [
-      "How (and why) nextest uses tokio",
-      "https://sunshowers.io/posts/nextest-and-tokio/"
     ]
   ],
   [
