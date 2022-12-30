@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 18:37:36](https://lobste.rs/s/e74ev8/postgresql_software_development) - [PostgreSQL and Software Development](https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/)
 * [2022-12-30, 16:16:50](https://lobste.rs/s/vcovay/taste_pavex_upcoming_rust_web_framework) - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
