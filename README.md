@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
 * [2022-12-30, 14:30:50](https://lobste.rs/s/ictxhp/house_cards) - [A House of Cards](http://www.os2museum.com/wp/a-house-of-cards/)
@@ -23,7 +24,6 @@
 * [2022-12-29, 16:06:41](https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with) - [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
 * [2022-12-29, 15:28:45](https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter) - [Over-Engineering an Emoji Webcam Filter with a Neural Network](https://jott.live/markdown/images_as_emoji)
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
-* [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 
 ## [Archives](archives/index.md)
