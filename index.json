@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2022-12-30, 09:13:26",
-      "https://lobste.rs/s/txrbny/how_i_keep_my_work_life_organized_with"
-    ],
-    [
-      "How I keep my work life organized with Notion",
-      "https://jaywhy13.hashnode.dev/how-i-keep-my-work-life-organized-with-notion"
-    ]
-  ],
-  [
-    [
       "2022-12-30, 08:36:58",
-      "https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage"
+      "https://lobste.rs/s/yhyqoz/sgcl_real_time_garbage_collector_for_c"
     ],
     [
-      "GitHub - pebal/sgcl: A real-time Garbage Collector for C++",
+      "sgcl: A real-time Garbage Collector for C++",
       "https://github.com/pebal/sgcl"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "Deploying Django apps with Github Actions and Django Up",
       "https://brntn.me/blog/django-up-actions/"
+    ]
+  ],
+  [
+    [
+      "2022-12-29, 20:05:52",
+      "https://lobste.rs/s/es6md1/discovering_latent_knowledge_language"
+    ],
+    [
+      "Discovering Latent Knowledge in Language Models Without Supervision",
+      "https://arxiv.org/abs/2212.03827"
     ]
   ],
   [
