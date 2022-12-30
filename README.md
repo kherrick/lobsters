@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 06:25:00](https://lobste.rs/s/uriveu/getting_first_picture_on_my_nezha_risc_v) - [Getting a First Picture on my Nezha RISC-V Board](https://cordlandwehr.wordpress.com/2022/12/29/getting-a-first-picture-on-my-nezha-risc-v-board/)
+* [2022-12-30, 06:22:26](https://lobste.rs/s/i4e2ll/don_t_use_shared_ptr_s_aliasing) - [Don’t Use shared_ptr’s Aliasing Constructor](https://ibob.bg/blog/2022/12/28/dont-use-shared_ptr-aliasing-ctor/)
 * [2022-12-30, 05:18:13](https://lobste.rs/s/kznz47/beyond_coding_we_forge_forgejo_project_is) - [Beyond coding. We forge: The Forgejo project is now live](https://forgejo.org/2022-12-15-hello-forgejo/)
 * [2022-12-30, 02:49:37](https://lobste.rs/s/cjlpna/through_looking_glass_w_data_rabbit) - [Through the looking glass w Data Rabbit: \"A System built for Seeing\"](https://www.youtube.com/watch?v=bXRDfxp_4H0)
 * [2022-12-30, 02:48:48](https://lobste.rs/s/pom2qn/sup) - [sup](https://drew.shoes/posts/sup/)
@@ -16,10 +18,8 @@
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
 * [2022-12-29, 03:24:48](https://lobste.rs/s/nrdcvs/hash_collision_probabilities) - [Hash Collision Probabilities](https://preshing.com/20110504/hash-collision-probabilities/)
 * [2022-12-28, 22:58:16](https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted) - [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert)
-* [2022-12-28, 22:28:24](https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing) - [Big-O matters, but it's often memory that's killing your performance](https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html)
 * [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
-* [2022-12-28, 19:11:24](https://lobste.rs/s/ve7vp5/sudo_make_install) - [sudo make install](https://bvnf.space/blog/008-sudo-make-install.html)
 * [2022-12-28, 17:48:46](https://lobste.rs/s/izunm2/actually_using_ed_2012) - [Actually using ed (2012)](https://blog.sanctum.geek.nz/actually-using-ed/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 * [2022-12-28, 15:09:26](https://lobste.rs/s/pufzbe/my_age_yubikeys_password_management) - [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
