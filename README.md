@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 22:59:30](https://lobste.rs/s/w37ie2/why_i_recommend_ditching_lastpass) - [Why I recommend ditching LastPass](https://infosec.exchange/@epixoip/109585049354200263)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 21:06:00](https://lobste.rs/s/azz7en/digital_security_coach) - [Digital Security Coach](https://www.digitalsecuritycoach.com/)
 * [2022-12-30, 18:42:59](https://lobste.rs/s/xqpbyu/phoenix_1_7_is_view_less) - [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
@@ -14,7 +15,6 @@
 * [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
-* [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 06:37:22](https://lobste.rs/s/fx3988/http_2_performance_revisited_on) - [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)

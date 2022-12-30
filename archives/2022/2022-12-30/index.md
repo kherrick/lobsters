@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 22:59:30](https://lobste.rs/s/w37ie2/why_i_recommend_ditching_lastpass) - [Why I recommend ditching LastPass](https://infosec.exchange/@epixoip/109585049354200263)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 21:06:00](https://lobste.rs/s/azz7en/digital_security_coach) - [Digital Security Coach](https://www.digitalsecuritycoach.com/)
 * [2022-12-30, 19:41:55](https://lobste.rs/s/hhlytp/minimalist_hugo_theme_designed_for) - [A minimalist Hugo theme designed for portfolio sites](https://github.com/boratanrikulu/eternity)
