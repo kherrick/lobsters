@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2022-12-30, 12:38:20",
+      "https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small"
+    ],
+    [
+      "Quickly checking that a string belongs to a small set",
+      "https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 12:02:55",
       "https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Turning Google smart speakers into wiretaps for $100k",
       "https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 08:17:44",
-      "https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is"
-    ],
-    [
-      "Love Rust? Then OCaml's New Eio Library is for You",
-      "https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you"
     ]
   ]
 ]
