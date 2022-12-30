@@ -2,8 +2,7 @@
 
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
-* [2022-12-30, 09:13:26](https://lobste.rs/s/txrbny/how_i_keep_my_work_life_organized_with) - [How I keep my work life organized with Notion](https://jaywhy13.hashnode.dev/how-i-keep-my-work-life-organized-with-notion)
-* [2022-12-30, 08:36:58](https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage) - [GitHub - pebal/sgcl: A real-time Garbage Collector for C++](https://github.com/pebal/sgcl)
+* [2022-12-30, 08:36:58](https://lobste.rs/s/yhyqoz/sgcl_real_time_garbage_collector_for_c) - [sgcl: A real-time Garbage Collector for C++](https://github.com/pebal/sgcl)
 * [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
@@ -17,6 +16,7 @@
 * [2022-12-29, 23:43:42](https://lobste.rs/s/60aldf/50_years_c_good_bad_ugly) - [50 years of C, the good, the bad and the ugly](https://streaming.media.ccc.de/jev22/relive/49151)
 * [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 20:06:30](https://lobste.rs/s/avcvds/deploying_django_apps_with_github) - [Deploying Django apps with Github Actions and Django Up](https://brntn.me/blog/django-up-actions/)
+* [2022-12-29, 20:05:52](https://lobste.rs/s/es6md1/discovering_latent_knowledge_language) - [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 * [2022-12-29, 19:00:06](https://lobste.rs/s/f6vauy/endbasic_0_10_core_language_evolved) - [EndBASIC 0.10: Core language, evolved](https://jmmv.dev/2022/12/endbasic-0.10.html)
 * [2022-12-29, 16:06:41](https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with) - [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
 * [2022-12-29, 15:28:45](https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter) - [Over-Engineering an Emoji Webcam Filter with a Neural Network](https://jott.live/markdown/images_as_emoji)
