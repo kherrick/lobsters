@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 22:21:48",
+      "https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion"
+    ],
+    [
+      "Learning Rust in 2023: A Call For Discussion",
+      "https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 21:06:00",
       "https://lobste.rs/s/azz7en/digital_security_coach"
     ],
@@ -207,16 +217,6 @@
     [
       "NixVim: Configure Neovim with Nix",
       "https://github.com/pta2002/nixvim"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 20:06:30",
-      "https://lobste.rs/s/avcvds/deploying_django_apps_with_github"
-    ],
-    [
-      "Deploying Django apps with Github Actions and Django Up",
-      "https://brntn.me/blog/django-up-actions/"
     ]
   ],
   [
