@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 08:36:58",
+      "https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage"
+    ],
+    [
+      "GitHub - pebal/sgcl: A real-time Garbage Collector for C++",
+      "https://github.com/pebal/sgcl"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 07:27:25",
       "https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio"
     ],
@@ -197,16 +207,6 @@
     [
       "Love Rust? Then OCaml's New Eio Library is for You",
       "https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 22:58:16",
-      "https://lobste.rs/s/axio9h/easy_alternative_soft_deletion_deleted"
-    ],
-    [
-      "Easy, alternative soft deletion: `deleted_record_insert`",
-      "https://brandur.org/fragments/deleted-record-insert"
     ]
   ],
   [
