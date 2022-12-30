@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 09:13:26](https://lobste.rs/s/txrbny/how_i_keep_my_work_life_organized_with) - [How I keep my work life organized with Notion](https://jaywhy13.hashnode.dev/how-i-keep-my-work-life-organized-with-notion)
 * [2022-12-30, 08:36:58](https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage) - [GitHub - pebal/sgcl: A real-time Garbage Collector for C++](https://github.com/pebal/sgcl)
 * [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)

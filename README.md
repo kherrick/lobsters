@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 09:13:26](https://lobste.rs/s/txrbny/how_i_keep_my_work_life_organized_with) - [How I keep my work life organized with Notion](https://jaywhy13.hashnode.dev/how-i-keep-my-work-life-organized-with-notion)
 * [2022-12-30, 08:36:58](https://lobste.rs/s/yhyqoz/github_pebal_sgcl_real_time_garbage) - [GitHub - pebal/sgcl: A real-time Garbage Collector for C++](https://github.com/pebal/sgcl)
 * [2022-12-30, 07:27:25](https://lobste.rs/s/5eswaw/how_why_nextest_uses_tokio) - [How (and why) nextest uses tokio](https://sunshowers.io/posts/nextest-and-tokio/)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
@@ -21,7 +22,6 @@
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 * [2022-12-29, 14:12:23](https://lobste.rs/s/cy4qx8/decentralized_chaos_germany) - [Decentralized Chaos In Germany](https://hackaday.com/2022/12/28/decentralized-chaos-in-germany/)
 * [2022-12-29, 08:17:44](https://lobste.rs/s/8u6hbc/love_rust_then_ocaml_s_new_eio_library_is) - [Love Rust? Then OCaml's New Eio Library is for You](https://tarides.com/blog/2022-12-27-love-rust-then-ocaml-s-new-eio-library-is-for-you)
-* [2022-12-28, 20:53:19](https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented) - [The PS2 memory card menu is no longer patented](https://patents.google.com/patent/US6693606)
 * [2022-12-28, 20:42:42](https://lobste.rs/s/pnm993/are_we_web_yet_yes_it_s_freaking_fast) - [Are we web yet? Yes, and it's freaking fast](https://www.arewewebyet.org/)
 * [2022-12-28, 17:42:27](https://lobste.rs/s/ierrtn/lchat_1_0_suckless_ii_chat_frontend) - [lchat 1.0 - suckless ii chat frontend](https://tools.suckless.org/lchat/)
 * [2022-12-28, 10:48:46](https://lobste.rs/s/m7efzy/pa_simple_password_manager_based_on_age) - [pa - a simple password manager based on age](https://github.com/biox/pa)
