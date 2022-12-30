@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-30, 23:22:28](https://lobste.rs/s/7siipy/pomsky_portable_modern_regular) - [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
 * [2022-12-30, 22:59:30](https://lobste.rs/s/w37ie2/why_i_recommend_ditching_lastpass) - [Why I recommend ditching LastPass](https://infosec.exchange/@epixoip/109585049354200263)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 21:06:00](https://lobste.rs/s/azz7en/digital_security_coach) - [Digital Security Coach](https://www.digitalsecuritycoach.com/)
@@ -11,7 +12,6 @@
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
 * [2022-12-30, 14:29:12](https://lobste.rs/s/6s2hjp/http_network_services_preview_r1_beta_4) - [HTTP Network Services Preview in R1 Beta 4](https://www.haiku-os.org/blog/nielx/2022-12-30_http_network_services_preview_in_r1_beta_4/)
 * [2022-12-30, 13:38:28](https://lobste.rs/s/wkzrxb/ocaml_multicore_eio_effects_based_direct) - [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
-* [2022-12-30, 12:38:20](https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small) - [Quickly checking that a string belongs to a small set](https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/)
 * [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
 * [2022-12-30, 10:12:01](https://lobste.rs/s/xcmoih/aligning_language_models_follow) - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
 * [2022-12-30, 10:05:02](https://lobste.rs/s/6amijr/another_weird_mos_pong_console_1976) - [Another weird MOS Pong console: 1976 Allied Leisure Name of the Game II](https://oldvcr.blogspot.com/2022/12/another-weird-mos-pong-console-1976.html)
