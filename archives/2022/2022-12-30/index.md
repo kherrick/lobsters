@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-30](index.md)
 
+* [2022-12-30, 19:41:55](https://lobste.rs/s/hhlytp/minimalist_hugo_theme_designed_for) - [A minimalist Hugo theme designed for portfolio sites](https://github.com/boratanrikulu/eternity)
 * [2022-12-30, 18:42:59](https://lobste.rs/s/xqpbyu/phoenix_1_7_is_view_less) - [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
 * [2022-12-30, 18:37:36](https://lobste.rs/s/e74ev8/postgresql_software_development) - [PostgreSQL and Software Development](https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/)
 * [2022-12-30, 16:16:50](https://lobste.rs/s/vcovay/taste_pavex_upcoming_rust_web_framework) - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
