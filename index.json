@@ -1,6 +1,26 @@
 [
   [
     [
+      "2022-12-30, 06:25:00",
+      "https://lobste.rs/s/uriveu/getting_first_picture_on_my_nezha_risc_v"
+    ],
+    [
+      "Getting a First Picture on my Nezha RISC-V Board",
+      "https://cordlandwehr.wordpress.com/2022/12/29/getting-a-first-picture-on-my-nezha-risc-v-board/"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 06:22:26",
+      "https://lobste.rs/s/i4e2ll/don_t_use_shared_ptr_s_aliasing"
+    ],
+    [
+      "Don’t Use shared_ptr’s Aliasing Constructor",
+      "https://ibob.bg/blog/2022/12/28/dont-use-shared_ptr-aliasing-ctor/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 05:18:13",
       "https://lobste.rs/s/kznz47/beyond_coding_we_forge_forgejo_project_is"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2022-12-28, 22:28:24",
-      "https://lobste.rs/s/surk5k/big_o_matters_it_s_often_memory_s_killing"
-    ],
-    [
-      "Big-O matters, but it's often memory that's killing your performance",
-      "https://cocoaphony.micro.blog/2022/12/28/bigo-matters-but.html"
-    ]
-  ],
-  [
-    [
       "2022-12-28, 20:53:19",
       "https://lobste.rs/s/xaevx0/ps2_memory_card_menu_is_no_longer_patented"
     ],
@@ -187,16 +197,6 @@
     [
       "Are we web yet? Yes, and it's freaking fast",
       "https://www.arewewebyet.org/"
-    ]
-  ],
-  [
-    [
-      "2022-12-28, 19:11:24",
-      "https://lobste.rs/s/ve7vp5/sudo_make_install"
-    ],
-    [
-      "sudo make install",
-      "https://bvnf.space/blog/008-sudo-make-install.html"
     ]
   ],
   [
