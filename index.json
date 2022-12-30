@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-30, 18:37:36",
+      "https://lobste.rs/s/e74ev8/postgresql_software_development"
+    ],
+    [
+      "PostgreSQL and Software Development",
+      "https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 16:16:50",
       "https://lobste.rs/s/vcovay/taste_pavex_upcoming_rust_web_framework"
     ],
@@ -67,16 +77,6 @@
     [
       "ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml",
       "https://github.com/ocaml-multicore/eio"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 12:38:20",
-      "https://lobste.rs/s/vdqmht/quickly_checking_string_belongs_small"
-    ],
-    [
-      "Quickly checking that a string belongs to a small set",
-      "https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/"
     ]
   ],
   [
