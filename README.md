@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-31, 19:59:51](https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript) - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
 * [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 19:15:47](https://lobste.rs/s/murzfy/survey_security_mitigations) - [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
 * [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
@@ -22,7 +23,6 @@
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 06:37:22](https://lobste.rs/s/fx3988/http_2_performance_revisited_on) - [HTTP/2 performance revisited on the Wikimedia CDN](https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/)
-* [2022-12-30, 05:18:13](https://lobste.rs/s/kznz47/beyond_coding_we_forge_forgejo_project_is) - [Beyond coding. We forge: The Forgejo project is now live](https://forgejo.org/2022-12-15-hello-forgejo/)
 * [2022-12-30, 02:48:48](https://lobste.rs/s/pom2qn/sup) - [sup](https://drew.shoes/posts/sup/)
 * [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 
