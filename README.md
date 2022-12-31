@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2022-12-31, 18:08:09](https://lobste.rs/s/f7kjce/fediverse_observer) - [Fediverse Observer](https://fediverse.observer/)
-* [2022-12-31, 17:34:57](https://lobste.rs/s/tkcqn2/is_one_free_from_legal_responsibility_if) - [Is one free from legal responsibility if the intellectual property has passed the plagiarism check software?](https://law.stackexchange.com/questions/87396/is-one-free-from-legal-responsibility-if-the-intellectual-property-has-passed-th)
 * [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
 * [2022-12-31, 14:07:53](https://lobste.rs/s/teznua/sprite_animation_toolkit_1992_1999) - [sprite animation toolkit (1992-1999)](https://dev-nonsense.com/posts/sprite-animation-toolkit/)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
@@ -18,6 +17,7 @@
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
+* [2022-12-30, 14:29:12](https://lobste.rs/s/6s2hjp/http_network_services_preview_r1_beta_4) - [HTTP Network Services Preview in R1 Beta 4](https://www.haiku-os.org/blog/nielx/2022-12-30_http_network_services_preview_in_r1_beta_4/)
 * [2022-12-30, 13:38:28](https://lobste.rs/s/wkzrxb/ocaml_multicore_eio_effects_based_direct) - [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
 * [2022-12-30, 07:02:08](https://lobste.rs/s/5wc2k3/you_don_t_always_need_queue) - [You don't always need a queue](https://jaywhy13.hashnode.dev/you-dont-always-need-a-queue)
 * [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
