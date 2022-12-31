@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-31](index.md)
 
+* [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2022-12-31, 19:59:51](https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript) - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
 * [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 19:15:47](https://lobste.rs/s/murzfy/survey_security_mitigations) - [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
