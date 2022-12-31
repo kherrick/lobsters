@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-31](index.md)
 
+* [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
+* [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
 * [2022-12-31, 09:25:29](https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols) - [Emacs: Macro me some SF Symbols](https://xenodium.com/emacs-macro-me-some-sf-symbols/)
 * [2022-12-31, 06:55:59](https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer) - [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb)
