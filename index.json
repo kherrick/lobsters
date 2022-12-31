@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-31, 09:25:29",
+      "https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols"
+    ],
+    [
+      "Emacs: Macro me some SF Symbols",
+      "https://xenodium.com/emacs-macro-me-some-sf-symbols/"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 06:55:59",
       "https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer"
     ],
@@ -97,16 +107,6 @@
     [
       "Nixpkgs support for Linux builders running on macOS",
       "https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 14:30:50",
-      "https://lobste.rs/s/ictxhp/house_cards"
-    ],
-    [
-      "A House of Cards",
-      "http://www.os2museum.com/wp/a-house-of-cards/"
     ]
   ],
   [
