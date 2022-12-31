@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-31, 04:14:31](https://lobste.rs/s/lj7ib7/state_http_2022) - [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 * [2022-12-31, 00:16:56](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python) - [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 * [2022-12-30, 23:22:28](https://lobste.rs/s/7siipy/pomsky_portable_modern_regular) - [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 21:06:00](https://lobste.rs/s/azz7en/digital_security_coach) - [Digital Security Coach](https://www.digitalsecuritycoach.com/)
 * [2022-12-30, 18:42:59](https://lobste.rs/s/xqpbyu/phoenix_1_7_is_view_less) - [Phoenix 1.7 is View-less](https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less)
-* [2022-12-30, 18:37:36](https://lobste.rs/s/e74ev8/postgresql_software_development) - [PostgreSQL and Software Development](https://hdombrovskaya.wordpress.com/2022/12/29/pgsql-phriday-004-postgresql-and-software-development/)
 * [2022-12-30, 16:16:50](https://lobste.rs/s/vcovay/taste_pavex_upcoming_rust_web_framework) - [A taste of pavex, an upcoming Rust web framework](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/)
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
