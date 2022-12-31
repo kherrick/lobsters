@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2022-12-31](index.md)
 
+* [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
+* [2022-12-31, 14:07:53](https://lobste.rs/s/teznua/sprite_animation_toolkit_1992_1999) - [sprite animation toolkit (1992-1999)](https://dev-nonsense.com/posts/sprite-animation-toolkit/)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
