@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-31, 19:59:51",
+      "https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript"
+    ],
+    [
+      "Draw SVG rope using JavaScript",
+      "https://muffinman.io/blog/draw-svg-rope-using-javascript/"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 19:18:49",
       "https://lobste.rs/s/swyzad/helenos_0_12_1_released"
     ],
@@ -217,16 +227,6 @@
     [
       "HTTP/2 performance revisited on the Wikimedia CDN",
       "https://techblog.wikimedia.org/2022/11/04/http-2-performance-revisited/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 05:18:13",
-      "https://lobste.rs/s/kznz47/beyond_coding_we_forge_forgejo_project_is"
-    ],
-    [
-      "Beyond coding. We forge: The Forgejo project is now live",
-      "https://forgejo.org/2022-12-15-hello-forgejo/"
     ]
   ],
   [
