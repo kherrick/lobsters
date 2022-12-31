@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-31, 09:25:29](https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols) - [Emacs: Macro me some SF Symbols](https://xenodium.com/emacs-macro-me-some-sf-symbols/)
 * [2022-12-31, 06:55:59](https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer) - [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb)
 * [2022-12-31, 04:14:31](https://lobste.rs/s/lj7ib7/state_http_2022) - [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 * [2022-12-31, 00:16:56](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python) - [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
@@ -10,7 +11,6 @@
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
-* [2022-12-30, 14:30:50](https://lobste.rs/s/ictxhp/house_cards) - [A House of Cards](http://www.os2museum.com/wp/a-house-of-cards/)
 * [2022-12-30, 14:29:12](https://lobste.rs/s/6s2hjp/http_network_services_preview_r1_beta_4) - [HTTP Network Services Preview in R1 Beta 4](https://www.haiku-os.org/blog/nielx/2022-12-30_http_network_services_preview_in_r1_beta_4/)
 * [2022-12-30, 13:38:28](https://lobste.rs/s/wkzrxb/ocaml_multicore_eio_effects_based_direct) - [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
 * [2022-12-30, 12:02:55](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kuqe3d/what_are_you_doing_this_weekend)
