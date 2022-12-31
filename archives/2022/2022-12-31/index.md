@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-31](index.md)
 
+* [2022-12-31, 17:34:57](https://lobste.rs/s/tkcqn2/is_one_free_from_legal_responsibility_if) - [Is one free from legal responsibility if the intellectual property has passed the plagiarism check software?](https://law.stackexchange.com/questions/87396/is-one-free-from-legal-responsibility-if-the-intellectual-property-has-passed-th)
 * [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
 * [2022-12-31, 14:07:53](https://lobste.rs/s/teznua/sprite_animation_toolkit_1992_1999) - [sprite animation toolkit (1992-1999)](https://dev-nonsense.com/posts/sprite-animation-toolkit/)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
