@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2022-12-31, 00:16:56](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python) - [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 * [2022-12-30, 23:22:28](https://lobste.rs/s/7siipy/pomsky_portable_modern_regular) - [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
 * [2022-12-30, 22:59:30](https://lobste.rs/s/w37ie2/why_i_recommend_ditching_lastpass) - [Why I recommend ditching LastPass](https://infosec.exchange/@epixoip/109585049354200263)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
@@ -23,7 +24,6 @@
 * [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2022-12-29, 21:12:31](https://lobste.rs/s/iuohwc/nixvim_configure_neovim_with_nix) - [NixVim: Configure Neovim with Nix](https://github.com/pta2002/nixvim)
 * [2022-12-29, 16:06:41](https://lobste.rs/s/ifw4i3/what_we_do_etc_shadow_cryptography_with) - [What We Do in the /etc/shadow – Cryptography with Passwords](https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/)
-* [2022-12-29, 15:28:45](https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter) - [Over-Engineering an Emoji Webcam Filter with a Neural Network](https://jott.live/markdown/images_as_emoji)
 * [2022-12-29, 14:14:44](https://lobste.rs/s/6e7clu/turning_google_smart_speakers_into) - [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)
 
 ## [Archives](archives/index.md)
