@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2022-12-31](index.md)
 
+* [2022-12-31, 19:15:47](https://lobste.rs/s/murzfy/survey_security_mitigations) - [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
 * [2022-12-31, 18:08:09](https://lobste.rs/s/f7kjce/fediverse_observer) - [Fediverse Observer](https://fediverse.observer/)
 * [2022-12-31, 17:34:57](https://lobste.rs/s/tkcqn2/is_one_free_from_legal_responsibility_if) - [Is one free from legal responsibility if the intellectual property has passed the plagiarism check software?](https://law.stackexchange.com/questions/87396/is-one-free-from-legal-responsibility-if-the-intellectual-property-has-passed-th)
 * [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
