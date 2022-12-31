@@ -1,6 +1,16 @@
 [
   [
     [
+      "2022-12-31, 00:16:56",
+      "https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python"
+    ],
+    [
+      "Why I wrote a SQL engine in (only) Python",
+      "https://github.com/marsupialtail/quokka/blob/master/blog/why.md"
+    ]
+  ],
+  [
+    [
       "2022-12-30, 23:22:28",
       "https://lobste.rs/s/7siipy/pomsky_portable_modern_regular"
     ],
@@ -227,16 +237,6 @@
     [
       "What We Do in the /etc/shadow – Cryptography with Passwords",
       "https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/"
-    ]
-  ],
-  [
-    [
-      "2022-12-29, 15:28:45",
-      "https://lobste.rs/s/y4ng4u/over_engineering_emoji_webcam_filter"
-    ],
-    [
-      "Over-Engineering an Emoji Webcam Filter with a Neural Network",
-      "https://jott.live/markdown/images_as_emoji"
     ]
   ],
   [
