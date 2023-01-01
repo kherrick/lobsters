@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 17:01:24",
+      "https://lobste.rs/s/hxweil/rockstar_is_language_designed_for"
+    ],
+    [
+      "Rockstar is a language designed for creating programs that are also power metal ballads",
+      "https://codewithrockstar.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 16:47:03",
       "https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2023-01-01, 15:32:03",
-      "https://lobste.rs/s/yjjbl0/github_jafarlihi_modreveal_utility_find"
+      "https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux"
     ],
     [
-      "GitHub - jafarlihi/modreveal: Utility to find hidden Linux kernel modules",
+      "modreveal: Utility to find hidden Linux kernel modules",
       "https://github.com/jafarlihi/modreveal"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Improving color quantization heuristics",
       "http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 22:21:48",
-      "https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion"
-    ],
-    [
-      "Learning Rust in 2023: A Call For Discussion",
-      "https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion"
     ]
   ],
   [
