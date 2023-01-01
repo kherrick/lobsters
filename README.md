@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 23:18:07](https://lobste.rs/s/lgh7su/difference_between_privacy_security_is) - [The Difference Between Privacy and Security is the Protagonist](https://invisv.com/articles/privacy-and-security.html)
+* [2023-01-01, 23:04:27](https://lobste.rs/s/bbluu1/building_frankenstein_c64) - [Building a Frankenstein C64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
 * [2023-01-01, 22:40:47](https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01) - [Predictions Scorecard, 2023 January 01](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
 * [2023-01-01, 21:57:01](https://lobste.rs/s/6k7gtl/accesskit_looking_back_looking_forward) - [AccessKit: Looking back; looking forward](https://accesskit.dev/looking-back-looking-forward/)
 * [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
@@ -11,7 +13,6 @@
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
 * [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
 * [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
-* [2023-01-01, 15:15:55](https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy) - [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://zakird.com/papers/toplists.pdf)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
@@ -24,7 +25,6 @@
 * [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
-* [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 
 ## [Archives](archives/index.md)
 
