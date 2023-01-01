@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
 * [2023-01-01, 06:57:57](https://lobste.rs/s/gvd0b1/cpp2_cppfront_year_end_mini_update) - [Cpp2 and cppfront: Year-end mini-update](https://herbsutter.com/2022/12/31/cpp2-and-cppfront-year-end-mini-update/)
 * [2023-01-01, 04:33:13](https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency) - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
@@ -23,7 +24,6 @@
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
-* [2022-12-30, 02:48:48](https://lobste.rs/s/pom2qn/sup) - [sup](https://drew.shoes/posts/sup/)
 * [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 
 ## [Archives](archives/index.md)
