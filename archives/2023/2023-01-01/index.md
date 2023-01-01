@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-01-01](index.md)
+
+* [2023-01-01, 00:10:31](https://lobste.rs/s/gygttt/let_s_try_chatgpt_is_it_any_good_bisqwit) - [Let’s try ChatGPT. Is it any good? (Bisqwit)](https://youtu.be/q2A-MkGjvmI)
