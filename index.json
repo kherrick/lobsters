@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 03:57:00",
+      "https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale"
+    ],
+    [
+      "How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)",
+      "https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 00:10:31",
       "https://lobste.rs/s/gygttt/let_s_try_chatgpt_is_it_any_good_bisqwit"
     ],
@@ -217,16 +227,6 @@
     [
       "ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml",
       "https://github.com/ocaml-multicore/eio"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 06:53:16",
-      "https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced"
-    ],
-    [
-      "Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)",
-      "https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html"
     ]
   ],
   [
