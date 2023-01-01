@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-01, 23:18:07",
+      "https://lobste.rs/s/lgh7su/difference_between_privacy_security_is"
+    ],
+    [
+      "The Difference Between Privacy and Security is the Protagonist",
+      "https://invisv.com/articles/privacy-and-security.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 23:04:27",
+      "https://lobste.rs/s/bbluu1/building_frankenstein_c64"
+    ],
+    [
+      "Building a Frankenstein C64",
+      "https://celso.io/retrocomputing/2022/12/27/c64-from-scratch"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 22:40:47",
       "https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01"
     ],
@@ -107,16 +127,6 @@
     [
       "Map, Filter, Reduce in Fortran 2018",
       "https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 15:15:55",
-      "https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy"
-    ],
-    [
-      "Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists",
-      "https://zakird.com/papers/toplists.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Should small Rust structs be passed by-copy or by-borrow? (2019)",
       "https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 15:18:36",
-      "https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang"
-    ],
-    [
-      "Lies we tell ourselves to keep using Golang",
-      "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"
     ]
   ]
 ]
