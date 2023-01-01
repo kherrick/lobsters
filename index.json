@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-01, 16:47:03",
+      "https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022"
+    ],
+    [
+      "Stuff I learnt in 2022",
+      "https://bollu.github.io/stuff-i-learnt-in-2022.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-01, 16:46:30",
+      "https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse"
+    ],
+    [
+      "Querying the GitHub archive with the ClickHouse playground",
+      "https://til.simonwillison.net/clickhouse/github-explorer"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 16:01:38",
       "https://lobste.rs/s/h7qbfz/lineageos_20_released"
     ],
@@ -207,26 +227,6 @@
     [
       "Improving color quantization heuristics",
       "http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 09:25:29",
-      "https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols"
-    ],
-    [
-      "Emacs: Macro me some SF Symbols",
-      "https://xenodium.com/emacs-macro-me-some-sf-symbols/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 04:14:31",
-      "https://lobste.rs/s/lj7ib7/state_http_2022"
-    ],
-    [
-      "The state of HTTP in 2022",
-      "https://blog.cloudflare.com/the-state-of-http-in-2022/"
     ]
   ],
   [
