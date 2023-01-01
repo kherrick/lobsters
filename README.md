@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
 * [2023-01-01, 20:13:08](https://lobste.rs/s/ohnqgj/apollo_guidance_computer_explained) - [Apollo Guidance Computer Explained: Everything You Need To Know](https://history-computer.com/apollo-guidance-computer/)
 * [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
@@ -16,7 +17,6 @@
 * [2023-01-01, 06:57:57](https://lobste.rs/s/gvd0b1/cpp2_cppfront_year_end_mini_update) - [Cpp2 and cppfront: Year-end mini-update](https://herbsutter.com/2022/12/31/cpp2-and-cppfront-year-end-mini-update/)
 * [2023-01-01, 04:33:13](https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency) - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
 * [2023-01-01, 03:57:00](https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale) - [How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
-* [2023-01-01, 00:10:31](https://lobste.rs/s/gygttt/let_s_try_chatgpt_is_it_any_good) - [Let’s try ChatGPT. Is it any good?](https://youtu.be/q2A-MkGjvmI)
 * [2022-12-31, 23:21:09](https://lobste.rs/s/ycrllw/i_did_advent_code_on_playstation) - [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
 * [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2022-12-31, 19:59:51](https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript) - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
