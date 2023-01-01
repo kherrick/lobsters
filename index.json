@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 04:33:13",
+      "https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency"
+    ],
+    [
+      "Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022",
+      "https://pytorch.org/blog/compromised-nightly-dependency/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 03:57:00",
       "https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale"
     ],
@@ -127,16 +137,6 @@
     [
       "Emacs: Macro me some SF Symbols",
       "https://xenodium.com/emacs-macro-me-some-sf-symbols/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 06:55:59",
-      "https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer"
-    ],
-    [
-      "NuttX RTOS for PinePhone: Framebuffer",
-      "https://lupyuen.github.io/articles/fb"
     ]
   ],
   [
