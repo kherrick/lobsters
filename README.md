@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
 * [2023-01-01, 06:57:57](https://lobste.rs/s/gvd0b1/cpp2_cppfront_year_end_mini_update) - [Cpp2 and cppfront: Year-end mini-update](https://herbsutter.com/2022/12/31/cpp2-and-cppfront-year-end-mini-update/)
@@ -17,7 +18,6 @@
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
 * [2022-12-31, 09:25:29](https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols) - [Emacs: Macro me some SF Symbols](https://xenodium.com/emacs-macro-me-some-sf-symbols/)
-* [2022-12-31, 06:55:59](https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer) - [NuttX RTOS for PinePhone: Framebuffer](https://lupyuen.github.io/articles/fb)
 * [2022-12-31, 04:14:31](https://lobste.rs/s/lj7ib7/state_http_2022) - [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 * [2022-12-31, 00:16:56](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python) - [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 * [2022-12-30, 23:22:28](https://lobste.rs/s/7siipy/pomsky_portable_modern_regular) - [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
