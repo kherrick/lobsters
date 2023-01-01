@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
 * [2023-01-01, 16:46:30](https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse) - [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer)
 * [2023-01-01, 16:01:38](https://lobste.rs/s/h7qbfz/lineageos_20_released) - [LineageOS 20 released](https://lineageos.org/Changelog-27/)
-* [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/github_jafarlihi_modreveal_utility_find) - [GitHub - jafarlihi/modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
+* [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux) - [modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
 * [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
 * [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
@@ -23,7 +24,6 @@
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
-* [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 
 ## [Archives](archives/index.md)

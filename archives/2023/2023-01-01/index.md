@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
 * [2023-01-01, 16:46:30](https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse) - [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer)
 * [2023-01-01, 16:01:38](https://lobste.rs/s/h7qbfz/lineageos_20_released) - [LineageOS 20 released](https://lineageos.org/Changelog-27/)
+* [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux) - [modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
 * [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/github_jafarlihi_modreveal_utility_find) - [GitHub - jafarlihi/modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
 * [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
