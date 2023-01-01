@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 04:33:13](https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency) - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
 * [2023-01-01, 03:57:00](https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale) - [How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
 * [2023-01-01, 00:10:31](https://lobste.rs/s/gygttt/let_s_try_chatgpt_is_it_any_good_bisqwit) - [Let’s try ChatGPT. Is it any good? (Bisqwit)](https://youtu.be/q2A-MkGjvmI)
