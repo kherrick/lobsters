@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 22:40:47](https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01) - [Predictions Scorecard, 2023 January 01](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
 * [2023-01-01, 22:20:37](https://lobste.rs/s/xhtbfx/neurodivergents_will_inherit_earth) - [Neurodivergents Will Inherit The Earth](https://erikmcclure.com/blog/nuerodivergents-will-inherit-the-earth/)
 * [2023-01-01, 21:57:01](https://lobste.rs/s/6k7gtl/accesskit_looking_back_looking_forward) - [AccessKit: Looking back; looking forward](https://accesskit.dev/looking-back-looking-forward/)
 * [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
