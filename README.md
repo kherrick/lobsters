@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
+* [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
+* [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 * [2023-01-01, 15:15:55](https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy) - [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://zakird.com/papers/toplists.pdf)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
@@ -13,18 +16,15 @@
 * [2022-12-31, 19:59:51](https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript) - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
 * [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 19:15:47](https://lobste.rs/s/murzfy/survey_security_mitigations) - [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
-* [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)
 * [2022-12-31, 09:25:29](https://lobste.rs/s/50jl7f/emacs_macro_me_some_sf_symbols) - [Emacs: Macro me some SF Symbols](https://xenodium.com/emacs-macro-me-some-sf-symbols/)
 * [2022-12-31, 04:14:31](https://lobste.rs/s/lj7ib7/state_http_2022) - [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
-* [2022-12-31, 00:16:56](https://lobste.rs/s/s0zhoa/why_i_wrote_sql_engine_only_python) - [Why I wrote a SQL engine in (only) Python](https://github.com/marsupialtail/quokka/blob/master/blog/why.md)
 * [2022-12-30, 23:22:28](https://lobste.rs/s/7siipy/pomsky_portable_modern_regular) - [Pomsky - portable, modern regular expression language](https://pomsky-lang.org/)
 * [2022-12-30, 22:21:48](https://lobste.rs/s/cnhdam/learning_rust_2023_call_for_discussion) - [Learning Rust in 2023: A Call For Discussion](https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion)
 * [2022-12-30, 15:47:48](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on) - [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/)
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
-* [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
 
 ## [Archives](archives/index.md)
 

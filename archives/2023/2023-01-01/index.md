@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
+* [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
+* [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 * [2023-01-01, 15:15:55](https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy) - [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://zakird.com/papers/toplists.pdf)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
