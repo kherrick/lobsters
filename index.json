@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2022-12-31, 06:55:59",
+      "https://lobste.rs/s/jnrqid/nuttx_rtos_for_pinephone_framebuffer"
+    ],
+    [
+      "NuttX RTOS for PinePhone: Framebuffer",
+      "https://lupyuen.github.io/articles/fb"
+    ]
+  ],
+  [
+    [
       "2022-12-31, 04:14:31",
       "https://lobste.rs/s/lj7ib7/state_http_2022"
     ],
@@ -237,16 +247,6 @@
     [
       "Nixpkgs support for Linux builders running on macOS",
       "https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 02:48:48",
-      "https://lobste.rs/s/pom2qn/sup"
-    ],
-    [
-      "sup",
-      "https://drew.shoes/posts/sup/"
     ]
   ]
 ]
