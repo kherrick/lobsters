@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-01, 22:20:37",
-      "https://lobste.rs/s/xhtbfx/neurodivergents_will_inherit_earth"
+      "2023-01-01, 22:40:47",
+      "https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01"
     ],
     [
-      "Neurodivergents Will Inherit The Earth",
-      "https://erikmcclure.com/blog/nuerodivergents-will-inherit-the-earth/"
+      "Predictions Scorecard, 2023 January 01",
+      "https://rodneybrooks.com/predictions-scorecard-2023-january-01/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "A Decade of HardenedBSD",
       "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 20:13:08",
-      "https://lobste.rs/s/ohnqgj/apollo_guidance_computer_explained"
-    ],
-    [
-      "Apollo Guidance Computer Explained: Everything You Need To Know",
-      "https://history-computer.com/apollo-guidance-computer/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Should small Rust structs be passed by-copy or by-borrow? (2019)",
       "https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/"
+    ]
+  ],
+  [
+    [
+      "2022-12-30, 15:18:36",
+      "https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang"
+    ],
+    [
+      "Lies we tell ourselves to keep using Golang",
+      "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"
     ]
   ]
 ]
