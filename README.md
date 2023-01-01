@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 03:57:00](https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale) - [How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
 * [2023-01-01, 00:10:31](https://lobste.rs/s/gygttt/let_s_try_chatgpt_is_it_any_good_bisqwit) - [Let’s try ChatGPT. Is it any good? (Bisqwit)](https://youtu.be/q2A-MkGjvmI)
 * [2022-12-31, 23:21:09](https://lobste.rs/s/ycrllw/i_did_advent_code_on_playstation) - [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
 * [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
@@ -22,7 +23,6 @@
 * [2022-12-30, 15:18:36](https://lobste.rs/s/deni6q/lies_we_tell_ourselves_keep_using_golang) - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 * [2022-12-30, 14:37:35](https://lobste.rs/s/1gsmqo/nixpkgs_support_for_linux_builders) - [Nixpkgs support for Linux builders running on macOS](https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html)
 * [2022-12-30, 13:38:28](https://lobste.rs/s/wkzrxb/ocaml_multicore_eio_effects_based_direct) - [ocaml-multicore/eio: Effects-based direct-style IO for multicore OCaml](https://github.com/ocaml-multicore/eio)
-* [2022-12-30, 06:53:16](https://lobste.rs/s/svcgrx/remember_when_ie_11_user_agent_forced) - [Remember when the IE 11 User-Agent forced Mozilla to freeze part of its User-Agent string (last week)](https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html)
 * [2022-12-30, 02:48:48](https://lobste.rs/s/pom2qn/sup) - [sup](https://drew.shoes/posts/sup/)
 * [2022-12-29, 23:44:08](https://lobste.rs/s/xdre9p/golang_is_evil_on_shitty_networks) - [Golang is evil on shitty networks](https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/)
 
