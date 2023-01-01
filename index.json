@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 15:32:03",
+      "https://lobste.rs/s/yjjbl0/github_jafarlihi_modreveal_utility_find"
+    ],
+    [
+      "GitHub - jafarlihi/modreveal: Utility to find hidden Linux kernel modules",
+      "https://github.com/jafarlihi/modreveal"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 15:24:56",
       "https://lobste.rs/s/zfscqj/year_building_structured_editor"
     ],
@@ -227,16 +237,6 @@
     [
       "Learning Rust in 2023: A Call For Discussion",
       "https://naiveai.hashnode.dev/learning-rust-in-2023-a-call-for-discussion"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 15:47:48",
-      "https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on"
-    ],
-    [
-      "Materialized View: SQL Queries on Steroids",
-      "https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/"
     ]
   ],
   [
