@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-01, 15:15:55](https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy) - [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://zakird.com/papers/toplists.pdf)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
@@ -13,7 +14,6 @@
 * [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 19:15:47](https://lobste.rs/s/murzfy/survey_security_mitigations) - [Survey of security mitigations and architectures](https://saaramar.github.io/memory_safety_blogpost_2022/)
 * [2022-12-31, 14:11:48](https://lobste.rs/s/uci4bz/zippy) - [Zippy](https://codetapper.com/atari-st/st-interviews/zippy/)
-* [2022-12-31, 14:07:53](https://lobste.rs/s/teznua/sprite_animation_toolkit_1992_1999) - [sprite animation toolkit (1992-1999)](https://dev-nonsense.com/posts/sprite-animation-toolkit/)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 * [2022-12-31, 12:07:04](https://lobste.rs/s/qmhlii/improving_color_quantization) - [Improving color quantization heuristics](http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html)

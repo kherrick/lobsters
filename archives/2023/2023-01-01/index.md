@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 15:15:55](https://lobste.rs/s/rn21o9/toppling_top_lists_evaluating_accuracy) - [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://zakird.com/papers/toplists.pdf)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
