@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-01](index.md)
 
+* [2023-01-01, 20:13:08](https://lobste.rs/s/ohnqgj/apollo_guidance_computer_explained) - [Apollo Guidance Computer Explained: Everything You Need To Know](https://history-computer.com/apollo-guidance-computer/)
 * [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
 * [2023-01-01, 16:46:30](https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse) - [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer)
