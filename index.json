@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-01, 08:08:31",
+      "https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display"
+    ],
+    [
+      "AMD Continues Working Toward HDR Display Support For The Linux Desktop",
+      "https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 07:28:08",
       "https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022"
     ],
@@ -227,16 +237,6 @@
     [
       "Nixpkgs support for Linux builders running on macOS",
       "https://www.haskellforall.com/2022/12/nixpkgs-support-for-linux-builders.html"
-    ]
-  ],
-  [
-    [
-      "2022-12-30, 02:48:48",
-      "https://lobste.rs/s/pom2qn/sup"
-    ],
-    [
-      "sup",
-      "https://drew.shoes/posts/sup/"
     ]
   ],
   [
