@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 08:55:05",
+      "https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january"
+    ],
+    [
+      "DistroWatch Weekly, Issue 1000, 2 January 2023",
+      "https://distrowatch.com/weekly-mobile.php?issue=20230102"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 08:06:10",
       "https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment"
     ],
@@ -217,16 +227,6 @@
     [
       "Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022",
       "https://pytorch.org/blog/compromised-nightly-dependency/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 03:57:00",
-      "https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale"
-    ],
-    [
-      "How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)",
-      "https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html"
     ]
   ],
   [
