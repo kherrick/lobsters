@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 17:04:01",
+      "https://lobste.rs/s/89qop1/more_tales_from_ios_macos_kernel_trenches"
+    ],
+    [
+      "More Tales from the iOS macOS Kernel Trenches",
+      "https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 15:32:22",
       "https://lobste.rs/s/mva1un/from_delimited_continuations_algebraic"
     ],
@@ -37,16 +47,6 @@
     [
       "Modeling Database Tables in Alloy",
       "https://bytes.zone/posts/modeling-database-tables-in-alloy/"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 11:48:24",
-      "https://lobste.rs/s/zvimkq/read_only_data_structures_via_internals"
-    ],
-    [
-      "Read-only data structures via Internals::SvREADONLY or Sub::Trigger::Lock",
-      "https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-01-02, 01:23:22",
+      "https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals"
+    ],
+    [
+      "GNU/Linux shell related internals",
+      "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 23:18:07",
       "https://lobste.rs/s/lgh7su/difference_between_privacy_security_is"
     ],
@@ -207,16 +217,6 @@
     [
       "LineageOS 20 released",
       "https://lineageos.org/Changelog-27/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 15:32:03",
-      "https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux"
-    ],
-    [
-      "modreveal: Utility to find hidden Linux kernel modules",
-      "https://github.com/jafarlihi/modreveal"
     ]
   ],
   [
