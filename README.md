@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 15:32:22](https://lobste.rs/s/mva1un/from_delimited_continuations_algebraic) - [From delimited continuations to algebraic effects in Haskell](https://blog.poisson.chat/posts/2023-01-02-del-cont-examples.html)
 * [2023-01-02, 14:08:02](https://lobste.rs/s/tv6x5j/announcing_ronin_2_0_0_open_beta) - [Announcing the Ronin 2.0.0 Open Beta](https://ronin-rb.dev/blog/2023/01/01/announcing-the-ronin-2-0-0-open-beta.html)
 * [2023-01-02, 13:24:30](https://lobste.rs/s/8byg23/how_test) - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
@@ -12,7 +13,6 @@
 * [2023-01-02, 05:29:37](https://lobste.rs/s/jya115/hacking_roku_tv_control_lights) - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
-* [2023-01-02, 01:23:22](https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals) - [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)
 * [2023-01-01, 23:18:07](https://lobste.rs/s/lgh7su/difference_between_privacy_security_is) - [The Difference Between Privacy and Security is the Protagonist](https://invisv.com/articles/privacy-and-security.html)
 * [2023-01-01, 23:04:27](https://lobste.rs/s/bbluu1/building_frankenstein_c64) - [Building a Frankenstein C64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
 * [2023-01-01, 22:40:47](https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01) - [Predictions Scorecard, 2023 January 01](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)

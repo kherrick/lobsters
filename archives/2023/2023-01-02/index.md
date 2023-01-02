@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-02](index.md)
 
+* [2023-01-02, 15:32:22](https://lobste.rs/s/mva1un/from_delimited_continuations_algebraic) - [From delimited continuations to algebraic effects in Haskell](https://blog.poisson.chat/posts/2023-01-02-del-cont-examples.html)
 * [2023-01-02, 14:08:02](https://lobste.rs/s/tv6x5j/announcing_ronin_2_0_0_open_beta) - [Announcing the Ronin 2.0.0 Open Beta](https://ronin-rb.dev/blog/2023/01/01/announcing-the-ronin-2-0-0-open-beta.html)
 * [2023-01-02, 13:24:30](https://lobste.rs/s/8byg23/how_test) - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
