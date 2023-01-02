@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 10:04:19",
+      "https://lobste.rs/s/y4lqq0/netbsd_at_reproducible_builds_summit"
+    ],
+    [
+      "NetBSD at Reproducible Builds Summit Venice 2022",
+      "https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 08:55:05",
       "https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january"
     ],
@@ -197,16 +207,6 @@
     [
       "How I still use Flash in 2022",
       "https://foon.uk/how-flash-2022/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 08:08:31",
-      "https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display"
-    ],
-    [
-      "AMD Continues Working Toward HDR Display Support For The Linux Desktop",
-      "https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard"
     ]
   ],
   [
