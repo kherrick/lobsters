@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-02, 02:03:44",
+      "https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract"
+    ],
+    [
+      "Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report"
+    ]
+  ],
+  [
+    [
+      "2023-01-02, 01:23:22",
+      "https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals"
+    ],
+    [
+      "GNU/Linux shell related internals",
+      "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
+    ]
+  ],
+  [
+    [
       "2023-01-01, 23:18:07",
       "https://lobste.rs/s/lgh7su/difference_between_privacy_security_is"
     ],
@@ -47,16 +67,6 @@
     [
       "A Decade of HardenedBSD",
       "https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 20:13:08",
-      "https://lobste.rs/s/ohnqgj/apollo_guidance_computer_explained"
-    ],
-    [
-      "Apollo Guidance Computer Explained: Everything You Need To Know",
-      "https://history-computer.com/apollo-guidance-computer/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Draw SVG rope using JavaScript",
       "https://muffinman.io/blog/draw-svg-rope-using-javascript/"
-    ]
-  ],
-  [
-    [
-      "2022-12-31, 14:03:53",
-      "https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit"
-    ],
-    [
-      "gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages",
-      "https://github.com/benwr/gwipt"
     ]
   ],
   [
