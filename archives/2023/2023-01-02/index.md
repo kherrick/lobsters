@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-02](index.md)
 
+* [2023-01-02, 08:55:05](https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january) - [DistroWatch Weekly, Issue 1000, 2 January 2023](https://distrowatch.com/weekly-mobile.php?issue=20230102)
 * [2023-01-02, 08:06:10](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment) - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 * [2023-01-02, 05:29:37](https://lobste.rs/s/jya115/hacking_roku_tv_control_lights) - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
