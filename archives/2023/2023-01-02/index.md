@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-02](index.md)
 
+* [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 * [2023-01-02, 21:01:32](https://lobste.rs/s/oakfpr/modular_formal_verification_rust) - [Modular Formal Verification of Rust Programs with Unsafe Blocks](https://arxiv.org/abs/2212.12976)
 * [2023-01-02, 19:54:48](https://lobste.rs/s/r1sxg6/stellarx_vr_mid_december_2022_release) - [StellarX VR - Mid December 2022 Release](https://store.steampowered.com/app/1214640/StellarX/)
