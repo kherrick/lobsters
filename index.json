@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 21:01:32",
+      "https://lobste.rs/s/oakfpr/modular_formal_verification_rust"
+    ],
+    [
+      "Modular Formal Verification of Rust Programs with Unsafe Blocks",
+      "https://arxiv.org/abs/2212.12976"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 19:54:48",
       "https://lobste.rs/s/r1sxg6/stellarx_vr_mid_december_2022_release"
     ],
@@ -147,16 +157,6 @@
     [
       "Classifying Python virtual environment workflows",
       "https://snarky.ca/classifying-python-virtual-environment-workflows/"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 05:29:37",
-      "https://lobste.rs/s/jya115/hacking_roku_tv_control_lights"
-    ],
-    [
-      "Hacking a Roku TV to Control Lights",
-      "https://blog.ammaraskar.com/roku-tv-philips-hues/"
     ]
   ],
   [
