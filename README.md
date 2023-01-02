@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 19:01:27](https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction) - [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
 * [2023-01-02, 17:37:55](https://lobste.rs/s/zelylm/improvements_i_would_like_see_kindle) - [Improvements I would like to see in kindle scribe tablet](https://sepi.me/2023-1-2-kindle-scribe-improvements)
 * [2023-01-02, 17:04:01](https://lobste.rs/s/89qop1/more_tales_from_ios_macos_kernel_trenches) - [More Tales from the iOS macOS Kernel Trenches](https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf)
@@ -15,7 +16,6 @@
 * [2023-01-02, 05:29:37](https://lobste.rs/s/jya115/hacking_roku_tv_control_lights) - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
-* [2023-01-02, 01:23:22](https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals) - [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)
 * [2023-01-01, 23:18:07](https://lobste.rs/s/lgh7su/difference_between_privacy_security_is) - [The Difference Between Privacy and Security is the Protagonist](https://invisv.com/articles/privacy-and-security.html)
 * [2023-01-01, 23:04:27](https://lobste.rs/s/bbluu1/building_frankenstein_c64) - [Building a Frankenstein C64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
 * [2023-01-01, 21:57:01](https://lobste.rs/s/6k7gtl/accesskit_looking_back_looking_forward) - [AccessKit: Looking back; looking forward](https://accesskit.dev/looking-back-looking-forward/)
