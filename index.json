@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 11:48:24",
+      "https://lobste.rs/s/zvimkq/read_only_data_structures_via_internals"
+    ],
+    [
+      "Read-only data structures via Internals::SvREADONLY or Sub::Trigger::Lock",
+      "https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 11:15:12",
       "https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are"
     ],
@@ -197,16 +207,6 @@
     [
       "A year of building a structured editor and programming language",
       "https://petersaxton.uk/log/"
-    ]
-  ],
-  [
-    [
-      "2023-01-01, 15:20:56",
-      "https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure"
-    ],
-    [
-      "Vector Symbolic Architecture in Clojure",
-      "http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/"
     ]
   ],
   [
