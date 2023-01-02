@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 14:08:02](https://lobste.rs/s/tv6x5j/announcing_ronin_2_0_0_open_beta) - [Announcing the Ronin 2.0.0 Open Beta](https://ronin-rb.dev/blog/2023/01/01/announcing-the-ronin-2-0-0-open-beta.html)
 * [2023-01-02, 13:24:30](https://lobste.rs/s/8byg23/how_test) - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:48:24](https://lobste.rs/s/zvimkq/read_only_data_structures_via_internals) - [Read-only data structures via Internals::SvREADONLY or Sub::Trigger::Lock](https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/)
@@ -19,7 +20,6 @@
 * [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
 * [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
-* [2023-01-01, 16:46:30](https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse) - [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer)
 * [2023-01-01, 16:01:38](https://lobste.rs/s/h7qbfz/lineageos_20_released) - [LineageOS 20 released](https://lineageos.org/Changelog-27/)
 * [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux) - [modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
