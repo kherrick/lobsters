@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 * [2023-01-02, 21:01:32](https://lobste.rs/s/oakfpr/modular_formal_verification_rust) - [Modular Formal Verification of Rust Programs with Unsafe Blocks](https://arxiv.org/abs/2212.12976)
 * [2023-01-02, 19:54:48](https://lobste.rs/s/r1sxg6/stellarx_vr_mid_december_2022_release) - [StellarX VR - Mid December 2022 Release](https://store.steampowered.com/app/1214640/StellarX/)
 * [2023-01-02, 19:39:59](https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
@@ -24,7 +25,6 @@
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
-* [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 
 ## [Archives](archives/index.md)
 
