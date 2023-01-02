@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-02](index.md)
 
+* [2023-01-02, 11:48:24](https://lobste.rs/s/zvimkq/read_only_data_structures_via_internals) - [Read-only data structures via Internals::SvREADONLY or Sub::Trigger::Lock](https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 * [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
 * [2023-01-02, 10:04:19](https://lobste.rs/s/y4lqq0/netbsd_at_reproducible_builds_summit) - [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)

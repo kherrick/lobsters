@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 11:48:24](https://lobste.rs/s/zvimkq/read_only_data_structures_via_internals) - [Read-only data structures via Internals::SvREADONLY or Sub::Trigger::Lock](https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 * [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
 * [2023-01-02, 10:04:19](https://lobste.rs/s/y4lqq0/netbsd_at_reproducible_builds_summit) - [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
@@ -20,7 +21,6 @@
 * [2023-01-01, 16:01:38](https://lobste.rs/s/h7qbfz/lineageos_20_released) - [LineageOS 20 released](https://lineageos.org/Changelog-27/)
 * [2023-01-01, 15:32:03](https://lobste.rs/s/yjjbl0/modreveal_utility_find_hidden_linux) - [modreveal: Utility to find hidden Linux kernel modules](https://github.com/jafarlihi/modreveal)
 * [2023-01-01, 15:24:56](https://lobste.rs/s/zfscqj/year_building_structured_editor) - [A year of building a structured editor and programming language](https://petersaxton.uk/log/)
-* [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
 * [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 * [2023-01-01, 04:33:13](https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency) - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
