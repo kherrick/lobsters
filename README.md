@@ -5,6 +5,7 @@
 * [2023-01-01, 22:40:47](https://lobste.rs/s/lnrjqn/predictions_scorecard_2023_january_01) - [Predictions Scorecard, 2023 January 01](https://rodneybrooks.com/predictions-scorecard-2023-january-01/)
 * [2023-01-01, 21:57:01](https://lobste.rs/s/6k7gtl/accesskit_looking_back_looking_forward) - [AccessKit: Looking back; looking forward](https://accesskit.dev/looking-back-looking-forward/)
 * [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
+* [2023-01-01, 20:13:08](https://lobste.rs/s/ohnqgj/apollo_guidance_computer_explained) - [Apollo Guidance Computer Explained: Everything You Need To Know](https://history-computer.com/apollo-guidance-computer/)
 * [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)
 * [2023-01-01, 16:46:30](https://lobste.rs/s/rburwa/querying_github_archive_with_clickhouse) - [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer)
@@ -22,7 +23,6 @@
 * [2022-12-31, 23:21:09](https://lobste.rs/s/ycrllw/i_did_advent_code_on_playstation) - [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
 * [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [2022-12-31, 19:59:51](https://lobste.rs/s/uhc5m7/draw_svg_rope_using_javascript) - [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
-* [2022-12-31, 19:18:49](https://lobste.rs/s/swyzad/helenos_0_12_1_released) - [HelenOS 0.12.1 released](http://www.helenos.org/wiki/ReleaseNotes/0.12.1)
 * [2022-12-31, 14:03:53](https://lobste.rs/s/p5sm4a/gwipt_automatically_commit_every_edit) - [gwipt: Automatically commit every edit to a shadow branch, with GPT-3-generated commit messages](https://github.com/benwr/gwipt)
 * [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 
