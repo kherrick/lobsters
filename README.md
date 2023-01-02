@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 05:29:37](https://lobste.rs/s/jya115/hacking_roku_tv_control_lights) - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
 * [2023-01-02, 01:23:22](https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals) - [GNU/Linux shell related internals](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/)
@@ -24,7 +25,6 @@
 * [2023-01-01, 03:57:00](https://lobste.rs/s/ltj0iz/how_i_got_xfinity_stream_work_on_linux_tale) - [How I Got Xfinity Stream to Work on Linux (a Tale of Widevine, Chrome OS, and a Patched glibc)](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html)
 * [2022-12-31, 23:21:09](https://lobste.rs/s/ycrllw/i_did_advent_code_on_playstation) - [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
 * [2022-12-31, 22:36:26](https://lobste.rs/s/qaqfpe/i_am_not_supplier) - [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
-* [2022-12-31, 13:57:57](https://lobste.rs/s/z3hjwp/should_small_rust_structs_be_passed_by) - [Should small Rust structs be passed by-copy or by-borrow? (2019)](https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/)
 
 ## [Archives](archives/index.md)
 
