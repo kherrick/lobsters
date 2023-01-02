@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 10:04:19](https://lobste.rs/s/y4lqq0/netbsd_at_reproducible_builds_summit) - [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
 * [2023-01-02, 08:55:05](https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january) - [DistroWatch Weekly, Issue 1000, 2 January 2023](https://distrowatch.com/weekly-mobile.php?issue=20230102)
 * [2023-01-02, 08:06:10](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment) - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 * [2023-01-02, 05:29:37](https://lobste.rs/s/jya115/hacking_roku_tv_control_lights) - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
@@ -20,7 +21,6 @@
 * [2023-01-01, 15:20:56](https://lobste.rs/s/t0wajh/vector_symbolic_architecture_clojure) - [Vector Symbolic Architecture in Clojure](http://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/)
 * [2023-01-01, 15:20:47](https://lobste.rs/s/vx0srp/map_filter_reduce_fortran_2018) - [Map, Filter, Reduce in Fortran 2018](https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
-* [2023-01-01, 08:08:31](https://lobste.rs/s/tivsyr/amd_continues_working_toward_hdr_display) - [AMD Continues Working Toward HDR Display Support For The Linux Desktop](https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard)
 * [2023-01-01, 07:28:08](https://lobste.rs/s/omdwpn/openbsd_kde_status_report_2022) - [OpenBSD KDE Status Report 2022](https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/)
 * [2023-01-01, 04:33:13](https://lobste.rs/s/3tixpr/compromised_pytorch_nightly_dependency) - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://pytorch.org/blog/compromised-nightly-dependency/)
 * [2022-12-31, 23:21:09](https://lobste.rs/s/ycrllw/i_did_advent_code_on_playstation) - [I did Advent of Code on a PlayStation](https://bvisness.me/advent-of-dreams/)
