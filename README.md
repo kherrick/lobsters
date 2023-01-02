@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-02, 19:39:59](https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2023-01-02, 19:01:27](https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction) - [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
 * [2023-01-02, 17:37:55](https://lobste.rs/s/zelylm/improvements_i_would_like_see_kindle) - [Improvements I would like to see in kindle scribe tablet](https://sepi.me/2023-1-2-kindle-scribe-improvements)
@@ -18,7 +19,6 @@
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
 * [2023-01-01, 23:18:07](https://lobste.rs/s/lgh7su/difference_between_privacy_security_is) - [The Difference Between Privacy and Security is the Protagonist](https://invisv.com/articles/privacy-and-security.html)
 * [2023-01-01, 23:04:27](https://lobste.rs/s/bbluu1/building_frankenstein_c64) - [Building a Frankenstein C64](https://celso.io/retrocomputing/2022/12/27/c64-from-scratch)
-* [2023-01-01, 21:57:01](https://lobste.rs/s/6k7gtl/accesskit_looking_back_looking_forward) - [AccessKit: Looking back; looking forward](https://accesskit.dev/looking-back-looking-forward/)
 * [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
 * [2023-01-01, 17:01:24](https://lobste.rs/s/hxweil/rockstar_is_language_designed_for) - [Rockstar is a language designed for creating programs that are also power metal ballads](https://codewithrockstar.com/)
 * [2023-01-01, 16:47:03](https://lobste.rs/s/rsbjdu/stuff_i_learnt_2022) - [Stuff I learnt in 2022](https://bollu.github.io/stuff-i-learnt-in-2022.html)

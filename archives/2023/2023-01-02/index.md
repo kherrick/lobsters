@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-02](index.md)
 
+* [2023-01-02, 19:39:59](https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2023-01-02, 19:01:27](https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction) - [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
 * [2023-01-02, 17:37:55](https://lobste.rs/s/zelylm/improvements_i_would_like_see_kindle) - [Improvements I would like to see in kindle scribe tablet](https://sepi.me/2023-1-2-kindle-scribe-improvements)
