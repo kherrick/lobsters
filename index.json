@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-02, 19:01:27",
+      "https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction"
+    ],
+    [
+      "Inside the 8086 processor's instruction prefetch circuitry",
+      "https://www.righto.com/2023/01/inside-8086-processors-instruction.html"
+    ]
+  ],
+  [
+    [
       "2023-01-02, 18:50:46",
       "https://lobste.rs/s/fcmgjj/what_do_about_hotlinking"
     ],
@@ -147,16 +157,6 @@
     [
       "Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 01:23:22",
-      "https://lobste.rs/s/ls1jki/gnu_linux_shell_related_internals"
-    ],
-    [
-      "GNU/Linux shell related internals",
-      "https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/"
     ]
   ],
   [
