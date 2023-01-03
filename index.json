@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 21:36:22",
+      "https://lobste.rs/s/dkfnfd/fallacies_enterprise_computing_2016"
+    ],
+    [
+      "The Fallacies of Enterprise Computing (2016)",
+      "http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 20:59:01",
       "https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable"
     ],
@@ -27,16 +37,6 @@
     [
       "Satisfiability: Theory, Practice, and Beyond Boot Camp",
       "https://simons.berkeley.edu/workshops/satisfiability-theory-practice-beyond-boot-camp"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 20:11:29",
-      "https://lobste.rs/s/lkb4es/what_s_pod"
-    ],
-    [
-      "What's in a Pod?",
-      "https://solidlabresearch.github.io/WhatsInAPod/"
     ]
   ],
   [
