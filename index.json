@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 20:59:01",
+      "https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable"
+    ],
+    [
+      "Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers",
+      "https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 20:20:28",
       "https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want"
     ],
@@ -27,16 +37,6 @@
     [
       "What's in a Pod?",
       "https://solidlabresearch.github.io/WhatsInAPod/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 19:26:12",
-      "https://lobste.rs/s/munw4k/install_ruby_3_2_0_yjit_with_asdf"
-    ],
-    [
-      "Install Ruby 3.2.0 + YJIT with ASDF",
-      "https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82"
     ]
   ],
   [
