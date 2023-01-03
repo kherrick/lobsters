@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 21:36:22](https://lobste.rs/s/dkfnfd/fallacies_enterprise_computing_2016) - [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
 * [2023-01-03, 20:59:01](https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable) - [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 20:15:18](https://lobste.rs/s/njzbnf/satisfiability_theory_practice_beyond) - [Satisfiability: Theory, Practice, and Beyond Boot Camp](https://simons.berkeley.edu/workshops/satisfiability-theory-practice-beyond-boot-camp)
-* [2023-01-03, 20:11:29](https://lobste.rs/s/lkb4es/what_s_pod) - [What's in a Pod?](https://solidlabresearch.github.io/WhatsInAPod/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
