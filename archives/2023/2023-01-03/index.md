@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 * [2023-01-03, 16:44:58](https://lobste.rs/s/ow4xyi/end_era) - [The end of an era](http://deavmi.assigned.network/blog/thanks_again/)
 * [2023-01-03, 16:27:34](https://lobste.rs/s/fpouso/pocketbase_wrapper_with_serializer) - [PocketBase wrapper with serializer/deserializer support for D](https://github.com/Hax-io/libpb)
 * [2023-01-03, 16:21:21](https://lobste.rs/s/jpm5iw/x86_is_turing_complete_with_no_registers) - [x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
