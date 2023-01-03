@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 08:30:18](https://lobste.rs/s/rcedbk/tabris_native_mobile_apps_javascript) - [Tabris: Native mobile apps in JavaScript](https://tabris.com/)
 * [2023-01-03, 07:21:58](https://lobste.rs/s/361eak/car_talk_overspecialization) - [Car talk: Overspecialization](https://youtu.be/mF9sgbSET0A)
 * [2023-01-03, 05:28:25](https://lobste.rs/s/enbdjz/profiting_from_folly_others_2020) - [Profiting from the Folly of Others (2020)](https://accu.org/journals/overload/28/156/harrison_2776/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
@@ -23,7 +24,6 @@
 * [2023-01-02, 08:06:10](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment) - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
-* [2023-01-01, 20:26:38](https://lobste.rs/s/jcoqgx/decade_hardenedbsd) - [A Decade of HardenedBSD](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md)
 * [2023-01-01, 12:21:54](https://lobste.rs/s/gonhwb/how_i_still_use_flash_2022) - [How I still use Flash in 2022](https://foon.uk/how-flash-2022/)
 
 ## [Archives](archives/index.md)
