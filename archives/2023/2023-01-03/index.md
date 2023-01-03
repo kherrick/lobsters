@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 08:30:18](https://lobste.rs/s/rcedbk/tabris_native_mobile_apps_javascript) - [Tabris: Native mobile apps in JavaScript](https://tabris.com/)
 * [2023-01-03, 07:21:58](https://lobste.rs/s/361eak/car_talk_overspecialization) - [Car talk: Overspecialization](https://youtu.be/mF9sgbSET0A)
 * [2023-01-03, 05:28:25](https://lobste.rs/s/enbdjz/profiting_from_folly_others_2020) - [Profiting from the Folly of Others (2020)](https://accu.org/journals/overload/28/156/harrison_2776/)
