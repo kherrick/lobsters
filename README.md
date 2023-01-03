@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
+* [2023-01-03, 20:15:18](https://lobste.rs/s/njzbnf/satisfiability_theory_practice_beyond) - [Satisfiability: Theory, Practice, and Beyond Boot Camp](https://simons.berkeley.edu/workshops/satisfiability-theory-practice-beyond-boot-camp)
+* [2023-01-03, 20:11:29](https://lobste.rs/s/lkb4es/what_s_pod) - [What's in a Pod?](https://solidlabresearch.github.io/WhatsInAPod/)
 * [2023-01-03, 19:26:12](https://lobste.rs/s/munw4k/install_ruby_3_2_0_yjit_with_asdf) - [Install Ruby 3.2.0 + YJIT with ASDF](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)
-* [2023-01-03, 19:02:09](https://lobste.rs/s/kurace/how_improve_prometheus_remote_write) - [How to improve Prometheus remote write performance at scale](https://last9.io/blog/how-to-scale-prometheus-remote-write/)
-* [2023-01-03, 18:10:35](https://lobste.rs/s/u8wnxe/redis_data_types_basics) - [Redis Data Types: The Basics](https://thenewstack.io/redis-data-types-the-basics/)
-* [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
