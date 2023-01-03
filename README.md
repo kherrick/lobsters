@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:46:10](https://lobste.rs/s/xu9atj/incremental_compilation_for_crystal) - [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)
 * [2023-01-03, 15:36:20](https://lobste.rs/s/flzfti/complexity_zoo) - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
@@ -8,7 +9,6 @@
 * [2023-01-03, 14:16:45](https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical) - [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
-* [2023-01-03, 12:03:52](https://lobste.rs/s/e3rkom/latent_web_liquid_knowledge) - [The Latent Web: Liquid Knowledge](https://wrongbutuseful.com/2023/01/03/the-latent-web-liquid-knowledge/)
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 08:30:18](https://lobste.rs/s/rcedbk/tabris_native_mobile_apps_javascript) - [Tabris: Native mobile apps in JavaScript](https://tabris.com/)
