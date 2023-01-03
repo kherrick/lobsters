@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 18:10:35",
+      "https://lobste.rs/s/u8wnxe/redis_data_types_basics"
+    ],
+    [
+      "Redis Data Types: The Basics",
+      "https://thenewstack.io/redis-data-types-the-basics/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 18:03:25",
       "https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes"
     ],
@@ -227,16 +237,6 @@
     [
       "What to do about hotlinking",
       "https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 12:29:21",
-      "https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy"
-    ],
-    [
-      "Modeling Database Tables in Alloy",
-      "https://bytes.zone/posts/modeling-database-tables-in-alloy/"
     ]
   ],
   [
