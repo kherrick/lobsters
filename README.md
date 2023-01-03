@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 19:26:12](https://lobste.rs/s/munw4k/install_ruby_3_2_0_yjit_with_asdf) - [Install Ruby 3.2.0 + YJIT with ASDF](https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82)
 * [2023-01-03, 19:02:09](https://lobste.rs/s/kurace/how_improve_prometheus_remote_write) - [How to improve Prometheus remote write performance at scale](https://last9.io/blog/how-to-scale-prometheus-remote-write/)
 * [2023-01-03, 18:10:35](https://lobste.rs/s/u8wnxe/redis_data_types_basics) - [Redis Data Types: The Basics](https://thenewstack.io/redis-data-types-the-basics/)
 * [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
@@ -19,7 +20,6 @@
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
 * [2023-01-03, 05:05:08](https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4) - [DragonFlyBSD: release 6.4](https://www.dragonflybsd.org/release64/)
-* [2023-01-03, 02:34:18](https://lobste.rs/s/izsji6/infinite_ai_array) - [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
