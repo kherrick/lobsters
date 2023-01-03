@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 14:45:02",
+      "https://lobste.rs/s/xebeu2/http_3_prioritization_demystified"
+    ],
+    [
+      "HTTP/3 Prioritization Demystified",
+      "https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 14:16:45",
       "https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical"
     ],
@@ -157,16 +167,6 @@
     [
       "weathering software winter",
       "https://100r.co/site/weathering_software_winter.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 21:01:32",
-      "https://lobste.rs/s/oakfpr/modular_formal_verification_rust"
-    ],
-    [
-      "Modular Formal Verification of Rust Programs with Unsafe Blocks",
-      "https://arxiv.org/abs/2212.12976"
     ]
   ],
   [
