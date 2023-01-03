@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 14:16:45](https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical) - [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 * [2023-01-03, 12:03:52](https://lobste.rs/s/e3rkom/latent_web_liquid_knowledge) - [The Latent Web: Liquid Knowledge](https://wrongbutuseful.com/2023/01/03/the-latent-web-liquid-knowledge/)
@@ -24,7 +25,6 @@
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 * [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
-* [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
 
 ## [Archives](archives/index.md)
 
