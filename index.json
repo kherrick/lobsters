@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 19:26:12",
+      "https://lobste.rs/s/munw4k/install_ruby_3_2_0_yjit_with_asdf"
+    ],
+    [
+      "Install Ruby 3.2.0 + YJIT with ASDF",
+      "https://dev.to/dpaluy/install-ruby-320-yjit-with-asdf-b82"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 19:02:09",
       "https://lobste.rs/s/kurace/how_improve_prometheus_remote_write"
     ],
@@ -187,16 +197,6 @@
     [
       "DragonFlyBSD: release 6.4",
       "https://www.dragonflybsd.org/release64/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 02:34:18",
-      "https://lobste.rs/s/izsji6/infinite_ai_array"
-    ],
-    [
-      "Infinite AI Array",
-      "https://ianbicking.org/blog/2023/01/infinite-ai-array.html"
     ]
   ],
   [
