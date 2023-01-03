@@ -3,6 +3,7 @@
 * [2023-01-03, 21:36:22](https://lobste.rs/s/dkfnfd/fallacies_enterprise_computing_2016) - [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
 * [2023-01-03, 20:59:01](https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable) - [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
+* [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
@@ -23,7 +24,6 @@
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
-* [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 
 ## [Archives](archives/index.md)
