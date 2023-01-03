@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 15:36:20](https://lobste.rs/s/flzfti/complexity_zoo) - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 * [2023-01-03, 15:29:06](https://lobste.rs/s/9lfkmv/zero_dependency_random_number) - [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
 * [2023-01-03, 14:45:02](https://lobste.rs/s/xebeu2/http_3_prioritization_demystified) - [HTTP/3 Prioritization Demystified](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/)
 * [2023-01-03, 14:16:45](https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical) - [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
@@ -24,7 +25,6 @@
 * [2023-01-02, 13:24:30](https://lobste.rs/s/8byg23/how_test) - [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html)
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
-* [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
 
 ## [Archives](archives/index.md)
 
