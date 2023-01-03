@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
@@ -12,7 +13,6 @@
 * [2023-01-03, 15:29:06](https://lobste.rs/s/9lfkmv/zero_dependency_random_number) - [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
-* [2023-01-03, 12:03:52](https://lobste.rs/s/e3rkom/latent_web_liquid_knowledge) - [The Latent Web: Liquid Knowledge](https://wrongbutuseful.com/2023/01/03/the-latent-web-liquid-knowledge/)
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)

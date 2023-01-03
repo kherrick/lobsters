@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
