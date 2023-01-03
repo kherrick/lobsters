@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 16:27:34](https://lobste.rs/s/fpouso/pocketbase_wrapper_with_serializer) - [PocketBase wrapper with serializer/deserializer support for D](https://github.com/Hax-io/libpb)
+* [2023-01-03, 16:21:21](https://lobste.rs/s/jpm5iw/x86_is_turing_complete_with_no_registers) - [x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
 * [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:46:10](https://lobste.rs/s/xu9atj/incremental_compilation_for_crystal) - [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)

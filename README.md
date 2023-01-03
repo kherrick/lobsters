@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 16:27:34](https://lobste.rs/s/fpouso/pocketbase_wrapper_with_serializer) - [PocketBase wrapper with serializer/deserializer support for D](https://github.com/Hax-io/libpb)
+* [2023-01-03, 16:21:21](https://lobste.rs/s/jpm5iw/x86_is_turing_complete_with_no_registers) - [x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
 * [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:46:10](https://lobste.rs/s/xu9atj/incremental_compilation_for_crystal) - [Incremental compilation for Crystal - Part 1](https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)
@@ -11,7 +13,6 @@
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
-* [2023-01-03, 08:30:18](https://lobste.rs/s/rcedbk/tabris_native_mobile_apps_javascript) - [Tabris: Native mobile apps in JavaScript](https://tabris.com/)
 * [2023-01-03, 05:28:25](https://lobste.rs/s/enbdjz/profiting_from_folly_others_2020) - [Profiting from the Folly of Others (2020)](https://accu.org/journals/overload/28/156/harrison_2776/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
 * [2023-01-03, 05:05:08](https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4) - [DragonFlyBSD: release 6.4](https://www.dragonflybsd.org/release64/)
@@ -22,7 +23,6 @@
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 * [2023-01-02, 19:39:59](https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
-* [2023-01-02, 17:37:55](https://lobste.rs/s/zelylm/improvements_i_would_like_see_kindle) - [Improvements I would like to see in kindle scribe tablet](https://sepi.me/2023-1-2-kindle-scribe-improvements)
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 
