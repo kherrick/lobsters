@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-01-03, 16:44:58",
-      "https://lobste.rs/s/ow4xyi/end_era"
+      "2023-01-03, 16:50:58",
+      "https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s"
     ],
     [
-      "The end of an era",
-      "http://deavmi.assigned.network/blog/thanks_again/"
+      "A confusing lifetime error related to Rust's lifetime elision",
+      "https://ntietz.com/blog/confusing-rust-lifetime-elision/"
     ]
   ],
   [
