@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 02:34:18](https://lobste.rs/s/izsji6/infinite_ai_array) - [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 * [2023-01-03, 01:38:57](https://lobste.rs/s/86alvk/gnu_debugger_gdb_adds_support_for) - [GNU Debugger \"GDB\" Adds Support For Microsoft's Debug Adapter Protocol](https://www.phoronix.com/news/GDB-Debug-Adapter-Protocol)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
@@ -16,7 +17,6 @@
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 * [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
-* [2023-01-02, 10:04:19](https://lobste.rs/s/y4lqq0/netbsd_at_reproducible_builds_summit) - [NetBSD at Reproducible Builds Summit Venice 2022](https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022)
 * [2023-01-02, 08:55:05](https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january) - [DistroWatch Weekly, Issue 1000, 2 January 2023](https://distrowatch.com/weekly-mobile.php?issue=20230102)
 * [2023-01-02, 08:06:10](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment) - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
