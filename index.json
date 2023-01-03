@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 19:02:09",
+      "https://lobste.rs/s/kurace/how_improve_prometheus_remote_write"
+    ],
+    [
+      "How to improve Prometheus remote write performance at scale",
+      "https://last9.io/blog/how-to-scale-prometheus-remote-write/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 18:10:35",
       "https://lobste.rs/s/u8wnxe/redis_data_types_basics"
     ],
@@ -197,16 +207,6 @@
     [
       "Introducing Austral: A Systems Language with Linear Types and Capabilities",
       "https://borretti.me/article/introducing-austral"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 01:38:57",
-      "https://lobste.rs/s/86alvk/gnu_debugger_gdb_adds_support_for"
-    ],
-    [
-      "GNU Debugger \"GDB\" Adds Support For Microsoft's Debug Adapter Protocol",
-      "https://www.phoronix.com/news/GDB-Debug-Adapter-Protocol"
     ]
   ],
   [
