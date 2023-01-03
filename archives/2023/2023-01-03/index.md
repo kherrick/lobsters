@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 12:03:52](https://lobste.rs/s/e3rkom/latent_web_liquid_knowledge) - [The Latent Web: Liquid Knowledge](https://wrongbutuseful.com/2023/01/03/the-latent-web-liquid-knowledge/)
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 08:30:18](https://lobste.rs/s/rcedbk/tabris_native_mobile_apps_javascript) - [Tabris: Native mobile apps in JavaScript](https://tabris.com/)
