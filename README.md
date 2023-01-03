@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 14:45:02](https://lobste.rs/s/xebeu2/http_3_prioritization_demystified) - [HTTP/3 Prioritization Demystified](https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/)
 * [2023-01-03, 14:16:45](https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical) - [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
@@ -16,7 +17,6 @@
 * [2023-01-03, 01:38:57](https://lobste.rs/s/86alvk/gnu_debugger_gdb_adds_support_for) - [GNU Debugger \"GDB\" Adds Support For Microsoft's Debug Adapter Protocol](https://www.phoronix.com/news/GDB-Debug-Adapter-Protocol)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
-* [2023-01-02, 21:01:32](https://lobste.rs/s/oakfpr/modular_formal_verification_rust) - [Modular Formal Verification of Rust Programs with Unsafe Blocks](https://arxiv.org/abs/2212.12976)
 * [2023-01-02, 19:39:59](https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2023-01-02, 19:01:27](https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction) - [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
