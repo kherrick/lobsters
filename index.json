@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 15:57:40",
+      "https://lobste.rs/s/p01m42/you_want_modules_not_microservices"
+    ],
+    [
+      "You Want Modules, Not Microservices",
+      "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 15:46:10",
       "https://lobste.rs/s/xu9atj/incremental_compilation_for_crystal"
     ],
@@ -77,16 +87,6 @@
     [
       "bflat - C# as you know it but with Go-inspired tooling",
       "https://flattened.net/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 12:03:52",
-      "https://lobste.rs/s/e3rkom/latent_web_liquid_knowledge"
-    ],
-    [
-      "The Latent Web: Liquid Knowledge",
-      "https://wrongbutuseful.com/2023/01/03/the-latent-web-liquid-knowledge/"
     ]
   ],
   [
