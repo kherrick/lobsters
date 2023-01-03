@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-03, 15:29:06",
+      "https://lobste.rs/s/9lfkmv/zero_dependency_random_number"
+    ],
+    [
+      "Zero-dependency random number generation in Rust",
+      "https://blog.orhun.dev/zero-deps-random-in-rust/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 14:45:02",
       "https://lobste.rs/s/xebeu2/http_3_prioritization_demystified"
     ],
@@ -177,16 +187,6 @@
     [
       "My first experience using Swift, SwiftUI, and XCode",
       "https://austinhenley.com/blog/firstswiftproject.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 19:01:27",
-      "https://lobste.rs/s/pdlfxp/inside_8086_processor_s_instruction"
-    ],
-    [
-      "Inside the 8086 processor's instruction prefetch circuitry",
-      "https://www.righto.com/2023/01/inside-8086-processors-instruction.html"
     ]
   ],
   [
