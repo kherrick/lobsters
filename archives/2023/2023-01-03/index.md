@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 19:02:09](https://lobste.rs/s/kurace/how_improve_prometheus_remote_write) - [How to improve Prometheus remote write performance at scale](https://last9.io/blog/how-to-scale-prometheus-remote-write/)
 * [2023-01-03, 18:10:35](https://lobste.rs/s/u8wnxe/redis_data_types_basics) - [Redis Data Types: The Basics](https://thenewstack.io/redis-data-types-the-basics/)
 * [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)

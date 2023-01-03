@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 19:02:09](https://lobste.rs/s/kurace/how_improve_prometheus_remote_write) - [How to improve Prometheus remote write performance at scale](https://last9.io/blog/how-to-scale-prometheus-remote-write/)
 * [2023-01-03, 18:10:35](https://lobste.rs/s/u8wnxe/redis_data_types_basics) - [Redis Data Types: The Basics](https://thenewstack.io/redis-data-types-the-basics/)
 * [2023-01-03, 18:03:25](https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes) - [Don't do this: creating useless indexes](https://mydbanotebook.org/post/too-many-indexes/)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
@@ -20,7 +21,6 @@
 * [2023-01-03, 05:05:08](https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4) - [DragonFlyBSD: release 6.4](https://www.dragonflybsd.org/release64/)
 * [2023-01-03, 02:34:18](https://lobste.rs/s/izsji6/infinite_ai_array) - [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
-* [2023-01-03, 01:38:57](https://lobste.rs/s/86alvk/gnu_debugger_gdb_adds_support_for) - [GNU Debugger \"GDB\" Adds Support For Microsoft's Debug Adapter Protocol](https://www.phoronix.com/news/GDB-Debug-Adapter-Protocol)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 * [2023-01-02, 18:50:46](https://lobste.rs/s/fcmgjj/what_do_about_hotlinking) - [What to do about hotlinking](https://www.kryogenix.org/days/2023/01/02/what-to-do-about-hotlinking/)
