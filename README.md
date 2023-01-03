@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-03, 05:28:25](https://lobste.rs/s/enbdjz/profiting_from_folly_others_2020) - [Profiting from the Folly of Others (2020)](https://accu.org/journals/overload/28/156/harrison_2776/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
 * [2023-01-03, 05:05:08](https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4) - [DragonFlyBSD: release 6.4](https://www.dragonflybsd.org/release64/)
 * [2023-01-03, 02:34:18](https://lobste.rs/s/izsji6/infinite_ai_array) - [Infinite AI Array](https://ianbicking.org/blog/2023/01/infinite-ai-array.html)
@@ -17,7 +18,6 @@
 * [2023-01-02, 12:29:21](https://lobste.rs/s/8fhtjs/modeling_database_tables_alloy) - [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 * [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 * [2023-01-02, 11:01:25](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4xszpy/what_are_you_doing_this_week)
-* [2023-01-02, 08:55:05](https://lobste.rs/s/lvrvqe/distrowatch_weekly_issue_1000_2_january) - [DistroWatch Weekly, Issue 1000, 2 January 2023](https://distrowatch.com/weekly-mobile.php?issue=20230102)
 * [2023-01-02, 08:06:10](https://lobste.rs/s/ebjyvt/classifying_python_virtual_environment) - [Classifying Python virtual environment workflows](https://snarky.ca/classifying-python-virtual-environment-workflows/)
 * [2023-01-02, 04:57:53](https://lobste.rs/s/sojruu/next_generation_universal_hlang) - [The Next-Generation Universal Hlang compiler](https://xeiaso.net/blog/hlang-nguh)
 * [2023-01-02, 02:03:44](https://lobste.rs/s/5haegd/wikimedia_foundation_s_abstract) - [Wikimedia Foundation's Abstract Wikipedia project \"at substantial risk of failure\"](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-01/Technology_report)
