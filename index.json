@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-03, 05:06:11",
+      "https://lobste.rs/s/ez1shl/infrastructure_behind_atms"
+    ],
+    [
+      "The infrastructure behind ATMs",
+      "https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 05:05:08",
+      "https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4"
+    ],
+    [
+      "DragonFlyBSD: release 6.4",
+      "https://www.dragonflybsd.org/release64/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 02:34:18",
       "https://lobste.rs/s/izsji6/infinite_ai_array"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-01-02, 21:01:32",
-      "https://lobste.rs/s/oakfpr/modular_formal_verification_rust"
-    ],
-    [
-      "Modular Formal Verification of Rust Programs with Unsafe Blocks",
-      "https://arxiv.org/abs/2212.12976"
-    ]
-  ],
-  [
-    [
       "2023-01-02, 19:39:59",
       "https://lobste.rs/s/fmajvs/my_first_experience_using_swift_swiftui"
     ],
@@ -97,16 +107,6 @@
     [
       "Improvements I would like to see in kindle scribe tablet",
       "https://sepi.me/2023-1-2-kindle-scribe-improvements"
-    ]
-  ],
-  [
-    [
-      "2023-01-02, 17:04:01",
-      "https://lobste.rs/s/89qop1/more_tales_from_ios_macos_kernel_trenches"
-    ],
-    [
-      "More Tales from the iOS macOS Kernel Trenches",
-      "https://github.com/potmdehex/slides/blob/main/Hexacon_2022_More_Tales_from_the_iOS_macOS_Kernel_Trenches.pdf"
     ]
   ],
   [
