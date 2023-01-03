@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-03](index.md)
 
+* [2023-01-03, 20:59:01](https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable) - [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 20:15:18](https://lobste.rs/s/njzbnf/satisfiability_theory_practice_beyond) - [Satisfiability: Theory, Practice, and Beyond Boot Camp](https://simons.berkeley.edu/workshops/satisfiability-theory-practice-beyond-boot-camp)
 * [2023-01-03, 20:11:29](https://lobste.rs/s/lkb4es/what_s_pod) - [What's in a Pod?](https://solidlabresearch.github.io/WhatsInAPod/)
