@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 05:53:34](https://lobste.rs/s/cqz8ye/claude_shannon_father_information_age) - [Claude Shannon - Father of the Information Age](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 * [2023-01-04, 02:52:45](https://lobste.rs/s/iuxuua/parallelizing_c_using_execution) - [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
 * [2023-01-04, 02:11:53](https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete) - [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
@@ -15,7 +16,6 @@
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)
 * [2023-01-03, 15:36:20](https://lobste.rs/s/flzfti/complexity_zoo) - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 * [2023-01-03, 15:29:06](https://lobste.rs/s/9lfkmv/zero_dependency_random_number) - [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
-* [2023-01-03, 14:16:45](https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical) - [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
