@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 08:25:09",
+      "https://lobste.rs/s/qya5ak/jvm_anatomy_quark_11_moving_gc_locality"
+    ],
+    [
+      "JVM Anatomy Quark #11: Moving GC and Locality",
+      "https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 08:01:16",
       "https://lobste.rs/s/p3uwyt/some_notes_on_working_with_old_c_code"
     ],
@@ -187,16 +197,6 @@
     [
       "bflat - C# as you know it but with Go-inspired tooling",
       "https://flattened.net/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 11:33:12",
-      "https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust"
-    ],
-    [
-      "Burn: Deep Learning Framework in Rust",
-      "https://github.com/burn-rs/burn"
     ]
   ],
   [
