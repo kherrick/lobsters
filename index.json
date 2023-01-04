@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 14:42:34",
+      "https://lobste.rs/s/snrdc7/make_lisp_review"
+    ],
+    [
+      "Make a Lisp - review",
+      "https://stereobooster.com/posts/make-a-lisp-review/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 14:13:29",
       "https://lobste.rs/s/uxhkqd/weird_ways_multiply_really_fast_with"
     ],
@@ -87,16 +97,6 @@
     [
       "The faker's guide to reading (x86) assembly language",
       "https://www.timdbg.com/posts/fakers-guide-to-assembly/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 02:52:45",
-      "https://lobste.rs/s/iuxuua/parallelizing_c_using_execution"
-    ],
-    [
-      "Parallelizing C++ using Execution Policies",
-      "https://azeemba.com/posts/cpp17-execution-policy.html"
     ]
   ],
   [
