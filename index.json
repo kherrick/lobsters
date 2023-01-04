@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-01-03, 19:02:09",
+      "https://lobste.rs/s/kurace/how_improve_prometheus_remote_write"
+    ],
+    [
+      "How to improve Prometheus remote write performance at scale",
+      "https://last9.io/blog/how-to-scale-prometheus-remote-write/"
+    ]
+  ],
+  [
+    [
       "2023-01-03, 18:03:25",
       "https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes"
     ],
@@ -137,16 +147,6 @@
     [
       "Zero-dependency random number generation in Rust",
       "https://blog.orhun.dev/zero-deps-random-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 14:16:45",
-      "https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical"
-    ],
-    [
-      "Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More",
-      "https://samcurry.net/web-hackers-vs-the-auto-industry/"
     ]
   ],
   [
