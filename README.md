@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
+* [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
+* [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
+* [2023-01-04, 16:13:47](https://lobste.rs/s/ckfbpb/automatic_sequence_controlled) - [The Automatic Sequence Controlled Calculator](https://inversethought.com/jordi/mark1.pdf)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
 * [2023-01-04, 14:50:24](https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective) - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
@@ -9,11 +13,8 @@
 * [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)
 * [2023-01-04, 11:38:27](https://lobste.rs/s/t2bi9l/lkrg_linux_kernel_runtime_guard) - [LKRG - Linux Kernel Runtime Guard](https://lkrg.org/)
 * [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
-* [2023-01-04, 08:25:09](https://lobste.rs/s/qya5ak/jvm_anatomy_quark_11_moving_gc_locality) - [JVM Anatomy Quark #11: Moving GC and Locality](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
-* [2023-01-04, 05:53:34](https://lobste.rs/s/cqz8ye/claude_shannon_father_information_age) - [Claude Shannon - Father of the Information Age](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
-* [2023-01-04, 02:11:53](https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete) - [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
@@ -24,7 +25,6 @@
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
-* [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
 
 ## [Archives](archives/index.md)
 
