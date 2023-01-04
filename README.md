@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 11:38:27](https://lobste.rs/s/t2bi9l/lkrg_linux_kernel_runtime_guard) - [LKRG - Linux Kernel Runtime Guard](https://lkrg.org/)
 * [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 * [2023-01-04, 08:25:09](https://lobste.rs/s/qya5ak/jvm_anatomy_quark_11_moving_gc_locality) - [JVM Anatomy Quark #11: Moving GC and Locality](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
 * [2023-01-04, 08:01:16](https://lobste.rs/s/p3uwyt/some_notes_on_working_with_old_c_code) - [Some notes on working with old C code](https://boston.conman.org//2023/01/02.1)
@@ -9,7 +10,6 @@
 * [2023-01-04, 02:52:45](https://lobste.rs/s/iuxuua/parallelizing_c_using_execution) - [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
 * [2023-01-04, 02:11:53](https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete) - [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
 * [2023-01-03, 21:36:22](https://lobste.rs/s/dkfnfd/fallacies_enterprise_computing_2016) - [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
-* [2023-01-03, 20:59:01](https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable) - [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
