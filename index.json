@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 04:08:16",
+      "https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly"
+    ],
+    [
+      "The faker's guide to reading (x86) assembly language",
+      "https://www.timdbg.com/posts/fakers-guide-to-assembly/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 02:52:45",
       "https://lobste.rs/s/iuxuua/parallelizing_c_using_execution"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-01-03, 19:02:09",
-      "https://lobste.rs/s/kurace/how_improve_prometheus_remote_write"
+      "2023-01-03, 18:03:25",
+      "https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes"
     ],
     [
-      "How to improve Prometheus remote write performance at scale",
-      "https://last9.io/blog/how-to-scale-prometheus-remote-write/"
+      "Don't do this: creating useless indexes",
+      "https://mydbanotebook.org/post/too-many-indexes/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Writing a Python SQL engine from scratch",
       "https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 17:06:41",
-      "https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs"
-    ],
-    [
-      "Explicit sequencing of C programs",
-      "http://deavmi.assigned.network/research/"
     ]
   ],
   [
