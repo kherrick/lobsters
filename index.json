@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 15:15:40",
+      "https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022"
+    ],
+    [
+      "urllib3 raised $26,000 and shipped v2.0 in 2022",
+      "https://sethmlarson.dev/urllib3-in-2022"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 14:50:24",
       "https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective"
     ],
@@ -127,16 +137,6 @@
     [
       "It is not what you expect, but it is what you want: how Data#initialize is designed",
       "https://zverok.space/blog/2023-01-03-data-initialize.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 17:26:00",
-      "https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch"
-    ],
-    [
-      "Writing a Python SQL engine from scratch",
-      "https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md"
     ]
   ],
   [
