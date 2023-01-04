@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-04, 05:53:34](https://lobste.rs/s/cqz8ye/claude_shannon_father_information_age) - [Claude Shannon - Father of the Information Age](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 * [2023-01-04, 02:52:45](https://lobste.rs/s/iuxuua/parallelizing_c_using_execution) - [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
