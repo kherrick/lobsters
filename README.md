@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 * [2023-01-04, 19:39:43](https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https) - [Why I still have an old-school cert on my https site](https://rachelbythebay.com/w/2023/01/03/ssl/)
 * [2023-01-04, 19:20:30](https://lobste.rs/s/saenna/chunking_strings_elixir_how_difficult) - [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
@@ -22,7 +23,6 @@
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 * [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)
-* [2023-01-03, 15:36:20](https://lobste.rs/s/flzfti/complexity_zoo) - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 * [2023-01-03, 15:29:06](https://lobste.rs/s/9lfkmv/zero_dependency_random_number) - [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 
