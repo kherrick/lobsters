@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 02:52:45](https://lobste.rs/s/iuxuua/parallelizing_c_using_execution) - [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
 * [2023-01-04, 02:11:53](https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete) - [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
 * [2023-01-03, 21:36:22](https://lobste.rs/s/dkfnfd/fallacies_enterprise_computing_2016) - [The Fallacies of Enterprise Computing (2016)](http://blogs.newardassociates.com/blog/2016/enterprise-computing-fallacies.html)
 * [2023-01-03, 20:59:01](https://lobste.rs/s/6qgmde/some_people_say_2048_bit_rsa_is_vulnerable) - [Some people say 2048-bit RSA is vulnerable to a combo of conventional and current quantum computers](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
@@ -20,7 +21,6 @@
 * [2023-01-03, 11:33:12](https://lobste.rs/s/mwdbx1/burn_deep_learning_framework_rust) - [Burn: Deep Learning Framework in Rust](https://github.com/burn-rs/burn)
 * [2023-01-03, 08:39:01](https://lobste.rs/s/oz3pyi/26_programming_languages_25_days_part_2) - [26 programming languages in 25 days, Part 2: Reflections on language design](https://matt.might.net/articles/26-languages-part2/)
 * [2023-01-03, 05:06:11](https://lobste.rs/s/ez1shl/infrastructure_behind_atms) - [The infrastructure behind ATMs](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)
-* [2023-01-03, 05:05:08](https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4) - [DragonFlyBSD: release 6.4](https://www.dragonflybsd.org/release64/)
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
