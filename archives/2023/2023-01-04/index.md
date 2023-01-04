@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 19:39:43](https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https) - [Why I still have an old-school cert on my https site](https://rachelbythebay.com/w/2023/01/03/ssl/)
 * [2023-01-04, 19:20:30](https://lobste.rs/s/saenna/chunking_strings_elixir_how_difficult) - [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
