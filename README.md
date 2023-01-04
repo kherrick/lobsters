@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 19:20:30](https://lobste.rs/s/saenna/chunking_strings_elixir_how_difficult) - [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
 * [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
@@ -7,7 +8,6 @@
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
-* [2023-01-04, 16:13:47](https://lobste.rs/s/ckfbpb/automatic_sequence_controlled) - [The Automatic Sequence Controlled Calculator](https://inversethought.com/jordi/mark1.pdf)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
 * [2023-01-04, 14:50:24](https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective) - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
