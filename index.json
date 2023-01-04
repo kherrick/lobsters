@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-01-03, 18:03:25",
-      "https://lobste.rs/s/ndabux/don_t_do_this_creating_useless_indexes"
-    ],
-    [
-      "Don't do this: creating useless indexes",
-      "https://mydbanotebook.org/post/too-many-indexes/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 17:26:00",
       "https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch"
     ],
@@ -157,6 +147,16 @@
     [
       "Zero-dependency random number generation in Rust",
       "https://blog.orhun.dev/zero-deps-random-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-01-03, 14:16:45",
+      "https://lobste.rs/s/v9b3ey/web_hackers_vs_auto_industry_critical"
+    ],
+    [
+      "Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More",
+      "https://samcurry.net/web-hackers-vs-the-auto-industry/"
     ]
   ],
   [
