@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 14:42:34](https://lobste.rs/s/snrdc7/make_lisp_review) - [Make a Lisp - review](https://stereobooster.com/posts/make-a-lisp-review/)
 * [2023-01-04, 14:13:29](https://lobste.rs/s/uxhkqd/weird_ways_multiply_really_fast_with) - [Weird ways to multiply really fast with Karatsuba, Toom–Cook and Fourier](https://www.notamonadtutorial.com/weird-ways-to-multiply-really-fast-with-karatsuba-toom-cook-and-fourier/)
 * [2023-01-04, 14:13:25](https://lobste.rs/s/dcutfk/escaping_from_bhyve) - [Escaping from bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
 * [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)

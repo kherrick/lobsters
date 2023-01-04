@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 14:42:34](https://lobste.rs/s/snrdc7/make_lisp_review) - [Make a Lisp - review](https://stereobooster.com/posts/make-a-lisp-review/)
 * [2023-01-04, 14:13:29](https://lobste.rs/s/uxhkqd/weird_ways_multiply_really_fast_with) - [Weird ways to multiply really fast with Karatsuba, Toom–Cook and Fourier](https://www.notamonadtutorial.com/weird-ways-to-multiply-really-fast-with-karatsuba-toom-cook-and-fourier/)
 * [2023-01-04, 14:13:25](https://lobste.rs/s/dcutfk/escaping_from_bhyve) - [Escaping from bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
 * [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)
@@ -9,7 +10,6 @@
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-04, 05:53:34](https://lobste.rs/s/cqz8ye/claude_shannon_father_information_age) - [Claude Shannon - Father of the Information Age](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
-* [2023-01-04, 02:52:45](https://lobste.rs/s/iuxuua/parallelizing_c_using_execution) - [Parallelizing C++ using Execution Policies](https://azeemba.com/posts/cpp17-execution-policy.html)
 * [2023-01-04, 02:11:53](https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete) - [The MOS 6502 is (mostly) Turing-complete without registers](https://oldvcr.blogspot.com/2023/01/the-mos-6502-is-mostly-turing-complete.html)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 17:26:00](https://lobste.rs/s/ztaskf/writing_python_sql_engine_from_scratch) - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
