@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 * [2023-01-04, 08:25:09](https://lobste.rs/s/qya5ak/jvm_anatomy_quark_11_moving_gc_locality) - [JVM Anatomy Quark #11: Moving GC and Locality](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/)
 * [2023-01-04, 08:01:16](https://lobste.rs/s/p3uwyt/some_notes_on_working_with_old_c_code) - [Some notes on working with old C code](https://boston.conman.org//2023/01/02.1)
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
