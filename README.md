@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 * [2023-01-04, 19:39:43](https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https) - [Why I still have an old-school cert on my https site](https://rachelbythebay.com/w/2023/01/03/ssl/)
 * [2023-01-04, 19:20:30](https://lobste.rs/s/saenna/chunking_strings_elixir_how_difficult) - [Chunking strings in Elixir: how difficult can it be?](https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
-* [2023-01-04, 17:07:40](https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python) - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
