@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 02:52:45",
+      "https://lobste.rs/s/iuxuua/parallelizing_c_using_execution"
+    ],
+    [
+      "Parallelizing C++ using Execution Policies",
+      "https://azeemba.com/posts/cpp17-execution-policy.html"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 02:11:53",
       "https://lobste.rs/s/idu6ni/mos_6502_is_mostly_turing_complete"
     ],
@@ -197,16 +207,6 @@
     [
       "The infrastructure behind ATMs",
       "https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 05:05:08",
-      "https://lobste.rs/s/bzthnm/dragonflybsd_release_6_4"
-    ],
-    [
-      "DragonFlyBSD: release 6.4",
-      "https://www.dragonflybsd.org/release64/"
     ]
   ],
   [
