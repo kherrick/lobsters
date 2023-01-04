@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 08:01:16](https://lobste.rs/s/p3uwyt/some_notes_on_working_with_old_c_code) - [Some notes on working with old C code](https://boston.conman.org//2023/01/02.1)
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-04, 05:53:34](https://lobste.rs/s/cqz8ye/claude_shannon_father_information_age) - [Claude Shannon - Father of the Information Age](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
@@ -24,7 +25,6 @@
 * [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 * [2023-01-02, 23:27:57](https://lobste.rs/s/owyoac/releasing_cargo_sandbox_sandboxed) - [Releasing cargo-sandbox, a sandboxed wrapper around cargo](https://github.com/insanitybit/cargo-sandbox/)
 * [2023-01-02, 21:54:04](https://lobste.rs/s/6fktsk/weathering_software_winter) - [weathering software winter](https://100r.co/site/weathering_software_winter.html)
-* [2023-01-02, 11:15:12](https://lobste.rs/s/hmgqii/how_many_layers_ui_inconsistencies_are) - [How many layers of UI inconsistencies are in Windows 11?](https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/)
 
 ## [Archives](archives/index.md)
 
