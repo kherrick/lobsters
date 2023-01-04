@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 17:07:40",
+      "https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python"
+    ],
+    [
+      "Lazy Evaluation Using Recursive Python Generators",
+      "https://martinheinz.dev/blog/88"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 16:41:53",
       "https://lobste.rs/s/bi4312/using_highly_dynamic_language_for"
     ],
@@ -157,16 +167,6 @@
     [
       "It is not what you expect, but it is what you want: how Data#initialize is designed",
       "https://zverok.space/blog/2023-01-03-data-initialize.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 17:06:41",
-      "https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs"
-    ],
-    [
-      "Explicit sequencing of C programs",
-      "http://deavmi.assigned.network/research/"
     ]
   ],
   [
