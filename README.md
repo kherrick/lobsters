@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 17:07:40](https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python) - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
@@ -16,7 +17,6 @@
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
 * [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
-* [2023-01-03, 17:06:41](https://lobste.rs/s/jzukoz/explicit_sequencing_c_programs) - [Explicit sequencing of C programs](http://deavmi.assigned.network/research/)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 * [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)
