@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
 * [2023-01-04, 17:07:40](https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python) - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
@@ -24,7 +25,6 @@
 * [2023-01-03, 15:29:06](https://lobste.rs/s/9lfkmv/zero_dependency_random_number) - [Zero-dependency random number generation in Rust](https://blog.orhun.dev/zero-deps-random-in-rust/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 * [2023-01-03, 13:42:06](https://lobste.rs/s/99hlhq/bflat_c_as_you_know_it_with_go_inspired) - [bflat - C# as you know it but with Go-inspired tooling](https://flattened.net/)
-* [2023-01-03, 02:07:40](https://lobste.rs/s/zz7qij/introducing_austral_systems_language) - [Introducing Austral: A Systems Language with Linear Types and Capabilities](https://borretti.me/article/introducing-austral)
 
 ## [Archives](archives/index.md)
 
