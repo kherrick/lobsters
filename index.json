@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-04, 19:39:43",
+      "https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https"
+    ],
+    [
+      "Why I still have an old-school cert on my https site",
+      "https://rachelbythebay.com/w/2023/01/03/ssl/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 19:20:30",
       "https://lobste.rs/s/saenna/chunking_strings_elixir_how_difficult"
     ],
@@ -27,16 +37,6 @@
     [
       "Spatial Search Functionality With Neo4j",
       "https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 17:52:40",
-      "https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go"
-    ],
-    [
-      "Pushup: a page-oriented web framework for Go",
-      "https://pushup.adhoc.dev/"
     ]
   ],
   [
