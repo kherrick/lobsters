@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 22:33:54](https://lobste.rs/s/2bospr/6_practices_for_effective_pull_requests) - [6 Practices for Effective Pull Requests](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/)
+* [2023-01-04, 22:26:51](https://lobste.rs/s/nqj4th/rust_contracts_rfc_draft_minutes_from) - [Rust Contracts RFC Draft / minutes from formal verification meeting](https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md)
 * [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 * [2023-01-04, 19:39:43](https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https) - [Why I still have an old-school cert on my https site](https://rachelbythebay.com/w/2023/01/03/ssl/)
