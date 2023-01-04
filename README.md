@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
 * [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
 * [2023-01-04, 17:07:40](https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python) - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
@@ -17,7 +18,6 @@
 * [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-04, 04:08:16](https://lobste.rs/s/9bttgi/faker_s_guide_reading_x86_assembly) - [The faker's guide to reading (x86) assembly language](https://www.timdbg.com/posts/fakers-guide-to-assembly/)
-* [2023-01-03, 20:20:28](https://lobste.rs/s/oyrydm/it_is_not_what_you_expect_it_is_what_you_want) - [It is not what you expect, but it is what you want: how Data#initialize is designed](https://zverok.space/blog/2023-01-03-data-initialize.html)
 * [2023-01-03, 16:50:58](https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s) - [A confusing lifetime error related to Rust's lifetime elision](https://ntietz.com/blog/confusing-rust-lifetime-elision/)
 * [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 15:43:35](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023) - [Who's Hiring? Q1Y2023](https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023)

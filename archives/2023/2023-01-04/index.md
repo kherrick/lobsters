@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-04](index.md)
 
+* [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
 * [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
 * [2023-01-04, 17:07:40](https://lobste.rs/s/e1pav3/lazy_evaluation_using_recursive_python) - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 * [2023-01-04, 16:41:53](https://lobste.rs/s/bi4312/using_highly_dynamic_language_for) - [Using a Highly Dynamic Language for Development (2021)](https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf)
