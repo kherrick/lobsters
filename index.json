@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 19:35:52",
+      "https://lobste.rs/s/22uszx/another_look_at_steps_for_issuing_cert"
+    ],
+    [
+      "Another look at the steps for issuing a cert",
+      "https://rachelbythebay.com/w/2023/01/04/cert/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 19:01:52",
       "https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers"
     ],
@@ -237,16 +247,6 @@
     [
       "Oh the Crates You'll Go! A 2022 Retrospective",
       "https://jack.wrenn.fyi/blog/2022-retrospective/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 14:13:25",
-      "https://lobste.rs/s/dcutfk/escaping_from_bhyve"
-    ],
-    [
-      "Escaping from bhyve",
-      "https://www.synacktiv.com/publications/escaping-from-bhyve.html"
     ]
   ]
 ]
