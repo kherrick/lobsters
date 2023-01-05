@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 11:28:33](https://lobste.rs/s/4gj3mm/microservices_with_benefits) - [Microservices, but with Benefits](https://www.blinkingcaret.com/2022/06/28/microservices-with-benefits/)
 * [2023-01-05, 11:22:43](https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn) - [Introducing: XRPN - the eXtensible RPN programming language](https://github.com/isene/xrpn)
 * [2023-01-05, 10:44:21](https://lobste.rs/s/yvwhlv/prototype_pollution_python) - [Prototype Pollution in Python](https://blog.abdulrah33m.com/prototype-pollution-in-python/)
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
@@ -16,7 +17,6 @@
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
-* [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
