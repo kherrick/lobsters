@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 17:56:33",
+      "https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter"
+    ],
+    [
+      "Favorite compiler and interpreter resources",
+      "https://lists.eatonphil.com/compilers-and-interpreters.html"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 17:01:55",
       "https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account"
     ],
@@ -187,16 +197,6 @@
     [
       "BugChecker: SoftICE-like kernel debugger for Windows 11",
       "https://github.com/vitoplantamura/BugChecker"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 20:21:32",
-      "https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet"
-    ],
-    [
-      "Emulating an emulator inside itself. Meet Blink",
-      "https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink"
     ]
   ],
   [
