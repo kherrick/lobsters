@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 10:44:21](https://lobste.rs/s/yvwhlv/prototype_pollution_python) - [Prototype Pollution in Python](https://blog.abdulrah33m.com/prototype-pollution-in-python/)
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-01-05, 07:35:31](https://lobste.rs/s/u59un9/difference_between_rust_intristics_rust) - [Difference between Rust intristics and Rust lang items (with Haskell examples)](https://github.com/ghc-proposals/ghc-proposals/pull/559#issuecomment-1371354136)
 * [2023-01-05, 07:27:43](https://lobste.rs/s/ynbcmn/reflecting_on_transducers) - [Reflecting on Transducers](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
@@ -12,7 +13,6 @@
 * [2023-01-04, 22:26:51](https://lobste.rs/s/nqj4th/rust_contracts_rfc_draft_minutes_from) - [Rust Contracts RFC Draft / minutes from formal verification meeting](https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md)
 * [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
-* [2023-01-04, 19:39:43](https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https) - [Why I still have an old-school cert on my https site](https://rachelbythebay.com/w/2023/01/03/ssl/)
 * [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 18:06:29](https://lobste.rs/s/jdrde3/spatial_search_functionality_with_neo4j) - [Spatial Search Functionality With Neo4j](https://lyonwj.com/blog/making-sense-of-geospatial-data-with-knowledge-graphs-neo4j)
 * [2023-01-04, 17:52:40](https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go) - [Pushup: a page-oriented web framework for Go](https://pushup.adhoc.dev/)
