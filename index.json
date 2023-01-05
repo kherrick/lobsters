@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 06:34:18",
+      "https://lobste.rs/s/qivzfa/circleci_security_alert_rotate_any"
+    ],
+    [
+      "CircleCI security alert: Rotate any secrets stored in",
+      "https://circleci.com/blog/january-4-2023-security-alert/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 05:27:05",
       "https://lobste.rs/s/jokipz/how_optimize_cuda_matmul_kernel_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Generalized LL (GLL) Parser",
       "https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 06:53:49",
-      "https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me"
-    ],
-    [
-      "Is a ZimaBoard the Right Choice for Me?",
-      "https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/"
     ]
   ],
   [
