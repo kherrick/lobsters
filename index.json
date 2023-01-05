@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-05, 01:08:19",
+      "https://lobste.rs/s/8yvdbz/why_modeling_finds_bugs"
+    ],
+    [
+      "Why Modeling Finds Bugs",
+      "https://buttondown.email/hillelwayne/archive/why-modeling-finds-bugs-without-model-checking/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 00:43:55",
+      "https://lobste.rs/s/7zyudk/go_1_20_cryptography"
+    ],
+    [
+      "Go 1.20 Cryptography",
+      "https://words.filippo.io/dispatches/go-1-20-cryptography/"
+    ]
+  ],
+  [
+    [
+      "2023-01-05, 00:39:09",
+      "https://lobste.rs/s/aqbirp/performance_webassembly_runtimes_2023"
+    ],
+    [
+      "Performance of WebAssembly runtimes in 2023",
+      "https://00f.net/2023/01/04/webassembly-benchmark-2023/"
+    ]
+  ],
+  [
+    [
       "2023-01-04, 22:33:54",
       "https://lobste.rs/s/2bospr/6_practices_for_effective_pull_requests"
     ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2023-01-04, 16:41:53",
-      "https://lobste.rs/s/bi4312/using_highly_dynamic_language_for"
+      "2023-01-04, 17:52:40",
+      "https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go"
     ],
     [
-      "Using a Highly Dynamic Language for Development (2021)",
-      "https://raw.githubusercontent.com/Shinmera/talks/master/gic2021-highly-dynamic/paper.pdf"
+      "Pushup: a page-oriented web framework for Go",
+      "https://pushup.adhoc.dev/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-01-04, 11:38:27",
-      "https://lobste.rs/s/t2bi9l/lkrg_linux_kernel_runtime_guard"
-    ],
-    [
-      "LKRG - Linux Kernel Runtime Guard",
-      "https://lkrg.org/"
-    ]
-  ],
-  [
-    [
       "2023-01-04, 10:03:19",
       "https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-03, 16:50:58",
-      "https://lobste.rs/s/uslf4h/confusing_lifetime_error_related_rust_s"
-    ],
-    [
-      "A confusing lifetime error related to Rust's lifetime elision",
-      "https://ntietz.com/blog/confusing-rust-lifetime-elision/"
-    ]
-  ],
-  [
-    [
       "2023-01-03, 15:57:40",
       "https://lobste.rs/s/p01m42/you_want_modules_not_microservices"
     ],
@@ -227,16 +237,6 @@
     [
       "Who's Hiring? Q1Y2023",
       "https://lobste.rs/s/gxszoc/who_s_hiring_q1y2023"
-    ]
-  ],
-  [
-    [
-      "2023-01-03, 15:29:06",
-      "https://lobste.rs/s/9lfkmv/zero_dependency_random_number"
-    ],
-    [
-      "Zero-dependency random number generation in Rust",
-      "https://blog.orhun.dev/zero-deps-random-in-rust/"
     ]
   ],
   [
