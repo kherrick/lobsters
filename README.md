@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 06:34:18](https://lobste.rs/s/qivzfa/circleci_security_alert_rotate_any) - [CircleCI security alert: Rotate any secrets stored in](https://circleci.com/blog/january-4-2023-security-alert/)
 * [2023-01-05, 05:27:05](https://lobste.rs/s/jokipz/how_optimize_cuda_matmul_kernel_for) - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 * [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm_wikipedia) - [Galactic algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
@@ -23,7 +24,6 @@
 * [2023-01-04, 14:13:25](https://lobste.rs/s/dcutfk/escaping_from_bhyve) - [Escaping from bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
 * [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)
 * [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
-* [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 
 ## [Archives](archives/index.md)
