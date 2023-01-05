@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 * [2023-01-05, 16:08:52](https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel) - [Casper-fs is a Custom Hidden Linux Kernel Module generator](https://github.com/CoolerVoid/casper-fs)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)

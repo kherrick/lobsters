@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 * [2023-01-05, 16:08:52](https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel) - [Casper-fs is a Custom Hidden Linux Kernel Module generator](https://github.com/CoolerVoid/casper-fs)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
@@ -15,7 +16,6 @@
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm) - [Galactic algorithm](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
 * [2023-01-05, 00:39:09](https://lobste.rs/s/aqbirp/performance_webassembly_runtimes_2023) - [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)
-* [2023-01-04, 22:33:54](https://lobste.rs/s/2bospr/6_practices_for_effective_pull_requests) - [6 Practices for Effective Pull Requests](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/)
 * [2023-01-04, 22:26:51](https://lobste.rs/s/nqj4th/rust_contracts_rfc_draft_minutes_from) - [Rust Contracts RFC Draft / minutes from formal verification meeting](https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md)
 * [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
