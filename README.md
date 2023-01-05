@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm_wikipedia) - [Galactic algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-01-05, 01:08:19](https://lobste.rs/s/8yvdbz/why_modeling_finds_bugs) - [Why Modeling Finds Bugs](https://buttondown.email/hillelwayne/archive/why-modeling-finds-bugs-without-model-checking/)
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
@@ -23,7 +24,6 @@
 * [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)
 * [2023-01-04, 10:03:19](https://lobste.rs/s/xl1nyb/generalized_ll_gll_parser) - [Generalized LL (GLL) Parser](https://rahul.gopinath.org/post/2022/07/02/generalized-ll-parser/)
 * [2023-01-04, 06:53:49](https://lobste.rs/s/l2jxdx/is_zimaboard_right_choice_for_me) - [Is a ZimaBoard the Right Choice for Me?](https://www.martinrowan.co.uk/2023/01/is-a-zimaboard-the-right-choice-for-me/)
-* [2023-01-03, 15:57:40](https://lobste.rs/s/p01m42/you_want_modules_not_microservices) - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 * [2023-01-03, 14:04:42](https://lobste.rs/s/jcvjh3/debian_has_removed_python_2_from_its_next) - [Debian has removed Python 2 from its next version](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 
 ## [Archives](archives/index.md)

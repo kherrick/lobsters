@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm_wikipedia) - [Galactic algorithm - Wikipedia](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-01-05, 01:08:19](https://lobste.rs/s/8yvdbz/why_modeling_finds_bugs) - [Why Modeling Finds Bugs](https://buttondown.email/hillelwayne/archive/why-modeling-finds-bugs-without-model-checking/)
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
