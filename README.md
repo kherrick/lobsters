@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 23:26:18](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d) - [Safer Linux Kernel Modules Using the D Programming Language](https://ieeexplore.ieee.org/document/9987502)
 * [2023-01-05, 22:25:15](https://lobste.rs/s/lbcptj/microlibrary_for_counting_cpu_cycles) - [A microlibrary for counting cpu cycles](https://cpucycles.cr.yp.to/)
 * [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
@@ -12,7 +13,6 @@
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
-* [2023-01-05, 11:28:33](https://lobste.rs/s/4gj3mm/microservices_with_benefits) - [Microservices, but with Benefits](https://www.blinkingcaret.com/2022/06/28/microservices-with-benefits/)
 * [2023-01-05, 11:22:43](https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn) - [Introducing: XRPN - the eXtensible RPN programming language](https://github.com/isene/xrpn)
 * [2023-01-05, 10:44:21](https://lobste.rs/s/yvwhlv/prototype_pollution_python) - [Prototype Pollution in Python](https://blog.abdulrah33m.com/prototype-pollution-in-python/)
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
