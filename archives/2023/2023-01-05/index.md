@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 22:25:15](https://lobste.rs/s/lbcptj/microlibrary_for_counting_cpu_cycles) - [A microlibrary for counting cpu cycles](https://cpucycles.cr.yp.to/)
+* [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
 * [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)

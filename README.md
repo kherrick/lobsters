@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 22:25:15](https://lobste.rs/s/lbcptj/microlibrary_for_counting_cpu_cycles) - [A microlibrary for counting cpu cycles](https://cpucycles.cr.yp.to/)
+* [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
 * [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
@@ -7,7 +9,6 @@
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 * [2023-01-05, 17:01:55](https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account) - [The bank with the curiously buggy account statement](https://tomscii.sig7.se/2022/10/The-bank-with-the-buggy-account-statement)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
-* [2023-01-05, 16:08:52](https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel) - [Casper-fs is a Custom Hidden Linux Kernel Module generator](https://github.com/CoolerVoid/casper-fs)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
 * [2023-01-05, 11:53:51](https://lobste.rs/s/ufqypx/type_variance_java_kotlin) - [Type Variance in Java and Kotlin](https://dzone.com/articles/type-variance-in-java-and-kotlin)
@@ -21,7 +22,6 @@
 * [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm) - [Galactic algorithm](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
-* [2023-01-05, 00:39:09](https://lobste.rs/s/aqbirp/performance_webassembly_runtimes_2023) - [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
