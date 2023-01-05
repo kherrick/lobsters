@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 17:01:55",
+      "https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account"
+    ],
+    [
+      "The bank with the curiously buggy account statement",
+      "https://tomscii.sig7.se/2022/10/The-bank-with-the-buggy-account-statement"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:54:11",
       "https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain"
     ],
@@ -187,16 +197,6 @@
     [
       "Emulating an emulator inside itself. Meet Blink",
       "https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 16:36:31",
-      "https://lobste.rs/s/jxoxfn/wal_mode_litefs"
-    ],
-    [
-      "WAL Mode in LiteFS",
-      "https://fly.io/blog/wal-mode-in-litefs/"
     ]
   ],
   [
