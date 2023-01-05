@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 18:54:46",
+      "https://lobste.rs/s/8icwqm/rust_atomics_locks"
+    ],
+    [
+      "Rust Atomics and Locks",
+      "https://marabos.nl/atomics/"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 17:56:33",
       "https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust Contracts RFC Draft / minutes from formal verification meeting",
       "https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 21:56:01",
-      "https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger"
-    ],
-    [
-      "BugChecker: SoftICE-like kernel debugger for Windows 11",
-      "https://github.com/vitoplantamura/BugChecker"
     ]
   ],
   [
