@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 * [2023-01-05, 19:35:52](https://lobste.rs/s/22uszx/another_look_at_steps_for_issuing_cert) - [Another look at the steps for issuing a cert](https://rachelbythebay.com/w/2023/01/04/cert/)
 * [2023-01-05, 19:01:52](https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers) - [WebRTC Stun/Turn Ice Servers](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
