@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 11:22:43",
+      "https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn"
+    ],
+    [
+      "Introducing: XRPN - the eXtensible RPN programming language",
+      "https://github.com/isene/xrpn"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 10:44:21",
       "https://lobste.rs/s/yvwhlv/prototype_pollution_python"
     ],
@@ -207,16 +217,6 @@
     [
       "Oh the Crates You'll Go! A 2022 Retrospective",
       "https://jack.wrenn.fyi/blog/2022-retrospective/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 14:13:29",
-      "https://lobste.rs/s/uxhkqd/weird_ways_multiply_really_fast_with"
-    ],
-    [
-      "Weird ways to multiply really fast with Karatsuba, Toom–Cook and Fourier",
-      "https://www.notamonadtutorial.com/weird-ways-to-multiply-really-fast-with-karatsuba-toom-cook-and-fourier/"
     ]
   ],
   [
