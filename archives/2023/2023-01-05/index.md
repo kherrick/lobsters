@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 11:53:51](https://lobste.rs/s/ufqypx/type_variance_java_kotlin) - [Type Variance in Java and Kotlin](https://dzone.com/articles/type-variance-in-java-and-kotlin)
 * [2023-01-05, 11:28:33](https://lobste.rs/s/4gj3mm/microservices_with_benefits) - [Microservices, but with Benefits](https://www.blinkingcaret.com/2022/06/28/microservices-with-benefits/)
 * [2023-01-05, 11:22:43](https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn) - [Introducing: XRPN - the eXtensible RPN programming language](https://github.com/isene/xrpn)
 * [2023-01-05, 10:44:21](https://lobste.rs/s/yvwhlv/prototype_pollution_python) - [Prototype Pollution in Python](https://blog.abdulrah33m.com/prototype-pollution-in-python/)
