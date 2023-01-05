@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
 * [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 * [2023-01-05, 19:01:52](https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers) - [WebRTC Stun/Turn Ice Servers](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
@@ -24,7 +25,6 @@
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
-* [2023-01-04, 14:50:24](https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective) - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
 
 ## [Archives](archives/index.md)
 
