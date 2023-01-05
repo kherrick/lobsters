@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 16:08:52](https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel) - [Casper-fs is a Custom Hidden Linux Kernel Module generator](https://github.com/CoolerVoid/casper-fs)
+* [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
 * [2023-01-05, 11:53:51](https://lobste.rs/s/ufqypx/type_variance_java_kotlin) - [Type Variance in Java and Kotlin](https://dzone.com/articles/type-variance-in-java-and-kotlin)
 * [2023-01-05, 11:28:33](https://lobste.rs/s/4gj3mm/microservices_with_benefits) - [Microservices, but with Benefits](https://www.blinkingcaret.com/2022/06/28/microservices-with-benefits/)

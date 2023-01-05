@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 16:08:52](https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel) - [Casper-fs is a Custom Hidden Linux Kernel Module generator](https://github.com/CoolerVoid/casper-fs)
+* [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 * [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
 * [2023-01-05, 11:53:51](https://lobste.rs/s/ufqypx/type_variance_java_kotlin) - [Type Variance in Java and Kotlin](https://dzone.com/articles/type-variance-in-java-and-kotlin)
 * [2023-01-05, 11:28:33](https://lobste.rs/s/4gj3mm/microservices_with_benefits) - [Microservices, but with Benefits](https://www.blinkingcaret.com/2022/06/28/microservices-with-benefits/)
@@ -17,14 +19,12 @@
 * [2023-01-04, 22:26:51](https://lobste.rs/s/nqj4th/rust_contracts_rfc_draft_minutes_from) - [Rust Contracts RFC Draft / minutes from formal verification meeting](https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md)
 * [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 20:21:32](https://lobste.rs/s/w8ulha/emulating_emulator_inside_itself_meet) - [Emulating an emulator inside itself. Meet Blink](https://hiro.codes/read/emulating-an-emulator-inside-itself.-meet-blink)
-* [2023-01-04, 18:47:48](https://lobste.rs/s/gxk2hy/non_destructive_silicon_imaging) - [Non-destructive silicon imaging](https://www.bunniestudios.com/blog/?p=6656)
 * [2023-01-04, 16:36:31](https://lobste.rs/s/jxoxfn/wal_mode_litefs) - [WAL Mode in LiteFS](https://fly.io/blog/wal-mode-in-litefs/)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
 * [2023-01-04, 14:50:24](https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective) - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
 * [2023-01-04, 14:13:25](https://lobste.rs/s/dcutfk/escaping_from_bhyve) - [Escaping from bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
-* [2023-01-04, 14:10:22](https://lobste.rs/s/9ttq0x/matchertext_escape_route_from_language) - [Matchertext: an escape route from language-embedding hell?](https://bford.info/2023/01/02/matchertext/)
 
 ## [Archives](archives/index.md)
 
