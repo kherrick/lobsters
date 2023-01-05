@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-05](index.md)
 
+* [2023-01-05, 19:35:52](https://lobste.rs/s/22uszx/another_look_at_steps_for_issuing_cert) - [Another look at the steps for issuing a cert](https://rachelbythebay.com/w/2023/01/04/cert/)
 * [2023-01-05, 19:01:52](https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers) - [WebRTC Stun/Turn Ice Servers](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
 * [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)

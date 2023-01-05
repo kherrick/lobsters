@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 19:35:52](https://lobste.rs/s/22uszx/another_look_at_steps_for_issuing_cert) - [Another look at the steps for issuing a cert](https://rachelbythebay.com/w/2023/01/04/cert/)
 * [2023-01-05, 19:01:52](https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers) - [WebRTC Stun/Turn Ice Servers](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
 * [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
@@ -24,7 +25,6 @@
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
 * [2023-01-04, 14:50:24](https://lobste.rs/s/7zlss7/oh_crates_you_ll_go_2022_retrospective) - [Oh the Crates You'll Go! A 2022 Retrospective](https://jack.wrenn.fyi/blog/2022-retrospective/)
-* [2023-01-04, 14:13:25](https://lobste.rs/s/dcutfk/escaping_from_bhyve) - [Escaping from bhyve](https://www.synacktiv.com/publications/escaping-from-bhyve.html)
 
 ## [Archives](archives/index.md)
 
