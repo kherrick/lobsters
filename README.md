@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 * [2023-01-05, 17:01:55](https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account) - [The bank with the curiously buggy account statement](https://tomscii.sig7.se/2022/10/The-bank-with-the-buggy-account-statement)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
@@ -19,7 +20,6 @@
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
 * [2023-01-05, 00:39:09](https://lobste.rs/s/aqbirp/performance_webassembly_runtimes_2023) - [Performance of WebAssembly runtimes in 2023](https://00f.net/2023/01/04/webassembly-benchmark-2023/)
 * [2023-01-04, 22:26:51](https://lobste.rs/s/nqj4th/rust_contracts_rfc_draft_minutes_from) - [Rust Contracts RFC Draft / minutes from formal verification meeting](https://github.com/rust-lang/lang-team/blob/66a43b3ffb8ae3d2a4ba1e5a43864b1f92876409/design-meeting-minutes/2022-11-25-contracts.md)
-* [2023-01-04, 21:56:01](https://lobste.rs/s/bnlous/bugchecker_softice_like_kernel_debugger) - [BugChecker: SoftICE-like kernel debugger for Windows 11](https://github.com/vitoplantamura/BugChecker)
 * [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 * [2023-01-04, 15:15:40](https://lobste.rs/s/6t8yhi/urllib3_raised_26_000_shipped_v2_0_2022) - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://sethmlarson.dev/urllib3-in-2022)
