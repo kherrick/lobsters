@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-05, 16:54:11",
+      "https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain"
+    ],
+    [
+      "[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD",
+      "https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-05, 16:08:52",
       "https://lobste.rs/s/8iar81/casper_fs_is_custom_hidden_linux_kernel"
     ],
@@ -147,16 +157,6 @@
     [
       "Performance of WebAssembly runtimes in 2023",
       "https://00f.net/2023/01/04/webassembly-benchmark-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-01-04, 22:33:54",
-      "https://lobste.rs/s/2bospr/6_practices_for_effective_pull_requests"
-    ],
-    [
-      "6 Practices for Effective Pull Requests",
-      "https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/"
     ]
   ],
   [
