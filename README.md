@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
 * [2023-01-06, 10:20:29](https://lobste.rs/s/bpcmdc/z_tokens_random_tokens_generation) - [z-tokens -- random tokens generation and related tools](https://github.com/volution/z-tokens)
 * [2023-01-06, 09:35:58](https://lobste.rs/s/zxhepw/simple_problem_isn_t) - [A simple problem that isn’t](https://muscar.eu/bitset-iter.html)
 * [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
@@ -19,7 +20,6 @@
 * [2023-01-05, 11:22:43](https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn) - [Introducing: XRPN - the eXtensible RPN programming language](https://github.com/isene/xrpn)
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-01-05, 07:35:31](https://lobste.rs/s/u59un9/difference_between_rust_intristics_rust) - [Difference between Rust intristics and Rust lang items (with Haskell examples)](https://github.com/ghc-proposals/ghc-proposals/pull/559#issuecomment-1371354136)
-* [2023-01-05, 07:27:43](https://lobste.rs/s/ynbcmn/reflecting_on_transducers) - [Reflecting on Transducers](https://www.thatgeoguy.ca/blog/2023/01/04/reflections-on-transducers/)
 * [2023-01-05, 06:34:18](https://lobste.rs/s/qivzfa/circleci_security_alert_rotate_any) - [CircleCI security alert: Rotate any secrets stored in](https://circleci.com/blog/january-4-2023-security-alert/)
 * [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm) - [Galactic algorithm](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
