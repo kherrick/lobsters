@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-06](index.md)
 
+* [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
+* [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
 * [2023-01-06, 22:26:04](https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though) - [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
 * [2023-01-06, 20:08:41](https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations) - [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 * [2023-01-06, 19:57:47](https://lobste.rs/s/0ge26u/code_riffs) - [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
