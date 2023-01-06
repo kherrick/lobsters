@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 09:35:58",
+      "https://lobste.rs/s/zxhepw/simple_problem_isn_t"
+    ],
+    [
+      "A simple problem that isn’t",
+      "https://muscar.eu/bitset-iter.html"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 09:01:11",
       "https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop"
     ],
@@ -47,16 +57,6 @@
     [
       "Safer Linux Kernel Modules Using the D Programming Language",
       "https://ieeexplore.ieee.org/document/9987502"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 22:25:15",
-      "https://lobste.rs/s/lbcptj/microlibrary_for_counting_cpu_cycles"
-    ],
-    [
-      "A microlibrary for counting cpu cycles",
-      "https://cpucycles.cr.yp.to/"
     ]
   ],
   [
