@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 14:56:30](https://lobste.rs/s/rkh5ju/kde_abandonware) - [KDE Abandonware](https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/)
+* [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 * [2023-01-06, 14:11:12](https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019) - [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
 * [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 * [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
@@ -22,8 +24,6 @@
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-01-05, 06:34:18](https://lobste.rs/s/qivzfa/circleci_security_alert_rotate_any) - [CircleCI security alert: Rotate any secrets stored in](https://circleci.com/blog/january-4-2023-security-alert/)
 * [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
-* [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm) - [Galactic algorithm](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
-* [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 
 ## [Archives](archives/index.md)
