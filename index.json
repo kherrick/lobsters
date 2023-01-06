@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 19:57:47",
+      "https://lobste.rs/s/0ge26u/code_riffs"
+    ],
+    [
+      "Code Riffs",
+      "http://blog.fogus.me/2023/01/06/code-riffs/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 19:21:33",
       "https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast"
     ],
@@ -57,6 +67,16 @@
     [
       "2022 ClangBuiltLinux Retrospective",
       "https://nathanchance.dev/posts/2022-cbl-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 14:56:30",
+      "https://lobste.rs/s/rkh5ju/kde_abandonware"
+    ],
+    [
+      "KDE Abandonware",
+      "https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-01-05, 23:26:18",
-      "https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d"
-    ],
-    [
-      "Safer Linux Kernel Modules Using the D Programming Language",
-      "https://ieeexplore.ieee.org/document/9987502"
-    ]
-  ],
-  [
-    [
       "2023-01-05, 22:22:50",
       "https://lobste.rs/s/5bf7y4/generating_static_portable_executables"
     ],
@@ -207,16 +217,6 @@
     [
       "Favorite compiler and interpreter resources",
       "https://lists.eatonphil.com/compilers-and-interpreters.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 17:01:55",
-      "https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account"
-    ],
-    [
-      "The bank with the curiously buggy account statement",
-      "https://tomscii.sig7.se/2022/10/The-bank-with-the-buggy-account-statement"
     ]
   ],
   [
