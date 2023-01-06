@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-06, 19:21:33",
+      "https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast"
+    ],
+    [
+      "Parallel streaming in Haskell: Part 1 - Fast efficient fun",
+      "https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 19:17:22",
+      "https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso"
+    ],
+    [
+      "ChatGPT in DR SBAITSO",
+      "https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 18:54:13",
       "https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general"
     ],
@@ -37,16 +57,6 @@
     [
       "2022 ClangBuiltLinux Retrospective",
       "https://nathanchance.dev/posts/2022-cbl-retrospective/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 14:56:30",
-      "https://lobste.rs/s/rkh5ju/kde_abandonware"
-    ],
-    [
-      "KDE Abandonware",
-      "https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Generating static and portable executables with OCaml",
       "https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 21:44:40",
-      "https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various"
-    ],
-    [
-      "Tau is an alternative front-end to various streaming sites",
-      "https://git.sr.ht/~conses/tau"
     ]
   ],
   [
