@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 17:23:19",
+      "https://lobste.rs/s/ti4n1p/curious_integral"
+    ],
+    [
+      "A Curious Integral",
+      "https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 15:26:01",
       "https://lobste.rs/s/wogir0/2022_clangbuiltlinux_retrospective"
     ],
@@ -237,16 +247,6 @@
     [
       "CircleCI security alert: Rotate any secrets stored in",
       "https://circleci.com/blog/january-4-2023-security-alert/"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 03:25:45",
-      "https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on"
-    ],
-    [
-      "How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core",
-      "https://jott.live/markdown/1.5tflop_m1"
     ]
   ]
 ]
