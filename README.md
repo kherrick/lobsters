@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-06, 01:48:33](https://lobste.rs/s/kbgssm/kmcaster_screencasting_software) - [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
@@ -9,7 +10,6 @@
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
 * [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
-* [2023-01-05, 19:35:52](https://lobste.rs/s/22uszx/another_look_at_steps_for_issuing_cert) - [Another look at the steps for issuing a cert](https://rachelbythebay.com/w/2023/01/04/cert/)
 * [2023-01-05, 19:01:52](https://lobste.rs/s/lhi60d/webrtc_stun_turn_ice_servers) - [WebRTC Stun/Turn Ice Servers](https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-properly)
 * [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
