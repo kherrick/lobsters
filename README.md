@@ -14,6 +14,7 @@
 * [2023-01-05, 17:01:55](https://lobste.rs/s/gbeill/bank_with_curiously_buggy_account) - [The bank with the curiously buggy account statement](https://tomscii.sig7.se/2022/10/The-bank-with-the-buggy-account-statement)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
+* [2023-01-05, 14:19:37](https://lobste.rs/s/in6ytn/how_cursor_is_rendered) - [How Cursor is Rendered](https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/)
 * [2023-01-05, 11:22:43](https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn) - [Introducing: XRPN - the eXtensible RPN programming language](https://github.com/isene/xrpn)
 * [2023-01-05, 10:44:21](https://lobste.rs/s/yvwhlv/prototype_pollution_python) - [Prototype Pollution in Python](https://blog.abdulrah33m.com/prototype-pollution-in-python/)
 * [2023-01-05, 10:07:05](https://lobste.rs/s/ky4gmr/announcing_turmoil_tokio_asynchronous) - [Announcing turmoil | Tokio - An asynchronous Rust runtime](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
@@ -23,7 +24,6 @@
 * [2023-01-05, 03:25:45](https://lobste.rs/s/akhaba/how_get_1_5_tflops_fp32_performance_on) - [How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core](https://jott.live/markdown/1.5tflop_m1)
 * [2023-01-05, 02:13:16](https://lobste.rs/s/hdfmmq/galactic_algorithm) - [Galactic algorithm](https://en.m.wikipedia.org/wiki/Galactic_algorithm)
 * [2023-01-05, 00:43:55](https://lobste.rs/s/7zyudk/go_1_20_cryptography) - [Go 1.20 Cryptography](https://words.filippo.io/dispatches/go-1-20-cryptography/)
-* [2023-01-04, 16:27:02](https://lobste.rs/s/2zktbl/gorilla_toolkit_is_now_no_longer_actively) - [The Gorilla Toolkit is now no longer actively maintained](https://github.com/gorilla/#gorilla-toolkit)
 * [2023-01-04, 15:39:56](https://lobste.rs/s/cwkbyg/first_public_release_pushup_new_compiler) - [First public release of Pushup: a new compiler for making web apps in Go](https://github.com/adhocteam/pushup)
 
 ## [Archives](archives/index.md)
