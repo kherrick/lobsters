@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-06](index.md)
 
+* [2023-01-06, 15:26:01](https://lobste.rs/s/wogir0/2022_clangbuiltlinux_retrospective) - [2022 ClangBuiltLinux Retrospective](https://nathanchance.dev/posts/2022-cbl-retrospective/)
 * [2023-01-06, 14:56:30](https://lobste.rs/s/rkh5ju/kde_abandonware) - [KDE Abandonware](https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 * [2023-01-06, 14:11:12](https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019) - [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
