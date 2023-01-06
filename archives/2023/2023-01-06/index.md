@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-06](index.md)
 
+* [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
+* [2023-01-06, 19:17:22](https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso) - [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
 * [2023-01-06, 17:56:10](https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup) - [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
 * [2023-01-06, 17:23:19](https://lobste.rs/s/ti4n1p/curious_integral) - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
