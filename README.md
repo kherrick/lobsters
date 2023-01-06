@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 09:35:58](https://lobste.rs/s/zxhepw/simple_problem_isn_t) - [A simple problem that isn’t](https://muscar.eu/bitset-iter.html)
 * [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-06, 01:48:33](https://lobste.rs/s/kbgssm/kmcaster_screencasting_software) - [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
 * [2023-01-05, 23:26:18](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d) - [Safer Linux Kernel Modules Using the D Programming Language](https://ieeexplore.ieee.org/document/9987502)
-* [2023-01-05, 22:25:15](https://lobste.rs/s/lbcptj/microlibrary_for_counting_cpu_cycles) - [A microlibrary for counting cpu cycles](https://cpucycles.cr.yp.to/)
 * [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
 * [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
