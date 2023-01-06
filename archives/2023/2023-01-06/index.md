@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-06](index.md)
 
+* [2023-01-06, 17:56:10](https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup) - [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
 * [2023-01-06, 17:23:19](https://lobste.rs/s/ti4n1p/curious_integral) - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
 * [2023-01-06, 15:26:01](https://lobste.rs/s/wogir0/2022_clangbuiltlinux_retrospective) - [2022 ClangBuiltLinux Retrospective](https://nathanchance.dev/posts/2022-cbl-retrospective/)
 * [2023-01-06, 14:56:30](https://lobste.rs/s/rkh5ju/kde_abandonware) - [KDE Abandonware](https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/)
