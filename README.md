@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 * [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
 * [2023-01-06, 10:20:29](https://lobste.rs/s/bpcmdc/z_tokens_random_tokens_generation) - [z-tokens -- random tokens generation and related tools](https://github.com/volution/z-tokens)
 * [2023-01-06, 09:35:58](https://lobste.rs/s/zxhepw/simple_problem_isn_t) - [A simple problem that isn’t](https://muscar.eu/bitset-iter.html)
@@ -10,7 +11,6 @@
 * [2023-01-05, 23:26:18](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d) - [Safer Linux Kernel Modules Using the D Programming Language](https://ieeexplore.ieee.org/document/9987502)
 * [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 21:44:40](https://lobste.rs/s/hdc4mo/tau_is_alternative_front_end_various) - [Tau is an alternative front-end to various streaming sites](https://git.sr.ht/~conses/tau)
-* [2023-01-05, 21:00:12](https://lobste.rs/s/yyz4ds/language_models_can_only_write_poetry) - [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 * [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
