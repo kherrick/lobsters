@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-06, 14:56:30",
+      "https://lobste.rs/s/rkh5ju/kde_abandonware"
+    ],
+    [
+      "KDE Abandonware",
+      "https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/"
+    ]
+  ],
+  [
+    [
+      "2023-01-06, 14:50:47",
+      "https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped"
+    ],
+    [
+      "X servers no longer allow byte-swapped clients",
+      "http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 14:11:12",
       "https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019"
     ],
@@ -217,26 +237,6 @@
     [
       "How to Get 1.5 TFlops of FP32 Performance on a Single M1 CPU Core",
       "https://jott.live/markdown/1.5tflop_m1"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 02:13:16",
-      "https://lobste.rs/s/hdfmmq/galactic_algorithm"
-    ],
-    [
-      "Galactic algorithm",
-      "https://en.m.wikipedia.org/wiki/Galactic_algorithm"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 00:43:55",
-      "https://lobste.rs/s/7zyudk/go_1_20_cryptography"
-    ],
-    [
-      "Go 1.20 Cryptography",
-      "https://words.filippo.io/dispatches/go-1-20-cryptography/"
     ]
   ],
   [
