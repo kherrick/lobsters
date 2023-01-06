@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-06, 17:56:10",
+      "https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup"
+    ],
+    [
+      "Compiling QML to C++: A 4x speedup",
+      "https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 17:23:19",
       "https://lobste.rs/s/ti4n1p/curious_integral"
     ],
@@ -217,16 +227,6 @@
     [
       "barf - an extremely minimal blog generator",
       "https://barf.bt.ht/"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 11:22:43",
-      "https://lobste.rs/s/glbrv5/introducing_xrpn_extensible_rpn"
-    ],
-    [
-      "Introducing: XRPN - the eXtensible RPN programming language",
-      "https://github.com/isene/xrpn"
     ]
   ],
   [
