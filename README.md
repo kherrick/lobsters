@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-06, 22:26:04](https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though) - [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
 * [2023-01-06, 20:08:41](https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations) - [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 * [2023-01-06, 19:57:47](https://lobste.rs/s/0ge26u/code_riffs) - [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
 * [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
@@ -12,7 +13,6 @@
 * [2023-01-06, 14:11:12](https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019) - [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
 * [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 * [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
-* [2023-01-06, 10:20:29](https://lobste.rs/s/bpcmdc/z_tokens_random_tokens_generation) - [z-tokens -- random tokens generation and related tools](https://github.com/volution/z-tokens)
 * [2023-01-06, 09:35:58](https://lobste.rs/s/zxhepw/simple_problem_isn_t) - [A simple problem that isn’t](https://muscar.eu/bitset-iter.html)
 * [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
