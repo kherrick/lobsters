@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-01-06, 22:26:04",
+      "https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though"
+    ],
+    [
+      "Rosalind: Learn Bioinformatics though Problems",
+      "https://rosalind.info/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 20:08:41",
       "https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations"
     ],
@@ -227,16 +237,6 @@
     [
       "Is coding in Rust as bad as in C++?",
       "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 03:48:32",
-      "https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs"
-    ],
-    [
-      "A physics simulator toy inside Emacs",
-      "https://hg.sr.ht/~zck/sand.el"
     ]
   ],
   [
