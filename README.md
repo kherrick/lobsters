@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
 * [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
 * [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
@@ -15,7 +16,6 @@
 * [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
 * [2023-01-06, 19:17:22](https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso) - [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
-* [2023-01-06, 17:56:10](https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup) - [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
 * [2023-01-06, 17:23:19](https://lobste.rs/s/ti4n1p/curious_integral) - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 * [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)

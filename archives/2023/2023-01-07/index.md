@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-07](index.md)
 
+* [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
 * [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
 * [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
