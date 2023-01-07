@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 07:31:10](https://lobste.rs/s/px1fli/faster_general_parsing_through_context) - [Faster general parsing through context-free memoization (PLDI 2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
 * [2023-01-07, 07:00:31](https://lobste.rs/s/dm1x9i/please_stop_using_win32_product_find) - [Please Stop Using Win32_Product To Find Installed Software](https://xkln.net/blog/please-stop-using-win32product-to-find-installed-software-alternatives-inside/)
 * [2023-01-07, 06:16:18](https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review) - [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
@@ -20,7 +21,6 @@
 * [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
-* [2023-01-06, 01:48:33](https://lobste.rs/s/kbgssm/kmcaster_screencasting_software) - [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
