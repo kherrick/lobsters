@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-01-06, 10:20:29",
+      "https://lobste.rs/s/bpcmdc/z_tokens_random_tokens_generation"
+    ],
+    [
+      "z-tokens -- random tokens generation and related tools",
+      "https://github.com/volution/z-tokens"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 09:01:11",
       "https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop"
     ],
@@ -187,16 +197,6 @@
     [
       "KmCaster – Screencasting software to display keyboard and mouse status",
       "https://github.com/DaveJarvis/kmcaster"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 22:22:50",
-      "https://lobste.rs/s/5bf7y4/generating_static_portable_executables"
-    ],
-    [
-      "Generating static and portable executables with OCaml",
-      "https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml"
     ]
   ],
   [
