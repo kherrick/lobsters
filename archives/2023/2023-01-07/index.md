@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-01-07](index.md)
+
+* [2023-01-07, 00:10:39](https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec) - [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)

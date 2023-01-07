@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 00:10:39](https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec) - [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
 * [2023-01-06, 22:26:04](https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though) - [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
@@ -18,7 +19,6 @@
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-06, 01:48:33](https://lobste.rs/s/kbgssm/kmcaster_screencasting_software) - [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
-* [2023-01-05, 23:26:18](https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d) - [Safer Linux Kernel Modules Using the D Programming Language](https://ieeexplore.ieee.org/document/9987502)
 * [2023-01-05, 22:22:50](https://lobste.rs/s/5bf7y4/generating_static_portable_executables) - [Generating static and portable executables with OCaml](https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 * [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
