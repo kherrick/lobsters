@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 16:03:09",
+      "https://lobste.rs/s/pza2fr/sqld_is_server_mode_for_libsql"
+    ],
+    [
+      "sqld is a server mode for libSQL",
+      "https://github.com/libsql/sqld"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 15:51:39",
       "https://lobste.rs/s/a2oq9h/i_feel_for_netbsd_community"
     ],
@@ -197,16 +207,6 @@
     [
       "X servers no longer allow byte-swapped clients",
       "http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 13:10:06",
-      "https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art"
-    ],
-    [
-      "Git packaging sources: state of the art",
-      "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/"
     ]
   ],
   [
