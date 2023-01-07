@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 14:01:30",
+      "https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop"
+    ],
+    [
+      "connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map",
+      "https://github.com/jafarlihi/connmap"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 11:53:41",
       "https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml"
     ],
@@ -77,16 +87,6 @@
     [
       "A Year of Writing about Web Scraping in Review",
       "https://scrapecrow.com/year-of-writing-in-review.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 00:10:39",
-      "https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec"
-    ],
-    [
-      "ChaCha20 Encryption Performance on DEC PDP-11 (2021)",
-      "https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/"
     ]
   ],
   [
