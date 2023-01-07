@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 15:51:39](https://lobste.rs/s/a2oq9h/i_feel_for_netbsd_community) - [I feel for the NetBSD community](https://rubenerd.com/i-feel-for-the-netbsd-community/)
 * [2023-01-07, 14:14:56](https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes) - [The Filesystem Hierarchy Standard Comes to Guix Containers](https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/)
 * [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
 * [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
@@ -12,7 +13,6 @@
 * [2023-01-07, 06:16:18](https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review) - [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
-* [2023-01-06, 22:26:04](https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though) - [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
 * [2023-01-06, 20:08:41](https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations) - [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 * [2023-01-06, 19:57:47](https://lobste.rs/s/0ge26u/code_riffs) - [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
 * [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)

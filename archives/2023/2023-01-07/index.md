@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-07](index.md)
 
+* [2023-01-07, 15:51:39](https://lobste.rs/s/a2oq9h/i_feel_for_netbsd_community) - [I feel for the NetBSD community](https://rubenerd.com/i-feel-for-the-netbsd-community/)
 * [2023-01-07, 14:14:56](https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes) - [The Filesystem Hierarchy Standard Comes to Guix Containers](https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/)
 * [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
 * [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
