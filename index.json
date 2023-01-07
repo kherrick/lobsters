@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 18:47:53",
+      "https://lobste.rs/s/umatgz/production_twitter_on_one_machine"
+    ],
+    [
+      "Production Twitter on One Machine: 100Gbps NICs and NVMe are fast",
+      "https://thume.ca/2023/01/02/one-machine-twitter/"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 18:19:37",
       "https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero"
     ],
@@ -107,16 +117,6 @@
     [
       "A Brief Defense of XML",
       "https://borretti.me/article/brief-defense-of-xml"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 07:00:31",
-      "https://lobste.rs/s/dm1x9i/please_stop_using_win32_product_find"
-    ],
-    [
-      "Please Stop Using Win32_Product To Find Installed Software",
-      "https://xkln.net/blog/please-stop-using-win32product-to-find-installed-software-alternatives-inside/"
     ]
   ],
   [
