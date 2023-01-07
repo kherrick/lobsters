@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
+* [2023-01-07, 07:00:31](https://lobste.rs/s/dm1x9i/please_stop_using_win32_product_find) - [Please Stop Using Win32_Product To Find Installed Software](https://xkln.net/blog/please-stop-using-win32product-to-find-installed-software-alternatives-inside/)
 * [2023-01-07, 06:16:18](https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review) - [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
 * [2023-01-07, 00:10:39](https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec) - [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
@@ -13,7 +15,6 @@
 * [2023-01-06, 17:56:10](https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup) - [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
 * [2023-01-06, 17:23:19](https://lobste.rs/s/ti4n1p/curious_integral) - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
-* [2023-01-06, 14:11:12](https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019) - [Eon – Amiga Soundtrack Hacks (2019)](https://hoffman.home.blog/2019/04/27/eon/)
 * [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
 * [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
 * [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
@@ -21,7 +22,6 @@
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-06, 01:48:33](https://lobste.rs/s/kbgssm/kmcaster_screencasting_software) - [KmCaster – Screencasting software to display keyboard and mouse status](https://github.com/DaveJarvis/kmcaster)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
-* [2023-01-05, 18:54:46](https://lobste.rs/s/8icwqm/rust_atomics_locks) - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 * [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
