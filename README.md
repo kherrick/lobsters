@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 14:14:56](https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes) - [The Filesystem Hierarchy Standard Comes to Guix Containers](https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/)
 * [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
 * [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
 * [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
@@ -24,7 +25,6 @@
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
-* [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
 
 ## [Archives](archives/index.md)
 
