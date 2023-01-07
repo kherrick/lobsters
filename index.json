@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 00:10:39",
+      "https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec"
+    ],
+    [
+      "ChaCha20 Encryption Performance on DEC PDP-11 (2021)",
+      "https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/"
+    ]
+  ],
+  [
+    [
       "2023-01-06, 23:06:35",
       "https://lobste.rs/s/hvtkrp/cgi_wtf"
     ],
@@ -177,16 +187,6 @@
     [
       "KmCaster – Screencasting software to display keyboard and mouse status",
       "https://github.com/DaveJarvis/kmcaster"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 23:26:18",
-      "https://lobste.rs/s/5jmeek/safer_linux_kernel_modules_using_d"
-    ],
-    [
-      "Safer Linux Kernel Modules Using the D Programming Language",
-      "https://ieeexplore.ieee.org/document/9987502"
     ]
   ],
   [
