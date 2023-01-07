@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
 * [2023-01-07, 07:31:10](https://lobste.rs/s/px1fli/faster_general_parsing_through_context) - [Faster general parsing through context-free memoization (PLDI 2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
@@ -14,6 +15,7 @@
 * [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
 * [2023-01-06, 19:17:22](https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso) - [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
+* [2023-01-06, 17:56:10](https://lobste.rs/s/ru3r5l/compiling_qml_c_4x_speedup) - [Compiling QML to C++: A 4x speedup](https://www.qt.io/blog/compiling-qml-to-c-a-4x-speedup)
 * [2023-01-06, 17:23:19](https://lobste.rs/s/ti4n1p/curious_integral) - [A Curious Integral](https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 * [2023-01-06, 13:10:06](https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art) - [Git packaging sources: state of the art](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/YKKYBXQL62U5RTYIRI2NT2I3EG7V63HT/)
@@ -22,9 +24,7 @@
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-06, 03:48:32](https://lobste.rs/s/l1gkd3/physics_simulator_toy_inside_emacs) - [A physics simulator toy inside Emacs](https://hg.sr.ht/~zck/sand.el)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
-* [2023-01-05, 17:56:33](https://lobste.rs/s/9kp1z4/favorite_compiler_interpreter) - [Favorite compiler and interpreter resources](https://lists.eatonphil.com/compilers-and-interpreters.html)
 * [2023-01-05, 16:54:11](https://lobste.rs/s/b820uv/proposal_analysis_speedup_gain) - [[Proposal] Analysis of Speedup Gain of Undefined Behavior Optimizations in OpenBSD](https://tildegit.org/lucic71/dissertation/src/branch/master/TSW/tsw.pdf)
-* [2023-01-05, 15:59:55](https://lobste.rs/s/oeimp0/barf_extremely_minimal_blog_generator) - [barf - an extremely minimal blog generator](https://barf.bt.ht/)
 
 ## [Archives](archives/index.md)
 

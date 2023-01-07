@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-07](index.md)
 
+* [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
 * [2023-01-07, 07:31:10](https://lobste.rs/s/px1fli/faster_general_parsing_through_context) - [Faster general parsing through context-free memoization (PLDI 2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
