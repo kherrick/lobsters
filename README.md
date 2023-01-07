@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
 * [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
 * [2023-01-07, 07:31:10](https://lobste.rs/s/px1fli/faster_general_parsing_through_context) - [Faster general parsing through context-free memoization (PLDI 2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
@@ -9,7 +10,6 @@
 * [2023-01-07, 00:10:39](https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec) - [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
-* [2023-01-06, 22:26:04](https://lobste.rs/s/iaam0y/rosalind_learn_bioinformatics_though) - [Rosalind: Learn Bioinformatics though Problems](https://rosalind.info/)
 * [2023-01-06, 20:08:41](https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations) - [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 * [2023-01-06, 19:57:47](https://lobste.rs/s/0ge26u/code_riffs) - [Code Riffs](http://blog.fogus.me/2023/01/06/code-riffs/)
 * [2023-01-06, 19:21:33](https://lobste.rs/s/4imhne/parallel_streaming_haskell_part_1_fast) - [Parallel streaming in Haskell: Part 1 - Fast efficient fun](https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun)
