@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-07, 07:31:10",
+      "https://lobste.rs/s/px1fli/faster_general_parsing_through_context"
+    ],
+    [
+      "Faster general parsing through context-free memoization (PLDI 2020)",
+      "https://dl.acm.org/doi/abs/10.1145/3385412.3386032"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 07:01:33",
       "https://lobste.rs/s/rqzikj/brief_defense_xml"
     ],
@@ -197,16 +207,6 @@
     [
       "A physics simulator toy inside Emacs",
       "https://hg.sr.ht/~zck/sand.el"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 01:48:33",
-      "https://lobste.rs/s/kbgssm/kmcaster_screencasting_software"
-    ],
-    [
-      "KmCaster – Screencasting software to display keyboard and mouse status",
-      "https://github.com/DaveJarvis/kmcaster"
     ]
   ],
   [
