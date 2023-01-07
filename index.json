@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-07, 07:01:33",
+      "https://lobste.rs/s/rqzikj/brief_defense_xml"
+    ],
+    [
+      "A Brief Defense of XML",
+      "https://borretti.me/article/brief-defense-of-xml"
+    ]
+  ],
+  [
+    [
+      "2023-01-07, 07:00:31",
+      "https://lobste.rs/s/dm1x9i/please_stop_using_win32_product_find"
+    ],
+    [
+      "Please Stop Using Win32_Product To Find Installed Software",
+      "https://xkln.net/blog/please-stop-using-win32product-to-find-installed-software-alternatives-inside/"
+    ]
+  ],
+  [
+    [
       "2023-01-07, 06:16:18",
       "https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-01-06, 14:11:12",
-      "https://lobste.rs/s/gahijt/eon_amiga_soundtrack_hacks_2019"
-    ],
-    [
-      "Eon – Amiga Soundtrack Hacks (2019)",
-      "https://hoffman.home.blog/2019/04/27/eon/"
-    ]
-  ],
-  [
-    [
       "2023-01-06, 13:10:06",
       "https://lobste.rs/s/vq7jrc/git_packaging_sources_state_art"
     ],
@@ -207,16 +217,6 @@
     [
       "Microfeatures I'd like to see in more languages",
       "https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/"
-    ]
-  ],
-  [
-    [
-      "2023-01-05, 18:54:46",
-      "https://lobste.rs/s/8icwqm/rust_atomics_locks"
-    ],
-    [
-      "Rust Atomics and Locks",
-      "https://marabos.nl/atomics/"
     ]
   ],
   [
