@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 * [2023-01-07, 22:40:31](https://lobste.rs/s/ywqxnr/type_safe_react_query) - [Type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
 * [2023-01-07, 21:40:13](https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks) - [Reflections on \"Testing Without Mocks\"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
@@ -22,7 +23,6 @@
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
 * [2023-01-06, 12:57:27](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9fdqnx/what_are_you_doing_this_weekend)
-* [2023-01-06, 09:01:11](https://lobste.rs/s/e38tpn/vanilla_os_next_generation_linux_desktop) - [Vanilla OS and the next-generation Linux desktop](https://memoryfile.codeberg.page/posts/Vanilla-OS-and-the-next-generation-Linux-desktop/)
 * [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 
