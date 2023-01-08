@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-08, 15:32:47",
+      "https://lobste.rs/s/p72tzs/x_window_system_basics"
+    ],
+    [
+      "X Window System Basics",
+      "https://magcius.github.io/xplain/article/x-basics.html"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 15:00:21",
       "https://lobste.rs/s/omwbk8/there_is_no_software_maintenance"
     ],
@@ -227,16 +237,6 @@
     [
       "ChatGPT in DR SBAITSO",
       "https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 18:54:13",
-      "https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general"
-    ],
-    [
-      "Go proposal: sum types based on general interfaces",
-      "https://github.com/golang/go/issues/57644"
     ]
   ],
   [
