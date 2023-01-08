@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 03:42:33](https://lobste.rs/s/v8ooq6/setting_up_ci_system_part_5_time_sharing) - [Setting Up a CI System Part 5: Time-sharing your test machines](https://mupuf.org/blog/2023/01/04/setting-up-a-ci-system-part-5-time-sharing-your-test-machines/)
 * [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 * [2023-01-07, 22:40:31](https://lobste.rs/s/ywqxnr/type_safe_react_query) - [Type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
 * [2023-01-07, 21:40:13](https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks) - [Reflections on \"Testing Without Mocks\"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
@@ -18,7 +19,6 @@
 * [2023-01-07, 06:16:18](https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review) - [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
-* [2023-01-06, 20:08:41](https://lobste.rs/s/yedmzn/dissecting_guix_part_1_derivations) - [Dissecting Guix, Part 1: Derivations](https://guix.gnu.org/en/blog/2023/dissecting-guix-part-1-derivations/)
 * [2023-01-06, 19:17:22](https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso) - [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
 * [2023-01-06, 14:50:47](https://lobste.rs/s/euui7s/x_servers_no_longer_allow_byte_swapped) - [X servers no longer allow byte-swapped clients](http://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html)
