@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-08, 21:42:19",
+      "https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference"
+    ],
+    [
+      "Vim ZZ and Vim zz | Do you know the difference?",
+      "https://www.programmerhat.com/vim-zz/"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 20:44:09",
       "https://lobste.rs/s/87yyxa/using_clerk_for_advent_code"
     ],
@@ -197,16 +207,6 @@
     [
       "Verifiable AES: encryption using zero-knowledge proofs",
       "https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 14:14:56",
-      "https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes"
-    ],
-    [
-      "The Filesystem Hierarchy Standard Comes to Guix Containers",
-      "https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/"
     ]
   ],
   [
