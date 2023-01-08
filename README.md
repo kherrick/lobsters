@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 18:04:16](https://lobste.rs/s/j0efhg/emacs_insert_render_sf_symbols) - [Emacs: insert and render SF symbols](https://xenodium.com/emacs-insert-and-render-sf-symbols/)
 * [2023-01-08, 17:41:45](https://lobste.rs/s/1gspi5/pro_charity_consulting) - [Pro-charity consulting](https://www.joachim-breitner.de/blog/798-Pro-charity_consulting)
 * [2023-01-08, 17:01:58](https://lobste.rs/s/e5fu2q/monitoring_ecc_memory_on_linux_with) - [Monitoring ECC memory on Linux with rasdaemon](https://setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
@@ -24,7 +25,6 @@
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
-* [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 
 ## [Archives](archives/index.md)
 
