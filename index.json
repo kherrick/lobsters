@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-08, 19:04:42",
+      "https://lobste.rs/s/agczdb/wittgenstein_versus_turing_on_nature"
+    ],
+    [
+      "Wittgenstein versus Turing on the nature of Church's thesis",
+      "https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-28/issue-4/Wittgenstein-versus-Turing-on-the-nature-of-Churchs-thesis/10.1305/ndjfl/1093637650.full"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 18:53:43",
       "https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp"
     ],
@@ -147,16 +157,6 @@
     [
       "I scanned every package on PyPi and found 57 live AWS keys",
       "https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 22:40:31",
-      "https://lobste.rs/s/ywqxnr/type_safe_react_query"
-    ],
-    [
-      "Type-safe React Query",
-      "https://tkdodo.eu/blog/type-safe-react-query"
     ]
   ],
   [
