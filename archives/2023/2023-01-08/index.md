@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 19:04:42](https://lobste.rs/s/agczdb/wittgenstein_versus_turing_on_nature) - [Wittgenstein versus Turing on the nature of Church's thesis](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-28/issue-4/Wittgenstein-versus-Turing-on-the-nature-of-Churchs-thesis/10.1305/ndjfl/1093637650.full)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
 * [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
 * [2023-01-08, 18:40:18](https://lobste.rs/s/dgtuwd/brief_love_letter_chemistry_molecules) - [A (brief) love letter to the chemistry of molecules](https://clarkesworldmagazine.com/deng_01_23/)

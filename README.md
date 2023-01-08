@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 19:04:42](https://lobste.rs/s/agczdb/wittgenstein_versus_turing_on_nature) - [Wittgenstein versus Turing on the nature of Church's thesis](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-28/issue-4/Wittgenstein-versus-Turing-on-the-nature-of-Churchs-thesis/10.1305/ndjfl/1093637650.full)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
 * [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
 * [2023-01-08, 18:40:18](https://lobste.rs/s/dgtuwd/brief_love_letter_chemistry_molecules) - [A (brief) love letter to the chemistry of molecules](https://clarkesworldmagazine.com/deng_01_23/)
@@ -15,7 +16,6 @@
 * [2023-01-08, 07:16:47](https://lobste.rs/s/iy5wlx/beauty_cgi_simple_design_by_hales) - [The beauty of CGI and simple design, by Hales](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
 * [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
-* [2023-01-07, 22:40:31](https://lobste.rs/s/ywqxnr/type_safe_react_query) - [Type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
 * [2023-01-07, 21:40:13](https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks) - [Reflections on \"Testing Without Mocks\"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
 * [2023-01-07, 18:19:37](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero) - [Verifiable AES: encryption using zero-knowledge proofs](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/)
