@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
+* [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
 * [2023-01-08, 18:04:16](https://lobste.rs/s/j0efhg/emacs_insert_render_sf_symbols) - [Emacs: insert and render SF symbols](https://xenodium.com/emacs-insert-and-render-sf-symbols/)
 * [2023-01-08, 17:41:45](https://lobste.rs/s/1gspi5/pro_charity_consulting) - [Pro-charity consulting](https://www.joachim-breitner.de/blog/798-Pro-charity_consulting)
 * [2023-01-08, 17:01:58](https://lobste.rs/s/e5fu2q/monitoring_ecc_memory_on_linux_with) - [Monitoring ECC memory on Linux with rasdaemon](https://setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
@@ -14,7 +16,6 @@
 * [2023-01-07, 21:40:13](https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks) - [Reflections on \"Testing Without Mocks\"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
 * [2023-01-07, 18:19:37](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero) - [Verifiable AES: encryption using zero-knowledge proofs](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/)
-* [2023-01-07, 16:03:09](https://lobste.rs/s/pza2fr/sqld_is_server_mode_for_libsql) - [sqld is a server mode for libSQL](https://github.com/libsql/sqld)
 * [2023-01-07, 15:51:39](https://lobste.rs/s/a2oq9h/i_feel_for_netbsd_community) - [I feel for the NetBSD community](https://rubenerd.com/i-feel-for-the-netbsd-community/)
 * [2023-01-07, 14:14:56](https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes) - [The Filesystem Hierarchy Standard Comes to Guix Containers](https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/)
 * [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
@@ -24,7 +25,6 @@
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
-* [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
 
 ## [Archives](archives/index.md)
 
