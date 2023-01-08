@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
+* [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
 * [2023-01-08, 18:40:18](https://lobste.rs/s/dgtuwd/brief_love_letter_chemistry_molecules) - [A (brief) love letter to the chemistry of molecules](https://clarkesworldmagazine.com/deng_01_23/)
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
