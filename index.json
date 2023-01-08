@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-08, 20:44:09",
+      "https://lobste.rs/s/87yyxa/using_clerk_for_advent_code"
+    ],
+    [
+      "Using Clerk for Advent of Code",
+      "https://www.juxt.pro/blog/using-clerk-for-aoc/"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 20:06:15",
       "https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games"
     ],
@@ -167,16 +177,6 @@
     [
       "I scanned every package on PyPi and found 57 live AWS keys",
       "https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 21:40:13",
-      "https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks"
-    ],
-    [
-      "Reflections on \"Testing Without Mocks\"",
-      "https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/"
     ]
   ],
   [
