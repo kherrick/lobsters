@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
 * [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
 * [2023-01-08, 18:04:16](https://lobste.rs/s/j0efhg/emacs_insert_render_sf_symbols) - [Emacs: insert and render SF symbols](https://xenodium.com/emacs-insert-and-render-sf-symbols/)

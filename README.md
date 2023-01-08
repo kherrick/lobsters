@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
 * [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
 * [2023-01-08, 18:04:16](https://lobste.rs/s/j0efhg/emacs_insert_render_sf_symbols) - [Emacs: insert and render SF symbols](https://xenodium.com/emacs-insert-and-render-sf-symbols/)
@@ -21,7 +22,6 @@
 * [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
 * [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
 * [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
-* [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
 * [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
 * [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
 * [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
