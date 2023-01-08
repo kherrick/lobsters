@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 17:01:58](https://lobste.rs/s/e5fu2q/monitoring_ecc_memory_on_linux_with) - [Monitoring ECC memory on Linux with rasdaemon](https://setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 * [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
