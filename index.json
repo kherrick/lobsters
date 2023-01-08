@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-08, 15:00:21",
+      "https://lobste.rs/s/omwbk8/there_is_no_software_maintenance"
+    ],
+    [
+      "There Is No Software Maintenance",
+      "https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 08:32:55",
       "https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode"
     ],
@@ -227,16 +237,6 @@
     [
       "Go proposal: sum types based on general interfaces",
       "https://github.com/golang/go/issues/57644"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 06:34:30",
-      "https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c"
-    ],
-    [
-      "Is coding in Rust as bad as in C++?",
-      "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
     ]
   ],
   [
