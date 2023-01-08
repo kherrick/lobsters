@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
 * [2023-01-08, 07:16:47](https://lobste.rs/s/iy5wlx/beauty_cgi_simple_design_by_hales) - [The beauty of CGI and simple design, by Hales](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
@@ -23,7 +24,6 @@
 * [2023-01-06, 23:02:41](https://lobste.rs/s/djwdfj/rainbow_sort_sorting_algorithm) - [Rainbow Sort (sorting algorithm visualisation)](https://ljs.io/rainbow/)
 * [2023-01-06, 19:17:22](https://lobste.rs/s/bduvmi/chatgpt_dr_sbaitso) - [ChatGPT in DR SBAITSO](https://bert.org/2023/01/06/chatgpt-in-dr-sbaitso/)
 * [2023-01-06, 18:54:13](https://lobste.rs/s/jokl7v/go_proposal_sum_types_based_on_general) - [Go proposal: sum types based on general interfaces](https://github.com/golang/go/issues/57644)
-* [2023-01-06, 06:34:30](https://lobste.rs/s/jrunrp/is_coding_rust_as_bad_as_c) - [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
 * [2023-01-05, 20:51:09](https://lobste.rs/s/ilmbgu/microfeatures_i_d_like_see_more_languages) - [Microfeatures I'd like to see in more languages](https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/)
 
 ## [Archives](archives/index.md)

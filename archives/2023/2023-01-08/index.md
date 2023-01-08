@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
 * [2023-01-08, 07:16:47](https://lobste.rs/s/iy5wlx/beauty_cgi_simple_design_by_hales) - [The beauty of CGI and simple design, by Hales](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
