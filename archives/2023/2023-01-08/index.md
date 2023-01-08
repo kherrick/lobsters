@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-08](index.md)
 
+* [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
 * [2023-01-08, 22:03:08](https://lobste.rs/s/mcrfbp/cdc_file_transfer_tools_for_synching) - [cdc-file-transfer: Tools for synching and streaming files from Windows to Linux](https://github.com/google/cdc-file-transfer)
 * [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 * [2023-01-08, 20:44:09](https://lobste.rs/s/87yyxa/using_clerk_for_advent_code) - [Using Clerk for Advent of Code](https://www.juxt.pro/blog/using-clerk-for-aoc/)
