@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
 * [2023-01-09, 13:34:39](https://lobste.rs/s/crgloj/open_source_developer_friendly_load) - [Open source and developer friendly load shedding calendar](https://github.com/beyarkay/eskom-calendar)
 * [2023-01-09, 13:11:16](https://lobste.rs/s/g4fu9f/touchen_nxkey_keylogging_anti_keylogger) - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
@@ -8,13 +9,13 @@
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
 * [2023-01-09, 09:21:26](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week)
 * [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
+* [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 * [2023-01-09, 00:29:08](https://lobste.rs/s/pbhdqq/go_xmlstruct_generate_go_structs_from) - [go-xmlstruct: generate Go structs from example XML documents](https://github.com/twpayne/go-xmlstruct)
 * [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
-* [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 * [2023-01-08, 20:06:15](https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games) - [MacPlay - If You've Got the Guts, We've Got the Games](https://computeradsfromthepast.substack.com/p/macplay)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
 * [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
@@ -24,7 +25,6 @@
 * [2023-01-08, 17:41:45](https://lobste.rs/s/1gspi5/pro_charity_consulting) - [Pro-charity consulting](https://www.joachim-breitner.de/blog/798-Pro-charity_consulting)
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 * [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
-* [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
 
 ## [Archives](archives/index.md)
 

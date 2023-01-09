@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
 * [2023-01-09, 13:34:39](https://lobste.rs/s/crgloj/open_source_developer_friendly_load) - [Open source and developer friendly load shedding calendar](https://github.com/beyarkay/eskom-calendar)
 * [2023-01-09, 13:11:16](https://lobste.rs/s/g4fu9f/touchen_nxkey_keylogging_anti_keylogger) - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
