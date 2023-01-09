@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 02:04:25](https://lobste.rs/s/wtuk5o/high_level_mods_patches_for_console_video) - [High level mods/patches for console video-games](https://krystalgamer.github.io/high-level-game-patches/)
 * [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 * [2023-01-09, 00:29:08](https://lobste.rs/s/pbhdqq/go_xmlstruct_generate_go_structs_from) - [go-xmlstruct: generate Go structs from example XML documents](https://github.com/twpayne/go-xmlstruct)
@@ -15,7 +16,6 @@
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
 * [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
-* [2023-01-08, 18:04:16](https://lobste.rs/s/j0efhg/emacs_insert_render_sf_symbols) - [Emacs: insert and render SF symbols](https://xenodium.com/emacs-insert-and-render-sf-symbols/)
 * [2023-01-08, 17:41:45](https://lobste.rs/s/1gspi5/pro_charity_consulting) - [Pro-charity consulting](https://www.joachim-breitner.de/blog/798-Pro-charity_consulting)
 * [2023-01-08, 17:01:58](https://lobste.rs/s/e5fu2q/monitoring_ecc_memory_on_linux_with) - [Monitoring ECC memory on Linux with rasdaemon](https://setphaserstostun.org/posts/monitoring-ecc-memory-on-linux-with-rasdaemon/)
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
