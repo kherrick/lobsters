@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
 * [2023-01-09, 23:09:46](https://lobste.rs/s/53zhxm/building_location_time_zone_api_with) - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 * [2023-01-09, 22:04:05](https://lobste.rs/s/uewuxv/test_pollution_how_fix_it) - [Test pollution and how to fix it](https://cs-syd.eu/posts/2021-10-23-test-pollution)
 * [2023-01-09, 21:57:44](https://lobste.rs/s/o5lf1t/tetris_is_capable_universal_computation) - [Tetris is Capable of Universal Computation](https://meatfighter.com/tetromino-computer/)
@@ -24,7 +25,6 @@
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
-* [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
 
 ## [Archives](archives/index.md)
 

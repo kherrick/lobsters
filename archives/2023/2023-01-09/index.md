@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
 * [2023-01-09, 23:09:46](https://lobste.rs/s/53zhxm/building_location_time_zone_api_with) - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 * [2023-01-09, 22:04:05](https://lobste.rs/s/uewuxv/test_pollution_how_fix_it) - [Test pollution and how to fix it](https://cs-syd.eu/posts/2021-10-23-test-pollution)
 * [2023-01-09, 21:57:44](https://lobste.rs/s/o5lf1t/tetris_is_capable_universal_computation) - [Tetris is Capable of Universal Computation](https://meatfighter.com/tetromino-computer/)
