@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-09, 00:59:01",
+      "https://lobste.rs/s/sv5i9u/dotfiles_management"
+    ],
+    [
+      "Dotfiles Management",
+      "https://mitxela.com/projects/dotfiles_management"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 00:53:54",
+      "https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes"
+    ],
+    [
+      "What’s New in Go 1.20, Part I: Language Changes",
+      "https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 00:29:08",
+      "https://lobste.rs/s/pbhdqq/go_xmlstruct_generate_go_structs_from"
+    ],
+    [
+      "go-xmlstruct: generate Go structs from example XML documents",
+      "https://github.com/twpayne/go-xmlstruct"
+    ]
+  ],
+  [
+    [
       "2023-01-08, 23:06:22",
       "https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai"
     ],
@@ -217,36 +247,6 @@
     [
       "Production Twitter on One Machine: 100Gbps NICs and NVMe are fast",
       "https://thume.ca/2023/01/02/one-machine-twitter/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 18:19:37",
-      "https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero"
-    ],
-    [
-      "Verifiable AES: encryption using zero-knowledge proofs",
-      "https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 07:01:33",
-      "https://lobste.rs/s/rqzikj/brief_defense_xml"
-    ],
-    [
-      "A Brief Defense of XML",
-      "https://borretti.me/article/brief-defense-of-xml"
-    ]
-  ],
-  [
-    [
-      "2023-01-06, 23:06:35",
-      "https://lobste.rs/s/hvtkrp/cgi_wtf"
-    ],
-    [
-      "CGI WTF",
-      "http://blog.syncpup.com/posts/cgi-wtf.html"
     ]
   ]
 ]
