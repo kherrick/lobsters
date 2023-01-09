@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 22:04:05](https://lobste.rs/s/uewuxv/test_pollution_how_fix_it) - [Test pollution and how to fix it](https://cs-syd.eu/posts/2021-10-23-test-pollution)
 * [2023-01-09, 21:57:44](https://lobste.rs/s/o5lf1t/tetris_is_capable_universal_computation) - [Tetris is Capable of Universal Computation](https://meatfighter.com/tetromino-computer/)
 * [2023-01-09, 21:29:28](https://lobste.rs/s/yuxzus/introducing_content_defined_chunking) - [Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
