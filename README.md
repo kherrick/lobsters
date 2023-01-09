@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 13:11:16](https://lobste.rs/s/g4fu9f/touchen_nxkey_keylogging_anti_keylogger) - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
 * [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 * [2023-01-09, 11:13:39](https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis) - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
@@ -12,7 +13,6 @@
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 * [2023-01-09, 00:29:08](https://lobste.rs/s/pbhdqq/go_xmlstruct_generate_go_structs_from) - [go-xmlstruct: generate Go structs from example XML documents](https://github.com/twpayne/go-xmlstruct)
 * [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
-* [2023-01-08, 22:03:08](https://lobste.rs/s/mcrfbp/cdc_file_transfer_tools_for_synching) - [cdc-file-transfer: Tools for synching and streaming files from Windows to Linux](https://github.com/google/cdc-file-transfer)
 * [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 * [2023-01-08, 20:06:15](https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games) - [MacPlay - If You've Got the Guts, We've Got the Games](https://computeradsfromthepast.substack.com/p/macplay)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
