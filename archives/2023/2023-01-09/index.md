@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 17:16:01](https://lobste.rs/s/x8cfat/sweatyballs_toy_routing_protocol) - [Sweatyballs - Toy routing protocol](http://github.com/deavmi/sweatyballs)
 * [2023-01-09, 16:44:13](https://lobste.rs/s/ry3sie/on_pbkdf2_iterations) - [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
