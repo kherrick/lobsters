@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
+* [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
+* [2023-01-09, 00:29:08](https://lobste.rs/s/pbhdqq/go_xmlstruct_generate_go_structs_from) - [go-xmlstruct: generate Go structs from example XML documents](https://github.com/twpayne/go-xmlstruct)
 * [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
 * [2023-01-08, 22:03:08](https://lobste.rs/s/mcrfbp/cdc_file_transfer_tools_for_synching) - [cdc-file-transfer: Tools for synching and streaming files from Windows to Linux](https://github.com/google/cdc-file-transfer)
 * [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
@@ -22,9 +25,6 @@
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
 * [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
-* [2023-01-07, 18:19:37](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero) - [Verifiable AES: encryption using zero-knowledge proofs](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/)
-* [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
-* [2023-01-06, 23:06:35](https://lobste.rs/s/hvtkrp/cgi_wtf) - [CGI WTF](http://blog.syncpup.com/posts/cgi-wtf.html)
 
 ## [Archives](archives/index.md)
 
