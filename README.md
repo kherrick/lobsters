@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 19:00:31](https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go) - [implement \"find definition\" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
 * [2023-01-09, 18:24:07](https://lobste.rs/s/32ew26/intro_redis_scripting_with_lua) - [Intro to Redis Scripting with Lua](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)
 * [2023-01-09, 18:20:20](https://lobste.rs/s/zbvwrp/vulkan_video_decoding) - [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
 * [2023-01-09, 16:44:13](https://lobste.rs/s/ry3sie/on_pbkdf2_iterations) - [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
@@ -23,7 +24,6 @@
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
 * [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)
-* [2023-01-08, 17:41:45](https://lobste.rs/s/1gspi5/pro_charity_consulting) - [Pro-charity consulting](https://www.joachim-breitner.de/blog/798-Pro-charity_consulting)
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 
 ## [Archives](archives/index.md)
