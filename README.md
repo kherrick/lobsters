@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-01-09, 17:16:01](https://lobste.rs/s/x8cfat/sweatyballs_toy_routing_protocol) - [Sweatyballs - Toy routing protocol](http://github.com/deavmi/sweatyballs)
 * [2023-01-09, 16:44:13](https://lobste.rs/s/ry3sie/on_pbkdf2_iterations) - [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
@@ -11,6 +10,7 @@
 * [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 * [2023-01-09, 11:13:39](https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis) - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
+* [2023-01-09, 09:21:26](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week)
 * [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
