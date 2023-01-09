@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
+* [2023-01-09, 13:34:39](https://lobste.rs/s/crgloj/open_source_developer_friendly_load) - [Open source and developer friendly load shedding calendar](https://github.com/beyarkay/eskom-calendar)
 * [2023-01-09, 13:11:16](https://lobste.rs/s/g4fu9f/touchen_nxkey_keylogging_anti_keylogger) - [TouchEn nxKey: The keylogging anti-keylogger solution](https://palant.info/2023/01/09/touchen-nxkey-the-keylogging-anti-keylogger-solution/)
 * [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 * [2023-01-09, 11:13:39](https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis) - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
 * [2023-01-09, 09:21:26](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week)
 * [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
-* [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
@@ -24,7 +25,6 @@
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 * [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
-* [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
 
 ## [Archives](archives/index.md)
 
