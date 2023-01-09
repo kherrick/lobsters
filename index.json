@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 19:48:16",
+      "https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0"
+    ],
+    [
+      "Declarative UI with mogwai 0.6 and mogwai-dom 0.1",
+      "https://zyghost.com/blog/mogwai-0.6.html"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 19:00:31",
       "https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Where are my Git UI features from the future?",
       "https://blog.waleedkhan.name/git-ui-features/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 15:32:47",
-      "https://lobste.rs/s/p72tzs/x_window_system_basics"
-    ],
-    [
-      "X Window System Basics",
-      "https://magcius.github.io/xplain/article/x-basics.html"
     ]
   ]
 ]
