@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 16:44:13",
+      "https://lobste.rs/s/ry3sie/on_pbkdf2_iterations"
+    ],
+    [
+      "On PBKDF2 iterations",
+      "https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 16:09:27",
       "https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022"
     ],
@@ -47,16 +57,6 @@
     [
       "Making Sorbet more incremental",
       "https://blog.jez.io/making-sorbet-more-incremental/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 13:37:43",
-      "https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with"
-    ],
-    [
-      "\"Explanations\": allow people to play with graphics, compression & audio",
-      "https://magcius.github.io/xplain/article/"
     ]
   ],
   [
