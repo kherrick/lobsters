@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
 * [2023-01-09, 13:34:39](https://lobste.rs/s/crgloj/open_source_developer_friendly_load) - [Open source and developer friendly load shedding calendar](https://github.com/beyarkay/eskom-calendar)
@@ -18,7 +19,6 @@
 * [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
 * [2023-01-08, 20:06:15](https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games) - [MacPlay - If You've Got the Guts, We've Got the Games](https://computeradsfromthepast.substack.com/p/macplay)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
-* [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 * [2023-01-08, 18:20:05](https://lobste.rs/s/fgkaxs/art_latex_common_mistakes_advice_for) - [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs](https://fanpu.io/blog/2023/latex-tips/)
 * [2023-01-08, 18:17:36](https://lobste.rs/s/7tnnbq/where_are_my_git_ui_features_from_future) - [Where are my Git UI features from the future?](https://blog.waleedkhan.name/git-ui-features/)

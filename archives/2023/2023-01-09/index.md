@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
 * [2023-01-09, 13:34:39](https://lobste.rs/s/crgloj/open_source_developer_friendly_load) - [Open source and developer friendly load shedding calendar](https://github.com/beyarkay/eskom-calendar)
