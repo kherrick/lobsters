@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-09, 14:28:10",
+      "https://lobste.rs/s/krl8gl/making_sorbet_more_incremental"
+    ],
+    [
+      "Making Sorbet more incremental",
+      "https://blog.jez.io/making-sorbet-more-incremental/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 13:37:43",
       "https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2023-01-09, 06:28:00",
+      "https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm"
+    ],
+    [
+      "Reverse Engineering TikTok's VM Obfuscation (Part 2)",
+      "https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 05:54:43",
       "https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors"
     ],
@@ -137,16 +157,6 @@
     [
       "Bite-size thoughts about AI",
       "https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 21:42:19",
-      "https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference"
-    ],
-    [
-      "Vim ZZ and Vim zz | Do you know the difference?",
-      "https://www.programmerhat.com/vim-zz/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "There Is No Software Maintenance",
       "https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/"
-    ]
-  ],
-  [
-    [
-      "2023-01-08, 08:32:55",
-      "https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode"
-    ],
-    [
-      "Ideas For A Javascript Stricter Mode",
-      "https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html"
     ]
   ]
 ]
