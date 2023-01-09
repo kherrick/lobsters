@@ -12,6 +12,7 @@
 * [2023-01-08, 22:03:08](https://lobste.rs/s/mcrfbp/cdc_file_transfer_tools_for_synching) - [cdc-file-transfer: Tools for synching and streaming files from Windows to Linux](https://github.com/google/cdc-file-transfer)
 * [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
 * [2023-01-08, 20:06:15](https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games) - [MacPlay - If You've Got the Guts, We've Got the Games](https://computeradsfromthepast.substack.com/p/macplay)
+* [2023-01-08, 19:04:42](https://lobste.rs/s/agczdb/wittgenstein_versus_turing_on_nature) - [Wittgenstein versus Turing on the nature of Church's thesis](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-28/issue-4/Wittgenstein-versus-Turing-on-the-nature-of-Churchs-thesis/10.1305/ndjfl/1093637650.full)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
 * [2023-01-08, 18:52:19](https://lobste.rs/s/a4m4al/today_s_date_happens_more_frequently_on) - [Today's date happens more frequently on Sunday than any other day of the week](https://boston.conman.org//2023/01/08.1)
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
@@ -23,7 +24,6 @@
 * [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
-* [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
 
 ## [Archives](archives/index.md)
