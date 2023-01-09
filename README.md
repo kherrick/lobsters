@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 14:58:45](https://lobste.rs/s/227mqp/clean_interface_for_org_files_emacs) - [A clean interface for org files (Emacs)](https://github.com/rougier/book-mode)
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 13:37:43](https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with) - [\"Explanations\": allow people to play with graphics, compression & audio](https://magcius.github.io/xplain/article/)
@@ -10,7 +11,6 @@
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
 * [2023-01-09, 09:21:26](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week)
 * [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
-* [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
