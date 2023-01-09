@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
 * [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
@@ -9,7 +10,6 @@
 * [2023-01-08, 23:06:22](https://lobste.rs/s/tlo2s1/bite_size_thoughts_about_ai) - [Bite-size thoughts about AI](https://fishbowl.pastiche.org/2023/01/08/artificial_intelligence/)
 * [2023-01-08, 22:03:08](https://lobste.rs/s/mcrfbp/cdc_file_transfer_tools_for_synching) - [cdc-file-transfer: Tools for synching and streaming files from Windows to Linux](https://github.com/google/cdc-file-transfer)
 * [2023-01-08, 21:42:19](https://lobste.rs/s/z4nfcx/vim_zz_vim_zz_do_you_know_difference) - [Vim ZZ and Vim zz | Do you know the difference?](https://www.programmerhat.com/vim-zz/)
-* [2023-01-08, 20:44:09](https://lobste.rs/s/87yyxa/using_clerk_for_advent_code) - [Using Clerk for Advent of Code](https://www.juxt.pro/blog/using-clerk-for-aoc/)
 * [2023-01-08, 20:06:15](https://lobste.rs/s/ig8fvz/macplay_if_you_ve_got_guts_we_ve_got_games) - [MacPlay - If You've Got the Guts, We've Got the Games](https://computeradsfromthepast.substack.com/p/macplay)
 * [2023-01-08, 19:04:42](https://lobste.rs/s/agczdb/wittgenstein_versus_turing_on_nature) - [Wittgenstein versus Turing on the nature of Church's thesis](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-28/issue-4/Wittgenstein-versus-Turing-on-the-nature-of-Churchs-thesis/10.1305/ndjfl/1093637650.full)
 * [2023-01-08, 18:53:43](https://lobste.rs/s/mqqvlt/my_encounter_with_medley_interlisp) - [My encounter with Medley Interlisp](https://journal.paoloamoroso.com/my-encounter-with-medley-interlisp)
