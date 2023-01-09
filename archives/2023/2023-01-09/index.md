@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-09](index.md)
 
+* [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 02:04:25](https://lobste.rs/s/wtuk5o/high_level_mods_patches_for_console_video) - [High level mods/patches for console video-games](https://krystalgamer.github.io/high-level-game-patches/)

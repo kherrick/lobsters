@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-09, 06:28:00](https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm) - [Reverse Engineering TikTok's VM Obfuscation (Part 2)](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
 * [2023-01-09, 05:54:43](https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors) - [All about sanitizer interceptors](https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors)
 * [2023-01-09, 03:03:40](https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest) - [A comprehensive guide for the fastest possible Docker builds in human existence](https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest)
 * [2023-01-09, 00:59:01](https://lobste.rs/s/sv5i9u/dotfiles_management) - [Dotfiles Management](https://mitxela.com/projects/dotfiles_management)
@@ -21,7 +22,6 @@
 * [2023-01-08, 15:32:47](https://lobste.rs/s/p72tzs/x_window_system_basics) - [X Window System Basics](https://magcius.github.io/xplain/article/x-basics.html)
 * [2023-01-08, 15:00:21](https://lobste.rs/s/omwbk8/there_is_no_software_maintenance) - [There Is No Software Maintenance](https://henrikwarne.com/2023/01/07/there-is-no-software-maintenance/)
 * [2023-01-08, 08:32:55](https://lobste.rs/s/sqi2xq/ideas_for_javascript_stricter_mode) - [Ideas For A Javascript Stricter Mode](https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html)
-* [2023-01-08, 07:16:47](https://lobste.rs/s/iy5wlx/beauty_cgi_simple_design_by_hales) - [The beauty of CGI and simple design, by Hales](https://rubenerd.com/the-beauty-of-cgi-and-simple-design-by-hales/)
 * [2023-01-08, 04:19:58](https://lobste.rs/s/ohyrmq/sdl2_common_mistakes_how_avoid_them) - [SDL2 common mistakes and how to avoid them](https://nullprogram.com/blog/2023/01/08/)
 * [2023-01-08, 00:06:49](https://lobste.rs/s/6o4d2c/i_scanned_every_package_on_pypi_found_57) - [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 * [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
