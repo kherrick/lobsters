@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-09, 13:37:43",
+      "https://lobste.rs/s/m0yzcx/explanations_allow_people_play_with"
+    ],
+    [
+      "\"Explanations\": allow people to play with graphics, compression & audio",
+      "https://magcius.github.io/xplain/article/"
+    ]
+  ],
+  [
+    [
+      "2023-01-09, 13:34:39",
+      "https://lobste.rs/s/crgloj/open_source_developer_friendly_load"
+    ],
+    [
+      "Open source and developer friendly load shedding calendar",
+      "https://github.com/beyarkay/eskom-calendar"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 13:11:16",
       "https://lobste.rs/s/g4fu9f/touchen_nxkey_keylogging_anti_keylogger"
     ],
@@ -57,16 +77,6 @@
     [
       "Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)",
       "https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 06:28:00",
-      "https://lobste.rs/s/8oxi1g/reverse_engineering_tiktok_s_vm"
-    ],
-    [
-      "Reverse Engineering TikTok's VM Obfuscation (Part 2)",
-      "https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ideas For A Javascript Stricter Mode",
       "https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-07, 18:47:53",
-      "https://lobste.rs/s/umatgz/production_twitter_on_one_machine"
-    ],
-    [
-      "Production Twitter on One Machine: 100Gbps NICs and NVMe are fast",
-      "https://thume.ca/2023/01/02/one-machine-twitter/"
     ]
   ]
 ]
