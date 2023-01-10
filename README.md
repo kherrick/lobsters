@@ -9,6 +9,7 @@
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 * [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
+* [2023-01-10, 04:48:32](https://lobste.rs/s/omuf2g/when_is_pc_not_pc_pc_98) - [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world_2013) - [Safari is released to the world (2013)](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 * [2023-01-10, 01:41:41](https://lobste.rs/s/x1uqji/verifiable_software_development) - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
@@ -22,7 +23,6 @@
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
-* [2023-01-09, 11:13:39](https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis) - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 
