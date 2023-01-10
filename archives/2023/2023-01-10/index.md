@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-01-10](index.md)
 
+* [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
+* [2023-01-10, 20:01:46](https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind) - [Safe memory reclamation for BIND](https://dotat.at/@/2023-01-10-qsbr.html)
+* [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
 * [2023-01-10, 19:21:46](https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized) - [On QVarLengthArray and Uninitialized Storage in C++](https://www.kdab.com/qvarlengtharray/)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)

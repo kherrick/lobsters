@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
+* [2023-01-10, 20:01:46](https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind) - [Safe memory reclamation for BIND](https://dotat.at/@/2023-01-10-qsbr.html)
+* [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
 * [2023-01-10, 19:21:46](https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized) - [On QVarLengthArray and Uninitialized Storage in C++](https://www.kdab.com/qvarlengtharray/)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)
@@ -9,7 +12,6 @@
 * [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
 * [2023-01-10, 16:28:46](https://lobste.rs/s/h57uru/egret_acre_regular_expression_test) - [EGRET/ACRE: Regular Expression Test Generation and Automatic Checking](http://elarson.pythonanywhere.com/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
-* [2023-01-10, 12:30:45](https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source) - [lexmark printer 0day exploit with source code and documentation released](https://github.com/blasty/lexmark)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 * [2023-01-10, 11:33:06](https://lobste.rs/s/gixvxw/integrating_linux_with_okta_device_trust) - [Integrating Linux with Okta Device Trust](https://mjg59.dreamwidth.org/64311.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
@@ -19,12 +21,10 @@
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world_2013) - [Safari is released to the world (2013)](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 * [2023-01-10, 01:41:41](https://lobste.rs/s/x1uqji/verifiable_software_development) - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
-* [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
-* [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
 
 ## [Archives](archives/index.md)
 
