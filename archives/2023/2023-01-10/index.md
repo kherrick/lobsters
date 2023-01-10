@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-10](index.md)
 
+* [2023-01-10, 19:21:46](https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized) - [On QVarLengthArray and Uninitialized Storage in C++](https://www.kdab.com/qvarlengtharray/)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)
 * [2023-01-10, 18:17:31](https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate) - [APT keeps complaining that the HTTPS certificate cannot be validated?](http://raymii.org/s/blog/Syncthing_apt_repo_keeps_complaining_HTTPS_certificate_could_not_be_validated.html)
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)

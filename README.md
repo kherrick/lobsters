@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 19:21:46](https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized) - [On QVarLengthArray and Uninitialized Storage in C++](https://www.kdab.com/qvarlengtharray/)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)
 * [2023-01-10, 18:17:31](https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate) - [APT keeps complaining that the HTTPS certificate cannot be validated?](http://raymii.org/s/blog/Syncthing_apt_repo_keeps_complaining_HTTPS_certificate_could_not_be_validated.html)
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
@@ -19,7 +20,6 @@
 * [2023-01-10, 01:41:41](https://lobste.rs/s/x1uqji/verifiable_software_development) - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
 * [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
-* [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
