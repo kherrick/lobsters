@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-10](index.md)
 
+* [2023-01-10, 18:17:31](https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate) - [APT keeps complaining that the HTTPS certificate cannot be validated?](http://raymii.org/s/blog/Syncthing_apt_repo_keeps_complaining_HTTPS_certificate_could_not_be_validated.html)
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 18:17:31](https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate) - [APT keeps complaining that the HTTPS certificate cannot be validated?](http://raymii.org/s/blog/Syncthing_apt_repo_keeps_complaining_HTTPS_certificate_could_not_be_validated.html)
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
@@ -17,7 +18,6 @@
 * [2023-01-10, 01:41:41](https://lobste.rs/s/x1uqji/verifiable_software_development) - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
 * [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
-* [2023-01-09, 23:09:46](https://lobste.rs/s/53zhxm/building_location_time_zone_api_with) - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
