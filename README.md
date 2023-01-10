@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 21:30:18](https://lobste.rs/s/jtpiqt/cloudy_weekend_migrating_my_blog_engine) - [Cloudy Weekend: Migrating My Blog Engine](https://danielbmarkham.com/cloudy-weekend-migrating-my-blog-engine/)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
 * [2023-01-10, 20:01:46](https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind) - [Safe memory reclamation for BIND](https://dotat.at/@/2023-01-10-qsbr.html)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
@@ -9,7 +10,6 @@
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
-* [2023-01-10, 16:28:46](https://lobste.rs/s/h57uru/egret_acre_regular_expression_test) - [EGRET/ACRE: Regular Expression Test Generation and Automatic Checking](http://elarson.pythonanywhere.com/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
 * [2023-01-10, 12:30:45](https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source) - [lexmark printer 0day exploit with source code and documentation released](https://github.com/blasty/lexmark)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
