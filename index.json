@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 19:21:46",
+      "https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized"
+    ],
+    [
+      "On QVarLengthArray and Uninitialized Storage in C++",
+      "https://www.kdab.com/qvarlengtharray/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 19:05:21",
       "https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse"
     ],
@@ -187,16 +197,6 @@
     [
       "In Defense of Testing Mocks",
       "https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 19:48:16",
-      "https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0"
-    ],
-    [
-      "Declarative UI with mogwai 0.6 and mogwai-dom 0.1",
-      "https://zyghost.com/blog/mogwai-0.6.html"
     ]
   ],
   [
