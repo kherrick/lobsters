@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 16:28:46](https://lobste.rs/s/h57uru/egret_acre_regular_expression_test) - [EGRET/ACRE: Regular Expression Test Generation and Automatic Checking](http://elarson.pythonanywhere.com/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
 * [2023-01-10, 12:30:45](https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source) - [lexmark printer 0day exploit with source code and documentation released](https://github.com/blasty/lexmark)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
@@ -16,7 +17,6 @@
 * [2023-01-09, 23:17:49](https://lobste.rs/s/abmhcx/defense_testing_mocks) - [In Defense of Testing Mocks](https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/)
 * [2023-01-09, 23:09:46](https://lobste.rs/s/53zhxm/building_location_time_zone_api_with) - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
-* [2023-01-09, 18:20:20](https://lobste.rs/s/zbvwrp/vulkan_video_decoding) - [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 * [2023-01-09, 14:58:45](https://lobste.rs/s/227mqp/clean_interface_for_org_files_emacs) - [A clean interface for org files (Emacs)](https://github.com/rougier/book-mode)
