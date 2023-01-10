@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 23:36:01](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh) - [whoarethey: Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 * [2023-01-10, 22:40:04](https://lobste.rs/s/jwq8u0/retropie_running_as_docker_container_on) - [RetroPie running as a docker container on x86_64](https://retropie.org.uk/forum/topic/33752/retropie-running-as-a-docker-container-or-almost)
 * [2023-01-10, 22:12:07](https://lobste.rs/s/oleqoh/making_68000_emulator_rust_2021) - [Making a 68000 Emulator in Rust (2021)](https://jabberwocky.ca/posts/2021-11-making_an_emulator.html)
 * [2023-01-10, 22:01:42](https://lobste.rs/s/ovoldv/gccrs_2022) - [gccrs in 2022](https://rust-gcc.github.io/reporting/2022-year-report.html)
@@ -15,7 +16,6 @@
 * [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
-* [2023-01-10, 11:33:06](https://lobste.rs/s/gixvxw/integrating_linux_with_okta_device_trust) - [Integrating Linux with Okta Device Trust](https://mjg59.dreamwidth.org/64311.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
