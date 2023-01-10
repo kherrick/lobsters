@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 12:30:45](https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source) - [lexmark printer 0day exploit with source code and documentation released](https://github.com/blasty/lexmark)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 * [2023-01-10, 11:33:06](https://lobste.rs/s/gixvxw/integrating_linux_with_okta_device_trust) - [Integrating Linux with Okta Device Trust](https://mjg59.dreamwidth.org/64311.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
@@ -14,7 +15,6 @@
 * [2023-01-09, 23:09:46](https://lobste.rs/s/53zhxm/building_location_time_zone_api_with) - [Building a location to time zone API with SpatiaLite and Datasette](https://datasette.io/tutorials/spatialite)
 * [2023-01-09, 21:29:28](https://lobste.rs/s/yuxzus/introducing_content_defined_chunking) - [Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
-* [2023-01-09, 19:00:31](https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go) - [implement \"find definition\" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
 * [2023-01-09, 18:20:20](https://lobste.rs/s/zbvwrp/vulkan_video_decoding) - [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
