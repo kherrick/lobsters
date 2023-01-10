@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-10](index.md)
 
+* [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 * [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
 * [2023-01-10, 04:48:32](https://lobste.rs/s/omuf2g/when_is_pc_not_pc_pc_98) - [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
