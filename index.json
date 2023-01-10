@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-10, 17:22:13",
+      "https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh"
+    ],
+    [
+      "CVE-2022-46176: Cargo does not check SSH host keys",
+      "https://seclists.org/oss-sec/2023/q1/13"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 17:11:43",
+      "https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock"
+    ],
+    [
+      "PEP 703 – Making the Global Interpreter Lock Optional in CPython",
+      "https://peps.python.org/pep-0703/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 16:59:38",
+      "https://lobste.rs/s/rmzokq/native_technologists_ask_apache"
+    ],
+    [
+      "Native technologists ask Apache Software Foundation to change name",
+      "https://blog.nativesintech.org/apache-appropriation/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 16:28:46",
       "https://lobste.rs/s/h57uru/egret_acre_regular_expression_test"
     ],
@@ -77,16 +107,6 @@
     [
       "Architecture diagrams should be code",
       "https://brianmckenna.org/blog/architecture_code"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 08:24:36",
-      "https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote"
-    ],
-    [
-      "A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "https://iximiuz.com/en/posts/ssh-tunnels/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Feeds: The Only Civilised Way to Read Online",
       "https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 11:06:48",
-      "https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae"
-    ],
-    [
-      "Man page as a curriculum vitae",
-      "https://skiqqy.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 00:53:54",
-      "https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes"
-    ],
-    [
-      "What’s New in Go 1.20, Part I: Language Changes",
-      "https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/"
     ]
   ]
 ]
