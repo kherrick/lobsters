@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-10, 01:41:41",
+      "https://lobste.rs/s/x1uqji/verifiable_software_development"
+    ],
+    [
+      "Verifiable Software Development Estimations",
+      "https://two-wrongs.com/verifiable-software-development-estimations"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 00:48:05",
+      "https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems"
+    ],
+    [
+      "OpenZFS - The Final Word in File Systems",
+      "https://jro.io/truenas/openzfs/"
+    ]
+  ],
+  [
+    [
       "2023-01-09, 23:17:49",
       "https://lobste.rs/s/abmhcx/defense_testing_mocks"
     ],
@@ -17,16 +37,6 @@
     [
       "Building a location to time zone API with SpatiaLite and Datasette",
       "https://datasette.io/tutorials/spatialite"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 22:04:05",
-      "https://lobste.rs/s/uewuxv/test_pollution_how_fix_it"
-    ],
-    [
-      "Test pollution and how to fix it",
-      "https://cs-syd.eu/posts/2021-10-23-test-pollution"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "All about sanitizer interceptors",
       "https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 03:03:40",
-      "https://lobste.rs/s/rhmgug/comprehensive_guide_for_fastest"
-    ],
-    [
-      "A comprehensive guide for the fastest possible Docker builds in human existence",
-      "https://www.sliceofexperiments.com/p/a-comprehensive-guide-for-the-fastest"
     ]
   ],
   [
