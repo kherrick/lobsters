@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 13:33:00",
+      "https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd"
+    ],
+    [
+      "HAMMER2 file system for NetBSD",
+      "https://github.com/kusumi/netbsd_hammer2"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 12:30:45",
       "https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source"
     ],
@@ -127,16 +137,6 @@
     [
       "Building a location to time zone API with SpatiaLite and Datasette",
       "https://datasette.io/tutorials/spatialite"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 21:29:28",
-      "https://lobste.rs/s/yuxzus/introducing_content_defined_chunking"
-    ],
-    [
-      "Introducing Content Defined Chunking (CDC)",
-      "https://restic.net/blog/2015-09-12/restic-foundation1-cdc/"
     ]
   ],
   [
