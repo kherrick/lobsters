@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-10, 20:13:26",
+      "https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing"
+    ],
+    [
+      "Yet another keyboard post, or, introducing ErgoNICE",
+      "https://val.packett.cool/blog/ergonice/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 20:01:46",
+      "https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind"
+    ],
+    [
+      "Safe memory reclamation for BIND",
+      "https://dotat.at/@/2023-01-10-qsbr.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 20:00:09",
+      "https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website"
+    ],
+    [
+      "ULID Identifiers and ULID Tools Website",
+      "https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 19:35:46",
       "https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength"
     ],
@@ -87,16 +117,6 @@
     [
       "HAMMER2 file system for NetBSD",
       "https://github.com/kusumi/netbsd_hammer2"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 12:30:45",
-      "https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source"
-    ],
-    [
-      "lexmark printer 0day exploit with source code and documentation released",
-      "https://github.com/blasty/lexmark"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-01-09, 23:17:49",
-      "https://lobste.rs/s/abmhcx/defense_testing_mocks"
-    ],
-    [
-      "In Defense of Testing Mocks",
-      "https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/"
-    ]
-  ],
-  [
-    [
       "2023-01-09, 16:09:27",
       "https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022"
     ],
@@ -237,16 +247,6 @@
     [
       "Making Sorbet more incremental",
       "https://blog.jez.io/making-sorbet-more-incremental/"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 12:43:36",
-      "https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online"
-    ],
-    [
-      "Feeds: The Only Civilised Way to Read Online",
-      "https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online"
     ]
   ]
 ]
