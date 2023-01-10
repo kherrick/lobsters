@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-01-10, 19:21:46",
-      "https://lobste.rs/s/ld15s0/on_qvarlengtharray_uninitialized"
-    ],
-    [
-      "On QVarLengthArray and Uninitialized Storage in C++",
-      "https://www.kdab.com/qvarlengtharray/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 19:05:21",
       "https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse"
     ],
@@ -117,6 +107,16 @@
     [
       "HAMMER2 file system for NetBSD",
       "https://github.com/kusumi/netbsd_hammer2"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 12:30:45",
+      "https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source"
+    ],
+    [
+      "lexmark printer 0day exploit with source code and documentation released",
+      "https://github.com/blasty/lexmark"
     ]
   ],
   [
