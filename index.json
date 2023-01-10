@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 22:40:04",
+      "https://lobste.rs/s/jwq8u0/retropie_running_as_docker_container_on"
+    ],
+    [
+      "RetroPie running as a docker container on x86_64",
+      "https://retropie.org.uk/forum/topic/33752/retropie-running-as-a-docker-container-or-almost"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 22:12:07",
       "https://lobste.rs/s/oleqoh/making_68000_emulator_rust_2021"
     ],
@@ -127,16 +137,6 @@
     [
       "HAMMER2 file system for NetBSD",
       "https://github.com/kusumi/netbsd_hammer2"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 12:30:45",
-      "https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source"
-    ],
-    [
-      "lexmark printer 0day exploit with source code and documentation released",
-      "https://github.com/blasty/lexmark"
     ]
   ],
   [
