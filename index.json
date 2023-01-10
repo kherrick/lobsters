@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 12:30:45",
+      "https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source"
+    ],
+    [
+      "lexmark printer 0day exploit with source code and documentation released",
+      "https://github.com/blasty/lexmark"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 11:41:03",
       "https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do"
     ],
@@ -137,16 +147,6 @@
     [
       "Declarative UI with mogwai 0.6 and mogwai-dom 0.1",
       "https://zyghost.com/blog/mogwai-0.6.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 19:00:31",
-      "https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go"
-    ],
-    [
-      "implement \"find definition\" in 77 lines of go",
-      "https://dev-nonsense.com/posts/find-definition-in-go/"
     ]
   ],
   [
