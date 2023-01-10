@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-10, 02:31:07",
+      "https://lobste.rs/s/zgadeb/langchain_interface_for_composing"
+    ],
+    [
+      "LangChain: An interface for composing chains of LLM calls",
+      "https://github.com/hwchase17/langchain"
+    ]
+  ],
+  [
+    [
       "2023-01-10, 01:41:41",
       "https://lobste.rs/s/x1uqji/verifiable_software_development"
     ],
@@ -217,16 +227,6 @@
     [
       "Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)",
       "https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-09, 05:54:43",
-      "https://lobste.rs/s/y46zwi/all_about_sanitizer_interceptors"
-    ],
-    [
-      "All about sanitizer interceptors",
-      "https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors"
     ]
   ],
   [
