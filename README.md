@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 * [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
@@ -12,7 +13,6 @@
 * [2023-01-09, 21:29:28](https://lobste.rs/s/yuxzus/introducing_content_defined_chunking) - [Introducing Content Defined Chunking (CDC)](https://restic.net/blog/2015-09-12/restic-foundation1-cdc/)
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
 * [2023-01-09, 19:00:31](https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go) - [implement \"find definition\" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
-* [2023-01-09, 18:24:07](https://lobste.rs/s/32ew26/intro_redis_scripting_with_lua) - [Intro to Redis Scripting with Lua](https://www.novus.com/tech-blog/intro-to-redis-scripting-with-lua)
 * [2023-01-09, 18:20:20](https://lobste.rs/s/zbvwrp/vulkan_video_decoding) - [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
 * [2023-01-09, 16:44:13](https://lobste.rs/s/ry3sie/on_pbkdf2_iterations) - [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)

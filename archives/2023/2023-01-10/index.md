@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-10](index.md)
 
+* [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 * [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
