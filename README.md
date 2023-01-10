@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 * [2023-01-10, 11:33:06](https://lobste.rs/s/gixvxw/integrating_linux_with_okta_device_trust) - [Integrating Linux with Okta Device Trust](https://mjg59.dreamwidth.org/64311.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 * [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
-* [2023-01-10, 04:48:32](https://lobste.rs/s/omuf2g/when_is_pc_not_pc_pc_98) - [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world) - [Safari is released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 * [2023-01-10, 01:41:41](https://lobste.rs/s/x1uqji/verifiable_software_development) - [Verifiable Software Development Estimations](https://two-wrongs.com/verifiable-software-development-estimations)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
