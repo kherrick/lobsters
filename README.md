@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
 * [2023-01-10, 04:48:32](https://lobste.rs/s/omuf2g/when_is_pc_not_pc_pc_98) - [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
 * [2023-01-10, 04:48:29](https://lobste.rs/s/dhdzyq/argon_one_nvme_board_slower_than_sata_for) - [Argon ONE NVMe Board Slower than SATA (for the Raspberry Pi)](https://www.martinrowan.co.uk/2023/01/argon-one-nvme-board-slower-than-sata/)
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world) - [Safari is released to the world](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
@@ -22,7 +23,6 @@
 * [2023-01-09, 11:13:39](https://lobste.rs/s/y9uzyx/three_lessons_from_threema_analysis) - [Three Lessons from Threema: Analysis of a Secure Messenger](https://breakingthe3ma.app/)
 * [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
 * [2023-01-09, 09:21:26](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/v78g7m/what_are_you_doing_this_week)
-* [2023-01-09, 08:37:36](https://lobste.rs/s/jhu12k/intro_building_gcc_some_other_gnu) - [Intro to building GCC and some other GNU projects (focus on macOS & Apple Silicon)](https://www.nmattia.com/posts/2023-01-09-introduction-build-gcc-gnu.html)
 * [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 * [2023-01-08, 18:38:23](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023) - [What are you planning to learn in 2023?](https://lobste.rs/s/akgoai/what_are_you_planning_learn_2023)
 
