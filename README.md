@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 11:33:06](https://lobste.rs/s/gixvxw/integrating_linux_with_okta_device_trust) - [Integrating Linux with Okta Device Trust](https://mjg59.dreamwidth.org/64311.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
@@ -15,7 +16,6 @@
 * [2023-01-09, 19:48:16](https://lobste.rs/s/gpinyp/declarative_ui_with_mogwai_0_6_mogwai_dom_0) - [Declarative UI with mogwai 0.6 and mogwai-dom 0.1](https://zyghost.com/blog/mogwai-0.6.html)
 * [2023-01-09, 19:00:31](https://lobste.rs/s/kwqu4i/implement_find_definition_77_lines_go) - [implement \"find definition\" in 77 lines of go](https://dev-nonsense.com/posts/find-definition-in-go/)
 * [2023-01-09, 18:20:20](https://lobste.rs/s/zbvwrp/vulkan_video_decoding) - [Vulkan Video decoding](https://lynne.ee/vulkan-video-decoding.html)
-* [2023-01-09, 16:44:13](https://lobste.rs/s/ry3sie/on_pbkdf2_iterations) - [On PBKDF2 iterations](https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 * [2023-01-09, 14:58:45](https://lobste.rs/s/227mqp/clean_interface_for_org_files_emacs) - [A clean interface for org files (Emacs)](https://github.com/rougier/book-mode)
