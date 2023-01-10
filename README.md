@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
+* [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
+* [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
 * [2023-01-10, 16:28:46](https://lobste.rs/s/h57uru/egret_acre_regular_expression_test) - [EGRET/ACRE: Regular Expression Test Generation and Automatic Checking](http://elarson.pythonanywhere.com/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
 * [2023-01-10, 12:30:45](https://lobste.rs/s/nw4lav/lexmark_printer_0day_exploit_with_source) - [lexmark printer 0day exploit with source code and documentation released](https://github.com/blasty/lexmark)
@@ -8,7 +11,6 @@
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 10:15:19](https://lobste.rs/s/elujo9/pagination_problem_total_result_count) - [Pagination and the problem of the total result count](https://www.cybertec-postgresql.com/en/pagination-problem-total-result-count/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
-* [2023-01-10, 08:24:36](https://lobste.rs/s/9zxsdq/visual_guide_ssh_tunnels_local_remote) - [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
 * [2023-01-10, 04:48:32](https://lobste.rs/s/omuf2g/when_is_pc_not_pc_pc_98) - [When is a PC not a PC? The PC-98](https://scalibq.wordpress.com/2023/01/07/when-is-a-pc-not-a-pc-the-pc-98/)
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world_2013) - [Safari is released to the world (2013)](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
@@ -23,8 +25,6 @@
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 * [2023-01-09, 14:28:10](https://lobste.rs/s/krl8gl/making_sorbet_more_incremental) - [Making Sorbet more incremental](https://blog.jez.io/making-sorbet-more-incremental/)
 * [2023-01-09, 12:43:36](https://lobste.rs/s/gbvwcr/feeds_only_civilised_way_read_online) - [Feeds: The Only Civilised Way to Read Online](https://felixcrux.com/blog/feeds-the-only-civilised-way-to-read-online)
-* [2023-01-09, 11:06:48](https://lobste.rs/s/mnqppx/man_page_as_curriculum_vitae) - [Man page as a curriculum vitae](https://skiqqy.xyz/)
-* [2023-01-09, 00:53:54](https://lobste.rs/s/w0vntp/what_s_new_go_1_20_part_i_language_changes) - [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
 
 ## [Archives](archives/index.md)
 
