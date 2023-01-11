@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 04:31:50](https://lobste.rs/s/ppe4ya/new_timepiece_for_classic_mac) - [New timepiece for a Classic Mac](https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/)
+* [2023-01-11, 04:22:10](https://lobste.rs/s/6mzkbg/string_integer_atoi_go) - [String to Integer (atoi) in Go](https://www.openmymind.net/String-To-Integer-atoi-in-Go/)
 * [2023-01-11, 04:04:47](https://lobste.rs/s/kf9cmh/z80_emulator) - [A Z80 emulator](https://palaiologos.rocks/essays/posts/z80-emu/)
 * [2023-01-11, 00:04:40](https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb) - [Sierra’s Macintosh Timebomb](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
 * [2023-01-10, 23:36:01](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh) - [whoarethey: Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 * [2023-01-10, 22:40:04](https://lobste.rs/s/jwq8u0/retropie_running_as_docker_container_on) - [RetroPie running as a docker container on x86_64](https://retropie.org.uk/forum/topic/33752/retropie-running-as-a-docker-container-or-almost)
 * [2023-01-10, 22:12:07](https://lobste.rs/s/oleqoh/making_68000_emulator_rust_2021) - [Making a 68000 Emulator in Rust (2021)](https://jabberwocky.ca/posts/2021-11-making_an_emulator.html)
 * [2023-01-10, 22:01:42](https://lobste.rs/s/ovoldv/gccrs_2022) - [gccrs in 2022](https://rust-gcc.github.io/reporting/2022-year-report.html)
-* [2023-01-10, 21:30:18](https://lobste.rs/s/jtpiqt/cloudy_weekend_migrating_my_blog_engine) - [Cloudy Weekend: Migrating My Blog Engine](https://danielbmarkham.com/cloudy-weekend-migrating-my-blog-engine/)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
@@ -23,7 +24,6 @@
 * [2023-01-10, 07:32:52](https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s) - [Surprising Consequences of macOS’s Environment Variable Sanitization](https://hynek.me/articles/macos-dyld-env/)
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world_2013) - [Safari is released to the world (2013)](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
-* [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 
 ## [Archives](archives/index.md)
