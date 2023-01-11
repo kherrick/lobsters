@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 18:46:54](https://lobste.rs/s/vnkvij/managing_flaky_tests_instead) - [Managing flaky tests instead of immediately trying to \"fix\" them](https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/)
 * [2023-01-11, 16:59:06](https://lobste.rs/s/u5c8ox/thin_film_transistor_tft_lcd_display) - [Thin-Film-Transistor (TFT) LCD Display Control Electronics Design and Operation](https://elinux.org/images/4/48/TFT-white-paper.pdf)
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
-* [2023-01-11, 16:02:04](https://lobste.rs/s/xcis2l/bypassing_intel_cet_with_counterfeit) - [Bypassing Intel CET with Counterfeit Objects](https://www.offensive-security.com/offsec/bypassing-intel-cet-with-counterfeit-objects/)
 * [2023-01-11, 13:58:10](https://lobste.rs/s/kiojmt/open_source_self_hosted_container) - [open-source self-hosted container management platform](https://github.com/dyrector-io/dyrectorio)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
