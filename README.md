@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 00:04:40](https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb) - [Sierra’s Macintosh Timebomb](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
 * [2023-01-10, 23:36:01](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh) - [whoarethey: Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 * [2023-01-10, 22:40:04](https://lobste.rs/s/jwq8u0/retropie_running_as_docker_container_on) - [RetroPie running as a docker container on x86_64](https://retropie.org.uk/forum/topic/33752/retropie-running-as-a-docker-container-or-almost)
 * [2023-01-10, 22:12:07](https://lobste.rs/s/oleqoh/making_68000_emulator_rust_2021) - [Making a 68000 Emulator in Rust (2021)](https://jabberwocky.ca/posts/2021-11-making_an_emulator.html)
@@ -23,7 +24,6 @@
 * [2023-01-10, 04:47:48](https://lobste.rs/s/gz8ugy/safari_is_released_world_2013) - [Safari is released to the world (2013)](https://donmelton.com/2013/01/10/safari-is-released-to-the-world/)
 * [2023-01-10, 00:48:05](https://lobste.rs/s/cuihsv/openzfs_final_word_file_systems) - [OpenZFS - The Final Word in File Systems](https://jro.io/truenas/openzfs/)
 * [2023-01-09, 16:09:27](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022) - [What was the best CS paper you read in 2022?](https://lobste.rs/s/tjlmjr/what_was_best_cs_paper_you_read_2022)
-* [2023-01-09, 15:33:38](https://lobste.rs/s/jugyxo/taking_over_dead_iot_company) - [Taking over a Dead IoT Company](https://blog.kchung.co/taking-over-a-dead-iot-company/)
 * [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 
 ## [Archives](archives/index.md)
