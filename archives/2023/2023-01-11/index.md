@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 22:11:05](https://lobste.rs/s/g0r6i0/horizon_eda) - [Horizon EDA](https://github.com/horizon-eda/horizon)
 * [2023-01-11, 21:21:13](https://lobste.rs/s/oickpy/erlang_movie) - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
 * [2023-01-11, 20:46:01](https://lobste.rs/s/sotzxx/embedding_our_new_react_ui_go) - [Embedding Our New React UI in Go](https://www.flipt.io/blog/embedding-react-in-go)
