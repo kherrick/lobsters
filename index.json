@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-01-11, 08:36:20",
-      "https://lobste.rs/s/hvbvea/8086_processor_s_microcode_pipeline_from"
-    ],
-    [
-      "The 8086 processor's microcode pipeline from die analysis",
-      "http://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html"
-    ]
-  ],
-  [
-    [
       "2023-01-11, 08:17:46",
       "https://lobste.rs/s/qjmaxi/emacs_org_present_style"
     ],
@@ -177,6 +167,16 @@
     [
       "PEP 703 – Making the Global Interpreter Lock Optional in CPython",
       "https://peps.python.org/pep-0703/"
+    ]
+  ],
+  [
+    [
+      "2023-01-10, 16:59:38",
+      "https://lobste.rs/s/rmzokq/native_technologists_ask_apache"
+    ],
+    [
+      "Native technologists ask Apache Software Foundation to change name",
+      "https://blog.nativesintech.org/apache-appropriation/"
     ]
   ],
   [
