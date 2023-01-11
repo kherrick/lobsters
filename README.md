@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 19:46:04](https://lobste.rs/s/caahx9/indie_web_stack_future) - [Indie Web Stack of the Future](https://www.maxcountryman.com/articles/indie-web-stack-of-the-future)
 * [2023-01-11, 19:24:57](https://lobste.rs/s/kgggfe/copyright_without_years) - [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
 * [2023-01-11, 19:17:18](https://lobste.rs/s/23hvae/yarr_yet_another_rss_reader) - [yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 * [2023-01-11, 18:46:54](https://lobste.rs/s/vnkvij/managing_flaky_tests_instead) - [Managing flaky tests instead of immediately trying to \"fix\" them](https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/)
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
-* [2023-01-11, 14:09:12](https://lobste.rs/s/7x9aby/how_setting_tz_environment_variable) - [How setting the TZ environment variable avoids thousands of system calls (2017)](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
 * [2023-01-11, 13:58:10](https://lobste.rs/s/kiojmt/open_source_self_hosted_container) - [open-source self-hosted container management platform](https://github.com/dyrector-io/dyrectorio)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)

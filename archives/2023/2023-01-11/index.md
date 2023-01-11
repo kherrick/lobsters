@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 19:46:04](https://lobste.rs/s/caahx9/indie_web_stack_future) - [Indie Web Stack of the Future](https://www.maxcountryman.com/articles/indie-web-stack-of-the-future)
 * [2023-01-11, 19:24:57](https://lobste.rs/s/kgggfe/copyright_without_years) - [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
 * [2023-01-11, 19:17:18](https://lobste.rs/s/23hvae/yarr_yet_another_rss_reader) - [yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 * [2023-01-11, 18:46:54](https://lobste.rs/s/vnkvij/managing_flaky_tests_instead) - [Managing flaky tests instead of immediately trying to \"fix\" them](https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/)
