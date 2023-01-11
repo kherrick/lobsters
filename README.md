@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
+* [2023-01-11, 16:02:04](https://lobste.rs/s/xcis2l/bypassing_intel_cet_with_counterfeit) - [Bypassing Intel CET with Counterfeit Objects](https://www.offensive-security.com/offsec/bypassing-intel-cet-with-counterfeit-objects/)
 * [2023-01-11, 14:20:36](https://lobste.rs/s/pkgrfr/i_wrote_story_for_friend) - [I wrote a story for a friend](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
-* [2023-01-11, 14:09:12](https://lobste.rs/s/7x9aby/how_setting_tz_environment_variable) - [How setting the TZ environment variable avoids thousands of system calls (2017)](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
 * [2023-01-11, 13:58:10](https://lobste.rs/s/kiojmt/open_source_self_hosted_container) - [open-source self-hosted container management platform](https://github.com/dyrector-io/dyrectorio)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
 * [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
+* [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
 * [2023-01-11, 10:08:53](https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html?m=1)
 * [2023-01-11, 08:36:20](https://lobste.rs/s/hvbvea/8086_processor_s_microcode_pipeline_from) - [The 8086 processor's microcode pipeline from die analysis](http://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
@@ -21,10 +23,8 @@
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
-* [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
-* [2023-01-09, 14:37:26](https://lobste.rs/s/ag0slu/sourcehut_will_blacklist_go_module) - [SourceHut will blacklist the Go module mirror](https://sourcehut.org/blog/2023-01-09-gomodulemirror/)
 
 ## [Archives](archives/index.md)
 
