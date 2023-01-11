@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 21:21:13](https://lobste.rs/s/oickpy/erlang_movie) - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
 * [2023-01-11, 20:46:01](https://lobste.rs/s/sotzxx/embedding_our_new_react_ui_go) - [Embedding Our New React UI in Go](https://www.flipt.io/blog/embedding-react-in-go)
 * [2023-01-11, 19:46:04](https://lobste.rs/s/caahx9/indie_web_stack_future) - [Indie Web Stack of the Future](https://www.maxcountryman.com/articles/indie-web-stack-of-the-future)
@@ -21,7 +22,6 @@
 * [2023-01-10, 22:01:42](https://lobste.rs/s/ovoldv/gccrs_2022) - [gccrs in 2022](https://rust-gcc.github.io/reporting/2022-year-report.html)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
-* [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
