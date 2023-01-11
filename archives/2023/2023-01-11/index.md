@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
 * [2023-01-11, 20:46:01](https://lobste.rs/s/sotzxx/embedding_our_new_react_ui_go) - [Embedding Our New React UI in Go](https://www.flipt.io/blog/embedding-react-in-go)
 * [2023-01-11, 19:46:04](https://lobste.rs/s/caahx9/indie_web_stack_future) - [Indie Web Stack of the Future](https://www.maxcountryman.com/articles/indie-web-stack-of-the-future)
 * [2023-01-11, 19:24:57](https://lobste.rs/s/kgggfe/copyright_without_years) - [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
