@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
+* [2023-01-11, 11:12:11](https://lobste.rs/s/x1bdsk/raspberry_pi_revives_smith_corona_word) - [Raspberry Pi revives a Smith Corona word processor](https://www.raspberrypi.com/news/raspberry-pi-revives-a-smith-corona-word-processor/)
 * [2023-01-11, 10:08:53](https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html?m=1)
 * [2023-01-11, 08:36:20](https://lobste.rs/s/hvbvea/8086_processor_s_microcode_pipeline_from) - [The 8086 processor's microcode pipeline from die analysis](http://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
 * [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
