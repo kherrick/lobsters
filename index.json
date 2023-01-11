@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 04:04:47",
+      "https://lobste.rs/s/kf9cmh/z80_emulator"
+    ],
+    [
+      "A Z80 emulator",
+      "https://palaiologos.rocks/essays/posts/z80-emu/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 00:04:40",
       "https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb"
     ],
@@ -67,16 +77,6 @@
     [
       "Yet another keyboard post, or, introducing ErgoNICE",
       "https://val.packett.cool/blog/ergonice/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 20:01:46",
-      "https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind"
-    ],
-    [
-      "Safe memory reclamation for BIND",
-      "https://dotat.at/@/2023-01-10-qsbr.html"
     ]
   ],
   [
