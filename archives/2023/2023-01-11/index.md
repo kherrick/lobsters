@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 14:20:36](https://lobste.rs/s/pkgrfr/i_wrote_story_for_friend) - [I wrote a story for a friend](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
+* [2023-01-11, 14:09:12](https://lobste.rs/s/7x9aby/how_setting_tz_environment_variable) - [How setting the TZ environment variable avoids thousands of system calls (2017)](https://blog.packagecloud.io/set-environment-variable-save-thousands-of-system-calls/)
 * [2023-01-11, 13:58:10](https://lobste.rs/s/kiojmt/open_source_self_hosted_container) - [open-source self-hosted container management platform](https://github.com/dyrector-io/dyrectorio)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
