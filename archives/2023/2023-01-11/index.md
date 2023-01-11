@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
 * [2023-01-11, 06:21:00](https://lobste.rs/s/pizpew/how_query_engines_work) - [How Query Engines Work](https://howqueryengineswork.com)
 * [2023-01-11, 05:58:33](https://lobste.rs/s/o3ljns/nintendo_dsi_gets_browser_exploit_almost) - [Nintendo DSi gets a browser exploit, almost 15 years after its release](https://wololo.net/2023/01/11/nintendo-dsi-gets-a-browser-exploit-almost-15-years-after-its-release/)
 * [2023-01-11, 04:31:50](https://lobste.rs/s/ppe4ya/new_timepiece_for_classic_mac) - [New timepiece for a Classic Mac](https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/)
