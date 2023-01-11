@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_does_one_securely_manage_secrets) - [How does one securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_does_one_securely_manage_secrets)
 * [2023-01-11, 22:11:05](https://lobste.rs/s/g0r6i0/horizon_eda) - [Horizon EDA](https://github.com/horizon-eda/horizon)
 * [2023-01-11, 21:21:13](https://lobste.rs/s/oickpy/erlang_movie) - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
@@ -13,7 +14,6 @@
 * [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
 * [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
-* [2023-01-11, 10:08:53](https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html?m=1)
 * [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
 * [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
 * [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
