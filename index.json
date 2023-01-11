@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 21:07:38",
+      "https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward"
+    ],
+    [
+      "Let Me Unwind That For You: Exceptions to Backward-Edge Protection",
+      "https://download.vusec.net/papers/chop_ndss23.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 20:46:01",
       "https://lobste.rs/s/sotzxx/embedding_our_new_react_ui_go"
     ],
@@ -37,16 +47,6 @@
     [
       "yarr: yet another rss reader",
       "https://github.com/nkanaev/yarr"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 18:46:54",
-      "https://lobste.rs/s/vnkvij/managing_flaky_tests_instead"
-    ],
-    [
-      "Managing flaky tests instead of immediately trying to \"fix\" them",
-      "https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/"
     ]
   ],
   [
