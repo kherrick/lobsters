@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 21:21:13",
+      "https://lobste.rs/s/oickpy/erlang_movie"
+    ],
+    [
+      "Erlang: The Movie",
+      "https://www.youtube.com/watch?v=xrIjfIjssLE"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 21:07:38",
       "https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward"
     ],
@@ -207,16 +217,6 @@
     [
       "ULID Identifiers and ULID Tools Website",
       "https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 17:22:13",
-      "https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh"
-    ],
-    [
-      "CVE-2022-46176: Cargo does not check SSH host keys",
-      "https://seclists.org/oss-sec/2023/q1/13"
     ]
   ],
   [
