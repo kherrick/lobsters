@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-11, 11:19:06",
+      "https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c"
+    ],
+    [
+      "A Comparison of SPARK with MISRA C and Frama-C",
+      "https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-11, 11:12:11",
+      "https://lobste.rs/s/x1bdsk/raspberry_pi_revives_smith_corona_word"
+    ],
+    [
+      "Raspberry Pi revives a Smith Corona word processor",
+      "https://www.raspberrypi.com/news/raspberry-pi-revives-a-smith-corona-word-processor/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 10:08:53",
       "https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-01-10, 19:05:21",
-      "https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse"
-    ],
-    [
-      "Why Fortran is a scientific powerhouse",
-      "https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 18:17:31",
       "https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate"
     ],
@@ -167,16 +177,6 @@
     [
       "PEP 703 – Making the Global Interpreter Lock Optional in CPython",
       "https://peps.python.org/pep-0703/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 16:59:38",
-      "https://lobste.rs/s/rmzokq/native_technologists_ask_apache"
-    ],
-    [
-      "Native technologists ask Apache Software Foundation to change name",
-      "https://blog.nativesintech.org/apache-appropriation/"
     ]
   ],
   [
