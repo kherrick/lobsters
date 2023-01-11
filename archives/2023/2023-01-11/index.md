@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 13:58:10](https://lobste.rs/s/kiojmt/open_source_self_hosted_container) - [open-source self-hosted container management platform](https://github.com/dyrector-io/dyrectorio)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
 * [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
