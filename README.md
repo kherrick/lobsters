@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
 * [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
 * [2023-01-11, 06:21:00](https://lobste.rs/s/pizpew/how_query_engines_work) - [How Query Engines Work](https://howqueryengineswork.com)
 * [2023-01-11, 05:58:33](https://lobste.rs/s/o3ljns/nintendo_dsi_gets_browser_exploit_almost) - [Nintendo DSi gets a browser exploit, almost 15 years after its release](https://wololo.net/2023/01/11/nintendo-dsi-gets-a-browser-exploit-almost-15-years-after-its-release/)
@@ -8,7 +9,6 @@
 * [2023-01-10, 22:12:07](https://lobste.rs/s/oleqoh/making_68000_emulator_rust_2021) - [Making a 68000 Emulator in Rust (2021)](https://jabberwocky.ca/posts/2021-11-making_an_emulator.html)
 * [2023-01-10, 22:01:42](https://lobste.rs/s/ovoldv/gccrs_2022) - [gccrs in 2022](https://rust-gcc.github.io/reporting/2022-year-report.html)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
-* [2023-01-10, 20:01:46](https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind) - [Safe memory reclamation for BIND](https://dotat.at/@/2023-01-10-qsbr.html)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)
