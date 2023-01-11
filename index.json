@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 12:09:12",
+      "https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out"
+    ],
+    [
+      "Take the tools out of 'Data', but don't take the data out of the tools",
+      "https://csvbase.com/blog/1"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 11:41:21",
       "https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for"
     ],
@@ -167,16 +177,6 @@
     [
       "PEP 703 – Making the Global Interpreter Lock Optional in CPython",
       "https://peps.python.org/pep-0703/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 16:59:38",
-      "https://lobste.rs/s/rmzokq/native_technologists_ask_apache"
-    ],
-    [
-      "Native technologists ask Apache Software Foundation to change name",
-      "https://blog.nativesintech.org/apache-appropriation/"
     ]
   ],
   [
