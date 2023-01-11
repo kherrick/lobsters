@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 16:59:06](https://lobste.rs/s/u5c8ox/thin_film_transistor_tft_lcd_display) - [Thin-Film-Transistor (TFT) LCD Display Control Electronics Design and Operation](https://elinux.org/images/4/48/TFT-white-paper.pdf)
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
 * [2023-01-11, 16:02:04](https://lobste.rs/s/xcis2l/bypassing_intel_cet_with_counterfeit) - [Bypassing Intel CET with Counterfeit Objects](https://www.offensive-security.com/offsec/bypassing-intel-cet-with-counterfeit-objects/)
 * [2023-01-11, 14:20:36](https://lobste.rs/s/pkgrfr/i_wrote_story_for_friend) - [I wrote a story for a friend](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
