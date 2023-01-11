@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
 * [2023-01-11, 11:12:11](https://lobste.rs/s/x1bdsk/raspberry_pi_revives_smith_corona_word) - [Raspberry Pi revives a Smith Corona word processor](https://www.raspberrypi.com/news/raspberry-pi-revives-a-smith-corona-word-processor/)
 * [2023-01-11, 10:08:53](https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html?m=1)
