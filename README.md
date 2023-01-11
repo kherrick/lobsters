@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 04:04:47](https://lobste.rs/s/kf9cmh/z80_emulator) - [A Z80 emulator](https://palaiologos.rocks/essays/posts/z80-emu/)
 * [2023-01-11, 00:04:40](https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb) - [Sierra’s Macintosh Timebomb](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
 * [2023-01-10, 23:36:01](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh) - [whoarethey: Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 * [2023-01-10, 22:40:04](https://lobste.rs/s/jwq8u0/retropie_running_as_docker_container_on) - [RetroPie running as a docker container on x86_64](https://retropie.org.uk/forum/topic/33752/retropie-running-as-a-docker-container-or-almost)
@@ -7,7 +8,6 @@
 * [2023-01-10, 22:01:42](https://lobste.rs/s/ovoldv/gccrs_2022) - [gccrs in 2022](https://rust-gcc.github.io/reporting/2022-year-report.html)
 * [2023-01-10, 21:30:18](https://lobste.rs/s/jtpiqt/cloudy_weekend_migrating_my_blog_engine) - [Cloudy Weekend: Migrating My Blog Engine](https://danielbmarkham.com/cloudy-weekend-migrating-my-blog-engine/)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
-* [2023-01-10, 20:01:46](https://lobste.rs/s/yhczg0/safe_memory_reclamation_for_bind) - [Safe memory reclamation for BIND](https://dotat.at/@/2023-01-10-qsbr.html)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
 * [2023-01-10, 19:05:21](https://lobste.rs/s/x3nvqj/why_fortran_is_scientific_powerhouse) - [Why Fortran is a scientific powerhouse](https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/)
