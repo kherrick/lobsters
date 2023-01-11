@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 18:46:54",
+      "https://lobste.rs/s/vnkvij/managing_flaky_tests_instead"
+    ],
+    [
+      "Managing flaky tests instead of immediately trying to \"fix\" them",
+      "https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 16:59:06",
       "https://lobste.rs/s/u5c8ox/thin_film_transistor_tft_lcd_display"
     ],
@@ -17,16 +27,6 @@
     [
       "I wrote a library for creating basic HTTP-RPC servers in Go",
       "https://github.com/martinrue/cadet"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 16:02:04",
-      "https://lobste.rs/s/xcis2l/bypassing_intel_cet_with_counterfeit"
-    ],
-    [
-      "Bypassing Intel CET with Counterfeit Objects",
-      "https://www.offensive-security.com/offsec/bypassing-intel-cet-with-counterfeit-objects/"
     ]
   ],
   [
