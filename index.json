@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-11, 11:41:21",
+      "https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for"
+    ],
+    [
+      "Another NaN-based tagging strategy for dynamic programming languages",
+      "https://outerproduct.net/trivial/2023-01-11_nan.html"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 11:19:06",
       "https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c"
     ],
@@ -147,16 +157,6 @@
     [
       "Where do we draw the line on password strength for offline storage?",
       "https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 18:17:31",
-      "https://lobste.rs/s/tnnjtr/apt_keeps_complaining_https_certificate"
-    ],
-    [
-      "APT keeps complaining that the HTTPS certificate cannot be validated?",
-      "http://raymii.org/s/blog/Syncthing_apt_repo_keeps_complaining_HTTPS_certificate_could_not_be_validated.html"
     ]
   ],
   [
