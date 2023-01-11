@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-01-11, 08:36:20",
+      "https://lobste.rs/s/hvbvea/8086_processor_s_microcode_pipeline_from"
+    ],
+    [
+      "The 8086 processor's microcode pipeline from die analysis",
+      "http://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html"
+    ]
+  ],
+  [
+    [
       "2023-01-11, 08:17:46",
       "https://lobste.rs/s/qjmaxi/emacs_org_present_style"
     ],
@@ -227,16 +237,6 @@
     [
       "Architecture diagrams should be code",
       "https://brianmckenna.org/blog/architecture_code"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 07:32:52",
-      "https://lobste.rs/s/hkyhzc/surprising_consequences_macos_s"
-    ],
-    [
-      "Surprising Consequences of macOS’s Environment Variable Sanitization",
-      "https://hynek.me/articles/macos-dyld-env/"
     ]
   ],
   [
