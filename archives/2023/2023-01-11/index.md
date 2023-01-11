@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
 * [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
 * [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
 * [2023-01-11, 06:21:00](https://lobste.rs/s/pizpew/how_query_engines_work) - [How Query Engines Work](https://howqueryengineswork.com)
