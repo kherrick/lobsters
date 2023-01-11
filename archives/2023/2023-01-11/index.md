@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
 * [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
 * [2023-01-11, 11:12:11](https://lobste.rs/s/x1bdsk/raspberry_pi_revives_smith_corona_word) - [Raspberry Pi revives a Smith Corona word processor](https://www.raspberrypi.com/news/raspberry-pi-revives-a-smith-corona-word-processor/)

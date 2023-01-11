@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
 * [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
 * [2023-01-11, 11:12:11](https://lobste.rs/s/x1bdsk/raspberry_pi_revives_smith_corona_word) - [Raspberry Pi revives a Smith Corona word processor](https://www.raspberrypi.com/news/raspberry-pi-revives-a-smith-corona-word-processor/)
@@ -17,7 +18,6 @@
 * [2023-01-10, 19:35:46](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength) - [Where do we draw the line on password strength for offline storage?](https://lobste.rs/s/wlq6nm/where_do_we_draw_line_on_password_strength)
 * [2023-01-10, 17:22:13](https://lobste.rs/s/rwwglc/cve_2022_46176_cargo_does_not_check_ssh) - [CVE-2022-46176: Cargo does not check SSH host keys](https://seclists.org/oss-sec/2023/q1/13)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
-* [2023-01-10, 16:59:38](https://lobste.rs/s/rmzokq/native_technologists_ask_apache) - [Native technologists ask Apache Software Foundation to change name](https://blog.nativesintech.org/apache-appropriation/)
 * [2023-01-10, 13:33:00](https://lobste.rs/s/glsdjh/hammer2_file_system_for_netbsd) - [HAMMER2 file system for NetBSD](https://github.com/kusumi/netbsd_hammer2)
 * [2023-01-10, 11:41:03](https://lobste.rs/s/b1lenj/why_deadlines_are_pointless_what_do) - [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
 * [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
