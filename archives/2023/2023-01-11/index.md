@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-11](index.md)
 
+* [2023-01-11, 19:17:18](https://lobste.rs/s/23hvae/yarr_yet_another_rss_reader) - [yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 * [2023-01-11, 18:46:54](https://lobste.rs/s/vnkvij/managing_flaky_tests_instead) - [Managing flaky tests instead of immediately trying to \"fix\" them](https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/)
 * [2023-01-11, 16:59:06](https://lobste.rs/s/u5c8ox/thin_film_transistor_tft_lcd_display) - [Thin-Film-Transistor (TFT) LCD Display Control Electronics Design and Operation](https://elinux.org/images/4/48/TFT-white-paper.pdf)
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)

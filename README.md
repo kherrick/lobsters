@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-11, 19:17:18](https://lobste.rs/s/23hvae/yarr_yet_another_rss_reader) - [yarr: yet another rss reader](https://github.com/nkanaev/yarr)
 * [2023-01-11, 18:46:54](https://lobste.rs/s/vnkvij/managing_flaky_tests_instead) - [Managing flaky tests instead of immediately trying to \"fix\" them](https://www.aviator.co/blog/flaky-tests-how-to-manage-them-practically/)
 * [2023-01-11, 16:59:06](https://lobste.rs/s/u5c8ox/thin_film_transistor_tft_lcd_display) - [Thin-Film-Transistor (TFT) LCD Display Control Electronics Design and Operation](https://elinux.org/images/4/48/TFT-white-paper.pdf)
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
@@ -9,7 +10,6 @@
 * [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
 * [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
-* [2023-01-11, 10:08:53](https://lobste.rs/s/cfgvzm/meet_your_new_two_factor_authenticator) - [Meet your new two-factor authenticator: your Commodore 64](https://oldvcr.blogspot.com/2022/11/meet-your-new-two-factor-authenticator.html?m=1)
 * [2023-01-11, 08:36:20](https://lobste.rs/s/hvbvea/8086_processor_s_microcode_pipeline_from) - [The 8086 processor's microcode pipeline from die analysis](http://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html)
 * [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
 * [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
