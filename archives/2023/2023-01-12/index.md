@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-01-12](index.md)
 
+* [2023-01-12, 05:56:13](https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local) - [Attack Techniques: Phishing via Local Files](https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/)
+* [2023-01-12, 05:55:02](https://lobste.rs/s/3yzebi/imagemagick_security_policy_evaluator) - [ImageMagick Security Policy Evaluator](https://blog.doyensec.com//2023/01/10/imagemagick-security-policy-evaluator.html)
 * [2023-01-12, 04:04:21](https://lobste.rs/s/nsymer/yaml_document_from_hell) - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2023-01-12, 02:05:21](https://lobste.rs/s/zveogk/unison_cloud_platform) - [The Unison Cloud Platform](https://www.unison.cloud/)
 * [2023-01-12, 00:51:58](https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful) - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-12, 05:56:13](https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local) - [Attack Techniques: Phishing via Local Files](https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/)
+* [2023-01-12, 05:55:02](https://lobste.rs/s/3yzebi/imagemagick_security_policy_evaluator) - [ImageMagick Security Policy Evaluator](https://blog.doyensec.com//2023/01/10/imagemagick-security-policy-evaluator.html)
 * [2023-01-12, 04:04:21](https://lobste.rs/s/nsymer/yaml_document_from_hell) - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2023-01-12, 02:05:21](https://lobste.rs/s/zveogk/unison_cloud_platform) - [The Unison Cloud Platform](https://www.unison.cloud/)
 * [2023-01-12, 00:51:58](https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful) - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
@@ -20,10 +22,8 @@
 * [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
 * [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
 * [2023-01-11, 00:04:40](https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb) - [Sierra’s Macintosh Timebomb](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
-* [2023-01-10, 23:36:01](https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh) - [whoarethey: Determine Who Can Log In to an SSH Server](https://www.agwa.name/blog/post/whoarethey)
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
-* [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 
 ## [Archives](archives/index.md)
