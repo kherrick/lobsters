@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 15:36:19",
+      "https://lobste.rs/s/k1cu7b/openbsd_errata_january_13_2022_tcp"
+    ],
+    [
+      "OpenBSD Errata: January 13, 2022 (tcp)",
+      "https://marc.info/?l=openbsd-tech&m=167353049316451&w=2"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 14:59:59",
       "https://lobste.rs/s/g0dq6j/c"
     ],
@@ -227,16 +237,6 @@
     [
       "Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine",
       "https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 13:04:26",
-      "https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology"
-    ],
-    [
-      "Upgrading Kubernetes - Methodology",
-      "https://matduggan.com/upgrading-kubernetes-safely/"
     ]
   ],
   [
