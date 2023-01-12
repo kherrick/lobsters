@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-12, 14:48:24",
+      "https://lobste.rs/s/u7cyfj/mongovi_v2_0_0"
+    ],
+    [
+      "mongovi v2.0.0",
+      "https://github.com/timkuijsten/mongovi/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 14:46:57",
+      "https://lobste.rs/s/kinyxv/go_runtime_isn_t_aware_cfs_quotas"
+    ],
+    [
+      "The Go runtime isn't aware of CFS quotas",
+      "https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 14:42:15",
+      "https://lobste.rs/s/z9qe68/atomfeed_py_single_file_atom_feed_library"
+    ],
+    [
+      "atomfeed.py - A single file atom feed library with no dependencies",
+      "https://github.com/no-gravity/atomfeed"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 14:21:20",
       "https://lobste.rs/s/zdorpb/turn_based_strategy_card_game_duelyst"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2023-01-12, 07:50:01",
-      "https://lobste.rs/s/7l6q8y/practical_guide_implementing_slo"
-    ],
-    [
-      "A practical guide to implementing SLO",
-      "https://last9.io/blog/a-practical-guide-to-implementing-slos/"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 07:17:10",
       "https://lobste.rs/s/de28g8/pictures_working_garbage_collector"
     ],
@@ -107,16 +127,6 @@
     [
       "The yaml document from hell",
       "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 02:05:21",
-      "https://lobste.rs/s/zveogk/unison_cloud_platform"
-    ],
-    [
-      "The Unison Cloud Platform",
-      "https://www.unison.cloud/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Upgrading Kubernetes - Methodology",
       "https://matduggan.com/upgrading-kubernetes-safely/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 11:19:06",
-      "https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c"
-    ],
-    [
-      "A Comparison of SPARK with MISRA C and Frama-C",
-      "https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf"
     ]
   ],
   [
