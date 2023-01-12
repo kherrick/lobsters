@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 07:50:01",
+      "https://lobste.rs/s/7l6q8y/practical_guide_implementing_slo"
+    ],
+    [
+      "A practical guide to implementing SLO",
+      "https://last9.io/blog/a-practical-guide-to-implementing-slos/"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 07:17:10",
       "https://lobste.rs/s/de28g8/pictures_working_garbage_collector"
     ],
@@ -87,16 +97,6 @@
     [
       "Erlang: The Movie",
       "https://www.youtube.com/watch?v=xrIjfIjssLE"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 21:07:38",
-      "https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward"
-    ],
-    [
-      "Let Me Unwind That For You: Exceptions to Backward-Edge Protection",
-      "https://download.vusec.net/papers/chop_ndss23.pdf"
     ]
   ],
   [
