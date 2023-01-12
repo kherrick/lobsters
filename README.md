@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_does_one_securely_manage_secrets) - [How does one securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_does_one_securely_manage_secrets)
+* [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets) - [How do you securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets)
 * [2023-01-11, 22:11:05](https://lobste.rs/s/g0r6i0/horizon_eda) - [Horizon EDA](https://github.com/horizon-eda/horizon)
 * [2023-01-11, 21:21:13](https://lobste.rs/s/oickpy/erlang_movie) - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
