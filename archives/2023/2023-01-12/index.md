@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-01-12](index.md)
+
+* [2023-01-12, 00:51:58](https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful) - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
