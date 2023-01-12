@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-12, 10:37:14](https://lobste.rs/s/7rl8th/basti_connect_aws_dbs_with_no_idle_cost_no) - [Basti – connect to AWS DBs with no idle cost. No SSH keys. IAM-driven](https://github.com/BohdanPetryshyn/basti)
 * [2023-01-12, 07:50:01](https://lobste.rs/s/7l6q8y/practical_guide_implementing_slo) - [A practical guide to implementing SLO](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
 * [2023-01-12, 07:17:10](https://lobste.rs/s/de28g8/pictures_working_garbage_collector) - [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
 * [2023-01-12, 06:41:13](https://lobste.rs/s/qtsbtf/conc_better_structured_concurrency_for) - [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
@@ -18,7 +19,6 @@
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
-* [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
 * [2023-01-11, 07:54:33](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be) - [What password schemes do you consider to be \"memorable\"?](https://lobste.rs/s/g5ypwf/what_password_schemes_do_you_consider_be)
 * [2023-01-11, 07:12:36](https://lobste.rs/s/lqcb9z/look_at_unison_revolutionary) - [A look at Unison: a revolutionary programming language](https://renato.athaydes.com/posts/unison-revolution.html)
 * [2023-01-11, 00:04:40](https://lobste.rs/s/ci5gut/sierra_s_macintosh_timebomb) - [Sierra’s Macintosh Timebomb](https://www.benshoof.org/blog/sierras-macintosh-timebomb)
