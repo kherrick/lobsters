@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-12, 07:50:01](https://lobste.rs/s/7l6q8y/practical_guide_implementing_slo) - [A practical guide to implementing SLO](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
 * [2023-01-12, 07:17:10](https://lobste.rs/s/de28g8/pictures_working_garbage_collector) - [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
 * [2023-01-12, 06:41:13](https://lobste.rs/s/qtsbtf/conc_better_structured_concurrency_for) - [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
 * [2023-01-12, 05:56:13](https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local) - [Attack Techniques: Phishing via Local Files](https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/)
@@ -9,7 +10,6 @@
 * [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets) - [How do you securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets)
 * [2023-01-11, 22:11:05](https://lobste.rs/s/g0r6i0/horizon_eda) - [Horizon EDA](https://github.com/horizon-eda/horizon)
 * [2023-01-11, 21:21:13](https://lobste.rs/s/oickpy/erlang_movie) - [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
-* [2023-01-11, 21:07:38](https://lobste.rs/s/djmase/let_me_unwind_for_you_exceptions_backward) - [Let Me Unwind That For You: Exceptions to Backward-Edge Protection](https://download.vusec.net/papers/chop_ndss23.pdf)
 * [2023-01-11, 20:46:01](https://lobste.rs/s/sotzxx/embedding_our_new_react_ui_go) - [Embedding Our New React UI in Go](https://www.flipt.io/blog/embedding-react-in-go)
 * [2023-01-11, 19:46:04](https://lobste.rs/s/caahx9/indie_web_stack_future) - [Indie Web Stack of the Future](https://www.maxcountryman.com/articles/indie-web-stack-of-the-future)
 * [2023-01-11, 19:24:57](https://lobste.rs/s/kgggfe/copyright_without_years) - [Copyright without years](https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/)
