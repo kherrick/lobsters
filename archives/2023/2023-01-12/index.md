@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-12](index.md)
 
+* [2023-01-12, 06:41:13](https://lobste.rs/s/qtsbtf/conc_better_structured_concurrency_for) - [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
 * [2023-01-12, 05:56:13](https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local) - [Attack Techniques: Phishing via Local Files](https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/)
 * [2023-01-12, 05:55:02](https://lobste.rs/s/3yzebi/imagemagick_security_policy_evaluator) - [ImageMagick Security Policy Evaluator](https://blog.doyensec.com//2023/01/10/imagemagick-security-policy-evaluator.html)
 * [2023-01-12, 04:04:21](https://lobste.rs/s/nsymer/yaml_document_from_hell) - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
