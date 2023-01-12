@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-12, 02:05:21](https://lobste.rs/s/zveogk/unison_cloud_platform) - [The Unison Cloud Platform](https://www.unison.cloud/)
 * [2023-01-12, 00:51:58](https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful) - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 * [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets) - [How do you securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets)
 * [2023-01-11, 22:11:05](https://lobste.rs/s/g0r6i0/horizon_eda) - [Horizon EDA](https://github.com/horizon-eda/horizon)
@@ -12,7 +13,6 @@
 * [2023-01-11, 16:06:20](https://lobste.rs/s/gy7lve/i_wrote_library_for_creating_basic_http) - [I wrote a library for creating basic HTTP-RPC servers in Go](https://github.com/martinrue/cadet)
 * [2023-01-11, 13:20:47](https://lobste.rs/s/lu2a3d/image_stacks_iphone_racks_building) - [Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine](https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html)
 * [2023-01-11, 13:04:26](https://lobste.rs/s/wtz8pg/upgrading_kubernetes_methodology) - [Upgrading Kubernetes - Methodology](https://matduggan.com/upgrading-kubernetes-safely/)
-* [2023-01-11, 12:09:12](https://lobste.rs/s/zkcpw7/take_tools_out_data_don_t_take_data_out) - [Take the tools out of 'Data', but don't take the data out of the tools](https://csvbase.com/blog/1)
 * [2023-01-11, 11:41:21](https://lobste.rs/s/i1jsre/another_nan_based_tagging_strategy_for) - [Another NaN-based tagging strategy for dynamic programming languages](https://outerproduct.net/trivial/2023-01-11_nan.html)
 * [2023-01-11, 11:19:06](https://lobste.rs/s/ydqzeb/comparison_spark_with_misra_c_frama_c) - [A Comparison of SPARK with MISRA C and Frama-C](https://www.adacore.com/uploads/technical-papers/2016-10-SPARK-MisraC-FramaC.pdf)
 * [2023-01-11, 08:17:46](https://lobste.rs/s/qjmaxi/emacs_org_present_style) - [Emacs: org-present in style](https://xenodium.com/emacs-org-present-in-style)
