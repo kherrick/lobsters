@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-01-12, 16:06:00",
+      "https://lobste.rs/s/9k6gof/predicting_resource_usage_from"
+    ],
+    [
+      "Predicting Resource Usage From Increased Traffic",
+      "https://two-wrongs.com/predicting-resource-usage-from-increased-traffic"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 15:48:26",
       "https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas"
     ],
@@ -157,16 +167,6 @@
     [
       "Turn-based strategy card game Duelyst open-sourced",
       "https://github.com/open-duelyst/duelyst"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 14:09:39",
-      "https://lobste.rs/s/88hqrc/praxis_ide_online_ide_for_visual"
-    ],
-    [
-      "Praxis-ide: An online IDE for visual programming in Prolog",
-      "https://github.com/toblotron/praxis-ide"
     ]
   ],
   [
