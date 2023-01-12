@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-12, 16:46:40",
+      "https://lobste.rs/s/mkljqw/writing_tla_tree_sitter_grammar_my_foray"
+    ],
+    [
+      "Writing a TLA⁺ tree-sitter grammar: my foray into free software",
+      "https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 16:12:11",
+      "https://lobste.rs/s/mdavnq/my_org_roam_workflows_for_taking_notes"
+    ],
+    [
+      "My org-roam workflows for taking notes and writing articles — Dominik Honnef",
+      "https://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 16:06:00",
+      "https://lobste.rs/s/9k6gof/predicting_resource_usage_from"
+    ],
+    [
+      "Predicting Resource Usage From Increased Traffic",
+      "https://two-wrongs.com/predicting-resource-usage-from-increased-traffic"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 15:48:26",
       "https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas"
     ],
@@ -32,10 +62,10 @@
   [
     [
       "2023-01-12, 14:48:24",
-      "https://lobste.rs/s/u7cyfj/mongovi_v2_0_0"
+      "https://lobste.rs/s/u7cyfj/mongovi_v2_0_0_command_line_interface_for"
     ],
     [
-      "mongovi v2.0.0",
+      "mongovi v2.0.0 - command line interface for MongoDB",
       "https://github.com/timkuijsten/mongovi/releases/tag/v2.0.0"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "The Go runtime isn't aware of CFS quotas",
       "https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 14:42:15",
-      "https://lobste.rs/s/z9qe68/atomfeed_py_single_file_atom_feed_library"
-    ],
-    [
-      "atomfeed.py - A single file atom feed library with no dependencies",
-      "https://github.com/no-gravity/atomfeed"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-01-12, 02:05:21",
-      "https://lobste.rs/s/zveogk/unison_cloud_platform"
-    ],
-    [
-      "The Unison Cloud Platform",
-      "https://www.unison.cloud/"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 00:51:58",
       "https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful"
     ],
@@ -177,16 +187,6 @@
     [
       "How do you securely manage secrets in scripts and development environments?",
       "https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 22:11:05",
-      "https://lobste.rs/s/g0r6i0/horizon_eda"
-    ],
-    [
-      "Horizon EDA",
-      "https://github.com/horizon-eda/horizon"
     ]
   ],
   [
