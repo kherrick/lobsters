@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-01-12](index.md)
 
+* [2023-01-12, 07:17:10](https://lobste.rs/s/de28g8/pictures_working_garbage_collector) - [Pictures of a Working Garbage Collector](https://www.oilshell.org/blog/2023/01/garbage-collector.html)
 * [2023-01-12, 06:41:13](https://lobste.rs/s/qtsbtf/conc_better_structured_concurrency_for) - [Conc: Better structured concurrency for Go](https://github.com/sourcegraph/conc)
 * [2023-01-12, 05:56:13](https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local) - [Attack Techniques: Phishing via Local Files](https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/)
 * [2023-01-12, 05:55:02](https://lobste.rs/s/3yzebi/imagemagick_security_policy_evaluator) - [ImageMagick Security Policy Evaluator](https://blog.doyensec.com//2023/01/10/imagemagick-security-policy-evaluator.html)
