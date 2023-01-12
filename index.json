@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-12, 05:56:13",
+      "https://lobste.rs/s/igtj11/attack_techniques_phishing_via_local"
+    ],
+    [
+      "Attack Techniques: Phishing via Local Files",
+      "https://textslashplain.com/2023/01/11/attack-techniques-phishing-via-local-files/"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 05:55:02",
+      "https://lobste.rs/s/3yzebi/imagemagick_security_policy_evaluator"
+    ],
+    [
+      "ImageMagick Security Policy Evaluator",
+      "https://blog.doyensec.com//2023/01/10/imagemagick-security-policy-evaluator.html"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 04:04:21",
       "https://lobste.rs/s/nsymer/yaml_document_from_hell"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-01-10, 23:36:01",
-      "https://lobste.rs/s/sngjwc/whoarethey_determine_who_can_log_ssh"
-    ],
-    [
-      "whoarethey: Determine Who Can Log In to an SSH Server",
-      "https://www.agwa.name/blog/post/whoarethey"
-    ]
-  ],
-  [
-    [
       "2023-01-10, 20:13:26",
       "https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing"
     ],
@@ -227,16 +237,6 @@
     [
       "ULID Identifiers and ULID Tools Website",
       "https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/"
-    ]
-  ],
-  [
-    [
-      "2023-01-10, 17:11:43",
-      "https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock"
-    ],
-    [
-      "PEP 703 – Making the Global Interpreter Lock Optional in CPython",
-      "https://peps.python.org/pep-0703/"
     ]
   ],
   [
