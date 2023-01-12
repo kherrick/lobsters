@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-01-12, 04:04:21](https://lobste.rs/s/nsymer/yaml_document_from_hell) - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 * [2023-01-12, 02:05:21](https://lobste.rs/s/zveogk/unison_cloud_platform) - [The Unison Cloud Platform](https://www.unison.cloud/)
 * [2023-01-12, 00:51:58](https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful) - [What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 * [2023-01-11, 23:37:25](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets) - [How do you securely manage secrets in scripts and development environments?](https://lobste.rs/s/wi1r4a/how_do_you_securely_manage_secrets)
@@ -23,7 +24,6 @@
 * [2023-01-10, 20:13:26](https://lobste.rs/s/qi9z5m/yet_another_keyboard_post_introducing) - [Yet another keyboard post, or, introducing ErgoNICE](https://val.packett.cool/blog/ergonice/)
 * [2023-01-10, 20:00:09](https://lobste.rs/s/qk1xrx/ulid_identifiers_ulid_tools_website) - [ULID Identifiers and ULID Tools Website](https://pgrs.net/2023/01/10/ulid-identifiers-and-ulid-tools-website/)
 * [2023-01-10, 17:11:43](https://lobste.rs/s/nob4vg/pep_703_making_global_interpreter_lock) - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://peps.python.org/pep-0703/)
-* [2023-01-10, 10:35:03](https://lobste.rs/s/evkxyk/compiled_interpreted_languages_two_ways) - [Compiled and Interpreted Languages: Two Ways of Saying Tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html)
 * [2023-01-10, 08:46:13](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code) - [Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code)
 
 ## [Archives](archives/index.md)
