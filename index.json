@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-12, 15:48:26",
+      "https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas"
+    ],
+    [
+      "Why Polars uses less memory than Pandas",
+      "https://pythonspeed.com/articles/polars-memory-pandas/"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 15:36:19",
       "https://lobste.rs/s/k1cu7b/openbsd_errata_january_13_2022_tcp"
     ],
@@ -187,16 +197,6 @@
     [
       "Erlang: The Movie",
       "https://www.youtube.com/watch?v=xrIjfIjssLE"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:46:04",
-      "https://lobste.rs/s/caahx9/indie_web_stack_future"
-    ],
-    [
-      "Indie Web Stack of the Future",
-      "https://www.maxcountryman.com/articles/indie-web-stack-of-the-future"
     ]
   ],
   [
