@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 19:29:38",
+      "https://lobste.rs/s/avbraf/use_after_freedom_miracleptr_2022"
+    ],
+    [
+      "Use-after-freedom: MiraclePtr (2022)",
+      "https://security.googleblog.com/2022/09/use-after-freedom-miracleptr.html"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 19:09:31",
       "https://lobste.rs/s/qpybvd/partial_function_application_c"
     ],
@@ -47,16 +57,6 @@
     [
       "Examples of floating point problems",
       "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 16:30:23",
-      "https://lobste.rs/s/foa8lt/rendering_camera_space_ish"
-    ],
-    [
-      "Rendering in Camera Space(ish)",
-      "https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space"
     ]
   ],
   [
