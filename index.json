@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 21:03:27",
+      "https://lobste.rs/s/lhukga/systemd_socket_activation_lesson"
+    ],
+    [
+      "systemd socket activation lesson learned",
+      "https://blog.podman.io/2023/01/systemd-socket-activation-lesson-learned/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 19:31:37",
       "https://lobste.rs/s/hobf3e/ubuntu_22_10_on_sipeed_lichee_risc_v_board"
     ],
@@ -237,16 +247,6 @@
     [
       "The Go runtime isn't aware of CFS quotas",
       "https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 14:21:20",
-      "https://lobste.rs/s/zdorpb/turn_based_strategy_card_game_duelyst"
-    ],
-    [
-      "Turn-based strategy card game Duelyst open-sourced",
-      "https://github.com/open-duelyst/duelyst"
     ]
   ]
 ]
