@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 14:16:11",
+      "https://lobste.rs/s/1wq3f1/haiku_activity_contract_report_december"
+    ],
+    [
+      "Haiku Activity & Contract Report, December 2022",
+      "https://www.haiku-os.org/blog/waddlesplash/2023-01-12_haiku_activity_contract_report_december_2022/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 13:57:23",
       "https://lobste.rs/s/qjoqyi/decentralized_private_computation_zexe"
     ],
@@ -101,22 +111,22 @@
   ],
   [
     [
-      "2023-01-12, 21:44:07",
-      "https://lobste.rs/s/npci50/reverse_engineering_airspeed_mach"
-    ],
-    [
-      "Reverse-engineering an airspeed/Mach indicator from 1977",
-      "http://www.righto.com/2023/01/reverse-engineering-airspeedmach.html"
-    ]
-  ],
-  [
-    [
       "2023-01-12, 21:00:56",
       "https://lobste.rs/s/v3x8js/nintendo_64_java"
     ],
     [
       "Nintendo 64 Java",
       "https://www.mikekohn.net/micro/nintendo64_java.php"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 20:45:58",
+      "https://lobste.rs/s/i28ei1/how_survive_fosdem"
+    ],
+    [
+      "How to survive FOSDEM",
+      "https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Pictures of a Working Garbage Collector",
       "https://www.oilshell.org/blog/2023/01/garbage-collector.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 00:51:58",
-      "https://lobste.rs/s/n16aps/what_if_writing_tests_was_joyful"
-    ],
-    [
-      "What if writing tests was a joyful experience?",
-      "https://blog.janestreet.com/the-joy-of-expect-tests/"
     ]
   ],
   [
