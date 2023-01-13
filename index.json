@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-01-13, 00:33:19",
+      "https://lobste.rs/s/tqqxh9/release_0_2_1_fish_support_caddy_redis"
+    ],
+    [
+      "Release 0.2.1: Fish Support, Caddy + Redis plugins, Direnv and More · jetpack-io/devbox",
+      "https://github.com/jetpack-io/devbox/releases/tag/0.2.1"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 00:06:11",
+      "https://lobste.rs/s/6i606i/sqlite_wasm_browser_backed_by_origin"
+    ],
+    [
+      "SQLite Wasm in the browser backed by the Origin Private File System",
+      "https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 23:22:25",
       "https://lobste.rs/s/cyovbn/power_prolog"
     ],
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 22:38:48",
-      "https://lobste.rs/s/7tjvdb/run_obsidian_clojure_script_codeblocks"
-    ],
-    [
-      "Run Obsidian Clojure(Script) codeblocks in Babashka",
-      "https://github.com/filipesilva/obsidian-babashka"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "The Go runtime isn't aware of CFS quotas",
       "https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 14:42:15",
-      "https://lobste.rs/s/z9qe68/atomfeed_py_single_file_atom_feed_library"
-    ],
-    [
-      "atomfeed.py - A single file atom feed library with no dependencies",
-      "https://github.com/no-gravity/atomfeed"
     ]
   ],
   [
