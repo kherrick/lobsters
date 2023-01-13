@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 07:36:09",
+      "https://lobste.rs/s/lpn83f/restic_0_15_0_released"
+    ],
+    [
+      "Restic 0.15.0 Released",
+      "https://restic.net/blog/2023-01-12/restic-0.15.0-released/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 04:53:09",
       "https://lobste.rs/s/grkkbk/maemo_leste_new_year_update_may_2022"
     ],
@@ -217,16 +227,6 @@
     [
       "Conc: Better structured concurrency for Go",
       "https://github.com/sourcegraph/conc"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 04:04:21",
-      "https://lobste.rs/s/nsymer/yaml_document_from_hell"
-    ],
-    [
-      "The yaml document from hell",
-      "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
     ]
   ],
   [
