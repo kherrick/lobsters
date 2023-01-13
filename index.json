@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 09:45:45",
+      "https://lobste.rs/s/9dzlhn/nvim_vim9script_how_rust_made_it_happen"
+    ],
+    [
+      "nvim + vim9script: how Rust made it happen",
+      "https://www.youtube.com/watch?v=zPQSST-M3fM"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 07:36:09",
       "https://lobste.rs/s/lpn83f/restic_0_15_0_released"
     ],
@@ -47,16 +57,6 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 22:38:48",
-      "https://lobste.rs/s/7tjvdb/run_obsidian_clojure_script_codeblocks"
-    ],
-    [
-      "Run Obsidian Clojure(Script) codeblocks in Babashka",
-      "https://github.com/filipesilva/obsidian-babashka"
     ]
   ],
   [
