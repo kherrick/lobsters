@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-13, 19:09:31",
+      "https://lobste.rs/s/qpybvd/partial_function_application_c"
+    ],
+    [
+      "Partial Function Application in C++",
+      "http://www.modernescpp.com/index.php/partial-function-application"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 19:02:18",
+      "https://lobste.rs/s/2uzaz1/how_wikimedia_are_building_our"
+    ],
+    [
+      "How Wikimedia are building our Kubernetes pipeline in GitLab",
+      "https://techblog.wikimedia.org/2022/12/02/how-were-building-our-kubernetes-pipeline-in-gitlab/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 18:46:04",
       "https://lobste.rs/s/yymnmm/types_are_moving_right"
     ],
@@ -37,16 +57,6 @@
     [
       "Rendering in Camera Space(ish)",
       "https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 15:46:25",
-      "https://lobste.rs/s/wxmr9f/uwwvb_tiny_wwvb_atomic_time_station"
-    ],
-    [
-      "uWWVB: A Tiny WWVB [atomic time] Station",
-      "https://www.anishathalye.com/2016/12/26/micro-wwvb/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Turn-based strategy card game Duelyst open-sourced",
       "https://github.com/open-duelyst/duelyst"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 12:52:58",
-      "https://lobste.rs/s/mpb2ht/netbsd_ascii_flag_for_bootloader"
-    ],
-    [
-      "NetBSD ASCII flag for the bootloader",
-      "https://www.cambus.net/netbsd-ascii-flag-for-the-bootloader/"
     ]
   ]
 ]
