@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-01-13, 00:33:19",
-      "https://lobste.rs/s/tqqxh9/release_0_2_1_fish_support_caddy_redis"
+      "2023-01-13, 01:15:48",
+      "https://lobste.rs/s/vad2fo/introducing_okaywal_write_ahead_log_for"
     ],
     [
-      "Release 0.2.1: Fish Support, Caddy + Redis plugins, Direnv and More · jetpack-io/devbox",
-      "https://github.com/jetpack-io/devbox/releases/tag/0.2.1"
+      "Introducing OkayWAL: A write-ahead log for Rust",
+      "https://bonsaidb.io/blog/introducing-okaywal/"
     ]
   ],
   [
     [
-      "2023-01-13, 00:06:11",
-      "https://lobste.rs/s/6i606i/sqlite_wasm_browser_backed_by_origin"
+      "2023-01-13, 00:58:33",
+      "https://lobste.rs/s/8saj7d/supporting_use_rust_chromium_project"
     ],
     [
-      "SQLite Wasm in the browser backed by the Origin Private File System",
-      "https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system/"
+      "Supporting the Use of Rust in the Chromium Project",
+      "https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html"
     ]
   ],
   [
