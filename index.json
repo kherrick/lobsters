@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 15:46:25",
+      "https://lobste.rs/s/wxmr9f/uwwvb_tiny_wwvb_atomic_time_station"
+    ],
+    [
+      "uWWVB: A Tiny WWVB [atomic time] Station",
+      "https://www.anishathalye.com/2016/12/26/micro-wwvb/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 15:25:31",
       "https://lobste.rs/s/chg27h/announcing_stable_release_sigstore"
     ],
@@ -237,16 +247,6 @@
     [
       "NetBSD ASCII flag for the bootloader",
       "https://www.cambus.net/netbsd-ascii-flag-for-the-bootloader/"
-    ]
-  ],
-  [
-    [
-      "2023-01-11, 19:24:57",
-      "https://lobste.rs/s/kgggfe/copyright_without_years"
-    ],
-    [
-      "Copyright without years",
-      "https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/"
     ]
   ]
 ]
