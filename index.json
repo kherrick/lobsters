@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-13, 13:57:23",
+      "https://lobste.rs/s/qjoqyi/decentralized_private_computation_zexe"
+    ],
+    [
+      "Decentralized private computation: ZEXE and VERI-ZEXE",
+      "https://www.notamonadtutorial.com/decentralized-private-computations-zexe-and-veri-zexe/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 13:14:34",
       "https://lobste.rs/s/aybfcn/care_is_needed_use_c_std_optional_with_non"
     ],
@@ -217,16 +227,6 @@
     [
       "Pictures of a Working Garbage Collector",
       "https://www.oilshell.org/blog/2023/01/garbage-collector.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 06:41:13",
-      "https://lobste.rs/s/qtsbtf/conc_better_structured_concurrency_for"
-    ],
-    [
-      "Conc: Better structured concurrency for Go",
-      "https://github.com/sourcegraph/conc"
     ]
   ],
   [
