@@ -61,6 +61,26 @@
   ],
   [
     [
+      "2023-01-13, 16:30:23",
+      "https://lobste.rs/s/foa8lt/rendering_camera_space_ish"
+    ],
+    [
+      "Rendering in Camera Space(ish)",
+      "https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space"
+    ]
+  ],
+  [
+    [
+      "2023-01-13, 15:46:25",
+      "https://lobste.rs/s/wxmr9f/uwwvb_tiny_wwvb_atomic_time_station"
+    ],
+    [
+      "uWWVB: A Tiny WWVB [atomic time] Station",
+      "https://www.anishathalye.com/2016/12/26/micro-wwvb/"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 15:25:31",
       "https://lobste.rs/s/chg27h/announcing_stable_release_sigstore"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-01-13, 04:53:09",
-      "https://lobste.rs/s/grkkbk/maemo_leste_new_year_update_may_2022"
-    ],
-    [
-      "Maemo Leste - New Year update: May 2022 - January 2023",
-      "https://maemo-leste.github.io/maemo-leste-new-year-update-may-2022-january-2023.html"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 01:15:48",
       "https://lobste.rs/s/vad2fo/introducing_okaywal_write_ahead_log_for"
     ],
@@ -177,16 +187,6 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 21:00:56",
-      "https://lobste.rs/s/v3x8js/nintendo_64_java"
-    ],
-    [
-      "Nintendo 64 Java",
-      "https://www.mikekohn.net/micro/nintendo64_java.php"
     ]
   ],
   [
