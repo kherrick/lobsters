@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-01-12, 22:38:48",
+      "https://lobste.rs/s/7tjvdb/run_obsidian_clojure_script_codeblocks"
+    ],
+    [
+      "Run Obsidian Clojure(Script) codeblocks in Babashka",
+      "https://github.com/filipesilva/obsidian-babashka"
+    ]
+  ],
+  [
+    [
       "2023-01-12, 21:00:56",
       "https://lobste.rs/s/v3x8js/nintendo_64_java"
     ],
@@ -57,16 +67,6 @@
     [
       "Grayscale on 1-bit LCDs (2022)",
       "https://www.zephray.me/post/grayscale_lcd/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 19:12:59",
-      "https://lobste.rs/s/z76fsn/johnnie_qobject_walker_replace_service"
-    ],
-    [
-      "Johnnie 'QObject' Walker, replace a service locator pattern while you're at it",
-      "https://raymii.org/s/software/Johnnie_QObject_Walker_replace_a_servicelocator_pattern.html"
     ]
   ],
   [
