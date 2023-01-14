@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 04:11:15",
+      "https://lobste.rs/s/dfmiko/using_github_copilot_for_unit_testing"
+    ],
+    [
+      "Using Github Copilot for unit testing",
+      "https://www.strictmode.io/articles/using-github-copilot-for-testing"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 03:29:10",
       "https://lobste.rs/s/h4gsd8/cleanroom_software_engineering_1987"
     ],
@@ -127,16 +137,6 @@
     [
       "Examples of floating point problems",
       "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 16:30:23",
-      "https://lobste.rs/s/foa8lt/rendering_camera_space_ish"
-    ],
-    [
-      "Rendering in Camera Space(ish)",
-      "https://pharr.org/matt/blog/2018/03/02/rendering-in-camera-space"
     ]
   ],
   [
