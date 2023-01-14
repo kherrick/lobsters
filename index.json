@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 03:29:10",
+      "https://lobste.rs/s/h4gsd8/cleanroom_software_engineering_1987"
+    ],
+    [
+      "Cleanroom Software Engineering (1987)",
+      "https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1017&context=utk_harlan"
+    ]
+  ],
+  [
+    [
       "2023-01-13, 23:55:08",
       "https://lobste.rs/s/4tignc/semantic_search_answers_q_against"
     ],
@@ -177,16 +187,6 @@
     [
       "cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
       "https://github.com/cloudflare/wildebeest"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 09:45:45",
-      "https://lobste.rs/s/9dzlhn/nvim_vim9script_how_rust_made_it_happen"
-    ],
-    [
-      "nvim + vim9script: how Rust made it happen",
-      "https://www.youtube.com/watch?v=zPQSST-M3fM"
     ]
   ],
   [
