@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 08:49:03",
+      "https://lobste.rs/s/k7crii/consume_less_create_more"
+    ],
+    [
+      "Consume less, create more",
+      "https://archaeologist.dev/artifacts/create"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 08:33:03",
       "https://lobste.rs/s/uokq9i/formalizing_f_strings"
     ],
@@ -227,16 +237,6 @@
     [
       "Grayscale on 1-bit LCDs (2022)",
       "https://www.zephray.me/post/grayscale_lcd/"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 16:46:40",
-      "https://lobste.rs/s/mkljqw/writing_tla_tree_sitter_grammar_my_foray"
-    ],
-    [
-      "Writing a TLA⁺ tree-sitter grammar: my foray into free software",
-      "https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/"
     ]
   ],
   [
