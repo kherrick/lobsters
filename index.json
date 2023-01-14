@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-14, 21:49:34",
+      "https://lobste.rs/s/x5ybyf/counting_transistors_8086_processor_it_s"
+    ],
+    [
+      "Counting the transistors in the 8086 processor: it's harder than you might think",
+      "http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 21:43:55",
+      "https://lobste.rs/s/hsxsjx/atari_2600_hardware_design_making"
+    ],
+    [
+      "Atari 2600 Hardware Design: Making Something out of (Almost) Nothing",
+      "https://www.bigmessowires.com/2023/01/11/atari-2600-hardware-design-making-something-out-of-almost-nothing/"
+    ]
+  ],
+  [
+    [
+      "2023-01-14, 21:43:48",
+      "https://lobste.rs/s/hg98u2/finding_nice_md5s_using_rust"
+    ],
+    [
+      "Finding Nice MD5s Using Rust",
+      "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 19:41:46",
       "https://lobste.rs/s/l3cl30/fourier_transform_explained_one"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-01-14, 03:29:10",
-      "https://lobste.rs/s/h4gsd8/cleanroom_software_engineering_1987"
-    ],
-    [
-      "Cleanroom Software Engineering (1987)",
-      "https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1017&context=utk_harlan"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 23:55:08",
       "https://lobste.rs/s/4tignc/semantic_search_answers_q_against"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-01-13, 19:31:37",
-      "https://lobste.rs/s/hobf3e/ubuntu_22_10_on_sipeed_lichee_risc_v_board"
-    ],
-    [
-      "Ubuntu 22.10 on Sipeed Lichee Risc-V board",
-      "https://www.geeklan.co.uk/?p=2982"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 18:46:04",
       "https://lobste.rs/s/yymnmm/types_are_moving_right"
     ],
@@ -207,16 +217,6 @@
     [
       "Examples of floating point problems",
       "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 15:46:25",
-      "https://lobste.rs/s/wxmr9f/uwwvb_tiny_wwvb_atomic_time_station"
-    ],
-    [
-      "uWWVB: A Tiny WWVB [atomic time] Station",
-      "https://www.anishathalye.com/2016/12/26/micro-wwvb/"
     ]
   ],
   [
