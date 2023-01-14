@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 19:41:46",
+      "https://lobste.rs/s/l3cl30/fourier_transform_explained_one"
+    ],
+    [
+      "The Fourier Transform, explained in one sentence",
+      "https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 16:24:24",
       "https://lobste.rs/s/hjopwl/your_tech_stack_is_not_product"
     ],
@@ -237,16 +247,6 @@
     [
       "Supporting the Use of Rust in the Chromium Project",
       "https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-12, 23:22:25",
-      "https://lobste.rs/s/cyovbn/power_prolog"
-    ],
-    [
-      "The Power of Prolog",
-      "https://www.metalevel.at/prolog"
     ]
   ]
 ]
