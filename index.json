@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-01-14, 08:49:03",
-      "https://lobste.rs/s/k7crii/consume_less_create_more"
-    ],
-    [
-      "Consume less, create more",
-      "https://archaeologist.dev/artifacts/create"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 08:33:03",
       "https://lobste.rs/s/uokq9i/formalizing_f_strings"
     ],
@@ -247,6 +237,16 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog"
+    ]
+  ],
+  [
+    [
+      "2023-01-12, 15:48:26",
+      "https://lobste.rs/s/ouogwa/why_polars_uses_less_memory_than_pandas"
+    ],
+    [
+      "Why Polars uses less memory than Pandas",
+      "https://pythonspeed.com/articles/polars-memory-pandas/"
     ]
   ]
 ]
