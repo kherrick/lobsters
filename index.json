@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-14, 13:59:21",
+      "https://lobste.rs/s/iwsu4c/project_mage_is_effort_build_power_user"
+    ],
+    [
+      "Project Mage is an effort to build a power-user environment and a set of applications in Common Lisp",
+      "https://project-mage.org/"
+    ]
+  ],
+  [
+    [
       "2023-01-14, 13:33:44",
       "https://lobste.rs/s/3eyfgm/what_are_you_doing_this_weekend"
     ],
@@ -207,16 +217,6 @@
     [
       "cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
       "https://github.com/cloudflare/wildebeest"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 07:36:09",
-      "https://lobste.rs/s/lpn83f/restic_0_15_0_released"
-    ],
-    [
-      "Restic 0.15.0 Released",
-      "https://restic.net/blog/2023-01-12/restic-0.15.0-released/"
     ]
   ],
   [
