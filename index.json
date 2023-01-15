@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-15, 16:17:08",
+      "https://lobste.rs/s/cczkdj/faster_virtual_machines_speeding_up"
+    ],
+    [
+      "Faster virtual machines: Speeding up programming language execution",
+      "https://mort.coffee/home/fast-interpreters/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 16:15:56",
+      "https://lobste.rs/s/5tx54f/thoughts_on_zig"
+    ],
+    [
+      "Thoughts on Zig",
+      "https://www.youtube.com/watch?v=zlWqpRTgXBg"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 16:10:45",
+      "https://lobste.rs/s/3jgneb/my_bookmarklet_editor"
+    ],
+    [
+      "My Bookmarklet Editor",
+      "https://www.gibney.org/bookmarklet_editor"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 15:57:06",
       "https://lobste.rs/s/udyblq/how_doordash_upgraded_heuristic_with_ml"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-01-14, 13:59:21",
-      "https://lobste.rs/s/iwsu4c/project_mage_is_effort_build_power_user"
-    ],
-    [
-      "Project Mage is an effort to build a power-user environment and a set of applications in Common Lisp",
-      "https://project-mage.org/"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 13:33:44",
       "https://lobste.rs/s/3eyfgm/what_are_you_doing_this_weekend"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-01-14, 12:53:50",
-      "https://lobste.rs/s/ubdmwb/2022_marginalia_s_search_index_reaches"
-    ],
-    [
-      "(2022) Marginalia's [Search] Index Reaches 100,000,000 Documents",
-      "https://memex.marginalia.nu/log/64-hundred-million.gmi"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 09:17:46",
       "https://lobste.rs/s/doghrl/what_hell_is_forth"
     ],
     [
       "What the hell is Forth?",
       "https://blog.information-superhighway.net/what-the-hell-is-forth"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 08:33:03",
-      "https://lobste.rs/s/uokq9i/formalizing_f_strings"
-    ],
-    [
-      "Formalizing f-strings",
-      "https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/"
     ]
   ]
 ]
