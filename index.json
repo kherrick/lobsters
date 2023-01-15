@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-15, 12:27:40",
+      "https://lobste.rs/s/28i4wl/peeking_into_https_traffic_with_proxy"
+    ],
+    [
+      "Peeking into HTTPS Traffic with a Proxy",
+      "https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 12:18:49",
+      "https://lobste.rs/s/lkvfmc/containerised_mastodon_server_on_nixos"
+    ],
+    [
+      "Containerised Mastodon server on NixOS",
+      "https://blog.cyplo.dev/posts/2023/01/mastodon-nixos/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 11:42:51",
       "https://lobste.rs/s/wrijwz/project_reviving_hp_e_vectra_sff_desktop"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-01-14, 14:23:23",
-      "https://lobste.rs/s/6raroo/nearly_practical_verifiable"
-    ],
-    [
-      "Nearly Practical Verifiable Computation with a Pinocchio Virtual Machine",
-      "https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 13:59:21",
       "https://lobste.rs/s/iwsu4c/project_mage_is_effort_build_power_user"
     ],
@@ -217,16 +227,6 @@
     [
       "Using Github Copilot for unit testing",
       "https://www.strictmode.io/articles/using-github-copilot-for-testing"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 23:34:15",
-      "https://lobste.rs/s/mcziqs/type_system_is_programmer_s_best_friend"
-    ],
-    [
-      "The type system is a programmer's best friend",
-      "https://dusted.codes/the-type-system-is-a-programmers-best-friend"
     ]
   ],
   [
