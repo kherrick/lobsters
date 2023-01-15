@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-15, 09:12:37",
+      "https://lobste.rs/s/rrcvyj/hidden_control_flow_some_insights_on"
+    ],
+    [
+      "The Hidden Control Flow — Some Insights on an Async Cancellation Problem in Rust",
+      "https://greptime.com/blogs/2023-01-12-hidden-control-flow"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 08:56:46",
+      "https://lobste.rs/s/hqjvev/sysm_is_linux_program_lets_you_play_custom"
+    ],
+    [
+      "sysm is a Linux program that lets you play custom sounds on specified events",
+      "https://github.com/jafarlihi/sysm"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 06:41:28",
       "https://lobste.rs/s/0jdjsf/running_kde_plasma_on_risc_v_visionfive_2"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-01-13, 23:55:08",
-      "https://lobste.rs/s/4tignc/semantic_search_answers_q_against"
-    ],
-    [
-      "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
-      "https://simonwillison.net/2023/Jan/13/semantic-search-answers/"
-    ]
-  ],
-  [
-    [
       "2023-01-13, 23:34:15",
       "https://lobste.rs/s/mcziqs/type_system_is_programmer_s_best_friend"
     ],
     [
       "The type system is a programmer's best friend",
       "https://dusted.codes/the-type-system-is-a-programmers-best-friend"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 22:10:35",
-      "https://lobste.rs/s/yxofh0/openssh_client_side_key_management_for"
-    ],
-    [
-      "OpenSSH client side key management for better privacy and security",
-      "https://tim.siosm.fr/blog/2023/01/13/openssh-key-management/"
     ]
   ],
   [
