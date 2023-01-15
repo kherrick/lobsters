@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-15, 11:06:53",
+      "https://lobste.rs/s/dncr72/msi_s_secure_boot"
+    ],
+    [
+      "MSI's (in)Secure Boot",
+      "https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 10:56:07",
+      "https://lobste.rs/s/t0hd2c/how_simulate_broken_database_connection"
+    ],
+    [
+      "How to simulate a broken database connection for testing in Django",
+      "https://neilkakkar.com/test-database-connection-django.html"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 09:12:37",
       "https://lobste.rs/s/rrcvyj/hidden_control_flow_some_insights_on"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-01-14, 12:55:39",
-      "https://lobste.rs/s/kgpv2l/error_detecting_correcting_codes"
-    ],
-    [
-      "Error-Detecting and Correcting Codes",
-      "https://math.oscarlevin.com/math322-spring21/section-error-detecting-correcting-codes.html"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 12:53:50",
       "https://lobste.rs/s/ubdmwb/2022_marginalia_s_search_index_reaches"
     ],
@@ -227,16 +237,6 @@
     [
       "Types are moving to the right",
       "https://elizarov.medium.com/types-are-moving-to-the-right-22c0ef31dd4a"
-    ]
-  ],
-  [
-    [
-      "2023-01-13, 16:35:33",
-      "https://lobste.rs/s/uwsl94/examples_floating_point_problems"
-    ],
-    [
-      "Examples of floating point problems",
-      "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/"
     ]
   ],
   [
