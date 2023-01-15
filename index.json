@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-15, 18:35:28",
+      "https://lobste.rs/s/szupey/terranix_terraform_nix"
+    ],
+    [
+      "terranix - terraform in nix",
+      "https://terranix.org/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 16:17:08",
       "https://lobste.rs/s/cczkdj/faster_virtual_machines_speeding_up"
     ],
@@ -237,16 +247,6 @@
     [
       "What the hell is Forth?",
       "https://blog.information-superhighway.net/what-the-hell-is-forth"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 08:33:03",
-      "https://lobste.rs/s/uokq9i/formalizing_f_strings"
-    ],
-    [
-      "Formalizing f-strings",
-      "https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/"
     ]
   ]
 ]
