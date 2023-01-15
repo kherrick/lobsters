@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-15, 23:49:33",
+      "https://lobste.rs/s/vforxs/over_engineering_your_thesis_with_nix"
+    ],
+    [
+      "Over-engineering Your Thesis with Nix, Pandoc and make",
+      "https://pascal.jungblut.me/posts/overengineering-thesis-template/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 23:19:25",
       "https://lobste.rs/s/e0jmyj/nomz_meal_planner_skip_life_story"
     ],
@@ -197,16 +207,6 @@
     [
       "Use.GPU Goes Trad",
       "https://acko.net/blog/use-gpu-goes-trad/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 21:43:48",
-      "https://lobste.rs/s/hg98u2/finding_nice_md5s_using_rust"
-    ],
-    [
-      "Finding Nice MD5s Using Rust",
-      "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
     ]
   ],
   [
