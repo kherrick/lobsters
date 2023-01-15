@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-15, 12:56:39",
+      "https://lobste.rs/s/brrrc8/revisiting_kde"
+    ],
+    [
+      "Revisiting KDE",
+      "https://jackevansevo.github.io/revisiting-kde.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-15, 12:50:59",
+      "https://lobste.rs/s/dejlur/ffhistory_kostya_s_boring_codec_world"
+    ],
+    [
+      "FFhistory - Kostya's Boring Codec World",
+      "https://codecs.multimedia.cx/category/ffhistory/"
+    ]
+  ],
+  [
+    [
       "2023-01-15, 12:27:40",
       "https://lobste.rs/s/28i4wl/peeking_into_https_traffic_with_proxy"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-01-14, 21:49:34",
-      "https://lobste.rs/s/x5ybyf/counting_transistors_8086_processor_it_s"
-    ],
-    [
-      "Counting the transistors in the 8086 processor: it's harder than you might think",
-      "http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html"
-    ]
-  ],
-  [
-    [
       "2023-01-14, 21:43:55",
       "https://lobste.rs/s/hsxsjx/atari_2600_hardware_design_making"
     ],
@@ -217,16 +227,6 @@
     [
       "Formalizing f-strings",
       "https://lwn.net/SubscriberLink/919426/38b2b5aaacc9bba0/"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 04:11:15",
-      "https://lobste.rs/s/dfmiko/using_github_copilot_for_unit_testing"
-    ],
-    [
-      "Using Github Copilot for unit testing",
-      "https://www.strictmode.io/articles/using-github-copilot-for-testing"
     ]
   ],
   [
