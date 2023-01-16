@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 04:56:02",
+      "https://lobste.rs/s/uwzfbo/x86_64_v3_mixed_bag_performance"
+    ],
+    [
+      "x86-64-v3: Mixed Bag of Performance",
+      "https://sunnyflunk.github.io/2023/01/15/x86-64-v3-Mixed-Bag-of-Performance.html"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 02:38:34",
       "https://lobste.rs/s/ucc5tu/type_checking_if_expressions"
     ],
@@ -177,16 +187,6 @@
     [
       "How to simulate a broken database connection for testing in Django",
       "https://neilkakkar.com/test-database-connection-django.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 09:12:37",
-      "https://lobste.rs/s/rrcvyj/hidden_control_flow_some_insights_on"
-    ],
-    [
-      "The Hidden Control Flow — Some Insights on an Async Cancellation Problem in Rust",
-      "https://greptime.com/blogs/2023-01-12-hidden-control-flow"
     ]
   ],
   [
