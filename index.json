@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 20:16:20",
+      "https://lobste.rs/s/85quko/disassembling_evm_bytecode_basics"
+    ],
+    [
+      "Disassembling EVM Bytecode (the Basics)",
+      "https://whileydave.com/2023/01/04/disassembling-evm-bytecode-the-basics/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 19:33:33",
       "https://lobste.rs/s/xuqa2b/managers_need_do_better_job_explaining"
     ],
@@ -237,16 +247,6 @@
     [
       "Revisiting KDE",
       "https://jackevansevo.github.io/revisiting-kde.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 10:56:07",
-      "https://lobste.rs/s/t0hd2c/how_simulate_broken_database_connection"
-    ],
-    [
-      "How to simulate a broken database connection for testing in Django",
-      "https://neilkakkar.com/test-database-connection-django.html"
     ]
   ]
 ]
