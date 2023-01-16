@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-16, 12:28:44",
+      "https://lobste.rs/s/r4sfnw/arithmetization_schemes_for_zk_snarks"
+    ],
+    [
+      "Arithmetization schemes for ZK-SNARKs",
+      "https://www.notamonadtutorial.com/arithmetization-schemes-for-zk-snarks/"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 12:20:15",
+      "https://lobste.rs/s/t5lwqk/how_transform_code_into_arithmetic"
+    ],
+    [
+      "How to transform code into arithmetic circuits",
+      "https://www.notamonadtutorial.com/how-to-transform-code-into-arithmetic-circuits/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 10:31:08",
       "https://lobste.rs/s/cohq8l/reverse_engineering_neural_network_s"
     ],
@@ -77,16 +97,6 @@
     [
       "Over-engineering Your Thesis with Nix, Pandoc and make",
       "https://pascal.jungblut.me/posts/overengineering-thesis-template/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 23:19:25",
-      "https://lobste.rs/s/e0jmyj/nomz_meal_planner_skip_life_story"
-    ],
-    [
-      "Nomz Meal Planner - Skip the life story",
-      "https://mo-nomz.herokuapp.com/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Fourier Transform, explained in one sentence",
       "https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-14, 16:24:24",
-      "https://lobste.rs/s/hjopwl/your_tech_stack_is_not_product"
-    ],
-    [
-      "Your tech stack is not the product",
-      "https://hoho.com/posts/your-stack-is-not-the-product/"
     ]
   ]
 ]
