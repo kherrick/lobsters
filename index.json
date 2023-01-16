@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 17:39:36",
+      "https://lobste.rs/s/bzmpqk/sometimes_i_regret_using_calver"
+    ],
+    [
+      "Sometimes I regret using CalVer",
+      "https://jacobtomlinson.dev/posts/2023/sometimes-i-regret-using-calver/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 14:26:43",
       "https://lobste.rs/s/yvkxmt/servo_advance_2023"
     ],
@@ -157,16 +167,6 @@
     [
       "gokrazy: instance-centric configuration released",
       "https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 18:35:28",
-      "https://lobste.rs/s/szupey/terranix_terraform_nix"
-    ],
-    [
-      "terranix - terraform in nix",
-      "https://terranix.org/"
     ]
   ],
   [
