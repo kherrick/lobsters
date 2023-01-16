@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-16, 06:59:39",
+      "https://lobste.rs/s/6djx8f/pipe_how_system_call_ties_unix_together"
+    ],
+    [
+      "Pipe: How the System Call That Ties Unix Together Came About",
+      "https://thenewstack.io/pipe-how-the-system-call-that-ties-unix-together-came-about/"
+    ]
+  ],
+  [
+    [
       "2023-01-16, 05:16:22",
       "https://lobste.rs/s/4xmfod/case_you_thought_aix_had_future"
     ],
@@ -197,16 +207,6 @@
     [
       "sysm is a Linux program that lets you play custom sounds on specified events",
       "https://github.com/jafarlihi/sysm"
-    ]
-  ],
-  [
-    [
-      "2023-01-15, 06:41:28",
-      "https://lobste.rs/s/0jdjsf/running_kde_plasma_on_risc_v_visionfive_2"
-    ],
-    [
-      "Running KDE Plasma on the RISC-V VisionFive-2",
-      "https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/"
     ]
   ],
   [
