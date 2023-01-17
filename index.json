@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-17, 07:08:04",
+      "https://lobste.rs/s/ogqsxz/feature_flags_ci_pipeline"
+    ],
+    [
+      "Feature Flags in a CI Pipeline",
+      "https://andydote.co.uk/2023/01/16/feature-flags-ci/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 07:03:37",
+      "https://lobste.rs/s/if1luw/what_s_right_ux_for_expired_certificate"
+    ],
+    [
+      "What’s the right UX for an expired certificate?",
+      "https://emilymstark.com/2023/01/16/whats-the-right-ux-for-an-expired-certificate.html"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 06:26:38",
       "https://lobste.rs/s/d6y4g9/how_single_developer_dropped_aws_costs_by"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-01-16, 18:01:23",
-      "https://lobste.rs/s/ttkwia/simple_semantics_for_defaults_catala"
-    ],
-    [
-      "Simple semantics for defaults in Catala",
-      "https://bentnib.org/posts/2023-01-16-catala.html"
-    ]
-  ],
-  [
-    [
       "2023-01-16, 17:39:36",
       "https://lobste.rs/s/bzmpqk/sometimes_i_regret_using_calver"
     ],
@@ -117,16 +127,6 @@
     [
       "Servo to Advance in 2023",
       "https://servo.org/blog/2023/01/16/servo-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 14:04:56",
-      "https://lobste.rs/s/csx4uq/evaluating_more_coverage_ruby_3_2"
-    ],
-    [
-      "Evaluating More Coverage in Ruby 3.2",
-      "https://kevinjmurphy.com/posts/evaluating-more-coverage-in-ruby-3-2/"
     ]
   ],
   [
