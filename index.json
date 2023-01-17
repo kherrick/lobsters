@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-17, 13:30:06",
+      "https://lobste.rs/s/uzjiw3/github_cksystemsteaching_selfie"
+    ],
+    [
+      "GitHub - cksystemsteaching/selfie: An educational software system of a tiny C compiler, a tiny RISC-V emulator, and a  RISC-V hypervisor",
+      "https://github.com/cksystemsteaching/selfie/"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 13:18:01",
       "https://lobste.rs/s/lbv5pe/things_they_didn_t_teach_you_about"
     ],
@@ -207,16 +217,6 @@
     [
       "xonly on amd64: testing wanted",
       "https://marc.info/?l=openbsd-tech&m=167374666324119&w=2"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 06:59:39",
-      "https://lobste.rs/s/6djx8f/pipe_how_system_call_ties_unix_together"
-    ],
-    [
-      "Pipe: How the System Call That Ties Unix Together Came About",
-      "https://thenewstack.io/pipe-how-the-system-call-that-ties-unix-together-came-about/"
     ]
   ],
   [
