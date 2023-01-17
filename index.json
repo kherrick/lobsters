@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-17, 22:21:38",
+      "https://lobste.rs/s/70ff58/hyundai_head_unit_hacking"
+    ],
+    [
+      "Hyundai Head Unit Hacking",
+      "https://xakcop.com/post/hyundai-hack-2/"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 22:15:39",
+      "https://lobste.rs/s/yibs3k/how_avoid_bounds_checks_rust_without"
+    ],
+    [
+      "How to avoid bounds checks in Rust (without unsafe!)",
+      "https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 22:03:00",
       "https://lobste.rs/s/rnhcte/ruby_3_2_s_yjit_is_production_ready"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2023-01-17, 21:38:13",
-      "https://lobste.rs/s/pv7cjm/i_made_chatgpt_answer_50_000_trivia"
+      "2023-01-17, 19:37:49",
+      "https://lobste.rs/s/jvjxzb/git_security_audit_by_x41"
     ],
     [
-      "I made ChatGPT answer 50,000 trivia questions. Are we doomed?",
-      "https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 20:54:36",
-      "https://lobste.rs/s/ftonk5/mechanizing_modern_mathematics"
-    ],
-    [
-      "Mechanizing Modern Mathematics",
-      "https://www.typetheoryforall.com/2023/01/16/26-Kevin-Buzzard.html#07a08a85"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 17:07:11",
-      "https://lobste.rs/s/vzsyv2/history_arm_part_3_coming_full_circle"
-    ],
-    [
-      "A history of ARM, part 3: Coming full circle",
-      "https://arstechnica.com/?p=1909069"
+      "Git Security Audit by X41",
+      "https://x41-dsec.de/security/research/job/news/2023/01/17/git-security-audit-ostif/"
     ]
   ],
   [
