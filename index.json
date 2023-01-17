@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-17, 17:07:11",
+      "https://lobste.rs/s/vzsyv2/history_arm_part_3_coming_full_circle"
+    ],
+    [
+      "A history of ARM, part 3: Coming full circle",
+      "https://arstechnica.com/?p=1909069"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 17:03:34",
+      "https://lobste.rs/s/ylzyde/ecmascript_spec_is_ready_use_interpreter"
+    ],
+    [
+      "EcmaScript spec is ready-to-use interpreter. It is attribute affix grammar. It is PLT paradise",
+      "https://github.com/rust-lang/rfcs/pull/3355#issuecomment-1385713351"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 16:02:28",
       "https://lobste.rs/s/2zdboo/ai_s_jurassic_park_moment"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-01-17, 03:58:36",
-      "https://lobste.rs/s/e8w5bd/for_your_next_side_project_make_browser"
-    ],
-    [
-      "For your next side project, make a browser extension",
-      "https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 03:25:20",
       "https://lobste.rs/s/obl2pu/two_inportant_lessons_i_learnt_rolling"
     ],
@@ -237,16 +247,6 @@
     [
       "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
       "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 05:16:22",
-      "https://lobste.rs/s/4xmfod/case_you_thought_aix_had_future"
-    ],
-    [
-      "In case you thought AIX had a future",
-      "https://www.talospace.com/2023/01/in-case-you-thought-aix-had-future.html?m=1"
     ]
   ]
 ]
