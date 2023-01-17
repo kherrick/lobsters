@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-01-17, 06:26:38",
-      "https://lobste.rs/s/d6y4g9/how_single_developer_dropped_aws_costs_by"
-    ],
-    [
-      "How a single developer dropped AWS costs by 90%, then disappeared",
-      "https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 03:25:20",
       "https://lobste.rs/s/obl2pu/two_inportant_lessons_i_learnt_rolling"
     ],
@@ -247,6 +237,16 @@
     [
       "Adventures in Mastoland",
       "https://searchtodon.social/Adventures-in-Mastoland.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-16, 10:31:08",
+      "https://lobste.rs/s/cohq8l/reverse_engineering_neural_network_s"
+    ],
+    [
+      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
+      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ]
 ]
