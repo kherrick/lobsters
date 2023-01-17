@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-17, 20:54:36",
+      "https://lobste.rs/s/ftonk5/mechanizing_modern_mathematics"
+    ],
+    [
+      "Mechanizing Modern Mathematics",
+      "https://www.typetheoryforall.com/2023/01/16/26-Kevin-Buzzard.html#07a08a85"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 19:37:49",
       "https://lobste.rs/s/jvjxzb/git_security_audit_by_x41"
     ],
@@ -237,16 +247,6 @@
     [
       "Adventures in Mastoland",
       "https://searchtodon.social/Adventures-in-Mastoland.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 10:31:08",
-      "https://lobste.rs/s/cohq8l/reverse_engineering_neural_network_s"
-    ],
-    [
-      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
-      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ]
 ]
