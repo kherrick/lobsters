@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-01-17, 13:18:01",
+      "https://lobste.rs/s/lbv5pe/things_they_didn_t_teach_you_about"
+    ],
+    [
+      "Things they didn't teach you about Software Engineering",
+      "https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 11:58:29",
       "https://lobste.rs/s/x8fdqx/cocomo_ii_constructive_cost_model"
     ],
@@ -237,16 +247,6 @@
     [
       "Adventures in Mastoland",
       "https://searchtodon.social/Adventures-in-Mastoland.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 10:31:08",
-      "https://lobste.rs/s/cohq8l/reverse_engineering_neural_network_s"
-    ],
-    [
-      "Reverse Engineering a Neural Network's Clever Solution to Binary Addition",
-      "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/"
     ]
   ]
 ]
