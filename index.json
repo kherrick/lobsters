@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-18, 19:29:38",
+      "https://lobste.rs/s/x37tfn/can_logic_programming_execute_as_fast_as"
+    ],
+    [
+      "Can Logic Programming Execute as Fast as Imperative Programming? (1990)",
+      "http://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 19:22:22",
       "https://lobste.rs/s/culwir/git_patches_two_critical_remote_code"
     ],
@@ -177,16 +187,6 @@
     [
       "PKCS#11. hardware keystores, and Apple frustrations",
       "https://mjg59.dreamwidth.org/64968.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 06:59:38",
-      "https://lobste.rs/s/jp5cox/c_vs_rust_which_is_faster"
-    ],
-    [
-      "C++ vs Rust: which is faster?",
-      "https://www.youtube.com/watch?v=VMpSYJ_7aYM"
     ]
   ],
   [
