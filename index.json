@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-18, 15:32:37",
+      "https://lobste.rs/s/qtmwny/biggest_problem_real_world_computer"
+    ],
+    [
+      "The Biggest Problem In Real-World Computer Programming",
+      "https://danielbmarkham.com/the-biggest-problem-in-real-world-computer-programming/"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 15:19:19",
       "https://lobste.rs/s/xhbbm7/tar_creator_extractor_100_lines_prolog"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-01-17, 23:21:13",
-      "https://lobste.rs/s/qdtnjl/looking_back_at_ms_dos_4_00m_beginning"
-    ],
-    [
-      "Looking back at MS-DOS 4.00M, or in the beginning before there was OS/2",
-      "https://virtuallyfun.com/2023/01/17/looking-back-at-ms-dos-4-00m-or-in-the-beginning-before-there-was-os-2/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 23:12:33",
       "https://lobste.rs/s/jrp9gv/small_vms_coroutines"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2023-01-17, 14:00:05",
-      "https://lobste.rs/s/i6omhc/starting_box2d_3_0"
-    ],
-    [
-      "Starting Box2D 3.0",
-      "https://box2d.org/posts/2023/01/starting-box2d-3.0/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 13:51:45",
       "https://lobste.rs/s/etyxgs/growth_ocaml_distribution"
     ],
     [
       "The Growth of the OCaml Distribution",
       "https://ocamlpro.com/blog/2023_01_02_ocaml_distribution"
+    ]
+  ],
+  [
+    [
+      "2023-01-17, 13:30:06",
+      "https://lobste.rs/s/uzjiw3/github_cksystemsteaching_selfie"
+    ],
+    [
+      "GitHub - cksystemsteaching/selfie: An educational software system of a tiny C compiler, a tiny RISC-V emulator, and a  RISC-V hypervisor",
+      "https://github.com/cksystemsteaching/selfie/"
     ]
   ],
   [
