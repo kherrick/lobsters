@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-18, 16:18:48",
+      "https://lobste.rs/s/dwtqwz/hello_png"
+    ],
+    [
+      "Hello, PNG",
+      "https://www.da.vidbuchanan.co.uk/blog/hello-png.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 16:15:16",
+      "https://lobste.rs/s/b7iaug/itlb_multihit"
+    ],
+    [
+      "iTLB multihit",
+      "https://www.tacitosecurity.com/multihit.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 16:03:24",
+      "https://lobste.rs/s/zd8b6p/typst_programmable_markup_language_for"
+    ],
+    [
+      "Typst: A Programmable Markup Language for Typesetting",
+      "https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 15:59:25",
+      "https://lobste.rs/s/dvcgkj/terminal_escape_sequences_ocean_is_deep"
+    ],
+    [
+      "The Terminal Escape Sequences Ocean is Deep and Dark: Debugging a Virtual Terminal",
+      "https://www.ethanheilman.com/x/28/index.html"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 15:32:37",
       "https://lobste.rs/s/qtmwny/biggest_problem_real_world_computer"
     ],
@@ -191,52 +231,12 @@
   ],
   [
     [
-      "2023-01-17, 16:02:28",
-      "https://lobste.rs/s/2zdboo/ai_s_jurassic_park_moment"
-    ],
-    [
-      "AI's Jurassic Park moment",
-      "https://garymarcus.substack.com/p/ais-jurassic-park-moment"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 13:51:45",
-      "https://lobste.rs/s/etyxgs/growth_ocaml_distribution"
-    ],
-    [
-      "The Growth of the OCaml Distribution",
-      "https://ocamlpro.com/blog/2023_01_02_ocaml_distribution"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 13:30:06",
-      "https://lobste.rs/s/uzjiw3/github_cksystemsteaching_selfie"
-    ],
-    [
-      "GitHub - cksystemsteaching/selfie: An educational software system of a tiny C compiler, a tiny RISC-V emulator, and a  RISC-V hypervisor",
-      "https://github.com/cksystemsteaching/selfie/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 09:40:55",
       "https://lobste.rs/s/oq54qt/why_we_need_know_lr_recursive_descent"
     ],
     [
       "Why We Need to Know LR and Recursive Descent Parsing Techniques",
       "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 22:03:09",
-      "https://lobste.rs/s/kj74hc/major_standard_library_changes_go_1_20"
-    ],
-    [
-      "Major standard library changes in Go 1.20",
-      "https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/"
     ]
   ],
   [
