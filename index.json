@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-18, 00:16:51",
+      "https://lobste.rs/s/kxkcob/did_you_miss_my_comment_what"
+    ],
+    [
+      "``Did You Miss My Comment or What?'' Understanding Toxicity in Open Source Discussions",
+      "https://cmustrudel.github.io/papers/osstoxicity22.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 23:12:33",
       "https://lobste.rs/s/jrp9gv/small_vms_coroutines"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-01-17, 21:38:13",
+      "https://lobste.rs/s/pv7cjm/i_made_chatgpt_answer_50_000_trivia"
+    ],
+    [
+      "I made ChatGPT answer 50,000 trivia questions. Are we doomed?",
+      "https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions"
+    ]
+  ],
+  [
+    [
       "2023-01-17, 19:37:49",
       "https://lobste.rs/s/jvjxzb/git_security_audit_by_x41"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-01-17, 14:38:07",
-      "https://lobste.rs/s/i7c7yg/upgrading_my_chumby_8_kernel_part_3_wi_fi"
-    ],
-    [
-      "Upgrading my Chumby 8 kernel part 3: Wi-Fi",
-      "https://www.downtowndougbrown.com/2023/01/upgrading-my-chumby-8-kernel-part-3-wi-fi/"
-    ]
-  ],
-  [
-    [
       "2023-01-17, 14:00:05",
       "https://lobste.rs/s/i6omhc/starting_box2d_3_0"
     ],
@@ -127,16 +137,6 @@
     [
       "GitHub - cksystemsteaching/selfie: An educational software system of a tiny C compiler, a tiny RISC-V emulator, and a  RISC-V hypervisor",
       "https://github.com/cksystemsteaching/selfie/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 13:18:01",
-      "https://lobste.rs/s/lbv5pe/things_they_didn_t_teach_you_about"
-    ],
-    [
-      "Things they didn't teach you about Software Engineering",
-      "https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/"
     ]
   ],
   [
