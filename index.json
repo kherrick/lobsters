@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-18, 15:19:19",
+      "https://lobste.rs/s/xhbbm7/tar_creator_extractor_100_lines_prolog"
+    ],
+    [
+      "tar creator+extractor in ~100 lines of prolog",
+      "https://github.com/SuperDisk/tar.pl"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 13:42:14",
       "https://lobste.rs/s/pkj3fc/evaluating_cost_atomic_operations_on"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Battlestations and Screenshots (2023)",
       "https://lobste.rs/s/wkeaed/lobsters_battlestations_screenshots"
-    ]
-  ],
-  [
-    [
-      "2023-01-16, 14:26:43",
-      "https://lobste.rs/s/yvkxmt/servo_advance_2023"
-    ],
-    [
-      "Servo to Advance in 2023",
-      "https://servo.org/blog/2023/01/16/servo-2023/"
     ]
   ]
 ]
