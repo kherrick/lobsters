@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-18, 07:03:01",
+      "https://lobste.rs/s/s5ohdm/pkcs_11_hardware_keystores_apple"
+    ],
+    [
+      "PKCS#11. hardware keystores, and Apple frustrations",
+      "https://mjg59.dreamwidth.org/64968.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 06:59:38",
+      "https://lobste.rs/s/jp5cox/c_vs_rust_which_is_faster"
+    ],
+    [
+      "C++ vs Rust: which is faster?",
+      "https://www.youtube.com/watch?v=VMpSYJ_7aYM"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 05:22:07",
       "https://lobste.rs/s/eeoidn/codeql_path_graphs"
     ],
@@ -47,16 +67,6 @@
     [
       "Small VMs & Coroutines",
       "https://blog.dziban.net/coroutines/"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 22:21:38",
-      "https://lobste.rs/s/70ff58/hyundai_head_unit_hacking"
-    ],
-    [
-      "Hyundai Head Unit Hacking",
-      "https://xakcop.com/post/hyundai-hack-2/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Why We Need to Know LR and Recursive Descent Parsing Techniques",
       "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 09:01:24",
-      "https://lobste.rs/s/czysmx/keydecoder_app_lets_you_use_your"
-    ],
-    [
-      "KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds",
-      "https://github.com/MaximeBeasse/KeyDecoder"
     ]
   ],
   [
