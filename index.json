@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-01-18, 22:54:56",
+      "https://lobste.rs/s/mzz01f/why_is_rust_s_build_system_uniquely_hard"
+    ],
+    [
+      "Why is Rust's build system uniquely hard to use?",
+      "https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-01-18, 21:33:29",
       "https://lobste.rs/s/x3kjg8/examples_problems_with_integers"
     ],
     [
       "Examples of problems with integers",
       "https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/"
+    ]
+  ],
+  [
+    [
+      "2023-01-18, 21:13:57",
+      "https://lobste.rs/s/8e5jy5/functional_classes"
+    ],
+    [
+      "Functional Classes",
+      "http://blog.cleancoder.com/uncle-bob/2023/01/18/functional-classes.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Why I Like Nox",
       "https://hynek.me/articles/why-i-like-nox/"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 19:29:38",
-      "https://lobste.rs/s/x37tfn/can_logic_programming_execute_as_fast_as"
-    ],
-    [
-      "Can Logic Programming Execute as Fast as Imperative Programming? (1990)",
-      "http://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I made ChatGPT answer 50,000 trivia questions. Are we doomed?",
       "https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions"
-    ]
-  ],
-  [
-    [
-      "2023-01-17, 09:40:55",
-      "https://lobste.rs/s/oq54qt/why_we_need_know_lr_recursive_descent"
-    ],
-    [
-      "Why We Need to Know LR and Recursive Descent Parsing Techniques",
-      "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
     ]
   ]
 ]
