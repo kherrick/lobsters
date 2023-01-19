@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-19, 03:24:28",
+      "https://lobste.rs/s/whl6yv/creating_log_analysis_system_autodetect"
+    ],
+    [
+      "Creating A Log-Analysis System To Autodetect and Announce Mastodon Scr",
+      "https://www.bentasker.co.uk/posts/blog/security/autodetecting-and-outing-mastodon-scrapers-with-scrapersnitchbot.html"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 02:03:42",
       "https://lobste.rs/s/c3gqys/tail_recursion_rebol_2001"
     ],
@@ -117,16 +127,6 @@
     [
       "Typst: A Programmable Markup Language for Typesetting",
       "https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 15:59:25",
-      "https://lobste.rs/s/dvcgkj/terminal_escape_sequences_ocean_is_deep"
-    ],
-    [
-      "The Terminal Escape Sequences Ocean is Deep and Dark: Debugging a Virtual Terminal",
-      "https://www.ethanheilman.com/x/28/index.html"
     ]
   ],
   [
