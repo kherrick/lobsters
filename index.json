@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-19, 22:27:53",
+      "https://lobste.rs/s/zv3hmn/sshd_random_relinking_at_boot"
+    ],
+    [
+      "sshd random relinking at boot",
+      "https://undeadly.org/cgi?action=article;sid=20230119075627"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 20:48:05",
       "https://lobste.rs/s/clgknr/profiling_optimizing_interpreter"
     ],
@@ -237,16 +247,6 @@
     [
       "Typst: A Programmable Markup Language for Typesetting",
       "https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 15:19:19",
-      "https://lobste.rs/s/xhbbm7/tar_creator_extractor_100_lines_prolog"
-    ],
-    [
-      "tar creator+extractor in ~100 lines of prolog",
-      "https://github.com/SuperDisk/tar.pl"
     ]
   ]
 ]
