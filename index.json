@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-19, 19:15:48",
-      "https://lobste.rs/s/tc8l4r/cranelift_correctness_register"
+      "2023-01-19, 19:37:53",
+      "https://lobste.rs/s/fyk935/exploiting_null_dereferences_linux"
     ],
     [
-      "Cranelift: Correctness in Register Allocation",
-      "https://cfallin.org/blog/2021/03/15/cranelift-isel-3/"
+      "Exploiting null-dereferences in the Linux kernel",
+      "https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-19, 19:33:11",
+      "https://lobste.rs/s/qsh4zi/pseudo_3d_shooter_written_completely"
+    ],
+    [
+      "Pseudo-3D shooter written completely in gawk using raycasting technique",
+      "https://github.com/TheMozg/awk-raycaster"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Generating diagrams programmatically",
       "https://terrastruct.com/blog/post/generate-diagrams-programmatically/"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 22:54:56",
-      "https://lobste.rs/s/mzz01f/why_is_rust_s_build_system_uniquely_hard"
-    ],
-    [
-      "Why is Rust's build system uniquely hard to use?",
-      "https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html"
     ]
   ],
   [
