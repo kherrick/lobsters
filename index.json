@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-19, 02:03:42",
+      "https://lobste.rs/s/c3gqys/tail_recursion_rebol"
+    ],
+    [
+      "Tail recursion in REBOL",
+      "http://ll1.ai.mit.edu/marshall.html"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 00:15:02",
       "https://lobste.rs/s/jq667j/generating_diagrams_programmatically"
     ],
@@ -67,16 +77,6 @@
     [
       "Why I Like Nox",
       "https://hynek.me/articles/why-i-like-nox/"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 19:29:38",
-      "https://lobste.rs/s/x37tfn/can_logic_programming_execute_as_fast_as"
-    ],
-    [
-      "Can Logic Programming Execute as Fast as Imperative Programming? (1990)",
-      "http://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/CSD-90-600.pdf"
     ]
   ],
   [
