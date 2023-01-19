@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-19, 12:49:21",
+      "https://lobste.rs/s/epwdiz/gleam_v0_26_released_featuring"
+    ],
+    [
+      "Gleam v0.26 released featuring incremental compilation and Deno runtime support",
+      "https://gleam.run/news/v0.26-incremental-compilation-and-deno/"
+    ]
+  ],
+  [
+    [
       "2023-01-19, 11:59:36",
       "https://lobste.rs/s/hwf01p/huge_pages_are_good_idea"
     ],
@@ -117,16 +127,6 @@
     [
       "Functional Classes",
       "http://blog.cleancoder.com/uncle-bob/2023/01/18/functional-classes.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-18, 20:32:46",
-      "https://lobste.rs/s/ir2pwd/working_from_narrowboat_internet"
-    ],
-    [
-      "Working from a narrowboat - Internet connectivity",
-      "https://qmacro.org/blog/posts/2023/01/09/working-from-a-narrowboat-internet-connectivity/"
     ]
   ],
   [
