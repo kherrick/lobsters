@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-20, 07:48:37",
+      "https://lobste.rs/s/u6nz4f/debugging_crash_openrct2"
+    ],
+    [
+      "Debugging a Crash in OpenRCT2",
+      "http://voidstar.tech/rct_crash/"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 02:45:14",
       "https://lobste.rs/s/igjz04/github_saturnflyer_polyfill_data_adds"
     ],
@@ -217,16 +227,6 @@
     [
       "HC-tree: a prototype for write concurrently in SQLite",
       "https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 08:11:35",
-      "https://lobste.rs/s/zqsexn/formalising_new_proof_square_root_two_is"
-    ],
-    [
-      "Formalising a new proof that the square root of two is irrational",
-      "https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html"
     ]
   ],
   [
