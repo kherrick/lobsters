@@ -1,6 +1,86 @@
 [
   [
     [
+      "2023-01-20, 20:15:46",
+      "https://lobste.rs/s/2e4imj/practical_template_attack_on_crystals"
+    ],
+    [
+      "A Practical Template Attack on CRYSTALS-Dilithium",
+      "https://eprint.iacr.org/2023/050.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:15:10",
+      "https://lobste.rs/s/sjeaxy/rds_fpga_routing_delay_sensors_for"
+    ],
+    [
+      "RDS: FPGA Routing Delay Sensors for Effective Remote Power Analysis Attacks",
+      "https://eprint.iacr.org/2023/043.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:14:42",
+      "https://lobste.rs/s/5szhkh/on_protecting_sphincs_against_fault"
+    ],
+    [
+      "On Protecting SPHINCS+ Against Fault Attacks",
+      "https://eprint.iacr.org/2023/042.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:13:55",
+      "https://lobste.rs/s/jq0j3s/closer_look_at_chaotic_ring_oscillators"
+    ],
+    [
+      "A Closer Look at the Chaotic Ring Oscillators based TRNG Design",
+      "https://eprint.iacr.org/2023/040.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:12:55",
+      "https://lobste.rs/s/tzh69d/glitch_free_is_not_enough"
+    ],
+    [
+      "Glitch-free is not Enough",
+      "https://eprint.iacr.org/2023/035.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:10:42",
+      "https://lobste.rs/s/hmsvro/prolog_day_50_years_prolog"
+    ],
+    [
+      "Prolog Day - 50 years of Prolog",
+      "https://www.youtube.com/watch?v=9BW0J7wwqO4"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 20:01:04",
+      "https://lobste.rs/s/vyudt1/prolead_sw_probing_based_software"
+    ],
+    [
+      "PROLEAD_SW - Probing-Based Software Leakage Detection for ARM Binaries",
+      "https://eprint.iacr.org/2023/034.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 19:59:46",
+      "https://lobste.rs/s/7vgnu7/gentle_tutorial_for_lattice_based"
+    ],
+    [
+      "A Gentle Tutorial for Lattice-Based Cryptanalysis",
+      "https://eprint.iacr.org/2023/032.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 19:45:04",
       "https://lobste.rs/s/crc4pt/printing_stdout_with_empty_main"
     ],
@@ -27,16 +107,6 @@
     [
       "Get Dumber",
       "https://www.supergoodcode.com/get-dumber/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 19:01:08",
-      "https://lobste.rs/s/lkle1s/automatic_reference_counting_vs_mark"
-    ],
-    [
-      "Automatic reference counting vs mark-and-sweep",
-      "https://youtu.be/c32zXYAK7CI"
     ]
   ],
   [
@@ -81,26 +151,6 @@
   ],
   [
     [
-      "2023-01-20, 14:17:51",
-      "https://lobste.rs/s/poj5zg/debugging_use_after_free_gdb"
-    ],
-    [
-      "Debugging a use-after-free in gdb",
-      "https://pernos.co/examples/use-after-free"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 14:12:25",
-      "https://lobste.rs/s/b75zvp/backporting_changes_is_clearly_hard"
-    ],
-    [
-      "Backporting changes is clearly hard, which is a good reason to avoid it",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/BackportsAreHard"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 14:11:28",
       "https://lobste.rs/s/6v4xuv/rust_should_own_its_debugger_experience"
     ],
@@ -117,16 +167,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/rosukz/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 11:13:57",
-      "https://lobste.rs/s/exun2m/curated_list_questions_work_on_client_s"
-    ],
-    [
-      "A curated list of questions to work on a client's infrastructure / migrate applications to the cloud",
-      "https://github.com/dyrector-io/awesome-infrastructure-questions"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-01-19, 18:44:25",
-      "https://lobste.rs/s/otzvj2/improved_web_component_for_pixel"
-    ],
-    [
-      "Improved Web Component for Pixel-Accurate Atkinson Dithered Images",
-      "https://sheep.horse/2023/1/improved_web_component_for_pixel-accurate_atkinson.html"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 17:21:57",
       "https://lobste.rs/s/l1qxl1/apple_lisa_source_code_released"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2023-01-19, 11:59:36",
-      "https://lobste.rs/s/hwf01p/huge_pages_are_good_idea"
-    ],
-    [
-      "Huge Pages are a Good Idea",
-      "https://www.evanjones.ca/hugepages-are-a-good-idea.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 09:38:21",
-      "https://lobste.rs/s/2ueslk/debian_bookworm_freeze_started"
-    ],
-    [
-      "Debian Bookworm freeze started",
-      "https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html"
-    ]
-  ],
-  [
-    [
       "2023-01-19, 09:00:26",
       "https://lobste.rs/s/akic3m/pandoc_3_0_released"
     ],
     [
       "Pandoc 3.0 released",
       "https://pandoc.org/releases.html#pandoc-3.0-2023-01-18"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 04:43:57",
-      "https://lobste.rs/s/wdeoob/take_your_pragmatism_for_unicycle_ride"
-    ],
-    [
-      "Take your pragmatism for a unicycle ride",
-      "http://twitchard.github.io/posts/2023-01-18-unicycles.html"
     ]
   ]
 ]
