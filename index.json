@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-20, 22:04:51",
+      "https://lobste.rs/s/vyaimx/source_code_for_adobe_postscript_1_0"
+    ],
+    [
+      "Source code for Adobe PostScript 1.0 released",
+      "https://computerhistory.org/blog/postscript-a-digital-printing-press/?_hsmi=242355795&_hsenc=p2ANqtz-8frF7VzXO-ffqoGUATsxoRI24JMgSJv-Q8Ic0bUou5TYLoN5ZWdOAEbp8o_NaOUIGgKt7D5DbgGFp00TVUOAVaTc_OU0k7RRp1jf9CZzfOOlvff0c"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 21:35:17",
       "https://lobste.rs/s/8fhp25/cargo_careful_run_your_rust_code_with"
     ],
@@ -67,16 +77,6 @@
     [
       "On Protecting SPHINCS+ Against Fault Attacks",
       "https://eprint.iacr.org/2023/042.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 20:13:55",
-      "https://lobste.rs/s/jq0j3s/closer_look_at_chaotic_ring_oscillators"
-    ],
-    [
-      "A Closer Look at the Chaotic Ring Oscillators based TRNG Design",
-      "https://eprint.iacr.org/2023/040.pdf"
     ]
   ],
   [
