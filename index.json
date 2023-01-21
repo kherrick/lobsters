@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-01-20, 15:51:00",
+      "https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell"
+    ],
+    [
+      "Space leaks exploration in Haskell",
+      "https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-20, 15:42:21",
       "https://lobste.rs/s/4wcoy5/reverse_engineering_macbook_clamshell"
     ],
@@ -237,16 +247,6 @@
     [
       "Some reasons to avoid Cython",
       "https://pythonspeed.com/articles/cython-limitations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 12:49:21",
-      "https://lobste.rs/s/epwdiz/gleam_v0_26_released_featuring"
-    ],
-    [
-      "Gleam v0.26 released featuring incremental compilation and Deno runtime support",
-      "https://gleam.run/news/v0.26-incremental-compilation-and-deno/"
     ]
   ]
 ]
