@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 16:10:53",
+      "https://lobste.rs/s/ydb8ly/open_source_maintainers_what_they_need"
+    ],
+    [
+      "Open source maintainers: What they need and how to support them",
+      "https://www.linuxfoundation.org/blog/open-source-maintainers-what-they-need-and-how-to-support-them"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 15:49:52",
       "https://lobste.rs/s/ffjvhc/encoding_variable_length_instructions"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-01-21, 05:27:12",
-      "https://lobste.rs/s/nhb2kx/cve_2022_42864_diabolical_cookies"
-    ],
-    [
-      "CVE-2022-42864 - Diabolical Cookies",
-      "https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html"
-    ]
-  ],
-  [
-    [
       "2023-01-21, 04:01:29",
       "https://lobste.rs/s/cetokn/self_soldering_circuits"
     ],
@@ -107,6 +107,16 @@
     [
       "Native Urban Terror on FreeBSD",
       "https://vermaden.wordpress.com/2023/01/20/native-urban-terror-on-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 22:04:51",
+      "https://lobste.rs/s/vyaimx/source_code_for_adobe_postscript_1_0"
+    ],
+    [
+      "Source code for Adobe PostScript 1.0 released",
+      "https://computerhistory.org/blog/postscript-a-digital-printing-press/?_hsmi=242355795&_hsenc=p2ANqtz-8frF7VzXO-ffqoGUATsxoRI24JMgSJv-Q8Ic0bUou5TYLoN5ZWdOAEbp8o_NaOUIGgKt7D5DbgGFp00TVUOAVaTc_OU0k7RRp1jf9CZzfOOlvff0c"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/rosukz/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 07:48:37",
-      "https://lobste.rs/s/u6nz4f/debugging_crash_openrct2"
-    ],
-    [
-      "Debugging a Crash in OpenRCT2",
-      "http://voidstar.tech/rct_crash/"
     ]
   ],
   [
