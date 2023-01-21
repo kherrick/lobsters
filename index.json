@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-01-20, 20:15:10",
-      "https://lobste.rs/s/sjeaxy/rds_fpga_routing_delay_sensors_for"
-    ],
-    [
-      "RDS: FPGA Routing Delay Sensors for Effective Remote Power Analysis Attacks",
-      "https://eprint.iacr.org/2023/043.pdf"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 20:10:42",
       "https://lobste.rs/s/hmsvro/prolog_day_50_years_prolog"
     ],
@@ -147,6 +137,16 @@
     [
       "Automatic reference counting vs mark-and-sweep",
       "https://youtu.be/c32zXYAK7CI"
+    ]
+  ],
+  [
+    [
+      "2023-01-20, 15:51:00",
+      "https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell"
+    ],
+    [
+      "Space leaks exploration in Haskell",
+      "https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf"
     ]
   ],
   [
