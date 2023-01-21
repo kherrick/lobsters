@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 15:49:52",
+      "https://lobste.rs/s/ffjvhc/encoding_variable_length_instructions"
+    ],
+    [
+      "Encoding variable-length instructions in LLVM",
+      "https://m680x0.github.io/blog/2022/02/varlen-encoder.html"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 14:27:08",
       "https://lobste.rs/s/uaajdd/model_code_gap"
     ],
@@ -147,16 +157,6 @@
     [
       "Get Dumber",
       "https://www.supergoodcode.com/get-dumber/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 19:01:08",
-      "https://lobste.rs/s/lkle1s/automatic_reference_counting_vs_mark"
-    ],
-    [
-      "Automatic reference counting vs mark-and-sweep",
-      "https://youtu.be/c32zXYAK7CI"
     ]
   ],
   [
