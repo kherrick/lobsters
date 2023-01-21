@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 07:24:17",
+      "https://lobste.rs/s/hqe5w7/pipe_operator_for_javascript"
+    ],
+    [
+      "Pipe Operator for JavaScript",
+      "https://github.com/tc39/proposal-pipeline-operator"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 05:27:12",
       "https://lobste.rs/s/nhb2kx/cve_2022_42864_diabolical_cookies"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.26 released featuring incremental compilation and Deno runtime support",
       "https://gleam.run/news/v0.26-incremental-compilation-and-deno/"
-    ]
-  ],
-  [
-    [
-      "2023-01-19, 09:00:26",
-      "https://lobste.rs/s/akic3m/pandoc_3_0_released"
-    ],
-    [
-      "Pandoc 3.0 released",
-      "https://pandoc.org/releases.html#pandoc-3.0-2023-01-18"
     ]
   ]
 ]
