@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 20:05:16",
+      "https://lobste.rs/s/k7dz5z/nice_sites"
+    ],
+    [
+      "nice sites",
+      "https://www2.bearblog.dev/non-annoying/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 19:11:05",
       "https://lobste.rs/s/vrzaf4/myths_legends_high_performance"
     ],
@@ -47,16 +57,6 @@
     [
       "Encoding variable-length instructions in LLVM",
       "https://m680x0.github.io/blog/2022/02/varlen-encoder.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 14:27:08",
-      "https://lobste.rs/s/uaajdd/model_code_gap"
-    ],
-    [
-      "The model code gap",
-      "https://blog.icepanel.io/2022/11/30/the-model-code-gap/"
     ]
   ],
   [
