@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 11:22:42",
+      "https://lobste.rs/s/0zldoo/thoughts_on_python_packaging_ecosystem"
+    ],
+    [
+      "Thoughts on the Python packaging ecosystem",
+      "https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 10:29:51",
       "https://lobste.rs/s/mhuqq7/what_do_chatgpt_ai_based_automatic"
     ],
@@ -137,16 +147,6 @@
     [
       "Automatic reference counting vs mark-and-sweep",
       "https://youtu.be/c32zXYAK7CI"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 15:51:00",
-      "https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell"
-    ],
-    [
-      "Space leaks exploration in Haskell",
-      "https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf"
     ]
   ],
   [
