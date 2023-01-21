@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-21, 07:45:59",
+      "https://lobste.rs/s/tuy0mq/doas_dedicated_openbsd_application"
+    ],
+    [
+      "doas - dedicated openbsd application subexecutor",
+      "https://flak.tedunangst.com/post/doas"
+    ]
+  ],
+  [
+    [
+      "2023-01-21, 07:45:52",
+      "https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers"
+    ],
+    [
+      "How You Respond to Security Researchers Says Everything About You",
+      "https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 07:24:17",
       "https://lobste.rs/s/hqe5w7/pipe_operator_for_javascript"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-01-20, 19:45:04",
-      "https://lobste.rs/s/crc4pt/printing_stdout_with_empty_main"
-    ],
-    [
-      "Printing to stdout with an empty main",
-      "https://www.cedricmartens.com/articles/empty_main"
-    ]
-  ],
-  [
-    [
       "2023-01-20, 19:27:44",
       "https://lobste.rs/s/aja2hg/nixos_settings_option_when_how_use_it"
     ],
@@ -127,16 +137,6 @@
     [
       "Automatic reference counting vs mark-and-sweep",
       "https://youtu.be/c32zXYAK7CI"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 15:51:00",
-      "https://lobste.rs/s/ct1u0s/space_leaks_exploration_haskell"
-    ],
-    [
-      "Space leaks exploration in Haskell",
-      "https://cs.stanford.edu/~sumith/docs/report-spaceleaks.pdf"
     ]
   ],
   [
