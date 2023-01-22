@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-22, 02:57:00",
+      "https://lobste.rs/s/fuspva/always_read_first_error_message_first"
+    ],
+    [
+      "Always read the first error message first",
+      "https://quuxplusone.github.io/blog/2023/01/21/did-you-mean-bool/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 23:55:10",
       "https://lobste.rs/s/n7hkay/page_with_no_code"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust should own its debugger experience",
       "https://blog.yoshuawuyts.com/rust-should-own-its-debugger-experience/"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 00:15:32",
-      "https://lobste.rs/s/ns4mzp/how_completely_own_airline_3_easy_steps"
-    ],
-    [
-      "how to completely own an airline in 3 easy steps",
-      "https://maia.crimew.gay/posts/how-to-hack-an-airline/"
     ]
   ]
 ]
