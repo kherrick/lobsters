@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-21, 23:55:10",
+      "https://lobste.rs/s/n7hkay/page_with_no_code"
+    ],
+    [
+      "The Page With No Code",
+      "https://danq.me/2023/01/11/nocode/"
+    ]
+  ],
+  [
+    [
       "2023-01-21, 22:35:41",
       "https://lobste.rs/s/qq9ne5/sco_xenix_on_apple_lisa"
     ],
@@ -177,16 +187,6 @@
     [
       "Self-Soldering Circuits",
       "https://www.youtube.com/watch?v=r0csHZveVvY"
-    ]
-  ],
-  [
-    [
-      "2023-01-20, 21:35:17",
-      "https://lobste.rs/s/8fhp25/cargo_careful_run_your_rust_code_with"
-    ],
-    [
-      "cargo careful: run your Rust code with extra careful debug checking",
-      "https://www.ralfj.de/blog/2022/09/26/cargo-careful.html"
     ]
   ],
   [
