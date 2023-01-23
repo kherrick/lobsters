@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-23, 17:09:11",
+      "https://lobste.rs/s/xxbo7n/minimal_cross_platform_graphics"
+    ],
+    [
+      "Minimal cross-platform graphics",
+      "https://zserge.com/posts/fenster/"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 17:04:59",
+      "https://lobste.rs/s/qcujhx/sizing_up_neural_nets"
+    ],
+    [
+      "Sizing Up Neural Nets",
+      "https://jott.live/markdown/nn_sizing"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 16:59:04",
       "https://lobste.rs/s/gdndoo/pure_java_typesetting_system"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-01-23, 14:51:03",
-      "https://lobste.rs/s/x1crjk/learn_something_old_every_day_part_vii"
-    ],
-    [
-      "Learn Something Old Every Day, Part VII: 8087 Intricacies",
-      "http://www.os2museum.com/wp/learn-something-old-every-day-part-vii-8087-intricacies/"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 14:11:50",
       "https://lobste.rs/s/xvgile/mozilla_org_s_25th_anniversary"
     ],
@@ -137,16 +147,6 @@
     [
       "Gate Integration Tests on Environment Variables",
       "https://www.stchris.net/gate-integration-tests.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 11:38:44",
-      "https://lobste.rs/s/iokd7q/due_limitations_borrow_checker_this"
-    ],
-    [
-      "Due to limitations in the borrow checker, this implies a 'static lifetime",
-      "https://kazlauskas.me/entries/due-to-borrowck-limitations"
     ]
   ],
   [
