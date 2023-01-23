@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-23, 15:31:05",
+      "https://lobste.rs/s/pkrcsb/keep_freebsd_desktop_updated"
+    ],
+    [
+      "Keep FreeBSD Desktop Updated",
+      "https://vermaden.wordpress.com/2023/01/22/keep-freebsd-desktop-updated/"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 15:28:53",
       "https://lobste.rs/s/ibfy4b/announcing_nixos_rebuild_new_deployment"
     ],
@@ -197,16 +207,6 @@
     [
       "Understanding AWS Services for Modern Cloud Architectures by Overengineering \"Hello World\"",
       "https://bas.codes/posts/aws-architecture-overengineering"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 17:48:47",
-      "https://lobste.rs/s/meibcr/curated_list_software_architecture"
-    ],
-    [
-      "A curated list of software and architecture related design patterns",
-      "https://github.com/DovAmir/awesome-design-patterns"
     ]
   ],
   [
