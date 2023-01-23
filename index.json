@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-23, 15:28:53",
+      "https://lobste.rs/s/ibfy4b/announcing_nixos_rebuild_new_deployment"
+    ],
+    [
+      "Announcing nixos-rebuild: a \"new\" deployment tool for NixOS",
+      "https://www.haskellforall.com/2023/01/announcing-nixos-rebuild-new-deployment.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-23, 15:26:52",
+      "https://lobste.rs/s/v1m3sw/who_needs_main_anyway"
+    ],
+    [
+      "Who needs main() anyway?",
+      "http://rachelbythebay.com/w/2023/01/20/mainless/"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 15:15:30",
       "https://lobste.rs/s/a8ktbv/9_years_maintaining_sorta_popular_open"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-01-23, 04:29:50",
-      "https://lobste.rs/s/eacwsc/smacni_avx512_life_cycle_instruction_set"
-    ],
-    [
-      "SMACNI to AVX512 the life cycle of an instruction set (2019)",
-      "https://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf"
-    ]
-  ],
-  [
-    [
       "2023-01-23, 04:12:17",
       "https://lobste.rs/s/78yokh/bulldozer_amd_s_crash_modernization"
     ],
@@ -237,16 +247,6 @@
     [
       "Pybi and Posy",
       "https://discuss.python.org/t/announce-pybi-and-posy/23021"
-    ]
-  ],
-  [
-    [
-      "2023-01-21, 07:45:52",
-      "https://lobste.rs/s/qjuqpi/how_you_respond_security_researchers"
-    ],
-    [
-      "How You Respond to Security Researchers Says Everything About You",
-      "https://soatok.blog/2023/01/21/how-you-respond-to-security-researchers-says-everything-about-you/"
     ]
   ]
 ]
