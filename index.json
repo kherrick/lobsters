@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-23, 15:58:11",
+      "https://lobste.rs/s/kf3xym/introducing_zero_nix"
+    ],
+    [
+      "Introducing: Zero to Nix",
+      "https://determinate.systems/posts/zero-to-nix"
+    ]
+  ],
+  [
+    [
       "2023-01-23, 15:31:05",
       "https://lobste.rs/s/pkrcsb/keep_freebsd_desktop_updated"
     ],
@@ -147,16 +157,6 @@
     [
       "Functional Python, Part II: Dial M for Monoid",
       "https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 04:12:17",
-      "https://lobste.rs/s/78yokh/bulldozer_amd_s_crash_modernization"
-    ],
-    [
-      "Bulldozer, AMD’s Crash Modernization: Frontend and Execution Engine",
-      "https://chipsandcheese.com/2023/01/22/bulldozer-amds-crash-modernization-frontend-and-execution-engine/"
     ]
   ],
   [
