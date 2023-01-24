@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 15:38:23",
+      "https://lobste.rs/s/los0cf/git_source_code_audit_viewed_as_rust"
+    ],
+    [
+      "The Git source code audit, viewed as a Rust programmer",
+      "https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 14:54:23",
       "https://lobste.rs/s/mnu3vn/whirlwind_tutorial_on_creating_really"
     ],
@@ -17,16 +27,6 @@
     [
       "Why we use Terraform for BigQuery",
       "https://dev.to/otainsight/why-we-use-terraform-for-bigquery-4f19"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 14:43:16",
-      "https://lobste.rs/s/etqfki/building_simple_db_rust_part_2_basic"
-    ],
-    [
-      "Building a Simple DB in Rust - Part 2 - Basic Execution",
-      "https://johns.codes/blog/build-a-db/part02"
     ]
   ],
   [
