@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-24, 16:38:00",
-      "https://lobste.rs/s/bxort1/puzzling_postgres_story_solving"
+      "2023-01-24, 17:13:10",
+      "https://lobste.rs/s/ajvprk/attempt_this_online"
     ],
     [
-      "Puzzling Postgres: a story of solving an unreproducible performance issue",
-      "https://medium.com/engineering-at-birdie/puzzling-postgres-a-story-of-solving-an-unreproducible-performance-issue-778075ed7998"
+      "Attempt This Online",
+      "https://ato.pxeger.com/about"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 17:12:33",
+      "https://lobste.rs/s/mjb8ye/fun_with_macos_s_sip"
+    ],
+    [
+      "Fun with macOS's SIP",
+      "https://metalbear.co/blog/fun-with-macoss-sip/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Minimal cross-platform graphics",
       "https://zserge.com/posts/fenster/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 16:59:04",
-      "https://lobste.rs/s/gdndoo/pure_java_typesetting_system"
-    ],
-    [
-      "Pure Java typesetting system",
-      "https://github.com/DaveJarvis/keentype"
     ]
   ],
   [
