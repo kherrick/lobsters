@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-01-24, 04:28:58",
+      "https://lobste.rs/s/uyoyss/reverse_engineering_conditional_jump"
+    ],
+    [
+      "Reverse-engineering the conditional jump circuitry in the 8086 processor",
+      "http://www.righto.com/2023/01/reverse-engineering-conditional-jump.html"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 03:13:08",
       "https://lobste.rs/s/x9ltvp/bitwarden_design_flaw_server_side"
     ],
@@ -237,16 +247,6 @@
     [
       "Git Commands You Probably Do Not Need",
       "https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-22, 22:53:04",
-      "https://lobste.rs/s/b8tqih/rust_on_mac_os_9"
-    ],
-    [
-      "Rust on Mac OS 9",
-      "https://twitter.com/turbolent/status/1617231570573873152"
     ]
   ]
 ]
