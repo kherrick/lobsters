@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 08:58:02",
+      "https://lobste.rs/s/tvy4z4/pattern_matching_interfaces_ruby"
+    ],
+    [
+      "Pattern Matching Interfaces in Ruby",
+      "https://dev.to/baweaver/pattern-matching-interfaces-in-ruby-1b15"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 08:26:40",
       "https://lobste.rs/s/0wudc2/bleach_6_0_0_release_deprecation"
     ],
@@ -47,16 +57,6 @@
     [
       "Bitwarden design flaw: Server side iterations",
       "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 03:04:53",
-      "https://lobste.rs/s/dixsgo/regarding_recent_reported_security"
-    ],
-    [
-      "Regarding recent reported security vulnerabilities from Cisco Talos",
-      "https://www.qt.io/blog/regarding-recent-reported-security-vulnerabilities-from-cisco-talos"
     ]
   ],
   [
