@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 19:19:12",
+      "https://lobste.rs/s/csm1jf/encrypting_data_browser_using_webauthn"
+    ],
+    [
+      "Encrypting Data in the Browser Using WebAuthn",
+      "https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 19:01:27",
       "https://lobste.rs/s/ifn6vn/agilean"
     ],
@@ -17,16 +27,6 @@
     [
       "Teardown Frame Teardown",
       "https://acko.net/blog/teardown-frame-teardown/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 18:32:00",
-      "https://lobste.rs/s/jjczzt/introducing_kdalgorithms"
-    ],
-    [
-      "Introducing kdalgorithms",
-      "https://www.kdab.com/introducing-kdalgorithms/"
     ]
   ],
   [
