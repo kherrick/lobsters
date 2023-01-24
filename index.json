@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 04:28:58",
+      "https://lobste.rs/s/uyoyss/reverse_engineering_conditional_jump"
+    ],
+    [
+      "Reverse-engineering the conditional jump circuitry in the 8086 processor",
+      "http://www.righto.com/2023/01/reverse-engineering-conditional-jump.html"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 03:13:08",
       "https://lobste.rs/s/x9ltvp/bitwarden_design_flaw_server_side"
     ],
@@ -197,16 +207,6 @@
     [
       "Sitting Ducks in object-oriented programming",
       "https://www.theabstraction.space/p/sitting-ducks-"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 12:06:12",
-      "https://lobste.rs/s/nsosna/gate_integration_tests_on_environment"
-    ],
-    [
-      "Gate Integration Tests on Environment Variables",
-      "https://www.stchris.net/gate-integration-tests.html"
     ]
   ],
   [
