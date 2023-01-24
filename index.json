@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-24, 13:07:02",
+      "https://lobste.rs/s/sighdg/jsx_is_quasi_quoting"
+    ],
+    [
+      "JSX is quasi-quoting",
+      "https://xeiaso.net/blog/jsx-quasi-quoting"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 13:06:25",
+      "https://lobste.rs/s/u2fln8/pkgconf_cve_2023_24056_disinformation"
+    ],
+    [
+      "pkgconf, CVE-2023-24056 and disinformation",
+      "https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 12:19:36",
       "https://lobste.rs/s/wyld9h/activation_context_cache_poisoning"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-01-24, 04:28:58",
-      "https://lobste.rs/s/uyoyss/reverse_engineering_conditional_jump"
-    ],
-    [
-      "Reverse-engineering the conditional jump circuitry in the 8086 processor",
-      "http://www.righto.com/2023/01/reverse-engineering-conditional-jump.html"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 03:13:08",
       "https://lobste.rs/s/x9ltvp/bitwarden_design_flaw_server_side"
     ],
@@ -127,16 +137,6 @@
     [
       "Minimal cross-platform graphics",
       "https://zserge.com/posts/fenster/"
-    ]
-  ],
-  [
-    [
-      "2023-01-23, 17:04:59",
-      "https://lobste.rs/s/qcujhx/sizing_up_neural_nets"
-    ],
-    [
-      "Sizing Up Neural Nets",
-      "https://jott.live/markdown/nn_sizing"
     ]
   ],
   [
