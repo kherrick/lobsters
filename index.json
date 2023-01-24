@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-24, 05:46:52",
+      "https://lobste.rs/s/oeipso/hyperscale_your_homelab_compute_blade"
+    ],
+    [
+      "Hyperscale in your Homelab: The Compute Blade arrives",
+      "https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 04:28:58",
       "https://lobste.rs/s/uyoyss/reverse_engineering_conditional_jump"
     ],
@@ -17,16 +27,6 @@
     [
       "Bitwarden design flaw: Server side iterations",
       "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 03:04:53",
-      "https://lobste.rs/s/dixsgo/regarding_recent_reported_security"
-    ],
-    [
-      "Regarding recent reported security vulnerabilities from Cisco Talos",
-      "https://www.qt.io/blog/regarding-recent-reported-security-vulnerabilities-from-cisco-talos"
     ]
   ],
   [
