@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-24, 14:47:37",
+      "https://lobste.rs/s/lhsleu/why_we_use_terraform_for_bigquery"
+    ],
+    [
+      "Why we use Terraform for BigQuery",
+      "https://dev.to/otainsight/why-we-use-terraform-for-bigquery-4f19"
+    ]
+  ],
+  [
+    [
+      "2023-01-24, 14:43:16",
+      "https://lobste.rs/s/etqfki/building_simple_db_rust_part_2_basic"
+    ],
+    [
+      "Building a Simple DB in Rust - Part 2 - Basic Execution",
+      "https://johns.codes/blog/build-a-db/part02"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 13:19:37",
       "https://lobste.rs/s/2dowiv/pentiment_font_design"
     ],
@@ -27,16 +47,6 @@
     [
       "pkgconf, CVE-2023-24056 and disinformation",
       "https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 12:19:36",
-      "https://lobste.rs/s/wyld9h/activation_context_cache_poisoning"
-    ],
-    [
-      "Activation Context Cache Poisoning: Exploiting CSRSS for Privilege Escalation",
-      "https://www.zerodayinitiative.com/blog/2023/1/23/activation-context-cache-poisoning-exploiting-csrss-for-privilege-escalation"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Bitwarden design flaw: Server side iterations",
       "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 03:01:33",
-      "https://lobste.rs/s/74i9bk/everything_you_need_know_about_std"
-    ],
-    [
-      "Everything You Need to Know About std::variant from C++17",
-      "https://www.cppstories.com/2018/06/variant/"
     ]
   ],
   [
