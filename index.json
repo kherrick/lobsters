@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-01-24, 18:55:38",
+      "https://lobste.rs/s/q2y5qh/teardown_frame_teardown"
+    ],
+    [
+      "Teardown Frame Teardown",
+      "https://acko.net/blog/teardown-frame-teardown/"
+    ]
+  ],
+  [
+    [
       "2023-01-24, 17:39:57",
       "https://lobste.rs/s/80lrr0/terramaster_f4_423_review_low_power_4_bay"
     ],
@@ -87,16 +97,6 @@
     [
       "Fun with macOS's SIP",
       "https://metalbear.co/blog/fun-with-macoss-sip/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 16:38:00",
-      "https://lobste.rs/s/bxort1/puzzling_postgres_story_solving"
-    ],
-    [
-      "Puzzling Postgres: a story of solving an unreproducible performance issue",
-      "https://medium.com/engineering-at-birdie/puzzling-postgres-a-story-of-solving-an-unreproducible-performance-issue-778075ed7998"
     ]
   ],
   [
