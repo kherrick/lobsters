@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-25, 17:21:32",
+      "https://lobste.rs/s/bqdna4/redisinsight_update_diagnostic"
+    ],
+    [
+      "RedisInsight Update: Diagnostic Features and Support for Search Capabilities",
+      "https://redis.com/blog/redisinsight-introduces-new-diagnostic-features-and-support-for-search-capabilities/"
+    ]
+  ],
+  [
+    [
+      "2023-01-25, 17:19:00",
+      "https://lobste.rs/s/buyrkp/you_can_stop_updating_copyright"
+    ],
+    [
+      "You Can Stop Updating Copyright Attribution Years",
+      "https://hynek.me/til/copyright-years/"
+    ]
+  ],
+  [
+    [
       "2023-01-25, 16:06:54",
       "https://lobste.rs/s/xqlzax/configuring_vscode_as_keyboard_centric"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-01-24, 18:55:38",
-      "https://lobste.rs/s/q2y5qh/teardown_frame_teardown"
-    ],
-    [
-      "Teardown Frame Teardown",
-      "https://acko.net/blog/teardown-frame-teardown/"
-    ]
-  ],
-  [
-    [
       "2023-01-24, 17:13:10",
       "https://lobste.rs/s/ajvprk/attempt_this_online"
     ],
@@ -227,16 +237,6 @@
     [
       "Hyperscale in your Homelab: The Compute Blade arrives",
       "https://www.jeffgeerling.com/blog/2023/hyperscale-your-homelab-compute-blade-arrives"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 03:13:08",
-      "https://lobste.rs/s/x9ltvp/bitwarden_design_flaw_server_side"
-    ],
-    [
-      "Bitwarden design flaw: Server side iterations",
-      "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/"
     ]
   ],
   [
