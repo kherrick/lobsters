@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 17:00:15",
+      "https://lobste.rs/s/vudqaw/github_propensive_fury_build_tool_for"
+    ],
+    [
+      "GitHub - propensive/fury: A build tool for Scala",
+      "https://github.com/propensive/fury"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 16:28:24",
       "https://lobste.rs/s/hy3j43/fun_with_gentoo_why_don_t_we_just_shuffle"
     ],
@@ -137,16 +147,6 @@
     [
       "I'm still bitter about Slammer",
       "https://blog.erratasec.com/2023/01/im-still-bitter-about-slammer.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 04:31:13",
-      "https://lobste.rs/s/tfoxdz/dead_man_s_switch_for_full_responsible"
-    ],
-    [
-      "A dead man's switch for full but responsible disclosure of vulnerabilities",
-      "https://github.com/drand/timevault"
     ]
   ],
   [
