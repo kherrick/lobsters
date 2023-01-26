@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 19:58:01",
+      "https://lobste.rs/s/tkplxs/too_many_words_about_rust_s_function"
+    ],
+    [
+      "Too many words about Rust's function syntax",
+      "https://steveklabnik.com/writing/too-many-words-about-rusts-function-syntax"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 19:02:12",
       "https://lobste.rs/s/pvwcvo/some_rust_breaking_changes_don_t_require"
     ],
@@ -177,16 +187,6 @@
     [
       "Convergence verification of the Collatz problem",
       "https://pcbarina.fit.vutbr.cz/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 23:56:52",
-      "https://lobste.rs/s/2kxpys/freebsd_status_report_fourth_quarter"
-    ],
-    [
-      "FreeBSD Status Report Fourth Quarter 2022",
-      "https://www.freebsd.org/status/report-2022-10-2022-12/"
     ]
   ],
   [
