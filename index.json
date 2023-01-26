@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-26, 06:06:36",
+      "https://lobste.rs/s/otlq7j/git_security_audit_inside_hunt_for"
+    ],
+    [
+      "Git security audit: Inside the hunt for - and discovery of - CVEs",
+      "https://about.gitlab.com/blog/2023/01/24/git-security-audit/"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 06:05:51",
+      "https://lobste.rs/s/pthdsd/sqlite_based_databases_on_postgres"
+    ],
+    [
+      "SQLite-based databases on the postgres protocol? Yes we can",
+      "https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 04:56:51",
       "https://lobste.rs/s/h7hp5n/production_postmortem_heisenbug_server"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-01-25, 12:51:06",
-      "https://lobste.rs/s/20jmac/when_wireless_malware_stays_on_after"
-    ],
-    [
-      "When Wireless Malware Stays on after Turning off the phone",
-      "https://recon.cx/media-archive/2022/Recon2022_22_When_Wireless_Malware_Stays_on_after_Turning_off_the_phone.mp4"
-    ]
-  ],
-  [
-    [
       "2023-01-25, 06:17:14",
       "https://lobste.rs/s/q2a1xu/on_algebraic_properties_flame_graphs"
     ],
     [
       "On the Algebraic Properties of Flame Graphs",
       "https://arxiv.org/abs/2301.08941"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 04:21:32",
-      "https://lobste.rs/s/txgfhr/how_xbox_360_knows_if_your_hard_drive_is"
-    ],
-    [
-      "How the Xbox 360 knows if your hard-drive is genuine",
-      "https://eaton-works.com/2023/01/24/how-the-xbox-360-knows-if-your-hard-drive-is-genuine/"
     ]
   ],
   [
