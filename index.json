@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 06:15:04",
+      "https://lobste.rs/s/ckbbgb/pair_programming_with_chatgpt_haskell"
+    ],
+    [
+      "Pair Programming with ChatGPT & Haskell",
+      "https://cdsmithus.medium.com/pair-programming-with-chatgpt-haskell-1c4490b71da6"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 06:06:36",
       "https://lobste.rs/s/otlq7j/git_security_audit_inside_hunt_for"
     ],
@@ -207,16 +217,6 @@
     [
       "Font regional variants are hard",
       "https://github.com/FrostKiwi/treasurechest#regional-variants"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 03:33:18",
-      "https://lobste.rs/s/2n0igf/making_passphrase_word_list_uniquely"
-    ],
-    [
-      "Making a passphrase word list uniquely decodable with minimal cuts (2022)",
-      "https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html"
     ]
   ],
   [
