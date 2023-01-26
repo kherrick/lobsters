@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 15:51:02",
+      "https://lobste.rs/s/pyrmyn/i_made_multi_language_programmable"
+    ],
+    [
+      "I made a multi-language programmable linter",
+      "https://github.com/sylver-dev/sylver-cli"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 15:46:26",
       "https://lobste.rs/s/qvk6dn/calling_ruby_methods_c_avoid_memory_leaks"
     ],
@@ -227,16 +237,6 @@
     [
       "IPinside: Korea’s mandatory spyware",
       "https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 03:50:14",
-      "https://lobste.rs/s/krune2/font_regional_variants_are_hard"
-    ],
-    [
-      "Font regional variants are hard",
-      "https://github.com/FrostKiwi/treasurechest#regional-variants"
     ]
   ],
   [
