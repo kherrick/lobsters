@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 04:56:51",
+      "https://lobste.rs/s/h7hp5n/production_postmortem_heisenbug_server"
+    ],
+    [
+      "Production postmortem: The heisenbug server",
+      "https://ayende.com/blog/198849-C/production-postmortem-the-heisenbug-server"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 04:49:38",
       "https://lobste.rs/s/dgade7/i_m_still_bitter_about_slammer"
     ],
@@ -237,16 +247,6 @@
     [
       "Fun with macOS's SIP",
       "https://metalbear.co/blog/fun-with-macoss-sip/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 13:07:02",
-      "https://lobste.rs/s/sighdg/jsx_is_quasi_quoting"
-    ],
-    [
-      "JSX is quasi-quoting",
-      "https://xeiaso.net/blog/jsx-quasi-quoting"
     ]
   ]
 ]
