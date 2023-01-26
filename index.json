@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-26, 21:43:22",
+      "https://lobste.rs/s/f4ihkz/breaking_bad_quantifying_addiction_web"
+    ],
+    [
+      "Breaking Bad: Quantifying the Addiction of Web Elements to JavaScript",
+      "https://arxiv.org/pdf/2301.10597"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 21:42:19",
+      "https://lobste.rs/s/jsoics/survey_digital_manufacturing_hardware"
+    ],
+    [
+      "A survey of Digital Manufacturing Hardware and Software Trojans",
+      "https://arxiv.org/pdf/2301.10336.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 21:11:39",
       "https://lobste.rs/s/mbchar/post_email_supporting_contact_forms_for"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-01-26, 15:46:26",
-      "https://lobste.rs/s/qvk6dn/calling_ruby_methods_c_avoid_memory_leaks"
-    ],
-    [
-      "Calling Ruby Methods in C: Avoid Memory Leaks",
-      "https://blog.appsignal.com/2023/01/25/calling-ruby-methods-in-c-avoid-memory-leaks.html"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 14:43:58",
       "https://lobste.rs/s/jegtpx/what_time_is_it_on_moon"
     ],
@@ -137,16 +147,6 @@
     [
       "Using {Blocks} in Rust & Go for Fun & Profit",
       "https://taylor.town/code-blocks"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 09:16:39",
-      "https://lobste.rs/s/mnxx7w/setting_up_for_x_windows_development_on"
-    ],
-    [
-      "Setting up for X-Windows Development on MacOS",
-      "https://decuser.github.io/operating-systems/mojave/x-windows/2023/01/24/x-windows-dev-on-mac.html"
     ]
   ],
   [
