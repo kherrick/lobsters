@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 19:02:12",
+      "https://lobste.rs/s/pvwcvo/some_rust_breaking_changes_don_t_require"
+    ],
+    [
+      "Some Rust breaking changes don't require a major version",
+      "https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 18:20:34",
       "https://lobste.rs/s/ejm3wl/librandombytes_api_for_applications"
     ],
@@ -147,16 +157,6 @@
     [
       "SQLite-based databases on the postgres protocol? Yes we can",
       "https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 04:56:51",
-      "https://lobste.rs/s/h7hp5n/production_postmortem_heisenbug_server"
-    ],
-    [
-      "Production postmortem: The heisenbug server",
-      "https://ayende.com/blog/198849-C/production-postmortem-the-heisenbug-server"
     ]
   ],
   [
