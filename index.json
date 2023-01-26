@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-26, 04:12:55",
+      "https://lobste.rs/s/2dwnx4/convergence_verification_collatz"
+    ],
+    [
+      "Convergence verification of the Collatz problem",
+      "https://pcbarina.fit.vutbr.cz/"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 02:53:56",
       "https://lobste.rs/s/wz3rot/postgres_without_superuser_coming_v16"
     ],
@@ -237,16 +247,6 @@
     [
       "pkgconf, CVE-2023-24056 and disinformation",
       "https://ariadne.space/2023/01/24/pkgconf-cve-2023-24056-and-disinformation/"
-    ]
-  ],
-  [
-    [
-      "2023-01-24, 11:37:50",
-      "https://lobste.rs/s/vg1pp2/i_don_t_know_what_write_on_my_blog_developer"
-    ],
-    [
-      "I don't know what to write on my blog - developer",
-      "https://fromdevtodev.com/what-to-blog-developer"
     ]
   ]
 ]
