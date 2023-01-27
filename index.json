@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-27, 16:02:43",
+      "https://lobste.rs/s/qqejnl/statistical_analysis_detect_uncommon"
+    ],
+    [
+      "Statistical Analysis to Detect Uncommon Code",
+      "https://synthesis.to/2023/01/26/uncommon_instruction_sequences.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 15:58:50",
+      "https://lobste.rs/s/zhu89e/requiem_for_string_charting_rise_fall"
+    ],
+    [
+      "Requiem for a string: Charting the rise and fall of a theory of everything",
+      "https://arstechnica.com/science/2023/01/requiem-for-a-string-charting-the-rise-and-fall-of-a-theory-of-everything/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 15:29:21",
       "https://lobste.rs/s/vtm27g/high_variance_management"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-01-26, 23:40:39",
-      "https://lobste.rs/s/jftqeg/user_s_guide_zairja_world"
-    ],
-    [
-      "A user's guide to the zairja of the world",
-      "https://samkriss.substack.com/p/a-users-guide-to-the-zairja-of-the"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 23:00:03",
       "https://lobste.rs/s/msupzv/ve_text_editor_for_dos_linux_mac_os_x_ppc"
     ],
@@ -207,16 +217,6 @@
     [
       "Some Rust breaking changes don't require a major version",
       "https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 16:28:24",
-      "https://lobste.rs/s/hy3j43/fun_with_gentoo_why_don_t_we_just_shuffle"
-    ],
-    [
-      "Fun with Gentoo: Why don't we just shuffle those ROP gadgets away?",
-      "https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets"
     ]
   ],
   [
