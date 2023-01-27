@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 03:00:57",
+      "https://lobste.rs/s/acuz31/cve_2023_23504_xnu_heap_underwrite_dlil_c"
+    ],
+    [
+      "CVE-2023-23504: XNU Heap Underwrite in dlil.c",
+      "https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 01:23:29",
       "https://lobste.rs/s/k9knr3/all_you_need_is_higher_kinded_types"
     ],
@@ -237,16 +247,6 @@
     [
       "You Can Stop Updating Copyright Attribution Years",
       "https://hynek.me/til/copyright-years/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 16:06:54",
-      "https://lobste.rs/s/xqlzax/configuring_vscode_as_keyboard_centric"
-    ],
-    [
-      "Configuring VSCode as a Keyboard-Centric IDE",
-      "https://davi.sh/blog/2023/01/vscode-like-emacs/"
     ]
   ]
 ]
