@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 21:45:11",
+      "https://lobste.rs/s/txbtbu/this_gem_is_mentionable"
+    ],
+    [
+      "This Gem is Mentionable",
+      "https://calebhearth.com/l/this-gem-is-mentionable"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 20:48:03",
       "https://lobste.rs/s/dfet4a/problems_typing_equality_ruby"
     ],
@@ -117,16 +127,6 @@
     [
       "Erlang's not about lightweight processes and message passing",
       "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 13:05:59",
-      "https://lobste.rs/s/ptkkyj/gradual_soundness_lessons_from_static"
-    ],
-    [
-      "Gradual Soundness: Lessons from Static Python",
-      "https://programming-journal.org/2023/7/2/"
     ]
   ],
   [
