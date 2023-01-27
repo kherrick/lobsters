@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 20:48:03",
+      "https://lobste.rs/s/dfet4a/problems_typing_equality_ruby"
+    ],
+    [
+      "Problems typing equality in Ruby",
+      "https://blog.jez.io/problems-typing-ruby-equality/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 20:22:25",
       "https://lobste.rs/s/doaopo/elite_for_emacs"
     ],
@@ -187,16 +197,6 @@
     [
       "SQLAlchemy 2.0 released",
       "https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 21:11:39",
-      "https://lobste.rs/s/mbchar/post_email_supporting_contact_forms_for"
-    ],
-    [
-      "Post to email: supporting contact forms for static websites",
-      "https://github.com/matthiasmullie/post-to-email"
     ]
   ],
   [
