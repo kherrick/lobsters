@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-01-27, 04:05:54",
-      "https://lobste.rs/s/xavaff/designing_6809_sbc"
-    ],
-    [
-      "Designing a 6809 SBC",
-      "https://jbevren.wordpress.com/2018/09/22/designing-a-6809-sbc/"
-    ]
-  ],
-  [
-    [
       "2023-01-27, 03:31:05",
       "https://lobste.rs/s/jomka2/announcing_rust_1_67_0"
     ],
@@ -47,6 +37,16 @@
     [
       "The Galaga no-fire-cheat mystery (2012)",
       "https://jasoneckert.github.io/myblog/the-galaga-no-fire-cheat-mystery/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 03:00:57",
+      "https://lobste.rs/s/acuz31/cve_2023_23504_xnu_heap_underwrite_dlil_c"
+    ],
+    [
+      "CVE-2023-23504: XNU Heap Underwrite in dlil.c",
+      "https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Trellix patches 61,000 vulnerable open-source projects",
       "https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-patches-vulnerable-open-source-projects.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-26, 23:00:03",
+      "https://lobste.rs/s/msupzv/ve_text_editor_for_dos_linux_mac_os_x_ppc"
+    ],
+    [
+      "VE Text Editor for DOS, Linux, Mac OS X/ppc",
+      "http://www.inverary.net/ve/ve.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Convergence verification of the Collatz problem",
       "https://pcbarina.fit.vutbr.cz/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 20:22:44",
-      "https://lobste.rs/s/4ysmkg/do_not_taunt_happy_fun_branch_predictor"
-    ],
-    [
-      "Do Not Taunt Happy Fun Branch Predictor",
-      "https://www.mattkeeter.com/blog/2023-01-25-branch/"
     ]
   ],
   [
