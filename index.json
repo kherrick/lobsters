@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-01-27, 01:23:29",
+      "https://lobste.rs/s/k9knr3/all_you_need_is_higher_kinded_types"
+    ],
+    [
+      "All you need is higher kinded types",
+      "https://las.rs/blog/all-you-need-is-hkt-s.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 01:23:16",
+      "https://lobste.rs/s/y5cqa4/announcing_typescript_5_0_beta"
+    ],
+    [
+      "Announcing TypeScript 5.0 Beta",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 00:09:06",
+      "https://lobste.rs/s/24cb5e/sqlalchemy_2_0_released"
+    ],
+    [
+      "SQLAlchemy 2.0 released",
+      "https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 00:04:57",
+      "https://lobste.rs/s/mhnhtm/how_cpu_works_bare_metal_c_on_risc_v_toy_cpu"
+    ],
+    [
+      "How a CPU works: Bare metal C on a RISC-V toy CPU",
+      "https://florian.noeding.com/posts/risc-v-toy-cpu/cpu-from-scratch/"
+    ]
+  ],
+  [
+    [
       "2023-01-26, 23:40:39",
       "https://lobste.rs/s/jftqeg/user_s_guide_zairja_world"
     ],
@@ -17,16 +57,6 @@
     [
       "Trellix patches 61,000 vulnerable open-source projects",
       "https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-patches-vulnerable-open-source-projects.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 23:00:03",
-      "https://lobste.rs/s/msupzv/ve_text_editor_for_dos_linux_mac_os_x_ppc"
-    ],
-    [
-      "VE Text Editor for DOS, Linux, Mac OS X/ppc",
-      "http://www.inverary.net/ve/ve.html"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Some Rust breaking changes don't require a major version",
       "https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 17:57:28",
-      "https://lobste.rs/s/uusbha/reverse_engineering_intel_8086"
-    ],
-    [
-      "Reverse-engineering the Intel 8086 processor's HALT circuits",
-      "https://www.righto.com/2023/01/reverse-engineering-intel-8086.html"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-01-26, 04:49:38",
-      "https://lobste.rs/s/dgade7/i_m_still_bitter_about_slammer"
-    ],
-    [
-      "I'm still bitter about Slammer",
-      "https://blog.erratasec.com/2023/01/im-still-bitter-about-slammer.html"
-    ]
-  ],
-  [
-    [
       "2023-01-26, 04:12:55",
       "https://lobste.rs/s/2dwnx4/convergence_verification_collatz"
     ],
     [
       "Convergence verification of the Collatz problem",
       "https://pcbarina.fit.vutbr.cz/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 23:30:20",
-      "https://lobste.rs/s/h1jkds/homeworld_1_browser"
-    ],
-    [
-      "Homeworld 1 in the browser",
-      "https://gardensofkadesh.github.io/"
     ]
   ],
   [
