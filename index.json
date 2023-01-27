@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 11:16:52",
+      "https://lobste.rs/s/tjqkxm/performance_nist_drbgs"
+    ],
+    [
+      "Performance of NIST DRBGs",
+      "https://buttondown.email/illuminatedsecurity/archive/performance-of-nist-drbgs/"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 10:36:15",
       "https://lobste.rs/s/qt7r85/what_s_message_9_minutes"
     ],
@@ -237,16 +247,6 @@
     [
       "Distinguishing an Interpreter from a Compiler",
       "https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 04:12:55",
-      "https://lobste.rs/s/2dwnx4/convergence_verification_collatz"
-    ],
-    [
-      "Convergence verification of the Collatz problem",
-      "https://pcbarina.fit.vutbr.cz/"
     ]
   ]
 ]
