@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-01-27, 11:16:52",
-      "https://lobste.rs/s/tjqkxm/performance_nist_drbgs"
+      "2023-01-27, 12:52:51",
+      "https://lobste.rs/s/qhi4bi/why_are_passwords_users_problem"
     ],
     [
-      "Performance of NIST DRBGs",
-      "https://buttondown.email/illuminatedsecurity/archive/performance-of-nist-drbgs/"
+      "Why are passwords a users problem?",
+      "https://matduggan.com/why-are-passwords-a-users-problem/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 12:33:30",
+      "https://lobste.rs/s/zce7ad/emmy_is_implementation_scmutils_system"
+    ],
+    [
+      "Emmy is an implementation of the scmutils system for math and physics investigations in the Clojure",
+      "https://github.com/mentat-collective/emmy"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "What's in a Message? (9 minutes)",
       "https://www.youtube.com/watch?v=upGZMJBh81A&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc&index=2"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 09:55:11",
-      "https://lobste.rs/s/mwsimk/optimising_sdi_crc"
-    ],
-    [
-      "Optimising SDI CRC",
-      "http://www.corsix.org/content/optimising-sdi-crc"
     ]
   ],
   [
