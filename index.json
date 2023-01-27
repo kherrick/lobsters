@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-27, 16:22:22",
+      "https://lobste.rs/s/6few0w/darklang_release_9"
+    ],
+    [
+      "Darklang Release 9",
+      "https://blog.darklang.com/darklang-release-9/"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 16:21:23",
+      "https://lobste.rs/s/ecvqqy/github_leptos_rs_leptos_build_fast_web"
+    ],
+    [
+      "GitHub - leptos-rs/leptos: Build fast web applications with Rust",
+      "https://github.com/leptos-rs/leptos"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 16:02:43",
       "https://lobste.rs/s/qqejnl/statistical_analysis_detect_uncommon"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-01-27, 14:17:42",
-      "https://lobste.rs/s/qrphyx/chromium_broke_network_drives_access"
-    ],
-    [
-      "Chromium broke network drives access with the File System Access API",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=1408321"
-    ]
-  ],
-  [
-    [
       "2023-01-27, 14:08:52",
       "https://lobste.rs/s/7dguth/erlang_s_not_about_lightweight_processes"
     ],
@@ -67,16 +77,6 @@
     [
       "Gradual Soundness: Lessons from Static Python",
       "https://programming-journal.org/2023/7/2/"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 10:36:15",
-      "https://lobste.rs/s/qt7r85/what_s_message_9_minutes"
-    ],
-    [
-      "What's in a Message? (9 minutes)",
-      "https://www.youtube.com/watch?v=upGZMJBh81A&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc&index=2"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-01-26, 23:00:03",
-      "https://lobste.rs/s/msupzv/ve_text_editor_for_dos_linux_mac_os_x_ppc"
+      "2023-01-26, 23:40:39",
+      "https://lobste.rs/s/jftqeg/user_s_guide_zairja_world"
     ],
     [
-      "VE Text Editor for DOS, Linux, Mac OS X/ppc",
-      "http://www.inverary.net/ve/ve.html"
+      "A user's guide to the zairja of the world",
+      "https://samkriss.substack.com/p/a-users-guide-to-the-zairja-of-the"
     ]
   ],
   [
