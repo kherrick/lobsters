@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-27, 08:13:24",
+      "https://lobste.rs/s/topzd6/hardest_scaling_issue"
+    ],
+    [
+      "The hardest scaling issue",
+      "https://blog.codeberg.org/the-hardest-scaling-issue.html"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 07:58:01",
       "https://lobste.rs/s/ijp91w/keynote_android_open_source_project_risc"
     ],
@@ -237,16 +247,6 @@
     [
       "Convergence verification of the Collatz problem",
       "https://pcbarina.fit.vutbr.cz/"
-    ]
-  ],
-  [
-    [
-      "2023-01-25, 17:19:00",
-      "https://lobste.rs/s/buyrkp/you_can_stop_updating_copyright"
-    ],
-    [
-      "You Can Stop Updating Copyright Attribution Years",
-      "https://hynek.me/til/copyright-years/"
     ]
   ]
 ]
