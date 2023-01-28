@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-01-27, 16:56:49",
+      "https://lobste.rs/s/whik5b/use_dialog_element_reasonably"
+    ],
+    [
+      "Use the dialog element (reasonably)",
+      "https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 16:22:22",
       "https://lobste.rs/s/6few0w/darklang_release_9"
     ],
@@ -137,16 +147,6 @@
     [
       "Erlang's not about lightweight processes and message passing",
       "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 08:13:24",
-      "https://lobste.rs/s/topzd6/hardest_scaling_issue"
-    ],
-    [
-      "The hardest scaling issue",
-      "https://blog.codeberg.org/the-hardest-scaling-issue.html"
     ]
   ],
   [
