@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-01-27, 22:31:48",
+      "https://lobste.rs/s/ailmsn/forking_chrome_render_terminal"
+    ],
+    [
+      "Forking Chrome to render in a terminal",
+      "https://fathy.fr/carbonyl"
+    ]
+  ],
+  [
+    [
       "2023-01-27, 22:19:48",
       "https://lobste.rs/s/ox9je5/using_tracing_with_rust_cli_applications"
     ],
@@ -237,16 +247,6 @@
     [
       "I made a multi-language programmable linter",
       "https://github.com/sylver-dev/sylver-cli"
-    ]
-  ],
-  [
-    [
-      "2023-01-26, 12:18:51",
-      "https://lobste.rs/s/r1ozz9/distinguishing_interpreter_from"
-    ],
-    [
-      "Distinguishing an Interpreter from a Compiler",
-      "https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html"
     ]
   ]
 ]
