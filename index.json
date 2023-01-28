@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-28, 14:00:04",
+      "https://lobste.rs/s/jctau3/delivering_value_with_platform"
+    ],
+    [
+      "Delivering Value with Platform Engineering",
+      "https://www.maxcountryman.com/articles/delivering-value-with-platform-engineering"
+    ]
+  ],
+  [
+    [
       "2023-01-28, 08:40:30",
       "https://lobste.rs/s/j3ekg7/announcing_dear_imgui_bundle"
     ],
@@ -207,16 +217,6 @@
     [
       "Announcing Rust 1.67.0",
       "https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 01:23:16",
-      "https://lobste.rs/s/y5cqa4/announcing_typescript_5_0_beta"
-    ],
-    [
-      "Announcing TypeScript 5.0 Beta",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0-beta/"
     ]
   ],
   [
