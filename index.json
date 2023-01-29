@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-29, 18:09:41",
+      "https://lobste.rs/s/b7utta/snowflakes_snow_crystals_other_ice"
+    ],
+    [
+      "Snowflakes, snow crystals, and other ice phenomena",
+      "http://snowcrystals.com/"
+    ]
+  ],
+  [
+    [
+      "2023-01-29, 18:09:11",
+      "https://lobste.rs/s/6iccdu/here_be_four_bits_dragons_mattel_d_d"
+    ],
+    [
+      "Here be four bits of dragons: the Mattel D&D Labyrinth Game and the TMS1100",
+      "https://oldvcr.blogspot.com/2023/01/here-be-four-bits-of-dragons-mattel.html"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 17:12:54",
       "https://lobste.rs/s/avyodp/guidelines_for_writing_useful_libraries"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-01-27, 20:48:03",
-      "https://lobste.rs/s/dfet4a/problems_typing_equality_ruby"
-    ],
-    [
-      "Problems typing equality in Ruby",
-      "https://blog.jez.io/problems-typing-ruby-equality/"
-    ]
-  ],
-  [
-    [
       "2023-01-27, 20:22:25",
       "https://lobste.rs/s/doaopo/elite_for_emacs_2015"
     ],
@@ -217,16 +227,6 @@
     [
       "Natural language is the lazy user interface",
       "https://austinhenley.com/blog/naturallanguageui.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 17:56:29",
-      "https://lobste.rs/s/8fbsxz/using_sourcegraph_discover_non_npm_js"
-    ],
-    [
-      "Using Sourcegraph to discover non-NPM JS projects",
-      "https://www.stackaid.us/blog/using-sourcegraph-to-discovery-non-npm-js-projects"
     ]
   ],
   [
