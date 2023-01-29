@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-01-27, 22:19:48",
-      "https://lobste.rs/s/ox9je5/using_tracing_with_rust_cli_applications"
-    ],
-    [
-      "Using `tracing` with Rust CLI applications",
-      "https://blog.waleedkhan.name/tracing-rust-cli-apps/"
-    ]
-  ],
-  [
-    [
       "2023-01-27, 21:45:11",
       "https://lobste.rs/s/txbtbu/this_gem_is_mentionable"
     ],
@@ -207,6 +197,16 @@
     [
       "Natural language is the lazy user interface",
       "https://austinhenley.com/blog/naturallanguageui.html"
+    ]
+  ],
+  [
+    [
+      "2023-01-27, 19:58:10",
+      "https://lobste.rs/s/htzmlg/documenting_reverse_engineering"
+    ],
+    [
+      "Documenting reverse engineering of the original Lytro lightfield camera",
+      "https://github.com/ea/lytro_unlock"
     ]
   ],
   [
