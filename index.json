@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 20:38:33",
+      "https://lobste.rs/s/tq51hk/roapi_0_9_release_adds_support_for_all"
+    ],
+    [
+      "Roapi 0.9 release adds support for all cloud storage providers",
+      "https://github.com/roapi/roapi/releases/tag/roapi-v0.9.0"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 20:33:52",
       "https://lobste.rs/s/gnlely/implementation_solaris_doors_api_for"
     ],
@@ -147,16 +157,6 @@
     [
       "What's new in Wine 8.0",
       "https://www.winehq.org/announce/8.0"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 15:16:21",
-      "https://lobste.rs/s/f39o32/re_frame_database_best_practices_code"
-    ],
-    [
-      "Re-frame Database Best Practices + Code Examples",
-      "https://ericnormand.me/guide/database-structure-in-re-frame"
     ]
   ],
   [
