@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 08:40:54",
+      "https://lobste.rs/s/rwmujs/how_lose_functional_programming_at_work"
+    ],
+    [
+      "How To Lose Functional Programming At Work",
+      "https://robertwpearce.com/how-to-lose-functional-programming-at-work.html"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 07:31:13",
       "https://lobste.rs/s/rz5wcp/how_austral_s_linear_type_checker_works"
     ],
@@ -197,16 +207,6 @@
     [
       "Natural language is the lazy user interface",
       "https://austinhenley.com/blog/naturallanguageui.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 19:58:10",
-      "https://lobste.rs/s/htzmlg/documenting_reverse_engineering"
-    ],
-    [
-      "Documenting reverse engineering of the original Lytro lightfield camera",
-      "https://github.com/ea/lytro_unlock"
     ]
   ],
   [
