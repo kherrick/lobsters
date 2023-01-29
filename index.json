@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 19:23:36",
+      "https://lobste.rs/s/dxs5ur/xonly_status"
+    ],
+    [
+      "xonly status",
+      "https://marc.info/?l=openbsd-tech&m=167501519712725&w=2"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 18:58:25",
       "https://lobste.rs/s/zvpabd/intercepting_t_co_links_using_dns"
     ],
@@ -237,16 +247,6 @@
     [
       "Erlang's not about lightweight processes and message passing",
       "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 04:56:43",
-      "https://lobste.rs/s/v8edeu/cyber_is_new_language_for_fast_efficient"
-    ],
-    [
-      "Cyber is a new language for fast, efficient, and concurrent scripting",
-      "https://cyberscript.dev/"
     ]
   ]
 ]
