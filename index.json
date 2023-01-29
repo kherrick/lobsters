@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 20:33:52",
+      "https://lobste.rs/s/gnlely/implementation_solaris_doors_api_for"
+    ],
+    [
+      "An Implementation of the Solaris Doors API for Linux (1998)",
+      "http://www.rampant.org/doors/linux-doors.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 19:23:36",
       "https://lobste.rs/s/dxs5ur/xonly_status"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust's Ugly Syntax",
       "https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-28, 01:22:30",
-      "https://lobste.rs/s/ihjqfz/exceedingly_cute_protocol_for_biased"
-    ],
-    [
-      "An exceedingly cute protocol for biased locking with transactions",
-      "https://outerproduct.net/boring/2023-01-27_trans-locks.html"
     ]
   ],
   [
