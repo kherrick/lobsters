@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-29, 16:32:59",
+      "https://lobste.rs/s/kxquii/if_you_have_devops_culture_you_should"
+    ],
+    [
+      "If you have a DevOps culture, you should strongly consider implementing Terraform",
+      "https://www.aviator.co/blog/getting-started-with-terraform-in-devops/"
+    ]
+  ],
+  [
+    [
       "2023-01-29, 12:50:54",
       "https://lobste.rs/s/vmmsxp/elektrocas_hh3_most_accurate_pendulum"
     ],
@@ -207,16 +217,6 @@
     [
       "Natural language is the lazy user interface",
       "https://austinhenley.com/blog/naturallanguageui.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-27, 19:58:10",
-      "https://lobste.rs/s/htzmlg/documenting_reverse_engineering"
-    ],
-    [
-      "Documenting reverse engineering of the original Lytro lightfield camera",
-      "https://github.com/ea/lytro_unlock"
     ]
   ],
   [
