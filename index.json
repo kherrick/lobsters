@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-30, 19:21:52",
+      "https://lobste.rs/s/nuihu2/it_s_not_you_it_s_sql"
+    ],
+    [
+      "It's not you, it's SQL",
+      "https://stack.convex.dev/not-sql"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 19:00:56",
       "https://lobste.rs/s/epq3we/working_with_effect_handlers"
     ],
@@ -117,16 +127,6 @@
     [
       "All about UndefinedBehaviorSanitizer",
       "https://maskray.me/blog/2023-01-29-all-about-undefined-behavior-sanitizer"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 04:00:32",
-      "https://lobste.rs/s/imrxaw/relational_floating_point_arithmetic"
-    ],
-    [
-      "Relational Floating-Point Arithmetic",
-      "https://www.cs.toronto.edu/~lczhang/sandre_float2021.pdf"
     ]
   ],
   [
