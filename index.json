@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-01-30, 04:48:11",
-      "https://lobste.rs/s/xykzhk/why_your_f_evangelism_isn_t_working_2015"
-    ],
-    [
-      "Why your F# evangelism isn't working (2015)",
-      "https://ericsink.com/entries/fsharp_chasm.html"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 04:00:32",
       "https://lobste.rs/s/imrxaw/relational_floating_point_arithmetic"
     ],
@@ -75,7 +65,7 @@
       "https://lobste.rs/s/fz36cj/will_wright_on_designing_user_interfaces"
     ],
     [
-      "Will Wright on Designing User Interfaces to Simulation Games (1996) [video]",
+      "Will Wright on Designing User Interfaces to Simulation Games (1996)",
       "https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "Code! .. Draw! .. Stitch!  / TurtleStitch - Coded Embroidery",
       "https://turtlestitch.org"
+    ]
+  ],
+  [
+    [
+      "2023-01-29, 22:44:25",
+      "https://lobste.rs/s/vzgkb2/build_your_own_redis_book_is_completed"
+    ],
+    [
+      "The “Build Your Own Redis” Book is Completed | Blog",
+      "https://build-your-own.org/blog/20230127_byor/"
     ]
   ],
   [
