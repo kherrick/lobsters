@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-30, 14:31:39",
+      "https://lobste.rs/s/hjlmhc/cpu_architectural_question_what_is"
+    ],
+    [
+      "The CPU architectural question of what is a (reserved) NOP",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/WhatIsAModernNOP"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 12:01:58",
       "https://lobste.rs/s/lswhfu/software_its_discontents_part_1"
     ],
@@ -167,16 +177,6 @@
     [
       "How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)",
       "https://faultlore.com/blah/swift-abi/"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 20:38:33",
-      "https://lobste.rs/s/tq51hk/roapi_0_9_release_adds_support_for_all"
-    ],
-    [
-      "Roapi 0.9 release adds support for all cloud storage providers",
-      "https://github.com/roapi/roapi/releases/tag/roapi-v0.9.0"
     ]
   ],
   [
