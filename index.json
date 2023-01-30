@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-30, 16:46:38",
+      "https://lobste.rs/s/wzechh/discerning_dominant_out_order"
+    ],
+    [
+      "Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism? (2013)",
+      "https://zilles.cs.illinois.edu/papers/mcfarlin_asplos_2013.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 16:27:09",
       "https://lobste.rs/s/fv0a8b/how_monitor_alert_on_nginx_ingress"
     ],
@@ -187,16 +197,6 @@
     [
       "How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)",
       "https://faultlore.com/blah/swift-abi/"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 20:33:52",
-      "https://lobste.rs/s/gnlely/implementation_solaris_doors_api_for"
-    ],
-    [
-      "An Implementation of the Solaris Doors API for Linux (1998)",
-      "http://www.rampant.org/doors/linux-doors.pdf"
     ]
   ],
   [
