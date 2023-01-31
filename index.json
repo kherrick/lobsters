@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 04:22:05",
+      "https://lobste.rs/s/bnptkn/gracy_handle_failures_logging_retries"
+    ],
+    [
+      "gracy: handle failures, logging, retries, throttling, and tracking for all your HTTP interactions",
+      "https://github.com/guilatrova/gracy"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 04:02:00",
       "https://lobste.rs/s/lukmvi/capability_safety_i_prelude"
     ],
@@ -47,16 +57,6 @@
     [
       "Fish shell to be rewritten in Rust",
       "https://github.com/fish-shell/fish-shell/pull/9512"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 00:09:35",
-      "https://lobste.rs/s/egt4we/google_play_developer_antitrust"
-    ],
-    [
-      "Google Play Developer Antitrust Litigation",
-      "https://www.googleplaydevelopersettlement.com/"
     ]
   ],
   [
