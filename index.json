@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-01-30, 19:21:52",
-      "https://lobste.rs/s/nuihu2/it_s_not_you_it_s_sql"
-    ],
-    [
-      "It's not you, it's SQL",
-      "https://stack.convex.dev/not-sql"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 19:00:56",
       "https://lobste.rs/s/epq3we/working_with_effect_handlers"
     ],
@@ -237,6 +227,16 @@
     [
       "Prompt Engineering Shouldn't Exist",
       "https://matt-rickard.com/prompt-engineering-shouldnt-exist"
+    ]
+  ],
+  [
+    [
+      "2023-01-29, 21:57:56",
+      "https://lobste.rs/s/8z9rct/keenwrite_3_2_0"
+    ],
+    [
+      "KeenWrite 3.2.0",
+      "https://github.com/DaveJarvis/keenwrite/releases/tag/3.2.0"
     ]
   ],
   [
