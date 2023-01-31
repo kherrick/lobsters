@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 07:45:27",
+      "https://lobste.rs/s/f0jyxv/understanding_x86_s_decimal_adjust_after"
+    ],
+    [
+      "Understanding the x86's Decimal Adjust after Addition (DAA) instruction",
+      "https://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 07:25:47",
       "https://lobste.rs/s/vltrvj/tigris_rfc_building_secondary_indexes_on"
     ],
@@ -177,16 +187,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/scmax7/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 07:52:18",
-      "https://lobste.rs/s/axl9vh/diagram_layout_engines_minimizing"
-    ],
-    [
-      "Diagram layout engines: Minimizing hierarchical edge crossings",
-      "https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/"
     ]
   ],
   [
