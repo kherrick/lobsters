@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 23:27:32",
+      "https://lobste.rs/s/ngtfuq/aws_announces_credential_guard_support"
+    ],
+    [
+      "AWS announces Credential Guard support for Windows instances on Amazon EC2",
+      "https://aws.amazon.com/about-aws/whats-new/2023/01/aws-credential-guard-windows-instances-amazon-ec2/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 23:20:48",
       "https://lobste.rs/s/tdjc2p/amiga_c_c_compile_debug_profile_for_visual"
     ],
@@ -117,16 +127,6 @@
     [
       "Type Inference",
       "https://veera.app/type_inference.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 15:09:07",
-      "https://lobste.rs/s/ngq9xx/what_losing_everything_taught_me_about"
-    ],
-    [
-      "What Losing Everything Taught Me About Backing Up",
-      "https://hackaday.com/2023/01/30/what-losing-everything-taught-me-about-backing-up/"
     ]
   ],
   [
