@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-31, 15:53:15",
+      "https://lobste.rs/s/aiizbh/various_ways_sending_mail_via_smtp"
+    ],
+    [
+      "Various Ways of Sending Mail via SMTP",
+      "https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 15:48:23",
+      "https://lobste.rs/s/jtlukj/type_inference"
+    ],
+    [
+      "Type Inference",
+      "https://veera.app/type_inference.html"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 15:09:07",
       "https://lobste.rs/s/ngq9xx/what_losing_everything_taught_me_about"
     ],
@@ -57,16 +77,6 @@
     [
       "Internode Cache Thrashing: Hunting a NUMA Performance Bug",
       "https://thenewstack.io/internode-cache-thrashing-hunting-a-numa-performance-bug/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 10:09:37",
-      "https://lobste.rs/s/ulzt2t/suggestions_for_all_nothing_transform"
-    ],
-    [
-      "Suggestions for all-or-nothing transform with stream ciphers",
-      "https://lobste.rs/s/ulzt2t/suggestions_for_all_nothing_transform"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "terraform-nixos-ng: Modern terraform support for NixOS",
       "https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 10:48:58",
-      "https://lobste.rs/s/scmax7/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/scmax7/what_are_you_doing_this_week"
     ]
   ],
   [
