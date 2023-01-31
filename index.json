@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-01-31, 02:18:37",
+      "https://lobste.rs/s/im6m6z/commodore_64_kernal_api_reference"
+    ],
+    [
+      "Commodore 64 KERNAL API Reference",
+      "https://www.pagetable.com/c64ref/kernal/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 01:45:05",
+      "https://lobste.rs/s/nzqh0a/think_seriously_about_safety_then_do"
+    ],
+    [
+      "Think seriously about “safety”; then do something sensible about it",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 00:15:27",
       "https://lobste.rs/s/upxvjj/abusing_exceptions_for_code_execution"
     ],
@@ -217,26 +237,6 @@
     [
       "Prompt Engineering Shouldn't Exist",
       "https://matt-rickard.com/prompt-engineering-shouldnt-exist"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 21:57:56",
-      "https://lobste.rs/s/8z9rct/keenwrite_3_2_0"
-    ],
-    [
-      "KeenWrite 3.2.0",
-      "https://github.com/DaveJarvis/keenwrite/releases/tag/3.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 21:39:16",
-      "https://lobste.rs/s/88rsuc/how_swift_achieved_dynamic_linking_where"
-    ],
-    [
-      "How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)",
-      "https://faultlore.com/blah/swift-abi/"
     ]
   ],
   [
