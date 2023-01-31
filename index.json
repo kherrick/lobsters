@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 07:25:47",
+      "https://lobste.rs/s/vltrvj/tigris_rfc_building_secondary_indexes_on"
+    ],
+    [
+      "Tigris RFC – building secondary indexes on FoundationDB",
+      "https://github.com/tigrisdata/tigris/blob/main/docs/rfcs/001-secondary-indexes.md"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 04:22:05",
       "https://lobste.rs/s/bnptkn/gracy_handle_failures_logging_retries"
     ],
@@ -37,16 +47,6 @@
     [
       "Think seriously about “safety”; then do something sensible about it",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2739r0.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 00:15:27",
-      "https://lobste.rs/s/upxvjj/abusing_exceptions_for_code_execution"
-    ],
-    [
-      "Abusing Exceptions for Code Execution, Part 2",
-      "https://billdemirkapi.me/abusing-exceptions-for-code-execution-part-2/"
     ]
   ],
   [
