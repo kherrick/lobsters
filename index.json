@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 22:07:55",
+      "https://lobste.rs/s/nzoaxx/what_is_consensus"
+    ],
+    [
+      "What is consensus",
+      "https://twitter.com/AlexMillerDB/status/1592470377284112385"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 18:16:04",
       "https://lobste.rs/s/ajvbyf/three_sins_authors_computer_science_math"
     ],
@@ -147,16 +157,6 @@
     [
       "Understanding the x86's Decimal Adjust after Addition (DAA) instruction",
       "https://www.righto.com/2023/01/understanding-x86s-decimal-adjust-after.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 07:25:47",
-      "https://lobste.rs/s/vltrvj/tigris_rfc_building_secondary_indexes_on"
-    ],
-    [
-      "Tigris RFC – building secondary indexes on FoundationDB",
-      "https://github.com/tigrisdata/tigris/blob/main/docs/rfcs/001-secondary-indexes.md"
     ]
   ],
   [
