@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 15:09:07",
+      "https://lobste.rs/s/ngq9xx/what_losing_everything_taught_me_about"
+    ],
+    [
+      "What Losing Everything Taught Me About Backing Up",
+      "https://hackaday.com/2023/01/30/what-losing-everything-taught-me-about-backing-up/"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 14:28:22",
       "https://lobste.rs/s/zvkxqs/benefits_everything_being_buffer"
     ],
@@ -207,16 +217,6 @@
     [
       "terraform-nixos-ng: Modern terraform support for NixOS",
       "https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 14:31:39",
-      "https://lobste.rs/s/hjlmhc/cpu_architectural_question_what_is"
-    ],
-    [
-      "The CPU architectural question of what is a (reserved) NOP",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/WhatIsAModernNOP"
     ]
   ],
   [
