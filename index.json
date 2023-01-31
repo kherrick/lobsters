@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-01-31, 00:15:27",
+      "https://lobste.rs/s/upxvjj/abusing_exceptions_for_code_execution"
+    ],
+    [
+      "Abusing Exceptions for Code Execution, Part 2",
+      "https://billdemirkapi.me/abusing-exceptions-for-code-execution-part-2/"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 00:09:48",
+      "https://lobste.rs/s/fdcpy3/fish_shell_be_rewritten_rust"
+    ],
+    [
+      "Fish shell to be rewritten in Rust",
+      "https://github.com/fish-shell/fish-shell/pull/9512"
+    ]
+  ],
+  [
+    [
+      "2023-01-31, 00:09:35",
+      "https://lobste.rs/s/egt4we/google_play_developer_antitrust"
+    ],
+    [
+      "Google Play Developer Antitrust Litigation",
+      "https://www.googleplaydevelopersettlement.com/"
+    ]
+  ],
+  [
+    [
       "2023-01-30, 23:54:01",
       "https://lobste.rs/s/btkrqc/100_days_more_less_modern_css"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-01-30, 00:36:20",
-      "https://lobste.rs/s/homnhj/parallel_port"
-    ],
-    [
-      "the parallel port",
-      "https://computer.rip/2023-01-29-the-parallel-port.html"
-    ]
-  ],
-  [
-    [
       "2023-01-30, 00:22:07",
       "https://lobste.rs/s/fz36cj/will_wright_on_designing_user_interfaces"
     ],
     [
       "Will Wright on Designing User Interfaces to Simulation Games (1996)",
       "https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 22:44:25",
-      "https://lobste.rs/s/vzgkb2/build_your_own_redis_book_is_completed"
-    ],
-    [
-      "The “Build Your Own Redis” Book is Completed",
-      "https://build-your-own.org/blog/20230127_byor/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "KeenWrite 3.2.0",
       "https://github.com/DaveJarvis/keenwrite/releases/tag/3.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 21:47:10",
-      "https://lobste.rs/s/v9x4zg/size_rust_futures"
-    ],
-    [
-      "The size of Rust Futures",
-      "https://swatinem.de/blog/future-size/"
     ]
   ],
   [
