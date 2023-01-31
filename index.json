@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-01-31, 11:29:39",
+      "https://lobste.rs/s/adobio/my_simple_todo_script_shell_solution"
+    ],
+    [
+      "my simple todo script shell solution",
+      "https://github.com/norayr/todo_script"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 11:26:39",
       "https://lobste.rs/s/6swzkk/internode_cache_thrashing_hunting_numa"
     ],
@@ -227,16 +237,6 @@
     [
       "Will Wright on Designing User Interfaces to Simulation Games (1996)",
       "https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d"
-    ]
-  ],
-  [
-    [
-      "2023-01-29, 22:41:54",
-      "https://lobste.rs/s/irem75/prompt_engineering_shouldn_t_exist"
-    ],
-    [
-      "Prompt Engineering Shouldn't Exist",
-      "https://matt-rickard.com/prompt-engineering-shouldnt-exist"
     ]
   ],
   [
