@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 22:37:50",
+      "https://lobste.rs/s/rdtmpn/comparing_top_eight_managed_kubernetes"
+    ],
+    [
+      "Comparing the Top Eight Managed Kubernetes Providers",
+      "https://medium.com/@elliotgraebert/comparing-the-top-eight-managed-kubernetes-providers-2ae39662391b"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 22:32:50",
+      "https://lobste.rs/s/lzakrh/remedybg_is_windows_debugger_written"
+    ],
+    [
+      "RemedyBG is a Windows debugger written using a minimal set of dependencies",
+      "https://remedybg.handmade.network"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 21:31:50",
       "https://lobste.rs/s/jsgflc/void_suck_lightweight_desktop_installer"
     ],
@@ -57,16 +77,6 @@
     [
       "Previewing China’s Loongson 3A5000 with Performance Counters",
       "https://chipsandcheese.com/2023/01/29/previewing-chinas-loongson-3a5000-with-performance-counters/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 18:13:57",
-      "https://lobste.rs/s/ilpbug/regcpython_register_based_python"
-    ],
-    [
-      "RegCPython: A Register-based Python Interpreter for Better Performance",
-      "https://dl.acm.org/doi/10.1145/3568973"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Surprises in the Rust JSON Ecosystem",
       "https://ecton.dev/rust-json-ecosystem/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 04:58:45",
-      "https://lobste.rs/s/4twvem/scala_news"
-    ],
-    [
-      "Scala News",
-      "https://www.scalanews.net"
     ]
   ],
   [
