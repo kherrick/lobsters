@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 12:48:11",
+      "https://lobste.rs/s/sjltvu/efficient_flexible_model_based_testing"
+    ],
+    [
+      "Efficient and Flexible Model-Based Testing",
+      "https://concerningquality.com/model-based-testing-theory"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 12:34:46",
+      "https://lobste.rs/s/yiu95m/llvmbox_self_contained_fully_static_llvm"
+    ],
+    [
+      "llvmbox: Self contained, fully static llvm tools & libs",
+      "https://github.com/rsms/llvmbox"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 11:01:42",
       "https://lobste.rs/s/yo3x4a/curl_s_use_many_ci_services"
     ],
@@ -67,16 +87,6 @@
     [
       "Apple //c Scene From '80s Bond Film \"A View to a Kill\" Perfectly Re-Created With Applesoft BASIC",
       "https://bytecellar.com/2020/04/29/apple-c-scene-from-80s-bond-film-a-view-to-a-kill-perfectly-re-created-with-applesoft-basic/"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 23:20:48",
-      "https://lobste.rs/s/tdjc2p/amiga_c_c_compile_debug_profile_for_visual"
-    ],
-    [
-      "Amiga C/C++ Compile, Debug & Profile for Visual Studio",
-      "https://marketplace.visualstudio.com/items?itemName=BartmanAbyss.amiga-debug"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "my simple todo script shell solution",
       "https://github.com/norayr/todo_script"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 09:40:48",
-      "https://lobste.rs/s/uncxve/frequentism_false_dichotomies"
-    ],
-    [
-      "Frequentism And False Dichotomies",
-      "https://two-wrongs.com/frequentism-and-false-dichotomies.html"
     ]
   ],
   [
