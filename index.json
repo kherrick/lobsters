@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 15:41:42",
+      "https://lobste.rs/s/fnv191/rock_5_b_is_not_raspberry_pi_killer_yet"
+    ],
+    [
+      "The Rock 5 B is not a Raspberry Pi killer—yet",
+      "https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 15:24:16",
       "https://lobste.rs/s/xwckal/optimizing_redis_default_compiler_flags"
     ],
@@ -227,16 +237,6 @@
     [
       "Fish shell to be rewritten in Rust",
       "https://github.com/fish-shell/fish-shell/pull/9512"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 21:36:02",
-      "https://lobste.rs/s/vna6dx/spritely_goblins_0_10_released"
-    ],
-    [
-      "Spritely Goblins 0.10 released, distributed programming environment for Guile and Racket",
-      "https://spritely.institute/news/spritely-goblins-v010-for-guile-and-racket.html"
     ]
   ],
   [
