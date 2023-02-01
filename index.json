@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 16:27:01",
+      "https://lobste.rs/s/pbpfei/matching_many_classes_fewer_colors"
+    ],
+    [
+      "Matching Many Classes to Fewer Colors",
+      "https://nik.bo/colormatch"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 16:07:17",
       "https://lobste.rs/s/9w7ylg/python_s_disappointing_superpowers"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-01-31, 22:07:55",
-      "https://lobste.rs/s/nzoaxx/what_is_consensus"
-    ],
-    [
-      "What is consensus",
-      "https://twitter.com/AlexMillerDB/status/1592470377284112385"
-    ]
-  ],
-  [
-    [
       "2023-01-31, 18:16:04",
       "https://lobste.rs/s/ajvbyf/three_sins_authors_computer_science_math"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-01-31, 17:21:19",
+      "https://lobste.rs/s/fyop40/gcc_s_o3_can_transform_performance"
+    ],
+    [
+      "GCC’s -O3 Can Transform Performance",
+      "https://sunnyflunk.github.io/2023/01/29/GCCs-O3-Can-Transform-Performance.html"
+    ]
+  ],
+  [
+    [
       "2023-01-31, 15:53:15",
       "https://lobste.rs/s/aiizbh/various_ways_sending_mail_via_smtp"
     ],
@@ -207,16 +217,6 @@
     [
       "The benefits of everything being a buffer",
       "https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 13:03:54",
-      "https://lobste.rs/s/pklf3f/comparing_compiler_errors_go_rust_scala"
-    ],
-    [
-      "Comparing Compiler Errors in Go, Rust, Scala, Java, Kotlin, Python, Typescript, and Elm",
-      "https://www.amazingcto.com/developer-productivity-compiler-errors/"
     ]
   ],
   [
