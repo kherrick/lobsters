@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 17:44:41",
+      "https://lobste.rs/s/tzqz4m/devbox_cloud_open_beta"
+    ],
+    [
+      "Devbox Cloud Open Beta",
+      "https://www.jetpack.io/devbox/docs/devbox_cloud/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 17:16:18",
       "https://lobste.rs/s/s9qjdo/researcher_drops_lexmark_rce_zero_day"
     ],
@@ -237,16 +247,6 @@
     [
       "Fish shell to be rewritten in Rust",
       "https://github.com/fish-shell/fish-shell/pull/9512"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 18:31:18",
-      "https://lobste.rs/s/ep44fv/tag_systems"
-    ],
-    [
-      "Tag Systems",
-      "https://buttondown.email/hillelwayne/archive/tag-systems/"
     ]
   ]
 ]
