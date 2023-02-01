@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-01, 19:06:03",
+      "https://lobste.rs/s/phumm1/release_engineering_is_exhausting_so"
+    ],
+    [
+      "Release Engineering Is Exhausting So Here's cargo-dist",
+      "https://blog.axo.dev/2023/02/cargo-dist"
+    ]
+  ],
+  [
+    [
+      "2023-02-01, 19:05:30",
+      "https://lobste.rs/s/c9fx3p/previewing_china_s_loongson_3a5000_with"
+    ],
+    [
+      "Previewing China’s Loongson 3A5000 with Performance Counters",
+      "https://chipsandcheese.com/2023/01/29/previewing-chinas-loongson-3a5000-with-performance-counters/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 18:13:57",
       "https://lobste.rs/s/ilpbug/regcpython_register_based_python"
     ],
@@ -47,16 +67,6 @@
     [
       "Devbox Cloud Open Beta",
       "https://www.jetpack.io/devbox/docs/devbox_cloud/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 17:16:18",
-      "https://lobste.rs/s/s9qjdo/researcher_drops_lexmark_rce_zero_day"
-    ],
-    [
-      "Researcher drops Lexmark RCE zero-day rather than sell vuln ‘for peanuts’",
-      "https://portswigger.net/daily-swig/researcher-drops-lexmark-rce-zero-day-rather-than-sell-vuln-for-peanuts"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Various Ways of Sending Mail via SMTP",
       "https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 15:48:23",
-      "https://lobste.rs/s/jtlukj/type_inference"
-    ],
-    [
-      "Type Inference",
-      "https://veera.app/type_inference.html"
     ]
   ],
   [
