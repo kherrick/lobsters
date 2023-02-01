@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 11:01:42",
+      "https://lobste.rs/s/yo3x4a/curl_s_use_many_ci_services"
+    ],
+    [
+      "curl’s use of many CI services",
+      "https://daniel.haxx.se/blog/2023/02/01/curls-use-of-many-ci-services/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 08:23:36",
       "https://lobste.rs/s/36l246/password_strength_explained"
     ],
@@ -217,16 +227,6 @@
     [
       "Fish shell to be rewritten in Rust",
       "https://github.com/fish-shell/fish-shell/pull/9512"
-    ]
-  ],
-  [
-    [
-      "2023-01-30, 22:01:36",
-      "https://lobste.rs/s/idp0aj/git_archive_checksums_may_change"
-    ],
-    [
-      "Git archive checksums may change",
-      "https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/"
     ]
   ],
   [
