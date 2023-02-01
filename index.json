@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 19:54:33",
+      "https://lobste.rs/s/rkbhkf/don_t_bother_trying_estimate_pandas"
+    ],
+    [
+      "Don’t bother trying to estimate Pandas memory usage",
+      "https://pythonspeed.com/articles/estimating-pandas-memory/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 19:06:03",
       "https://lobste.rs/s/phumm1/release_engineering_is_exhausting_so"
     ],
@@ -47,16 +57,6 @@
     [
       "Budgie 10.7 Released",
       "https://blog.buddiesofbudgie.org/budgie-10-7-released/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 18:04:37",
-      "https://lobste.rs/s/sg1aey/async_trait_send_bounds"
-    ],
-    [
-      "Async trait send bounds",
-      "https://smallcultfollowing.com/babysteps/blog/2023/02/01/async-trait-send-bounds-part-1-intro/"
     ]
   ],
   [
