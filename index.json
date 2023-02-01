@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-01, 13:04:34",
+      "https://lobste.rs/s/klipwu/reducing_go_execution_tracer_overhead"
+    ],
+    [
+      "Reducing Go Execution Tracer Overhead With Frame Pointer Unwinding",
+      "https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 12:48:11",
       "https://lobste.rs/s/sjltvu/efficient_flexible_model_based_testing"
     ],
@@ -137,16 +147,6 @@
     [
       "W3C re-launched as a public-interest non-profit organization",
       "https://www.w3.org/2023/01/pressrelease-w3c-le-launched.html.en"
-    ]
-  ],
-  [
-    [
-      "2023-01-31, 18:06:55",
-      "https://lobste.rs/s/uv84nx/future_memory_safety_challenges"
-    ],
-    [
-      "Future of Memory Safety: Challenges and Recommendations",
-      "https://digital-lab-wp.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report-.pdf"
     ]
   ],
   [
