@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-02-01, 20:52:40",
-      "https://lobste.rs/s/woic6e/estimation_shor_s_circuit_for_2048_bit"
+      "2023-02-01, 20:58:19",
+      "https://lobste.rs/s/yq6dgp/icicle_re_designed_emulator_for_grey_box"
     ],
     [
-      "Estimation of Shor's Circuit for 2048-bit Integers based on Quantum Simulator",
-      "https://eprint.iacr.org/2023/092.pdf"
+      "Icicle: A Re-Designed Emulator for Grey-Box Firmware Fuzzing",
+      "https://arxiv.org/pdf/2301.13346"
     ]
   ],
   [
     [
-      "2023-02-01, 20:52:01",
-      "https://lobste.rs/s/qtreq5/unlimited_results_breaking_firmware"
+      "2023-02-01, 20:57:12",
+      "https://lobste.rs/s/g8vdsd/mitigating_silent_data_corruptions_hpc"
     ],
     [
-      "Unlimited Results: Breaking Firmware Encryption of ESP32-V3",
-      "https://eprint.iacr.org/2023/090.pdf"
+      "Mitigating Silent Data Corruptions in HPC Applications across Multiple Program Inputs",
+      "https://hyfshishen.github.io/publications/SC'22-Paper.pdf"
     ]
   ],
   [
