@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-02, 17:25:22",
+      "https://lobste.rs/s/4blsjn/data_for_decisions"
+    ],
+    [
+      "Data for Decisions",
+      "https://www.maxcountryman.com/articles/data-for-decisions"
+    ]
+  ],
+  [
+    [
+      "2023-02-02, 17:16:37",
+      "https://lobste.rs/s/u5rggv/autometrics_add_metrics_any_rust"
+    ],
+    [
+      "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
+      "https://github.com/fiberplane/autometrics-rs"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 16:27:18",
       "https://lobste.rs/s/bygjlc/paracrine_system_deployment_tool"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2023-02-02, 15:47:12",
-      "https://lobste.rs/s/szcepf/msdf_c_pure_c99_single_header_multi"
-    ],
-    [
-      "msdf_c: A pure C99 single header multi-channel signed distance field generator",
-      "https://github.com/pjako/msdf_c"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 15:33:52",
       "https://lobste.rs/s/airove/kind_like_2013"
     ],
     [
       "Kind of Like That (2013)",
       "https://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 15:07:21",
-      "https://lobste.rs/s/1n4bpf/distributed_memory_mimd_systems_1996"
-    ],
-    [
-      "Distributed-memory MIMD systems (1996)",
-      "https://netlib.org/utk/papers/old-advanced-computers/node25.html"
     ]
   ],
   [
