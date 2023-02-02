@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 15:54:03",
+      "https://lobste.rs/s/udeyix/exploring_rust_for_vulkan_drivers_part_1"
+    ],
+    [
+      "Exploring Rust for Vulkan drivers, part 1",
+      "https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 15:47:12",
       "https://lobste.rs/s/szcepf/msdf_c_pure_c99_single_header_multi"
     ],
@@ -167,16 +177,6 @@
     [
       "Void Suck: Lightweight Desktop installer for Void Linux based on the suckless philosophy",
       "https://vs.bt.ht/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 20:46:17",
-      "https://lobste.rs/s/kmct90/i_ve_had_bad_luck_with_transparent"
-    ],
-    [
-      "I've had bad luck with transparent hugepages on my Linux machines",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/TransparentHugepagesBadLuck"
     ]
   ],
   [
