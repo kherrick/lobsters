@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-02-01, 20:55:24",
+      "https://lobste.rs/s/lrpfho/stack_aware_hyperproperties"
+    ],
+    [
+      "Stack-Aware Hyperproperties",
+      "https://arxiv.org/pdf/2301.11521.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-01, 20:46:17",
       "https://lobste.rs/s/kmct90/i_ve_had_bad_luck_with_transparent"
     ],
@@ -127,16 +137,6 @@
     [
       "aocla: A small stack based programming language interpreter in ~1KloC",
       "https://github.com/antirez/aocla/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 17:44:41",
-      "https://lobste.rs/s/tzqz4m/devbox_cloud_open_beta"
-    ],
-    [
-      "Devbox Cloud Open Beta",
-      "https://www.jetpack.io/devbox/docs/devbox_cloud/"
     ]
   ],
   [
