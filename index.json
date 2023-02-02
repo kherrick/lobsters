@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 13:47:02",
+      "https://lobste.rs/s/ejv4ta/rust_hyper_tower_load_shedding_service"
+    ],
+    [
+      "A Rust hyper/tower load shedding service based on Little’s Law",
+      "https://github.com/Skepfyr/little-loadshedder"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 12:30:02",
       "https://lobste.rs/s/fc6ara/combobulate_structured_movement"
     ],
@@ -47,16 +57,6 @@
     [
       "Expr (Go expression language) releases v1.11",
       "https://github.com/antonmedv/expr/releases/tag/v1.11.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 07:50:06",
-      "https://lobste.rs/s/mgomoz/memory_safety_convening_report"
-    ],
-    [
-      "Memory Safety Convening Report",
-      "https://advocacy.consumerreports.org/wp-content/uploads/2023/01/Memory-Safety-Convening-Report-1-1.pdf"
     ]
   ],
   [
