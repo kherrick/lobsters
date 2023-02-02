@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 22:34:37",
+      "https://lobste.rs/s/rniekn/minor_standard_library_changes_go_1_20"
+    ],
+    [
+      "Minor Standard Library Changes in Go 1.20",
+      "https://blog.carlmjohnson.net/post/2023/golang-120-minor-features/"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 20:45:40",
       "https://lobste.rs/s/lw9fju/finally_fast_algorithm_for_shortest"
     ],
@@ -67,16 +77,6 @@
     [
       "Paracrine - system deployment tool",
       "https://tevps.net/blog/2023/01/31/paracrine/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 15:54:03",
-      "https://lobste.rs/s/udeyix/exploring_rust_for_vulkan_drivers_part_1"
-    ],
-    [
-      "Exploring Rust for Vulkan drivers, part 1",
-      "https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/"
     ]
   ],
   [
