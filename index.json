@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 23:24:47",
+      "https://lobste.rs/s/drlqik/how_boost_mastodon_server_performance"
+    ],
+    [
+      "How to Boost Mastodon Server Performance with Redis",
+      "https://thenewstack.io/how-to-boost-mastodon-server-performance-with-redis/"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 23:00:32",
       "https://lobste.rs/s/cjstzl/math_breakdown_anime_homing_missiles"
     ],
@@ -217,16 +227,6 @@
     [
       "Void Suck: Lightweight Desktop installer for Void Linux based on the suckless philosophy",
       "https://vs.bt.ht/"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 20:17:21",
-      "https://lobste.rs/s/ep9gah/go_1_20_release_notes"
-    ],
-    [
-      "Go 1.20 Release Notes",
-      "https://go.dev/doc/go1.20"
     ]
   ],
   [
