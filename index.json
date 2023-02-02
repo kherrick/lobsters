@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-02-02, 03:40:23",
+      "https://lobste.rs/s/mtmwpr/up_29_000_unpatched_qnap_storage_devices"
+    ],
+    [
+      "Up to 29,000 unpatched QNAP storage devices are sitting ducks to ransomware",
+      "https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices-remain-unpatched-against-9-8-severity-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 00:56:52",
       "https://lobste.rs/s/yjqdit/jvm_field_guide_memory"
     ],
@@ -137,16 +147,6 @@
     [
       "Ronin 2.0.0 has finally been released",
       "https://ronin-rb.dev/blog/2023/02/01/ronin-2-0-0-finally-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 22:37:50",
-      "https://lobste.rs/s/rdtmpn/comparing_top_eight_managed_kubernetes"
-    ],
-    [
-      "Comparing the Top Eight Managed Kubernetes Providers",
-      "https://medium.com/@elliotgraebert/comparing-the-top-eight-managed-kubernetes-providers-2ae39662391b"
     ]
   ],
   [
