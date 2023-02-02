@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 11:49:40",
+      "https://lobste.rs/s/cnuxq6/c_was_not_created_as_abstract_machine"
+    ],
+    [
+      "C was not created as an abstract machine",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 11:27:54",
       "https://lobste.rs/s/5b8zqy/shipping_graphing_calculator"
     ],
@@ -127,16 +137,6 @@
     [
       "Go 1.20 Release Notes",
       "https://go.dev/doc/go1.20"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 19:54:33",
-      "https://lobste.rs/s/rkbhkf/don_t_bother_trying_estimate_pandas"
-    ],
-    [
-      "Don’t bother trying to estimate Pandas memory usage",
-      "https://pythonspeed.com/articles/estimating-pandas-memory/"
     ]
   ],
   [
