@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 20:03:55",
+      "https://lobste.rs/s/l1r8cg/haskell_for_elm_developers_giving_names"
+    ],
+    [
+      "Haskell for Elm developers: giving names to stuff (Part 1 - Functors)",
+      "https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 19:12:25",
       "https://lobste.rs/s/tbqs8y/new_slax_released_15_0_1_based_on_slackware"
     ],
@@ -237,16 +247,6 @@
     [
       "The Rock 5 B is not a Raspberry Pi killer—yet",
       "https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 11:01:42",
-      "https://lobste.rs/s/yo3x4a/curl_s_use_many_ci_services"
-    ],
-    [
-      "curl’s use of many CI services",
-      "https://daniel.haxx.se/blog/2023/02/01/curls-use-of-many-ci-services/"
     ]
   ]
 ]
