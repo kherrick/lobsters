@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-02, 19:12:25",
+      "https://lobste.rs/s/tbqs8y/new_slax_released_15_0_1_based_on_slackware"
+    ],
+    [
+      "New Slax released: 15.0.1 (based on Slackware), 11.6.0 (based on Debian)",
+      "https://www.slax.org/blog/27718-New-Slax-released.html"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 18:11:36",
       "https://lobste.rs/s/bl77or/carving_scheduler_out_our_orchestrator"
     ],
@@ -207,16 +217,6 @@
     [
       "Release Engineering Is Exhausting So Here's cargo-dist",
       "https://blog.axo.dev/2023/02/cargo-dist"
-    ]
-  ],
-  [
-    [
-      "2023-02-01, 18:09:59",
-      "https://lobste.rs/s/jsso8q/aocla_small_stack_based_programming"
-    ],
-    [
-      "aocla: A small stack based programming language interpreter in ~1KloC",
-      "https://github.com/antirez/aocla/"
     ]
   ],
   [
