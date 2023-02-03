@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 02:32:01",
+      "https://lobste.rs/s/3xywhq/undefined_behavior_sledgehammer"
+    ],
+    [
+      "Undefined behavior, and the Sledgehammer Principle",
+      "https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 00:11:26",
       "https://lobste.rs/s/igbmch/using_yggdrasil_as_automatic_mesh_fabric"
     ],
@@ -87,16 +97,6 @@
     [
       "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
       "https://github.com/fiberplane/autometrics-rs"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 15:33:52",
-      "https://lobste.rs/s/airove/kind_like_2013"
-    ],
-    [
-      "Kind of Like That (2013)",
-      "https://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html"
     ]
   ],
   [
