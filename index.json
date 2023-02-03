@@ -22,10 +22,10 @@
   [
     [
       "2023-02-03, 07:34:44",
-      "https://lobste.rs/s/r3aliv/andromeda_invaders_retro_style_game"
+      "https://lobste.rs/s/r3aliv/simple_retro_style_invaders_like_game"
     ],
     [
-      "Andromeda Invaders: A retro-style game written in HTML5, Canvas, and Web Audio",
+      "A simple, retro-style, invaders-like game written using HTML5, Canvas, and Web Audio",
       "https://github.com/susam/invaders"
     ]
   ],
