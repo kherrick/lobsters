@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-03, 20:28:09",
+      "https://lobste.rs/s/nmmjr3/specwands_efficient_priority_based"
+    ],
+    [
+      "SPECWANDS: An Efficient Priority-based Scheduler Against Speculation Contention Attacks",
+      "https://arxiv.org/pdf/2302.00947.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 20:27:06",
+      "https://lobste.rs/s/ymj9z8/sso_monitor_fully_automatic_large_scale"
+    ],
+    [
+      "SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, & Privacy Analyses of SSO in the Wild",
+      "https://arxiv.org/pdf/2302.01024.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 20:26:06",
+      "https://lobste.rs/s/7zhs2e/protecting_cache_states_against_both"
+    ],
+    [
+      "Protecting Cache States Against Both Speculative Execution Attacks and Side-channel Attacks",
+      "https://arxiv.org/pdf/2302.00732"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 19:51:50",
       "https://lobste.rs/s/nartfk/happy_groundhog_day_ai_edition"
     ],
@@ -17,26 +47,6 @@
     [
       "How I added C-style for-loops to Python",
       "https://sadh.life/post/cursed-for/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 17:43:06",
-      "https://lobste.rs/s/sa4es7/nostr_social_network_for_decentralized"
-    ],
-    [
-      "Nostr: A social network for the decentralized era",
-      "https://nostr-how.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 17:18:20",
-      "https://lobste.rs/s/zehawm/configuring_emacs_for_mdx_files"
-    ],
-    [
-      "Configuring Emacs for MDX files",
-      "https://tailscale.dev/blog/configuring-emacs-mdx"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "I’m Now a Full-Time Professional Open Source Maintainer",
       "https://words.filippo.io/full-time-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 03:14:45",
-      "https://lobste.rs/s/qjmgcg/weird_things_i_learned_while_writing_x86"
-    ],
-    [
-      "Weird things I learned while writing an x86 emulator",
-      "https://www.timdbg.com/posts/useless-x86-trivia/"
     ]
   ],
   [
