@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-02-02, 17:16:37",
+      "https://lobste.rs/s/u5rggv/autometrics_add_metrics_any_rust"
+    ],
+    [
+      "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
+      "https://github.com/fiberplane/autometrics-rs"
+    ]
+  ],
+  [
+    [
       "2023-02-02, 13:57:16",
       "https://lobste.rs/s/65sngv/creating_gifs_homepages_with_wayback"
     ],
@@ -237,16 +247,6 @@
     [
       "Expr (Go expression language) releases v1.11",
       "https://github.com/antonmedv/expr/releases/tag/v1.11.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 04:21:49",
-      "https://lobste.rs/s/zvrtsw/how_hype_will_turn_your_security_key_into"
-    ],
-    [
-      "How Hype Will Turn Your Security Key Into Junk",
-      "https://fy.blackhats.net.au/blog/html/2023/02/02/how_hype_will_turn_your_security_key_into_junk.html"
     ]
   ]
 ]
