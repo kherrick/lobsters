@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 20:29:10",
+      "https://lobste.rs/s/slow6n/attack_on_speculative_vectorization"
+    ],
+    [
+      "An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation",
+      "https://arxiv.org/pdf/2302.01131"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 20:28:09",
       "https://lobste.rs/s/nmmjr3/specwands_efficient_priority_based"
     ],
@@ -227,16 +237,6 @@
     [
       "Carving The Scheduler Out Of Our Orchestrator",
       "https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 13:47:02",
-      "https://lobste.rs/s/ejv4ta/rust_hyper_tower_load_shedding_service"
-    ],
-    [
-      "A Rust hyper/tower load shedding service based on Little’s Law",
-      "https://github.com/Skepfyr/little-loadshedder"
     ]
   ],
   [
