@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 10:00:01",
+      "https://lobste.rs/s/a7kyr8/how_almost_build_e2ee_local_first_app"
+    ],
+    [
+      "How to almost build an E2EE local-first app",
+      "https://www.zaynetro.com/post/how-to-build-e2ee-local-first-app/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 09:18:55",
       "https://lobste.rs/s/bx1ogg/improving_rust_compile_times_enable"
     ],
@@ -147,16 +157,6 @@
     [
       "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
       "https://github.com/fiberplane/autometrics-rs"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 14:42:13",
-      "https://lobste.rs/s/ano4hs/openssh_9_2_release_notes"
-    ],
-    [
-      "OpenSSH: 9.2 Release Notes",
-      "https://www.openssh.com/releasenotes.html#9.2"
     ]
   ],
   [
