@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 21:56:35",
+      "https://lobste.rs/s/qxr7bf/future_past_web_is_server_side_rendering"
+    ],
+    [
+      "The Future (and the Past) of the Web is Server Side Rendering",
+      "https://deno.com/blog/the-future-and-past-is-server-side-rendering"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 20:29:10",
       "https://lobste.rs/s/slow6n/attack_on_speculative_vectorization"
     ],
@@ -37,16 +47,6 @@
     [
       "Protecting Cache States Against Both Speculative Execution Attacks and Side-channel Attacks",
       "https://arxiv.org/pdf/2302.00732"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 19:51:50",
-      "https://lobste.rs/s/nartfk/happy_groundhog_day_ai_edition"
-    ],
-    [
-      "Happy Groundhog Day, The AI Edition",
-      "https://garymarcus.substack.com/p/happy-groundhog-day-the-ai-edition"
     ]
   ],
   [
