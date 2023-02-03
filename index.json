@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 14:33:51",
+      "https://lobste.rs/s/nsnzb5/hypermedia_clients"
+    ],
+    [
+      "Hypermedia Clients",
+      "https://htmx.org/essays/hypermedia-clients/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 12:55:09",
       "https://lobste.rs/s/wk4i9r/scryer_prolog"
     ],
@@ -197,16 +207,6 @@
     [
       "A Rust hyper/tower load shedding service based on Little’s Law",
       "https://github.com/Skepfyr/little-loadshedder"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 12:30:02",
-      "https://lobste.rs/s/fc6ara/combobulate_structured_movement"
-    ],
-    [
-      "Combobulate: Structured Movement and Editing with Tree-Sitter",
-      "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter"
     ]
   ],
   [
