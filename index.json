@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 03:44:37",
+      "https://lobste.rs/s/qlfnli/isp_admits_lying_fcc_about_size_network"
+    ],
+    [
+      "ISP admits lying to FCC about size of network to block funding to rivals",
+      "https://arstechnica.com/?p=1914454"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 03:14:45",
       "https://lobste.rs/s/qjmgcg/weird_things_i_learned_while_writing_x86"
     ],
@@ -27,16 +37,6 @@
     [
       "Undefined behavior, and the Sledgehammer Principle",
       "https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 00:11:26",
-      "https://lobste.rs/s/igbmch/using_yggdrasil_as_automatic_mesh_fabric"
-    ],
-    [
-      "Using Yggdrasil As an Automatic Mesh Fabric to Connect All Your Docker Containers, VMs, and Servers",
-      "https://changelog.complete.org/archives/10461-using-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers"
     ]
   ],
   [
