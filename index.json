@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-03, 06:55:07",
+      "https://lobste.rs/s/ckaimv/scaphandre_your_tech_stack_doesn_t_need_so"
+    ],
+    [
+      "Scaphandre: Your tech stack doesn't need so much energy",
+      "https://github.com/hubblo-org/scaphandre/tree/5c8d63c09c1f2e6a934adef469d0bc7a06e694ea"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 06:51:13",
+      "https://lobste.rs/s/dhuqtl/against_risk_based_authentication_why_i"
+    ],
+    [
+      "Against risk-based authentication (or, why I wouldn't trust Google Cloud)",
+      "https://www.devever.net/~hl/logindenial"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 05:11:45",
       "https://lobste.rs/s/wwhugg/wasm_compression_benchmarks_cost"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-02-02, 17:25:22",
-      "https://lobste.rs/s/4blsjn/data_for_decisions"
-    ],
-    [
-      "Data for Decisions",
-      "https://www.maxcountryman.com/articles/data-for-decisions"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 17:16:37",
       "https://lobste.rs/s/u5rggv/autometrics_add_metrics_any_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "How Hype Will Turn Your Security Key Into Junk",
       "https://fy.blackhats.net.au/blog/html/2023/02/02/how_hype_will_turn_your_security_key_into_junk.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 00:56:52",
-      "https://lobste.rs/s/yjqdit/jvm_field_guide_memory"
-    ],
-    [
-      "JVM Field Guide: Memory",
-      "https://serce.me/posts/01-02-2023-jvm-field-guide-memory"
     ]
   ],
   [
