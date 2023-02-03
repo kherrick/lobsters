@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-02-03, 05:11:45",
+      "https://lobste.rs/s/wwhugg/wasm_compression_benchmarks_cost"
+    ],
+    [
+      "WASM compression benchmarks and the cost of missing compression APIs",
+      "https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 04:00:20",
       "https://lobste.rs/s/g6jkeu/i_m_now_full_time_professional_open_source"
     ],
     [
       "I’m Now a Full-Time Professional Open Source Maintainer",
       "https://words.filippo.io/full-time-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 03:44:37",
-      "https://lobste.rs/s/qlfnli/isp_admits_lying_fcc_about_size_network"
-    ],
-    [
-      "ISP admits lying to FCC about size of network to block funding to rivals",
-      "https://arstechnica.com/?p=1914454"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Undefined behavior, and the Sledgehammer Principle",
       "https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 00:11:26",
+      "https://lobste.rs/s/igbmch/using_yggdrasil_as_automatic_mesh_fabric"
+    ],
+    [
+      "Using Yggdrasil As an Automatic Mesh Fabric to Connect All Your Docker Containers, VMs, and Servers",
+      "https://changelog.complete.org/archives/10461-using-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
       "https://github.com/fiberplane/autometrics-rs"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 15:05:32",
-      "https://lobste.rs/s/clekqn/interoperability_with_openpgp_crypto"
-    ],
-    [
-      "Interoperability with OpenPGP crypto-refresh",
-      "https://lists.gnupg.org/pipermail/gnupg-devel/2023-February/035270.html"
     ]
   ],
   [
