@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 17:43:06",
+      "https://lobste.rs/s/sa4es7/nostr_social_network_for_decentralized"
+    ],
+    [
+      "Nostr: A social network for the decentralized era",
+      "https://nostr-how.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 17:18:20",
       "https://lobste.rs/s/zehawm/configuring_emacs_for_mdx_files"
     ],
@@ -237,16 +247,6 @@
     [
       "Shipping Graphing Calculator",
       "https://corecursive.com/shipping-graphing-calculator/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 08:45:11",
-      "https://lobste.rs/s/oygfwh/expr_go_expression_language_releases_v1"
-    ],
-    [
-      "Expr (Go expression language) releases v1.11",
-      "https://github.com/antonmedv/expr/releases/tag/v1.11.0"
     ]
   ]
 ]
