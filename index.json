@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-03, 17:18:20",
+      "https://lobste.rs/s/zehawm/configuring_emacs_for_mdx_files"
+    ],
+    [
+      "Configuring Emacs for MDX files",
+      "https://tailscale.dev/blog/configuring-emacs-mdx"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 17:12:35",
+      "https://lobste.rs/s/fmxp81/spritely_institute_launches_guile"
+    ],
+    [
+      "Spritely Institute launches Guile Scheme -> WASM direct compilation project",
+      "https://spritely.institute/news/guile-on-web-assembly-project-underway.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-03, 17:04:26",
+      "https://lobste.rs/s/nwnczc/serious_security_hole_plugged_infosec"
+    ],
+    [
+      "Serious Security Hole Plugged in Infosec Tool \"binwalk\"",
+      "https://portswigger.net/daily-swig/serious-security-hole-plugged-in-infosec-tool-binwalk"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 16:36:50",
       "https://lobste.rs/s/mfszwo/decree_design_pattern"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2023-02-02, 20:45:40",
-      "https://lobste.rs/s/lw9fju/finally_fast_algorithm_for_shortest"
-    ],
-    [
-      "Finally, a Fast Algorithm for Shortest Paths on Negative Graphs",
-      "https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/"
-    ]
-  ],
-  [
-    [
       "2023-02-02, 18:11:36",
       "https://lobste.rs/s/bl77or/carving_scheduler_out_our_orchestrator"
     ],
     [
       "Carving The Scheduler Out Of Our Orchestrator",
       "https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 17:16:37",
-      "https://lobste.rs/s/u5rggv/autometrics_add_metrics_any_rust"
-    ],
-    [
-      "autometrics: add metrics to any Rust function & jump to the Prometheus chart directly from your IDE",
-      "https://github.com/fiberplane/autometrics-rs"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 13:57:16",
-      "https://lobste.rs/s/65sngv/creating_gifs_homepages_with_wayback"
-    ],
-    [
-      "Creating GIFs of homepages with the Wayback Machine",
-      "https://charlieharrington.com/your-favorite-homepage-as-a-gif/"
     ]
   ],
   [
