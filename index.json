@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-03, 09:18:55",
+      "https://lobste.rs/s/bx1ogg/improving_rust_compile_times_enable"
+    ],
+    [
+      "Improving Rust compile times to enable adoption of memory safety",
+      "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+    ]
+  ],
+  [
+    [
       "2023-02-03, 07:34:44",
       "https://lobste.rs/s/r3aliv/andromeda_invaders_retro_style_game"
     ],
@@ -77,16 +87,6 @@
     [
       "Using Yggdrasil As an Automatic Mesh Fabric to Connect All Your Docker Containers, VMs, and Servers",
       "https://changelog.complete.org/archives/10461-using-yggdrasil-as-an-automatic-mesh-fabric-to-connect-all-your-docker-containers-vms-and-servers"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 23:24:47",
-      "https://lobste.rs/s/drlqik/how_boost_mastodon_server_performance"
-    ],
-    [
-      "How to Boost Mastodon Server Performance with Redis",
-      "https://thenewstack.io/how-to-boost-mastodon-server-performance-with-redis/"
     ]
   ],
   [
