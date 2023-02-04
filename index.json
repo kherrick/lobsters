@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-04, 17:56:00",
+      "https://lobste.rs/s/q11vae/comprehensive_ruby_3_2_changelog"
+    ],
+    [
+      "Comprehensive Ruby 3.2 changelog",
+      "https://rubyreferences.github.io/rubychanges/3.2.html"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 16:32:17",
       "https://lobste.rs/s/u7bs27/cursed_c_alternative_operators"
     ],
@@ -237,16 +247,6 @@
     [
       "Undefined behavior, and the Sledgehammer Principle",
       "https://thephd.dev/c-undefined-behavior-and-the-sledgehammer-guideline"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 23:00:32",
-      "https://lobste.rs/s/cjstzl/math_breakdown_anime_homing_missiles"
-    ],
-    [
-      "Math Breakdown: Anime Homing Missiles",
-      "https://blog.littlepolygon.com/posts/missile/"
     ]
   ]
 ]
