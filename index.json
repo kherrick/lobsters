@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-04, 05:24:01",
+      "https://lobste.rs/s/wn58fj/servo_2023_roadmap"
+    ],
+    [
+      "Servo 2023 Roadmap",
+      "https://servo.org/blog/2023/02/03/servo-2023-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2023-02-04, 05:13:37",
+      "https://lobste.rs/s/bbd1pw/how_amd_killed_itanium"
+    ],
+    [
+      "How AMD killed the Itanium",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/AMDandItanium"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 04:22:20",
       "https://lobste.rs/s/lx0t71/new_macos_dropbox_client_moves_files_from"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-02-03, 09:18:55",
-      "https://lobste.rs/s/bx1ogg/improving_rust_compile_times_enable"
-    ],
-    [
-      "Improving Rust compile times to enable adoption of memory safety",
-      "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
-    ]
-  ],
-  [
-    [
       "2023-02-03, 07:34:44",
       "https://lobste.rs/s/r3aliv/simple_retro_style_invaders_like_game"
     ],
@@ -227,16 +237,6 @@
     [
       "Math Breakdown: Anime Homing Missiles",
       "https://blog.littlepolygon.com/posts/missile/"
-    ]
-  ],
-  [
-    [
-      "2023-02-02, 22:34:37",
-      "https://lobste.rs/s/rniekn/minor_standard_library_changes_go_1_20"
-    ],
-    [
-      "Minor Standard Library Changes in Go 1.20",
-      "https://blog.carlmjohnson.net/post/2023/golang-120-minor-features/"
     ]
   ],
   [
