@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-02-05, 07:46:32",
+      "https://lobste.rs/s/lbcw5b/security_principles_addressing"
+    ],
+    [
+      "Security Principles: Addressing underlying causes of risk in complex systems",
+      "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/02/security-principles-addressing-underlying-causes-risk-complex-systems"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 07:13:46",
       "https://lobste.rs/s/adlwmj/cheapest_flash_microcontroller_you_can"
     ],
@@ -237,16 +247,6 @@
     [
       "FOSDEM 2023 - Live Streaming",
       "https://fosdem.org/2023/schedule/streaming/"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 12:12:28",
-      "https://lobste.rs/s/p9lnja/soupault_4_4_0_release_review_cache"
-    ],
-    [
-      "Soupault 4.4.0 release and a review of cache implementations in static site generators",
-      "https://soupault.app/blog/soupault-4.4.0-release-and-ssg-caching"
     ]
   ]
 ]
