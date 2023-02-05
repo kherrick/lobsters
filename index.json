@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 01:15:15",
+      "https://lobste.rs/s/aw4gp5/all_programming_philosophies_are_about"
+    ],
+    [
+      "All Programming Philosophies Are About State",
+      "https://www.worldofbs.com/minimize-state/"
+    ]
+  ],
+  [
+    [
       "2023-02-04, 23:01:25",
       "https://lobste.rs/s/zbuc2b/check_for_working_https_before_allowing"
     ],
@@ -237,16 +247,6 @@
     [
       "Against risk-based authentication (or, why I wouldn't trust Google Cloud)",
       "https://www.devever.net/~hl/logindenial"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 04:00:20",
-      "https://lobste.rs/s/g6jkeu/i_m_now_full_time_professional_open_source"
-    ],
-    [
-      "I’m Now a Full-Time Professional Open Source Maintainer",
-      "https://words.filippo.io/full-time-maintainer/"
     ]
   ]
 ]
