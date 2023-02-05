@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 19:31:54",
+      "https://lobste.rs/s/o2aph2/computational_design_mechanical"
+    ],
+    [
+      "Computational Design of Mechanical Characters",
+      "https://la.disneyresearch.com/wp-content/uploads/CDMC1.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 14:00:36",
       "https://lobste.rs/s/zjsul9/solving_vm_based_ctf_challenge_without"
     ],
@@ -237,16 +247,6 @@
     [
       "Servo 2023 Roadmap",
       "https://servo.org/blog/2023/02/03/servo-2023-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 04:22:20",
-      "https://lobste.rs/s/lx0t71/new_macos_dropbox_client_moves_files_from"
-    ],
-    [
-      "New macOS Dropbox client moves files from ~/ to ~/Library",
-      "https://help.dropbox.com/installs/macos-support-for-expected-changes"
     ]
   ]
 ]
