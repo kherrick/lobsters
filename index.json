@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 04:26:47",
+      "https://lobste.rs/s/ymfamm/linux_kernel_bypassing_spectre_bti_user"
+    ],
+    [
+      "Linux Kernel: Bypassing Spectre-BTI User Space Mitigations",
+      "https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 04:20:27",
       "https://lobste.rs/s/sk86cj/partialequal"
     ],
@@ -237,16 +247,6 @@
     [
       "Reversing UK mobile rail tickets",
       "https://eta.st/2023/01/31/rail-tickets.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 06:51:13",
-      "https://lobste.rs/s/dhuqtl/against_risk_based_authentication_why_i"
-    ],
-    [
-      "Against risk-based authentication (or, why I wouldn't trust Google Cloud)",
-      "https://www.devever.net/~hl/logindenial"
     ]
   ]
 ]
