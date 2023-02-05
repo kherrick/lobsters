@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 22:18:52",
+      "https://lobste.rs/s/jexsmk/smol_world_compact_garbage_collected"
+    ],
+    [
+      "smol_world: Compact garbage-collected heap and JSON-like object model",
+      "https://github.com/snej/smol_world"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 22:08:21",
       "https://lobste.rs/s/oynr4x/tale_two_times"
     ],
@@ -107,16 +117,6 @@
     [
       "PartialEqual",
       "https://brandur.org/fragments/partial-equal"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 04:15:31",
-      "https://lobste.rs/s/cz6oeq/tape_drive_for_soviet_pdp_11_mainframe"
-    ],
-    [
-      "A tape drive for a Soviet PDP-11 mainframe. Computers of Chernobyl",
-      "https://www.youtube.com/watch?v=K7PQIRKF8wI"
     ]
   ],
   [
