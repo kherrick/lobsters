@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-05, 20:19:41",
+      "https://lobste.rs/s/1pypcm/paper_tickets_smartcards_probably"
+    ],
+    [
+      "paper tickets > smartcards, probably (Reversing UK transit smartcards)",
+      "https://lobi.to/talks/papertickets/"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 19:31:54",
       "https://lobste.rs/s/o2aph2/computational_design_mechanical"
     ],
@@ -67,16 +77,6 @@
     [
       "Type inference that sticks",
       "https://jaredforsyth.com/posts/type-inference-that-sticks/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 04:26:47",
-      "https://lobste.rs/s/ymfamm/linux_kernel_bypassing_spectre_bti_user"
-    ],
-    [
-      "Linux Kernel: Bypassing Spectre-BTI User Space Mitigations",
-      "https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8"
     ]
   ],
   [
