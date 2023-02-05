@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-05, 04:20:27",
+      "https://lobste.rs/s/sk86cj/partialequal"
+    ],
+    [
+      "PartialEqual",
+      "https://brandur.org/fragments/partial-equal"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 04:15:31",
+      "https://lobste.rs/s/cz6oeq/tape_drive_for_soviet_pdp_11_mainframe"
+    ],
+    [
+      "A tape drive for a Soviet PDP-11 mainframe. Computers of Chernobyl",
+      "https://www.youtube.com/watch?v=K7PQIRKF8wI"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 04:07:33",
+      "https://lobste.rs/s/uoo3fj/org_systems_multilingual_word_processor"
+    ],
+    [
+      "ORG Systems' Multilingual Word Processor - India's First Multilingual Word Processor",
+      "https://computeradsfromthepast.substack.com/p/org-systems-multilingual-word-processor"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 03:32:09",
       "https://lobste.rs/s/zghanp/pkgsrc_call_for_action"
     ],
@@ -197,36 +227,6 @@
     [
       "LibColony (library for task scheduling, for simulation games like Dwarf Fortress)",
       "https://mrogalski.eu/libcolony/"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 02:19:06",
-      "https://lobste.rs/s/w5egrh/optimal_amount_fraud_is_non_zero"
-    ],
-    [
-      "The optimal amount of fraud is non-zero",
-      "https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 17:12:35",
-      "https://lobste.rs/s/fmxp81/spritely_institute_launches_guile"
-    ],
-    [
-      "Spritely Institute launches Guile Scheme -> WASM direct compilation project",
-      "https://spritely.institute/news/guile-on-web-assembly-project-underway.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 14:33:51",
-      "https://lobste.rs/s/nsnzb5/hypermedia_clients"
-    ],
-    [
-      "Hypermedia Clients",
-      "https://htmx.org/essays/hypermedia-clients/"
     ]
   ],
   [
