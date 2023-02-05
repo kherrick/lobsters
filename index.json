@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-05, 03:32:09",
+      "https://lobste.rs/s/zghanp/pkgsrc_call_for_action"
+    ],
+    [
+      "pkgsrc and a Call for Action",
+      "https://bentsukun.ch/posts/pkgsrc-agitprop/"
+    ]
+  ],
+  [
+    [
+      "2023-02-05, 03:31:14",
+      "https://lobste.rs/s/ziwtjk/two_c_bugs_i_found"
+    ],
+    [
+      "Two C++ bugs I found",
+      "https://ahelwer.ca/post/2023-02-04-cpp-bugs/"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 01:15:15",
       "https://lobste.rs/s/aw4gp5/all_programming_philosophies_are_about"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-02-03, 19:39:52",
-      "https://lobste.rs/s/xtzrwc/how_i_added_c_style_for_loops_python"
-    ],
-    [
-      "How I added C-style for-loops to Python",
-      "https://sadh.life/post/cursed-for/"
-    ]
-  ],
-  [
-    [
       "2023-02-03, 17:12:35",
       "https://lobste.rs/s/fmxp81/spritely_institute_launches_guile"
     ],
@@ -217,16 +227,6 @@
     [
       "Hypermedia Clients",
       "https://htmx.org/essays/hypermedia-clients/"
-    ]
-  ],
-  [
-    [
-      "2023-02-03, 12:55:09",
-      "https://lobste.rs/s/wk4i9r/scryer_prolog"
-    ],
-    [
-      "Scryer Prolog",
-      "https://www.scryer.pl"
     ]
   ],
   [
