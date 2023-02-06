@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-06, 18:33:22",
+      "https://lobste.rs/s/i98vi1/self_hosting_mastodon_on_aws_using_nomad"
+    ],
+    [
+      "Self-hosting Mastodon on AWS using Nomad",
+      "https://www.carrot.blog/posts/2023/01/self-hosting-mastodon-aws-nomad/"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 18:25:03",
       "https://lobste.rs/s/lcazfn/technology_behind_github_s_new_code"
     ],
@@ -217,16 +227,6 @@
     [
       "smol_world: Compact garbage-collected heap and JSON-like object model",
       "https://github.com/snej/smol_world"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 22:08:21",
-      "https://lobste.rs/s/oynr4x/tale_two_times"
-    ],
-    [
-      "A Tale Of Two Times",
-      "https://portal.mozz.us/gemini/thrig.me/blog/2023/02/04/a-tale-of-two-times.gmi"
     ]
   ],
   [
