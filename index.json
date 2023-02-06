@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-02-06, 20:55:16",
-      "https://lobste.rs/s/pmmh3j/data_is_rectangular_other_limiting"
+      "2023-02-06, 20:53:39",
+      "https://lobste.rs/s/vc8tmx/i_wish_asciidoc_was_more_popular"
     ],
     [
-      "Data is Rectangular and other Limiting Misconceptions",
-      "https://lloydtabb.substack.com/p/data-is-rectangular-and-other-limiting"
+      "I wish Asciidoc was more popular",
+      "https://pdx.su/blog/2023-02-05-asciidoc-and-markdown/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "13 tips and techniques for modern Flask apps",
       "https://pgjones.dev/blog/modern-flask-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 15:45:05",
+      "https://lobste.rs/s/jue3dk/ibm_5153_s_true_cga_palette_color_output"
+    ],
+    [
+      "The IBM 5153's True CGA Palette and Color Output",
+      "https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "smol_world: Compact garbage-collected heap and JSON-like object model",
       "https://github.com/snej/smol_world"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 20:19:41",
-      "https://lobste.rs/s/1pypcm/paper_tickets_smartcards_probably"
-    ],
-    [
-      "paper tickets > smartcards, probably (Reversing UK transit smartcards)",
-      "https://lobi.to/talks/papertickets/"
     ]
   ]
 ]
