@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-06, 15:22:11",
+      "https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be"
+    ],
+    [
+      "It is becoming difficult for me to be productive in Python",
+      "https://avi.im/blag/2023/refactoring-python/"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 11:26:13",
       "https://lobste.rs/s/rw1osk/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "paper tickets > smartcards, probably (Reversing UK transit smartcards)",
       "https://lobi.to/talks/papertickets/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 11:26:36",
-      "https://lobste.rs/s/tabhhv/safe_foreign_callouts_from_racket_swift"
-    ],
-    [
-      "Safe Foreign Callouts from Racket to Swift",
-      "https://defn.io/2023/02/04/racket-foreign-callouts-to-swift/"
     ]
   ],
   [
