@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-06, 21:10:59",
+      "https://lobste.rs/s/te18pd/proposal_log_slog_structured_leveled"
+    ],
+    [
+      "proposal: log/slog: structured, leveled logging · Issue #56345 · golang/go",
+      "https://github.com/golang/go/issues/56345"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 20:55:16",
       "https://lobste.rs/s/pmmh3j/data_is_rectangular_other_limiting"
     ],
@@ -107,16 +117,6 @@
     [
       "13 tips and techniques for modern Flask apps",
       "https://pgjones.dev/blog/modern-flask-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 15:45:05",
-      "https://lobste.rs/s/jue3dk/ibm_5153_s_true_cga_palette_color_output"
-    ],
-    [
-      "The IBM 5153's True CGA Palette and Color Output",
-      "https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/"
     ]
   ],
   [
