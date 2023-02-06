@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-06, 18:25:03",
+      "https://lobste.rs/s/lcazfn/technology_behind_github_s_new_code"
+    ],
+    [
+      "The technology behind GitHub’s new code search",
+      "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 18:22:34",
+      "https://lobste.rs/s/hfzdun/fast_dynamic_encoding_protocol_buffers"
+    ],
+    [
+      "Fast and dynamic encoding of Protocol Buffers in Go",
+      "https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 17:59:59",
       "https://lobste.rs/s/kbuuab/netdata_v1_38_0"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-06, 00:24:56",
-      "https://lobste.rs/s/q0n2w2/implementing_pthread_cancellation"
-    ],
-    [
-      "Implementing pthread cancellation in mlibc",
-      "https://managarm.org/2023/01/21/pthread-cancellation.html"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 22:46:25",
       "https://lobste.rs/s/je5sw7/solidgoldmagikarp_plus_prompt"
     ],
@@ -227,16 +237,6 @@
     [
       "paper tickets > smartcards, probably (Reversing UK transit smartcards)",
       "https://lobi.to/talks/papertickets/"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 03:31:14",
-      "https://lobste.rs/s/ziwtjk/two_c_bugs_i_found"
-    ],
-    [
-      "Two C++ bugs I found",
-      "https://ahelwer.ca/post/2023-02-04-cpp-bugs/"
     ]
   ],
   [
