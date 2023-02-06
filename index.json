@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-06, 19:12:42",
+      "https://lobste.rs/s/pksjvg/announcing_jupyenv_0_1_0"
+    ],
+    [
+      "Announcing jupyenv 0.1.0",
+      "https://www.tweag.io/blog/2023-02-02-jupyenv-0-1-0/"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 18:33:22",
       "https://lobste.rs/s/i98vi1/self_hosting_mastodon_on_aws_using_nomad"
     ],
@@ -137,16 +147,6 @@
     [
       "Binary to text encoding -- state of the art and missed opportunities",
       "https://notes.volution.ro/v1/2023/02/notes/0a9aaa3a/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 07:14:43",
-      "https://lobste.rs/s/xfytyj/data_migration_tips"
-    ],
-    [
-      "Data Migration Tips",
-      "https://www.endpointdev.com/blog/2023/02/migration-tips-and-tricks/"
     ]
   ],
   [
