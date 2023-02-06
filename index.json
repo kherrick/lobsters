@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-06, 00:26:03",
+      "https://lobste.rs/s/vt7eyb/internal_pull_up_resistors_are"
+    ],
+    [
+      "Internal pull-up resistors are insufficient for I2C",
+      "https://www.joshmcguigan.com/blog/internal-pull-up-resistor-i2c/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 00:24:56",
+      "https://lobste.rs/s/q0n2w2/implementing_pthread_cancellation"
+    ],
+    [
+      "Implementing pthread cancellation in mlibc",
+      "https://managarm.org/2023/01/21/pthread-cancellation.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 00:22:18",
+      "https://lobste.rs/s/segfwu/why_i_use_c_when_i_believe_memory_safety"
+    ],
+    [
+      "Why I Use C When I Believe in Memory Safety",
+      "https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/"
+    ]
+  ],
+  [
+    [
       "2023-02-05, 22:46:25",
       "https://lobste.rs/s/je5sw7/solidgoldmagikarp_plus_prompt"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2023-02-05, 04:20:27",
-      "https://lobste.rs/s/sk86cj/partialequal"
-    ],
-    [
-      "PartialEqual",
-      "https://brandur.org/fragments/partial-equal"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 04:07:33",
-      "https://lobste.rs/s/uoo3fj/org_systems_multilingual_word_processor"
-    ],
-    [
-      "ORG Systems' Multilingual Word Processor - India's First Multilingual Word Processor",
-      "https://computeradsfromthepast.substack.com/p/org-systems-multilingual-word-processor"
-    ]
-  ],
-  [
-    [
       "2023-02-05, 03:32:09",
       "https://lobste.rs/s/zghanp/pkgsrc_call_for_action"
     ],
@@ -207,16 +217,6 @@
     [
       "Comprehensive Ruby 3.2 changelog",
       "https://rubyreferences.github.io/rubychanges/3.2.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-04, 16:32:17",
-      "https://lobste.rs/s/u7bs27/cursed_c_alternative_operators"
-    ],
-    [
-      "Cursed C++: Alternative Operators",
-      "https://www.cedricmartens.com/articles/alt_ops"
     ]
   ],
   [
