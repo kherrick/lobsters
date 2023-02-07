@@ -35,7 +35,7 @@
       "https://lobste.rs/s/zivvw7/whippet_towards_new_local_maximum"
     ],
     [
-      "whippet: towards a new local maximum -- wingolog",
+      "whippet: towards a new local maximum",
       "https://wingolog.org/archives/2023/02/07/whippet-towards-a-new-local-maximum"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Stack graphs: Name resolution at scale",
       "https://dcreager.net/publications/016-stack-graphs/stack-graphs.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 14:49:57",
-      "https://lobste.rs/s/tqhna8/10_years_scala_js"
-    ],
-    [
-      "10 years of Scala.js",
-      "https://www.scala-lang.org/blog-detail/2023/02/05/ten-years-of-scala-js.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "The technology behind GitHub’s new code search",
       "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 18:22:34",
+      "https://lobste.rs/s/hfzdun/fast_dynamic_encoding_protocol_buffers"
+    ],
+    [
+      "Fast and dynamic encoding of Protocol Buffers in Go",
+      "https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang"
     ]
   ],
   [
