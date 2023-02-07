@@ -111,12 +111,32 @@
   ],
   [
     [
+      "2023-02-06, 17:59:59",
+      "https://lobste.rs/s/kbuuab/netdata_v1_38_0"
+    ],
+    [
+      "Netdata v1.38.0",
+      "https://github.com/netdata/netdata/releases/tag/v1.38.0"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 17:10:00",
       "https://lobste.rs/s/lzdbdx/hacking_into_toyota_s_global_supplier"
     ],
     [
       "Hacking into Toyota’s global supplier management network",
       "https://eaton-works.com/2023/02/06/toyota-gspims-hack/"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 17:09:04",
+      "https://lobste.rs/s/5whmr7/evolution_facebook_s_ios_app"
+    ],
+    [
+      "The evolution of Facebook’s iOS app architecture",
+      "https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-02-06, 03:29:13",
-      "https://lobste.rs/s/24txv3/enabling_static_analysis_sql_queries_at"
-    ],
-    [
-      "Enabling static analysis of SQL queries at Meta",
-      "https://engineering.fb.com/2022/11/30/data-infrastructure/static-analysis-sql-queries/"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 03:16:25",
       "https://lobste.rs/s/ocadne/announcing_masonry_0_1_my_vision_for_rust"
     ],
     [
       "Announcing Masonry 0.1, and my vision for Rust UI",
       "https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 02:06:31",
-      "https://lobste.rs/s/gkqvsi/using_gpt_3_help_with_proofreading"
-    ],
-    [
-      "Using GPT-3 to help with proofreading",
-      "https://vgel.me/posts/gpted-launch/"
     ]
   ],
   [
