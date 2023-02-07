@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-07, 20:17:13",
+      "https://lobste.rs/s/dw4goy/code_quality_pyramid"
+    ],
+    [
+      "The code quality pyramid",
+      "https://fabianzeindl.com/posts/the-codequality-pyramid"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 20:14:26",
+      "https://lobste.rs/s/ycdno6/kde_plasma_full_featured_desktop_s"
+    ],
+    [
+      "KDE Plasma: Full Featured Desktop That's Surprisingly Easy on Resources",
+      "https://fossforce.com/2023/02/kde-plasma-full-featured-desktop-thats-surprisingly-easy-on-resources/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 20:07:00",
       "https://lobste.rs/s/t4ssxd/speeding_up_rust_semver_checking_by_over"
     ],
@@ -47,16 +67,6 @@
     [
       "What's the difference between references and pointers in Rust?",
       "https://ntietz.com/blog/rust-references-vs-pointers/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 18:41:52",
-      "https://lobste.rs/s/jbiurf/current_xen_risc_v_support_status"
-    ],
-    [
-      "Current Xen RISC-V support status",
-      "https://xcp-ng.org/blog/2023/02/07/current-xen-risc-v-support-status/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "How do I add key commitment to my AEAD scheme in 2023?",
       "https://brycx.github.io/2023/02/07/aead-key-commitment.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 08:56:14",
-      "https://lobste.rs/s/t4ocy4/interactive_go_code_review_mox_mail"
-    ],
-    [
-      "Interactive Go Code Review: mox mail server",
-      "https://youtu.be/z6pGvbGXo38"
     ]
   ],
   [
