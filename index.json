@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-07, 16:59:38",
+      "https://lobste.rs/s/tbnyup/real_time_semantic_search_demo"
+    ],
+    [
+      "Real-time semantic search demo",
+      "https://paulw.tokyo/post/real-time-semantic-search-demo/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 16:43:18",
       "https://lobste.rs/s/zivvw7/whippet_towards_new_local_maximum"
     ],
@@ -157,16 +167,6 @@
     [
       "Mypy 1.0 Released",
       "https://mypy-lang.blogspot.com/2023/02/mypy-10-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 21:10:59",
-      "https://lobste.rs/s/te18pd/proposal_log_slog_structured_leveled"
-    ],
-    [
-      "proposal: log/slog: structured, leveled logging · Issue #56345 · golang/go",
-      "https://github.com/golang/go/issues/56345"
     ]
   ],
   [
