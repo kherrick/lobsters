@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-07, 15:48:41",
+      "https://lobste.rs/s/t3mrpw/nullness_markers_enable_flattening_java"
+    ],
+    [
+      "Nullness markers to enable flattening in Java",
+      "https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 14:53:40",
       "https://lobste.rs/s/vyb9rm/stack_graphs_name_resolution_at_scale"
     ],
@@ -47,16 +57,6 @@
     [
       "How do I add key commitment to my AEAD scheme in 2023?",
       "https://brycx.github.io/2023/02/07/aead-key-commitment.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 09:42:37",
-      "https://lobste.rs/s/n5hfoi/introducing_rules_xcodeproj_1_0"
-    ],
-    [
-      "Introducing rules_xcodeproj 1.0 | BuildBuddy",
-      "https://www.buildbuddy.io/blog/introducing-rules_xcodeproj-1-0/"
     ]
   ],
   [
