@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-02-06, 15:52:01",
+      "https://lobste.rs/s/6tvf5w/13_tips_techniques_for_modern_flask_apps"
+    ],
+    [
+      "13 tips and techniques for modern Flask apps",
+      "https://pgjones.dev/blog/modern-flask-2023/"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 15:22:11",
       "https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenTTD 13.0 released",
       "https://www.openttd.org/news/2023/02/05/openttd-13-0"
-    ]
-  ],
-  [
-    [
-      "2023-02-05, 22:18:52",
-      "https://lobste.rs/s/jexsmk/smol_world_compact_garbage_collected"
-    ],
-    [
-      "smol_world: Compact garbage-collected heap and JSON-like object model",
-      "https://github.com/snej/smol_world"
     ]
   ]
 ]
