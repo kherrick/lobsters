@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-07, 19:04:41",
+      "https://lobste.rs/s/jfwna2/openssl_security_advisory_7th_february"
+    ],
+    [
+      "OpenSSL Security Advisory [7th February 2023]",
+      "https://www.openssl.org/news/secadv/20230207.txt"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 18:59:23",
+      "https://lobste.rs/s/yad0nf/lightweight_cryptography"
+    ],
+    [
+      "Lightweight Cryptography Standardization Process: NIST Selects Ascon",
+      "https://csrc.nist.gov/News/2023/lightweight-cryptography-nist-selects-ascon"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 18:46:20",
       "https://lobste.rs/s/u2rvqe/what_s_difference_between_references"
     ],
@@ -37,16 +57,6 @@
     [
       "Docker Without Docker",
       "https://matt-rickard.com/docker-without-docker"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 16:59:38",
-      "https://lobste.rs/s/tbnyup/real_time_semantic_search_demo"
-    ],
-    [
-      "Real-time semantic search demo",
-      "https://paulw.tokyo/post/real-time-semantic-search-demo/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "It is becoming difficult for me to be productive in Python",
       "https://avi.im/blag/2023/refactoring-python/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 06:30:33",
-      "https://lobste.rs/s/iiridj/openttd_13_0_released"
-    ],
-    [
-      "OpenTTD 13.0 released",
-      "https://www.openttd.org/news/2023/02/05/openttd-13-0"
     ]
   ]
 ]
