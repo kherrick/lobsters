@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-07, 20:58:43",
+      "https://lobste.rs/s/z5bq6f/big_data_is_dead"
+    ],
+    [
+      "Big Data is Dead",
+      "https://motherduck.com/blog/big-data-is-dead/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 20:54:00",
+      "https://lobste.rs/s/ieqvjt/can_sanitizers_find_two_bugs_i_wrote_c"
+    ],
+    [
+      "Can sanitizers find the two bugs I wrote in C++?",
+      "https://ahelwer.ca/post/2023-02-07-cpp-bugs-sanitized/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 20:17:13",
       "https://lobste.rs/s/dw4goy/code_quality_pyramid"
     ],
@@ -27,16 +47,6 @@
     [
       "Speeding up Rust semver-checking by over 2000x",
       "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 19:49:16",
-      "https://lobste.rs/s/eesivj/what_online_successful_business_you_ran"
-    ],
-    [
-      "What Online Successful Business You Ran as a single person",
-      "https://lobste.rs/s/eesivj/what_online_successful_business_you_ran"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "How do I add key commitment to my AEAD scheme in 2023?",
       "https://brycx.github.io/2023/02/07/aead-key-commitment.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 23:53:24",
-      "https://lobste.rs/s/blewqm/print_on_freebsd"
-    ],
-    [
-      "Print on FreeBSD",
-      "https://vermaden.wordpress.com/2023/02/07/print-on-freebsd/"
     ]
   ],
   [
