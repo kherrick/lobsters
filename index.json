@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-07, 21:18:51",
+      "https://lobste.rs/s/u63roi/it_s_worth_running_freebsd_netbsd_desktop"
+    ],
+    [
+      "It’s worth running a FreeBSD or NetBSD desktop",
+      "https://rubenerd.com/its-worth-running-a-freebsd-or-netbsd-desktop/"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 21:07:06",
+      "https://lobste.rs/s/aqnjd5/sniffnet_comfortably_monitor_your"
+    ],
+    [
+      "Sniffnet: comfortably monitor your network traffic - New Release v1.1.0",
+      "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.0"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 20:58:43",
       "https://lobste.rs/s/z5bq6f/big_data_is_dead"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2023-02-07, 18:41:52",
+      "https://lobste.rs/s/jbiurf/current_xen_risc_v_support_status"
+    ],
+    [
+      "Current Xen RISC-V support status",
+      "https://xcp-ng.org/blog/2023/02/07/current-xen-risc-v-support-status/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 17:39:10",
       "https://lobste.rs/s/zm8jvc/creatively_misusing_tla"
     ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2023-02-07, 10:45:59",
-      "https://lobste.rs/s/ap7vdm/how_do_i_add_key_commitment_my_aead_scheme"
-    ],
-    [
-      "How do I add key commitment to my AEAD scheme in 2023?",
-      "https://brycx.github.io/2023/02/07/aead-key-commitment.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 23:50:27",
-      "https://lobste.rs/s/mfq2v6/regrets"
-    ],
-    [
-      "Of regrets",
-      "https://laanwj.github.io/2023/02/06/regrets.html"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 22:01:24",
       "https://lobste.rs/s/mvdjrs/visual_design_rules_you_can_safely_follow"
     ],
@@ -217,16 +227,6 @@
     [
       "You’re making me buy a new phone",
       "https://www.kooslooijesteijn.net/blog/you-are-making-me-buy-a-new-phone"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 18:25:03",
-      "https://lobste.rs/s/lcazfn/technology_behind_github_s_new_code"
-    ],
-    [
-      "The technology behind GitHub’s new code search",
-      "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/"
     ]
   ],
   [
