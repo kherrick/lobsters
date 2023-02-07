@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-07, 19:31:44",
+      "https://lobste.rs/s/umjuex/anansi_ruby_set_using_mem_disk_sqlite_for"
+    ],
+    [
+      "Anansi – a Ruby Set using mem and disk (SQLite) for large sized tasks",
+      "https://census.dev/blog/anansi"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 19:04:41",
       "https://lobste.rs/s/jfwna2/openssl_security_advisory_7th_february"
     ],
@@ -147,16 +157,6 @@
     [
       "Interactive Go Code Review: mox mail server",
       "https://youtu.be/z6pGvbGXo38"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 05:26:40",
-      "https://lobste.rs/s/uoi7zr/introduce_branchless_sorting_functions"
-    ],
-    [
-      "Introduce branchless sorting functions for sort3, sort4 and sort5",
-      "https://reviews.llvm.org/D118029"
     ]
   ],
   [
