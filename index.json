@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-02-07, 00:40:21",
+      "https://lobste.rs/s/repvrz/historical_look_at_vax_economics"
+    ],
+    [
+      "A Historical Look at the VAX: The Economics of Microprocessors",
+      "https://bitsavers.org/pdf/dec/vax/VAX_Retrospective_20060124.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-06, 23:53:24",
       "https://lobste.rs/s/blewqm/print_on_freebsd"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-02-06, 20:55:16",
-      "https://lobste.rs/s/pmmh3j/data_is_rectangular_other_limiting"
-    ],
-    [
-      "Data is Rectangular and other Limiting Misconceptions",
-      "https://lloydtabb.substack.com/p/data-is-rectangular-and-other-limiting"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 20:53:39",
       "https://lobste.rs/s/vc8tmx/i_wish_asciidoc_was_more_popular"
     ],
@@ -117,6 +117,16 @@
     [
       "Fast and dynamic encoding of Protocol Buffers in Go",
       "https://vincent.bernat.ch/en/blog/2023-dynamic-protobuf-golang"
+    ]
+  ],
+  [
+    [
+      "2023-02-06, 17:59:59",
+      "https://lobste.rs/s/kbuuab/netdata_v1_38_0"
+    ],
+    [
+      "Netdata v1.38.0",
+      "https://github.com/netdata/netdata/releases/tag/v1.38.0"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Netflix wants to chop down your family tree",
       "https://pluralistic.net/2023/02/02/nonbinary-families/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 07:29:50",
-      "https://lobste.rs/s/swkp6b/binary_text_encoding_state_art_missed"
-    ],
-    [
-      "Binary to text encoding -- state of the art and missed opportunities",
-      "https://notes.volution.ro/v1/2023/02/notes/0a9aaa3a/"
     ]
   ],
   [
