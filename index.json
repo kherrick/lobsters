@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-07, 16:37:06",
+      "https://lobste.rs/s/zetr3x/zrok_open_source_peer_peer_private"
+    ],
+    [
+      "zrok - open source, peer to peer private sharing",
+      "https://blog.openziti.io/introducing-zrok"
+    ]
+  ],
+  [
+    [
+      "2023-02-07, 16:25:49",
+      "https://lobste.rs/s/csz0vp/wi_r_protocol_relies_on_body_for_data"
+    ],
+    [
+      "The Wi-R protocol relies on body for data communication, consumes up to 100x less than Bluetooth",
+      "https://www.cnx-software.com/2023/02/07/the-wi-r-protocol-relies-on-body-for-data-communication-consumes-up-to-100x-less-than-bluetooth/"
+    ]
+  ],
+  [
+    [
       "2023-02-07, 15:48:41",
       "https://lobste.rs/s/t3mrpw/nullness_markers_enable_flattening_java"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-02-06, 17:59:59",
-      "https://lobste.rs/s/kbuuab/netdata_v1_38_0"
-    ],
-    [
-      "Netdata v1.38.0",
-      "https://github.com/netdata/netdata/releases/tag/v1.38.0"
-    ]
-  ],
-  [
-    [
       "2023-02-06, 16:20:21",
       "https://lobste.rs/s/haorfd/cheriot_rethinking_security_for_low_cost"
     ],
@@ -217,16 +227,6 @@
     [
       "It is becoming difficult for me to be productive in Python",
       "https://avi.im/blag/2023/refactoring-python/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 09:31:09",
-      "https://lobste.rs/s/oasqtt/other_cryptographic_agents_outside_ssh"
-    ],
-    [
-      "Other cryptographic agents outside `ssh-agent` / `gpg-agent`?",
-      "https://lobste.rs/s/oasqtt/other_cryptographic_agents_outside_ssh"
     ]
   ],
   [
