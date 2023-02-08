@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 19:35:24",
+      "https://lobste.rs/s/kkh99s/gstreamer_1_22_bigger_better"
+    ],
+    [
+      "GStreamer 1.22: Bigger and better",
+      "https://www.collabora.com/news-and-blog/news-and-events/gstreamer-122-bigger-better.html"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 19:17:02",
       "https://lobste.rs/s/hej4kg/telemetry_go_toolchain"
     ],
@@ -157,16 +167,6 @@
     [
       "Improving incremental test times in Rust",
       "https://blog.waleedkhan.name/rust-incremental-test-times/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 00:39:02",
-      "https://lobste.rs/s/rvnd9e/aurae_distributed_runtime_fosdem_2023"
-    ],
-    [
-      "Aurae: Distributed Runtime - Fosdem 2023",
-      "https://m.youtube.com/watch?v=5a277u4j6fU"
     ]
   ],
   [
