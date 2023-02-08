@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 13:40:50",
+      "https://lobste.rs/s/xuavob/video_compression_for_mere_mortals"
+    ],
+    [
+      "Video Compression for Mere Mortals",
+      "https://xeiaso.net/blog/video-compression"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 13:22:58",
       "https://lobste.rs/s/sufwry/rustler_using_rust_crates_elixir"
     ],
@@ -237,16 +247,6 @@
     [
       "Visual design rules you can safely follow every time",
       "https://anthonyhobday.com/sideprojects/saferules/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 15:22:11",
-      "https://lobste.rs/s/rpchmh/it_is_becoming_difficult_for_me_be"
-    ],
-    [
-      "It is becoming difficult for me to be productive in Python",
-      "https://avi.im/blag/2023/refactoring-python/"
     ]
   ]
 ]
