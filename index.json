@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 15:55:31",
+      "https://lobste.rs/s/bnk9pu/volar_js_embedded_language_tooling"
+    ],
+    [
+      "Volar.js: the Embedded Language Tooling Framework",
+      "https://blog.vuejs.org/posts/volar-a-new-beginning.html"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 14:18:35",
       "https://lobste.rs/s/bhbqkb/transparent_telemetry_for_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "The European public DNS that makes your Internet safer",
       "https://www.dns0.eu/"
-    ]
-  ],
-  [
-    [
-      "2023-02-06, 22:01:24",
-      "https://lobste.rs/s/mvdjrs/visual_design_rules_you_can_safely_follow"
-    ],
-    [
-      "Visual design rules you can safely follow every time",
-      "https://anthonyhobday.com/sideprojects/saferules/"
     ]
   ]
 ]
