@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-08, 18:16:42",
+      "https://lobste.rs/s/hcv60e/profiling_optimizing_gnome_software"
+    ],
+    [
+      "Profiling & optimizing GNOME Software",
+      "https://feaneron.com/2023/02/07/profiling-optimizing-gnome-software/"
+    ]
+  ],
+  [
+    [
+      "2023-02-08, 18:10:39",
+      "https://lobste.rs/s/4dq6ap/participating_programming_language_s"
+    ],
+    [
+      "Participating in programming language's evolution during interesting times",
+      "https://zverok.space/blog/2023-02-07-changelog2023.html"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 17:37:06",
       "https://lobste.rs/s/knrjzs/why_does_0_1_0_2_0_30000000000000004"
     ],
@@ -217,26 +237,6 @@
     [
       "whippet: towards a new local maximum",
       "https://wingolog.org/archives/2023/02/07/whippet-towards-a-new-local-maximum"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 16:25:49",
-      "https://lobste.rs/s/csz0vp/wi_r_protocol_relies_on_body_for_data"
-    ],
-    [
-      "The Wi-R protocol relies on body for data communication, consumes up to 100x less than Bluetooth",
-      "https://www.cnx-software.com/2023/02/07/the-wi-r-protocol-relies-on-body-for-data-communication-consumes-up-to-100x-less-than-bluetooth/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 14:53:40",
-      "https://lobste.rs/s/vyb9rm/stack_graphs_name_resolution_at_scale"
-    ],
-    [
-      "Stack graphs: Name resolution at scale",
-      "https://dcreager.net/publications/016-stack-graphs/stack-graphs.pdf"
     ]
   ],
   [
