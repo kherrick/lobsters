@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-08, 13:22:58",
+      "https://lobste.rs/s/sufwry/rustler_using_rust_crates_elixir"
+    ],
+    [
+      "Rustler - Using Rust crates in Elixir",
+      "https://mainmatter.com/blog/2023/02/01/using-rust-crates-in-elixir/"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 11:40:05",
       "https://lobste.rs/s/sqtnxf/shells_are_two_things"
     ],
@@ -147,16 +157,6 @@
     [
       "Speeding up Rust semver-checking by over 2000x",
       "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 19:31:44",
-      "https://lobste.rs/s/umjuex/anansi_ruby_set_using_mem_disk_sqlite_for"
-    ],
-    [
-      "Anansi – a Ruby Set using mem and disk (SQLite) for large sized tasks",
-      "https://census.dev/blog/anansi"
     ]
   ],
   [
