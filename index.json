@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-09, 01:39:34",
+      "https://lobste.rs/s/enbd1f/how_github_s_upgrade_broke_bazel_builds"
+    ],
+    [
+      "How GitHub's upgrade broke Bazel builds",
+      "https://jayconrod.com/posts/127/how-github-s-upgrade-broke-bazel-builds"
+    ]
+  ],
+  [
+    [
       "2023-02-08, 23:57:22",
       "https://lobste.rs/s/4j9eky/profile_guided_optimization_preview"
     ],
@@ -137,16 +147,6 @@
     [
       "Shells are Two Things",
       "https://borretti.me/article/shells-are-two-things"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 09:49:21",
-      "https://lobste.rs/s/z3sfd2/racket_v8_8"
-    ],
-    [
-      "Racket v8.8",
-      "https://blog.racket-lang.org/2023/02/racket-v8-8.html"
     ]
   ],
   [
