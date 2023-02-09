@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-09, 05:21:23",
+      "https://lobste.rs/s/u7d8py/update_net_language_strategy"
+    ],
+    [
+      "Update to the .NET language strategy",
+      "https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 04:37:31",
       "https://lobste.rs/s/rjglvk/r65_code_emulator_1978_homebrew_6502"
     ],
@@ -237,16 +247,6 @@
     [
       "Speeding up Rust semver-checking by over 2000x",
       "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 17:32:48",
-      "https://lobste.rs/s/7jpp4z/docker_without_docker"
-    ],
-    [
-      "Docker Without Docker",
-      "https://matt-rickard.com/docker-without-docker"
     ]
   ]
 ]
