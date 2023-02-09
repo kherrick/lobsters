@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-09, 15:13:24",
+      "https://lobste.rs/s/n8ener/using_clickhouse_with_clojure"
+    ],
+    [
+      "Using ClickHouse with Clojure",
+      "https://github.com/tomekw/hikari-cp#clickhouse-example"
+    ]
+  ],
+  [
+    [
+      "2023-02-09, 15:12:48",
+      "https://lobste.rs/s/tx68ij/virtual_agc_project"
+    ],
+    [
+      "The Virtual AGC Project",
+      "https://www.youtube.com/watch?v=YU6C0udixgs"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 12:21:32",
       "https://lobste.rs/s/zsotib/cascading_failures_impossibility"
     ],
@@ -57,16 +77,6 @@
     [
       "How GitHub's upgrade broke Bazel builds",
       "https://jayconrod.com/posts/127/how-github-s-upgrade-broke-bazel-builds"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 23:57:22",
-      "https://lobste.rs/s/4j9eky/profile_guided_optimization_preview"
-    ],
-    [
-      "Profile-guided optimization preview",
-      "https://go.dev/blog/pgo-preview"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "It’s worth running a FreeBSD or NetBSD desktop",
       "https://rubenerd.com/its-worth-running-a-freebsd-or-netbsd-desktop/"
-    ]
-  ],
-  [
-    [
-      "2023-02-07, 20:54:00",
-      "https://lobste.rs/s/ieqvjt/can_sanitizers_find_two_bugs_i_wrote_c"
-    ],
-    [
-      "Can sanitizers find the two bugs I wrote in C++?",
-      "https://ahelwer.ca/post/2023-02-07-cpp-bugs-sanitized/"
     ]
   ],
   [
