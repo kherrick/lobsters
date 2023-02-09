@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-09, 04:37:31",
+      "https://lobste.rs/s/rjglvk/r65_code_emulator_1978_homebrew_6502"
+    ],
+    [
+      "R65: Code and emulator of a 1978 homebrew 6502 computer",
+      "https://github.com/rricharz/R65"
+    ]
+  ],
+  [
+    [
       "2023-02-09, 01:39:34",
       "https://lobste.rs/s/enbd1f/how_github_s_upgrade_broke_bazel_builds"
     ],
@@ -17,16 +27,6 @@
     [
       "Profile-guided optimization preview",
       "https://go.dev/blog/pgo-preview"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 23:04:27",
-      "https://lobste.rs/s/k2pfjh/how_use_matrix"
-    ],
-    [
-      "How to use Matrix",
-      "https://akselmo.dev/2022/12/29/How-To-Use-Matrix.html"
     ]
   ],
   [
