@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-10, 03:29:31",
+      "https://lobste.rs/s/p6hlqs/running_nixos_vm_on_macos"
+    ],
+    [
+      "Running a NixOS VM on macOS",
+      "https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 02:56:43",
       "https://lobste.rs/s/ukbz1i/oxide_chamber_mysteries"
     ],
@@ -217,16 +227,6 @@
     [
       "Why does 0.1 + 0.2 = 0.30000000000000004?",
       "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/"
-    ]
-  ],
-  [
-    [
-      "2023-02-08, 14:18:35",
-      "https://lobste.rs/s/bhbqkb/transparent_telemetry_for_open_source"
-    ],
-    [
-      "Transparent Telemetry for Open-Source Projects (Transparent Telemetry, Part 1)",
-      "https://research.swtch.com/telemetry-intro"
     ]
   ],
   [
