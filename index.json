@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-10, 12:35:38",
+      "https://lobste.rs/s/gigsbb/why_i_m_not_biggest_fan_single_page"
+    ],
+    [
+      "Why I'm not the biggest fan of Single Page Applications",
+      "https://www.matuzo.at/blog/2023/single-page-applications-criticism/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 09:05:09",
       "https://lobste.rs/s/tnvk82/orlp_glidesort_rust_implementation"
     ],
@@ -167,16 +177,6 @@
     [
       "PALLOC: DRAM Bank-Aware Memory Allocator for Performance Isolation on Multicore Platforms",
       "http://www.ittc.ku.edu/~heechul/papers/palloc-rtas2014.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 17:10:51",
-      "https://lobste.rs/s/rrsihj/external_garbage_collection_how_clean_up"
-    ],
-    [
-      "External Garbage Collection — How To Clean Up Your Trash",
-      "https://census.dev/blog/external-garbage-collection"
     ]
   ],
   [
