@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-10, 15:53:35",
+      "https://lobste.rs/s/q0nctg/exploring_various_ways_flattening_route"
+    ],
+    [
+      "Exploring various ways of flattening route trees in Clojure",
+      "https://www.pixelated-noise.com/blog/2023/02/09/flatten-routes/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-10, 15:50:51",
+      "https://lobste.rs/s/7bbahz/gcc_cobol_status_report"
+    ],
+    [
+      "A GCC COBOL status report",
+      "https://lwn.net/Articles/922951/"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 15:24:35",
       "https://lobste.rs/s/tbcief/how_zig_ide_could_work"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-09, 19:19:22",
-      "https://lobste.rs/s/nq49si/fosdem_2023_game_trees_daemon"
-    ],
-    [
-      "FOSDEM 2023 - Game of Trees Daemon",
-      "https://fosdem.org/2023/schedule/event/game_of_trees_daemon/"
-    ]
-  ],
-  [
-    [
       "2023-02-09, 19:09:42",
       "https://lobste.rs/s/g3rhqr/create_bilingual_books_yourself"
     ],
@@ -217,16 +227,6 @@
     [
       "Using ClickHouse with Clojure",
       "https://github.com/tomekw/hikari-cp#clickhouse-example"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 12:21:32",
-      "https://lobste.rs/s/zsotib/cascading_failures_impossibility"
-    ],
-    [
-      "Cascading failures and the impossibility of scheduling team lunches",
-      "https://jaywhy13.hashnode.dev/cascading-failures-and-the-impossibility-of-scheduling-team-lunches"
     ]
   ],
   [
