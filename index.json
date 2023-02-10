@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-10, 18:22:11",
+      "https://lobste.rs/s/xwchvz/using_rxdb_as_database_node_js"
+    ],
+    [
+      "Using RxDB as a Database in Node.js",
+      "https://rxdb.info/nodejs-database.html"
+    ]
+  ],
+  [
+    [
       "2023-02-10, 17:42:54",
       "https://lobste.rs/s/5ffqfm/new_approach_domain_ranking"
     ],
@@ -157,16 +167,6 @@
     [
       "Derek Sivers on OpenBSD",
       "https://rubenerd.com/derek-sivers-on-openbsd/"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 03:29:31",
-      "https://lobste.rs/s/p6hlqs/running_nixos_vm_on_macos"
-    ],
-    [
-      "Running a NixOS VM on macOS",
-      "https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/"
     ]
   ],
   [
