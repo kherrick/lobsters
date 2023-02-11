@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 17:34:28",
+      "https://lobste.rs/s/ttbchy/performance_analysis_five_stable_sort"
+    ],
+    [
+      "A performance analysis of five stable sort algorithms",
+      "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/glidesort_perf_analysis/text.md"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 16:55:31",
       "https://lobste.rs/s/d55kdf/creating_hosting_your_own_deb_packages"
     ],
@@ -157,16 +167,6 @@
     [
       "gofumpt: A stricter gofmt",
       "https://github.com/mvdan/gofumpt"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 17:42:54",
-      "https://lobste.rs/s/5ffqfm/new_approach_domain_ranking"
-    ],
-    [
-      "A new approach to domain ranking",
-      "https://memex.marginalia.nu/log/73-new-approach-to-ranking.gmi"
     ]
   ],
   [
