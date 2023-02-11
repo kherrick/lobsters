@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 16:55:31",
+      "https://lobste.rs/s/d55kdf/creating_hosting_your_own_deb_packages"
+    ],
+    [
+      "Creating and hosting your own DEB packages and apt repo",
+      "https://earthly.dev/blog/creating-and-hosting-your-own-deb-packages-and-apt-repo/"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 16:51:16",
       "https://lobste.rs/s/jqr0hq/build_online_resume_with_auto_updating"
     ],
@@ -237,16 +247,6 @@
     [
       "We need programming mentors",
       "https://paperless.blog/we-need-programming-mentors"
-    ]
-  ],
-  [
-    [
-      "2023-02-09, 19:43:45",
-      "https://lobste.rs/s/wnbmjg/continuous_amnesia_issue"
-    ],
-    [
-      "The continuous amnesia issue",
-      "https://www.ufried.com/blog/continuous_amnesia_issue/"
     ]
   ]
 ]
