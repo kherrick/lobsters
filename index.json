@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-11, 08:58:42",
+      "https://lobste.rs/s/swmbg4/how_improve_application_security_using"
+    ],
+    [
+      "How to improve application security using _FORTIFY_SOURCE=3",
+      "https://developers.redhat.com/articles/2023/02/06/how-improve-application-security-using-fortifysource3"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 08:56:21",
       "https://lobste.rs/s/uvq712/how_we_added_support_for_c_23_assume"
     ],
@@ -47,16 +57,6 @@
     [
       "gofumpt: A stricter gofmt",
       "https://github.com/mvdan/gofumpt"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 20:02:24",
-      "https://lobste.rs/s/9oiogd/qobjects_ownership_propagate_const_c"
-    ],
-    [
-      "QObjects, Ownership, propagate_const and C++ Evolution",
-      "https://www.kdab.com/qobject_ownership_propagate_const/"
     ]
   ],
   [
