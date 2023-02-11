@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-02-11, 17:39:39",
+      "https://lobste.rs/s/ukl0pl/hakyll_nix_template_tutorial"
+    ],
+    [
+      "The hakyll-nix-template Tutorial",
+      "https://robertwpearce.com/the-hakyll-nix-template-tutorial.html"
+    ]
+  ],
+  [
+    [
       "2023-02-11, 17:34:28",
       "https://lobste.rs/s/ttbchy/performance_analysis_five_stable_sort"
     ],
     [
-      "A performance analysis of five stable sort algorithms",
+      "A performance analysis of five stable sort algorithms (two are novel/new)",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/glidesort_perf_analysis/text.md"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "How a Zig IDE Could Work",
       "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 14:55:18",
-      "https://lobste.rs/s/ofhisc/building_conc_better_structured"
-    ],
-    [
-      "Building conc: Better structured concurrency for Go",
-      "https://about.sourcegraph.com/blog/building-conc-better-structured-concurrency-for-go"
     ]
   ],
   [
