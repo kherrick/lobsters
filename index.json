@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 17:44:37",
+      "https://lobste.rs/s/sx9fs7/jupyterlab_desktop"
+    ],
+    [
+      "JupyterLab Desktop",
+      "https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 17:28:26",
       "https://lobste.rs/s/hvai0x/sunsetting_subversion_support"
     ],
@@ -177,16 +187,6 @@
     [
       "The Heisenbug lurking in your Python async code",
       "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 17:34:28",
-      "https://lobste.rs/s/ttbchy/performance_analysis_five_stable_sort"
-    ],
-    [
-      "A performance analysis of five stable sort algorithms (two are novel/new)",
-      "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/glidesort_perf_analysis/text.md"
     ]
   ],
   [
