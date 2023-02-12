@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-12, 07:56:32",
+      "https://lobste.rs/s/2uoja6/understanding_large_language_models"
+    ],
+    [
+      "Understanding Large Language Models -- A Transformative Reading List",
+      "https://sebastianraschka.com/blog/2023/llm-reading-list.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-12, 07:54:16",
+      "https://lobste.rs/s/cbbv9z/let_s_write_setjmp"
+    ],
+    [
+      "Let's write a setjmp",
+      "https://nullprogram.com/blog/2023/02/12/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 04:51:25",
       "https://lobste.rs/s/wshlf0/protohackers_server_programming"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-02-11, 15:01:11",
-      "https://lobste.rs/s/opfu5k/software_evolution"
-    ],
-    [
-      "Software Evolution",
-      "https://theprogrammersparadox.blogspot.com/2023/01/software-evolution.html"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 12:16:58",
       "https://lobste.rs/s/wxlql2/is_there_correlation_between_use"
     ],
@@ -227,16 +237,6 @@
     [
       "gofumpt: A stricter gofmt",
       "https://github.com/mvdan/gofumpt"
-    ]
-  ],
-  [
-    [
-      "2023-02-10, 15:24:35",
-      "https://lobste.rs/s/tbcief/how_zig_ide_could_work"
-    ],
-    [
-      "How a Zig IDE Could Work",
-      "https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"
     ]
   ],
   [
