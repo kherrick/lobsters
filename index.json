@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 21:15:28",
+      "https://lobste.rs/s/gg3qyn/efficient_data_structures_for_tamper"
+    ],
+    [
+      "Efficient Data Structures for Tamper-Evident Logging (2009)",
+      "https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 19:56:43",
       "https://lobste.rs/s/ty9xue/get_up_speed_with_partial_clone_shallow"
     ],
@@ -157,16 +167,6 @@
     [
       "Introducing AdaCore, a Rust Foundation Silver Member",
       "https://foundation.rust-lang.org/news/member-spotlight-adacore/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 01:46:55",
-      "https://lobste.rs/s/tcv03f/gobuild_reproducible_binaries_for_go"
-    ],
-    [
-      "Gobuild: Reproducible binaries for the Go module proxy",
-      "https://beta.gobuilds.org/"
     ]
   ],
   [
