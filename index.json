@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 17:28:26",
+      "https://lobste.rs/s/hvai0x/sunsetting_subversion_support"
+    ],
+    [
+      "Sunsetting Subversion support",
+      "https://github.blog/2023-01-20-sunsetting-subversion-support/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 17:13:44",
       "https://lobste.rs/s/rmmhb3/is_deno_ready_for_primetime"
     ],
@@ -227,16 +237,6 @@
     [
       "A review of the C standard library in practice",
       "https://nullprogram.com/blog/2023/02/11/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 07:36:26",
-      "https://lobste.rs/s/zm6zcy/use_toml_for_env_files"
-    ],
-    [
-      "Use TOML for '.env' files?",
-      "https://snarky.ca/use-toml-for-env-files/"
     ]
   ],
   [
