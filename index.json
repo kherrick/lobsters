@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 19:04:10",
+      "https://lobste.rs/s/izvwpd/lightweight_easy_embed_hlsl_spir_v"
+    ],
+    [
+      "A lightweight, easy to embed HLSL to SPIR-V compiler written in C99",
+      "https://github.com/felipeagc/tinyshader"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 17:44:37",
       "https://lobste.rs/s/sx9fs7/jupyterlab_desktop"
     ],
@@ -157,16 +167,6 @@
     [
       "The unsafe language doom principle",
       "https://blog.yossarian.net/2023/02/11/The-unsafe-language-doom-principle"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 23:02:27",
-      "https://lobste.rs/s/ntouqv/proquint"
-    ],
-    [
-      "Proquint",
-      "https://re-factor.blogspot.com/2023/02/proquint.html"
     ]
   ],
   [
