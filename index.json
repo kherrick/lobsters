@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-12, 04:51:25",
+      "https://lobste.rs/s/wshlf0/protohackers_server_programming"
+    ],
+    [
+      "Protohackers Server Programming Challenge",
+      "https://protohackers.com/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 04:46:09",
       "https://lobste.rs/s/yqzlww/silicon_reverse_engineering_intel_8086"
     ],
@@ -177,16 +187,6 @@
     [
       "Things coming to Derw, Feburary 2023",
       "https://derw.substack.com/p/things-coming-to-derw-feburary-2023?sd=pf"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 08:56:21",
-      "https://lobste.rs/s/uvq712/how_we_added_support_for_c_23_assume"
-    ],
-    [
-      "How we added support for the C++23 assume feature in GCC",
-      "https://developers.redhat.com/articles/2023/02/02/support-c23-assume-feature-gcc"
     ]
   ],
   [
