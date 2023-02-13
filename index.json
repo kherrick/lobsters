@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 01:40:44",
+      "https://lobste.rs/s/grhaov/adventures_password_hashing_migrating"
+    ],
+    [
+      "Adventures in password hashing + migrating to Argon2id",
+      "https://brandur.org/fragments/password-hashing"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 00:27:51",
       "https://lobste.rs/s/quouu0/all_about_leaksanitizer"
     ],
@@ -227,16 +237,6 @@
     [
       "I’m an introvert – made an app to help maintain connections with people",
       "https://cq.mtc.dev"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 12:16:58",
-      "https://lobste.rs/s/wxlql2/is_there_correlation_between_use"
-    ],
-    [
-      "Is there a Correlation between the Use of Swearwords and Code Quality in Open Source Code?",
-      "https://cme.h-its.org/exelixis/pubs/JanThesis.pdf"
     ]
   ],
   [
