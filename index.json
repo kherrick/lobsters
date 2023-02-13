@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 18:07:01",
+      "https://lobste.rs/s/lviiz9/learning_semgrep"
+    ],
+    [
+      "Learning Semgrep",
+      "https://goingbeyondgrep.com/posts/learning-semgrep/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 17:48:53",
       "https://lobste.rs/s/oqsckz/rust_webassembly_hard_way"
     ],
@@ -237,16 +247,6 @@
     [
       "Let's write a setjmp",
       "https://nullprogram.com/blog/2023/02/12/"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 21:19:52",
-      "https://lobste.rs/s/v7yslc/including_screenshots_git_commit"
-    ],
-    [
-      "Including screenshots to git commit messages to show visual changes of features / bug fixes",
-      "https://chaos.social/@epilys/109848156900317663"
     ]
   ]
 ]
