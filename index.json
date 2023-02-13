@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 19:03:59",
+      "https://lobste.rs/s/9dfhr6/writing_os_rust_run_on_risc_v"
+    ],
+    [
+      "Writing an OS in Rust to run on RISC-V",
+      "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 18:43:02",
       "https://lobste.rs/s/zso8yw/building_sql_like_language_filter_flows"
     ],
@@ -237,16 +247,6 @@
     [
       "Technology Has Lost Its Pragmatism",
       "https://danielbmarkham.com/technology-has-lost-its-pragmatism/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 07:59:00",
-      "https://lobste.rs/s/nxx6b6/solving_jigsaw_puzzle_with_bare_rust"
-    ],
-    [
-      "Solving Jigsaw Puzzle with bare Rust",
-      "https://bminaiev.github.io/jigsaw-puzzle-solver"
     ]
   ]
 ]
