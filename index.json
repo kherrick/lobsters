@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 21:32:42",
+      "https://lobste.rs/s/ys4nhu/ruby_s_private_keyword_is_weird"
+    ],
+    [
+      "Ruby's private keyword is weird",
+      "https://blog.jez.io/ruby-private/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 21:23:48",
       "https://lobste.rs/s/la1bg0/os_detecting_qmk_keyboard"
     ],
@@ -227,16 +237,6 @@
     [
       "A love letter to Deno",
       "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 17:28:26",
-      "https://lobste.rs/s/hvai0x/sunsetting_subversion_support"
-    ],
-    [
-      "Sunsetting Subversion support",
-      "https://github.blog/2023-01-20-sunsetting-subversion-support/"
     ]
   ],
   [
