@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 17:48:53",
+      "https://lobste.rs/s/oqsckz/rust_webassembly_hard_way"
+    ],
+    [
+      "Rust to WebAssembly the hard way",
+      "https://surma.dev/things/rust-to-webassembly/"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 16:20:45",
       "https://lobste.rs/s/hjyll4/bottom_emoji_breaks_rust_analyzer"
     ],
@@ -177,16 +187,6 @@
     [
       "Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12",
       "https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 17:44:37",
-      "https://lobste.rs/s/sx9fs7/jupyterlab_desktop"
-    ],
-    [
-      "JupyterLab Desktop",
-      "https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23"
     ]
   ],
   [
