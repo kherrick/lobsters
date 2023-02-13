@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-13, 21:23:48",
+      "https://lobste.rs/s/la1bg0/os_detecting_qmk_keyboard"
+    ],
+    [
+      "OS Detecting QMK keyboard",
+      "https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 21:19:30",
+      "https://lobste.rs/s/jvwwq3/inside_amazingly_mechanical_bendix"
+    ],
+    [
+      "Inside the amazingly mechanical Bendix Central Air Data Computer",
+      "http://www.righto.com/2023/02/bendix-central-air-data-computer-cadc.html"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 20:16:08",
       "https://lobste.rs/s/bjf3k3/local_first_web_development"
     ],
@@ -57,16 +77,6 @@
     [
       "I implemented a code notebook for datalog queries",
       "https://vimeo.com/798469951"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 18:07:01",
-      "https://lobste.rs/s/lviiz9/learning_semgrep"
-    ],
-    [
-      "Learning Semgrep",
-      "https://goingbeyondgrep.com/posts/learning-semgrep/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Is Deno Ready for Primetime?",
       "https://www.maxcountryman.com/articles/is-deno-ready-for-primetime"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 14:41:51",
-      "https://lobste.rs/s/e1iqum/technology_has_lost_its_pragmatism"
-    ],
-    [
-      "Technology Has Lost Its Pragmatism",
-      "https://danielbmarkham.com/technology-has-lost-its-pragmatism/"
     ]
   ]
 ]
