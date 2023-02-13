@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 13:48:06",
+      "https://lobste.rs/s/jwmyni/jotdown_djot_parser_library"
+    ],
+    [
+      "jotdown: A Djot parser library",
+      "https://github.com/hellux/jotdown"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 13:25:06",
       "https://lobste.rs/s/i1kfoo/time_i_accidentally_ended_up_combating"
     ],
@@ -187,16 +197,6 @@
     [
       "Free Variables and Free Effects",
       "https://okmij.org/ftp/Computation/variables-effects.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 09:54:29",
-      "https://lobste.rs/s/rsmyve/physics_based_flight_simulation_with_c"
-    ],
-    [
-      "Physics-based flight simulation with C++",
-      "https://www.jakobmaier.at/posts/flight-simulation/"
     ]
   ],
   [
