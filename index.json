@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 18:43:02",
+      "https://lobste.rs/s/zso8yw/building_sql_like_language_filter_flows"
+    ],
+    [
+      "Building a SQL-like language to filter flows",
+      "https://vincent.bernat.ch/en/blog/2023-sql-like-language-filter"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 18:20:43",
       "https://lobste.rs/s/r5emt3/i_implemented_code_notebook_for_datalog"
     ],
@@ -187,16 +197,6 @@
     [
       "A love letter to Deno",
       "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 21:15:28",
-      "https://lobste.rs/s/gg3qyn/efficient_data_structures_for_tamper"
-    ],
-    [
-      "Efficient Data Structures for Tamper-Evident Logging (2009)",
-      "https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf"
     ]
   ],
   [
