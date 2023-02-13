@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-13, 00:27:51",
+      "https://lobste.rs/s/quouu0/all_about_leaksanitizer"
+    ],
+    [
+      "All about LeakSanitizer",
+      "https://maskray.me/blog/2023-02-12-all-about-leak-sanitizer"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 00:13:09",
+      "https://lobste.rs/s/4mxzfm/more_joy_with_csh"
+    ],
+    [
+      "More Joy with CSH",
+      "http://blog.syncpup.com/posts/more-joy-with-csh.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 00:03:10",
+      "https://lobste.rs/s/crgjnh/nix_based_c_workflow_from_scratch_2021"
+    ],
+    [
+      "Nix Based C++ Workflow From Scratch (2021)",
+      "https://www.breakds.org/post/nix-based-c++-workflow/"
+    ]
+  ],
+  [
+    [
       "2023-02-12, 22:37:49",
       "https://lobste.rs/s/7thgsy/love_letter_deno"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-02-12, 07:56:32",
-      "https://lobste.rs/s/2uoja6/understanding_large_language_models"
-    ],
-    [
-      "Understanding Large Language Models -- A Transformative Reading List",
-      "https://sebastianraschka.com/blog/2023/llm-reading-list.html"
-    ]
-  ],
-  [
-    [
       "2023-02-12, 07:54:16",
       "https://lobste.rs/s/cbbv9z/let_s_write_setjmp"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-02-11, 19:01:23",
-      "https://lobste.rs/s/vqttsw/heisenbug_lurking_your_python_async_code"
-    ],
-    [
-      "The Heisenbug lurking in your Python async code",
-      "https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"
-    ]
-  ],
-  [
-    [
       "2023-02-11, 16:49:20",
       "https://lobste.rs/s/pnjbff/i_m_introvert_made_app_help_maintain"
     ],
     [
       "I’m an introvert – made an app to help maintain connections with people",
       "https://cq.mtc.dev"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 16:04:13",
-      "https://lobste.rs/s/sotg8z/implementing_co_small_language_with"
-    ],
-    [
-      "Implementing Co, a Small Language With Coroutines #3: Adding Coroutines",
-      "https://abhinavsarkar.net/posts/implementing-co-3/"
     ]
   ],
   [
