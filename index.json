@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-13, 12:23:31",
+      "https://lobste.rs/s/tg0n0c/announcing_duckdb_0_7_0"
+    ],
+    [
+      "Announcing DuckDB 0.7.0",
+      "https://duckdb.org/2023/02/13/announcing-duckdb-070.html"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 10:09:26",
       "https://lobste.rs/s/entnir/size_t_is_not_int"
     ],
@@ -237,16 +247,6 @@
     [
       "Including screenshots to git commit messages to show visual changes of features / bug fixes",
       "https://chaos.social/@epilys/109848156900317663"
-    ]
-  ],
-  [
-    [
-      "2023-02-11, 16:49:20",
-      "https://lobste.rs/s/pnjbff/i_m_introvert_made_app_help_maintain"
-    ],
-    [
-      "I’m an introvert – made an app to help maintain connections with people",
-      "https://cq.mtc.dev"
     ]
   ]
 ]
