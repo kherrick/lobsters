@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-02-14, 22:20:07",
+      "https://lobste.rs/s/2cifqf/my_first_hanami_app"
+    ],
+    [
+      "My first Hanami app",
+      "https://kukicola.io/posts/my-first-hanami-app/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 20:02:12",
       "https://lobste.rs/s/jxl8ek/kde_plasma_5_27_release_including_better"
     ],
     [
       "KDE Plasma 5.27 release, including better multi monitor support and a  tiling system",
       "https://kde.org/announcements/plasma/5/5.27.0/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 19:25:37",
-      "https://lobste.rs/s/u7pecn/writing_debugger_from_scratch_dbgrs_part"
-    ],
-    [
-      "Writing a Debugger From Scratch - DbgRs Part 1",
-      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-02-14, 03:02:32",
-      "https://lobste.rs/s/sl3swk/case_for_atomic_types_programming"
-    ],
-    [
-      "The case for atomic types in programming languages",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/CaseForAtomicTypes"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 01:02:20",
       "https://lobste.rs/s/nyhoe8/autohotkey_v2"
     ],
@@ -217,6 +207,16 @@
     [
       "Ruby's private keyword is weird",
       "https://blog.jez.io/ruby-private/"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 21:23:48",
+      "https://lobste.rs/s/la1bg0/os_detecting_qmk_keyboard"
+    ],
+    [
+      "OS Detecting QMK keyboard",
+      "https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard"
     ]
   ],
   [
