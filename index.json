@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-02-14, 00:17:30",
+      "https://lobste.rs/s/owzbpe/nlp_tokenizing_chinese_phases_2019"
+    ],
+    [
+      "NLP — Tokenizing Chinese Phases (2019)",
+      "https://medium.com/@jjsham/nlp-tokenizing-chinese-phases-3302da4336bf"
+    ]
+  ],
+  [
+    [
       "2023-02-13, 23:17:47",
       "https://lobste.rs/s/ebsvig/core_js_so_what_s_next"
     ],
     [
       "core-js: So, what's next?",
       "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md"
+    ]
+  ],
+  [
+    [
+      "2023-02-13, 22:48:59",
+      "https://lobste.rs/s/fzixug/declarative_shadow_dom"
+    ],
+    [
+      "Declarative Shadow DOM",
+      "https://webkit.org/blog/13851/declarative-shadow-dom/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Writing an OS in Rust to run on RISC-V",
       "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 18:43:02",
-      "https://lobste.rs/s/zso8yw/building_sql_like_language_filter_flows"
-    ],
-    [
-      "Building a SQL-like language to filter flows",
-      "https://vincent.bernat.ch/en/blog/2023-sql-like-language-filter"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "size_t Is Not int",
       "https://noncombatant.org/2023/02/12/int-size-t/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 09:51:02",
-      "https://lobste.rs/s/7fuuzo/how_get_heart_attack_while_using_jeb"
-    ],
-    [
-      "How to get a heart attack while using JEB decompiler",
-      "https://blog.stmcyber.com/how-to-get-a-heart-attack-while-using-jeb-decompiler/"
     ]
   ],
   [
