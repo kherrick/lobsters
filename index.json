@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 07:19:09",
+      "https://lobste.rs/s/reqqzg/google_s_fully_homomorphic_encryption"
+    ],
+    [
+      "Google’s Fully Homomorphic Encryption Compiler — A Primer",
+      "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 03:02:32",
       "https://lobste.rs/s/sl3swk/case_for_atomic_types_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "A love letter to Deno",
       "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 17:13:44",
-      "https://lobste.rs/s/rmmhb3/is_deno_ready_for_primetime"
-    ],
-    [
-      "Is Deno Ready for Primetime?",
-      "https://www.maxcountryman.com/articles/is-deno-ready-for-primetime"
     ]
   ]
 ]
