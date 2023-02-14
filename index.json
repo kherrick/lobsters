@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 19:25:37",
+      "https://lobste.rs/s/u7pecn/writing_debugger_from_scratch_dbgrs_part"
+    ],
+    [
+      "Writing a Debugger From Scratch - DbgRs Part 1",
+      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 18:34:24",
       "https://lobste.rs/s/deo8bk/real_c_killers_not_you_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "OS Detecting QMK keyboard",
       "https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 20:16:08",
-      "https://lobste.rs/s/bjf3k3/local_first_web_development"
-    ],
-    [
-      "Local-First Web Development",
-      "https://localfirstweb.dev/"
     ]
   ],
   [
