@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-14, 18:34:24",
+      "https://lobste.rs/s/deo8bk/real_c_killers_not_you_rust"
+    ],
+    [
+      "The Real C++ Killers (Not You, Rust)",
+      "https://hackernoon.com/the-real-c-killers-not-you-rust"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 18:28:07",
+      "https://lobste.rs/s/fm5ygu/build_your_own_fast_persistent_toy_kv"
+    ],
+    [
+      "Build Your Own Fast, Persistent, Toy KV Store",
+      "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 17:04:31",
       "https://lobste.rs/s/lpmm4l/semgrep_code_sast_designed_built_for"
     ],
@@ -37,16 +57,6 @@
     [
       "Bing AI Can't Be Trusted",
       "https://dkb.blog/p/bing-ai-cant-be-trusted"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 13:41:46",
-      "https://lobste.rs/s/ysncfc/using_bin_eject_with_usb_flash_drives"
-    ],
-    [
-      "Using /bin/eject with USB flash drives",
-      "https://research.exoticsilicon.com/articles/eject_command_hacking"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The bottom emoji breaks rust-analyzer",
       "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 13:25:06",
-      "https://lobste.rs/s/i1kfoo/time_i_accidentally_ended_up_combating"
-    ],
-    [
-      "The Time I Accidentally Ended Up Combating Fraud for a Year",
-      "https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year"
     ]
   ],
   [
