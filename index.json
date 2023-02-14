@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-14, 00:17:30",
-      "https://lobste.rs/s/owzbpe/nlp_tokenizing_chinese_phases_2019"
+      "2023-02-14, 01:36:49",
+      "https://lobste.rs/s/af3lcl/cbmc_c_bounded_model_checker"
     ],
     [
-      "NLP — Tokenizing Chinese Phases (2019)",
-      "https://medium.com/@jjsham/nlp-tokenizing-chinese-phases-3302da4336bf"
+      "CBMC: The C Bounded Model Checker",
+      "https://arxiv.org/abs/2302.02384"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 01:02:20",
+      "https://lobste.rs/s/nyhoe8/autohotkey_v2"
+    ],
+    [
+      "AutoHotkey v2",
+      "https://www.autohotkey.com/docs/v2/v2-changes.htm"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Whatever happened to Elm, anyway?",
       "https://derw.substack.com/p/whatever-happened-to-elm-anyway"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 05:08:28",
-      "https://lobste.rs/s/dwvduh/behind_magic_magic_enum"
-    ],
-    [
-      "Behind the magic of magic_enum",
-      "https://blog.rink.nu/2023/02/12/behind-the-magic-of-magic_enum/"
     ]
   ],
   [
