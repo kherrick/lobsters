@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 12:09:58",
+      "https://lobste.rs/s/viml5v/freebsd_13_2_beta1_is_now_available"
+    ],
+    [
+      "FreeBSD 13.2-BETA1 is Now Available",
+      "https://lists.freebsd.org/archives/freebsd-snapshots/2023-February/000205.html"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 11:26:35",
       "https://lobste.rs/s/zdgno8/caching_lot_methods_python"
     ],
@@ -147,16 +157,6 @@
     [
       "Matrix 2.0: How we're making Matrix go voom",
       "https://fosdem.org/2023/schedule/event/matrix20/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 19:03:59",
-      "https://lobste.rs/s/9dfhr6/writing_os_rust_run_on_risc_v"
-    ],
-    [
-      "Writing an OS in Rust to run on RISC-V",
-      "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb"
     ]
   ],
   [
