@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 15:14:37",
+      "https://lobste.rs/s/0crdng/does_python_still_have_need_for_class"
+    ],
+    [
+      "Does Python still have a need for class without @dataclass?",
+      "https://blog.glyph.im/2023/02/data-classification.html"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 14:19:05",
       "https://lobste.rs/s/v74phr/let_s_talk_about_branded_types"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-02-14, 13:41:46",
-      "https://lobste.rs/s/ysncfc/using_bin_eject_with_usb_flash_drives"
+      "2023-02-14, 13:40:38",
+      "https://lobste.rs/s/46dvj3/tunnelling_vxlan_over_wireguard"
     ],
     [
-      "Using /bin/eject with USB flash drives",
-      "https://research.exoticsilicon.com/articles/eject_command_hacking"
+      "Tunnelling VXLAN over WireGuard",
+      "https://rob-turner.net/post/vx-lan/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Learning Jai via Advent of Code",
       "https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 07:19:09",
-      "https://lobste.rs/s/reqqzg/google_s_fully_homomorphic_encryption"
-    ],
-    [
-      "Google’s Fully Homomorphic Encryption Compiler — A Primer",
-      "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/"
     ]
   ],
   [
