@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-14, 17:04:31",
+      "https://lobste.rs/s/lpmm4l/semgrep_code_sast_designed_built_for"
+    ],
+    [
+      "Semgrep Code: SAST designed and built for engineers",
+      "https://semgrep.dev/blog/2023/announcing-semgrep-code"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 15:14:37",
       "https://lobste.rs/s/0crdng/does_python_still_have_need_for_class"
     ],
@@ -27,6 +37,16 @@
     [
       "Bing AI Can't Be Trusted",
       "https://dkb.blog/p/bing-ai-cant-be-trusted"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 13:41:46",
+      "https://lobste.rs/s/ysncfc/using_bin_eject_with_usb_flash_drives"
+    ],
+    [
+      "Using /bin/eject with USB flash drives",
+      "https://research.exoticsilicon.com/articles/eject_command_hacking"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-13, 14:12:59",
-      "https://lobste.rs/s/jvzg1g/writing_perfect_rgb_regex_failing"
-    ],
-    [
-      "Writing The Perfect RGB Regex And Failing",
-      "https://emnudge.dev/blog/perfect-rgb-regex/"
-    ]
-  ],
-  [
-    [
       "2023-02-13, 13:25:06",
       "https://lobste.rs/s/i1kfoo/time_i_accidentally_ended_up_combating"
     ],
@@ -237,16 +247,6 @@
     [
       "Whatever happened to Elm, anyway?",
       "https://derw.substack.com/p/whatever-happened-to-elm-anyway"
-    ]
-  ],
-  [
-    [
-      "2023-02-12, 22:37:49",
-      "https://lobste.rs/s/7thgsy/love_letter_deno"
-    ],
-    [
-      "A love letter to Deno",
-      "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html"
     ]
   ]
 ]
