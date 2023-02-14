@@ -21,11 +21,21 @@
   ],
   [
     [
-      "2023-02-14, 18:28:07",
-      "https://lobste.rs/s/fm5ygu/build_your_own_fast_persistent_toy_kv"
+      "2023-02-14, 18:34:24",
+      "https://lobste.rs/s/deo8bk/real_c_killers_not_you_rust"
     ],
     [
-      "Build Your Own Fast, Persistent, Toy KV Store",
+      "The Real C++ Killers (Not You, Rust)",
+      "https://hackernoon.com/the-real-c-killers-not-you-rust"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 18:28:07",
+      "https://lobste.rs/s/fm5ygu/build_your_own_fast_persistent_kv_store"
+    ],
+    [
+      "Build Your Own Fast, Persistent KV Store",
       "https://dinesh.wiki/posts/build-your-own-persistent-kv-store/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Ruby's private keyword is weird",
       "https://blog.jez.io/ruby-private/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 21:23:48",
-      "https://lobste.rs/s/la1bg0/os_detecting_qmk_keyboard"
-    ],
-    [
-      "OS Detecting QMK keyboard",
-      "https://wbk.one/article/8524b5de/os-detecting-qmk-keyboard"
     ]
   ],
   [
