@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-14, 13:41:46",
+      "https://lobste.rs/s/ysncfc/using_bin_eject_with_usb_flash_drives"
+    ],
+    [
+      "Using /bin/eject with USB flash drives",
+      "https://research.exoticsilicon.com/articles/eject_command_hacking"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 13:40:38",
+      "https://lobste.rs/s/46dvj3/tunnelling_vxlan_over_wireguard"
+    ],
+    [
+      "Tunnelling VXLAN over WireGuard",
+      "https://rob-turner.net/post/vx-lan/"
+    ]
+  ],
+  [
+    [
+      "2023-02-14, 13:36:38",
+      "https://lobste.rs/s/vxsjoo/c_23_pandemic_edition_is_complete_trip"
+    ],
+    [
+      "C++23 “Pandemic Edition” is complete (Trip report: Winter ISO C++ standards meeting, Issaquah, WA, USA)",
+      "https://herbsutter.com/2023/02/13/c23-pandemic-edition-is-complete-trip-report-winter-iso-c-standards-meeting-issaquah-wa-usa/"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 13:29:16",
       "https://lobste.rs/s/gmem98/curl_audit_how_joke_led_significant"
     ],
@@ -17,16 +47,6 @@
     [
       "Maybe people do care about performance and reliability",
       "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 12:09:58",
-      "https://lobste.rs/s/viml5v/freebsd_13_2_beta1_is_now_available"
-    ],
-    [
-      "FreeBSD 13.2-BETA1 is Now Available",
-      "https://lists.freebsd.org/archives/freebsd-snapshots/2023-February/000205.html"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-02-14, 02:44:17",
-      "https://lobste.rs/s/emqxak/ibm_701"
-    ],
-    [
-      "The IBM 701",
-      "https://detreville.substack.com/p/the-ibm-701"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 01:02:20",
       "https://lobste.rs/s/nyhoe8/autohotkey_v2"
     ],
@@ -177,16 +187,6 @@
     [
       "I implemented a code notebook for datalog queries",
       "https://vimeo.com/798469951"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 17:48:53",
-      "https://lobste.rs/s/oqsckz/rust_webassembly_hard_way"
-    ],
-    [
-      "Rust to WebAssembly the hard way",
-      "https://surma.dev/things/rust-to-webassembly/"
     ]
   ],
   [
