@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-15, 07:41:45",
+      "https://lobste.rs/s/hdwu80/structured_logging_go_with_slog"
+    ],
+    [
+      "Structured logging in Go with slog",
+      "https://mrkaran.dev/posts/structured-logging-in-go-with-slog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 07:38:58",
+      "https://lobste.rs/s/wkosbk/secrets_apple_lightning_part_1"
+    ],
+    [
+      "The secrets of Apple Lightning - Part 1",
+      "https://www.youtube.com/watch?v=p5tMaWsuGk0"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 03:22:14",
       "https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2023-02-14, 17:04:31",
-      "https://lobste.rs/s/lpmm4l/semgrep_code_sast_designed_built_for"
-    ],
-    [
-      "Semgrep Code: SAST designed and built for engineers",
-      "https://semgrep.dev/blog/2023/announcing-semgrep-code"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 15:14:37",
       "https://lobste.rs/s/0crdng/does_python_still_have_need_for_class"
     ],
     [
       "Does Python still have a need for class without @dataclass?",
       "https://blog.glyph.im/2023/02/data-classification.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 14:19:05",
-      "https://lobste.rs/s/v74phr/let_s_talk_about_branded_types"
-    ],
-    [
-      "Let's talk about branded types",
-      "https://twitter.com/mattpocockuk/status/1625173884885401600"
     ]
   ],
   [
