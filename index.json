@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-15, 23:29:33",
+      "https://lobste.rs/s/lmphym/miscompilation_equal_pointers"
+    ],
+    [
+      "Miscompilation: Equal pointers comparing as unequal · Issue #107975 · rust-lang/rust",
+      "https://github.com/rust-lang/rust/issues/107975"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 23:21:55",
       "https://lobste.rs/s/h3axjq/chatgpt_passes_turing_test_now_what"
     ],
@@ -197,16 +207,6 @@
     [
       "Does Python still have a need for class without @dataclass?",
       "https://blog.glyph.im/2023/02/data-classification.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 14:08:40",
-      "https://lobste.rs/s/lbxmtf/bing_ai_can_t_be_trusted"
-    ],
-    [
-      "Bing AI Can't Be Trusted",
-      "https://dkb.blog/p/bing-ai-cant-be-trusted"
     ]
   ],
   [
