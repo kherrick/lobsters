@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-15, 14:54:26",
+      "https://lobste.rs/s/pd8rr8/when_rust_hurts"
+    ],
+    [
+      "When Rust hurts",
+      "https://mmapped.blog/posts/15-when-rust-hurts.html"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 14:13:06",
       "https://lobste.rs/s/mzdgyl/cranelift_s_instruction_selector_dsl"
     ],
@@ -237,16 +247,6 @@
     [
       "core-js: So, what's next?",
       "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 09:46:28",
-      "https://lobste.rs/s/ftqp21/whatever_happened_elm_anyway"
-    ],
-    [
-      "Whatever happened to Elm, anyway?",
-      "https://derw.substack.com/p/whatever-happened-to-elm-anyway"
     ]
   ]
 ]
