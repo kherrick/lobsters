@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-15, 12:27:09",
+      "https://lobste.rs/s/co0rd8/what_s_new_matplotlib_3_7_0_feb_13_2023"
+    ],
+    [
+      "What's new in Matplotlib 3.7.0 (Feb 13, 2023)",
+      "https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 12:23:09",
+      "https://lobste.rs/s/9jlcg6/shrinkflation_sandisk_style"
+    ],
+    [
+      "Shrinkflation, SanDisk style",
+      "https://ounapuu.ee/posts/2023/02/15/shrinkflation/"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 10:08:59",
       "https://lobste.rs/s/bcvpl1/webgpu"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-02-14, 13:40:38",
-      "https://lobste.rs/s/46dvj3/tunnelling_vxlan_over_wireguard"
-    ],
-    [
-      "Tunnelling VXLAN over WireGuard",
-      "https://rob-turner.net/post/vx-lan/"
-    ]
-  ],
-  [
-    [
       "2023-02-14, 13:36:38",
       "https://lobste.rs/s/vxsjoo/c_23_pandemic_edition_is_complete_trip"
     ],
@@ -217,16 +227,6 @@
     [
       "core-js: So, what's next?",
       "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 21:32:42",
-      "https://lobste.rs/s/ys4nhu/ruby_s_private_keyword_is_weird"
-    ],
-    [
-      "Ruby's private keyword is weird",
-      "https://blog.jez.io/ruby-private/"
     ]
   ],
   [
