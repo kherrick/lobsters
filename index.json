@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-15, 00:08:03",
+      "https://lobste.rs/s/ygyjsa/speeding_up_tests_applications_using"
+    ],
+    [
+      "Speeding Up Tests in Applications Using Sequel, Roda, and rack-unreloader",
+      "https://code.jeremyevans.net/2023-02-14-speeding-up-tests-in-applications-using-sequel-and-roda.html"
+    ]
+  ],
+  [
+    [
       "2023-02-14, 22:41:02",
       "https://lobste.rs/s/d3ely1/myers_diff_algorithm_part_1"
     ],
@@ -127,16 +137,6 @@
     [
       "Maybe people do care about performance and reliability",
       "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 12:09:58",
-      "https://lobste.rs/s/viml5v/freebsd_13_2_beta1_is_now_available"
-    ],
-    [
-      "FreeBSD 13.2-BETA1 is Now Available",
-      "https://lists.freebsd.org/archives/freebsd-snapshots/2023-February/000205.html"
     ]
   ],
   [
