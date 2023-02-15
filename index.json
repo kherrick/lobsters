@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-15, 10:08:59",
+      "https://lobste.rs/s/bcvpl1/webgpu"
+    ],
+    [
+      "WebGPU",
+      "https://whynowtech.substack.com/p/webgpu"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 09:53:27",
       "https://lobste.rs/s/fw54dt/recommended_external_usb_fingerprint"
     ],
@@ -227,16 +237,6 @@
     [
       "Matrix 2.0: How we're making Matrix go voom",
       "https://fosdem.org/2023/schedule/event/matrix20/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 16:20:45",
-      "https://lobste.rs/s/hjyll4/bottom_emoji_breaks_rust_analyzer"
-    ],
-    [
-      "The bottom emoji breaks rust-analyzer",
-      "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
     ]
   ],
   [
