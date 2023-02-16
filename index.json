@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-16, 19:23:09",
+      "https://lobste.rs/s/bqqjri/web_push_for_web_apps_on_ios_ipados"
+    ],
+    [
+      "Web Push for Web Apps on iOS and iPadOS",
+      "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 19:21:32",
+      "https://lobste.rs/s/wehogg/homebrew_4_0_0"
+    ],
+    [
+      "Homebrew 4.0.0",
+      "https://brew.sh/2023/02/16/homebrew-4.0.0/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 18:51:44",
       "https://lobste.rs/s/o708qm/why_programmers_burnout_into"
     ],
@@ -97,16 +117,6 @@
     [
       "Why Aren't Programming Language Specifications Comprehensive?",
       "https://tratt.net/laurie/blog/2023/why_arent_programming_language_specifications_comprehensive.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 08:57:06",
-      "https://lobste.rs/s/uz8jy9/quantifying_memory_unsafety_reactions"
-    ],
-    [
-      "Quantifying Memory Unsafety and Reactions to It",
-      "https://www.usenix.org/conference/enigma2021/presentation/gaynor"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Structured logging in Go with slog",
       "https://mrkaran.dev/posts/structured-logging-in-go-with-slog/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 03:22:14",
-      "https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons"
-    ],
-    [
-      "React is popular for rational reasons despite being bad for performance",
-      "https://seldo.com/posts/the_case_for_frameworks"
     ]
   ]
 ]
