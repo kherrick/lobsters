@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 22:58:52",
+      "https://lobste.rs/s/0y3wkh/yuescript_moonscript_dialect_compiles"
+    ],
+    [
+      "Yuescript: a MoonScript dialect that compiles to Lua",
+      "https://yuescript.org/doc/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 22:36:02",
       "https://lobste.rs/s/jwiuhh/reducing_tailscale_s_binary_size_on_macos"
     ],
@@ -27,16 +37,6 @@
     [
       "Writing Javascript without a build system",
       "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 21:02:13",
-      "https://lobste.rs/s/laa62i/lifetimekata_set_exercises_improve_your"
-    ],
-    [
-      "LifetimeKata: a set of exercises to improve your understanding of lifetimes in Rust",
-      "https://tfpk.github.io/lifetimekata/index.html"
     ]
   ],
   [
