@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 08:41:21",
+      "https://lobste.rs/s/rcfrgl/most_efficient_ways_put_squares_squares"
+    ],
+    [
+      "The Most Efficient Ways to Put Squares in Squares",
+      "https://erich-friedman.github.io/packing/squinsqu/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 07:33:31",
       "https://lobste.rs/s/rpsrih/retrospectives_antipatterns"
     ],
@@ -237,16 +247,6 @@
     [
       "Maybe people do care about performance and reliability",
       "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"
-    ]
-  ],
-  [
-    [
-      "2023-02-13, 23:17:47",
-      "https://lobste.rs/s/ebsvig/core_js_so_what_s_next"
-    ],
-    [
-      "core-js: So, what's next?",
-      "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md"
     ]
   ]
 ]
