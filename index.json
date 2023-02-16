@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-02-16, 08:57:06",
+      "https://lobste.rs/s/uz8jy9/quantifying_memory_unsafety_reactions"
+    ],
+    [
+      "Quantifying Memory Unsafety and Reactions to It",
+      "https://www.usenix.org/conference/enigma2021/presentation/gaynor"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 08:41:21",
       "https://lobste.rs/s/rcfrgl/most_efficient_ways_put_squares_squares"
     ],
@@ -237,16 +247,6 @@
     [
       "Structured logging in Go with slog",
       "https://mrkaran.dev/posts/structured-logging-in-go-with-slog/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 03:22:14",
-      "https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons"
-    ],
-    [
-      "React is popular for rational reasons despite being bad for performance",
-      "https://seldo.com/posts/the_case_for_frameworks"
     ]
   ]
 ]
