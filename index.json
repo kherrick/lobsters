@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 02:25:43",
+      "https://lobste.rs/s/iehpq1/promising_mess"
+    ],
+    [
+      "A promising mess",
+      "https://pierre.equoy.fr/blog/posts/2023/02/a-promising-mess/"
+    ]
+  ],
+  [
+    [
       "2023-02-15, 23:58:28",
       "https://lobste.rs/s/coy6gt/why_is_building_ui_rust_so_hard"
     ],
@@ -177,16 +187,6 @@
     [
       "React is popular for rational reasons despite being bad for performance",
       "https://seldo.com/posts/the_case_for_frameworks"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 00:08:03",
-      "https://lobste.rs/s/ygyjsa/speeding_up_tests_applications_using"
-    ],
-    [
-      "Speeding Up Tests in Applications Using Sequel, Roda, and rack-unreloader",
-      "https://code.jeremyevans.net/2023-02-14-speeding-up-tests-in-applications-using-sequel-and-roda.html"
     ]
   ],
   [
