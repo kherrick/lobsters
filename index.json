@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 22:36:02",
+      "https://lobste.rs/s/jwiuhh/reducing_tailscale_s_binary_size_on_macos"
+    ],
+    [
+      "Reducing Tailscale’s binary size on macOS",
+      "https://tailscale.com/blog/macos-binary-size/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 21:59:57",
       "https://lobste.rs/s/h1vivn/reactive_signals_dsl_for_fullstack_web_ui"
     ],
@@ -47,16 +57,6 @@
     [
       "The Little Learner",
       "https://mitpress.mit.edu/9780262546379/the-little-learner/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 20:24:15",
-      "https://lobste.rs/s/qfqjka/adventures_platform_security"
-    ],
-    [
-      "Adventures in the Platform Security Coordinated Disclosure Circus",
-      "https://labs.ioactive.com/2023/02/adventures-in-platform-security.html"
     ]
   ],
   [
