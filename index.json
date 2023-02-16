@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 05:13:54",
+      "https://lobste.rs/s/bgwqcg/lua_programming_gems"
+    ],
+    [
+      "Lua Programming Gems",
+      "http://www.lua.org/gems/"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 04:36:05",
       "https://lobste.rs/s/bjmaoy/double_free_vulnerability_openssh"
     ],
@@ -157,16 +167,6 @@
     [
       "Shrinkflation, SanDisk style",
       "https://ounapuu.ee/posts/2023/02/15/shrinkflation/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 10:08:59",
-      "https://lobste.rs/s/bcvpl1/webgpu"
-    ],
-    [
-      "WebGPU",
-      "https://whynowtech.substack.com/p/webgpu"
     ]
   ],
   [
