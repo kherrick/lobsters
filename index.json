@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 16:57:09",
+      "https://lobste.rs/s/gdyuj0/we_found_neuron_gpt_2"
+    ],
+    [
+      "We Found An Neuron in GPT-2",
+      "https://clementneo.com/posts/2023/02/11/we-found-an-neuron"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 15:53:52",
       "https://lobste.rs/s/kzbekd/show_background_job_processing_without"
     ],
@@ -237,16 +247,6 @@
     [
       "React is popular for rational reasons despite being bad for performance",
       "https://seldo.com/posts/the_case_for_frameworks"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 20:02:12",
-      "https://lobste.rs/s/jxl8ek/kde_plasma_5_27_release_including_better"
-    ],
-    [
-      "KDE Plasma 5.27 release, including better multi monitor support and a  tiling system",
-      "https://kde.org/announcements/plasma/5/5.27.0/"
     ]
   ]
 ]
