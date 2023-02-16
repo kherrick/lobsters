@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-16, 15:53:52",
+      "https://lobste.rs/s/kzbekd/show_background_job_processing_without"
+    ],
+    [
+      "Show: Background job processing without Redis",
+      "https://github.com/acaloiaro/neoq"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 15:52:41",
+      "https://lobste.rs/s/wkqaeq/fosdem_2023_our_mad_journey_building"
+    ],
+    [
+      "FOSDEM 2023: Our Mad Journey of Building a Vector Database in Go",
+      "https://www.youtube.com/watch?v=K1R7oK2piUM"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 11:28:43",
       "https://lobste.rs/s/j9decl/haiku_package_management"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-15, 14:13:06",
-      "https://lobste.rs/s/mzdgyl/cranelift_s_instruction_selector_dsl"
-    ],
-    [
-      "Cranelift's Instruction Selector DSL, ISLE: Term-Rewriting Made Practical",
-      "https://cfallin.org/blog/2023/01/20/cranelift-isle/"
-    ]
-  ],
-  [
-    [
       "2023-02-15, 12:23:09",
       "https://lobste.rs/s/9jlcg6/shrinkflation_sandisk_style"
     ],
@@ -237,16 +247,6 @@
     [
       "KDE Plasma 5.27 release, including better multi monitor support and a  tiling system",
       "https://kde.org/announcements/plasma/5/5.27.0/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 13:20:41",
-      "https://lobste.rs/s/gnkgum/maybe_people_do_care_about_performance"
-    ],
-    [
-      "Maybe people do care about performance and reliability",
-      "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"
     ]
   ]
 ]
