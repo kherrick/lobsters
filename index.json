@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-02-16, 18:51:44",
-      "https://lobste.rs/s/o708qm/why_programmers_burnout_into"
-    ],
-    [
-      "Why programmers burnout into existential depression",
-      "https://phsoftware.substack.com/p/why-programmers-burnout-into-existential"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 17:42:03",
       "https://lobste.rs/s/trze3z/7guis_gui_programming_benchmark"
     ],
@@ -247,6 +237,16 @@
     [
       "Structured logging in Go with slog",
       "https://mrkaran.dev/posts/structured-logging-in-go-with-slog/"
+    ]
+  ],
+  [
+    [
+      "2023-02-15, 03:22:14",
+      "https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons"
+    ],
+    [
+      "React is popular for rational reasons despite being bad for performance",
+      "https://seldo.com/posts/the_case_for_frameworks"
     ]
   ]
 ]
