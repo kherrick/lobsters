@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-16, 04:36:05",
+      "https://lobste.rs/s/bjmaoy/double_free_vulnerability_openssh"
+    ],
+    [
+      "double-free vulnerability in OpenSSH server 9.1 (CVE-2023-25136)",
+      "https://seclists.org/oss-sec/2023/q1/92"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 02:25:43",
       "https://lobste.rs/s/iehpq1/promising_mess"
     ],
@@ -227,16 +237,6 @@
     [
       "Maybe people do care about performance and reliability",
       "https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"
-    ]
-  ],
-  [
-    [
-      "2023-02-14, 10:16:24",
-      "https://lobste.rs/s/zsca2u/modern_mono"
-    ],
-    [
-      "Modern Mono",
-      "https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace"
     ]
   ],
   [
