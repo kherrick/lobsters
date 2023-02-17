@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-02-17, 20:54:09",
-      "https://lobste.rs/s/j4wiwl/lunanet_interoperability"
+      "2023-02-17, 20:48:35",
+      "https://lobste.rs/s/4ux777/futex_waitv_syscall_gaming_on_linux"
     ],
     [
-      "LunaNet Interoperability Specification Document",
-      "https://esc.gsfc.nasa.gov/static-files/Draft%20LunaNet%20Interoperability%20Specification%20Final.pdf"
+      "The futex_waitv() syscall and gaming on Linux",
+      "https://www.collabora.com/news-and-blog/blog/2023/02/17/the-futex-waitv-syscall-gaming-on-linux/"
     ]
   ],
   [
