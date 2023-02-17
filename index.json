@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-17, 20:48:35",
+      "https://lobste.rs/s/4ux777/futex_waitv_syscall_gaming_on_linux"
+    ],
+    [
+      "The futex_waitv() syscall and gaming on Linux",
+      "https://www.collabora.com/news-and-blog/blog/2023/02/17/the-futex-waitv-syscall-gaming-on-linux/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 20:47:20",
+      "https://lobste.rs/s/saz2me/all_your_comparable_types"
+    ],
+    [
+      "All your comparable types",
+      "https://go.dev/blog/comparable"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 20:40:37",
       "https://lobste.rs/s/czy0dh/zig_bits_0x1_returning_slices_from"
     ],
@@ -87,16 +107,6 @@
     [
       "Tidying up your $HOME with Nix",
       "https://juliu.is/tidying-your-home-with-nix"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 14:30:48",
-      "https://lobste.rs/s/cfjhcz/computing_utf_8_size_latin_1_string"
-    ],
-    [
-      "Computing the UTF-8 size of a Latin 1 string quickly (AVX edition)",
-      "https://lemire.me/blog/2023/02/16/computing-the-utf-8-size-of-a-latin-1-string-quickly-avx-edition/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Haiku Package Management",
       "https://www.markround.com/blog/2023/02/13/haiku-package-management/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 10:25:25",
-      "https://lobste.rs/s/nd9h3b/why_aren_t_programming_language"
-    ],
-    [
-      "Why Aren't Programming Language Specifications Comprehensive?",
-      "https://tratt.net/laurie/blog/2023/why_arent_programming_language_specifications_comprehensive.html"
     ]
   ],
   [
