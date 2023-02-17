@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 08:09:13",
+      "https://lobste.rs/s/buhggx/open_source_opportunities_with_haskell"
+    ],
+    [
+      "Open-Source Opportunities with the Haskell Foundation",
+      "https://fosdem.org/2023/schedule/event/haskell_foundation_open_source/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 02:52:34",
       "https://lobste.rs/s/oaewlj/sandpack_2_0_node_js_runtime_tbat_runs"
     ],
@@ -237,16 +247,6 @@
     [
       "Himalaya, the CLI email client: v0.7.0 released",
       "https://github.com/soywod/himalaya/releases/tag/v0.7.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 14:54:26",
-      "https://lobste.rs/s/pd8rr8/when_rust_hurts"
-    ],
-    [
-      "When Rust hurts",
-      "https://mmapped.blog/posts/15-when-rust-hurts.html"
     ]
   ]
 ]
