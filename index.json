@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-17, 10:02:44",
+      "https://lobste.rs/s/j1vdi4/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/j1vdi4/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 09:59:43",
+      "https://lobste.rs/s/vmealj/how_bootstrap_your_go_project_for_ci_cd"
+    ],
+    [
+      "How to bootstrap your Go project for CI/CD with GitLab",
+      "https://youtu.be/-CbXTBX0dbo"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 08:09:13",
       "https://lobste.rs/s/buhggx/open_source_opportunities_with_haskell"
     ],
@@ -27,16 +47,6 @@
     [
       "Smoke-testing Rust HTTP clients (2020)",
       "https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 22:58:52",
-      "https://lobste.rs/s/0y3wkh/yuescript_moonscript_dialect_compiles"
-    ],
-    [
-      "Yuescript: a MoonScript dialect that compiles to Lua",
-      "https://yuescript.org/doc/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Most Efficient Ways to Put Squares in Squares",
       "https://erich-friedman.github.io/packing/squinsqu/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 05:13:54",
-      "https://lobste.rs/s/bgwqcg/lua_programming_gems"
-    ],
-    [
-      "Lua Programming Gems",
-      "http://www.lua.org/gems/"
     ]
   ],
   [
