@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-17, 15:14:32",
+      "https://lobste.rs/s/tfia5r/what_is_chatgpt_doing_why_does_it_work"
+    ],
+    [
+      "What Is ChatGPT Doing … and Why Does It Work?",
+      "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 15:09:03",
+      "https://lobste.rs/s/jbjytb/tidying_up_your_home_with_nix"
+    ],
+    [
+      "Tidying up your $HOME with Nix",
+      "https://juliu.is/tidying-your-home-with-nix"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 14:30:48",
       "https://lobste.rs/s/cfjhcz/computing_utf_8_size_latin_1_string"
     ],
@@ -217,26 +237,6 @@
     [
       "A promising mess",
       "https://pierre.equoy.fr/blog/posts/2023/02/a-promising-mess/"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 23:58:28",
-      "https://lobste.rs/s/coy6gt/why_is_building_ui_rust_so_hard"
-    ],
-    [
-      "Why is building a UI in Rust so hard?",
-      "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 23:21:55",
-      "https://lobste.rs/s/h3axjq/chatgpt_passes_turing_test_now_what"
-    ],
-    [
-      "ChatGPT passes the Turing Test — now what?",
-      "https://codepengu.in/chat_gpt/"
     ]
   ],
   [
