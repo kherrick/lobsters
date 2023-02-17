@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 02:52:34",
+      "https://lobste.rs/s/oaewlj/sandpack_2_0_node_js_runtime_tbat_runs"
+    ],
+    [
+      "Sandpack 2.0 and a Node.js runtime tbat runs in the browser",
+      "https://codesandbox.io/blog/announcing-sandpack-2"
+    ]
+  ],
+  [
+    [
       "2023-02-16, 23:56:14",
       "https://lobste.rs/s/fdrio2/smoke_testing_rust_http_clients_2020"
     ],
@@ -27,6 +37,16 @@
     [
       "Reducing Tailscale’s binary size on macOS",
       "https://tailscale.com/blog/macos-binary-size/"
+    ]
+  ],
+  [
+    [
+      "2023-02-16, 21:59:57",
+      "https://lobste.rs/s/h1vivn/reactive_signals_dsl_for_fullstack_web_ui"
+    ],
+    [
+      "A reactive signals DSL for fullstack web UI, with compiler-managed network sync",
+      "https://github.com/hyperfiddle/electric"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-02-16, 07:33:31",
-      "https://lobste.rs/s/rpsrih/retrospectives_antipatterns"
-    ],
-    [
-      "Retrospectives Antipatterns",
-      "https://martinfowler.com/articles/retrospective-antipatterns.html"
-    ]
-  ],
-  [
-    [
       "2023-02-16, 05:13:54",
       "https://lobste.rs/s/bgwqcg/lua_programming_gems"
     ],
@@ -227,16 +237,6 @@
     [
       "Himalaya, the CLI email client: v0.7.0 released",
       "https://github.com/soywod/himalaya/releases/tag/v0.7.0"
-    ]
-  ],
-  [
-    [
-      "2023-02-15, 19:00:33",
-      "https://lobste.rs/s/39ao1j/what_happens_if_you_put_http_server_inside"
-    ],
-    [
-      "What happens if you put HTTP server inside Postgres?",
-      "https://dev.to/omnigres/what-happens-if-you-put-http-server-inside-postgres-33kd"
     ]
   ],
   [
