@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-17, 20:40:37",
+      "https://lobste.rs/s/czy0dh/zig_bits_0x1_returning_slices_from"
+    ],
+    [
+      "Zig Bits 0x1 - Returning slices from functions",
+      "https://blog.orhun.dev/zig-bits-01/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 20:34:42",
+      "https://lobste.rs/s/ymkmem/named_booleans_prevent_c_bugs_save_you"
+    ],
+    [
+      "Named Booleans prevent C++ bugs and save you time",
+      "https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 20:04:55",
       "https://lobste.rs/s/mviuhq/python_s_multiprocessing_performance"
     ],
@@ -187,26 +207,6 @@
     [
       "Homebrew 4.0.0",
       "https://brew.sh/2023/02/16/homebrew-4.0.0/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 17:42:03",
-      "https://lobste.rs/s/trze3z/7guis_gui_programming_benchmark"
-    ],
-    [
-      "7GUIs: A GUI Programming Benchmark",
-      "https://eugenkiss.github.io/7guis/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 16:57:09",
-      "https://lobste.rs/s/gdyuj0/we_found_neuron_gpt_2"
-    ],
-    [
-      "We Found An Neuron in GPT-2",
-      "https://clementneo.com/posts/2023/02/11/we-found-an-neuron"
     ]
   ],
   [
