@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-17, 14:30:48",
+      "https://lobste.rs/s/cfjhcz/computing_utf_8_size_latin_1_string"
+    ],
+    [
+      "Computing the UTF-8 size of a Latin 1 string quickly (AVX edition)",
+      "https://lemire.me/blog/2023/02/16/computing-the-utf-8-size-of-a-latin-1-string-quickly-avx-edition/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 10:57:09",
       "https://lobste.rs/s/rzd32p/ractor_rust_actor_framework"
     ],
@@ -37,16 +47,6 @@
     [
       "Open-Source Opportunities with the Haskell Foundation",
       "https://fosdem.org/2023/schedule/event/haskell_foundation_open_source/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 23:56:14",
-      "https://lobste.rs/s/fdrio2/smoke_testing_rust_http_clients_2020"
-    ],
-    [
-      "Smoke-testing Rust HTTP clients (2020)",
-      "https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6"
     ]
   ],
   [
