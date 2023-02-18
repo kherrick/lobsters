@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 16:43:14",
+      "https://lobste.rs/s/miuv2k/c_rusted_advantages_rust_c_without"
+    ],
+    [
+      "C-rusted: The Advantages of Rust, in C, without the Disadvantages",
+      "https://arxiv.org/abs/2302.05331"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 16:02:24",
       "https://lobste.rs/s/zpjva5/this_is_not_drill_this_is_just_tuesday"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing Javascript without a build system",
       "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 11:28:43",
-      "https://lobste.rs/s/j9decl/haiku_package_management"
-    ],
-    [
-      "Haiku Package Management",
-      "https://www.markround.com/blog/2023/02/13/haiku-package-management/"
     ]
   ]
 ]
