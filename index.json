@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-18, 22:16:45",
+      "https://lobste.rs/s/bldkt4/rust_performance_book"
+    ],
+    [
+      "The Rust Performance Book",
+      "https://nnethercote.github.io/perf-book/"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 22:12:23",
+      "https://lobste.rs/s/ycvktu/sips_scriptable_image_processing_system"
+    ],
+    [
+      "sips: Scriptable image processing system",
+      "https://til.simonwillison.net/macos/sips"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 21:01:29",
       "https://lobste.rs/s/vohtyr/on_prompt_engineering"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-02-18, 00:13:18",
-      "https://lobste.rs/s/xcjva5/readline_crime_exploiting_suid_logic_bug"
-    ],
-    [
-      "Readline crime: exploiting a SUID logic bug",
-      "https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 21:53:11",
       "https://lobste.rs/s/jm8dch/first_impressions_visionfive_2"
     ],
@@ -157,16 +167,6 @@
     [
       "John Carmack on Functional Programming in C++",
       "http://sevangelatos.com/john-carmack-on/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 20:47:20",
-      "https://lobste.rs/s/saz2me/all_your_comparable_types"
-    ],
-    [
-      "All your comparable types",
-      "https://go.dev/blog/comparable"
     ]
   ],
   [
