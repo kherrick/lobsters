@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 09:22:58",
+      "https://lobste.rs/s/zghj5g/pc_face_bitmap_arrays_for_rendering_cp437"
+    ],
+    [
+      "PC Face: Bitmap arrays for rendering CP437 glyphs using IBM PC OEM fonts",
+      "https://github.com/susam/pcface"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 04:30:15",
       "https://lobste.rs/s/gcvfl7/what_utilities_should_be_standard_part"
     ],
@@ -57,16 +67,6 @@
     [
       "zxcvbn: Low-Budget Password Strength Estimation",
       "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 21:27:48",
-      "https://lobste.rs/s/ub4xb0/john_carmack_on_functional_programming_c"
-    ],
-    [
-      "John Carmack on Functional Programming in C++",
-      "http://sevangelatos.com/john-carmack-on/"
     ]
   ],
   [
