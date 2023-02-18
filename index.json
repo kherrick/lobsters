@@ -51,22 +51,22 @@
   ],
   [
     [
+      "2023-02-17, 21:27:48",
+      "https://lobste.rs/s/ub4xb0/john_carmack_on_functional_programming_c"
+    ],
+    [
+      "John Carmack on Functional Programming in C++",
+      "http://sevangelatos.com/john-carmack-on/"
+    ]
+  ],
+  [
+    [
       "2023-02-17, 21:10:14",
       "https://lobste.rs/s/ztqzuh/io_uring_networking_2023"
     ],
     [
       "io_uring and networking in 2023",
       "https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 20:57:42",
-      "https://lobste.rs/s/xboo1c/bugtales_reunzip_re_exploiting_huawei"
-    ],
-    [
-      "[BugTales] REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB",
-      "https://labs.taszk.io/articles/post/reunzip/"
     ]
   ],
   [
