@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 04:30:15",
+      "https://lobste.rs/s/gcvfl7/what_utilities_should_be_standard_part"
+    ],
+    [
+      "What utilities should be a standard part of a distro and why?",
+      "https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 00:13:18",
       "https://lobste.rs/s/xcjva5/readline_crime_exploiting_suid_logic_bug"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-02-17, 20:54:09",
-      "https://lobste.rs/s/j4wiwl/lunanet_interoperability"
+      "2023-02-17, 20:57:42",
+      "https://lobste.rs/s/xboo1c/bugtales_reunzip_re_exploiting_huawei"
     ],
     [
-      "LunaNet Interoperability Specification Document",
-      "https://esc.gsfc.nasa.gov/static-files/Draft%20LunaNet%20Interoperability%20Specification%20Final.pdf"
+      "[BugTales] REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB",
+      "https://labs.taszk.io/articles/post/reunzip/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Programming AIs worry me",
       "https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/"
-    ]
-  ],
-  [
-    [
-      "2023-02-16, 20:30:30",
-      "https://lobste.rs/s/ydhcqa/little_learner"
-    ],
-    [
-      "The Little Learner",
-      "https://mitpress.mit.edu/9780262546379/the-little-learner/"
     ]
   ],
   [
