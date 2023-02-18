@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-02-17, 22:00:15",
-      "https://lobste.rs/s/2asefr/real_programmers_don_t_use_pascal_1983"
-    ],
-    [
-      "Real Programmers Don't Use Pascal (1983)",
-      "http://www.pbm.com/~lindahl/real.programmers.html"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 21:53:11",
       "https://lobste.rs/s/jm8dch/first_impressions_visionfive_2"
     ],
@@ -77,6 +67,16 @@
     [
       "John Carmack on Functional Programming in C++",
       "http://sevangelatos.com/john-carmack-on/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 20:57:42",
+      "https://lobste.rs/s/xboo1c/bugtales_reunzip_re_exploiting_huawei"
+    ],
+    [
+      "[BugTales] REUnziP: Re-Exploiting Huawei Recovery With FaultyUSB",
+      "https://labs.taszk.io/articles/post/reunzip/"
     ]
   ],
   [
