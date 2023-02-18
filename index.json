@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-18, 19:30:30",
+      "https://lobste.rs/s/nd2xad/poor_schemas_poor_cataloguing_why_music"
+    ],
+    [
+      "Poor schemas, poor cataloguing: why music tagging sucks",
+      "https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 19:13:59",
       "https://lobste.rs/s/cnz9ca/is_parallel_programming_hard_if_so_what"
     ],
@@ -197,16 +207,6 @@
     [
       "Buildless JavaScript",
       "https://blog.6nok.org/buildless-javascript/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 17:10:06",
-      "https://lobste.rs/s/f8mil0/high_school_redis_mutex_ruby_lua"
-    ],
-    [
-      "High School – A Redis Mutex in Ruby and Lua",
-      "https://census.dev/blog/high-school"
     ]
   ],
   [
