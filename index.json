@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-02-17, 22:00:15",
-      "https://lobste.rs/s/2asefr/real_programmers_don_t_use_pascal_1983"
+      "2023-02-18, 00:13:18",
+      "https://lobste.rs/s/xcjva5/readline_crime_exploiting_suid_logic_bug"
     ],
     [
-      "Real Programmers Don't Use Pascal (1983)",
-      "http://www.pbm.com/~lindahl/real.programmers.html"
+      "Readline crime: exploiting a SUID logic bug",
+      "https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/"
     ]
   ],
   [
@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2023-02-17, 21:27:48",
-      "https://lobste.rs/s/ub4xb0/john_carmack_on_functional_programming_c"
-    ],
-    [
-      "John Carmack on Functional Programming in C++",
-      "http://sevangelatos.com/john-carmack-on/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 21:10:14",
       "https://lobste.rs/s/ztqzuh/io_uring_networking_2023"
     ],
     [
       "io_uring and networking in 2023",
       "https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 20:54:09",
+      "https://lobste.rs/s/j4wiwl/lunanet_interoperability"
+    ],
+    [
+      "LunaNet Interoperability Specification Document",
+      "https://esc.gsfc.nasa.gov/static-files/Draft%20LunaNet%20Interoperability%20Specification%20Final.pdf"
     ]
   ],
   [
