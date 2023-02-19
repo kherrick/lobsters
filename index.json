@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 12:50:38",
+      "https://lobste.rs/s/ec4ri5/pessimal_algorithms_simplexity"
+    ],
+    [
+      "Pessimal Algorithms and Simplexity Analysis (1984)",
+      "https://www.mipmip.org/tidbits/pasa.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 10:56:37",
       "https://lobste.rs/s/szeb2a/three_approaches_heap_sizing"
     ],
@@ -87,16 +97,6 @@
     [
       "sips: Scriptable image processing system",
       "https://til.simonwillison.net/macos/sips"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 21:01:29",
-      "https://lobste.rs/s/vohtyr/on_prompt_engineering"
-    ],
-    [
-      "On Prompt Engineering",
-      "https://benjamincongdon.me/blog/2023/02/18/On-Prompt-Engineering/"
     ]
   ],
   [
