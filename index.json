@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 17:42:00",
+      "https://lobste.rs/s/abgxcg/multi_object_for_loops_struct_arrays"
+    ],
+    [
+      "Multi-Object For Loops + Struct-Of-Arrays",
+      "https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 17:10:32",
       "https://lobste.rs/s/zhhzui/man_beats_machine_at_go_human_victory_over"
     ],
@@ -237,16 +247,6 @@
     [
       "mox - modern full-featured open source secure mail server for low-maintenance self-hosted email",
       "https://github.com/mjl-/mox"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 15:09:03",
-      "https://lobste.rs/s/jbjytb/tidying_up_your_home_with_nix"
-    ],
-    [
-      "Tidying up your $HOME with Nix",
-      "https://juliu.is/tidying-your-home-with-nix"
     ]
   ]
 ]
