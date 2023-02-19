@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 00:16:30",
+      "https://lobste.rs/s/gf4uk1/rfc_1925_twelve_networking_truths_1996"
+    ],
+    [
+      "RFC 1925:  The Twelve Networking Truths (1996)",
+      "https://www.rfc-editor.org/rfc/rfc1925"
+    ]
+  ],
+  [
+    [
       "2023-02-18, 23:37:25",
       "https://lobste.rs/s/vup8ro/beautiful_binary_search_d"
     ],
@@ -217,16 +227,6 @@
     [
       "Buildless JavaScript",
       "https://blog.6nok.org/buildless-javascript/"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 15:14:32",
-      "https://lobste.rs/s/tfia5r/what_is_chatgpt_doing_why_does_it_work"
-    ],
-    [
-      "What Is ChatGPT Doing … and Why Does It Work?",
-      "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
     ]
   ],
   [
