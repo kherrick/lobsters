@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-02-18, 22:16:45",
-      "https://lobste.rs/s/bldkt4/rust_performance_book"
-    ],
-    [
-      "The Rust Performance Book",
-      "https://nnethercote.github.io/perf-book/"
-    ]
-  ],
-  [
-    [
       "2023-02-18, 22:12:23",
       "https://lobste.rs/s/ycvktu/sips_scriptable_image_processing_system"
     ],
@@ -197,6 +187,16 @@
     [
       "Poor schemas, poor cataloguing: why music tagging sucks",
       "https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"
+    ]
+  ],
+  [
+    [
+      "2023-02-18, 18:13:28",
+      "https://lobste.rs/s/bpezdj/incremental_approach_compiler"
+    ],
+    [
+      "An incremental approach to compiler construction",
+      "https://github.com/namin/inc"
     ]
   ],
   [
