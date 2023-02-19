@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 21:29:25",
+      "https://lobste.rs/s/vlf1be/fedora_packages_versus_upstream"
+    ],
+    [
+      "Fedora packages versus upstream Flatpaks",
+      "https://lwn.net/Articles/922387/"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 20:35:07",
       "https://lobste.rs/s/zojypf/my_favourite_3_lines_css"
     ],
@@ -177,16 +187,6 @@
     [
       "Beautiful Binary Search in D",
       "https://muscar.eu/shar-binary-search-meta.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 22:16:45",
-      "https://lobste.rs/s/bldkt4/rust_performance_book"
-    ],
-    [
-      "The Rust Performance Book",
-      "https://nnethercote.github.io/perf-book/"
     ]
   ],
   [
