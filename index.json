@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 16:04:40",
+      "https://lobste.rs/s/avddoq/i_just_learned_docker_edits_firewall"
+    ],
+    [
+      "I just learned: Docker edits firewall rules for you",
+      "https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 15:20:49",
       "https://lobste.rs/s/t4ifza/what_austral_proves"
     ],
@@ -197,16 +207,6 @@
     [
       "FOSS communities: You don’t need to yell",
       "https://www.akselmo.dev/2023/02/17/You-dont-need-to-yell.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 09:22:58",
-      "https://lobste.rs/s/zghj5g/pc_face_bitmap_arrays_for_rendering_cp437"
-    ],
-    [
-      "PC Face: Bitmap arrays for rendering CP437 glyphs using IBM PC OEM fonts",
-      "https://github.com/susam/pcface"
     ]
   ],
   [
