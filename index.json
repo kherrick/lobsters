@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-02-17, 21:27:48",
-      "https://lobste.rs/s/ub4xb0/john_carmack_on_functional_programming_c"
-    ],
-    [
-      "John Carmack on Functional Programming in C++",
-      "http://sevangelatos.com/john-carmack-on/"
-    ]
-  ],
-  [
-    [
       "2023-02-17, 20:40:37",
       "https://lobste.rs/s/czy0dh/zig_bits_0x1_returning_slices_from"
     ],
@@ -227,6 +217,16 @@
     [
       "Buildless JavaScript",
       "https://blog.6nok.org/buildless-javascript/"
+    ]
+  ],
+  [
+    [
+      "2023-02-17, 15:14:32",
+      "https://lobste.rs/s/tfia5r/what_is_chatgpt_doing_why_does_it_work"
+    ],
+    [
+      "What Is ChatGPT Doing … and Why Does It Work?",
+      "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
     ]
   ],
   [
