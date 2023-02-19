@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-19, 18:37:37",
+      "https://lobste.rs/s/1ztw1x/computer_museum_uses_greaseweazle_help"
+    ],
+    [
+      "Computer Museum uses GreaseWeazle to help exonerate Maryland Man",
+      "https://www.mail-archive.com/cctalk@classiccmp.org/msg61852.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 18:33:43",
+      "https://lobste.rs/s/oy8s2t/how_i_give_formal_written_feedback"
+    ],
+    [
+      "How I give formal written feedback",
+      "https://write.as/quad/how-i-give-formal-written-feedback"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 18:02:26",
       "https://lobste.rs/s/r8b8d1/lessons_learnt_while_trying_modernize"
     ],
@@ -77,16 +97,6 @@
     [
       "Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS",
       "https://berthub.eu/articles/posts/optimizing-optimizing-400-percent-speedup/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 12:50:38",
-      "https://lobste.rs/s/ec4ri5/pessimal_algorithms_simplexity"
-    ],
-    [
-      "Pessimal Algorithms and Simplexity Analysis (1984)",
-      "https://www.mipmip.org/tidbits/pasa.pdf"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Poor schemas, poor cataloguing: why music tagging sucks",
       "https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 19:13:59",
-      "https://lobste.rs/s/cnz9ca/is_parallel_programming_hard_if_so_what"
-    ],
-    [
-      "Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-      "https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html"
     ]
   ],
   [
