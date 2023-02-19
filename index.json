@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 15:09:12",
+      "https://lobste.rs/s/uoflak/privilege_drop_privilege_separation"
+    ],
+    [
+      "Privilege drop, privilege separation, and restricted-service operating mode in OpenBSD",
+      "https://sha256.net/privsep.html"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 14:06:06",
       "https://lobste.rs/s/0yzs2g/optimizing_optimizing_some_insights_led"
     ],
@@ -227,16 +237,6 @@
     [
       "Named Booleans prevent C++ bugs and save you time",
       "https://raymii.org/s/blog/Named_Booleans_prevent_bugs.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 20:04:55",
-      "https://lobste.rs/s/mviuhq/python_s_multiprocessing_performance"
-    ],
-    [
-      "Python’s multiprocessing performance problem",
-      "https://pythonspeed.com/articles/faster-multiprocessing-pickle/"
     ]
   ],
   [
