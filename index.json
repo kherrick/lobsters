@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-19, 07:27:42",
+      "https://lobste.rs/s/if8osu/few_lesser_known_tricks_quirks_features_c"
+    ],
+    [
+      "Few lesser known tricks, quirks and features of C",
+      "https://blog.joren.ga/less-known-c"
+    ]
+  ],
+  [
+    [
       "2023-02-19, 04:45:51",
       "https://lobste.rs/s/evmaht/manifest_v3_signing_available_november"
     ],
@@ -167,16 +177,6 @@
     [
       "mox - modern full-featured open source secure mail server for low-maintenance self-hosted email",
       "https://github.com/mjl-/mox"
-    ]
-  ],
-  [
-    [
-      "2023-02-17, 21:33:49",
-      "https://lobste.rs/s/o0e4qk/zxcvbn_low_budget_password_strength"
-    ],
-    [
-      "zxcvbn: Low-Budget Password Strength Estimation",
-      "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler"
     ]
   ],
   [
