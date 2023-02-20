@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-02-20, 18:41:22",
-      "https://lobste.rs/s/kqk2li/fun_with_printing_tables_with_std_format_c"
-    ],
-    [
-      "Fun with printing tables with std::format and C++20",
-      "https://www.cppstories.com/2023/fun-print-tables-format/"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 18:33:37",
       "https://lobste.rs/s/crtsfh/how_i_organize_my_digital_music"
     ],
@@ -147,6 +137,16 @@
     [
       "If SAFe was a programming language, would you use it?",
       "https://dev.to/yonkeltron/if-safe-was-a-programming-language-would-you-use-it-2g02"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 13:19:06",
+      "https://lobste.rs/s/eysmc8/allocscope_memory_tracking_tool"
+    ],
+    [
+      "allocscope  -  a memory tracking tool",
+      "https://github.com/matt-kimball/allocscope"
     ]
   ],
   [
