@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-20, 13:19:06",
+      "https://lobste.rs/s/eysmc8/allocscope_memory_tracking_tool"
+    ],
+    [
+      "allocscope  -  a memory tracking tool",
+      "https://github.com/matt-kimball/allocscope"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 11:45:44",
       "https://lobste.rs/s/fb7svw/what_are_you_doing_this_week"
     ],
@@ -57,16 +67,6 @@
     [
       "Queues should be empty",
       "http://joshvoigts.com/articles/queues-should-be-empty/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 04:24:51",
-      "https://lobste.rs/s/hkqrrn/odd_sketches"
-    ],
-    [
-      "Odd Sketches",
-      "https://pncnmnp.github.io/blogs/odd-sketches.html"
     ]
   ],
   [
