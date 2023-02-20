@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-20, 19:31:26",
+      "https://lobste.rs/s/26m3qo/complete_guide_linux_process_scheduling"
+    ],
+    [
+      "A complete guide to Linux process scheduling (2015)",
+      "https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 19:28:04",
+      "https://lobste.rs/s/xlnwyt/how_safe_are_net_serialization_libraries"
+    ],
+    [
+      "How safe are .NET serialization libraries against StackOverflowException",
+      "https://mijailovic.net/2023/02/20/stack-overflow-exception/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 19:26:45",
+      "https://lobste.rs/s/2whfqd/crypto_ancienne_2_0_now_brings_tls_1_3"
+    ],
+    [
+      "Crypto Ancienne 2.0 now brings TLS 1.3 to the Internet of Old Things (except BeOS) (2022)",
+      "http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html?m=1"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 19:23:49",
       "https://lobste.rs/s/rf7ayb/what_is_randomart_image_for"
     ],
@@ -57,16 +87,6 @@
     [
       "NP-Complete isn't (always) Hard",
       "https://www.hillelwayne.com/post/np-hard/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 17:19:02",
-      "https://lobste.rs/s/pymoo3/react_is_not_framework"
-    ],
-    [
-      "React is not a framework",
-      "https://johan.hal.se/wrote/2023/02/17/what-to-expect-from-your-framework/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-19, 17:10:32",
-      "https://lobste.rs/s/zhhzui/man_beats_machine_at_go_human_victory_over"
-    ],
-    [
-      "Man beats machine at Go in human victory over AI",
-      "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 16:04:40",
       "https://lobste.rs/s/avddoq/i_just_learned_docker_edits_firewall"
     ],
@@ -237,16 +247,6 @@
     [
       "What Austral Proves",
       "https://animaomnium.github.io/what-austral-proves/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 14:06:06",
-      "https://lobste.rs/s/0yzs2g/optimizing_optimizing_some_insights_led"
-    ],
-    [
-      "Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS (2016)",
-      "https://berthub.eu/articles/posts/optimizing-optimizing-400-percent-speedup/"
     ]
   ]
 ]
