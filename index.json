@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-20, 14:14:24",
+      "https://lobste.rs/s/yryz31/purism_s_lapdock_kit"
+    ],
+    [
+      "Purism's Lapdock Kit",
+      "https://puri.sm/posts/announcing-the-lapdock-kit/"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 14:05:45",
+      "https://lobste.rs/s/vkuwp2/if_safe_was_programming_language_would"
+    ],
+    [
+      "If SAFe was a programming language, would you use it?",
+      "https://dev.to/yonkeltron/if-safe-was-a-programming-language-would-you-use-it-2g02"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 13:19:06",
       "https://lobste.rs/s/eysmc8/allocscope_memory_tracking_tool"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-02-19, 18:02:26",
-      "https://lobste.rs/s/r8b8d1/lessons_learnt_while_trying_modernize"
-    ],
-    [
-      "Lessons learnt while trying to modernize some C code",
-      "https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/"
-    ]
-  ],
-  [
-    [
       "2023-02-19, 17:42:00",
       "https://lobste.rs/s/abgxcg/multi_object_for_loops_struct_arrays"
     ],
@@ -237,16 +247,6 @@
     [
       "Few lesser known tricks, quirks and features of C",
       "https://blog.joren.ga/less-known-c"
-    ]
-  ],
-  [
-    [
-      "2023-02-18, 19:30:30",
-      "https://lobste.rs/s/nd2xad/poor_schemas_poor_cataloguing_why_music"
-    ],
-    [
-      "Poor schemas, poor cataloguing: why music tagging sucks",
-      "https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"
     ]
   ]
 ]
