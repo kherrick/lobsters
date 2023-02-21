@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-02-21, 02:41:28",
+      "https://lobste.rs/s/amutst/are_you_sure_you_want_use_mmap_your"
+    ],
+    [
+      "Are You Sure You Want to Use MMAP in Your Database Management System?",
+      "https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 01:53:21",
       "https://lobste.rs/s/rr5mfw/opossum_rudimentary_web_browser_written"
     ],
@@ -137,16 +147,6 @@
     [
       "Formalising the EVM in Dafny",
       "https://whileydave.com/2023/02/06/formalising-the-ethereum-virtual-machine-in-dafny/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 19:41:57",
-      "https://lobste.rs/s/7fetxt/after_massive"
-    ],
-    [
-      "after massive",
-      "https://di.nmfay.com/massive-monstrous"
     ]
   ],
   [
