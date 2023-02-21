@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-21, 00:21:58",
+      "https://lobste.rs/s/okpr1s/reflections_on_random_selection"
+    ],
+    [
+      "Reflections on Random Selection",
+      "https://www.watershed.co.uk/studio/news/2023/02/15/reflections-random-selection"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 00:08:15",
+      "https://lobste.rs/s/khgrjo/design_can_be_free_part_2_scott_jenson"
+    ],
+    [
+      "Design can be free (part 2) – Scott Jenson",
+      "https://jenson.org/free2/"
+    ]
+  ],
+  [
+    [
       "2023-02-20, 22:47:21",
       "https://lobste.rs/s/vwoanz/deep_dive_into_node_js_understanding_its"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-02-20, 19:31:26",
-      "https://lobste.rs/s/26m3qo/complete_guide_linux_process_scheduling"
+      "2023-02-20, 19:28:04",
+      "https://lobste.rs/s/xlnwyt/how_safe_are_net_serialization_libraries"
     ],
     [
-      "A complete guide to Linux process scheduling (2015)",
-      "https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf"
+      "How safe are .NET serialization libraries against StackOverflowException",
+      "https://mijailovic.net/2023/02/20/stack-overflow-exception/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-02-20, 13:19:06",
-      "https://lobste.rs/s/eysmc8/allocscope_memory_tracking_tool"
-    ],
-    [
-      "allocscope  -  a memory tracking tool",
-      "https://github.com/matt-kimball/allocscope"
-    ]
-  ],
-  [
-    [
       "2023-02-20, 11:45:44",
       "https://lobste.rs/s/fb7svw/what_are_you_doing_this_week"
     ],
@@ -207,16 +217,6 @@
     [
       "Advice you might as well take",
       "https://bytes.zone/posts/advice-you-might-as-well-take/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 21:29:25",
-      "https://lobste.rs/s/vlf1be/fedora_packages_versus_upstream"
-    ],
-    [
-      "Fedora packages versus upstream Flatpaks",
-      "https://lwn.net/Articles/922387/"
     ]
   ],
   [
