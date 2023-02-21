@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-21, 18:31:00",
+      "https://lobste.rs/s/g1swuy/defense_prompt_engineering"
+    ],
+    [
+      "In defense of prompt engineering",
+      "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 17:46:40",
       "https://lobste.rs/s/npl0bd/off_record_virtual_meetup_with_dir_eng"
     ],
@@ -237,16 +247,6 @@
     [
       "Queues should be empty",
       "http://joshvoigts.com/articles/queues-should-be-empty/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 23:32:05",
-      "https://lobste.rs/s/vcxfid/advice_you_might_as_well_take"
-    ],
-    [
-      "Advice you might as well take",
-      "https://bytes.zone/posts/advice-you-might-as-well-take/"
     ]
   ]
 ]
