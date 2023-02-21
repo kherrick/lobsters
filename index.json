@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-21, 16:30:12",
+      "https://lobste.rs/s/ayxgo3/owasp_kubernetes_top_10_tools_techniques"
+    ],
+    [
+      "OWASP Kubernetes top 10 tools and techniques",
+      "https://sysdig.com/blog/top-owasp-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 12:03:38",
       "https://lobste.rs/s/spt1mt/numen_voice_control"
     ],
@@ -237,16 +247,6 @@
     [
       "Advice you might as well take",
       "https://bytes.zone/posts/advice-you-might-as-well-take/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 16:04:40",
-      "https://lobste.rs/s/avddoq/i_just_learned_docker_edits_firewall"
-    ],
-    [
-      "I just learned: Docker edits firewall rules for you",
-      "https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/"
     ]
   ]
 ]
