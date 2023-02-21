@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-02-21, 00:21:58",
-      "https://lobste.rs/s/okpr1s/reflections_on_random_selection"
+      "2023-02-21, 01:53:21",
+      "https://lobste.rs/s/rr5mfw/opossum_rudimentary_web_browser_written"
     ],
     [
-      "Reflections on Random Selection",
-      "https://www.watershed.co.uk/studio/news/2023/02/15/reflections-random-selection"
+      "opossum: Rudimentary web browser written in Golang",
+      "https://github.com/psilva261/opossum"
+    ]
+  ],
+  [
+    [
+      "2023-02-21, 00:54:29",
+      "https://lobste.rs/s/rqovkn/findings_from_six_months_running"
+    ],
+    [
+      "Findings from six months of running `govulncheck` in CI",
+      "https://brandur.org/fragments/govulncheck-ci"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I just learned: Docker edits firewall rules for you",
       "https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/"
-    ]
-  ],
-  [
-    [
-      "2023-02-19, 15:20:49",
-      "https://lobste.rs/s/t4ifza/what_austral_proves"
-    ],
-    [
-      "What Austral Proves",
-      "https://animaomnium.github.io/what-austral-proves/"
     ]
   ]
 ]
