@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-21, 22:47:30",
+      "https://lobste.rs/s/hfpqg7/shipping_logs"
+    ],
+    [
+      "Shipping Logs",
+      "https://fly.io/blog/shipping-logs/"
+    ]
+  ],
+  [
+    [
       "2023-02-21, 21:50:27",
       "https://lobste.rs/s/reyodw/interview_ama_with_louis_pilfold_creator"
     ],
@@ -117,16 +127,6 @@
     [
       "Are You Sure You Want to Use MMAP in Your Database Management System?",
       "https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 01:53:21",
-      "https://lobste.rs/s/rr5mfw/opossum_rudimentary_web_browser_written"
-    ],
-    [
-      "opossum: Rudimentary web browser written in Golang",
-      "https://github.com/psilva261/opossum"
     ]
   ],
   [
