@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-02-21, 08:43:43",
-      "https://lobste.rs/s/lb0zi1/on_not_taking_money_for_netnewswire"
-    ],
-    [
-      "On Not Taking Money for NetNewsWire",
-      "https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 06:49:58",
       "https://lobste.rs/s/7cjkmr/what_s_next_for_modern_infrastructure"
     ],
@@ -247,6 +237,16 @@
     [
       "Advice you might as well take",
       "https://bytes.zone/posts/advice-you-might-as-well-take/"
+    ]
+  ],
+  [
+    [
+      "2023-02-19, 16:04:40",
+      "https://lobste.rs/s/avddoq/i_just_learned_docker_edits_firewall"
+    ],
+    [
+      "I just learned: Docker edits firewall rules for you",
+      "https://geoff.tuxpup.com/posts/psa_docker_edits_firewall_rules/"
     ]
   ]
 ]
