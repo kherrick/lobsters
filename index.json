@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-02-22, 16:43:33",
-      "https://lobste.rs/s/uejggr/gossip_glomers_series_distributed"
-    ],
-    [
-      "Gossip Glomers: A series of distributed systems challenges",
-      "https://fly.io/dist-sys/"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 16:41:01",
       "https://lobste.rs/s/tzprly/writing_high_performance_clients_for"
     ],
@@ -247,6 +237,16 @@
     [
       "What's next for modern infrastructure?",
       "https://garrit.xyz/posts/2023-02-21-what's-next-for-modern-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2023-02-20, 19:23:49",
+      "https://lobste.rs/s/rf7ayb/what_is_randomart_image_for"
+    ],
+    [
+      "what is the randomart image for?",
+      "https://bytes.zone/posts/what-is-the-randomart-image-for/"
     ]
   ]
 ]
