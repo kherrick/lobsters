@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2023-02-20, 20:25:29",
-      "https://lobste.rs/s/ywkndd/formalising_evm_dafny"
+      "2023-02-21, 00:54:29",
+      "https://lobste.rs/s/rqovkn/findings_from_six_months_running"
     ],
     [
-      "Formalising the EVM in Dafny",
-      "https://whileydave.com/2023/02/06/formalising-the-ethereum-virtual-machine-in-dafny/"
+      "Findings from six months of running `govulncheck` in CI",
+      "https://brandur.org/fragments/govulncheck-ci"
     ]
   ],
   [
