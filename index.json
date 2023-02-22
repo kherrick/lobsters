@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-22, 16:50:01",
+      "https://lobste.rs/s/qtaba8/mit_introduction_data_centric_ai"
+    ],
+    [
+      "MIT Introduction to Data-Centric AI",
+      "https://dcai.csail.mit.edu/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:41:01",
       "https://lobste.rs/s/tzprly/writing_high_performance_clients_for"
     ],
@@ -167,16 +177,6 @@
     [
       "Monitoring an Aquarium with InfluxDB and Grafana",
       "https://www.bentasker.co.uk/posts/blog/house-stuff/monitoring-a-fishtank-with-influxdb-and-grafana.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 22:47:30",
-      "https://lobste.rs/s/hfpqg7/shipping_logs"
-    ],
-    [
-      "Shipping Logs",
-      "https://fly.io/blog/shipping-logs/"
     ]
   ],
   [
