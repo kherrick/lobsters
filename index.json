@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-02-22, 17:07:25",
+      "https://lobste.rs/s/aahxhw/introducing_ambient_0_1"
+    ],
+    [
+      "Introducing Ambient 0.1",
+      "https://www.ambient.run/post/introducing-ambient"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 17:03:12",
+      "https://lobste.rs/s/griauf/squeezing_sokoban_game_into_10_lines_code"
+    ],
+    [
+      "Squeezing a Sokoban game into 10 lines of code",
+      "https://www.cole-k.com/2023/02/21/tiny-games-hs"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:50:01",
       "https://lobste.rs/s/qtaba8/mit_introduction_data_centric_ai"
     ],
     [
       "MIT Introduction to Data-Centric AI",
       "https://dcai.csail.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:43:33",
+      "https://lobste.rs/s/uejggr/gossip_glomers_series_distributed"
+    ],
+    [
+      "Gossip Glomers: A series of distributed systems challenges",
+      "https://fly.io/dist-sys/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-02-21, 12:03:38",
-      "https://lobste.rs/s/spt1mt/numen_voice_control"
-    ],
-    [
-      "Numen Voice Control",
-      "https://numenvoice.com/"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 09:17:10",
       "https://lobste.rs/s/aqoqsr/we_stand_save_7m_over_five_years_from_our"
     ],
@@ -227,26 +247,6 @@
     [
       "What's next for modern infrastructure?",
       "https://garrit.xyz/posts/2023-02-21-what's-next-for-modern-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 19:23:49",
-      "https://lobste.rs/s/rf7ayb/what_is_randomart_image_for"
-    ],
-    [
-      "what is the randomart image for?",
-      "https://bytes.zone/posts/what-is-the-randomart-image-for/"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 19:13:33",
-      "https://lobste.rs/s/h4j3lg/killer_libraries"
-    ],
-    [
-      "Killer libraries?",
-      "https://lobste.rs/s/h4j3lg/killer_libraries"
     ]
   ]
 ]
