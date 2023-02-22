@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-22, 20:14:06",
+      "https://lobste.rs/s/licjd4/why_sat_is_hard"
+    ],
+    [
+      "Why SAT Is Hard",
+      "https://matklad.github.io/2023/02/21/why-SAT-is-hard.html"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 19:58:05",
       "https://lobste.rs/s/ktgorq/react_is_holding_me_hostage"
     ],
@@ -77,16 +87,6 @@
     [
       "MIT Introduction to Data-Centric AI",
       "https://dcai.csail.mit.edu/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 16:43:33",
-      "https://lobste.rs/s/uejggr/gossip_glomers_series_distributed"
-    ],
-    [
-      "Gossip Glomers: A series of distributed systems challenges",
-      "https://fly.io/dist-sys/"
     ]
   ],
   [
