@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-22, 09:03:02",
+      "https://lobste.rs/s/o8fhje/using_tigris_as_open_source_mongodb_atlas"
+    ],
+    [
+      "Using Tigris as an open source MongoDB Atlas alternative for Go applications",
+      "https://www.tigrisdata.com/blog/tigris-mongodb-atlas-alternative/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 08:36:51",
       "https://lobste.rs/s/blp2aq/escaping_misconfigured_vscode"
     ],
@@ -237,16 +247,6 @@
     [
       "A Lambda Calculus With Coroutines and Heapless, Directly-Called Closures",
       "https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 07:49:16",
-      "https://lobste.rs/s/bozzog/praise_alpine_apk"
-    ],
-    [
-      "In praise of Alpine and apk",
-      "https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/"
     ]
   ]
 ]
