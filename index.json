@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-02-22, 16:43:33",
+      "https://lobste.rs/s/uejggr/gossip_glomers_series_distributed"
+    ],
+    [
+      "Gossip Glomers: A series of distributed systems challenges",
+      "https://fly.io/dist-sys/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:41:01",
       "https://lobste.rs/s/tzprly/writing_high_performance_clients_for"
     ],
@@ -167,16 +177,6 @@
     [
       "Escaping misconfigured VSCode extensions",
       "https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 08:05:44",
-      "https://lobste.rs/s/vrnv7x/chromium_security_quarterly_updates"
-    ],
-    [
-      "Chromium Security Quarterly Updates",
-      "https://www.chromium.org/Home/chromium-security/quarterly-updates/"
     ]
   ],
   [
