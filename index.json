@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-22, 08:36:51",
+      "https://lobste.rs/s/blp2aq/escaping_misconfigured_vscode"
+    ],
+    [
+      "Escaping misconfigured VSCode extensions",
+      "https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 08:05:44",
       "https://lobste.rs/s/vrnv7x/chromium_security_quarterly_updates"
     ],
@@ -227,16 +237,6 @@
     [
       "A Lambda Calculus With Coroutines and Heapless, Directly-Called Closures",
       "https://ayazhafiz.com/articles/23/a-lambda-calculus-with-coroutines-and-heapless-closures"
-    ]
-  ],
-  [
-    [
-      "2023-02-20, 15:17:01",
-      "https://lobste.rs/s/kgka2r/why_you_don_t_trust_your_linter"
-    ],
-    [
-      "Why You Don't Trust Your Linter",
-      "https://www.youtube.com/watch?v=XjwJeHRa53A"
     ]
   ],
   [
