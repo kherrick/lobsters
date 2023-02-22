@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-22, 16:41:01",
+      "https://lobste.rs/s/tzprly/writing_high_performance_clients_for"
+    ],
+    [
+      "Writing high-performance clients for TigerBeetle",
+      "https://tigerbeetle.com/blog/2023-02-21-writing-high-performance-clients-for-tigerbeetle/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:34:20",
+      "https://lobste.rs/s/gmmix8/retrowin32_progress_report"
+    ],
+    [
+      "retrowin32 progress report",
+      "https://neugierig.org/software/blog/2023/02/retrowin32-progress.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:31:16",
+      "https://lobste.rs/s/iuvnyf/gossip_glomers_distributed_systems"
+    ],
+    [
+      "Gossip Glomers - Distributed systems challenges",
+      "https://fly.io/blog/gossip-glomers/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 16:20:19",
       "https://lobste.rs/s/bsvbd6/c_coroutines"
     ],
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2023-02-21, 20:53:41",
-      "https://lobste.rs/s/zrodr3/trellix_advanced_research_center"
-    ],
-    [
-      "Trellix Advanced Research Center Discovers a New Privilege Escalation Bug Class on macOS and iOS",
-      "https://www.trellix.com/en-us/about/newsroom/stories/research/trellix-advanced-research-center-discovers-a-new-privilege-escalation-bug-class-on-macos-and-ios.html"
-    ]
-  ],
-  [
-    [
       "2023-02-21, 20:39:11",
       "https://lobste.rs/s/bxewwf/io_uring_networking_2023"
     ],
     [
       "io_uring and networking in 2023",
       "https://lwn.net/Articles/923369/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 18:37:25",
-      "https://lobste.rs/s/wp9ypp/poisoning_web_scale_training_datasets_is"
-    ],
-    [
-      "Poisoning Web-Scale Training Datasets is Practical",
-      "https://arxiv.org/abs/2302.10149"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 17:28:09",
-      "https://lobste.rs/s/h7sd1t/import_cmake_c_20_modules"
-    ],
-    [
-      "import CMake; C++20 Modules",
-      "https://www.kitware.com/import-cmake-c20-modules/"
     ]
   ],
   [
