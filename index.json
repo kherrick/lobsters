@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-23, 17:27:39",
+      "https://lobste.rs/s/dnbkg7/andrew_kelley_practical_dod"
+    ],
+    [
+      "Andrew Kelley - Practical DOD",
+      "https://vimeo.com/649009599"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 17:16:48",
+      "https://lobste.rs/s/um8519/keyword_generics_progress_report"
+    ],
+    [
+      "Keyword Generics Progress Report: February 2023",
+      "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 16:22:14",
       "https://lobste.rs/s/5piopy/coinductive_guide_inductive"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-02-23, 12:38:32",
-      "https://lobste.rs/s/c45awv/serialize_struct_bytes_send_it_through"
-    ],
-    [
-      "Serialize a struct to bytes to send it through the network in Go — Part I",
-      "https://scribe.froth.zone/@maximgradan/serialize-a-struct-to-bytes-to-send-it-through-the-network-in-go-part-i-b861c15d2f06"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 12:33:55",
       "https://lobste.rs/s/ut3qje/psql_tips"
     ],
@@ -147,16 +157,6 @@
     [
       "Safari 16.4 Is An Admission",
       "https://infrequently.org/2023/02/safari-16-4-is-an-admission/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 21:58:16",
-      "https://lobste.rs/s/o6x8ku/give_me_flexibility_give_me_types"
-    ],
-    [
-      "Give Me Flexibility and Give Me Types",
-      "https://capitalex.codeberg.page/give-me-flexibility-and-give-me-types/"
     ]
   ],
   [
