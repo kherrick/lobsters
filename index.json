@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-23, 01:44:32",
+      "https://lobste.rs/s/4ubbkv/g_3po_protocol_droid_for_ghidra"
+    ],
+    [
+      "G-3PO: A Protocol Droid for Ghidra",
+      "https://medium.com/tenable-techblog/g-3po-a-protocol-droid-for-ghidra-4b46fa72f1ff"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 00:48:49",
+      "https://lobste.rs/s/bw854l/stop_ignoring_pattern_matching_it_s"
+    ],
+    [
+      "Stop ignoring pattern matching! It’s really good",
+      "https://brightonruby.com/2022/stop-ignoring-pattern-matching-tom-stuart/"
+    ]
+  ],
+  [
+    [
       "2023-02-22, 21:58:16",
       "https://lobste.rs/s/o6x8ku/give_me_flexibility_give_me_types"
     ],
@@ -17,16 +37,6 @@
     [
       "Managing Technical Debt for Competitive Advantage",
       "https://stayrelevant.globant.com/en/technology/process-optimization/how-to-manage-technical-debt/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 20:52:29",
-      "https://lobste.rs/s/nxngzs/model_driven_systems_with_zen_lang"
-    ],
-    [
-      "Model-driven systems with zen-lang",
-      "https://www.youtube.com/watch?v=1QxhoV67Sys"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I created a stack machine in Apple Shortcuts",
       "https://old.reddit.com/r/ProgrammingLanguages/comments/1185cxo/i_created_a_stack_machine_in_apple_shortcuts_d/"
-    ]
-  ],
-  [
-    [
-      "2023-02-21, 20:39:11",
-      "https://lobste.rs/s/bxewwf/io_uring_networking_2023"
-    ],
-    [
-      "io_uring and networking in 2023",
-      "https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023"
     ]
   ],
   [
