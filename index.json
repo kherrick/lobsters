@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-02-23, 14:59:31",
+      "https://lobste.rs/s/qhomfq/writing_bare_metal_risc_v_application_d"
+    ],
+    [
+      "Writing a bare-metal RISC-V application in D",
+      "https://zyedidia.github.io/blog/posts/1-d-baremetal/"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 14:35:44",
       "https://lobste.rs/s/mtw9kb/makefile_websh_tconfig_json_js"
     ],
@@ -147,16 +157,6 @@
     [
       "psql tips",
       "https://psql-tips.org"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 11:44:02",
-      "https://lobste.rs/s/gxasku/boilerplate_for_node_js_apps_rest_api"
-    ],
-    [
-      "A boilerplate for Node.js apps / Rest API / Authentication from scratch - express, mongodb (mongoose). Typescript",
-      "https://github.com/watscho/express-mongodb-rest-api-boilerplate"
     ]
   ],
   [
