@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-02-23, 00:48:49",
-      "https://lobste.rs/s/bw854l/stop_ignoring_pattern_matching_it_s"
-    ],
-    [
-      "Stop ignoring pattern matching! It’s really good",
-      "https://brightonruby.com/2022/stop-ignoring-pattern-matching-tom-stuart/"
-    ]
-  ],
-  [
-    [
       "2023-02-22, 21:58:16",
       "https://lobste.rs/s/o6x8ku/give_me_flexibility_give_me_types"
     ],
@@ -137,6 +127,16 @@
     [
       "Gossip Glomers: A series of distributed systems challenges",
       "https://fly.io/dist-sys/"
+    ]
+  ],
+  [
+    [
+      "2023-02-22, 16:41:01",
+      "https://lobste.rs/s/tzprly/writing_high_performance_clients_for"
+    ],
+    [
+      "Writing high-performance clients for TigerBeetle",
+      "https://tigerbeetle.com/blog/2023-02-21-writing-high-performance-clients-for-tigerbeetle/"
     ]
   ],
   [
