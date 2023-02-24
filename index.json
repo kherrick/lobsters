@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-24, 12:27:54",
+      "https://lobste.rs/s/ltf1il/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ltf1il/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 12:22:43",
+      "https://lobste.rs/s/sdh7y9/pretty_rust_backtraces_raw_terminal_mode"
+    ],
+    [
+      "Pretty Rust backtraces in raw terminal mode",
+      "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 11:16:48",
       "https://lobste.rs/s/y0bzrq/what_is_best_book_learn_go_2023"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-02-23, 08:39:33",
-      "https://lobste.rs/s/bdtslf/can_chatgpt_do_exam"
-    ],
-    [
-      "Can ChatGPT do an exam?",
-      "https://www.hansdieterhiep.nl/can-chatgpt-make-an-exam/"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 04:17:53",
       "https://lobste.rs/s/fjsve0/safari_16_4_is_admission"
     ],
@@ -237,16 +247,6 @@
     [
       "React Is Holding Me Hostage",
       "https://emnudge.dev/blog/react-hostage"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 17:03:12",
-      "https://lobste.rs/s/griauf/squeezing_sokoban_game_into_10_lines_code"
-    ],
-    [
-      "Squeezing a Sokoban game into 10 lines of code",
-      "https://www.cole-k.com/2023/02/21/tiny-games-hs"
     ]
   ]
 ]
