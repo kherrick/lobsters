@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-24, 13:42:14",
+      "https://lobste.rs/s/1aeck1/spack_flexible_package_manager_supports"
+    ],
+    [
+      "spack: A flexible package manager that supports multiple versions, configurations, platforms, and compilers",
+      "https://github.com/spack/spack"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 13:40:55",
+      "https://lobste.rs/s/cz8pke/programming_is_easier_than_you_think"
+    ],
+    [
+      "Programming Is Easier Than You Think",
+      "https://easylang.online/easyprogramming/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 12:27:54",
       "https://lobste.rs/s/ltf1il/what_are_you_doing_this_weekend"
     ],
@@ -77,16 +97,6 @@
     [
       "MINIX From Scratch",
       "https://github.com/o-oconnell/minixfromscratch"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 21:50:18",
-      "https://lobste.rs/s/0uny7v/portable_django"
-    ],
-    [
-      "Portable Django",
-      "https://djngo.com/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Safari 16.4 Is An Admission",
       "https://infrequently.org/2023/02/safari-16-4-is-an-admission/"
-    ]
-  ],
-  [
-    [
-      "2023-02-22, 19:58:05",
-      "https://lobste.rs/s/ktgorq/react_is_holding_me_hostage"
-    ],
-    [
-      "React Is Holding Me Hostage",
-      "https://emnudge.dev/blog/react-hostage"
     ]
   ]
 ]
