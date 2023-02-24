@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-24, 23:10:46",
+      "https://lobste.rs/s/ybsckz/87_container_images_production_have"
+    ],
+    [
+      "87% of Container Images in Production Have Critical or High-Severity Vulnerabilities",
+      "https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 22:58:04",
+      "https://lobste.rs/s/mgnuq3/techniques_for_scaling_applications"
+    ],
+    [
+      "Techniques for Scaling Applications with a Database",
+      "https://thenewstack.io/techniques-for-scaling-applications-with-a-database/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 22:13:15",
       "https://lobste.rs/s/whvrpa/go_test_parallelism"
     ],
@@ -47,16 +67,6 @@
     [
       "Consistent caching with PostgreSQL and a Redis API",
       "https://shortishly.com/blog/streaming-replication-redis-api/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 18:21:07",
-      "https://lobste.rs/s/qzpv7i/minimal_oauth_provider_benthos_bloblang"
-    ],
-    [
-      "Minimal OAuth provider in Benthos and Bloblang",
-      "https://gist.github.com/disintegrator/0bd39879c437c4b3abb2779c661a6790"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The End of Localhost  All the Cloud's A Staging Env, and All the Laptops Merely Clients",
       "https://www.swyx.io/the-end-of-localhost"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 17:42:39",
-      "https://lobste.rs/s/ah7i3n/insignificant"
-    ],
-    [
-      "Insignificant",
-      "https://census.dev/blog/insignificant"
     ]
   ],
   [
