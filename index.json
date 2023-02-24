@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-02-23, 17:16:48",
+      "https://lobste.rs/s/um8519/keyword_generics_progress_report"
+    ],
+    [
+      "Keyword Generics Progress Report: February 2023",
+      "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 15:01:49",
       "https://lobste.rs/s/nmotbs/brief_comparison_10_best_google"
     ],
@@ -237,16 +247,6 @@
     [
       "Alpine Suck: Lightweight Desktop installer for Alpine Linux based on the suckless philosophy",
       "https://as.bt.ht/"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 04:17:53",
-      "https://lobste.rs/s/fjsve0/safari_16_4_is_admission"
-    ],
-    [
-      "Safari 16.4 Is An Admission",
-      "https://infrequently.org/2023/02/safari-16-4-is-an-admission/"
     ]
   ]
 ]
