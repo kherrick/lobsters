@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 17:07:16",
+      "https://lobste.rs/s/rq24lv/carrying_is_2_cocycle_1994"
+    ],
+    [
+      "Carrying Is a 2-Cocycle (1994)",
+      "http://timothychow.net/mathstuff/jdolan.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 16:55:32",
       "https://lobste.rs/s/nehquh/checking_firewall_equivalence_with_z3"
     ],
@@ -197,16 +207,6 @@
     [
       "Insignificant",
       "https://census.dev/blog/insignificant"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 17:16:48",
-      "https://lobste.rs/s/um8519/keyword_generics_progress_report"
-    ],
-    [
-      "Keyword Generics Progress Report: February 2023",
-      "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
     ]
   ],
   [
