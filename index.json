@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 18:21:07",
+      "https://lobste.rs/s/qzpv7i/minimal_oauth_provider_benthos_bloblang"
+    ],
+    [
+      "Minimal OAuth provider in Benthos and Bloblang",
+      "https://gist.github.com/disintegrator/0bd39879c437c4b3abb2779c661a6790"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 17:07:16",
       "https://lobste.rs/s/rq24lv/carrying_is_2_cocycle_1994"
     ],
@@ -157,16 +167,6 @@
     [
       "A breakdown of the triple-star pointer",
       "https://boston.conman.org/2023/02/23.1"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 22:27:06",
-      "https://lobste.rs/s/u0w1qc/minix_from_scratch"
-    ],
-    [
-      "MINIX From Scratch",
-      "https://github.com/o-oconnell/minixfromscratch"
     ]
   ],
   [
