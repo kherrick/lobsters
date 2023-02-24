@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-02-24, 13:42:14",
-      "https://lobste.rs/s/1aeck1/spack_flexible_package_manager_supports"
-    ],
-    [
-      "spack: A flexible package manager that supports multiple versions, configurations, platforms, and compilers",
-      "https://github.com/spack/spack"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 13:40:55",
       "https://lobste.rs/s/cz8pke/programming_is_easier_than_you_think"
     ],
@@ -217,6 +207,16 @@
     [
       "Insignificant",
       "https://census.dev/blog/insignificant"
+    ]
+  ],
+  [
+    [
+      "2023-02-23, 17:16:48",
+      "https://lobste.rs/s/um8519/keyword_generics_progress_report"
+    ],
+    [
+      "Keyword Generics Progress Report: February 2023",
+      "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
     ]
   ],
   [
