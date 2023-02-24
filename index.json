@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-02-24, 01:06:53",
+      "https://lobste.rs/s/cuaeby/breakdown_triple_star_pointer"
+    ],
+    [
+      "A breakdown of the triple-star pointer",
+      "https://boston.conman.org/2023/02/23.1"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 00:43:01",
+      "https://lobste.rs/s/papymo/seven_virtues_simple_type_theory"
+    ],
+    [
+      "The Seven Virtues of Simple Type Theory",
+      "http://www.cas.mcmaster.ca/sqrl/papers/SQRLreport18_rev2.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-23, 22:27:06",
       "https://lobste.rs/s/u0w1qc/minix_from_scratch"
     ],
     [
       "MINIX From Scratch",
       "https://github.com/o-oconnell/minixfromscratch"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 21:50:18",
-      "https://lobste.rs/s/0uny7v/portable_django"
-    ],
-    [
-      "Portable Django",
-      "https://djngo.com/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "A Brief Comparison of 10+ Best Google Analytics Alternatives",
       "https://algustionesa.com/google-analytics-alternatives/"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 14:59:31",
-      "https://lobste.rs/s/qhomfq/writing_bare_metal_risc_v_application_d"
-    ],
-    [
-      "Writing a bare-metal RISC-V application in D",
-      "https://zyedidia.github.io/blog/posts/1-d-baremetal/"
     ]
   ],
   [
