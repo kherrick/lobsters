@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-24, 16:31:09",
+      "https://lobste.rs/s/owetkm/rust_coreutils_fixing_low_hanging"
+    ],
+    [
+      "Rust Coreutils: Fixing Low-Hanging Performance Fruit",
+      "https://jackson.dev/post/rust-coreutils-dd/"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 16:17:04",
+      "https://lobste.rs/s/5l42n0/tale_phobos_how_we_almost_cracked"
+    ],
+    [
+      "A tale of Phobos - how we almost cracked a ransomware using CUDA",
+      "https://cert.pl/en/posts/2023/02/breaking-phobos/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 15:45:07",
       "https://lobste.rs/s/xxcfje/research_rsc_opting_transparent"
     ],
@@ -22,10 +42,10 @@
   [
     [
       "2023-02-24, 14:53:17",
-      "https://lobste.rs/s/efetph/blogging_about_midori"
+      "https://lobste.rs/s/efetph/blogging_about_midori_2015"
     ],
     [
-      "Blogging about Midori",
+      "Blogging about Midori (2015)",
       "https://joeduffyblog.com/2015/11/03/blogging-about-midori/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-02-23, 16:19:47",
-      "https://lobste.rs/s/ztjqto/cedar_new_policy_language"
-    ],
-    [
-      "Cedar: A new policy language",
-      "https://onecloudplease.com/blog/cedar-a-new-policy-language"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 15:33:21",
       "https://lobste.rs/s/ufbs5e/faux_progress"
     ],
@@ -217,16 +227,6 @@
     [
       "Makefile > websh*tconfig.json.js",
       "http://len.falken.directory/web/makefile.txt"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 11:33:08",
-      "https://lobste.rs/s/gwirwl/smoking_hot_binary_search_zig"
-    ],
-    [
-      "Smoking Hot Binary Search In Zig",
-      "https://blog.deckc.hair/2023-02-22-smoking-hot-binary-search-in-zig.html"
     ]
   ],
   [
