@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 18:45:22",
+      "https://lobste.rs/s/khg25b/consistent_caching_with_postgresql"
+    ],
+    [
+      "Consistent caching with PostgreSQL and a Redis API",
+      "https://shortishly.com/blog/streaming-replication-redis-api/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 18:21:07",
       "https://lobste.rs/s/qzpv7i/minimal_oauth_provider_benthos_bloblang"
     ],
@@ -197,16 +207,6 @@
     [
       "Insignificant",
       "https://census.dev/blog/insignificant"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 17:16:48",
-      "https://lobste.rs/s/um8519/keyword_generics_progress_report"
-    ],
-    [
-      "Keyword Generics Progress Report: February 2023",
-      "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
     ]
   ],
   [
