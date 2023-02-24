@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 13:56:11",
+      "https://lobste.rs/s/rrki46/let_it_fail"
+    ],
+    [
+      "Let It Fail",
+      "https://www.maxcountryman.com/articles/let-it-fail"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 13:42:14",
       "https://lobste.rs/s/1aeck1/spack_flexible_package_manager_supports"
     ],
@@ -67,16 +77,6 @@
     [
       "The Elephant in the Room - It's time to get the POSIX elephant off our necks",
       "https://queue.acm.org/detail.cfm?id=3570921"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 02:17:00",
-      "https://lobste.rs/s/m6kn08/faking_algebraic_effects_handlers_with"
-    ],
-    [
-      "Faking Algebraic Effects and Handlers With Traits: A Rust Design Pattern",
-      "https://blog.shtsoft.eu/2022/12/22/effect-trait-dp.html"
     ]
   ],
   [
