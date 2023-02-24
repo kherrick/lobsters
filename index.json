@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-24, 14:53:17",
+      "https://lobste.rs/s/efetph/blogging_about_midori"
+    ],
+    [
+      "Blogging about Midori",
+      "https://joeduffyblog.com/2015/11/03/blogging-about-midori/"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 14:52:15",
+      "https://lobste.rs/s/bt5iv0/code_wasn_t_there_reading_memory_on"
+    ],
+    [
+      "The code that wasn't there: Reading memory on an Android device by accident",
+      "https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 13:56:11",
       "https://lobste.rs/s/rrki46/let_it_fail"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-02-23, 20:14:38",
-      "https://lobste.rs/s/iddzyj/statefulness_guis"
-    ],
-    [
-      "Statefulness in GUIs",
-      "https://samsartor.com/guis-1/"
-    ]
-  ],
-  [
-    [
       "2023-02-23, 17:42:39",
       "https://lobste.rs/s/ah7i3n/insignificant"
     ],
@@ -177,16 +187,6 @@
     [
       "Faux Progress",
       "https://blog.jim-nielsen.com/2023/faux-progress/"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 15:04:59",
-      "https://lobste.rs/s/wlekvh/serverless_makes_streaming_accessible"
-    ],
-    [
-      "Serverless Makes Streaming Accessible",
-      "https://buz.dev/blog/serverless-makes-streaming-accessible"
     ]
   ],
   [
