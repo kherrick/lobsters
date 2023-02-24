@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-24, 16:55:32",
+      "https://lobste.rs/s/nehquh/checking_firewall_equivalence_with_z3"
+    ],
+    [
+      "Checking Firewall Equivalence with Z3 (2018)",
+      "https://ahelwer.ca/post/2018-02-13-z3-firewall/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 16:31:09",
       "https://lobste.rs/s/owetkm/rust_coreutils_fixing_low_hanging"
     ],
@@ -197,16 +207,6 @@
     [
       "Keyword Generics Progress Report: February 2023",
       "https://blog.rust-lang.org/inside-rust/2023/02/23/keyword-generics-progress-report-feb-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 15:33:21",
-      "https://lobste.rs/s/ufbs5e/faux_progress"
-    ],
-    [
-      "Faux Progress",
-      "https://blog.jim-nielsen.com/2023/faux-progress/"
     ]
   ],
   [
