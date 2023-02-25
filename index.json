@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2023-02-24, 14:52:15",
-      "https://lobste.rs/s/bt5iv0/code_wasn_t_there_reading_memory_on"
-    ],
-    [
-      "The code that wasn't there: Reading memory on an Android device by accident",
-      "https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/"
-    ]
-  ],
-  [
-    [
       "2023-02-24, 13:56:11",
       "https://lobste.rs/s/rrki46/let_it_fail"
     ],
     [
       "Let It Fail",
       "https://www.maxcountryman.com/articles/let-it-fail"
+    ]
+  ],
+  [
+    [
+      "2023-02-24, 13:42:14",
+      "https://lobste.rs/s/1aeck1/spack_flexible_package_manager_supports"
+    ],
+    [
+      "spack: A flexible package manager that supports multiple versions, configurations, platforms, and compilers",
+      "https://github.com/spack/spack"
     ]
   ],
   [
