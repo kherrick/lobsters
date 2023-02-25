@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 23:16:42",
+      "https://lobste.rs/s/n63q0f/first_class_variables_as_ast_annotations"
+    ],
+    [
+      "First Class Variables as AST Annotations",
+      "https://www.youtube.com/watch?v=embn4kX0O3k"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 19:46:44",
       "https://lobste.rs/s/f2bnbq/bizarre_unusual_uses_dns"
     ],
@@ -167,16 +177,6 @@
     [
       "go test and parallelism",
       "https://bryce.is/writing/code/go-test-and-parallelism.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 16:31:09",
-      "https://lobste.rs/s/owetkm/rust_coreutils_fixing_low_hanging"
-    ],
-    [
-      "Rust Coreutils: Fixing Low-Hanging Performance Fruit",
-      "https://jackson.dev/post/rust-coreutils-dd/"
     ]
   ],
   [
