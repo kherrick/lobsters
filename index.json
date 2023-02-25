@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 15:13:28",
+      "https://lobste.rs/s/yfbmlf/go_bindings_for_gnu_recutils"
+    ],
+    [
+      "Go bindings for GNU Recutils",
+      "https://git.sr.ht/~timetoplatypus/recfile"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 13:11:13",
       "https://lobste.rs/s/ytoq99/tic_tac_toe_implementation_over_network"
     ],
@@ -57,16 +67,6 @@
     [
       "A branchless segment of code to generate a printable hexadecimal value",
       "https://boston.conman.org/2023/02/24.1"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 03:31:46",
-      "https://lobste.rs/s/c5bltn/large_language_models_will_change"
-    ],
-    [
-      "Large language models will change programming … a lot",
-      "https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-lot-5cfe13afa46c"
     ]
   ],
   [
