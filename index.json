@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 18:29:48",
+      "https://lobste.rs/s/ykl8my/most_important_optimizations_apply_your"
+    ],
+    [
+      "The Most Important Optimizations to Apply in Your C++ Programs",
+      "https://www.youtube.com/watch?v=qCjEN5XRzHc"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 17:34:53",
       "https://lobste.rs/s/hc7bk7/building_minimalistic_virtual_machine"
     ],
@@ -157,16 +167,6 @@
     [
       "research!rsc: Opting In to Transparent Telemetry",
       "https://research.swtch.com/telemetry-opt-in"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 15:42:52",
-      "https://lobste.rs/s/1nusjq/using_flutter_rust_bridge_2023"
-    ],
-    [
-      "Using Flutter Rust bridge in 2023",
-      "https://www.zaynetro.com/post/flutter-rust-bridge-2023/"
     ]
   ],
   [
