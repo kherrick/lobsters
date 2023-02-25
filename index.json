@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-25, 03:31:46",
+      "https://lobste.rs/s/c5bltn/large_language_models_will_change"
+    ],
+    [
+      "Large language models will change programming … a lot",
+      "https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-lot-5cfe13afa46c"
+    ]
+  ],
+  [
+    [
+      "2023-02-25, 03:29:44",
+      "https://lobste.rs/s/wvpyqa/rust_on_espressif_chips_2023_roadmap"
+    ],
+    [
+      "Rust on Espressif chips - 2023 Roadmap",
+      "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
+    ]
+  ],
+  [
+    [
       "2023-02-24, 23:10:46",
       "https://lobste.rs/s/ybsckz/87_container_images_production_have"
     ],
@@ -37,16 +57,6 @@
     [
       "Swarm Testing",
       "https://users.cs.utah.edu/~regehr/papers/swarm12.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 19:40:14",
-      "https://lobste.rs/s/dr8c6n/monado_s_mercury_hand_tracking_now_ready"
-    ],
-    [
-      "Monado's \"Mercury\" hand tracking now ready for use",
-      "https://www.collabora.com/news-and-blog/news-and-events/monados-mercury-hand-tracking-now-ready-for-use.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Let It Fail",
       "https://www.maxcountryman.com/articles/let-it-fail"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 13:42:14",
-      "https://lobste.rs/s/1aeck1/spack_flexible_package_manager_supports"
-    ],
-    [
-      "spack: A flexible package manager that supports multiple versions, configurations, platforms, and compilers",
-      "https://github.com/spack/spack"
     ]
   ],
   [
