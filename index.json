@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 16:02:09",
+      "https://lobste.rs/s/kowuur/keyword_programming_java_2007"
+    ],
+    [
+      "Keyword Programming in Java (2007)",
+      "http://www.cs.kent.edu/~jmaletic/Prog-Comp/Papers/little07.pdf"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 15:13:28",
       "https://lobste.rs/s/yfbmlf/go_bindings_for_gnu_recutils"
     ],
@@ -97,16 +107,6 @@
     [
       "go test and parallelism",
       "https://bryce.is/writing/code/go-test-and-parallelism.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 20:58:47",
-      "https://lobste.rs/s/eneyt5/swarm_testing"
-    ],
-    [
-      "Swarm Testing",
-      "https://users.cs.utah.edu/~regehr/papers/swarm12.pdf"
     ]
   ],
   [
