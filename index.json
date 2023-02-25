@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 13:11:13",
+      "https://lobste.rs/s/ytoq99/tic_tac_toe_implementation_over_network"
+    ],
+    [
+      "Tic Tac Toe implementation over network",
+      "https://github.com/dineshgowda24/tic-tac-toe"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 12:28:13",
       "https://lobste.rs/s/5gzvrm/hungarian_notation_1999"
     ],
@@ -237,16 +247,6 @@
     [
       "A breakdown of the triple-star pointer",
       "https://boston.conman.org/2023/02/23.1"
-    ]
-  ],
-  [
-    [
-      "2023-02-23, 14:35:44",
-      "https://lobste.rs/s/mtw9kb/makefile_websh_tconfig_json_js"
-    ],
-    [
-      "Makefile > websh*tconfig.json.js",
-      "http://len.falken.directory/web/makefile.txt"
     ]
   ]
 ]
