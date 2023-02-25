@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 19:14:05",
+      "https://lobste.rs/s/ea86a2/dave_s_forth_talk_2023"
+    ],
+    [
+      "Dave's Forth Talk 2023",
+      "http://ratfactor.com/forth/forth_talk_2023.html"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 18:51:35",
       "https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines"
     ],
@@ -107,16 +117,6 @@
     [
       "A branchless segment of code to generate a printable hexadecimal value",
       "https://boston.conman.org/2023/02/24.1"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 03:29:44",
-      "https://lobste.rs/s/wvpyqa/rust_on_espressif_chips_2023_roadmap"
-    ],
-    [
-      "Rust on Espressif chips - 2023 Roadmap",
-      "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
     ]
   ],
   [
