@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-25, 09:49:13",
+      "https://lobste.rs/s/ko83d8/speedy_transactions_multicore_memory"
+    ],
+    [
+      "Speedy Transactions in Multicore In-Memory Databases",
+      "http://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html"
+    ]
+  ],
+  [
+    [
       "2023-02-25, 08:34:23",
       "https://lobste.rs/s/aryuyw/haskell_playground_is_live_at_play"
     ],
@@ -97,16 +107,6 @@
     [
       "Consistent caching with PostgreSQL and a Redis API",
       "https://shortishly.com/blog/streaming-replication-redis-api/"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 17:07:16",
-      "https://lobste.rs/s/rq24lv/carrying_is_2_cocycle_1994"
-    ],
-    [
-      "Carrying Is a 2-Cocycle (1994)",
-      "http://timothychow.net/mathstuff/jdolan.pdf"
     ]
   ],
   [
