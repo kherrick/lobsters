@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 09:36:06",
+      "https://lobste.rs/s/wk58us/using_goatcounter_for_blog_analytics"
+    ],
+    [
+      "Using GoatCounter for blog analytics",
+      "https://eli.thegreenplace.net/2023/using-goatcounter-for-blog-analytics/"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 08:16:10",
       "https://lobste.rs/s/hiteri/gotophobia_considered_harmful_c"
     ],
@@ -47,16 +57,6 @@
     [
       "ROFL with a LOL: rewriting an NGINX module in Rust",
       "https://blog.cloudflare.com/rust-nginx-module/"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 01:53:17",
-      "https://lobste.rs/s/odv07u/ergonomic_apis_for_hard_problems"
-    ],
-    [
-      "Ergonomic APIs for hard problems",
-      "https://www.youtube.com/watch?v=Phk0C-kLlho"
     ]
   ],
   [
