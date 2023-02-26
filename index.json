@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 17:55:54",
+      "https://lobste.rs/s/nvoikx/helix_notes"
+    ],
+    [
+      "Helix Notes",
+      "https://wiki.alopex.li/HelixNotes"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 16:11:47",
       "https://lobste.rs/s/n93sls/ecsnv_lightweight_utility_dump_aws"
     ],
@@ -207,16 +217,6 @@
     [
       "Go bindings for GNU Recutils",
       "https://git.sr.ht/~timetoplatypus/recfile"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 13:11:13",
-      "https://lobste.rs/s/ytoq99/tic_tac_toe_implementation_over_network"
-    ],
-    [
-      "Tic Tac Toe implementation over network",
-      "https://github.com/dineshgowda24/tic-tac-toe"
     ]
   ],
   [
