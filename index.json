@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 06:24:08",
+      "https://lobste.rs/s/ffk61i/how_implement_type_theory_hour_2018"
+    ],
+    [
+      "How to implement type theory in an hour (2018)",
+      "https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 02:55:14",
       "https://lobste.rs/s/edmkqd/rofl_with_lol_rewriting_nginx_module_rust"
     ],
@@ -217,16 +227,6 @@
     [
       "A branchless segment of code to generate a printable hexadecimal value",
       "https://boston.conman.org/2023/02/24.1"
-    ]
-  ],
-  [
-    [
-      "2023-02-24, 23:10:46",
-      "https://lobste.rs/s/ybsckz/87_container_images_production_have"
-    ],
-    [
-      "87% of Container Images in Production Have Critical or High-Severity Vulnerabilities",
-      "https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities"
     ]
   ],
   [
