@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-26, 16:11:47",
+      "https://lobste.rs/s/n93sls/ecsnv_lightweight_utility_dump_aws"
+    ],
+    [
+      "ecsnv: A lightweight utility to dump AWS Farget's ECS containers environment variables locally",
+      "https://github.com/dineshgowda24/ecsnv"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 12:54:33",
       "https://lobste.rs/s/0r2aly/easyos_kirkstone_series_version_5_0"
     ],
@@ -207,16 +217,6 @@
     [
       "Tic Tac Toe implementation over network",
       "https://github.com/dineshgowda24/tic-tac-toe"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 12:28:13",
-      "https://lobste.rs/s/5gzvrm/hungarian_notation_1999"
-    ],
-    [
-      "Hungarian Notation (1999)",
-      "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-6.0/aa260976(v=vs.60)"
     ]
   ],
   [
