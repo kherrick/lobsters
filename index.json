@@ -15,7 +15,7 @@
       "https://lobste.rs/s/n93sls/ecsnv_lightweight_utility_dump_aws"
     ],
     [
-      "ecsnv: A lightweight utility to dump AWS Farget's ECS containers environment variables locally",
+      "ecsnv: A lightweight utility to dump AWS Fargate's ECS containers environment variables locally",
       "https://github.com/dineshgowda24/ecsnv"
     ]
   ],
