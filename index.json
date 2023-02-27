@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-02-27, 16:47:25",
-      "https://lobste.rs/s/uydyvz/what_happened_google_search"
-    ],
-    [
-      "What Happened To Google Search?",
-      "https://www.youtube.com/watch?v=48AOOynnmqU"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 16:04:08",
       "https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer"
     ],
@@ -247,6 +237,16 @@
     [
       "GOTOphobia considered harmful (in C)",
       "https://blog.joren.ga/gotophobia-harmful"
+    ]
+  ],
+  [
+    [
+      "2023-02-25, 19:19:10",
+      "https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake"
+    ],
+    [
+      "Making Go telemetry opt-in is a mistake",
+      "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
     ]
   ]
 ]
