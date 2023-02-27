@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 16:04:08",
+      "https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer"
+    ],
+    [
+      "Introducing the Determinate Nix Installer",
+      "https://determinate.systems/posts/determinate-nix-installer"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 14:10:07",
       "https://lobste.rs/s/gdaj8s/why_volatile_type_class_should_not_be_used"
     ],
@@ -227,16 +237,6 @@
     [
       "Making Go telemetry opt-in is a mistake",
       "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 15:13:28",
-      "https://lobste.rs/s/yfbmlf/go_bindings_for_gnu_recutils"
-    ],
-    [
-      "Go bindings for GNU Recutils",
-      "https://git.sr.ht/~timetoplatypus/recfile"
     ]
   ],
   [
