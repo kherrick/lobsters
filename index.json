@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 09:28:59",
+      "https://lobste.rs/s/oxvhod/hotscript_type_level_madness"
+    ],
+    [
+      "hotscript: Type-level madness",
+      "https://github.com/gvergnaud/hotscript"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 08:23:49",
       "https://lobste.rs/s/mpw54x/dark_mode_on_windows_11_with_qt_6_5"
     ],
@@ -197,16 +207,6 @@
     [
       "Making Go telemetry opt-in is a mistake",
       "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 19:14:05",
-      "https://lobste.rs/s/ea86a2/dave_s_forth_talk_2023"
-    ],
-    [
-      "Dave's Forth Talk 2023",
-      "http://ratfactor.com/forth/forth_talk_2023.html"
     ]
   ],
   [
