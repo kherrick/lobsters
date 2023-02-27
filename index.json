@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 19:12:44",
+      "https://lobste.rs/s/bnkjvt/vanity_rsa_public_key"
+    ],
+    [
+      "Vanity RSA public key",
+      "https://ondergetekende.nl/vanity-rsa-public-key.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 18:30:30",
       "https://lobste.rs/s/fp0qab/limitations_ethernet_crc_tcp_ip"
     ],
@@ -237,16 +247,6 @@
     [
       "GOTOphobia considered harmful (in C)",
       "https://blog.joren.ga/gotophobia-harmful"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 19:19:10",
-      "https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake"
-    ],
-    [
-      "Making Go telemetry opt-in is a mistake",
-      "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
     ]
   ]
 ]
