@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 21:04:28",
+      "https://lobste.rs/s/uz2m2a/why_graph_dbmss_need_new_join_algorithms"
+    ],
+    [
+      "Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms",
+      "https://kuzudb.com/blog/wcoj.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 20:41:46",
       "https://lobste.rs/s/xkkcvq/rosenpass_build_post_quantum_secure_vpns"
     ],
@@ -87,16 +97,6 @@
     [
       "Introducing the Determinate Nix Installer",
       "https://determinate.systems/posts/determinate-nix-installer"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 14:10:07",
-      "https://lobste.rs/s/gdaj8s/why_volatile_type_class_should_not_be_used"
-    ],
-    [
-      "Why the “volatile” type class should not be used",
-      "https://www.kernel.org/doc/html/v6.2/process/volatile-considered-harmful.html#volatile-considered-harmful"
     ]
   ],
   [
