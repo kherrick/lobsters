@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 14:10:07",
+      "https://lobste.rs/s/gdaj8s/why_volatile_type_class_should_not_be_used"
+    ],
+    [
+      "Why the “volatile” type class should not be used",
+      "https://www.kernel.org/doc/html/v6.2/process/volatile-considered-harmful.html#volatile-considered-harmful"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 13:30:14",
       "https://lobste.rs/s/ihf30a/zig_s_curious_multi_sequence_for_loops"
     ],
@@ -197,16 +207,6 @@
     [
       "GOTOphobia considered harmful (in C)",
       "https://blog.joren.ga/gotophobia-harmful"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 02:55:14",
-      "https://lobste.rs/s/edmkqd/rofl_with_lol_rewriting_nginx_module_rust"
-    ],
-    [
-      "ROFL with a LOL: rewriting an NGINX module in Rust",
-      "https://blog.cloudflare.com/rust-nginx-module/"
     ]
   ],
   [
