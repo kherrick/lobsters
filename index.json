@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-27, 00:07:31",
+      "https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch"
+    ],
+    [
+      "Do you use a dead man's switch?",
+      "https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch"
+    ]
+  ],
+  [
+    [
       "2023-02-26, 17:55:54",
       "https://lobste.rs/s/nvoikx/helix_notes"
     ],
@@ -197,16 +207,6 @@
     [
       "How to implement dependent types in 80 lines of code",
       "https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 17:34:53",
-      "https://lobste.rs/s/hc7bk7/building_minimalistic_virtual_machine"
-    ],
-    [
-      "Building a Minimalistic Virtual Machine",
-      "https://pointersgonewild.com/2023/02/24/building-a-minimalistic-virtual-machine/"
     ]
   ],
   [
