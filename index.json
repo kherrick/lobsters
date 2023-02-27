@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-27, 01:49:24",
+      "https://lobste.rs/s/eiu2xh/mil_std_1750a_standard_sixteen_bit"
+    ],
+    [
+      "MIL-STD-1750A: Standard sixteen-bit computer architecture",
+      "http://www.xgc-tek.com/manuals/mil-std-1750a/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 01:32:59",
+      "https://lobste.rs/s/zh3ulk/pcre2_support_zig_build"
+    ],
+    [
+      "pcre2 support zig build",
+      "https://github.com/PCRE2Project/pcre2/pull/206"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 00:07:31",
       "https://lobste.rs/s/sidr8v/do_you_use_dead_man_s_switch"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-02-25, 19:46:44",
-      "https://lobste.rs/s/f2bnbq/bizarre_unusual_uses_dns"
-    ],
-    [
-      "Bizarre and Unusual Uses of DNS",
-      "https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 19:22:11",
       "https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons"
     ],
@@ -197,16 +207,6 @@
     [
       "Dave's Forth Talk 2023",
       "http://ratfactor.com/forth/forth_talk_2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 18:51:35",
-      "https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines"
-    ],
-    [
-      "How to implement dependent types in 80 lines of code",
-      "https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196"
     ]
   ],
   [
