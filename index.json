@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-27, 12:47:47",
+      "https://lobste.rs/s/wcblau/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/wcblau/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 12:38:48",
+      "https://lobste.rs/s/f6hq84/cursed_universes_dana_sibera"
+    ],
+    [
+      "The cursed universes of Dana Sibera",
+      "https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 12:12:02",
       "https://lobste.rs/s/ecsspe/nothing_rust"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-02-26, 02:55:14",
-      "https://lobste.rs/s/edmkqd/rofl_with_lol_rewriting_nginx_module_rust"
-    ],
-    [
-      "ROFL with a LOL: rewriting an NGINX module in Rust",
-      "https://blog.cloudflare.com/rust-nginx-module/"
-    ]
-  ],
-  [
-    [
       "2023-02-25, 19:22:11",
       "https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons"
     ],
@@ -237,16 +247,6 @@
     [
       "rtx: Runtime Executor (asdf rust clone)",
       "https://github.com/jdxcode/rtx/"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 08:34:23",
-      "https://lobste.rs/s/aryuyw/haskell_playground_is_live_at_play"
-    ],
-    [
-      "Haskell Playground is live at play.haskell.org",
-      "https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869"
     ]
   ]
 ]
