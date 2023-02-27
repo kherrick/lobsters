@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-02-27, 18:30:30",
+      "https://lobste.rs/s/fp0qab/limitations_ethernet_crc_tcp_ip"
+    ],
+    [
+      "The Limitations of the Ethernet CRC and TCP/IP checksums for error detection",
+      "http://noahdavids.org/self_published/CRC_and_checksum.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 18:23:30",
+      "https://lobste.rs/s/jl9iex/recreating_ansi_art_from_screenshot"
+    ],
+    [
+      "Recreating ANSI Art from a screenshot",
+      "https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 18:20:28",
+      "https://lobste.rs/s/aocsty/fma_woes"
+    ],
+    [
+      "FMA Woes",
+      "https://www.kdab.com/fma-woes/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 18:06:09",
       "https://lobste.rs/s/0sfk3f/10_things_we_learned_full_stack_graphql"
     ],
@@ -217,36 +247,6 @@
     [
       "GOTOphobia considered harmful (in C)",
       "https://blog.joren.ga/gotophobia-harmful"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 19:22:11",
-      "https://lobste.rs/s/igud1r/it_s_smol_world_thoughts_lessons"
-    ],
-    [
-      "It’s a smol_world: thoughts and lessons",
-      "https://tendril.blog/@snej/log2/133/"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 19:19:10",
-      "https://lobste.rs/s/eyjoiw/making_go_telemetry_opt_is_mistake"
-    ],
-    [
-      "Making Go telemetry opt-in is a mistake",
-      "https://twi.github.io/blog/making-go-telemetry-opt-in-is-a-mistake.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 11:38:48",
-      "https://lobste.rs/s/z1oxpp/rtx_runtime_executor_asdf_rust_clone"
-    ],
-    [
-      "rtx: Runtime Executor (asdf rust clone)",
-      "https://github.com/jdxcode/rtx/"
     ]
   ]
 ]
