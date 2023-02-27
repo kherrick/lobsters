@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-02-27, 12:12:02",
+      "https://lobste.rs/s/ecsspe/nothing_rust"
+    ],
+    [
+      "Nothing in Rust",
+      "https://geeklaunch.io/blog/nothing-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 12:00:54",
+      "https://lobste.rs/s/4aoyx8/refactoring_rust_abstraction_with"
+    ],
+    [
+      "Refactoring in Rust: Abstraction with the Newtype Pattern",
+      "https://fettblog.eu/refactoring-rust-abstraction-newtype/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 11:58:24",
+      "https://lobste.rs/s/5cp7i0/true_observer_pattern_with_unsubscribe"
+    ],
+    [
+      "True Observer Pattern with Unsubscribe mechanism using Rust",
+      "https://ybnesm.github.io/blah/articles/true-observer-pattern-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-02-27, 11:52:42",
+      "https://lobste.rs/s/c5c4vr/rental_bike_usage_patterns"
+    ],
+    [
+      "Rental bike usage patterns",
+      "https://www.extua.pw/blog/2023/02/25/rental_bike_usage_patterns/"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 11:31:28",
       "https://lobste.rs/s/7cd3ok/stdout_buffering_2016"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2023-02-26, 10:07:00",
-      "https://lobste.rs/s/9h63wt/animations_with_emacs_2015"
-    ],
-    [
-      "Animations with Emacs (2015)",
-      "http://blog.josephwilk.net/art/emacs-animation.html"
-    ]
-  ],
-  [
-    [
       "2023-02-26, 09:36:06",
       "https://lobste.rs/s/wk58us/using_goatcounter_for_blog_analytics"
     ],
@@ -167,26 +197,6 @@
     [
       "ROFL with a LOL: rewriting an NGINX module in Rust",
       "https://blog.cloudflare.com/rust-nginx-module/"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 01:20:57",
-      "https://lobste.rs/s/8zh4fj/performance_analysis_javascript_s_array"
-    ],
-    [
-      "A Performance Analysis of Javascript’s Array.prototype.filter",
-      "https://medium.com/@i_76686/performance-analysis-of-javascript-array-prototype-filter-616e3e3d316f"
-    ]
-  ],
-  [
-    [
-      "2023-02-26, 01:19:00",
-      "https://lobste.rs/s/cghpy6/reverse_engineering_windows_95_game"
-    ],
-    [
-      "Reverse Engineering a Windows 95 Game: Asset Storage",
-      "https://sidneys1.com/reverse-engineering/2023/02/23/reverse-engineering-a-win95-game-I.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Haskell Playground is live at play.haskell.org",
       "https://discourse.haskell.org/t/haskell-playground-is-live-at-play-haskell-org/5869"
-    ]
-  ],
-  [
-    [
-      "2023-02-25, 06:23:32",
-      "https://lobste.rs/s/b1zoek/branchless_segment_code_generate"
-    ],
-    [
-      "A branchless segment of code to generate a printable hexadecimal value",
-      "https://boston.conman.org/2023/02/24.1"
     ]
   ]
 ]
