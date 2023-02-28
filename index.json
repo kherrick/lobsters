@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-28, 08:16:37",
+      "https://lobste.rs/s/biarxf/linker_notes_on_power_isa"
+    ],
+    [
+      "Linker notes on Power ISA",
+      "https://maskray.me/blog/2023-02-26-linker-notes-on-power-isa"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 07:58:29",
+      "https://lobste.rs/s/s0qtd9/using_hdmi_radio_interference_for_high"
+    ],
+    [
+      "Using HDMI radio interference for high-speed data transfer",
+      "https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 07:17:07",
       "https://lobste.rs/s/aoqhe3/banning_tiktok"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-02-27, 17:09:16",
-      "https://lobste.rs/s/exsdcx/directory_mathematical_headaches"
-    ],
-    [
-      "Directory of Mathematical Headaches",
-      "https://docs.google.com/document/d/1JZmjIiqJikVD69y5ZY8w0V8MI47lBdH1DrhLiBeKQh8/edit"
-    ]
-  ],
-  [
-    [
       "2023-02-27, 16:04:08",
       "https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer"
     ],
@@ -217,16 +227,6 @@
     [
       "hotscript: Type-level madness",
       "https://github.com/gvergnaud/hotscript"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 01:32:59",
-      "https://lobste.rs/s/zh3ulk/pcre2_support_zig_build"
-    ],
-    [
-      "pcre2 support zig build",
-      "https://github.com/PCRE2Project/pcre2/pull/206"
     ]
   ],
   [
