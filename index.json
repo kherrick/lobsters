@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 03:57:45",
+      "https://lobste.rs/s/3tzbar/reverse_engineering_modr_m_addressing"
+    ],
+    [
+      "Reverse-engineering the ModR/M addressing microcode in the Intel 8086 processor",
+      "http://www.righto.com/2023/02/8086-modrm-addressing.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 03:01:04",
       "https://lobste.rs/s/v5klic/lone_developer_problem"
     ],
@@ -57,16 +67,6 @@
     [
       "On Container Queries, Responsive Images, and JPEG-XL",
       "https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 21:04:28",
-      "https://lobste.rs/s/uz2m2a/why_graph_dbmss_need_new_join_algorithms"
-    ],
-    [
-      "Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms",
-      "https://kuzudb.com/blog/wcoj.html"
     ]
   ],
   [
