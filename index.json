@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-02-28, 01:52:39",
+      "https://lobste.rs/s/xbqqzh/indicators_splatoon_3_clam_blitz"
+    ],
+    [
+      "Indicators in Splatoon 3 Clam Blitz",
+      "https://blog.brycekerley.net/2023/02/27/clam-blitz-ui.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 01:41:21",
+      "https://lobste.rs/s/ug0alo/llms_are_compilers"
+    ],
+    [
+      "LLMs are compilers",
+      "https://vivekhaldar.com/articles/llms-are-compilers/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 00:00:28",
       "https://lobste.rs/s/sm76ls/civet_modern_way_write_typescript"
     ],
@@ -157,26 +177,6 @@
     [
       "Nothing in Rust",
       "https://geeklaunch.io/blog/nothing-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 12:00:54",
-      "https://lobste.rs/s/4aoyx8/refactoring_rust_abstraction_with"
-    ],
-    [
-      "Refactoring in Rust: Abstraction with the Newtype Pattern",
-      "https://fettblog.eu/refactoring-rust-abstraction-newtype/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 11:58:24",
-      "https://lobste.rs/s/5cp7i0/true_observer_pattern_with_unsubscribe"
-    ],
-    [
-      "True Observer Pattern with Unsubscribe mechanism using Rust",
-      "https://ybnesm.github.io/blah/articles/true-observer-pattern-rust/"
     ]
   ],
   [
