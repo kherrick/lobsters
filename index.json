@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 21:41:12",
+      "https://lobste.rs/s/qvboso/store_trees_as_materialized_paths"
+    ],
+    [
+      "Store Trees As Materialized Paths",
+      "https://sqlfordevs.com/tree-as-materialized-path"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 21:30:08",
       "https://lobste.rs/s/e8otdk/arktype_first_isomorphic_type_system_for"
     ],
@@ -37,16 +47,6 @@
     [
       "I wish people would stop insisting that Git branches are nothing but refs",
       "https://blog.plover.com/2023/02/27/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:07:13",
-      "https://lobste.rs/s/myiis1/5_microservices_misconceptions"
-    ],
-    [
-      "5 Microservices Misconceptions",
-      "https://redis.com/blog/5-microservices-misconceptions/"
     ]
   ],
   [
