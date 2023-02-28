@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 13:38:33",
+      "https://lobste.rs/s/efsbod/compendium_access_control_on_unix_like"
+    ],
+    [
+      "A Compendium of Access Control on Unix-Like OSes",
+      "https://venam.nixers.net/blog/unix/2023/02/28/access_control.html"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 10:23:33",
       "https://lobste.rs/s/ba76la/most_useful_command_line_tools"
     ],
@@ -147,16 +157,6 @@
     [
       "Rosenpass — Build post-quantum-secure VPNs with WireGuard",
       "http://rosenpass.eu/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 19:42:35",
-      "https://lobste.rs/s/qo2sea/how_shadow_dom_accessibility_are"
-    ],
-    [
-      "How Shadow DOM and accessibility are in conflict",
-      "https://alice.pages.igalia.com/blog/how-shadow-dom-and-accessibility-are-in-conflict/"
     ]
   ],
   [
