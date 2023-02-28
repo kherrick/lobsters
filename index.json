@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-02-27, 18:30:30",
+      "https://lobste.rs/s/fp0qab/limitations_ethernet_crc_tcp_ip"
+    ],
+    [
+      "The Limitations of the Ethernet CRC and TCP/IP checksums for error detection",
+      "http://noahdavids.org/self_published/CRC_and_checksum.html"
+    ]
+  ],
+  [
+    [
       "2023-02-27, 18:23:30",
       "https://lobste.rs/s/jl9iex/recreating_ansi_art_from_screenshot"
     ],
@@ -117,16 +127,6 @@
     [
       "FMA Woes",
       "https://www.kdab.com/fma-woes/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 18:06:09",
-      "https://lobste.rs/s/0sfk3f/10_things_we_learned_full_stack_graphql"
-    ],
-    [
-      "10 Things We Learned In Full Stack GraphQL Book Club",
-      "https://dev.to/lyonwj/10-things-we-learned-in-full-stack-graphql-book-club-56le"
     ]
   ],
   [
