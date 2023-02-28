@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-02-28, 17:47:47",
+      "https://lobste.rs/s/kbff94/2023_state_databases_for_serverless_edge"
+    ],
+    [
+      "2023 State of Databases for Serverless & Edge",
+      "https://leerob.io/blog/backend"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 17:24:12",
       "https://lobste.rs/s/djupbt/better_alternative_snapshot_testing"
     ],
@@ -177,16 +187,6 @@
     [
       "Civet - The Modern Way to Write TypeScript",
       "https://civet.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 20:41:46",
-      "https://lobste.rs/s/xkkcvq/rosenpass_build_post_quantum_secure_vpns"
-    ],
-    [
-      "Rosenpass — Build post-quantum-secure VPNs with WireGuard",
-      "http://rosenpass.eu/"
     ]
   ],
   [
