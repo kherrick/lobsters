@@ -1,32 +1,32 @@
 [
   [
     [
+      "2023-02-28, 21:54:06",
+      "https://lobste.rs/s/2kjglk/qp_trie_for_bind"
+    ],
+    [
+      "A qp-trie for BIND",
+      "https://dotat.at/@/2023-02-28-qp-bind.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 21:52:07",
+      "https://lobste.rs/s/0h1r60/mrsk_deploy_web_apps_anywhere"
+    ],
+    [
+      "mrsk: Deploy web apps anywhere",
+      "https://github.com/mrsked/mrsk"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 21:41:12",
       "https://lobste.rs/s/qvboso/store_trees_as_materialized_paths"
     ],
     [
       "Store Trees As Materialized Paths",
       "https://sqlfordevs.com/tree-as-materialized-path"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:30:08",
-      "https://lobste.rs/s/e8otdk/arktype_first_isomorphic_type_system_for"
-    ],
-    [
-      "ArkType: The first isomorphic type system for TS/JS",
-      "https://arktype.io/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:13:19",
-      "https://lobste.rs/s/cqoyml/pandas_2_0_arrow_revolution_part_i"
-    ],
-    [
-      "pandas 2.0 and the Arrow revolution (part I)",
-      "https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i"
     ]
   ],
   [
