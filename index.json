@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 15:45:43",
+      "https://lobste.rs/s/gxhrkn/tarantool_2_11_0_release_candidate_1_is_out"
+    ],
+    [
+      "Tarantool 2.11.0 Release Candidate 1 is out",
+      "https://github.com/orgs/tarantool/discussions/8371"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 15:39:19",
       "https://lobste.rs/s/pc8zx8/luzer_coverage_guided_native_lua_fuzzing"
     ],
@@ -17,16 +27,6 @@
     [
       "Curated Book List - Open Access Textbooks on Statistics",
       "https://franknielsen.github.io/Books/CuratedBookLists.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 15:11:26",
-      "https://lobste.rs/s/salljl/mounting_into_mount_namespaces"
-    ],
-    [
-      "Mounting into mount namespaces",
-      "https://brauner.io/2023/02/28/mounting-into-mount-namespaces.html"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-03-01, 06:22:13",
-      "https://lobste.rs/s/jzrjlc/lattepanda_v1_my_experience_with"
-    ],
-    [
-      "LattePanda V1 - my experience with a Raspberry Pi alternative",
-      "https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/"
-    ]
-  ],
-  [
-    [
       "2023-03-01, 04:22:59",
       "https://lobste.rs/s/9culnk/python_capitialize_oddness_aka_little_j"
     ],
@@ -187,6 +177,16 @@
     [
       "First steps in CHERIoT Security Research",
       "https://msrc.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 16:54:48",
+      "https://lobste.rs/s/xlwemk/e_ink_badge_coolest_badge_you_didn_t_know"
+    ],
+    [
+      "The E-Ink Badge: The Coolest Badge You Didn't Know You Needed",
+      "https://census.dev/blog/diy-e-ink-badge"
     ]
   ],
   [
