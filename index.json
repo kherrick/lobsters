@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 15:39:19",
+      "https://lobste.rs/s/pc8zx8/luzer_coverage_guided_native_lua_fuzzing"
+    ],
+    [
+      "luzer: A coverage-guided, native Lua fuzzing engine",
+      "https://github.com/ligurio/luzer"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 15:23:51",
       "https://lobste.rs/s/eczorh/curated_book_list_open_access_textbooks"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2023-03-01, 05:27:06",
-      "https://lobste.rs/s/hgqdqa/cromemco_z_2d_you_can_now_have_industry_s"
+      "2023-03-01, 06:22:13",
+      "https://lobste.rs/s/jzrjlc/lattepanda_v1_my_experience_with"
     ],
     [
-      "Cromemco Z-2D - You can now have the industry's finest microcomputer with that all-important disk dr",
-      "https://computeradsfromthepast.substack.com/p/cromemco-z-2d"
+      "LattePanda V1 - my experience with a Raspberry Pi alternative",
+      "https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The lone developer problem",
       "https://evanhahn.com/the-lone-developer-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 16:04:08",
-      "https://lobste.rs/s/tu7kjz/introducing_determinate_nix_installer"
-    ],
-    [
-      "Introducing the Determinate Nix Installer",
-      "https://determinate.systems/posts/determinate-nix-installer"
     ]
   ]
 ]
