@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 14:24:25",
+      "https://lobste.rs/s/eru89e/some_notes_on_using_nix"
+    ],
+    [
+      "Some notes on using nix",
+      "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 13:35:34",
       "https://lobste.rs/s/m2qagk/dill_0_2_0_released_proxy_built_around_idea"
     ],
@@ -107,16 +117,6 @@
     [
       "A Review of The Art of the Metaobject Protocol, by Richard P. Gabriel (2010)",
       "https://dreamsongs.com/Files/amop-review.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:30:08",
-      "https://lobste.rs/s/e8otdk/arktype_first_isomorphic_type_system_for"
-    ],
-    [
-      "ArkType: The first isomorphic type system for TS/JS",
-      "https://arktype.io/"
     ]
   ],
   [
