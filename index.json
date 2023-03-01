@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 08:19:08",
+      "https://lobste.rs/s/px3ovv/database_cryptography_fur_rest_us"
+    ],
+    [
+      "Database Cryptography Fur the Rest of Us",
+      "https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 07:29:56",
       "https://lobste.rs/s/2e6et1/how_rust_wasm_power_cloudflare_s_1_1_1_1"
     ],
@@ -37,16 +47,6 @@
     [
       "Prompt Injection on Bing Chat triggered by search content",
       "https://greshake.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 03:05:39",
-      "https://lobste.rs/s/30vb6k/bump_allocators_c_2021"
-    ],
-    [
-      "Bump Allocators in C++ (2021)",
-      "https://badlydrawnrod.github.io/posts/2021/12/30/monotonic_buffer_resource/"
     ]
   ],
   [
