@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 04:22:59",
+      "https://lobste.rs/s/9culnk/python_capitialize_oddness_aka_little_j"
+    ],
+    [
+      "Python .capitialize oddness AKA little j issue",
+      "https://jjasghar.github.io/blog/2023/02/28/python-.capitialize-oddness-aka-little-j-issue/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 02:53:31",
       "https://lobste.rs/s/pptdrq/testc_new_sample_driver_for_ux"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-02-28, 21:52:07",
-      "https://lobste.rs/s/0h1r60/mrsk_deploy_web_apps_anywhere"
-    ],
-    [
-      "mrsk: Deploy web apps anywhere",
-      "https://github.com/mrsked/mrsk"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 21:30:08",
       "https://lobste.rs/s/e8otdk/arktype_first_isomorphic_type_system_for"
     ],
@@ -97,6 +97,16 @@
     [
       "LiveView Streams",
       "https://fly.io/phoenix-files/phoenix-dev-blog-streams/"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 19:30:31",
+      "https://lobste.rs/s/q0vrxg/how_8086_processor_determines_length"
+    ],
+    [
+      "How the 8086 processor determines the length of an instruction",
+      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Linker notes on Power ISA",
       "https://maskray.me/blog/2023-02-26-linker-notes-on-power-isa"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 07:58:29",
-      "https://lobste.rs/s/s0qtd9/using_hdmi_radio_interference_for_high"
-    ],
-    [
-      "Using HDMI radio interference for high-speed data transfer",
-      "https://www.windytan.com/2023/02/using-hdmi-radio-interference-for-high.html"
     ]
   ],
   [
