@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-01, 05:42:37",
-      "https://lobste.rs/s/dnkc4x/game_asset_storage_loading_compression"
+      "2023-03-01, 06:22:13",
+      "https://lobste.rs/s/jzrjlc/lattepanda_v1_my_experience_with"
     ],
     [
-      "Game Asset Storage, Loading, Compression and Caching",
-      "https://ph3at.github.io/posts/Asset-Compression/"
+      "LattePanda V1 - my experience with a Raspberry Pi alternative",
+      "https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Python .capitialize oddness AKA little j issue",
       "https://jjasghar.github.io/blog/2023/02/28/python-.capitialize-oddness-aka-little-j-issue/"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 03:36:34",
+      "https://lobste.rs/s/pyicga/prompt_injection_on_bing_chat_triggered"
+    ],
+    [
+      "Prompt Injection on Bing Chat triggered by search content",
+      "https://greshake.github.io/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "I wish people would stop insisting that Git branches are nothing but refs",
       "https://blog.plover.com/2023/02/27/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:03:39",
-      "https://lobste.rs/s/orqclf/liveview_streams"
-    ],
-    [
-      "LiveView Streams",
-      "https://fly.io/phoenix-files/phoenix-dev-blog-streams/"
     ]
   ],
   [
