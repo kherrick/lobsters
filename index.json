@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 13:35:34",
+      "https://lobste.rs/s/m2qagk/dill_0_2_0_released_proxy_built_around_idea"
+    ],
+    [
+      "dill 0.2.0 released: proxy built around the idea of dynamic listeners",
+      "https://github.com/fwkz/dill"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 13:14:46",
       "https://lobste.rs/s/tmhk3n/use_gnu_emacs"
     ],
@@ -87,16 +97,6 @@
     [
       "World Building With GPT",
       "https://ianbicking.org/blog/2023/02/world-building-with-gpt.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 23:45:19",
-      "https://lobste.rs/s/nlbcmj/why_sorbet_typechecker_is_fast"
-    ],
-    [
-      "Why the Sorbet typechecker is fast",
-      "https://blog.nelhage.com/post/why-sorbet-is-fast/"
     ]
   ],
   [
