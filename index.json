@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-01, 09:00:08",
+      "https://lobste.rs/s/ngefrj/technical_dimensions_programming"
+    ],
+    [
+      "Technical Dimensions of Programming Systems",
+      "https://programming-journal.org/2023/7/13/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 08:19:08",
       "https://lobste.rs/s/px3ovv/database_cryptography_fur_rest_us"
     ],
@@ -117,16 +127,6 @@
     [
       "I wish people would stop insisting that Git branches are nothing but refs",
       "https://blog.plover.com/2023/02/27/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 19:30:31",
-      "https://lobste.rs/s/q0vrxg/how_8086_processor_determines_length"
-    ],
-    [
-      "How the 8086 processor determines the length of an instruction",
-      "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html"
     ]
   ],
   [
