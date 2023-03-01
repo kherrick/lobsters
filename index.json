@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-03-01, 00:05:51",
+      "https://lobste.rs/s/7n7ybh/world_building_with_gpt"
+    ],
+    [
+      "World Building With GPT",
+      "https://ianbicking.org/blog/2023/02/world-building-with-gpt.html"
+    ]
+  ],
+  [
+    [
+      "2023-02-28, 23:45:19",
+      "https://lobste.rs/s/nlbcmj/why_sorbet_typechecker_is_fast"
+    ],
+    [
+      "Why the Sorbet typechecker is fast",
+      "https://blog.nelhage.com/post/why-sorbet-is-fast/"
+    ]
+  ],
+  [
+    [
       "2023-02-28, 23:00:59",
       "https://lobste.rs/s/d6s8cj/review_art_metaobject_protocol_by"
     ],
     [
       "A Review of The Art of the Metaobject Protocol, by Richard P. Gabriel (2010)",
       "https://dreamsongs.com/Files/amop-review.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 22:11:26",
-      "https://lobste.rs/s/qvdxhe/go_telemetry_could_ve_been_useful"
-    ],
-    [
-      "Go telemetry could've been useful",
-      "https://youtu.be/VCb1nZvrsPI"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The lone developer problem",
       "https://evanhahn.com/the-lone-developer-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-02-27, 18:23:30",
-      "https://lobste.rs/s/jl9iex/recreating_ansi_art_from_screenshot"
-    ],
-    [
-      "Recreating ANSI Art from a screenshot",
-      "https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/"
     ]
   ],
   [
