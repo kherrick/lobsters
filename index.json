@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-03-01, 16:43:00",
+      "https://lobste.rs/s/dgdpru/gamedev_journal_1_otis_s_zelda_like"
+    ],
+    [
+      "GameDev Journal №1: Otis’s Zelda-like",
+      "https://daverupert.com/2023/03/gamedev-journal-1/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 16:26:09",
       "https://lobste.rs/s/pdtfzq/sentry_s_frontend_tests_migrating_from"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix journey part 0: Learning and reference materials",
       "https://tinkering.xyz/nix-docs/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 09:54:21",
-      "https://lobste.rs/s/7yd1id/clean_code_horrible_performance"
-    ],
-    [
-      "\"Clean\" Code, Horrible Performance",
-      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ]
 ]
