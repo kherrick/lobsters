@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-01, 15:23:51",
+      "https://lobste.rs/s/eczorh/curated_book_list_open_access_textbooks"
+    ],
+    [
+      "Curated Book List - Open Access Textbooks on Statistics",
+      "https://franknielsen.github.io/Books/CuratedBookLists.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-01, 15:11:26",
+      "https://lobste.rs/s/salljl/mounting_into_mount_namespaces"
+    ],
+    [
+      "Mounting into mount namespaces",
+      "https://brauner.io/2023/02/28/mounting-into-mount-namespaces.html"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 14:24:25",
       "https://lobste.rs/s/eru89e/some_notes_on_using_nix"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2023-03-01, 07:29:56",
+      "https://lobste.rs/s/2e6et1/how_rust_wasm_power_cloudflare_s_1_1_1_1"
+    ],
+    [
+      "How Rust and Wasm power Cloudflare's 1.1.1.1",
+      "https://blog.cloudflare.com/big-pineapple-intro/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 05:27:06",
       "https://lobste.rs/s/hgqdqa/cromemco_z_2d_you_can_now_have_industry_s"
     ],
@@ -107,16 +137,6 @@
     [
       "World Building With GPT",
       "https://ianbicking.org/blog/2023/02/world-building-with-gpt.html"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 23:00:59",
-      "https://lobste.rs/s/d6s8cj/review_art_metaobject_protocol_by"
-    ],
-    [
-      "A Review of The Art of the Metaobject Protocol, by Richard P. Gabriel (2010)",
-      "https://dreamsongs.com/Files/amop-review.pdf"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-02-28, 16:54:48",
-      "https://lobste.rs/s/xlwemk/e_ink_badge_coolest_badge_you_didn_t_know"
-    ],
-    [
-      "The E-Ink Badge: The Coolest Badge You Didn't Know You Needed",
-      "https://census.dev/blog/diy-e-ink-badge"
-    ]
-  ],
-  [
-    [
       "2023-02-28, 14:59:09",
       "https://lobste.rs/s/zwgwrw/nix_journey_part_0_learning_reference"
     ],
     [
       "Nix journey part 0: Learning and reference materials",
       "https://tinkering.xyz/nix-docs/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 13:38:33",
-      "https://lobste.rs/s/efsbod/compendium_access_control_on_unix_like"
-    ],
-    [
-      "A Compendium of Access Control on Unix-Like OSes",
-      "https://venam.nixers.net/blog/unix/2023/02/28/access_control.html"
     ]
   ],
   [
