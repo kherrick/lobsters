@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-03-01, 16:26:09",
+      "https://lobste.rs/s/pdtfzq/sentry_s_frontend_tests_migrating_from"
+    ],
+    [
+      "Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library",
+      "https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/"
+    ]
+  ],
+  [
+    [
       "2023-03-01, 15:45:43",
       "https://lobste.rs/s/gxhrkn/tarantool_2_11_0_release_candidate_1_is_out"
     ],
@@ -217,16 +227,6 @@
     [
       "I wish people would stop insisting that Git branches are nothing but refs",
       "https://blog.plover.com/2023/02/27/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 17:24:12",
-      "https://lobste.rs/s/djupbt/better_alternative_snapshot_testing"
-    ],
-    [
-      "A better alternative to snapshot testing",
-      "https://github.com/trytouca/trytouca"
     ]
   ],
   [
