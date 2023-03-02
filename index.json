@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-02, 02:08:27",
+      "https://lobste.rs/s/lja108/rust_s_bufread_when_use_it"
+    ],
+    [
+      "Rust's BufRead, And When To Use It",
+      "https://www.brandons.me/blog/bufread-and-when-to-use-it"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 01:54:42",
+      "https://lobste.rs/s/3ivdcf/long_term_trust_analog_computers"
+    ],
+    [
+      "Long Term Trust and Analog Computers",
+      "https://youtu.be/kf48oPoiHX0"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 01:43:59",
       "https://lobste.rs/s/2cfqc3/elevenfreedoms_org"
     ],
@@ -177,26 +197,6 @@
     [
       "Database Cryptography Fur the Rest of Us",
       "https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 07:29:56",
-      "https://lobste.rs/s/2e6et1/how_rust_wasm_power_cloudflare_s_1_1_1_1"
-    ],
-    [
-      "How Rust and Wasm power Cloudflare's 1.1.1.1",
-      "https://blog.cloudflare.com/big-pineapple-intro/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 04:22:59",
-      "https://lobste.rs/s/9culnk/python_capitialize_oddness_aka_little_j"
-    ],
-    [
-      "Python .capitialize oddness AKA little j issue",
-      "https://jjasghar.github.io/blog/2023/02/28/python-.capitialize-oddness-aka-little-j-issue/"
     ]
   ],
   [
