@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-02, 12:51:04",
+      "https://lobste.rs/s/s1efu8/how_model_one_one_relationships_tigris"
+    ],
+    [
+      "How to model one-to-one relationships - Tigris Data Modeling Series",
+      "https://www.tigrisdata.com/blog/modelling-one-to-one-relations/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 11:49:57",
       "https://lobste.rs/s/vhp170/openpgp_gnupg_notepad_recommendations"
     ],
@@ -217,16 +227,6 @@
     [
       "Database Cryptography Fur the Rest of Us",
       "https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/"
-    ]
-  ],
-  [
-    [
-      "2023-02-28, 21:11:57",
-      "https://lobste.rs/s/may3m6/stop_saying_technical_debt"
-    ],
-    [
-      "Stop saying “technical debt”",
-      "https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/"
     ]
   ],
   [
