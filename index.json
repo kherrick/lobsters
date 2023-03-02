@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-02, 20:38:38",
+      "https://lobste.rs/s/vzmwvx/reducing_code_size_librsvg_by_removing"
+    ],
+    [
+      "Reducing code size in librsvg by removing an unnecessary generic struct",
+      "https://viruta.org/reducing-binary-size-generics.html"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 17:59:50",
       "https://lobste.rs/s/o4rofz/ghlbd_android_calculator_mini_review"
     ],
@@ -157,16 +167,6 @@
     [
       "Godot 4.0 sets sail",
       "https://godotengine.org/article/godot-4-0-sets-sail/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 18:38:47",
-      "https://lobste.rs/s/cloict/geo_timezones"
-    ],
-    [
-      "Geo Timezones",
-      "https://re-factor.blogspot.com/2023/03/geo-timezones.html"
     ]
   ],
   [
