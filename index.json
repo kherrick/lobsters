@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-02, 17:53:25",
+      "https://lobste.rs/s/jv8je7/collective_code_construction_contract"
+    ],
+    [
+      "Collective Code Construction Contract",
+      "https://rfc.zeromq.org/spec/42/"
+    ]
+  ],
+  [
+    [
       "2023-03-02, 16:21:48",
       "https://lobste.rs/s/nzjkqe/introducing_compute_compute_separation"
     ],
@@ -167,16 +177,6 @@
     [
       "Gleam v0.27 - Hello panic, goodbye try",
       "https://gleam.run/news/v0.27-hello-panic-goodbye-try/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 16:43:00",
-      "https://lobste.rs/s/dgdpru/gamedev_journal_1_otis_s_zelda_like"
-    ],
-    [
-      "GameDev Journal №1: Otis’s Zelda-like",
-      "https://daverupert.com/2023/03/gamedev-journal-1/"
     ]
   ],
   [
