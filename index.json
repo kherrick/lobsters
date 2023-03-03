@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-03, 18:13:45",
+      "https://lobste.rs/s/a1amag/dak_language"
+    ],
+    [
+      "Dak Language",
+      "https://www.daklang.com/"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 18:10:28",
+      "https://lobste.rs/s/x5kmrh/dawn_commercial_digital_recording_2008"
+    ],
+    [
+      "The Dawn of Commercial Digital Recording (2008)",
+      "https://www.aes.org/aeshc/pdf/fine_dawn-of-digital.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 18:09:35",
+      "https://lobste.rs/s/s3udzf/switching_fedora_silverblue"
+    ],
+    [
+      "Switching to Fedora Silverblue",
+      "https://yorickpeterse.com/articles/switching-to-fedora-silverblue/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 16:25:13",
       "https://lobste.rs/s/cjjs9v/papercraft_models"
     ],
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2023-03-02, 17:59:50",
-      "https://lobste.rs/s/o4rofz/ghlbd_android_calculator_mini_review"
-    ],
-    [
-      "GHLBD Android calculator mini review – An Allwinner A50-based Android 9.0 calculator",
-      "https://www.cnx-software.com/2023/03/02/ghlbd-android-calculator-mini-review-an-allwinner-a50-based-android-9-0-calculator/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 15:19:16",
-      "https://lobste.rs/s/zot9qw/great_gaslighting_javascript_era"
-    ],
-    [
-      "The Great Gaslighting of the JavaScript Era",
-      "https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 14:58:43",
       "https://lobste.rs/s/tcvtwo/writing_world_s_most_boring_quine"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.27 - Hello panic, goodbye try",
       "https://gleam.run/news/v0.27-hello-panic-goodbye-try/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 14:24:25",
-      "https://lobste.rs/s/eru89e/some_notes_on_using_nix"
-    ],
-    [
-      "Some notes on using nix",
-      "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/"
     ]
   ]
 ]
