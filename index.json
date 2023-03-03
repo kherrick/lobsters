@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 09:42:07",
+      "https://lobste.rs/s/neab1g/never_use_git_submodules"
+    ],
+    [
+      "Never use git submodules",
+      "https://diziet.dreamwidth.org/14666.html"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 08:56:42",
       "https://lobste.rs/s/kyz6hc/almost_definitive_pc_sound_card_article"
     ],
@@ -87,16 +97,6 @@
     [
       "Collective Code Construction Contract",
       "https://rfc.zeromq.org/spec/42/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 16:21:48",
-      "https://lobste.rs/s/nzjkqe/introducing_compute_compute_separation"
-    ],
-    [
-      "Introducing Compute-Compute Separation for Real-Time Analytics",
-      "https://rockset.com/blog/introducing-compute-compute-separation/"
     ]
   ],
   [
