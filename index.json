@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 20:23:11",
+      "https://lobste.rs/s/bziw6r/linux_simplif_ies_clarif_ies_dco"
+    ],
+    [
+      "Linux “simplif[ies] and clarif[ies] DCO contribution example language”",
+      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d4563201f33a022fc0353033d9dfeb1606a88330"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 19:40:13",
       "https://lobste.rs/s/gyboz0/oxidizing_bmap_tools_rewriting_python"
     ],
@@ -187,16 +197,6 @@
     [
       "Rethinking splice()",
       "https://lwn.net/Articles/923237/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 02:15:50",
-      "https://lobste.rs/s/2yp6wh/future_internet_pki_schemes_need_be"
-    ],
-    [
-      "Future Internet PKI schemes need to be bootstrapped through web PKI",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/InternetPKIViaWebPKI"
     ]
   ],
   [
