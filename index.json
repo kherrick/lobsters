@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-03, 15:21:18",
+      "https://lobste.rs/s/m5xi04/ps3_story_yellow_light_death"
+    ],
+    [
+      "A PS3 Story: The Yellow Light Of Death",
+      "https://www.youtube.com/watch?v=I0UMG3iVYZI"
+    ]
+  ],
+  [
+    [
+      "2023-03-03, 15:18:44",
+      "https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor"
+    ],
+    [
+      "Why I Stopped Using an External Monitor",
+      "https://bt.ht/monitor/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 14:50:14",
       "https://lobste.rs/s/jzahvz/demystifying_bitwise_operations_gentle"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-02, 17:53:25",
-      "https://lobste.rs/s/jv8je7/collective_code_construction_contract"
-    ],
-    [
-      "Collective Code Construction Contract",
-      "https://rfc.zeromq.org/spec/42/"
-    ]
-  ],
-  [
-    [
       "2023-03-02, 15:19:16",
       "https://lobste.rs/s/zot9qw/great_gaslighting_javascript_era"
     ],
@@ -187,16 +197,6 @@
     [
       "FreeBSD Home Audio Studio",
       "https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 02:08:27",
-      "https://lobste.rs/s/lja108/rust_s_bufread_when_use_it"
-    ],
-    [
-      "Rust's BufRead, And When To Use It",
-      "https://www.brandons.me/blog/bufread-and-when-to-use-it"
     ]
   ],
   [
