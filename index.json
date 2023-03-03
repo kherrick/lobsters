@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 16:25:13",
+      "https://lobste.rs/s/cjjs9v/papercraft_models"
+    ],
+    [
+      "Papercraft Models",
+      "http://rockybergen.com/papercraft"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 16:11:10",
       "https://lobste.rs/s/zavb69/eu_s_new_cyber_resilience_act_is_about_tell"
     ],
@@ -237,16 +247,6 @@
     [
       "Some notes on using nix",
       "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/"
-    ]
-  ],
-  [
-    [
-      "2023-03-01, 13:14:46",
-      "https://lobste.rs/s/tmhk3n/use_gnu_emacs"
-    ],
-    [
-      "Use GNU Emacs",
-      "https://www2.lib.uchicago.edu/keith/emacs/"
     ]
   ]
 ]
