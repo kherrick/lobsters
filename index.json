@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 22:44:06",
+      "https://lobste.rs/s/oprl1u/architecting_asynchronous_schedulers"
+    ],
+    [
+      "Architecting Asynchronous Schedulers",
+      "https://slightknack.dev/passerine/schedule/"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 22:09:22",
       "https://lobste.rs/s/l2c5ku/introducing_updates_deletes_on_columnar"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing The World's Most Boring Quine",
       "http://rtpg.co/2023/03/02/quines-for-dummies.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 07:35:37",
-      "https://lobste.rs/s/ubsusz/new_pijul_beta_release"
-    ],
-    [
-      "new pijul beta release",
-      "https://crates.io/crates/pijul/1.0.0-beta.4"
     ]
   ]
 ]
