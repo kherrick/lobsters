@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-03, 21:23:36",
+      "https://lobste.rs/s/b7rsee/how_cosmic_rays_affect_super_mario_speed"
+    ],
+    [
+      "How Cosmic Rays Affect Super Mario Speed Runners",
+      "https://www.youtube.com/watch?v=o3Cx2wmFyQQ"
+    ]
+  ],
+  [
+    [
       "2023-03-03, 20:32:07",
       "https://lobste.rs/s/e5xksr/avoid_randomness_from_sky"
     ],
@@ -137,16 +147,6 @@
     [
       "NVMe emulation in QEMU – adding custom admin and IO commands (2022)",
       "https://blog.reds.ch/?p=1597"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 13:45:22",
-      "https://lobste.rs/s/w9tp1m/accessing_ram_qemu_emulated_system_from"
-    ],
-    [
-      "Accessing the RAM of a QEMU emulated system from another process (2021)",
-      "https://blog.reds.ch/?p=1379"
     ]
   ],
   [
