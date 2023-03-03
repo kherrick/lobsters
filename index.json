@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-03-03, 07:20:56",
-      "https://lobste.rs/s/bx01hw/why_python_keeps_growing_explained"
-    ],
-    [
-      "Why Python keeps growing, explained",
-      "https://github.blog/2023-03-02-why-python-keeps-growing-explained/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 04:08:37",
       "https://lobste.rs/s/nnd0hf/rethinking_splice"
     ],
@@ -97,6 +87,16 @@
     [
       "Collective Code Construction Contract",
       "https://rfc.zeromq.org/spec/42/"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 16:21:48",
+      "https://lobste.rs/s/nzjkqe/introducing_compute_compute_separation"
+    ],
+    [
+      "Introducing Compute-Compute Separation for Real-Time Analytics",
+      "https://rockset.com/blog/introducing-compute-compute-separation/"
     ]
   ],
   [
