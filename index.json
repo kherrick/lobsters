@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-04, 15:32:54",
+      "https://lobste.rs/s/7ymtcj/how_c64_keyboard_works"
+    ],
+    [
+      "How the C64 Keyboard Works",
+      "https://c64os.com/post/howthekeyboardworks"
+    ]
+  ],
+  [
+    [
+      "2023-03-04, 15:30:40",
+      "https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment"
+    ],
+    [
+      "Be Careful Using tmux and Environment Variables",
+      "https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 15:17:07",
       "https://lobste.rs/s/ickp7s/artificial_neurons_considered_harmful"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-03-04, 06:56:05",
-      "https://lobste.rs/s/maxoxi/crunching_numbers_with_avx_avx2"
-    ],
-    [
-      "Crunching Numbers with AVX and AVX2",
-      "https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 00:58:26",
       "https://lobste.rs/s/lmjthx/could_we_make_web_more_immersive_using"
     ],
@@ -147,16 +157,6 @@
     [
       "Dak Language",
       "https://www.daklang.com/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 18:09:35",
-      "https://lobste.rs/s/s3udzf/switching_fedora_silverblue"
-    ],
-    [
-      "Switching to Fedora Silverblue",
-      "https://yorickpeterse.com/articles/switching-to-fedora-silverblue/"
     ]
   ],
   [
