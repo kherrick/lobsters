@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-03-04, 06:56:05",
+      "https://lobste.rs/s/maxoxi/crunching_numbers_with_avx_avx2"
+    ],
+    [
+      "Crunching Numbers with AVX and AVX2",
+      "https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 00:58:26",
       "https://lobste.rs/s/lmjthx/could_we_make_web_more_immersive_using"
     ],
@@ -207,16 +217,6 @@
     [
       "Demystifying bitwise operations, a gentle C tutorial",
       "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 13:24:43",
-      "https://lobste.rs/s/izsv9d/styling_external_links"
-    ],
-    [
-      "Styling External Links",
-      "https://www.paritybit.ca/blog/styling-external-links.html"
     ]
   ],
   [
