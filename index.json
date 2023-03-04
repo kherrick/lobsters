@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-03-03, 21:48:49",
-      "https://lobste.rs/s/qhykew/chatgpt_for_creative_writing_good_bad"
-    ],
-    [
-      "ChatGPT for Creative Writing - the Good and the Bad",
-      "https://storiesby.ai/p/chatgpt-for-creative-writing-the"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 21:23:36",
       "https://lobste.rs/s/b7rsee/how_cosmic_rays_affect_super_mario_speed"
     ],
@@ -237,6 +227,16 @@
     [
       "Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim",
       "https://initial-v.com"
+    ]
+  ],
+  [
+    [
+      "2023-03-02, 20:38:38",
+      "https://lobste.rs/s/vzmwvx/reducing_code_size_librsvg_by_removing"
+    ],
+    [
+      "Reducing code size in librsvg by removing an unnecessary generic struct",
+      "https://viruta.org/reducing-binary-size-generics.html"
     ]
   ],
   [
