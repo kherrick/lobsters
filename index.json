@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-04, 07:36:23",
+      "https://lobste.rs/s/6y0xqj/x86_simd_sort_c_header_file_library_for"
+    ],
+    [
+      "x86-simd-sort: C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes",
+      "https://github.com/intel/x86-simd-sort"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 06:56:05",
       "https://lobste.rs/s/maxoxi/crunching_numbers_with_avx_avx2"
     ],
@@ -37,16 +47,6 @@
     [
       "Architecting Asynchronous Schedulers",
       "https://slightknack.dev/passerine/schedule/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 22:09:22",
-      "https://lobste.rs/s/l2c5ku/introducing_updates_deletes_on_columnar"
-    ],
-    [
-      "Introducing Updates and Deletes on Columnar Postgres",
-      "https://blog.hydra.so/blog/2023-03-02-columnar-updates-and-deletes"
     ]
   ],
   [
