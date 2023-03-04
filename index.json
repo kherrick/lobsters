@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-04, 11:00:17",
+      "https://lobste.rs/s/homhrt/phoenix_1_7_0_released_built_tailwind"
+    ],
+    [
+      "Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next",
+      "https://phoenixframework.org/blog/phoenix-1.7-final-released"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 08:48:33",
       "https://lobste.rs/s/sj4nzy/please_don_t_flashbang_me"
     ],
@@ -47,16 +57,6 @@
     [
       "How do Nix builds work?",
       "https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 22:44:06",
-      "https://lobste.rs/s/oprl1u/architecting_asynchronous_schedulers"
-    ],
-    [
-      "Architecting Asynchronous Schedulers",
-      "https://slightknack.dev/passerine/schedule/"
     ]
   ],
   [
