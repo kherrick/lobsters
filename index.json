@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-05, 04:22:11",
+      "https://lobste.rs/s/juy1sf/y2038_glibc_utmp_utmpx_on_64bit"
+    ],
+    [
+      "Y2038, glibc and utmp/utmpx on 64bit architectures",
+      "https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 04:20:16",
+      "https://lobste.rs/s/dawalk/diy_linux_kernel_rootkit_detection"
+    ],
+    [
+      "DIY Linux Kernel Rootkit Detection",
+      "https://unfinished.bike/diy-linux-kernel-rootkit-detection"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 00:59:03",
       "https://lobste.rs/s/nbr9bl/what_s_your_editor_setup"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-03-03, 18:13:45",
-      "https://lobste.rs/s/a1amag/dak_language"
-    ],
-    [
-      "Dak Language",
-      "https://www.daklang.com/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 16:11:10",
       "https://lobste.rs/s/zavb69/eu_s_new_cyber_resilience_act_is_about_tell"
     ],
     [
       "The EU's new Cyber Resilience Act is about to tell us how to code",
       "https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 15:29:00",
-      "https://lobste.rs/s/xwnvei/bootstrapping_hare_development"
-    ],
-    [
-      "Bootstrapping a Hare development environment with Nix",
-      "https://honza.pokorny.ca/2023/03/bootstrapping-a-hare-development-environment-with-nix/"
     ]
   ],
   [
