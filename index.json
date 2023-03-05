@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 00:59:03",
+      "https://lobste.rs/s/nbr9bl/what_is_your_editor_setup"
+    ],
+    [
+      "What is your editor setup?",
+      "https://lobste.rs/s/nbr9bl/what_is_your_editor_setup"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 18:57:38",
       "https://lobste.rs/s/lafnuo/reverse_engineering_electronics_globus"
     ],
@@ -237,16 +247,6 @@
     [
       "devenv 0.6: Generating containers and instant shell activation using Nix",
       "https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/"
-    ]
-  ],
-  [
-    [
-      "2023-03-02, 21:51:40",
-      "https://lobste.rs/s/v4rzyw/initial_v_bmw_shifter_converted"
-    ],
-    [
-      "Initial V: A BMW shifter converted to a Bluetooth Keyboard that you use with Vim",
-      "https://initial-v.com"
     ]
   ]
 ]
