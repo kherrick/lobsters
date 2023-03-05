@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-05, 19:03:58",
+      "https://lobste.rs/s/3hai7n/least_squares"
+    ],
+    [
+      "least squares",
+      "https://gist.github.com/rain-1/4af9cad7941e5999e44a22e8cd368494"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 18:44:33",
       "https://lobste.rs/s/ez15qw/dealing_with_key_based_polymorphic_json"
     ],
@@ -97,16 +107,6 @@
     [
       "Why am I building a new functional programming language?",
       "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 04:22:11",
-      "https://lobste.rs/s/juy1sf/y2038_glibc_utmp_utmpx_on_64bit"
-    ],
-    [
-      "Y2038, glibc and utmp/utmpx on 64bit architectures",
-      "https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/"
     ]
   ],
   [
