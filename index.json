@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-03-04, 18:57:38",
+      "https://lobste.rs/s/lafnuo/reverse_engineering_electronics_globus"
+    ],
+    [
+      "Reverse-engineering the electronics in the Globus analog navigational computer",
+      "http://www.righto.com/2023/03/reverse-engineering-electronics-in.html"
+    ]
+  ],
+  [
+    [
       "2023-03-04, 18:18:10",
       "https://lobste.rs/s/390q59/testing_multiple_python_versions_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Never use git submodules",
       "https://diziet.dreamwidth.org/14666.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 07:45:59",
-      "https://lobste.rs/s/a1jo3a/devenv_0_6_generating_containers_instant"
-    ],
-    [
-      "devenv 0.6: Generating containers and instant shell activation using Nix",
-      "https://devenv.sh/blog/2023/03/02/devenv-06-generating-containers-and-instant-shell-activation/"
     ]
   ]
 ]
