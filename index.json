@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-05, 18:15:02",
+      "https://lobste.rs/s/qc8py6/stop_using_ridiculously_low_dns_ttls_2019"
+    ],
+    [
+      "Stop using ridiculously low DNS TTLs (2019)",
+      "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/"
+    ]
+  ],
+  [
+    [
+      "2023-03-05, 18:10:06",
+      "https://lobste.rs/s/4yufwo/last_breaking_change"
+    ],
+    [
+      "The Last Breaking Change",
+      "https://json-schema.org/blog/posts/the-last-breaking-change"
+    ]
+  ],
+  [
+    [
       "2023-03-05, 12:53:11",
       "https://lobste.rs/s/jqsnay/much_your_work_will_go_waste"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-03-03, 20:32:07",
-      "https://lobste.rs/s/e5xksr/avoid_randomness_from_sky"
-    ],
-    [
-      "Avoid The Randomness From The Sky",
-      "https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/"
-    ]
-  ],
-  [
-    [
       "2023-03-03, 16:11:10",
       "https://lobste.rs/s/zavb69/eu_s_new_cyber_resilience_act_is_about_tell"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I Stopped Using an External Monitor",
       "https://bt.ht/monitor/"
-    ]
-  ],
-  [
-    [
-      "2023-03-03, 09:42:07",
-      "https://lobste.rs/s/neab1g/never_use_git_submodules"
-    ],
-    [
-      "Never use git submodules",
-      "https://diziet.dreamwidth.org/14666.html"
     ]
   ]
 ]
