@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 19:46:51",
+      "https://lobste.rs/s/9epkjc/limitations_deep_learning"
+    ],
+    [
+      "The limitations of deep learning",
+      "https://blog.keras.io/the-limitations-of-deep-learning.html"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 19:30:26",
       "https://lobste.rs/s/c2kxl9/responsibly_mid_size_what_matters"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-03-06, 19:19:09",
-      "https://lobste.rs/s/limjht/insecure_toyota_crm_exposed_mexican"
+      "2023-03-06, 18:38:59",
+      "https://lobste.rs/s/fw7mi9/i_made_json_parse_2x_faster"
     ],
     [
-      "Insecure Toyota CRM exposed Mexican customer information",
-      "https://eaton-works.com/2023/03/06/toyota-c360-hack/"
+      "I made JSON.parse() 2x faster",
+      "https://radex.io/react-native/json-parse/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Van Gogh, AMD’s Steam Deck APU",
       "https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 02:27:59",
-      "https://lobste.rs/s/imiddr/activity_pub_vs_web_frameworks"
-    ],
-    [
-      "Activity Pub vs Web Frameworks",
-      "https://danpalmer.me/2023-01-08-activitypub-vs-web-frameworks/"
     ]
   ],
   [
