@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 19:19:09",
+      "https://lobste.rs/s/limjht/insecure_toyota_crm_exposed_mexican"
+    ],
+    [
+      "Insecure Toyota CRM exposed Mexican customer information",
+      "https://eaton-works.com/2023/03/06/toyota-c360-hack/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 18:59:35",
       "https://lobste.rs/s/pcqwqv/every_graphics_at_once_nintendo_s_popeye"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop using ridiculously low DNS TTLs (2019)",
       "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 06:03:11",
-      "https://lobste.rs/s/dqdvah/why_am_i_building_new_functional"
-    ],
-    [
-      "Why am I building a new functional programming language?",
-      "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
     ]
   ]
 ]
