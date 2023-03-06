@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 18:38:59",
+      "https://lobste.rs/s/fw7mi9/i_made_json_parse_2x_faster"
+    ],
+    [
+      "I made JSON.parse() 2x faster",
+      "https://radex.io/react-native/json-parse/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 17:26:17",
       "https://lobste.rs/s/yjnvi6/privacy_respecting_analytics"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop using ridiculously low DNS TTLs (2019)",
       "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 12:53:11",
-      "https://lobste.rs/s/jqsnay/much_your_work_will_go_waste"
-    ],
-    [
-      "Much of Your Work Will Go To Waste",
-      "https://solutionspace.blog/2022/05/03/much-of-your-work-will-go-to-waste/"
     ]
   ],
   [
