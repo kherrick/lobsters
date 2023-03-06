@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-06, 04:05:42",
+      "https://lobste.rs/s/vu0uvk/world_s_smallest_hash_table"
+    ],
+    [
+      "The World's Smallest Hash Table",
+      "https://orlp.net/blog/worlds-smallest-hash-table/"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 04:03:56",
+      "https://lobste.rs/s/oski4x/great_old_timey_game_programming_hack"
+    ],
+    [
+      "A Great Old-Timey Game-Programming Hack (2013)",
+      "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 04:02:46",
+      "https://lobste.rs/s/1lrghd/write_first_person_game_2kb_with_rust"
+    ],
+    [
+      "Write a First Person Game in 2KB With Rust",
+      "https://grantshandy.github.io/posts/raycasting/"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 03:05:54",
       "https://lobste.rs/s/wtprb2/van_gogh_amd_s_steam_deck_apu"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2023-03-04, 15:44:33",
-      "https://lobste.rs/s/ty647f/some_notes_on_openbsd_7_2_on_thinkpad_x201"
-    ],
-    [
-      "Some notes on OpenBSD 7.2 on a Thinkpad X201",
-      "https://box.matto.nl/some-notes-on-openbsd-72-on-a-thinkpad-x201.html"
-    ]
-  ],
-  [
-    [
       "2023-03-04, 15:30:40",
       "https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment"
     ],
     [
       "Be Careful Using tmux and Environment Variables",
       "https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 14:08:55",
-      "https://lobste.rs/s/ebl3mv/scratch_minimal_org_mode_scratch_area_for"
-    ],
-    [
-      "*scratch* – A minimal org mode scratch area for iOS",
-      "https://apps.apple.com/us/app/scratch/id1671420139"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What microservices can learn from React.js",
       "https://archaeologist.dev/artifacts/coupling"
-    ]
-  ],
-  [
-    [
-      "2023-03-04, 11:00:17",
-      "https://lobste.rs/s/homhrt/phoenix_1_7_0_released_built_tailwind"
-    ],
-    [
-      "Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next",
-      "https://phoenixframework.org/blog/phoenix-1.7-final-released"
     ]
   ],
   [
