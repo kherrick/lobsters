@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-06, 16:29:23",
+      "https://lobste.rs/s/fujxoj/publish_your_drafts"
+    ],
+    [
+      "Publish Your Drafts",
+      "https://www.maxcountryman.com/articles/publish-your-drafts"
+    ]
+  ],
+  [
+    [
+      "2023-03-06, 16:12:16",
+      "https://lobste.rs/s/izdp2d/open_source_native_principle_for"
+    ],
+    [
+      "The \"open source native\" principle for software design",
+      "https://www.haskellforall.com/2023/03/the-open-source-native-principle-for.html"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 15:39:42",
       "https://lobste.rs/s/j487tp/on_hunt_for_bug_with_hump_long_tail"
     ],
@@ -37,16 +57,6 @@
     [
       "FlameScope for Go",
       "https://blog.felixge.de/flamescope-for-go/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 13:15:55",
-      "https://lobste.rs/s/pc8vu7/polynonce_tale_novel_ecdsa_attack"
-    ],
-    [
-      "Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears",
-      "https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why am I building a new functional programming language?",
       "https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 00:59:03",
-      "https://lobste.rs/s/nbr9bl/what_s_your_editor_setup"
-    ],
-    [
-      "What's your editor setup?",
-      "https://lobste.rs/s/nbr9bl/what_s_your_editor_setup"
     ]
   ]
 ]
