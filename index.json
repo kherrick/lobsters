@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-06, 21:12:57",
+      "https://lobste.rs/s/rhjxrl/reliability_it_s_not_great"
+    ],
+    [
+      "Reliability: It's Not Great",
+      "https://community.fly.io/t/reliability-its-not-great/11253"
+    ]
+  ],
+  [
+    [
       "2023-03-06, 21:10:15",
       "https://lobste.rs/s/buv2zc/gpt_3_will_ignore_tools_when_it_disagrees"
     ],
@@ -27,16 +37,6 @@
     [
       "Responsibly mid-size: What Matters, Suffers",
       "https://engineering.ramp.com/what-matters-suffers"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 18:38:59",
-      "https://lobste.rs/s/fw7mi9/i_made_json_parse_2x_faster"
-    ],
-    [
-      "I made JSON.parse() 2x faster",
-      "https://radex.io/react-native/json-parse/"
     ]
   ],
   [
