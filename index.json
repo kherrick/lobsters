@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-03-07, 14:23:13",
+      "https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes"
+    ],
+    [
+      "Some possible reasons for 8-bit bytes",
+      "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:22:13",
+      "https://lobste.rs/s/dnbfnj/adding_parameterized_goals_makesure"
+    ],
+    [
+      "Adding parameterized goals to makesure",
+      "https://maximullaris.com/parameterized_goals.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:17:02",
+      "https://lobste.rs/s/pdqpaz/how_use_http_responsecontroller_type"
+    ],
+    [
+      "How to use the http.ResponseController type",
+      "https://www.alexedwards.net/blog/how-to-use-the-http-responsecontroller-type"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 14:10:54",
+      "https://lobste.rs/s/xbbuuu/compis_contemporary_systems"
+    ],
+    [
+      "compis: contemporary systems programming language in the spirit of C",
+      "https://github.com/rsms/compis"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 13:32:22",
       "https://lobste.rs/s/4f9tec/browser_demonstration_tpms"
     ],
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2023-03-07, 12:41:09",
-      "https://lobste.rs/s/iccnhk/building_jank_uart_usb_cable_from"
-    ],
-    [
-      "Building A Jank UART to USB Cable From Scavenged Parts",
-      "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
-    ]
-  ],
-  [
-    [
       "2023-03-07, 09:18:28",
       "https://lobste.rs/s/cdshnt/ooze_mutation_testing_library_for_golang"
     ],
     [
       "Ooze: Mutation Testing Library for Golang",
       "https://github.com/gtramontina/ooze"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 07:10:03",
-      "https://lobste.rs/s/jiiirm/new_css_pseudo_classes_explained_is_where"
-    ],
-    [
-      "The new CSS pseudo-classes explained - :is() :where() :has()",
-      "https://www.youtube.com/watch?v=3ncFpP8GP4g"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Cisco Umbrella 1 million top domains",
       "https://umbrella.cisco.com/blog/cisco-umbrella-1-million"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 04:53:31",
-      "https://lobste.rs/s/etylaw/std_string_now_supports_address"
-    ],
-    [
-      "std::string now supports Address Sanitizer",
-      "https://devblogs.microsoft.com/cppblog/stdstring-now-supports-address-sanitizer/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Fixing the Next 10,000 Aliasing Bugs",
       "https://blog.polybdenum.com/2023/03/05/fixing-the-next-10-000-aliasing-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 11:33:52",
-      "https://lobste.rs/s/k5xb9d/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/k5xb9d/what_are_you_doing_this_week"
     ]
   ]
 ]
