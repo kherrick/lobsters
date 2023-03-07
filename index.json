@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-03-07, 15:38:37",
-      "https://lobste.rs/s/pk0ztk/zellij_terminal_multiplexer_stacked"
+      "2023-03-07, 17:23:45",
+      "https://lobste.rs/s/9q6rnm/fast_byte_searching_with_simd_without_ton"
     ],
     [
-      "Zellij terminal multiplexer Stacked Panes and Swap Layouts",
-      "https://zellij.dev/news/stacked-panes-swap-layouts/"
+      "Fast byte searching with SIMD without a ton of boilerplate?",
+      "https://lobste.rs/s/9q6rnm/fast_byte_searching_with_simd_without_ton"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-03-07, 12:41:09",
+      "https://lobste.rs/s/iccnhk/building_jank_uart_usb_cable_from"
+    ],
+    [
+      "Building A Jank UART to USB Cable From Scavenged Parts",
+      "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 09:18:28",
       "https://lobste.rs/s/cdshnt/ooze_mutation_testing_library_for_golang"
     ],
@@ -107,16 +117,6 @@
     [
       "Discord, or the Death of Lore",
       "http://ascii.textfiles.com/archives/5509"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 02:52:25",
-      "https://lobste.rs/s/vang5t/this_erlanger_used_process_dictionary"
-    ],
-    [
-      "This Erlanger Used The Process Dictionary, Look What He Found",
-      "https://alvaro-videla.com/2015/05/erlang-process-dict.html"
     ]
   ],
   [
