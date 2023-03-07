@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-07, 15:38:37",
+      "https://lobste.rs/s/pk0ztk/zellij_terminal_multiplexer_stacked"
+    ],
+    [
+      "Zellij terminal multiplexer Stacked Panes and Swap Layouts",
+      "https://zellij.dev/news/stacked-panes-swap-layouts/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 14:23:13",
       "https://lobste.rs/s/b5rmwh/some_possible_reasons_for_8_bit_bytes"
     ],
@@ -87,16 +97,6 @@
     [
       "Ooze: Mutation Testing Library for Golang",
       "https://github.com/gtramontina/ooze"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 07:09:47",
-      "https://lobste.rs/s/bf5n7k/ddos_detection_remediation_with"
-    ],
-    [
-      "DDoS detection and remediation with Akvorado and Flowspec",
-      "https://vincent.bernat.ch/en/blog/2023-akvorado-ddos-flowspec"
     ]
   ],
   [
