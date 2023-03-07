@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-07, 23:28:09",
+      "https://lobste.rs/s/mdgbzd/how_we_deploy_faster_with_warm_docker"
+    ],
+    [
+      "How we deploy faster with warm Docker containers and Pex files",
+      "https://dagster.io/blog/fast-deploys-with-pex-and-docker"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 22:05:29",
       "https://lobste.rs/s/0cpsdb/full_screen_triangle_optimization"
     ],
@@ -157,16 +167,6 @@
     [
       "Ooze: Mutation Testing Library for Golang",
       "https://github.com/gtramontina/ooze"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 07:04:32",
-      "https://lobste.rs/s/qxmkwz/cisco_umbrella_1_million_top_domains"
-    ],
-    [
-      "Cisco Umbrella 1 million top domains",
-      "https://umbrella.cisco.com/blog/cisco-umbrella-1-million"
     ]
   ],
   [
