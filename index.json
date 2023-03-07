@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-07, 07:10:03",
+      "https://lobste.rs/s/jiiirm/new_css_pseudo_classes_explained_is_where"
+    ],
+    [
+      "The new CSS pseudo-classes explained - :is() :where() :has()",
+      "https://www.youtube.com/watch?v=3ncFpP8GP4g"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 07:09:47",
+      "https://lobste.rs/s/bf5n7k/ddos_detection_remediation_with"
+    ],
+    [
+      "DDoS detection and remediation with Akvorado and Flowspec",
+      "https://vincent.bernat.ch/en/blog/2023-akvorado-ddos-flowspec"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 07:04:32",
       "https://lobste.rs/s/qxmkwz/cisco_umbrella_1_million_top_domains"
     ],
@@ -87,16 +107,6 @@
     [
       "Nix journey part 1: My grand unified theory of Nix documentation",
       "https://tinkering.xyz/nix-docs-unified-theory/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 19:30:26",
-      "https://lobste.rs/s/c2kxl9/responsibly_mid_size_what_matters"
-    ],
-    [
-      "Responsibly mid-size: What Matters, Suffers",
-      "https://engineering.ramp.com/what-matters-suffers"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Write a First Person Game in 2KB With Rust",
       "https://grantshandy.github.io/posts/raycasting/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 22:28:31",
-      "https://lobste.rs/s/tpstyz/safety_soundness_rust"
-    ],
-    [
-      "Safety and Soundness in Rust",
-      "https://jacko.io/safety_and_soundness.html"
     ]
   ],
   [
