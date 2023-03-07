@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-07, 12:41:09",
+      "https://lobste.rs/s/iccnhk/building_jank_uart_usb_cable_from"
+    ],
+    [
+      "Building A Jank UART to USB Cable From Scavenged Parts",
+      "https://github.com/francisrstokes/githublog/blob/main/2023/3/1/building-a-jank-uart-cable-from-scavenged-parts.md"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 09:18:28",
       "https://lobste.rs/s/cdshnt/ooze_mutation_testing_library_for_golang"
     ],
@@ -237,16 +247,6 @@
     [
       "Write a First Person Game in 2KB With Rust",
       "https://grantshandy.github.io/posts/raycasting/"
-    ]
-  ],
-  [
-    [
-      "2023-03-05, 18:15:02",
-      "https://lobste.rs/s/qc8py6/stop_using_ridiculously_low_dns_ttls_2019"
-    ],
-    [
-      "Stop using ridiculously low DNS TTLs (2019)",
-      "https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/"
     ]
   ]
 ]
