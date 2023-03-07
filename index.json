@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-07, 20:50:40",
+      "https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages"
+    ],
+    [
+      "How Discord Stores Trillions of Messages",
+      "https://discord.com/blog/how-discord-stores-trillions-of-messages"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 20:24:40",
       "https://lobste.rs/s/5jzng0/when_zig_is_safer_faster_than_rust"
     ],
@@ -67,16 +77,6 @@
     [
       "Fast byte searching with SIMD without a ton of boilerplate?",
       "https://lobste.rs/s/9q6rnm/fast_byte_searching_with_simd_without_ton"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 15:38:37",
-      "https://lobste.rs/s/pk0ztk/zellij_terminal_multiplexer_stacked"
-    ],
-    [
-      "Zellij terminal multiplexer Stacked Panes and Swap Layouts",
-      "https://zellij.dev/news/stacked-panes-swap-layouts/"
     ]
   ],
   [
