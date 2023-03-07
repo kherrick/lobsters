@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-07, 13:32:22",
+      "https://lobste.rs/s/4f9tec/browser_demonstration_tpms"
+    ],
+    [
+      "In-browser demonstration of TPMs",
+      "https://google.github.io/tpm-js/"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 13:29:15",
+      "https://lobste.rs/s/1dnzgl/vulnerability_implementations_sha_3"
+    ],
+    [
+      "A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithms",
+      "https://eprint.iacr.org/2023/331"
+    ]
+  ],
+  [
+    [
+      "2023-03-07, 13:21:11",
+      "https://lobste.rs/s/mjay79/remote_code_execution_as_service"
+    ],
+    [
+      "Remote Code Execution as a Service",
+      "https://earthly.dev/blog/remote-code-execution/"
+    ]
+  ],
+  [
+    [
       "2023-03-07, 12:41:09",
       "https://lobste.rs/s/iccnhk/building_jank_uart_usb_cable_from"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2023-03-06, 14:27:02",
-      "https://lobste.rs/s/p6d8i2/flamescope_for_go"
-    ],
-    [
-      "FlameScope for Go",
-      "https://blog.felixge.de/flamescope-for-go/"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 13:15:55",
-      "https://lobste.rs/s/pc8vu7/polynonce_tale_novel_ecdsa_attack"
-    ],
-    [
-      "Polynonce: A Tale of a Novel ECDSA Attack and Bitcoin Tears",
-      "https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/"
-    ]
-  ],
-  [
-    [
       "2023-03-06, 12:12:26",
       "https://lobste.rs/s/flcpop/what_domain_registrar_is_worth_using"
     ],
@@ -237,16 +247,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/k5xb9d/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-03-06, 04:02:46",
-      "https://lobste.rs/s/1lrghd/write_first_person_game_2kb_with_rust"
-    ],
-    [
-      "Write a First Person Game in 2KB With Rust",
-      "https://grantshandy.github.io/posts/raycasting/"
     ]
   ]
 ]
