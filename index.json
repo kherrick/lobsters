@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-08, 18:12:14",
+      "https://lobste.rs/s/6tf1db/famicom_party_making_nes_games_assembly"
+    ],
+    [
+      "Famicom Party - Making NES Games in Assembly",
+      "https://famicom.party/book"
+    ]
+  ],
+  [
+    [
       "2023-03-08, 16:54:17",
       "https://lobste.rs/s/gc8vec/registers_rust"
     ],
@@ -101,22 +111,12 @@
   ],
   [
     [
-      "2023-03-08, 08:51:41",
-      "https://lobste.rs/s/2ln5me/finder_3_0_css_selector_generator"
+      "2023-03-08, 07:30:59",
+      "https://lobste.rs/s/skrkxp/irregular_expressions"
     ],
     [
-      "Finder 3.0: CSS Selector Generator",
-      "https://github.com/antonmedv/finder"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 07:55:03",
-      "https://lobste.rs/s/eqprlz/dynamic_host_configuration_please"
-    ],
-    [
-      "Dynamic host configuration, please",
-      "https://sha256.net/dynamic_host_configuration_please.html"
+      "Irregular expressions",
+      "https://tavianator.com/2023/irregex.html"
     ]
   ],
   [
