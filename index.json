@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-08, 18:55:05",
+      "https://lobste.rs/s/9a2vfd/engine_for_editor"
+    ],
+    [
+      "An Engine For An Editor",
+      "https://matklad.github.io/2023/03/08/an-engine-for-an-editor.html"
+    ]
+  ],
+  [
+    [
       "2023-03-08, 18:41:44",
       "https://lobste.rs/s/yxnxwn/building_big_systems_with_remote"
     ],
@@ -47,16 +57,6 @@
     [
       "After four years of SMR storage, here's what we love—and what comes next",
       "https://dropbox.tech/infrastructure/four-years-of-smr-storage-what-we-love-and-whats-next"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 16:41:28",
-      "https://lobste.rs/s/p5kc79/introducing_swift_certificates_swift"
-    ],
-    [
-      "Introducing Swift Certificates and Swift ASN.1",
-      "https://swift.org/blog/swift-certificates-and-asn1/"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Cachix 1.3: Nix Uploads unleashed",
       "https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/"
+    ]
+  ],
+  [
+    [
+      "2023-03-08, 08:51:41",
+      "https://lobste.rs/s/2ln5me/finder_3_0_css_selector_generator"
+    ],
+    [
+      "Finder 3.0: CSS Selector Generator",
+      "https://github.com/antonmedv/finder"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Your Client Side State is a Lie",
       "https://marcellerusu.com/your_client_side_state_is_a_lie.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 19:26:54",
-      "https://lobste.rs/s/nbdkuf/if_you_have_public_dotfiles_repo_do_you"
-    ],
-    [
-      "If you have a public dotfiles repo, do you hide some of your configs? How?",
-      "https://lobste.rs/s/nbdkuf/if_you_have_public_dotfiles_repo_do_you"
     ]
   ],
   [
