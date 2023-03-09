@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-03-09, 17:49:49",
+      "https://lobste.rs/s/8hnvzc/free_game_boy"
+    ],
+    [
+      "Free The Game Boy",
+      "https://www.freethegameboy.info/"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 17:06:15",
       "https://lobste.rs/s/wwiq9p/introducing_ngrok_go_ingress_your_go_apps"
     ],
@@ -237,16 +247,6 @@
     [
       "Uncle Bob and Casey Muratori Discuss Clean Code",
       "https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 10:13:04",
-      "https://lobste.rs/s/7lipts/cachix_1_3_nix_uploads_unleashed"
-    ],
-    [
-      "Cachix 1.3: Nix Uploads unleashed",
-      "https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/"
     ]
   ]
 ]
