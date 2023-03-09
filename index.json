@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-09, 16:07:02",
+      "https://lobste.rs/s/afv3tk/node_js_multithreading_with_worker"
+    ],
+    [
+      "Node.js multithreading with worker threads: pros and cons",
+      "https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 15:19:20",
       "https://lobste.rs/s/98vrnf/domain_logic_sql_2003"
     ],
@@ -237,16 +247,6 @@
     [
       "How Discord Stores Trillions of Messages",
       "https://discord.com/blog/how-discord-stores-trillions-of-messages"
-    ]
-  ],
-  [
-    [
-      "2023-03-07, 20:24:40",
-      "https://lobste.rs/s/5jzng0/when_zig_is_safer_faster_than_rust"
-    ],
-    [
-      "When Zig is safer and faster than Rust",
-      "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
     ]
   ]
 ]
