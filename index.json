@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-09, 18:29:00",
+      "https://lobste.rs/s/gvloxf/safer_high_performance_av1_decoder"
+    ],
+    [
+      "A Safer High Performance AV1 Decoder",
+      "https://www.memorysafety.org/blog/safer-av1-decoder/"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 18:25:39",
+      "https://lobste.rs/s/zjk6qx/design_austral_compiler"
+    ],
+    [
+      "Design of the Austral Compiler",
+      "https://borretti.me/article/design-austral-compiler"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 18:24:32",
+      "https://lobste.rs/s/kour63/help_test_cargo_s_new_index_protocol"
+    ],
+    [
+      "Help test Cargo's new index protocol",
+      "https://blog.rust-lang.org/inside-rust/2023/01/30/cargo-sparse-protocol.html"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 17:49:49",
       "https://lobste.rs/s/8hnvzc/free_game_boy"
     ],
@@ -27,16 +57,6 @@
     [
       "Introducing ngrok-go: Ingress to Your Go Apps as a `net.Listener`",
       "https://blog.ngrok.com/posts/ngrok-go"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 16:07:02",
-      "https://lobste.rs/s/afv3tk/node_js_multithreading_with_worker"
-    ],
-    [
-      "Node.js multithreading with worker threads: pros and cons",
-      "https://snyk.io/blog/node-js-multithreading-worker-threads-pros-cons/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing",
       "https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 13:31:35",
-      "https://lobste.rs/s/2z1367/writing_kubernetes_operator"
-    ],
-    [
-      "Writing a Kubernetes Operator",
-      "https://metalbear.co/blog/writing-a-kubernetes-operator/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "PEP 709 – Inlined comprehensions",
       "https://peps.python.org/pep-0709/"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 16:54:17",
-      "https://lobste.rs/s/gc8vec/registers_rust"
-    ],
-    [
-      "The Registers of Rust",
-      "https://without.boats/blog/the-registers-of-rust/"
     ]
   ],
   [
