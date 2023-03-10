@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-10, 08:18:01",
+      "https://lobste.rs/s/kahcpq/fundamental_difference_between"
+    ],
+    [
+      "The fundamental difference between Terraform and Kubernetes",
+      "https://garrit.xyz/posts/2023-03-08-terraform-and-kubernetes-are-fundamentally-different"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 04:38:26",
       "https://lobste.rs/s/pxomzi/upwelling_combining_real_time"
     ],
@@ -107,16 +117,6 @@
     [
       "Formalizing Stability and Resilience Properties",
       "https://buttondown.email/hillelwayne/archive/formalizing-stability-and-resilience-properties/"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 18:29:00",
-      "https://lobste.rs/s/gvloxf/safer_high_performance_av1_decoder"
-    ],
-    [
-      "A Safer High Performance AV1 Decoder",
-      "https://www.memorysafety.org/blog/safer-av1-decoder/"
     ]
   ],
   [
