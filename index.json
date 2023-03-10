@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-03-09, 18:24:32",
-      "https://lobste.rs/s/kour63/help_test_cargo_s_new_index_protocol"
-    ],
-    [
-      "Help test Cargo's new index protocol",
-      "https://blog.rust-lang.org/inside-rust/2023/01/30/cargo-sparse-protocol.html"
-    ]
-  ],
-  [
-    [
       "2023-03-09, 17:49:49",
       "https://lobste.rs/s/8hnvzc/free_game_boy"
     ],
@@ -217,6 +207,16 @@
     [
       "Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing",
       "https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 07:52:18",
+      "https://lobste.rs/s/zkndyy/new_tag_sustainability"
+    ],
+    [
+      "New tag: sustainability?",
+      "https://lobste.rs/s/zkndyy/new_tag_sustainability"
     ]
   ],
   [
