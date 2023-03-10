@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-03-10, 01:31:08",
+      "https://lobste.rs/s/0jz7wp/device_afd_deal_with_devil_makes_async"
+    ],
+    [
+      "\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows",
+      "https://notgull.github.io/device-afd/"
+    ]
+  ],
+  [
+    [
       "2023-03-09, 22:49:10",
       "https://lobste.rs/s/woji6r/were_react_hooks_mistake"
     ],
@@ -227,16 +237,6 @@
     [
       "The GraphicalEmoji hack",
       "https://xeiaso.net/blog/GraphicalEmoji"
-    ]
-  ],
-  [
-    [
-      "2023-03-08, 18:55:05",
-      "https://lobste.rs/s/9a2vfd/engine_for_editor"
-    ],
-    [
-      "An Engine For An Editor",
-      "https://matklad.github.io/2023/03/08/an-engine-for-an-editor.html"
     ]
   ],
   [
