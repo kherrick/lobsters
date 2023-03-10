@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-10, 12:48:59",
+      "https://lobste.rs/s/dftqh2/from_perl_rust"
+    ],
+    [
+      "From Perl to Rust",
+      "https://oylenshpeegul.gitlab.io/from-perl-to-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 12:45:31",
+      "https://lobste.rs/s/eavkqj/announcing_topiary_universal_code"
+    ],
+    [
+      "Announcing Topiary: The Universal Code Formatter Based on Tree Sitter",
+      "https://www.tweag.io/blog/2023-03-09-announcing-topiary/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 12:41:46",
+      "https://lobste.rs/s/krat9o/bridging_async_sync_rust_code_lesson"
+    ],
+    [
+      "Bridging Async and Sync Rust Code - A lesson learned while working with Tokio",
+      "https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 11:14:47",
       "https://lobste.rs/s/uo3sck/what_good_debugger_can_do"
     ],
@@ -67,16 +97,6 @@
     [
       "The fundamental difference between Terraform and Kubernetes",
       "https://garrit.xyz/posts/2023-03-08-terraform-and-kubernetes-are-fundamentally-different"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 04:38:26",
-      "https://lobste.rs/s/pxomzi/upwelling_combining_real_time"
-    ],
-    [
-      "Upwelling: Combining real-time collaboration with version control for writers",
-      "https://www.inkandswitch.com/upwelling/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-03-09, 18:25:39",
-      "https://lobste.rs/s/zjk6qx/design_austral_compiler"
-    ],
-    [
-      "Design of the Austral Compiler",
-      "https://borretti.me/article/design-austral-compiler"
-    ]
-  ],
-  [
-    [
       "2023-03-09, 18:24:32",
       "https://lobste.rs/s/kour63/help_test_cargo_s_new_index_protocol"
     ],
@@ -207,16 +217,6 @@
     [
       "Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing",
       "https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 07:52:18",
-      "https://lobste.rs/s/zkndyy/new_tag_sustainability"
-    ],
-    [
-      "New tag: sustainability?",
-      "https://lobste.rs/s/zkndyy/new_tag_sustainability"
     ]
   ],
   [
