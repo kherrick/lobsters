@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-03-09, 21:27:25",
-      "https://lobste.rs/s/yslebp/how_platform_integration_qt_kde_apps"
-    ],
-    [
-      "How platform integration in Qt/KDE apps works",
-      "https://nicolasfella.de/posts/how-platform-integration-works/"
-    ]
-  ],
-  [
-    [
       "2023-03-09, 21:11:55",
       "https://lobste.rs/s/rokagn/type_systems_2004"
     ],
@@ -137,6 +127,16 @@
     [
       "Free The Game Boy",
       "https://www.freethegameboy.info/"
+    ]
+  ],
+  [
+    [
+      "2023-03-09, 17:35:50",
+      "https://lobste.rs/s/agx7ta/nicegui_let_any_browser_be_frontend_your"
+    ],
+    [
+      "NiceGUI: Let any browser be the frontend of your Python code",
+      "https://github.com/zauberzeug/nicegui"
     ]
   ],
   [
