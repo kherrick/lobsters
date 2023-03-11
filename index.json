@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-11, 17:25:41",
+      "https://lobste.rs/s/wmchs3/swapping_memory_compiler_optimizations"
+    ],
+    [
+      "Swapping memory and compiler optimizations",
+      "https://kihlander.net/post/swapping-memory-and-compiler-optimizations/"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 17:04:02",
       "https://lobste.rs/s/a6m5cy/gc_extension_for_webassembly"
     ],
@@ -237,16 +247,6 @@
     [
       "The Quest for Netflix on Asahi Linux",
       "https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-09, 13:35:58",
-      "https://lobste.rs/s/mfd2jr/getting_past_ampersand_driven"
-    ],
-    [
-      "Getting Past “Ampersand-Driven Development” in Rust - A mental model for ownership and borrowing",
-      "https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust"
     ]
   ]
 ]
