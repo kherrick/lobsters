@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-03-10, 20:14:13",
-      "https://lobste.rs/s/hws8sn/growing_language_1998"
-    ],
-    [
-      "Growing a Language (1998)",
-      "https://www.youtube.com/watch?v=_ahvzDzKdB0"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 19:37:52",
       "https://lobste.rs/s/d0ptcu/what_are_your_favourite_pieces_software"
     ],
@@ -117,6 +107,16 @@
     [
       "Announcing Topiary: The Universal Code Formatter Based on Tree Sitter",
       "https://www.tweag.io/blog/2023-03-09-announcing-topiary/"
+    ]
+  ],
+  [
+    [
+      "2023-03-10, 12:41:46",
+      "https://lobste.rs/s/krat9o/bridging_async_sync_rust_code_lesson"
+    ],
+    [
+      "Bridging Async and Sync Rust Code - A lesson learned while working with Tokio",
+      "https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust"
     ]
   ],
   [
