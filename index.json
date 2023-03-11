@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-11, 17:04:02",
+      "https://lobste.rs/s/a6m5cy/gc_extension_for_webassembly"
+    ],
+    [
+      "GC Extension for WebAssembly",
+      "https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 15:33:08",
       "https://lobste.rs/s/zjghwo/weird_websites_as_atomic_matter_internet"
     ],
@@ -127,16 +137,6 @@
     [
       "NixOS in Production",
       "https://leanpub.com/nixos-in-production"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 12:48:59",
-      "https://lobste.rs/s/dftqh2/from_perl_rust"
-    ],
-    [
-      "From Perl to Rust",
-      "https://oylenshpeegul.gitlab.io/from-perl-to-rust/"
     ]
   ],
   [
