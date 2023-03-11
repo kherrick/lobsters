@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-11, 22:48:35",
+      "https://lobste.rs/s/6fawiq/wunderbar_story"
+    ],
+    [
+      "A wunderBAR Story",
+      "http://www.os2museum.com/wp/a-wunderbar-story/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 22:45:26",
+      "https://lobste.rs/s/3ycgfx/hash_tables_ftw"
+    ],
+    [
+      "Hash Tables FTW",
+      "http://www.os2museum.com/wp/hash-tables-ftw/"
+    ]
+  ],
+  [
+    [
+      "2023-03-11, 22:42:29",
+      "https://lobste.rs/s/1wiec3/reverse_engineering_register_codes_for"
+    ],
+    [
+      "Reverse-engineering the register codes for the 8086 processor's microcode",
+      "http://www.righto.com/2023/03/8086-register-codes.html"
+    ]
+  ],
+  [
+    [
       "2023-03-11, 20:25:08",
       "https://lobste.rs/s/bonajo/why_are_there_no_relational_dbmss_2015"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-03-10, 16:30:19",
-      "https://lobste.rs/s/flqbus/who_reads_your_email"
-    ],
-    [
-      "Who reads your email?",
-      "https://www.netmeister.org/blog/mx-diversity.html"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 16:19:01",
       "https://lobste.rs/s/l2fn3c/discovering_one_bug_after_another_utf_8"
     ],
@@ -187,26 +207,6 @@
     [
       "What a good debugger can do",
       "https://werat.dev/blog/what-a-good-debugger-can-do/"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 10:20:40",
-      "https://lobste.rs/s/kzeaye/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/kzeaye/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 09:49:15",
-      "https://lobste.rs/s/dq6ysc/future_perl"
-    ],
-    [
-      "The Future of Perl",
-      "https://ovid.github.io/articles/the-future-of-perl.html"
     ]
   ],
   [
