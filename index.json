@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-11, 06:54:46",
+      "https://lobste.rs/s/ldxlfp/running_llama_7b_on_64gb_m2_macbook_pro"
+    ],
+    [
+      "Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp",
+      "https://til.simonwillison.net/llms/llama-7b-m2"
+    ]
+  ],
+  [
+    [
       "2023-03-10, 23:28:42",
       "https://lobste.rs/s/q6fwuh/pre_initialization_garbage_collected"
     ],
@@ -37,16 +47,6 @@
     [
       "How To Set Up a Wireguard VPN Server with Unbound on OpenBSD",
       "https://marcocetica.com/posts/wireguard_openbsd/"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 16:47:01",
-      "https://lobste.rs/s/ubbwk2/infinity_beyond_with_cloudflare_cache"
-    ],
-    [
-      "To Infinity and Beyond, with Cloudflare Cache Reserve",
-      "https://www.troyhunt.com/to-infinity-and-beyond-with-cloudflare-cache-reserve/"
     ]
   ],
   [
