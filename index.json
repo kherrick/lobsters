@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 03:42:09",
+      "https://lobste.rs/s/g1ixka/new_records_collision_attacks_on_ripemd"
+    ],
+    [
+      "New Records in Collision Attacks on RIPEMD-160 and SHA-256",
+      "https://eprint.iacr.org/2023/285.pdf"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 03:22:59",
       "https://lobste.rs/s/xsxlhh/semantics_simple_functional_language"
     ],
@@ -97,16 +107,6 @@
     [
       "Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78",
       "https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 17:25:41",
-      "https://lobste.rs/s/wmchs3/swapping_memory_compiler_optimizations"
-    ],
-    [
-      "Swapping memory and compiler optimizations",
-      "https://kihlander.net/post/swapping-memory-and-compiler-optimizations/"
     ]
   ],
   [
