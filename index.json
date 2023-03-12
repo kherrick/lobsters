@@ -1,6 +1,76 @@
 [
   [
     [
+      "2023-03-12, 03:50:30",
+      "https://lobste.rs/s/pvtubk/caveat_implementor_key_recovery_attacks"
+    ],
+    [
+      "Caveat Implementor! Key Recovery Attacks on MEGA",
+      "https://eprint.iacr.org/2023/329.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:49:19",
+      "https://lobste.rs/s/byivq1/modeling_exploration_gain_competition"
+    ],
+    [
+      "Modeling and Exploration of Gain Competition Attacks in Optical Network-on-Chip Architectures",
+      "https://arxiv.org/pdf/2303.01550.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:47:59",
+      "https://lobste.rs/s/eo34qk/exploiting_input_sanitization_for_regex"
+    ],
+    [
+      "Exploiting Input Sanitization for Regex Denial of Service",
+      "https://arxiv.org/pdf/2303.01996"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:46:07",
+      "https://lobste.rs/s/86ru2o/novel_related_nonce_attack_for_ecdsa"
+    ],
+    [
+      "A Novel Related Nonce Attack for ECDSA",
+      "https://eprint.iacr.org/2023/305.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:45:16",
+      "https://lobste.rs/s/0fmxda/optimization_amplification_cache_side"
+    ],
+    [
+      "Optimization and Amplification of Cache Side Channel Signals",
+      "https://arxiv.org/pdf/2303.00122.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:44:31",
+      "https://lobste.rs/s/2raiki/dishing_out_dos_how_disable_secure"
+    ],
+    [
+      "Dishing Out DoS: How to Disable and Secure the Starlink User Terminal",
+      "https://arxiv.org/pdf/2303.00582.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:42:57",
+      "https://lobste.rs/s/chrqgl/analysis_ripemd_160_new_collision"
+    ],
+    [
+      "Analysis of RIPEMD-160: New Collision Attacks and Finding Characteristics with MILP",
+      "https://eprint.iacr.org/2023/277.pdf"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 03:42:09",
       "https://lobste.rs/s/g1ixka/new_records_collision_attacks_on_ripemd"
     ],
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2023-03-12, 01:44:53",
-      "https://lobste.rs/s/r7i5as/embed_tailscale_funnel_your_go_app"
-    ],
-    [
-      "Embed a Tailscale Funnel in your Go app",
-      "https://tailscale.dev/blog/embedded-funnel"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 00:25:44",
       "https://lobste.rs/s/44pb79/shell_free_scripts_with_execa_7"
     ],
     [
       "Shell-free scripts with Execa 7",
       "https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 22:54:30",
-      "https://lobste.rs/s/g7swgc/counterfeit_chip_detection_using"
-    ],
-    [
-      "Counterfeit Chip Detection using Scattering Parameter Analysis",
-      "https://arxiv.org/pdf/2302.11034.pdf"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Hash Tables FTW",
       "http://www.os2museum.com/wp/hash-tables-ftw/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 22:42:29",
-      "https://lobste.rs/s/1wiec3/reverse_engineering_register_codes_for"
-    ],
-    [
-      "Reverse-engineering the register codes for the 8086 processor's microcode",
-      "http://www.righto.com/2023/03/8086-register-codes.html"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2023-03-10, 16:19:01",
-      "https://lobste.rs/s/l2fn3c/discovering_one_bug_after_another_utf_8"
-    ],
-    [
-      "Discovering one bug after another in the UTF-8 decoding logic in OpenBSD",
-      "https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 16:18:22",
-      "https://lobste.rs/s/xnm4wd/solarpi_experiment_1_pijuice_fiasco"
-    ],
-    [
-      "SolarPi experiment 1: The PiJuice Fiasco",
-      "https://blog.rfox.eu/en/Hardware/SolarPi_experiment_1_The_PiJuice_Fiasco.html"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 15:18:44",
       "https://lobste.rs/s/bbbjfz/nixos_production"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-03-10, 12:45:31",
-      "https://lobste.rs/s/eavkqj/announcing_topiary_universal_code"
-    ],
-    [
-      "Announcing Topiary: The Universal Code Formatter Based on Tree Sitter",
-      "https://www.tweag.io/blog/2023-03-09-announcing-topiary/"
-    ]
-  ],
-  [
-    [
       "2023-03-10, 11:14:47",
       "https://lobste.rs/s/uo3sck/what_good_debugger_can_do"
     ],
     [
       "What a good debugger can do",
       "https://werat.dev/blog/what-a-good-debugger-can-do/"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 08:42:19",
-      "https://lobste.rs/s/qies8p/meet_zig_modern_alternative_c"
-    ],
-    [
-      "Meet Zig: The modern alternative to C",
-      "https://www.infoworld.com/article/3689648/meet-the-zig-programming-language.html"
     ]
   ]
 ]
