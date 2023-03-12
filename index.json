@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 10:51:04",
+      "https://lobste.rs/s/9nc3kq/how_not_design_ui_library"
+    ],
+    [
+      "How not to design a UI library",
+      "http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 09:54:47",
       "https://lobste.rs/s/ro3fq8/building_privacy_first_newsletter"
     ],
@@ -77,16 +87,6 @@
     [
       "SALSA PICANTE: a machine learning attack on LWE with binary secrets",
       "https://eprint.iacr.org/2023/340.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 03:53:59",
-      "https://lobste.rs/s/xktuab/automatic_verification_transparency"
-    ],
-    [
-      "Automatic verification of transparency protocols (extended version)",
-      "https://arxiv.org/pdf/2303.04500.pdf"
     ]
   ],
   [
