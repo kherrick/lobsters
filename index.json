@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2023-03-12, 03:52:08",
-      "https://lobste.rs/s/ulahc7/scramble_cfi_mitigating_fault_induced"
+      "2023-03-12, 03:44:31",
+      "https://lobste.rs/s/2raiki/dishing_out_dos_how_disable_secure"
     ],
     [
-      "SCRAMBLE-CFI: Mitigating Fault-Induced Control-Flow Attacks on OpenTitan",
-      "https://arxiv.org/pdf/2303.03711.pdf"
+      "Dishing Out DoS: How to Disable and Secure the Starlink User Terminal",
+      "https://arxiv.org/pdf/2303.00582.pdf"
     ]
   ],
   [
