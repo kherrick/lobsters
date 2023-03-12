@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-03-12, 05:30:06",
-      "https://lobste.rs/s/1qeanq/lecture_pkgsrc_package_management_for"
-    ],
-    [
-      "Lecture :pkgsrc - Package management for BSD, illumos, Linux and MacOS",
-      "https://chemnitzer.linux-tage.de/2023/de/programm/beitrag/125"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 03:58:40",
       "https://lobste.rs/s/wswo1k/macige_ci_workflow_generator_for_mobile"
     ],
@@ -117,6 +107,16 @@
     [
       "Dishing Out DoS: How to Disable and Secure the Starlink User Terminal",
       "https://arxiv.org/pdf/2303.00582.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:42:09",
+      "https://lobste.rs/s/g1ixka/new_records_collision_attacks_on_ripemd"
+    ],
+    [
+      "New Records in Collision Attacks on RIPEMD-160 and SHA-256",
+      "https://eprint.iacr.org/2023/285.pdf"
     ]
   ],
   [
