@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-12, 22:07:16",
-      "https://lobste.rs/s/p6tkqj/announcing_easynostr_setup_your_nostr"
-    ],
-    [
-      "Announcing easyNostr: Setup your Nostr NIP-05 ID under your own domain (or use one of ours)",
-      "https://easydns.com/blog/2023/03/12/easynostr-setup-your-nip-05-id-under-your-own-domain-or-use-one-of-ours/"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 21:13:25",
       "https://lobste.rs/s/ypbrf6/how_virtual_environments_work"
     ],
@@ -147,6 +137,16 @@
     [
       "Mark My Words: Dangers of Watermarked Images in ImageNet",
       "https://arxiv.org/pdf/2303.05498.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:22:59",
+      "https://lobste.rs/s/xsxlhh/semantics_simple_functional_language"
+    ],
+    [
+      "The semantics of a simple functional language",
+      "https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html"
     ]
   ],
   [
