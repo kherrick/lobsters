@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-12, 05:30:20",
+      "https://lobste.rs/s/ypkivi/how_get_into_software"
+    ],
+    [
+      "How to get into software",
+      "https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 05:30:06",
+      "https://lobste.rs/s/1qeanq/lecture_pkgsrc_package_management_for"
+    ],
+    [
+      "Lecture :pkgsrc - Package management for BSD, illumos, Linux and MacOS",
+      "https://chemnitzer.linux-tage.de/2023/de/programm/beitrag/125"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 03:58:40",
       "https://lobste.rs/s/wswo1k/macige_ci_workflow_generator_for_mobile"
     ],
@@ -97,26 +117,6 @@
     [
       "Modeling and Exploration of Gain Competition Attacks in Optical Network-on-Chip Architectures",
       "https://arxiv.org/pdf/2303.01550.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 03:47:59",
-      "https://lobste.rs/s/eo34qk/exploiting_input_sanitization_for_regex"
-    ],
-    [
-      "Exploiting Input Sanitization for Regex Denial of Service",
-      "https://arxiv.org/pdf/2303.01996"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 03:46:07",
-      "https://lobste.rs/s/86ru2o/novel_related_nonce_attack_for_ecdsa"
-    ],
-    [
-      "A Novel Related Nonce Attack for ECDSA",
-      "https://eprint.iacr.org/2023/305.pdf"
     ]
   ],
   [
