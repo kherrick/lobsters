@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-03-12, 05:30:20",
-      "https://lobste.rs/s/ypkivi/how_get_into_software"
-    ],
-    [
-      "How to get into software",
-      "https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md"
-    ]
-  ],
-  [
-    [
       "2023-03-12, 05:30:06",
       "https://lobste.rs/s/1qeanq/lecture_pkgsrc_package_management_for"
     ],
@@ -107,6 +97,16 @@
     [
       "Caveat Implementor! Key Recovery Attacks on MEGA",
       "https://eprint.iacr.org/2023/329.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 03:49:19",
+      "https://lobste.rs/s/byivq1/modeling_exploration_gain_competition"
+    ],
+    [
+      "Modeling and Exploration of Gain Competition Attacks in Optical Network-on-Chip Architectures",
+      "https://arxiv.org/pdf/2303.01550.pdf"
     ]
   ],
   [
