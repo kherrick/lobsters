@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 23:44:05",
+      "https://lobste.rs/s/lbbd2b/generative_artistry_tutorials"
+    ],
+    [
+      "Generative Artistry Tutorials",
+      "https://generativeartistry.com/tutorials/"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 21:13:25",
       "https://lobste.rs/s/ypbrf6/how_virtual_environments_work"
     ],
@@ -127,16 +137,6 @@
     [
       "Macige - CI workflow generator for mobile app development",
       "https://github.com/tramlinehq/macige"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 03:56:47",
-      "https://lobste.rs/s/iqhb05/mark_my_words_dangers_watermarked_images"
-    ],
-    [
-      "Mark My Words: Dangers of Watermarked Images in ImageNet",
-      "https://arxiv.org/pdf/2303.05498.pdf"
     ]
   ],
   [
