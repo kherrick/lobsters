@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-12, 03:22:59",
+      "https://lobste.rs/s/xsxlhh/semantics_simple_functional_language"
+    ],
+    [
+      "The semantics of a simple functional language",
+      "https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html"
+    ]
+  ],
+  [
+    [
       "2023-03-12, 01:44:53",
       "https://lobste.rs/s/r7i5as/embed_tailscale_funnel_your_go_app"
     ],
@@ -167,16 +177,6 @@
     [
       "Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp",
       "https://til.simonwillison.net/llms/llama-7b-m2"
-    ]
-  ],
-  [
-    [
-      "2023-03-10, 21:38:23",
-      "https://lobste.rs/s/x48voy/how_yubikey_configuration_cheatsheet"
-    ],
-    [
-      "How to Yubikey: a configuration cheatsheet",
-      "https://debugging.works/blog/yubikey-cheatsheet/"
     ]
   ],
   [
