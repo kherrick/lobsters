@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-13, 13:18:20",
+      "https://lobste.rs/s/fqgzrk/aligning_markdown_tables_helix"
+    ],
+    [
+      "aligning Markdown tables in Helix",
+      "https://bytes.zone/posts/aligning-markdown-tables-in-helix/"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 13:15:38",
+      "https://lobste.rs/s/jemxnr/compiler_for_tiny_c_language"
+    ],
+    [
+      "Compiler for the Tiny-C language",
+      "http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 11:01:20",
       "https://lobste.rs/s/giov1m/what_are_you_doing_this_week"
     ],
@@ -207,26 +227,6 @@
     [
       "Stack Machines and Where To Find Them",
       "https://zdimension.fr/stack-machines-and-where-to-find-them/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 03:58:40",
-      "https://lobste.rs/s/wswo1k/macige_ci_workflow_generator_for_mobile"
-    ],
-    [
-      "Macige - CI workflow generator for mobile app development",
-      "https://github.com/tramlinehq/macige"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 00:25:44",
-      "https://lobste.rs/s/44pb79/shell_free_scripts_with_execa_7"
-    ],
-    [
-      "Shell-free scripts with Execa 7",
-      "https://medium.com/@ehmicky/shell-free-scripts-with-execa-7-885fb3b42f83"
     ]
   ],
   [
