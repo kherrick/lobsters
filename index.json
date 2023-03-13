@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 18:57:24",
+      "https://lobste.rs/s/2frne9/practical_optimizations"
+    ],
+    [
+      "Practical Optimizations",
+      "https://www.youtube.com/watch?v=NAVbI1HIzCE"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 18:48:21",
       "https://lobste.rs/s/itz0u8/kirin_bgp_flooding_attack_feasibility"
     ],
@@ -227,16 +237,6 @@
     [
       "How not to design a UI library",
       "http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 08:02:49",
-      "https://lobste.rs/s/h8wbhs/ghc_9_6_1_is_now_available"
-    ],
-    [
-      "GHC 9.6.1 is now available",
-      "https://www.haskell.org/ghc/blog/20230310-ghc-9.6.1-released.html"
     ]
   ],
   [
