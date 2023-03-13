@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 06:23:21",
+      "https://lobste.rs/s/9nrrvl/hygienic_resugaring_compositional"
+    ],
+    [
+      "Hygienic Resugaring of Compositional Desugaring",
+      "https://cs.brown.edu/~sk/Publications/Papers/Published/pk-hyg-resugaring-comp-desugaring/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 04:35:48",
       "https://lobste.rs/s/fqvscn/augmenting_human_intellect_conceptual"
     ],
@@ -237,16 +247,6 @@
     [
       "The oldest privesc: injecting careless administrators’ terminals using TTY pushback",
       "https://www.errno.fr/TTYPushback.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 06:54:46",
-      "https://lobste.rs/s/ldxlfp/running_llama_7b_on_64gb_m2_macbook_pro"
-    ],
-    [
-      "Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp",
-      "https://til.simonwillison.net/llms/llama-7b-m2"
     ]
   ]
 ]
