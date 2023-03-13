@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-03-13, 18:37:38",
-      "https://lobste.rs/s/21e3fz/if_you_have_one_project_you_keep_bragging"
-    ],
-    [
-      "If you have one project and you keep bragging about it, just stop",
-      "https://blog.orhun.dev/manage-your-ego/"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 17:57:30",
       "https://lobste.rs/s/loetvx/reverse_proxy_with_dynamic_backend"
     ],
@@ -237,6 +227,16 @@
     [
       "How not to design a UI library",
       "http://lisyarus.github.io/blog/programming/2023/03/11/how-not-to-ui.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-12, 08:02:49",
+      "https://lobste.rs/s/h8wbhs/ghc_9_6_1_is_now_available"
+    ],
+    [
+      "GHC 9.6.1 is now available",
+      "https://www.haskell.org/ghc/blog/20230310-ghc-9.6.1-released.html"
     ]
   ],
   [
