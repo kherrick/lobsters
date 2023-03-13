@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-13, 23:51:59",
+      "https://lobste.rs/s/ojiuck/notes_on_optimizing_o_n_c_algorithm_where_c"
+    ],
+    [
+      "Notes on optimizing an O(n)+C algorithm where the C matters quite a bit",
+      "https://boston.conman.org/2023/03/13.2"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 23:51:08",
+      "https://lobste.rs/s/1ov173/stanford_alpaca_acceleration_on_device"
+    ],
+    [
+      "Stanford Alpaca, and the acceleration of on-device large language model development",
+      "https://simonwillison.net/2023/Mar/13/alpaca/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 21:51:18",
       "https://lobste.rs/s/aszkl9/switching_from_c_rust"
     ],
@@ -185,7 +205,7 @@
       "https://lobste.rs/s/ibticd/repeat_yourself_do_more_than_one_thing"
     ],
     [
-      "Repeat yourself, do more than one thing, and rewrite everything",
+      "Repeat yourself, do more than one thing, and rewrite everything (2018)",
       "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
     ]
   ],
@@ -227,26 +247,6 @@
     [
       "How virtual environments work",
       "https://snarky.ca/how-virtual-environments-work/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 15:22:12",
-      "https://lobste.rs/s/v9ugba/haiku_activity_contract_report_february"
-    ],
-    [
-      "Haiku Activity & Contract Report, February 2023",
-      "https://www.haiku-os.org/blog/waddlesplash/2023-03-11_haiku_activity_contract_report_feburary_2023/"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 11:22:35",
-      "https://lobste.rs/s/q0w6fj/halp_cli_tool_get_help_with_cli_tools"
-    ],
-    [
-      "halp: A CLI tool to get help with CLI tools",
-      "https://github.com/orhun/halp"
     ]
   ]
 ]
