@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 20:17:14",
+      "https://lobste.rs/s/zu6v0p/alpaca_strong_open_source_instruction"
+    ],
+    [
+      "Alpaca: A Strong Open-Source Instruction-Following Model",
+      "https://crfm.stanford.edu/2023/03/13/alpaca.html"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 20:01:38",
       "https://lobste.rs/s/xdchyy/iwp9_papers_announced"
     ],
@@ -237,16 +247,6 @@
     [
       "Scrcpy 2.0, with audio",
       "https://blog.rom1v.com/2023/03/scrcpy-2-0-with-audio/"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 15:08:11",
-      "https://lobste.rs/s/k4z2qf/write_posix_shell"
-    ],
-    [
-      "write posix shell",
-      "https://j3s.sh/thought/write-posix-shell.html"
     ]
   ]
 ]
