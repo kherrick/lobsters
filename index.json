@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 19:54:59",
+      "https://lobste.rs/s/iyublc/hofstadter_esoteric_programming"
+    ],
+    [
+      "Hofstadter: An esoteric programming language with concurrency, regex, and web requests",
+      "https://austinhenley.com/blog/hofstadter.html"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 19:19:03",
       "https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear"
     ],
@@ -147,16 +157,6 @@
     [
       "Hygienic Resugaring of Compositional Desugaring",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/pk-hyg-resugaring-comp-desugaring/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 04:35:48",
-      "https://lobste.rs/s/fqvscn/augmenting_human_intellect_conceptual"
-    ],
-    [
-      "Augmenting Human Intellect: A Conceptual Framework",
-      "https://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf"
     ]
   ],
   [
