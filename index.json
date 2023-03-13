@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-13, 09:05:38",
+      "https://lobste.rs/s/jhb1xn/building_flatpak_app_without_flatpak_cli"
+    ],
+    [
+      "Building a flatpak app without the flatpak cli",
+      "https://ranfdev.com/blog/building-a-flatpak-app-without-the-flatpak-cli/"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 08:51:47",
       "https://lobste.rs/s/ibticd/repeat_yourself_do_more_than_one_thing"
     ],
@@ -237,16 +247,6 @@
     [
       "write posix shell",
       "https://j3s.sh/thought/write-posix-shell.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-11, 09:46:04",
-      "https://lobste.rs/s/ugy36a/oldest_privesc_injecting_careless"
-    ],
-    [
-      "The oldest privesc: injecting careless administrators’ terminals using TTY pushback",
-      "https://www.errno.fr/TTYPushback.html"
     ]
   ]
 ]
