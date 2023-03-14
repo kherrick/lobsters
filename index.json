@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-14, 09:49:12",
+      "https://lobste.rs/s/abyteu/crowdsourced_document_analysis_mp"
+    ],
+    [
+      "Crowdsourced document analysis and MP expenses (2009)",
+      "https://simonwillison.net/2009/Dec/20/crowdsourcing/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 09:46:27",
+      "https://lobste.rs/s/yxoo7m/postgresql_14_internals_book_english"
+    ],
+    [
+      "PostgreSQL 14 Internals book in English",
+      "https://postgrespro.com/blog/pgsql/5969985"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 09:09:21",
       "https://lobste.rs/s/pyus95/bunki_simple_c_coroutine_library"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-03-13, 16:31:41",
-      "https://lobste.rs/s/xzqpjd/mercurial_conference_paris_2023"
-    ],
-    [
-      "Mercurial Conference Paris 2023",
-      "https://mercurial.paris/events/mercurial-conference-paris-2023/"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 15:05:25",
       "https://lobste.rs/s/4xu1zb/neovim_task_runner_30_lines_lua"
     ],
@@ -197,16 +207,6 @@
     [
       "aligning Markdown tables in Helix",
       "https://bytes.zone/posts/aligning-markdown-tables-in-helix/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 13:15:38",
-      "https://lobste.rs/s/jemxnr/compiler_for_tiny_c_language"
-    ],
-    [
-      "Compiler for the Tiny-C language",
-      "http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"
     ]
   ],
   [
