@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-03-14, 15:48:09",
+      "https://lobste.rs/s/rbpzw1/top_down_lr_parsing"
+    ],
+    [
+      "Top-down LR parsing",
+      "https://pavpanchekha.com/blog/top-down-lr.html"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 15:40:13",
       "https://lobste.rs/s/1hlbiw/approximating_pi_using_cake"
     ],
@@ -217,16 +227,6 @@
     [
       "A weapon to surpass Metal Gear",
       "https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 15:05:25",
-      "https://lobste.rs/s/4xu1zb/neovim_task_runner_30_lines_lua"
-    ],
-    [
-      "A Neovim Task Runner in 30 lines of Lua",
-      "https://www.hillelwayne.com/post/task-runner-neovim/"
     ]
   ],
   [
