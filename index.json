@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 17:40:55",
+      "https://lobste.rs/s/dkhuzd/breaking_your_database_with_bad_check"
+    ],
+    [
+      "Breaking your database with bad CHECK constraints",
+      "https://www.cybertec-postgresql.com/en/bad-check-constraints-postgresql/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 16:56:16",
       "https://lobste.rs/s/tjbrcc/how_speed_up_your_next_build_5_20x_with"
     ],
@@ -147,16 +157,6 @@
     [
       "Emitting Safer Rust with C2Rust",
       "https://immunant.com/blog/2023/03/lifting/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 00:23:55",
-      "https://lobste.rs/s/egwrti/comby_search_code_search_tool_based_on"
-    ],
-    [
-      "comby-search: A code search tool based on Comby",
-      "https://github.com/huytd/comby-search"
     ]
   ],
   [
