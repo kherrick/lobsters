@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-03-13, 20:40:07",
-      "https://lobste.rs/s/1umwlo/what_s_changing_world_fraud_detection"
-    ],
-    [
-      "What’s Changing in the World of Fraud Detection (And What Developers Need to Know About It)",
-      "https://redis.com/blog/developers-guide-to-fraud/"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 20:17:14",
       "https://lobste.rs/s/zu6v0p/alpaca_strong_open_source_instruction"
     ],
@@ -217,6 +207,16 @@
     [
       "Repeat yourself, do more than one thing, and rewrite everything (2018)",
       "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
+    ]
+  ],
+  [
+    [
+      "2023-03-13, 06:23:21",
+      "https://lobste.rs/s/9nrrvl/hygienic_resugaring_compositional"
+    ],
+    [
+      "Hygienic Resugaring of Compositional Desugaring",
+      "https://cs.brown.edu/~sk/Publications/Papers/Published/pk-hyg-resugaring-comp-desugaring/"
     ]
   ],
   [
