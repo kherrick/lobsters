@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-14, 21:34:23",
+      "https://lobste.rs/s/eyutzb/embedding_functional_logic_programming"
+    ],
+    [
+      "Embedding Functional Logic Programming in Haskell via a Compiler Plugin",
+      "https://www.youtube.com/watch?v=UlBcgY9RwPc"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 21:32:57",
+      "https://lobste.rs/s/grtgmx/you_might_have_tomy_twice"
+    ],
+    [
+      "You Might Have To Tomy Twice",
+      "https://www.leadedsolder.com/2023/03/14/tomy-pyuuta-pickup-keyboard-power-switch-repair.html"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 20:02:20",
       "https://lobste.rs/s/vwjchz/openssh_privilege_separation_sandbox"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-03-13, 19:54:59",
-      "https://lobste.rs/s/iyublc/hofstadter_esoteric_programming"
-    ],
-    [
-      "Hofstadter: An esoteric programming language with concurrency, regex, and web requests",
-      "https://austinhenley.com/blog/hofstadter.html"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 19:19:03",
       "https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear"
     ],
@@ -237,16 +247,6 @@
     [
       "aligning Markdown tables in Helix",
       "https://bytes.zone/posts/aligning-markdown-tables-in-helix/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 08:51:47",
-      "https://lobste.rs/s/ibticd/repeat_yourself_do_more_than_one_thing"
-    ],
-    [
-      "Repeat yourself, do more than one thing, and rewrite everything (2018)",
-      "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
     ]
   ]
 ]
