@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 18:53:31",
+      "https://lobste.rs/s/woj3rr/gpt_4_system_card"
+    ],
+    [
+      "GPT-4 System Card",
+      "https://cdn.openai.com/papers/gpt-4-system-card.pdf"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 18:20:33",
       "https://lobste.rs/s/sdkrr0/mnt_pocket_reform_campaign_is_now_live_on"
     ],
@@ -87,16 +97,6 @@
     [
       "Announcing FawltyDeps - a dependency checker for your Python code",
       "https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/"
-    ]
-  ],
-  [
-    [
-      "2023-03-14, 09:49:12",
-      "https://lobste.rs/s/abyteu/crowdsourced_document_analysis_mp"
-    ],
-    [
-      "Crowdsourced document analysis and MP expenses (2009)",
-      "https://simonwillison.net/2009/Dec/20/crowdsourcing/"
     ]
   ],
   [
