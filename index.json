@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-14, 07:00:12",
+      "https://lobste.rs/s/v0hnhx/dawn_rigour_art_programming"
+    ],
+    [
+      "The Dawn of Rigour in the Art of Programming",
+      "https://bhavana.org.in/the-dawn-of-rigour-in-the-art-of-programming/"
+    ]
+  ],
+  [
+    [
+      "2023-03-14, 06:58:12",
+      "https://lobste.rs/s/5gkqk0/tour_http_request_rust"
+    ],
+    [
+      "Tour of a HTTP request in Rust",
+      "https://rustwebdevelopment.com/blog/tour-http/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 06:22:16",
       "https://lobste.rs/s/6htyj0/things_dbs_don_t_do_should"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-03-13, 16:08:52",
-      "https://lobste.rs/s/y0eu1u/circleci_security_incident"
-    ],
-    [
-      "CircleCI Security Incident",
-      "https://conda-forge.org/blog/posts/2023-03-12-circle-ci-security-breach/"
-    ]
-  ],
-  [
-    [
       "2023-03-13, 15:05:25",
       "https://lobste.rs/s/4xu1zb/neovim_task_runner_30_lines_lua"
     ],
@@ -237,16 +247,6 @@
     [
       "Policy on util packages",
       "https://brandur.org/fragments/policy-on-util-packages"
-    ]
-  ],
-  [
-    [
-      "2023-03-12, 21:13:25",
-      "https://lobste.rs/s/ypbrf6/how_virtual_environments_work"
-    ],
-    [
-      "How virtual environments work",
-      "https://snarky.ca/how-virtual-environments-work/"
     ]
   ]
 ]
