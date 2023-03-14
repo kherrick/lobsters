@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 13:35:37",
+      "https://lobste.rs/s/gw2aug/llama_rs_rust_port_llama_cpp_for_fast_llama"
+    ],
+    [
+      "LLaMA-rs: A Rust port of llama.cpp for fast LLaMA inference on CPU",
+      "https://github.com/setzer22/llama-rs/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 12:06:30",
       "https://lobste.rs/s/gbg9xm/text_rendering_hates_you"
     ],
@@ -227,16 +237,6 @@
     [
       "codon: A high-performance, zero-overhead, extensible Python compiler using LLVM",
       "https://github.com/exaloop/codon"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 09:05:38",
-      "https://lobste.rs/s/jhb1xn/building_flatpak_app_without_flatpak_cli"
-    ],
-    [
-      "Building a flatpak app without the flatpak cli",
-      "https://ranfdev.com/blog/building-a-flatpak-app-without-the-flatpak-cli/"
     ]
   ],
   [
