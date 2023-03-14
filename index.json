@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 10:47:50",
+      "https://lobste.rs/s/fxxc5a/announcing_fawltydeps_dependency"
+    ],
+    [
+      "Announcing FawltyDeps - a dependency checker for your Python code",
+      "https://www.tweag.io/blog/2023-03-14-announcing-fawltydeps/"
+    ]
+  ],
+  [
+    [
       "2023-03-14, 09:49:12",
       "https://lobste.rs/s/abyteu/crowdsourced_document_analysis_mp"
     ],
@@ -237,16 +247,6 @@
     [
       "Repeat yourself, do more than one thing, and rewrite everything (2018)",
       "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 00:06:57",
-      "https://lobste.rs/s/czi8ku/policy_on_util_packages"
-    ],
-    [
-      "Policy on util packages",
-      "https://brandur.org/fragments/policy-on-util-packages"
     ]
   ]
 ]
