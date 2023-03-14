@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-14, 00:23:55",
+      "https://lobste.rs/s/egwrti/comby_search_code_search_tool_based_on"
+    ],
+    [
+      "comby-search: A code search tool based on Comby",
+      "https://github.com/huytd/comby-search"
+    ]
+  ],
+  [
+    [
       "2023-03-13, 23:51:59",
       "https://lobste.rs/s/ojiuck/notes_on_optimizing_o_n_c_algorithm_where_c"
     ],
@@ -207,16 +217,6 @@
     [
       "Repeat yourself, do more than one thing, and rewrite everything (2018)",
       "https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 06:23:21",
-      "https://lobste.rs/s/9nrrvl/hygienic_resugaring_compositional"
-    ],
-    [
-      "Hygienic Resugaring of Compositional Desugaring",
-      "https://cs.brown.edu/~sk/Publications/Papers/Published/pk-hyg-resugaring-comp-desugaring/"
     ]
   ],
   [
