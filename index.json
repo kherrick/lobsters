@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 20:35:48",
+      "https://lobste.rs/s/tkgntr/winget_shipped_without_powershell"
+    ],
+    [
+      "Winget shipped without PowerShell support",
+      "https://www.lkhrs.com/blog/2023/03/winget-powershell/"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 19:40:12",
       "https://lobste.rs/s/pjy2bo/category_theory_illustrated_functors"
     ],
@@ -237,16 +247,6 @@
     [
       "Text Rendering Hates You",
       "https://faultlore.com/blah/text-hates-you/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 21:51:18",
-      "https://lobste.rs/s/aszkl9/switching_from_c_rust"
-    ],
-    [
-      "Switching From C++ to Rust",
-      "https://laplab.me/posts/switching-from-cpp-to-rust/"
     ]
   ]
 ]
