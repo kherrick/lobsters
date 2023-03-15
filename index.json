@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-03-15, 16:16:40",
-      "https://lobste.rs/s/cewevd/learning_with_chatgpt"
-    ],
-    [
-      "Learning with Chatgpt",
-      "https://stayrelevant.globant.com/en/technology/scalable-platforms/learning-with-chatgpt/"
-    ]
-  ],
-  [
-    [
       "2023-03-15, 16:10:09",
       "https://lobste.rs/s/qv4b4j/ai_q_for_huggingface_diffusers"
     ],
@@ -127,6 +117,16 @@
     [
       "fastGPT: Faster than PyTorch in 300 lines of Fortran",
       "https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/"
+    ]
+  ],
+  [
+    [
+      "2023-03-15, 11:44:31",
+      "https://lobste.rs/s/f40og0/optimised_flow_for_futures_from_theory"
+    ],
+    [
+      "An Optimised Flow for Futures: From Theory to Practice",
+      "https://programming-journal.org/2022/6/3/"
     ]
   ],
   [
