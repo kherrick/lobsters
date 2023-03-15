@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 16:10:09",
+      "https://lobste.rs/s/qv4b4j/ai_q_for_huggingface_diffusers"
+    ],
+    [
+      "AI Q&A for huggingface/diffusers",
+      "https://quick-question.fly.dev/huggingface/diffusers"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 15:34:35",
       "https://lobste.rs/s/psxrd9/exactly_once_ingestion_multi_tenancy_at"
     ],
@@ -237,16 +247,6 @@
     [
       "Switching From C++ to Rust",
       "https://laplab.me/posts/switching-from-cpp-to-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-03-13, 19:19:03",
-      "https://lobste.rs/s/dcceyb/weapon_surpass_metal_gear"
-    ],
-    [
-      "A weapon to surpass Metal Gear",
-      "https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear"
     ]
   ]
 ]
