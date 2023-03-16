@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-15, 23:53:22",
+      "https://lobste.rs/s/wcudjq/correctness_two_sorting_algorithms"
+    ],
+    [
+      "Correctness of Two Sorting Algorithms",
+      "https://www.hansdieterhiep.nl/two-sorting-algorithms/"
+    ]
+  ],
+  [
+    [
       "2023-03-15, 20:35:48",
       "https://lobste.rs/s/tkgntr/winget_shipped_without_powershell"
     ],
@@ -117,16 +127,6 @@
     [
       "fastGPT: Faster than PyTorch in 300 lines of Fortran",
       "https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 11:44:31",
-      "https://lobste.rs/s/f40og0/optimised_flow_for_futures_from_theory"
-    ],
-    [
-      "An Optimised Flow for Futures: From Theory to Practice",
-      "https://programming-journal.org/2022/6/3/"
     ]
   ],
   [
