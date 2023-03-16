@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 20:16:04",
+      "https://lobste.rs/s/n7e9ui/how_itch_io_uses_coroutines_for_non"
+    ],
+    [
+      "How itch.io uses Coroutines for non-blocking IO",
+      "https://leafo.net/posts/itchio-and-coroutines.html"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 19:11:43",
       "https://lobste.rs/s/joacyj/friendship_between_haskell_c"
     ],
@@ -37,16 +47,6 @@
     [
       "The Saga of the Color Brown in the Early Years of the PC",
       "http://nerdlypleasures.blogspot.com/2023/03/the-saga-of-color-brown-in-early-years.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 16:48:04",
-      "https://lobste.rs/s/lzwrwg/aria_fast_practical_deterministic_oltp"
-    ],
-    [
-      "Aria: A Fast and Practical Deterministic OLTP Database",
-      "http://muratbuffalo.blogspot.com/2023/03/aria-fast-and-practical-deterministic.html"
     ]
   ],
   [
