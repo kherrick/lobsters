@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 09:51:31",
+      "https://lobste.rs/s/29mkfa/working_out_which_docker_namespaces"
+    ],
+    [
+      "Working out which Docker namespaces and images you most depend on",
+      "https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 09:14:29",
       "https://lobste.rs/s/ddadcg/what_is_deno_how_use_its_sandbox"
     ],
@@ -197,16 +207,6 @@
     [
       "fastGPT: Faster than PyTorch in 300 lines of Fortran",
       "https://ondrejcertik.com/blog/2023/03/fastgpt-faster-than-pytorch-in-300-lines-of-fortran/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 09:05:37",
-      "https://lobste.rs/s/9toq0n/gcd_grid"
-    ],
-    [
-      "GCD Grid",
-      "https://susam.net/blog/gcd-grid.html"
     ]
   ],
   [
