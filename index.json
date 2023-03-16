@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 14:21:14",
+      "https://lobste.rs/s/w30ijz/rust_s_two_kinds_assert_make_for_better"
+    ],
+    [
+      "Rust's Two Kinds of 'Assert' Make for Better Code",
+      "https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 11:54:37",
       "https://lobste.rs/s/jgq73e/private_dns_on_windows"
     ],
@@ -167,16 +177,6 @@
     [
       "GPT in 60 Lines of NumPy",
       "https://jaykmody.com/blog/gpt-from-scratch"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 13:22:48",
-      "https://lobste.rs/s/40jhos/using_raspberry_pi_add_second_hdmi_port"
-    ],
-    [
-      "Using a Raspberry Pi to add a second HDMI port to a laptop",
-      "https://pierre-couy.dev/tinkering/2023/03/turning-rpi-into-external-monitor-driver.html"
     ]
   ],
   [
