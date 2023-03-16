@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 15:52:16",
+      "https://lobste.rs/s/k4ifjh/quick_vms_with_nixos"
+    ],
+    [
+      "Quick VMs with NixOS",
+      "https://galowicz.de/2023/03/13/quick-vms-with-nixos/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 14:59:10",
       "https://lobste.rs/s/bzuhpw/strudel_live_coding_musical_patterns"
     ],
@@ -107,16 +117,6 @@
     [
       "Static Program Analysis",
       "https://cs.au.dk/~amoeller/spa/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 03:38:07",
-      "https://lobste.rs/s/dwziof/reverse_engineering_multiplication"
-    ],
-    [
-      "Reverse-engineering the multiplication algorithm in the Intel 8086 processor",
-      "http://www.righto.com/2023/03/8086-multiplication-microcode.html"
     ]
   ],
   [
