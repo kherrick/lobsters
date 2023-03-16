@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 18:17:05",
+      "https://lobste.rs/s/dx1kpw/wirepig_mock_http_tcp_deps_with_real"
+    ],
+    [
+      "Wirepig – Mock HTTP and TCP deps with real sockets in Node.js tests",
+      "https://github.com/griffinmyers/wirepig"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 17:56:58",
       "https://lobste.rs/s/urcorv/saga_color_brown_early_years_pc"
     ],
@@ -217,16 +227,6 @@
     [
       "In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX",
       "https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 13:10:40",
-      "https://lobste.rs/s/sbvmkv/unicode_roman_numerals_screen_readers"
-    ],
-    [
-      "Unicode Roman Numerals and Screen Readers",
-      "https://shkspr.mobi/blog/2023/03/unicode-roman-numerals-and-screen-readers/"
     ]
   ],
   [
