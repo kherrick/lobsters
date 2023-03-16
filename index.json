@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-16, 14:59:10",
+      "https://lobste.rs/s/bzuhpw/strudel_live_coding_musical_patterns"
+    ],
+    [
+      "Strudel - live coding musical patterns in (pure functional reactive) javascript",
+      "https://strudel.tidalcycles.org/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 14:33:50",
       "https://lobste.rs/s/tbzuz1/adventure_with_slos_generic_prometheus"
     ],
@@ -177,16 +187,6 @@
     [
       "Modern Font Stacks",
       "https://modernfontstacks.com/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 14:00:38",
-      "https://lobste.rs/s/wzvsd5/gpt_60_lines_numpy"
-    ],
-    [
-      "GPT in 60 Lines of NumPy",
-      "https://jaykmody.com/blog/gpt-from-scratch"
     ]
   ],
   [
