@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-03-16, 20:16:04",
+      "https://lobste.rs/s/n7e9ui/how_itch_io_uses_coroutines_for_non"
+    ],
+    [
+      "How itch.io uses Coroutines for non-blocking IO",
+      "https://leafo.net/posts/itchio-and-coroutines.html"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 19:11:43",
       "https://lobste.rs/s/joacyj/friendship_between_haskell_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Modern Font Stacks",
       "https://modernfontstacks.com/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 13:12:12",
-      "https://lobste.rs/s/tu3t09/defense_crusty_old_swiss_army_knives"
-    ],
-    [
-      "In Defense of Crusty Old Swiss Army Knives - An Exploration of Django & HTMX",
-      "https://zachgoldstein.engineering/posts/crusty-knives/crusty-knives/"
     ]
   ]
 ]
