@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 17:47:19",
+      "https://lobste.rs/s/7wwjl6/writing_json_custom_output_zig"
+    ],
+    [
+      "Writing JSON to a custom output in Zig",
+      "https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig/"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 17:23:25",
       "https://lobste.rs/s/unge8f/references_don_t_have_top_level_cv"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust's Two Kinds of 'Assert' Make for Better Code",
       "https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 08:23:43",
-      "https://lobste.rs/s/h8lsyz/analyzing_multi_gigabyte_json_files"
-    ],
-    [
-      "Analyzing multi-gigabyte JSON files locally",
-      "https://thenybble.de/posts/json-analysis/"
     ]
   ],
   [
