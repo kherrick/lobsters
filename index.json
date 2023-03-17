@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 21:21:17",
+      "https://lobste.rs/s/rp5i9o/blue_hat_2023_uefi_secure_boot"
+    ],
+    [
+      "Blue Hat 2023 and UEFI Secure Boot",
+      "http://vzimmer.blogspot.com/2023/02/blue-hat-2023-and-uefi-secure-boot.html"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 21:06:35",
       "https://lobste.rs/s/42hmwd/chatgpt_as_code"
     ],
@@ -217,16 +227,6 @@
     [
       "\"...an audiophile forum started debating which versions of memcpy had the highest sound quality\"",
       "https://discuss.systems/@dan/110008052977994607"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 15:52:16",
-      "https://lobste.rs/s/k4ifjh/quick_vms_with_nixos"
-    ],
-    [
-      "Quick VMs with NixOS",
-      "https://galowicz.de/2023/03/13/quick-vms-with-nixos/"
     ]
   ],
   [
