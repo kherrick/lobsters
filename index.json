@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-17, 16:23:26",
+      "https://lobste.rs/s/zyhnm7/comprehensive_guide_structured_logging"
+    ],
+    [
+      "A Comprehensive Guide to Structured Logging in Go",
+      "https://betterstack.com/community/guides/logging/logging-in-go/"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 16:05:40",
+      "https://lobste.rs/s/tfabgx/basic_ai_drives_2008"
+    ],
+    [
+      "The Basic AI Drives (2008)",
+      "https://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 15:53:45",
       "https://lobste.rs/s/rdm3vq/power_single_method_interfaces"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-16, 21:47:25",
-      "https://lobste.rs/s/6t8nug/moonray_production_renderer"
-    ],
-    [
-      "MoonRay Production Renderer",
-      "https://openmoonray.org"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 20:16:04",
       "https://lobste.rs/s/n7e9ui/how_itch_io_uses_coroutines_for_non"
     ],
@@ -207,16 +217,6 @@
     [
       "Rust's Two Kinds of 'Assert' Make for Better Code",
       "https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 11:54:37",
-      "https://lobste.rs/s/jgq73e/private_dns_on_windows"
-    ],
-    [
-      "Private DNS on Windows",
-      "https://blog.openziti.io/private-dns-on-windows"
     ]
   ],
   [
