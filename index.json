@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 03:47:08",
+      "https://lobste.rs/s/dfr4m2/openssl_merged_argon2_kdf"
+    ],
+    [
+      "OpenSSL merged the Argon2 KDF",
+      "https://github.com/openssl/openssl/pull/12256"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 03:40:04",
       "https://lobste.rs/s/5uucxe/multiple_internet_baseband_remote_code"
     ],
@@ -217,16 +227,6 @@
     [
       "Temporary lifetimes in Rust 2024",
       "https://smallcultfollowing.com/babysteps/blog/2023/03/15/temporary-lifetimes/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 00:56:00",
-      "https://lobste.rs/s/nqweny/precision_recall_why_you_shouldn_t_crank"
-    ],
-    [
-      "Precision, recall and why you shouldn’t crank up the warnings to 11",
-      "https://lemire.me/blog/2023/03/15/precision-recall-and-why-you-shouldnt-crank-up-the-warnings-to-11/"
     ]
   ],
   [
