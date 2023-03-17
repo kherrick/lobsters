@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-17, 10:16:21",
+      "https://lobste.rs/s/u93z93/sidescrolling_flight_simulator"
+    ],
+    [
+      "Sidescrolling Flight Simulator",
+      "https://two-wrongs.com/sidescrolling-flight-simulator"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 10:15:04",
+      "https://lobste.rs/s/wyjvv0/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/wyjvv0/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 09:14:26",
       "https://lobste.rs/s/tijxbh/textsynth_server"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-03-16, 20:45:50",
-      "https://lobste.rs/s/5lutyr/minor_stack_based_buffer_overflow"
-    ],
-    [
-      "Minor stack-based buffer overflow in OpenBSD's libskey",
-      "https://marc.info/?l=oss-security&m=167892203725404&w=2"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 20:16:04",
       "https://lobste.rs/s/n7e9ui/how_itch_io_uses_coroutines_for_non"
     ],
@@ -177,16 +187,6 @@
     [
       "Quick VMs with NixOS",
       "https://galowicz.de/2023/03/13/quick-vms-with-nixos/"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 14:33:50",
-      "https://lobste.rs/s/tbzuz1/adventure_with_slos_generic_prometheus"
-    ],
-    [
-      "An adventure with SLOs, generic Prometheus alerting rules, and complex PromQL queries",
-      "https://fiberplane.com/blog/an-adventure-with-slos-generic-prometheus-alerting-rules-and-complex-promql-queries"
     ]
   ],
   [
