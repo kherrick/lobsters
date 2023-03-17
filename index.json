@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 00:48:49",
+      "https://lobste.rs/s/b7kvn3/announcing_typescript_5_0"
+    ],
+    [
+      "Announcing TypeScript 5.0",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/"
+    ]
+  ],
+  [
+    [
       "2023-03-16, 23:38:22",
       "https://lobste.rs/s/xfkru3/valiant_s_general_context_free_parser"
     ],
@@ -17,16 +27,6 @@
     [
       "MoonRay Production Renderer",
       "https://openmoonray.org"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 21:28:05",
-      "https://lobste.rs/s/derd2r/hash_prospector_automated_integer_hash"
-    ],
-    [
-      "hash-prospector: Automated integer hash function discovery",
-      "https://github.com/skeeto/hash-prospector"
     ]
   ],
   [
