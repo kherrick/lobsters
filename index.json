@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 15:53:45",
+      "https://lobste.rs/s/rdm3vq/power_single_method_interfaces"
+    ],
+    [
+      "The power of single-method interfaces",
+      "https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 14:46:59",
       "https://lobste.rs/s/fd03ja/purescript_survey_2023"
     ],
@@ -137,16 +147,6 @@
     [
       "How itch.io uses Coroutines for non-blocking IO",
       "https://leafo.net/posts/itchio-and-coroutines.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 19:11:43",
-      "https://lobste.rs/s/joacyj/friendship_between_haskell_c"
-    ],
-    [
-      "The friendship between Haskell and C",
-      "https://typeclasses.substack.com/p/the-friendship-between-haskell-and"
     ]
   ],
   [
