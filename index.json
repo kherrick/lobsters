@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-17, 17:18:33",
+      "https://lobste.rs/s/zw5wsa/inverted_computer_culture_thought"
+    ],
+    [
+      "Inverted computer culture (a thought experiment)",
+      "http://viznut.fi/texts-en/inverted_computer_culture.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-17, 17:09:28",
+      "https://lobste.rs/s/olkyia/better_lesson"
+    ],
+    [
+      "A Better Lesson",
+      "http://rodneybrooks.com/a-better-lesson/"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 16:53:20",
       "https://lobste.rs/s/rxb1mp/day_simple_daily_todo_checklist_for_mac"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-03-16, 20:16:04",
-      "https://lobste.rs/s/n7e9ui/how_itch_io_uses_coroutines_for_non"
-    ],
-    [
-      "How itch.io uses Coroutines for non-blocking IO",
-      "https://leafo.net/posts/itchio-and-coroutines.html"
-    ]
-  ],
-  [
-    [
       "2023-03-16, 18:55:43",
       "https://lobste.rs/s/fpiral/how_fast_is_your_computer"
     ],
     [
       "How Fast is Your Computer?",
       "https://twitter.com/tsoding/status/1636036276687192068"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 18:17:05",
-      "https://lobste.rs/s/dx1kpw/wirepig_mock_http_tcp_deps_with_real"
-    ],
-    [
-      "Wirepig – Mock HTTP and TCP deps with real sockets in Node.js tests",
-      "https://github.com/griffinmyers/wirepig"
     ]
   ],
   [
