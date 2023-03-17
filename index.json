@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-17, 07:44:19",
+      "https://lobste.rs/s/olzrck/internet_bgp_is_broken_you_can_kiss_lobste"
+    ],
+    [
+      "The internet (BGP) is broken, you can kiss lobste.rs, cat pictures and everything ....GOODBYE",
+      "https://blog.apnic.net/2023/02/16/podcast-whats-happening-with-growth-in-bgp/"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 06:39:59",
       "https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding"
     ],
@@ -237,16 +247,6 @@
     [
       "Docker is deleting Open Source organisations - what you need to know",
       "https://blog.alexellis.io/docker-is-deleting-open-source-images/"
-    ]
-  ],
-  [
-    [
-      "2023-03-15, 16:31:17",
-      "https://lobste.rs/s/tdiloe/modern_font_stacks"
-    ],
-    [
-      "Modern Font Stacks",
-      "https://modernfontstacks.com/"
     ]
   ]
 ]
