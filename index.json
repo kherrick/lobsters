@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-18, 18:58:14",
+      "https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future"
+    ],
+    [
+      "The Command Line Is the GUI's Future",
+      "http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 16:25:57",
       "https://lobste.rs/s/sckuxa/teaching_language_models_support"
     ],
@@ -197,16 +207,6 @@
     [
       "A Comprehensive Guide to Structured Logging in Go",
       "https://betterstack.com/community/guides/logging/logging-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 15:53:45",
-      "https://lobste.rs/s/rdm3vq/power_single_method_interfaces"
-    ],
-    [
-      "The power of single-method interfaces",
-      "https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/"
     ]
   ],
   [
