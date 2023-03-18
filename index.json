@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-03-18, 01:03:11",
+      "https://lobste.rs/s/xvlhav/typescripting_technical_interview"
+    ],
+    [
+      "Typescripting the technical interview",
+      "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 22:09:54",
       "https://lobste.rs/s/erkufr/bringing_rust_xen_project"
     ],
@@ -187,16 +197,6 @@
     [
       "A Comprehensive Guide to Structured Logging in Go",
       "https://betterstack.com/community/guides/logging/logging-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 15:53:45",
-      "https://lobste.rs/s/rdm3vq/power_single_method_interfaces"
-    ],
-    [
-      "The power of single-method interfaces",
-      "https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/"
     ]
   ],
   [
