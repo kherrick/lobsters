@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-10-01](index.md)
+
+* [2022-10-01, 23:38:25](https://lobste.rs/s/o8koyv/ten_years_typescript) - [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/)
+* [2022-10-01, 20:51:59](https://lobste.rs/s/sbdikz/serving_static_files_web_apps_go) - [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
+* [2022-10-01, 20:01:31](https://lobste.rs/s/h8w9gx/using_couchdb_as_website_backend) - [Using CouchDB as a Website Backend](https://blog.gabrielsimmer.com/posts/couchdb-as-a-backend/)
+* [2022-10-01, 18:33:54](https://lobste.rs/s/5l731h/simple_ibm_i_as_400_hacking) - [Simple IBM i (AS/400) hacking](https://blog.silentsignal.eu/2022/09/05/simple-ibm-i-as-400-hacking/)
+* [2022-10-01, 18:14:01](https://lobste.rs/s/ml37oz/orderbook_experimental_order_filling) - [Orderbook: an experimental order filling engine written in Go](https://dylanlott.com/orderbook/)
+* [2022-10-01, 16:30:52](https://lobste.rs/s/dp4klq/striped_development) - [Striped Development](https://jordankaye.dev/posts/striped-development/)
+* [2022-10-01, 15:40:26](https://lobste.rs/s/s9bdid/prompt_engineering_is_hard) - [Prompt engineering is hard](https://xeiaso.net/blog/prompt-engineering)
+* [2022-10-01, 15:21:12](https://lobste.rs/s/sllham/dwim_shell_command_usages_pdftotext_scp) - [dwim-shell-command usages: pdftotext and scp](https://xenodium.com/dwim-shell-command-usages-pdftotext-and-scp)
+* [2022-10-01, 13:06:44](https://lobste.rs/s/s3lplv/58_bytes_css_look_great_nearly_everywhere) - [“ 58 bytes of CSS to look great nearly everywhere” mkws theme](https://t.mkws.sh/58bytes/)
+* [2022-10-01, 11:52:33](https://lobste.rs/s/w09e69/chrome_s_new_ad_blocker_limiting) - [Chrome’s new ad-blocker-limiting extension platform will launch in 2023](https://arstechnica.com/gadgets/2022/09/chromes-new-ad-blocker-limiting-extension-platform-will-launch-in-2023/)
+* [2022-10-01, 05:46:15](https://lobste.rs/s/ciqg39/renaissance_command_line) - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line)
+* [2022-10-01, 01:59:10](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022) - [Who's Hiring? Q4Y2022](https://lobste.rs/s/nqt6ud/who_s_hiring_q4y2022)
+* [2022-10-01, 01:25:41](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind) - [Low-cost SSH access to server behind firewall?](https://lobste.rs/s/ddm5qh/low_cost_ssh_access_server_behind)
+* [2022-10-01, 01:17:37](https://lobste.rs/s/lqjcwy/lisp_google_sheets_with_named_functions) - [LISP in Google Sheets with named functions](https://docs.google.com/spreadsheets/d/1m_QQlAaMtxKUjwncPMBJilq2ZbStVas83Qqw9Dn6E_M/edit#gid=950860623)
+* [2022-10-01, 01:14:54](https://lobste.rs/s/qatnyz/announcing_3_7_3_10_support_new_direction) - [Announcing 3.7-3.10 support and a new direction for Pyston](https://blog.pyston.org/2022/09/29/announcing-3-7-3-10-support-and-a-new-direction/)

@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-11-05](index.md)
+
+* [2022-11-05, 23:35:41](https://lobste.rs/s/awkwdj/why_web_pages_can_have_size_problem) - [Why web pages can have a size problem](https://blog.datawrapper.de/why-web-pages-can-have-a-size-problem/)
+* [2022-11-05, 21:41:46](https://lobste.rs/s/cagcib/how_close_is_risc_v_risc_i) - [How close is RISC-V to RISC-I?](https://web.archive.org/web/20220331041830/https://aspire.eecs.berkeley.edu/2017/06/how-close-is-risc-v-to-risc-i/)
+* [2022-11-05, 21:14:16](https://lobste.rs/s/ggx0zj/when_network_is_faster_than_cache) - [When Network is Faster than Cache](https://simonhearne.com/2020/network-faster-than-cache/)
+* [2022-11-05, 19:02:58](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple) - [GitHub - jafarlihi/clex: clex is a simple lexer generator for C](https://github.com/jafarlihi/clex)
+* [2022-11-05, 17:50:40](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc) - [Racket meet-up 5 November at 18:00 UTC](https://lobste.rs/s/3kpjbb/racket_meet_up_5_november_at_18_00_utc)
+* [2022-11-05, 16:30:36](https://lobste.rs/s/swihmo/hey_emacs_where_did_i_take_photo) - [Hey Emacs, where did I take that photo?](https://xenodium.com/hey-emacs-where-did-i-take-that-photo/)
+* [2022-11-05, 15:56:18](https://lobste.rs/s/xd2y0b/shadowrealms_ecmascript_proposal_for) - [ShadowRealms – an ECMAScript proposal for a better `eval()`](https://2ality.com/2022/04/shadow-realms.html)
+* [2022-11-05, 15:37:02](https://lobste.rs/s/6xmgoi/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
+* [2022-11-05, 13:53:36](https://lobste.rs/s/8bso3f/gregor_samsa_exploiting_java_s_xml) - [Gregor Samsa: Exploiting Java's XML Signature Verification](https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html)
+* [2022-11-05, 11:45:46](https://lobste.rs/s/r9q9v2/systemtap_4_8_released) - [SystemTap 4.8 released](https://lwn.net/Articles/913908/)
+* [2022-11-05, 07:02:58](https://lobste.rs/s/wggcjk/mdn_converted_markdown) - [MDN converted to Markdown](https://openwebdocs.org/content/posts/markdown-conversion/)
+* [2022-11-05, 06:16:08](https://lobste.rs/s/ff6foy/distribution_packaging_for_linux) - [Distribution packaging for Linux desktop applications is unsustainable](https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/)
+* [2022-11-05, 03:22:24](https://lobste.rs/s/tgtj6i/nfs_on_netbsd_server_client_side) - [NFS on NetBSD: server and client side](https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side)
+* [2022-11-05, 02:44:23](https://lobste.rs/s/d0dutz/accessibility_px_rem) - [Accessibility: px or rem?](https://matklad.github.io/2022/11/05/accessibility-px-or-rem.html)
+* [2022-11-05, 02:37:26](https://lobste.rs/s/8txpin/thread_local_state_go_huh) - [Thread-Local State in Go, Huh?](https://puzpuzpuz.dev/thread-local-state-in-go-huh)
+* [2022-11-05, 02:00:50](https://lobste.rs/s/qtjmh9/scoped_threads_rust_why_its_async) - [Scoped threads in Rust, and why its async counterpart would be unsound](https://wishawa.github.io/posts/thread-scoped-async/)
+* [2022-11-05, 00:17:21](https://lobste.rs/s/alzijx/simple_scalable_unbounded_queue) - [Simple Scalable Unbounded Queue](https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2)

@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-02-26](index.md)
+
+* [2023-02-26, 17:55:54](https://lobste.rs/s/nvoikx/helix_notes) - [Helix Notes](https://wiki.alopex.li/HelixNotes)
+* [2023-02-26, 16:11:47](https://lobste.rs/s/n93sls/ecsnv_lightweight_utility_dump_aws) - [ecsnv: A lightweight utility to dump AWS Farget's ECS containers environment variables locally](https://github.com/dineshgowda24/ecsnv)
+* [2023-02-26, 12:54:33](https://lobste.rs/s/0r2aly/easyos_kirkstone_series_version_5_0) - [EasyOS Kirkstone-series version 5.0](https://bkhome.org/news/202302/easyos-kirkstone-series-version-50.html)
+* [2023-02-26, 12:25:41](https://lobste.rs/s/wmed5h/cpu_day_utmc_ut69r000_risc_with_trick) - [CPU of the Day: UTMC UT69R000: The RISC with a Trick](https://www.cpushack.com/2019/03/01/cpu-of-the-day-utmc-ut69r000-the-risc-with-a-trick/)
+* [2023-02-26, 11:51:12](https://lobste.rs/s/nuavpd/why_111_1111111_is_valid_windows_95_key) - [Why 111-1111111 is a valid Windows 95 key](https://www.youtube.com/watch?v=cwyH59nACzQ)
+* [2023-02-26, 10:07:00](https://lobste.rs/s/9h63wt/animations_with_emacs_2015) - [Animations with Emacs (2015)](http://blog.josephwilk.net/art/emacs-animation.html)
+* [2023-02-26, 09:36:06](https://lobste.rs/s/wk58us/using_goatcounter_for_blog_analytics) - [Using GoatCounter for blog analytics](https://eli.thegreenplace.net/2023/using-goatcounter-for-blog-analytics/)
+* [2023-02-26, 08:16:10](https://lobste.rs/s/hiteri/gotophobia_considered_harmful_c) - [GOTOphobia considered harmful (in C)](https://blog.joren.ga/gotophobia-harmful)
+* [2023-02-26, 07:11:42](https://lobste.rs/s/cihqdf/telemetry_trust) - [Telemetry and Trust](https://ashtonkemerling.com/posts/go-telemetry/)
+* [2023-02-26, 07:00:22](https://lobste.rs/s/2qo23m/leancreator_stripped_down_version_qt) - [LeanCreator: a stripped-down version of Qt Creator, using BUSY instead of qmake](https://github.com/rochus-keller/LeanCreator)
+* [2023-02-26, 06:24:08](https://lobste.rs/s/ffk61i/how_implement_type_theory_hour_2018) - [How to implement type theory in an hour (2018)](https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/)
+* [2023-02-26, 02:55:14](https://lobste.rs/s/edmkqd/rofl_with_lol_rewriting_nginx_module_rust) - [ROFL with a LOL: rewriting an NGINX module in Rust](https://blog.cloudflare.com/rust-nginx-module/)
+* [2023-02-26, 01:53:17](https://lobste.rs/s/odv07u/ergonomic_apis_for_hard_problems) - [Ergonomic APIs for hard problems](https://www.youtube.com/watch?v=Phk0C-kLlho)
+* [2023-02-26, 01:25:27](https://lobste.rs/s/xpqsyb/x_520_what_s_name_2022) - [X.520: What’s in a name? (2022)](https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f)
+* [2023-02-26, 01:20:57](https://lobste.rs/s/8zh4fj/performance_analysis_javascript_s_array) - [A Performance Analysis of Javascript’s Array.prototype.filter](https://medium.com/@i_76686/performance-analysis-of-javascript-array-prototype-filter-616e3e3d316f)
+* [2023-02-26, 01:19:00](https://lobste.rs/s/cghpy6/reverse_engineering_windows_95_game) - [Reverse Engineering a Windows 95 Game: Asset Storage](https://sidneys1.com/reverse-engineering/2023/02/23/reverse-engineering-a-win95-game-I.html)
+* [2023-02-26, 00:42:01](https://lobste.rs/s/q1eqem/critically_conscious_computing) - [Critically Conscious Computing](https://criticallyconsciouscomputing.org)

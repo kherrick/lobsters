@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-09-27](index.md)
+
+* [2022-09-27, 20:56:36](https://lobste.rs/s/hjit4p/third_room_tech_preview_released) - [Third Room tech preview released](https://thirdroom.io/preview)
+* [2022-09-27, 20:46:36](https://lobste.rs/s/brx0ed/software_engineering_tips_for_students) - [Software Engineering Tips for Students](https://catball.dev/clms_swe_tips)
+* [2022-09-27, 18:40:47](https://lobste.rs/s/ee3nqg/6_books_new_redis_developers_should_read) - [The 6 Books New Redis Developers Should Read](https://redis.com/blog/6-books-new-redis-developers-should-read/)
+* [2022-09-27, 17:43:27](https://lobste.rs/s/cjcvpz/named_element_ids_can_be_referenced_as) - [Named Element IDs Can Be Referenced as JavaScript Globals](https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/)
+* [2022-09-27, 17:28:07](https://lobste.rs/s/lnfega/how_create_rest_api_with_qthttpserver) - [How to create a REST API with QtHttpServer](https://www.qt.io/blog/how-to-create-a-rest-api-with-qthttpserver)
+* [2022-09-27, 15:50:20](https://lobste.rs/s/dceccl/bash_5_2_released) - [Bash 5.2 released](https://lwn.net/Articles/909596/)
+* [2022-09-27, 14:48:44](https://lobste.rs/s/ti7xal/race_conditions_can_be_useful_for) - [Race Conditions Can Be Useful for Parallelism](https://shwestrick.github.io/2022/09/27/useful-races.html)
+* [2022-09-27, 14:46:43](https://lobste.rs/s/s1kpx4/cloudflare_workerd) - [cloudflare/workerd](https://github.com/cloudflare/workerd)
+* [2022-09-27, 14:18:09](https://lobste.rs/s/fvqmm4/58_bytes_css_look_great_nearly_everywhere) - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+* [2022-09-27, 14:02:24](https://lobste.rs/s/wuxhl0/find_slow_data_processing_tasks_before) - [Find slow data processing tasks (before your customers do)](https://pythonspeed.com/articles/slow-data-analysis-tasks/)
+* [2022-09-27, 13:29:41](https://lobste.rs/s/61pglt/introducing_workerd_cloudflare_s_open) - [Introducing workerd: Cloudflare's Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+* [2022-09-27, 11:29:14](https://lobste.rs/s/kbogat/speeding_up_three_js_with_depth_based) - [Speeding Up Three.JS with Depth-Based Fragment Culling](https://cprimozic.net/blog/depth-based-fragment-culling-webgl/)
+* [2022-09-27, 10:22:51](https://lobste.rs/s/hf3bnm/listen_notify_automatic_client) - [LISTEN / NOTIFY: Automatic client notification in PostgreSQL](https://www.cybertec-postgresql.com/en/listen-notify-automatic-client-notification-in-postgresql/)
+* [2022-09-27, 07:56:29](https://lobste.rs/s/tr8kbm/go_runtime_4_years_later) - [Go runtime: 4 years later](https://go.dev/blog/go119runtime)
+* [2022-09-27, 07:53:40](https://lobste.rs/s/sl4vv4/apalache_symbolic_model_checker_for_tla) - [Apalache - Symbolic Model Checker for TLA+](https://apalache.informal.systems/)

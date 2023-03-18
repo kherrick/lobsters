@@ -1,0 +1,20 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-09-18](index.md)
+
+* [2022-09-18, 21:29:43](https://lobste.rs/s/6oqne7/perils_pinning) - [The perils of pinning](https://lwn.net/SubscriberLink/907876/ae07b6d9e121d1f4/)
+* [2022-09-18, 20:26:07](https://lobste.rs/s/s3n8pw/v0_23_gleam_type_safe_language_for_erlang) - [v0.23 of Gleam, a type safe language for the Erlang VM, is out](https://gleam.run/news/gleam-v0.23-released/)
+* [2022-09-18, 18:33:47](https://lobste.rs/s/nwporz/ada_programming_language) - [Ada Programming Language](https://ada-lang.io/)
+* [2022-09-18, 18:07:09](https://lobste.rs/s/9zqqnz/simple_type_inference_for_system_f) - [Simple Type Inference for System F](https://semantic-domain.blogspot.com/2022/03/simple-type-inference-for-system-f.html)
+* [2022-09-18, 18:03:14](https://lobste.rs/s/qbf1dz/s6_deepmind_s_python_jit_on_top_cpython) - [S6: Deepmind's Python JIT on top of CPython](https://github.com/deepmind/s6)
+* [2022-09-18, 17:40:56](https://lobste.rs/s/dwui6j/why_fix_kubernetes_systemd) - [Why fix Kubernetes and Systemd?](https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104)
+* [2022-09-18, 15:39:27](https://lobste.rs/s/vxz0xq/gcc_s_new_fortification_level_gains_costs) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
+* [2022-09-18, 13:25:47](https://lobste.rs/s/qtdvpn/how_debug_deadlocks_visual_studio) - [How to debug deadlocks in Visual Studio](https://werat.dev/blog/how-to-debug-deadlocks-in-visual-studio/)
+* [2022-09-18, 12:47:17](https://lobste.rs/s/bb5ywd/tinytapeout) - [TinyTapeout](https://tinytapeout.com/)
+* [2022-09-18, 08:17:54](https://lobste.rs/s/1lusa6/finding_second_bug_glibc_s_condition) - [Finding the “Second Bug” in glibc’s Condition Variable](https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/)
+* [2022-09-18, 08:00:27](https://lobste.rs/s/fkin33/create_rust_binaries_docker_images_with) - [Create Rust binaries, and Docker images with Nix](https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/)
+* [2022-09-18, 02:57:59](https://lobste.rs/s/jotmht/explorations_untyped_lambda_calculus) - [Explorations in the untyped lambda calculus](https://flownet.com/ron/lambda-calculus.html)
+* [2022-09-18, 02:09:54](https://lobste.rs/s/slqdnc/promising_io_uring_spawn_announced) - [Promising io_uring_spawn Announced](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn)
+* [2022-09-18, 00:03:00](https://lobste.rs/s/nsxqvu/why_are_you_being_constructive) - [Why are you being constructive?](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)

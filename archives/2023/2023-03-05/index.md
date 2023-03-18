@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-05](index.md)
+
+* [2023-03-05, 22:28:31](https://lobste.rs/s/tpstyz/safety_soundness_rust) - [Safety and Soundness in Rust](https://jacko.io/safety_and_soundness.html)
+* [2023-03-05, 21:11:45](https://lobste.rs/s/r2jsgh/demystifying_parquet_file_format) - [Demystifying the Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
+* [2023-03-05, 19:03:58](https://lobste.rs/s/3hai7n/least_squares) - [least squares](https://gist.github.com/rain-1/4af9cad7941e5999e44a22e8cd368494)
+* [2023-03-05, 18:44:33](https://lobste.rs/s/ez15qw/dealing_with_key_based_polymorphic_json) - [Dealing with key-based polymorphic JSON in Swift Codables](https://sporks.space/2023/03/05/dealing-with-key-based-polymorphic-json-in-swift-codables/)
+* [2023-03-05, 18:27:53](https://lobste.rs/s/uphsej/scripting_objects_without_trash_day) - [Scripting Objects without Trash Day](https://capitalex.codeberg.page/scripting-languages-without-gcs/)
+* [2023-03-05, 18:15:02](https://lobste.rs/s/qc8py6/stop_using_ridiculously_low_dns_ttls_2019) - [Stop using ridiculously low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/)
+* [2023-03-05, 18:10:06](https://lobste.rs/s/4yufwo/last_breaking_change) - [The Last Breaking Change](https://json-schema.org/blog/posts/the-last-breaking-change)
+* [2023-03-05, 12:53:11](https://lobste.rs/s/jqsnay/much_your_work_will_go_waste) - [Much of Your Work Will Go To Waste](https://solutionspace.blog/2022/05/03/much-of-your-work-will-go-to-waste/)
+* [2023-03-05, 11:59:16](https://lobste.rs/s/zthfec/introducing_runst_handle_desktop) - [Introducing runst: Handle desktop notifications neatly on Linux](https://blog.orhun.dev/introducing-runst/)
+* [2023-03-05, 09:51:57](https://lobste.rs/s/l1tg27/commercially_available_risc_v_silicon) - [Commercially available RISC-V silicon](https://muxup.com/2023q1/commercially-available-risc-v-silicon)
+* [2023-03-05, 07:08:21](https://lobste.rs/s/hny87h/you_don_t_need_build_step) - [You Don't Need a Build Step](https://deno.com/blog/you-dont-need-a-build-step)
+* [2023-03-05, 06:25:41](https://lobste.rs/s/casikf/refurb_weekend_cobalt_raq_2) - [Refurb weekend: Cobalt RaQ 2](https://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html)
+* [2023-03-05, 06:03:11](https://lobste.rs/s/dqdvah/why_am_i_building_new_functional) - [Why am I building a new functional programming language?](https://www.onebigfluke.com/2023/03/a-new-functional-programming-language.html)
+* [2023-03-05, 04:22:11](https://lobste.rs/s/juy1sf/y2038_glibc_utmp_utmpx_on_64bit) - [Y2038, glibc and utmp/utmpx on 64bit architectures](https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/)
+* [2023-03-05, 04:20:16](https://lobste.rs/s/dawalk/diy_linux_kernel_rootkit_detection) - [DIY Linux Kernel Rootkit Detection](https://unfinished.bike/diy-linux-kernel-rootkit-detection)
+* [2023-03-05, 00:59:03](https://lobste.rs/s/nbr9bl/what_s_your_editor_setup) - [What's your editor setup?](https://lobste.rs/s/nbr9bl/what_s_your_editor_setup)
+* [2023-03-05, 00:59:03](https://lobste.rs/s/nbr9bl/what_is_your_editor_setup) - [What is your editor setup?](https://lobste.rs/s/nbr9bl/what_is_your_editor_setup)

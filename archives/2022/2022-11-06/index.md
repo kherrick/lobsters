@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-11-06](index.md)
+
+* [2022-11-06, 23:56:52](https://lobste.rs/s/o9ngkt/5_reasons_why_fortran_is_still_used) - [5 Reasons Why Fortran is Still Used](https://www.matecdev.com/posts/why-fortran-still-used.html)
+* [2022-11-06, 22:11:50](https://lobste.rs/s/wxrsqk/is_social_media_off_topic) - [Is social media off-topic?](https://lobste.rs/s/wxrsqk/is_social_media_off_topic)
+* [2022-11-06, 21:26:07](https://lobste.rs/s/k0e0zh/haskell_python_readability) - [Haskell, Python, and Readability](https://mazzo.li/posts/haskell-readability.html)
+* [2022-11-06, 21:13:16](https://lobste.rs/s/gplfvm/what_blog_about) - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
+* [2022-11-06, 20:56:30](https://lobste.rs/s/gqsigz/vector_text_rendering_unreal_engine) - [Vector text rendering in Unreal Engine](https://sasmaster.medium.com/vector-text-rendering-in-unreal-engine-a222897a3131)
+* [2022-11-06, 20:31:13](https://lobste.rs/s/ouszvj/case_for_go_code_generation_testify) - [A case for Go code generation: testify](https://medium.com/@derfrb/a-case-for-go-code-generation-testify-73a4b0d46cb1)
+* [2022-11-06, 18:22:50](https://lobste.rs/s/bfj2be/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS (2019)](https://tdarb.org/blog/responsive-tables.html)
+* [2022-11-06, 18:21:54](https://lobste.rs/s/ik7ahj/stack_overflow_ceo_on_how_it_became_world_s) - [Stack Overflow CEO on how it became the world's most popular programming site](https://www.zdnet.com/article/stack-overflow-ceo-on-how-it-became-the-worlds-most-popular-programming-site/)
+* [2022-11-06, 18:12:21](https://lobste.rs/s/rp1x4f/three_things_like_about_fediverse) - [Three things to like about the Fediverse](https://twitter.com/marekgibney/status/1589315796383453185)
+* [2022-11-06, 11:09:00](https://lobste.rs/s/hvqgl9/essence_reed_solomon_coding) - [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
+* [2022-11-06, 07:57:38](https://lobste.rs/s/37rlgn/performance_musings) - [Performance Musings](https://blog.broulik.de/2022/11/performance-musings/)
+* [2022-11-06, 07:33:00](https://lobste.rs/s/5tiyiy/running_pinball_game_from_disk_image) - [Running a pinball game from a disk image doesn't make me a pirate](https://oldvcr.blogspot.com/2022/11/running-pinball-game-from-disk-image.html)
+* [2022-11-06, 07:29:30](https://lobste.rs/s/earjf1/janky_twitter_replacement_using_git) - [janky twitter replacement using git](https://github.com/diracdeltas/tweets)
+* [2022-11-06, 07:23:39](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media) - [Are you still active in any social media platforms?](https://lobste.rs/s/wrvq9v/are_you_still_active_any_social_media)
+* [2022-11-06, 06:53:42](https://lobste.rs/s/oykaga/lld_linked_musl_on_powerpc64) - [lld linked musl on PowerPC64](https://maskray.me/blog/2022-11-05-lld-musl-powerpc64)
+* [2022-11-06, 02:12:00](https://lobste.rs/s/2kfjum/peep_lil) - [The Peep of Lil](https://beyondloom.com/blog/peepoflil.html#fnref:1)
+* [2022-11-06, 00:51:28](https://lobste.rs/s/04rrsd/reverse_branch_target_buffer_poisoning) - [Reverse Branch Target Buffer Poisoning](https://cos.ufrj.br/uploadfile/publicacao/3061.pdf)

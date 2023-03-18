@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-12-10](index.md)
+
+* [2022-12-10, 23:53:37](https://lobste.rs/s/lt9sgh/quick_intro_reflexbehaviors_rails) - [Quick intro to ReflexBehaviors, a Rails/Hotwire library](https://www.youtube.com/watch?v=WERDPzOz1sA)
+* [2022-12-10, 22:58:34](https://lobste.rs/s/epzfoh/on_device_webauthn_what_makes_it_hard_do) - [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
+* [2022-12-10, 22:15:55](https://lobste.rs/s/hgt1a2/getting_started_with_tmux) - [Getting started with tmux](https://ittavern.com/getting-started-with-tmux/)
+* [2022-12-10, 20:07:20](https://lobste.rs/s/eip7kw/zero_cost_well_defined_signed_integer) - [Zero-Cost Well-Defined Signed Integer Overflow In C++](https://rentry.co/c955s)
+* [2022-12-10, 13:37:23](https://lobste.rs/s/fusskr/how_can_i_do_opposite_compare_exchange) - [How can I do the opposite of compare_exchange and exchange if the value is different?](https://devblogs.microsoft.com/oldnewthing/20221209-00/?p=107570)
+* [2022-12-10, 12:07:12](https://lobste.rs/s/eaox0x/announcing_tauri_mobile_alpha_release) - [Announcing the Tauri Mobile Alpha Release](https://tauri.app/blog/2022/12/09/tauri-mobile-alpha/)
+* [2022-12-10, 10:18:14](https://lobste.rs/s/k4ea2r/eth_has_published_git_repo_latest_version) - [ETH has published a Git repo of the latest version of Oberon/A2](https://gitlab.inf.ethz.ch/felixf/oberon)
+* [2022-12-10, 08:51:36](https://lobste.rs/s/gtoven/run_your_own_instant_messaging_service_on) - [Run Your Own Instant Messaging Service on FreeBSD](https://xn--gckvb8fzb.com/run-your-own-instant-messaging-service-on-freebsd/)
+* [2022-12-10, 07:53:00](https://lobste.rs/s/i2nuah/select_solution_from_aoc_where_year_2022) - [SELECT solution FROM aoc WHERE year = 2022](https://fnordig.de/2022/12/09/select-solution-from-aoc-where-year-2022/)
+* [2022-12-10, 04:55:08](https://lobste.rs/s/cyoivn/strang_decomposition_cr) - [The Strang Decomposition A = CR](https://www.youtube.com/watch?v=NJKe2MQxa9k)
+* [2022-12-10, 03:50:20](https://lobste.rs/s/ug2dm4/rfc_3339_vs_iso_8601) - [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
+* [2022-12-10, 03:42:06](https://lobste.rs/s/hbnd7k/mimmutable_for_openbsd) - [mimmutable() for OpenBSD](https://lwn.net/SubscriberLink/915640/53bc300d11179c62/)
+* [2022-12-10, 03:39:51](https://lobste.rs/s/2bvc0n/wayland_native_interface_qt_6_5) - [Wayland native interface in Qt 6.5](https://blog.david-redondo.de/qt/kde/2022/12/09/wayland-native-interface.html)
+* [2022-12-10, 03:11:02](https://lobste.rs/s/hzxlnz/postscript_digital_printing_press) - [PostScript: A Digital Printing Press](https://computerhistory.org/blog/postscript-a-digital-printing-press/)
+* [2022-12-10, 00:46:46](https://lobste.rs/s/bfh1c7/code_coverage_for_your_awk_programs) - [Code coverage for your AWK programs](https://benhoyt.com/writings/goawk-coverage/)

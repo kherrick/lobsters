@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-11](index.md)
+
+* [2023-03-11, 22:54:30](https://lobste.rs/s/g7swgc/counterfeit_chip_detection_using) - [Counterfeit Chip Detection using Scattering Parameter Analysis](https://arxiv.org/pdf/2302.11034.pdf)
+* [2023-03-11, 22:48:35](https://lobste.rs/s/6fawiq/wunderbar_story) - [A wunderBAR Story](http://www.os2museum.com/wp/a-wunderbar-story/)
+* [2023-03-11, 22:45:26](https://lobste.rs/s/3ycgfx/hash_tables_ftw) - [Hash Tables FTW](http://www.os2museum.com/wp/hash-tables-ftw/)
+* [2023-03-11, 22:42:29](https://lobste.rs/s/1wiec3/reverse_engineering_register_codes_for) - [Reverse-engineering the register codes for the 8086 processor's microcode](http://www.righto.com/2023/03/8086-register-codes.html)
+* [2023-03-11, 20:25:08](https://lobste.rs/s/bonajo/why_are_there_no_relational_dbmss) - [Why Are There No Relational DBMSs?](https://www.dcs.warwick.ac.uk/~hugh/TTM/Why-Are-There-No-Relational-DBMSs.pdf)
+* [2023-03-11, 19:01:22](https://lobste.rs/s/u5twdx/andromeda_invaders_auto_play_press_enter) - [Andromeda Invaders: Auto Play: Press 'Enter' twice and wait 5 seconds](https://susam.net/invaders.html)
+* [2023-03-11, 18:26:38](https://lobste.rs/s/djlgpd/disambiguating_arm_arm_arm_armv9_arm9) - [Disambiguating Arm, Arm ARM, Armv9, ARM9, ARM64, Aarch64, A64, A78](https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/)
+* [2023-03-11, 17:25:41](https://lobste.rs/s/wmchs3/swapping_memory_compiler_optimizations) - [Swapping memory and compiler optimizations](https://kihlander.net/post/swapping-memory-and-compiler-optimizations/)
+* [2023-03-11, 17:04:02](https://lobste.rs/s/a6m5cy/gc_extension_for_webassembly) - [GC Extension for WebAssembly](https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md)
+* [2023-03-11, 15:33:08](https://lobste.rs/s/zjghwo/weird_websites_as_atomic_matter_internet) - [Weird – Websites as the atomic matter of the internet](https://blog.erlend.sh/weird-web-pages)
+* [2023-03-11, 15:08:11](https://lobste.rs/s/k4z2qf/write_posix_shell) - [write posix shell](https://j3s.sh/thought/write-posix-shell.html)
+* [2023-03-11, 13:22:50](https://lobste.rs/s/o0bwtj/text_saver_browser_extension_save_texts) - [text-saver: A browser extension to save texts anytime, anywhere](https://github.com/jiacai2050/text-saver)
+* [2023-03-11, 09:46:04](https://lobste.rs/s/ugy36a/oldest_privesc_injecting_careless) - [The oldest privesc: injecting careless administrators’ terminals using TTY pushback](https://www.errno.fr/TTYPushback.html)
+* [2023-03-11, 08:03:55](https://lobste.rs/s/ihhp0l/glicol_cli_music_live_coding_your) - [glicol cli: music live coding in your terminal](https://github.com/glicol/glicol-cli)
+* [2023-03-11, 06:54:46](https://lobste.rs/s/ldxlfp/running_llama_7b_on_64gb_m2_macbook_pro) - [Running LLaMA 7B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2)

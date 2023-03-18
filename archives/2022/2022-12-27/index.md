@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-12-27](index.md)
+
+* [2022-12-27, 20:59:26](https://lobste.rs/s/xnv977/lite_xl) - [Lite XL](https://lite-xl.com/)
+* [2022-12-27, 19:50:47](https://lobste.rs/s/n0vbxr/mainlining_nexus_9_first_boot) - [Mainlining Nexus 9: First Boot](https://ansari.sh/posts/mainline-nexus-9-p1/)
+* [2022-12-27, 18:46:22](https://lobste.rs/s/c1takj/experimental_feature_gate_proposal) - [Experimental feature gate proposal `interoperable_abi`](https://github.com/rust-lang/rust/pull/105586)
+* [2022-12-27, 18:44:31](https://lobste.rs/s/l8nbsx/lessons_learnt_from_solving_aoc_one) - [Lessons Learnt From Solving AoC in One Second](https://blog.sulami.xyz/posts/aoc-in-one-second/)
+* [2022-12-27, 16:53:46](https://lobste.rs/s/ryvv2u/2022_slint_ui_toolkit_review) - [2022 Slint UI toolkit in review](https://slint-ui.com/blog/2022-in-review.html)
+* [2022-12-27, 15:06:32](https://lobste.rs/s/fvhfeo/what_s_pr_statement_lastpass_breach) - [What’s in a PR statement: LastPass breach explained](https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/)
+* [2022-12-27, 12:28:37](https://lobste.rs/s/i6h3hh/ntsc_encoding_decoding_c89_using_only) - [NTSC encoding/decoding in C89 using only integers and fixed point math](https://github.com/LMP88959/NTSC-CRT)
+* [2022-12-27, 12:05:49](https://lobste.rs/s/wi75v7/code_coverage_for_goawk) - [Code Coverage for GoAWK](https://maximullaris.com/goawk_cover.html)
+* [2022-12-27, 11:49:22](https://lobste.rs/s/xc5zlx/new_hope_2022_cheri_modern_capability) - [A New HOPE (2022): CHERI: A Modern Capability Architecture](https://www.youtube.com/watch?v=dH7QUdXeVrI)
+* [2022-12-27, 11:36:15](https://lobste.rs/s/0m5odt/fast_memcpy_system_design) - [Fast memcpy, A System Design](https://www.sigarch.org/fast-memcpy-a-system-design/)
+* [2022-12-27, 10:36:22](https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source) - [More use of Rust is inevitable in open source software](https://utcc.utoronto.ca/~cks/space/blog/programming/RustIsInevitable)
+* [2022-12-27, 09:00:38](https://lobste.rs/s/pvkjue/novell_netware_king_returns_from_dead) - [Novell NetWare: The King Returns from the Dead](http://web.archive.org/web/20200217014004/https://www.aaxnet.com/design/novell.html)
+* [2022-12-27, 08:24:25](https://lobste.rs/s/mrtxtc/from_resource_forks_quarantine_resedit) - [From resource forks to quarantine, ResEdit to Gatekeeper](https://eclecticlight.co/2022/12/27/from-resource-forks-to-quarantine-resedit-to-gatekeeper/)
+* [2022-12-27, 08:24:11](https://lobste.rs/s/1eu7yy/what_s_deal_with_cisco_devices_file_output) - [What’s the deal with Cisco devices in `file` output, anyway?](https://catfox.life/2022/12/27/whats-the-deal-with-cisco-devices-in-file-output-anyway/)
+* [2022-12-27, 07:22:04](https://lobste.rs/s/2ghxua/guide_terminal_console_shell) - [A Guide to the Terminal, Console, and Shell](https://thevaluable.dev/guide-terminal-shell-console/)
+* [2022-12-27, 01:40:04](https://lobste.rs/s/ktowsh/lichen) - [Lichen](https://lichen.sensorstation.co/)
+* [2022-12-27, 00:48:19](https://lobste.rs/s/xbvuzh/unintentionally_breaking_serial) - [Unintentionally BREAKing a serial console](http://rachelbythebay.com/w/2022/12/25/tty/)

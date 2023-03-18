@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-02-18](index.md)
+
+* [2023-02-18, 23:37:25](https://lobste.rs/s/vup8ro/beautiful_binary_search_d) - [Beautiful Binary Search in D](https://muscar.eu/shar-binary-search-meta.html)
+* [2023-02-18, 22:16:45](https://lobste.rs/s/bldkt4/rust_performance_book) - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+* [2023-02-18, 22:12:23](https://lobste.rs/s/ycvktu/sips_scriptable_image_processing_system) - [sips: Scriptable image processing system](https://til.simonwillison.net/macos/sips)
+* [2023-02-18, 21:01:29](https://lobste.rs/s/vohtyr/on_prompt_engineering) - [On Prompt Engineering](https://benjamincongdon.me/blog/2023/02/18/On-Prompt-Engineering/)
+* [2023-02-18, 19:30:30](https://lobste.rs/s/nd2xad/poor_schemas_poor_cataloguing_why_music) - [Poor schemas, poor cataloguing: why music tagging sucks](https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/)
+* [2023-02-18, 19:13:59](https://lobste.rs/s/cnz9ca/is_parallel_programming_hard_if_so_what) - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [2023-02-18, 18:13:28](https://lobste.rs/s/bpezdj/incremental_approach_compiler) - [An incremental approach to compiler construction](https://github.com/namin/inc)
+* [2023-02-18, 17:55:20](https://lobste.rs/s/v0makq/low_level_software_security_for_compiler) - [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
+* [2023-02-18, 16:43:14](https://lobste.rs/s/miuv2k/c_rusted_advantages_rust_c_without) - [C-rusted: The Advantages of Rust, in C, without the Disadvantages](https://arxiv.org/abs/2302.05331)
+* [2023-02-18, 16:02:24](https://lobste.rs/s/zpjva5/this_is_not_drill_this_is_just_tuesday) - [This is not a Drill, this is just Tuesday](https://blog.koehntopp.info/2023/02/18/this-is-not-a-drill.html)
+* [2023-02-18, 13:56:55](https://lobste.rs/s/zrb6vm/i_learned_7_different_programming) - [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html)
+* [2023-02-18, 12:27:54](https://lobste.rs/s/7q5o5j/foss_communities_you_don_t_need_yell) - [FOSS communities: You don’t need to yell](https://www.akselmo.dev/2023/02/17/You-dont-need-to-yell.html)
+* [2023-02-18, 09:22:58](https://lobste.rs/s/zghj5g/pc_face_bitmap_arrays_for_rendering_cp437) - [PC Face: Bitmap arrays for rendering CP437 glyphs using IBM PC OEM fonts](https://github.com/susam/pcface)
+* [2023-02-18, 04:30:15](https://lobste.rs/s/gcvfl7/what_utilities_should_be_standard_part) - [What utilities should be a standard part of a distro and why?](https://exple.tive.org/blarg/2023/02/17/modern-problems-require-modern-solutions/)
+* [2023-02-18, 00:13:18](https://lobste.rs/s/xcjva5/readline_crime_exploiting_suid_logic_bug) - [Readline crime: exploiting a SUID logic bug](https://blog.trailofbits.com/2023/02/16/suid-logic-bug-linux-readline/)

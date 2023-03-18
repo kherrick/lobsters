@@ -1,0 +1,21 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-04](index.md)
+
+* [2023-03-04, 18:57:38](https://lobste.rs/s/lafnuo/reverse_engineering_electronics_globus) - [Reverse-engineering the electronics in the Globus analog navigational computer](http://www.righto.com/2023/03/reverse-engineering-electronics-in.html)
+* [2023-03-04, 18:18:10](https://lobste.rs/s/390q59/testing_multiple_python_versions_with) - [Testing multiple Python versions with nox and pyenv](https://sethmlarson.dev/nox-pyenv-all-python-versions)
+* [2023-03-04, 15:44:33](https://lobste.rs/s/ty647f/some_notes_on_openbsd_7_2_on_thinkpad_x201) - [Some notes on OpenBSD 7.2 on a Thinkpad X201](https://box.matto.nl/some-notes-on-openbsd-72-on-a-thinkpad-x201.html)
+* [2023-03-04, 15:32:54](https://lobste.rs/s/7ymtcj/how_c64_keyboard_works) - [How the C64 Keyboard Works](https://c64os.com/post/howthekeyboardworks)
+* [2023-03-04, 15:30:40](https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment) - [Be Careful Using tmux and Environment Variables](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/)
+* [2023-03-04, 15:17:07](https://lobste.rs/s/ickp7s/artificial_neurons_considered_harmful) - [Artificial neurons considered harmful](https://betterwithout.ai/artificial-neurons-considered-harmful)
+* [2023-03-04, 14:08:55](https://lobste.rs/s/ebl3mv/scratch_minimal_org_mode_scratch_area_for) - [*scratch* – A minimal org mode scratch area for iOS](https://apps.apple.com/us/app/scratch/id1671420139)
+* [2023-03-04, 11:48:03](https://lobste.rs/s/l3xdnr/intro_content_defined_chunking) - [Intro to Content Defined Chunking](https://joshleeb.com/posts/content-defined-chunking.html)
+* [2023-03-04, 11:19:45](https://lobste.rs/s/hcrpgr/what_microservices_can_learn_from_react) - [What microservices can learn from React.js](https://archaeologist.dev/artifacts/coupling)
+* [2023-03-04, 11:05:20](https://lobste.rs/s/1l8jkz/containers_vs_pods_taking_deeper_look) - [Containers vs. Pods - Taking a Deeper Look](https://iximiuz.com/en/posts/containers-vs-pods/)
+* [2023-03-04, 11:00:17](https://lobste.rs/s/homhrt/phoenix_1_7_0_released_built_tailwind) - [Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next](https://phoenixframework.org/blog/phoenix-1.7-final-released)
+* [2023-03-04, 08:48:33](https://lobste.rs/s/sj4nzy/please_don_t_flashbang_me) - [Please don't flashbang me](https://github.com/npmaile/blog/blob/main/posts/flashbang.md)
+* [2023-03-04, 07:36:23](https://lobste.rs/s/6y0xqj/x86_simd_sort_c_header_file_library_for) - [x86-simd-sort: C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes](https://github.com/intel/x86-simd-sort)
+* [2023-03-04, 06:56:05](https://lobste.rs/s/maxoxi/crunching_numbers_with_avx_avx2) - [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
+* [2023-03-04, 00:58:26](https://lobste.rs/s/lmjthx/could_we_make_web_more_immersive_using) - [Could we make the web more immersive using a simple optical illusion?](https://shopify.github.io/spatial-commerce-projects/WonkaVision/)

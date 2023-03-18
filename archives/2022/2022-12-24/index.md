@@ -1,0 +1,20 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2022](../index.md)
+
+### [Archives](../../index.md) for [2022-12-24](index.md)
+
+* [2022-12-24, 21:28:03](https://lobste.rs/s/q6qy6r/open_source_grindset_explained) - [Open Source Grindset Explained](https://blog.orhun.dev/open-source-grindset/)
+* [2022-12-24, 20:12:28](https://lobste.rs/s/l62nyu/improving_language_model_behavior_by) - [Improving Language Model Behavior by Training on a Curated Dataset](https://openai.com/blog/improving-language-model-behavior/)
+* [2022-12-24, 18:15:20](https://lobste.rs/s/myhybl/win16_retro_development) - [Win16 Retro Development](https://www.os2museum.com/wp/win16-retro-development/)
+* [2022-12-24, 16:55:43](https://lobste.rs/s/j9ojvy/google_privacy_policy_updated_recognize) - [Google Privacy Policy updated to recognize Virginia Consumer Data Protection Act (VCDPA)](https://deagle.cloud/versions/3207066f-6b3f-4142-8142-154f58b4f8b9)
+* [2022-12-24, 16:43:39](https://lobste.rs/s/iyxogf/automatic_plotloop_machine) - [The Automatic #plotloop Machine](https://bylr.info/articles/2022/12/22/automatic-plotloop-machine/)
+* [2022-12-24, 15:35:52](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+* [2022-12-24, 15:35:45](https://lobste.rs/s/lwgftq/smallest_inter_frame_gap_fast_ethernet) - [The smallest inter-frame gap in Fast Ethernet](https://blog.trends.tf/the-smallest-inter-frame-gap-in-fast-ethernet.html)
+* [2022-12-24, 15:32:28](https://lobste.rs/s/aamjm7/setting_up_my_new_laptop_nix_style) - [Setting up my new laptop: nix style](https://bmcgee.ie/posts/2022/12/setting-up-my-new-laptop-nix-style/)
+* [2022-12-24, 10:26:44](https://lobste.rs/s/z4ggwb/meson_1_0_0) - [Meson 1.0.0](https://mesonbuild.com/Release-notes-for-1-0-0.html)
+* [2022-12-24, 05:49:06](https://lobste.rs/s/rnm9zm/news_for_ruby_3_2_0) - [News for Ruby 3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
+* [2022-12-24, 02:45:48](https://lobste.rs/s/xpgorl/end_programming) - [The End of Programming](https://m-cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
+* [2022-12-24, 02:01:41](https://lobste.rs/s/ls6yfc/let_s_build_browser_engine) - [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+* [2022-12-24, 01:17:22](https://lobste.rs/s/hkpovb/wasm_runtime_is_included_fedora_37_rhel_9) - [The Wasm runtime is included in Fedora 37 and RHEL 9 is CNCF's WasmEdge](https://www.redhat.com/en/blog/red-hat-and-webassembly)
+* [2022-12-24, 00:34:01](https://lobste.rs/s/owxohc/wpa3_no_go_on_raspberry_pi_plus_some_mac) - [WPA3: no go on Raspberry Pi (plus some Mac gotchas)](https://rachelbythebay.com/w/2022/12/22/wpa3/)

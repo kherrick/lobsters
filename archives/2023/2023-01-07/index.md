@@ -1,0 +1,23 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-01-07](index.md)
+
+* [2023-01-07, 22:40:31](https://lobste.rs/s/ywqxnr/type_safe_react_query) - [Type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
+* [2023-01-07, 21:40:13](https://lobste.rs/s/svlkkr/reflections_on_testing_without_mocks) - [Reflections on \"Testing Without Mocks\"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
+* [2023-01-07, 18:47:53](https://lobste.rs/s/umatgz/production_twitter_on_one_machine) - [Production Twitter on One Machine: 100Gbps NICs and NVMe are fast](https://thume.ca/2023/01/02/one-machine-twitter/)
+* [2023-01-07, 18:19:37](https://lobste.rs/s/mcvrlm/verifiable_aes_encryption_using_zero) - [Verifiable AES: encryption using zero-knowledge proofs](https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/)
+* [2023-01-07, 16:03:09](https://lobste.rs/s/pza2fr/sqld_is_server_mode_for_libsql) - [sqld is a server mode for libSQL](https://github.com/libsql/sqld)
+* [2023-01-07, 15:51:39](https://lobste.rs/s/a2oq9h/i_feel_for_netbsd_community) - [I feel for the NetBSD community](https://rubenerd.com/i-feel-for-the-netbsd-community/)
+* [2023-01-07, 14:14:56](https://lobste.rs/s/3nowoc/filesystem_hierarchy_standard_comes) - [The Filesystem Hierarchy Standard Comes to Guix Containers](https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/)
+* [2023-01-07, 14:01:30](https://lobste.rs/s/nmhcye/connmap_now_works_with_all_de_wm_desktop) - [connmap now works with all DE/WM! Desktop widget that shows your TCP peers on world map](https://github.com/jafarlihi/connmap)
+* [2023-01-07, 11:53:41](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml) - [“RSS” feed without separate XML?](https://lobste.rs/s/d5nlru/rss_feed_without_separate_xml)
+* [2023-01-07, 08:26:25](https://lobste.rs/s/pl7kmc/databases_2022_year_review) - [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
+* [2023-01-07, 08:05:55](https://lobste.rs/s/sw42nv/maclynx_beta_4_now_with_scrollbars) - [MacLynx beta 4: now with scrollbars and dialogue boxes](http://oldvcr.blogspot.com/2023/01/maclynx-beta-4-now-with-scrollbars-and.html)
+* [2023-01-07, 07:49:42](https://lobste.rs/s/rxsnhz/memoirs_from_old_web_gatekeeper_access) - [Memoirs from the old web: The GateKeeper access control system](https://www.devever.net/~hl/gatekeeper)
+* [2023-01-07, 07:31:10](https://lobste.rs/s/px1fli/faster_general_parsing_through_context) - [Faster general parsing through context-free memoization (PLDI 2020)](https://dl.acm.org/doi/abs/10.1145/3385412.3386032)
+* [2023-01-07, 07:01:33](https://lobste.rs/s/rqzikj/brief_defense_xml) - [A Brief Defense of XML](https://borretti.me/article/brief-defense-of-xml)
+* [2023-01-07, 07:00:31](https://lobste.rs/s/dm1x9i/please_stop_using_win32_product_find) - [Please Stop Using Win32_Product To Find Installed Software](https://xkln.net/blog/please-stop-using-win32product-to-find-installed-software-alternatives-inside/)
+* [2023-01-07, 06:16:18](https://lobste.rs/s/j79scv/year_writing_about_web_scraping_review) - [A Year of Writing about Web Scraping in Review](https://scrapecrow.com/year-of-writing-in-review.html)
+* [2023-01-07, 00:10:39](https://lobste.rs/s/zesdh1/chacha20_encryption_performance_on_dec) - [ChaCha20 Encryption Performance on DEC PDP-11 (2021)](https://niconiconi.neocities.org/posts/chacha20-performance-on-pdp-11/)
