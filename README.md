@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 * [2023-03-18, 18:58:14](https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future) - [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
@@ -21,7 +22,6 @@
 * [2023-03-17, 22:09:54](https://lobste.rs/s/erkufr/bringing_rust_xen_project) - [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 * [2023-03-17, 17:47:19](https://lobste.rs/s/7wwjl6/writing_json_custom_output_zig) - [Writing JSON to a custom output in Zig](https://www.openmymind.net/Writing-Json-To-A-Custom-Output-in-Zig/)
 * [2023-03-17, 16:53:20](https://lobste.rs/s/rxb1mp/day_simple_daily_todo_checklist_for_mac) - [To-Day — Simple daily todo checklist for Mac](https://troz.net/post/2023/to-day/)
-* [2023-03-17, 16:23:26](https://lobste.rs/s/zyhnm7/comprehensive_guide_structured_logging) - [A Comprehensive Guide to Structured Logging in Go](https://betterstack.com/community/guides/logging/logging-in-go/)
 * [2023-03-17, 10:16:21](https://lobste.rs/s/u93z93/sidescrolling_flight_simulator) - [Sidescrolling Flight Simulator](https://two-wrongs.com/sidescrolling-flight-simulator)
 * [2023-03-17, 08:14:43](https://lobste.rs/s/1i1orh/something_pretty_right_history_visual) - [Something Pretty Right: A History of Visual Basic](https://retool.com/visual-basic/)
 * [2023-03-17, 06:39:59](https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding) - [Oil 0.14.2 - Interactive Shell, and Conceding to autoconf](http://www.oilshell.org/blog/2023/03/release-0.14.2.html)
