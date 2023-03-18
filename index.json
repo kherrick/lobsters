@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-18, 02:44:13",
+      "https://lobste.rs/s/r2jykm/one_exploit_rule_them_all_on_security_drop"
+    ],
+    [
+      "One Exploit to Rule them All? On the Security of Drop-in Replacement & Counterfeit Microcontrollers",
+      "https://www.usenix.org/system/files/woot20-paper-obermaier.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-03-18, 02:18:07",
+      "https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd"
+    ],
+    [
+      "How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery",
+      "https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 01:13:02",
       "https://lobste.rs/s/e5tbcc/interapocalypse_lee_hughes"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-03-17, 07:44:19",
-      "https://lobste.rs/s/olzrck/what_s_happening_with_growth_bgp"
-    ],
-    [
-      "What’s happening with growth in BGP?",
-      "https://blog.apnic.net/2023/02/16/podcast-whats-happening-with-growth-in-bgp/"
-    ]
-  ],
-  [
-    [
       "2023-03-17, 06:39:59",
       "https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust's Two Kinds of 'Assert' Make for Better Code",
       "https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 08:21:44",
-      "https://lobste.rs/s/engsgy/portable_rusage_command"
-    ],
-    [
-      "Portable Rusage Command",
-      "https://justine.lol/rusage/"
     ]
   ]
 ]
