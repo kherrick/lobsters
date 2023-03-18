@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-03-18, 01:03:11",
+      "https://lobste.rs/s/xvlhav/typescripting_technical_interview"
+    ],
+    [
+      "Typescripting the technical interview",
+      "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
+    ]
+  ],
+  [
+    [
       "2023-03-17, 22:09:54",
       "https://lobste.rs/s/erkufr/bringing_rust_xen_project"
     ],
@@ -217,16 +227,6 @@
     [
       "Oil 0.14.2 - Interactive Shell, and Conceding to autoconf",
       "http://www.oilshell.org/blog/2023/03/release-0.14.2.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-17, 00:48:49",
-      "https://lobste.rs/s/b7kvn3/announcing_typescript_5_0"
-    ],
-    [
-      "Announcing TypeScript 5.0",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/"
     ]
   ],
   [
