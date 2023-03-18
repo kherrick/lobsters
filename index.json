@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-18, 15:34:58",
+      "https://lobste.rs/s/iug50z/go_slow_move_fast"
+    ],
+    [
+      "Go slow to move fast",
+      "https://jordankaye.dev/posts/go-slow-move-fast/"
+    ]
+  ],
+  [
+    [
       "2023-03-18, 15:26:03",
       "https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding"
     ],
@@ -237,16 +247,6 @@
     [
       "\"...an audiophile forum started debating which versions of memcpy had the highest sound quality\"",
       "https://discuss.systems/@dan/110008052977994607"
-    ]
-  ],
-  [
-    [
-      "2023-03-16, 14:21:14",
-      "https://lobste.rs/s/w30ijz/rust_s_two_kinds_assert_make_for_better"
-    ],
-    [
-      "Rust's Two Kinds of 'Assert' Make for Better Code",
-      "https://tratt.net/laurie/blog/2023/rusts_two_kinds_of_assert_make_for_better_code.html"
     ]
   ]
 ]
