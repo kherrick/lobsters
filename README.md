@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 09:28:42](https://lobste.rs/s/bjgdjw/announcing_sniffnet_v1_1_2) - [Announcing Sniffnet v1.1.2](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.2)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-19, 02:41:34](https://lobste.rs/s/qcu7fc/what_s_new_for_risc_v_llvm_16) - [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
@@ -18,7 +19,6 @@
 * [2023-03-18, 13:01:10](https://lobste.rs/s/ha7kwe/20_years_nix) - [20 Years of Nix](https://20th.nixos.org/)
 * [2023-03-18, 11:52:56](https://lobste.rs/s/wx3zu2/plato_how_educational_computer_system) - [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
-* [2023-03-18, 10:27:49](https://lobste.rs/s/knsaqx/learning_structural_descriptions_from) - [Learning Structural Descriptions from Examples (1970)](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y)
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 * [2023-03-18, 01:03:11](https://lobste.rs/s/xvlhav/typescripting_technical_interview) - [Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)
