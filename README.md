@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 19:56:00](https://lobste.rs/s/9g5wao/image_codec_comparison_jxl_vs_avif_vs_webp) - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG)](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-19, 16:23:04](https://lobste.rs/s/v9feuz/mnist_digit_classification) - [MNIST digit classification](https://gist.github.com/rain-1/5f3efd6bf49f4b0d1a5a466d3ecde568)
 * [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
 * [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
@@ -24,7 +25,6 @@
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
-* [2023-03-17, 22:09:54](https://lobste.rs/s/erkufr/bringing_rust_xen_project) - [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 
 ## [Archives](archives/index.md)
 
