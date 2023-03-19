@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-19, 02:41:34](https://lobste.rs/s/qcu7fc/what_s_new_for_risc_v_llvm_16) - [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 * [2023-03-19, 00:39:59](https://lobste.rs/s/z8jvxc/building_distributing_macos) - [Building And Distributing A macOS Application Written in Python](https://blog.glyph.im/2023/03/py-mac-app-for-real.html)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
@@ -19,7 +20,6 @@
 * [2023-03-18, 10:27:49](https://lobste.rs/s/knsaqx/learning_structural_descriptions_from) - [Learning Structural Descriptions from Examples (1970)](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y)
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
-* [2023-03-18, 01:13:02](https://lobste.rs/s/e5tbcc/interapocalypse_lee_hughes) - [InterApocalypse  - Lee Hughes](https://youtube.com/watch?v=x2i9_iQOp08)
 * [2023-03-18, 01:03:11](https://lobste.rs/s/xvlhav/typescripting_technical_interview) - [Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)
 * [2023-03-17, 22:09:54](https://lobste.rs/s/erkufr/bringing_rust_xen_project) - [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 * [2023-03-17, 10:16:21](https://lobste.rs/s/u93z93/sidescrolling_flight_simulator) - [Sidescrolling Flight Simulator](https://two-wrongs.com/sidescrolling-flight-simulator)
