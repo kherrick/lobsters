@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 02:41:34](https://lobste.rs/s/qcu7fc/what_s_new_for_risc_v_llvm_16) - [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 * [2023-03-19, 00:39:59](https://lobste.rs/s/z8jvxc/building_distributing_macos) - [Building And Distributing A macOS Application Written in Python](https://blog.glyph.im/2023/03/py-mac-app-for-real.html)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
@@ -15,7 +16,6 @@
 * [2023-03-18, 13:01:10](https://lobste.rs/s/ha7kwe/20_years_nix) - [20 Years of Nix](https://20th.nixos.org/)
 * [2023-03-18, 11:52:56](https://lobste.rs/s/wx3zu2/plato_how_educational_computer_system) - [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
-* [2023-03-18, 10:27:49](https://lobste.rs/s/knsaqx/learning_structural_descriptions_from) - [Learning Structural Descriptions from Examples (1970)](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y)
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 * [2023-03-18, 01:13:02](https://lobste.rs/s/e5tbcc/interapocalypse_lee_hughes) - [InterApocalypse  - Lee Hughes](https://youtube.com/watch?v=x2i9_iQOp08)
