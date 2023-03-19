@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 16:23:04](https://lobste.rs/s/v9feuz/mnist_digit_classification) - [MNIST digit classification](https://gist.github.com/rain-1/5f3efd6bf49f4b0d1a5a466d3ecde568)
+* [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
 * [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-19, 10:58:50](https://lobste.rs/s/8eiogg/altair_8800_loading_4k_basic_with) - [Altair 8800 - Loading 4K BASIC with a Teletype (2013)](https://www.youtube.com/watch?v=qv5b1Xowxdk)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
@@ -12,7 +14,6 @@
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 * [2023-03-18, 18:58:14](https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future) - [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
 * [2023-03-18, 16:25:57](https://lobste.rs/s/sckuxa/teaching_language_models_support) - [Teaching language models to support answers with verified quotes](https://storage.googleapis.com/deepmind-media/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes.pdf)
-* [2023-03-18, 15:40:51](https://lobste.rs/s/unnmab/illustrating_reinforcement_learning) - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 * [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 15:26:03](https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 15:05:54](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist) - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
@@ -24,7 +25,6 @@
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 * [2023-03-17, 22:09:54](https://lobste.rs/s/erkufr/bringing_rust_xen_project) - [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
-* [2023-03-17, 06:39:59](https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding) - [Oil 0.14.2 - Interactive Shell, and Conceding to autoconf](http://www.oilshell.org/blog/2023/03/release-0.14.2.html)
 
 ## [Archives](archives/index.md)
 
