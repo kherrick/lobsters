@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
 * [2023-03-19, 19:56:00](https://lobste.rs/s/9g5wao/image_codec_comparison_jxl_vs_avif_vs_webp) - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG)](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-19, 16:23:04](https://lobste.rs/s/v9feuz/mnist_digit_classification) - [MNIST digit classification](https://gist.github.com/rain-1/5f3efd6bf49f4b0d1a5a466d3ecde568)
 * [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)

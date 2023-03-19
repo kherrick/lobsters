@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
 * [2023-03-19, 19:56:00](https://lobste.rs/s/9g5wao/image_codec_comparison_jxl_vs_avif_vs_webp) - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG)](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-19, 16:23:04](https://lobste.rs/s/v9feuz/mnist_digit_classification) - [MNIST digit classification](https://gist.github.com/rain-1/5f3efd6bf49f4b0d1a5a466d3ecde568)
 * [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
@@ -14,7 +15,6 @@
 * [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 * [2023-03-18, 18:58:14](https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future) - [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
-* [2023-03-18, 16:25:57](https://lobste.rs/s/sckuxa/teaching_language_models_support) - [Teaching language models to support answers with verified quotes](https://storage.googleapis.com/deepmind-media/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes/Teaching%20language%20models%20to%20support%20answers%20with%20verified%20quotes.pdf)
 * [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 15:26:03](https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 15:05:54](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist) - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
