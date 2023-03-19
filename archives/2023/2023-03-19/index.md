@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-19](index.md)
 
+* [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-19, 10:58:50](https://lobste.rs/s/8eiogg/altair_8800_loading_4k_basic_with) - [Altair 8800 - Loading 4K BASIC with a Teletype (2013)](https://www.youtube.com/watch?v=qv5b1Xowxdk)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 09:28:42](https://lobste.rs/s/bjgdjw/announcing_sniffnet_v1_1_2) - [Announcing Sniffnet v1.1.2](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.2)
