@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-19, 10:58:50](https://lobste.rs/s/8eiogg/altair_8800_loading_4k_basic_with) - [Altair 8800 - Loading 4K BASIC with a Teletype (2013)](https://www.youtube.com/watch?v=qv5b1Xowxdk)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 09:28:42](https://lobste.rs/s/bjgdjw/announcing_sniffnet_v1_1_2) - [Announcing Sniffnet v1.1.2](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.2)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
@@ -21,7 +22,6 @@
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 * [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
 * [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
-* [2023-03-18, 01:03:11](https://lobste.rs/s/xvlhav/typescripting_technical_interview) - [Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)
 * [2023-03-17, 22:09:54](https://lobste.rs/s/erkufr/bringing_rust_xen_project) - [Bringing Rust to the Xen Project](https://xcp-ng.org/blog/2023/03/17/bringing-rust-to-the-xen-project/)
 * [2023-03-17, 08:14:43](https://lobste.rs/s/1i1orh/something_pretty_right_history_visual) - [Something Pretty Right: A History of Visual Basic](https://retool.com/visual-basic/)
 * [2023-03-17, 06:39:59](https://lobste.rs/s/qrbcue/oil_0_14_2_interactive_shell_conceding) - [Oil 0.14.2 - Interactive Shell, and Conceding to autoconf](http://www.oilshell.org/blog/2023/03/release-0.14.2.html)
