@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
+* [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
 * [2023-03-20, 12:29:21](https://lobste.rs/s/r2kcet/offensive_ai_compilation) - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 * [2023-03-20, 11:56:22](https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise) - [cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed](https://github.com/alopatindev/cargo-limit)
 * [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
@@ -23,8 +25,6 @@
 * [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
-* [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
-* [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 
 ## [Archives](archives/index.md)
 

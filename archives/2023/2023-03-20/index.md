@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
+* [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
 * [2023-03-20, 12:29:21](https://lobste.rs/s/r2kcet/offensive_ai_compilation) - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 * [2023-03-20, 11:56:22](https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise) - [cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed](https://github.com/alopatindev/cargo-limit)
 * [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
