@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 16:40:58",
+      "https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem"
+    ],
+    [
+      "A deep dive into logging ecosystem",
+      "https://www.parseable.io/blog/log-ecosystem-overview"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 16:18:55",
       "https://lobste.rs/s/f7kpnr/3_layers_frontend_unstyled_primitives"
     ],
@@ -147,16 +157,6 @@
     [
       "Why We Added package.json Support to Deno",
       "https://deno.com/blog/package-json-support"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 06:25:05",
-      "https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed"
-    ],
-    [
-      "Proof Engineering Survey Paper: Q(ED) & A",
-      "https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/"
     ]
   ],
   [
