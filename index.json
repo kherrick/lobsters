@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 19:07:19",
+      "https://lobste.rs/s/ll7j3i/update_on_arc_s_recent_eval_efforts"
+    ],
+    [
+      "Update on ARC's recent eval efforts",
+      "https://evals.alignment.org/blog/2023-03-18-update-on-recent-evals/"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 17:28:08",
       "https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only"
     ],
@@ -237,16 +247,6 @@
     [
       "Why people misuse inheritance",
       "https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 08:24:32",
-      "https://lobste.rs/s/sxnuos/world_s_first_video_56_transition"
-    ],
-    [
-      "World's first video of 56  transition controls for a triple inverted pendulum",
-      "https://www.youtube.com/watch?v=I5GvwWKkBmg"
     ]
   ]
 ]
