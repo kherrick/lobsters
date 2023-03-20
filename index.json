@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 12:29:21",
+      "https://lobste.rs/s/r2kcet/offensive_ai_compilation"
+    ],
+    [
+      "Offensive AI Compilation",
+      "https://github.com/jiep/offensive-ai-compilation"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 11:56:22",
       "https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise"
     ],
@@ -227,16 +237,6 @@
     [
       "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)",
       "https://dl.acm.org/doi/pdf/10.1145/3442188.3445922"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 15:34:58",
-      "https://lobste.rs/s/iug50z/go_slow_move_fast"
-    ],
-    [
-      "Go slow to move fast",
-      "https://jordankaye.dev/posts/go-slow-move-fast/"
     ]
   ],
   [
