@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-03-20, 19:07:19](https://lobste.rs/s/ll7j3i/update_on_arc_s_recent_eval_efforts) - [Update on ARC's recent eval efforts](https://evals.alignment.org/blog/2023-03-18-update-on-recent-evals/)
+* [2023-03-20, 21:06:19](https://lobste.rs/s/dgnbim/notes_on_ffts_for_users) - [Notes on FFTs: for users](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-users/)
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
 * [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
 * [2023-03-20, 16:40:58](https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem) - [A deep dive into logging ecosystem](https://www.parseable.io/blog/log-ecosystem-overview)
