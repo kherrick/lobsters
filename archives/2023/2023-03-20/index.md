@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 11:17:28](https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march) - [Betraying vim for the IDEs of March](https://ntietz.com/blog/betraying-vim-ides-of-march/)
 * [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:45:25](https://lobste.rs/s/9jxrhk/algorithms_for_decision_making) - [Algorithms for Decision Making](https://algorithmsbook.com/)

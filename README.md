@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 11:17:28](https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march) - [Betraying vim for the IDEs of March](https://ntietz.com/blog/betraying-vim-ides-of-march/)
 * [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:45:25](https://lobste.rs/s/9jxrhk/algorithms_for_decision_making) - [Algorithms for Decision Making](https://algorithmsbook.com/)
@@ -21,7 +22,6 @@
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
-* [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 * [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
