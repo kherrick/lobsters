@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-03-20, 01:08:33",
+      "https://lobste.rs/s/nfc9ga/matthew_croughan_what_nix_can_do_scale20x"
+    ],
+    [
+      "Matthew Croughan - What Nix Can Do - SCaLE20x",
+      "https://youtu.be/6Le0IbPRzOE"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 00:47:40",
+      "https://lobste.rs/s/rgary1/jairam_s_blog_latency_showdown_aws_lambda"
+    ],
+    [
+      "Jairam's Blog | Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions",
+      "https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/"
+    ]
+  ],
+  [
+    [
       "2023-03-19, 22:05:52",
       "https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls"
     ],
     [
-      "nix-init Generate Nix packages from URLs with dependency inference, hash prefetching, and more",
+      "nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more",
       "https://github.com/nix-community/nix-init"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-03-18, 18:58:14",
-      "https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future"
-    ],
-    [
-      "The Command Line Is the GUI's Future",
-      "http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/"
-    ]
-  ],
-  [
-    [
       "2023-03-18, 15:34:58",
       "https://lobste.rs/s/iug50z/go_slow_move_fast"
     ],
@@ -187,16 +197,6 @@
     [
       "Python and SLSA",
       "https://sethmlarson.dev/python-and-slsa"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 14:43:03",
-      "https://lobste.rs/s/51tdtu/github_archive"
-    ],
-    [
-      "Github Archive",
-      "https://www.gharchive.org/"
     ]
   ],
   [
