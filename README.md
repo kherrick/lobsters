@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 * [2023-03-20, 15:35:36](https://lobste.rs/s/nqzuqt/asi_certification_exam_2010) - [ASI Certification Exam (2010)](http://asi.qfox.nl/)
 * [2023-03-20, 13:19:19](https://lobste.rs/s/37qez8/rpc_vs_tcp_redux) - [RPC vs TCP (Redux)](https://systemsapproach.substack.com/p/rpc-vs-tcp-redux)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
@@ -12,7 +13,6 @@
 * [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:45:25](https://lobste.rs/s/9jxrhk/algorithms_for_decision_making) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
-* [2023-03-20, 08:30:19](https://lobste.rs/s/vikqcx/bnf_was_here_what_have_we_done_about) - [BNF Was Here: What Have We Done About the Unnecessary Diversity of Notation for Syntactic Definition](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:25:05](https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed) - [Proof Engineering Survey Paper: Q(ED) & A](https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)
