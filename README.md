@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 19:07:19](https://lobste.rs/s/ll7j3i/update_on_arc_s_recent_eval_efforts) - [Update on ARC's recent eval efforts](https://evals.alignment.org/blog/2023-03-18-update-on-recent-evals/)
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
 * [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
 * [2023-03-20, 16:40:58](https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem) - [A deep dive into logging ecosystem](https://www.parseable.io/blog/log-ecosystem-overview)
@@ -24,7 +25,6 @@
 * [2023-03-20, 00:47:40](https://lobste.rs/s/rgary1/latency_showdown_aws_lambda_vs_azure) - [Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions](https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/)
 * [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
 * [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
-* [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 
 ## [Archives](archives/index.md)
 
