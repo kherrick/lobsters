@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 15:35:36](https://lobste.rs/s/nqzuqt/asi_certification_exam_2010) - [ASI Certification Exam (2010)](http://asi.qfox.nl/)
 * [2023-03-20, 13:19:19](https://lobste.rs/s/37qez8/rpc_vs_tcp_redux) - [RPC vs TCP (Redux)](https://systemsapproach.substack.com/p/rpc-vs-tcp-redux)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
 * [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
@@ -22,7 +23,6 @@
 * [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
 * [2023-03-19, 19:56:00](https://lobste.rs/s/9g5wao/image_codec_comparison_jxl_vs_avif_vs_webp) - [Image Codec Comparison (JXL vs. AVIF vs. WebP vs. JPG)](https://giannirosato.com/blog/post/image-comparison/)
 * [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
-* [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 
