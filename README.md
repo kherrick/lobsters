@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 09:45:25](https://lobste.rs/s/9jxrhk/algorithms_for_decision_making) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 08:30:19](https://lobste.rs/s/vikqcx/bnf_was_here_what_have_we_done_about) - [BNF Was Here: What Have We Done About the Unnecessary Diversity of Notation for Syntactic Definition](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
@@ -16,7 +17,6 @@
 * [2023-03-19, 13:09:02](https://lobste.rs/s/4sojfc/llvm_16_0_0_release) - [LLVM 16.0.0 Release](https://discourse.llvm.org/t/llvm-16-0-0-release/69326)
 * [2023-03-19, 10:58:50](https://lobste.rs/s/8eiogg/altair_8800_loading_4k_basic_with) - [Altair 8800 - Loading 4K BASIC with a Teletype (2013)](https://www.youtube.com/watch?v=qv5b1Xowxdk)
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
-* [2023-03-19, 09:28:42](https://lobste.rs/s/bjgdjw/announcing_sniffnet_v1_1_2) - [Announcing Sniffnet v1.1.2](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.2)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-19, 02:41:34](https://lobste.rs/s/qcu7fc/what_s_new_for_risc_v_llvm_16) - [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
