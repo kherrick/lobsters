@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-03-20, 06:08:33",
-      "https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed"
+      "2023-03-20, 06:25:05",
+      "https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed"
     ],
     [
-      "Should the Oil project and \"Oil Shell\" Be Renamed?",
-      "https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed"
+      "Proof Engineering Survey Paper: Q(ED) & A",
+      "https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/"
+    ]
+  ],
+  [
+    [
+      "2023-03-20, 06:08:33",
+      "https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell"
+    ],
+    [
+      "New Names for the Oil project and \"Oil Shell\"?",
+      "https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell"
     ]
   ],
   [
@@ -42,10 +52,10 @@
   [
     [
       "2023-03-20, 00:47:40",
-      "https://lobste.rs/s/rgary1/jairam_s_blog_latency_showdown_aws_lambda"
+      "https://lobste.rs/s/rgary1/latency_showdown_aws_lambda_vs_azure"
     ],
     [
-      "Jairam's Blog | Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions",
+      "Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions",
       "https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "I built a startup in Rust, I would do it again",
       "https://cloak.software/blog/i-built-startup-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 18:58:14",
-      "https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future"
-    ],
-    [
-      "The Command Line Is the GUI's Future",
-      "http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/"
     ]
   ],
   [
