@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 11:56:22",
+      "https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise"
+    ],
+    [
+      "cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed",
+      "https://github.com/alopatindev/cargo-limit"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 11:44:55",
       "https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1"
     ],
@@ -187,16 +197,6 @@
     [
       "LLVM 16.0.0 Release",
       "https://discourse.llvm.org/t/llvm-16-0-0-release/69326"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 10:58:50",
-      "https://lobste.rs/s/8eiogg/altair_8800_loading_4k_basic_with"
-    ],
-    [
-      "Altair 8800 - Loading 4K BASIC with a Teletype (2013)",
-      "https://www.youtube.com/watch?v=qv5b1Xowxdk"
     ]
   ],
   [
