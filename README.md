@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 * [2023-03-20, 15:35:36](https://lobste.rs/s/nqzuqt/asi_certification_exam_2010) - [ASI Certification Exam (2010)](http://asi.qfox.nl/)
-* [2023-03-20, 13:19:19](https://lobste.rs/s/37qez8/rpc_vs_tcp_redux) - [RPC vs TCP (Redux)](https://systemsapproach.substack.com/p/rpc-vs-tcp-redux)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
 * [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
 * [2023-03-20, 12:29:21](https://lobste.rs/s/r2kcet/offensive_ai_compilation) - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
