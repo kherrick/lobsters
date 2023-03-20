@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:45:25](https://lobste.rs/s/9jxrhk/algorithms_for_decision_making) - [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 08:30:19](https://lobste.rs/s/vikqcx/bnf_was_here_what_have_we_done_about) - [BNF Was Here: What Have We Done About the Unnecessary Diversity of Notation for Syntactic Definition](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
