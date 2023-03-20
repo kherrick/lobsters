@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 12:29:21](https://lobste.rs/s/r2kcet/offensive_ai_compilation) - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 * [2023-03-20, 11:56:22](https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise) - [cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed](https://github.com/alopatindev/cargo-limit)
 * [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
@@ -23,7 +24,6 @@
 * [2023-03-19, 10:30:20](https://lobste.rs/s/8jqvz9/curious_case_memory_leak_zig_program) - [The Curious Case of a Memory Leak in a Zig program](https://iamkroot.github.io/blog/zig-memleak)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
-* [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 
 ## [Archives](archives/index.md)
