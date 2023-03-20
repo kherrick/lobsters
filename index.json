@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-03-20, 13:19:19",
+      "https://lobste.rs/s/37qez8/rpc_vs_tcp_redux"
+    ],
+    [
+      "RPC vs TCP (Redux)",
+      "https://systemsapproach.substack.com/p/rpc-vs-tcp-redux"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 13:05:19",
       "https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13"
     ],
@@ -217,16 +227,6 @@
     [
       "What Nix Can Do",
       "https://youtu.be/6Le0IbPRzOE"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 00:47:40",
-      "https://lobste.rs/s/rgary1/latency_showdown_aws_lambda_vs_azure"
-    ],
-    [
-      "Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions",
-      "https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/"
     ]
   ],
   [
