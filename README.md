@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed) - [Should the Oil project and \"Oil Shell\" Be Renamed?](https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed)
 * [2023-03-20, 03:47:53](https://lobste.rs/s/l5znaq/glaze_protecting_artists_from_style) - [GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/abs/2302.04222)
 * [2023-03-20, 01:39:29](https://lobste.rs/s/xcupui/even_more_aggressive_randomisation) - [(Even more) Aggressive randomisation of stack location](http://www.undeadly.org/cgi?action=article;sid=20230319230523)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/matthew_croughan_what_nix_can_do_scale20x) - [Matthew Croughan - What Nix Can Do - SCaLE20x](https://youtu.be/6Le0IbPRzOE)
@@ -14,7 +15,6 @@
 * [2023-03-19, 09:28:42](https://lobste.rs/s/bjgdjw/announcing_sniffnet_v1_1_2) - [Announcing Sniffnet v1.1.2](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.2)
 * [2023-03-19, 08:24:32](https://lobste.rs/s/sxnuos/world_s_first_video_56_transition) - [World's first video of 56  transition controls for a triple inverted pendulum](https://www.youtube.com/watch?v=I5GvwWKkBmg)
 * [2023-03-19, 02:41:34](https://lobste.rs/s/qcu7fc/what_s_new_for_risc_v_llvm_16) - [What's new for RISC-V in LLVM 16](https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16)
-* [2023-03-19, 00:39:59](https://lobste.rs/s/z8jvxc/building_distributing_macos) - [Building And Distributing A macOS Application Written in Python](https://blog.glyph.im/2023/03/py-mac-app-for-real.html)
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
