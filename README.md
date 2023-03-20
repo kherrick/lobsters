@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 03:47:53](https://lobste.rs/s/l5znaq/glaze_protecting_artists_from_style) - [GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/abs/2302.04222)
 * [2023-03-20, 01:39:29](https://lobste.rs/s/xcupui/even_more_aggressive_randomisation) - [(Even more) Aggressive randomisation of stack location](http://www.undeadly.org/cgi?action=article;sid=20230319230523)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/matthew_croughan_what_nix_can_do_scale20x) - [Matthew Croughan - What Nix Can Do - SCaLE20x](https://youtu.be/6Le0IbPRzOE)
 * [2023-03-20, 00:47:40](https://lobste.rs/s/rgary1/jairam_s_blog_latency_showdown_aws_lambda) - [Jairam's Blog | Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions](https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/)
@@ -23,7 +24,6 @@
 * [2023-03-18, 15:05:54](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist) - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 * [2023-03-18, 15:04:59](https://lobste.rs/s/5xioqa/python_slsa) - [Python and SLSA](https://sethmlarson.dev/python-and-slsa)
 * [2023-03-18, 13:01:10](https://lobste.rs/s/ha7kwe/20_years_nix) - [20 Years of Nix](https://20th.nixos.org/)
-* [2023-03-18, 11:52:56](https://lobste.rs/s/wx3zu2/plato_how_educational_computer_system) - [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
 
 ## [Archives](archives/index.md)
