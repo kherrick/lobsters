@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:25:05](https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed) - [Proof Engineering Survey Paper: Q(ED) & A](https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed) - [Should the Oil project and \"Oil Shell\" Be Renamed?](https://lobste.rs/s/plmk9r/should_oil_project_oil_shell_be_renamed)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)

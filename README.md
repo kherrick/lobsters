@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:25:05](https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed) - [Proof Engineering Survey Paper: Q(ED) & A](https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)
 * [2023-03-20, 03:47:53](https://lobste.rs/s/l5znaq/glaze_protecting_artists_from_style) - [GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/abs/2302.04222)
@@ -21,7 +22,6 @@
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
 * [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 15:26:03](https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
-* [2023-03-18, 15:05:54](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist) - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 * [2023-03-18, 15:04:59](https://lobste.rs/s/5xioqa/python_slsa) - [Python and SLSA](https://sethmlarson.dev/python-and-slsa)
 * [2023-03-18, 13:01:10](https://lobste.rs/s/ha7kwe/20_years_nix) - [20 Years of Nix](https://20th.nixos.org/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
