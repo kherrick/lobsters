@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
 * [2023-03-20, 08:30:19](https://lobste.rs/s/vikqcx/bnf_was_here_what_have_we_done_about) - [BNF Was Here: What Have We Done About the Unnecessary Diversity of Notation for Syntactic Definition](https://www.grammarware.net/text/2012/bnf-was-here.pdf)
 * [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:25:05](https://lobste.rs/s/06afs2/proof_engineering_survey_paper_q_ed) - [Proof Engineering Survey Paper: Q(ED) & A](https://taliasplse.wordpress.com/2019/09/14/proof-engineering-survey-paper-qed-a/)
