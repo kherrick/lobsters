@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-20](index.md)
 
+* [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 11:17:28](https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march) - [Betraying vim for the IDEs of March](https://ntietz.com/blog/betraying-vim-ides-of-march/)
 * [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
