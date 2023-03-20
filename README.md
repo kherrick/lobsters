@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-20, 01:39:29](https://lobste.rs/s/xcupui/even_more_aggressive_randomisation) - [(Even more) Aggressive randomisation of stack location](http://www.undeadly.org/cgi?action=article;sid=20230319230523)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/matthew_croughan_what_nix_can_do_scale20x) - [Matthew Croughan - What Nix Can Do - SCaLE20x](https://youtu.be/6Le0IbPRzOE)
 * [2023-03-20, 00:47:40](https://lobste.rs/s/rgary1/jairam_s_blog_latency_showdown_aws_lambda) - [Jairam's Blog | Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions](https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/)
 * [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
@@ -16,6 +17,7 @@
 * [2023-03-18, 23:16:57](https://lobste.rs/s/giq8ao/on_dangers_stochastic_parrots_can) - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? (2021)](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 * [2023-03-18, 21:27:03](https://lobste.rs/s/1gbjgk/exploiting_acropalypse_recovering) - [Exploiting aCropalypse: Recovering Truncated PNGs](https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html)
 * [2023-03-18, 20:16:06](https://lobste.rs/s/2hussu/i_built_startup_rust_i_would_do_it_again) - [I built a startup in Rust, I would do it again](https://cloak.software/blog/i-built-startup-in-rust/)
+* [2023-03-18, 18:58:14](https://lobste.rs/s/xqwwkm/command_line_is_gui_s_future) - [The Command Line Is the GUI's Future](http://ignorethecode.net/blog/2023/03/18/the_command_line_is_the_guis_future/)
 * [2023-03-18, 15:34:58](https://lobste.rs/s/iug50z/go_slow_move_fast) - [Go slow to move fast](https://jordankaye.dev/posts/go-slow-move-fast/)
 * [2023-03-18, 15:26:03](https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding) - [A different approach to fuzzy finding](https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/)
 * [2023-03-18, 15:05:54](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist) - [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
@@ -23,8 +25,6 @@
 * [2023-03-18, 13:01:10](https://lobste.rs/s/ha7kwe/20_years_nix) - [20 Years of Nix](https://20th.nixos.org/)
 * [2023-03-18, 11:52:56](https://lobste.rs/s/wx3zu2/plato_how_educational_computer_system) - [PLATO: How an educational computer system from the ’60s shaped the future](https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/)
 * [2023-03-18, 10:58:52](https://lobste.rs/s/48eswe/acropalypse_serious_privacy) - [Acropalypse: a serious privacy vulnerability in the Google Pixel's inbuilt screenshot editing tool](https://twitter.com/ItsSimonTime/status/1636857478263750656)
-* [2023-03-18, 08:21:03](https://lobste.rs/s/v8ch5p/ai_generations_chatgpt_3_vs_chatgpt_4_on) - [AI Generations: ChatGPT-3 vs ChatGPT-4 on Sol LeWitt’s Wall Drawings](https://www.amygoodchild.com/blog/ai-generations-chatgpt-4-sol-lewitt-wall-drawings)
-* [2023-03-18, 02:18:07](https://lobste.rs/s/6dv0v8/how_did_dennis_ritchie_produce_his_phd) - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
 
 ## [Archives](archives/index.md)
 
