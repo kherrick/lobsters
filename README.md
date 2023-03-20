@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
+* [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
 * [2023-03-20, 16:40:58](https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem) - [A deep dive into logging ecosystem](https://www.parseable.io/blog/log-ecosystem-overview)
 * [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
@@ -19,7 +20,6 @@
 * [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)
 * [2023-03-20, 03:47:53](https://lobste.rs/s/l5znaq/glaze_protecting_artists_from_style) - [GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/abs/2302.04222)
-* [2023-03-20, 01:39:29](https://lobste.rs/s/xcupui/even_more_aggressive_randomisation) - [(Even more) Aggressive randomisation of stack location](http://www.undeadly.org/cgi?action=article;sid=20230319230523)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/what_nix_can_do) - [What Nix Can Do](https://youtu.be/6Le0IbPRzOE)
 * [2023-03-20, 00:47:40](https://lobste.rs/s/rgary1/latency_showdown_aws_lambda_vs_azure) - [Latency Showdown: AWS Lambda vs Azure Cloud Functions vs GCP Cloud Functions](https://jairampatel.com/2023/03/08/latency-showdown-aws-lambda-vs-azure-cloud-functions-vs-gcp-cloud-functions/)
 * [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
