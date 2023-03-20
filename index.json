@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-20, 09:14:47",
+      "https://lobste.rs/s/kafimv/curl_8_0_0_is_here"
+    ],
+    [
+      "curl 8.0.0 is here",
+      "https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/"
+    ]
+  ],
+  [
+    [
       "2023-03-20, 08:30:19",
       "https://lobste.rs/s/vikqcx/bnf_was_here_what_have_we_done_about"
     ],
@@ -217,16 +227,6 @@
     [
       "Go slow to move fast",
       "https://jordankaye.dev/posts/go-slow-move-fast/"
-    ]
-  ],
-  [
-    [
-      "2023-03-18, 15:26:03",
-      "https://lobste.rs/s/yujp4y/different_approach_fuzzy_finding"
-    ],
-    [
-      "A different approach to fuzzy finding",
-      "https://nathancraddock.com/blog/2023/a-different-approach-to-fuzzy-finding/"
     ]
   ],
   [
