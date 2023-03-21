@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 22:00:33",
+      "https://lobste.rs/s/vn2ylm/room_generation_using_constraint"
+    ],
+    [
+      "Room Generation using Constraint Satisfaction",
+      "https://pvigier.github.io/2022/11/05/room-generation-using-constraint-satisfaction.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 21:10:08",
       "https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore"
     ],
@@ -57,16 +67,6 @@
     [
       "typst: A new markup-based typesetting system that is powerful and easy to learn",
       "https://github.com/typst/typst"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 17:42:44",
-      "https://lobste.rs/s/ri4mkh/time_series_data_with_ruby_on_rails"
-    ],
-    [
-      "Time-Series Data With Ruby on Rails and Postgres",
-      "https://census.dev/blog/time-series-data-with-ruby-on-rails-and-postgres"
     ]
   ],
   [
