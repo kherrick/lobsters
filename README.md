@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 17:42:44](https://lobste.rs/s/ri4mkh/time_series_data_with_ruby_on_rails) - [Time-Series Data With Ruby on Rails and Postgres](https://census.dev/blog/time-series-data-with-ruby-on-rails-and-postgres)
+* [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 17:01:51](https://lobste.rs/s/1yruu5/3_ai_search_engines_i_use_refactor_my_code) - [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
-* [2023-03-21, 16:55:48](https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability) - [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 15:00:26](https://lobste.rs/s/qbpby9/implementing_transformer_from_scratch) - [Implementing a Transformer From Scratch](https://jorisbaan.nl/2022/03/25/implementing-a-transformer-from-scratch.html)
 * [2023-03-21, 14:46:56](https://lobste.rs/s/ulz9i7/gpt_4_professional_benchmarks_wrong) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 14:37:43](https://lobste.rs/s/uberay/real_world_logical_replication) - [Real-World Logical Replication](https://thebuild.com//presentations/logical-nordic-pgday-2023.pdf)
@@ -11,7 +12,6 @@
 * [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 * [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 11:57:22](https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever) - [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
-* [2023-03-21, 11:40:31](https://lobste.rs/s/s0rnlq/interactive_exercises_for_builtin_re) - [Interactive exercises for builtin `re` and third-party `regex` modules](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
