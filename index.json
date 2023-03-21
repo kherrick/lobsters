@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 03:38:48",
+      "https://lobste.rs/s/etebxo/current_problems_alerting_space"
+    ],
+    [
+      "Current problems in the alerting space",
+      "https://medium.com/keepalerting/current-problems-in-the-alerting-space-8805f8a2419d"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 00:08:45",
       "https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from"
     ],
@@ -237,16 +247,6 @@
     [
       "nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more",
       "https://github.com/nix-community/nix-init"
-    ]
-  ],
-  [
-    [
-      "2023-03-19, 16:19:56",
-      "https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance"
-    ],
-    [
-      "Why people misuse inheritance",
-      "https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/"
     ]
   ]
 ]
