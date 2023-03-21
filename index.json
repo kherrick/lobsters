@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 13:17:53",
+      "https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory"
+    ],
+    [
+      "Zig Bits 0x2: Using defer to defeat memory leaks",
+      "https://blog.orhun.dev/zig-bits-02/"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 12:53:02",
       "https://lobste.rs/s/mjppkn/navigating_complexities_file_watching"
     ],
@@ -237,16 +247,6 @@
     [
       "curl 8.0.0 is here",
       "https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 01:08:33",
-      "https://lobste.rs/s/nfc9ga/what_nix_can_do"
-    ],
-    [
-      "What Nix Can Do",
-      "https://youtu.be/6Le0IbPRzOE"
     ]
   ]
 ]
