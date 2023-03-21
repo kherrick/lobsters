@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-03-21, 16:55:48",
+      "https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability"
+    ],
+    [
+      "Java 20 / JDK 20: General Availability",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 15:00:26",
       "https://lobste.rs/s/qbpby9/implementing_transformer_from_scratch"
     ],
@@ -207,16 +217,6 @@
     [
       "Launch OpenBSD vmd Guests on Demand from SSH",
       "https://jonwillia.ms/2023/03/20/vmctl-ssh"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 21:06:19",
-      "https://lobste.rs/s/dgnbim/notes_on_ffts_for_users"
-    ],
-    [
-      "Notes on FFTs: for users",
-      "https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-users/"
     ]
   ],
   [
