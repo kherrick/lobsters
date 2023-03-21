@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 14:46:56",
+      "https://lobste.rs/s/ulz9i7/gpt_4_professional_benchmarks_wrong"
+    ],
+    [
+      "GPT-4 and professional benchmarks: the wrong answer to the wrong question",
+      "https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 14:37:43",
       "https://lobste.rs/s/uberay/real_world_logical_replication"
     ],
@@ -47,6 +57,16 @@
     [
       "It’s worth putting in the effort to regularly update dependencies",
       "https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies"
+    ]
+  ],
+  [
+    [
+      "2023-03-21, 12:34:27",
+      "https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i"
+    ],
+    [
+      "Web fingerprinting is worse than I thought",
+      "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-03-20, 11:56:22",
-      "https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise"
-    ],
-    [
-      "cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed",
-      "https://github.com/alopatindev/cargo-limit"
-    ]
-  ],
-  [
-    [
       "2023-03-20, 11:44:55",
       "https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1"
     ],
@@ -227,16 +237,6 @@
     [
       "a world to win: webassembly for the rest of us",
       "https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 11:17:28",
-      "https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march"
-    ],
-    [
-      "Betraying vim for the IDEs of March",
-      "https://ntietz.com/blog/betraying-vim-ides-of-march/"
     ]
   ],
   [
