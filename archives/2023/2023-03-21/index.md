@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:42:44](https://lobste.rs/s/ri4mkh/time_series_data_with_ruby_on_rails) - [Time-Series Data With Ruby on Rails and Postgres](https://census.dev/blog/time-series-data-with-ruby-on-rails-and-postgres)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 17:01:51](https://lobste.rs/s/1yruu5/3_ai_search_engines_i_use_refactor_my_code) - [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
