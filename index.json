@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 20:13:13",
+      "https://lobste.rs/s/uaanxh/programming_languages_for_verifying"
+    ],
+    [
+      "Programming Languages for Verifying Compilers",
+      "https://www.youtube.com/watch?v=fWSGhxyTG-4"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 19:42:54",
       "https://lobste.rs/s/attg2w/latency_numbers_every_programmer_should"
     ],
@@ -217,16 +227,6 @@
     [
       "Launch OpenBSD vmd Guests on Demand from SSH",
       "https://jonwillia.ms/2023/03/20/vmctl-ssh"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 17:28:08",
-      "https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only"
-    ],
-    [
-      "One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP",
-      "https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html"
     ]
   ],
   [
