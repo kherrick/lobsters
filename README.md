@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 19:42:54](https://lobste.rs/s/attg2w/latency_numbers_every_programmer_should) - [Latency numbers every programmer should know, scaled to human terms](https://gist.github.com/hellerbarde/2843375)
 * [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:42:44](https://lobste.rs/s/ri4mkh/time_series_data_with_ruby_on_rails) - [Time-Series Data With Ruby on Rails and Postgres](https://census.dev/blog/time-series-data-with-ruby-on-rails-and-postgres)
@@ -7,7 +8,6 @@
 * [2023-03-21, 17:01:51](https://lobste.rs/s/1yruu5/3_ai_search_engines_i_use_refactor_my_code) - [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
 * [2023-03-21, 16:55:48](https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability) - [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 15:00:26](https://lobste.rs/s/qbpby9/implementing_transformer_from_scratch) - [Implementing a Transformer From Scratch](https://jorisbaan.nl/2022/03/25/implementing-a-transformer-from-scratch.html)
-* [2023-03-21, 14:46:56](https://lobste.rs/s/ulz9i7/gpt_4_professional_benchmarks_wrong) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 14:25:55](https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from) - [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 * [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
