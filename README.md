@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 00:08:45](https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from) - [Launch OpenBSD vmd Guests on Demand from SSH](https://jonwillia.ms/2023/03/20/vmctl-ssh)
 * [2023-03-20, 21:06:19](https://lobste.rs/s/dgnbim/notes_on_ffts_for_users) - [Notes on FFTs: for users](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-users/)
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
 * [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
@@ -7,7 +8,6 @@
 * [2023-03-20, 16:18:55](https://lobste.rs/s/f7kpnr/3_layers_frontend_unstyled_primitives) - [The 3 Layers of Frontend: Unstyled Primitives, Styled Primitives, and Domain-specific Component](https://markus.oberlehner.net/blog/the-three-layer-ui-component-architecture-versatile-building-blocks-for-crafting-multiple-design-systems/)
 * [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
-* [2023-03-20, 15:35:36](https://lobste.rs/s/nqzuqt/asi_certification_exam_2010) - [ASI Certification Exam (2010)](http://asi.qfox.nl/)
 * [2023-03-20, 13:19:19](https://lobste.rs/s/37qez8/rpc_vs_tcp_redux) - [RPC vs TCP (Redux)](https://systemsapproach.substack.com/p/rpc-vs-tcp-redux)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
 * [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
