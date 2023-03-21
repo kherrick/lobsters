@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 08:25:02](https://lobste.rs/s/9fbnlv/github_actions_go) - [Github Actions and Go](https://olegk.dev/github-actions-and-go)
 * [2023-03-21, 07:08:12](https://lobste.rs/s/zcfnl0/zero_1_3_zero_shot_one_image_3d_object) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://github.com/cvlab-columbia/zero123)
 * [2023-03-21, 06:27:59](https://lobste.rs/s/zx4xzz/twenty_five_years_curl) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-21, 05:02:57](https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released) - [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
