@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+* [2023-03-21, 12:31:03](https://lobste.rs/s/evmmmi/comparing_node_js_web_frameworks_which_is) - [Comparing Node.js web frameworks: Which is most secure?](https://snyk.io/blog/comparing-node-js-web-frameworks/)
 * [2023-03-21, 11:57:22](https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever) - [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 * [2023-03-21, 11:40:31](https://lobste.rs/s/s0rnlq/interactive_exercises_for_builtin_re) - [Interactive exercises for builtin `re` and third-party `regex` modules](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
@@ -13,8 +15,6 @@
 * [2023-03-21, 00:08:45](https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from) - [Launch OpenBSD vmd Guests on Demand from SSH](https://jonwillia.ms/2023/03/20/vmctl-ssh)
 * [2023-03-20, 21:06:19](https://lobste.rs/s/dgnbim/notes_on_ffts_for_users) - [Notes on FFTs: for users](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-users/)
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
-* [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
-* [2023-03-20, 16:40:58](https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem) - [A deep dive into logging ecosystem](https://www.parseable.io/blog/log-ecosystem-overview)
 * [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 * [2023-03-20, 11:56:22](https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise) - [cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed](https://github.com/alopatindev/cargo-limit)

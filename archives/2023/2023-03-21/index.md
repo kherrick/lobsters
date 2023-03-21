@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+* [2023-03-21, 12:31:03](https://lobste.rs/s/evmmmi/comparing_node_js_web_frameworks_which_is) - [Comparing Node.js web frameworks: Which is most secure?](https://snyk.io/blog/comparing-node-js-web-frameworks/)
 * [2023-03-21, 11:57:22](https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever) - [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 * [2023-03-21, 11:40:31](https://lobste.rs/s/s0rnlq/interactive_exercises_for_builtin_re) - [Interactive exercises for builtin `re` and third-party `regex` modules](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
