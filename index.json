@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 16:55:48",
+      "https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability"
+    ],
+    [
+      "Java 20 / JDK 20: General Availability",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 15:00:26",
       "https://lobste.rs/s/qbpby9/implementing_transformer_from_scratch"
     ],
@@ -237,16 +247,6 @@
     [
       "One does not simply use GHCup on macOS M1",
       "https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 11:22:56",
-      "https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us"
-    ],
-    [
-      "a world to win: webassembly for the rest of us",
-      "https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us"
     ]
   ]
 ]
