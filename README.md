@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 05:02:57](https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released) - [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-21, 04:17:18](https://lobste.rs/s/k9ztwl/using_metal_rust_make_fft_even_faster) - [Using Metal and Rust to make FFT even faster](https://www.notamonadtutorial.com/using-metal-and-rust-to-make-fft-even-faster/)
 * [2023-03-21, 04:09:22](https://lobste.rs/s/abjy9x/aperiodic_monotile) - [An aperiodic monotile](https://arxiv.org/pdf/2303.10798.pdf)
 * [2023-03-21, 03:38:48](https://lobste.rs/s/etebxo/current_problems_alerting_space) - [Current problems in the alerting space](https://medium.com/keepalerting/current-problems-in-the-alerting-space-8805f8a2419d)
@@ -8,7 +9,6 @@
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
 * [2023-03-20, 16:59:38](https://lobste.rs/s/3gmwz1/bind_before_connect) - [Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/)
 * [2023-03-20, 16:40:58](https://lobste.rs/s/la80l0/deep_dive_into_logging_ecosystem) - [A deep dive into logging ecosystem](https://www.parseable.io/blog/log-ecosystem-overview)
-* [2023-03-20, 16:18:55](https://lobste.rs/s/f7kpnr/3_layers_frontend_unstyled_primitives) - [The 3 Layers of Frontend: Unstyled Primitives, Styled Primitives, and Domain-specific Component](https://markus.oberlehner.net/blog/the-three-layer-ui-component-architecture-versatile-building-blocks-for-crafting-multiple-design-systems/)
 * [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
