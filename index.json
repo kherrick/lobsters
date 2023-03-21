@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 18:20:23",
+      "https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting"
+    ],
+    [
+      "typst: A new markup-based typesetting system that is powerful and easy to learn",
+      "https://github.com/typst/typst"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 17:42:44",
       "https://lobste.rs/s/ri4mkh/time_series_data_with_ruby_on_rails"
     ],
@@ -207,16 +217,6 @@
     [
       "An aperiodic monotile",
       "https://arxiv.org/pdf/2303.10798.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 00:08:45",
-      "https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from"
-    ],
-    [
-      "Launch OpenBSD vmd Guests on Demand from SSH",
-      "https://jonwillia.ms/2023/03/20/vmctl-ssh"
     ]
   ],
   [
