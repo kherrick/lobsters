@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 20:13:13](https://lobste.rs/s/uaanxh/programming_languages_for_verifying) - [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
 * [2023-03-21, 19:42:54](https://lobste.rs/s/attg2w/latency_numbers_every_programmer_should) - [Latency numbers every programmer should know, scaled to human terms](https://gist.github.com/hellerbarde/2843375)
 * [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
@@ -22,7 +23,6 @@
 * [2023-03-21, 05:02:57](https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released) - [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-21, 04:09:22](https://lobste.rs/s/abjy9x/aperiodic_monotile) - [An aperiodic monotile](https://arxiv.org/pdf/2303.10798.pdf)
 * [2023-03-21, 00:08:45](https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from) - [Launch OpenBSD vmd Guests on Demand from SSH](https://jonwillia.ms/2023/03/20/vmctl-ssh)
-* [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
 * [2023-03-20, 15:51:42](https://lobste.rs/s/tzjlkx/paving_road_vulkan_on_asahi_linux) - [Paving the Road to Vulkan on Asahi Linux](https://asahilinux.org/2023/03/road-to-vulkan/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 
