@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 03:38:48](https://lobste.rs/s/etebxo/current_problems_alerting_space) - [Current problems in the alerting space](https://medium.com/keepalerting/current-problems-in-the-alerting-space-8805f8a2419d)
 * [2023-03-21, 00:08:45](https://lobste.rs/s/ozsdjz/launch_openbsd_vmd_guests_on_demand_from) - [Launch OpenBSD vmd Guests on Demand from SSH](https://jonwillia.ms/2023/03/20/vmctl-ssh)
 * [2023-03-20, 21:06:19](https://lobste.rs/s/dgnbim/notes_on_ffts_for_users) - [Notes on FFTs: for users](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-users/)
 * [2023-03-20, 17:28:08](https://lobste.rs/s/lriqkx/one_trick_build_tls_enabled_ipv6_only) - [One trick to build a TLS-enabled IPv6-only empire with only ONE legacy IP](https://ryan.lahfa.xyz/en/one-trick-to-build-a-tls-enabled-ipv6-only-empire-with-only-one-legacy-ip.html)
@@ -24,7 +25,6 @@
 * [2023-03-20, 03:47:53](https://lobste.rs/s/l5znaq/glaze_protecting_artists_from_style) - [GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models](https://arxiv.org/abs/2302.04222)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/what_nix_can_do) - [What Nix Can Do](https://youtu.be/6Le0IbPRzOE)
 * [2023-03-19, 22:05:52](https://lobste.rs/s/rzicwc/nix_init_generate_nix_packages_from_urls) - [nix-init - Generate Nix packages from URLs with dependency inference, hash prefetching, and more](https://github.com/nix-community/nix-init)
-* [2023-03-19, 16:19:56](https://lobste.rs/s/fjb8ch/why_people_misuse_inheritance) - [Why people misuse inheritance](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
 
 ## [Archives](archives/index.md)
 
