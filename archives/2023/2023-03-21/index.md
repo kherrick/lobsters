@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 14:46:56](https://lobste.rs/s/ulz9i7/gpt_4_professional_benchmarks_wrong) - [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
 * [2023-03-21, 14:37:43](https://lobste.rs/s/uberay/real_world_logical_replication) - [Real-World Logical Replication](https://thebuild.com//presentations/logical-nordic-pgday-2023.pdf)
 * [2023-03-21, 14:25:55](https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from) - [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
