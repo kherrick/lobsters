@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 11:40:31](https://lobste.rs/s/s0rnlq/interactive_exercises_for_builtin_re) - [Interactive exercises for builtin `re` and third-party `regex` modules](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
