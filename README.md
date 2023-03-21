@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-03-21, 09:03:08](https://lobste.rs/s/4rl4rv/minimal_website_hugo) - [Minimal website in hugo](https://lobste.rs/s/4rl4rv/minimal_website_hugo)
 * [2023-03-21, 08:25:02](https://lobste.rs/s/9fbnlv/github_actions_go) - [Github Actions and Go](https://olegk.dev/github-actions-and-go)
 * [2023-03-21, 07:08:12](https://lobste.rs/s/zcfnl0/zero_1_3_zero_shot_one_image_3d_object) - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://github.com/cvlab-columbia/zero123)
 * [2023-03-21, 06:27:59](https://lobste.rs/s/zx4xzz/twenty_five_years_curl) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
@@ -15,6 +14,7 @@
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 * [2023-03-20, 13:05:19](https://lobste.rs/s/gebjwz/openbsd_webzine_issue_13) - [OpenBSD webzine issue #13](https://webzine.puffy.cafe/issue-13.html)
 * [2023-03-20, 13:04:34](https://lobste.rs/s/zhl1tq/chatgpt_s_hallucinations_could_keep_it) - [ChatGPT's Hallucinations Could Keep It from Succeeding](https://spectrum.ieee.org/ai-hallucination)
+* [2023-03-20, 12:29:21](https://lobste.rs/s/r2kcet/offensive_ai_compilation) - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 * [2023-03-20, 11:56:22](https://lobste.rs/s/kwulck/cargo_limit_cargo_with_less_noise) - [cargo-limit: Cargo with less noise: warnings are skipped until errors are fixed](https://github.com/alopatindev/cargo-limit)
 * [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
