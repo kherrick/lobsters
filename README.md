@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
+* [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 * [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 12:31:03](https://lobste.rs/s/evmmmi/comparing_node_js_web_frameworks_which_is) - [Comparing Node.js web frameworks: Which is most secure?](https://snyk.io/blog/comparing-node-js-web-frameworks/)
 * [2023-03-21, 11:57:22](https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever) - [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
@@ -21,9 +23,7 @@
 * [2023-03-20, 11:44:55](https://lobste.rs/s/cbl1yc/one_does_not_simply_use_ghcup_on_macos_m1) - [One does not simply use GHCup on macOS M1](https://robertwpearce.com/one-does-not-simply-use-ghcup-on-macos-m1.html)
 * [2023-03-20, 11:22:56](https://lobste.rs/s/gmjekk/world_win_webassembly_for_rest_us) - [a world to win: webassembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-03-20, 11:17:28](https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march) - [Betraying vim for the IDEs of March](https://ntietz.com/blog/betraying-vim-ides-of-march/)
-* [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
-* [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/what_nix_can_do) - [What Nix Can Do](https://youtu.be/6Le0IbPRzOE)
 
 ## [Archives](archives/index.md)

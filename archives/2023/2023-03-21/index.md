@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
+* [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 * [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 12:31:03](https://lobste.rs/s/evmmmi/comparing_node_js_web_frameworks_which_is) - [Comparing Node.js web frameworks: Which is most secure?](https://snyk.io/blog/comparing-node-js-web-frameworks/)
 * [2023-03-21, 11:57:22](https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever) - [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
