@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
 * [2023-03-21, 08:25:02](https://lobste.rs/s/9fbnlv/github_actions_go) - [Github Actions and Go](https://olegk.dev/github-actions-and-go)
@@ -22,7 +23,6 @@
 * [2023-03-20, 11:17:28](https://lobste.rs/s/oukd0w/betraying_vim_for_ides_march) - [Betraying vim for the IDEs of March](https://ntietz.com/blog/betraying-vim-ides-of-march/)
 * [2023-03-20, 10:54:38](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gbckpo/what_are_you_doing_this_week)
 * [2023-03-20, 09:14:47](https://lobste.rs/s/kafimv/curl_8_0_0_is_here) - [curl 8.0.0 is here](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/)
-* [2023-03-20, 07:45:21](https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno) - [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
 * [2023-03-20, 06:08:33](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell) - [New Names for the Oil project and \"Oil Shell\"?](https://lobste.rs/s/plmk9r/new_names_for_oil_project_oil_shell)
 * [2023-03-20, 01:08:33](https://lobste.rs/s/nfc9ga/what_nix_can_do) - [What Nix Can Do](https://youtu.be/6Le0IbPRzOE)
 
