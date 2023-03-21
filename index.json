@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 11:27:31",
+      "https://lobste.rs/s/w6fxzo/write_predictable_software_not"
+    ],
+    [
+      "Write Predictable software, not Ergonomic",
+      "https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 10:46:29",
       "https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve"
     ],
@@ -217,16 +227,6 @@
     [
       "curl 8.0.0 is here",
       "https://daniel.haxx.se/blog/2023/03/20/curl-8-0-0-is-here/"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 07:45:21",
-      "https://lobste.rs/s/xh0s7r/why_we_added_package_json_support_deno"
-    ],
-    [
-      "Why We Added package.json Support to Deno",
-      "https://deno.com/blog/package-json-support"
     ]
   ],
   [
