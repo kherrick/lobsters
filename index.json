@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-21, 05:02:57",
+      "https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released"
+    ],
+    [
+      "Gitea 1.19.0 is released",
+      "https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 04:17:18",
       "https://lobste.rs/s/k9ztwl/using_metal_rust_make_fft_even_faster"
     ],
@@ -77,16 +87,6 @@
     [
       "A deep dive into logging ecosystem",
       "https://www.parseable.io/blog/log-ecosystem-overview"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 16:18:55",
-      "https://lobste.rs/s/f7kpnr/3_layers_frontend_unstyled_primitives"
-    ],
-    [
-      "The 3 Layers of Frontend: Unstyled Primitives, Styled Primitives, and Domain-specific Component",
-      "https://markus.oberlehner.net/blog/the-three-layer-ui-component-architecture-versatile-building-blocks-for-crafting-multiple-design-systems/"
     ]
   ],
   [
