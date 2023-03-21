@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-21](index.md)
 
+* [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
 * [2023-03-21, 09:03:08](https://lobste.rs/s/4rl4rv/minimal_website_hugo) - [Minimal website in hugo](https://lobste.rs/s/4rl4rv/minimal_website_hugo)
 * [2023-03-21, 08:25:02](https://lobste.rs/s/9fbnlv/github_actions_go) - [Github Actions and Go](https://olegk.dev/github-actions-and-go)
