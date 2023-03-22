@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-22, 18:31:58",
+      "https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet"
+    ],
+    [
+      "Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer",
+      "http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 18:24:26",
+      "https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications"
+    ],
+    [
+      "Pull vs push: intentional notifications",
+      "https://secluded.site/pull-vs-push-intentional-notifications/"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 18:23:07",
       "https://lobste.rs/s/bpobqd/analysis_redline_based_malware"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-03-22, 16:39:10",
-      "https://lobste.rs/s/kxvmcq/building_plugin_system_with_webassembly"
-    ],
-    [
-      "Building a Plugin System with WebAssembly",
-      "https://www.youtube.com/watch?v=pRT36VqpljA"
-    ]
-  ],
-  [
-    [
       "2023-03-22, 16:17:00",
       "https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet"
     ],
@@ -67,16 +77,6 @@
     [
       "Building a full-text search engine in Elixir",
       "https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 15:56:51",
-      "https://lobste.rs/s/z9x9cz/cleanvision_audit_your_image_data_for"
-    ],
-    [
-      "CleanVision: Audit your Image Data for better Computer Vision",
-      "https://cleanlab.ai/blog/cleanvision/"
     ]
   ],
   [
