@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 15:29:59",
+      "https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level"
+    ],
+    [
+      "autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code",
+      "https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 15:10:55",
       "https://lobste.rs/s/8wrrsz/providing_terraform_with_ansible_magic"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-03-22, 10:59:46",
-      "https://lobste.rs/s/lpqn15/scaling_rust_builds_with_bazel"
-    ],
-    [
-      "Scaling Rust builds with Bazel",
-      "https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html"
-    ]
-  ],
-  [
-    [
       "2023-03-22, 10:02:29",
       "https://lobste.rs/s/fv2xqd/flux_keyboard"
     ],
@@ -67,6 +67,16 @@
     [
       "A CPU is a compiler",
       "https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 08:34:27",
+      "https://lobste.rs/s/ygxtne/formulating_integer_linear_programs"
+    ],
+    [
+      "Formulating Integer Linear Programs: A Rogues’ Gallery",
+      "https://faculty.nps.edu/dell/docs/Brown_Dell_INFORMS_Transactions_on_Education_January2007.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "letloop.cloud: A cloud for the parenthetical leaning doers",
       "https://github.com/letloop/letloop.cloud"
-    ]
-  ],
-  [
-    [
-      "2023-03-20, 15:37:10",
-      "https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader"
-    ],
-    [
-      "vore - a simple rss/atom feed reader",
-      "https://vore.website"
     ]
   ]
 ]
