@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 15:10:55](https://lobste.rs/s/8wrrsz/providing_terraform_with_ansible_magic) - [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [2023-03-22, 14:18:59](https://lobste.rs/s/xic6io/github_copilot_x_ai_powered_developer) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI  | The Mozilla Blog](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:56:50](https://lobste.rs/s/5gsexj/cool_frontend_arts_local_first_storage) - [Cool frontend arts of local-first: storage, sync, conflicts](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
