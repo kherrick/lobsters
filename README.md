@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 17:48:00](https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk_flipt_blog) - [Generating the Flipt Go SDK | Flipt Blog](https://www.flipt.io/blog/generating-the-flipt-go-sdk)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 * [2023-03-22, 16:59:19](https://lobste.rs/s/fatxv5/practical_projective_geometric_algebra) - [Practical Projective Geometric Algebra](https://terathon.com/gdc23_lengyel.pdf)
 * [2023-03-22, 16:39:10](https://lobste.rs/s/kxvmcq/building_plugin_system_with_webassembly) - [Building a Plugin System with WebAssembly](https://www.youtube.com/watch?v=pRT36VqpljA)
@@ -11,7 +12,6 @@
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 10:02:29](https://lobste.rs/s/fv2xqd/flux_keyboard) - [Flux Keyboard](https://www.kickstarter.com/projects/fluxkeyboard/flux-keyboard-the-keyboard-reinvented)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
-* [2023-03-22, 08:34:27](https://lobste.rs/s/ygxtne/formulating_integer_linear_programs) - [Formulating Integer Linear Programs: A Rogues’ Gallery](https://faculty.nps.edu/dell/docs/Brown_Dell_INFORMS_Transactions_on_Education_January2007.pdf)
 * [2023-03-22, 01:26:51](https://lobste.rs/s/le9new/errors_zig) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 * [2023-03-21, 23:38:28](https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell) - [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
 * [2023-03-21, 21:10:08](https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore) - [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
