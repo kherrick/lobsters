@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 10:59:46",
+      "https://lobste.rs/s/lpqn15/scaling_rust_builds_with_bazel"
+    ],
+    [
+      "Scaling Rust builds with Bazel",
+      "https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 10:20:30",
       "https://lobste.rs/s/8eydqs/i_don_t_think_i_want_my_next_promotion_yet"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-03-21, 16:55:48",
+      "https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability"
+    ],
+    [
+      "Java 20 / JDK 20: General Availability",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 14:25:55",
       "https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-03-21, 11:57:22",
-      "https://lobste.rs/s/ubq5b7/why_i_will_never_use_alpine_linux_ever"
-    ],
-    [
-      "Why I Will Never Use Alpine Linux Ever Again",
-      "https://martinheinz.dev/blog/92"
-    ]
-  ],
-  [
-    [
       "2023-03-21, 11:27:31",
       "https://lobste.rs/s/w6fxzo/write_predictable_software_not"
     ],
@@ -227,16 +237,6 @@
     [
       "Gitea 1.19.0 is released",
       "https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 04:09:22",
-      "https://lobste.rs/s/abjy9x/aperiodic_monotile"
-    ],
-    [
-      "An aperiodic monotile",
-      "https://arxiv.org/pdf/2303.10798.pdf"
     ]
   ],
   [
