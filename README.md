@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 10:20:30](https://lobste.rs/s/8eydqs/i_don_t_think_i_want_my_next_promotion_yet) - [I don't think I want my next promotion (yet)](https://www.jvt.me/posts/2023/03/22/next-promo/)
 * [2023-03-22, 10:02:29](https://lobste.rs/s/fv2xqd/flux_keyboard) - [Flux Keyboard](https://www.kickstarter.com/projects/fluxkeyboard/flux-keyboard-the-keyboard-reinvented)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-22, 08:34:27](https://lobste.rs/s/ygxtne/formulating_integer_linear_programs) - [Formulating Integer Linear Programs: A Rogues’ Gallery](https://faculty.nps.edu/dell/docs/Brown_Dell_INFORMS_Transactions_on_Education_January2007.pdf)
@@ -12,7 +13,6 @@
 * [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
-* [2023-03-21, 16:55:48](https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability) - [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
 * [2023-03-21, 14:25:55](https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from) - [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 * [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
