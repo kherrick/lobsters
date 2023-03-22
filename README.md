@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 18:38:42](https://lobste.rs/s/z0agu2/ropfuscator_robust_obfuscation_with_rop) - [ROPfuscator: Robust Obfuscation with ROP](https://pepe.runas.rocks/papers/ROPfuscator-WOOT23.pdf)
 * [2023-03-22, 18:31:58](https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
 * [2023-03-22, 18:23:07](https://lobste.rs/s/bpobqd/analysis_redline_based_malware) - [Analysis of a Redline Based Malware](https://serhack.me/articles/analysis-redline-based-malware/)
@@ -18,7 +19,6 @@
 * [2023-03-21, 21:10:08](https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore) - [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:24:09](https://lobste.rs/s/6twnne/modern_c_openssl_examples) - [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
 * [2023-03-21, 20:13:13](https://lobste.rs/s/uaanxh/programming_languages_for_verifying) - [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
-* [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
