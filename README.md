@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 16:59:19](https://lobste.rs/s/fatxv5/practical_projective_geometric_algebra) - [Practical Projective Geometric Algebra](https://terathon.com/gdc23_lengyel.pdf)
 * [2023-03-22, 16:39:10](https://lobste.rs/s/kxvmcq/building_plugin_system_with_webassembly) - [Building a Plugin System with WebAssembly](https://www.youtube.com/watch?v=pRT36VqpljA)
 * [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 16:09:12](https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir) - [Building a full-text search engine in Elixir](https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir)
@@ -24,7 +25,6 @@
 * [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 * [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
-* [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 
 ## [Archives](archives/index.md)
 
