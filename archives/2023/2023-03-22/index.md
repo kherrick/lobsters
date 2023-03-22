@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
+* [2023-03-22, 16:09:12](https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir) - [Building a full-text search engine in Elixir](https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir)
+* [2023-03-22, 15:56:51](https://lobste.rs/s/z9x9cz/cleanvision_audit_your_image_data_for) - [CleanVision: Audit your Image Data for better Computer Vision](https://cleanlab.ai/blog/cleanvision/)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
 * [2023-03-22, 15:10:55](https://lobste.rs/s/8wrrsz/providing_terraform_with_ansible_magic) - [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [2023-03-22, 14:18:59](https://lobste.rs/s/xic6io/github_copilot_x_ai_powered_developer) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)

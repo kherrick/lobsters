@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
+* [2023-03-22, 16:09:12](https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir) - [Building a full-text search engine in Elixir](https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir)
+* [2023-03-22, 15:56:51](https://lobste.rs/s/z9x9cz/cleanvision_audit_your_image_data_for) - [CleanVision: Audit your Image Data for better Computer Vision](https://cleanlab.ai/blog/cleanvision/)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
 * [2023-03-22, 15:10:55](https://lobste.rs/s/8wrrsz/providing_terraform_with_ansible_magic) - [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [2023-03-22, 14:18:59](https://lobste.rs/s/xic6io/github_copilot_x_ai_powered_developer) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
-* [2023-03-22, 11:56:50](https://lobste.rs/s/5gsexj/cool_frontend_arts_local_first_storage) - [Cool frontend arts of local-first: storage, sync, conflicts](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
 * [2023-03-22, 10:02:29](https://lobste.rs/s/fv2xqd/flux_keyboard) - [Flux Keyboard](https://www.kickstarter.com/projects/fluxkeyboard/flux-keyboard-the-keyboard-reinvented)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-22, 08:34:27](https://lobste.rs/s/ygxtne/formulating_integer_linear_programs) - [Formulating Integer Linear Programs: A Rogues’ Gallery](https://faculty.nps.edu/dell/docs/Brown_Dell_INFORMS_Transactions_on_Education_January2007.pdf)
@@ -17,14 +19,12 @@
 * [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
-* [2023-03-21, 14:25:55](https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from) - [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 * [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
 * [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
 * [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
-* [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
 
 ## [Archives](archives/index.md)
 
