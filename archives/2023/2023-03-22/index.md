@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 18:31:58](https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
+* [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
 * [2023-03-22, 18:23:07](https://lobste.rs/s/bpobqd/analysis_redline_based_malware) - [Analysis of a Redline Based Malware](https://serhack.me/articles/analysis-redline-based-malware/)
 * [2023-03-22, 17:48:00](https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk_flipt_blog) - [Generating the Flipt Go SDK | Flipt Blog](https://www.flipt.io/blog/generating-the-flipt-go-sdk)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
