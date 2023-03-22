@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 14:18:59](https://lobste.rs/s/xic6io/github_copilot_x_ai_powered_developer) - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 11:56:50](https://lobste.rs/s/5gsexj/cool_frontend_arts_local_first_storage) - [Cool frontend arts of local-first: storage, sync, conflicts](https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts)
 * [2023-03-22, 10:59:46](https://lobste.rs/s/lpqn15/scaling_rust_builds_with_bazel) - [Scaling Rust builds with Bazel](https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html)
@@ -23,7 +24,6 @@
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
-* [2023-03-21, 05:02:57](https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released) - [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-20, 15:37:10](https://lobste.rs/s/uu46e2/vore_simple_rss_atom_feed_reader) - [vore - a simple rss/atom feed reader](https://vore.website)
 
 ## [Archives](archives/index.md)
