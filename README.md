@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
@@ -18,7 +19,6 @@
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-22, 01:26:51](https://lobste.rs/s/le9new/errors_zig) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 * [2023-03-21, 23:38:28](https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell) - [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
-* [2023-03-21, 21:10:08](https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore) - [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:24:09](https://lobste.rs/s/6twnne/modern_c_openssl_examples) - [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
