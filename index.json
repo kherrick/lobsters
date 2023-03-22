@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 18:23:07",
+      "https://lobste.rs/s/bpobqd/analysis_redline_based_malware"
+    ],
+    [
+      "Analysis of a Redline Based Malware",
+      "https://serhack.me/articles/analysis-redline-based-malware/"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 17:48:00",
       "https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk_flipt_blog"
     ],
@@ -237,16 +247,6 @@
     [
       "Web fingerprinting is worse than I thought",
       "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 11:27:31",
-      "https://lobste.rs/s/w6fxzo/write_predictable_software_not"
-    ],
-    [
-      "Write Predictable software, not Ergonomic",
-      "https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic"
     ]
   ]
 ]
