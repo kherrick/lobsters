@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 01:26:51](https://lobste.rs/s/le9new/errors_zig) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 * [2023-03-21, 23:38:28](https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell) - [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
 * [2023-03-21, 21:10:08](https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore) - [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:24:09](https://lobste.rs/s/6twnne/modern_c_openssl_examples) - [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
 * [2023-03-21, 20:13:13](https://lobste.rs/s/uaanxh/programming_languages_for_verifying) - [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
-* [2023-03-21, 19:42:54](https://lobste.rs/s/attg2w/latency_numbers_every_programmer_should) - [Latency numbers every programmer should know, scaled to human terms](https://gist.github.com/hellerbarde/2843375)
 * [2023-03-21, 19:01:54](https://lobste.rs/s/8p84n9/ublock_release_1_48_0_readiness_status) - [uBlock Release 1.48.0 - Readiness status, code viewer](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
 * [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
