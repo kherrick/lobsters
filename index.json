@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-03-22, 16:17:00",
+      "https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet"
+    ],
+    [
+      "Why ChatGPT Won’t Replace Coders Just Yet",
+      "https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 16:09:12",
+      "https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir"
+    ],
+    [
+      "Building a full-text search engine in Elixir",
+      "https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir"
+    ]
+  ],
+  [
+    [
+      "2023-03-22, 15:56:51",
+      "https://lobste.rs/s/z9x9cz/cleanvision_audit_your_image_data_for"
+    ],
+    [
+      "CleanVision: Audit your Image Data for better Computer Vision",
+      "https://cleanlab.ai/blog/cleanvision/"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 15:29:59",
       "https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level"
     ],
@@ -37,16 +67,6 @@
     [
       "Introducing Mozilla.ai: Investing in Trustworthy AI",
       "https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 11:56:50",
-      "https://lobste.rs/s/5gsexj/cool_frontend_arts_local_first_storage"
-    ],
-    [
-      "Cool frontend arts of local-first: storage, sync, conflicts",
-      "https://evilmartians.com/chronicles/cool-front-end-arts-of-local-first-storage-sync-and-conflicts"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-03-21, 14:25:55",
-      "https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from"
-    ],
-    [
-      "Tutorial for extracting the GameBoy ROM from photographs of the die",
-      "https://github.com/travisgoodspeed/gbrom-tutorial"
-    ]
-  ],
-  [
-    [
       "2023-03-21, 13:17:53",
       "https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory"
     ],
@@ -237,16 +247,6 @@
     [
       "I’ve been employed in tech for years, but I’ve almost never worked",
       "https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 10:27:16",
-      "https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical"
-    ],
-    [
-      "letloop.cloud: A cloud for the parenthetical leaning doers",
-      "https://github.com/letloop/letloop.cloud"
     ]
   ]
 ]
