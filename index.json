@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 19:06:49",
+      "https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps"
+    ],
+    [
+      "A collection of quirks around releasing apps to App Store and Play Store",
+      "https://github.com/tramlinehq/store-quirks"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 18:38:42",
       "https://lobste.rs/s/z0agu2/ropfuscator_robust_obfuscation_with_rop"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig Bits 0x2: Using defer to defeat memory leaks",
       "https://blog.orhun.dev/zig-bits-02/"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 12:53:02",
-      "https://lobste.rs/s/mjppkn/navigating_complexities_file_watching"
-    ],
-    [
-      "Navigating the Complexities of File Watching",
-      "https://github.com/vercel/turbo/issues/986#issuecomment-1477360394"
     ]
   ],
   [
