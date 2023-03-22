@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 22:56:02](https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022) - [The Consequences of Scalable Blockchains (2022)](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
@@ -24,7 +25,6 @@
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 * [2023-03-21, 12:50:07](https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly) - [It’s worth putting in the effort to regularly update dependencies](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies)
-* [2023-03-21, 12:34:27](https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i) - [Web fingerprinting is worse than I thought](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
 
 ## [Archives](archives/index.md)
 

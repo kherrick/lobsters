@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 22:56:02](https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022) - [The Consequences of Scalable Blockchains (2022)](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
