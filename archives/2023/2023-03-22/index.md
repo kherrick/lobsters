@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:38:42](https://lobste.rs/s/z0agu2/ropfuscator_robust_obfuscation_with_rop) - [ROPfuscator: Robust Obfuscation with ROP](https://pepe.runas.rocks/papers/ROPfuscator-WOOT23.pdf)
 * [2023-03-22, 18:31:58](https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
