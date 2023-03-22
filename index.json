@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 22:56:02",
+      "https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022"
+    ],
+    [
+      "The Consequences of Scalable Blockchains (2022)",
+      "https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 22:06:24",
       "https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation"
     ],
@@ -237,16 +247,6 @@
     [
       "It’s worth putting in the effort to regularly update dependencies",
       "https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 12:34:27",
-      "https://lobste.rs/s/xmqqj0/web_fingerprinting_is_worse_than_i"
-    ],
-    [
-      "Web fingerprinting is worse than I thought",
-      "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
     ]
   ]
 ]
