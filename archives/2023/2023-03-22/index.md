@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-22](index.md)
 
+* [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:38:42](https://lobste.rs/s/z0agu2/ropfuscator_robust_obfuscation_with_rop) - [ROPfuscator: Robust Obfuscation with ROP](https://pepe.runas.rocks/papers/ROPfuscator-WOOT23.pdf)

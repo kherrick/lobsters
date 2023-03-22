@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
-* [2023-03-22, 18:38:42](https://lobste.rs/s/z0agu2/ropfuscator_robust_obfuscation_with_rop) - [ROPfuscator: Robust Obfuscation with ROP](https://pepe.runas.rocks/papers/ROPfuscator-WOOT23.pdf)
 * [2023-03-22, 18:31:58](https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
 * [2023-03-22, 18:23:07](https://lobste.rs/s/bpobqd/analysis_redline_based_malware) - [Analysis of a Redline Based Malware](https://serhack.me/articles/analysis-redline-based-malware/)
