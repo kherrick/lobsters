@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 * [2023-03-22, 08:34:27](https://lobste.rs/s/ygxtne/formulating_integer_linear_programs) - [Formulating Integer Linear Programs: A Rogues’ Gallery](https://faculty.nps.edu/dell/docs/Brown_Dell_INFORMS_Transactions_on_Education_January2007.pdf)
 * [2023-03-22, 01:26:51](https://lobste.rs/s/le9new/errors_zig) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 * [2023-03-21, 23:38:28](https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell) - [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
@@ -20,7 +21,6 @@
 * [2023-03-21, 11:27:31](https://lobste.rs/s/w6fxzo/write_predictable_software_not) - [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
 * [2023-03-21, 10:46:29](https://lobste.rs/s/mbgpma/i_ve_been_employed_tech_for_years_i_ve) - [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * [2023-03-21, 10:27:16](https://lobste.rs/s/92r5xk/letloop_cloud_cloud_for_parenthetical) - [letloop.cloud: A cloud for the parenthetical leaning doers](https://github.com/letloop/letloop.cloud)
-* [2023-03-21, 08:25:02](https://lobste.rs/s/9fbnlv/github_actions_go) - [Github Actions and Go](https://olegk.dev/github-actions-and-go)
 * [2023-03-21, 06:27:59](https://lobste.rs/s/zx4xzz/twenty_five_years_curl) - [Twenty-five years of curl](https://daniel.haxx.se/blog/2023/03/20/twenty-five-years-of-curl/)
 * [2023-03-21, 05:02:57](https://lobste.rs/s/hbi9hx/gitea_1_19_0_is_released) - [Gitea 1.19.0 is released](https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/)
 * [2023-03-21, 04:09:22](https://lobste.rs/s/abjy9x/aperiodic_monotile) - [An aperiodic monotile](https://arxiv.org/pdf/2303.10798.pdf)
