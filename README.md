@@ -2,6 +2,7 @@
 
 * [2023-03-22, 01:26:51](https://lobste.rs/s/le9new/errors_zig) - [Errors and Zig](https://notes.eatonphil.com/errors-and-zig.html)
 * [2023-03-21, 23:38:28](https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell) - [A ChatGPT Emacs shell](https://xenodium.com/a-chatgpt-emacs-shell)
+* [2023-03-21, 22:00:33](https://lobste.rs/s/vn2ylm/room_generation_using_constraint) - [Room Generation using Constraint Satisfaction](https://pvigier.github.io/2022/11/05/room-generation-using-constraint-satisfaction.html)
 * [2023-03-21, 21:10:08](https://lobste.rs/s/khlxxz/printing_real_headline_news_on_commodore) - [Printing real headline news on the Commodore 64 with The Newsroom's Wire Service](https://oldvcr.blogspot.com/2023/03/printing-real-headline-news-on.html)
 * [2023-03-21, 20:24:09](https://lobste.rs/s/6twnne/modern_c_openssl_examples) - [Modern C++ OpenSSL Examples](https://github.com/RaymiiOrg/openssl-modern-cpp)
 * [2023-03-21, 20:13:13](https://lobste.rs/s/uaanxh/programming_languages_for_verifying) - [Programming Languages for Verifying Compilers](https://www.youtube.com/watch?v=fWSGhxyTG-4)
@@ -10,7 +11,6 @@
 * [2023-03-21, 17:40:05](https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro) - [Why I returned the Mac Mini M2 Pro](https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/)
 * [2023-03-21, 17:01:51](https://lobste.rs/s/1yruu5/3_ai_search_engines_i_use_refactor_my_code) - [The 3 AI search engines I use to refactor my code](https://www.gnod.com/search/ai)
 * [2023-03-21, 16:55:48](https://lobste.rs/s/e3kqwm/java_20_jdk_20_general_availability) - [Java 20 / JDK 20: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
-* [2023-03-21, 15:00:26](https://lobste.rs/s/qbpby9/implementing_transformer_from_scratch) - [Implementing a Transformer From Scratch](https://jorisbaan.nl/2022/03/25/implementing-a-transformer-from-scratch.html)
 * [2023-03-21, 14:25:55](https://lobste.rs/s/odoals/tutorial_for_extracting_gameboy_rom_from) - [Tutorial for extracting the GameBoy ROM from photographs of the die](https://github.com/travisgoodspeed/gbrom-tutorial)
 * [2023-03-21, 13:17:53](https://lobste.rs/s/lalx23/zig_bits_0x2_using_defer_defeat_memory) - [Zig Bits 0x2: Using defer to defeat memory leaks](https://blog.orhun.dev/zig-bits-02/)
 * [2023-03-21, 12:53:02](https://lobste.rs/s/mjppkn/navigating_complexities_file_watching) - [Navigating the Complexities of File Watching](https://github.com/vercel/turbo/issues/986#issuecomment-1477360394)
