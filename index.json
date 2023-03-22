@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-22, 01:26:51",
+      "https://lobste.rs/s/le9new/errors_zig"
+    ],
+    [
+      "Errors and Zig",
+      "https://notes.eatonphil.com/errors-and-zig.html"
+    ]
+  ],
+  [
+    [
       "2023-03-21, 23:38:28",
       "https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell"
     ],
@@ -37,16 +47,6 @@
     [
       "Programming Languages for Verifying Compilers",
       "https://www.youtube.com/watch?v=fWSGhxyTG-4"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 19:42:54",
-      "https://lobste.rs/s/attg2w/latency_numbers_every_programmer_should"
-    ],
-    [
-      "Latency numbers every programmer should know, scaled to human terms",
-      "https://gist.github.com/hellerbarde/2843375"
     ]
   ],
   [
