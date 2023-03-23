@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 09:33:31](https://lobste.rs/s/yzbhzx/openai_s_policies_hinder_reproducible) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
 * [2023-03-22, 22:56:02](https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022) - [The Consequences of Scalable Blockchains (2022)](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
-* [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:31:58](https://lobste.rs/s/ddldbg/reverse_engineering_globus_ink_soviet) - [Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer](http://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html)
