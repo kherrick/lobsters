@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 21:15:14](https://lobste.rs/s/ptbkjj/planning_go_1_21_cryptography_work) - [Planning Go 1.21 Cryptography Work](https://words.filippo.io/dispatches/go-1-21-plan/)
 * [2023-03-23, 21:00:34](https://lobste.rs/s/khsmgw/how_use_alpaca_lora_fine_tune_model_like) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
 * [2023-03-23, 19:59:09](https://lobste.rs/s/w7zmi0/sparks_artificial_general_intelligence) - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
@@ -15,7 +16,6 @@
 * [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-23, 13:30:53](https://lobste.rs/s/pdqmcq/cheating_is_all_you_need) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 12:46:09](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux) - [Practical libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
-* [2023-03-23, 11:51:59](https://lobste.rs/s/j6mb64/laptop_vs_desktop_for_rondb_development) - [Laptop vs Desktop for RonDB development](https://mikaelronstrom.blogspot.com/2023/03/laptop-vs-desktop-for-rondb-development.html?m=1)
 * [2023-03-23, 11:43:02](https://lobste.rs/s/ijpr36/fascination_awk) - [Fascination of AWK](https://maximullaris.com/awk.html)
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
