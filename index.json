@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 15:41:05",
+      "https://lobste.rs/s/fv5sjt/why_c_sails_when_vasa_sank_2014"
+    ],
+    [
+      "Why C++ Sails When the Vasa Sank (2014)",
+      "https://m.youtube.com/watch?v=ltCgzYcpFUI"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 15:14:21",
       "https://lobste.rs/s/nl4p5k/lld_16_elf_changes"
     ],
@@ -227,16 +237,6 @@
     [
       "A CPU is a compiler",
       "https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 01:26:51",
-      "https://lobste.rs/s/le9new/errors_zig"
-    ],
-    [
-      "Errors and Zig",
-      "https://notes.eatonphil.com/errors-and-zig.html"
     ]
   ],
   [
