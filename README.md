@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 19:21:04](https://lobste.rs/s/fbflkx/implementing_visicalc) - [Implementing VisiCalc](https://www.landley.net/history/mirror/apple2/implementingvisicalc.html)
 * [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
 * [2023-03-23, 18:10:20](https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is) - [Speeding up text processing in Python (is hard)](https://pythonspeed.com/articles/faster-text-processing/)
 * [2023-03-23, 17:41:00](https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both) - [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
@@ -23,7 +24,6 @@
 * [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
-* [2023-03-22, 10:02:29](https://lobste.rs/s/fv2xqd/flux_keyboard) - [Flux Keyboard](https://www.kickstarter.com/projects/fluxkeyboard/flux-keyboard-the-keyboard-reinvented)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 
 ## [Archives](archives/index.md)
