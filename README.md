@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 16:38:19](https://lobste.rs/s/edznnr/finding_fixing_eventual_consistency) - [Finding and fixing eventual consistency with Stripe events](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)
 * [2023-03-23, 16:25:32](https://lobste.rs/s/cvkobc/framework_next_level_event_2023_launch) - [Framework Next Level Event | 2023 Launch Event](https://www.youtube.com/watch?v=ccpsyRipHlk)
 * [2023-03-23, 15:41:05](https://lobste.rs/s/fv5sjt/why_c_sails_when_vasa_sank_2014) - [Why C++ Sails When the Vasa Sank (2014)](https://m.youtube.com/watch?v=ltCgzYcpFUI)
 * [2023-03-23, 15:14:21](https://lobste.rs/s/nl4p5k/lld_16_elf_changes) - [lld 16 ELF changes](https://maskray.me/blog/2023-03-19-lld-16-elf-changes)
@@ -16,7 +17,6 @@
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
-* [2023-03-22, 17:48:00](https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk_flipt_blog) - [Generating the Flipt Go SDK | Flipt Blog](https://www.flipt.io/blog/generating-the-flipt-go-sdk)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 * [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
