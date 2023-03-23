@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 21:00:34",
+      "https://lobste.rs/s/khsmgw/how_use_alpaca_lora_fine_tune_model_like"
+    ],
+    [
+      "How to use Alpaca-LoRA to fine-tune a model like ChatGPT",
+      "https://replicate.com/blog/fine-tune-alpaca-with-lora"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 20:03:08",
       "https://lobste.rs/s/lkwafd/bisect"
     ],
@@ -197,16 +207,6 @@
     [
       "GNOME 44 Release Notes",
       "https://release.gnome.org/44/"
-    ]
-  ],
-  [
-    [
-      "2023-03-22, 19:06:49",
-      "https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps"
-    ],
-    [
-      "A collection of quirks around releasing apps to App Store and Play Store",
-      "https://github.com/tramlinehq/store-quirks"
     ]
   ],
   [
