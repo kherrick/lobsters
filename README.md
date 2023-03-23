@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
 * [2023-03-22, 22:56:02](https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022) - [The Consequences of Scalable Blockchains (2022)](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
@@ -11,7 +12,6 @@
 * [2023-03-22, 18:23:07](https://lobste.rs/s/bpobqd/analysis_redline_based_malware) - [Analysis of a Redline Based Malware](https://serhack.me/articles/analysis-redline-based-malware/)
 * [2023-03-22, 17:48:00](https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk_flipt_blog) - [Generating the Flipt Go SDK | Flipt Blog](https://www.flipt.io/blog/generating-the-flipt-go-sdk)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
-* [2023-03-22, 16:59:19](https://lobste.rs/s/fatxv5/practical_projective_geometric_algebra) - [Practical Projective Geometric Algebra](https://terathon.com/gdc23_lengyel.pdf)
 * [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 16:09:12](https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir) - [Building a full-text search engine in Elixir](https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
