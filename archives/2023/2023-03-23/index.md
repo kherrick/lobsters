@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-23, 13:30:53](https://lobste.rs/s/pdqmcq/cheating_is_all_you_need) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 12:46:09](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux) - [Practical libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
 * [2023-03-23, 11:51:59](https://lobste.rs/s/j6mb64/laptop_vs_desktop_for_rondb_development) - [Laptop vs Desktop for RonDB development](https://mikaelronstrom.blogspot.com/2023/03/laptop-vs-desktop-for-rondb-development.html?m=1)
