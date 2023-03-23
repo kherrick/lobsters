@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 16:25:32](https://lobste.rs/s/cvkobc/framework_next_level_event_2023_launch) - [Framework Next Level Event | 2023 Launch Event](https://www.youtube.com/watch?v=ccpsyRipHlk)
 * [2023-03-23, 15:41:05](https://lobste.rs/s/fv5sjt/why_c_sails_when_vasa_sank_2014) - [Why C++ Sails When the Vasa Sank (2014)](https://m.youtube.com/watch?v=ltCgzYcpFUI)
 * [2023-03-23, 15:14:21](https://lobste.rs/s/nl4p5k/lld_16_elf_changes) - [lld 16 ELF changes](https://maskray.me/blog/2023-03-19-lld-16-elf-changes)
 * [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
@@ -10,7 +11,6 @@
 * [2023-03-23, 09:33:31](https://lobste.rs/s/yzbhzx/openai_s_policies_hinder_reproducible) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
-* [2023-03-22, 22:56:02](https://lobste.rs/s/ojyfcz/consequences_scalable_blockchains_2022) - [The Consequences of Scalable Blockchains (2022)](https://medium.com/chainargos/the-consequences-of-scalable-blockchains-8c4d23c6af4d)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
 * [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
