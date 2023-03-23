@@ -17,6 +17,7 @@
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
+* [2023-03-22, 17:48:00](https://lobste.rs/s/sm3v7u/generating_flipt_go_sdk) - [Generating the Flipt Go SDK](https://www.flipt.io/blog/generating-the-flipt-go-sdk)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 * [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
@@ -24,7 +25,6 @@
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 10:02:29](https://lobste.rs/s/fv2xqd/flux_keyboard) - [Flux Keyboard](https://www.kickstarter.com/projects/fluxkeyboard/flux-keyboard-the-keyboard-reinvented)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
-* [2023-03-21, 18:20:23](https://lobste.rs/s/ko1yjj/typst_new_markup_based_typesetting) - [typst: A new markup-based typesetting system that is powerful and easy to learn](https://github.com/typst/typst)
 
 ## [Archives](archives/index.md)
 
