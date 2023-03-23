@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-03-22, 15:10:55",
+      "https://lobste.rs/s/8wrrsz/providing_terraform_with_ansible_magic"
+    ],
+    [
+      "Providing Terraform with that Ansible Magic",
+      "https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic"
+    ]
+  ],
+  [
+    [
       "2023-03-22, 14:18:59",
       "https://lobste.rs/s/xic6io/github_copilot_x_ai_powered_developer"
     ],
@@ -207,16 +217,6 @@
     [
       "A ChatGPT Emacs shell",
       "https://xenodium.com/a-chatgpt-emacs-shell"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 20:24:09",
-      "https://lobste.rs/s/6twnne/modern_c_openssl_examples"
-    ],
-    [
-      "Modern C++ OpenSSL Examples",
-      "https://github.com/RaymiiOrg/openssl-modern-cpp"
     ]
   ],
   [
