@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 15:14:21",
+      "https://lobste.rs/s/nl4p5k/lld_16_elf_changes"
+    ],
+    [
+      "lld 16 ELF changes",
+      "https://maskray.me/blog/2023-03-19-lld-16-elf-changes"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 15:09:46",
       "https://lobste.rs/s/qbprbl/how_big_should_programming_language_be"
     ],
@@ -237,16 +247,6 @@
     [
       "typst: A new markup-based typesetting system that is powerful and easy to learn",
       "https://github.com/typst/typst"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 17:40:05",
-      "https://lobste.rs/s/3gorvj/why_i_returned_mac_mini_m2_pro"
-    ],
-    [
-      "Why I returned the Mac Mini M2 Pro",
-      "https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/"
     ]
   ]
 ]
