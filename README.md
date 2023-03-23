@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
 * [2023-03-23, 18:10:20](https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is) - [Speeding up text processing in Python (is hard)](https://pythonspeed.com/articles/faster-text-processing/)
 * [2023-03-23, 17:41:00](https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both) - [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
 * [2023-03-23, 16:38:19](https://lobste.rs/s/edznnr/finding_fixing_eventual_consistency) - [Finding and fixing eventual consistency with Stripe events](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)
@@ -15,7 +16,6 @@
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
-* [2023-03-22, 20:41:25](https://lobste.rs/s/j1sesu/pebble_might_be_coming_back_as_small) - [Pebble might be coming back — as a small Android phone](https://www.theverge.com/2023/3/22/23595159/pebble-small-android-phone-project-crowdfunding-migicovsky)
 * [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
