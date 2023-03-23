@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-23, 13:30:53",
+      "https://lobste.rs/s/pdqmcq/cheating_is_all_you_need"
+    ],
+    [
+      "Cheating is All You Need",
+      "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 12:46:09",
       "https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I returned the Mac Mini M2 Pro",
       "https://www.jeremymorgan.com/blog/tech/why-i-returned-mac-mini-m2/"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 12:50:07",
-      "https://lobste.rs/s/qew2si/it_s_worth_putting_effort_regularly"
-    ],
-    [
-      "It’s worth putting in the effort to regularly update dependencies",
-      "https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies"
     ]
   ]
 ]
