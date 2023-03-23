@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 21:00:34](https://lobste.rs/s/khsmgw/how_use_alpaca_lora_fine_tune_model_like) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
 * [2023-03-23, 19:59:09](https://lobste.rs/s/w7zmi0/sparks_artificial_general_intelligence) - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 * [2023-03-23, 19:49:34](https://lobste.rs/s/931961/notes_on_ffts_for_implementers) - [Notes on FFTs: for implementers](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
