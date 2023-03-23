@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 11:51:59](https://lobste.rs/s/j6mb64/laptop_vs_desktop_for_rondb_development) - [Laptop vs Desktop for RonDB development](https://mikaelronstrom.blogspot.com/2023/03/laptop-vs-desktop-for-rondb-development.html?m=1)
+* [2023-03-23, 11:43:02](https://lobste.rs/s/ijpr36/fascination_awk) - [Fascination of AWK](https://maximullaris.com/awk.html)
 * [2023-03-23, 09:33:31](https://lobste.rs/s/yzbhzx/openai_s_policies_hinder_reproducible) - [OpenAI’s policies hinder reproducible research on language models](https://aisnakeoil.substack.com/p/openais-policies-hinder-reproducible)
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
