@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 15:41:05](https://lobste.rs/s/fv5sjt/why_c_sails_when_vasa_sank_2014) - [Why C++ Sails When the Vasa Sank (2014)](https://m.youtube.com/watch?v=ltCgzYcpFUI)
 * [2023-03-23, 15:14:21](https://lobste.rs/s/nl4p5k/lld_16_elf_changes) - [lld 16 ELF changes](https://maskray.me/blog/2023-03-19-lld-16-elf-changes)
 * [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-23, 13:30:53](https://lobste.rs/s/pdqmcq/cheating_is_all_you_need) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
