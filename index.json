@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-23, 11:51:59",
+      "https://lobste.rs/s/j6mb64/laptop_vs_desktop_for_rondb_development"
+    ],
+    [
+      "Laptop vs Desktop for RonDB development",
+      "https://mikaelronstrom.blogspot.com/2023/03/laptop-vs-desktop-for-rondb-development.html?m=1"
+    ]
+  ],
+  [
+    [
+      "2023-03-23, 11:43:02",
+      "https://lobste.rs/s/ijpr36/fascination_awk"
+    ],
+    [
+      "Fascination of AWK",
+      "https://maximullaris.com/awk.html"
+    ]
+  ],
+  [
+    [
       "2023-03-23, 09:33:31",
       "https://lobste.rs/s/yzbhzx/openai_s_policies_hinder_reproducible"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-03-22, 16:09:12",
-      "https://lobste.rs/s/kp6i1a/building_full_text_search_engine_elixir"
-    ],
-    [
-      "Building a full-text search engine in Elixir",
-      "https://culttt.com/2023/03/22/building-a-full-text-search-engine-in-elixir"
-    ]
-  ],
-  [
-    [
       "2023-03-22, 15:29:59",
       "https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level"
     ],
@@ -207,16 +217,6 @@
     [
       "Errors and Zig",
       "https://notes.eatonphil.com/errors-and-zig.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-21, 23:38:28",
-      "https://lobste.rs/s/rkqxzg/chatgpt_emacs_shell"
-    ],
-    [
-      "A ChatGPT Emacs shell",
-      "https://xenodium.com/a-chatgpt-emacs-shell"
     ]
   ],
   [
