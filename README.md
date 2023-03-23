@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-23, 19:49:34](https://lobste.rs/s/931961/notes_on_ffts_for_implementers) - [Notes on FFTs: for implementers](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
 * [2023-03-23, 19:21:04](https://lobste.rs/s/fbflkx/implementing_visicalc) - [Implementing VisiCalc](https://www.landley.net/history/mirror/apple2/implementingvisicalc.html)
 * [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
 * [2023-03-23, 18:10:20](https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is) - [Speeding up text processing in Python (is hard)](https://pythonspeed.com/articles/faster-text-processing/)
@@ -21,7 +22,6 @@
 * [2023-03-22, 19:06:49](https://lobste.rs/s/lzknu2/collection_quirks_around_releasing_apps) - [A collection of quirks around releasing apps to App Store and Play Store](https://github.com/tramlinehq/store-quirks)
 * [2023-03-22, 18:24:26](https://lobste.rs/s/63s6w7/pull_vs_push_intentional_notifications) - [Pull vs push: intentional notifications](https://secluded.site/pull-vs-push-intentional-notifications/)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
-* [2023-03-22, 16:17:00](https://lobste.rs/s/yls52i/why_chatgpt_won_t_replace_coders_just_yet) - [Why ChatGPT Won’t Replace Coders Just Yet](https://clivethompson.medium.com/why-chatgpt-wont-replace-coders-just-yet-87487a9dda4e)
 * [2023-03-22, 15:29:59](https://lobste.rs/s/4luzak/autometrics_rs_0_3_defining_service_level) - [autometrics-rs 0.3: Defining Service-Level Objectives (SLOs) in Rust Source Code](https://fiberplane.com/blog/autometrics-rs-0-3-defining-service-level-objectives-in-rust-source-code)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
 * [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-23](index.md)
 
+* [2023-03-23, 19:49:34](https://lobste.rs/s/931961/notes_on_ffts_for_implementers) - [Notes on FFTs: for implementers](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
 * [2023-03-23, 19:21:04](https://lobste.rs/s/fbflkx/implementing_visicalc) - [Implementing VisiCalc](https://www.landley.net/history/mirror/apple2/implementingvisicalc.html)
 * [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
 * [2023-03-23, 18:10:20](https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is) - [Speeding up text processing in Python (is hard)](https://pythonspeed.com/articles/faster-text-processing/)
