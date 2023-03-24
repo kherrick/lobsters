@@ -9,6 +9,7 @@
 * [2023-03-24, 07:02:45](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data) - [Optimizing a parser/compiler with data-oriented design: a case study](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2023-03-24, 06:11:53](https://lobste.rs/s/4jxdrp/introduction_vss_library_ada) - [Introduction to VSS library Ada Programming Language](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
+* [2023-03-24, 05:07:11](https://lobste.rs/s/y2wxll/how_speed_up_rust_compiler_march_2023) - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 21:15:14](https://lobste.rs/s/ptbkjj/planning_go_1_21_cryptography_work) - [Planning Go 1.21 Cryptography Work](https://words.filippo.io/dispatches/go-1-21-plan/)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
@@ -24,7 +25,6 @@
 * [2023-03-23, 12:46:09](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux) - [Practical libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
 * [2023-03-23, 11:43:02](https://lobste.rs/s/ijpr36/fascination_awk) - [Fascination of AWK](https://maximullaris.com/awk.html)
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
-* [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 
 ## [Archives](archives/index.md)
 
