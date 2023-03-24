@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 15:01:57](https://lobste.rs/s/8xc7gs/compositional_deep_learning_futhark) - [Compositional Deep Learning in Futhark](https://elsman.com/pdf/fhpnc19.pdf)
+* [2023-03-24, 15:00:38](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend)
 * [2023-03-24, 14:50:21](https://lobste.rs/s/4kbxbm/how_shape_responses_api_calls) - [How to Shape Responses to API Calls](https://www.informit.com/articles/article.aspx?p=3171761)
 * [2023-03-24, 13:28:18](https://lobste.rs/s/dbcsb9/secureswitch_bios_assisted_isolation) - [SecureSwitch: BIOS-Assisted Isolation and Switch between Trusted and Untrusted Commodity OSes (2011)](https://cs.gmu.edu/media/techreports/GMU-CS-TR-2011-7.pdf)
 * [2023-03-24, 12:18:53](https://lobste.rs/s/0fnu7b/building_containers_with_nix_gitlab_ci) - [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68/)
