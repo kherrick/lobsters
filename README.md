@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 * [2023-03-24, 15:01:57](https://lobste.rs/s/8xc7gs/compositional_deep_learning_futhark) - [Compositional Deep Learning in Futhark](https://elsman.com/pdf/fhpnc19.pdf)
 * [2023-03-24, 15:00:38](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend)
@@ -12,7 +13,6 @@
 * [2023-03-24, 07:02:45](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data) - [Optimizing a parser/compiler with data-oriented design: a case study](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2023-03-24, 06:11:53](https://lobste.rs/s/4jxdrp/introduction_vss_library_ada) - [Introduction to VSS library Ada Programming Language](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
-* [2023-03-24, 05:07:11](https://lobste.rs/s/y2wxll/how_speed_up_rust_compiler_march_2023) - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
 * [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
