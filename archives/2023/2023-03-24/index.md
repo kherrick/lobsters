@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 21:43:44](https://lobste.rs/s/my0cm9/internet_skull) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
+* [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 20:22:23](https://lobste.rs/s/lrc1du/evolution_leanstore) - [The Evolution of LeanStore](https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y)
 * [2023-03-24, 19:18:09](https://lobste.rs/s/zy5a6e/webpage_sampler_chrome_extension_sample) - [webpage-sampler: chrome extension to sample audio from web page into wav file](https://github.com/chaosprint/webpage-sampler)
