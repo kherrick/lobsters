@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 05:07:11](https://lobste.rs/s/y2wxll/how_speed_up_rust_compiler_march_2023) - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 21:15:14](https://lobste.rs/s/ptbkjj/planning_go_1_21_cryptography_work) - [Planning Go 1.21 Cryptography Work](https://words.filippo.io/dispatches/go-1-21-plan/)
 * [2023-03-23, 21:00:34](https://lobste.rs/s/khsmgw/how_use_alpaca_lora_fine_tune_model_like) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
@@ -13,7 +14,6 @@
 * [2023-03-23, 16:38:19](https://lobste.rs/s/edznnr/finding_fixing_eventual_consistency) - [Finding and fixing eventual consistency with Stripe events](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)
 * [2023-03-23, 16:25:32](https://lobste.rs/s/cvkobc/framework_next_level_event_2023_launch) - [Framework Next Level Event | 2023 Launch Event](https://www.youtube.com/watch?v=ccpsyRipHlk)
 * [2023-03-23, 15:41:05](https://lobste.rs/s/fv5sjt/why_c_sails_when_vasa_sank_2014) - [Why C++ Sails When the Vasa Sank (2014)](https://m.youtube.com/watch?v=ltCgzYcpFUI)
-* [2023-03-23, 15:14:21](https://lobste.rs/s/nl4p5k/lld_16_elf_changes) - [lld 16 ELF changes](https://maskray.me/blog/2023-03-19-lld-16-elf-changes)
 * [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-23, 13:30:53](https://lobste.rs/s/pdqmcq/cheating_is_all_you_need) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 12:46:09](https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux) - [Practical libc-free threading on Linux](https://nullprogram.com/blog/2023/03/23/)
