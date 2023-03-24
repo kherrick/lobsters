@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 14:50:21](https://lobste.rs/s/4kbxbm/how_shape_responses_api_calls) - [How to Shape Responses to API Calls](https://www.informit.com/articles/article.aspx?p=3171761)
 * [2023-03-24, 13:28:18](https://lobste.rs/s/dbcsb9/secureswitch_bios_assisted_isolation) - [SecureSwitch: BIOS-Assisted Isolation and Switch between Trusted and Untrusted Commodity OSes (2011)](https://cs.gmu.edu/media/techreports/GMU-CS-TR-2011-7.pdf)
 * [2023-03-24, 12:18:53](https://lobste.rs/s/0fnu7b/building_containers_with_nix_gitlab_ci) - [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68/)
 * [2023-03-24, 10:48:22](https://lobste.rs/s/gfpxsn/ai_psychosis) - [AI psychosis](https://blog.piekniewski.info/2023/02/07/ai-psychosis/)
