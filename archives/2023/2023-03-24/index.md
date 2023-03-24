@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 23:11:08](https://lobste.rs/s/pn38ix/when_root_on_zfs_breaks_on_arch_linux) - [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-24, 21:43:44](https://lobste.rs/s/my0cm9/internet_skull) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
