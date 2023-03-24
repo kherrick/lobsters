@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-03-24, 07:11:55",
+      "https://lobste.rs/s/kakw4f/logging_at_zerodha"
+    ],
+    [
+      "Logging at Zerodha",
+      "https://zerodha.tech/blog/logging-at-zerodha/"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 07:02:45",
       "https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data"
     ],
@@ -217,16 +227,6 @@
     [
       "Cheating is All You Need",
       "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 12:46:09",
-      "https://lobste.rs/s/y4yvrg/practical_libc_free_threading_on_linux"
-    ],
-    [
-      "Practical libc-free threading on Linux",
-      "https://nullprogram.com/blog/2023/03/23/"
     ]
   ],
   [
