@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 * [2023-03-24, 15:01:57](https://lobste.rs/s/8xc7gs/compositional_deep_learning_futhark) - [Compositional Deep Learning in Futhark](https://elsman.com/pdf/fhpnc19.pdf)
 * [2023-03-24, 15:00:38](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend)
 * [2023-03-24, 14:50:21](https://lobste.rs/s/4kbxbm/how_shape_responses_api_calls) - [How to Shape Responses to API Calls](https://www.informit.com/articles/article.aspx?p=3171761)
