@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-24](index.md)
+
+* [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
