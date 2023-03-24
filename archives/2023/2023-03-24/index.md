@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 12:18:53](https://lobste.rs/s/0fnu7b/building_containers_with_nix_gitlab_ci) - [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68/)
 * [2023-03-24, 10:48:22](https://lobste.rs/s/gfpxsn/ai_psychosis) - [AI psychosis](https://blog.piekniewski.info/2023/02/07/ai-psychosis/)
 * [2023-03-24, 09:07:16](https://lobste.rs/s/rgze3o/sparsegpt_remove_100b_parameters_for) - [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
 * [2023-03-24, 08:19:15](https://lobste.rs/s/q1hzen/implementing_multi_file_analysis_for) - [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
