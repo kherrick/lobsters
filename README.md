@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 19:01:18](https://lobste.rs/s/y26lwz/library_patterns_why_frameworks_are_evil) - [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
@@ -10,7 +11,6 @@
 * [2023-03-24, 09:07:16](https://lobste.rs/s/rgze3o/sparsegpt_remove_100b_parameters_for) - [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
 * [2023-03-24, 08:19:15](https://lobste.rs/s/q1hzen/implementing_multi_file_analysis_for) - [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
 * [2023-03-24, 07:18:05](https://lobste.rs/s/fvnmce/must_move_types_linear_types_proposed_for) - [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
-* [2023-03-24, 07:11:55](https://lobste.rs/s/kakw4f/logging_at_zerodha) - [Logging at Zerodha](https://zerodha.tech/blog/logging-at-zerodha/)
 * [2023-03-24, 07:02:45](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data) - [Optimizing a parser/compiler with data-oriented design: a case study](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2023-03-24, 06:11:53](https://lobste.rs/s/4jxdrp/introduction_vss_library_ada) - [Introduction to VSS library Ada Programming Language](https://blog.adacore.com/introduction-to-vss-library)
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
