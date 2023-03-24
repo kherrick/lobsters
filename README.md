@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 06:11:53](https://lobste.rs/s/4jxdrp/introduction_vss_library_ada) - [Introduction to VSS library Ada Programming Language](https://blog.adacore.com/introduction-to-vss-library)
+* [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 05:07:11](https://lobste.rs/s/y2wxll/how_speed_up_rust_compiler_march_2023) - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 21:15:14](https://lobste.rs/s/ptbkjj/planning_go_1_21_cryptography_work) - [Planning Go 1.21 Cryptography Work](https://words.filippo.io/dispatches/go-1-21-plan/)
@@ -21,10 +23,8 @@
 * [2023-03-23, 08:59:22](https://lobste.rs/s/x5avwc/verse_language_reference) - [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [2023-03-23, 00:15:03](https://lobste.rs/s/4xwjdl/windows_11_also_vulnerable_acropalypse) - [Windows 11 also vulnerable to “aCropalypse” image data leakage](https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/)
 * [2023-03-22, 22:06:24](https://lobste.rs/s/xmjiyx/thumbhash_very_compact_representation) - [ThumbHash: A very compact representation of an image placeholder](https://evanw.github.io/thumbhash/)
-* [2023-03-22, 19:24:53](https://lobste.rs/s/xed1ku/gnome_44_release_notes) - [GNOME 44 Release Notes](https://release.gnome.org/44/)
 * [2023-03-22, 17:39:03](https://lobste.rs/s/om32da/unix_process_api_is_unreliable_unsafe) - [The Unix process API is unreliable and unsafe](http://catern.com/process.html)
 * [2023-03-22, 13:38:43](https://lobste.rs/s/phkelk/introducing_mozilla_ai_investing) - [Introducing Mozilla.ai: Investing in Trustworthy AI](https://blog.mozilla.org/en/mozilla/introducing-mozilla-ai-investing-in-trustworthy-ai/)
-* [2023-03-22, 09:31:50](https://lobste.rs/s/okcml7/cpu_is_compiler) - [A CPU is a compiler](https://outerproduct.net/boring/2023-03-22_cpu-compiler-gc-ohmy.html)
 
 ## [Archives](archives/index.md)
 
