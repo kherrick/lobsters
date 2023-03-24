@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 * [2023-03-24, 15:01:57](https://lobste.rs/s/8xc7gs/compositional_deep_learning_futhark) - [Compositional Deep Learning in Futhark](https://elsman.com/pdf/fhpnc19.pdf)
@@ -15,7 +16,6 @@
 * [2023-03-24, 05:07:11](https://lobste.rs/s/y2wxll/how_speed_up_rust_compiler_march_2023) - [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
-* [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
 * [2023-03-23, 18:10:20](https://lobste.rs/s/8kng64/speeding_up_text_processing_python_is) - [Speeding up text processing in Python (is hard)](https://pythonspeed.com/articles/faster-text-processing/)
 * [2023-03-23, 17:41:00](https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both) - [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
 * [2023-03-23, 16:38:19](https://lobste.rs/s/edznnr/finding_fixing_eventual_consistency) - [Finding and fixing eventual consistency with Stripe events](https://blog.sequin.io/finding-and-fixing-eventual-consistency-with-stripe-events/)
