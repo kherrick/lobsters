@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 20:22:23](https://lobste.rs/s/lrc1du/evolution_leanstore) - [The Evolution of LeanStore](https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y)
 * [2023-03-24, 19:18:09](https://lobste.rs/s/zy5a6e/webpage_sampler_chrome_extension_sample) - [webpage-sampler: chrome extension to sample audio from web page into wav file](https://github.com/chaosprint/webpage-sampler)
 * [2023-03-24, 19:01:18](https://lobste.rs/s/y26lwz/library_patterns_why_frameworks_are_evil) - [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
