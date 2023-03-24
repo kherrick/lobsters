@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-24](index.md)
 
+* [2023-03-24, 10:48:22](https://lobste.rs/s/gfpxsn/ai_psychosis) - [AI psychosis](https://blog.piekniewski.info/2023/02/07/ai-psychosis/)
 * [2023-03-24, 09:07:16](https://lobste.rs/s/rgze3o/sparsegpt_remove_100b_parameters_for) - [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
 * [2023-03-24, 08:19:15](https://lobste.rs/s/q1hzen/implementing_multi_file_analysis_for) - [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
 * [2023-03-24, 07:18:05](https://lobste.rs/s/fvnmce/must_move_types_linear_types_proposed_for) - [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
