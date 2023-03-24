@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-24, 20:22:23",
+      "https://lobste.rs/s/lrc1du/evolution_leanstore"
+    ],
+    [
+      "The Evolution of LeanStore",
+      "https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 19:18:09",
       "https://lobste.rs/s/zy5a6e/webpage_sampler_chrome_extension_sample"
     ],
@@ -117,16 +127,6 @@
     [
       "Must move types [Linear types proposed for Rust]",
       "https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 07:02:45",
-      "https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data"
-    ],
-    [
-      "Optimizing a parser/compiler with data-oriented design: a case study",
-      "https://tweedegolf.nl/en/blog/88/data-oriented-design"
     ]
   ],
   [
