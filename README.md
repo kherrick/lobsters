@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-24, 07:18:05](https://lobste.rs/s/fvnmce/must_move_types_linear_types_proposed_for) - [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
 * [2023-03-24, 07:11:55](https://lobste.rs/s/kakw4f/logging_at_zerodha_zerodha_tech_blog) - [Logging at Zerodha - Zerodha Tech Blog](https://zerodha.tech/blog/logging-at-zerodha/)
 * [2023-03-24, 07:02:45](https://lobste.rs/s/yo1bez/optimizing_parser_compiler_with_data) - [Optimizing a parser/compiler with data-oriented design: a case study](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2023-03-24, 06:11:53](https://lobste.rs/s/4jxdrp/introduction_vss_library_ada) - [Introduction to VSS library Ada Programming Language](https://blog.adacore.com/introduction-to-vss-library)
@@ -9,7 +10,6 @@
 * [2023-03-23, 21:15:14](https://lobste.rs/s/ptbkjj/planning_go_1_21_cryptography_work) - [Planning Go 1.21 Cryptography Work](https://words.filippo.io/dispatches/go-1-21-plan/)
 * [2023-03-23, 21:00:34](https://lobste.rs/s/khsmgw/how_use_alpaca_lora_fine_tune_model_like) - [How to use Alpaca-LoRA to fine-tune a model like ChatGPT](https://replicate.com/blog/fine-tune-alpaca-with-lora)
 * [2023-03-23, 20:03:08](https://lobste.rs/s/lkwafd/bisect) - [bisect](https://gitlab.com/engmark/bisect)
-* [2023-03-23, 19:59:09](https://lobste.rs/s/w7zmi0/sparks_artificial_general_intelligence) - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 * [2023-03-23, 19:49:34](https://lobste.rs/s/931961/notes_on_ffts_for_implementers) - [Notes on FFTs: for implementers](https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/)
 * [2023-03-23, 19:21:04](https://lobste.rs/s/fbflkx/implementing_visicalc) - [Implementing VisiCalc](https://www.landley.net/history/mirror/apple2/implementingvisicalc.html)
 * [2023-03-23, 18:32:06](https://lobste.rs/s/ymucj0/automatically_download_missing_dynamic) - [Automatically download missing dynamic lib debug symbols in gdb and debian](https://pitsidianak.is/blog/posts/2023-03-20_debian_gdb_auto_dl_dbg.html)
