@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 * [2023-03-25, 03:21:02](https://lobste.rs/s/9o8xds/free_software_during_wartime) - [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
 * [2023-03-25, 03:07:27](https://lobste.rs/s/uccvzv/scrapeghost_is_experimental_library_for) - [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
