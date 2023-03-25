@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 12:18:35](https://lobste.rs/s/p2p38l/file_expiration_using_bpf) - [File expiration using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 * [2023-03-25, 03:21:02](https://lobste.rs/s/9o8xds/free_software_during_wartime) - [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
 * [2023-03-25, 03:07:27](https://lobste.rs/s/uccvzv/scrapeghost_is_experimental_library_for) - [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
@@ -12,7 +13,6 @@
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 20:22:23](https://lobste.rs/s/lrc1du/evolution_leanstore) - [The Evolution of LeanStore](https://dl.gi.de/bitstream/handle/20.500.12116/40317/B3-2.pdf?sequence=1&isAllowed=y)
-* [2023-03-24, 19:18:09](https://lobste.rs/s/zy5a6e/webpage_sampler_chrome_extension_sample) - [webpage-sampler: chrome extension to sample audio from web page into wav file](https://github.com/chaosprint/webpage-sampler)
 * [2023-03-24, 19:01:18](https://lobste.rs/s/y26lwz/library_patterns_why_frameworks_are_evil) - [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
