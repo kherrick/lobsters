@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
@@ -16,7 +17,6 @@
 * [2023-03-25, 02:27:21](https://lobste.rs/s/c9mjyp/explaining_my_fast_6502_code_generator) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-25, 01:57:37](https://lobste.rs/s/nqo9rx/sequencegenius_generate_sequence) - [sequencegenius - Generate sequence diagrams from your idea](https://github.com/huytd/sequencegenius)
 * [2023-03-24, 23:11:08](https://lobste.rs/s/pn38ix/when_root_on_zfs_breaks_on_arch_linux) - [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
-* [2023-03-24, 21:43:44](https://lobste.rs/s/my0cm9/internet_skull) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
