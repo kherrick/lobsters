@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 14:43:46](https://lobste.rs/s/7hvf6e/docker_docker_inc_docker_hub_their) - [Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 12:48:38](https://lobste.rs/s/v9i4oj/what_is_origin_model_view_controller) - [What is the origin of model-view-controller?](https://www.quora.com/What-is-the-origin-of-model-view-controller)
 * [2023-03-25, 12:18:35](https://lobste.rs/s/p2p38l/file_expiration_using_bpf) - [File expiration using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 14:43:46](https://lobste.rs/s/7hvf6e/docker_docker_inc_docker_hub_their) - [Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 12:48:38](https://lobste.rs/s/v9i4oj/what_is_origin_model_view_controller) - [What is the origin of model-view-controller?](https://www.quora.com/What-is-the-origin-of-model-view-controller)
 * [2023-03-25, 12:18:35](https://lobste.rs/s/p2p38l/file_expiration_using_bpf) - [File expiration using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
@@ -23,7 +24,6 @@
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 * [2023-03-24, 04:15:27](https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into) - [$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine](https://twitter.com/mikecodemonkey/status/1638635840355311616)
 * [2023-03-23, 17:41:00](https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both) - [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
-* [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 * [2023-03-23, 11:43:02](https://lobste.rs/s/ijpr36/fascination_awk) - [Fascination of AWK](https://maximullaris.com/awk.html)
 
 ## [Archives](archives/index.md)
