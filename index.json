@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-25, 16:09:37",
+      "https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source"
+    ],
+    [
+      "Weka Violates MinIO's Open Source Licenses",
+      "https://blog.min.io/weka-violates-minios-open-source-licenses/"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 15:25:04",
       "https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on"
     ],
@@ -227,16 +237,6 @@
     [
       "GitHub unexpectedly rotates its RSA SSH host key",
       "https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 04:15:27",
-      "https://lobste.rs/s/mtkplt/30_lenovo_n42_chromebook_converted_into"
-    ],
-    [
-      "$30 Lenovo N42 Chromebook converted into a full fledged Nix/OS machine",
-      "https://twitter.com/mikecodemonkey/status/1638635840355311616"
     ]
   ],
   [
