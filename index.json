@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-25, 01:57:37",
+      "https://lobste.rs/s/nqo9rx/sequencegenius_generate_sequence"
+    ],
+    [
+      "sequencegenius - Generate sequence diagrams from your idea",
+      "https://github.com/huytd/sequencegenius"
+    ]
+  ],
+  [
+    [
       "2023-03-24, 23:11:08",
       "https://lobste.rs/s/pn38ix/when_root_on_zfs_breaks_on_arch_linux"
     ],
@@ -227,16 +237,6 @@
     [
       "How Big Should a Programming Language Be?",
       "https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-23, 13:30:53",
-      "https://lobste.rs/s/pdqmcq/cheating_is_all_you_need"
-    ],
-    [
-      "Cheating is All You Need",
-      "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
     ]
   ],
   [
