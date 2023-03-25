@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 01:57:37](https://lobste.rs/s/nqo9rx/sequencegenius_generate_sequence) - [sequencegenius - Generate sequence diagrams from your idea](https://github.com/huytd/sequencegenius)
 * [2023-03-24, 23:11:08](https://lobste.rs/s/pn38ix/when_root_on_zfs_breaks_on_arch_linux) - [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-24, 21:43:44](https://lobste.rs/s/my0cm9/internet_skull) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
@@ -23,7 +24,6 @@
 * [2023-03-23, 17:41:00](https://lobste.rs/s/jwljsv/introducing_framework_laptop_16_both) - [Introducing the Framework Laptop 16 and both Intel and AMD-powered Framework Laptop 13](https://frame.work/blog/introducing-the-framework-laptop-16-and-both-intel-and-amd-powered-framework-laptop-13)
 * [2023-03-23, 16:25:32](https://lobste.rs/s/cvkobc/framework_next_level_event_2023_launch) - [Framework Next Level Event | 2023 Launch Event](https://www.youtube.com/watch?v=ccpsyRipHlk)
 * [2023-03-23, 15:09:46](https://lobste.rs/s/qbprbl/how_big_should_programming_language_be) - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
-* [2023-03-23, 13:30:53](https://lobste.rs/s/pdqmcq/cheating_is_all_you_need) - [Cheating is All You Need](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
 * [2023-03-23, 11:43:02](https://lobste.rs/s/ijpr36/fascination_awk) - [Fascination of AWK](https://maximullaris.com/awk.html)
 
 ## [Archives](archives/index.md)
