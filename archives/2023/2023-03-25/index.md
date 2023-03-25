@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 12:48:38](https://lobste.rs/s/v9i4oj/what_is_origin_model_view_controller) - [What is the origin of model-view-controller?](https://www.quora.com/What-is-the-origin-of-model-view-controller)
 * [2023-03-25, 12:18:35](https://lobste.rs/s/p2p38l/file_expiration_using_bpf) - [File expiration using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 * [2023-03-25, 03:21:02](https://lobste.rs/s/9o8xds/free_software_during_wartime) - [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
