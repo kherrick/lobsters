@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 03:21:02](https://lobste.rs/s/9o8xds/free_software_during_wartime) - [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
 * [2023-03-25, 03:07:27](https://lobste.rs/s/uccvzv/scrapeghost_is_experimental_library_for) - [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_looses_it) - [Internet archive (archive.org) looses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
@@ -16,7 +17,6 @@
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 * [2023-03-24, 15:00:38](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend)
-* [2023-03-24, 12:18:53](https://lobste.rs/s/0fnu7b/building_containers_with_nix_gitlab_ci) - [Building containers with Nix and Gitlab CI](https://scvalex.net/posts/68/)
 * [2023-03-24, 09:07:16](https://lobste.rs/s/rgze3o/sparsegpt_remove_100b_parameters_for) - [SparseGPT: Remove 100B Parameters For Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
 * [2023-03-24, 08:19:15](https://lobste.rs/s/q1hzen/implementing_multi_file_analysis_for) - [Implementing multi-file analysis for linters](https://jfmengels.net/multi-file-analysis/)
 * [2023-03-24, 07:18:05](https://lobste.rs/s/fvnmce/must_move_types_linear_types_proposed_for) - [Must move types [Linear types proposed for Rust]](https://smallcultfollowing.com/babysteps/blog/2023/03/16/must-move-types/)
