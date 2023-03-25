@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 16:59:40](https://lobste.rs/s/vimvgk/indirect_prompt_injection) - [Indirect prompt injection](https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20)
 * [2023-03-25, 16:33:55](https://lobste.rs/s/f33c2n/asref_vs_borrow_trait_ft_chatgpt) - [AsRef vs Borrow trait (ft. ChatGPT)](https://rusty-ferris.pages.dev/blog/asref-vs-borrow-trait/)
 * [2023-03-25, 16:09:37](https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source) - [Weka Violates MinIO's Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
@@ -17,7 +18,6 @@
 * [2023-03-24, 21:43:44](https://lobste.rs/s/my0cm9/internet_skull) - [Internet of Skull](https://mle-online.com/projects/internet_skull/index.html)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
-* [2023-03-24, 19:01:18](https://lobste.rs/s/y26lwz/library_patterns_why_frameworks_are_evil) - [Library patterns: Why frameworks are evil (2015)](https://tomasp.net/blog/2015/library-frameworks/)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
