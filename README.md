@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 18:25:33](https://lobste.rs/s/98eheu/philosophers_on_gpt_3) - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
-* [2023-03-25, 16:59:40](https://lobste.rs/s/vimvgk/indirect_prompt_injection) - [Indirect prompt injection](https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20)
 * [2023-03-25, 16:33:55](https://lobste.rs/s/f33c2n/asref_vs_borrow_trait_ft_chatgpt) - [AsRef vs Borrow trait (ft. ChatGPT)](https://rusty-ferris.pages.dev/blog/asref-vs-borrow-trait/)
 * [2023-03-25, 16:09:37](https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source) - [Weka Violates MinIO's Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
