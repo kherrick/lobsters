@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 03:07:27](https://lobste.rs/s/uccvzv/scrapeghost_is_experimental_library_for) - [scrapeghost is an experimental library for scraping websites using OpenAI's GPT](https://jamesturk.github.io/scrapeghost/)
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_looses_it) - [Internet archive (archive.org) looses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
 * [2023-03-25, 02:27:21](https://lobste.rs/s/c9mjyp/explaining_my_fast_6502_code_generator) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
