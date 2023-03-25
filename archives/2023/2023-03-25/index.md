@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-25](index.md)
 
+* [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 18:25:33](https://lobste.rs/s/98eheu/philosophers_on_gpt_3) - [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
