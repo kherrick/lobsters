@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-25, 21:35:24",
+      "https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer"
+    ],
+    [
+      "Fenix: Rust toolchains and rust-analyzer nightly for Nix",
+      "https://github.com/nix-community/fenix"
+    ]
+  ],
+  [
+    [
       "2023-03-25, 18:37:37",
       "https://lobste.rs/s/sylfum/synthetic_memory_protections"
     ],
@@ -17,16 +27,6 @@
     [
       "ChatGPT isn’t hallucinating; it’s delirious",
       "https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 16:59:40",
-      "https://lobste.rs/s/vimvgk/indirect_prompt_injection"
-    ],
-    [
-      "Indirect prompt injection",
-      "https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20"
     ]
   ],
   [
