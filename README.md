@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 13:24:47](https://lobste.rs/s/orpvav/forwarding_ssh_agent_through_websockets) - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
 * [2023-03-26, 12:22:50](https://lobste.rs/s/prvzij/just_update_rules_between_neurons) - [Just update rules between neurons](https://www.jtolio.com/2023/03/just-update-rules-between-neurons/)
 * [2023-03-26, 11:02:31](https://lobste.rs/s/qbntfe/how_ray_tracing_modern_cgi_works_how_do_it) - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)
 * [2023-03-26, 10:21:45](https://lobste.rs/s/n4oxha/redbook_reading_red_book_decoding) - [redbook: Reading the Red Book – decoding Compact Disc Digital Audio](https://github.com/carrotIndustries/redbook)
@@ -24,7 +25,6 @@
 * [2023-03-25, 02:27:21](https://lobste.rs/s/c9mjyp/explaining_my_fast_6502_code_generator) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
-* [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 
 ## [Archives](archives/index.md)
 
