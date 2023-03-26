@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
 * [2023-03-26, 02:56:03](https://lobste.rs/s/qsf9hv/introducing_butler_virtual_operating) - [Introducing Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-26, 02:19:50](https://lobste.rs/s/eycmsx/chatgpt_code_interpreter_magic) - [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
@@ -23,7 +24,6 @@
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
-* [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 
 ## [Archives](archives/index.md)
