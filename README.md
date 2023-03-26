@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 20:13:04](https://lobste.rs/s/wry3pp/logic_proof) - [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
+* [2023-03-26, 20:01:37](https://lobste.rs/s/qecrkz/pimpl_for_small_classes) - [Pimpl for Small Classes](https://www.kdab.com/pimpl-for-small-classes/)
 * [2023-03-26, 19:55:58](https://lobste.rs/s/xksvww/counting_cycles_instructions_on_arm) - [Counting cycles and instructions on ARM-based Apple systems](https://lemire.me/blog/2023/03/21/counting-cycles-and-instructions-on-arm-based-apple-systems/)
 * [2023-03-26, 18:45:13](https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell) - [DALL-E now supported in Emacs chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
 * [2023-03-26, 16:55:45](https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible) - [CSS-only Widgets Are Inaccessible](https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html)
@@ -19,12 +21,10 @@
 * [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
-* [2023-03-25, 16:33:55](https://lobste.rs/s/f33c2n/asref_vs_borrow_trait_ft_chatgpt) - [AsRef vs Borrow trait (ft. ChatGPT)](https://rusty-ferris.pages.dev/blog/asref-vs-borrow-trait/)
 * [2023-03-25, 16:09:37](https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source) - [Weka Violates MinIO's Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
 * [2023-03-25, 14:43:46](https://lobste.rs/s/7hvf6e/docker_docker_inc_docker_hub_their) - [Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
-* [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_loses_it) - [Internet archive (archive.org) loses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
 
 ## [Archives](archives/index.md)
 
