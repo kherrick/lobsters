@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-26, 16:55:45",
+      "https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible"
+    ],
+    [
+      "CSS-only Widgets Are Inaccessible",
+      "https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 16:05:14",
       "https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations"
     ],
@@ -207,16 +217,6 @@
     [
       "Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization",
       "https://computer.rip/2023-03-24-docker.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 12:48:38",
-      "https://lobste.rs/s/v9i4oj/what_is_origin_model_view_controller"
-    ],
-    [
-      "What is the origin of model-view-controller?",
-      "https://www.quora.com/What-is-the-origin-of-model-view-controller"
     ]
   ],
   [
