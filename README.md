@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
 * [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
 * [2023-03-26, 02:56:03](https://lobste.rs/s/qsf9hv/introducing_butler_virtual_operating) - [Introducing Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-26, 02:19:50](https://lobste.rs/s/eycmsx/chatgpt_code_interpreter_magic) - [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
@@ -13,7 +14,6 @@
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
 * [2023-03-25, 14:43:46](https://lobste.rs/s/7hvf6e/docker_docker_inc_docker_hub_their) - [Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 12:48:38](https://lobste.rs/s/v9i4oj/what_is_origin_model_view_controller) - [What is the origin of model-view-controller?](https://www.quora.com/What-is-the-origin-of-model-view-controller)
-* [2023-03-25, 12:18:35](https://lobste.rs/s/p2p38l/file_expiration_using_bpf) - [File expiration using BPF](https://hondu.co/blog/file-expiration-using-bpf)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 * [2023-03-25, 03:21:02](https://lobste.rs/s/9o8xds/free_software_during_wartime) - [Free software during wartime](https://lwn.net/SubscriberLink/926798/b8f7d5df1ee91de7/)
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
