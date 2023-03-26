@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-03-25, 22:24:45](https://lobste.rs/s/h2ba9y/sam_altman_openai_ceo_on_gpt_4_chatgpt) - [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI (Lex Fridman Podcast)](https://lexfridman.com/sam-altman/)
+* [2023-03-26, 02:19:50](https://lobste.rs/s/eycmsx/chatgpt_code_interpreter_magic) - [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
