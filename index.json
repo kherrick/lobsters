@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-26, 19:55:58",
+      "https://lobste.rs/s/xksvww/counting_cycles_instructions_on_arm"
+    ],
+    [
+      "Counting cycles and instructions on ARM-based Apple systems",
+      "https://lemire.me/blog/2023/03/21/counting-cycles-and-instructions-on-arm-based-apple-systems/"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 18:45:13",
       "https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell"
     ],
@@ -147,16 +157,6 @@
     [
       "Introducing Butler Virtual Operating System",
       "https://tristancacqueray.github.io/blog/introducing-butler"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 02:19:50",
-      "https://lobste.rs/s/eycmsx/chatgpt_code_interpreter_magic"
-    ],
-    [
-      "ChatGPT + Code Interpreter = Magic",
-      "https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/"
     ]
   ],
   [
