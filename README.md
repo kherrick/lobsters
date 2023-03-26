@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 18:45:13](https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell) - [DALL-E now supported in Emacs chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
 * [2023-03-26, 16:55:45](https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible) - [CSS-only Widgets Are Inaccessible](https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html)
 * [2023-03-26, 16:05:14](https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations) - [The Definition of Senior: A Look at the expectations for Software Engineers](https://loige.co/the-senior-dev)
 * [2023-03-26, 15:33:41](https://lobste.rs/s/8zi8td/common_pitfalls_github_actions) - [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
@@ -23,7 +24,6 @@
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
 * [2023-03-25, 14:43:46](https://lobste.rs/s/7hvf6e/docker_docker_inc_docker_hub_their) - [Docker, Docker Inc., Docker Hub, and their relation to the broader world of containerization](https://computer.rip/2023-03-24-docker.html)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
-* [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_loses_it) - [Internet archive (archive.org) loses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
 
 ## [Archives](archives/index.md)
