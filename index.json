@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-26, 15:33:41",
+      "https://lobste.rs/s/8zi8td/common_pitfalls_github_actions"
+    ],
+    [
+      "Common pitfalls of GitHub Actions",
+      "https://ashishb.net/tech/common-pitfalls-of-github-actions/"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 15:33:16",
       "https://lobste.rs/s/w6lgnv/this_week_ladybird_1_linus_groh"
     ],
@@ -237,16 +247,6 @@
     [
       "Internet archive (archive.org) loses it battle to Hachette in court case",
       "https://twitter.com/internetarchive/status/1639424778862829569"
-    ]
-  ],
-  [
-    [
-      "2023-03-24, 20:53:19",
-      "https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host"
-    ],
-    [
-      "We need better support for SSH host certificates",
-      "https://mjg59.dreamwidth.org/65874.html"
     ]
   ]
 ]
