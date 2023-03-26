@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 10:21:45](https://lobste.rs/s/n4oxha/redbook_reading_red_book_decoding) - [redbook: Reading the Red Book – decoding Compact Disc Digital Audio](https://github.com/carrotIndustries/redbook)
 * [2023-03-26, 07:54:46](https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building) - [pgwire: A rust library for building postgresql compatible servers](https://github.com/sunng87/pgwire)
 * [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
 * [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
@@ -20,7 +21,6 @@
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_loses_it) - [Internet archive (archive.org) loses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
 * [2023-03-25, 02:27:21](https://lobste.rs/s/c9mjyp/explaining_my_fast_6502_code_generator) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)
-* [2023-03-24, 23:11:08](https://lobste.rs/s/pn38ix/when_root_on_zfs_breaks_on_arch_linux) - [When root on ZFS breaks on Arch Linux…](https://blog.mnus.de/2023/03/archlinux-zfs/)
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
