@@ -5,6 +5,7 @@
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
+* [2023-03-25, 16:59:40](https://lobste.rs/s/vimvgk/indirect_prompt_injection) - [Indirect prompt injection](https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20)
 * [2023-03-25, 16:33:55](https://lobste.rs/s/f33c2n/asref_vs_borrow_trait_ft_chatgpt) - [AsRef vs Borrow trait (ft. ChatGPT)](https://rusty-ferris.pages.dev/blog/asref-vs-borrow-trait/)
 * [2023-03-25, 16:09:37](https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source) - [Weka Violates MinIO's Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
 * [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
@@ -23,7 +24,6 @@
 * [2023-03-24, 17:06:08](https://lobste.rs/s/9ukwie/smalltalk_type_restoration_project) - [Smalltalk Type: A restoration project of the typefaces used Smalltalk-80](https://moritzfuerst.net/projects/smalltalk-type)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
 * [2023-03-24, 15:46:25](https://lobste.rs/s/smbsd5/fork_road) - [A fork() in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf)
-* [2023-03-24, 15:00:38](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7prhpl/what_are_you_doing_this_weekend)
 * [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 
 ## [Archives](archives/index.md)
