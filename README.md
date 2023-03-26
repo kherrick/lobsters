@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 16:05:14](https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations) - [The Definition of Senior: A Look at the expectations for Software Engineers](https://loige.co/the-senior-dev)
 * [2023-03-26, 15:33:41](https://lobste.rs/s/8zi8td/common_pitfalls_github_actions) - [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
-* [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1_linus_groh) - [This Week in Ladybird #1 — Linus Groh](https://linus.dev/posts/this-week-in-ladybird-1/)
+* [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1) - [This Week in Ladybird #1](https://linus.dev/posts/this-week-in-ladybird-1/)
 * [2023-03-26, 14:51:59](https://lobste.rs/s/ejdxse/how_entertain_with_your_pocket) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-03-26, 14:15:48](https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-03-26, 13:24:47](https://lobste.rs/s/orpvav/forwarding_ssh_agent_through_websockets) - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
@@ -15,7 +16,6 @@
 * [2023-03-26, 02:19:50](https://lobste.rs/s/eycmsx/chatgpt_code_interpreter_magic) - [ChatGPT + Code Interpreter = Magic](https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/)
 * [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
-* [2023-03-25, 18:37:37](https://lobste.rs/s/sylfum/synthetic_memory_protections) - [Synthetic Memory Protections](https://www.openbsd.org/papers/csw2023.pdf)
 * [2023-03-25, 17:39:19](https://lobste.rs/s/ayes4x/chatgpt_isn_t_hallucinating_it_s) - [ChatGPT isn’t hallucinating; it’s delirious](https://digressionsnimpressions.typepad.com/digressionsimpressions/2023/03/the-delirium-of-llms.html)
 * [2023-03-25, 16:33:55](https://lobste.rs/s/f33c2n/asref_vs_borrow_trait_ft_chatgpt) - [AsRef vs Borrow trait (ft. ChatGPT)](https://rusty-ferris.pages.dev/blog/asref-vs-borrow-trait/)
 * [2023-03-25, 16:09:37](https://lobste.rs/s/v9w2r7/weka_violates_minio_s_open_source) - [Weka Violates MinIO's Open Source Licenses](https://blog.min.io/weka-violates-minios-open-source-licenses/)
