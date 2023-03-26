@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 11:02:31](https://lobste.rs/s/qbntfe/how_ray_tracing_modern_cgi_works_how_do_it) - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)
 * [2023-03-26, 10:21:45](https://lobste.rs/s/n4oxha/redbook_reading_red_book_decoding) - [redbook: Reading the Red Book – decoding Compact Disc Digital Audio](https://github.com/carrotIndustries/redbook)
 * [2023-03-26, 07:54:46](https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building) - [pgwire: A rust library for building postgresql compatible servers](https://github.com/sunng87/pgwire)
 * [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
@@ -24,7 +25,6 @@
 * [2023-03-24, 21:43:02](https://lobste.rs/s/apintw/we_re_no_longer_sunsetting_free_team_plan) - [We're no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 * [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 * [2023-03-24, 15:57:53](https://lobste.rs/s/73lmjq/injectgpt_most_polite_exploit_ever) - [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/)
-* [2023-03-24, 06:03:41](https://lobste.rs/s/6uykyh/github_unexpectedly_rotates_its_rsa_ssh) - [GitHub unexpectedly rotates its RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 
 ## [Archives](archives/index.md)
 
