@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 21:13:58](https://lobste.rs/s/4vrlxc/how_should_compilers_explain_problems) - [How Should Compilers Explain Problems to Developers?](https://www.barik.net/posts/how-should-compilers-explain-problems-to-developers/)
 * [2023-03-26, 20:13:04](https://lobste.rs/s/wry3pp/logic_proof) - [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
 * [2023-03-26, 20:01:37](https://lobste.rs/s/qecrkz/pimpl_for_small_classes) - [Pimpl for Small Classes](https://www.kdab.com/pimpl-for-small-classes/)
 * [2023-03-26, 19:55:58](https://lobste.rs/s/xksvww/counting_cycles_instructions_on_arm) - [Counting cycles and instructions on ARM-based Apple systems](https://lemire.me/blog/2023/03/21/counting-cycles-and-instructions-on-arm-based-apple-systems/)
