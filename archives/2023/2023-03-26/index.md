@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1_linus_groh) - [This Week in Ladybird #1 — Linus Groh](https://linus.dev/posts/this-week-in-ladybird-1/)
 * [2023-03-26, 14:51:59](https://lobste.rs/s/ejdxse/how_entertain_with_your_pocket) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-03-26, 14:15:48](https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-03-26, 13:24:47](https://lobste.rs/s/orpvav/forwarding_ssh_agent_through_websockets) - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
