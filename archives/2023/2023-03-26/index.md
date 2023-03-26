@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-26](index.md)
 
+* [2023-03-26, 16:55:45](https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible) - [CSS-only Widgets Are Inaccessible](https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html)
 * [2023-03-26, 16:05:14](https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations) - [The Definition of Senior: A Look at the expectations for Software Engineers](https://loige.co/the-senior-dev)
 * [2023-03-26, 15:33:41](https://lobste.rs/s/8zi8td/common_pitfalls_github_actions) - [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
 * [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1_linus_groh) - [This Week in Ladybird #1 — Linus Groh](https://linus.dev/posts/this-week-in-ladybird-1/)
