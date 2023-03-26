@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-26, 15:33:41](https://lobste.rs/s/8zi8td/common_pitfalls_github_actions) - [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
 * [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1_linus_groh) - [This Week in Ladybird #1 — Linus Groh](https://linus.dev/posts/this-week-in-ladybird-1/)
 * [2023-03-26, 14:51:59](https://lobste.rs/s/ejdxse/how_entertain_with_your_pocket) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-03-26, 14:15:48](https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
@@ -24,7 +25,6 @@
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 * [2023-03-25, 02:35:16](https://lobste.rs/s/nc6zc7/gordon_moore_intel_co_founder_dies_at_94) - [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html)
 * [2023-03-25, 02:28:15](https://lobste.rs/s/6rmqc1/internet_archive_archive_org_loses_it) - [Internet archive (archive.org) loses it battle to Hachette in court case](https://twitter.com/internetarchive/status/1639424778862829569)
-* [2023-03-24, 20:53:19](https://lobste.rs/s/4fkxpq/we_need_better_support_for_ssh_host) - [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)
 
 ## [Archives](archives/index.md)
 
