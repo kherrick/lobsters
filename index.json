@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-26, 07:54:46",
+      "https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building"
+    ],
+    [
+      "pgwire: A rust library for building postgresql compatible servers",
+      "https://github.com/sunng87/pgwire"
+    ]
+  ],
+  [
+    [
       "2023-03-26, 06:56:15",
       "https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage"
     ],
@@ -187,16 +197,6 @@
     [
       "Explaining my fast 6502 code generator",
       "https://pubby.games/codegen.html"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 01:57:37",
-      "https://lobste.rs/s/nqo9rx/sequencegenius_generate_sequence"
-    ],
-    [
-      "sequencegenius - Generate sequence diagrams from your idea",
-      "https://github.com/huytd/sequencegenius"
     ]
   ],
   [
