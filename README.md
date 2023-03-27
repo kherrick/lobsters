@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 * [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 08:01:14](https://lobste.rs/s/sqqutj/why_moore_s_law_matters) - [Why Moore’s Law Matters](https://www.youtube.com/watch?v=nRJgvX6P8dI)
@@ -22,7 +23,6 @@
 * [2023-03-26, 14:15:48](https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
 * [2023-03-26, 12:22:50](https://lobste.rs/s/prvzij/just_update_rules_between_neurons) - [Just update rules between neurons](https://www.jtolio.com/2023/03/just-update-rules-between-neurons/)
 * [2023-03-26, 07:54:46](https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building) - [pgwire: A rust library for building postgresql compatible servers](https://github.com/sunng87/pgwire)
-* [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
 * [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 
