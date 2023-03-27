@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-27, 14:42:05",
+      "https://lobste.rs/s/iualxr/ai_enhanced_development_makes_me_more"
+    ],
+    [
+      "AI-enhanced development makes me more ambitious with my projects",
+      "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 14:32:23",
+      "https://lobste.rs/s/zqsrza/bad_nrepl_10_things_you_hate_about_nrepl"
+    ],
+    [
+      "Bad nREPL: 10 Things You Hate About nREPL",
+      "https://metaredux.com/posts/2023/03/26/bad-nrepl.html"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 13:41:13",
       "https://lobste.rs/s/ymhmun/getting_nixos_keep_secret"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-03-27, 06:26:02",
-      "https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced"
-    ],
-    [
-      "bread: BIOS Reverse Engineering & Advanced Debugging",
-      "https://github.com/Theldus/bread"
-    ]
-  ],
-  [
-    [
       "2023-03-27, 05:39:13",
       "https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for"
     ],
@@ -177,16 +187,6 @@
     [
       "DALL-E now supported in Emacs chatgpt-shell",
       "https://github.com/xenodium/chatgpt-shell"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 16:55:45",
-      "https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible"
-    ],
-    [
-      "CSS-only Widgets Are Inaccessible",
-      "https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html"
     ]
   ],
   [
