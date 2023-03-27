@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 11:19:25](https://lobste.rs/s/arhvxx/public_access_key_2023_chris_farris) - [Public Access Key - 2023 - Chris Farris](https://www.chrisfarris.com/post/public-access-key-2023/)
 * [2023-03-27, 11:05:42](https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
@@ -9,7 +10,6 @@
 * [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
 * [2023-03-27, 06:26:02](https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced) - [bread: BIOS Reverse Engineering & Advanced Debugging](https://github.com/Theldus/bread)
-* [2023-03-27, 05:54:19](https://lobste.rs/s/kuze4g/using_std_shared_ptr_for_reloadable) - [Using std::shared_ptr for reloadable config](https://ddanilov.me/usage-of-shared_ptr)
 * [2023-03-27, 05:39:13](https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for) - [The craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-27, 00:01:39](https://lobste.rs/s/ojaz0l/telemetry_is_not_your_enemy) - [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
 * [2023-03-26, 21:13:58](https://lobste.rs/s/4vrlxc/how_should_compilers_explain_problems) - [How Should Compilers Explain Problems to Developers?](https://www.barik.net/posts/how-should-compilers-explain-problems-to-developers/)
