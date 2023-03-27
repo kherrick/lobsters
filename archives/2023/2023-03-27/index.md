@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
+* [2023-03-27, 08:01:14](https://lobste.rs/s/sqqutj/why_moore_s_law_matters) - [Why Moore’s Law Matters](https://www.youtube.com/watch?v=nRJgvX6P8dI)
 * [2023-03-27, 07:44:30](https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat) - [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
 * [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
