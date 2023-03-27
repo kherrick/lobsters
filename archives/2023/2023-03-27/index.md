@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 13:07:26](https://lobste.rs/s/ir5psh/zig_rust) - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+* [2023-03-27, 12:53:16](https://lobste.rs/s/cxomrk/arm_trustzone_pivoting_secure_world) - [ARM TrustZone: pivoting to the secure world](https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/)
+* [2023-03-27, 12:36:08](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week)
 * [2023-03-27, 11:36:09](https://lobste.rs/s/qmdq9q/2600_how_phreaking_really_worked) - [2600? How Phreaking Really Worked](https://www.youtube.com/watch?v=8PmkUPBhL4U)
 * [2023-03-27, 11:19:25](https://lobste.rs/s/arhvxx/public_access_key_2023_chris_farris) - [Public Access Key - 2023 - Chris Farris](https://www.chrisfarris.com/post/public-access-key-2023/)
 * [2023-03-27, 11:05:42](https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
