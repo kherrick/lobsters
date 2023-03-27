@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 13:41:13](https://lobste.rs/s/ymhmun/getting_nixos_keep_secret) - [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
 * [2023-03-27, 13:07:26](https://lobste.rs/s/ir5psh/zig_rust) - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 12:53:16](https://lobste.rs/s/cxomrk/arm_trustzone_pivoting_secure_world) - [ARM TrustZone: pivoting to the secure world](https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/)
 * [2023-03-27, 12:36:08](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week)

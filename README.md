@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 13:41:13](https://lobste.rs/s/ymhmun/getting_nixos_keep_secret) - [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
 * [2023-03-27, 13:07:26](https://lobste.rs/s/ir5psh/zig_rust) - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 12:53:16](https://lobste.rs/s/cxomrk/arm_trustzone_pivoting_secure_world) - [ARM TrustZone: pivoting to the secure world](https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/)
 * [2023-03-27, 12:36:08](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week)
@@ -9,7 +10,6 @@
 * [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 * [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
-* [2023-03-27, 08:01:14](https://lobste.rs/s/sqqutj/why_moore_s_law_matters) - [Why Moore’s Law Matters](https://www.youtube.com/watch?v=nRJgvX6P8dI)
 * [2023-03-27, 07:44:30](https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat) - [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
 * [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
