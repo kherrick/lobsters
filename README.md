@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 11:05:42](https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 * [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
@@ -13,7 +14,6 @@
 * [2023-03-27, 00:01:39](https://lobste.rs/s/ojaz0l/telemetry_is_not_your_enemy) - [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
 * [2023-03-26, 21:13:58](https://lobste.rs/s/4vrlxc/how_should_compilers_explain_problems) - [How Should Compilers Explain Problems to Developers?](https://www.barik.net/posts/how-should-compilers-explain-problems-to-developers/)
 * [2023-03-26, 20:13:04](https://lobste.rs/s/wry3pp/logic_proof) - [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
-* [2023-03-26, 19:55:58](https://lobste.rs/s/xksvww/counting_cycles_instructions_on_arm) - [Counting cycles and instructions on ARM-based Apple systems](https://lemire.me/blog/2023/03/21/counting-cycles-and-instructions-on-arm-based-apple-systems/)
 * [2023-03-26, 18:45:13](https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell) - [DALL-E now supported in Emacs chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
 * [2023-03-26, 16:55:45](https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible) - [CSS-only Widgets Are Inaccessible](https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html)
 * [2023-03-26, 16:05:14](https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations) - [The Definition of Senior: A Look at the expectations for Software Engineers](https://loige.co/the-senior-dev)

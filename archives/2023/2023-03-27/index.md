@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 11:05:42](https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
 * [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 * [2023-03-27, 09:13:00](https://lobste.rs/s/s8stlx/quite_ok_audio_format) - [The Quite OK Audio Format](https://qoaformat.org)
