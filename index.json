@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-27, 05:54:19",
+      "https://lobste.rs/s/kuze4g/using_std_shared_ptr_for_reloadable"
+    ],
+    [
+      "Using std::shared_ptr for reloadable config",
+      "https://ddanilov.me/usage-of-shared_ptr"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 05:39:13",
       "https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Fenix: Rust toolchains and rust-analyzer nightly for Nix",
       "https://github.com/nix-community/fenix"
-    ]
-  ],
-  [
-    [
-      "2023-03-25, 15:25:04",
-      "https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on"
-    ],
-    [
-      "How we built our Embedded World Demo on Rust for QNX",
-      "https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/"
     ]
   ],
   [
