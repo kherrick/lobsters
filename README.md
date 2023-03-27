@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
 * [2023-03-27, 06:26:02](https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced) - [bread: BIOS Reverse Engineering & Advanced Debugging](https://github.com/Theldus/bread)
 * [2023-03-27, 05:54:19](https://lobste.rs/s/kuze4g/using_std_shared_ptr_for_reloadable) - [Using std::shared_ptr for reloadable config](https://ddanilov.me/usage-of-shared_ptr)
@@ -16,7 +17,6 @@
 * [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1) - [This Week in Ladybird #1](https://linus.dev/posts/this-week-in-ladybird-1/)
 * [2023-03-26, 14:51:59](https://lobste.rs/s/ejdxse/how_entertain_with_your_pocket) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-03-26, 14:15:48](https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits)
-* [2023-03-26, 13:24:47](https://lobste.rs/s/orpvav/forwarding_ssh_agent_through_websockets) - [Forwarding ssh-agent through WebSockets](https://tristancacqueray.github.io/blog/forwarding-ssh-agent-through-websockets)
 * [2023-03-26, 12:22:50](https://lobste.rs/s/prvzij/just_update_rules_between_neurons) - [Just update rules between neurons](https://www.jtolio.com/2023/03/just-update-rules-between-neurons/)
 * [2023-03-26, 11:02:31](https://lobste.rs/s/qbntfe/how_ray_tracing_modern_cgi_works_how_do_it) - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)
 * [2023-03-26, 10:21:45](https://lobste.rs/s/n4oxha/redbook_reading_red_book_decoding) - [redbook: Reading the Red Book – decoding Compact Disc Digital Audio](https://github.com/carrotIndustries/redbook)
