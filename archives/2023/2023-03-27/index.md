@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 07:44:30](https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat) - [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
 * [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
 * [2023-03-27, 06:26:02](https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced) - [bread: BIOS Reverse Engineering & Advanced Debugging](https://github.com/Theldus/bread)

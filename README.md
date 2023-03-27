@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 07:44:30](https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat) - [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
 * [2023-03-27, 07:35:05](https://lobste.rs/s/f52b91/british_pcs_1980s) - [British PCs of the 1980s](https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/)
 * [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
 * [2023-03-27, 06:26:02](https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced) - [bread: BIOS Reverse Engineering & Advanced Debugging](https://github.com/Theldus/bread)
@@ -24,7 +25,6 @@
 * [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
 * [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
-* [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 
 ## [Archives](archives/index.md)
 
