@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 05:54:19](https://lobste.rs/s/kuze4g/using_std_shared_ptr_for_reloadable) - [Using std::shared_ptr for reloadable config](https://ddanilov.me/usage-of-shared_ptr)
 * [2023-03-27, 05:39:13](https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for) - [The craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-27, 00:01:39](https://lobste.rs/s/ojaz0l/telemetry_is_not_your_enemy) - [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
 * [2023-03-26, 21:13:58](https://lobste.rs/s/4vrlxc/how_should_compilers_explain_problems) - [How Should Compilers Explain Problems to Developers?](https://www.barik.net/posts/how-should-compilers-explain-problems-to-developers/)
@@ -23,7 +24,6 @@
 * [2023-03-26, 02:56:03](https://lobste.rs/s/qsf9hv/introducing_butler_virtual_operating) - [Introducing Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
 * [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
-* [2023-03-25, 15:25:04](https://lobste.rs/s/cctxdu/how_we_built_our_embedded_world_demo_on) - [How we built our Embedded World Demo on Rust for QNX](https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 
 ## [Archives](archives/index.md)
