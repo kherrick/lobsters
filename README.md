@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 11:36:09](https://lobste.rs/s/qmdq9q/2600_how_phreaking_really_worked) - [2600? How Phreaking Really Worked](https://www.youtube.com/watch?v=8PmkUPBhL4U)
 * [2023-03-27, 11:19:25](https://lobste.rs/s/arhvxx/public_access_key_2023_chris_farris) - [Public Access Key - 2023 - Chris Farris](https://www.chrisfarris.com/post/public-access-key-2023/)
 * [2023-03-27, 11:05:42](https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong) - [The chat control proposal does not belong in democratic societies](https://mullvad.net/en/chatcontrol)
 * [2023-03-27, 10:27:55](https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for) - [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://blog.orhun.dev/alpine-packaging-setup/)
@@ -16,7 +17,6 @@
 * [2023-03-26, 20:13:04](https://lobste.rs/s/wry3pp/logic_proof) - [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
 * [2023-03-26, 18:45:13](https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell) - [DALL-E now supported in Emacs chatgpt-shell](https://github.com/xenodium/chatgpt-shell)
 * [2023-03-26, 16:55:45](https://lobste.rs/s/uejyhl/css_only_widgets_are_inaccessible) - [CSS-only Widgets Are Inaccessible](https://adrianroselli.com/2023/03/css-only-widgets-are-inaccessible.html)
-* [2023-03-26, 16:05:14](https://lobste.rs/s/bamrlc/definition_senior_look_at_expectations) - [The Definition of Senior: A Look at the expectations for Software Engineers](https://loige.co/the-senior-dev)
 * [2023-03-26, 15:33:41](https://lobste.rs/s/8zi8td/common_pitfalls_github_actions) - [Common pitfalls of GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
 * [2023-03-26, 15:33:16](https://lobste.rs/s/w6lgnv/this_week_ladybird_1) - [This Week in Ladybird #1](https://linus.dev/posts/this-week-in-ladybird-1/)
 * [2023-03-26, 14:51:59](https://lobste.rs/s/ejdxse/how_entertain_with_your_pocket) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
