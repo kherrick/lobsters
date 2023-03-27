@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 09:26:16](https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits) - [Time Domain Audio Compression at 3.2 bits per Sample](https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression)
 * [2023-03-27, 09:13:00](https://lobste.rs/s/s8stlx/quite_ok_audio_format) - [The Quite OK Audio Format](https://qoaformat.org)
 * [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 08:01:14](https://lobste.rs/s/sqqutj/why_moore_s_law_matters) - [Why Moore’s Law Matters](https://www.youtube.com/watch?v=nRJgvX6P8dI)
