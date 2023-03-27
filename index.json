@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-27, 08:18:42",
+      "https://lobste.rs/s/rl6wrf/zig_quirks"
+    ],
+    [
+      "Zig Quirks",
+      "https://www.openmymind.net/Zig-Quirks/"
+    ]
+  ],
+  [
+    [
+      "2023-03-27, 08:01:14",
+      "https://lobste.rs/s/sqqutj/why_moore_s_law_matters"
+    ],
+    [
+      "Why Moore’s Law Matters",
+      "https://www.youtube.com/watch?v=nRJgvX6P8dI"
+    ]
+  ],
+  [
+    [
       "2023-03-27, 07:44:30",
       "https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat"
     ],
@@ -87,16 +107,6 @@
     [
       "Logic and Proof",
       "https://leanprover.github.io/logic_and_proof/"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 20:01:37",
-      "https://lobste.rs/s/qecrkz/pimpl_for_small_classes"
-    ],
-    [
-      "Pimpl for Small Classes",
-      "https://www.kdab.com/pimpl-for-small-classes/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster",
       "https://www.youtube.com/watch?v=gsZiJeaMO48"
-    ]
-  ],
-  [
-    [
-      "2023-03-26, 10:21:45",
-      "https://lobste.rs/s/n4oxha/redbook_reading_red_book_decoding"
-    ],
-    [
-      "redbook: Reading the Red Book – decoding Compact Disc Digital Audio",
-      "https://github.com/carrotIndustries/redbook"
     ]
   ],
   [
