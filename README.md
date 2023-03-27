@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-27, 06:32:53](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023) - [Best way to distribute a FOSS tool in 2023?](https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023)
+* [2023-03-27, 06:26:02](https://lobste.rs/s/jyxbvs/bread_bios_reverse_engineering_advanced) - [bread: BIOS Reverse Engineering & Advanced Debugging](https://github.com/Theldus/bread)
 * [2023-03-27, 05:54:19](https://lobste.rs/s/kuze4g/using_std_shared_ptr_for_reloadable) - [Using std::shared_ptr for reloadable config](https://ddanilov.me/usage-of-shared_ptr)
 * [2023-03-27, 05:39:13](https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for) - [The craziest thing I ever used SQLite for: partial file deduplication](https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw)
 * [2023-03-27, 00:01:39](https://lobste.rs/s/ojaz0l/telemetry_is_not_your_enemy) - [Telemetry Is Not Your Enemy](https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html)
@@ -21,8 +23,6 @@
 * [2023-03-26, 07:54:46](https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building) - [pgwire: A rust library for building postgresql compatible servers](https://github.com/sunng87/pgwire)
 * [2023-03-26, 06:56:15](https://lobste.rs/s/l8m6xb/r_redditeng_you_broke_reddit_pi_day_outage) - [r/RedditEng - You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/)
 * [2023-03-26, 05:24:42](https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s) - [Software is not defined by the language it's written in](https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in)
-* [2023-03-26, 02:56:03](https://lobste.rs/s/qsf9hv/introducing_butler_virtual_operating) - [Introducing Butler Virtual Operating System](https://tristancacqueray.github.io/blog/introducing-butler)
-* [2023-03-25, 22:05:39](https://lobste.rs/s/5v7t2n/tracking_music_history) - [Tracking Music History](https://veera.app/tracking_music_history.html)
 * [2023-03-25, 21:35:24](https://lobste.rs/s/v6px2c/fenix_rust_toolchains_rust_analyzer) - [Fenix: Rust toolchains and rust-analyzer nightly for Nix](https://github.com/nix-community/fenix)
 * [2023-03-25, 11:50:57](https://lobste.rs/s/gyrpr7/phoenix_hyperspace_taking_deepest) - [Phoenix Hyperspace | taking the deepest possible breath](https://cohost.org/cathoderaydude/post/1228730-taking-the-deepest-p)
 
