@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 09:13:00](https://lobste.rs/s/s8stlx/quite_ok_audio_format) - [The Quite OK Audio Format](https://qoaformat.org)
 * [2023-03-27, 08:18:42](https://lobste.rs/s/rl6wrf/zig_quirks) - [Zig Quirks](https://www.openmymind.net/Zig-Quirks/)
 * [2023-03-27, 08:01:14](https://lobste.rs/s/sqqutj/why_moore_s_law_matters) - [Why Moore’s Law Matters](https://www.youtube.com/watch?v=nRJgvX6P8dI)
 * [2023-03-27, 07:44:30](https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat) - [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems)
