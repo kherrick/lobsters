@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 19:58:31](https://lobste.rs/s/vh270y/procedural_content_generation_games) - [Procedural Content Generation in Games book](https://www.pcgbook.com/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
@@ -20,7 +21,6 @@
 * [2023-03-30, 07:58:00](https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas) - [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 * [2023-03-29, 23:41:44](https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
-* [2023-03-29, 21:56:01](https://lobste.rs/s/aestxq/swissmap_smaller_faster_golang_hash) - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
 * [2023-03-29, 14:20:31](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know) - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
 * [2023-03-29, 13:11:08](https://lobste.rs/s/ok7h12/curl_pre_notification_dilemmas) - [cURL and Pre-notification dilemmas](https://daniel.haxx.se/blog/2023/03/29/pre-notification-dilemmas/)
