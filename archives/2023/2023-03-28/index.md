@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-03-28](index.md)
+
+* [2023-03-28, 23:16:17](https://lobste.rs/s/oesjmx/rust_is_scalable_language) - [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
+* [2023-03-28, 17:28:56](https://lobste.rs/s/nybz3t/bicycle) - [Bicycle](https://ciechanow.ski/bicycle/)

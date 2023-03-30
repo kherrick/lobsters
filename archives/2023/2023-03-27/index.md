@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-27](index.md)
 
+* [2023-03-27, 14:42:05](https://lobste.rs/s/iualxr/ai_enhanced_development_makes_me_more) - [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+* [2023-03-27, 14:32:23](https://lobste.rs/s/zqsrza/bad_nrepl_10_things_you_hate_about_nrepl) - [Bad nREPL: 10 Things You Hate About nREPL](https://metaredux.com/posts/2023/03/26/bad-nrepl.html)
 * [2023-03-27, 13:41:13](https://lobste.rs/s/ymhmun/getting_nixos_keep_secret) - [Getting NixOS to keep a secret](https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/)
 * [2023-03-27, 13:07:26](https://lobste.rs/s/ir5psh/zig_rust) - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2023-03-27, 12:53:16](https://lobste.rs/s/cxomrk/arm_trustzone_pivoting_secure_world) - [ARM TrustZone: pivoting to the secure world](https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/)
