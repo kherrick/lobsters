@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
 * [2023-03-30, 11:13:46](https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly) - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
