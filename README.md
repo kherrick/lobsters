@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
+* [2023-03-30, 19:58:31](https://lobste.rs/s/vh270y/procedural_content_generation_games) - [Procedural Content Generation in Games book](https://www.pcgbook.com/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 18:42:17](https://lobste.rs/s/tnsxdk/asking_right_questions_chatgpt) - [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
@@ -19,12 +21,10 @@
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 * [2023-03-29, 23:41:44](https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 21:56:01](https://lobste.rs/s/aestxq/swissmap_smaller_faster_golang_hash) - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
-* [2023-03-29, 20:42:47](https://lobste.rs/s/f2zznj/s3_as_eternal_service) - [S3 as an Eternal Service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
 * [2023-03-29, 14:20:31](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know) - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
 * [2023-03-29, 13:11:08](https://lobste.rs/s/ok7h12/curl_pre_notification_dilemmas) - [cURL and Pre-notification dilemmas](https://daniel.haxx.se/blog/2023/03/29/pre-notification-dilemmas/)
 * [2023-03-29, 11:27:45](https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language) - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
-* [2023-03-29, 10:57:44](https://lobste.rs/s/tti4gh/breaking_prng_is_it_called_xor_shift_xor) - [Breaking a PRNG: Is it Called Xor Shift or Xor Shit?](https://tobtu.com/blog/2023/3/breaking-xor-shift-prng/)
 
 ## [Archives](archives/index.md)
 
