@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 16:58:23",
+      "https://lobste.rs/s/phe4up/practical_look_at_pio_on_raspberry_pi_pico"
+    ],
+    [
+      "A Practical Look at PIO on the Raspberry Pi Pico",
+      "https://blues.io/blog/raspberry-pi-pico-pio/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 16:31:55",
       "https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai"
     ],
@@ -177,16 +187,6 @@
     [
       "S3 as an Eternal Service",
       "https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 19:58:04",
-      "https://lobste.rs/s/n0wiby/don_t_settle_for_playground"
-    ],
-    [
-      "Don’t settle for a playground",
-      "https://einarwh.wordpress.com/2023/03/29/dont-settle-for-a-playground/"
     ]
   ],
   [
