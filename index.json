@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 13:36:09",
+      "https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu"
+    ],
+    [
+      "Ensuring steady frame rates with GPU-intensive clients",
+      "https://blogs.gnome.org/shell-dev/2023/03/30/ensuring-steady-frame-rates-with-gpu-intensive-clients/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 13:10:52",
       "https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust Identified as Safer Coding Tool by NIST",
       "https://foundation.rust-lang.org/news/rust-identified-as-safer-coding-tool-by-nist/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 23:16:17",
-      "https://lobste.rs/s/oesjmx/rust_is_scalable_language"
-    ],
-    [
-      "Rust Is a Scalable Language",
-      "https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"
     ]
   ],
   [
