@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
+* [2023-03-30, 11:13:46](https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly) - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
 * [2023-03-30, 08:21:00](https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable) - [Quick look at the Hanmatek HO102S Portable Oscilloscope](https://lab.ktemkin.com/post/hanmatek-ho102s/)
 * [2023-03-30, 08:17:24](https://lobste.rs/s/xswjve/this_month_plasma_mobile_march_2023) - [This Month in Plasma Mobile: March 2023](https://plasma-mobile.org/2023/03/29/this-month-plasma-mobile/)
 * [2023-03-30, 07:58:00](https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas) - [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
