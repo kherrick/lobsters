@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 18:03:47",
+      "https://lobste.rs/s/e1c2sb/how_roc_compiles_closures"
+    ],
+    [
+      "How Roc Compiles Closures",
+      "https://www.rwx.com/blog/how-roc-compiles-closures"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 16:58:23",
       "https://lobste.rs/s/phe4up/practical_look_at_pio_on_raspberry_pi_pico"
     ],
@@ -127,16 +137,6 @@
     [
       "The Truth about Rust/WebAssembly Performance",
       "https://www.youtube.com/watch?v=4KtotxNAwME"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 08:21:00",
-      "https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable"
-    ],
-    [
-      "Quick look at the Hanmatek HO102S Portable Oscilloscope",
-      "https://lab.ktemkin.com/post/hanmatek-ho102s/"
     ]
   ],
   [
