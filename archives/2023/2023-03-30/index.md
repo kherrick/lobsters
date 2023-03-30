@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 16:58:23](https://lobste.rs/s/phe4up/practical_look_at_pio_on_raspberry_pi_pico) - [A Practical Look at PIO on the Raspberry Pi Pico](https://blues.io/blog/raspberry-pi-pico-pio/)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:46:48](https://lobste.rs/s/zlrvzp/apparat_newdos_80_first_alternative) - [Apparat NEWDOS/80: The first alternative operating system for TRS-80s](https://computeradsfromthepast.substack.com/p/apparat-newdos80)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)

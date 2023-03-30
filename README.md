@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 16:58:23](https://lobste.rs/s/phe4up/practical_look_at_pio_on_raspberry_pi_pico) - [A Practical Look at PIO on the Raspberry Pi Pico](https://blues.io/blog/raspberry-pi-pico-pio/)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:46:48](https://lobste.rs/s/zlrvzp/apparat_newdos_80_first_alternative) - [Apparat NEWDOS/80: The first alternative operating system for TRS-80s](https://computeradsfromthepast.substack.com/p/apparat-newdos80)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
@@ -18,7 +19,6 @@
 * [2023-03-29, 23:41:44](https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 21:56:01](https://lobste.rs/s/aestxq/swissmap_smaller_faster_golang_hash) - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 * [2023-03-29, 20:42:47](https://lobste.rs/s/f2zznj/s3_as_eternal_service) - [S3 as an Eternal Service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/)
-* [2023-03-29, 19:58:04](https://lobste.rs/s/n0wiby/don_t_settle_for_playground) - [Don’t settle for a playground](https://einarwh.wordpress.com/2023/03/29/dont-settle-for-a-playground/)
 * [2023-03-29, 19:45:03](https://lobste.rs/s/qyislj/novel_way_handling_integer_overflow) - [Novel way of handling integer overflow, which actually follows Liskov Substitution Principle (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
 * [2023-03-29, 14:20:31](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know) - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
