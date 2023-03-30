@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 13:36:09](https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu) - [Ensuring steady frame rates with GPU-intensive clients](https://blogs.gnome.org/shell-dev/2023/03/30/ensuring-steady-frame-rates-with-gpu-intensive-clients/)
 * [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 13:04:18](https://lobste.rs/s/qyh5ru/fixing_next_thousand_deadlocks_why) - [Fixing the Next Thousand Deadlocks: Why Buffered Streams Are Broken and How To Make Them Safer](https://blog.polybdenum.com/2022/07/24/fixing-the-next-thousand-deadlocks-why-buffered-streams-are-broken-and-how-to-make-them-safer.html)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
@@ -23,7 +24,6 @@
 * [2023-03-29, 11:27:45](https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language) - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
 * [2023-03-29, 10:57:44](https://lobste.rs/s/tti4gh/breaking_prng_is_it_called_xor_shift_xor) - [Breaking a PRNG: Is it Called Xor Shift or Xor Shit?](https://tobtu.com/blog/2023/3/breaking-xor-shift-prng/)
 * [2023-03-29, 08:29:27](https://lobste.rs/s/8zlltk/rust_identified_as_safer_coding_tool_by) - [Rust Identified as Safer Coding Tool by NIST](https://foundation.rust-lang.org/news/rust-identified-as-safer-coding-tool-by-nist/)
-* [2023-03-28, 23:16:17](https://lobste.rs/s/oesjmx/rust_is_scalable_language) - [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 * [2023-03-28, 17:28:56](https://lobste.rs/s/nybz3t/bicycle) - [Bicycle](https://ciechanow.ski/bicycle/)
 
 ## [Archives](archives/index.md)
