@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-03-30, 11:18:00",
+      "https://lobste.rs/s/kxlskh/charts_css"
+    ],
+    [
+      "Charts.css",
+      "https://chartscss.org/"
+    ]
+  ],
+  [
+    [
+      "2023-03-30, 11:13:46",
+      "https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly"
+    ],
+    [
+      "The Truth about Rust/WebAssembly Performance",
+      "https://www.youtube.com/watch?v=4KtotxNAwME"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 08:21:00",
       "https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable"
     ],
@@ -37,16 +57,6 @@
     [
       "Abstraction Can Make Your Code Worse",
       "https://www.youtube.com/watch?v=rQlMtztiAoA"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 05:24:11",
-      "https://lobste.rs/s/htpbi4/clion_2023_1_is_out_with_vcpkg_disassemble"
-    ],
-    [
-      "CLion 2023.1 Is Out! With Vcpkg, Disassemble on Demand, and Updates to New UI",
-      "https://blog.jetbrains.com/clion/2023/03/clion-2023-1-is-out/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "cURL and Pre-notification dilemmas",
       "https://daniel.haxx.se/blog/2023/03/29/pre-notification-dilemmas/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 11:38:22",
-      "https://lobste.rs/s/dbpzp6/malicious_actors_use_unicode_support"
-    ],
-    [
-      "Malicious Actors Use Unicode Support in Python to Evade Detection",
-      "https://blog.phylum.io/malicious-actors-use-unicode-support-in-python-to-evade-detection"
     ]
   ],
   [
