@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 18:42:17](https://lobste.rs/s/tnsxdk/asking_right_questions_chatgpt) - [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 * [2023-03-30, 16:58:23](https://lobste.rs/s/phe4up/practical_look_at_pio_on_raspberry_pi_pico) - [A Practical Look at PIO on the Raspberry Pi Pico](https://blues.io/blog/raspberry-pi-pico-pio/)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
@@ -13,7 +14,6 @@
 * [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
-* [2023-03-30, 11:13:46](https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly) - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
 * [2023-03-30, 07:58:00](https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas) - [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 * [2023-03-29, 23:41:44](https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
