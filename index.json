@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 13:45:51",
+      "https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style"
+    ],
+    [
+      "Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem",
+      "https://rust-on-nails.com/docs/ide-setup/introduction/"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 13:36:09",
       "https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust Identified as Safer Coding Tool by NIST",
       "https://foundation.rust-lang.org/news/rust-identified-as-safer-coding-tool-by-nist/"
-    ]
-  ],
-  [
-    [
-      "2023-03-28, 17:28:56",
-      "https://lobste.rs/s/nybz3t/bicycle"
-    ],
-    [
-      "Bicycle",
-      "https://ciechanow.ski/bicycle/"
     ]
   ]
 ]
