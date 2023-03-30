@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
 * [2023-03-30, 11:13:46](https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly) - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
 * [2023-03-30, 08:21:00](https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable) - [Quick look at the Hanmatek HO102S Portable Oscilloscope](https://lab.ktemkin.com/post/hanmatek-ho102s/)
@@ -14,7 +15,6 @@
 * [2023-03-29, 20:36:24](https://lobste.rs/s/j6zrdh/mythic_computer_origins) - [Mythic Computer : Origins](https://www.mythic.computer/essays/origins)
 * [2023-03-29, 19:58:04](https://lobste.rs/s/n0wiby/don_t_settle_for_playground) - [Don’t settle for a playground](https://einarwh.wordpress.com/2023/03/29/dont-settle-for-a-playground/)
 * [2023-03-29, 19:45:03](https://lobste.rs/s/qyislj/novel_way_handling_integer_overflow) - [Novel way of handling integer overflow, which actually follows Liskov Substitution Principle (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
-* [2023-03-29, 19:31:17](https://lobste.rs/s/gu9bml/hello_deep_learning) - [Hello Deep Learning](https://berthub.eu/articles/posts/hello-deep-learning/)
 * [2023-03-29, 17:47:42](https://lobste.rs/s/7ebcj8/visualizing_capacitors_on_pcb_exploring) - [Visualizing capacitors on a PCB: exploring PDNs](https://jmw.name/projects/exploring-pdns/)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
 * [2023-03-29, 14:20:31](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know) - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
