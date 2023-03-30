@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 13:04:18](https://lobste.rs/s/qyh5ru/fixing_next_thousand_deadlocks_why) - [Fixing the Next Thousand Deadlocks: Why Buffered Streams Are Broken and How To Make Them Safer](https://blog.polybdenum.com/2022/07/24/fixing-the-next-thousand-deadlocks-why-buffered-streams-are-broken-and-how-to-make-them-safer.html)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
