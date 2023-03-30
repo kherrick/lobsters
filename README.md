@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
 * [2023-03-30, 14:02:17](https://lobste.rs/s/16cktv/gif_tv) - [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 * [2023-03-30, 13:45:51](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style) - [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
 * [2023-03-30, 13:36:09](https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu) - [Ensuring steady frame rates with GPU-intensive clients](https://blogs.gnome.org/shell-dev/2023/03/30/ensuring-steady-frame-rates-with-gpu-intensive-clients/)
@@ -9,7 +10,6 @@
 * [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
-* [2023-03-30, 11:13:46](https://lobste.rs/s/8xjxvp/truth_about_rust_webassembly) - [The Truth about Rust/WebAssembly Performance](https://www.youtube.com/watch?v=4KtotxNAwME)
 * [2023-03-30, 08:21:00](https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable) - [Quick look at the Hanmatek HO102S Portable Oscilloscope](https://lab.ktemkin.com/post/hanmatek-ho102s/)
 * [2023-03-30, 08:17:24](https://lobste.rs/s/xswjve/this_month_plasma_mobile_march_2023) - [This Month in Plasma Mobile: March 2023](https://plasma-mobile.org/2023/03/29/this-month-plasma-mobile/)
 * [2023-03-30, 07:58:00](https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas) - [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
