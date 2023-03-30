@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 21:01:59](https://lobste.rs/s/2ghf1j/observational_equivalence_unsafe_code) - [Observational equivalence and unsafe code (2016)](https://smallcultfollowing.com/babysteps/blog/2016/10/02/observational-equivalence-and-unsafe-code/)
+* [2023-03-30, 20:57:27](https://lobste.rs/s/1pjzcw/pseudocode_showdown_python_vs_pluscal) - [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
 * [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 19:58:31](https://lobste.rs/s/vh270y/procedural_content_generation_games) - [Procedural Content Generation in Games book](https://www.pcgbook.com/)
