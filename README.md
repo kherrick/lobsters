@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-30, 14:02:17](https://lobste.rs/s/16cktv/gif_tv) - [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 * [2023-03-30, 13:45:51](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style) - [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
 * [2023-03-30, 13:36:09](https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu) - [Ensuring steady frame rates with GPU-intensive clients](https://blogs.gnome.org/shell-dev/2023/03/30/ensuring-steady-frame-rates-with-gpu-intensive-clients/)
 * [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
@@ -16,7 +17,6 @@
 * [2023-03-29, 23:41:44](https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller) - [The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/)
 * [2023-03-29, 21:56:01](https://lobste.rs/s/aestxq/swissmap_smaller_faster_golang_hash) - [SwissMap: A smaller, faster Golang Hash Table](https://www.dolthub.com/blog/2023-03-28-swiss-map/)
 * [2023-03-29, 20:42:47](https://lobste.rs/s/f2zznj/s3_as_eternal_service) - [S3 as an Eternal Service](https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/)
-* [2023-03-29, 20:36:24](https://lobste.rs/s/j6zrdh/mythic_computer_origins) - [Mythic Computer : Origins](https://www.mythic.computer/essays/origins)
 * [2023-03-29, 19:58:04](https://lobste.rs/s/n0wiby/don_t_settle_for_playground) - [Don’t settle for a playground](https://einarwh.wordpress.com/2023/03/29/dont-settle-for-a-playground/)
 * [2023-03-29, 19:45:03](https://lobste.rs/s/qyislj/novel_way_handling_integer_overflow) - [Novel way of handling integer overflow, which actually follows Liskov Substitution Principle (2021)](https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
