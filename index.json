@@ -1,252 +1,252 @@
 [
   [
     [
-      "2023-03-27, 14:42:05",
-      "https://lobste.rs/s/iualxr/ai_enhanced_development_makes_me_more"
+      "2023-03-30, 08:21:00",
+      "https://lobste.rs/s/i2gkoc/quick_look_at_hanmatek_ho102s_portable"
     ],
     [
-      "AI-enhanced development makes me more ambitious with my projects",
-      "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/"
+      "Quick look at the Hanmatek HO102S Portable Oscilloscope",
+      "https://lab.ktemkin.com/post/hanmatek-ho102s/"
     ]
   ],
   [
     [
-      "2023-03-27, 14:32:23",
-      "https://lobste.rs/s/zqsrza/bad_nrepl_10_things_you_hate_about_nrepl"
+      "2023-03-30, 08:17:24",
+      "https://lobste.rs/s/xswjve/this_month_plasma_mobile_march_2023"
     ],
     [
-      "Bad nREPL: 10 Things You Hate About nREPL",
-      "https://metaredux.com/posts/2023/03/26/bad-nrepl.html"
+      "This Month in Plasma Mobile: March 2023",
+      "https://plasma-mobile.org/2023/03/29/this-month-plasma-mobile/"
     ]
   ],
   [
     [
-      "2023-03-27, 13:41:13",
-      "https://lobste.rs/s/ymhmun/getting_nixos_keep_secret"
+      "2023-03-30, 07:58:00",
+      "https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas"
     ],
     [
-      "Getting NixOS to keep a secret",
-      "https://bmcgee.ie/posts/2022/11/getting-nixos-to-keep-a-secret/"
+      "So, You Want To Build A DBaaS",
+      "https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/"
     ]
   ],
   [
     [
-      "2023-03-27, 13:07:26",
-      "https://lobste.rs/s/ir5psh/zig_rust"
+      "2023-03-30, 06:36:12",
+      "https://lobste.rs/s/uladgk/abstraction_can_make_your_code_worse"
     ],
     [
-      "Zig And Rust",
-      "https://matklad.github.io/2023/03/26/zig-and-rust.html"
+      "Abstraction Can Make Your Code Worse",
+      "https://www.youtube.com/watch?v=rQlMtztiAoA"
     ]
   ],
   [
     [
-      "2023-03-27, 12:53:16",
-      "https://lobste.rs/s/cxomrk/arm_trustzone_pivoting_secure_world"
+      "2023-03-30, 05:24:11",
+      "https://lobste.rs/s/htpbi4/clion_2023_1_is_out_with_vcpkg_disassemble"
     ],
     [
-      "ARM TrustZone: pivoting to the secure world",
-      "https://thalium.github.io/blog/posts/pivoting_to_the_secure_world/"
+      "CLion 2023.1 Is Out! With Vcpkg, Disassemble on Demand, and Updates to New UI",
+      "https://blog.jetbrains.com/clion/2023/03/clion-2023-1-is-out/"
     ]
   ],
   [
     [
-      "2023-03-27, 12:36:08",
-      "https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week"
+      "2023-03-30, 00:30:45",
+      "https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search"
     ],
     [
-      "What are you doing this week?",
-      "https://lobste.rs/s/mz9rrk/what_are_you_doing_this_week"
+      "I hacked into a Bing CMS, altered search results and took over millions of O365 accounts",
+      "https://nitter.net/hillai/status/1641146508639600646#m"
     ]
   ],
   [
     [
-      "2023-03-27, 11:36:09",
-      "https://lobste.rs/s/qmdq9q/2600_how_phreaking_really_worked"
+      "2023-03-29, 23:41:44",
+      "https://lobste.rs/s/apvhvr/three_legged_stool_manifesto_for_smaller"
     ],
     [
-      "2600? How Phreaking Really Worked",
-      "https://www.youtube.com/watch?v=8PmkUPBhL4U"
+      "The Three-Legged Stool: A Manifesto for a Smaller, Denser Internet",
+      "https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/"
     ]
   ],
   [
     [
-      "2023-03-27, 11:19:25",
-      "https://lobste.rs/s/arhvxx/public_access_key_2023_chris_farris"
+      "2023-03-29, 21:56:01",
+      "https://lobste.rs/s/aestxq/swissmap_smaller_faster_golang_hash"
     ],
     [
-      "Public Access Key - 2023 - Chris Farris",
-      "https://www.chrisfarris.com/post/public-access-key-2023/"
+      "SwissMap: A smaller, faster Golang Hash Table",
+      "https://www.dolthub.com/blog/2023-03-28-swiss-map/"
     ]
   ],
   [
     [
-      "2023-03-27, 11:05:42",
-      "https://lobste.rs/s/vtyzgh/chat_control_proposal_does_not_belong"
+      "2023-03-29, 20:55:20",
+      "https://lobste.rs/s/dj4j53/disposable_software"
     ],
     [
-      "The chat control proposal does not belong in democratic societies",
-      "https://mullvad.net/en/chatcontrol"
+      "Disposable Software",
+      "https://frantic.im/disposable-software"
     ]
   ],
   [
     [
-      "2023-03-27, 10:27:55",
-      "https://lobste.rs/s/xy7fii/setting_up_packaging_environment_for"
+      "2023-03-29, 20:42:47",
+      "https://lobste.rs/s/f2zznj/s3_as_eternal_service"
     ],
     [
-      "Setting up a packaging environment for Alpine Linux (introducing alpkg)",
-      "https://blog.orhun.dev/alpine-packaging-setup/"
+      "S3 as an Eternal Service",
+      "https://www.lastweekinaws.com/blog/s3-as-an-eternal-service/"
     ]
   ],
   [
     [
-      "2023-03-27, 09:26:16",
-      "https://lobste.rs/s/jxd0qk/time_domain_audio_compression_at_3_2_bits"
+      "2023-03-29, 20:36:24",
+      "https://lobste.rs/s/j6zrdh/mythic_computer_origins"
     ],
     [
-      "Time Domain Audio Compression at 3.2 bits per Sample",
-      "https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression"
+      "Mythic Computer : Origins",
+      "https://www.mythic.computer/essays/origins"
     ]
   ],
   [
     [
-      "2023-03-27, 08:18:42",
-      "https://lobste.rs/s/rl6wrf/zig_quirks"
+      "2023-03-29, 19:58:04",
+      "https://lobste.rs/s/n0wiby/don_t_settle_for_playground"
     ],
     [
-      "Zig Quirks",
-      "https://www.openmymind.net/Zig-Quirks/"
+      "Don’t settle for a playground",
+      "https://einarwh.wordpress.com/2023/03/29/dont-settle-for-a-playground/"
     ]
   ],
   [
     [
-      "2023-03-27, 07:44:30",
-      "https://lobste.rs/s/vouvks/fighting_inter_component_html_bloat"
+      "2023-03-29, 19:45:03",
+      "https://lobste.rs/s/qyislj/novel_way_handling_integer_overflow"
     ],
     [
-      "Fighting inter-component HTML bloat",
-      "https://elisehe.in/2023/03/27/minimal-html-in-design-systems"
+      "Novel way of handling integer overflow, which actually follows Liskov Substitution Principle (2021)",
+      "https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html"
     ]
   ],
   [
     [
-      "2023-03-27, 07:35:05",
-      "https://lobste.rs/s/f52b91/british_pcs_1980s"
+      "2023-03-29, 19:31:17",
+      "https://lobste.rs/s/gu9bml/hello_deep_learning"
     ],
     [
-      "British PCs of the 1980s",
-      "https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/"
+      "Hello Deep Learning",
+      "https://berthub.eu/articles/posts/hello-deep-learning/"
     ]
   ],
   [
     [
-      "2023-03-27, 06:32:53",
-      "https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023"
+      "2023-03-29, 17:47:42",
+      "https://lobste.rs/s/7ebcj8/visualizing_capacitors_on_pcb_exploring"
     ],
     [
-      "Best way to distribute a FOSS tool in 2023?",
-      "https://lobste.rs/s/wk9qye/best_way_distribute_foss_tool_2023"
+      "Visualizing capacitors on a PCB: exploring PDNs",
+      "https://jmw.name/projects/exploring-pdns/"
     ]
   ],
   [
     [
-      "2023-03-27, 05:39:13",
-      "https://lobste.rs/s/tdfr5h/craziest_thing_i_ever_used_sqlite_for"
+      "2023-03-29, 15:26:34",
+      "https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it"
     ],
     [
-      "The craziest thing I ever used SQLite for: partial file deduplication",
-      "https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw"
+      "Nix Turns 20. What the Hell Is It?",
+      "https://earthly.dev/blog/what-is-nix/"
     ]
   ],
   [
     [
-      "2023-03-27, 00:01:39",
-      "https://lobste.rs/s/ojaz0l/telemetry_is_not_your_enemy"
+      "2023-03-29, 14:20:31",
+      "https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know"
     ],
     [
-      "Telemetry Is Not Your Enemy",
-      "https://blog.glyph.im/2023/03/telemetry-is-not-your-enemy.html"
+      "Postgres: The Graph Database You Didn't Know You Had",
+      "https://www.dylanpaulus.com/posts/postgres-is-a-graph-database"
     ]
   ],
   [
     [
-      "2023-03-26, 20:13:04",
-      "https://lobste.rs/s/wry3pp/logic_proof"
+      "2023-03-29, 13:11:08",
+      "https://lobste.rs/s/ok7h12/curl_pre_notification_dilemmas"
     ],
     [
-      "Logic and Proof",
-      "https://leanprover.github.io/logic_and_proof/"
+      "cURL and Pre-notification dilemmas",
+      "https://daniel.haxx.se/blog/2023/03/29/pre-notification-dilemmas/"
     ]
   ],
   [
     [
-      "2023-03-26, 18:45:13",
-      "https://lobste.rs/s/nxevdw/dall_e_now_supported_emacs_chatgpt_shell"
+      "2023-03-29, 11:38:22",
+      "https://lobste.rs/s/dbpzp6/malicious_actors_use_unicode_support"
     ],
     [
-      "DALL-E now supported in Emacs chatgpt-shell",
-      "https://github.com/xenodium/chatgpt-shell"
+      "Malicious Actors Use Unicode Support in Python to Evade Detection",
+      "https://blog.phylum.io/malicious-actors-use-unicode-support-in-python-to-evade-detection"
     ]
   ],
   [
     [
-      "2023-03-26, 15:33:41",
-      "https://lobste.rs/s/8zi8td/common_pitfalls_github_actions"
+      "2023-03-29, 11:27:45",
+      "https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language"
     ],
     [
-      "Common pitfalls of GitHub Actions",
-      "https://ashishb.net/tech/common-pitfalls-of-github-actions/"
+      "Type system of Fortnite's Verse language",
+      "https://brianmckenna.org/blog/verse_types"
     ]
   ],
   [
     [
-      "2023-03-26, 15:33:16",
-      "https://lobste.rs/s/w6lgnv/this_week_ladybird_1"
+      "2023-03-29, 10:57:44",
+      "https://lobste.rs/s/tti4gh/breaking_prng_is_it_called_xor_shift_xor"
     ],
     [
-      "This Week in Ladybird #1",
-      "https://linus.dev/posts/this-week-in-ladybird-1/"
+      "Breaking a PRNG: Is it Called Xor Shift or Xor Shit?",
+      "https://tobtu.com/blog/2023/3/breaking-xor-shift-prng/"
     ]
   ],
   [
     [
-      "2023-03-26, 14:15:48",
-      "https://lobste.rs/s/xr2z5d/largest_number_representable_64_bits"
+      "2023-03-29, 08:29:27",
+      "https://lobste.rs/s/8zlltk/rust_identified_as_safer_coding_tool_by"
     ],
     [
-      "The largest number representable in 64 bits",
-      "https://googology.fandom.com/wiki/User_blog:JohnTromp/The_largest_number_representable_in_64_bits"
+      "Rust Identified as Safer Coding Tool by NIST",
+      "https://foundation.rust-lang.org/news/rust-identified-as-safer-coding-tool-by-nist/"
     ]
   ],
   [
     [
-      "2023-03-26, 12:22:50",
-      "https://lobste.rs/s/prvzij/just_update_rules_between_neurons"
+      "2023-03-29, 08:26:29",
+      "https://lobste.rs/s/q1xhdh/infinite_mac_emulator"
     ],
     [
-      "Just update rules between neurons",
-      "https://www.jtolio.com/2023/03/just-update-rules-between-neurons/"
+      "Infinite Mac (emulator)",
+      "https://blog.persistent.info/2023/03/infinitemac-dot-org.html"
     ]
   ],
   [
     [
-      "2023-03-26, 07:54:46",
-      "https://lobste.rs/s/4ybcto/pgwire_rust_library_for_building"
+      "2023-03-28, 23:16:17",
+      "https://lobste.rs/s/oesjmx/rust_is_scalable_language"
     ],
     [
-      "pgwire: A rust library for building postgresql compatible servers",
-      "https://github.com/sunng87/pgwire"
+      "Rust Is a Scalable Language",
+      "https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"
     ]
   ],
   [
     [
-      "2023-03-26, 05:24:42",
-      "https://lobste.rs/s/l9otau/software_is_not_defined_by_language_it_s"
+      "2023-03-28, 17:28:56",
+      "https://lobste.rs/s/nybz3t/bicycle"
     ],
     [
-      "Software is not defined by the language it's written in",
-      "https://garrit.xyz/posts/2023-03-26-software-is-not-defined-by-the-language-it's-written-in"
+      "Bicycle",
+      "https://ciechanow.ski/bicycle/"
     ]
   ]
 ]
