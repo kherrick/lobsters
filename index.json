@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-30, 16:31:55",
+      "https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai"
+    ],
+    [
+      "Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)",
+      "https://www.youtube.com/watch?v=wJ0D7MrPNOw"
+    ]
+  ],
+  [
+    [
       "2023-03-30, 15:46:48",
       "https://lobste.rs/s/zlrvzp/apparat_newdos_80_first_alternative"
     ],
@@ -57,16 +67,6 @@
     [
       "gotraceui: the efficient frontend for go execution traces",
       "https://github.com/dominikh/gotraceui"
-    ]
-  ],
-  [
-    [
-      "2023-03-30, 13:04:18",
-      "https://lobste.rs/s/qyh5ru/fixing_next_thousand_deadlocks_why"
-    ],
-    [
-      "Fixing the Next Thousand Deadlocks: Why Buffered Streams Are Broken and How To Make Them Safer",
-      "https://blog.polybdenum.com/2022/07/24/fixing-the-next-thousand-deadlocks-why-buffered-streams-are-broken-and-how-to-make-them-safer.html"
     ]
   ],
   [
