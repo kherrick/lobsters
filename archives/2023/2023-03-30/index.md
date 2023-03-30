@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-30](index.md)
 
+* [2023-03-30, 15:46:48](https://lobste.rs/s/zlrvzp/apparat_newdos_80_first_alternative) - [Apparat NEWDOS/80: The first alternative operating system for TRS-80s](https://computeradsfromthepast.substack.com/p/apparat-newdos80)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
 * [2023-03-30, 14:02:17](https://lobste.rs/s/16cktv/gif_tv) - [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 * [2023-03-30, 13:45:51](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style) - [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
