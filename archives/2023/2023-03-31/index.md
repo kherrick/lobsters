@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 20:32:16](https://lobste.rs/s/q2i2lb/hacking_on_gitea_actions) - [Hacking on Gitea Actions](https://blog.gitea.io/2023/03/hacking-on-gitea-actions/)
 * [2023-03-31, 20:04:36](https://lobste.rs/s/4vpyju/kickass_crypto_contemporary_php) - [kickass-crypto: Contemporary PHP cryptography library circa 2023](https://github.com/jj5/kickass-crypto)
 * [2023-03-31, 20:00:53](https://lobste.rs/s/1tmy0w/using_dtrace_find_block_sizes_zfs_nfs) - [Using DTrace to find block sizes of ZFS, NFS and iSCSI](https://axcient.com/blog/using-dtrace-to-find-block-sizes-of-zfs-nfs-and-iscsi/)
 * [2023-03-31, 19:36:48](https://lobste.rs/s/4i3kko/toolchains_adventures_q1_2023) - [Toolchains adventures - Q1 2023](https://www.cambus.net/toolchains-adventures-q1-2023/)
