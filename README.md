@@ -24,7 +24,7 @@
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
-* [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
+* [2023-03-29, 11:27:45](https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language) - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
 
 ## [Archives](archives/index.md)
 
