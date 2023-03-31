@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 13:01:24](https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime) - [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
@@ -18,7 +19,6 @@
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
-* [2023-03-30, 14:02:17](https://lobste.rs/s/16cktv/gif_tv) - [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 * [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
