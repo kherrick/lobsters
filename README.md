@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 01:43:43](https://lobste.rs/s/bsggli/efficient_coroutines_by_rewriting) - [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
+* [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 * [2023-03-31, 00:43:12](https://lobste.rs/s/m2rurc/performance_implications_xx) - [Performance implications of -XX:+/-PerfDisableSharedMem](https://github.com/simonis/mmap-pause/blob/master/README.md)
 * [2023-03-30, 20:57:27](https://lobste.rs/s/1pjzcw/pseudocode_showdown_python_vs_pluscal) - [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
@@ -14,7 +16,6 @@
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
 * [2023-03-30, 14:02:17](https://lobste.rs/s/16cktv/gif_tv) - [GIF-TV](https://mle-online.com/projects/GIFTV/index.html)
 * [2023-03-30, 13:45:51](https://lobste.rs/s/n9bujk/rust_on_nails_ruby_on_rails_style) - [Rust on Nails - Ruby on Rails-style suggestions for the Rust ecosystem](https://rust-on-nails.com/docs/ide-setup/introduction/)
-* [2023-03-30, 13:36:09](https://lobste.rs/s/pz9lko/ensuring_steady_frame_rates_with_gpu) - [Ensuring steady frame rates with GPU-intensive clients](https://blogs.gnome.org/shell-dev/2023/03/30/ensuring-steady-frame-rates-with-gpu-intensive-clients/)
 * [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
@@ -23,7 +24,6 @@
 * [2023-03-30, 07:58:00](https://lobste.rs/s/hr4lkf/so_you_want_build_dbaas) - [So, You Want To Build A DBaaS](https://matt.blwt.io/post/so-you-want-to-build-a-dbaas/)
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 * [2023-03-29, 15:26:34](https://lobste.rs/s/pnnoba/nix_turns_20_what_hell_is_it) - [Nix Turns 20. What the Hell Is It?](https://earthly.dev/blog/what-is-nix/)
-* [2023-03-29, 14:20:31](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know) - [Postgres: The Graph Database You Didn't Know You Had](https://www.dylanpaulus.com/posts/postgres-is-a-graph-database)
 * [2023-03-29, 11:27:45](https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language) - [Type system of Fortnite's Verse language](https://brianmckenna.org/blog/verse_types)
 
 ## [Archives](archives/index.md)
