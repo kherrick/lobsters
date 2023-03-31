@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 09:16:12",
+      "https://lobste.rs/s/sywytz/decreasing_number_memory_accesses"
+    ],
+    [
+      "Decreasing the Number of Memory Accesses: The Compiler's Secret Life 2/2",
+      "https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 07:59:38",
       "https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal"
     ],
@@ -237,16 +247,6 @@
     [
       "I hacked into a Bing CMS, altered search results and took over millions of O365 accounts",
       "https://nitter.net/hillai/status/1641146508639600646#m"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 11:27:45",
-      "https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language"
-    ],
-    [
-      "Type system of Fortnite's Verse language",
-      "https://brianmckenna.org/blog/verse_types"
     ]
   ]
 ]
