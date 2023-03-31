@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
 * [2023-03-31, 18:52:38](https://lobste.rs/s/plehbw/simple_python_implementation_react) - [A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern)
 * [2023-03-31, 18:48:44](https://lobste.rs/s/mhwbum/openai_s_gpt_3_language_model_technical) - [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3)
 * [2023-03-31, 17:41:31](https://lobste.rs/s/jwoepq/pytorch_internals_2019) - [PyTorch internals (2019)](http://blog.ezyang.com/2019/05/pytorch-internals/)
