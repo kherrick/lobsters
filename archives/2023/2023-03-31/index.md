@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 09:16:12](https://lobste.rs/s/sywytz/decreasing_number_memory_accesses) - [Decreasing the Number of Memory Accesses: The Compiler's Secret Life 2/2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/)
 * [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
 * [2023-03-31, 07:18:48](https://lobste.rs/s/bmgewu/proposal_for_safe_window_handles) - [A Proposal for Safe Window Handles](https://notgull.github.io/safe-windows/)
 * [2023-03-31, 07:14:01](https://lobste.rs/s/ly4hjd/fixing_baikal_caldav_carddav_server_not) - [Fixing Baikal CalDav/CardDAV Server Not Working on FreeBSD](https://www.ncartron.org/fixing-baikal-not-working-on-freebsd.html)
