@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
 * [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
@@ -20,7 +21,6 @@
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
-* [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
