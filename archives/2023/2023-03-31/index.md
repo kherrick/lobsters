@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 21:21:12](https://lobste.rs/s/ostk1k/swift_5_8_released) - [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
 * [2023-03-31, 20:32:16](https://lobste.rs/s/q2i2lb/hacking_on_gitea_actions) - [Hacking on Gitea Actions](https://blog.gitea.io/2023/03/hacking-on-gitea-actions/)
 * [2023-03-31, 20:04:36](https://lobste.rs/s/4vpyju/kickass_crypto_contemporary_php) - [kickass-crypto: Contemporary PHP cryptography library circa 2023](https://github.com/jj5/kickass-crypto)
 * [2023-03-31, 20:00:53](https://lobste.rs/s/1tmy0w/using_dtrace_find_block_sizes_zfs_nfs) - [Using DTrace to find block sizes of ZFS, NFS and iSCSI](https://axcient.com/blog/using-dtrace-to-find-block-sizes-of-zfs-nfs-and-iscsi/)
