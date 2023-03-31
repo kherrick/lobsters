@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-03-31, 10:02:12](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend)
 * [2023-03-31, 09:16:12](https://lobste.rs/s/sywytz/decreasing_number_memory_accesses) - [Decreasing the Number of Memory Accesses: The Compiler's Secret Life 2/2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/)
 * [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
@@ -13,7 +14,6 @@
 * [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
-* [2023-03-30, 18:42:17](https://lobste.rs/s/tnsxdk/asking_right_questions_chatgpt) - [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 * [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
