@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 19:09:18",
+      "https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix"
+    ],
+    [
+      "robotnix: Build Android (AOSP) using Nix",
+      "https://github.com/danielfullmer/robotnix"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 18:52:38",
       "https://lobste.rs/s/plehbw/simple_python_implementation_react"
     ],
@@ -157,16 +167,6 @@
     [
       "Linearity and Control [linear types proposal for Rust]",
       "https://blog.yoshuawuyts.com/linearity-and-control/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 04:15:03",
-      "https://lobste.rs/s/rs69wv/source_code_archives_several_video_games"
-    ],
-    [
-      "Source code archives of several video games for classic consoles",
-      "http://shrigley.com/source_code_archive/#comments"
     ]
   ],
   [
