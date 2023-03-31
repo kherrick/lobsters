@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
 * [2023-03-31, 18:52:38](https://lobste.rs/s/plehbw/simple_python_implementation_react) - [A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern)
 * [2023-03-31, 18:48:44](https://lobste.rs/s/mhwbum/openai_s_gpt_3_language_model_technical) - [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3)
 * [2023-03-31, 17:41:31](https://lobste.rs/s/jwoepq/pytorch_internals_2019) - [PyTorch internals (2019)](http://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2023-03-31, 16:44:20](https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence) - [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
-* [2023-03-31, 16:08:37](https://lobste.rs/s/xmc3h1/italian_data_regulator_issues_temporary) - [Italian Data Regulator issues temporary stop to ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
