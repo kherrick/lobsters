@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
 * [2023-03-31, 13:01:24](https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime) - [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
@@ -21,7 +22,6 @@
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
 * [2023-03-30, 13:10:52](https://lobste.rs/s/2ftdpg/gotraceui_efficient_frontend_for_go) - [gotraceui: the efficient frontend for go execution traces](https://github.com/dominikh/gotraceui)
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
-* [2023-03-30, 12:26:53](https://lobste.rs/s/l0pnfw/introducing_neuro_lingo_llm_powered) - [Introducing neuro-lingo, a LLM powered comment language](https://derw.substack.com/p/introducing-neuro-lingo-a-llm-powered)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
 * [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
 * [2023-03-31, 13:01:24](https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime) - [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
