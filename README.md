@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 04:15:03](https://lobste.rs/s/rs69wv/source_code_archives_several_video_games) - [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
 * [2023-03-31, 02:42:46](https://lobste.rs/s/y3gkdf/thousands_conductance_levels) - [Thousands of conductance levels in memristors integrated on CMOS](https://rdcu.be/c8GWo)
 * [2023-03-31, 01:43:43](https://lobste.rs/s/bsggli/efficient_coroutines_by_rewriting) - [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
 * [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
-* [2023-03-31, 00:43:12](https://lobste.rs/s/m2rurc/performance_implications_xx) - [Performance implications of -XX:+/-PerfDisableSharedMem](https://github.com/simonis/mmap-pause/blob/master/README.md)
 * [2023-03-30, 20:57:27](https://lobste.rs/s/1pjzcw/pseudocode_showdown_python_vs_pluscal) - [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
 * [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
