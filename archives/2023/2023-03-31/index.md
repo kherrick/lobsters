@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
 * [2023-03-31, 07:18:48](https://lobste.rs/s/bmgewu/proposal_for_safe_window_handles) - [A Proposal for Safe Window Handles](https://notgull.github.io/safe-windows/)
 * [2023-03-31, 07:14:01](https://lobste.rs/s/ly4hjd/fixing_baikal_caldav_carddav_server_not) - [Fixing Baikal CalDav/CardDAV Server Not Working on FreeBSD](https://www.ncartron.org/fixing-baikal-not-working-on-freebsd.html)
 * [2023-03-31, 04:15:03](https://lobste.rs/s/rs69wv/source_code_archives_several_video_games) - [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
