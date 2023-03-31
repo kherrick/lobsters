@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-03-31](index.md)
 
+* [2023-03-31, 16:44:20](https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence) - [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 * [2023-03-31, 16:08:37](https://lobste.rs/s/xmc3h1/italian_data_regulator_issues_temporary) - [Italian Data Regulator issues temporary stop to ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
