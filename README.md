@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 18:52:38](https://lobste.rs/s/plehbw/simple_python_implementation_react) - [A simple Python implementation of the ReAct pattern for LLMs](https://til.simonwillison.net/llms/python-react-pattern)
+* [2023-03-31, 18:48:44](https://lobste.rs/s/mhwbum/openai_s_gpt_3_language_model_technical) - [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3)
 * [2023-03-31, 17:41:31](https://lobste.rs/s/jwoepq/pytorch_internals_2019) - [PyTorch internals (2019)](http://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2023-03-31, 16:44:20](https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence) - [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 * [2023-03-31, 16:08:37](https://lobste.rs/s/xmc3h1/italian_data_regulator_issues_temporary) - [Italian Data Regulator issues temporary stop to ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
@@ -21,9 +23,7 @@
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
-* [2023-03-30, 16:31:55](https://lobste.rs/s/muubsy/stop_using_ai_as_service_koboldai) - [Stop Using AI as a Service  - (KoboldAI, InvokeAI, Nixified.AI)](https://www.youtube.com/watch?v=wJ0D7MrPNOw)
 * [2023-03-30, 15:14:31](https://lobste.rs/s/p1hela/emacs_as_ai_assistant_with_org_ai) - [Emacs as an AI assistant with org-ai](https://www.youtube.com/watch?v=fvBDxiFPG6I)
-* [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 
 ## [Archives](archives/index.md)
