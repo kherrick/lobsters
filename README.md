@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 17:41:31](https://lobste.rs/s/jwoepq/pytorch_internals_2019) - [PyTorch internals (2019)](http://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2023-03-31, 16:44:20](https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence) - [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 * [2023-03-31, 16:08:37](https://lobste.rs/s/xmc3h1/italian_data_regulator_issues_temporary) - [Italian Data Regulator issues temporary stop to ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
@@ -13,7 +14,6 @@
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-03-31, 10:02:12](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend)
 * [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
-* [2023-03-31, 04:15:03](https://lobste.rs/s/rs69wv/source_code_archives_several_video_games) - [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
 * [2023-03-31, 01:43:43](https://lobste.rs/s/bsggli/efficient_coroutines_by_rewriting) - [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
 * [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
