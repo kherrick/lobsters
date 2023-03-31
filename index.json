@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 12:52:26",
+      "https://lobste.rs/s/duwkz7/janet_for_mortals"
+    ],
+    [
+      "Janet for Mortals",
+      "https://janet.guide/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 12:31:28",
       "https://lobste.rs/s/zfimxl/helix_23_03"
     ],
@@ -47,16 +57,6 @@
     [
       "Linearity and Control [linear types proposal for Rust]",
       "https://blog.yoshuawuyts.com/linearity-and-control/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 07:18:48",
-      "https://lobste.rs/s/bmgewu/proposal_for_safe_window_handles"
-    ],
-    [
-      "A Proposal for Safe Window Handles",
-      "https://notgull.github.io/safe-windows/"
     ]
   ],
   [
