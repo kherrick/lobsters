@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 17:41:31",
+      "https://lobste.rs/s/jwoepq/pytorch_internals_2019"
+    ],
+    [
+      "PyTorch internals (2019)",
+      "http://blog.ezyang.com/2019/05/pytorch-internals/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 16:44:20",
       "https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence"
     ],
@@ -127,16 +137,6 @@
     [
       "Linearity and Control [linear types proposal for Rust]",
       "https://blog.yoshuawuyts.com/linearity-and-control/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 04:15:03",
-      "https://lobste.rs/s/rs69wv/source_code_archives_several_video_games"
-    ],
-    [
-      "Source code archives of several video games for classic consoles",
-      "http://shrigley.com/source_code_archive/#comments"
     ]
   ],
   [
