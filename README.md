@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 16:08:37](https://lobste.rs/s/xmc3h1/italian_data_regulator_issues_temporary) - [Italian Data Regulator issues temporary stop to ChatGPT](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9870847)
+* [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
@@ -10,7 +12,6 @@
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-03-31, 10:02:12](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend)
 * [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
-* [2023-03-31, 07:14:01](https://lobste.rs/s/ly4hjd/fixing_baikal_caldav_carddav_server_not) - [Fixing Baikal CalDav/CardDAV Server Not Working on FreeBSD](https://www.ncartron.org/fixing-baikal-not-working-on-freebsd.html)
 * [2023-03-31, 04:15:03](https://lobste.rs/s/rs69wv/source_code_archives_several_video_games) - [Source code archives of several video games for classic consoles](http://shrigley.com/source_code_archive/#comments)
 * [2023-03-31, 01:43:43](https://lobste.rs/s/bsggli/efficient_coroutines_by_rewriting) - [Efficient coroutines by rewriting bytecode](https://squiddev.cc/2023/03/29/coroutines-and-bytecode.html)
 * [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
@@ -24,7 +25,6 @@
 * [2023-03-30, 12:53:02](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking) - [What conferences are you all looking forward to?](https://lobste.rs/s/c8eahy/what_conferences_are_you_all_looking)
 * [2023-03-30, 11:54:28](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best) - [CORS is such a mess. What are current best practices?](https://lobste.rs/s/2qr2nf/cors_is_such_mess_what_are_current_best)
 * [2023-03-30, 11:18:00](https://lobste.rs/s/kxlskh/charts_css) - [Charts.css](https://chartscss.org/)
-* [2023-03-30, 00:30:45](https://lobste.rs/s/77r2oy/i_hacked_into_bing_cms_altered_search) - [I hacked into a Bing CMS, altered search results and took over millions of O365 accounts](https://nitter.net/hillai/status/1641146508639600646#m)
 
 ## [Archives](archives/index.md)
 
