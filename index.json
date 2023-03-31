@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-03-31, 07:59:38",
+      "https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal"
+    ],
+    [
+      "Linearity and Control [linear types proposal for Rust]",
+      "https://blog.yoshuawuyts.com/linearity-and-control/"
+    ]
+  ],
+  [
+    [
       "2023-03-31, 07:18:48",
       "https://lobste.rs/s/bmgewu/proposal_for_safe_window_handles"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix Turns 20. What the Hell Is It?",
       "https://earthly.dev/blog/what-is-nix/"
-    ]
-  ],
-  [
-    [
-      "2023-03-29, 11:27:45",
-      "https://lobste.rs/s/icbyfz/type_system_fortnite_s_verse_language"
-    ],
-    [
-      "Type system of Fortnite's Verse language",
-      "https://brianmckenna.org/blog/verse_types"
     ]
   ]
 ]
