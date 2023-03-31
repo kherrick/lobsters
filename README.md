@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-03-31, 10:02:12](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend)
 * [2023-03-31, 09:16:12](https://lobste.rs/s/sywytz/decreasing_number_memory_accesses) - [Decreasing the Number of Memory Accesses: The Compiler's Secret Life 2/2](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/)
 * [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
 * [2023-03-31, 07:18:48](https://lobste.rs/s/bmgewu/proposal_for_safe_window_handles) - [A Proposal for Safe Window Handles](https://notgull.github.io/safe-windows/)
@@ -11,7 +12,6 @@
 * [2023-03-30, 20:57:27](https://lobste.rs/s/1pjzcw/pseudocode_showdown_python_vs_pluscal) - [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
 * [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
-* [2023-03-30, 19:58:31](https://lobste.rs/s/vh270y/procedural_content_generation_games) - [Procedural Content Generation in Games book](https://www.pcgbook.com/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 * [2023-03-30, 18:42:17](https://lobste.rs/s/tnsxdk/asking_right_questions_chatgpt) - [Asking the Right Questions to ChatGPT](https://davi.sh/blog/2023/03/gpt-right-questions/)
 * [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
