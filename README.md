@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-03-30, 22:07:33](https://lobste.rs/s/kldc1b/mit_turbocharges_python_s_notoriously) - [MIT Turbocharges Python’s Notoriously Slow Compiler](https://spectrum.ieee.org/python-compiler)
-* [2023-03-30, 21:21:02](https://lobste.rs/s/1nzfcf/ibm_composite_artifact_color_games) - [IBM Composite Artifact Color Games and Related Topics](http://nerdlypleasures.blogspot.com/2023/03/list-of-ibm-composite-artifact-color.html)
+* [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
+* [2023-03-31, 00:43:12](https://lobste.rs/s/m2rurc/performance_implications_xx) - [Performance implications of -XX:+/-PerfDisableSharedMem](https://github.com/simonis/mmap-pause/blob/master/README.md)
 * [2023-03-30, 20:57:27](https://lobste.rs/s/1pjzcw/pseudocode_showdown_python_vs_pluscal) - [Pseudocode Showdown: Python vs. PlusCal & TLA+](https://ahelwer.ca/post/2023-03-30-pseudocode/)
 * [2023-03-30, 20:28:19](https://lobste.rs/s/qkz6oq/my_quest_re_create_street_fighter_s_long) - [My quest to re-create Street Fighter’s long-lost pneumatic controls](https://arstechnica.com/gaming/2023/03/my-quest-to-recreate-street-fighters-long-lost-pneumatic-controls/)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
