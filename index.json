@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-04-01, 01:29:48",
-      "https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on"
-    ],
-    [
-      "gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
-      "https://github.com/nomic-ai/gpt4all"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 21:21:12",
       "https://lobste.rs/s/ostk1k/swift_5_8_released"
     ],
@@ -117,6 +107,16 @@
     [
       "urler: command line tool for URL parsing and manipulation",
       "https://github.com/curl/urler"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 15:34:07",
+      "https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009"
+    ],
+    [
+      "A Game of Life on Penrose Tilings [2009]",
+      "http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf"
     ]
   ],
   [
