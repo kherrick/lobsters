@@ -9,6 +9,7 @@
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
 * [2023-04-01, 08:10:01](https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces) - [Memory, Pages, mmap, and Linear Address Spaces](https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/)
+* [2023-04-01, 07:53:13](https://lobste.rs/s/racaui/aplcart_find_your_way_apl) - [APLcart - Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
@@ -24,7 +25,6 @@
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
-* [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 
 ## [Archives](archives/index.md)
 
