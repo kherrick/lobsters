@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 21:32:06](https://lobste.rs/s/u5ztm9/another_reply_josef_prusa) - [Another reply to Josef Průša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 * [2023-04-01, 19:04:00](https://lobste.rs/s/lylcrd/llm_self_play_on_20_questions) - [LLM self-play on 20 Questions](https://evanthebouncy.medium.com/llm-self-play-on-20-questions-dee7a8c63377)
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
 * [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
@@ -10,7 +11,6 @@
 * [2023-04-01, 12:49:23](https://lobste.rs/s/nfu7tl/reply_josef_prusa) - [A reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
-* [2023-04-01, 10:33:05](https://lobste.rs/s/ma9chh/international_pascal_congress) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
 * [2023-04-01, 07:53:13](https://lobste.rs/s/racaui/aplcart_find_your_way_apl) - [APLcart - Find your way in APL](https://aplcart.info/)

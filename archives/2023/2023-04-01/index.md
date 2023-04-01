@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 21:32:06](https://lobste.rs/s/u5ztm9/another_reply_josef_prusa) - [Another reply to Josef Průša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 * [2023-04-01, 19:04:00](https://lobste.rs/s/lylcrd/llm_self_play_on_20_questions) - [LLM self-play on 20 Questions](https://evanthebouncy.medium.com/llm-self-play-on-20-questions-dee7a8c63377)
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
 * [2023-04-01, 18:12:36](https://lobste.rs/s/aqocuc/ubuntu_ditch_snap_completely_with_24_04) - [Ubuntu to ditch Snap completely with 24.04 LTS Naughty Nightingale](https://news.itsfoss.com/ubuntu-ditch-snap/)
