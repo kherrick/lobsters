@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
+* [2023-04-01, 06:57:21](https://lobste.rs/s/kirda4/detection_flashing_lights_video_content) - [Detection of Flashing Lights in Video Content](https://github.com/apple/VideoFlashingReduction)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
-* [2023-04-01, 02:54:20](https://lobste.rs/s/rqjokr/prompt_engineering) - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
+* [2023-04-01, 01:29:48](https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on) - [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
 * [2023-03-31, 21:21:12](https://lobste.rs/s/ostk1k/swift_5_8_released) - [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
 * [2023-03-31, 20:32:16](https://lobste.rs/s/q2i2lb/hacking_on_gitea_actions) - [Hacking on Gitea Actions](https://blog.gitea.io/2023/03/hacking-on-gitea-actions/)
 * [2023-03-31, 20:04:36](https://lobste.rs/s/4vpyju/kickass_crypto_contemporary_php) - [kickass-crypto: Contemporary PHP cryptography library circa 2023](https://github.com/jj5/kickass-crypto)
@@ -11,7 +13,6 @@
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
-* [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
 * [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
@@ -24,7 +25,6 @@
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
 * [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
-* [2023-03-30, 18:03:47](https://lobste.rs/s/e1c2sb/how_roc_compiles_closures) - [How Roc Compiles Closures](https://www.rwx.com/blog/how-roc-compiles-closures)
 
 ## [Archives](archives/index.md)
 
