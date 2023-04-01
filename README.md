@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 02:54:20](https://lobste.rs/s/rqjokr/prompt_engineering) - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
 * [2023-04-01, 01:29:48](https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on) - [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
 * [2023-03-31, 21:21:12](https://lobste.rs/s/ostk1k/swift_5_8_released) - [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
@@ -19,7 +20,6 @@
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-03-31, 10:02:12](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/z3adwj/what_are_you_doing_this_weekend)
-* [2023-03-31, 07:59:38](https://lobste.rs/s/rgm7zb/linearity_control_linear_types_proposal) - [Linearity and Control [linear types proposal for Rust]](https://blog.yoshuawuyts.com/linearity-and-control/)
 * [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
