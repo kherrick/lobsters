@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
-* [2023-04-01, 18:12:36](https://lobste.rs/s/aqocuc/ubuntu_ditch_snap_completely_with_24_04) - [Ubuntu to ditch Snap completely with 24.04 LTS Naughty Nightingale](https://news.itsfoss.com/ubuntu-ditch-snap/)
+* [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 17:07:02](https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive) - [The Joys of Bootstrapping the IBM backup-archive Client](https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
