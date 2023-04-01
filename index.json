@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-04-01, 06:57:21",
+      "https://lobste.rs/s/kirda4/detection_flashing_lights_video_content"
+    ],
+    [
+      "Detection of Flashing Lights in Video Content",
+      "https://github.com/apple/VideoFlashingReduction"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 06:03:15",
       "https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx"
     ],
@@ -147,16 +157,6 @@
     [
       "the-algorithm: Source code for Twitter's Recommendation Algorithm",
       "https://github.com/twitter/the-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 01:29:48",
-      "https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on"
-    ],
-    [
-      "gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
-      "https://github.com/nomic-ai/gpt4all"
     ]
   ],
   [
