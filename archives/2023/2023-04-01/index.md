@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
+* [2023-04-01, 08:10:01](https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces) - [Memory, Pages, mmap, and Linear Address Spaces](https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/)
+* [2023-04-01, 08:09:32](https://lobste.rs/s/qrprww/mediocrity_can_be_sign_excellence_other) - [Mediocrity can be a sign of excellence, and other stories](https://predr.ag/blog/mediocrity-can-be-a-sign-of-excellence/)
 * [2023-04-01, 07:53:13](https://lobste.rs/s/racaui/aplcart_find_your_way_apl) - [APLcart - Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 07:50:44](https://lobste.rs/s/vqwwcp/my4th_minimalistic_forth_computer_with) - [My4TH - A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
