@@ -6,6 +6,7 @@
 
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 13:22:52](https://lobste.rs/s/jsa6gp/my4th_minimalistic_forth_computer_with) - [My4TH - A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
+* [2023-04-01, 12:49:23](https://lobste.rs/s/nfu7tl/reply_josef_prusa) - [A reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:33:05](https://lobste.rs/s/ma9chh/international_pascal_congress) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
