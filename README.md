@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 19:04:00](https://lobste.rs/s/lylcrd/llm_self_play_on_20_questions) - [LLM self-play on 20 Questions](https://evanthebouncy.medium.com/llm-self-play-on-20-questions-dee7a8c63377)
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
 * [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
@@ -24,7 +25,6 @@
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
-* [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 
 ## [Archives](archives/index.md)
 
