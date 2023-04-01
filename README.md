@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:54:20](https://lobste.rs/s/rqjokr/prompt_engineering) - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
 * [2023-04-01, 01:29:48](https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on) - [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
@@ -9,7 +10,6 @@
 * [2023-03-31, 19:36:48](https://lobste.rs/s/4i3kko/toolchains_adventures_q1_2023) - [Toolchains adventures - Q1 2023](https://www.cambus.net/toolchains-adventures-q1-2023/)
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
-* [2023-03-31, 18:48:44](https://lobste.rs/s/mhwbum/openai_s_gpt_3_language_model_technical) - [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
