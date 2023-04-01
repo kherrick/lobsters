@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 17:07:02](https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive) - [The Joys of Bootstrapping the IBM backup-archive Client](https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)

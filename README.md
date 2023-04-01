@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 17:07:02](https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive) - [The Joys of Bootstrapping the IBM backup-archive Client](https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 12:49:23](https://lobste.rs/s/nfu7tl/reply_josef_prusa) - [A reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
-* [2023-04-01, 10:33:05](https://lobste.rs/s/ma9chh/international_pascal_congress) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
 * [2023-04-01, 08:10:01](https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces) - [Memory, Pages, mmap, and Linear Address Spaces](https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/)
