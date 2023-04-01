@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 22:55:56](https://lobste.rs/s/ptku60/filecoin_green_bacalhau_announce) - [Filecoin Green and Bacalhau Announce Partnership to Simplify Use of Renewable Energy Credits](https://blog.bacalhau.org/p/filecoin-green-rec-and-bacalhau-partnership)
 * [2023-04-01, 21:32:06](https://lobste.rs/s/u5ztm9/another_reply_josef_prusa) - [Another reply to Josef Průša](https://www.haerdin.se/blog/2023/04/01/another-reply-to-josef-prusa/)
 * [2023-04-01, 19:04:00](https://lobste.rs/s/lylcrd/llm_self_play_on_20_questions) - [LLM self-play on 20 Questions](https://evanthebouncy.medium.com/llm-self-play-on-20-questions-dee7a8c63377)
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
@@ -22,7 +23,6 @@
 * [2023-03-31, 21:21:12](https://lobste.rs/s/ostk1k/swift_5_8_released) - [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
-* [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 
