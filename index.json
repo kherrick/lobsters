@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-01, 17:54:22",
+      "https://lobste.rs/s/nonauh/moving_from_rust_c"
+    ],
+    [
+      "Moving from Rust to C++",
+      "https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 17:07:02",
       "https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive"
     ],
@@ -57,16 +67,6 @@
     [
       "The Secret Life of fsync",
       "https://puzpuzpuz.dev/the-secret-life-of-fsync"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 10:33:05",
-      "https://lobste.rs/s/ma9chh/international_pascal_congress"
-    ],
-    [
-      "International Pascal Congress",
-      "https://www.pascalcongress.com/index.html"
     ]
   ],
   [
