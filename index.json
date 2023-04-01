@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-01, 18:12:36",
+      "https://lobste.rs/s/aqocuc/ubuntu_ditch_snap_completely_with_24_04"
+    ],
+    [
+      "Ubuntu to ditch Snap completely with 24.04 LTS Naughty Nightingale",
+      "https://news.itsfoss.com/ubuntu-ditch-snap/"
+    ]
+  ],
+  [
+    [
+      "2023-04-01, 17:59:09",
+      "https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza"
+    ],
+    [
+      "PINE64 March Update: Tablet Bonanza",
+      "https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 17:54:22",
       "https://lobste.rs/s/nonauh/moving_from_rust_c"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-03-31, 19:36:48",
-      "https://lobste.rs/s/4i3kko/toolchains_adventures_q1_2023"
-    ],
-    [
-      "Toolchains adventures - Q1 2023",
-      "https://www.cambus.net/toolchains-adventures-q1-2023/"
-    ]
-  ],
-  [
-    [
       "2023-03-31, 19:16:37",
       "https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony"
     ],
@@ -227,16 +237,6 @@
     [
       "Helix 23.03",
       "https://helix-editor.com/news/release-23-03-highlights/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 11:05:45",
-      "https://lobste.rs/s/5binkk/letting_users_block_injected_third_party"
-    ],
-    [
-      "Letting users block injected third-party DLLs in Firefox",
-      "https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/"
     ]
   ],
   [
