@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 07:50:44](https://lobste.rs/s/vqwwcp/my4th_minimalistic_forth_computer_with) - [My4TH - A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
 * [2023-04-01, 06:57:21](https://lobste.rs/s/kirda4/detection_flashing_lights_video_content) - [Detection of Flashing Lights in Video Content](https://github.com/apple/VideoFlashingReduction)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
@@ -15,7 +16,6 @@
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
-* [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
 * [2023-03-31, 13:01:24](https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime) - [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)

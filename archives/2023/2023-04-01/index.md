@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 07:50:44](https://lobste.rs/s/vqwwcp/my4th_minimalistic_forth_computer_with) - [My4TH - A minimalistic Forth computer with discrete CPU](http://mynor.org/my4th.htm)
 * [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
 * [2023-04-01, 06:57:21](https://lobste.rs/s/kirda4/detection_flashing_lights_video_content) - [Detection of Flashing Lights in Video Content](https://github.com/apple/VideoFlashingReduction)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
