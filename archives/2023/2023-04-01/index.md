@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:54:20](https://lobste.rs/s/rqjokr/prompt_engineering) - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:54:20](https://lobste.rs/s/rqjokr/prompt_engineering) - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
@@ -11,7 +12,6 @@
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
 * [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
-* [2023-03-31, 15:34:07](https://lobste.rs/s/yzcvkv/game_life_on_penrose_tilings_2009) - [A Game of Life on Penrose Tilings [2009]](http://pi.math.cornell.edu/~klindsey/presentations/PenroseLifePresentation.pdf)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
 * [2023-03-31, 13:30:54](https://lobste.rs/s/kczdyq/extending_javascript_with_lisp_wasm) - [Extending JavaScript with Lisp: The WASM implementation of LispE](https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE)
