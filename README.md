@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 01:29:48](https://lobste.rs/s/t2g5qn/gpt4all_gpt4all_chatbot_trained_on) - [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
 * [2023-03-31, 21:21:12](https://lobste.rs/s/ostk1k/swift_5_8_released) - [Swift 5.8 released](https://www.swift.org/blog/swift-5.8-released/)
 * [2023-03-31, 20:32:16](https://lobste.rs/s/q2i2lb/hacking_on_gitea_actions) - [Hacking on Gitea Actions](https://blog.gitea.io/2023/03/hacking-on-gitea-actions/)
 * [2023-03-31, 20:04:36](https://lobste.rs/s/4vpyju/kickass_crypto_contemporary_php) - [kickass-crypto: Contemporary PHP cryptography library circa 2023](https://github.com/jj5/kickass-crypto)
-* [2023-03-31, 20:00:53](https://lobste.rs/s/1tmy0w/using_dtrace_find_block_sizes_zfs_nfs) - [Using DTrace to find block sizes of ZFS, NFS and iSCSI](https://axcient.com/blog/using-dtrace-to-find-block-sizes-of-zfs-nfs-and-iscsi/)
 * [2023-03-31, 19:36:48](https://lobste.rs/s/4i3kko/toolchains_adventures_q1_2023) - [Toolchains adventures - Q1 2023](https://www.cambus.net/toolchains-adventures-q1-2023/)
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
