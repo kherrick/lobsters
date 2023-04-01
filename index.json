@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-04-01, 10:33:05",
+      "https://lobste.rs/s/ma9chh/international_pascal_congress"
+    ],
+    [
+      "International Pascal Congress",
+      "https://www.pascalcongress.com/index.html"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 08:29:16",
       "https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent"
     ],
@@ -117,16 +127,6 @@
     [
       "OCaml 5.0.0~camelope released",
       "https://ocaml.org/releases/5.0.0~camelope"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 08:10:01",
-      "https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces"
-    ],
-    [
-      "Memory, Pages, mmap, and Linear Address Spaces",
-      "https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/"
     ]
   ],
   [
