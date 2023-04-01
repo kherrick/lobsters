@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
 * [2023-04-01, 08:10:01](https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces) - [Memory, Pages, mmap, and Linear Address Spaces](https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/)
 * [2023-04-01, 08:09:32](https://lobste.rs/s/qrprww/mediocrity_can_be_sign_excellence_other) - [Mediocrity can be a sign of excellence, and other stories](https://predr.ag/blog/mediocrity-can-be-a-sign-of-excellence/)
@@ -14,7 +15,6 @@
 * [2023-03-31, 19:36:48](https://lobste.rs/s/4i3kko/toolchains_adventures_q1_2023) - [Toolchains adventures - Q1 2023](https://www.cambus.net/toolchains-adventures-q1-2023/)
 * [2023-03-31, 19:16:37](https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony) - [PonyDOS - A real-mode OS for everypony](https://ahti.space/git/offtopia/ponydos)
 * [2023-03-31, 19:09:18](https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix) - [robotnix: Build Android (AOSP) using Nix](https://github.com/danielfullmer/robotnix)
-* [2023-03-31, 16:08:17](https://lobste.rs/s/36ipok/urler_command_line_tool_for_url_parsing) - [urler: command line tool for URL parsing and manipulation](https://github.com/curl/urler)
 * [2023-03-31, 15:06:29](https://lobste.rs/s/r9pxyr/nim_version_2_0_0_rc2) - [Nim Version 2.0.0 RC2](https://nim-lang.org//blog/2023/03/31/version-20-rc2.html)
 * [2023-03-31, 15:05:56](https://lobste.rs/s/udgq0s/value_modes_mud_balls) - [Value Modes and Mud Balls](https://www.maxcountryman.com/articles/value-modes-and-mud-balls)
 * [2023-03-31, 13:01:24](https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime) - [How Kani helped find bugs in Hifitime](https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html)

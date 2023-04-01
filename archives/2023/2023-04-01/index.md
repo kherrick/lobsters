@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
 * [2023-04-01, 08:10:01](https://lobste.rs/s/ensye1/memory_pages_mmap_linear_address_spaces) - [Memory, Pages, mmap, and Linear Address Spaces](https://pointersgonewild.com/2023/03/12/memory-pages-mmap-and-linear-address-spaces/)
 * [2023-04-01, 08:09:32](https://lobste.rs/s/qrprww/mediocrity_can_be_sign_excellence_other) - [Mediocrity can be a sign of excellence, and other stories](https://predr.ag/blog/mediocrity-can-be-a-sign-of-excellence/)
