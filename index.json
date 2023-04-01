@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-01, 15:06:41",
+      "https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system"
+    ],
+    [
+      "Haumea - Filesystem-based module system for Nix",
+      "https://github.com/nix-community/haumea"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 13:24:11",
       "https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password"
     ],
@@ -187,16 +197,6 @@
     [
       "Value Modes and Mud Balls",
       "https://www.maxcountryman.com/articles/value-modes-and-mud-balls"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 13:01:24",
-      "https://lobste.rs/s/acyxlb/how_kani_helped_find_bugs_hifitime"
-    ],
-    [
-      "How Kani helped find bugs in Hifitime",
-      "https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html"
     ]
   ],
   [
