@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-01](index.md)
 
+* [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
+* [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:33:05](https://lobste.rs/s/ma9chh/international_pascal_congress) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)

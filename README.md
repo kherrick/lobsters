@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
+* [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 10:33:05](https://lobste.rs/s/ma9chh/international_pascal_congress) - [International Pascal Congress](https://www.pascalcongress.com/index.html)
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
@@ -21,10 +23,8 @@
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
 * [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 * [2023-03-31, 11:05:45](https://lobste.rs/s/5binkk/letting_users_block_injected_third_party) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
-* [2023-03-31, 01:32:04](https://lobste.rs/s/nua3ck/tailscale_funnel_now_available_beta) - [Tailscale Funnel now available in beta](https://tailscale.com/blog/tailscale-funnel-beta/)
 * [2023-03-31, 01:07:12](https://lobste.rs/s/u7y4lk/modules_matter_most_for_masses) - ['Modules Matter' Most for the Masses](https://www.pathsensitive.com/2023/03/modules-matter-most-for-masses.html)
 * [2023-03-30, 20:10:37](https://lobste.rs/s/wbcgdt/switching_fedora_from_ubuntu) - [Switching to Fedora from Ubuntu](https://evertpot.com/switching-to-fedora/)
-* [2023-03-30, 19:02:34](https://lobste.rs/s/2hbam7/can_we_hide_orange_dot_without_disabling) - [Can we hide the orange dot without disabling SIP?](https://notes.alinpanaitiu.com/Can%20we%20hide%20the%20orange%20dot%20without%20disabling%20SIP)
 
 ## [Archives](archives/index.md)
 
