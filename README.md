@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:56:48](https://lobste.rs/s/ilhomu/tool_finde_optimal_distance_from_monitor) - [Tool to finde the optimal distance from the monitor](https://www.gibney.org/eye_test)
 * [2023-04-02, 17:44:07](https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data) - [Bacalhau Amplify: A Simple Way to Augment Data Processing Jobs](https://blog.bacalhau.org/p/introducing-bacalhau-amplify)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
@@ -8,7 +9,6 @@
 * [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-02, 09:24:53](https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library) - [A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats](https://www.mockneat.com/tutorial/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
-* [2023-04-02, 07:55:47](https://lobste.rs/s/ezwu8y/plasma_5_27_can_t_say_there_are_many) - [Plasma 5.27 - Can't say there are many differences, but 'tis ok](https://www.dedoimedo.com/computers/plasma-5-27-review.html)
 * [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)

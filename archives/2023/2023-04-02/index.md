@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:56:48](https://lobste.rs/s/ilhomu/tool_finde_optimal_distance_from_monitor) - [Tool to finde the optimal distance from the monitor](https://www.gibney.org/eye_test)
 * [2023-04-02, 17:44:07](https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data) - [Bacalhau Amplify: A Simple Way to Augment Data Processing Jobs](https://blog.bacalhau.org/p/introducing-bacalhau-amplify)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
