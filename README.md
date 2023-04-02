@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-02, 09:24:53](https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library) - [A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats](https://www.mockneat.com/tutorial/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
@@ -18,7 +19,6 @@
 * [2023-04-01, 17:07:02](https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive) - [The Joys of Bootstrapping the IBM backup-archive Client](https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)
-* [2023-04-01, 12:49:23](https://lobste.rs/s/nfu7tl/reply_josef_prusa) - [A reply to Josef Průša](https://blog.thea.codes/a-reply-to-josef-prusa/)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
