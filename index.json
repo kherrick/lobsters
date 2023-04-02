@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-02, 17:56:48",
+      "https://lobste.rs/s/ilhomu/tool_finde_optimal_distance_from_monitor"
+    ],
+    [
+      "Tool to finde the optimal distance from the monitor",
+      "https://www.gibney.org/eye_test"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 17:44:07",
       "https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data"
     ],
@@ -177,16 +187,6 @@
     [
       "Moving from Rust to C++",
       "https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 17:07:02",
-      "https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive"
-    ],
-    [
-      "The Joys of Bootstrapping the IBM backup-archive Client",
-      "https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/"
     ]
   ],
   [
