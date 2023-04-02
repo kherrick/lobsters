@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-02, 07:03:49",
+      "https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure"
+    ],
+    [
+      "An F# Dev's Perspective on Clojure",
+      "https://brettrowberry.com/an-f-devs-perspective-on-clojure"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 06:48:20",
       "https://lobste.rs/s/nm6aup/xul_layout_is_gone"
     ],
@@ -217,16 +227,6 @@
     [
       "the-algorithm: Source code for Twitter's Recommendation Algorithm",
       "https://github.com/twitter/the-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 19:09:18",
-      "https://lobste.rs/s/mfxcgm/robotnix_build_android_aosp_using_nix"
-    ],
-    [
-      "robotnix: Build Android (AOSP) using Nix",
-      "https://github.com/danielfullmer/robotnix"
     ]
   ],
   [
