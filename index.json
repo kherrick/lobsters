@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-02, 09:31:44",
+      "https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz"
+    ],
+    [
+      "Near-lossless image formats using LZ codecs",
+      "https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 09:24:53",
       "https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library"
     ],
@@ -177,16 +187,6 @@
     [
       "Using Tailscale without using Tailscale",
       "https://tailscale.dev/blog/headscale-funnel"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 12:35:41",
-      "https://lobste.rs/s/cxnsdw/secret_life_fsync"
-    ],
-    [
-      "The Secret Life of fsync",
-      "https://puzpuzpuz.dev/the-secret-life-of-fsync"
     ]
   ],
   [
