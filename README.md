@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 17:56:48](https://lobste.rs/s/ilhomu/tool_finde_optimal_distance_from_monitor) - [Tool to finde the optimal distance from the monitor](https://www.gibney.org/eye_test)
 * [2023-04-02, 17:44:07](https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data) - [Bacalhau Amplify: A Simple Way to Augment Data Processing Jobs](https://blog.bacalhau.org/p/introducing-bacalhau-amplify)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
@@ -18,7 +19,6 @@
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
 * [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
-* [2023-04-01, 17:07:02](https://lobste.rs/s/amj14e/joys_bootstrapping_ibm_backup_archive) - [The Joys of Bootstrapping the IBM backup-archive Client](https://blog.sigterm.se/posts/the-joys-of-bootstrapping-ibm-backup-client/)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
