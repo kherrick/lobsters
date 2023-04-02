@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-02, 08:05:21",
+      "https://lobste.rs/s/105rpd/mastering_emacs_together"
+    ],
+    [
+      "Mastering Emacs Together",
+      "https://susam.net/maze/mastering-emacs-together.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-02, 07:55:47",
+      "https://lobste.rs/s/ezwu8y/plasma_5_27_can_t_say_there_are_many"
+    ],
+    [
+      "Plasma 5.27 - Can't say there are many differences, but 'tis ok",
+      "https://www.dedoimedo.com/computers/plasma-5-27-review.html"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 07:03:49",
       "https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-04-01, 08:29:16",
-      "https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent"
-    ],
-    [
-      "Actually, Othello-GPT Has A Linear Emergent World Representation",
-      "https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 08:20:05",
       "https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released"
     ],
     [
       "OCaml 5.0.0~camelope released",
       "https://ocaml.org/releases/5.0.0~camelope"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 07:06:22",
-      "https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram"
-    ],
-    [
-      "llama.cpp: 30B model now needs only 5.8GB of RAM? How?",
-      "https://github.com/ggerganov/llama.cpp/discussions/638"
     ]
   ],
   [
