@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 02:23:22](https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa) - [Exploiting Passwords For MFA](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ExploitingPasswordsForMFA)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-02, 01:07:16](https://lobste.rs/s/9lmccf/arm_purchase_arm2riscv_com_leaks_pivot) - [ARM purchase of arm2riscv.com leaks pivot to RISC-V](http://arm2riscv.com/)
 * [2023-04-01, 23:55:05](https://lobste.rs/s/tujdas/april_fools_accumulator_2023) - [April Fools Accumulator 2023](https://lobste.rs/s/tujdas/april_fools_accumulator_2023)
@@ -15,7 +16,6 @@
 * [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 08:29:16](https://lobste.rs/s/bwzgjx/actually_othello_gpt_has_linear_emergent) - [Actually, Othello-GPT Has A Linear Emergent World Representation](https://www.alignmentforum.org/posts/nmxzr2zsjNtjaHh7x/actually-othello-gpt-has-a-linear-emergent-world)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
-* [2023-04-01, 07:53:13](https://lobste.rs/s/racaui/aplcart_find_your_way_apl) - [APLcart - Find your way in APL](https://aplcart.info/)
 * [2023-04-01, 07:06:22](https://lobste.rs/s/dygyph/llama_cpp_30b_model_now_needs_only_5_8gb_ram) - [llama.cpp: 30B model now needs only 5.8GB of RAM? How?](https://github.com/ggerganov/llama.cpp/discussions/638)
 * [2023-04-01, 06:57:21](https://lobste.rs/s/kirda4/detection_flashing_lights_video_content) - [Detection of Flashing Lights in Video Content](https://github.com/apple/VideoFlashingReduction)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
