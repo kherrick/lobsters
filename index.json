@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-02, 19:29:06",
+      "https://lobste.rs/s/v93lhn/clocks_causality_ordering_events"
+    ],
+    [
+      "Clocks and Causality - Ordering Events in Distributed Systems",
+      "https://www.exhypothesi.com/clocks-and-causality/"
+    ]
+  ],
+  [
+    [
+      "2023-04-02, 19:22:15",
+      "https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments"
+    ],
+    [
+      "SSH authorization keys experiments",
+      "https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 18:42:43",
       "https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2023-04-02, 07:55:47",
+      "https://lobste.rs/s/ezwu8y/plasma_5_27_can_t_say_there_are_many"
+    ],
+    [
+      "Plasma 5.27 - Can't say there are many differences, but 'tis ok",
+      "https://www.dedoimedo.com/computers/plasma-5-27-review.html"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 07:03:49",
       "https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-04-01, 19:04:00",
-      "https://lobste.rs/s/lylcrd/llm_self_play_on_20_questions"
-    ],
-    [
-      "LLM self-play on 20 Questions",
-      "https://evanthebouncy.medium.com/llm-self-play-on-20-questions-dee7a8c63377"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 18:25:11",
       "https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article"
     ],
@@ -217,26 +237,6 @@
     [
       "Using Tailscale without using Tailscale",
       "https://tailscale.dev/blog/headscale-funnel"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 05:31:00",
-      "https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting"
-    ],
-    [
-      "This PC keyboard hides an interesting secret…",
-      "https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 02:21:24",
-      "https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s"
-    ],
-    [
-      "the-algorithm: Source code for Twitter's Recommendation Algorithm",
-      "https://github.com/twitter/the-algorithm/"
     ]
   ],
   [
