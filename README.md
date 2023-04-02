@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 17:44:07](https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data) - [Bacalhau Amplify: A Simple Way to Augment Data Processing Jobs](https://blog.bacalhau.org/p/introducing-bacalhau-amplify)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
@@ -21,7 +22,6 @@
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 13:24:11](https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password) - [\"Alexa, what is my wifi password?\"](https://dragon863.github.io/blog/alexa.html)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
-* [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)

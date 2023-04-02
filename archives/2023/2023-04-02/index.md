@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 17:44:07](https://lobste.rs/s/imfym7/bacalhau_amplify_simple_way_augment_data) - [Bacalhau Amplify: A Simple Way to Augment Data Processing Jobs](https://blog.bacalhau.org/p/introducing-bacalhau-amplify)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
