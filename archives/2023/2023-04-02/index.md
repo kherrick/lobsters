@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 19:32:53](https://lobste.rs/s/sfconi/auto_gpt_experimental_open_source) - [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 19:29:06](https://lobste.rs/s/v93lhn/clocks_causality_ordering_events) - [Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)

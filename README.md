@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 19:32:53](https://lobste.rs/s/sfconi/auto_gpt_experimental_open_source) - [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 19:29:06](https://lobste.rs/s/v93lhn/clocks_causality_ordering_events) - [Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
@@ -17,7 +18,6 @@
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-02, 02:23:22](https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa) - [Exploiting Passwords For MFA](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ExploitingPasswordsForMFA)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
-* [2023-04-01, 23:55:05](https://lobste.rs/s/tujdas/april_fools_accumulator_2023) - [April Fools Accumulator 2023](https://lobste.rs/s/tujdas/april_fools_accumulator_2023)
 * [2023-04-01, 18:25:11](https://lobste.rs/s/epnzjg/reswitched_weekly_reboot_first_article) - [ReSwitched Weekly Reboot First Article](https://reswitched-weekly-reboot.github.io/posts/roundup-1/)
 * [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
