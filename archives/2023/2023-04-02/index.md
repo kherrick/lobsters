@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-02, 02:23:22](https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa) - [Exploiting Passwords For MFA](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ExploitingPasswordsForMFA)
