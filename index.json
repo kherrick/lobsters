@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-02, 01:07:16",
-      "https://lobste.rs/s/9lmccf/arm_purchase_arm2riscv_com_leaks_pivot"
-    ],
-    [
-      "ARM purchase of arm2riscv.com leaks pivot to RISC-V",
-      "http://arm2riscv.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-01, 23:55:05",
       "https://lobste.rs/s/tujdas/april_fools_accumulator_2023"
     ],
@@ -217,6 +207,16 @@
     [
       "the-algorithm: Source code for Twitter's Recommendation Algorithm",
       "https://github.com/twitter/the-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2023-03-31, 19:16:37",
+      "https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony"
+    ],
+    [
+      "PonyDOS - A real-mode OS for everypony",
+      "https://ahti.space/git/offtopia/ponydos"
     ]
   ],
   [
