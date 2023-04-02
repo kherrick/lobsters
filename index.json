@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-02, 06:30:58",
+      "https://lobste.rs/s/ptyzre/joy_computer_history_books"
+    ],
+    [
+      "The Joy of Computer History Books",
+      "https://fabiensanglard.net/joy/index.html"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 02:23:22",
       "https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa"
     ],
@@ -207,16 +217,6 @@
     [
       "the-algorithm: Source code for Twitter's Recommendation Algorithm",
       "https://github.com/twitter/the-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 19:16:37",
-      "https://lobste.rs/s/hts4a9/ponydos_real_mode_os_for_everypony"
-    ],
-    [
-      "PonyDOS - A real-mode OS for everypony",
-      "https://ahti.space/git/offtopia/ponydos"
     ]
   ],
   [
