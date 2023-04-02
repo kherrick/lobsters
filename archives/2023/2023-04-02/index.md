@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 09:24:53](https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library) - [A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats](https://www.mockneat.com/tutorial/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 07:55:47](https://lobste.rs/s/ezwu8y/plasma_5_27_can_t_say_there_are_many) - [Plasma 5.27 - Can't say there are many differences, but 'tis ok](https://www.dedoimedo.com/computers/plasma-5-27-review.html)
 * [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)

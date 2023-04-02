@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 09:24:53](https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library) - [A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats](https://www.mockneat.com/tutorial/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 07:55:47](https://lobste.rs/s/ezwu8y/plasma_5_27_can_t_say_there_are_many) - [Plasma 5.27 - Can't say there are many differences, but 'tis ok](https://www.dedoimedo.com/computers/plasma-5-27-review.html)
 * [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)
@@ -19,7 +20,6 @@
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
 * [2023-04-01, 12:35:41](https://lobste.rs/s/cxnsdw/secret_life_fsync) - [The Secret Life of fsync](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 * [2023-04-01, 08:20:05](https://lobste.rs/s/9ew1ri/ocaml_5_0_0_camelope_released) - [OCaml 5.0.0~camelope released](https://ocaml.org/releases/5.0.0~camelope)
-* [2023-04-01, 06:57:21](https://lobste.rs/s/kirda4/detection_flashing_lights_video_content) - [Detection of Flashing Lights in Video Content](https://github.com/apple/VideoFlashingReduction)
 * [2023-04-01, 06:03:15](https://lobste.rs/s/uoc5rj/refurb_weekend_dec_alphapc_164lx) - [Refurb weekend: DEC AlphaPC 164LX](https://oldvcr.blogspot.com/2023/03/refurb-weekend-dec-alphapc-164lx.html)
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
