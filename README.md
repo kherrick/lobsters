@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
@@ -24,7 +25,6 @@
 * [2023-04-01, 05:31:00](https://lobste.rs/s/0rvs54/this_pc_keyboard_hides_interesting) - [This PC keyboard hides an interesting secret…](https://linuxjedi.co.uk/2023/03/31/this-pc-keyboard-hides-an-interesting-secret/)
 * [2023-04-01, 02:21:24](https://lobste.rs/s/wgkc2x/algorithm_source_code_for_twitter_s) - [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm/)
 * [2023-03-31, 12:52:26](https://lobste.rs/s/duwkz7/janet_for_mortals) - [Janet for Mortals](https://janet.guide/)
-* [2023-03-31, 12:31:28](https://lobste.rs/s/zfimxl/helix_23_03) - [Helix 23.03](https://helix-editor.com/news/release-23-03-highlights/)
 
 ## [Archives](archives/index.md)
 
