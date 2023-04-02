@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-02, 01:14:08",
+      "https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire"
+    ],
+    [
+      "Catch-23: The New C Standard Sets the World on Fire",
+      "https://queue.acm.org/detail.cfm?id=3588242"
+    ]
+  ],
+  [
+    [
+      "2023-04-02, 01:07:16",
+      "https://lobste.rs/s/9lmccf/arm_purchase_arm2riscv_com_leaks_pivot"
+    ],
+    [
+      "ARM purchase of arm2riscv.com leaks pivot to RISC-V",
+      "http://arm2riscv.com/"
+    ]
+  ],
+  [
+    [
       "2023-04-01, 23:55:05",
       "https://lobste.rs/s/tujdas/april_fools_accumulator_2023"
     ],
@@ -27,16 +47,6 @@
     [
       "ReSwitched Weekly Reboot First Article",
       "https://reswitched-weekly-reboot.github.io/posts/roundup-1/"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 18:12:36",
-      "https://lobste.rs/s/aqocuc/ubuntu_ditch_snap_completely_with_24_04"
-    ],
-    [
-      "Ubuntu to ditch Snap completely with 24.04 LTS Naughty Nightingale",
-      "https://news.itsfoss.com/ubuntu-ditch-snap/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "the-algorithm: Source code for Twitter's Recommendation Algorithm",
       "https://github.com/twitter/the-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2023-03-31, 21:21:12",
-      "https://lobste.rs/s/ostk1k/swift_5_8_released"
-    ],
-    [
-      "Swift 5.8 released",
-      "https://www.swift.org/blog/swift-5.8-released/"
     ]
   ],
   [
