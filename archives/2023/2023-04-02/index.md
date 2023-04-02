@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-02](index.md)
 
+* [2023-04-02, 21:48:40](https://lobste.rs/s/mrnfuw/virtual_memory_for_object_oriented) - [Virtual Memory for an Object-Oriented Language (1981)](https://web.archive.org/web/20050313060256/http://mosquitonet.stanford.edu/~eswierk/misc/kaehler81/)
 * [2023-04-02, 20:23:47](https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as) - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 20:01:36](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform) - [Tramline - release coordination platform, just for mobile apps](https://tramline.app)
 * [2023-04-02, 19:32:53](https://lobste.rs/s/sfconi/auto_gpt_experimental_open_source) - [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
