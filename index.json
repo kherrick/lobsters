@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-02, 20:23:47",
+      "https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as"
+    ],
+    [
+      "Think of language models like ChatGPT as a “calculator for words”",
+      "https://simonwillison.net/2023/Apr/2/calculator-for-words/"
+    ]
+  ],
+  [
+    [
       "2023-04-02, 20:01:36",
       "https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform"
     ],
@@ -227,16 +237,6 @@
     [
       "Haumea - Filesystem-based module system for Nix",
       "https://github.com/nix-community/haumea"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 13:24:11",
-      "https://lobste.rs/s/ckoojk/alexa_what_is_my_wifi_password"
-    ],
-    [
-      "\"Alexa, what is my wifi password?\"",
-      "https://dragon863.github.io/blog/alexa.html"
     ]
   ],
   [
