@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 08:57:18](https://lobste.rs/s/t96yyi/admissibility_graphs) - [Admissibility graphs](https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph)
 * [2023-04-03, 07:58:09](https://lobste.rs/s/uncy17/graphql_from_excitement_deception) - [GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
 * [2023-04-03, 07:56:57](https://lobste.rs/s/2obtvt/tuned_lens_tools_for_understanding_how) - [tuned-lens: Tools for understanding how transformer predictions are built layer-by-layer](https://github.com/AlignmentResearch/tuned-lens)
 * [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
@@ -19,7 +20,6 @@
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
-* [2023-04-02, 09:24:53](https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library) - [A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats](https://www.mockneat.com/tutorial/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)

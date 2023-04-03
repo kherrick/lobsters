@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 08:57:18](https://lobste.rs/s/t96yyi/admissibility_graphs) - [Admissibility graphs](https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph)
 * [2023-04-03, 07:58:09](https://lobste.rs/s/uncy17/graphql_from_excitement_deception) - [GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
 * [2023-04-03, 07:56:57](https://lobste.rs/s/2obtvt/tuned_lens_tools_for_understanding_how) - [tuned-lens: Tools for understanding how transformer predictions are built layer-by-layer](https://github.com/AlignmentResearch/tuned-lens)
 * [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
