@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-04-03, 19:23:46",
+      "https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined"
+    ],
+    [
+      "gcassert: Assert your Go code is inlined and bounds-check eliminated",
+      "https://github.com/jordanlewis/gcassert"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 17:42:11",
       "https://lobste.rs/s/poucep/never_staff_peak"
     ],
@@ -227,16 +237,6 @@
     [
       "Making a Bloom Filter Keyboard",
       "https://mclare.blog/posts/making-a-bloom-filter-keyboard/"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 20:23:47",
-      "https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as"
-    ],
-    [
-      "Think of language models like ChatGPT as a “calculator for words”",
-      "https://simonwillison.net/2023/Apr/2/calculator-for-words/"
     ]
   ],
   [
