@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
+* [2023-04-03, 15:44:18](https://lobste.rs/s/dhksea/on_openai_s_terrible_arguments_against) - [On OpenAI's Terrible Arguments Against Transparency](https://www.cyberdemon.org/2023/04/03/openai-transparency.html)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
 * [2023-04-03, 14:22:49](https://lobste.rs/s/ia0hey/bug_pierce_flesh_spirit_alike_story) - [A Bug to Pierce Flesh and Spirit Alike - The Story Behind the Citizen’s Crowbar Bug](https://www.reddit.com/r/MagicArena/comments/125rqw4/a_bug_to_pierce_flesh_and_spirit_alike_the_story/)
 * [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
