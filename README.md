@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
 * [2023-04-03, 03:10:11](https://lobste.rs/s/wave75/making_bloom_filter_keyboard) - [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
 * [2023-04-03, 00:19:49](https://lobste.rs/s/5hjihd/brief_history_semiconductor_packaging) - [A Brief History of Semiconductor Packaging](https://www.youtube.com/watch?v=nNpuiJitKwk)
 * [2023-04-02, 21:48:40](https://lobste.rs/s/mrnfuw/virtual_memory_for_object_oriented) - [Virtual Memory for an Object-Oriented Language (1981)](https://web.archive.org/web/20050313060256/http://mosquitonet.stanford.edu/~eswierk/misc/kaehler81/)
@@ -20,7 +21,6 @@
 * [2023-04-02, 07:03:49](https://lobste.rs/s/csw7qe/f_dev_s_perspective_on_clojure) - [An F# Dev's Perspective on Clojure](https://brettrowberry.com/an-f-devs-perspective-on-clojure)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
-* [2023-04-02, 02:23:22](https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa) - [Exploiting Passwords For MFA](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ExploitingPasswordsForMFA)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
