@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 17:22:54](https://lobste.rs/s/cjbjn1/julia_s_latency_past_present_future) - [Julia's latency: Past, present and future](https://viralinstruction.com/posts/latency/index.html)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 16:31:56](https://lobste.rs/s/z8ttcw/simulators_2022) - [Simulators (2022)](https://generative.ink/posts/simulators/)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
