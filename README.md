@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
+* [2023-04-03, 16:31:56](https://lobste.rs/s/z8ttcw/simulators_2022) - [Simulators (2022)](https://generative.ink/posts/simulators/)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 15:44:18](https://lobste.rs/s/dhksea/on_openai_s_terrible_arguments_against) - [On OpenAI's Terrible Arguments Against Transparency](https://www.cyberdemon.org/2023/04/03/openai-transparency.html)
@@ -22,8 +24,6 @@
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
-* [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
-* [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 
 ## [Archives](archives/index.md)
