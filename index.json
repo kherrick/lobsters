@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 07:47:28",
+      "https://lobste.rs/s/zopues/eight_things_know_about_large_language"
+    ],
+    [
+      "Eight Things to Know about Large Language Models",
+      "https://cims.nyu.edu/~sbowman/eightthings.pdf"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 07:28:39",
       "https://lobste.rs/s/icrcgk/trurl_manipulates_urls"
     ],
@@ -227,16 +237,6 @@
     [
       "Catch-23: The New C Standard Sets the World on Fire",
       "https://queue.acm.org/detail.cfm?id=3588242"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 17:54:22",
-      "https://lobste.rs/s/nonauh/moving_from_rust_c"
-    ],
-    [
-      "Moving from Rust to C++",
-      "https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html"
     ]
   ],
   [
