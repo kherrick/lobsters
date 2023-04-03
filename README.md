@@ -4,7 +4,6 @@
 * [2023-04-03, 16:31:56](https://lobste.rs/s/z8ttcw/simulators_2022) - [Simulators (2022)](https://generative.ink/posts/simulators/)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
-* [2023-04-03, 15:44:18](https://lobste.rs/s/dhksea/on_openai_s_terrible_arguments_against) - [On OpenAI's Terrible Arguments Against Transparency](https://www.cyberdemon.org/2023/04/03/openai-transparency.html)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
 * [2023-04-03, 14:22:49](https://lobste.rs/s/ia0hey/bug_pierce_flesh_spirit_alike_story) - [A Bug to Pierce Flesh and Spirit Alike - The Story Behind the Citizen’s Crowbar Bug](https://www.reddit.com/r/MagicArena/comments/125rqw4/a_bug_to_pierce_flesh_and_spirit_alike_the_story/)
 * [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
@@ -24,6 +23,7 @@
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
+* [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 
 ## [Archives](archives/index.md)
