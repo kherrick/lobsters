@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 00:19:49](https://lobste.rs/s/5hjihd/brief_history_semiconductor_packaging) - [A Brief History of Semiconductor Packaging](https://www.youtube.com/watch?v=nNpuiJitKwk)
 * [2023-04-02, 21:48:40](https://lobste.rs/s/mrnfuw/virtual_memory_for_object_oriented) - [Virtual Memory for an Object-Oriented Language (1981)](https://web.archive.org/web/20050313060256/http://mosquitonet.stanford.edu/~eswierk/misc/kaehler81/)
 * [2023-04-02, 20:23:47](https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as) - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 20:01:36](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform) - [Tramline - release coordination platform, just for mobile apps](https://tramline.app)
@@ -21,7 +22,6 @@
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-02, 02:23:22](https://lobste.rs/s/if0b55/exploiting_passwords_for_mfa) - [Exploiting Passwords For MFA](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ExploitingPasswordsForMFA)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
-* [2023-04-01, 17:59:09](https://lobste.rs/s/ni8ipl/pine64_march_update_tablet_bonanza) - [PINE64 March Update: Tablet Bonanza](https://www.pine64.org/2023/04/01/march-update-tablet-bonanza/)
 * [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 * [2023-04-01, 12:47:10](https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale) - [Using Tailscale without using Tailscale](https://tailscale.dev/blog/headscale-funnel)
