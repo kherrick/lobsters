@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-03, 07:28:39](https://lobste.rs/s/icrcgk/trurl_manipulates_urls) - [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
 * [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
 * [2023-04-03, 03:10:11](https://lobste.rs/s/wave75/making_bloom_filter_keyboard) - [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
@@ -23,7 +24,6 @@
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 * [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
-* [2023-04-01, 17:54:22](https://lobste.rs/s/nonauh/moving_from_rust_c) - [Moving from Rust to C++](https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html)
 * [2023-04-01, 15:06:41](https://lobste.rs/s/j029cj/haumea_filesystem_based_module_system) - [Haumea - Filesystem-based module system for Nix](https://github.com/nix-community/haumea)
 
 ## [Archives](archives/index.md)
