@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 12:53:22",
+      "https://lobste.rs/s/w9d4lh/tor_browser_without_tor"
+    ],
+    [
+      "A Tor Browser without Tor",
+      "https://blog.torproject.org/releasing-mullvad-browser/"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 12:10:01",
       "https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui"
     ],
@@ -147,16 +157,6 @@
     [
       "Tramline - release coordination platform, just for mobile apps",
       "https://tramline.app"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 19:32:53",
-      "https://lobste.rs/s/sfconi/auto_gpt_experimental_open_source"
-    ],
-    [
-      "Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous",
-      "https://github.com/Torantulino/Auto-GPT"
     ]
   ],
   [
