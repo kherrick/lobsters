@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 15:44:18](https://lobste.rs/s/dhksea/on_openai_s_terrible_arguments_against) - [On OpenAI's Terrible Arguments Against Transparency](https://www.cyberdemon.org/2023/04/03/openai-transparency.html)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
