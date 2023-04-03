@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 17:31:00](https://lobste.rs/s/vnpupo/optimizing_open_addressing) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-03, 17:22:54](https://lobste.rs/s/cjbjn1/julia_s_latency_past_present_future) - [Julia's latency: Past, present and future](https://viralinstruction.com/posts/latency/index.html)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 16:31:56](https://lobste.rs/s/z8ttcw/simulators_2022) - [Simulators (2022)](https://generative.ink/posts/simulators/)
@@ -22,7 +23,6 @@
 * [2023-04-03, 03:10:11](https://lobste.rs/s/wave75/making_bloom_filter_keyboard) - [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
 * [2023-04-02, 20:23:47](https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as) - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
-* [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 
