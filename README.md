@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 23:22:35](https://lobste.rs/s/jnlzsm/has_anyone_switched_career_as_solutions) - [Has anyone switched to a career as a solutions engineer?](https://lobste.rs/s/jnlzsm/has_anyone_switched_career_as_solutions)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
-* [2023-04-03, 22:06:17](https://lobste.rs/s/kcadhe/linear_types_one_pager) - [Linear Types One-Pager](https://blog.yoshuawuyts.com/linear-types-one-pager/)
 * [2023-04-03, 21:12:14](https://lobste.rs/s/yfgrxi/how_hypercard_got_its_color_back) - [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
