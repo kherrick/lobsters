@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 14:22:49](https://lobste.rs/s/ia0hey/bug_pierce_flesh_spirit_alike_story) - [A Bug to Pierce Flesh and Spirit Alike - The Story Behind the Citizen’s Crowbar Bug](https://www.reddit.com/r/MagicArena/comments/125rqw4/a_bug_to_pierce_flesh_and_spirit_alike_the_story/)
 * [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)

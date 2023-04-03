@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 14:22:49](https://lobste.rs/s/ia0hey/bug_pierce_flesh_spirit_alike_story) - [A Bug to Pierce Flesh and Spirit Alike - The Story Behind the Citizen’s Crowbar Bug](https://www.reddit.com/r/MagicArena/comments/125rqw4/a_bug_to_pierce_flesh_and_spirit_alike_the_story/)
 * [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
@@ -21,7 +22,6 @@
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
 * [2023-04-02, 17:56:48](https://lobste.rs/s/ilhomu/tool_find_optimal_distance_from_monitor) - [Tool to find the optimal distance from the monitor](https://www.gibney.org/eye_test)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
-* [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
