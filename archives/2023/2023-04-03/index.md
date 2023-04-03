@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 21:12:14](https://lobste.rs/s/yfgrxi/how_hypercard_got_its_color_back) - [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 19:23:46](https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined) - [gcassert: Assert your Go code is inlined and bounds-check eliminated](https://github.com/jordanlewis/gcassert)
 * [2023-04-03, 18:46:35](https://lobste.rs/s/cmrovx/lessons_learned_building_headless) - [Lessons Learned Building Headless Chrome as a Service](https://www.mux.com/blog/lessons-learned-building-headless-chrome-as-a-service)
