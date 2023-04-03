@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 12:10:01",
+      "https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui"
+    ],
+    [
+      "Slint 1.0: The Next-Generation Native GUI Toolkit Matures",
+      "https://slint-ui.com/blog/announcing-slint-1.0.html"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 11:35:08",
       "https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs"
     ],
@@ -217,16 +227,6 @@
     [
       "Five years of GPT progress",
       "https://finbarr.ca/five-years-of-gpt-progress/"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 09:31:44",
-      "https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz"
-    ],
-    [
-      "Near-lossless image formats using LZ codecs",
-      "https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html"
     ]
   ],
   [
