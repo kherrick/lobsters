@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-03, 18:04:06](https://lobste.rs/s/11sobc/implicit_representations_meaning) - [Implicit Representations of Meaning in Neural Language Models](https://underline.io/lecture/25456-implicit-representations-of-meaning-in-neural-language-models)
+* [2023-04-03, 18:46:35](https://lobste.rs/s/cmrovx/lessons_learned_building_headless) - [Lessons Learned Building Headless Chrome as a Service](https://www.mux.com/blog/lessons-learned-building-headless-chrome-as-a-service)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
 * [2023-04-03, 17:22:54](https://lobste.rs/s/cjbjn1/julia_s_latency_past_present_future) - [Julia's latency: Past, present and future](https://viralinstruction.com/posts/latency/index.html)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
