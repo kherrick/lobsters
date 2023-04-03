@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-04-03, 18:46:35](https://lobste.rs/s/cmrovx/lessons_learned_building_headless) - [Lessons Learned Building Headless Chrome as a Service](https://www.mux.com/blog/lessons-learned-building-headless-chrome-as-a-service)
+* [2023-04-03, 17:53:09](https://lobste.rs/s/x7apaq/capabilities_for_coders) - [Capabilities for Coders](https://capabilitiesforcoders.com/)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
 * [2023-04-03, 17:31:00](https://lobste.rs/s/vnpupo/optimizing_open_addressing) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-03, 17:22:54](https://lobste.rs/s/cjbjn1/julia_s_latency_past_present_future) - [Julia's latency: Past, present and future](https://viralinstruction.com/posts/latency/index.html)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
-* [2023-04-03, 16:31:56](https://lobste.rs/s/z8ttcw/simulators_2022) - [Simulators (2022)](https://generative.ink/posts/simulators/)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
