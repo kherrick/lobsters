@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 11:08:32](https://lobste.rs/s/dl6tb6/mullvad_browser) - [Mullvad Browser](https://mullvad.net/en/browser)
@@ -15,7 +16,6 @@
 * [2023-04-02, 21:48:40](https://lobste.rs/s/mrnfuw/virtual_memory_for_object_oriented) - [Virtual Memory for an Object-Oriented Language (1981)](https://web.archive.org/web/20050313060256/http://mosquitonet.stanford.edu/~eswierk/misc/kaehler81/)
 * [2023-04-02, 20:23:47](https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as) - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 20:01:36](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform) - [Tramline - release coordination platform, just for mobile apps](https://tramline.app)
-* [2023-04-02, 19:32:53](https://lobste.rs/s/sfconi/auto_gpt_experimental_open_source) - [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
 * [2023-04-02, 19:29:06](https://lobste.rs/s/v93lhn/clocks_causality_ordering_events) - [Clocks and Causality - Ordering Events in Distributed Systems](https://www.exhypothesi.com/clocks-and-causality/)
 * [2023-04-02, 19:22:15](https://lobste.rs/s/jszxve/ssh_authorization_keys_experiments) - [SSH authorization keys experiments](https://notes.volution.ro/v1/2023/04/remarks/eb5109f6/)
 * [2023-04-02, 18:42:43](https://lobste.rs/s/0nculx/resource_forks_browse_classic_macintosh) - [Resource Forks: browse classic Macintosh application resources](https://resourceforks.com/)
