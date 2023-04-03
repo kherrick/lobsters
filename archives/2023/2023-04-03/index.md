@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 19:23:46](https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined) - [gcassert: Assert your Go code is inlined and bounds-check eliminated](https://github.com/jordanlewis/gcassert)
 * [2023-04-03, 18:46:35](https://lobste.rs/s/cmrovx/lessons_learned_building_headless) - [Lessons Learned Building Headless Chrome as a Service](https://www.mux.com/blog/lessons-learned-building-headless-chrome-as-a-service)
 * [2023-04-03, 18:04:06](https://lobste.rs/s/11sobc/implicit_representations_meaning) - [Implicit Representations of Meaning in Neural Language Models](https://underline.io/lecture/25456-implicit-representations-of-meaning-in-neural-language-models)
