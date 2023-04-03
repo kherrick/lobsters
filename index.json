@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 19:23:46",
+      "https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined"
+    ],
+    [
+      "gcassert: Assert your Go code is inlined and bounds-check eliminated",
+      "https://github.com/jordanlewis/gcassert"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 18:46:35",
       "https://lobste.rs/s/cmrovx/lessons_learned_building_headless"
     ],
@@ -77,16 +87,6 @@
     [
       "RFC 1178:  Choosing a name for your computer",
       "https://www.rfc-editor.org/rfc/rfc1178"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 14:22:49",
-      "https://lobste.rs/s/ia0hey/bug_pierce_flesh_spirit_alike_story"
-    ],
-    [
-      "A Bug to Pierce Flesh and Spirit Alike - The Story Behind the Citizen’s Crowbar Bug",
-      "https://www.reddit.com/r/MagicArena/comments/125rqw4/a_bug_to_pierce_flesh_and_spirit_alike_the_story/"
     ]
   ],
   [
