@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 23:19:13",
+      "https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust"
+    ],
+    [
+      "Building a Classic Mac OS App in Rust",
+      "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 22:06:17",
       "https://lobste.rs/s/kcadhe/linear_types_one_pager"
     ],
@@ -27,16 +37,6 @@
     [
       "C++17 creates a practical use of the backward array index operator",
       "https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 17:53:09",
-      "https://lobste.rs/s/x7apaq/capabilities_for_coders"
-    ],
-    [
-      "Capabilities for Coders",
-      "https://capabilitiesforcoders.com/"
     ]
   ],
   [
