@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
 * [2023-04-03, 10:07:05](https://lobste.rs/s/isntpw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isntpw/what_are_you_doing_this_week)
 * [2023-04-03, 08:57:18](https://lobste.rs/s/t96yyi/admissibility_graphs) - [Admissibility graphs](https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph)
 * [2023-04-03, 07:58:09](https://lobste.rs/s/uncy17/graphql_from_excitement_deception) - [GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
@@ -8,7 +9,6 @@
 * [2023-04-03, 07:28:39](https://lobste.rs/s/icrcgk/trurl_manipulates_urls) - [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
 * [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
 * [2023-04-03, 03:10:11](https://lobste.rs/s/wave75/making_bloom_filter_keyboard) - [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
-* [2023-04-03, 00:19:49](https://lobste.rs/s/5hjihd/brief_history_semiconductor_packaging) - [A Brief History of Semiconductor Packaging](https://www.youtube.com/watch?v=nNpuiJitKwk)
 * [2023-04-02, 21:48:40](https://lobste.rs/s/mrnfuw/virtual_memory_for_object_oriented) - [Virtual Memory for an Object-Oriented Language (1981)](https://web.archive.org/web/20050313060256/http://mosquitonet.stanford.edu/~eswierk/misc/kaehler81/)
 * [2023-04-02, 20:23:47](https://lobste.rs/s/t72ksp/think_language_models_like_chatgpt_as) - [Think of language models like ChatGPT as a “calculator for words”](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
 * [2023-04-02, 20:01:36](https://lobste.rs/s/rgmlxm/tramline_release_coordination_platform) - [Tramline - release coordination platform, just for mobile apps](https://tramline.app)

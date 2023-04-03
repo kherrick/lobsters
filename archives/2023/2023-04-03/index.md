@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
 * [2023-04-03, 10:07:05](https://lobste.rs/s/isntpw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isntpw/what_are_you_doing_this_week)
 * [2023-04-03, 09:35:51](https://lobste.rs/s/l7bqer/saying_goodbye_github) - [Saying Goodbye to GitHub](https://ersei.net/en/blog/bye-bye-github)
 * [2023-04-03, 08:57:18](https://lobste.rs/s/t96yyi/admissibility_graphs) - [Admissibility graphs](https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph)
