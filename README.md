@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 11:08:32](https://lobste.rs/s/dl6tb6/mullvad_browser) - [Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
 * [2023-04-03, 10:07:05](https://lobste.rs/s/isntpw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isntpw/what_are_you_doing_this_week)
 * [2023-04-03, 08:57:18](https://lobste.rs/s/t96yyi/admissibility_graphs) - [Admissibility graphs](https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph)
@@ -23,7 +24,6 @@
 * [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
-* [2023-04-02, 06:30:58](https://lobste.rs/s/ptyzre/joy_computer_history_books) - [The Joy of Computer History Books](https://fabiensanglard.net/joy/index.html)
 * [2023-04-02, 01:14:08](https://lobste.rs/s/n1sh1h/catch_23_new_c_standard_sets_world_on_fire) - [Catch-23: The New C Standard Sets the World on Fire](https://queue.acm.org/detail.cfm?id=3588242)
 
 ## [Archives](archives/index.md)
