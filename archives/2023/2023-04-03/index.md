@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 18:04:06](https://lobste.rs/s/11sobc/implicit_representations_meaning) - [Implicit Representations of Meaning in Neural Language Models](https://underline.io/lecture/25456-implicit-representations-of-meaning-in-neural-language-models)
 * [2023-04-03, 17:53:09](https://lobste.rs/s/x7apaq/capabilities_for_coders) - [Capabilities for Coders](https://capabilitiesforcoders.com/)
 * [2023-04-03, 17:50:10](https://lobste.rs/s/ynrjob/json_vs_xml) - [JSON vs XML](https://corecursive.com/json-vs-xml-douglas-crockford/)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
