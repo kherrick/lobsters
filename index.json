@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 07:28:39",
+      "https://lobste.rs/s/icrcgk/trurl_manipulates_urls"
+    ],
+    [
+      "trurl manipulates URLs",
+      "https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 05:33:58",
       "https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix"
     ],
@@ -237,16 +247,6 @@
     [
       "Haumea - Filesystem-based module system for Nix",
       "https://github.com/nix-community/haumea"
-    ]
-  ],
-  [
-    [
-      "2023-04-01, 12:47:10",
-      "https://lobste.rs/s/eaymy2/using_tailscale_without_using_tailscale"
-    ],
-    [
-      "Using Tailscale without using Tailscale",
-      "https://tailscale.dev/blog/headscale-funnel"
     ]
   ]
 ]
