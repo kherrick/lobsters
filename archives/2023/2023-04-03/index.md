@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 11:08:32](https://lobste.rs/s/dl6tb6/mullvad_browser) - [Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
 * [2023-04-03, 10:07:05](https://lobste.rs/s/isntpw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/isntpw/what_are_you_doing_this_week)
