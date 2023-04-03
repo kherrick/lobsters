@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-03](index.md)
 
+* [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 11:08:32](https://lobste.rs/s/dl6tb6/mullvad_browser) - [Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)

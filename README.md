@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 11:08:32](https://lobste.rs/s/dl6tb6/mullvad_browser) - [Mullvad Browser](https://mullvad.net/en/browser)
 * [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
@@ -22,7 +23,6 @@
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 * [2023-04-02, 15:04:32](https://lobste.rs/s/54rz3h/automated_acronymy_expanding_every_word) - [Automated Acronymy: expanding every word as an acronym](https://www.youtube.com/watch?v=LjOHnXRIp4Y)
 * [2023-04-02, 12:43:23](https://lobste.rs/s/eimkm2/five_years_gpt_progress) - [Five years of GPT progress](https://finbarr.ca/five-years-of-gpt-progress/)
-* [2023-04-02, 09:31:44](https://lobste.rs/s/dc33bv/near_lossless_image_formats_using_lz) - [Near-lossless image formats using LZ codecs](https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html)
 * [2023-04-02, 08:05:21](https://lobste.rs/s/105rpd/mastering_emacs_together) - [Mastering Emacs Together](https://susam.net/maze/mastering-emacs-together.html)
 * [2023-04-02, 06:48:20](https://lobste.rs/s/nm6aup/xul_layout_is_gone) - [XUL Layout is gone](https://crisal.io/words/2023/03/30/xul-layout-is-gone.html)
 
