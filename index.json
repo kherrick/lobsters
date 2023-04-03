@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-03, 08:57:18",
+      "https://lobste.rs/s/t96yyi/admissibility_graphs"
+    ],
+    [
+      "Admissibility graphs",
+      "https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph"
+    ]
+  ],
+  [
+    [
       "2023-04-03, 07:58:09",
       "https://lobste.rs/s/uncy17/graphql_from_excitement_deception"
     ],
@@ -187,16 +197,6 @@
     [
       "Near-lossless image formats using LZ codecs",
       "https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 09:24:53",
-      "https://lobste.rs/s/afyblr/long_tutorial_on_mockneat_java_library"
-    ],
-    [
-      "A (long) tutorial on MockNeat, a Java library that generates arbitrary data in various formats",
-      "https://www.mockneat.com/tutorial/"
     ]
   ],
   [
