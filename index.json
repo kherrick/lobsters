@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-04-03, 19:23:46",
-      "https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined"
-    ],
-    [
-      "gcassert: Assert your Go code is inlined and bounds-check eliminated",
-      "https://github.com/jordanlewis/gcassert"
-    ]
-  ],
-  [
-    [
       "2023-04-03, 17:42:11",
       "https://lobste.rs/s/poucep/never_staff_peak"
     ],
@@ -247,6 +237,16 @@
     [
       "Stopping evaluation from blocking in Nix",
       "https://jade.fyi/blog/nix-evaluation-blocking/"
+    ]
+  ],
+  [
+    [
+      "2023-04-02, 17:17:54",
+      "https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo"
+    ],
+    [
+      "Bypassing the WiFi Hardware Switch on the Lenovo X201",
+      "https://bt.ht/x201/"
     ]
   ]
 ]
