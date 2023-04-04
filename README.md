@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 06:39:26](https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post) - [Pydantic V2 Pre Release blog post](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 00:13:53](https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs) - [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)
 * [2023-04-04, 00:00:43](https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text) - [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
@@ -24,7 +25,6 @@
 * [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-03, 07:28:39](https://lobste.rs/s/icrcgk/trurl_manipulates_urls) - [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
 * [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
-* [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 
 ## [Archives](archives/index.md)
 
