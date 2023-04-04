@@ -8,7 +8,6 @@
 * [2023-04-03, 22:06:17](https://lobste.rs/s/kcadhe/linear_types_one_pager) - [Linear Types One-Pager](https://blog.yoshuawuyts.com/linear-types-one-pager/)
 * [2023-04-03, 21:12:14](https://lobste.rs/s/yfgrxi/how_hypercard_got_its_color_back) - [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
-* [2023-04-03, 19:23:46](https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined) - [gcassert: Assert your Go code is inlined and bounds-check eliminated](https://github.com/jordanlewis/gcassert)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
@@ -25,6 +24,7 @@
 * [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-03, 07:28:39](https://lobste.rs/s/icrcgk/trurl_manipulates_urls) - [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
 * [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
+* [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 
 ## [Archives](archives/index.md)
 
