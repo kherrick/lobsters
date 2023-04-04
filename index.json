@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 08:09:15",
+      "https://lobste.rs/s/y8y8hj/make_postgres_application_server"
+    ],
+    [
+      "Make Postgres an Application Server, Gamified",
+      "https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 06:39:26",
       "https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post"
     ],
@@ -237,16 +247,6 @@
     [
       "Stopping evaluation from blocking in Nix",
       "https://jade.fyi/blog/nix-evaluation-blocking/"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 17:17:54",
-      "https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo"
-    ],
-    [
-      "Bypassing the WiFi Hardware Switch on the Lenovo X201",
-      "https://bt.ht/x201/"
     ]
   ]
 ]
