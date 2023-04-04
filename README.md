@@ -4,6 +4,7 @@
 * [2023-04-04, 00:13:53](https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs) - [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)
 * [2023-04-04, 00:00:43](https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text) - [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
+* [2023-04-03, 22:06:17](https://lobste.rs/s/kcadhe/linear_types_one_pager) - [Linear Types One-Pager](https://blog.yoshuawuyts.com/linear-types-one-pager/)
 * [2023-04-03, 21:12:14](https://lobste.rs/s/yfgrxi/how_hypercard_got_its_color_back) - [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 19:23:46](https://lobste.rs/s/k9sjqw/gcassert_assert_your_go_code_is_inlined) - [gcassert: Assert your Go code is inlined and bounds-check eliminated](https://github.com/jordanlewis/gcassert)
@@ -23,7 +24,6 @@
 * [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 * [2023-04-03, 07:28:39](https://lobste.rs/s/icrcgk/trurl_manipulates_urls) - [trurl manipulates URLs](https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/)
 * [2023-04-03, 05:33:58](https://lobste.rs/s/lqgl7e/stopping_evaluation_from_blocking_nix) - [Stopping evaluation from blocking in Nix](https://jade.fyi/blog/nix-evaluation-blocking/)
-* [2023-04-03, 03:10:11](https://lobste.rs/s/wave75/making_bloom_filter_keyboard) - [Making a Bloom Filter Keyboard](https://mclare.blog/posts/making-a-bloom-filter-keyboard/)
 * [2023-04-02, 17:17:54](https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo) - [Bypassing the WiFi Hardware Switch on the Lenovo X201](https://bt.ht/x201/)
 
 ## [Archives](archives/index.md)
