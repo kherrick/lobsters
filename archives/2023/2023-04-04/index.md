@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
+* [2023-04-04, 17:33:11](https://lobste.rs/s/sxk4lw/pentimento_data_remanence_cloud_fpgas) - [Pentimento: Data Remanence in Cloud FPGAs](https://arxiv.org/pdf/2303.17881)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
 * [2023-04-04, 16:38:48](https://lobste.rs/s/07wro1/groovy_datasets_for_test_databases) - [Groovy Datasets for Test Databases](https://redis.com/blog/datasets-for-test-databases/)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
