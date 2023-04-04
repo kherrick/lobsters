@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-04, 20:25:48",
+      "https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter"
+    ],
+    [
+      "Semi-automating a Substack newsletter with an Observable notebook",
+      "https://simonwillison.net/2023/Apr/4/substack-observable/"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 20:25:36",
+      "https://lobste.rs/s/zz2xln/debian_installer_bookworm_rc_1_release"
+    ],
+    [
+      "Debian Installer Bookworm RC 1 release",
+      "https://lists.debian.org/debian-devel-announce/2023/04/msg00000.html"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 20:13:10",
       "https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-04-04, 04:06:37",
-      "https://lobste.rs/s/kwrma0/rust_on_ch32v003"
-    ],
-    [
-      "Rust on the CH32V003",
-      "https://noxim.xyz/blog/rust-ch32v003/"
-    ]
-  ],
-  [
-    [
       "2023-04-04, 00:00:43",
       "https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text"
     ],
@@ -227,16 +237,6 @@
     [
       "RFC 1178:  Choosing a name for your computer",
       "https://www.rfc-editor.org/rfc/rfc1178"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 12:10:01",
-      "https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui"
-    ],
-    [
-      "Slint 1.0: The Next-Generation Native GUI Toolkit Matures",
-      "https://slint-ui.com/blog/announcing-slint-1.0.html"
     ]
   ],
   [
