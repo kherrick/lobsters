@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
 * [2023-04-04, 09:30:40](https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 * [2023-04-04, 08:09:15](https://lobste.rs/s/y8y8hj/make_postgres_application_server) - [Make Postgres an Application Server, Gamified](https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/)
 * [2023-04-04, 06:39:26](https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post) - [Pydantic V2 Pre Release blog post](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
@@ -11,7 +12,6 @@
 * [2023-04-03, 21:12:14](https://lobste.rs/s/yfgrxi/how_hypercard_got_its_color_back) - [How HyperCard got its Color Back](https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
-* [2023-04-03, 17:31:00](https://lobste.rs/s/vnpupo/optimizing_open_addressing) - [Optimizing Open Addressing](https://thenumb.at/Hashtables/)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 16:00:12](https://lobste.rs/s/6nq476/asymmetric_cryptographic_commitments) - [Asymmetric Cryptographic Commitments](https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
