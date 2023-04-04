@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-04, 04:06:37](https://lobste.rs/s/kwrma0/rust_on_ch32v003) - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
+* [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 00:13:53](https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs) - [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)
 * [2023-04-04, 00:00:43](https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text) - [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
