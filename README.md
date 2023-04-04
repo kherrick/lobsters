@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
 * [2023-04-04, 16:38:48](https://lobste.rs/s/07wro1/groovy_datasets_for_test_databases) - [Groovy Datasets for Test Databases](https://redis.com/blog/datasets-for-test-databases/)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
@@ -18,7 +19,6 @@
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
-* [2023-04-03, 12:53:22](https://lobste.rs/s/w9d4lh/tor_browser_without_tor) - [A Tor Browser without Tor](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 11:02:41](https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more) - [Atuin v14 - Deletions, NuShell, Windows and more](https://atuin.sh/blog/release-v14)
