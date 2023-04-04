@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 20:52:00",
+      "https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13"
+    ],
+    [
+      "A leaner <iostream> in libstdc++ for GCC 13",
+      "https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 20:25:48",
       "https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter"
     ],
@@ -137,16 +147,6 @@
     [
       "A developer-driven approach to building secondary indexes presentation",
       "https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 09:30:40",
-      "https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory"
-    ],
-    [
-      "Size Matters: An Exploration of Virtual Memory on iOS",
-      "https://alwaysprocessing.blog/2022/02/20/size-matters"
     ]
   ],
   [
