@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-04, 17:35:09",
+      "https://lobste.rs/s/fofvn6/safari_releases_are_development_hell"
+    ],
+    [
+      "Safari releases are development hell",
+      "https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616"
+    ]
+  ],
+  [
+    [
+      "2023-04-04, 17:33:11",
+      "https://lobste.rs/s/sxk4lw/pentimento_data_remanence_cloud_fpgas"
+    ],
+    [
+      "Pentimento: Data Remanence in Cloud FPGAs",
+      "https://arxiv.org/pdf/2303.17881"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 16:40:23",
       "https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-04-03, 11:02:41",
-      "https://lobste.rs/s/khm7zz/atuin_v14_deletions_nushell_windows_more"
-    ],
-    [
-      "Atuin v14 - Deletions, NuShell, Windows and more",
-      "https://atuin.sh/blog/release-v14"
-    ]
-  ],
-  [
-    [
       "2023-04-03, 07:58:09",
       "https://lobste.rs/s/uncy17/graphql_from_excitement_deception"
     ],
@@ -237,16 +247,6 @@
     [
       "Eight Things to Know about Large Language Models",
       "https://cims.nyu.edu/~sbowman/eightthings.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 07:28:39",
-      "https://lobste.rs/s/icrcgk/trurl_manipulates_urls"
-    ],
-    [
-      "trurl manipulates URLs",
-      "https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/"
     ]
   ]
 ]
