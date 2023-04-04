@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 04:06:37",
+      "https://lobste.rs/s/kwrma0/rust_on_ch32v003"
+    ],
+    [
+      "Rust on the CH32V003",
+      "https://noxim.xyz/blog/rust-ch32v003/"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 00:13:53",
       "https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs"
     ],
@@ -57,16 +67,6 @@
     [
       "gcassert: Assert your Go code is inlined and bounds-check eliminated",
       "https://github.com/jordanlewis/gcassert"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 17:53:09",
-      "https://lobste.rs/s/x7apaq/capabilities_for_coders"
-    ],
-    [
-      "Capabilities for Coders",
-      "https://capabilitiesforcoders.com/"
     ]
   ],
   [
