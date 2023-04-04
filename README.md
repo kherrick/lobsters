@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 * [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
-* [2023-04-04, 09:30:40](https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 * [2023-04-04, 08:09:15](https://lobste.rs/s/y8y8hj/make_postgres_application_server) - [Make Postgres an Application Server, Gamified](https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/)
 * [2023-04-04, 06:39:26](https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post) - [Pydantic V2 Pre Release blog post](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
