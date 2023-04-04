@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 06:39:26",
+      "https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post"
+    ],
+    [
+      "Pydantic V2 Pre Release blog post",
+      "https://docs.pydantic.dev/blog/pydantic-v2-alpha/"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 05:35:30",
       "https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t"
     ],
@@ -237,16 +247,6 @@
     [
       "Stopping evaluation from blocking in Nix",
       "https://jade.fyi/blog/nix-evaluation-blocking/"
-    ]
-  ],
-  [
-    [
-      "2023-04-02, 17:17:54",
-      "https://lobste.rs/s/zfnjv1/bypassing_wifi_hardware_switch_on_lenovo"
-    ],
-    [
-      "Bypassing the WiFi Hardware Switch on the Lenovo X201",
-      "https://bt.ht/x201/"
     ]
   ]
 ]
