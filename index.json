@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-04, 11:38:51",
+      "https://lobste.rs/s/xiuwev/developer_driven_approach_building"
+    ],
+    [
+      "A developer-driven approach to building secondary indexes presentation",
+      "https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/"
+    ]
+  ],
+  [
+    [
       "2023-04-04, 09:30:40",
       "https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory"
     ],
@@ -107,16 +117,6 @@
     [
       "Never Staff to the Peak",
       "https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 17:31:00",
-      "https://lobste.rs/s/vnpupo/optimizing_open_addressing"
-    ],
-    [
-      "Optimizing Open Addressing",
-      "https://thenumb.at/Hashtables/"
     ]
   ],
   [
