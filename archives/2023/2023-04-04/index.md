@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
+* [2023-04-04, 20:25:36](https://lobste.rs/s/zz2xln/debian_installer_bookworm_rc_1_release) - [Debian Installer Bookworm RC 1 release](https://lists.debian.org/debian-devel-announce/2023/04/msg00000.html)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)

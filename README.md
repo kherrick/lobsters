@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
+* [2023-04-04, 20:25:36](https://lobste.rs/s/zz2xln/debian_installer_bookworm_rc_1_release) - [Debian Installer Bookworm RC 1 release](https://lists.debian.org/debian-devel-announce/2023/04/msg00000.html)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
@@ -15,7 +17,6 @@
 * [2023-04-04, 09:30:40](https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 * [2023-04-04, 08:09:15](https://lobste.rs/s/y8y8hj/make_postgres_application_server) - [Make Postgres an Application Server, Gamified](https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
-* [2023-04-04, 04:06:37](https://lobste.rs/s/kwrma0/rust_on_ch32v003) - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
 * [2023-04-04, 00:00:43](https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text) - [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
 * [2023-04-03, 20:09:19](https://lobste.rs/s/qdanyw/c_17_creates_practical_use_backward_array) - [C++17 creates a practical use of the backward array index operator](https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005)
@@ -23,7 +24,6 @@
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
-* [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 
 ## [Archives](archives/index.md)
