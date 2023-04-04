@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 * [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
@@ -12,5 +13,6 @@
 * [2023-04-04, 06:39:26](https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post) - [Pydantic V2 Pre Release blog post](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 04:06:37](https://lobste.rs/s/kwrma0/rust_on_ch32v003) - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
+* [2023-04-04, 02:28:31](https://lobste.rs/s/xdada7/8_unexpected_profiling_use_cases_beyond) - [8 Unexpected Profiling Use Cases Beyond Performance Optimization](https://blog.felixge.de/8-unexpected-profiling-use-cases-beyond-performance-optimization/)
 * [2023-04-04, 00:13:53](https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs) - [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)
 * [2023-04-04, 00:00:43](https://lobste.rs/s/hiv1ai/orbiton_slim_configuration_free_text) - [Orbiton: a slim configuration-free text editor for VT100](https://github.com/xyproto/orbiton)
