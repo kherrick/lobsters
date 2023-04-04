@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 17:56:44](https://lobste.rs/s/wy87va/zonemaster_release_new_version_domain) - [Zonemaster : release of a new version of the domain name checking tool](https://www.afnic.fr/en/observatory-and-resources/news/zonemaster-release-of-a-new-version-of-the-domain-name-checking-tool/)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-04, 17:33:11](https://lobste.rs/s/sxk4lw/pentimento_data_remanence_cloud_fpgas) - [Pentimento: Data Remanence in Cloud FPGAs](https://arxiv.org/pdf/2303.17881)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
@@ -24,7 +25,6 @@
 * [2023-04-03, 12:10:01](https://lobste.rs/s/z5oswo/slint_1_0_next_generation_native_gui) - [Slint 1.0: The Next-Generation Native GUI Toolkit Matures](https://slint-ui.com/blog/announcing-slint-1.0.html)
 * [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 * [2023-04-03, 07:58:09](https://lobste.rs/s/uncy17/graphql_from_excitement_deception) - [GraphQL: From Excitement to Deception](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf)
-* [2023-04-03, 07:47:28](https://lobste.rs/s/zopues/eight_things_know_about_large_language) - [Eight Things to Know about Large Language Models](https://cims.nyu.edu/~sbowman/eightthings.pdf)
 
 ## [Archives](archives/index.md)
 
