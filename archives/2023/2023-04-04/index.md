@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 16:38:48](https://lobste.rs/s/07wro1/groovy_datasets_for_test_databases) - [Groovy Datasets for Test Databases](https://redis.com/blog/datasets-for-test-databases/)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
