@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 23:12:28](https://lobste.rs/s/57se6u/dumb_bugs_pci_device_wasn_t) - [Dumb bugs: the PCI device that wasn't](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 21:16:10](https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based) - [clex is now thread-safe and instance-based! A simple lexer generator for C](https://github.com/jafarlihi/clex)
-* [2023-04-04, 20:59:21](https://lobste.rs/s/2ls8pg/microcode_hardware_8086_processor) - [The microcode and hardware in the 8086 processor that perform string operations](http://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 20:52:00](https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13) - [A leaner <iostream> in libstdc++ for GCC 13](https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13)
 * [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
