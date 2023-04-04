@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
 * [2023-04-04, 17:56:44](https://lobste.rs/s/wy87va/zonemaster_release_new_version_domain) - [Zonemaster : release of a new version of the domain name checking tool](https://www.afnic.fr/en/observatory-and-resources/news/zonemaster-release-of-a-new-version-of-the-domain-name-checking-tool/)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
@@ -12,7 +13,6 @@
 * [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
 * [2023-04-04, 09:30:40](https://lobste.rs/s/f3ubpp/size_matters_exploration_virtual_memory) - [Size Matters: An Exploration of Virtual Memory on iOS](https://alwaysprocessing.blog/2022/02/20/size-matters)
 * [2023-04-04, 08:09:15](https://lobste.rs/s/y8y8hj/make_postgres_application_server) - [Make Postgres an Application Server, Gamified](https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/)
-* [2023-04-04, 06:39:26](https://lobste.rs/s/yaddnv/pydantic_v2_pre_release_blog_post) - [Pydantic V2 Pre Release blog post](https://docs.pydantic.dev/blog/pydantic-v2-alpha/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-04, 04:06:37](https://lobste.rs/s/kwrma0/rust_on_ch32v003) - [Rust on the CH32V003](https://noxim.xyz/blog/rust-ch32v003/)
 * [2023-04-04, 00:13:53](https://lobste.rs/s/vfa5ar/yack_return_monkey_island_dialogs) - [Yack: Return to Monkey Island dialogs](https://www.grumpygamer.com/loom)

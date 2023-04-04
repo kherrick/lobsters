@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
 * [2023-04-04, 17:56:44](https://lobste.rs/s/wy87va/zonemaster_release_new_version_domain) - [Zonemaster : release of a new version of the domain name checking tool](https://www.afnic.fr/en/observatory-and-resources/news/zonemaster-release-of-a-new-version-of-the-domain-name-checking-tool/)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
