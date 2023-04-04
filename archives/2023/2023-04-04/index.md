@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-04](index.md)
 
+* [2023-04-04, 21:16:10](https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based) - [clex is now thread-safe and instance-based! A simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2023-04-04, 20:59:21](https://lobste.rs/s/2ls8pg/microcode_hardware_8086_processor) - [The microcode and hardware in the 8086 processor that perform string operations](http://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 20:52:00](https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13) - [A leaner <iostream> in libstdc++ for GCC 13](https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13)
 * [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
