@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 * [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
 * [2023-04-05, 14:21:08](https://lobste.rs/s/kzgqkb/dnnd_1_deep_neural_network_dive) - [DNND 1: a Deep Neural Network Dive](https://maxliani.wordpress.com/2023/03/17/dnnd-1-a-deep-neural-network-dive/)
@@ -18,7 +19,6 @@
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
-* [2023-04-04, 17:56:44](https://lobste.rs/s/wy87va/zonemaster_release_new_version_domain) - [Zonemaster : release of a new version of the domain name checking tool](https://www.afnic.fr/en/observatory-and-resources/news/zonemaster-release-of-a-new-version-of-the-domain-name-checking-tool/)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)

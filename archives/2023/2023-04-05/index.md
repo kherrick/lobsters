@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 * [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
 * [2023-04-05, 14:21:08](https://lobste.rs/s/kzgqkb/dnnd_1_deep_neural_network_dive) - [DNND 1: a Deep Neural Network Dive](https://maxliani.wordpress.com/2023/03/17/dnnd-1-a-deep-neural-network-dive/)
