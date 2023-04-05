@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-04-05](index.md)
+
+* [2023-04-05, 00:24:36](https://lobste.rs/s/mqvznv/type_specialization_go) - [Type Specialization in Go](https://commaok.xyz/post/type_specialization/)

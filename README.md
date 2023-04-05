@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 00:24:36](https://lobste.rs/s/mqvznv/type_specialization_go) - [Type Specialization in Go](https://commaok.xyz/post/type_specialization/)
 * [2023-04-04, 23:12:28](https://lobste.rs/s/57se6u/dumb_bugs_pci_device_wasn_t) - [Dumb bugs: the PCI device that wasn't](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 21:16:10](https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based) - [clex is now thread-safe and instance-based! A simple lexer generator for C](https://github.com/jafarlihi/clex)
+* [2023-04-04, 20:59:21](https://lobste.rs/s/2ls8pg/microcode_hardware_8086_processor) - [The microcode and hardware in the 8086 processor that perform string operations](http://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 20:52:00](https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13) - [A leaner <iostream> in libstdc++ for GCC 13](https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13)
 * [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
@@ -11,7 +13,6 @@
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-04, 17:33:11](https://lobste.rs/s/sxk4lw/pentimento_data_remanence_cloud_fpgas) - [Pentimento: Data Remanence in Cloud FPGAs](https://arxiv.org/pdf/2303.17881)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
-* [2023-04-04, 16:38:48](https://lobste.rs/s/07wro1/groovy_datasets_for_test_databases) - [Groovy Datasets for Test Databases](https://redis.com/blog/datasets-for-test-databases/)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
@@ -24,7 +25,6 @@
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 * [2023-04-03, 14:24:25](https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer) - [RFC 1178:  Choosing a name for your computer](https://www.rfc-editor.org/rfc/rfc1178)
-* [2023-04-03, 11:35:08](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs) - [Modeling Git Internals in Alloy, Part 1: Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-1-blobs-and-trees/)
 
 ## [Archives](archives/index.md)
 
