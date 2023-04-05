@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
 * [2023-04-05, 00:24:36](https://lobste.rs/s/mqvznv/type_specialization_go) - [Type Specialization in Go](https://commaok.xyz/post/type_specialization/)
