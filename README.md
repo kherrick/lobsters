@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 11:45:50](https://lobste.rs/s/tvahev/can_we_learn_language_proteins_2019) - [Can We Learn the Language of Proteins? (2019)](https://bair.berkeley.edu/blog/2019/11/04/proteins/)
 * [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 * [2023-04-05, 10:07:23](https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff) - [The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
@@ -22,7 +23,6 @@
 * [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
-* [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
 * [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 
