@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
+* [2023-04-05, 13:09:38](https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based) - [pageview-worker: Page View backend based on Cloudflare Workers and KV](https://github.com/jiacai2050/pageview-worker)
 * [2023-04-05, 12:05:00](https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100) - [datapane: Build full-stack data apps in 100% Python](https://github.com/datapane/datapane)
 * [2023-04-05, 11:45:50](https://lobste.rs/s/tvahev/can_we_learn_language_proteins_2019) - [Can We Learn the Language of Proteins? (2019)](https://bair.berkeley.edu/blog/2019/11/04/proteins/)
 * [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
@@ -11,7 +13,6 @@
 * [2023-04-04, 21:16:10](https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based) - [clex is now thread-safe and instance-based! A simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2023-04-04, 20:59:21](https://lobste.rs/s/2ls8pg/microcode_hardware_8086_processor) - [The microcode and hardware in the 8086 processor that perform string operations](http://www.righto.com/2023/04/8086-microcode-string-operations.html)
 * [2023-04-04, 20:52:00](https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13) - [A leaner <iostream> in libstdc++ for GCC 13](https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13)
-* [2023-04-04, 20:25:48](https://lobste.rs/s/rvvnrz/semi_automating_substack_newsletter) - [Semi-automating a Substack newsletter with an Observable notebook](https://simonwillison.net/2023/Apr/4/substack-observable/)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
@@ -24,7 +25,6 @@
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
 * [2023-04-03, 16:38:25](https://lobste.rs/s/kvgb5f/all_you_need_is_data_functions) - [All you need is data and functions](https://mckayla.blog/posts/all-you-need-is-data-and-functions.html)
-* [2023-04-03, 15:47:14](https://lobste.rs/s/lvwkof/v0_28_released_gleam_type_safe_erlang) - [v0.28 released of Gleam, a type safe Erlang-family language](https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/)
 
 ## [Archives](archives/index.md)
 
