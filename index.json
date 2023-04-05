@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 17:22:47",
+      "https://lobste.rs/s/vpdbia/mixture_experts_with_expert_choice"
+    ],
+    [
+      "Mixture-of-Experts with Expert Choice Routing (2022)",
+      "https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 16:59:41",
       "https://lobste.rs/s/r6awrd/edge_ai_just_got_faster"
     ],
@@ -237,16 +247,6 @@
     [
       "Brace Yourself for a Tidal Wave of ChatGPT Email Scams",
       "https://www.wired.com/story/large-language-model-phishing-scams/"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 23:19:13",
-      "https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust"
-    ],
-    [
-      "Building a Classic Mac OS App in Rust",
-      "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
     ]
   ]
 ]
