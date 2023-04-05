@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 * [2023-04-05, 10:07:23](https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff) - [The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
 * [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
@@ -14,7 +15,6 @@
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
 * [2023-04-04, 17:56:44](https://lobste.rs/s/wy87va/zonemaster_release_new_version_domain) - [Zonemaster : release of a new version of the domain name checking tool](https://www.afnic.fr/en/observatory-and-resources/news/zonemaster-release-of-a-new-version-of-the-domain-name-checking-tool/)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
-* [2023-04-04, 17:33:11](https://lobste.rs/s/sxk4lw/pentimento_data_remanence_cloud_fpgas) - [Pentimento: Data Remanence in Cloud FPGAs](https://arxiv.org/pdf/2303.17881)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
 * [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
