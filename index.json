@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 10:07:23",
+      "https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff"
+    ],
+    [
+      "The Capability-Tractability Tradeoff",
+      "https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 09:28:23",
       "https://lobste.rs/s/gvxarn/monocypher_4_0_1"
     ],
@@ -237,16 +247,6 @@
     [
       "v0.28 released of Gleam, a type safe Erlang-family language",
       "https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/"
-    ]
-  ],
-  [
-    [
-      "2023-04-03, 14:24:25",
-      "https://lobste.rs/s/aekdqz/rfc_1178_choosing_name_for_your_computer"
-    ],
-    [
-      "RFC 1178:  Choosing a name for your computer",
-      "https://www.rfc-editor.org/rfc/rfc1178"
     ]
   ]
 ]
