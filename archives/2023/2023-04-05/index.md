@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 13:46:25](https://lobste.rs/s/wiv3yp/mlops_is_mostly_data_engineering) - [MLOps is Mostly Data Engineering](https://www.cpard.xyz/posts/MLOps_is_Mostly_Data_Engineering/)
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 * [2023-04-05, 13:09:38](https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based) - [pageview-worker: Page View backend based on Cloudflare Workers and KV](https://github.com/jiacai2050/pageview-worker)
 * [2023-04-05, 12:05:00](https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100) - [datapane: Build full-stack data apps in 100% Python](https://github.com/datapane/datapane)

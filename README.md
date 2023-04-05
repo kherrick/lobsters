@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 13:46:25](https://lobste.rs/s/wiv3yp/mlops_is_mostly_data_engineering) - [MLOps is Mostly Data Engineering](https://www.cpard.xyz/posts/MLOps_is_Mostly_Data_Engineering/)
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 * [2023-04-05, 13:09:38](https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based) - [pageview-worker: Page View backend based on Cloudflare Workers and KV](https://github.com/jiacai2050/pageview-worker)
 * [2023-04-05, 12:05:00](https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100) - [datapane: Build full-stack data apps in 100% Python](https://github.com/datapane/datapane)
@@ -12,7 +13,6 @@
 * [2023-04-04, 23:12:28](https://lobste.rs/s/57se6u/dumb_bugs_pci_device_wasn_t) - [Dumb bugs: the PCI device that wasn't](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 21:16:10](https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based) - [clex is now thread-safe and instance-based! A simple lexer generator for C](https://github.com/jafarlihi/clex)
 * [2023-04-04, 20:59:21](https://lobste.rs/s/2ls8pg/microcode_hardware_8086_processor) - [The microcode and hardware in the 8086 processor that perform string operations](http://www.righto.com/2023/04/8086-microcode-string-operations.html)
-* [2023-04-04, 20:52:00](https://lobste.rs/s/qnw4sn/leaner_iostream_libstdc_for_gcc_13) - [A leaner <iostream> in libstdc++ for GCC 13](https://developers.redhat.com/articles/2023/04/03/leaner-libstdc-gcc-13)
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
