@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-05, 12:05:00",
+      "https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100"
+    ],
+    [
+      "datapane: Build full-stack data apps in 100% Python",
+      "https://github.com/datapane/datapane"
+    ]
+  ],
+  [
+    [
       "2023-04-05, 11:45:50",
       "https://lobste.rs/s/tvahev/can_we_learn_language_proteins_2019"
     ],
@@ -197,16 +207,6 @@
     [
       "Brace Yourself for a Tidal Wave of ChatGPT Email Scams",
       "https://www.wired.com/story/large-language-model-phishing-scams/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 11:38:51",
-      "https://lobste.rs/s/xiuwev/developer_driven_approach_building"
-    ],
-    [
-      "A developer-driven approach to building secondary indexes presentation",
-      "https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/"
     ]
   ],
   [
