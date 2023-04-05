@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 * [2023-04-05, 17:22:47](https://lobste.rs/s/vpdbia/mixture_experts_with_expert_choice) - [Mixture-of-Experts with Expert Choice Routing (2022)](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
@@ -23,7 +24,6 @@
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
 * [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-04, 16:40:23](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag) - [Is it time for an editors tag?](https://lobste.rs/s/pr87ke/is_it_time_for_editors_tag)
-* [2023-04-04, 15:57:47](https://lobste.rs/s/yifzou/sniffnet_v1_1_3_has_been_released) - [Sniffnet v1.1.3 has been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.3)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 
 ## [Archives](archives/index.md)

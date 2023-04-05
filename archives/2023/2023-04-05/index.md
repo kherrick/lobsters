@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-05](index.md)
 
+* [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 * [2023-04-05, 17:22:47](https://lobste.rs/s/vpdbia/mixture_experts_with_expert_choice) - [Mixture-of-Experts with Expert Choice Routing (2022)](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
