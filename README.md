@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
 * [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
 * [2023-04-05, 00:24:36](https://lobste.rs/s/mqvznv/type_specialization_go) - [Type Specialization in Go](https://commaok.xyz/post/type_specialization/)
 * [2023-04-04, 23:12:28](https://lobste.rs/s/57se6u/dumb_bugs_pci_device_wasn_t) - [Dumb bugs: the PCI device that wasn't](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
@@ -18,7 +19,6 @@
 * [2023-04-04, 15:40:53](https://lobste.rs/s/5dlhan/how_be_10x_engineer) - [How to be a -10x Engineer](https://taylor.town/-10x)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 * [2023-04-04, 11:38:51](https://lobste.rs/s/xiuwev/developer_driven_approach_building) - [A developer-driven approach to building secondary indexes presentation](https://www.tigrisdata.com/blog/foundationdb-meetup-indexes-talk/)
-* [2023-04-04, 08:09:15](https://lobste.rs/s/y8y8hj/make_postgres_application_server) - [Make Postgres an Application Server, Gamified](https://yrashk.com/blog/2023/04/04/make-postgres-an-application-server-gamified/)
 * [2023-04-04, 05:35:30](https://lobste.rs/s/bzxz4e/how_serenityos_declares_ssize_t) - [How SerenityOS declares ssize_t](https://awesomekling.github.io/How-SerenityOS-declares-ssize_t/)
 * [2023-04-03, 23:19:13](https://lobste.rs/s/xxz2wj/building_classic_mac_os_app_rust) - [Building a Classic Mac OS App in Rust](https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/)
 * [2023-04-03, 17:42:11](https://lobste.rs/s/poucep/never_staff_peak) - [Never Staff to the Peak](https://blog.testdouble.com/posts/2023-04-03-never-staff-to-the-peak/)
