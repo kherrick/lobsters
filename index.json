@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 22:48:42",
+      "https://lobste.rs/s/eknwku/professor_eliot_moss_on_design"
+    ],
+    [
+      "Professor Eliot Moss on the Design and Implementation of CLU",
+      "https://veera.app/clu.html"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 21:55:01",
       "https://lobste.rs/s/ucls9g/haiku_activity_contract_report_march"
     ],
@@ -237,16 +247,6 @@
     [
       "Using TLA⁺ at Work: Designing a Snapshot Coordination System",
       "https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 14:31:38",
-      "https://lobste.rs/s/lkra32/goru_experimental_go_inspired"
-    ],
-    [
-      "Goru: an experimental, Go-inspired concurrency library for Ruby",
-      "https://github.com/bryanp/goru"
     ]
   ]
 ]
