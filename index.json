@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 04:22:32",
+      "https://lobste.rs/s/gixc1a/mutexprotected_c_pattern_for_easier"
+    ],
+    [
+      "MutexProtected: A C++ Pattern for Easier Concurrency",
+      "https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 01:02:42",
       "https://lobste.rs/s/zh1g5g/try_out_clojure_libraries_via_rebel"
     ],
@@ -207,16 +217,6 @@
     [
       "clex is now thread-safe and instance-based! A simple lexer generator for C",
       "https://github.com/jafarlihi/clex"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 20:13:10",
-      "https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching"
-    ],
-    [
-      "Nushell 0.78 supports pattern matching",
-      "https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt"
     ]
   ],
   [
