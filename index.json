@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 16:32:15",
+      "https://lobste.rs/s/pzohjt/should_i_use_gpt_autogenerate_schema"
+    ],
+    [
+      "Should I use GPT to autogenerate schema validations?",
+      "https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 16:13:22",
       "https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package"
     ],
@@ -207,16 +217,6 @@
     [
       "From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps",
       "https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 10:07:23",
-      "https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff"
-    ],
-    [
-      "The Capability-Tractability Tradeoff",
-      "https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/"
     ]
   ],
   [
