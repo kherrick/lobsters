@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 * [2023-04-06, 09:33:34](https://lobste.rs/s/3lzoxg/living_off_land_drivers_loldrivers) - [Living Off The Land Drivers (LOLdrivers)](https://www.loldrivers.io/)
 * [2023-04-06, 09:07:34](https://lobste.rs/s/vqzeat/vk_ext_shader_object) - [VK_EXT_shader_object](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_EXT_shader_object.adoc)
 * [2023-04-06, 06:25:09](https://lobste.rs/s/lnswsm/singularitarianism) - [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
