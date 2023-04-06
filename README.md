@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 16:13:22](https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package) - [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 * [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 * [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
@@ -23,7 +24,6 @@
 * [2023-04-05, 10:07:23](https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff) - [The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
 * [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
-* [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 
 ## [Archives](archives/index.md)

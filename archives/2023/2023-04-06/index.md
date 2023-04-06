@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 16:13:22](https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package) - [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 * [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 * [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
