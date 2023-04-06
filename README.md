@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 17:23:59](https://lobste.rs/s/skqsgr/some_language_design_lessons_learned) - [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
 * [2023-04-06, 17:06:49](https://lobste.rs/s/hyovad/amazon_ec2_instance_comparison) - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
@@ -24,7 +25,6 @@
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 * [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
-* [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
 
 ## [Archives](archives/index.md)
 

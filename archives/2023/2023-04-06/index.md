@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 17:23:59](https://lobste.rs/s/skqsgr/some_language_design_lessons_learned) - [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
 * [2023-04-06, 17:06:49](https://lobste.rs/s/hyovad/amazon_ec2_instance_comparison) - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
