@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 18:35:31",
+      "https://lobste.rs/s/ytr2mr/exploratory_analysis_trlx_rlhf"
+    ],
+    [
+      "Exploratory Analysis of TRLX RLHF Transformers with TransformerLens",
+      "https://blog.eleuther.ai/trlx-exploratory-analysis/"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 17:56:39",
       "https://lobste.rs/s/pur1rj/chrome_ships_webgpu"
     ],
@@ -217,16 +227,6 @@
     [
       "Using TLA⁺ at Work: Designing a Snapshot Coordination System",
       "https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 14:48:00",
-      "https://lobste.rs/s/g0vadn/single_command_server_bootstrapping"
-    ],
-    [
-      "Single-Command Server Bootstrapping",
-      "https://galowicz.de/2023/04/05/single-command-server-bootstrap/"
     ]
   ],
   [
