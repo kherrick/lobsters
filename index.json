@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 06:25:09",
+      "https://lobste.rs/s/lnswsm/singularitarianism"
+    ],
+    [
+      "Singularitarianism",
+      "https://en.wikipedia.org/wiki/Singularitarianism"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 05:06:39",
       "https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are"
     ],
@@ -217,16 +227,6 @@
     [
       "Dumb bugs: the PCI device that wasn't",
       "https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/"
-    ]
-  ],
-  [
-    [
-      "2023-04-04, 21:16:10",
-      "https://lobste.rs/s/rkekof/clex_is_now_thread_safe_instance_based"
-    ],
-    [
-      "clex is now thread-safe and instance-based! A simple lexer generator for C",
-      "https://github.com/jafarlihi/clex"
     ]
   ],
   [
