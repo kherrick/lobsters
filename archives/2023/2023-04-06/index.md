@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+* [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
 * [2023-04-06, 16:32:15](https://lobste.rs/s/pzohjt/should_i_use_gpt_autogenerate_schema) - [Should I use GPT to autogenerate schema validations?](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 * [2023-04-06, 16:13:22](https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package) - [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 * [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)

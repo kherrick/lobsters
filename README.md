@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+* [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
 * [2023-04-06, 16:32:15](https://lobste.rs/s/pzohjt/should_i_use_gpt_autogenerate_schema) - [Should I use GPT to autogenerate schema validations?](https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md)
 * [2023-04-06, 16:13:22](https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package) - [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 * [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
@@ -12,7 +14,6 @@
 * [2023-04-06, 04:22:32](https://lobste.rs/s/gixc1a/mutexprotected_c_pattern_for_easier) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 01:02:42](https://lobste.rs/s/zh1g5g/try_out_clojure_libraries_via_rebel) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
 * [2023-04-06, 00:34:57](https://lobste.rs/s/3a8ed5/discovering_headroll_cve_2023_0704) - [Discovering Headroll (CVE-2023–0704) in Chromium](https://canvatechblog.medium.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c)
-* [2023-04-05, 22:24:28](https://lobste.rs/s/rmcrwy/observing_css) - [Observing CSS](https://jonneal.dev/blog/observing-css/)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 * [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
@@ -24,7 +25,6 @@
 * [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
 * [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
-* [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 
 ## [Archives](archives/index.md)
 
