@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 * [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
@@ -17,7 +18,6 @@
 * [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
-* [2023-04-05, 13:09:38](https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based) - [pageview-worker: Page View backend based on Cloudflare Workers and KV](https://github.com/jiacai2050/pageview-worker)
 * [2023-04-05, 12:05:00](https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100) - [datapane: Build full-stack data apps in 100% Python](https://github.com/datapane/datapane)
 * [2023-04-05, 11:28:27](https://lobste.rs/s/z3eqwh/from_hell_html_releasing_python_package) - [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)
 * [2023-04-05, 10:07:23](https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff) - [The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
