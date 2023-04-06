@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 01:02:42](https://lobste.rs/s/zh1g5g/try_out_clojure_libraries_via_rebel) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
+* [2023-04-06, 00:34:57](https://lobste.rs/s/3a8ed5/discovering_headroll_cve_2023_0704) - [Discovering Headroll (CVE-2023–0704) in Chromium](https://canvatechblog.medium.com/discovering-headroll-cve-2023-0704-in-chromium-2e7f66fc130c)
 * [2023-04-05, 22:24:28](https://lobste.rs/s/rmcrwy/observing_css) - [Observing CSS](https://jonneal.dev/blog/observing-css/)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
-* [2023-04-05, 18:51:14](https://lobste.rs/s/mvf8e8/carlafox_towards_reliable_open_source_3d) - [Carlafox: Towards reliable open-source 3D perception](https://www.collabora.com/news-and-blog/blog/2023/04/05/carlafox-towards-reliable-open-source-3d-perception/)
 * [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 * [2023-04-05, 17:22:47](https://lobste.rs/s/vpdbia/mixture_experts_with_expert_choice) - [Mixture-of-Experts with Expert Choice Routing (2022)](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
@@ -23,7 +24,6 @@
 * [2023-04-04, 20:13:10](https://lobste.rs/s/0qpyvc/nushell_0_78_supports_pattern_matching) - [Nushell 0.78 supports pattern matching](https://www.nushell.sh/blog/2023-04-04-nushell_0_78.html#pattern-matching-jt)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 19:25:13](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables) - [How do you name your Go variables](https://lobste.rs/s/uqvzri/how_do_you_name_your_go_variables)
-* [2023-04-04, 17:35:09](https://lobste.rs/s/fofvn6/safari_releases_are_development_hell) - [Safari releases are development hell](https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 
 ## [Archives](archives/index.md)
