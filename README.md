@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 21:01:57](https://lobste.rs/s/bxbwcp/system_design_cost_architectural) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
@@ -24,7 +25,6 @@
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
-* [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 
 ## [Archives](archives/index.md)
 
