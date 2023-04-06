@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 21:55:01](https://lobste.rs/s/ucls9g/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2023](https://www.haiku-os.org/blog/waddlesplash/2023-04-06_haiku_activity_contract_report_march_2023/)
 * [2023-04-06, 21:45:20](https://lobste.rs/s/uhaxkd/sponsored_iso_standards_for_pdf) - [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
 * [2023-04-06, 21:01:57](https://lobste.rs/s/bxbwcp/system_design_cost_architectural) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
