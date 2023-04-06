@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-06, 21:01:57",
+      "https://lobste.rs/s/bxbwcp/system_design_cost_architectural"
+    ],
+    [
+      "System design and the cost of architectural complexity (2013)",
+      "https://dspace.mit.edu/handle/1721.1/79551"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 19:55:04",
       "https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators"
     ],
@@ -237,16 +247,6 @@
     [
       "Goru: an experimental, Go-inspired concurrency library for Ruby",
       "https://github.com/bryanp/goru"
-    ]
-  ],
-  [
-    [
-      "2023-04-05, 13:16:21",
-      "https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust"
-    ],
-    [
-      "A definitive guide to sealed traits in Rust",
-      "https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/"
     ]
   ]
 ]
