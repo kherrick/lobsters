@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 18:35:31](https://lobste.rs/s/ytr2mr/exploratory_analysis_trlx_rlhf) - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens](https://blog.eleuther.ai/trlx-exploratory-analysis/)
 * [2023-04-06, 17:56:39](https://lobste.rs/s/pur1rj/chrome_ships_webgpu) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 17:31:53](https://lobste.rs/s/hwmjbi/this_month_with_nim_march_2023) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 * [2023-04-06, 17:23:59](https://lobste.rs/s/skqsgr/some_language_design_lessons_learned) - [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
@@ -22,7 +23,6 @@
 * [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
-* [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 

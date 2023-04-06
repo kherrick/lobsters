@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 18:35:31](https://lobste.rs/s/ytr2mr/exploratory_analysis_trlx_rlhf) - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens](https://blog.eleuther.ai/trlx-exploratory-analysis/)
 * [2023-04-06, 17:56:39](https://lobste.rs/s/pur1rj/chrome_ships_webgpu) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 * [2023-04-06, 17:31:53](https://lobste.rs/s/hwmjbi/this_month_with_nim_march_2023) - [This Month with Nim: March 2023](https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html)
 * [2023-04-06, 17:23:59](https://lobste.rs/s/skqsgr/some_language_design_lessons_learned) - [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
