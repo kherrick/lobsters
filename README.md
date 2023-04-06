@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 09:07:34](https://lobste.rs/s/vqzeat/vk_ext_shader_object) - [VK_EXT_shader_object](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_EXT_shader_object.adoc)
 * [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
 * [2023-04-06, 04:22:32](https://lobste.rs/s/gixc1a/mutexprotected_c_pattern_for_easier) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-06, 01:02:42](https://lobste.rs/s/zh1g5g/try_out_clojure_libraries_via_rebel) - [Try out Clojure libraries via rebel-readline](https://github.com/eval/deps-try)
@@ -7,7 +8,6 @@
 * [2023-04-05, 22:24:28](https://lobste.rs/s/rmcrwy/observing_css) - [Observing CSS](https://jonneal.dev/blog/observing-css/)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 * [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
-* [2023-04-05, 17:22:47](https://lobste.rs/s/vpdbia/mixture_experts_with_expert_choice) - [Mixture-of-Experts with Expert Choice Routing (2022)](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 * [2023-04-05, 16:59:41](https://lobste.rs/s/r6awrd/edge_ai_just_got_faster) - [Edge AI Just Got Faster](https://justine.lol/mmap/)
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 * [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
