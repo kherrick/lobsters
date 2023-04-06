@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 09:33:34](https://lobste.rs/s/3lzoxg/living_off_land_drivers_loldrivers) - [Living Off The Land Drivers (LOLdrivers)](https://www.loldrivers.io/)
 * [2023-04-06, 09:07:34](https://lobste.rs/s/vqzeat/vk_ext_shader_object) - [VK_EXT_shader_object](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_EXT_shader_object.adoc)
 * [2023-04-06, 06:25:09](https://lobste.rs/s/lnswsm/singularitarianism) - [Singularitarianism](https://en.wikipedia.org/wiki/Singularitarianism)
 * [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
