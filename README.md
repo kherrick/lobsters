@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
+* [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 * [2023-04-06, 09:33:34](https://lobste.rs/s/3lzoxg/living_off_land_drivers_loldrivers) - [Living Off The Land Drivers (LOLdrivers)](https://www.loldrivers.io/)
 * [2023-04-06, 09:07:34](https://lobste.rs/s/vqzeat/vk_ext_shader_object) - [VK_EXT_shader_object](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_EXT_shader_object.adoc)
@@ -14,7 +16,6 @@
 * [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 * [2023-04-05, 14:48:00](https://lobste.rs/s/g0vadn/single_command_server_bootstrapping) - [Single-Command Server Bootstrapping](https://galowicz.de/2023/04/05/single-command-server-bootstrap/)
 * [2023-04-05, 14:31:38](https://lobste.rs/s/lkra32/goru_experimental_go_inspired) - [Goru: an experimental, Go-inspired concurrency library for Ruby](https://github.com/bryanp/goru)
-* [2023-04-05, 13:46:25](https://lobste.rs/s/wiv3yp/mlops_is_mostly_data_engineering) - [MLOps is Mostly Data Engineering](https://www.cpard.xyz/posts/MLOps_is_Mostly_Data_Engineering/)
 * [2023-04-05, 13:16:21](https://lobste.rs/s/l4dovq/definitive_guide_sealed_traits_rust) - [A definitive guide to sealed traits in Rust](https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/)
 * [2023-04-05, 13:09:38](https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based) - [pageview-worker: Page View backend based on Cloudflare Workers and KV](https://github.com/jiacai2050/pageview-worker)
 * [2023-04-05, 12:05:00](https://lobste.rs/s/hwbmr7/datapane_build_full_stack_data_apps_100) - [datapane: Build full-stack data apps in 100% Python](https://github.com/datapane/datapane)
@@ -22,7 +23,6 @@
 * [2023-04-05, 10:07:23](https://lobste.rs/s/fmnkyd/capability_tractability_tradeoff) - [The Capability-Tractability Tradeoff](https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/)
 * [2023-04-05, 09:28:23](https://lobste.rs/s/gvxarn/monocypher_4_0_1) - [monocypher 4.0.1](https://monocypher.org/news)
 * [2023-04-05, 05:09:32](https://lobste.rs/s/nar1bn/crypto_ancienne_2_2_now_supported_on) - [Crypto Ancienne 2.2: now supported on AmigaOS and classic MacOS/MPW](https://oldvcr.blogspot.com/2023/04/crypto-ancienne-22-now-supported-on.html)
-* [2023-04-04, 23:12:28](https://lobste.rs/s/57se6u/dumb_bugs_pci_device_wasn_t) - [Dumb bugs: the PCI device that wasn't](https://sthbrx.github.io/blog/2023/04/04/dumb-bugs-the-pci-device-that-wasnt/)
 * [2023-04-04, 19:56:28](https://lobste.rs/s/cnuq5w/look_at_austral) - [A Look At Austral](https://wiki.alopex.li/ALookAtAustral2023)
 * [2023-04-04, 14:17:29](https://lobste.rs/s/atmdap/brace_yourself_for_tidal_wave_chatgpt) - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)
 
