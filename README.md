@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 18:35:31](https://lobste.rs/s/ytr2mr/exploratory_analysis_trlx_rlhf) - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens](https://blog.eleuther.ai/trlx-exploratory-analysis/)
@@ -16,7 +17,6 @@
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 * [2023-04-06, 09:33:34](https://lobste.rs/s/3lzoxg/living_off_land_drivers_loldrivers) - [Living Off The Land Drivers (LOLdrivers)](https://www.loldrivers.io/)
-* [2023-04-06, 09:07:34](https://lobste.rs/s/vqzeat/vk_ext_shader_object) - [VK_EXT_shader_object](https://github.com/KhronosGroup/Vulkan-Docs/blob/main/proposals/VK_EXT_shader_object.adoc)
 * [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
 * [2023-04-06, 04:22:32](https://lobste.rs/s/gixc1a/mutexprotected_c_pattern_for_easier) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)

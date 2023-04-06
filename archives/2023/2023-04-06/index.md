@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 18:35:31](https://lobste.rs/s/ytr2mr/exploratory_analysis_trlx_rlhf) - [Exploratory Analysis of TRLX RLHF Transformers with TransformerLens](https://blog.eleuther.ai/trlx-exploratory-analysis/)
