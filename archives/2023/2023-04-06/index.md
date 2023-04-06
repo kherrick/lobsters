@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-06](index.md)
 
+* [2023-04-06, 21:45:20](https://lobste.rs/s/uhaxkd/sponsored_iso_standards_for_pdf) - [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
 * [2023-04-06, 21:01:57](https://lobste.rs/s/bxbwcp/system_design_cost_architectural) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
