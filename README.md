@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 19:22:12](https://lobste.rs/s/bhoj24/gephi_lite) - [Gephi Lite](https://gephi.org/gephi-lite/)
 * [2023-04-07, 19:12:27](https://lobste.rs/s/2vtqgu/building_database_2020s) - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
 * [2023-04-07, 18:09:13](https://lobste.rs/s/bwbuwv/bash_privileged_mode_vulnerabilities) - [Bash Privileged-Mode Vulnerabilities in Parallels Desktop and CDPATH Handling in MacOS](https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos)
@@ -24,7 +25,6 @@
 * [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
-* [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 
 ## [Archives](archives/index.md)
 
