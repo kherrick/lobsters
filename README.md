@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
+* [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 12:06:23](https://lobste.rs/s/5nsizl/sip_on_android_sipgate_linphone) - [SIP on Android – Sipgate and Linphone](https://shkspr.mobi/blog/2023/04/sip-on-android-sipgate-and-linphone/)
 * [2023-04-07, 11:21:46](https://lobste.rs/s/lbxjov/custom_allocators_rust) - [Custom allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
 * [2023-04-07, 09:48:26](https://lobste.rs/s/7nhnhw/context_free_art) - [Context Free Art](https://www.contextfreeart.org/)
@@ -14,7 +16,6 @@
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 17:56:39](https://lobste.rs/s/pur1rj/chrome_ships_webgpu) - [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
-* [2023-04-06, 17:23:59](https://lobste.rs/s/skqsgr/some_language_design_lessons_learned) - [Some language design lessons learned](https://c3.handmade.network/blog/p/8682-some_language_design_lessons_learned)
 * [2023-04-06, 17:06:49](https://lobste.rs/s/hyovad/amazon_ec2_instance_comparison) - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
@@ -23,7 +24,6 @@
 * [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
-* [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 
 ## [Archives](archives/index.md)
