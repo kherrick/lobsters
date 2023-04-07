@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 12:51:03](https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro) - [Static OG (Open Graph) Images in Astro](http://arne.me/blog/static-og-images-in-astro/)
 * [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 12:06:23](https://lobste.rs/s/5nsizl/sip_on_android_sipgate_linphone) - [SIP on Android – Sipgate and Linphone](https://shkspr.mobi/blog/2023/04/sip-on-android-sipgate-and-linphone/)
