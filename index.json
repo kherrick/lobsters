@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-07, 08:46:48",
+      "https://lobste.rs/s/eshcdk/knit_making_better_make"
+    ],
+    [
+      "Knit: making a better Make",
+      "https://zyedidia.github.io/blog/posts/3-knit-better-make/"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 06:03:06",
       "https://lobste.rs/s/zkzzee/adventures_garbage_collection"
     ],
@@ -117,16 +127,6 @@
     [
       "Chrome ships WebGPU",
       "https://developer.chrome.com/blog/webgpu-release/"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 17:31:53",
-      "https://lobste.rs/s/hwmjbi/this_month_with_nim_march_2023"
-    ],
-    [
-      "This Month with Nim: March 2023",
-      "https://nim-lang.org/blog/2023/04/01/this-month-with-nim.html"
     ]
   ],
   [
