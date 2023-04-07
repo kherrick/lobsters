@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 14:22:59](https://lobste.rs/s/bxhqo1/nft_ptr_c_std_unique_ptr_represents_each) - [nft_ptr: C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain](https://github.com/zhuowei/nft_ptr)
 * [2023-04-07, 13:20:18](https://lobste.rs/s/hs6qnz/thoughts_on_async_closures) - [Thoughts on async closures](https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/)
 * [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
 * [2023-04-07, 12:51:03](https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro) - [Static OG (Open Graph) Images in Astro](http://arne.me/blog/static-og-images-in-astro/)
@@ -10,7 +11,6 @@
 * [2023-04-07, 09:48:26](https://lobste.rs/s/7nhnhw/context_free_art) - [Context Free Art](https://www.contextfreeart.org/)
 * [2023-04-07, 09:14:54](https://lobste.rs/s/m0nkyg/rustls_0_21_0_released_with_exciting_new) - [Rustls 0.21.0 Released With Exciting New Features](https://www.memorysafety.org/blog/rustls-new-features/)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
-* [2023-04-07, 06:03:06](https://lobste.rs/s/zkzzee/adventures_garbage_collection) - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://shopify.engineering/adventures-in-garbage-collection)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 * [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
