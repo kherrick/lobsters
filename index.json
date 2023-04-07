@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-07, 18:09:13",
+      "https://lobste.rs/s/bwbuwv/bash_privileged_mode_vulnerabilities"
+    ],
+    [
+      "Bash Privileged-Mode Vulnerabilities in Parallels Desktop and CDPATH Handling in MacOS",
+      "https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 18:07:43",
       "https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from"
     ],
@@ -67,16 +77,6 @@
     [
       "Fx release 24.1.0",
       "https://github.com/antonmedv/fx/releases/tag/24.1.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 14:22:59",
-      "https://lobste.rs/s/bxhqo1/nft_ptr_c_std_unique_ptr_represents_each"
-    ],
-    [
-      "nft_ptr: C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain",
-      "https://github.com/zhuowei/nft_ptr"
     ]
   ],
   [
