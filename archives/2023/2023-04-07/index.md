@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 06:03:06](https://lobste.rs/s/zkzzee/adventures_garbage_collection) - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://shopify.engineering/adventures-in-garbage-collection)
 * [2023-04-07, 05:58:35](https://lobste.rs/s/izpy25/open_assistant) - [Open Assistant](https://open-assistant.io)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
