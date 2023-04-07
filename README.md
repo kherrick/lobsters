@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it) - [HPC is dying, and MPI is killing it](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
+* [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 * [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 * [2023-04-06, 21:55:01](https://lobste.rs/s/ucls9g/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2023](https://www.haiku-os.org/blog/waddlesplash/2023-04-06_haiku_activity_contract_report_march_2023/)
 * [2023-04-06, 21:45:20](https://lobste.rs/s/uhaxkd/sponsored_iso_standards_for_pdf) - [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
