@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-07, 20:54:34",
+      "https://lobste.rs/s/sg9b4g/llvm_middle_end_optimization_pipeline"
+    ],
+    [
+      "LLVM: The middle-end optimization pipeline",
+      "https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 20:34:00",
       "https://lobste.rs/s/aux2vz/modern_cars_touch_interfaces_highway"
     ],
@@ -217,16 +227,6 @@
     [
       "HPC is dying, and MPI is killing it (2015)",
       "https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 22:48:42",
-      "https://lobste.rs/s/eknwku/professor_eliot_moss_on_design"
-    ],
-    [
-      "Professor Eliot Moss on the Design and Implementation of CLU",
-      "https://veera.app/clu.html"
     ]
   ],
   [
