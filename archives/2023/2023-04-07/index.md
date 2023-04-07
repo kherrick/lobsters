@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 14:22:59](https://lobste.rs/s/bxhqo1/nft_ptr_c_std_unique_ptr_represents_each) - [nft_ptr: C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain](https://github.com/zhuowei/nft_ptr)
 * [2023-04-07, 13:20:18](https://lobste.rs/s/hs6qnz/thoughts_on_async_closures) - [Thoughts on async closures](https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/)
 * [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
 * [2023-04-07, 12:51:03](https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro) - [Static OG (Open Graph) Images in Astro](http://arne.me/blog/static-og-images-in-astro/)
