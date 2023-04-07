@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 16:21:08](https://lobste.rs/s/cg4j5t/can_injection_keyless_car_theft) - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
+* [2023-04-07, 16:15:07](https://lobste.rs/s/adaohn/making_systems_programming_accessible) - [Making Systems Programming Accessible](https://www.youtube.com/watch?v=Qncdi-Fg0-I)
 * [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
 * [2023-04-07, 14:22:59](https://lobste.rs/s/bxhqo1/nft_ptr_c_std_unique_ptr_represents_each) - [nft_ptr: C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain](https://github.com/zhuowei/nft_ptr)
 * [2023-04-07, 13:20:18](https://lobste.rs/s/hs6qnz/thoughts_on_async_closures) - [Thoughts on async closures](https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/)
