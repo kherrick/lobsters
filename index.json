@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-07, 00:04:04",
-      "https://lobste.rs/s/bps2vh/possible_ai_impacts_on_development"
-    ],
-    [
-      "(Possible) AI Impacts on Development Practice",
-      "https://michaelfeathers.silvrback.com/possible-ai-impacts-on-development-practice"
-    ]
-  ],
-  [
-    [
       "2023-04-06, 23:22:32",
       "https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it"
     ],
@@ -147,6 +137,16 @@
     [
       "Introducing vmdiff: a tool to find everything that changes on your computer",
       "https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969"
+    ]
+  ],
+  [
+    [
+      "2023-04-06, 16:32:15",
+      "https://lobste.rs/s/pzohjt/should_i_use_gpt_autogenerate_schema"
+    ],
+    [
+      "Should I use GPT to autogenerate schema validations?",
+      "https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md"
     ]
   ],
   [
