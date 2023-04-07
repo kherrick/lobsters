@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-07, 04:34:51",
+      "https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust"
+    ],
+    [
+      "Writing a Fast C# Code-Search Tool in Rust",
+      "https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust"
+    ]
+  ],
+  [
+    [
       "2023-04-06, 23:22:32",
       "https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015"
     ],
@@ -137,16 +147,6 @@
     [
       "Introducing vmdiff: a tool to find everything that changes on your computer",
       "https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 16:32:15",
-      "https://lobste.rs/s/pzohjt/should_i_use_gpt_autogenerate_schema"
-    ],
-    [
-      "Should I use GPT to autogenerate schema validations?",
-      "https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md"
     ]
   ],
   [
