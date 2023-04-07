@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
 * [2023-04-07, 16:28:16](https://lobste.rs/s/j9sw4z/creating_mpris_server_go) - [Creating a MPRIS server in Go](https://ducng.github.io/posts/mpris/)
 * [2023-04-07, 16:21:08](https://lobste.rs/s/cg4j5t/can_injection_keyless_car_theft) - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-07, 16:15:07](https://lobste.rs/s/adaohn/making_systems_programming_accessible) - [Making Systems Programming Accessible](https://www.youtube.com/watch?v=Qncdi-Fg0-I)
