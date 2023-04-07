@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 06:03:06](https://lobste.rs/s/zkzzee/adventures_garbage_collection) - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://shopify.engineering/adventures-in-garbage-collection)
+* [2023-04-07, 05:58:35](https://lobste.rs/s/izpy25/open_assistant) - [Open Assistant](https://open-assistant.io)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
 * [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
@@ -21,10 +23,8 @@
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 * [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
-* [2023-04-06, 04:22:32](https://lobste.rs/s/gixc1a/mutexprotected_c_pattern_for_easier) - [MutexProtected: A C++ Pattern for Easier Concurrency](https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 * [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
-* [2023-04-05, 16:16:34](https://lobste.rs/s/duv4xv/using_tla_at_work_designing_snapshot) - [Using TLA⁺ at Work: Designing a Snapshot Coordination System](https://ahelwer.ca/post/2023-04-05-checkpoint-coordination/)
 
 ## [Archives](archives/index.md)
 
