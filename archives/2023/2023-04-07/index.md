@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 19:12:27](https://lobste.rs/s/2vtqgu/building_database_2020s) - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
 * [2023-04-07, 18:09:13](https://lobste.rs/s/bwbuwv/bash_privileged_mode_vulnerabilities) - [Bash Privileged-Mode Vulnerabilities in Parallels Desktop and CDPATH Handling in MacOS](https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos)
 * [2023-04-07, 18:07:43](https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from) - [meeting-concluder: Record audio from a meeting, then transcribe, conclude and send the conclusion and a piece of advice to Slack](https://github.com/schibsted/meeting-concluder)

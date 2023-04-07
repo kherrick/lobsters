@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 19:12:27](https://lobste.rs/s/2vtqgu/building_database_2020s) - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
 * [2023-04-07, 18:09:13](https://lobste.rs/s/bwbuwv/bash_privileged_mode_vulnerabilities) - [Bash Privileged-Mode Vulnerabilities in Parallels Desktop and CDPATH Handling in MacOS](https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos)
 * [2023-04-07, 18:07:43](https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from) - [meeting-concluder: Record audio from a meeting, then transcribe, conclude and send the conclusion and a piece of advice to Slack](https://github.com/schibsted/meeting-concluder)
@@ -10,7 +11,6 @@
 * [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
 * [2023-04-07, 13:20:18](https://lobste.rs/s/hs6qnz/thoughts_on_async_closures) - [Thoughts on async closures](https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/)
 * [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
-* [2023-04-07, 12:51:03](https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro) - [Static OG (Open Graph) Images in Astro](http://arne.me/blog/static-og-images-in-astro/)
 * [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 12:06:23](https://lobste.rs/s/5nsizl/sip_on_android_sipgate_linphone) - [SIP on Android – Sipgate and Linphone](https://shkspr.mobi/blog/2023/04/sip-on-android-sipgate-and-linphone/)
