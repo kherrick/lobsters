@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-07, 12:51:03",
+      "https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro"
+    ],
+    [
+      "Static OG (Open Graph) Images in Astro",
+      "http://arne.me/blog/static-og-images-in-astro/"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 12:38:25",
       "https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2023-04-07, 06:03:06",
+      "https://lobste.rs/s/zkzzee/adventures_garbage_collection"
+    ],
+    [
+      "Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith",
+      "https://shopify.engineering/adventures-in-garbage-collection"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 04:34:51",
       "https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust"
     ],
@@ -127,16 +147,6 @@
     [
       "Yo, I heard you like decorators",
       "https://www.bbayles.com/index/decorator_factory"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 19:36:08",
-      "https://lobste.rs/s/qecyb1/edenfs_overview"
-    ],
-    [
-      "EdenFS Overview",
-      "https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Levelling up Pull Requests",
       "https://www.brautaset.org/posts/levelling-up-pull-requests.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-06, 11:39:02",
-      "https://lobste.rs/s/axwjuz/little_things_programming_languages_1"
-    ],
-    [
-      "The little things in programming languages #1: Access control",
-      "https://chandlerc.blog/posts/little_things_1_access/"
     ]
   ],
   [
