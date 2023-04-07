@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 16:28:16](https://lobste.rs/s/j9sw4z/creating_mpris_server_go) - [Creating a MPRIS server in Go](https://ducng.github.io/posts/mpris/)
 * [2023-04-07, 16:21:08](https://lobste.rs/s/cg4j5t/can_injection_keyless_car_theft) - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-07, 16:15:07](https://lobste.rs/s/adaohn/making_systems_programming_accessible) - [Making Systems Programming Accessible](https://www.youtube.com/watch?v=Qncdi-Fg0-I)
 * [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
