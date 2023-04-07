@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 12:06:23](https://lobste.rs/s/5nsizl/sip_on_android_sipgate_linphone) - [SIP on Android – Sipgate and Linphone](https://shkspr.mobi/blog/2023/04/sip-on-android-sipgate-and-linphone/)
 * [2023-04-07, 11:21:46](https://lobste.rs/s/lbxjov/custom_allocators_rust) - [Custom allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
 * [2023-04-07, 09:48:26](https://lobste.rs/s/7nhnhw/context_free_art) - [Context Free Art](https://www.contextfreeart.org/)
 * [2023-04-07, 09:14:54](https://lobste.rs/s/m0nkyg/rustls_0_21_0_released_with_exciting_new) - [Rustls 0.21.0 Released With Exciting New Features](https://www.memorysafety.org/blog/rustls-new-features/)
