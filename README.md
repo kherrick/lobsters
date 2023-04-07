@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 * [2023-04-07, 19:22:12](https://lobste.rs/s/bhoj24/gephi_lite) - [Gephi Lite](https://gephi.org/gephi-lite/)
 * [2023-04-07, 19:12:27](https://lobste.rs/s/2vtqgu/building_database_2020s) - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
@@ -17,7 +18,6 @@
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 12:06:23](https://lobste.rs/s/5nsizl/sip_on_android_sipgate_linphone) - [SIP on Android – Sipgate and Linphone](https://shkspr.mobi/blog/2023/04/sip-on-android-sipgate-and-linphone/)
 * [2023-04-07, 11:21:46](https://lobste.rs/s/lbxjov/custom_allocators_rust) - [Custom allocators in Rust](https://nical.github.io/posts/rust-custom-allocators.html)
-* [2023-04-07, 09:48:26](https://lobste.rs/s/7nhnhw/context_free_art) - [Context Free Art](https://www.contextfreeart.org/)
 * [2023-04-07, 09:14:54](https://lobste.rs/s/m0nkyg/rustls_0_21_0_released_with_exciting_new) - [Rustls 0.21.0 Released With Exciting New Features](https://www.memorysafety.org/blog/rustls-new-features/)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
