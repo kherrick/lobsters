@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 09:14:54](https://lobste.rs/s/m0nkyg/rustls_0_21_0_released_with_exciting_new) - [Rustls 0.21.0 Released With Exciting New Features](https://www.memorysafety.org/blog/rustls-new-features/)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 06:03:06](https://lobste.rs/s/zkzzee/adventures_garbage_collection) - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://shopify.engineering/adventures-in-garbage-collection)
 * [2023-04-07, 05:58:35](https://lobste.rs/s/izpy25/open_assistant) - [Open Assistant](https://open-assistant.io)
@@ -24,7 +25,6 @@
 * [2023-04-06, 11:39:02](https://lobste.rs/s/axwjuz/little_things_programming_languages_1) - [The little things in programming languages #1: Access control](https://chandlerc.blog/posts/little_things_1_access/)
 * [2023-04-06, 05:06:39](https://lobste.rs/s/wnggdk/proposal_for_proquints_identifiers_are) - [A Proposal for Proquints: Identifiers that are Readable, Spellable, and Pronounceable](https://arxiv.org/html/0901.4016)
 * [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
-* [2023-04-05, 17:56:48](https://lobste.rs/s/28xpsd/github_s_employee_intellectual_property) - [GitHub's employee intellectual property agreement, open sourced and reusable](https://github.com/github/balanced-employee-ip-agreement)
 
 ## [Archives](archives/index.md)
 
