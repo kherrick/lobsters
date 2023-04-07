@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 13:20:18](https://lobste.rs/s/hs6qnz/thoughts_on_async_closures) - [Thoughts on async closures](https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/)
+* [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
 * [2023-04-07, 12:51:03](https://lobste.rs/s/erhgfn/static_og_open_graph_images_astro) - [Static OG (Open Graph) Images in Astro](http://arne.me/blog/static-og-images-in-astro/)
 * [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
@@ -20,11 +22,9 @@
 * [2023-04-06, 17:06:49](https://lobste.rs/s/hyovad/amazon_ec2_instance_comparison) - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 * [2023-04-06, 16:40:38](https://lobste.rs/s/iyjiet/introducing_vmdiff_tool_find_everything) - [Introducing vmdiff: a tool to find everything that changes on your computer](https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969)
-* [2023-04-06, 16:13:22](https://lobste.rs/s/ipizer/tracking_changes_between_pypi_package) - [tracking changes between pypi package releases](https://abbbi.github.io/pypidiff/)
 * [2023-04-06, 14:51:20](https://lobste.rs/s/fkwzxy/polars_for_initial_data_analysis_polars) - [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
 * [2023-04-06, 13:36:04](https://lobste.rs/s/aaeuhz/c_strings_my_slow_descent_madness) - [C Strings and my slow descent to madness](https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to)
 * [2023-04-06, 13:34:52](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests) - [Levelling up Pull Requests](https://www.brautaset.org/posts/levelling-up-pull-requests.html)
-* [2023-04-05, 20:35:26](https://lobste.rs/s/2beggz/different_uses_python_type_hints) - [The different uses of Python type hints](https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/)
 
 ## [Archives](archives/index.md)
 
