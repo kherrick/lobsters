@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-07, 19:53:06](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team) - [What code constructs express team process or code transition?](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team)
+* [2023-04-07, 19:53:06](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team) - [What code constructs express team processes or code transitions?](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team)
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 * [2023-04-07, 19:22:12](https://lobste.rs/s/bhoj24/gephi_lite) - [Gephi Lite](https://gephi.org/gephi-lite/)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
