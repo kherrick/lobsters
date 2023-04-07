@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-07, 14:22:59",
+      "https://lobste.rs/s/bxhqo1/nft_ptr_c_std_unique_ptr_represents_each"
+    ],
+    [
+      "nft_ptr: C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain",
+      "https://github.com/zhuowei/nft_ptr"
+    ]
+  ],
+  [
+    [
       "2023-04-07, 13:20:18",
       "https://lobste.rs/s/hs6qnz/thoughts_on_async_closures"
     ],
@@ -97,16 +107,6 @@
     [
       "Knit: making a better Make",
       "https://zyedidia.github.io/blog/posts/3-knit-better-make/"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 06:03:06",
-      "https://lobste.rs/s/zkzzee/adventures_garbage_collection"
-    ],
-    [
-      "Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith",
-      "https://shopify.engineering/adventures-in-garbage-collection"
     ]
   ],
   [
