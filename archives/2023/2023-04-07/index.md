@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 20:54:34](https://lobste.rs/s/sg9b4g/llvm_middle_end_optimization_pipeline) - [LLVM: The middle-end optimization pipeline](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)
 * [2023-04-07, 20:34:00](https://lobste.rs/s/aux2vz/modern_cars_touch_interfaces_highway) - [Modern cars, touch interfaces - Highway to Hell](https://www.dedoimedo.com/life/cars-touch.html)
 * [2023-04-07, 19:53:06](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team) - [What code constructs express team process or code transition?](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team)
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 20:54:34](https://lobste.rs/s/sg9b4g/llvm_middle_end_optimization_pipeline) - [LLVM: The middle-end optimization pipeline](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)
 * [2023-04-07, 20:34:00](https://lobste.rs/s/aux2vz/modern_cars_touch_interfaces_highway) - [Modern cars, touch interfaces - Highway to Hell](https://www.dedoimedo.com/life/cars-touch.html)
 * [2023-04-07, 19:53:06](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team) - [What code constructs express team processes or code transitions?](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team)
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
@@ -22,7 +23,6 @@
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
-* [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 
