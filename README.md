@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-07, 09:48:26](https://lobste.rs/s/7nhnhw/context_free_art) - [Context Free Art](https://www.contextfreeart.org/)
 * [2023-04-07, 09:14:54](https://lobste.rs/s/m0nkyg/rustls_0_21_0_released_with_exciting_new) - [Rustls 0.21.0 Released With Exciting New Features](https://www.memorysafety.org/blog/rustls-new-features/)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 06:03:06](https://lobste.rs/s/zkzzee/adventures_garbage_collection) - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://shopify.engineering/adventures-in-garbage-collection)
@@ -9,7 +10,6 @@
 * [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 * [2023-04-06, 21:55:01](https://lobste.rs/s/ucls9g/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2023](https://www.haiku-os.org/blog/waddlesplash/2023-04-06_haiku_activity_contract_report_march_2023/)
 * [2023-04-06, 21:45:20](https://lobste.rs/s/uhaxkd/sponsored_iso_standards_for_pdf) - [Sponsored ISO standards for PDF technology](https://www.pdfa.org/sponsored-standards/)
-* [2023-04-06, 21:01:57](https://lobste.rs/s/bxbwcp/system_design_cost_architectural) - [System design and the cost of architectural complexity (2013)](https://dspace.mit.edu/handle/1721.1/79551)
 * [2023-04-06, 19:55:04](https://lobste.rs/s/toubeb/yo_i_heard_you_like_decorators) - [Yo, I heard you like decorators](https://www.bbayles.com/index/decorator_factory)
 * [2023-04-06, 19:36:08](https://lobste.rs/s/qecyb1/edenfs_overview) - [EdenFS Overview](https://github.com/facebook/sapling/blob/main/eden/fs/docs/Overview.md)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
