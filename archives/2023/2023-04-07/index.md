@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-04-07](index.md)
 
+* [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-07, 00:04:04](https://lobste.rs/s/bps2vh/possible_ai_impacts_on_development) - [(Possible) AI Impacts on Development Practice](https://michaelfeathers.silvrback.com/possible-ai-impacts-on-development-practice)
