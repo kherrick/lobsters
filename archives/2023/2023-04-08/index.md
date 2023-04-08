@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 21:39:38](https://lobste.rs/s/pubs97/charts_showing_fastest_programs_by) - [Charts showing the fastest programs by language (Benchmarks Game)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
