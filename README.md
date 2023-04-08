@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 18:20:20](https://lobste.rs/s/l99vc3/testing_allocation_failures) - [Testing Allocation Failures](http://www.inspirel.com/articles/Testing_Allocation_Failures.html)
 * [2023-04-08, 17:46:13](https://lobste.rs/s/rwkgso/scoped_task_trilemma) - [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
@@ -22,7 +23,6 @@
 * [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
 * [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
 * [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
-* [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 
