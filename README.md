@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
 * [2023-04-08, 13:25:25](https://lobste.rs/s/bnuwyr/user_space_shadow_stacks_maybe_for_linux_6) - [User-space shadow stacks (maybe) for Linux 6.4](https://lwn.net/Articles/926649/)
 * [2023-04-08, 12:29:21](https://lobste.rs/s/0ufevh/solving_machine_learning_mystery) - [Solving a machine-learning mystery](https://news.mit.edu/2023/large-language-models-in-context-learning-0207)
 * [2023-04-08, 12:16:07](https://lobste.rs/s/tnieit/go_1_21_will_likely_have_static_toolchain) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
@@ -24,7 +25,6 @@
 * [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
-* [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 
 ## [Archives](archives/index.md)
 
