@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 08:00:26](https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust) - [bytebeat-rs: bytebeat written in rust](https://github.com/chaosprint/bytebeat-rs)
 * [2023-04-08, 06:26:17](https://lobste.rs/s/n95ptb/webassembly_tail_calls) - [WebAssembly tail calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-07, 22:46:05](https://lobste.rs/s/kljwfv/release_nvim_0_9_0) - [Release Nvim 0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0)
 * [2023-04-07, 21:36:32](https://lobste.rs/s/9hiplp/stay_mainline) - [Stay mainline](https://brandur.org/fragments/stay-mainline)
 * [2023-04-07, 20:34:00](https://lobste.rs/s/aux2vz/modern_cars_touch_interfaces_highway) - [Modern cars, touch interfaces - Highway to Hell](https://www.dedoimedo.com/life/cars-touch.html)
 * [2023-04-07, 19:53:06](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team) - [What code constructs express team processes or code transitions?](https://lobste.rs/s/hy8xw1/what_code_constructs_express_team)
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
-* [2023-04-07, 19:22:12](https://lobste.rs/s/bhoj24/gephi_lite) - [Gephi Lite](https://gephi.org/gephi-lite/)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
 * [2023-04-07, 18:07:43](https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from) - [meeting-concluder: Record audio from a meeting, then transcribe, conclude and send the conclusion and a piece of advice to Slack](https://github.com/schibsted/meeting-concluder)
