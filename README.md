@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 22:56:25](https://lobste.rs/s/f2yyuk/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 * [2023-04-08, 21:51:23](https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit) - [ECMAScript 6 Proper Tail Calls in WebKit](https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/)
 * [2023-04-08, 21:39:38](https://lobste.rs/s/pubs97/charts_showing_fastest_programs_by) - [Charts showing the fastest programs by language (Benchmarks Game)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
@@ -10,7 +11,6 @@
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
 * [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
-* [2023-04-08, 12:29:21](https://lobste.rs/s/0ufevh/solving_machine_learning_mystery) - [Solving a machine-learning mystery](https://news.mit.edu/2023/large-language-models-in-context-learning-0207)
 * [2023-04-08, 12:16:07](https://lobste.rs/s/tnieit/go_1_21_will_likely_have_static_toolchain) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 11:46:59](https://lobste.rs/s/9kpy8g/how_do_distributed_locking_2016) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2023-04-08, 09:51:34](https://lobste.rs/s/mflk1a/parchment_path) - [The Parchment Path?](https://queue.acm.org/detail.cfm?id=3587482)
