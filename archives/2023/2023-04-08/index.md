@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 12:29:21](https://lobste.rs/s/0ufevh/solving_machine_learning_mystery) - [Solving a machine-learning mystery](https://news.mit.edu/2023/large-language-models-in-context-learning-0207)
 * [2023-04-08, 12:16:07](https://lobste.rs/s/tnieit/go_1_21_will_likely_have_static_toolchain) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 11:46:59](https://lobste.rs/s/9kpy8g/how_do_distributed_locking_2016) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2023-04-08, 09:51:34](https://lobste.rs/s/mflk1a/parchment_path) - [The Parchment Path?](https://queue.acm.org/detail.cfm?id=3587482)
