@@ -6,7 +6,6 @@
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 * [2023-04-07, 19:22:12](https://lobste.rs/s/bhoj24/gephi_lite) - [Gephi Lite](https://gephi.org/gephi-lite/)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
-* [2023-04-07, 19:12:27](https://lobste.rs/s/2vtqgu/building_database_2020s) - [Building a database in the 2020s](https://me.0xffff.me/build-database-in-2020s.html)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
 * [2023-04-07, 18:07:43](https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from) - [meeting-concluder: Record audio from a meeting, then transcribe, conclude and send the conclusion and a piece of advice to Slack](https://github.com/schibsted/meeting-concluder)
 * [2023-04-07, 17:24:29](https://lobste.rs/s/auj41i/are_your_memory_bound_benchmarking) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
@@ -23,6 +22,7 @@
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
+* [2023-04-06, 22:48:42](https://lobste.rs/s/eknwku/professor_eliot_moss_on_design) - [Professor Eliot Moss on the Design and Implementation of CLU](https://veera.app/clu.html)
 * [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 
