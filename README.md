@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 13:25:25](https://lobste.rs/s/bnuwyr/user_space_shadow_stacks_maybe_for_linux_6) - [User-space shadow stacks (maybe) for Linux 6.4](https://lwn.net/Articles/926649/)
 * [2023-04-08, 12:29:21](https://lobste.rs/s/0ufevh/solving_machine_learning_mystery) - [Solving a machine-learning mystery](https://news.mit.edu/2023/large-language-models-in-context-learning-0207)
 * [2023-04-08, 12:16:07](https://lobste.rs/s/tnieit/go_1_21_will_likely_have_static_toolchain) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 11:46:59](https://lobste.rs/s/9kpy8g/how_do_distributed_locking_2016) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
@@ -14,7 +15,6 @@
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 18:13:24](https://lobste.rs/s/flktbx/writing_linter_rules_why_how_when) - [Writing linter rules: why, how and when](https://www.youtube.com/watch?v=zY1xDjGE7DU)
-* [2023-04-07, 18:07:43](https://lobste.rs/s/fzxmgc/meeting_concluder_record_audio_from) - [meeting-concluder: Record audio from a meeting, then transcribe, conclude and send the conclusion and a piece of advice to Slack](https://github.com/schibsted/meeting-concluder)
 * [2023-04-07, 17:24:29](https://lobste.rs/s/auj41i/are_your_memory_bound_benchmarking) - [Are your memory-bound benchmarking timings normally distributed?](https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/)
 * [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
 * [2023-04-07, 16:21:08](https://lobste.rs/s/cg4j5t/can_injection_keyless_car_theft) - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
