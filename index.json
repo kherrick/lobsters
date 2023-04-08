@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-08, 21:51:23",
+      "https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit"
+    ],
+    [
+      "ECMAScript 6 Proper Tail Calls in WebKit",
+      "https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 21:39:38",
       "https://lobste.rs/s/pubs97/charts_showing_fastest_programs_by"
     ],
@@ -167,16 +177,6 @@
     [
       "Release Nvim 0.9.0",
       "https://github.com/neovim/neovim/releases/tag/v0.9.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 21:36:32",
-      "https://lobste.rs/s/9hiplp/stay_mainline"
-    ],
-    [
-      "Stay mainline",
-      "https://brandur.org/fragments/stay-mainline"
     ]
   ],
   [
