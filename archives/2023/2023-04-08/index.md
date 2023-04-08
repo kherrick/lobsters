@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 22:56:25](https://lobste.rs/s/f2yyuk/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 * [2023-04-08, 21:51:23](https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit) - [ECMAScript 6 Proper Tail Calls in WebKit](https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/)
 * [2023-04-08, 21:39:38](https://lobste.rs/s/pubs97/charts_showing_fastest_programs_by) - [Charts showing the fastest programs by language (Benchmarks Game)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html)
