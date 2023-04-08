@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 08:00:26](https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust) - [bytebeat-rs: bytebeat written in rust](https://github.com/chaosprint/bytebeat-rs)
 * [2023-04-08, 06:26:17](https://lobste.rs/s/n95ptb/webassembly_tail_calls) - [WebAssembly tail calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-07, 22:46:05](https://lobste.rs/s/kljwfv/release_nvim_0_9_0) - [Release Nvim 0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0)
@@ -23,7 +24,6 @@
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 * [2023-04-07, 04:34:51](https://lobste.rs/s/qax9ju/writing_fast_c_code_search_tool_rust) - [Writing a Fast C# Code-Search Tool in Rust](https://johnaustin.io/articles/2022/blazing-fast-structural-search-for-c-sharp-in-rust)
 * [2023-04-06, 23:22:32](https://lobste.rs/s/z9yaxq/hpc_is_dying_mpi_is_killing_it_2015) - [HPC is dying, and MPI is killing it (2015)](https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it)
-* [2023-04-06, 18:49:23](https://lobste.rs/s/6sllng/inlining_svgs_for_dark_mode) - [Inlining SVGs for Dark Mode](https://ahelwer.ca/post/2023-04-06-dark-mode/)
 * [2023-04-06, 16:40:51](https://lobste.rs/s/b0fkuh/build_faster_with_buck2_our_open_source) - [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
 
 ## [Archives](archives/index.md)
