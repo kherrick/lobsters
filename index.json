@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-08, 13:39:54",
+      "https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions"
+    ],
+    [
+      "Watchgha: Watch the progress of GitHub Actions on the command line",
+      "https://nedbatchelder.com/blog/202303/watchgha.html"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 13:38:17",
       "https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for"
     ],
@@ -157,16 +167,6 @@
     [
       "Writing linter rules: why, how and when",
       "https://www.youtube.com/watch?v=zY1xDjGE7DU"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 17:24:29",
-      "https://lobste.rs/s/auj41i/are_your_memory_bound_benchmarking"
-    ],
-    [
-      "Are your memory-bound benchmarking timings normally distributed?",
-      "https://lemire.me/blog/2023/04/06/are-your-memory-bound-benchmarking-timings-normally-distributed/"
     ]
   ],
   [
