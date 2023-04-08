@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-08, 18:20:20](https://lobste.rs/s/l99vc3/testing_allocation_failures) - [Testing Allocation Failures](http://www.inspirel.com/articles/Testing_Allocation_Failures.html)
 * [2023-04-08, 17:46:13](https://lobste.rs/s/rwkgso/scoped_task_trilemma) - [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
@@ -19,7 +20,6 @@
 * [2023-04-07, 19:34:38](https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray) - [jank development update - Optimizing a ray tracer](https://jank-lang.org/blog/2023-04-07-ray-tracing/)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
-* [2023-04-07, 16:21:08](https://lobste.rs/s/cg4j5t/can_injection_keyless_car_theft) - [CAN Injection: keyless car theft](https://kentindell.github.io/2023/04/03/can-injection/)
 * [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
 * [2023-04-07, 13:09:36](https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game) - [knakk: free and open source godot 4 game](https://github.com/raffomania/knakk)
 * [2023-04-07, 12:38:25](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0lkzrk/what_are_you_doing_this_weekend)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-08](index.md)
 
+* [2023-04-08, 18:20:20](https://lobste.rs/s/l99vc3/testing_allocation_failures) - [Testing Allocation Failures](http://www.inspirel.com/articles/Testing_Allocation_Failures.html)
 * [2023-04-08, 17:46:13](https://lobste.rs/s/rwkgso/scoped_task_trilemma) - [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
