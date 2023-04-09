@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 13:36:57",
+      "https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case"
+    ],
+    [
+      "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+      "https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 07:26:12",
       "https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series"
     ],
@@ -237,16 +247,6 @@
     [
       "WebMutex",
       "https://webmutex.io"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 08:46:48",
-      "https://lobste.rs/s/eshcdk/knit_making_better_make"
-    ],
-    [
-      "Knit: making a better Make",
-      "https://zyedidia.github.io/blog/posts/3-knit-better-make/"
     ]
   ]
 ]
