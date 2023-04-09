@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 20:23:37",
+      "https://lobste.rs/s/gnp3za/golang_package_with_slog_handler"
+    ],
+    [
+      "Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events",
+      "https://github.com/galecore/xslog"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 19:39:45",
       "https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros"
     ],
@@ -137,16 +147,6 @@
     [
       "ECMAScript 6 Proper Tail Calls in WebKit (2016)",
       "https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 21:39:38",
-      "https://lobste.rs/s/pubs97/charts_showing_fastest_programs_by"
-    ],
-    [
-      "Charts showing the fastest programs by language (Benchmarks Game)",
-      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html"
     ]
   ],
   [
