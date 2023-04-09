@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 19:39:45",
+      "https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros"
+    ],
+    [
+      "swift-evolution/0382: Expression Macros",
+      "https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 19:28:51",
       "https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy"
     ],
@@ -167,16 +177,6 @@
     [
       "Reverse-engineering the division microcode in the Intel 8086 processor",
       "http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 17:46:13",
-      "https://lobste.rs/s/rwkgso/scoped_task_trilemma"
-    ],
-    [
-      "The Scoped Task trilemma",
-      "https://without.boats/blog/the-scoped-task-trilemma/"
     ]
   ],
   [
