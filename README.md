@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 20:32:47](https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix) - [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 * [2023-04-09, 20:23:37](https://lobste.rs/s/gnp3za/golang_package_with_slog_handler) - [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
 * [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
@@ -14,7 +15,6 @@
 * [2023-04-09, 03:48:07](https://lobste.rs/s/crtskl/irb_s_built_measure_2021) - [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 22:56:25](https://lobste.rs/s/f2yyuk/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
-* [2023-04-08, 21:51:23](https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit) - [ECMAScript 6 Proper Tail Calls in WebKit (2016)](https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)

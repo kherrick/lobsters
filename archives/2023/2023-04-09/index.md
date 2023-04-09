@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 20:32:47](https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix) - [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 * [2023-04-09, 20:23:37](https://lobste.rs/s/gnp3za/golang_package_with_slog_handler) - [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
 * [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
