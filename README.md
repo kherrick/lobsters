@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 16:08:03](https://lobste.rs/s/afozxt/can_you_trust_compiler_optimize_your_code) - [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-04-09, 13:57:27](https://lobste.rs/s/im8bk4/extrapolating_unnatural_language) - [Extrapolating to Unnatural Language Processing with GPT-3’s In-context Learning: The Good, the Bad, and the Mysterious](http://ai.stanford.edu/blog/in-context-learning/)
 * [2023-04-09, 13:36:57](https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case) - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
 * [2023-04-09, 07:26:12](https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series) - [Timers and PWM: Bare Metal Programming Series](https://www.youtube.com/watch?v=kHUGY05ImWU)
@@ -13,7 +14,6 @@
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
-* [2023-04-08, 18:20:20](https://lobste.rs/s/l99vc3/testing_allocation_failures) - [Testing Allocation Failures](http://www.inspirel.com/articles/Testing_Allocation_Failures.html)
 * [2023-04-08, 17:46:13](https://lobste.rs/s/rwkgso/scoped_task_trilemma) - [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
