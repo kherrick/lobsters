@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 20:44:06](https://lobste.rs/s/1ywvtm/openvms_9_2_for_x86_is_finally_available) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:32:47](https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix) - [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 * [2023-04-09, 20:23:37](https://lobste.rs/s/gnp3za/golang_package_with_slog_handler) - [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
 * [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
@@ -19,7 +20,6 @@
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
-* [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
 * [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
 * [2023-04-08, 12:16:07](https://lobste.rs/s/tnieit/go_1_21_will_likely_have_static_toolchain) - [Go 1.21 will (likely) have a static toolchain on Linux](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121LinuxStaticToolchain)
 * [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
