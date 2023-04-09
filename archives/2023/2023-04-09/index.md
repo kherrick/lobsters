@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 13:57:27](https://lobste.rs/s/im8bk4/extrapolating_unnatural_language) - [Extrapolating to Unnatural Language Processing with GPT-3’s In-context Learning: The Good, the Bad, and the Mysterious](http://ai.stanford.edu/blog/in-context-learning/)
 * [2023-04-09, 13:36:57](https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case) - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
 * [2023-04-09, 07:26:12](https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series) - [Timers and PWM: Bare Metal Programming Series](https://www.youtube.com/watch?v=kHUGY05ImWU)
 * [2023-04-09, 05:33:15](https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)

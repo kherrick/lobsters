@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 13:57:27](https://lobste.rs/s/im8bk4/extrapolating_unnatural_language) - [Extrapolating to Unnatural Language Processing with GPT-3’s In-context Learning: The Good, the Bad, and the Mysterious](http://ai.stanford.edu/blog/in-context-learning/)
 * [2023-04-09, 13:36:57](https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case) - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
 * [2023-04-09, 07:26:12](https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series) - [Timers and PWM: Bare Metal Programming Series](https://www.youtube.com/watch?v=kHUGY05ImWU)
 * [2023-04-09, 05:33:15](https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
@@ -22,7 +23,6 @@
 * [2023-04-08, 08:00:26](https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust) - [bytebeat-rs: bytebeat written in rust](https://github.com/chaosprint/bytebeat-rs)
 * [2023-04-08, 06:26:17](https://lobste.rs/s/n95ptb/webassembly_tail_calls) - [WebAssembly tail calls](https://v8.dev/blog/wasm-tail-call)
 * [2023-04-07, 22:46:05](https://lobste.rs/s/kljwfv/release_nvim_0_9_0) - [Release Nvim 0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0)
-* [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 
