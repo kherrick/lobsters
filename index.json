@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 20:32:47",
+      "https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix"
+    ],
+    [
+      "Namaka - Snapshot testing tool for Nix",
+      "https://github.com/nix-community/namaka"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 20:23:37",
       "https://lobste.rs/s/gnp3za/golang_package_with_slog_handler"
     ],
@@ -137,16 +147,6 @@
     [
       "Sparks of AGI: early experiments with GPT-4",
       "https://www.youtube.com/watch?v=qbIk7-JPB2c"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 21:51:23",
-      "https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit"
-    ],
-    [
-      "ECMAScript 6 Proper Tail Calls in WebKit (2016)",
-      "https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/"
     ]
   ],
   [
