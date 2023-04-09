@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 19:08:23](https://lobste.rs/s/9lolwt/debugging_guide_troubleshooting_2014) - [Debugging: A guide to troubleshooting (2014)](https://www.robotsforroboticists.com/debugging-guide/)
 * [2023-04-09, 18:36:51](https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric) - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
@@ -24,7 +25,6 @@
 * [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 * [2023-04-08, 08:00:26](https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust) - [bytebeat-rs: bytebeat written in rust](https://github.com/chaosprint/bytebeat-rs)
 * [2023-04-08, 06:26:17](https://lobste.rs/s/n95ptb/webassembly_tail_calls) - [WebAssembly tail calls](https://v8.dev/blog/wasm-tail-call)
-* [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 
 ## [Archives](archives/index.md)
 
