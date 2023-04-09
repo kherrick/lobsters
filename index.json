@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 20:44:06",
+      "https://lobste.rs/s/1ywvtm/openvms_9_2_for_x86_is_finally_available"
+    ],
+    [
+      "OpenVMS 9.2 for x86 is finally available for hobbyists",
+      "https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 20:32:47",
       "https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix"
     ],
@@ -187,16 +197,6 @@
     [
       "Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared",
       "https://youtu.be/pSvSXBorw4A"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 13:39:54",
-      "https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions"
-    ],
-    [
-      "Watchgha: Watch the progress of GitHub Actions on the command line",
-      "https://nedbatchelder.com/blog/202303/watchgha.html"
     ]
   ],
   [
