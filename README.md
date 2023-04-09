@@ -2,7 +2,6 @@
 
 * [2023-04-09, 03:48:07](https://lobste.rs/s/crtskl/irb_s_built_measure_2021) - [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-09, 00:46:38](https://lobste.rs/s/qcfdro/geiger_counter_emulator_ggreg20_v3) - [Geiger counter emulator of GGreg20_V3 module by means of ESP8266 - Part 2: Building the emulator](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2/)
-* [2023-04-09, 00:45:49](https://lobste.rs/s/vnzwl1/geiger_counter_emulator_ggreg20_v3) - [Geiger counter emulator of GGreg20_V3 module by means of ESP8266](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part1/)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 22:56:25](https://lobste.rs/s/f2yyuk/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 * [2023-04-08, 21:51:23](https://lobste.rs/s/kvlq94/ecmascript_6_proper_tail_calls_webkit) - [ECMAScript 6 Proper Tail Calls in WebKit](https://webkit.org/blog/6240/ecmascript-6-proper-tail-calls-in-webkit/)
@@ -23,6 +22,7 @@
 * [2023-04-07, 22:46:05](https://lobste.rs/s/kljwfv/release_nvim_0_9_0) - [Release Nvim 0.9.0](https://github.com/neovim/neovim/releases/tag/v0.9.0)
 * [2023-04-07, 19:19:38](https://lobste.rs/s/llswt8/database_sharding_came_from_uo) - [Database “sharding” came from UO?](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
 * [2023-04-07, 16:38:18](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023) - [Who's Hiring? Q2FY2023](https://lobste.rs/s/68wbn5/who_s_hiring_q2fy2023)
+* [2023-04-07, 14:54:52](https://lobste.rs/s/vdk44m/fx_release_24_1_0) - [Fx release 24.1.0](https://github.com/antonmedv/fx/releases/tag/24.1.0)
 * [2023-04-07, 12:32:07](https://lobste.rs/s/eyczwj/webmutex) - [WebMutex](https://webmutex.io)
 * [2023-04-07, 08:46:48](https://lobste.rs/s/eshcdk/knit_making_better_make) - [Knit: making a better Make](https://zyedidia.github.io/blog/posts/3-knit-better-make/)
 
