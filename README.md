@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 21:22:54](https://lobste.rs/s/bi8jru/getting_d) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 * [2023-04-09, 21:22:35](https://lobste.rs/s/qjjycc/who_invented_vector_clocks) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 21:02:27](https://lobste.rs/s/2eul9d/simd_ized_faster_parse_ipv4_addresses) - [SIMD-ized faster parse of IPv4 addresses](http://0x80.pl/notesen/2023-04-09-faster-parse-ipv4.html)
@@ -18,7 +19,6 @@
 * [2023-04-09, 05:33:15](https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 * [2023-04-09, 03:48:07](https://lobste.rs/s/crtskl/irb_s_built_measure_2021) - [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
-* [2023-04-08, 22:56:25](https://lobste.rs/s/f2yyuk/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://www.youtube.com/watch?v=qbIk7-JPB2c)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
