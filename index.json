@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 13:57:27",
+      "https://lobste.rs/s/im8bk4/extrapolating_unnatural_language"
+    ],
+    [
+      "Extrapolating to Unnatural Language Processing with GPT-3’s In-context Learning: The Good, the Bad, and the Mysterious",
+      "http://ai.stanford.edu/blog/in-context-learning/"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 13:36:57",
       "https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case"
     ],
@@ -217,16 +227,6 @@
     [
       "Release Nvim 0.9.0",
       "https://github.com/neovim/neovim/releases/tag/v0.9.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 19:19:38",
-      "https://lobste.rs/s/llswt8/database_sharding_came_from_uo"
-    ],
-    [
-      "Database “sharding” came from UO?",
-      "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/"
     ]
   ],
   [
