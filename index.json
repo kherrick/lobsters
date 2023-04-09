@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-09, 18:36:51",
+      "https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric"
+    ],
+    [
+      "Streaming lexical scope – Electric Clojure",
+      "https://electric-examples-app.fly.dev/"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 17:38:06",
       "https://lobste.rs/s/uoojtc/two_types_software_engineers"
     ],
@@ -67,16 +77,6 @@
     [
       "IRB’s Built-in Measure (2021)",
       "https://jemma.dev/blog/irb-measure"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 00:46:38",
-      "https://lobste.rs/s/qcfdro/geiger_counter_emulator_ggreg20_v3"
-    ],
-    [
-      "Geiger counter emulator of GGreg20_V3 module by means of ESP8266 - Part 2: Building the emulator",
-      "https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2/"
     ]
   ],
   [
