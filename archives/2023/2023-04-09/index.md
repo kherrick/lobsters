@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-09](index.md)
 
+* [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 19:08:23](https://lobste.rs/s/9lolwt/debugging_guide_troubleshooting_2014) - [Debugging: A guide to troubleshooting (2014)](https://www.robotsforroboticists.com/debugging-guide/)
 * [2023-04-09, 18:36:51](https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric) - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)

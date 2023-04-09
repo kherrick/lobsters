@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 19:08:23](https://lobste.rs/s/9lolwt/debugging_guide_troubleshooting_2014) - [Debugging: A guide to troubleshooting (2014)](https://www.robotsforroboticists.com/debugging-guide/)
 * [2023-04-09, 18:36:51](https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric) - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
@@ -17,7 +18,6 @@
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 19:10:14](https://lobste.rs/s/qqee9r/reverse_engineering_division_microcode) - [Reverse-engineering the division microcode in the Intel 8086 processor](http://www.righto.com/2023/04/reverse-engineering-8086-divide-microcode.html)
-* [2023-04-08, 17:46:13](https://lobste.rs/s/rwkgso/scoped_task_trilemma) - [The Scoped Task trilemma](https://without.boats/blog/the-scoped-task-trilemma/)
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:39:54](https://lobste.rs/s/qle6hr/watchgha_watch_progress_github_actions) - [Watchgha: Watch the progress of GitHub Actions on the command line](https://nedbatchelder.com/blog/202303/watchgha.html)
 * [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
