@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-09, 00:46:38",
+      "https://lobste.rs/s/qcfdro/geiger_counter_emulator_ggreg20_v3"
+    ],
+    [
+      "Geiger counter emulator of GGreg20_V3 module by means of ESP8266 - Part 2: Building the emulator",
+      "https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2/"
+    ]
+  ],
+  [
+    [
+      "2023-04-09, 00:45:49",
+      "https://lobste.rs/s/vnzwl1/geiger_counter_emulator_ggreg20_v3"
+    ],
+    [
+      "Geiger counter emulator of GGreg20_V3 module by means of ESP8266",
+      "https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part1/"
+    ]
+  ],
+  [
+    [
       "2023-04-08, 23:01:53",
       "https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-04-07, 19:34:38",
-      "https://lobste.rs/s/eofxrg/jank_development_update_optimizing_ray"
-    ],
-    [
-      "jank development update - Optimizing a ray tracer",
-      "https://jank-lang.org/blog/2023-04-07-ray-tracing/"
-    ]
-  ],
-  [
-    [
       "2023-04-07, 19:19:38",
       "https://lobste.rs/s/llswt8/database_sharding_came_from_uo"
     ],
@@ -217,16 +227,6 @@
     [
       "Fx release 24.1.0",
       "https://github.com/antonmedv/fx/releases/tag/24.1.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-07, 13:09:36",
-      "https://lobste.rs/s/yta10o/knakk_free_open_source_godot_4_game"
-    ],
-    [
-      "knakk: free and open source godot 4 game",
-      "https://github.com/raffomania/knakk"
     ]
   ],
   [
