@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 14:46:18](https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge) - [Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
 * [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
@@ -13,7 +14,6 @@
 * [2023-04-10, 08:05:32](https://lobste.rs/s/svql8b/websocket_library_for_go_gobwas_ws) - [WebSocket library for Go - gobwas/ws - Release v1.2.0](https://github.com/gobwas/ws/releases/tag/v1.2.0)
 * [2023-04-10, 06:42:57](https://lobste.rs/s/1yn7bv/understanding_coding_self_attention) - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 * [2023-04-10, 03:31:53](https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
-* [2023-04-10, 03:03:28](https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser) - [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
