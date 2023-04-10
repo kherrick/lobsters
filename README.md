@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 16:02:11](https://lobste.rs/s/5wopkx/write_integration_tests_with_dockertest) - [Write integration tests with dockertest in Golang](https://philidor.dev/blog/dockertest/)
 * [2023-04-10, 15:27:24](https://lobste.rs/s/3epqei/two_algorithms_for_randomly_generating) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 15:19:58](https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog) - [slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout](https://github.com/samber/slog-multi)
 * [2023-04-10, 14:46:18](https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge) - [Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
@@ -13,7 +14,6 @@
 * [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
 * [2023-04-10, 10:21:01](https://lobste.rs/s/0axely/how_run_chatgpt_alternative_on_your_local) - [How to Run a ChatGPT Alternative on Your Local PC](https://www.tomshardware.com/news/running-your-own-chatbot-on-a-single-gpu)
-* [2023-04-10, 08:05:32](https://lobste.rs/s/svql8b/websocket_library_for_go_gobwas_ws) - [WebSocket library for Go - gobwas/ws - Release v1.2.0](https://github.com/gobwas/ws/releases/tag/v1.2.0)
 * [2023-04-10, 03:31:53](https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)

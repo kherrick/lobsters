@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 16:02:11](https://lobste.rs/s/5wopkx/write_integration_tests_with_dockertest) - [Write integration tests with dockertest in Golang](https://philidor.dev/blog/dockertest/)
 * [2023-04-10, 15:27:24](https://lobste.rs/s/3epqei/two_algorithms_for_randomly_generating) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 15:19:58](https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog) - [slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout](https://github.com/samber/slog-multi)
 * [2023-04-10, 14:46:18](https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge) - [Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
