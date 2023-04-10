@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 08:05:32](https://lobste.rs/s/svql8b/websocket_library_for_go_gobwas_ws) - [WebSocket library for Go - gobwas/ws - Release v1.2.0](https://github.com/gobwas/ws/releases/tag/v1.2.0)
 * [2023-04-10, 07:11:02](https://lobste.rs/s/dzkvhp/hardware_lottery) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-04-10, 06:42:57](https://lobste.rs/s/1yn7bv/understanding_coding_self_attention) - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 * [2023-04-10, 03:31:53](https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
