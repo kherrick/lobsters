@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
 * [2023-04-10, 12:54:24](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week)

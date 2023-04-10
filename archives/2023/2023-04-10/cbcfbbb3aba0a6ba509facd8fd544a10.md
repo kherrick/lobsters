@@ -1,0 +1,3 @@
+# [Published on 2023-04-10](index.md)
+
+* [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)

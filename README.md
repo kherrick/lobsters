@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
 * [2023-04-10, 12:54:24](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week)
@@ -17,7 +18,6 @@
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 21:22:35](https://lobste.rs/s/qjjycc/who_invented_vector_clocks) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
-* [2023-04-09, 21:02:27](https://lobste.rs/s/2eul9d/simd_ized_faster_parse_ipv4_addresses) - [SIMD-ized faster parse of IPv4 addresses](http://0x80.pl/notesen/2023-04-09-faster-parse-ipv4.html)
 * [2023-04-09, 20:44:06](https://lobste.rs/s/1ywvtm/openvms_9_2_for_x86_is_finally_available) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:32:47](https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix) - [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 * [2023-04-09, 20:23:37](https://lobste.rs/s/gnp3za/golang_package_with_slog_handler) - [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
