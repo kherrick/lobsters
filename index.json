@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 21:19:48",
+      "https://lobste.rs/s/zemjdb/llvm_canonicalization_target"
+    ],
+    [
+      "LLVM: Canonicalization and target-independence",
+      "https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 20:20:29",
       "https://lobste.rs/s/erprin/mvp_most_valuable_programmer"
     ],
@@ -167,16 +177,6 @@
     [
       "How to Run a ChatGPT Alternative on Your Local PC",
       "https://www.tomshardware.com/news/running-your-own-chatbot-on-a-single-gpu"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 03:31:53",
-      "https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed"
-    ],
-    [
-      "Using RP2040 PIO to drive a poorly-designed display",
-      "http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines"
     ]
   ],
   [
