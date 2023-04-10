@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 10:48:54",
+      "https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2"
+    ],
+    [
+      "Modeling Git Internals in Alloy, Part 2: Commits and Tags",
+      "https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 10:21:41",
       "https://lobste.rs/s/tnbtyo/web_people"
     ],
@@ -227,16 +237,6 @@
     [
       "Can You Trust a Compiler to Optimize Your Code?",
       "https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 23:01:53",
-      "https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells"
-    ],
-    [
-      "shell-maker, a maker of Emacs shells",
-      "https://xenodium.com/a-shell-maker/"
     ]
   ],
   [
