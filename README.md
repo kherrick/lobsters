@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 21:19:48](https://lobste.rs/s/zemjdb/llvm_canonicalization_target) - [LLVM: Canonicalization and target-independence](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
 * [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
@@ -17,7 +18,6 @@
 * [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
 * [2023-04-10, 10:21:01](https://lobste.rs/s/0axely/how_run_chatgpt_alternative_on_your_local) - [How to Run a ChatGPT Alternative on Your Local PC](https://www.tomshardware.com/news/running-your-own-chatbot-on-a-single-gpu)
-* [2023-04-10, 03:31:53](https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)

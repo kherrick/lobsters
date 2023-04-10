@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 21:19:48](https://lobste.rs/s/zemjdb/llvm_canonicalization_target) - [LLVM: Canonicalization and target-independence](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
 * [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:41:18](https://lobste.rs/s/kcn8gh/can_pl_theory_make_you_better_software) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
