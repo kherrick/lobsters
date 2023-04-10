@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
+* [2023-04-10, 00:22:00](https://lobste.rs/s/v0sqas/cargo_cut_diagnostics_cargo_subcommand) - [cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics](https://github.com/SabrinaJewson/cargo-cut-diagnostics)
+* [2023-04-10, 00:07:18](https://lobste.rs/s/yvznge/escalating_via_post_it_note_just_get_some) - [Escalating via post-it note just to get some health checks](https://rachelbythebay.com/w/2023/04/09/note/)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 21:22:54](https://lobste.rs/s/bi8jru/getting_d) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
 * [2023-04-09, 21:22:35](https://lobste.rs/s/qjjycc/who_invented_vector_clocks) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
@@ -14,8 +17,6 @@
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 * [2023-04-09, 16:08:03](https://lobste.rs/s/afozxt/can_you_trust_compiler_optimize_your_code) - [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-04-09, 13:57:27](https://lobste.rs/s/im8bk4/extrapolating_unnatural_language) - [Extrapolating to Unnatural Language Processing with GPT-3’s In-context Learning: The Good, the Bad, and the Mysterious](http://ai.stanford.edu/blog/in-context-learning/)
-* [2023-04-09, 13:36:57](https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case) - [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
-* [2023-04-09, 07:26:12](https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series) - [Timers and PWM: Bare Metal Programming Series](https://www.youtube.com/watch?v=kHUGY05ImWU)
 * [2023-04-09, 05:33:15](https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 * [2023-04-09, 03:48:07](https://lobste.rs/s/crtskl/irb_s_built_measure_2021) - [IRB’s Built-in Measure (2021)](https://jemma.dev/blog/irb-measure)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
@@ -24,7 +25,6 @@
 * [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
 * [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
-* [2023-04-08, 08:00:26](https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust) - [bytebeat-rs: bytebeat written in rust](https://github.com/chaosprint/bytebeat-rs)
 
 ## [Archives](archives/index.md)
 
