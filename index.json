@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 13:37:25",
+      "https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan"
+    ],
+    [
+      "OpenGL is not dead, long live Vulkan",
+      "https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 12:54:24",
       "https://lobste.rs/s/woe9s5/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events",
       "https://github.com/galecore/xslog"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 19:39:45",
-      "https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros"
-    ],
-    [
-      "swift-evolution/0382: Expression Macros",
-      "https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md"
     ]
   ],
   [
