@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 15:19:58](https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog) - [slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout](https://github.com/samber/slog-multi)
 * [2023-04-10, 14:46:18](https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge) - [Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
 * [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
