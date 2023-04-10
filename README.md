@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 07:11:02](https://lobste.rs/s/dzkvhp/hardware_lottery) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-04-10, 06:42:57](https://lobste.rs/s/1yn7bv/understanding_coding_self_attention) - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 * [2023-04-10, 03:31:53](https://lobste.rs/s/c2tk4e/using_rp2040_pio_drive_poorly_designed) - [Using RP2040 PIO to drive a poorly-designed display](http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines)
 * [2023-04-10, 03:03:28](https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser) - [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
@@ -23,7 +24,6 @@
 * [2023-04-09, 05:33:15](https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail) - [Chased by One’s Own Tail](https://gbracha.blogspot.com/2009/12/chased-by-ones-own-tail.html)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
-* [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 
 ## [Archives](archives/index.md)
