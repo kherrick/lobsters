@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:21:27](https://lobste.rs/s/tjtxpt/feature_flags_authorization_are_same) - [Feature flags and authorization are the same idea](https://ntietz.com/blog/feature-flags-and-authorization/)
 * [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
