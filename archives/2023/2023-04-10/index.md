@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
 * [2023-04-10, 12:54:24](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week)
 * [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
 * [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)

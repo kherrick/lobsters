@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
 * [2023-04-10, 12:54:24](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week)
 * [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
 * [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
@@ -19,7 +20,6 @@
 * [2023-04-09, 20:44:06](https://lobste.rs/s/1ywvtm/openvms_9_2_for_x86_is_finally_available) - [OpenVMS 9.2 for x86 is finally available for hobbyists](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html)
 * [2023-04-09, 20:32:47](https://lobste.rs/s/taomh5/namaka_snapshot_testing_tool_for_nix) - [Namaka - Snapshot testing tool for Nix](https://github.com/nix-community/namaka)
 * [2023-04-09, 20:23:37](https://lobste.rs/s/gnp3za/golang_package_with_slog_handler) - [Golang package with slog.Handler implementations for uber/zap, Sentry and OpenTelemetry trace events](https://github.com/galecore/xslog)
-* [2023-04-09, 19:39:45](https://lobste.rs/s/feueff/swift_evolution_0382_expression_macros) - [swift-evolution/0382: Expression Macros](https://github.com/apple/swift-evolution/blob/main/proposals/0382-expression-macros.md)
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 18:36:51](https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric) - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
