@@ -5,7 +5,7 @@
 * [2023-04-10, 15:27:24](https://lobste.rs/s/3epqei/two_algorithms_for_randomly_generating) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 15:19:58](https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog) - [slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout](https://github.com/samber/slog-multi)
 * [2023-04-10, 14:46:18](https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge) - [Fly.io Distributed Systems Challenge](https://fly.io/dist-sys/)
-* [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization_dan) - [Authentication vs Authorization - Dan Schnau dot com](https://danschnau.com/blog/authentication-vs-authorization)
+* [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization) - [Authentication vs Authorization](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 13:37:25](https://lobste.rs/s/ypip1t/opengl_is_not_dead_long_live_vulkan) - [OpenGL is not dead, long live Vulkan](https://accidentalastro.com/2023/04/opengl-is-not-dead-long-live-vulkan/)
 * [2023-04-10, 12:54:24](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/woe9s5/what_are_you_doing_this_week)
