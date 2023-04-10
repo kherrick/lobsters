@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
 * [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:21:27](https://lobste.rs/s/tjtxpt/feature_flags_authorization_are_same) - [Feature flags and authorization are the same idea](https://ntietz.com/blog/feature-flags-and-authorization/)
 * [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
@@ -11,7 +12,6 @@
 * [2023-04-10, 03:03:28](https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser) - [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
-* [2023-04-10, 00:07:18](https://lobste.rs/s/yvznge/escalating_via_post_it_note_just_get_some) - [Escalating via post-it note just to get some health checks](https://rachelbythebay.com/w/2023/04/09/note/)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 21:22:35](https://lobste.rs/s/qjjycc/who_invented_vector_clocks) - [Who invented vector clocks?](https://decomposition.al/blog/2023/04/08/who-invented-vector-clocks/)
 * [2023-04-09, 21:02:27](https://lobste.rs/s/2eul9d/simd_ized_faster_parse_ipv4_addresses) - [SIMD-ized faster parse of IPv4 addresses](http://0x80.pl/notesen/2023-04-09-faster-parse-ipv4.html)
