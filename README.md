@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 03:03:28](https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser) - [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-10, 00:22:00](https://lobste.rs/s/v0sqas/cargo_cut_diagnostics_cargo_subcommand) - [cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics](https://github.com/SabrinaJewson/cargo-cut-diagnostics)
@@ -22,7 +23,6 @@
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
 * [2023-04-08, 20:13:36](https://lobste.rs/s/mslnrz/modular_errors_rust) - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
-* [2023-04-08, 14:43:32](https://lobste.rs/s/btmrvr/top_5_fastest_programming_languages_rust) - [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared](https://youtu.be/pSvSXBorw4A)
 * [2023-04-08, 13:38:17](https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for) - [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://peps.python.org/pep-0711/)
 * [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 
