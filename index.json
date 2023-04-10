@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 15:19:58",
+      "https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog"
+    ],
+    [
+      "slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout",
+      "https://github.com/samber/slog-multi"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 14:46:18",
       "https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge"
     ],
@@ -117,16 +127,6 @@
     [
       "WebSocket library for Go - gobwas/ws - Release v1.2.0",
       "https://github.com/gobwas/ws/releases/tag/v1.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 06:42:57",
-      "https://lobste.rs/s/1yn7bv/understanding_coding_self_attention"
-    ],
-    [
-      "Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch",
-      "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html"
     ]
   ],
   [
