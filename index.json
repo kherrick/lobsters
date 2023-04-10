@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-04-10, 00:26:30",
+      "https://lobste.rs/s/lx1key/we_need_talk_about_vercel"
+    ],
+    [
+      "We Need To Talk About Vercel",
+      "https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 00:22:00",
+      "https://lobste.rs/s/v0sqas/cargo_cut_diagnostics_cargo_subcommand"
+    ],
+    [
+      "cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics",
+      "https://github.com/SabrinaJewson/cargo-cut-diagnostics"
+    ]
+  ],
+  [
+    [
+      "2023-04-10, 00:07:18",
+      "https://lobste.rs/s/yvznge/escalating_via_post_it_note_just_get_some"
+    ],
+    [
+      "Escalating via post-it note just to get some health checks",
+      "https://rachelbythebay.com/w/2023/04/09/note/"
+    ]
+  ],
+  [
+    [
       "2023-04-09, 22:30:09",
       "https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-04-09, 13:36:57",
-      "https://lobste.rs/s/hweb4o/what_can_transformers_learn_context_case"
-    ],
-    [
-      "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
-      "https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 07:26:12",
-      "https://lobste.rs/s/ybeyyf/timers_pwm_bare_metal_programming_series"
-    ],
-    [
-      "Timers and PWM: Bare Metal Programming Series",
-      "https://www.youtube.com/watch?v=kHUGY05ImWU"
-    ]
-  ],
-  [
-    [
       "2023-04-09, 05:33:15",
       "https://lobste.rs/s/ef01ue/chased_by_one_s_own_tail"
     ],
@@ -237,16 +247,6 @@
     [
       "On Endings: Why & How We Retired Elm at Culture Amp",
       "https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 08:00:26",
-      "https://lobste.rs/s/jaeyzk/bytebeat_rs_bytebeat_written_rust"
-    ],
-    [
-      "bytebeat-rs: bytebeat written in rust",
-      "https://github.com/chaosprint/bytebeat-rs"
     ]
   ]
 ]
