@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
+* [2023-04-10, 10:21:01](https://lobste.rs/s/0axely/how_run_chatgpt_alternative_on_your_local) - [How to Run a ChatGPT Alternative on Your Local PC](https://www.tomshardware.com/news/running-your-own-chatbot-on-a-single-gpu)
 * [2023-04-10, 08:05:32](https://lobste.rs/s/svql8b/websocket_library_for_go_gobwas_ws) - [WebSocket library for Go - gobwas/ws - Release v1.2.0](https://github.com/gobwas/ws/releases/tag/v1.2.0)
 * [2023-04-10, 07:11:02](https://lobste.rs/s/dzkvhp/hardware_lottery) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2023-04-10, 06:42:57](https://lobste.rs/s/1yn7bv/understanding_coding_self_attention) - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
@@ -7,7 +9,6 @@
 * [2023-04-10, 03:03:28](https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser) - [AgentGPT: Autonomous AI in your browser](https://agentgpt.reworkd.ai/)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
-* [2023-04-10, 00:22:00](https://lobste.rs/s/v0sqas/cargo_cut_diagnostics_cargo_subcommand) - [cargo-cut-diagnostics: Cargo subcommand to display only the first page of diagnostics](https://github.com/SabrinaJewson/cargo-cut-diagnostics)
 * [2023-04-10, 00:07:18](https://lobste.rs/s/yvznge/escalating_via_post_it_note_just_get_some) - [Escalating via post-it note just to get some health checks](https://rachelbythebay.com/w/2023/04/09/note/)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 21:22:54](https://lobste.rs/s/bi8jru/getting_d) - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
@@ -24,7 +25,6 @@
 * [2023-04-09, 16:08:03](https://lobste.rs/s/afozxt/can_you_trust_compiler_optimize_your_code) - [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-04-08, 23:01:53](https://lobste.rs/s/ny9psv/shell_maker_maker_emacs_shells) - [shell-maker, a maker of Emacs shells](https://xenodium.com/a-shell-maker/)
 * [2023-04-08, 20:34:10](https://lobste.rs/s/2ttsfb/1_5gb_string) - [a 1.5GB string](https://blog.backslasher.net/1.5GB-string.html)
-* [2023-04-08, 09:09:57](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at) - [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
 
 ## [Archives](archives/index.md)
 
