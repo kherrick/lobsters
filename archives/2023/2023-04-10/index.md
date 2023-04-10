@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-10](index.md)
 
+* [2023-04-10, 23:28:19](https://lobste.rs/s/iogc1g/brief_history_liquid_computers) - [A brief history of liquid computers](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0372)
 * [2023-04-10, 22:57:52](https://lobste.rs/s/iqugws/identity_protocol_improvements_asp_net) - [Identity Protocol improvements in ASP.NET Core 8](https://danschnau.com/blog/asp-net-core-8-identity-1)
 * [2023-04-10, 21:19:48](https://lobste.rs/s/zemjdb/llvm_canonicalization_target) - [LLVM: Canonicalization and target-independence](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
