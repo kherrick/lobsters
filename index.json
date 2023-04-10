@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 03:31:53",
+      "https://lobste.rs/s/c2tk4e/using_rp2040_dma_pio_drive_poorly"
+    ],
+    [
+      "Using RP2040 DMA+PIO to drive a poorly-designed but cheap display",
+      "http://dmitry.gr/?r=06.%20Thoughts&proj=09.ComplexPioMachines"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 03:03:28",
       "https://lobste.rs/s/htv8jb/agentgpt_autonomous_ai_your_browser"
     ],
@@ -227,16 +237,6 @@
     [
       "Modular Errors in Rust",
       "https://sabrinajewson.org/blog/errors"
-    ]
-  ],
-  [
-    [
-      "2023-04-08, 13:38:17",
-      "https://lobste.rs/s/eybu4d/pep_711_pybi_standard_format_for"
-    ],
-    [
-      "PEP 711 – PyBI: a standard format for distributing Python Binaries",
-      "https://peps.python.org/pep-0711/"
     ]
   ],
   [
