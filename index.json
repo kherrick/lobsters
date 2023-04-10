@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 11:21:27",
+      "https://lobste.rs/s/tjtxpt/feature_flags_authorization_are_same"
+    ],
+    [
+      "Feature flags and authorization are the same idea",
+      "https://ntietz.com/blog/feature-flags-and-authorization/"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 10:48:54",
       "https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2"
     ],
@@ -37,16 +47,6 @@
     [
       "WebSocket library for Go - gobwas/ws - Release v1.2.0",
       "https://github.com/gobwas/ws/releases/tag/v1.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 07:11:02",
-      "https://lobste.rs/s/dzkvhp/hardware_lottery"
-    ],
-    [
-      "The Hardware Lottery",
-      "https://hardwarelottery.github.io/"
     ]
   ],
   [
