@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-10, 16:41:18](https://lobste.rs/s/kcn8gh/can_pl_theory_make_you_better_software) - [Can PL theory make you a better software engineer?](https://www.typetheoryforall.com//2023/04/09/29-Jimmy-Koppel.html)
 * [2023-04-10, 16:02:11](https://lobste.rs/s/5wopkx/write_integration_tests_with_dockertest) - [Write integration tests with dockertest in Golang](https://philidor.dev/blog/dockertest/)
 * [2023-04-10, 15:27:24](https://lobste.rs/s/3epqei/two_algorithms_for_randomly_generating) - [Two algorithms for randomly generating aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/)
 * [2023-04-10, 15:19:58](https://lobste.rs/s/ehdlir/slog_multi_design_workflows_x_exp_slog) - [slog-multi: Design workflows of x/exp/slog.Handler: pipeline and fanout](https://github.com/samber/slog-multi)
@@ -24,7 +25,6 @@
 * [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 18:36:51](https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric) - [Streaming lexical scope – Electric Clojure](https://electric-examples-app.fly.dev/)
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
-* [2023-04-09, 16:08:03](https://lobste.rs/s/afozxt/can_you_trust_compiler_optimize_your_code) - [Can You Trust a Compiler to Optimize Your Code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 
 ## [Archives](archives/index.md)
 
