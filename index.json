@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-10, 18:56:21",
+      "https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite"
+    ],
+    [
+      "Two Tips for Go’s pkgsite",
+      "https://telemachus.me/two-tips-for-pkgsite-go.dev"
+    ]
+  ],
+  [
+    [
       "2023-04-10, 16:06:45",
       "https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve"
     ],
@@ -227,16 +237,6 @@
     [
       "botany: command line virtual plant buddy",
       "https://github.com/jifunks/botany"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 18:36:51",
-      "https://lobste.rs/s/e8ovyd/streaming_lexical_scope_electric"
-    ],
-    [
-      "Streaming lexical scope – Electric Clojure",
-      "https://electric-examples-app.fly.dev/"
     ]
   ],
   [
