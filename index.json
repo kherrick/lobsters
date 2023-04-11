@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-11, 18:11:19",
+      "https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended"
+    ],
+    [
+      "The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem",
+      "https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 18:06:36",
+      "https://lobste.rs/s/otrrtd/cryptographic_near_miss"
+    ],
+    [
+      "A Cryptographic Near Miss",
+      "https://words.filippo.io/dispatches/near-miss/"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 17:27:30",
       "https://lobste.rs/s/njhvxb/handling_strings_wasm_without_burning"
     ],
@@ -177,26 +197,6 @@
     [
       "The funniest performance regression you've seen",
       "https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 16:02:11",
-      "https://lobste.rs/s/5wopkx/write_integration_tests_with_dockertest"
-    ],
-    [
-      "Write integration tests with dockertest in Golang",
-      "https://philidor.dev/blog/dockertest/"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 14:46:18",
-      "https://lobste.rs/s/5kuwpf/fly_io_distributed_systems_challenge"
-    ],
-    [
-      "Fly.io Distributed Systems Challenge",
-      "https://fly.io/dist-sys/"
     ]
   ],
   [
