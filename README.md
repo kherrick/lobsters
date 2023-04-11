@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 07:16:38](https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows) - [Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance](https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html)
 * [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
 * [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:04:07](https://lobste.rs/s/q0puc7/stop_trigger_time) - [STOP! Trigger Time](https://www.pgmustard.com/blog/trigger-time)
 * [2023-04-11, 05:49:47](https://lobste.rs/s/l9akth/logos_create_ridiculously_fast_lexers) - [logos: Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
 * [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
-* [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
 * [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
