@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
 * [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum) - [Jailbreaking a Dreametech Z10 Pro vacuum](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 19:28:13](https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus) - [Interaction Nets, Combinators, and Calculus](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
 * [2023-04-11, 19:21:07](https://lobste.rs/s/lgzqia/turbopilot) - [Turbopilot](https://github.com/ravenscroftj/turbopilot)
@@ -24,7 +25,6 @@
 * [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization) - [Authentication vs Authorization](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
-* [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 
 ## [Archives](archives/index.md)
 

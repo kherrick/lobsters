@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
 * [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/tailscale_sucks) - [Tailscale sucks](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum) - [Jailbreaking a Dreametech Z10 Pro vacuum](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 19:28:13](https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus) - [Interaction Nets, Combinators, and Calculus | @Zicklag's Blog](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
