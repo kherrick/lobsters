@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 06:04:07](https://lobste.rs/s/q0puc7/stop_trigger_time) - [STOP! Trigger Time](https://www.pgmustard.com/blog/trigger-time)
 * [2023-04-11, 05:49:47](https://lobste.rs/s/l9akth/logos_create_ridiculously_fast_lexers) - [logos: Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
 * [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
 * [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
 * [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
-* [2023-04-10, 23:28:19](https://lobste.rs/s/iogc1g/brief_history_liquid_computers) - [A brief history of liquid computers](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0372)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
 * [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 06:04:07](https://lobste.rs/s/q0puc7/stop_trigger_time) - [STOP! Trigger Time](https://www.pgmustard.com/blog/trigger-time)
 * [2023-04-11, 05:49:47](https://lobste.rs/s/l9akth/logos_create_ridiculously_fast_lexers) - [logos: Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
 * [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
 * [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
