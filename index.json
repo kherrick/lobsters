@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-11, 22:15:15",
+      "https://lobste.rs/s/tzryfn/rise_meson_2021"
+    ],
+    [
+      "The Rise of Meson (2021)",
+      "https://gms.tf/the-rise-of-meson.html"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 20:03:46",
       "https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum"
     ],
@@ -237,16 +247,6 @@
     [
       "Modular Errors with Rust's thiserror",
       "https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 00:26:30",
-      "https://lobste.rs/s/lx1key/we_need_talk_about_vercel"
-    ],
-    [
-      "We Need To Talk About Vercel",
-      "https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel"
     ]
   ]
 ]
