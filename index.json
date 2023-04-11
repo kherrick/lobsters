@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-04-11, 02:26:26",
-      "https://lobste.rs/s/goafvt/designing_programming_language"
+      "2023-04-11, 02:40:59",
+      "https://lobste.rs/s/f4hj6m/most_c_constructors_should_be_explicit"
     ],
     [
-      "Designing a Programming Language to Speedrun Advent of Code",
-      "https://blog.vero.site/post/noulith"
+      "Most C++ constructors should be explicit",
+      "https://quuxplusone.github.io/blog/2023/04/08/most-ctors-should-be-explicit/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 02:35:49",
+      "https://lobste.rs/s/jgjhjh/source_code_for_gosling_emacs"
+    ],
+    [
+      "Source code for Gosling Emacs",
+      "https://github.com/bobbae/gosling-emacs"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Silent Fanless Dell Wyse 3030 LT FreeBSD Server",
       "https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 19:28:51",
-      "https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy"
-    ],
-    [
-      "botany: command line virtual plant buddy",
-      "https://github.com/jifunks/botany"
     ]
   ],
   [
