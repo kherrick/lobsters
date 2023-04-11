@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 14:31:54](https://lobste.rs/s/agag7o/scissors_congruence) - [Scissors Congruence](http://dmsm.github.io/scissors-congruence/)
 * [2023-04-11, 12:15:05](https://lobste.rs/s/r7a59n/introducing_kotlin_wasm) - [Introducing Kotlin/Wasm](https://seb.deleuze.fr/introducing-kotlin-wasm/)
 * [2023-04-11, 12:14:05](https://lobste.rs/s/311bcq/extracting_essential_simplicity) - [Extracting the Essential Simplicity of the Internet](https://cacm.acm.org/magazines/2023/2/268956-extracting-the-essential-simplicity-of-the-internet/fulltext)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
@@ -23,7 +24,6 @@
 * [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:21:27](https://lobste.rs/s/tjtxpt/feature_flags_authorization_are_same) - [Feature flags and authorization are the same idea](https://ntietz.com/blog/feature-flags-and-authorization/)
 * [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
-* [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 14:31:54](https://lobste.rs/s/agag7o/scissors_congruence) - [Scissors Congruence](http://dmsm.github.io/scissors-congruence/)
 * [2023-04-11, 12:15:05](https://lobste.rs/s/r7a59n/introducing_kotlin_wasm) - [Introducing Kotlin/Wasm](https://seb.deleuze.fr/introducing-kotlin-wasm/)
 * [2023-04-11, 12:14:05](https://lobste.rs/s/311bcq/extracting_essential_simplicity) - [Extracting the Essential Simplicity of the Internet](https://cacm.acm.org/magazines/2023/2/268956-extracting-the-essential-simplicity-of-the-internet/fulltext)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
