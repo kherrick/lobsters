@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
+* [2023-04-11, 15:05:59](https://lobste.rs/s/znswbi/verify_google_play_app_purchase_on_your) - [Verify Google Play App Purchase on Your Server](https://blog.jmp.chat/b/play-purchase-verification-2023)
 * [2023-04-11, 14:31:54](https://lobste.rs/s/agag7o/scissors_congruence) - [Scissors Congruence](http://dmsm.github.io/scissors-congruence/)
 * [2023-04-11, 12:15:05](https://lobste.rs/s/r7a59n/introducing_kotlin_wasm) - [Introducing Kotlin/Wasm](https://seb.deleuze.fr/introducing-kotlin-wasm/)
 * [2023-04-11, 12:14:05](https://lobste.rs/s/311bcq/extracting_essential_simplicity) - [Extracting the Essential Simplicity of the Internet](https://cacm.acm.org/magazines/2023/2/268956-extracting-the-essential-simplicity-of-the-internet/fulltext)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
-* [2023-04-11, 10:41:39](https://lobste.rs/s/5sprlt/android_reproducible_builds_signing_key) - [Android Reproducible Builds & Signing Key Changes](https://lists.zx2c4.com/pipermail/wireguard/2023-April/008045.html)
 * [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
 * [2023-04-11, 07:16:38](https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows) - [Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance](https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html)
 * [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
@@ -23,7 +24,6 @@
 * [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
 * [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 11:21:27](https://lobste.rs/s/tjtxpt/feature_flags_authorization_are_same) - [Feature flags and authorization are the same idea](https://ntietz.com/blog/feature-flags-and-authorization/)
-* [2023-04-10, 10:48:54](https://lobste.rs/s/rsgxsv/modeling_git_internals_alloy_part_2) - [Modeling Git Internals in Alloy, Part 2: Commits and Tags](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 
 ## [Archives](archives/index.md)
