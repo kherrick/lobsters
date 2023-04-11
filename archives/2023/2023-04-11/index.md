@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
+* [2023-04-11, 10:41:39](https://lobste.rs/s/5sprlt/android_reproducible_builds_signing_key) - [Android Reproducible Builds & Signing Key Changes](https://lists.zx2c4.com/pipermail/wireguard/2023-April/008045.html)
 * [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
 * [2023-04-11, 07:16:38](https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows) - [Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance](https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html)
 * [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
