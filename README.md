@@ -6,6 +6,7 @@
 * [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
 * [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
+* [2023-04-10, 21:19:48](https://lobste.rs/s/zemjdb/llvm_canonicalization_target) - [LLVM: Canonicalization and target-independence](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 * [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
 * [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
@@ -23,7 +24,6 @@
 * [2023-04-10, 10:21:41](https://lobste.rs/s/tnbtyo/web_people) - [Web of the people](https://blog.erlend.sh/web-of-the-people)
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
-* [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 
 ## [Archives](archives/index.md)
