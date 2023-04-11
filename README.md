@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 19:28:13](https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus) - [Interaction Nets, Combinators, and Calculus | @Zicklag's Blog](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
 * [2023-04-11, 19:21:07](https://lobste.rs/s/lgzqia/turbopilot) - [Turbopilot](https://github.com/ravenscroftj/turbopilot)
 * [2023-04-11, 18:11:19](https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended) - [The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
@@ -23,7 +24,6 @@
 * [2023-04-10, 14:15:53](https://lobste.rs/s/8ls4lo/authentication_vs_authorization) - [Authentication vs Authorization](https://danschnau.com/blog/authentication-vs-authorization)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 * [2023-04-10, 11:42:09](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror) - [Modular Errors with Rust's thiserror](https://gist.github.com/quad/a8a7cc87d1401004c6a8973947f20365)
-* [2023-04-10, 11:29:34](https://lobste.rs/s/wl1qe1/what_i_ve_learned_about_formal_methods) - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 
 ## [Archives](archives/index.md)
