@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 12:15:05](https://lobste.rs/s/r7a59n/introducing_kotlin_wasm) - [Introducing Kotlin/Wasm](https://seb.deleuze.fr/introducing-kotlin-wasm/)
+* [2023-04-11, 12:14:05](https://lobste.rs/s/311bcq/extracting_essential_simplicity) - [Extracting the Essential Simplicity of the Internet](https://cacm.acm.org/magazines/2023/2/268956-extracting-the-essential-simplicity-of-the-internet/fulltext)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-11, 10:41:39](https://lobste.rs/s/5sprlt/android_reproducible_builds_signing_key) - [Android Reproducible Builds & Signing Key Changes](https://lists.zx2c4.com/pipermail/wireguard/2023-April/008045.html)
 * [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
