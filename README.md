@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
+* [2023-04-11, 02:40:59](https://lobste.rs/s/f4hj6m/most_c_constructors_should_be_explicit) - [Most C++ constructors should be explicit](https://quuxplusone.github.io/blog/2023/04/08/most-ctors-should-be-explicit/)
+* [2023-04-11, 02:35:49](https://lobste.rs/s/jgjhjh/source_code_for_gosling_emacs) - [Source code for Gosling Emacs](https://github.com/bobbae/gosling-emacs)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
 * [2023-04-10, 23:28:19](https://lobste.rs/s/iogc1g/brief_history_liquid_computers) - [A brief history of liquid computers](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0372)
 * [2023-04-10, 22:57:52](https://lobste.rs/s/iqugws/identity_protocol_improvements_asp_net) - [Identity Protocol improvements in ASP.NET Core 8](https://danschnau.com/blog/asp-net-core-8-identity-1)
@@ -23,7 +24,6 @@
 * [2023-04-10, 02:44:47](https://lobste.rs/s/exnnbo/hell_never_ends_on_x86_hyperspace_story) - [Hell Never Ends On x86: The Hyperspace Story, Continued, Sort Of](https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x)
 * [2023-04-10, 00:26:30](https://lobste.rs/s/lx1key/we_need_talk_about_vercel) - [We Need To Talk About Vercel](https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel)
 * [2023-04-09, 22:30:09](https://lobste.rs/s/akwbkh/silent_fanless_dell_wyse_3030_lt_freebsd) - [Silent Fanless Dell Wyse 3030 LT FreeBSD Server](https://vermaden.wordpress.com/2023/04/10/silent-fanless-dell-wyse-3030-lt-freebsd-server/)
-* [2023-04-09, 19:28:51](https://lobste.rs/s/i0htkm/botany_command_line_virtual_plant_buddy) - [botany: command line virtual plant buddy](https://github.com/jifunks/botany)
 * [2023-04-09, 17:38:06](https://lobste.rs/s/uoojtc/two_types_software_engineers) - [Two types of software engineers](https://registerspill.thorstenball.com/p/two-types-of-software-engineers)
 
 ## [Archives](archives/index.md)

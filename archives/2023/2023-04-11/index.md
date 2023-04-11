@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 02:40:59](https://lobste.rs/s/f4hj6m/most_c_constructors_should_be_explicit) - [Most C++ constructors should be explicit](https://quuxplusone.github.io/blog/2023/04/08/most-ctors-should-be-explicit/)
+* [2023-04-11, 02:35:49](https://lobste.rs/s/jgjhjh/source_code_for_gosling_emacs) - [Source code for Gosling Emacs](https://github.com/bobbae/gosling-emacs)
 * [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
