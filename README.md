@@ -8,7 +8,7 @@
 * [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
 * [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
-* [2023-04-10, 20:20:29](https://lobste.rs/s/erprin/mvp_most_valuable_programmer) - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer)
+* [2023-04-10, 21:19:48](https://lobste.rs/s/zemjdb/llvm_canonicalization_target) - [LLVM: Canonicalization and target-independence](https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html)
 * [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
 * [2023-04-10, 16:02:11](https://lobste.rs/s/5wopkx/write_integration_tests_with_dockertest) - [Write integration tests with dockertest in Golang](https://philidor.dev/blog/dockertest/)
