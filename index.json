@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-11, 14:31:54",
+      "https://lobste.rs/s/agag7o/scissors_congruence"
+    ],
+    [
+      "Scissors Congruence",
+      "http://dmsm.github.io/scissors-congruence/"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 12:15:05",
       "https://lobste.rs/s/r7a59n/introducing_kotlin_wasm"
     ],
@@ -227,16 +237,6 @@
     [
       "Modeling Git Internals in Alloy, Part 2: Commits and Tags",
       "https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 10:21:41",
-      "https://lobste.rs/s/tnbtyo/web_people"
-    ],
-    [
-      "Web of the people",
-      "https://blog.erlend.sh/web-of-the-people"
     ]
   ],
   [
