@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 19:21:07](https://lobste.rs/s/lgzqia/turbopilot) - [Turbopilot](https://github.com/ravenscroftj/turbopilot)
 * [2023-04-11, 18:11:19](https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended) - [The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 17:27:30](https://lobste.rs/s/njhvxb/handling_strings_wasm_without_burning) - [Handling strings in WASM without burning yourself](https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself)

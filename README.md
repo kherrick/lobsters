@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 19:21:07](https://lobste.rs/s/lgzqia/turbopilot) - [Turbopilot](https://github.com/ravenscroftj/turbopilot)
 * [2023-04-11, 18:11:19](https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended) - [The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 17:27:30](https://lobste.rs/s/njhvxb/handling_strings_wasm_without_burning) - [Handling strings in WASM without burning yourself](https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself)
 * [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
-* [2023-04-11, 15:56:17](https://lobste.rs/s/5dbfoz/generative_agents_interactive) - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 * [2023-04-11, 15:05:59](https://lobste.rs/s/znswbi/verify_google_play_app_purchase_on_your) - [Verify Google Play App Purchase on Your Server](https://blog.jmp.chat/b/play-purchase-verification-2023)
 * [2023-04-11, 14:31:54](https://lobste.rs/s/agag7o/scissors_congruence) - [Scissors Congruence](http://dmsm.github.io/scissors-congruence/)
