@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-04-11, 20:03:46",
+      "https://lobste.rs/s/lo3ise/tailscale_sucks"
+    ],
+    [
+      "Tailscale sucks",
+      "https://tailscale.dev/blog/tailscale-sucks"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 19:28:13",
       "https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus"
     ],
     [
-      "Interaction Nets, Combinators, and Calculus | @Zicklag's Blog",
+      "Interaction Nets, Combinators, and Calculus",
       "https://zicklag.github.io/blog/interaction-nets-combinators-calculus/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "How we're building a browser when it's supposed to be impossible",
       "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 05:04:55",
-      "https://lobste.rs/s/dgeqh8/sparkle"
-    ],
-    [
-      "Sparkle",
-      "https://troz.net/post/2023/sparkle/"
     ]
   ],
   [
