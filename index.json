@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-11, 07:09:15",
+      "https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement"
+    ],
+    [
+      "FreeBSD 13.2-RELEASE Announcement",
+      "https://www.freebsd.org/releases/13.2R/announce/"
+    ]
+  ],
+  [
+    [
+      "2023-04-11, 07:00:00",
+      "https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s"
+    ],
+    [
+      "How we're building a browser when it's supposed to be impossible",
+      "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
+    ]
+  ],
+  [
+    [
       "2023-04-11, 06:04:07",
       "https://lobste.rs/s/q0puc7/stop_trigger_time"
     ],
@@ -57,16 +77,6 @@
     [
       "Improved UNIX socket networking in QEMU 7.2",
       "https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 21:19:48",
-      "https://lobste.rs/s/zemjdb/llvm_canonicalization_target"
-    ],
-    [
-      "LLVM: Canonicalization and target-independence",
-      "https://www.npopov.com/2023/04/10/LLVM-Canonicalization-and-target-independence.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "We Need To Talk About Vercel",
       "https://www.maxcountryman.com/articles/we-need-to-talk-about-vercel"
-    ]
-  ],
-  [
-    [
-      "2023-04-09, 17:38:06",
-      "https://lobste.rs/s/uoojtc/two_types_software_engineers"
-    ],
-    [
-      "Two types of software engineers",
-      "https://registerspill.thorstenball.com/p/two-types-of-software-engineers"
     ]
   ]
 ]
