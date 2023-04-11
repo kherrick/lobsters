@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
 * [2023-04-11, 02:40:59](https://lobste.rs/s/f4hj6m/most_c_constructors_should_be_explicit) - [Most C++ constructors should be explicit](https://quuxplusone.github.io/blog/2023/04/08/most-ctors-should-be-explicit/)
-* [2023-04-11, 02:35:49](https://lobste.rs/s/jgjhjh/source_code_for_gosling_emacs) - [Source code for Gosling Emacs](https://github.com/bobbae/gosling-emacs)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
 * [2023-04-10, 23:28:19](https://lobste.rs/s/iogc1g/brief_history_liquid_computers) - [A brief history of liquid computers](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0372)
 * [2023-04-10, 22:57:52](https://lobste.rs/s/iqugws/identity_protocol_improvements_asp_net) - [Identity Protocol improvements in ASP.NET Core 8](https://danschnau.com/blog/asp-net-core-8-identity-1)
