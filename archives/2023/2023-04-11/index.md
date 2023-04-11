@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
+* [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 06:04:07](https://lobste.rs/s/q0puc7/stop_trigger_time) - [STOP! Trigger Time](https://www.pgmustard.com/blog/trigger-time)
 * [2023-04-11, 05:49:47](https://lobste.rs/s/l9akth/logos_create_ridiculously_fast_lexers) - [logos: Create ridiculously fast Lexers](https://github.com/maciejhirsz/logos)
 * [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
