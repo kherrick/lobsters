@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-11](index.md)
 
+* [2023-04-11, 05:04:55](https://lobste.rs/s/dgeqh8/sparkle) - [Sparkle](https://troz.net/post/2023/sparkle/)
 * [2023-04-11, 04:05:19](https://lobste.rs/s/g5iyvz/de_fuse_one_true_pwn) - [de_Fuse, the One True Pwn](https://douevenknow.us/post/714056575412764672/defuse-the-one-true-pwn)
 * [2023-04-11, 02:40:59](https://lobste.rs/s/f4hj6m/most_c_constructors_should_be_explicit) - [Most C++ constructors should be explicit](https://quuxplusone.github.io/blog/2023/04/08/most-ctors-should-be-explicit/)
 * [2023-04-11, 02:35:49](https://lobste.rs/s/jgjhjh/source_code_for_gosling_emacs) - [Source code for Gosling Emacs](https://github.com/bobbae/gosling-emacs)
