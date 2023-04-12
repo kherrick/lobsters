@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
+* [2023-04-12, 13:36:59](https://lobste.rs/s/qubfin/little_rest_relaxation_2008) - [A little REST and Relaxation (2008)](https://www.slideshare.net/royfielding/a-little-rest-and-relaxation)
 * [2023-04-12, 12:51:14](https://lobste.rs/s/bygtfw/awesome_decentralized_llm_collection) - [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can \"own\" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
 * [2023-04-12, 07:42:23](https://lobste.rs/s/jkfhai/announcing_masonry_0_1_my_vision_for_rust) - [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
 * [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
@@ -20,9 +22,7 @@
 * [2023-04-11, 07:16:38](https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows) - [Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance](https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html)
 * [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
 * [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
-* [2023-04-11, 02:26:26](https://lobste.rs/s/goafvt/designing_programming_language) - [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
-* [2023-04-10, 18:56:21](https://lobste.rs/s/thqcfg/two_tips_for_go_s_pkgsite) - [Two Tips for Go’s pkgsite](https://telemachus.me/two-tips-for-pkgsite-go.dev)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
 * [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 
