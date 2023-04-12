@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-12, 13:57:16",
+      "https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows"
+    ],
+    [
+      "Setting up Git Bash / MINGW / MSYS2 on Windows",
+      "https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 13:38:31",
       "https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with"
     ],
@@ -237,16 +247,6 @@
     [
       "The funniest performance regression you've seen",
       "https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 13:56:13",
-      "https://lobste.rs/s/ppnu8j/openbsd_7_3"
-    ],
-    [
-      "OpenBSD 7.3",
-      "https://www.openbsd.org/73.html"
     ]
   ]
 ]
