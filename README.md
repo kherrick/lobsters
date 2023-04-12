@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 14:36:24](https://lobste.rs/s/t48szh/audit_logging_ruby_rails) - [Audit Logging in Ruby and Rails](https://blog.appsignal.com/2023/04/12/audit-logging-in-ruby-and-rails.html)
 * [2023-04-12, 14:14:08](https://lobste.rs/s/yfda7v/free_dolly_introducing_world_s_first) - [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
@@ -9,7 +10,6 @@
 * [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
 * [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum) - [Jailbreaking a Dreametech Z10 Pro vacuum](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 19:28:13](https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus) - [Interaction Nets, Combinators, and Calculus](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
-* [2023-04-11, 19:21:07](https://lobste.rs/s/lgzqia/turbopilot) - [Turbopilot](https://github.com/ravenscroftj/turbopilot)
 * [2023-04-11, 18:11:19](https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended) - [The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 17:27:30](https://lobste.rs/s/njhvxb/handling_strings_wasm_without_burning) - [Handling strings in WASM without burning yourself](https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself)
