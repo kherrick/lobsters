@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 17:58:33](https://lobste.rs/s/6immx1/decade_deep_learning) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 * [2023-04-12, 16:57:17](https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private) - [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 * [2023-04-12, 16:48:50](https://lobste.rs/s/pawm2n/why_nushell) - [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
@@ -20,7 +21,6 @@
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
-* [2023-04-11, 15:05:59](https://lobste.rs/s/znswbi/verify_google_play_app_purchase_on_your) - [Verify Google Play App Purchase on Your Server](https://blog.jmp.chat/b/play-purchase-verification-2023)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
 * [2023-04-11, 07:09:15](https://lobste.rs/s/ingr5v/freebsd_13_2_release_announcement) - [FreeBSD 13.2-RELEASE Announcement](https://www.freebsd.org/releases/13.2R/announce/)
