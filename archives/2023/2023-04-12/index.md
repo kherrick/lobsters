@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 18:44:06](https://lobste.rs/s/8q2lkd/transformer_deep_dive_parameter) - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
 * [2023-04-12, 17:58:33](https://lobste.rs/s/6immx1/decade_deep_learning) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 * [2023-04-12, 16:57:17](https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private) - [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
