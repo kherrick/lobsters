@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-12, 15:27:56",
+      "https://lobste.rs/s/k60p5e/case_for_function_level_metrics"
+    ],
+    [
+      "The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease",
+      "https://fiberplane.com/blog/the-case-for-function-level-metrics"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 15:14:09",
       "https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper"
     ],
@@ -127,16 +137,6 @@
     [
       "A Cryptographic Near Miss",
       "https://words.filippo.io/dispatches/near-miss/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 17:27:30",
-      "https://lobste.rs/s/njhvxb/handling_strings_wasm_without_burning"
-    ],
-    [
-      "Handling strings in WASM without burning yourself",
-      "https://github.com/naver/lispe/wiki/6.18-Handling-strings-in-WASM-without-burning-yourself"
     ]
   ],
   [
