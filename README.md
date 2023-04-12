@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 18:50:45](https://lobste.rs/s/ftoffn/differentiable_finite_state_machines) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
+* [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 * [2023-04-12, 18:44:06](https://lobste.rs/s/8q2lkd/transformer_deep_dive_parameter) - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
 * [2023-04-12, 17:58:33](https://lobste.rs/s/6immx1/decade_deep_learning) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
@@ -18,12 +20,10 @@
 * [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
 * [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum) - [Jailbreaking a Dreametech Z10 Pro vacuum](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 19:28:13](https://lobste.rs/s/t6oqhk/interaction_nets_combinators_calculus) - [Interaction Nets, Combinators, and Calculus](https://zicklag.github.io/blog/interaction-nets-combinators-calculus/)
-* [2023-04-11, 18:11:19](https://lobste.rs/s/vcvxok/eu_s_proposed_cra_law_may_have_unintended) - [The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 * [2023-04-11, 18:06:36](https://lobste.rs/s/otrrtd/cryptographic_near_miss) - [A Cryptographic Near Miss](https://words.filippo.io/dispatches/near-miss/)
 * [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
-* [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
 * [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 
 ## [Archives](archives/index.md)

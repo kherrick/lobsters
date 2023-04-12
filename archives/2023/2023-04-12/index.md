@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 18:50:45](https://lobste.rs/s/ftoffn/differentiable_finite_state_machines) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
+* [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 * [2023-04-12, 18:44:06](https://lobste.rs/s/8q2lkd/transformer_deep_dive_parameter) - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
 * [2023-04-12, 17:58:33](https://lobste.rs/s/6immx1/decade_deep_learning) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
