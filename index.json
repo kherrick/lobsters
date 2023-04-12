@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-12, 16:57:17",
+      "https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private"
+    ],
+    [
+      "Baking Images with Nix for Robust Private Networks at Bowtie",
+      "https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 16:48:50",
       "https://lobste.rs/s/pawm2n/why_nushell"
     ],
@@ -97,16 +107,6 @@
     [
       "A little REST and Relaxation (2008)",
       "https://www.slideshare.net/royfielding/a-little-rest-and-relaxation"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 12:51:14",
-      "https://lobste.rs/s/bygtfw/awesome_decentralized_llm_collection"
-    ],
-    [
-      "awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can \"own\" or to perform reproducible research",
-      "https://github.com/imaurer/awesome-decentralized-llm"
     ]
   ],
   [
