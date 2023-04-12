@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-12, 17:14:55",
+      "https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for"
+    ],
+    [
+      "Debugging an x86 application in Rosetta for Linux",
+      "https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 16:57:17",
       "https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private"
     ],
@@ -217,16 +227,6 @@
     [
       "Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023",
       "https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 07:16:38",
-      "https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows"
-    ],
-    [
-      "Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance",
-      "https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html"
     ]
   ],
   [
