@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 16:48:50](https://lobste.rs/s/pawm2n/why_nushell) - [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
 * [2023-04-12, 16:40:04](https://lobste.rs/s/roqdap/build_ecommerce_chatbot_with_redis) - [Build an Ecommerce Chatbot with Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:27:56](https://lobste.rs/s/k60p5e/case_for_function_level_metrics) - [The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease](https://fiberplane.com/blog/the-case-for-function-level-metrics)
@@ -19,7 +20,6 @@
 * [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 * [2023-04-11, 15:05:59](https://lobste.rs/s/znswbi/verify_google_play_app_purchase_on_your) - [Verify Google Play App Purchase on Your Server](https://blog.jmp.chat/b/play-purchase-verification-2023)
-* [2023-04-11, 12:15:05](https://lobste.rs/s/r7a59n/introducing_kotlin_wasm) - [Introducing Kotlin/Wasm](https://seb.deleuze.fr/introducing-kotlin-wasm/)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
 * [2023-04-11, 09:57:57](https://lobste.rs/s/pqkzw0/call_for_comment_rust_trademark_overview) - [Call for Comment: Rust Trademark Overview, FAQ and Policy April 2023](https://docs.google.com/document/d/1ErZlwz9bbSI43dNo-rgQdkovm2h5ycuW220mWSOAuok/mobilebasic)
 * [2023-04-11, 07:16:38](https://lobste.rs/s/3kg29z/microsoft_fixes_5_year_old_windows) - [Microsoft fixes 5-year-old Windows Defender bug that was killing Firefox performance](https://www.techspot.com/news/98255-five-year-old-windows-defender-bug-killing-firefox.html)
