@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 16:40:04](https://lobste.rs/s/roqdap/build_ecommerce_chatbot_with_redis) - [Build an Ecommerce Chatbot with Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
+* [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:27:56](https://lobste.rs/s/k60p5e/case_for_function_level_metrics) - [The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease](https://fiberplane.com/blog/the-case-for-function-level-metrics)
 * [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
 * [2023-04-12, 14:36:24](https://lobste.rs/s/t48szh/audit_logging_ruby_rails) - [Audit Logging in Ruby and Rails](https://blog.appsignal.com/2023/04/12/audit-logging-in-ruby-and-rails.html)
