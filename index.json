@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-12, 16:40:04",
+      "https://lobste.rs/s/roqdap/build_ecommerce_chatbot_with_redis"
+    ],
+    [
+      "Build an Ecommerce Chatbot with Redis, LangChain, and OpenAI",
+      "https://redis.com/blog/build-ecommerce-chatbot-with-redis/"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 16:38:00",
+      "https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github"
+    ],
+    [
+      "My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time",
+      "https://github.com/GyulyVGC/sniffnet/discussions/133"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 15:27:56",
       "https://lobste.rs/s/k60p5e/case_for_function_level_metrics"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-04-11, 14:31:54",
-      "https://lobste.rs/s/agag7o/scissors_congruence"
-    ],
-    [
-      "Scissors Congruence",
-      "http://dmsm.github.io/scissors-congruence/"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 12:15:05",
       "https://lobste.rs/s/r7a59n/introducing_kotlin_wasm"
     ],
@@ -237,16 +247,6 @@
     [
       "How we're building a browser when it's supposed to be impossible",
       "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
-    ]
-  ],
-  [
-    [
-      "2023-04-10, 16:06:45",
-      "https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve"
-    ],
-    [
-      "The funniest performance regression you've seen",
-      "https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve"
     ]
   ]
 ]
