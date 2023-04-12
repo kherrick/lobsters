@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
 * [2023-04-12, 14:36:24](https://lobste.rs/s/t48szh/audit_logging_ruby_rails) - [Audit Logging in Ruby and Rails](https://blog.appsignal.com/2023/04/12/audit-logging-in-ruby-and-rails.html)
 * [2023-04-12, 14:14:08](https://lobste.rs/s/yfda7v/free_dolly_introducing_world_s_first) - [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
