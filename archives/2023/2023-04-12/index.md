@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 * [2023-04-12, 16:57:17](https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private) - [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 * [2023-04-12, 16:48:50](https://lobste.rs/s/pawm2n/why_nushell) - [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
 * [2023-04-12, 16:40:04](https://lobste.rs/s/roqdap/build_ecommerce_chatbot_with_redis) - [Build an Ecommerce Chatbot with Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
