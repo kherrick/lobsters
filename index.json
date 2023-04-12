@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-12, 14:14:08",
+      "https://lobste.rs/s/yfda7v/free_dolly_introducing_world_s_first"
+    ],
+    [
+      "Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM",
+      "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 13:57:16",
       "https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows"
     ],
@@ -227,16 +237,6 @@
     [
       "How we're building a browser when it's supposed to be impossible",
       "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 02:18:41",
-      "https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2"
-    ],
-    [
-      "Improved UNIX socket networking in QEMU 7.2",
-      "https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2"
     ]
   ],
   [
