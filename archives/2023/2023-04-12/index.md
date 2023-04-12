@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-12](index.md)
 
+* [2023-04-12, 21:35:10](https://lobste.rs/s/zu2hvx/passkeys_what_heck_why) - [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
 * [2023-04-12, 20:13:28](https://lobste.rs/s/6l8rbu/fullscreen_apps_above_macbook_notch) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
 * [2023-04-12, 18:50:45](https://lobste.rs/s/ftoffn/differentiable_finite_state_machines) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
