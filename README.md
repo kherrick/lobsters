@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-12, 13:36:59](https://lobste.rs/s/qubfin/little_rest_relaxation_2008) - [A little REST and Relaxation (2008)](https://www.slideshare.net/royfielding/a-little-rest-and-relaxation)
 * [2023-04-12, 12:51:14](https://lobste.rs/s/bygtfw/awesome_decentralized_llm_collection) - [awesome-decentralized-llm: Collection of LLM resources that can be used to build products you can \"own\" or to perform reproducible research](https://github.com/imaurer/awesome-decentralized-llm)
@@ -24,7 +25,6 @@
 * [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 * [2023-04-11, 02:18:41](https://lobste.rs/s/gonhpm/improved_unix_socket_networking_qemu_7_2) - [Improved UNIX socket networking in QEMU 7.2](https://john-millikin.com/improved-unix-socket-networking-in-qemu-7.2)
 * [2023-04-10, 16:06:45](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve) - [The funniest performance regression you've seen](https://lobste.rs/s/p7fo6i/funniest_performance_regression_you_ve)
-* [2023-04-10, 13:56:13](https://lobste.rs/s/ppnu8j/openbsd_7_3) - [OpenBSD 7.3](https://www.openbsd.org/73.html)
 
 ## [Archives](archives/index.md)
 
