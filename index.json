@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-04-13, 01:15:41",
+      "https://lobste.rs/s/cvs5nh/high_level_synthesis_made_easy"
+    ],
+    [
+      "High-Level Synthesis Made Easy",
+      "https://www.hlsbook.com/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 00:52:30",
       "https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc"
     ],
@@ -217,16 +227,6 @@
     [
       "Fleek: A human-friendly Nix wrapper",
       "https://getfleek.dev"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 13:57:16",
-      "https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows"
-    ],
-    [
-      "Setting up Git Bash / MINGW / MSYS2 on Windows",
-      "https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/"
     ]
   ],
   [
