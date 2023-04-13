@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 09:53:31](https://lobste.rs/s/ubi7ei/simple_icons_thousands_free_svg_icons_for) - [Simple Icons - Thousands of free SVG icons for popular brands](https://simpleicons.org)
 * [2023-04-13, 09:46:55](https://lobste.rs/s/exh8qj/using_gcp_mysql_cloud_sql_instances) - [Using GCP MySQL Cloud SQL instances (create/connect/delete)](https://www.pascallandau.com/blog/gcp-mysql-cloud-sql-instances-create-connect-delete/)
 * [2023-04-13, 08:19:56](https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical) - [Announcing the deps.dev API: critical dependency data for secure supply chains](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html)
 * [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
