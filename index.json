@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-13, 03:27:12",
+      "https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go"
+    ],
+    [
+      "Preview WASI support merged into Go compiler",
+      "https://github.com/golang/go/issues/58141"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 03:22:00",
+      "https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database"
+    ],
+    [
+      "Do you actually need a vector database?",
+      "https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 02:22:44",
       "https://lobste.rs/s/gnt3fr/reasonable_bootstrap"
     ],
@@ -87,16 +107,6 @@
     [
       "A distributed time-traveling debugger for Spritely Goblins",
       "https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 18:44:06",
-      "https://lobste.rs/s/8q2lkd/transformer_deep_dive_parameter"
-    ],
-    [
-      "Transformer Deep Dive: Parameter Counting",
-      "https://orenleung.com/transformer-parameter-counting"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I really like powershell",
       "https://buttondown.email/hillelwayne/archive/i-really-like-powershell/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 10:42:07",
-      "https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s"
-    ],
-    [
-      "Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth",
-      "https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html"
     ]
   ],
   [
