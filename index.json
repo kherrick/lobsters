@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 09:46:55",
+      "https://lobste.rs/s/exh8qj/using_gcp_mysql_cloud_sql_instances"
+    ],
+    [
+      "Using GCP MySQL Cloud SQL instances (create/connect/delete)",
+      "https://www.pascallandau.com/blog/gcp-mysql-cloud-sql-instances-create-connect-delete/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 08:19:56",
       "https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical"
     ],
@@ -157,16 +167,6 @@
     [
       "Debugging an x86 application in Rosetta for Linux",
       "https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 16:57:17",
-      "https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private"
-    ],
-    [
-      "Baking Images with Nix for Robust Private Networks at Bowtie",
-      "https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie"
     ]
   ],
   [
