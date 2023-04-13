@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 18:16:15](https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-13, 15:14:53](https://lobste.rs/s/hxo8oj/rethinking_modern_web) - [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
