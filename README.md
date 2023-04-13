@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 18:16:15](https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-13, 15:14:53](https://lobste.rs/s/hxo8oj/rethinking_modern_web) - [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 * [2023-04-13, 14:51:33](https://lobste.rs/s/qxvin8/autometrics_developer_first) - [Autometrics: a developer-first observability framework that writes queries for you](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
@@ -13,7 +14,6 @@
 * [2023-04-13, 05:39:43](https://lobste.rs/s/hkxbza/introducing_io_uring_support_libuv) - [introducing io_uring support in libuv](https://github.com/libuv/libuv/pull/3952)
 * [2023-04-13, 04:53:29](https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment) - [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
 * [2023-04-13, 03:27:12](https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go) - [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
-* [2023-04-13, 03:22:00](https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database) - [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-13, 00:14:28](https://lobste.rs/s/qhji1k/elf_hash_function_may_overflow) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
