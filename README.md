@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
+* [2023-04-13, 05:39:43](https://lobste.rs/s/hkxbza/introducing_io_uring_support_libuv) - [introducing io_uring support in libuv](https://github.com/libuv/libuv/pull/3952)
 * [2023-04-13, 04:53:29](https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment) - [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
 * [2023-04-13, 03:27:12](https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go) - [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
 * [2023-04-13, 03:22:00](https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database) - [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
@@ -22,9 +24,7 @@
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-12, 07:42:23](https://lobste.rs/s/jkfhai/announcing_masonry_0_1_my_vision_for_rust) - [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
-* [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
-* [2023-04-11, 07:00:00](https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s) - [How we're building a browser when it's supposed to be impossible](https://awesomekling.substack.com/p/how-were-building-a-browser-when)
 
 ## [Archives](archives/index.md)
 
