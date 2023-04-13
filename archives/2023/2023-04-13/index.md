@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 19:36:55](https://lobste.rs/s/wt1qh4/place_filtering_array) - [In-place filtering of an array](https://30fps.net/pages/inplace-filtering)
 * [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
