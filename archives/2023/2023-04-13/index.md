@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 * [2023-04-13, 13:40:00](https://lobste.rs/s/8crtpe/not_transposing_16x16_bitmatrix) - [(Not) transposing a 16x16 bitmatrix](https://bitmath.blogspot.com/2023/04/not-transposing-16x16-bitmatrix.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 11:00:14](https://lobste.rs/s/sryqh7/2021_how_achieve_software_quality_agile) - [(2021) How to achieve software quality in Agile?](https://alediaferia.com/2021/12/27/what-does-software-quality-mean-in-agile/)

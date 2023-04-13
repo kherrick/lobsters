@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 * [2023-04-13, 13:40:00](https://lobste.rs/s/8crtpe/not_transposing_16x16_bitmatrix) - [(Not) transposing a 16x16 bitmatrix](https://bitmath.blogspot.com/2023/04/not-transposing-16x16-bitmatrix.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 11:00:14](https://lobste.rs/s/sryqh7/2021_how_achieve_software_quality_agile) - [(2021) How to achieve software quality in Agile?](https://alediaferia.com/2021/12/27/what-does-software-quality-mean-in-agile/)
@@ -12,7 +13,6 @@
 * [2023-04-13, 03:27:12](https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go) - [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
 * [2023-04-13, 03:22:00](https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database) - [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
-* [2023-04-13, 01:15:41](https://lobste.rs/s/cvs5nh/high_level_synthesis_made_easy) - [High-Level Synthesis Made Easy](https://www.hlsbook.com/)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-13, 00:14:28](https://lobste.rs/s/qhji1k/elf_hash_function_may_overflow) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
 * [2023-04-12, 21:35:10](https://lobste.rs/s/zu2hvx/passkeys_what_heck_why) - [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
