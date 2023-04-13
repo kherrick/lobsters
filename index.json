@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-13, 05:43:11",
+      "https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really"
+    ],
+    [
+      "libuv, but multi-threaded, but not really",
+      "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-13, 05:39:43",
+      "https://lobste.rs/s/hkxbza/introducing_io_uring_support_libuv"
+    ],
+    [
+      "introducing io_uring support in libuv",
+      "https://github.com/libuv/libuv/pull/3952"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 04:53:29",
       "https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-04-11, 16:53:03",
-      "https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits"
-    ],
-    [
-      "Quickly formatting a stack of commits",
-      "https://blog.waleedkhan.name/formatting-a-commit-stack/"
-    ]
-  ],
-  [
-    [
       "2023-04-11, 15:08:13",
       "https://lobste.rs/s/enivff/i_really_like_powershell"
     ],
     [
       "I really like powershell",
       "https://buttondown.email/hillelwayne/archive/i-really-like-powershell/"
-    ]
-  ],
-  [
-    [
-      "2023-04-11, 07:00:00",
-      "https://lobste.rs/s/o7czjc/how_we_re_building_browser_when_it_s"
-    ],
-    [
-      "How we're building a browser when it's supposed to be impossible",
-      "https://awesomekling.substack.com/p/how-were-building-a-browser-when"
     ]
   ]
 ]
