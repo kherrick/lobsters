@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 09:46:55](https://lobste.rs/s/exh8qj/using_gcp_mysql_cloud_sql_instances) - [Using GCP MySQL Cloud SQL instances (create/connect/delete)](https://www.pascallandau.com/blog/gcp-mysql-cloud-sql-instances-create-connect-delete/)
 * [2023-04-13, 08:19:56](https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical) - [Announcing the deps.dev API: critical dependency data for secure supply chains](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html)
 * [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
@@ -16,7 +17,6 @@
 * [2023-04-12, 18:50:45](https://lobste.rs/s/ftoffn/differentiable_finite_state_machines) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
-* [2023-04-12, 16:57:17](https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private) - [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 * [2023-04-12, 16:48:50](https://lobste.rs/s/pawm2n/why_nushell) - [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
