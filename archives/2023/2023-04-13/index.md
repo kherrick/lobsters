@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 15:14:53](https://lobste.rs/s/hxo8oj/rethinking_modern_web) - [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 * [2023-04-13, 14:51:33](https://lobste.rs/s/qxvin8/autometrics_open_source_developer_first) - [Autometrics: an open source, developer-first observability framework that writes queries for you](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
 * [2023-04-13, 14:51:33](https://lobste.rs/s/qxvin8/autometrics_developer_first) - [Autometrics: a developer-first observability framework that writes queries for you](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
 * [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
