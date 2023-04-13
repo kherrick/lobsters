@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 18:16:15",
+      "https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp"
+    ],
+    [
+      "Deploying key transparency at WhatsApp",
+      "https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 15:26:57",
       "https://lobste.rs/s/cykija/zig_build_system"
     ],
@@ -127,16 +137,6 @@
     [
       "Preview WASI support merged into Go compiler",
       "https://github.com/golang/go/issues/58141"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 03:22:00",
-      "https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database"
-    ],
-    [
-      "Do you actually need a vector database?",
-      "https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/"
     ]
   ],
   [
