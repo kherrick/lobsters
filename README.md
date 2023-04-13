@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 01:15:41](https://lobste.rs/s/cvs5nh/high_level_synthesis_made_easy) - [High-Level Synthesis Made Easy](https://www.hlsbook.com/)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-13, 00:14:28](https://lobste.rs/s/qhji1k/elf_hash_function_may_overflow) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
 * [2023-04-12, 21:35:10](https://lobste.rs/s/zu2hvx/passkeys_what_heck_why) - [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
@@ -7,7 +8,6 @@
 * [2023-04-12, 18:50:45](https://lobste.rs/s/ftoffn/differentiable_finite_state_machines) - [Differentiable Finite State Machines](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)
 * [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 * [2023-04-12, 18:44:06](https://lobste.rs/s/8q2lkd/transformer_deep_dive_parameter) - [Transformer Deep Dive: Parameter Counting](https://orenleung.com/transformer-parameter-counting)
-* [2023-04-12, 17:58:33](https://lobste.rs/s/6immx1/decade_deep_learning) - [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 * [2023-04-12, 16:57:17](https://lobste.rs/s/iqabgd/baking_images_with_nix_for_robust_private) - [Baking Images with Nix for Robust Private Networks at Bowtie](https://www.bowtie.works/blog/baking-images-with-nix-for-robust-private-networks-at-bowtie)
 * [2023-04-12, 16:48:50](https://lobste.rs/s/pawm2n/why_nushell) - [Why Nushell?](https://www.reillywood.com/blog/why-nu/)
