@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-13](index.md)
 
+* [2023-04-13, 06:00:58](https://lobste.rs/s/nqnvaq/early_days_linux) - [The early days of Linux](https://lwn.net/Articles/928581/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 * [2023-04-13, 05:39:43](https://lobste.rs/s/hkxbza/introducing_io_uring_support_libuv) - [introducing io_uring support in libuv](https://github.com/libuv/libuv/pull/3952)
 * [2023-04-13, 04:53:29](https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment) - [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
