@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-04-13, 06:00:58",
-      "https://lobste.rs/s/nqnvaq/early_days_linux"
-    ],
-    [
-      "The early days of Linux",
-      "https://lwn.net/Articles/928581/"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 05:43:11",
       "https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really"
     ],
@@ -187,6 +177,16 @@
     [
       "My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time",
       "https://github.com/GyulyVGC/sniffnet/discussions/133"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:27:56",
+      "https://lobste.rs/s/k60p5e/case_for_function_level_metrics"
+    ],
+    [
+      "The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease",
+      "https://fiberplane.com/blog/the-case-for-function-level-metrics"
     ]
   ],
   [
