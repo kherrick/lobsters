@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 04:53:29](https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment) - [KDE Plasma is NOT a Desktop Environment](https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/)
 * [2023-04-13, 03:27:12](https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go) - [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
 * [2023-04-13, 03:22:00](https://lobste.rs/s/ctnuto/do_you_actually_need_vector_database) - [Do you actually need a vector database?](https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/)
 * [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
@@ -17,7 +18,6 @@
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:27:56](https://lobste.rs/s/k60p5e/case_for_function_level_metrics) - [The Case for Function-Level Metrics: An observability sweet spot balancing debuggability, cost, ease](https://fiberplane.com/blog/the-case-for-function-level-metrics)
 * [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
-* [2023-04-12, 14:36:24](https://lobste.rs/s/t48szh/audit_logging_ruby_rails) - [Audit Logging in Ruby and Rails](https://blog.appsignal.com/2023/04/12/audit-logging-in-ruby-and-rails.html)
 * [2023-04-12, 14:14:08](https://lobste.rs/s/yfda7v/free_dolly_introducing_world_s_first) - [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
