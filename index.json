@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-04-13, 09:46:55",
-      "https://lobste.rs/s/exh8qj/using_gcp_mysql_cloud_sql_instances"
-    ],
-    [
-      "Using GCP MySQL Cloud SQL instances (create/connect/delete)",
-      "https://www.pascallandau.com/blog/gcp-mysql-cloud-sql-instances-create-connect-delete/"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 08:19:56",
       "https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical"
     ],
@@ -217,6 +207,16 @@
     [
       "Fleek: A human-friendly Nix wrapper",
       "https://getfleek.dev"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 13:57:16",
+      "https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows"
+    ],
+    [
+      "Setting up Git Bash / MINGW / MSYS2 on Windows",
+      "https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/"
     ]
   ],
   [
