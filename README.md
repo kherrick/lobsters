@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 19:36:55](https://lobste.rs/s/wt1qh4/place_filtering_array) - [In-place filtering of an array](https://30fps.net/pages/inplace-filtering)
 * [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 18:16:15](https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
@@ -20,7 +21,6 @@
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-13, 00:14:28](https://lobste.rs/s/qhji1k/elf_hash_function_may_overflow) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
 * [2023-04-12, 20:13:28](https://lobste.rs/s/6l8rbu/fullscreen_apps_above_macbook_notch) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
-* [2023-04-12, 18:48:57](https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for) - [A distributed time-traveling debugger for Spritely Goblins](https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html)
 * [2023-04-12, 17:14:55](https://lobste.rs/s/uhtntt/debugging_x86_application_rosetta_for) - [Debugging an x86 application in Rosetta for Linux](https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
