@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-13, 20:33:44",
+      "https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale"
+    ],
+    [
+      "Surpassing 10Gb/s over Tailscale",
+      "https://tailscale.com/blog/more-throughput/"
+    ]
+  ],
+  [
+    [
       "2023-04-13, 19:36:55",
       "https://lobste.rs/s/wt1qh4/place_filtering_array"
     ],
@@ -197,16 +207,6 @@
     [
       "Fullscreen apps above the MacBook notch",
       "https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 18:48:57",
-      "https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for"
-    ],
-    [
-      "A distributed time-traveling debugger for Spritely Goblins",
-      "https://spritely.institute/news/introducing-a-distributed-debugger-for-goblins-with-time-travel.html"
     ]
   ],
   [
