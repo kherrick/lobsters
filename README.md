@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 * [2023-04-13, 13:40:00](https://lobste.rs/s/8crtpe/not_transposing_16x16_bitmatrix) - [(Not) transposing a 16x16 bitmatrix](https://bitmath.blogspot.com/2023/04/not-transposing-16x16-bitmatrix.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 11:00:14](https://lobste.rs/s/sryqh7/2021_how_achieve_software_quality_agile) - [(2021) How to achieve software quality in Agile?](https://alediaferia.com/2021/12/27/what-does-software-quality-mean-in-agile/)
 * [2023-04-13, 09:53:31](https://lobste.rs/s/ubi7ei/simple_icons_thousands_free_svg_icons_for) - [Simple Icons - Thousands of free SVG icons for popular brands](https://simpleicons.org)
-* [2023-04-13, 08:19:56](https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical) - [Announcing the deps.dev API: critical dependency data for secure supply chains](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html)
 * [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 * [2023-04-13, 05:39:43](https://lobste.rs/s/hkxbza/introducing_io_uring_support_libuv) - [introducing io_uring support in libuv](https://github.com/libuv/libuv/pull/3952)
