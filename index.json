@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-13, 01:15:41",
-      "https://lobste.rs/s/cvs5nh/high_level_synthesis_made_easy"
-    ],
-    [
-      "High-Level Synthesis Made Easy",
-      "https://www.hlsbook.com/"
-    ]
-  ],
-  [
-    [
       "2023-04-13, 00:52:30",
       "https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc"
     ],
@@ -207,6 +197,16 @@
     [
       "Fleek: A human-friendly Nix wrapper",
       "https://getfleek.dev"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 14:14:08",
+      "https://lobste.rs/s/yfda7v/free_dolly_introducing_world_s_first"
+    ],
+    [
+      "Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM",
+      "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm"
     ]
   ],
   [
