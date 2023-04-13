@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-04-12, 18:50:45",
+      "https://lobste.rs/s/ftoffn/differentiable_finite_state_machines"
+    ],
+    [
+      "Differentiable Finite State Machines",
+      "https://google-research.github.io/self-organising-systems/2022/diff-fsm/"
+    ]
+  ],
+  [
+    [
       "2023-04-12, 18:48:57",
       "https://lobste.rs/s/jyn2vy/distributed_time_traveling_debugger_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Why We Ditched RabbitMQ And Replaced It With A Postgres Queue",
       "https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 07:42:23",
-      "https://lobste.rs/s/jkfhai/announcing_masonry_0_1_my_vision_for_rust"
-    ],
-    [
-      "Announcing Masonry 0.1, and my vision for Rust UI",
-      "https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/"
     ]
   ]
 ]
