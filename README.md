@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
+* [2023-04-13, 02:20:00](https://lobste.rs/s/xtimhn/sega_3_d_glasses_how_did_they_work) - [Sega 3-D Glasses: How did they work?](https://nicole.express/2023/the-third-dimension-and-the-eight-bits.html)
 * [2023-04-13, 01:15:41](https://lobste.rs/s/cvs5nh/high_level_synthesis_made_easy) - [High-Level Synthesis Made Easy](https://www.hlsbook.com/)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-13, 00:14:28](https://lobste.rs/s/qhji1k/elf_hash_function_may_overflow) - [ELF hash function may overflow](https://maskray.me/blog/2023-04-12-elf-hash-function)
@@ -19,8 +21,6 @@
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-12, 07:42:23](https://lobste.rs/s/jkfhai/announcing_masonry_0_1_my_vision_for_rust) - [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
-* [2023-04-11, 22:15:15](https://lobste.rs/s/tzryfn/rise_meson_2021) - [The Rise of Meson (2021)](https://gms.tf/the-rise-of-meson.html)
-* [2023-04-11, 20:03:46](https://lobste.rs/s/lo3ise/jailbreaking_dreametech_z10_pro_vacuum) - [Jailbreaking a Dreametech Z10 Pro vacuum](https://tailscale.dev/blog/tailscale-sucks)
 * [2023-04-11, 16:53:03](https://lobste.rs/s/rpdt88/quickly_formatting_stack_commits) - [Quickly formatting a stack of commits](https://blog.waleedkhan.name/formatting-a-commit-stack/)
 * [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 * [2023-04-11, 10:42:07](https://lobste.rs/s/uyma6v/displaying_my_washing_machine_s) - [Displaying My Washing Machine's Remaining Time With curl, jq, and pizauth](https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html)
