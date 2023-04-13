@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-13, 13:40:00](https://lobste.rs/s/8crtpe/not_transposing_16x16_bitmatrix) - [(Not) transposing a 16x16 bitmatrix](https://bitmath.blogspot.com/2023/04/not-transposing-16x16-bitmatrix.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 11:00:14](https://lobste.rs/s/sryqh7/2021_how_achieve_software_quality_agile) - [(2021) How to achieve software quality in Agile?](https://alediaferia.com/2021/12/27/what-does-software-quality-mean-in-agile/)
 * [2023-04-13, 09:53:31](https://lobste.rs/s/ubi7ei/simple_icons_thousands_free_svg_icons_for) - [Simple Icons - Thousands of free SVG icons for popular brands](https://simpleicons.org)
@@ -24,7 +25,6 @@
 * [2023-04-12, 13:57:16](https://lobste.rs/s/de57mj/setting_up_git_bash_mingw_msys2_on_windows) - [Setting up Git Bash / MINGW / MSYS2 on Windows](https://www.pascallandau.com/blog/setting-up-git-bash-mingw-msys2-on-windows/)
 * [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 * [2023-04-12, 07:42:23](https://lobste.rs/s/jkfhai/announcing_masonry_0_1_my_vision_for_rust) - [Announcing Masonry 0.1, and my vision for Rust UI](https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/)
-* [2023-04-11, 15:08:13](https://lobste.rs/s/enivff/i_really_like_powershell) - [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/)
 
 ## [Archives](archives/index.md)
 
