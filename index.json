@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 16:08:39",
+      "https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir"
+    ],
+    [
+      "zigler: zig nifs in elixir",
+      "https://github.com/ityonemo/zigler"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 14:42:49",
       "https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd"
     ],
@@ -107,16 +117,6 @@
     [
       "macosrec: take screenshots/videos of macOS windows from the command line",
       "https://github.com/xenodium/macosrec"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 07:21:44",
-      "https://lobste.rs/s/ed0rxa/restructuring_patterns"
-    ],
-    [
-      "Restructuring Patterns",
-      "https://www.catmonad.xyz/blog/nibbles_02.html"
     ]
   ],
   [
