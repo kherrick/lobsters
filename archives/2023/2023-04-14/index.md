@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 14:42:49](https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd) - [nvtop: GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)
 * [2023-04-14, 14:33:03](https://lobste.rs/s/gdsymn/kotlin_dsl_is_now_default_for_new_gradle) - [Kotlin DSL is Now the Default for New Gradle Builds](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
 * [2023-04-14, 14:23:49](https://lobste.rs/s/dd1250/github_accelerator_our_first_cohort_what) - [GitHub Accelerator: our first cohort and what's next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
