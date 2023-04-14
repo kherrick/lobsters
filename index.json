@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-04-14, 06:13:55",
-      "https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open"
-    ],
-    [
-      "Improving Tailscale via Apple’s open source",
-      "https://tailscale.dev/blog/darwin-spelunking"
-    ]
-  ],
-  [
-    [
       "2023-04-14, 05:51:01",
       "https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell"
     ],
@@ -247,6 +237,16 @@
     [
       "My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time",
       "https://github.com/GyulyVGC/sniffnet/discussions/133"
+    ]
+  ],
+  [
+    [
+      "2023-04-12, 15:14:09",
+      "https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper"
+    ],
+    [
+      "Fleek: A human-friendly Nix wrapper",
+      "https://getfleek.dev"
     ]
   ]
 ]
