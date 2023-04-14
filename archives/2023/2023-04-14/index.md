@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 22:46:03](https://lobste.rs/s/zzonmb/dagger_love_story) - [Dagger, a love story](https://www.flipt.io/blog/dagger-a-love-story)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 * [2023-04-14, 21:22:39](https://lobste.rs/s/jij1ot/subject_viruses_system_security_story) - [~Subject: Viruses and System Security (a story) (1988)](https://users.cs.utah.edu/~elb/folklore/xerox.txt)
 * [2023-04-14, 21:08:32](https://lobste.rs/s/03dvke/why_is_juice_jacking_suddenly_back_news) - [Why is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
