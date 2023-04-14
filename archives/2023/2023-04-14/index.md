@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 14:21:41](https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64) - [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-14, 14:01:59](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused) - [flap: A Deterministic Parser with Fused Lexing](https://arxiv.org/pdf/2304.05276.pdf)
 * [2023-04-14, 12:41:58](https://lobste.rs/s/hpwgnm/devtools_tips) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-04-14, 12:28:17](https://lobste.rs/s/higjju/building_15_year_old_software_with_nix) - [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
