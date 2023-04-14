@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
+* [2023-04-14, 14:23:49](https://lobste.rs/s/dd1250/github_accelerator_our_first_cohort_what) - [GitHub Accelerator: our first cohort and what's next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 * [2023-04-14, 14:21:41](https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64) - [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-14, 14:01:59](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused) - [flap: A Deterministic Parser with Fused Lexing](https://arxiv.org/pdf/2304.05276.pdf)
 * [2023-04-14, 12:41:58](https://lobste.rs/s/hpwgnm/devtools_tips) - [DevTools Tips](https://devtoolstips.org/)
@@ -13,7 +15,6 @@
 * [2023-04-14, 06:13:55](https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-14, 02:51:49](https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
-* [2023-04-14, 02:01:39](https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django) - [Running tasks concurrently in Django asynchronous views](https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/)
 * [2023-04-14, 00:34:33](https://lobste.rs/s/0axxbn/916_days_emacs) - [916 days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
@@ -22,7 +23,6 @@
 * [2023-04-13, 14:51:33](https://lobste.rs/s/qxvin8/autometrics_developer_first) - [Autometrics: a developer-first observability framework that writes queries for you](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
 * [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
-* [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 
