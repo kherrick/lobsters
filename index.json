@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 05:51:01",
+      "https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell"
+    ],
+    [
+      "Pedagogical downsides of Haskell",
+      "https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 02:51:49",
       "https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming"
     ],
@@ -47,16 +57,6 @@
     [
       "Surpassing 10Gb/s over Tailscale",
       "https://tailscale.com/blog/more-throughput/"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 20:02:42",
-      "https://lobste.rs/s/pxp2cm/introduction_code_golf_golflangs"
-    ],
-    [
-      "Introduction to Code Golf and Golflangs",
-      "https://blog.vero.site/post/golf"
     ]
   ],
   [
