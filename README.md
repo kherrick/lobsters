@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
+* [2023-04-14, 21:22:39](https://lobste.rs/s/jij1ot/subject_viruses_system_security_story) - [~Subject: Viruses and System Security (a story) (1988)](https://users.cs.utah.edu/~elb/folklore/xerox.txt)
 * [2023-04-14, 21:08:32](https://lobste.rs/s/03dvke/why_is_juice_jacking_suddenly_back_news) - [Why is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
 * [2023-04-14, 18:55:04](https://lobste.rs/s/h601kl/touchhle_depth_part_1_day_life_function) - [touchHLE in depth, part 1: a day in the life of a function call](https://hikari.noyu.me/blog/2023-04-13-touchhle-in-depth-1-function-calls.html)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
@@ -19,9 +21,7 @@
 * [2023-04-14, 06:40:21](https://lobste.rs/s/jwshtx/postgresql_16_explain_generic_plan) - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-14, 00:34:33](https://lobste.rs/s/0axxbn/916_days_emacs) - [916 days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
-* [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
-* [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 * [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
