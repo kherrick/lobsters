@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 16:08:39](https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir) - [zigler: zig nifs in elixir](https://github.com/ityonemo/zigler)
 * [2023-04-14, 14:42:49](https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd) - [nvtop: GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)
 * [2023-04-14, 14:33:03](https://lobste.rs/s/gdsymn/kotlin_dsl_is_now_default_for_new_gradle) - [Kotlin DSL is Now the Default for New Gradle Builds](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)

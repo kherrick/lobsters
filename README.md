@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 16:08:39](https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir) - [zigler: zig nifs in elixir](https://github.com/ityonemo/zigler)
 * [2023-04-14, 14:42:49](https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd) - [nvtop: GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)
 * [2023-04-14, 14:33:03](https://lobste.rs/s/gdsymn/kotlin_dsl_is_now_default_for_new_gradle) - [Kotlin DSL is Now the Default for New Gradle Builds](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
@@ -11,7 +12,6 @@
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
 * [2023-04-14, 10:10:36](https://lobste.rs/s/lkones/servo_layout_2013_layout_2020) - [Servo Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
-* [2023-04-14, 07:21:44](https://lobste.rs/s/ed0rxa/restructuring_patterns) - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-14, 06:40:21](https://lobste.rs/s/jwshtx/postgresql_16_explain_generic_plan) - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
 * [2023-04-14, 06:13:55](https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
