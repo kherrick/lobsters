@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 10:10:36](https://lobste.rs/s/lkones/servo_layout_2013_layout_2020) - [Servo Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 09:28:27](https://lobste.rs/s/1gbrvy/building_llm_applications_for) - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
 * [2023-04-14, 07:22:30](https://lobste.rs/s/vg4w9n/understanding_tracing_s_macros_by) - [Understanding tracing's macros by rebuilding them from scratch](https://dietcode.io/p/tracing-macros/)
@@ -12,7 +13,6 @@
 * [2023-04-14, 00:34:33](https://lobste.rs/s/0axxbn/916_days_emacs) - [916 days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
-* [2023-04-13, 19:36:55](https://lobste.rs/s/wt1qh4/place_filtering_array) - [In-place filtering of an array](https://30fps.net/pages/inplace-filtering)
 * [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 18:16:15](https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
