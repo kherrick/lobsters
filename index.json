@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-04-14, 12:41:58",
-      "https://lobste.rs/s/hpwgnm/devtools_tips"
-    ],
-    [
-      "DevTools Tips",
-      "https://devtoolstips.org/"
-    ]
-  ],
-  [
-    [
       "2023-04-14, 12:28:17",
       "https://lobste.rs/s/higjju/building_15_year_old_software_with_nix"
     ],
@@ -167,6 +157,16 @@
     [
       "PostgreSQL 16: EXPLAIN (GENERIC_PLAN)",
       "https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/"
+    ]
+  ],
+  [
+    [
+      "2023-04-14, 06:13:55",
+      "https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open"
+    ],
+    [
+      "Improving Tailscale via Apple’s open source",
+      "https://tailscale.dev/blog/darwin-spelunking"
     ]
   ],
   [
