@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 14:42:49",
+      "https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd"
+    ],
+    [
+      "nvtop: GPUs process monitoring for AMD, Intel and NVIDIA",
+      "https://github.com/Syllo/nvtop"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 14:33:03",
       "https://lobste.rs/s/gdsymn/kotlin_dsl_is_now_default_for_new_gradle"
     ],
@@ -237,16 +247,6 @@
     [
       "libuv, but multi-threaded, but not really",
       "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-12, 16:38:00",
-      "https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github"
-    ],
-    [
-      "My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time",
-      "https://github.com/GyulyVGC/sniffnet/discussions/133"
     ]
   ]
 ]
