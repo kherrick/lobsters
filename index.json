@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-04-14, 06:13:55",
+      "https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open"
+    ],
+    [
+      "Improving Tailscale via Apple’s open source",
+      "https://tailscale.dev/blog/darwin-spelunking"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 05:51:01",
       "https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell"
     ],
@@ -207,16 +217,6 @@
     [
       "libuv, but multi-threaded, but not really",
       "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 03:27:12",
-      "https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go"
-    ],
-    [
-      "Preview WASI support merged into Go compiler",
-      "https://github.com/golang/go/issues/58141"
     ]
   ],
   [
