@@ -8,6 +8,7 @@
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
 * [2023-04-14, 18:40:38](https://lobste.rs/s/c33qly/prompt_injection_what_s_worst_can_happen) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:58:28](https://lobste.rs/s/232mtz/grappling_with_c_part_1_pulsar17_s_blog) - [Grappling With C: Part 1 - pulsar17's blog](https://pulsar17.me/2023/03/grappling-with-c)
+* [2023-04-14, 17:58:28](https://lobste.rs/s/232mtz/grappling_with_c_part_1) - [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)
 * [2023-04-14, 16:08:39](https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir) - [zigler: zig nifs in elixir](https://github.com/ityonemo/zigler)
 * [2023-04-14, 14:42:49](https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd) - [nvtop: GPUs process monitoring for AMD, Intel and NVIDIA](https://github.com/Syllo/nvtop)
 * [2023-04-14, 14:33:03](https://lobste.rs/s/gdsymn/kotlin_dsl_is_now_default_for_new_gradle) - [Kotlin DSL is Now the Default for New Gradle Builds](https://blog.gradle.org/kotlin-dsl-is-now-the-default-for-new-gradle-builds)
