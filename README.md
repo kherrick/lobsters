@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-14, 02:51:49](https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-14, 02:01:39](https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django) - [Running tasks concurrently in Django asynchronous views](https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/)
 * [2023-04-14, 00:34:33](https://lobste.rs/s/0axxbn/916_days_emacs) - [916 days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
-* [2023-04-13, 20:02:42](https://lobste.rs/s/pxp2cm/introduction_code_golf_golflangs) - [Introduction to Code Golf and Golflangs](https://blog.vero.site/post/golf)
 * [2023-04-13, 19:36:55](https://lobste.rs/s/wt1qh4/place_filtering_array) - [In-place filtering of an array](https://30fps.net/pages/inplace-filtering)
 * [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 18:16:15](https://lobste.rs/s/pft5mg/deploying_key_transparency_at_whatsapp) - [Deploying key transparency at WhatsApp](https://engineering.fb.com/2023/04/13/security/whatsapp-key-transparency/)
