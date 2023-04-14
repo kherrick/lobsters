@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
 * [2023-04-14, 07:22:30](https://lobste.rs/s/vg4w9n/understanding_tracing_s_macros_by) - [Understanding tracing's macros by rebuilding them from scratch](https://dietcode.io/p/tracing-macros/)
 * [2023-04-14, 07:21:44](https://lobste.rs/s/ed0rxa/restructuring_patterns) - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-14, 06:40:21](https://lobste.rs/s/jwshtx/postgresql_16_explain_generic_plan) - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
