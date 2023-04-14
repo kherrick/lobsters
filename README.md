@@ -3,7 +3,6 @@
 * [2023-04-14, 07:22:30](https://lobste.rs/s/vg4w9n/understanding_tracing_s_macros_by) - [Understanding tracing's macros by rebuilding them from scratch](https://dietcode.io/p/tracing-macros/)
 * [2023-04-14, 07:21:44](https://lobste.rs/s/ed0rxa/restructuring_patterns) - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
 * [2023-04-14, 06:40:21](https://lobste.rs/s/jwshtx/postgresql_16_explain_generic_plan) - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
-* [2023-04-14, 06:13:55](https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-14, 02:51:49](https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-14, 02:01:39](https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django) - [Running tasks concurrently in Django asynchronous views](https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/)
@@ -25,6 +24,7 @@
 * [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
+* [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
 
 ## [Archives](archives/index.md)
 
