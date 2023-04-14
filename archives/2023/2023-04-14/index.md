@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
 * [2023-04-14, 10:10:36](https://lobste.rs/s/lkones/servo_layout_2013_layout_2020) - [Servo Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 09:28:27](https://lobste.rs/s/1gbrvy/building_llm_applications_for) - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)

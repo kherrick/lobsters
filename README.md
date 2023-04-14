@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
 * [2023-04-14, 10:10:36](https://lobste.rs/s/lkones/servo_layout_2013_layout_2020) - [Servo Layout 2013 and Layout 2020](https://servo.org/blog/2023/04/13/layout-2013-vs-2020/)
 * [2023-04-14, 09:28:27](https://lobste.rs/s/1gbrvy/building_llm_applications_for) - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -21,7 +22,6 @@
 * [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
-* [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
