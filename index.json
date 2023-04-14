@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 02:01:39",
+      "https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django"
+    ],
+    [
+      "Running tasks concurrently in Django asynchronous views",
+      "https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 00:34:33",
       "https://lobste.rs/s/0axxbn/916_days_emacs"
     ],
@@ -157,16 +167,6 @@
     [
       "libuv, but multi-threaded, but not really",
       "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 04:53:29",
-      "https://lobste.rs/s/odpb2i/kde_plasma_is_not_desktop_environment"
-    ],
-    [
-      "KDE Plasma is NOT a Desktop Environment",
-      "https://blog.nicco.love/kde-plasma-is-not-a-desktop-environment/"
     ]
   ],
   [
