@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 06:13:55](https://lobste.rs/s/xjgn2t/improving_tailscale_via_apple_s_open) - [Improving Tailscale via Apple’s open source](https://tailscale.dev/blog/darwin-spelunking)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-14, 02:51:49](https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-14, 02:01:39](https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django) - [Running tasks concurrently in Django asynchronous views](https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/)
@@ -24,7 +25,6 @@
 * [2023-04-12, 20:13:28](https://lobste.rs/s/6l8rbu/fullscreen_apps_above_macbook_notch) - [Fullscreen apps above the MacBook notch](https://notes.alinpanaitiu.com/Fullscreen%20apps%20above%20the%20MacBook%20notch)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 * [2023-04-12, 15:14:09](https://lobste.rs/s/iafpqe/fleek_human_friendly_nix_wrapper) - [Fleek: A human-friendly Nix wrapper](https://getfleek.dev)
-* [2023-04-12, 13:38:31](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with) - [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
 
 ## [Archives](archives/index.md)
 
