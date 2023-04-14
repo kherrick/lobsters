@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 09:28:27](https://lobste.rs/s/1gbrvy/building_llm_applications_for) - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
 * [2023-04-14, 07:22:30](https://lobste.rs/s/vg4w9n/understanding_tracing_s_macros_by) - [Understanding tracing's macros by rebuilding them from scratch](https://dietcode.io/p/tracing-macros/)
 * [2023-04-14, 07:21:44](https://lobste.rs/s/ed0rxa/restructuring_patterns) - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
@@ -22,7 +23,6 @@
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
-* [2023-04-13, 02:22:44](https://lobste.rs/s/gnt3fr/reasonable_bootstrap) - [Reasonable Bootstrap](https://matklad.github.io/2023/04/13/reasonable-bootstrap.html)
 * [2023-04-13, 00:52:30](https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc) - [Running SunOS 4 in QEMU (SPARC)](https://john-millikin.com/running-sunos-4-in-qemu-sparc)
 * [2023-04-12, 16:38:00](https://lobste.rs/s/yken9g/my_project_has_been_selected_for_github) - [My project has been selected for the GitHub Accelerator Program and I’ll be working on it full-time](https://github.com/GyulyVGC/sniffnet/discussions/133)
 

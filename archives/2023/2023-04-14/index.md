@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 09:28:27](https://lobste.rs/s/1gbrvy/building_llm_applications_for) - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
 * [2023-04-14, 07:22:30](https://lobste.rs/s/vg4w9n/understanding_tracing_s_macros_by) - [Understanding tracing's macros by rebuilding them from scratch](https://dietcode.io/p/tracing-macros/)
 * [2023-04-14, 07:21:44](https://lobste.rs/s/ed0rxa/restructuring_patterns) - [Restructuring Patterns](https://www.catmonad.xyz/blog/nibbles_02.html)
