@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 14:21:41",
+      "https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64"
+    ],
+    [
+      "Kalyn: a self-hosting compiler for x86-64",
+      "https://intuitiveexplanations.com/tech/kalyn"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 14:01:59",
       "https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused"
     ],
@@ -227,16 +237,6 @@
     [
       "libuv, but multi-threaded, but not really",
       "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 00:52:30",
-      "https://lobste.rs/s/f2hlor/running_sunos_4_qemu_sparc"
-    ],
-    [
-      "Running SunOS 4 in QEMU (SPARC)",
-      "https://john-millikin.com/running-sunos-4-in-qemu-sparc"
     ]
   ],
   [
