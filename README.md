@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 02:51:49](https://lobste.rs/s/nbpspj/example_llm_prompting_for_programming) - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 * [2023-04-14, 02:01:39](https://lobste.rs/s/8zwiqp/running_tasks_concurrently_django) - [Running tasks concurrently in Django asynchronous views](https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/)
 * [2023-04-14, 00:34:33](https://lobste.rs/s/0axxbn/916_days_emacs) - [916 days of Emacs](https://sqrtminusone.xyz/posts/2023-04-13-emacs/)
 * [2023-04-13, 21:36:40](https://lobste.rs/s/v9fxni/sql_2023_is_finished_here_is_what_s_new) - [SQL:2023 is finished: Here is what’s new](http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new)
@@ -14,7 +15,6 @@
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 * [2023-04-13, 12:54:06](https://lobste.rs/s/z0nljn/llms_are_showing_significant_promise_at) - [LLMs are showing significant promise at mediocre solutions to very general problems](https://lethain.com/openai-exploration/)
 * [2023-04-13, 11:00:14](https://lobste.rs/s/sryqh7/2021_how_achieve_software_quality_agile) - [(2021) How to achieve software quality in Agile?](https://alediaferia.com/2021/12/27/what-does-software-quality-mean-in-agile/)
-* [2023-04-13, 08:19:56](https://lobste.rs/s/5hg5sg/announcing_deps_dev_api_critical) - [Announcing the deps.dev API: critical dependency data for secure supply chains](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html)
 * [2023-04-13, 06:30:03](https://lobste.rs/s/9rwcoj/writing_portable_arm64_assembly) - [Writing portable ARM64 assembly](https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/)
 * [2023-04-13, 05:43:11](https://lobste.rs/s/xz1had/libuv_multi_threaded_not_really) - [libuv, but multi-threaded, but not really](http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html)
 * [2023-04-13, 03:27:12](https://lobste.rs/s/t6h3tf/preview_wasi_support_merged_into_go) - [Preview WASI support merged into Go compiler](https://github.com/golang/go/issues/58141)
