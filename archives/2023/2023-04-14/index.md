@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 12:41:58](https://lobste.rs/s/hpwgnm/devtools_tips) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-04-14, 12:28:17](https://lobste.rs/s/higjju/building_15_year_old_software_with_nix) - [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
 * [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)

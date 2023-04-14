@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-14, 12:41:58](https://lobste.rs/s/hpwgnm/devtools_tips) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-04-14, 12:28:17](https://lobste.rs/s/higjju/building_15_year_old_software_with_nix) - [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
 * [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
@@ -17,7 +18,6 @@
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 19:23:59](https://lobste.rs/s/0mvels/ziggifying_kilo) - [Ziggifying Kilo](https://bingcicle.github.io/posts/ziggifying-kilo.html)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
-* [2023-04-13, 15:14:53](https://lobste.rs/s/hxo8oj/rethinking_modern_web) - [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 * [2023-04-13, 14:51:33](https://lobste.rs/s/qxvin8/autometrics_developer_first) - [Autometrics: a developer-first observability framework that writes queries for you](https://fiberplane.com/blog/autometrics-a-developer-first-observability-framework-that-writes-queries-for-you)
 * [2023-04-13, 14:41:36](https://lobste.rs/s/lfbc7x/early_days_linux) - [The early days of Linux](https://lwn.net/SubscriberLink/928581/841b747332791ac4/)
 * [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
