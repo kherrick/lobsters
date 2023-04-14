@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-14, 09:28:27",
+      "https://lobste.rs/s/1gbrvy/building_llm_applications_for"
+    ],
+    [
+      "Building LLM applications for production",
+      "https://huyenchip.com/2023/04/11/llm-engineering.html"
+    ]
+  ],
+  [
+    [
       "2023-04-14, 08:08:45",
       "https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos"
     ],
@@ -217,16 +227,6 @@
     [
       "libuv, but multi-threaded, but not really",
       "http://kprotty.me/2023/04/13/libuv-but-multithreaded-but-not-really.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 02:22:44",
-      "https://lobste.rs/s/gnt3fr/reasonable_bootstrap"
-    ],
-    [
-      "Reasonable Bootstrap",
-      "https://matklad.github.io/2023/04/13/reasonable-bootstrap.html"
     ]
   ],
   [
