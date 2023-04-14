@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-14](index.md)
 
+* [2023-04-14, 21:08:32](https://lobste.rs/s/03dvke/why_is_juice_jacking_suddenly_back_news) - [Why is ‘Juice Jacking’ Suddenly Back in the News?](https://krebsonsecurity.com/2023/04/why-is-juice-jacking-suddenly-back-in-the-news/)
 * [2023-04-14, 18:55:04](https://lobste.rs/s/h601kl/touchhle_depth_part_1_day_life_function) - [touchHLE in depth, part 1: a day in the life of a function call](https://hikari.noyu.me/blog/2023-04-13-touchhle-in-depth-1-function-calls.html)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
 * [2023-04-14, 18:40:38](https://lobste.rs/s/c33qly/prompt_injection_what_s_worst_can_happen) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
