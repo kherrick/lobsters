@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-15, 16:18:35",
+      "https://lobste.rs/s/z6ju0z/keepassxc_audit_report"
+    ],
+    [
+      "KeePassXC Audit Report",
+      "https://keepassxc.org/blog/2023-04-15-audit-report/"
+    ]
+  ],
+  [
+    [
       "2023-04-15, 15:27:43",
       "https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know"
     ],
@@ -137,16 +147,6 @@
     [
       "zigler: zig nifs in elixir",
       "https://github.com/ityonemo/zigler"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 14:42:49",
-      "https://lobste.rs/s/6qtglv/nvtop_gpus_process_monitoring_for_amd"
-    ],
-    [
-      "nvtop: GPUs process monitoring for AMD, Intel and NVIDIA",
-      "https://github.com/Syllo/nvtop"
     ]
   ],
   [
