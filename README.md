@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 18:51:38](https://lobste.rs/s/hcsfcq/stop_building_closed_ecosystems) - [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 * [2023-04-15, 18:36:52](https://lobste.rs/s/wnvwao/gpt_sh_get_bash_commands_written_for_you) - [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
-* [2023-04-15, 17:34:37](https://lobste.rs/s/dswpsq/soul_old_machine) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 16:18:35](https://lobste.rs/s/z6ju0z/keepassxc_audit_report) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 14:52:00](https://lobste.rs/s/a5ivjk/ipfs_tiny_attempting_take_ipfs_space) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
