@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-15, 18:36:52",
+      "https://lobste.rs/s/wnvwao/gpt_sh_get_bash_commands_written_for_you"
+    ],
+    [
+      "gpt.sh: get bash commands written for you",
+      "https://github.com/rain-1/gpt.sh"
+    ]
+  ],
+  [
+    [
       "2023-04-15, 17:34:37",
       "https://lobste.rs/s/dswpsq/soul_old_machine"
     ],
@@ -177,16 +187,6 @@
     [
       "Kalyn: a self-hosting compiler for x86-64",
       "https://intuitiveexplanations.com/tech/kalyn"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 14:01:59",
-      "https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused"
-    ],
-    [
-      "flap: A Deterministic Parser with Fused Lexing",
-      "https://arxiv.org/pdf/2304.05276.pdf"
     ]
   ],
   [
