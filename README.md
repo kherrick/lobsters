@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 14:16:41](https://lobste.rs/s/1naavv/italian_sa_lift_temporary_limitation_if) - [Italian SA to lift temporary limitation if OpenAI implements measures by 30/April](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9874751#english)
 * [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 07:47:24](https://lobste.rs/s/cjvkdg/call_for_papers_perl_koha_conference) - [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
@@ -23,7 +24,6 @@
 * [2023-04-14, 08:08:45](https://lobste.rs/s/bxze0n/macosrec_take_screenshots_videos_macos) - [macosrec: take screenshots/videos of macOS windows from the command line](https://github.com/xenodium/macosrec)
 * [2023-04-14, 06:40:21](https://lobste.rs/s/jwshtx/postgresql_16_explain_generic_plan) - [PostgreSQL 16: EXPLAIN (GENERIC_PLAN)](https://www.cybertec-postgresql.com/en/explain-generic-plan-postgresql-16/)
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
-* [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
 
 ## [Archives](archives/index.md)
