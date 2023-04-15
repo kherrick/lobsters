@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-15, 10:47:03",
+      "https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal"
+    ],
+    [
+      "hexagony: A two-dimensional, hexagonal programming language",
+      "https://github.com/m-ender/hexagony"
+    ]
+  ],
+  [
+    [
       "2023-04-15, 07:47:24",
       "https://lobste.rs/s/cjvkdg/call_for_papers_perl_koha_conference"
     ],
@@ -237,16 +247,6 @@
     [
       "Zig build system",
       "https://en.liujiacai.net/2023/04/13/zig-build-system/"
-    ]
-  ],
-  [
-    [
-      "2023-04-13, 14:31:49",
-      "https://lobste.rs/s/zbaqsx/different_internet"
-    ],
-    [
-      "A Different Internet",
-      "https://schmud.de/posts/2022-12-05-different-internet.html"
     ]
   ]
 ]
