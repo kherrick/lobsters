@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 14:52:00](https://lobste.rs/s/a5ivjk/ipfs_tiny_attempting_take_ipfs_space) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 * [2023-04-15, 14:48:06](https://lobste.rs/s/sh5cxb/beyond_automatic_differentiation) - [Beyond automatic differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-15, 14:16:41](https://lobste.rs/s/1naavv/italian_sa_lift_temporary_limitation_if) - [Italian SA to lift temporary limitation if OpenAI implements measures by 30/April](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9874751#english)
