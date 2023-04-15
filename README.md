@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-15, 06:34:03](https://lobste.rs/s/usxhy9/horrible_code_clean_performance) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 * [2023-04-14, 22:46:03](https://lobste.rs/s/zzonmb/dagger_love_story) - [Dagger, a love story](https://www.flipt.io/blog/dagger-a-love-story)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
-* [2023-04-14, 21:22:39](https://lobste.rs/s/jij1ot/subject_viruses_system_security_story) - [~Subject: Viruses and System Security (a story) (1988)](https://users.cs.utah.edu/~elb/folklore/xerox.txt)
 * [2023-04-14, 18:55:04](https://lobste.rs/s/h601kl/touchhle_depth_part_1_day_life_function) - [touchHLE in depth, part 1: a day in the life of a function call](https://hikari.noyu.me/blog/2023-04-13-touchhle-in-depth-1-function-calls.html)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
 * [2023-04-14, 18:40:38](https://lobste.rs/s/c33qly/prompt_injection_what_s_worst_can_happen) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
