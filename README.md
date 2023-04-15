@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 07:47:24](https://lobste.rs/s/cjvkdg/call_for_papers_perl_koha_conference) - [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-15, 06:34:03](https://lobste.rs/s/usxhy9/horrible_code_clean_performance) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
@@ -24,7 +25,6 @@
 * [2023-04-14, 05:51:01](https://lobste.rs/s/e0hnjo/pedagogical_downsides_haskell) - [Pedagogical downsides of Haskell](https://ciobaca.substack.com/p/pedagogical-downsides-of-haskell)
 * [2023-04-13, 20:33:44](https://lobste.rs/s/np5nlt/surpassing_10gb_s_over_tailscale) - [Surpassing 10Gb/s over Tailscale](https://tailscale.com/blog/more-throughput/)
 * [2023-04-13, 15:26:57](https://lobste.rs/s/cykija/zig_build_system) - [Zig build system](https://en.liujiacai.net/2023/04/13/zig-build-system/)
-* [2023-04-13, 14:31:49](https://lobste.rs/s/zbaqsx/different_internet) - [A Different Internet](https://schmud.de/posts/2022-12-05-different-internet.html)
 
 ## [Archives](archives/index.md)
 
