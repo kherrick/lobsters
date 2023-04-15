@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-15](index.md)
 
+* [2023-04-15, 20:50:01](https://lobste.rs/s/6cldiv/mixing_different_framerates_ultimate) - [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-15, 19:48:45](https://lobste.rs/s/5thc9h/hypervisor_development_rust_part_1) - [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 18:51:38](https://lobste.rs/s/hcsfcq/stop_building_closed_ecosystems) - [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)

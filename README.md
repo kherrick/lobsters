@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 20:50:01](https://lobste.rs/s/6cldiv/mixing_different_framerates_ultimate) - [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-15, 19:48:45](https://lobste.rs/s/5thc9h/hypervisor_development_rust_part_1) - [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 18:51:38](https://lobste.rs/s/hcsfcq/stop_building_closed_ecosystems) - [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
@@ -24,7 +25,6 @@
 * [2023-04-14, 14:21:41](https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64) - [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
 * [2023-04-14, 12:28:17](https://lobste.rs/s/higjju/building_15_year_old_software_with_nix) - [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
 * [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
-* [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
 
 ## [Archives](archives/index.md)
 
