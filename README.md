@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-15, 18:36:52](https://lobste.rs/s/wnvwao/gpt_sh_get_bash_commands_written_for_you) - [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
 * [2023-04-15, 17:34:37](https://lobste.rs/s/dswpsq/soul_old_machine) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 16:18:35](https://lobste.rs/s/z6ju0z/keepassxc_audit_report) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
@@ -18,7 +19,6 @@
 * [2023-04-14, 16:08:39](https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir) - [zigler: zig nifs in elixir](https://github.com/ityonemo/zigler)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
 * [2023-04-14, 14:21:41](https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64) - [Kalyn: a self-hosting compiler for x86-64](https://intuitiveexplanations.com/tech/kalyn)
-* [2023-04-14, 14:01:59](https://lobste.rs/s/igzalk/flap_deterministic_parser_with_fused) - [flap: A Deterministic Parser with Fused Lexing](https://arxiv.org/pdf/2304.05276.pdf)
 * [2023-04-14, 12:28:17](https://lobste.rs/s/higjju/building_15_year_old_software_with_nix) - [Building 15-year-old software with Nix](https://blinry.org/nix-time-travel/)
 * [2023-04-14, 11:55:10](https://lobste.rs/s/tmvuxd/optional_if_expressions) - [Optional If Expressions](https://animaomnium.github.io/optional-if-expressions/)
 * [2023-04-14, 10:58:36](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gimzdt/what_are_you_doing_this_weekend)
