@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
+* [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 * [2023-04-16, 15:18:03](https://lobste.rs/s/oaadv3/plain_c_api_design_real_world_kobayashi) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 14:21:56](https://lobste.rs/s/5ic4ne/end_computer_magazines_america) - [The End of Computer Magazines in America](https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america/)
@@ -18,12 +20,10 @@
 * [2023-04-15, 16:18:35](https://lobste.rs/s/z6ju0z/keepassxc_audit_report) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
 * [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 14:52:00](https://lobste.rs/s/a5ivjk/ipfs_tiny_attempting_take_ipfs_space) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
-* [2023-04-15, 14:48:06](https://lobste.rs/s/sh5cxb/beyond_automatic_differentiation) - [Beyond automatic differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
-* [2023-04-14, 17:58:28](https://lobste.rs/s/232mtz/grappling_with_c_part_1) - [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
 
 ## [Archives](archives/index.md)

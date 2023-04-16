@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
+* [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 * [2023-04-16, 15:18:03](https://lobste.rs/s/oaadv3/plain_c_api_design_real_world_kobayashi) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 14:21:56](https://lobste.rs/s/5ic4ne/end_computer_magazines_america) - [The End of Computer Magazines in America](https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america/)
