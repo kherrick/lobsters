@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:54:09](https://lobste.rs/s/izqquf/at_t_wireless_traffic_shaping_apparently) - [AT&T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 19:15:40](https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)

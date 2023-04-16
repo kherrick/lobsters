@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 19:54:09](https://lobste.rs/s/izqquf/at_t_wireless_traffic_shaping_apparently) - [AT&T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 19:15:40](https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)
@@ -14,7 +15,6 @@
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
 * [2023-04-16, 05:16:19](https://lobste.rs/s/wjlnzx/destroy_all_values_designing) - [Destroy All Values: Designing Deinitialization in Programming Languages](https://faultlore.com/blah/deinitialize-me-maybe/)
 * [2023-04-16, 05:08:58](https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2) - [OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
-* [2023-04-16, 04:28:27](https://lobste.rs/s/masofg/automuse_system_for_generating_fiction) - [Automuse: A System for Generating Fiction Novels](https://xeiaso.net/blog/automuse)
 * [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
