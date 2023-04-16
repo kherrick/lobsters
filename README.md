@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:50:01](https://lobste.rs/s/6cldiv/mixing_different_framerates_ultimate) - [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-15, 19:48:45](https://lobste.rs/s/5thc9h/hypervisor_development_rust_part_1) - [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
@@ -18,7 +19,6 @@
 * [2023-04-14, 22:46:03](https://lobste.rs/s/zzonmb/dagger_love_story) - [Dagger, a love story](https://www.flipt.io/blog/dagger-a-love-story)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
-* [2023-04-14, 18:40:38](https://lobste.rs/s/c33qly/prompt_injection_what_s_worst_can_happen) - [Prompt injection: what’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
 * [2023-04-14, 17:58:28](https://lobste.rs/s/232mtz/grappling_with_c_part_1) - [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)
 * [2023-04-14, 16:08:39](https://lobste.rs/s/bix3bv/zigler_zig_nifs_elixir) - [zigler: zig nifs in elixir](https://github.com/ityonemo/zigler)
 * [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
