@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-16, 05:16:19",
+      "https://lobste.rs/s/wjlnzx/destroy_all_values_designing"
+    ],
+    [
+      "Destroy All Values: Designing Deinitialization in Programming Languages",
+      "https://faultlore.com/blah/deinitialize-me-maybe/"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 05:08:58",
       "https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2"
     ],
@@ -237,16 +247,6 @@
     [
       "Building 15-year-old software with Nix",
       "https://blinry.org/nix-time-travel/"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 11:55:10",
-      "https://lobste.rs/s/tmvuxd/optional_if_expressions"
-    ],
-    [
-      "Optional If Expressions",
-      "https://animaomnium.github.io/optional-if-expressions/"
     ]
   ]
 ]
