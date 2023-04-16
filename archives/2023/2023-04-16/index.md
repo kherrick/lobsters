@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)
 * [2023-04-16, 17:48:39](https://lobste.rs/s/6hy0dt/unwinding_stack_hard_way) - [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
 * [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
