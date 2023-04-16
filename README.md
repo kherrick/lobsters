@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 19:15:40](https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
+* [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)
 * [2023-04-16, 17:48:39](https://lobste.rs/s/6hy0dt/unwinding_stack_hard_way) - [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
@@ -23,8 +25,6 @@
 * [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
 * [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
-* [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
-* [2023-04-14, 14:28:30](https://lobste.rs/s/bdxddf/google_assured_oss) - [Google Assured OSS](https://sethmlarson.dev/google-assured-oss)
 
 ## [Archives](archives/index.md)
 

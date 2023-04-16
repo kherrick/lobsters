@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 19:15:40](https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
+* [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
 * [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)
 * [2023-04-16, 17:48:39](https://lobste.rs/s/6hy0dt/unwinding_stack_hard_way) - [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 * [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
