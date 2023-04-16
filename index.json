@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-16, 05:08:58",
+      "https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2"
+    ],
+    [
+      "OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH",
+      "https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 04:28:27",
       "https://lobste.rs/s/masofg/automuse_system_for_generating_fiction"
     ],
@@ -217,16 +227,6 @@
     [
       "Google Assured OSS",
       "https://sethmlarson.dev/google-assured-oss"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 14:21:41",
-      "https://lobste.rs/s/kst55f/kalyn_self_hosting_compiler_for_x86_64"
-    ],
-    [
-      "Kalyn: a self-hosting compiler for x86-64",
-      "https://intuitiveexplanations.com/tech/kalyn"
     ]
   ],
   [
