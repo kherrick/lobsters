@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 21:30:00](https://lobste.rs/s/ud4wj5/linux_systems_engineer_xdefiant_ubisoft) - [Linux Systems Engineer - XDefiant | Ubisoft Careers](https://www.ubisoft.com/en-us/company/careers/search/743999879479053-linux-systems-engineer-xdefiant?isSso=true&refreshStatus=noLoginData)
 * [2023-04-16, 19:54:09](https://lobste.rs/s/izqquf/at_t_wireless_traffic_shaping_apparently) - [AT&T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 19:15:40](https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4) - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
