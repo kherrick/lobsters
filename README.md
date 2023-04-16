@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)
+* [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
 * [2023-04-16, 05:16:19](https://lobste.rs/s/wjlnzx/destroy_all_values_designing) - [Destroy All Values: Designing Deinitialization in Programming Languages](https://faultlore.com/blah/deinitialize-me-maybe/)
 * [2023-04-16, 05:08:58](https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2) - [OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
@@ -8,7 +10,6 @@
 * [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:50:01](https://lobste.rs/s/6cldiv/mixing_different_framerates_ultimate) - [Mixing Different Framerates - The Ultimate Guide](https://www.youtube.com/watch?v=p3Jb3UPAw-w)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
-* [2023-04-15, 19:48:45](https://lobste.rs/s/5thc9h/hypervisor_development_rust_part_1) - [Hypervisor Development in Rust Part 1](https://memn0ps.github.io/hypervisor-development-in-rust-part-1/)
 * [2023-04-15, 18:51:38](https://lobste.rs/s/hcsfcq/stop_building_closed_ecosystems) - [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 * [2023-04-15, 18:36:52](https://lobste.rs/s/wnvwao/gpt_sh_get_bash_commands_written_for_you) - [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
 * [2023-04-15, 17:34:37](https://lobste.rs/s/dswpsq/soul_old_machine) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
@@ -20,7 +21,6 @@
 * [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 07:47:24](https://lobste.rs/s/cjvkdg/call_for_papers_perl_koha_conference) - [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
-* [2023-04-15, 06:34:03](https://lobste.rs/s/usxhy9/horrible_code_clean_performance) - [Horrible Code, Clean Performance](https://johnnysswlab.com/horrible-code-clean-performance/)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
 * [2023-04-14, 17:58:28](https://lobste.rs/s/232mtz/grappling_with_c_part_1) - [Grappling With C: Part 1](https://pulsar17.me/2023/03/grappling-with-c)

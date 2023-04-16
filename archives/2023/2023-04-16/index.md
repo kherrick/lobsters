@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)
+* [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
 * [2023-04-16, 05:16:19](https://lobste.rs/s/wjlnzx/destroy_all_values_designing) - [Destroy All Values: Designing Deinitialization in Programming Languages](https://faultlore.com/blah/deinitialize-me-maybe/)
 * [2023-04-16, 05:08:58](https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2) - [OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
