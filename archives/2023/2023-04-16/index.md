@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-16](index.md)
 
+* [2023-04-16, 15:18:03](https://lobste.rs/s/oaadv3/plain_c_api_design_real_world_kobayashi) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 14:21:56](https://lobste.rs/s/5ic4ne/end_computer_magazines_america) - [The End of Computer Magazines in America](https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america/)
 * [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-16, 15:18:03](https://lobste.rs/s/oaadv3/plain_c_api_design_real_world_kobayashi) - [Plain C API design, the real world Kobayashi Maru test](https://nibblestew.blogspot.com/2023/02/plain-c-api-design-real-world-kobayashi.html)
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 14:21:56](https://lobste.rs/s/5ic4ne/end_computer_magazines_america) - [The End of Computer Magazines in America](https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america/)
 * [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)
@@ -19,7 +20,6 @@
 * [2023-04-15, 14:52:00](https://lobste.rs/s/a5ivjk/ipfs_tiny_attempting_take_ipfs_space) - [IPFS-tiny: attempting to take IPFS to Space](https://libre.space/2023/04/12/ipfs-tiny/)
 * [2023-04-15, 14:48:06](https://lobste.rs/s/sh5cxb/beyond_automatic_differentiation) - [Beyond automatic differentiation](https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 * [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
-* [2023-04-15, 07:47:24](https://lobste.rs/s/cjvkdg/call_for_papers_perl_koha_conference) - [Call for Papers: Perl and Koha Conference in Helsinki, 2023](https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 * [2023-04-14, 21:27:39](https://lobste.rs/s/okqrde/three_years_shake_your_head) - [Three Years to Shake Your Head](https://www.maxcountryman.com/articles/three-years-to-shake-your-head)
 * [2023-04-14, 18:54:09](https://lobste.rs/s/i7hym9/reverse_engineering_imessages_database) - [Reverse engineering iMessages database to create a better search interface](https://blog.jonlu.ca/posts/mimessage?ref=ls)
