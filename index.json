@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-16, 19:15:40",
+      "https://lobste.rs/s/xpbtka/sparks_agi_early_experiments_with_gpt_4"
+    ],
+    [
+      "Sparks of AGI: early experiments with GPT-4",
+      "https://youtu.be/qbIk7-JPB2c"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 19:15:06",
+      "https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019"
+    ],
+    [
+      "A language design analysis of HolyC (2019)",
+      "https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc"
+    ]
+  ],
+  [
+    [
       "2023-04-16, 19:11:04",
       "https://lobste.rs/s/vngxbv/what_is_go_function_variable"
     ],
@@ -227,26 +247,6 @@
     [
       "Low Code Software Development Is A Lie",
       "https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 21:27:39",
-      "https://lobste.rs/s/okqrde/three_years_shake_your_head"
-    ],
-    [
-      "Three Years to Shake Your Head",
-      "https://www.maxcountryman.com/articles/three-years-to-shake-your-head"
-    ]
-  ],
-  [
-    [
-      "2023-04-14, 14:28:30",
-      "https://lobste.rs/s/bdxddf/google_assured_oss"
-    ],
-    [
-      "Google Assured OSS",
-      "https://sethmlarson.dev/google-assured-oss"
     ]
   ]
 ]
