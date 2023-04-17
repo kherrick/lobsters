@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-17, 12:35:24",
+      "https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number"
+    ],
+    [
+      "digit recognition in Shadertoy (draw a number)",
+      "https://www.shadertoy.com/view/msVXWD"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 12:06:25",
       "https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2023-04-17, 01:20:43",
-      "https://lobste.rs/s/w6is1i/how_draggable_object_events_work"
+      "2023-04-17, 00:47:39",
+      "https://lobste.rs/s/ttbqse/journey_through_color_space_with_ffmpeg"
     ],
     [
-      "How draggable object events work",
-      "https://simblob.blogspot.com/2023/02/making-of-draggable-objects.html"
+      "A Journey through Color Space with FFmpeg",
+      "https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Booting modern Intel CPUs",
       "https://mjg59.dreamwidth.org/66109.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 22:15:48",
-      "https://lobste.rs/s/grbnio/madsim_magical_deterministic_simulator"
-    ],
-    [
-      "madsim: Magical Deterministic Simulator for distributed systems in Rust",
-      "https://github.com/madsim-rs/madsim"
     ]
   ],
   [
