@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 23:42:30](https://lobste.rs/s/8zjqe9/android_auto_translate_auto_translate) - [android-auto-translate: Auto translate strings.xml on Android using GitHub Actions](https://github.com/ashishb/android-auto-translate)
+* [2023-04-17, 23:40:58](https://lobste.rs/s/o9yn0q/forex_trading_for_fun_luckily_profit) - [Forex Trading for Fun and Luckily Profit](https://www.dannyguo.com/blog/forex-trading-for-fun-and-luckily-profit)
+* [2023-04-17, 23:39:00](https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 * [2023-04-17, 23:33:22](https://lobste.rs/s/wsfzba/can_chatgpt_be_my_dev_team) - [Can ChatGPT be my dev team?](https://medium.com/everestengineering/can-chatgpt-be-my-dev-team-6a17c918154)
 * [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
 * [2023-04-17, 21:39:40](https://lobste.rs/s/qgsqtn/vscode_ticket_require_user_consent) - [VSCode ticket: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
