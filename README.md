@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
+* [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
 * [2023-04-17, 01:57:09](https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases) - [Naming Your Binary Executable Releases](https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/)
 * [2023-04-17, 01:20:43](https://lobste.rs/s/w6is1i/how_draggable_object_events_work) - [How draggable object events work](https://simblob.blogspot.com/2023/02/making-of-draggable-objects.html)
 * [2023-04-17, 00:47:39](https://lobste.rs/s/ttbqse/journey_through_color_space_with_ffmpeg) - [A Journey through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
@@ -17,14 +19,12 @@
 * [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
-* [2023-04-16, 05:16:19](https://lobste.rs/s/wjlnzx/destroy_all_values_designing) - [Destroy All Values: Designing Deinitialization in Programming Languages](https://faultlore.com/blah/deinitialize-me-maybe/)
 * [2023-04-16, 05:08:58](https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2) - [OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
 * [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 * [2023-04-15, 17:34:37](https://lobste.rs/s/dswpsq/soul_old_machine) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 16:18:35](https://lobste.rs/s/z6ju0z/keepassxc_audit_report) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
-* [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 
 ## [Archives](archives/index.md)
 
