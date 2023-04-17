@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-17, 17:06:14",
+      "https://lobste.rs/s/hx465a/catfacts_node_js"
+    ],
+    [
+      "CatFacts in Node.js",
+      "https://zackproser.com/software/catfacts"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 16:34:23",
       "https://lobste.rs/s/jrrxbu/keep_stuff_linkable"
     ],
@@ -217,16 +227,6 @@
     [
       "Resolving the Great Undo-Redo Quandary",
       "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 14:24:17",
-      "https://lobste.rs/s/lrvitl/build_lua_interpreter_rust"
-    ],
-    [
-      "Build a Lua Interpreter in Rust",
-      "https://wubingzheng.github.io/build-lua-in-rust/en/"
     ]
   ],
   [
