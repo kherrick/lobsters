@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 14:02:21](https://lobste.rs/s/nuqamm/people_on_fediverse) - [People on the fediverse](https://blog.erlend.sh/people-on-the-fediverse)
 * [2023-04-17, 13:33:03](https://lobste.rs/s/ufwldz/maintaining_this_site_fucking_rocks) - [Maintaining this site fucking rocks](https://misc.l3m.in/txt/maintaining-this-site-fkin-rocks.txt)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
@@ -11,7 +12,6 @@
 * [2023-04-17, 07:20:26](https://lobste.rs/s/ueeajn/ci_pipelines_for_dockerized_php_apps_with) - [CI Pipelines for dockerized PHP Apps with Github & Gitlab](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
 * [2023-04-17, 07:15:12](https://lobste.rs/s/3i3ccv/make_it_memory_safe_adapting_curl_use) - [Make It Memory Safe: Adapting curl to use Rustls](https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/)
 * [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
-* [2023-04-17, 06:39:40](https://lobste.rs/s/5tnpd2/curse_being_good_it) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
 * [2023-04-17, 01:57:09](https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases) - [Naming Your Binary Executable Releases](https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/)

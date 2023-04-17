@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 14:02:21](https://lobste.rs/s/nuqamm/people_on_fediverse) - [People on the fediverse](https://blog.erlend.sh/people-on-the-fediverse)
 * [2023-04-17, 13:33:03](https://lobste.rs/s/ufwldz/maintaining_this_site_fucking_rocks) - [Maintaining this site fucking rocks](https://misc.l3m.in/txt/maintaining-this-site-fkin-rocks.txt)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
