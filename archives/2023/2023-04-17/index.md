@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
 * [2023-04-17, 12:06:25](https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker) - [How to Test Your Proxy Support in Docker](https://www.appsmith.com/blog/test-proxy-support)
 * [2023-04-17, 10:28:08](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week)
 * [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
