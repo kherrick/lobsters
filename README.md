@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 14:49:07](https://lobste.rs/s/azd2s5/cross_shard_transactions_at_10_million) - [Cross shard transactions at 10 million requests per second (2018)](https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
 * [2023-04-17, 12:06:25](https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker) - [How to Test Your Proxy Support in Docker](https://www.appsmith.com/blog/test-proxy-support)
@@ -13,7 +14,6 @@
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
 * [2023-04-17, 01:57:09](https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases) - [Naming Your Binary Executable Releases](https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/)
-* [2023-04-17, 00:47:39](https://lobste.rs/s/ttbqse/journey_through_color_space_with_ffmpeg) - [A Journey through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
 * [2023-04-17, 00:32:02](https://lobste.rs/s/0auecd/booting_modern_intel_cpus) - [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-16, 19:54:09](https://lobste.rs/s/izqquf/at_t_wireless_traffic_shaping_apparently) - [AT&T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)

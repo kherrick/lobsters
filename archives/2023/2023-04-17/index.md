@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 14:49:07](https://lobste.rs/s/azd2s5/cross_shard_transactions_at_10_million) - [Cross shard transactions at 10 million requests per second (2018)](https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second)
 * [2023-04-17, 14:02:21](https://lobste.rs/s/nuqamm/people_on_fediverse) - [People on the fediverse](https://blog.erlend.sh/people-on-the-fediverse)
 * [2023-04-17, 13:33:03](https://lobste.rs/s/ufwldz/maintaining_this_site_fucking_rocks) - [Maintaining this site fucking rocks](https://misc.l3m.in/txt/maintaining-this-site-fkin-rocks.txt)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
