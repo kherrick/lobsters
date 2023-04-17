@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 07:51:17](https://lobste.rs/s/j0az7n/worlds_simplest_bootloader_bare_metal) - [Worlds Simplest Bootloader: Bare Metal Programming Series](https://www.youtube.com/watch?v=cfNJ85cX-ms)
 * [2023-04-17, 07:20:26](https://lobste.rs/s/ueeajn/ci_pipelines_for_dockerized_php_apps_with) - [CI Pipelines for dockerized PHP Apps with Github & Gitlab](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
