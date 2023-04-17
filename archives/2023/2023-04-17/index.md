@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 14:49:07](https://lobste.rs/s/azd2s5/cross_shard_transactions_at_10_million) - [Cross shard transactions at 10 million requests per second (2018)](https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second)
 * [2023-04-17, 14:02:21](https://lobste.rs/s/nuqamm/people_on_fediverse) - [People on the fediverse](https://blog.erlend.sh/people-on-the-fediverse)
