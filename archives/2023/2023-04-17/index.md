@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-04-17, 17:06:14](https://lobste.rs/s/hx465a/catfacts_node_js) - [CatFacts in Node.js](https://zackproser.com/software/catfacts)
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
