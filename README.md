@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 01:20:43](https://lobste.rs/s/w6is1i/how_draggable_object_events_work) - [How draggable object events work](https://simblob.blogspot.com/2023/02/making-of-draggable-objects.html)
+* [2023-04-17, 00:47:39](https://lobste.rs/s/ttbqse/journey_through_color_space_with_ffmpeg) - [A Journey through Color Space with FFmpeg](https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05)
+* [2023-04-17, 00:32:02](https://lobste.rs/s/0auecd/booting_modern_intel_cpus) - [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-16, 22:15:48](https://lobste.rs/s/grbnio/madsim_magical_deterministic_simulator) - [madsim: Magical Deterministic Simulator for distributed systems in Rust](https://github.com/madsim-rs/madsim)
 * [2023-04-16, 19:54:09](https://lobste.rs/s/izqquf/at_t_wireless_traffic_shaping_apparently) - [AT&T Wireless traffic shaping apparently making some websites unusable](https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
@@ -18,12 +21,9 @@
 * [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
-* [2023-04-15, 18:51:38](https://lobste.rs/s/hcsfcq/stop_building_closed_ecosystems) - [Stop building closed ecosystems](https://buttondown.email/whatever_jamie/archive/stop-building-closed-ecosystems/)
 * [2023-04-15, 18:36:52](https://lobste.rs/s/wnvwao/gpt_sh_get_bash_commands_written_for_you) - [gpt.sh: get bash commands written for you](https://github.com/rain-1/gpt.sh)
 * [2023-04-15, 17:34:37](https://lobste.rs/s/dswpsq/soul_old_machine) - [The Soul of an Old Machine](https://benjamincongdon.me/blog/2023/04/15/The-Soul-of-an-Old-Machine/)
 * [2023-04-15, 16:18:35](https://lobste.rs/s/z6ju0z/keepassxc_audit_report) - [KeePassXC Audit Report](https://keepassxc.org/blog/2023-04-15-audit-report/)
-* [2023-04-15, 15:27:43](https://lobste.rs/s/mopc3i/systems_design_2_what_we_hope_we_know) - [Systems design 2: What we hope we know](https://apenwarr.ca/log/20230415)
-* [2023-04-15, 10:47:03](https://lobste.rs/s/lrxvfi/hexagony_two_dimensional_hexagonal) - [hexagony: A two-dimensional, hexagonal programming language](https://github.com/m-ender/hexagony)
 * [2023-04-15, 06:47:28](https://lobste.rs/s/lhxj3l/low_code_software_development_is_lie) - [Low Code Software Development Is A Lie](https://jaylittle.com/post/view/2023/4/low-code-software-development-is-a-lie)
 
 ## [Archives](archives/index.md)
