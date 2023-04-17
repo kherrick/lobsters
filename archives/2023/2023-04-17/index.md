@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 23:33:22](https://lobste.rs/s/wsfzba/can_chatgpt_be_my_dev_team) - [Can ChatGPT be my dev team?](https://medium.com/everestengineering/can-chatgpt-be-my-dev-team-6a17c918154)
 * [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
 * [2023-04-17, 21:39:40](https://lobste.rs/s/qgsqtn/vscode_ticket_require_user_consent) - [VSCode ticket: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
