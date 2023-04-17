@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 07:20:26](https://lobste.rs/s/ueeajn/ci_pipelines_for_dockerized_php_apps_with) - [CI Pipelines for dockerized PHP Apps with Github & Gitlab](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
 * [2023-04-17, 07:15:12](https://lobste.rs/s/3i3ccv/make_it_memory_safe_adapting_curl_use) - [Make It Memory Safe: Adapting curl to use Rustls](https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/)
 * [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:39:40](https://lobste.rs/s/5tnpd2/curse_being_good_it) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)

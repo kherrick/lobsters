@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 07:20:26](https://lobste.rs/s/ueeajn/ci_pipelines_for_dockerized_php_apps_with) - [CI Pipelines for dockerized PHP Apps with Github & Gitlab](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
 * [2023-04-17, 07:15:12](https://lobste.rs/s/3i3ccv/make_it_memory_safe_adapting_curl_use) - [Make It Memory Safe: Adapting curl to use Rustls](https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/)
 * [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 06:39:40](https://lobste.rs/s/5tnpd2/curse_being_good_it) - [The curse of being good in IT](https://bitecode.substack.com/p/the-curse-of-being-good-in-it)
@@ -17,7 +18,6 @@
 * [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
 * [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
-* [2023-04-16, 14:21:56](https://lobste.rs/s/5ic4ne/end_computer_magazines_america) - [The End of Computer Magazines in America](https://www.technologizer.com/2023/04/15/the-end-of-computer-magazines-in-america/)
 * [2023-04-16, 08:57:26](https://lobste.rs/s/nleick/worllms) - [WorLLMs](https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014)
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
