@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-17](index.md)
 
+* [2023-04-17, 21:39:40](https://lobste.rs/s/qgsqtn/vscode_ticket_require_user_consent) - [VSCode ticket: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-04-17, 17:06:14](https://lobste.rs/s/hx465a/catfacts_node_js) - [CatFacts in Node.js](https://zackproser.com/software/catfacts)
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
