@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 10:28:08](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week)
 * [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 07:51:17](https://lobste.rs/s/j0az7n/worlds_simplest_bootloader_bare_metal) - [Worlds Simplest Bootloader: Bare Metal Programming Series](https://www.youtube.com/watch?v=cfNJ85cX-ms)
@@ -24,7 +25,6 @@
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
 * [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
-* [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
 
 ## [Archives](archives/index.md)
 
