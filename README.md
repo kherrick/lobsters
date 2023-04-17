@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 07:51:17](https://lobste.rs/s/j0az7n/worlds_simplest_bootloader_bare_metal) - [Worlds Simplest Bootloader: Bare Metal Programming Series](https://www.youtube.com/watch?v=cfNJ85cX-ms)
 * [2023-04-17, 07:20:26](https://lobste.rs/s/ueeajn/ci_pipelines_for_dockerized_php_apps_with) - [CI Pipelines for dockerized PHP Apps with Github & Gitlab](https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2)
 * [2023-04-17, 07:15:12](https://lobste.rs/s/3i3ccv/make_it_memory_safe_adapting_curl_use) - [Make It Memory Safe: Adapting curl to use Rustls](https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/)
@@ -21,7 +22,6 @@
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
-* [2023-04-16, 05:08:58](https://lobste.rs/s/mpuqpb/openvms_9_2_for_x86_getting_started_part_2) - [OpenVMS 9.2 for x86, Getting Started part 2, autoboot, licenses, PAKs, networking and SSH](https://raymii.org/s/blog/OpenVMS_9.2_for_x86_Getting_Started_part_2.html)
 * [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 * [2023-04-16, 01:07:08](https://lobste.rs/s/yj7yor/efficiency_trades_off_against) - [Efficiency trades off against resiliency](https://blog.nelhage.com/post/efficiency-vs-resiliency/)
 * [2023-04-15, 20:06:03](https://lobste.rs/s/rdbpe0/my_emacs_eye_candy) - [My Emacs eye candy](https://xenodium.com/my-emacs-eye-candy/)
