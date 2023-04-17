@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-04-17, 14:02:21",
-      "https://lobste.rs/s/nuqamm/people_on_fediverse"
-    ],
-    [
-      "People on the fediverse",
-      "https://blog.erlend.sh/people-on-the-fediverse"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 13:33:03",
-      "https://lobste.rs/s/ufwldz/maintaining_this_site_fucking_rocks"
-    ],
-    [
-      "Maintaining this site fucking rocks",
-      "https://misc.l3m.in/txt/maintaining-this-site-fkin-rocks.txt"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 13:30:10",
       "https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters"
     ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2023-04-17, 01:57:09",
+      "https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases"
+    ],
+    [
+      "Naming Your Binary Executable Releases",
+      "https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 00:32:02",
       "https://lobste.rs/s/0auecd/booting_modern_intel_cpus"
     ],
@@ -247,6 +237,16 @@
     [
       "The ChatGPT vs Bear Blog spam war",
       "https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/"
+    ]
+  ],
+  [
+    [
+      "2023-04-16, 04:22:14",
+      "https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented"
+    ],
+    [
+      "Korean as a Concatenative, Stack-Oriented Language",
+      "https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594"
     ]
   ]
 ]
