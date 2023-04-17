@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-17, 13:33:03](https://lobste.rs/s/ufwldz/maintaining_this_site_fucking_rocks) - [Maintaining this site fucking rocks](https://misc.l3m.in/txt/maintaining-this-site-fkin-rocks.txt)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
 * [2023-04-17, 12:06:25](https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker) - [How to Test Your Proxy Support in Docker](https://www.appsmith.com/blog/test-proxy-support)
@@ -24,7 +25,6 @@
 * [2023-04-16, 14:24:17](https://lobste.rs/s/lrvitl/build_lua_interpreter_rust) - [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
 * [2023-04-16, 08:48:18](https://lobste.rs/s/4wjtxo/chatgpt_vs_bear_blog_spam_war) - [The ChatGPT vs Bear Blog spam war](https://herman.bearblog.dev/the-chatgpt-vs-bear-blog-spam-war/)
-* [2023-04-16, 04:22:14](https://lobste.rs/s/dgapin/korean_as_concatenative_stack_oriented) - [Korean as a Concatenative, Stack-Oriented Language](https://m.post.naver.com/viewer/postView.nhn?volumeNo=8912179&memberNo=33582594)
 
 ## [Archives](archives/index.md)
 
