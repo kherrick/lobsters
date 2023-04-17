@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-17, 21:39:40](https://lobste.rs/s/qgsqtn/vscode_ticket_require_user_consent) - [VSCode ticket: Require user consent before sending any telemetry](https://github.com/microsoft/vscode/issues/176269)
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-04-17, 17:06:14](https://lobste.rs/s/hx465a/catfacts_node_js) - [CatFacts in Node.js](https://zackproser.com/software/catfacts)
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
@@ -21,6 +20,7 @@
 * [2023-04-17, 01:57:09](https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases) - [Naming Your Binary Executable Releases](https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/)
 * [2023-04-17, 00:32:02](https://lobste.rs/s/0auecd/booting_modern_intel_cpus) - [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 * [2023-04-16, 19:15:06](https://lobste.rs/s/enwx59/language_design_analysis_holyc_2019) - [A language design analysis of HolyC (2019)](https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc)
+* [2023-04-16, 19:11:04](https://lobste.rs/s/vngxbv/what_is_go_function_variable) - [What is a Go function variable?](https://philpearl.github.io/post/functionpointers/)
 * [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
 * [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 * [2023-04-16, 08:55:28](https://lobste.rs/s/iksbf4/alien_artefacts) - [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
