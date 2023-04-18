@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-18, 12:34:08](https://lobste.rs/s/i3ugkz/why_developers_never_use_state_machines) - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 * [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
 * [2023-04-18, 12:05:41](https://lobste.rs/s/mbsftm/improving_messages_types_gdb_s_python_api) - [Improving messages and types in GDB’s Python API](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
@@ -9,7 +10,6 @@
 * [2023-04-18, 08:57:11](https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released) - [Sniffnet v1.1.4 has just been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4)
 * [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 05:26:48](https://lobste.rs/s/eelvhl/stack_exchange_programming_language) - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
-* [2023-04-18, 04:52:13](https://lobste.rs/s/rthtr6/mobile_exploitation_past_present_future) - [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-17, 23:39:00](https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 * [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
