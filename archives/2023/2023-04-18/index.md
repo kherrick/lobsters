@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
 * [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 08:57:11](https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released) - [Sniffnet v1.1.4 has just been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4)

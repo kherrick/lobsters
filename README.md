@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
 * [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 08:57:11](https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released) - [Sniffnet v1.1.4 has just been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4)
@@ -23,7 +24,6 @@
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
 * [2023-04-17, 00:32:02](https://lobste.rs/s/0auecd/booting_modern_intel_cpus) - [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
-* [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
 * [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 
 ## [Archives](archives/index.md)
