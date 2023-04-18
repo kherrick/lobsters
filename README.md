@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 04:52:13](https://lobste.rs/s/rthtr6/mobile_exploitation_past_present_future) - [Mobile Exploitation, the past, present, and future](https://github.com/externalist/presentations/blob/master/2023%20Zer0con/Mobile%20Exploitation%2C%20the%20past%2C%20present%2C%20and%20future.pdf)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 * [2023-04-17, 23:39:00](https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 * [2023-04-17, 23:33:22](https://lobste.rs/s/wsfzba/can_chatgpt_be_my_dev_team) - [Can ChatGPT be my dev team?](https://medium.com/everestengineering/can-chatgpt-be-my-dev-team-6a17c918154)
@@ -11,7 +12,6 @@
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
-* [2023-04-17, 12:06:25](https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker) - [How to Test Your Proxy Support in Docker](https://www.appsmith.com/blog/test-proxy-support)
 * [2023-04-17, 10:28:08](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week)
 * [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
