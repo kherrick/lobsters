@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-04-17, 23:42:30](https://lobste.rs/s/8zjqe9/android_auto_translate_auto_translate) - [android-auto-translate: Auto translate strings.xml on Android using GitHub Actions](https://github.com/ashishb/android-auto-translate)
-* [2023-04-17, 23:40:58](https://lobste.rs/s/o9yn0q/forex_trading_for_fun_luckily_profit) - [Forex Trading for Fun and Luckily Profit](https://www.dannyguo.com/blog/forex-trading-for-fun-and-luckily-profit)
 * [2023-04-17, 23:39:00](https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
 * [2023-04-17, 23:33:22](https://lobste.rs/s/wsfzba/can_chatgpt_be_my_dev_team) - [Can ChatGPT be my dev team?](https://medium.com/everestengineering/can-chatgpt-be-my-dev-team-6a17c918154)
 * [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
@@ -10,6 +9,7 @@
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
+* [2023-04-17, 14:49:07](https://lobste.rs/s/azd2s5/cross_shard_transactions_at_10_million) - [Cross shard transactions at 10 million requests per second (2018)](https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
 * [2023-04-17, 12:06:25](https://lobste.rs/s/ppiqkr/how_test_your_proxy_support_docker) - [How to Test Your Proxy Support in Docker](https://www.appsmith.com/blog/test-proxy-support)
