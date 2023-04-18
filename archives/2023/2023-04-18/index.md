@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
+* [2023-04-18, 20:01:48](https://lobste.rs/s/uqd0fq/iamspy) - [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
 * [2023-04-18, 19:15:12](https://lobste.rs/s/e11k19/running_python_micro_benchmarks_using) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-18, 16:14:16](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme) - [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-18, 16:10:47](https://lobste.rs/s/2rxagg/better_together_unifying_datalog) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
