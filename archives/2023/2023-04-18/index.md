@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 13:45:29](https://lobste.rs/s/pod6hu/tpc_h_benchmark_hyper_duckdb_datafusion) - [TPC-H benchmark of Hyper, DuckDB and Datafusion on Parquet files](https://www.architecture-performance.fr/ap_blog/tpc-h-benchmark-of-hyper-duckdb-and-datafusion-on-parquet-files/)
 * [2023-04-18, 13:09:43](https://lobste.rs/s/v3ssen/how_i_created_personalized_map_with_r) - [How I Created a Personalized Map with R, JavaScript, and more](https://www.visualcinnamon.com/2023/04/personal-map-norway-with-javascript/)
