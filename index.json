@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-18, 12:11:35",
+      "https://lobste.rs/s/gfsrlk/learning_visual_programming_context"
+    ],
+    [
+      "Learning (visual) programming in the context of music",
+      "https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/"
+    ]
+  ],
+  [
+    [
+      "2023-04-18, 12:05:41",
+      "https://lobste.rs/s/mbsftm/improving_messages_types_gdb_s_python_api"
+    ],
+    [
+      "Improving messages and types in GDB’s Python API",
+      "https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 11:43:50",
       "https://lobste.rs/s/c49sak/which_embedded_olap_database_pick"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-04-17, 13:30:10",
-      "https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters"
-    ],
-    [
-      "How does GPT-3 spend its 175B parameters?",
-      "https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 10:28:08",
       "https://lobste.rs/s/56cz5z/what_are_you_doing_this_week"
     ],
@@ -227,16 +237,6 @@
     [
       "Booting modern Intel CPUs",
       "https://mjg59.dreamwidth.org/66109.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 17:29:32",
-      "https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language"
-    ],
-    [
-      "Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive",
-      "https://simonwillison.net/2023/Apr/16/web-llm/"
     ]
   ],
   [
