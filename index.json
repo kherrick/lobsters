@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-18, 09:00:31",
+      "https://lobste.rs/s/hz8eoc/color_contrast"
+    ],
+    [
+      "Color & Contrast",
+      "https://colorandcontrast.com/"
+    ]
+  ],
+  [
+    [
+      "2023-04-18, 08:57:11",
+      "https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released"
+    ],
+    [
+      "Sniffnet v1.1.4 has just been released",
+      "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 06:54:39",
       "https://lobste.rs/s/afzqtj/new_xor_problem"
     ],
@@ -77,16 +97,6 @@
     [
       "LLM Introduction: Learn Language Models",
       "https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 17:06:14",
-      "https://lobste.rs/s/hx465a/catfacts_node_js"
-    ],
-    [
-      "CatFacts in Node.js",
-      "https://zackproser.com/software/catfacts"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Resolving the Great Undo-Redo Quandary",
       "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 08:55:28",
-      "https://lobste.rs/s/iksbf4/alien_artefacts"
-    ],
-    [
-      "Alien Artefacts",
-      "https://www.brautaset.org/posts/alien-artefacts.html"
     ]
   ]
 ]
