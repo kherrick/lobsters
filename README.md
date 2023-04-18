@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
+* [2023-04-18, 15:30:33](https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 13:45:29](https://lobste.rs/s/pod6hu/tpc_h_benchmark_hyper_duckdb_datafusion) - [TPC-H benchmark of Hyper, DuckDB and Datafusion on Parquet files](https://www.architecture-performance.fr/ap_blog/tpc-h-benchmark-of-hyper-duckdb-and-datafusion-on-parquet-files/)
@@ -18,10 +20,8 @@
 * [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
-* [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
-* [2023-04-17, 07:51:17](https://lobste.rs/s/j0az7n/worlds_simplest_bootloader_bare_metal) - [Worlds Simplest Bootloader: Bare Metal Programming Series](https://www.youtube.com/watch?v=cfNJ85cX-ms)
 * [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)

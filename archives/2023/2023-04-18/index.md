@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
+* [2023-04-18, 15:30:33](https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 13:45:29](https://lobste.rs/s/pod6hu/tpc_h_benchmark_hyper_duckdb_datafusion) - [TPC-H benchmark of Hyper, DuckDB and Datafusion on Parquet files](https://www.architecture-performance.fr/ap_blog/tpc-h-benchmark-of-hyper-duckdb-and-datafusion-on-parquet-files/)
