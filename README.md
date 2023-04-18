@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 22:53:19](https://lobste.rs/s/lvgu1q/component_driven_development_on_rails) - [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
@@ -17,7 +18,6 @@
 * [2023-04-18, 12:34:08](https://lobste.rs/s/i3ugkz/why_developers_never_use_state_machines) - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 * [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
 * [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
-* [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 05:26:48](https://lobste.rs/s/eelvhl/stack_exchange_programming_language) - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
