@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 14:32:08",
+      "https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early"
+    ],
+    [
+      "Announcing Fedora Linux 38 (a week early!)",
+      "https://fedoramagazine.org/announcing-fedora-38/"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 13:51:10",
       "https://lobste.rs/s/u0kfqp/generalized_macros"
     ],
@@ -237,16 +247,6 @@
     [
       "Worst Practices in Software Development",
       "https://www.youtube.com/@WorstPractices"
-    ]
-  ],
-  [
-    [
-      "2023-04-16, 17:24:18",
-      "https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary"
-    ],
-    [
-      "Resolving the Great Undo-Redo Quandary",
-      "https://github.com/zaboople/klonk/blob/master/TheGURQ.md"
     ]
   ]
 ]
