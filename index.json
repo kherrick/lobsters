@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-18, 15:33:03",
+      "https://lobste.rs/s/j695nq/reimagining_microservice_early_preview"
+    ],
+    [
+      "Reimagining the microservice: an early preview",
+      "https://www.unison-lang.org/whats-new/unison-services-preview/"
+    ]
+  ],
+  [
+    [
+      "2023-04-18, 15:30:33",
+      "https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel"
+    ],
+    [
+      "Emacs standing alone on a Linux Kernel",
+      "http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html"
+    ]
+  ],
+  [
+    [
       "2023-04-18, 14:32:08",
       "https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-04-17, 15:36:24",
-      "https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with"
-    ],
-    [
-      "New Zealand Bits & Bytes Interview with Steve Wozniak (1985)",
-      "https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 15:08:56",
       "https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking"
     ],
@@ -207,16 +217,6 @@
     [
       "Maintaining this site fucking sucks",
       "https://zackproser.com/blog/maintaining-this-site-fucking-sucks"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 07:51:17",
-      "https://lobste.rs/s/j0az7n/worlds_simplest_bootloader_bare_metal"
-    ],
-    [
-      "Worlds Simplest Bootloader: Bare Metal Programming Series",
-      "https://www.youtube.com/watch?v=cfNJ85cX-ms"
     ]
   ],
   [
