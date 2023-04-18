@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-18, 04:36:06",
+      "https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation"
+    ],
+    [
+      "PSA: upgrade your LUKS key derivation function",
+      "https://mjg59.dreamwidth.org/66429.html"
+    ]
+  ],
+  [
+    [
       "2023-04-17, 23:39:00",
       "https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter"
     ],
@@ -77,16 +87,6 @@
     [
       "Breaking the limits of TLA+ model checking",
       "https://www.hillelwayne.com/post/graphing-tla/"
-    ]
-  ],
-  [
-    [
-      "2023-04-17, 14:49:07",
-      "https://lobste.rs/s/azd2s5/cross_shard_transactions_at_10_million"
-    ],
-    [
-      "Cross shard transactions at 10 million requests per second (2018)",
-      "https://dropbox.tech/infrastructure/cross-shard-transactions-at-10-million-requests-per-second"
     ]
   ],
   [
