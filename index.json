@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-04-17, 23:42:30",
-      "https://lobste.rs/s/8zjqe9/android_auto_translate_auto_translate"
-    ],
-    [
-      "android-auto-translate: Auto translate strings.xml on Android using GitHub Actions",
-      "https://github.com/ashishb/android-auto-translate"
-    ]
-  ],
-  [
-    [
       "2023-04-17, 23:39:00",
       "https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter"
     ],
@@ -197,6 +187,16 @@
     [
       "Worst Practices in Software Development",
       "https://www.youtube.com/@WorstPractices"
+    ]
+  ],
+  [
+    [
+      "2023-04-17, 01:57:09",
+      "https://lobste.rs/s/9o6eco/naming_your_binary_executable_releases"
+    ],
+    [
+      "Naming Your Binary Executable Releases",
+      "https://blog.urth.org/2023/04/16/naming-your-binary-executable-releases/"
     ]
   ],
   [
