@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
+* [2023-04-18, 12:05:41](https://lobste.rs/s/mbsftm/improving_messages_types_gdb_s_python_api) - [Improving messages and types in GDB’s Python API](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
 * [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
 * [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)

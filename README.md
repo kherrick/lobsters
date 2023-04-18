@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
+* [2023-04-18, 12:05:41](https://lobste.rs/s/mbsftm/improving_messages_types_gdb_s_python_api) - [Improving messages and types in GDB’s Python API](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
 * [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
 * [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
@@ -14,7 +16,6 @@
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
-* [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
 * [2023-04-17, 10:28:08](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week)
 * [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
@@ -23,7 +24,6 @@
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
 * [2023-04-17, 00:32:02](https://lobste.rs/s/0auecd/booting_modern_intel_cpus) - [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
-* [2023-04-16, 17:29:32](https://lobste.rs/s/prfiun/web_llm_runs_vicuna_7b_large_language) - [Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive](https://simonwillison.net/2023/Apr/16/web-llm/)
 * [2023-04-16, 17:24:18](https://lobste.rs/s/lnpglt/resolving_great_undo_redo_quandary) - [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md)
 
 ## [Archives](archives/index.md)
