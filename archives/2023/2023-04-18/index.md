@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-18, 20:01:48](https://lobste.rs/s/uqd0fq/iamspy) - [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)

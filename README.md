@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-18, 20:01:48](https://lobste.rs/s/uqd0fq/iamspy) - [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
@@ -15,7 +16,6 @@
 * [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-18, 12:34:08](https://lobste.rs/s/i3ugkz/why_developers_never_use_state_machines) - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 * [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
-* [2023-04-18, 12:05:41](https://lobste.rs/s/mbsftm/improving_messages_types_gdb_s_python_api) - [Improving messages and types in GDB’s Python API](https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/)
 * [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
