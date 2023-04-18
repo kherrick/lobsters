@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 16:01:00](https://lobste.rs/s/8mwgdu/meson_vscode_develop_your_project_modern) - [Meson & VSCode: Develop your project in a modern IDE](https://www.collabora.com/news-and-blog/blog/2023/04/18/meson-and-vscode-develop-your-project-modern-ide/)
 * [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
 * [2023-04-18, 15:30:33](https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 16:01:00](https://lobste.rs/s/8mwgdu/meson_vscode_develop_your_project_modern) - [Meson & VSCode: Develop your project in a modern IDE](https://www.collabora.com/news-and-blog/blog/2023/04/18/meson-and-vscode-develop-your-project-modern-ide/)
 * [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
 * [2023-04-18, 15:30:33](https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
@@ -21,7 +22,6 @@
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
 * [2023-04-17, 16:34:23](https://lobste.rs/s/jrrxbu/keep_stuff_linkable) - [Keep Stuff Linkable](https://animaomnium.github.io/keep-stuff-linkable/)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
-* [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)
 * [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 * [2023-04-17, 04:52:10](https://lobste.rs/s/zm3zvq/i_made_my_blog_solar_powered_then_things) - [I made my blog solar-powered, then things escalated](https://louwrentius.com/i-made-my-blog-solar-powered-then-things-escalated.html)
 * [2023-04-17, 04:45:35](https://lobste.rs/s/f9owqy/worst_practices_software_development) - [Worst Practices in Software Development](https://www.youtube.com/@WorstPractices)
