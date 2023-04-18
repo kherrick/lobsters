@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 19:15:12](https://lobste.rs/s/e11k19/running_python_micro_benchmarks_using) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-18, 16:14:16](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme) - [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-18, 16:10:47](https://lobste.rs/s/2rxagg/better_together_unifying_datalog) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-18, 16:01:00](https://lobste.rs/s/8mwgdu/meson_vscode_develop_your_project_modern) - [Meson & VSCode: Develop your project in a modern IDE](https://www.collabora.com/news-and-blog/blog/2023/04/18/meson-and-vscode-develop-your-project-modern-ide/)
