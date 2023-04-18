@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 08:57:11](https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released) - [Sniffnet v1.1.4 has just been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4)
 * [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
@@ -14,7 +15,6 @@
 * [2023-04-17, 15:36:24](https://lobste.rs/s/vutpsi/new_zealand_bits_bytes_interview_with) - [New Zealand Bits & Bytes Interview with Steve Wozniak (1985)](https://computeradsfromthepast.substack.com/p/new-zealand-bits-and-bytes-interview)
 * [2023-04-17, 15:08:56](https://lobste.rs/s/4uecue/breaking_limits_tla_model_checking) - [Breaking the limits of TLA+ model checking](https://www.hillelwayne.com/post/graphing-tla/)
 * [2023-04-17, 13:30:10](https://lobste.rs/s/qaxfh0/how_does_gpt_3_spend_its_175b_parameters) - [How does GPT-3 spend its 175B parameters?](https://aizi.substack.com/p/how-does-gpt-3-spend-its-175b-parameters)
-* [2023-04-17, 12:35:24](https://lobste.rs/s/7hrhio/digit_recognition_shadertoy_draw_number) - [digit recognition in Shadertoy (draw a number)](https://www.shadertoy.com/view/msVXWD)
 * [2023-04-17, 10:28:08](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/56cz5z/what_are_you_doing_this_week)
 * [2023-04-17, 09:58:54](https://lobste.rs/s/xhtvch/linuxwave_generate_music_from_entropy) - [linuxwave: Generate music from the entropy of Linux](https://github.com/orhun/linuxwave)
 * [2023-04-17, 09:41:44](https://lobste.rs/s/7cwmcy/maintaining_this_site_fucking_sucks) - [Maintaining this site fucking sucks](https://zackproser.com/blog/maintaining-this-site-fucking-sucks)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-18](index.md)
 
+* [2023-04-18, 11:11:54](https://lobste.rs/s/by6gl6/collection_hotwire_examples_by) - [Collection of Hotwire examples by thoughtbot](https://github.com/thoughtbot/hotwire-example-template)
 * [2023-04-18, 09:00:31](https://lobste.rs/s/hz8eoc/color_contrast) - [Color & Contrast](https://colorandcontrast.com/)
 * [2023-04-18, 08:57:11](https://lobste.rs/s/ef43j2/sniffnet_v1_1_4_has_just_been_released) - [Sniffnet v1.1.4 has just been released](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.1.4)
 * [2023-04-18, 06:57:41](https://lobste.rs/s/qni9tp/hypothetical_world_where_netbsd_is_most) - [A Hypothetical World Where NetBSD is the Most Used Operating System](https://www.unitedbsd.com/blog/1058-a-hypothetical-world-where-netbsd-is-the-most-used-operating-system)
