@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-04-19, 04:42:04",
+      "https://lobste.rs/s/besvo7/functional_exception_less_error"
+    ],
+    [
+      "Functional exception-less error handling with C++23's optional and expected",
+      "https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 04:14:03",
       "https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony"
     ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2023-04-19, 00:05:07",
-      "https://lobste.rs/s/vs2rm6/2022_evolution_marginalia_s_crawling"
+      "2023-04-19, 00:57:21",
+      "https://lobste.rs/s/es0qlp/wang_tiles_turing_machines"
     ],
     [
-      "(2022) The Evolution of Marginalia's crawling",
-      "https://memex.marginalia.nu/log/63-marginalia-crawler.gmi"
+      "Wang Tiles and Turing Machines",
+      "https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Better Together: Unifying Datalog and Equality Saturation",
       "https://arxiv.org/abs/2304.04332"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 15:33:03",
-      "https://lobste.rs/s/j695nq/reimagining_microservice_early_preview"
-    ],
-    [
-      "Reimagining the microservice: an early preview",
-      "https://www.unison-lang.org/whats-new/unison-services-preview/"
     ]
   ],
   [
