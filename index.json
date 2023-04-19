@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-04-19, 14:28:08",
+      "https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023"
+    ],
+    [
+      "FreeBSD Status Report First Quarter 2023",
+      "https://www.freebsd.org/status/report-2023-01-2023-03/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 14:04:47",
       "https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle"
     ],
@@ -107,16 +117,6 @@
     [
       "Why did Prolog lose steam? (2010)",
       "https://www.kmjn.org/notes/prolog_lost_steam.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 10:36:38",
-      "https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit"
-    ],
-    [
-      "More Optimizations in the Compiler and JIT",
-      "https://www.erlang.org/blog/more-optimizations/"
     ]
   ],
   [
