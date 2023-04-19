@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 14:28:08](https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023) - [FreeBSD Status Report First Quarter 2023](https://www.freebsd.org/status/report-2023-01-2023-03/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [2023-04-19, 13:08:09](https://lobste.rs/s/ynoafx/better_rescript_js_ts_interop_with) - [Better Rescript JS/TS interop with customizable variants](https://rescript-lang.org/blog/improving-interop)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 12:56:46](https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our) - [Why Aren’t More Users More Happy With Our VMs? Part 1 (2018)](https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html)
-* [2023-04-19, 12:04:08](https://lobste.rs/s/xcijsl/fatal_choice) - [The Fatal Choice](https://vanemden.wordpress.com/2010/08/31/the-fatal-choice/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam) - [Why did Prolog lose steam?](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 10:36:38](https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit) - [More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
