@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam) - [Why did Prolog lose steam?](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 10:36:38](https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit) - [More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 10:31:32](https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r) - [Standard nonstandard evaluation rules in R](https://developer.r-project.org/nonstandard-eval.pdf)
 * [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
