@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 * [2023-04-19, 04:42:04](https://lobste.rs/s/besvo7/functional_exception_less_error) - [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
 * [2023-04-19, 00:57:21](https://lobste.rs/s/es0qlp/wang_tiles_turing_machines) - [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
@@ -10,7 +11,6 @@
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-18, 20:01:48](https://lobste.rs/s/uqd0fq/iamspy) - [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
-* [2023-04-18, 19:15:12](https://lobste.rs/s/e11k19/running_python_micro_benchmarks_using) - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://simonwillison.net/2023/Apr/12/code-interpreter/)
 * [2023-04-18, 16:14:16](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme) - [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-18, 16:10:47](https://lobste.rs/s/2rxagg/better_together_unifying_datalog) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
