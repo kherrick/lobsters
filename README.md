@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 * [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
@@ -11,7 +12,6 @@
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
-* [2023-04-18, 20:01:48](https://lobste.rs/s/uqd0fq/iamspy) - [IAMSpy](https://github.com/WithSecureLabs/IAMSpy)
 * [2023-04-18, 16:14:16](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme) - [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
 * [2023-04-18, 16:10:47](https://lobste.rs/s/2rxagg/better_together_unifying_datalog) - [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 * [2023-04-18, 15:33:03](https://lobste.rs/s/j695nq/reimagining_microservice_early_preview) - [Reimagining the microservice: an early preview](https://www.unison-lang.org/whats-new/unison-services-preview/)
