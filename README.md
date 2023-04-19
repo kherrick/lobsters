@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 12:56:46](https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our) - [Why Aren’t More Users More Happy With Our VMs? Part 1](https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html)
 * [2023-04-19, 12:04:08](https://lobste.rs/s/xcijsl/fatal_choice) - [The Fatal Choice](https://vanemden.wordpress.com/2010/08/31/the-fatal-choice/)
 * [2023-04-19, 11:59:20](https://lobste.rs/s/k8siiw/who_killed_prolog) - [Who Killed Prolog?](https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam) - [Why did Prolog lose steam?](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 10:36:38](https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit) - [More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
-* [2023-04-19, 10:31:32](https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r) - [Standard nonstandard evaluation rules in R](https://developer.r-project.org/nonstandard-eval.pdf)
 * [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
 * [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)

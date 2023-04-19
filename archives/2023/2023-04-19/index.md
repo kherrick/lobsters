@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 12:56:46](https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our) - [Why Aren’t More Users More Happy With Our VMs? Part 1](https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html)
 * [2023-04-19, 12:04:08](https://lobste.rs/s/xcijsl/fatal_choice) - [The Fatal Choice](https://vanemden.wordpress.com/2010/08/31/the-fatal-choice/)
 * [2023-04-19, 11:59:20](https://lobste.rs/s/k8siiw/who_killed_prolog) - [Who Killed Prolog?](https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam) - [Why did Prolog lose steam?](https://www.kmjn.org/notes/prolog_lost_steam.html)
