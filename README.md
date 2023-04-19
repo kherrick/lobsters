@@ -3,6 +3,7 @@
 * [2023-04-19, 19:03:29](https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser) - [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
 * [2023-04-19, 15:26:26](https://lobste.rs/s/zei6tr/new_voyage) - [A New Voyage](https://getsol.us/2023/04/18/a-new-voyage/)
 * [2023-04-19, 15:02:43](https://lobste.rs/s/abmrbs/are_there_characteristics_languages) - [Are there characteristics of languages that make them more suitable to LLM code assistance?](https://lobste.rs/s/abmrbs/are_there_characteristics_languages)
+* [2023-04-19, 14:28:08](https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023) - [FreeBSD Status Report First Quarter 2023](https://www.freebsd.org/status/report-2023-01-2023-03/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [2023-04-19, 13:06:55](https://lobste.rs/s/8hwbfl/fx_release_27_added_support_for_json) - [Fx release 27: added support for JSON-comments and JSON-streams](https://www.npmjs.com/package/fx)
@@ -24,7 +25,6 @@
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
-* [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 
 ## [Archives](archives/index.md)
 
