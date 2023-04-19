@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 12:04:08](https://lobste.rs/s/xcijsl/fatal_choice) - [The Fatal Choice](https://vanemden.wordpress.com/2010/08/31/the-fatal-choice/)
+* [2023-04-19, 11:59:20](https://lobste.rs/s/k8siiw/who_killed_prolog) - [Who Killed Prolog?](https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam) - [Why did Prolog lose steam?](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 10:36:38](https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit) - [More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
 * [2023-04-19, 10:31:32](https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r) - [Standard nonstandard evaluation rules in R](https://developer.r-project.org/nonstandard-eval.pdf)
@@ -10,8 +12,6 @@
 * [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 * [2023-04-19, 04:42:04](https://lobste.rs/s/besvo7/functional_exception_less_error) - [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
-* [2023-04-19, 00:57:21](https://lobste.rs/s/es0qlp/wang_tiles_turing_machines) - [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
-* [2023-04-18, 22:53:19](https://lobste.rs/s/lvgu1q/component_driven_development_on_rails) - [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
