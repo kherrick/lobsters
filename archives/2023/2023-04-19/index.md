@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 15:26:26](https://lobste.rs/s/zei6tr/new_voyage) - [A New Voyage](https://getsol.us/2023/04/18/a-new-voyage/)
 * [2023-04-19, 15:02:43](https://lobste.rs/s/abmrbs/are_there_characteristics_languages) - [Are there characteristics of languages that make them more suitable to LLM code assistance?](https://lobste.rs/s/abmrbs/are_there_characteristics_languages)
 * [2023-04-19, 14:45:12](https://lobste.rs/s/z0zagb/bluehat_il_2023) - [BlueHat IL 2023](https://www.youtube.com/playlist?list=PLnWGkkkDVeqhdnqaHp0RsBeDq7V_RPFjr)
 * [2023-04-19, 14:28:08](https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023) - [FreeBSD Status Report First Quarter 2023](https://www.freebsd.org/status/report-2023-01-2023-03/)
