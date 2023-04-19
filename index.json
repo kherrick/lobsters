@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-19, 19:03:29",
+      "https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser"
+    ],
+    [
+      "Hacking the Nintendo DSi Browser",
+      "https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 15:26:26",
       "https://lobste.rs/s/zei6tr/new_voyage"
     ],
@@ -197,16 +207,6 @@
     [
       "Offline Is Just Online With Extreme Latency",
       "https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 16:10:47",
-      "https://lobste.rs/s/2rxagg/better_together_unifying_datalog"
-    ],
-    [
-      "Better Together: Unifying Datalog and Equality Saturation",
-      "https://arxiv.org/abs/2304.04332"
     ]
   ],
   [
