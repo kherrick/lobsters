@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-19, 10:36:38",
+      "https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit"
+    ],
+    [
+      "More Optimizations in the Compiler and JIT",
+      "https://www.erlang.org/blog/more-optimizations/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 10:31:32",
+      "https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r"
+    ],
+    [
+      "Standard nonstandard evaluation rules in R",
+      "https://developer.r-project.org/nonstandard-eval.pdf"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 09:37:15",
       "https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project"
     ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2023-04-19, 00:57:21",
-      "https://lobste.rs/s/es0qlp/wang_tiles_turing_machines"
-    ],
-    [
-      "Wang Tiles and Turing Machines",
-      "https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/"
-    ]
-  ],
-  [
-    [
       "2023-04-19, 00:05:07",
       "https://lobste.rs/s/vs2rm6/2022_evolution_marginalia_s_crawling"
     ],
     [
       "(2022) The Evolution of Marginalia's crawling",
       "https://memex.marginalia.nu/log/63-marginalia-crawler.gmi"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 22:53:19",
-      "https://lobste.rs/s/lvgu1q/component_driven_development_on_rails"
-    ],
-    [
-      "Component driven development on Rails with Phlex",
-      "https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/"
     ]
   ],
   [
