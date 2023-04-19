@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-19, 04:42:04",
+      "https://lobste.rs/s/besvo7/functional_exception_less_error"
+    ],
+    [
+      "Functional exception-less error handling with C++23's optional and expected",
+      "https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 04:14:03",
       "https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony"
     ],
@@ -157,16 +167,6 @@
     [
       "Generalized Macros",
       "https://ianthehenry.com/posts/generalized-macros/"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 13:45:29",
-      "https://lobste.rs/s/pod6hu/tpc_h_benchmark_hyper_duckdb_datafusion"
-    ],
-    [
-      "TPC-H benchmark of Hyper, DuckDB and Datafusion on Parquet files",
-      "https://www.architecture-performance.fr/ap_blog/tpc-h-benchmark-of-hyper-duckdb-and-datafusion-on-parquet-files/"
     ]
   ],
   [
