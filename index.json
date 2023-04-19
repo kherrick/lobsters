@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-19, 12:56:46",
+      "https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our"
+    ],
+    [
+      "Why Aren’t More Users More Happy With Our VMs? Part 1",
+      "https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 12:04:08",
       "https://lobste.rs/s/xcijsl/fatal_choice"
     ],
@@ -37,16 +47,6 @@
     [
       "More Optimizations in the Compiler and JIT",
       "https://www.erlang.org/blog/more-optimizations/"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 10:31:32",
-      "https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r"
-    ],
-    [
-      "Standard nonstandard evaluation rules in R",
-      "https://developer.r-project.org/nonstandard-eval.pdf"
     ]
   ],
   [
