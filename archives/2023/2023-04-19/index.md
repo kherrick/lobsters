@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [2023-04-19, 13:08:09](https://lobste.rs/s/ynoafx/better_rescript_js_ts_interop_with) - [Better Rescript JS/TS interop with customizable variants](https://rescript-lang.org/blog/improving-interop)
+* [2023-04-19, 13:06:55](https://lobste.rs/s/8hwbfl/fx_release_27_added_support_for_json) - [Fx release 27: added support for JSON-comments and JSON-streams](https://www.npmjs.com/package/fx)
+* [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 12:56:46](https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our) - [Why Aren’t More Users More Happy With Our VMs? Part 1](https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html)
 * [2023-04-19, 12:04:08](https://lobste.rs/s/xcijsl/fatal_choice) - [The Fatal Choice](https://vanemden.wordpress.com/2010/08/31/the-fatal-choice/)
 * [2023-04-19, 11:59:20](https://lobste.rs/s/k8siiw/who_killed_prolog) - [Who Killed Prolog?](https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/)
