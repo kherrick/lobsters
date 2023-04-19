@@ -2,9 +2,9 @@
 
 * [2023-04-19, 15:26:26](https://lobste.rs/s/zei6tr/new_voyage) - [A New Voyage](https://getsol.us/2023/04/18/a-new-voyage/)
 * [2023-04-19, 15:02:43](https://lobste.rs/s/abmrbs/are_there_characteristics_languages) - [Are there characteristics of languages that make them more suitable to LLM code assistance?](https://lobste.rs/s/abmrbs/are_there_characteristics_languages)
-* [2023-04-19, 14:45:12](https://lobste.rs/s/z0zagb/bluehat_il_2023) - [BlueHat IL 2023](https://www.youtube.com/playlist?list=PLnWGkkkDVeqhdnqaHp0RsBeDq7V_RPFjr)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
+* [2023-04-19, 13:06:55](https://lobste.rs/s/8hwbfl/fx_release_27_added_support_for_json) - [Fx release 27: added support for JSON-comments and JSON-streams](https://www.npmjs.com/package/fx)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 12:56:46](https://lobste.rs/s/phlnrx/why_aren_t_more_users_more_happy_with_our) - [Why Aren’t More Users More Happy With Our VMs? Part 1 (2018)](https://tratt.net/laurie/blog/2018/why_arent_more_users_more_happy_with_our_vms_part_1.html)
 * [2023-04-19, 11:59:20](https://lobste.rs/s/k8siiw/who_killed_prolog) - [Who Killed Prolog?](https://vanemden.wordpress.com/2010/08/21/who-killed-prolog/)
