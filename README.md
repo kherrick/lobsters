@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
 * [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
@@ -22,7 +23,6 @@
 * [2023-04-18, 12:34:08](https://lobste.rs/s/i3ugkz/why_developers_never_use_state_machines) - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
 * [2023-04-18, 12:11:35](https://lobste.rs/s/gfsrlk/learning_visual_programming_context) - [Learning (visual) programming in the context of music](https://www.ableton.com/en/blog/learn-to-build-your-own-max-for-live-devices-with-our-new-free-pack/)
 * [2023-04-18, 11:43:50](https://lobste.rs/s/c49sak/which_embedded_olap_database_pick) - [Which embedded OLAP database to pick?](https://www.zaynetro.com/post/2023-playing-with-olap/)
-* [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 05:26:48](https://lobste.rs/s/eelvhl/stack_exchange_programming_language) - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 
