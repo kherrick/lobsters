@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 00:57:21](https://lobste.rs/s/es0qlp/wang_tiles_turing_machines) - [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
+* [2023-04-19, 00:05:07](https://lobste.rs/s/vs2rm6/2022_evolution_marginalia_s_crawling) - [(2022) The Evolution of Marginalia's crawling](https://memex.marginalia.nu/log/63-marginalia-crawler.gmi)
+* [2023-04-19, 00:01:28](https://lobste.rs/s/rtttnz/reasons_avoid_javascript_cdns) - [Reasons to avoid Javascript CDNs](https://blog.wesleyac.com/posts/why-not-javascript-cdn)
 * [2023-04-18, 22:53:19](https://lobste.rs/s/lvgu1q/component_driven_development_on_rails) - [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
@@ -21,10 +24,7 @@
 * [2023-04-18, 06:54:39](https://lobste.rs/s/afzqtj/new_xor_problem) - [The New XOR Problem](https://blog.wtf.sg/posts/2023-02-03-the-new-xor-problem/)
 * [2023-04-18, 05:26:48](https://lobste.rs/s/eelvhl/stack_exchange_programming_language) - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
-* [2023-04-17, 23:39:00](https://lobste.rs/s/w9kppy/doom_maps_svg_laser_cutter) - [DOOM maps to SVG to laser cutter](https://theor.xyz/doom-maps-laser-cut/)
-* [2023-04-17, 23:28:31](https://lobste.rs/s/6iasi1/ocaml_data_race_freedom_proposal) - [OCaml Data Race Freedom Proposal](https://github.com/ocaml-flambda/ocaml-jst/blob/main/jane/doc/proposals/data-race-freedom.md)
 * [2023-04-17, 18:40:16](https://lobste.rs/s/34mbsz/llm_introduction_learn_language_models) - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d)
-* [2023-04-17, 06:59:22](https://lobste.rs/s/j1h2lx/monthly_fediverse_posts_cross_1_billion) - [Monthly Fediverse posts cross 1 billion for the first time](https://masto.ai/@mg/110212843144499061)
 
 ## [Archives](archives/index.md)
 
