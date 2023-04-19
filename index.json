@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-04-19, 14:28:08",
+      "https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023"
+    ],
+    [
+      "FreeBSD Status Report First Quarter 2023",
+      "https://www.freebsd.org/status/report-2023-01-2023-03/"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 14:04:47",
       "https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle"
     ],
@@ -237,16 +247,6 @@
     [
       "Load Balancing",
       "https://samwho.dev/load-balancing/"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 04:36:06",
-      "https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation"
-    ],
-    [
-      "PSA: upgrade your LUKS key derivation function",
-      "https://mjg59.dreamwidth.org/66429.html"
     ]
   ]
 ]
