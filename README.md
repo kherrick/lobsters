@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 04:42:04](https://lobste.rs/s/besvo7/functional_exception_less_error) - [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
 * [2023-04-19, 00:57:21](https://lobste.rs/s/es0qlp/wang_tiles_turing_machines) - [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
 * [2023-04-19, 00:05:07](https://lobste.rs/s/vs2rm6/2022_evolution_marginalia_s_crawling) - [(2022) The Evolution of Marginalia's crawling](https://memex.marginalia.nu/log/63-marginalia-crawler.gmi)
@@ -16,7 +17,6 @@
 * [2023-04-18, 15:30:33](https://lobste.rs/s/fkau4o/emacs_standing_alone_on_linux_kernel) - [Emacs standing alone on a Linux Kernel](http://informatimago.free.fr/i/linux/emacs-on-user-mode-linux.html)
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
-* [2023-04-18, 13:45:29](https://lobste.rs/s/pod6hu/tpc_h_benchmark_hyper_duckdb_datafusion) - [TPC-H benchmark of Hyper, DuckDB and Datafusion on Parquet files](https://www.architecture-performance.fr/ap_blog/tpc-h-benchmark-of-hyper-duckdb-and-datafusion-on-parquet-files/)
 * [2023-04-18, 13:09:43](https://lobste.rs/s/v3ssen/how_i_created_personalized_map_with_r) - [How I Created a Personalized Map with R, JavaScript, and more](https://www.visualcinnamon.com/2023/04/personal-map-norway-with-javascript/)
 * [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
 * [2023-04-18, 12:34:08](https://lobste.rs/s/i3ugkz/why_developers_never_use_state_machines) - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/)
