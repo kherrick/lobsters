@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-19, 21:07:00",
+      "https://lobste.rs/s/kvqy7e/simplifying_bezier_paths"
+    ],
+    [
+      "Simplifying Bézier paths",
+      "https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 19:03:29",
       "https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser"
     ],
@@ -27,16 +37,6 @@
     [
       "Are there characteristics of languages that make them more suitable to LLM code assistance?",
       "https://lobste.rs/s/abmrbs/are_there_characteristics_languages"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 14:28:08",
-      "https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023"
-    ],
-    [
-      "FreeBSD Status Report First Quarter 2023",
-      "https://www.freebsd.org/status/report-2023-01-2023-03/"
     ]
   ],
   [
