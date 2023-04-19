@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 19:03:29](https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser) - [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
 * [2023-04-19, 15:26:26](https://lobste.rs/s/zei6tr/new_voyage) - [A New Voyage](https://getsol.us/2023/04/18/a-new-voyage/)
 * [2023-04-19, 15:02:43](https://lobste.rs/s/abmrbs/are_there_characteristics_languages) - [Are there characteristics of languages that make them more suitable to LLM code assistance?](https://lobste.rs/s/abmrbs/are_there_characteristics_languages)
 * [2023-04-19, 14:45:12](https://lobste.rs/s/z0zagb/bluehat_il_2023) - [BlueHat IL 2023](https://www.youtube.com/playlist?list=PLnWGkkkDVeqhdnqaHp0RsBeDq7V_RPFjr)
