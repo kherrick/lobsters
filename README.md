@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 10:36:38](https://lobste.rs/s/c4mfma/more_optimizations_compiler_jit) - [More Optimizations in the Compiler and JIT](https://www.erlang.org/blog/more-optimizations/)
+* [2023-04-19, 10:31:32](https://lobste.rs/s/mu0b8e/standard_nonstandard_evaluation_rules_r) - [Standard nonstandard evaluation rules in R](https://developer.r-project.org/nonstandard-eval.pdf)
 * [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
 * [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
@@ -7,9 +9,7 @@
 * [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 * [2023-04-19, 04:42:04](https://lobste.rs/s/besvo7/functional_exception_less_error) - [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
-* [2023-04-19, 00:57:21](https://lobste.rs/s/es0qlp/wang_tiles_turing_machines) - [Wang Tiles and Turing Machines](https://grahamshawcross.com/2012/10/12/wang-tiles-and-turing-machines/)
 * [2023-04-19, 00:05:07](https://lobste.rs/s/vs2rm6/2022_evolution_marginalia_s_crawling) - [(2022) The Evolution of Marginalia's crawling](https://memex.marginalia.nu/log/63-marginalia-crawler.gmi)
-* [2023-04-18, 22:53:19](https://lobste.rs/s/lvgu1q/component_driven_development_on_rails) - [Component driven development on Rails with Phlex](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:48:19](https://lobste.rs/s/cqvcux/triple_threat_nso_group_s_pegasus_spyware) - [Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
