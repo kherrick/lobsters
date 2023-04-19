@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
 * [2023-04-19, 13:08:09](https://lobste.rs/s/ynoafx/better_rescript_js_ts_interop_with) - [Better Rescript JS/TS interop with customizable variants](https://rescript-lang.org/blog/improving-interop)
 * [2023-04-19, 13:06:55](https://lobste.rs/s/8hwbfl/fx_release_27_added_support_for_json) - [Fx release 27: added support for JSON-comments and JSON-streams](https://www.npmjs.com/package/fx)
