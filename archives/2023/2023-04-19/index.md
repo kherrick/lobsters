@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 14:45:12](https://lobste.rs/s/z0zagb/bluehat_il_2023) - [BlueHat IL 2023](https://www.youtube.com/playlist?list=PLnWGkkkDVeqhdnqaHp0RsBeDq7V_RPFjr)
 * [2023-04-19, 14:28:08](https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023) - [FreeBSD Status Report First Quarter 2023](https://www.freebsd.org/status/report-2023-01-2023-03/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-19, 14:45:12](https://lobste.rs/s/z0zagb/bluehat_il_2023) - [BlueHat IL 2023](https://www.youtube.com/playlist?list=PLnWGkkkDVeqhdnqaHp0RsBeDq7V_RPFjr)
 * [2023-04-19, 14:28:08](https://lobste.rs/s/ybeves/freebsd_status_report_first_quarter_2023) - [FreeBSD Status Report First Quarter 2023](https://www.freebsd.org/status/report-2023-01-2023-03/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:21:28](https://lobste.rs/s/68nai7/plea_for_lean_software_1995) - [A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf)
@@ -23,7 +24,6 @@
 * [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
-* [2023-04-18, 05:26:48](https://lobste.rs/s/eelvhl/stack_exchange_programming_language) - [Stack Exchange Programming Language Design and Implementation is ready for launch](https://area51.stackexchange.com/proposals/127456)
 * [2023-04-18, 04:36:06](https://lobste.rs/s/ik7j1s/psa_upgrade_your_luks_key_derivation) - [PSA: upgrade your LUKS key derivation function](https://mjg59.dreamwidth.org/66429.html)
 
 ## [Archives](archives/index.md)
