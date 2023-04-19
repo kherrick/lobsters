@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-19](index.md)
 
+* [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
+* [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 * [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 * [2023-04-19, 04:42:04](https://lobste.rs/s/besvo7/functional_exception_less_error) - [Functional exception-less error handling with C++23's optional and expected](https://devblogs.microsoft.com/cppblog/cpp23s-optional-and-expected/)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
