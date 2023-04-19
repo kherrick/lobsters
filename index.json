@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-19, 06:03:21",
+      "https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling"
+    ],
+    [
+      "Astral: Next-gen Python tooling",
+      "https://astral.sh/"
+    ]
+  ],
+  [
+    [
+      "2023-04-19, 06:01:46",
+      "https://lobste.rs/s/mavub8/love_letter_make"
+    ],
+    [
+      "A love letter to make",
+      "https://kmaasrud.com/blog/make"
+    ]
+  ],
+  [
+    [
       "2023-04-19, 05:32:50",
       "https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based"
     ],
@@ -47,16 +67,6 @@
     [
       "(2022) The Evolution of Marginalia's crawling",
       "https://memex.marginalia.nu/log/63-marginalia-crawler.gmi"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 00:01:28",
-      "https://lobste.rs/s/rtttnz/reasons_avoid_javascript_cdns"
-    ],
-    [
-      "Reasons to avoid Javascript CDNs",
-      "https://blog.wesleyac.com/posts/why-not-javascript-cdn"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Generalized Macros",
       "https://ianthehenry.com/posts/generalized-macros/"
-    ]
-  ],
-  [
-    [
-      "2023-04-18, 13:09:43",
-      "https://lobste.rs/s/v3ssen/how_i_created_personalized_map_with_r"
-    ],
-    [
-      "How I Created a Personalized Map with R, JavaScript, and more",
-      "https://www.visualcinnamon.com/2023/04/personal-map-norway-with-javascript/"
     ]
   ],
   [
