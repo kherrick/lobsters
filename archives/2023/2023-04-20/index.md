@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 19:37:18](https://lobste.rs/s/yfw5pk/net_8_preview_3_simplified_output_path) - [.NET 8 Preview 3: Simplified Output Path format for Builds](https://danschnau.com/blog/net-8-artifacts-directory)
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
 * [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)

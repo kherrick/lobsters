@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 19:37:18](https://lobste.rs/s/yfw5pk/net_8_preview_3_simplified_output_path) - [.NET 8 Preview 3: Simplified Output Path format for Builds](https://danschnau.com/blog/net-8-artifacts-directory)
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
 * [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
@@ -18,7 +19,6 @@
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
 * [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
-* [2023-04-20, 01:16:56](https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design) - [Annotations in Kubernetes Operator Design](https://sklar.rocks/kubernetes-operators-annotations/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam_2010) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
