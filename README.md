@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 10:15:02](https://lobste.rs/s/tmzh19/qr_sculpture_trinity_3_1) - [QR-sculpture \"Trinity\" – 3 in 1](https://frank-haase-design.de/en/galerie/qr-art/qr-plastik-trinity)
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 * [2023-04-20, 08:12:56](https://lobste.rs/s/hhsb4e/linq_z3_theorem_solving_on_steroids_2009) - [LINQ to Z3 – Theorem Solving on Steroids (2009)](https://web.archive.org/web/20210512180535/http://community.bartdesmet.net/blogs/bart/archive/2009/04/19/linq-to-z3-theorem-solving-on-steroids-part-0.aspx)
@@ -24,7 +25,6 @@
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
-* [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 
 ## [Archives](archives/index.md)
 
