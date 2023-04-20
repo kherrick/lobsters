@@ -9,6 +9,7 @@
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 16:55:38](https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions) - [Qt CAN Bus API extensions](https://www.qt.io/blog/qt-can-bus-api-extensions)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
+* [2023-04-20, 15:01:39](https://lobste.rs/s/w7moru/minigpt_4) - [Minigpt-4](https://minigpt-4.github.io/)
 * [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 10:15:02](https://lobste.rs/s/tmzh19/qr_sculpture_trinity_3_1) - [QR-sculpture \"Trinity\" – 3 in 1](https://frank-haase-design.de/en/galerie/qr-art/qr-plastik-trinity)
@@ -24,7 +25,6 @@
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam_2010) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
-* [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 
 ## [Archives](archives/index.md)
 
