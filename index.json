@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-20, 19:37:18",
+      "https://lobste.rs/s/yfw5pk/net_8_preview_3_simplified_output_path"
+    ],
+    [
+      ".NET 8 Preview 3: Simplified Output Path format for Builds",
+      "https://danschnau.com/blog/net-8-artifacts-directory"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 19:29:17",
       "https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix"
     ],
@@ -177,16 +187,6 @@
     [
       "The Waterfall Model",
       "http://nethack4.org/esolangs/waterfall/"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 01:16:56",
-      "https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design"
-    ],
-    [
-      "Annotations in Kubernetes Operator Design",
-      "https://sklar.rocks/kubernetes-operators-annotations/"
     ]
   ],
   [
