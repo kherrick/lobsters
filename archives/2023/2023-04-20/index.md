@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 10:15:02](https://lobste.rs/s/tmzh19/qr_sculpture_trinity_3_1) - [QR-sculpture \"Trinity\" – 3 in 1](https://frank-haase-design.de/en/galerie/qr-art/qr-plastik-trinity)
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
