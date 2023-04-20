@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
 * [2023-04-20, 04:04:33](https://lobste.rs/s/iczezk/underscores_numeric_constants) - [Underscores in numeric constants in PostgreSQL 16](https://www.cybertec-postgresql.com/en/underscores-in-numeric-constants-in-postgresql-16/)
 * [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-20, 01:16:56](https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design) - [Annotations in Kubernetes Operator Design](https://sklar.rocks/kubernetes-operators-annotations/)
-* [2023-04-20, 00:22:28](https://lobste.rs/s/txfdii/go_integration_testing_with_courage) - [Go integration testing with courage and coverage](https://evilmartians.com/chronicles/go-integration-testing-with-courage-and-coverage)
 * [2023-04-19, 21:07:00](https://lobste.rs/s/kvqy7e/simplifying_bezier_paths) - [Simplifying Bézier paths](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)
 * [2023-04-19, 19:03:29](https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser) - [Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
 * [2023-04-19, 15:26:26](https://lobste.rs/s/zei6tr/new_voyage) - [A New Voyage](https://getsol.us/2023/04/18/a-new-voyage/)

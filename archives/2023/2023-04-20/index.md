@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
 * [2023-04-20, 04:04:33](https://lobste.rs/s/iczezk/underscores_numeric_constants) - [Underscores in numeric constants in PostgreSQL 16](https://www.cybertec-postgresql.com/en/underscores-in-numeric-constants-in-postgresql-16/)
 * [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
