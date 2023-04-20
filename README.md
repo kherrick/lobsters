@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/this_new_technology_could_blow_away_gpt_4) - [This new technology could blow away GPT-4 and everything like it](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-20, 19:47:06](https://lobste.rs/s/dhnkpj/pretrained_transformers_as_universal) - [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/abs/2103.05247)
 * [2023-04-20, 19:37:18](https://lobste.rs/s/yfw5pk/net_8_preview_3_simplified_output_path) - [.NET 8 Preview 3: Simplified Output Path format for Builds](https://danschnau.com/blog/net-8-artifacts-directory)
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
@@ -7,7 +8,6 @@
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 * [2023-04-20, 18:23:59](https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise) - [3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
-* [2023-04-20, 16:55:38](https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions) - [Qt CAN Bus API extensions](https://www.qt.io/blog/qt-can-bus-api-extensions)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
 * [2023-04-20, 15:01:39](https://lobste.rs/s/w7moru/minigpt_4) - [Minigpt-4](https://minigpt-4.github.io/)
 * [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
