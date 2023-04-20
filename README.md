@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-20, 01:16:56](https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design) - [Annotations in Kubernetes Operator Design](https://sklar.rocks/kubernetes-operators-annotations/)
 * [2023-04-20, 00:22:28](https://lobste.rs/s/txfdii/go_integration_testing_with_courage) - [Go integration testing with courage and coverage](https://evilmartians.com/chronicles/go-integration-testing-with-courage-and-coverage)
 * [2023-04-19, 21:07:00](https://lobste.rs/s/kvqy7e/simplifying_bezier_paths) - [Simplifying Bézier paths](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)
@@ -22,7 +23,6 @@
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
 * [2023-04-18, 16:14:16](https://lobste.rs/s/adeuhl/offline_is_just_online_with_extreme) - [Offline Is Just Online With Extreme Latency](https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/)
-* [2023-04-18, 14:32:08](https://lobste.rs/s/asg5yq/announcing_fedora_linux_38_week_early) - [Announcing Fedora Linux 38 (a week early!)](https://fedoramagazine.org/announcing-fedora-38/)
 * [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
 * [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
 
