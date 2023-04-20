@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 * [2023-04-20, 08:12:56](https://lobste.rs/s/hhsb4e/linq_z3_theorem_solving_on_steroids_2009) - [LINQ to Z3 – Theorem Solving on Steroids (2009)](https://web.archive.org/web/20210512180535/http://community.bartdesmet.net/blogs/bart/archive/2009/04/19/linq-to-z3-theorem-solving-on-steroids-part-0.aspx)
 * [2023-04-20, 07:26:10](https://lobste.rs/s/z1blzv/building_gstreamer_plugin_rust_with) - [Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 * [2023-04-20, 06:56:55](https://lobste.rs/s/yik3wm/freebsd_wifi_suggested_working_adapters) - [FreeBSD WiFi Suggested/Working Adapters](https://gist.github.com/grahamperrin/0d6cca0e463c5fdc089e84ed442e214c)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
-* [2023-04-20, 06:53:09](https://lobste.rs/s/hcuo6c/freebsd_13_2_review) - [FreeBSD 13.2 Review](https://cloud7.news/article/freebsd-13-2-review/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
 * [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
 * [2023-04-20, 04:04:33](https://lobste.rs/s/iczezk/underscores_numeric_constants) - [Underscores in numeric constants in PostgreSQL 16](https://www.cybertec-postgresql.com/en/underscores-in-numeric-constants-in-postgresql-16/)
