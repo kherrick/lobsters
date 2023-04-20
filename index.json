@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-20, 19:29:17",
+      "https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix"
+    ],
+    [
+      "The world's fastest unified matrix multiplication",
+      "https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 19:02:55",
       "https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus"
     ],
@@ -57,16 +67,6 @@
     [
       "Announcing Chapel 1.30.0",
       "https://chapel-lang.org/blog/posts/announcing-chapel-1.30/"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 15:01:39",
-      "https://lobste.rs/s/w7moru/minigpt_4"
-    ],
-    [
-      "Minigpt-4",
-      "https://minigpt-4.github.io/"
     ]
   ],
   [
