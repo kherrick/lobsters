@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
 * [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 * [2023-04-20, 18:23:59](https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise) - [3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise)
