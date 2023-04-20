@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 16:55:38](https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions) - [Qt CAN Bus API extensions](https://www.qt.io/blog/qt-can-bus-api-extensions)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
 * [2023-04-20, 15:01:39](https://lobste.rs/s/w7moru/minigpt_4) - [Minigpt-4](https://minigpt-4.github.io/)
@@ -18,7 +19,6 @@
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-20, 01:16:56](https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design) - [Annotations in Kubernetes Operator Design](https://sklar.rocks/kubernetes-operators-annotations/)
 * [2023-04-19, 21:07:00](https://lobste.rs/s/kvqy7e/simplifying_bezier_paths) - [Simplifying Bézier paths](https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html)
-* [2023-04-19, 15:02:43](https://lobste.rs/s/abmrbs/are_there_characteristics_languages) - [Are there characteristics of languages that make them more suitable to LLM code assistance?](https://lobste.rs/s/abmrbs/are_there_characteristics_languages)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam_2010) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
