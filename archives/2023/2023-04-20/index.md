@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 08:12:56](https://lobste.rs/s/hhsb4e/linq_z3_theorem_solving_on_steroids_2009) - [LINQ to Z3 – Theorem Solving on Steroids (2009)](https://web.archive.org/web/20210512180535/http://community.bartdesmet.net/blogs/bart/archive/2009/04/19/linq-to-z3-theorem-solving-on-steroids-part-0.aspx)
 * [2023-04-20, 07:26:10](https://lobste.rs/s/z1blzv/building_gstreamer_plugin_rust_with) - [Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 * [2023-04-20, 06:56:55](https://lobste.rs/s/yik3wm/freebsd_wifi_suggested_working_adapters) - [FreeBSD WiFi Suggested/Working Adapters](https://gist.github.com/grahamperrin/0d6cca0e463c5fdc089e84ed442e214c)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
