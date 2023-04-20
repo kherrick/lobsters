@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 07:26:10](https://lobste.rs/s/z1blzv/building_gstreamer_plugin_rust_with) - [Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 * [2023-04-20, 06:56:55](https://lobste.rs/s/yik3wm/freebsd_wifi_suggested_working_adapters) - [FreeBSD WiFi Suggested/Working Adapters](https://gist.github.com/grahamperrin/0d6cca0e463c5fdc089e84ed442e214c)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
 * [2023-04-20, 06:53:09](https://lobste.rs/s/hcuo6c/freebsd_13_2_review) - [FreeBSD 13.2 Review](https://cloud7.news/article/freebsd-13-2-review/)
