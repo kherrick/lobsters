@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 06:53:09](https://lobste.rs/s/hcuo6c/freebsd_13_2_review) - [FreeBSD 13.2 Review](https://cloud7.news/article/freebsd-13-2-review/)
+* [2023-04-20, 06:52:47](https://lobste.rs/s/7d6g8t/how_upgrade_from_freebsd_13_1_freebsd_13_2) - [How to Upgrade from FreeBSD 13.1 to FreeBSD 13.2](https://ostechnix.com/freebsd-upgrade/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
 * [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
 * [2023-04-20, 04:04:33](https://lobste.rs/s/iczezk/underscores_numeric_constants) - [Underscores in numeric constants in PostgreSQL 16](https://www.cybertec-postgresql.com/en/underscores-in-numeric-constants-in-postgresql-16/)
@@ -23,8 +25,6 @@
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
-* [2023-04-18, 13:51:10](https://lobste.rs/s/u0kfqp/generalized_macros) - [Generalized Macros](https://ianthehenry.com/posts/generalized-macros/)
-* [2023-04-18, 12:52:02](https://lobste.rs/s/kydugs/load_balancing) - [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## [Archives](archives/index.md)
 

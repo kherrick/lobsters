@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 06:53:09](https://lobste.rs/s/hcuo6c/freebsd_13_2_review) - [FreeBSD 13.2 Review](https://cloud7.news/article/freebsd-13-2-review/)
+* [2023-04-20, 06:52:47](https://lobste.rs/s/7d6g8t/how_upgrade_from_freebsd_13_1_freebsd_13_2) - [How to Upgrade from FreeBSD 13.1 to FreeBSD 13.2](https://ostechnix.com/freebsd-upgrade/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer_biff) - [Why I like Clojure as a solo developer | Biff](https://biffweb.com/docs/essays/why-i-like-clojure/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
 * [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
