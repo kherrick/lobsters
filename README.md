@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/this_new_technology_could_blow_away_gpt_4) - [This new technology could blow away GPT-4 and everything like it](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
+* [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-20, 19:47:06](https://lobste.rs/s/dhnkpj/pretrained_transformers_as_universal) - [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/abs/2103.05247)
 * [2023-04-20, 19:37:18](https://lobste.rs/s/yfw5pk/net_8_preview_3_simplified_output_path) - [.NET 8 Preview 3: Simplified Output Path format for Builds](https://danschnau.com/blog/net-8-artifacts-directory)
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
