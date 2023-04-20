@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-20, 06:56:55",
+      "https://lobste.rs/s/yik3wm/freebsd_wifi_suggested_working_adapters"
+    ],
+    [
+      "FreeBSD WiFi Suggested/Working Adapters",
+      "https://gist.github.com/grahamperrin/0d6cca0e463c5fdc089e84ed442e214c"
+    ]
+  ],
+  [
+    [
+      "2023-04-20, 06:55:01",
+      "https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs"
+    ],
+    [
+      "More Adaptive ARC Eviction for OpenZFS",
+      "https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 06:53:09",
       "https://lobste.rs/s/hcuo6c/freebsd_13_2_review"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-04-19, 19:03:29",
-      "https://lobste.rs/s/uxatzm/hacking_nintendo_dsi_browser"
-    ],
-    [
-      "Hacking the Nintendo DSi Browser",
-      "https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser"
-    ]
-  ],
-  [
-    [
       "2023-04-19, 15:26:26",
       "https://lobste.rs/s/zei6tr/new_voyage"
     ],
@@ -137,16 +147,6 @@
     [
       "A Plea for Lean Software (1995)",
       "https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 13:06:55",
-      "https://lobste.rs/s/8hwbfl/fx_release_27_added_support_for_json"
-    ],
-    [
-      "Fx release 27: added support for JSON-comments and JSON-streams",
-      "https://www.npmjs.com/package/fx"
     ]
   ],
   [
