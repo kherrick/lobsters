@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-20, 01:16:56](https://lobste.rs/s/6hstbv/annotations_kubernetes_operator_design) - [Annotations in Kubernetes Operator Design](https://sklar.rocks/kubernetes-operators-annotations/)
 * [2023-04-20, 00:22:28](https://lobste.rs/s/txfdii/go_integration_testing_with_courage) - [Go integration testing with courage and coverage](https://evilmartians.com/chronicles/go-integration-testing-with-courage-and-coverage)
@@ -18,7 +19,6 @@
 * [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
-* [2023-04-19, 05:32:50](https://lobste.rs/s/r6mnn8/realtek_wifi_firmware_fully_8051_based) - [Realtek WiFi Firmware and a Fully 8051-based Keylogger Using RealWOW Technology (2021)](https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html)
 * [2023-04-19, 04:14:03](https://lobste.rs/s/jyfcx1/strange_code_morphing_cpu_inside_sony) - [The strange code morphing CPU inside the Sony VAIO U1](https://www.youtube.com/watch?v=K6xbDiDuFU0)
 * [2023-04-18, 22:33:34](https://lobste.rs/s/mqarzx/sourcehut_pages) - [sourcehut pages](https://srht.site/)
 * [2023-04-18, 20:08:47](https://lobste.rs/s/rgawsq/pc_engines_apu_platform_eol) - [PC Engines apu platform EOL](https://www.pcengines.ch/eol.htm)
