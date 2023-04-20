@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 10:15:02](https://lobste.rs/s/tmzh19/qr_sculpture_trinity_3_1) - [QR-sculpture \"Trinity\" – 3 in 1](https://frank-haase-design.de/en/galerie/qr-art/qr-plastik-trinity)
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
@@ -20,7 +21,6 @@
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam_2010) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
-* [2023-04-19, 09:37:15](https://lobste.rs/s/ibqzqp/zig_bits_0x3_mastering_project) - [Zig Bits 0x3: Mastering project management in Zig](https://blog.orhun.dev/zig-bits-03/)
 * [2023-04-19, 09:33:11](https://lobste.rs/s/rdmvdz/fsf_chrome_s_jpeg_xl_killing_shows_how_web) - [FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/)
 * [2023-04-19, 06:03:21](https://lobste.rs/s/tf5gje/astral_next_gen_python_tooling) - [Astral: Next-gen Python tooling](https://astral.sh/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
