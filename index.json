@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-20, 16:55:38",
+      "https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions"
+    ],
+    [
+      "Qt CAN Bus API extensions",
+      "https://www.qt.io/blog/qt-can-bus-api-extensions"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 15:41:21",
       "https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0"
     ],
@@ -97,16 +107,6 @@
     [
       "More Adaptive ARC Eviction for OpenZFS",
       "https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb"
-    ]
-  ],
-  [
-    [
-      "2023-04-20, 06:53:09",
-      "https://lobste.rs/s/hcuo6c/freebsd_13_2_review"
-    ],
-    [
-      "FreeBSD 13.2 Review",
-      "https://cloud7.news/article/freebsd-13-2-review/"
     ]
   ],
   [
