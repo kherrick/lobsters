@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-20, 18:33:57",
+      "https://lobste.rs/s/rez29u/performance_open_source_software_ninja"
+    ],
+    [
+      "The Performance of Open Source Software: Ninja",
+      "https://aosabook.org/en/posa/ninja.html"
+    ]
+  ],
+  [
+    [
       "2023-04-20, 18:23:59",
       "https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise"
     ],
@@ -177,16 +187,6 @@
     [
       "Annotations in Kubernetes Operator Design",
       "https://sklar.rocks/kubernetes-operators-annotations/"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 21:07:00",
-      "https://lobste.rs/s/kvqy7e/simplifying_bezier_paths"
-    ],
-    [
-      "Simplifying Bézier paths",
-      "https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html"
     ]
   ],
   [
