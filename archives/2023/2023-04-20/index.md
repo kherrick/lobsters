@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-20](index.md)
 
+* [2023-04-20, 18:23:59](https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise) - [3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 16:55:38](https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions) - [Qt CAN Bus API extensions](https://www.qt.io/blog/qt-can-bus-api-extensions)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)

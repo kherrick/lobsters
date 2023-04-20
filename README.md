@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 18:23:59](https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise) - [3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 16:55:38](https://lobste.rs/s/yjs9ik/qt_can_bus_api_extensions) - [Qt CAN Bus API extensions](https://www.qt.io/blog/qt-can-bus-api-extensions)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
@@ -13,7 +14,6 @@
 * [2023-04-20, 06:56:55](https://lobste.rs/s/yik3wm/freebsd_wifi_suggested_working_adapters) - [FreeBSD WiFi Suggested/Working Adapters](https://gist.github.com/grahamperrin/0d6cca0e463c5fdc089e84ed442e214c)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
-* [2023-04-20, 04:32:01](https://lobste.rs/s/sozrur/rfc_9386_ipv6_deployment_status) - [RFC 9386: IPv6 Deployment Status](https://www.rfc-editor.org/rfc/rfc9386.html)
 * [2023-04-20, 04:04:33](https://lobste.rs/s/iczezk/underscores_numeric_constants) - [Underscores in numeric constants in PostgreSQL 16](https://www.cybertec-postgresql.com/en/underscores-in-numeric-constants-in-postgresql-16/)
 * [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
