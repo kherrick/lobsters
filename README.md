@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-20, 23:57:48](https://lobste.rs/s/haxq7o/mike_perham_creator_sidekiq_from) - [Mike Perham, Creator of Sidekiq: From Employment to Independence](https://codecodeship.com/blog/2023-04-14-mike-perham)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-20, 19:47:06](https://lobste.rs/s/dhnkpj/pretrained_transformers_as_universal) - [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/abs/2103.05247)
@@ -19,7 +20,6 @@
 * [2023-04-20, 07:26:10](https://lobste.rs/s/z1blzv/building_gstreamer_plugin_rust_with) - [Building a GStreamer plugin in Rust with meson instead of cargo](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
-* [2023-04-20, 03:16:33](https://lobste.rs/s/ebyb2h/processes_causality) - [Processes and Causality](https://www.jfsowa.com/ontology/causal.htm)
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
