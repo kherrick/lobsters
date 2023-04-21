@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 01:43:43](https://lobste.rs/s/mwo1sq/what_is_database) - [What Is a Database?](https://www.youtube.com/watch?v=MqbVoSs0lXk)
 * [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
@@ -8,7 +9,6 @@
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
 * [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
-* [2023-04-20, 18:23:59](https://lobste.rs/s/pxsoka/3cx_software_supply_chain_compromise) - [3CX Software Supply Chain Compromise Initiated by a Prior Software Supply Chain Compromise; Suspected North Korean Actor Responsible](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
 * [2023-04-20, 15:01:39](https://lobste.rs/s/w7moru/minigpt_4) - [Minigpt-4](https://minigpt-4.github.io/)
