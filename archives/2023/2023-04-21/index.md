@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
 * [2023-04-21, 14:50:43](https://lobste.rs/s/22j17x/webrtc_gstreamer_html5_part_1) - [WebRTC, GStreamer and HTML5 - Part 1](https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/)
 * [2023-04-21, 14:37:35](https://lobste.rs/s/gzqp6v/rom_shadowing_who_did_it_first) - [ROM shadowing: who did it first?](https://www.os2museum.com/wp/first-rom-shadowing/)

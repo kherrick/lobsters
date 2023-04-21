@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
 * [2023-04-21, 14:50:43](https://lobste.rs/s/22j17x/webrtc_gstreamer_html5_part_1) - [WebRTC, GStreamer and HTML5 - Part 1](https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/)
 * [2023-04-21, 14:37:35](https://lobste.rs/s/gzqp6v/rom_shadowing_who_did_it_first) - [ROM shadowing: who did it first?](https://www.os2museum.com/wp/first-rom-shadowing/)
@@ -15,7 +16,6 @@
 * [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
-* [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
