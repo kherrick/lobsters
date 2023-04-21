@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 14:37:35](https://lobste.rs/s/gzqp6v/rom_shadowing_who_did_it_first) - [ROM shadowing: who did it first?](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-21, 14:21:33](https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away) - [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
@@ -12,7 +13,6 @@
 * [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
-* [2023-04-20, 19:47:06](https://lobste.rs/s/dhnkpj/pretrained_transformers_as_universal) - [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/abs/2103.05247)
 * [2023-04-20, 19:29:17](https://lobste.rs/s/npfon8/world_s_fastest_unified_matrix) - [The world's fastest unified matrix multiplication](https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication)
 * [2023-04-20, 19:02:55](https://lobste.rs/s/gx0wol/defining_interfaces_c_concepts_versus) - [Defining interfaces in C++: concepts versus inheritance](https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)

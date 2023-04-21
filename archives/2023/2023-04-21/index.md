@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 14:37:35](https://lobste.rs/s/gzqp6v/rom_shadowing_who_did_it_first) - [ROM shadowing: who did it first?](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-21, 14:21:33](https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away) - [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
