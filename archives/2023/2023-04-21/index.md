@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 04:46:25](https://lobste.rs/s/4x5jj3/pypi_introducing_trusted_publishers) - [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-21, 04:28:46](https://lobste.rs/s/wzvnnr/asynchronous_programming_python_with) - [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 * [2023-04-21, 04:15:22](https://lobste.rs/s/vjqxgx/standardizing_bpf) - [Standardizing BPF](https://lwn.net/Articles/926882/)
 * [2023-04-21, 03:59:21](https://lobste.rs/s/ld8b6q/emacs_comes_android) - [Emacs Comes to Android](https://irreal.org/blog/?p=11144)

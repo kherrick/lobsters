@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 04:46:25](https://lobste.rs/s/4x5jj3/pypi_introducing_trusted_publishers) - [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-21, 04:28:46](https://lobste.rs/s/wzvnnr/asynchronous_programming_python_with) - [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 * [2023-04-21, 04:15:22](https://lobste.rs/s/vjqxgx/standardizing_bpf) - [Standardizing BPF](https://lwn.net/Articles/926882/)
 * [2023-04-21, 03:59:21](https://lobste.rs/s/ld8b6q/emacs_comes_android) - [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
@@ -22,7 +23,6 @@
 * [2023-04-20, 07:26:10](https://lobste.rs/s/z1blzv/building_gstreamer_plugin_rust_with) - [Building a GStreamer plugin in Rust with meson instead of cargo](https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/)
 * [2023-04-20, 06:55:01](https://lobste.rs/s/a9e9mj/more_adaptive_arc_eviction_for_openzfs) - [More Adaptive ARC Eviction for OpenZFS](https://github.com/openzfs/zfs/commit/a8d83e2a24de6419dc58d2a7b8f38904985726cb)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
-* [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 
