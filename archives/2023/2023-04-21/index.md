@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
 * [2023-04-21, 14:50:43](https://lobste.rs/s/22j17x/webrtc_gstreamer_html5_part_1) - [WebRTC, GStreamer and HTML5 - Part 1](https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/)

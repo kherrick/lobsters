@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
 * [2023-04-21, 14:50:43](https://lobste.rs/s/22j17x/webrtc_gstreamer_html5_part_1) - [WebRTC, GStreamer and HTML5 - Part 1](https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/)
@@ -21,7 +22,6 @@
 * [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
 * [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
-* [2023-04-20, 10:15:02](https://lobste.rs/s/tmzh19/qr_sculpture_trinity_3_1) - [QR-sculpture \"Trinity\" – 3 in 1](https://frank-haase-design.de/en/galerie/qr-art/qr-plastik-trinity)
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
