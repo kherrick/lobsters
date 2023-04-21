@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 04:15:22](https://lobste.rs/s/vjqxgx/standardizing_bpf) - [Standardizing BPF](https://lwn.net/Articles/926882/)
 * [2023-04-21, 03:59:21](https://lobste.rs/s/ld8b6q/emacs_comes_android) - [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
 * [2023-04-21, 01:43:43](https://lobste.rs/s/mwo1sq/what_is_database) - [What Is a Database?](https://www.youtube.com/watch?v=MqbVoSs0lXk)
 * [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
@@ -23,7 +24,6 @@
 * [2023-04-20, 03:04:39](https://lobste.rs/s/poi61q/waterfall_model) - [The Waterfall Model](http://nethack4.org/esolangs/waterfall/)
 * [2023-04-19, 14:04:47](https://lobste.rs/s/h9xyrs/making_linux_home_server_sleep_on_idle) - [Making a Linux home server sleep on idle and wake on demand — the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep/)
 * [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
-* [2023-04-19, 11:16:20](https://lobste.rs/s/qu379e/why_did_prolog_lose_steam_2010) - [Why did Prolog lose steam? (2010)](https://www.kmjn.org/notes/prolog_lost_steam.html)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 
 ## [Archives](archives/index.md)
