@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 19:45:20](https://lobste.rs/s/ltqqkp/from_deep_long_learning) - [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-21, 18:52:33](https://lobste.rs/s/aaykwy/zero_downtime_deployments_with_docker) - [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
@@ -20,7 +21,6 @@
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
-* [2023-04-20, 15:41:21](https://lobste.rs/s/qeqj0c/announcing_chapel_1_30_0) - [Announcing Chapel 1.30.0](https://chapel-lang.org/blog/posts/announcing-chapel-1.30/)
 * [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)

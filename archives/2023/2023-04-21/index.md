@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 19:45:20](https://lobste.rs/s/ltqqkp/from_deep_long_learning) - [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-21, 18:52:33](https://lobste.rs/s/aaykwy/zero_downtime_deployments_with_docker) - [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
