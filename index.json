@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-21, 14:21:33",
+      "https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away"
+    ],
+    [
+      "Applelink: chiseling an API middleware away from a Rails monolith",
+      "https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith"
+    ]
+  ],
+  [
+    [
       "2023-04-21, 13:02:54",
       "https://lobste.rs/s/rdydvu/installing_windows_linux_on_same"
     ],
@@ -227,16 +237,6 @@
     [
       "Why I like Clojure as a solo developer",
       "https://biffweb.com/docs/essays/why-i-like-clojure/"
-    ]
-  ],
-  [
-    [
-      "2023-04-19, 13:04:53",
-      "https://lobste.rs/s/qkzikl/how_rocksdb_works"
-    ],
-    [
-      "How RocksDB works",
-      "https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/"
     ]
   ],
   [
