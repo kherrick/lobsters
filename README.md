@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 20:02:10](https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap) - [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
 * [2023-04-21, 19:45:20](https://lobste.rs/s/ltqqkp/from_deep_long_learning) - [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
 * [2023-04-21, 18:52:33](https://lobste.rs/s/aaykwy/zero_downtime_deployments_with_docker) - [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
@@ -23,7 +24,6 @@
 * [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 14:07:26](https://lobste.rs/s/gx8tm0/rsjs_reasonable_system_for_javascript) - [rsjs \"Reasonable System for JavaScript Structure\"](https://ricostacruz.com/rsjs/)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
-* [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 
 ## [Archives](archives/index.md)
