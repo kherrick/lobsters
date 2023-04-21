@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 14:21:33](https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away) - [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 * [2023-04-21, 10:57:33](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2023-04-20, 09:59:47](https://lobste.rs/s/hilluq/plea_for_fairness_for_non_profit) - [A Plea for Fairness for Non-profit Developers of Open Source Software](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 * [2023-04-20, 05:02:31](https://lobste.rs/s/vr8l1n/why_i_like_clojure_as_solo_developer) - [Why I like Clojure as a solo developer](https://biffweb.com/docs/essays/why-i-like-clojure/)
-* [2023-04-19, 13:04:53](https://lobste.rs/s/qkzikl/how_rocksdb_works) - [How RocksDB works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 * [2023-04-19, 06:01:46](https://lobste.rs/s/mavub8/love_letter_make) - [A love letter to make](https://kmaasrud.com/blog/make)
 
 ## [Archives](archives/index.md)
