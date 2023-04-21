@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-21, 20:02:10](https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap) - [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
 * [2023-04-21, 19:45:20](https://lobste.rs/s/ltqqkp/from_deep_long_learning) - [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
@@ -22,7 +23,6 @@
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 20:09:10](https://lobste.rs/s/6f72pf/hyena_may_scale_better_than_gpt) - [Hyena may scale better than GPT](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 * [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
-* [2023-04-20, 17:14:06](https://lobste.rs/s/rmoegt/proton_pass_is_now_beta) - [Proton Pass is now in beta](https://proton.me/blog/proton-pass-beta)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 * [2023-04-20, 09:23:15](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare) - [The Nix, OpenGL and Ubuntu Integration Nightmare](https://alternativebit.fr/posts/nixos/nix-opengl-and-ubuntu-integration-nightmare/)
 

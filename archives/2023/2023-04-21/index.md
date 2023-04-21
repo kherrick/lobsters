@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-21, 20:02:10](https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap) - [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
 * [2023-04-21, 19:45:20](https://lobste.rs/s/ltqqkp/from_deep_long_learning) - [From Deep to Long Learning?](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
