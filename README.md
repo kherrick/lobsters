@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 18:05:43](https://lobste.rs/s/quty1t/darke_files_version_control_file) - [Darke Files - a version control and file synchronization system](https://darke.handmade.network/)
 * [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 16:28:29](https://lobste.rs/s/9w8nka/on_state_kaios_bananahackers_community) - [On the state of KaiOS and BananaHackers community as of summer of 2023](https://blog.bananahackers.net/farooqkz/on-the-state-of-kaios-and-bananahackers-community-as-of-summer-of-2023)
@@ -24,7 +25,6 @@
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 * [2023-04-21, 10:57:33](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend)
-* [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 
 ## [Archives](archives/index.md)
 
