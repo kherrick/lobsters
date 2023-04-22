@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
 * [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
 * [2023-04-22, 07:06:34](https://lobste.rs/s/uzp2u8/manjaro_22_1_talos_released) - [Manjaro 22.1 Talos released](https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155)
 * [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
@@ -22,7 +23,6 @@
 * [2023-04-21, 04:46:25](https://lobste.rs/s/4x5jj3/pypi_introducing_trusted_publishers) - [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-21, 04:28:46](https://lobste.rs/s/wzvnnr/asynchronous_programming_python_with) - [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 * [2023-04-21, 03:59:21](https://lobste.rs/s/ld8b6q/emacs_comes_android) - [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
-* [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 

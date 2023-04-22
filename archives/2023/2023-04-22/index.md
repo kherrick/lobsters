@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
 * [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
 * [2023-04-22, 07:06:34](https://lobste.rs/s/uzp2u8/manjaro_22_1_talos_released) - [Manjaro 22.1 Talos released](https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155)
 * [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
