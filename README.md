@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-22, 01:59:04](https://lobste.rs/s/5utipd/overview_netware_operating_system_1994) - [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
 * [2023-04-22, 00:09:31](https://lobste.rs/s/s4xz7b/keep_calm_panic) - [Keep Calm And Panic](https://www.dolthub.com/blog/2023-04-14-keep-calm-and-panic/)
 * [2023-04-21, 23:55:46](https://lobste.rs/s/3y1z6t/recording_screenshotting_windows_lazy) - [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
@@ -13,7 +14,6 @@
 * [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
 * [2023-04-21, 14:50:43](https://lobste.rs/s/22j17x/webrtc_gstreamer_html5_part_1) - [WebRTC, GStreamer and HTML5 - Part 1](https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/)
-* [2023-04-21, 14:37:35](https://lobste.rs/s/gzqp6v/rom_shadowing_who_did_it_first) - [ROM shadowing: who did it first?](https://www.os2museum.com/wp/first-rom-shadowing/)
 * [2023-04-21, 14:21:33](https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away) - [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
