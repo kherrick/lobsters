@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 20:13:54](https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic) - [Simulated floppy disk with real magnetic data transfer](https://www.youtube.com/watch?v=dhGl30Ll4vA)
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 18:05:43](https://lobste.rs/s/quty1t/darke_files_version_control_file) - [Darke Files - a version control and file synchronization system](https://darke.handmade.network/)
 * [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
