@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 16:28:29](https://lobste.rs/s/9w8nka/on_state_kaios_bananahackers_community) - [On the state of KaiOS and BananaHackers community as of summer of 2023](https://blog.bananahackers.net/farooqkz/on-the-state-of-kaios-and-bananahackers-community-as-of-summer-of-2023)
 * [2023-04-22, 16:19:28](https://lobste.rs/s/k3p0cd/understand_postgres_wire_protocol_by) - [Understand Postgres wire protocol by writing a simple program](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)
 * [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
