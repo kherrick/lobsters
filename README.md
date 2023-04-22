@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
 * [2023-04-22, 21:38:53](https://lobste.rs/s/rakquu/why_are_all_customer_support_tools) - [Why are all customer support tools designed for B2C?](https://fogbender.com/blog/why-all-customer-support-tools-designed-for-btc)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2023-04-22, 20:44:00](https://lobste.rs/s/a5ismc/research_without_re_search_maximal) - [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)
@@ -20,7 +21,6 @@
 * [2023-04-21, 23:55:46](https://lobste.rs/s/3y1z6t/recording_screenshotting_windows_lazy) - [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
-* [2023-04-21, 18:52:33](https://lobste.rs/s/aaykwy/zero_downtime_deployments_with_docker) - [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)

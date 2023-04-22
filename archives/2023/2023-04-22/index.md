@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
 * [2023-04-22, 21:38:53](https://lobste.rs/s/rakquu/why_are_all_customer_support_tools) - [Why are all customer support tools designed for B2C?](https://fogbender.com/blog/why-all-customer-support-tools-designed-for-btc)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2023-04-22, 20:44:00](https://lobste.rs/s/a5ismc/research_without_re_search_maximal) - [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)
