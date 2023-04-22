@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 16:28:29](https://lobste.rs/s/9w8nka/on_state_kaios_bananahackers_community) - [On the state of KaiOS and BananaHackers community as of summer of 2023](https://blog.bananahackers.net/farooqkz/on-the-state-of-kaios-and-bananahackers-community-as-of-summer-of-2023)
 * [2023-04-22, 16:19:28](https://lobste.rs/s/k3p0cd/understand_postgres_wire_protocol_by) - [Understand Postgres wire protocol by writing a simple program](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)
 * [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)

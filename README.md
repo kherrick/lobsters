@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 16:28:29](https://lobste.rs/s/9w8nka/on_state_kaios_bananahackers_community) - [On the state of KaiOS and BananaHackers community as of summer of 2023](https://blog.bananahackers.net/farooqkz/on-the-state-of-kaios-and-bananahackers-community-as-of-summer-of-2023)
 * [2023-04-22, 16:19:28](https://lobste.rs/s/k3p0cd/understand_postgres_wire_protocol_by) - [Understand Postgres wire protocol by writing a simple program](https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/)
 * [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
@@ -22,7 +23,6 @@
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 * [2023-04-21, 10:57:33](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend)
-* [2023-04-21, 04:46:25](https://lobste.rs/s/4x5jj3/pypi_introducing_trusted_publishers) - [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-21, 04:28:46](https://lobste.rs/s/wzvnnr/asynchronous_programming_python_with) - [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
 
