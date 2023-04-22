@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 21:38:53](https://lobste.rs/s/rakquu/why_are_all_customer_support_tools) - [Why are all customer support tools designed for B2C?](https://fogbender.com/blog/why-all-customer-support-tools-designed-for-btc)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2023-04-22, 20:44:00](https://lobste.rs/s/a5ismc/research_without_re_search_maximal) - [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)
 * [2023-04-22, 20:13:54](https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic) - [Simulated floppy disk with real magnetic data transfer](https://www.youtube.com/watch?v=dhGl30Ll4vA)
