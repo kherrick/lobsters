@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 07:06:34](https://lobste.rs/s/uzp2u8/manjaro_22_1_talos_released) - [Manjaro 22.1 Talos released](https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155)
 * [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-22, 01:59:04](https://lobste.rs/s/5utipd/overview_netware_operating_system_1994) - [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
@@ -23,7 +24,6 @@
 * [2023-04-21, 03:59:21](https://lobste.rs/s/ld8b6q/emacs_comes_android) - [Emacs Comes to Android](https://irreal.org/blog/?p=11144)
 * [2023-04-21, 01:21:00](https://lobste.rs/s/5tvug2/windows_nt_on_bull_estrella) - [Windows NT on Bull Estrella](http://vivapowerpc.eu/20230130-1800_Windows_NT_on_Bull_Estrella)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
-* [2023-04-20, 18:33:57](https://lobste.rs/s/rez29u/performance_open_source_software_ninja) - [The Performance of Open Source Software: Ninja](https://aosabook.org/en/posa/ninja.html)
 * [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 
 ## [Archives](archives/index.md)
