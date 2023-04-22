@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
 * [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
@@ -24,7 +25,6 @@
 * [2023-04-21, 04:46:25](https://lobste.rs/s/4x5jj3/pypi_introducing_trusted_publishers) - [PyPI: Introducing 'Trusted Publishers'](https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/)
 * [2023-04-21, 04:28:46](https://lobste.rs/s/wzvnnr/asynchronous_programming_python_with) - [Asynchronous Programming in Python with asyncio](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
 * [2023-04-20, 22:08:30](https://lobste.rs/s/uawxse/how_run_your_own_llm_gpt) - [How to run your own LLM (GPT)](https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html)
-* [2023-04-20, 11:38:25](https://lobste.rs/s/pqwtxa/why_perl) - [Why Perl?](https://two-wrongs.com/why-perl)
 
 ## [Archives](archives/index.md)
 

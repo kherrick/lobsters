@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-22](index.md)
 
+* [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
 * [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
