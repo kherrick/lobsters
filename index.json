@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-22, 16:19:28",
+      "https://lobste.rs/s/k3p0cd/understand_postgres_wire_protocol_by"
+    ],
+    [
+      "Understand Postgres wire protocol by writing a simple program",
+      "https://viggy28.dev/article/introduction-to-postgres-wire-protocol-in-go/"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 14:27:27",
       "https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event"
     ],
@@ -137,16 +147,6 @@
     [
       "Elegant Memoization with Ruby’s .tap Method",
       "https://www.macarthur.me/posts/memoization-with-tap-in-ruby"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 19:45:20",
-      "https://lobste.rs/s/ltqqkp/from_deep_long_learning"
-    ],
-    [
-      "From Deep to Long Learning?",
-      "https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning"
     ]
   ],
   [
