@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 20:44:00](https://lobste.rs/s/a5ismc/research_without_re_search_maximal) - [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)
 * [2023-04-22, 20:13:54](https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic) - [Simulated floppy disk with real magnetic data transfer](https://www.youtube.com/watch?v=dhGl30Ll4vA)
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 18:05:43](https://lobste.rs/s/quty1t/darke_files_version_control_file) - [Darke Files - a version control and file synchronization system](https://darke.handmade.network/)
@@ -19,7 +20,6 @@
 * [2023-04-21, 23:55:46](https://lobste.rs/s/3y1z6t/recording_screenshotting_windows_lazy) - [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
-* [2023-04-21, 20:02:10](https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap) - [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
 * [2023-04-21, 18:52:33](https://lobste.rs/s/aaykwy/zero_downtime_deployments_with_docker) - [Zero-Downtime Deployments with Docker Compose](https://www.maxcountryman.com/articles/zero-downtime-deployments-with-docker-compose)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
