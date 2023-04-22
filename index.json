@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-22, 20:44:00",
+      "https://lobste.rs/s/a5ismc/research_without_re_search_maximal"
+    ],
+    [
+      "Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales",
+      "https://arxiv.org/abs/2304.06875"
+    ]
+  ],
+  [
+    [
       "2023-04-22, 20:13:54",
       "https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic"
     ],
@@ -187,16 +197,6 @@
     [
       "Keyboard tricks from a macOS app dev",
       "https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev"
-    ]
-  ],
-  [
-    [
-      "2023-04-21, 20:02:10",
-      "https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap"
-    ],
-    [
-      "Elegant Memoization with Ruby’s .tap Method",
-      "https://www.macarthur.me/posts/memoization-with-tap-in-ruby"
     ]
   ],
   [
