@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
 * [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
 * [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
@@ -17,7 +18,6 @@
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 * [2023-04-21, 16:52:52](https://lobste.rs/s/gxywvh/gradual_gradual_type_system_for_elixir) - [A Gradual Gradual Type System for Elixir [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-04-21, 15:45:25](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments) - [Fun Format Friday: 10 Code Commandments](https://lobste.rs/s/2veztz/fun_format_friday_10_code_commandments)
-* [2023-04-21, 14:21:33](https://lobste.rs/s/x3ttst/applelink_chiseling_api_middleware_away) - [Applelink: chiseling an API middleware away from a Rails monolith](https://www.tramline.app/blog/applelink-chiseling-an-api-middleware-away-from-a-rails-monolith)
 * [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
 * [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 * [2023-04-21, 10:57:33](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/r3vvh9/what_are_you_doing_this_weekend)
