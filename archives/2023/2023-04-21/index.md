@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-21](index.md)
 
+* [2023-04-21, 23:55:46](https://lobste.rs/s/3y1z6t/recording_screenshotting_windows_lazy) - [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-21, 20:02:10](https://lobste.rs/s/jw3ayh/elegant_memoization_with_ruby_s_tap) - [Elegant Memoization with Ruby’s .tap Method](https://www.macarthur.me/posts/memoization-with-tap-in-ruby)
