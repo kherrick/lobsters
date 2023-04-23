@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)
 * [2023-04-23, 05:29:24](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner) - [Data Oriented Parallel Value Interner](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html)
 * [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
@@ -18,7 +19,6 @@
 * [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
 * [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
-* [2023-04-22, 01:59:04](https://lobste.rs/s/5utipd/overview_netware_operating_system_1994) - [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 * [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 * [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
