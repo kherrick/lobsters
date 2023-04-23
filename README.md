@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-23, 18:33:20](https://lobste.rs/s/0hylet/introducing_pypi_organizations) - [Introducing PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
 * [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 16:33:41](https://lobste.rs/s/d1k3xb/awa_s_acoustic_hood_effective_silencing) - [AWA's Acoustic Hood - Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 * [2023-04-23, 14:14:29](https://lobste.rs/s/yhe6ag/world_s_simplest_lock_free_hash_table_2013) - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
@@ -14,7 +15,6 @@
 * [2023-04-23, 05:29:24](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner) - [Data Oriented Parallel Value Interner](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html)
 * [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
-* [2023-04-22, 20:13:54](https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic) - [Simulated floppy disk with real magnetic data transfer](https://www.youtube.com/watch?v=dhGl30Ll4vA)
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 18:05:43](https://lobste.rs/s/quty1t/darke_files_version_control_file) - [Darke Files - a version control and file synchronization system](https://darke.handmade.network/)
 * [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
