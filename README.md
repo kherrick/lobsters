@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
-* [2023-04-22, 21:38:53](https://lobste.rs/s/rakquu/why_are_all_customer_support_tools) - [Why are all customer support tools designed for B2C?](https://fogbender.com/blog/why-all-customer-support-tools-designed-for-btc)
 * [2023-04-22, 21:00:19](https://lobste.rs/s/iuf6hn/on_recursion_continuations_trampolines) - [On Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2023-04-22, 20:44:00](https://lobste.rs/s/a5ismc/research_without_re_search_maximal) - [Research without Re-search: Maximal Update Parametrization Yields Accurate Loss Prediction across Scales](https://arxiv.org/abs/2304.06875)
 * [2023-04-22, 20:13:54](https://lobste.rs/s/lfhyau/simulated_floppy_disk_with_real_magnetic) - [Simulated floppy disk with real magnetic data transfer](https://www.youtube.com/watch?v=dhGl30Ll4vA)
@@ -16,6 +15,7 @@
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
 * [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
 * [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
+* [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-22, 01:59:04](https://lobste.rs/s/5utipd/overview_netware_operating_system_1994) - [An Overview of the NetWare Operating System (1994)](https://www.usenix.net/legacy/publications/library/proceedings/sf94/full_papers/minshall.pdf)
 * [2023-04-21, 23:55:46](https://lobste.rs/s/3y1z6t/recording_screenshotting_windows_lazy) - [Recording and screenshotting windows: the lazy way](https://xenodium.com/recordscreenshot-windows-the-lazy-way/)
