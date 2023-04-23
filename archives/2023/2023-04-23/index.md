@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 16:33:41](https://lobste.rs/s/d1k3xb/awa_s_acoustic_hood_effective_silencing) - [AWA's Acoustic Hood - Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 * [2023-04-23, 14:14:29](https://lobste.rs/s/yhe6ag/world_s_simplest_lock_free_hash_table_2013) - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
 * [2023-04-23, 13:04:42](https://lobste.rs/s/xx9q1i/understanding_lstm_networks) - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [2023-04-23, 13:04:34](https://lobste.rs/s/dhan61/pg_advisory_locks_go_with_built_hashes) - [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)
