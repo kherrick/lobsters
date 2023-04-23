@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 13:04:42](https://lobste.rs/s/xx9q1i/understanding_lstm_networks) - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [2023-04-23, 13:04:34](https://lobste.rs/s/dhan61/pg_advisory_locks_go_with_built_hashes) - [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)
+* [2023-04-23, 13:00:22](https://lobste.rs/s/1bz6jw/git_sim_3_month_dev_update_community) - [Git-Sim 3 Month Dev Update: Community response, New Features, & The Future](https://initialcommit.com/blog/git-sim-3-month-dev-update)
+* [2023-04-23, 12:58:31](https://lobste.rs/s/93mqjs/regular_expressions_zig) - [Regular Expressions in Zig](https://www.openmymind.net/Regular-Expressions-in-Zig/)
+* [2023-04-23, 12:57:24](https://lobste.rs/s/jsmv2n/two_types_c_programmers) - [The two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 * [2023-04-23, 12:01:24](https://lobste.rs/s/bnuzfg/measuring_impact_false_sharing) - [Measuring the Impact of False Sharing](https://alic.dev/blog/false-sharing.html)
 * [2023-04-23, 11:08:15](https://lobste.rs/s/sw3ayu/structure_interpretation_react_native) - [Structure and Interpretation of React Native](https://wingolog.org/archives/2023/04/21/structure-and-interpretation-of-react-native)
 * [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)

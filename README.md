@@ -1,5 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-23, 13:04:42](https://lobste.rs/s/xx9q1i/understanding_lstm_networks) - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [2023-04-23, 13:04:34](https://lobste.rs/s/dhan61/pg_advisory_locks_go_with_built_hashes) - [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)
+* [2023-04-23, 13:00:22](https://lobste.rs/s/1bz6jw/git_sim_3_month_dev_update_community) - [Git-Sim 3 Month Dev Update: Community response, New Features, & The Future](https://initialcommit.com/blog/git-sim-3-month-dev-update)
+* [2023-04-23, 12:58:31](https://lobste.rs/s/93mqjs/regular_expressions_zig) - [Regular Expressions in Zig](https://www.openmymind.net/Regular-Expressions-in-Zig/)
+* [2023-04-23, 12:57:24](https://lobste.rs/s/jsmv2n/two_types_c_programmers) - [The two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 * [2023-04-23, 12:01:24](https://lobste.rs/s/bnuzfg/measuring_impact_false_sharing) - [Measuring the Impact of False Sharing](https://alic.dev/blog/false-sharing.html)
 * [2023-04-23, 11:08:15](https://lobste.rs/s/sw3ayu/structure_interpretation_react_native) - [Structure and Interpretation of React Native](https://wingolog.org/archives/2023/04/21/structure-and-interpretation-of-react-native)
 * [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)
@@ -17,14 +22,9 @@
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
 * [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
-* [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
 * [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
-* [2023-04-21, 20:19:47](https://lobste.rs/s/nhlx3e/keyboard_tricks_from_macos_app_dev) - [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
-* [2023-04-21, 18:31:30](https://lobste.rs/s/1nvykk/linux_foundation_announces_launch_tla) - [Linux Foundation Announces Launch of TLA+ Foundation](https://www.linuxfoundation.org/press/linux-foundation-launches-tlafoundation)
 * [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
-* [2023-04-21, 13:02:54](https://lobste.rs/s/rdydvu/installing_windows_linux_on_same) - [Installing Windows and Linux on the Same Partition](https://www.lilysthings.org/blog/windows-on-btrfs/)
-* [2023-04-21, 11:15:14](https://lobste.rs/s/uzkppu/bytebeating_with_gawk) - [Bytebeating with GAWK](https://maximullaris.com/bytebeat_gawk.html)
 
 ## [Archives](archives/index.md)
 
