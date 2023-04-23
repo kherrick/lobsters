@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-23, 11:08:15](https://lobste.rs/s/sw3ayu/structure_interpretation_react_native) - [Structure and Interpretation of React Native](https://wingolog.org/archives/2023/04/21/structure-and-interpretation-of-react-native)
 * [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)
 * [2023-04-23, 05:29:24](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner) - [Data Oriented Parallel Value Interner](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html)
 * [2023-04-22, 21:49:08](https://lobste.rs/s/xnqhkb/small_tech_feature_i_am_grateful_for_it_s) - [The Small Tech Feature I Am Grateful For, and It’s Not AI](https://algustionesa.com/not-ai/)
@@ -16,7 +17,6 @@
 * [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 * [2023-04-22, 08:28:08](https://lobste.rs/s/acmrnr/extended_disquisitions_on_express) - [eXtended disquisitions on eXpress datapaths](https://nick-black.com/dankwiki/index.php/Extended_disquisitions_pertaining_to_eXpress_data_paths_(XDP))
 * [2023-04-22, 08:03:57](https://lobste.rs/s/4j905f/intuition_behind_universal) - [The intuition behind the Universal Approximation Theorem](http://shivammehta.me/blog/2021/06/10/the-intuition-behind-the-universal-approximation-theorem/)
-* [2023-04-22, 07:37:48](https://lobste.rs/s/qzwn0g/escheresque_parquet_deformations) - [Escheresque parquet deformations of an aperiodic monotile](https://quuxplusone.github.io/blog/2023/03/30/hat-parquet/)
 * [2023-04-22, 03:53:23](https://lobste.rs/s/2derl9/mass_editing_memory_transformer) - [Mass editing memory in a transformer](https://quuxplusone.github.io/blog/feed.xml)
 * [2023-04-22, 02:44:26](https://lobste.rs/s/3ncw19/weird_world_windows_file_paths) - [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)
 * [2023-04-21, 21:21:45](https://lobste.rs/s/oyroj4/defense_simple_architectures) - [In defense of simple architectures](https://danluu.com/simple-architectures/)
