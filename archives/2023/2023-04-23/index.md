@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-23](index.md)
 
+* [2023-04-23, 18:54:56](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles) - [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
 * [2023-04-23, 18:33:20](https://lobste.rs/s/0hylet/introducing_pypi_organizations) - [Introducing PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
 * [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 16:33:41](https://lobste.rs/s/d1k3xb/awa_s_acoustic_hood_effective_silencing) - [AWA's Acoustic Hood - Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
