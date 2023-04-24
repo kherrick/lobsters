@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 11:45:38",
+      "https://lobste.rs/s/ccma1n/openbsd_managing_inverter_converter"
+    ],
+    [
+      "OpenBSD: Managing an inverter/converter with NUT",
+      "http://doc.huc.fr.eu.org/en/sys/openbsd/nut/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 10:02:07",
       "https://lobste.rs/s/xwptpr/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Rust 1.69.0",
       "https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-22, 09:23:56",
-      "https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image"
-    ],
-    [
-      "Memoirs from the old web: server-side image maps",
-      "https://www.devever.net/~hl/imagemap"
     ]
   ]
 ]
