@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 15:34:37](https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax) - [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 14:02:09](https://lobste.rs/s/5glumb/modeling_git_internals_alloy_part_3) - [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
 * [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
