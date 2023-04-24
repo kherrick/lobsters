@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 19:59:57](https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm) - [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
 * [2023-04-24, 19:15:29](https://lobste.rs/s/w12xum/fill_iso_c_developer_survey) - [Fill in the ISO C++ Developer Survey](https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/)
 * [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
