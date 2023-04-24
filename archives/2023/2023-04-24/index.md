@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 14:02:09](https://lobste.rs/s/5glumb/modeling_git_internals_alloy_part_3) - [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
+* [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 * [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
 * [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
 * [2023-04-24, 12:16:53](https://lobste.rs/s/bc1cwg/our_journey_from_saas_oss_monoliths_vs) - [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
