@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 14:02:09](https://lobste.rs/s/5glumb/modeling_git_internals_alloy_part_3) - [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
 * [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 * [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
@@ -12,7 +13,6 @@
 * [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
 * [2023-04-24, 03:19:12](https://lobste.rs/s/aaec2e/many_ways_converting_fp32_fp16) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-24, 01:12:49](https://lobste.rs/s/g7bc1z/ctf_challenge_using_nintendo_3ds_unique) - [A CTF Challenge using the Nintendo 3DS' unique features](https://reswitched-weekly-reboot.github.io/posts/3ds-ctf/)
-* [2023-04-23, 20:01:33](https://lobste.rs/s/ltbcf7/leverage_richness_http_status_codes) - [Leverage the richness of HTTP status codes](https://blog.frankel.ch/leverage-richness-http-status-codes/)
 * [2023-04-23, 18:54:56](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles) - [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
 * [2023-04-23, 18:33:20](https://lobste.rs/s/0hylet/introducing_pypi_organizations) - [Introducing PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
 * [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
