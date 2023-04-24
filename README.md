@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 03:19:12](https://lobste.rs/s/aaec2e/many_ways_converting_fp32_fp16) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-24, 01:12:49](https://lobste.rs/s/g7bc1z/ctf_challenge_using_nintendo_3ds_unique) - [A CTF Challenge using the Nintendo 3DS' unique features](https://reswitched-weekly-reboot.github.io/posts/3ds-ctf/)
 * [2023-04-23, 20:01:33](https://lobste.rs/s/ltbcf7/leverage_richness_http_status_codes) - [Leverage the richness of HTTP status codes](https://blog.frankel.ch/leverage-richness-http-status-codes/)
 * [2023-04-23, 18:54:56](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles) - [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
@@ -24,7 +25,6 @@
 * [2023-04-22, 14:27:27](https://lobste.rs/s/hdrfuk/cretaceous_paleogene_extinction_event) - [The Cretaceous-Paleogene extinction event and security practice](https://ioc.exchange/@invisv/110242893952669306)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
 * [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
-* [2023-04-21, 17:39:13](https://lobste.rs/s/igqvhd/firefox_may_soon_reject_cookie_prompts) - [Firefox may soon reject Cookie prompts automatically](https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/)
 
 ## [Archives](archives/index.md)
 
