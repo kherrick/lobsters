@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 15:34:37](https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax) - [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)

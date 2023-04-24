@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 15:34:37](https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax) - [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
@@ -23,7 +24,6 @@
 * [2023-04-23, 14:14:29](https://lobste.rs/s/yhe6ag/world_s_simplest_lock_free_hash_table_2013) - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
 * [2023-04-23, 12:57:24](https://lobste.rs/s/jsmv2n/two_types_c_programmers) - [The two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 * [2023-04-23, 12:01:24](https://lobste.rs/s/bnuzfg/measuring_impact_false_sharing) - [Measuring the Impact of False Sharing](https://alic.dev/blog/false-sharing.html)
-* [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 
 ## [Archives](archives/index.md)
