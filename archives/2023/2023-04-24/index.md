@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 11:45:38](https://lobste.rs/s/ccma1n/openbsd_managing_inverter_converter) - [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores_lwn_net) - [The shrinking role of semaphores [LWN.net]](https://lwn.net/Articles/928026/)

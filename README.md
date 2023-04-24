@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 11:45:38](https://lobste.rs/s/ccma1n/openbsd_managing_inverter_converter) - [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
@@ -24,7 +25,6 @@
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
 * [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
-* [2023-04-22, 09:23:56](https://lobste.rs/s/pvodaw/memoirs_from_old_web_server_side_image) - [Memoirs from the old web: server-side image maps](https://www.devever.net/~hl/imagemap)
 
 ## [Archives](archives/index.md)
 
