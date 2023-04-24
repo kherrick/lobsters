@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 18:16:17",
+      "https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim"
+    ],
+    [
+      "Every type is defined by its intro and elim forms",
+      "https://blog.jez.io/intro-elim/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 17:32:41",
       "https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api"
     ],
@@ -227,16 +237,6 @@
     [
       "Measuring the Impact of False Sharing",
       "https://alic.dev/blog/false-sharing.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 06:38:55",
-      "https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c"
-    ],
-    [
-      "DuskOS - 32-bit Forth OS mixed with C",
-      "https://git.sr.ht/~vdupras/duskos"
     ]
   ],
   [
