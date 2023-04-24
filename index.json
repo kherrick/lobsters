@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 19:15:29",
+      "https://lobste.rs/s/w12xum/fill_iso_c_developer_survey"
+    ],
+    [
+      "Fill in the ISO C++ Developer Survey",
+      "https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 18:16:17",
       "https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim"
     ],
@@ -227,16 +237,6 @@
     [
       "The two types of C programmers",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 12:01:24",
-      "https://lobste.rs/s/bnuzfg/measuring_impact_false_sharing"
-    ],
-    [
-      "Measuring the Impact of False Sharing",
-      "https://alic.dev/blog/false-sharing.html"
     ]
   ],
   [
