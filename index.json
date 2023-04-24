@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 19:59:57",
+      "https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm"
+    ],
+    [
+      "Golang crypto/ecdh and the TPM",
+      "https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 19:15:29",
       "https://lobste.rs/s/w12xum/fill_iso_c_developer_survey"
     ],
@@ -207,16 +217,6 @@
     [
       "rye: Flask author's new project for Python bootstrapping",
       "https://github.com/mitsuhiko/rye"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 16:33:41",
-      "https://lobste.rs/s/d1k3xb/awa_s_acoustic_hood_effective_silencing"
-    ],
-    [
-      "AWA's Acoustic Hood - Effective Silencing for Office Printers",
-      "https://computeradsfromthepast.substack.com/p/awas-acoustic-hood"
     ]
   ],
   [
