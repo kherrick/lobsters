@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 15:34:37](https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax) - [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
@@ -20,7 +21,6 @@
 * [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 16:33:41](https://lobste.rs/s/d1k3xb/awa_s_acoustic_hood_effective_silencing) - [AWA's Acoustic Hood - Effective Silencing for Office Printers](https://computeradsfromthepast.substack.com/p/awas-acoustic-hood)
 * [2023-04-23, 14:14:29](https://lobste.rs/s/yhe6ag/world_s_simplest_lock_free_hash_table_2013) - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
-* [2023-04-23, 13:04:34](https://lobste.rs/s/dhan61/pg_advisory_locks_go_with_built_hashes) - [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash)
 * [2023-04-23, 12:57:24](https://lobste.rs/s/jsmv2n/two_types_c_programmers) - [The two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 * [2023-04-23, 12:01:24](https://lobste.rs/s/bnuzfg/measuring_impact_false_sharing) - [Measuring the Impact of False Sharing](https://alic.dev/blog/false-sharing.html)
 * [2023-04-23, 06:38:55](https://lobste.rs/s/hd2kz6/duskos_32_bit_forth_os_mixed_with_c) - [DuskOS - 32-bit Forth OS mixed with C](https://git.sr.ht/~vdupras/duskos)
