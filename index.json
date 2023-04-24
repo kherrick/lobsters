@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 16:06:45",
+      "https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released"
+    ],
+    [
+      "QEMU version 8.0.0 released",
+      "https://www.qemu.org/2023/04/20/qemu-8-0-0/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 15:34:37",
       "https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax"
     ],
@@ -197,16 +207,6 @@
     [
       "PG advisory locks in Go with built-in hashes",
       "https://brandur.org/fragments/pg-advisory-locks-with-go-hash"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 12:58:31",
-      "https://lobste.rs/s/93mqjs/regular_expressions_zig"
-    ],
-    [
-      "Regular Expressions in Zig",
-      "https://www.openmymind.net/Regular-Expressions-in-Zig/"
     ]
   ],
   [
