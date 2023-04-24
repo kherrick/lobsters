@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-24](index.md)
 
+* [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
 * [2023-04-24, 12:16:53](https://lobste.rs/s/bc1cwg/our_journey_from_saas_oss_monoliths_vs) - [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 11:45:38](https://lobste.rs/s/ccma1n/openbsd_managing_inverter_converter) - [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
