@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
 * [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
 * [2023-04-24, 12:16:53](https://lobste.rs/s/bc1cwg/our_journey_from_saas_oss_monoliths_vs) - [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
@@ -24,7 +25,6 @@
 * [2023-04-23, 05:29:24](https://lobste.rs/s/z2psxx/data_oriented_parallel_value_interner) - [Data Oriented Parallel Value Interner](https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html)
 * [2023-04-22, 19:31:23](https://lobste.rs/s/1eqt4i/bare_metal_vi_boot_into_vi_without_os) - [Bare Metal Vi, boot into Vi without an OS](https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html)
 * [2023-04-22, 17:37:22](https://lobste.rs/s/gibx9w/build_your_own_database_book_is_finished) - [The “Build Your Own Database” book is finished](https://build-your-own.org/blog/20230420_byodb_done/)
-* [2023-04-22, 12:21:39](https://lobste.rs/s/1bkzaa/announcing_rust_1_69_0) - [Announcing Rust 1.69.0](https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html)
 
 ## [Archives](archives/index.md)
 
