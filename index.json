@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-24, 17:32:41",
+      "https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api"
+    ],
+    [
+      "Haiku's (Kernel) Condition Variables API: Design & Implementation",
+      "https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/"
+    ]
+  ],
+  [
+    [
       "2023-04-24, 16:06:45",
       "https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released"
     ],
@@ -197,16 +207,6 @@
     [
       "The World's Simplest Lock-Free Hash Table (2013)",
       "https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 13:04:34",
-      "https://lobste.rs/s/dhan61/pg_advisory_locks_go_with_built_hashes"
-    ],
-    [
-      "PG advisory locks in Go with built-in hashes",
-      "https://brandur.org/fragments/pg-advisory-locks-with-go-hash"
     ]
   ],
   [
