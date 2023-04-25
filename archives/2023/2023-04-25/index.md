@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 16:53:15](https://lobste.rs/s/l2ywrr/qbs_2_0_released) - [Qbs 2.0 released](https://www.qt.io/blog/qbs-2.0-released)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)

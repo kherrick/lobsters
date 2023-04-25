@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 16:53:15](https://lobste.rs/s/l2ywrr/qbs_2_0_released) - [Qbs 2.0 released](https://www.qt.io/blog/qbs-2.0-released)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
@@ -24,7 +25,6 @@
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
-* [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
 
 ## [Archives](archives/index.md)
 
