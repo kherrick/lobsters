@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
 * [2023-04-25, 20:39:24](https://lobste.rs/s/oh1uen/how_google_intel_make_confidential) - [How Google and Intel make Confidential Computing more secure](https://cloud.google.com/blog/products/identity-security/rsa-google-intel-confidential-computing-more-secure)
 * [2023-04-25, 20:31:01](https://lobste.rs/s/gln6qp/uk_will_spend_100_million_develop_its_own) - [The UK will spend £100 million to develop its own 'sovereign' AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
 * [2023-04-25, 20:09:02](https://lobste.rs/s/eli0k7/msgspec_is_fast_serialization) - [msgspec is a fast serialization+validation python lib for JSON, MessagePack, YAML and TOML](https://github.com/jcrist/msgspec)

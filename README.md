@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-25, 20:39:24](https://lobste.rs/s/oh1uen/how_google_intel_make_confidential) - [How Google and Intel make Confidential Computing more secure](https://cloud.google.com/blog/products/identity-security/rsa-google-intel-confidential-computing-more-secure)
+* [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
 * [2023-04-25, 20:05:23](https://lobste.rs/s/5nbnfc/hacking_rails_implicit_rendering_for) - [Hacking Rails Implicit Rendering for View Components & Fun](https://fly.io/ruby-dispatch/hacking-rails-implicit-rendering-for-view-components/)
 * [2023-04-25, 19:42:40](https://lobste.rs/s/rpwv62/how_get_true_headache_brute_forcing_ntru) - [How to get a true headache: brute forcing NTRU](https://www.notamonadtutorial.com/how-to-get-a-true-headache-brute-forcing-ntru/)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
