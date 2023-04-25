@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-25, 22:39:14",
+      "https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer"
+    ],
+    [
+      "nix-melt - A ranger-like flake.lock viewer",
+      "https://github.com/nix-community/nix-melt"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 20:49:08",
       "https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk"
     ],
@@ -227,16 +237,6 @@
     [
       "Why I use Nix and make(1) to develop",
       "https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 12:15:44",
-      "https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe"
-    ],
-    [
-      "deleting system32\\curl.exe",
-      "https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/"
     ]
   ],
   [
