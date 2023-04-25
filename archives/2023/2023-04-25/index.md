@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 11:39:36](https://lobste.rs/s/jfnh3z/makerust_rust_makefile) - [makerust: Rust, but in a Makefile](https://github.com/badboy/makerust)
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic) - [Second IC :)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)

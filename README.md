@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 11:39:36](https://lobste.rs/s/jfnh3z/makerust_rust_makefile) - [makerust: Rust, but in a Makefile](https://github.com/badboy/makerust)
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic) - [Second IC :)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)
@@ -24,7 +25,6 @@
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
-* [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 
 ## [Archives](archives/index.md)
 
