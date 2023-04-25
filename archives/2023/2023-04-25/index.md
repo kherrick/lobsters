@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 20:09:02](https://lobste.rs/s/eli0k7/msgspec_is_fast_serialization) - [msgspec is a fast serialization+validation python lib for JSON, MessagePack, YAML and TOML](https://github.com/jcrist/msgspec)
+* [2023-04-25, 20:05:23](https://lobste.rs/s/5nbnfc/hacking_rails_implicit_rendering_for) - [Hacking Rails Implicit Rendering for View Components & Fun](https://fly.io/ruby-dispatch/hacking-rails-implicit-rendering-for-view-components/)
 * [2023-04-25, 19:42:40](https://lobste.rs/s/rpwv62/how_get_true_headache_brute_forcing_ntru) - [How to get a true headache: brute forcing NTRU](https://www.notamonadtutorial.com/how-to-get-a-true-headache-brute-forcing-ntru/)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 18:59:56](https://lobste.rs/s/lvvs41/state_machines_work_for_logic_too) - [State Machines work for logic too](https://tritarget.org/#State%20Machines%20work%20for%20logic%20too)
