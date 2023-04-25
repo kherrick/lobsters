@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-25, 20:09:02",
+      "https://lobste.rs/s/eli0k7/msgspec_is_fast_serialization"
+    ],
+    [
+      "msgspec is a fast serialization+validation python lib for JSON, MessagePack, YAML and TOML",
+      "https://github.com/jcrist/msgspec"
+    ]
+  ],
+  [
+    [
+      "2023-04-25, 20:05:23",
+      "https://lobste.rs/s/5nbnfc/hacking_rails_implicit_rendering_for"
+    ],
+    [
+      "Hacking Rails Implicit Rendering for View Components & Fun",
+      "https://fly.io/ruby-dispatch/hacking-rails-implicit-rendering-for-view-components/"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 19:42:40",
       "https://lobste.rs/s/rpwv62/how_get_true_headache_brute_forcing_ntru"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-04-24, 19:59:57",
-      "https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm"
-    ],
-    [
-      "Golang crypto/ecdh and the TPM",
-      "https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/"
-    ]
-  ],
-  [
-    [
       "2023-04-24, 18:16:17",
       "https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim"
     ],
     [
       "Every type is defined by its intro and elim forms",
       "https://blog.jez.io/intro-elim/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 17:32:41",
-      "https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api"
-    ],
-    [
-      "Haiku's (Kernel) Condition Variables API: Design & Implementation",
-      "https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/"
     ]
   ],
   [
