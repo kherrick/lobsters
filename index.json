@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-25, 16:53:15",
+      "https://lobste.rs/s/l2ywrr/qbs_2_0_released"
+    ],
+    [
+      "Qbs 2.0 released",
+      "https://www.qt.io/blog/qbs-2.0-released"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 16:46:36",
       "https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh"
     ],
@@ -237,16 +247,6 @@
     [
       "1Password is adding telemetry",
       "https://blog.1password.com/privacy-preserving-app-telemetry/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 04:35:23",
-      "https://lobste.rs/s/yumskl/shrinking_role_semaphores"
-    ],
-    [
-      "The shrinking role of semaphores",
-      "https://lwn.net/Articles/928026/"
     ]
   ]
 ]
