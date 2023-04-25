@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/smartphones_with_popular_qualcomm_chip) - [Smartphones With Popular Qualcomm Chip Secretly Share Private Information With US Chip-Maker](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
+* [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/qualcomm_phone_chips_send_telemtry) - [Qualcomm Phone Chips Send Telemtry](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 11:39:36](https://lobste.rs/s/jfnh3z/makerust_rust_makefile) - [makerust: Rust, but in a Makefile](https://github.com/badboy/makerust)
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic) - [Second IC :)](http://sam.zeloof.xyz/second-ic/)
