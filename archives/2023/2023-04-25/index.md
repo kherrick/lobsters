@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic) - [Second IC :)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:12:43](https://lobste.rs/s/y9t7pe/alice_ml) - [Alice ML](https://www.ps.uni-saarland.de/alice/)
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
