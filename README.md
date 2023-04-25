@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
 * [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
@@ -20,7 +21,6 @@
 * [2023-04-24, 19:59:57](https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm) - [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
 * [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
-* [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
