@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 04:27:22](https://lobste.rs/s/ddif5e/sculk_sensor_calculator_why_it_demos) - [A sculk-sensor calculator (and why it demos quantum uncertainty)](https://www.youtube.com/watch?v=B0OuIi2YADc)
 * [2023-04-25, 03:08:24](https://lobste.rs/s/37dvyx/distractions_cause_bad_code) - [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
 * [2023-04-25, 01:11:52](https://lobste.rs/s/xd1sfw/gcc_13_state_gccrs) - [GCC 13 and the state of gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
@@ -24,7 +25,6 @@
 * [2023-04-23, 18:54:56](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles) - [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
 * [2023-04-23, 17:17:22](https://lobste.rs/s/oeqh86/rye_flask_author_s_new_project_for_python) - [rye: Flask author's new project for Python bootstrapping](https://github.com/mitsuhiko/rye)
 * [2023-04-23, 14:14:29](https://lobste.rs/s/yhe6ag/world_s_simplest_lock_free_hash_table_2013) - [The World's Simplest Lock-Free Hash Table (2013)](https://preshing.com/20130605/the-worlds-simplest-lock-free-hash-table/)
-* [2023-04-23, 12:57:24](https://lobste.rs/s/jsmv2n/two_types_c_programmers) - [The two types of C programmers](https://utcc.utoronto.ca/~cks/space/blog/programming/CProgrammersTwoTypes)
 
 ## [Archives](archives/index.md)
 
