@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-25](index.md)
 
+* [2023-04-25, 20:31:01](https://lobste.rs/s/gln6qp/uk_will_spend_100_million_develop_its_own) - [The UK will spend £100 million to develop its own 'sovereign' AI](https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html)
 * [2023-04-25, 20:09:02](https://lobste.rs/s/eli0k7/msgspec_is_fast_serialization) - [msgspec is a fast serialization+validation python lib for JSON, MessagePack, YAML and TOML](https://github.com/jcrist/msgspec)
 * [2023-04-25, 20:05:23](https://lobste.rs/s/5nbnfc/hacking_rails_implicit_rendering_for) - [Hacking Rails Implicit Rendering for View Components & Fun](https://fly.io/ruby-dispatch/hacking-rails-implicit-rendering-for-view-components/)
 * [2023-04-25, 19:42:40](https://lobste.rs/s/rpwv62/how_get_true_headache_brute_forcing_ntru) - [How to get a true headache: brute forcing NTRU](https://www.notamonadtutorial.com/how-to-get-a-true-headache-brute-forcing-ntru/)
