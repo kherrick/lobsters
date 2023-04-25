@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-25, 06:22:12](https://lobste.rs/s/qsdnul/postgresql_indexes_can_hurt_you_negative) - [PostgreSQL Indexes Can Hurt You: Negative Effects and the Costs Involved](https://www.percona.com/blog/postgresql-indexes-can-hurt-you-negative-effects-and-the-costs-involved/)
 * [2023-04-25, 05:49:12](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 05:38:56](https://lobste.rs/s/a3hkdf/thinking_about_our_passive_exposure_ipv6) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
@@ -18,7 +19,6 @@
 * [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 * [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
 * [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
-* [2023-04-24, 12:16:53](https://lobste.rs/s/bc1cwg/our_journey_from_saas_oss_monoliths_vs) - [Our Journey from SaaS to OSS: Monoliths vs. Microservices](https://www.appsmith.com/blog/monoliths-vs-microservices-1)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 11:45:38](https://lobste.rs/s/ccma1n/openbsd_managing_inverter_converter) - [OpenBSD: Managing an inverter/converter with NUT](http://doc.huc.fr.eu.org/en/sys/openbsd/nut/)
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
