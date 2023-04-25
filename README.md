@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 07:12:43](https://lobste.rs/s/y9t7pe/alice_ml) - [Alice ML](https://www.ps.uni-saarland.de/alice/)
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-25, 06:22:12](https://lobste.rs/s/qsdnul/postgresql_indexes_can_hurt_you_negative) - [PostgreSQL Indexes Can Hurt You: Negative Effects and the Costs Involved](https://www.percona.com/blog/postgresql-indexes-can-hurt-you-negative-effects-and-the-costs-involved/)
@@ -11,7 +12,6 @@
 * [2023-04-25, 01:11:52](https://lobste.rs/s/xd1sfw/gcc_13_state_gccrs) - [GCC 13 and the state of gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 * [2023-04-24, 19:59:57](https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm) - [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
-* [2023-04-24, 19:15:29](https://lobste.rs/s/w12xum/fill_iso_c_developer_survey) - [Fill in the ISO C++ Developer Survey](https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/)
 * [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 17:32:41](https://lobste.rs/s/qgsvuk/haiku_s_kernel_condition_variables_api) - [Haiku's (Kernel) Condition Variables API: Design & Implementation](https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/)
 * [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
