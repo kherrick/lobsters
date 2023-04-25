@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/smartphones_with_popular_qualcomm_chip) - [Smartphones With Popular Qualcomm Chip Secretly Share Private Information With US Chip-Maker](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 11:39:36](https://lobste.rs/s/jfnh3z/makerust_rust_makefile) - [makerust: Rust, but in a Makefile](https://github.com/badboy/makerust)
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic) - [Second IC :)](http://sam.zeloof.xyz/second-ic/)
@@ -20,7 +21,6 @@
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
 * [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 * [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
-* [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
 * [2023-04-24, 12:15:44](https://lobste.rs/s/pjvdpe/deleting_system32_curl_exe) - [deleting system32\\curl.exe](https://daniel.haxx.se/blog/2023/04/24/deleting-system32curl-exe/)
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
