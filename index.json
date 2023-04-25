@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-25, 05:49:12",
+      "https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig"
+    ],
+    [
+      "Deep Neural Networks from Scratch in Zig",
+      "https://monadmonkey.com/dnns-from-scratch-in-zig"
+    ]
+  ],
+  [
+    [
       "2023-04-25, 05:38:56",
       "https://lobste.rs/s/a3hkdf/thinking_about_our_passive_exposure_ipv6"
     ],
@@ -227,16 +237,6 @@
     [
       "The shrinking role of semaphores",
       "https://lwn.net/Articles/928026/"
-    ]
-  ],
-  [
-    [
-      "2023-04-23, 18:54:56",
-      "https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles"
-    ],
-    [
-      "Using Nix with Dockerfiles",
-      "https://mitchellh.com/writing/nix-with-dockerfiles"
     ]
   ],
   [
