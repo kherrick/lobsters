@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 01:11:52](https://lobste.rs/s/xd1sfw/gcc_13_state_gccrs) - [GCC 13 and the state of gccrs](https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 * [2023-04-24, 19:59:57](https://lobste.rs/s/uimk5w/golang_crypto_ecdh_tpm) - [Golang crypto/ecdh and the TPM](https://linderud.dev/blog/golang-crypto/ecdh-and-the-tpm/)
 * [2023-04-24, 19:15:29](https://lobste.rs/s/w12xum/fill_iso_c_developer_survey) - [Fill in the ISO C++ Developer Survey](https://devblogs.microsoft.com/cppblog/fill-in-the-iso-c-developer-survey/)
@@ -18,7 +19,6 @@
 * [2023-04-24, 10:02:07](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xwptpr/what_are_you_doing_this_week)
 * [2023-04-24, 07:37:21](https://lobste.rs/s/inyxqd/1password_is_adding_telemetry) - [1Password is adding telemetry](https://blog.1password.com/privacy-preserving-app-telemetry/)
 * [2023-04-24, 04:35:23](https://lobste.rs/s/yumskl/shrinking_role_semaphores) - [The shrinking role of semaphores](https://lwn.net/Articles/928026/)
-* [2023-04-24, 03:19:12](https://lobste.rs/s/aaec2e/many_ways_converting_fp32_fp16) - [The many ways of converting FP32 to FP16](https://www.corsix.org/content/converting-fp32-to-fp16)
 * [2023-04-24, 01:12:49](https://lobste.rs/s/g7bc1z/ctf_challenge_using_nintendo_3ds_unique) - [A CTF Challenge using the Nintendo 3DS' unique features](https://reswitched-weekly-reboot.github.io/posts/3ds-ctf/)
 * [2023-04-23, 18:54:56](https://lobste.rs/s/w0hukh/using_nix_with_dockerfiles) - [Using Nix with Dockerfiles](https://mitchellh.com/writing/nix-with-dockerfiles)
 * [2023-04-23, 18:33:20](https://lobste.rs/s/0hylet/introducing_pypi_organizations) - [Introducing PyPI Organizations](https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/)
