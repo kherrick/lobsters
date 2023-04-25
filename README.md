@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 06:22:12](https://lobste.rs/s/qsdnul/postgresql_indexes_can_hurt_you_negative) - [PostgreSQL Indexes Can Hurt You: Negative Effects and the Costs Involved](https://www.percona.com/blog/postgresql-indexes-can-hurt-you-negative-effects-and-the-costs-involved/)
 * [2023-04-25, 05:49:12](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 05:38:56](https://lobste.rs/s/a3hkdf/thinking_about_our_passive_exposure_ipv6) - [Thinking about our passive exposure to IPv6 issues](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure)
 * [2023-04-25, 05:35:19](https://lobste.rs/s/behyod/nine_ways_shoot_yourself_foot_with) - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
@@ -14,7 +15,6 @@
 * [2023-04-24, 16:06:45](https://lobste.rs/s/x0qck8/qemu_version_8_0_0_released) - [QEMU version 8.0.0 released](https://www.qemu.org/2023/04/20/qemu-8-0-0/)
 * [2023-04-24, 15:34:37](https://lobste.rs/s/pxgucj/diagnosing_repairing_brother_fax) - [Diagnosing and repairing a Brother fax/printer USB failure](https://www.downtowndougbrown.com/2023/04/diagnosing-and-repairing-a-brother-fax-printer-usb-failure/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
-* [2023-04-24, 14:02:09](https://lobste.rs/s/5glumb/modeling_git_internals_alloy_part_3) - [Modeling Git Internals in Alloy, Part 3: Operations on Blobs and Trees](https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/)
 * [2023-04-24, 13:58:40](https://lobste.rs/s/lyufoa/pair_programming_experience_with_bard) - [pair programming experience with Bard](https://gist.github.com/rain-1/9c948a5931d9b0a15a985d5b11921e9e)
 * [2023-04-24, 13:27:37](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide) - [Introducing tsc.nvim: Project-Wide Asynchronous TypeScript Type-Checking & Diagnostics for Neovim](https://lobste.rs/s/4qsvl2/introducing_tsc_nvim_project_wide)
 * [2023-04-24, 12:42:20](https://lobste.rs/s/9unpqz/parallel_agile_interesting_idea_does_it) - [Parallel Agile: Interesting Idea – Does It Work?](https://two-wrongs.com/book-review-parallel-agile.html)
