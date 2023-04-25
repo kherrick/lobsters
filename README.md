@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 18:59:56](https://lobste.rs/s/lvvs41/state_machines_work_for_logic_too) - [State Machines work for logic too](https://tritarget.org/#State%20Machines%20work%20for%20logic%20too)
-* [2023-04-25, 18:44:23](https://lobste.rs/s/8n4ttj/intel_submits_long_awaited_shadow_stack) - [Intel Submits Long-Awaited Shadow Stack Support For Linux 6.4](https://www.phoronix.com/news/Shadow-Stack-PR-For-Linux-6.4)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
