@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-04-26, 05:12:56",
+      "https://lobste.rs/s/ee4npn/gradle_still_sucks"
+    ],
+    [
+      "Gradle still sucks",
+      "https://silverhammermba.github.io/blog/2023/01/06/gradle"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 00:48:36",
       "https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages"
     ],
@@ -177,16 +187,6 @@
     [
       "strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)",
       "https://www.openbsd.org/papers/strlcpy-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 07:12:43",
-      "https://lobste.rs/s/y9t7pe/alice_ml"
-    ],
-    [
-      "Alice ML",
-      "https://www.ps.uni-saarland.de/alice/"
     ]
   ],
   [
