@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-26, 05:12:56](https://lobste.rs/s/ee4npn/gradle_still_sucks) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
+* [2023-04-26, 05:42:05](https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner) - [Without RTTI your code will be cleaner](https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner)
 * [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
