@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-26, 14:34:36](https://lobste.rs/s/qwsgd7/mastodon_is_doomed) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
