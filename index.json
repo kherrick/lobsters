@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 19:47:12",
+      "https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with"
+    ],
+    [
+      "More on the comma as generator, and streaming with select in jq",
+      "https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 18:59:52",
       "https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone"
     ],
@@ -237,16 +247,6 @@
     [
       "Internet is wholesome: MVCC edition",
       "https://avi.im/blag/2023/internet-mvcc/"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 08:42:27",
-      "https://lobste.rs/s/bzzkta/second_ic_2021"
-    ],
-    [
-      "Second IC :) (2021)",
-      "http://sam.zeloof.xyz/second-ic/"
     ]
   ]
 ]
