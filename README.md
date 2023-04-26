@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-04-26, 05:42:05](https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner) - [Without RTTI your code will be cleaner](https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner)
+* [2023-04-26, 05:12:56](https://lobste.rs/s/ee4npn/gradle_still_sucks) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
@@ -18,7 +19,6 @@
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)
-* [2023-04-25, 07:12:43](https://lobste.rs/s/y9t7pe/alice_ml) - [Alice ML](https://www.ps.uni-saarland.de/alice/)
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-25, 05:49:12](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 05:35:19](https://lobste.rs/s/behyod/nine_ways_shoot_yourself_foot_with) - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
