@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 14:34:36](https://lobste.rs/s/qwsgd7/mastodon_is_doomed) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
 * [2023-04-26, 13:23:36](https://lobste.rs/s/61kxnm/from_postgresql_snowflake_data) - [From PostgreSQL to Snowflake: A data migration story](https://medium.com/wttj-tech/from-postgresql-to-snowflake-a-data-migration-story-5fd17f778019)
 * [2023-04-26, 11:52:48](https://lobste.rs/s/usqox4/streamlining_software_dependency) - [Streamlining Software Dependency Management with Dependabot](https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/)
@@ -23,7 +24,6 @@
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
-* [2023-04-25, 05:35:19](https://lobste.rs/s/behyod/nine_ways_shoot_yourself_foot_with) - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 
 ## [Archives](archives/index.md)
