@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 18:59:52](https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone) - [Unifying Qt::TimeSpec within QTimeZone](https://www.qt.io/blog/unifying-qttimespec-within-qtimezone)
 * [2023-04-26, 18:26:23](https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade) - [Slimbook Pro2, Kubuntu 18.04 to 22.04 upgrade, changes, fun](https://www.dedoimedo.com/computers/slimbook-pro2-upgrade.html)
 * [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
@@ -20,7 +21,6 @@
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
-* [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
 * [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 14:00:33](https://lobste.rs/s/vxrqt7/internet_is_wholesome_mvcc_edition) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
