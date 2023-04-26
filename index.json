@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 11:52:48",
+      "https://lobste.rs/s/usqox4/streamlining_software_dependency"
+    ],
+    [
+      "Streamlining Software Dependency Management with Dependabot",
+      "https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 10:29:26",
       "https://lobste.rs/s/zvvi3g/characterizing_tech_debt"
     ],
@@ -197,16 +207,6 @@
     [
       "Second IC :) (2021)",
       "http://sam.zeloof.xyz/second-ic/"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 08:13:30",
-      "https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string"
-    ],
-    [
-      "strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)",
-      "https://www.openbsd.org/papers/strlcpy-paper.pdf"
     ]
   ],
   [
