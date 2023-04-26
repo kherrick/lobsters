@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 20:20:00",
+      "https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable"
+    ],
+    [
+      "There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages",
+      "https://github.com/watscho/chat-gpt-telegram-bot"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 20:01:34",
       "https://lobste.rs/s/ska7w7/gcc_13_1_released"
     ],
@@ -177,16 +187,6 @@
     [
       "More thoughts on a bootstrappable GHC",
       "https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 05:42:05",
-      "https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner"
-    ],
-    [
-      "Without RTTI your code will be cleaner",
-      "https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner"
     ]
   ],
   [
