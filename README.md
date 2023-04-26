@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
 * [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
 * [2023-04-26, 18:59:52](https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone) - [Unifying Qt::TimeSpec within QTimeZone](https://www.qt.io/blog/unifying-qttimespec-within-qtimezone)
@@ -18,7 +19,6 @@
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
 * [2023-04-26, 07:29:21](https://lobste.rs/s/di37ga/more_thoughts_on_bootstrappable_ghc) - [More thoughts on a bootstrappable GHC](https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC)
-* [2023-04-26, 05:42:05](https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner) - [Without RTTI your code will be cleaner](https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
