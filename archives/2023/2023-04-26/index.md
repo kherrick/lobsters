@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 13:23:36](https://lobste.rs/s/61kxnm/from_postgresql_snowflake_data) - [From PostgreSQL to Snowflake: A data migration story](https://medium.com/wttj-tech/from-postgresql-to-snowflake-a-data-migration-story-5fd17f778019)
 * [2023-04-26, 13:19:40](https://lobste.rs/s/1woe5y/disturbing_facts_about_protonmail_2021) - [Disturbing facts about ProtonMail (2021)](https://encryp.ch/blog/disturbing-facts-about-protonmail/)
 * [2023-04-26, 11:52:48](https://lobste.rs/s/usqox4/streamlining_software_dependency) - [Streamlining Software Dependency Management with Dependabot](https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/)
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
