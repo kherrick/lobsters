@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-04-26, 09:45:12](https://lobste.rs/s/y5yrva/youtrack_2023_1_has_been_released) - [YouTrack 2023.1 has been released](https://www.jetbrains.com/youtrack/whatsnew/)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
 * [2023-04-26, 07:29:21](https://lobste.rs/s/di37ga/more_thoughts_on_bootstrappable_ghc) - [More thoughts on a bootstrappable GHC](https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC)
 * [2023-04-26, 05:42:05](https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner) - [Without RTTI your code will be cleaner](https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner)
@@ -22,6 +21,7 @@
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 * [2023-04-25, 08:13:30](https://lobste.rs/s/5eys5d/strlcpy_strlcat_consistent_safe_string) - [strlcpy and strlcat - Consistent, Safe, String Copy and Concatenation (1999)](https://www.openbsd.org/papers/strlcpy-paper.pdf)
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
+* [2023-04-25, 05:49:12](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 05:35:19](https://lobste.rs/s/behyod/nine_ways_shoot_yourself_foot_with) - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
