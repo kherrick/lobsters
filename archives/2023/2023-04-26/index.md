@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 18:26:23](https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade) - [Slimbook Pro2, Kubuntu 18.04 to 22.04 upgrade, changes, fun](https://www.dedoimedo.com/computers/slimbook-pro2-upgrade.html)
 * [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)

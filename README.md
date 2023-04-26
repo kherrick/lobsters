@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 18:26:23](https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade) - [Slimbook Pro2, Kubuntu 18.04 to 22.04 upgrade, changes, fun](https://www.dedoimedo.com/computers/slimbook-pro2-upgrade.html)
 * [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
@@ -10,7 +11,6 @@
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
-* [2023-04-26, 13:23:36](https://lobste.rs/s/61kxnm/from_postgresql_snowflake_data) - [From PostgreSQL to Snowflake: A data migration story](https://medium.com/wttj-tech/from-postgresql-to-snowflake-a-data-migration-story-5fd17f778019)
 * [2023-04-26, 11:52:48](https://lobste.rs/s/usqox4/streamlining_software_dependency) - [Streamlining Software Dependency Management with Dependabot](https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/)
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
