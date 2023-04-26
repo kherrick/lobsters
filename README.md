@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
+* [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 17:40:21](https://lobste.rs/s/dicvvu/sounds_like_bug) - [Sounds Like a Bug](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
 * [2023-04-26, 17:38:06](https://lobste.rs/s/7ezoge/delphi_11_c_builder_11_community_editions) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
@@ -15,7 +17,6 @@
 * [2023-04-26, 07:29:21](https://lobste.rs/s/di37ga/more_thoughts_on_bootstrappable_ghc) - [More thoughts on a bootstrappable GHC](https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC)
 * [2023-04-26, 05:42:05](https://lobste.rs/s/rlox2i/without_rtti_your_code_will_be_cleaner) - [Without RTTI your code will be cleaner](https://www.sandordargo.com/blog/2023/04/26/without-rtti-your-code-will-be-cleaner)
 * [2023-04-26, 05:12:56](https://lobste.rs/s/ee4npn/gradle_still_sucks) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
-* [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
@@ -23,7 +24,6 @@
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
 * [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 14:00:33](https://lobste.rs/s/vxrqt7/internet_is_wholesome_mvcc_edition) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
-* [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/qualcomm_phone_chips_send_telemtry) - [Qualcomm Phone Chips Send Telemtry](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 
 ## [Archives](archives/index.md)
