@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
 * [2023-04-26, 18:59:52](https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone) - [Unifying Qt::TimeSpec within QTimeZone](https://www.qt.io/blog/unifying-qttimespec-within-qtimezone)
 * [2023-04-26, 18:26:23](https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade) - [Slimbook Pro2, Kubuntu 18.04 to 22.04 upgrade, changes, fun](https://www.dedoimedo.com/computers/slimbook-pro2-upgrade.html)
 * [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
@@ -24,7 +25,6 @@
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
 * [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 14:00:33](https://lobste.rs/s/vxrqt7/internet_is_wholesome_mvcc_edition) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
-* [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 
 ## [Archives](archives/index.md)
 
