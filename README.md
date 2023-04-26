@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 15:40:35](https://lobste.rs/s/a9eeru/7_common_mistakes_rails_upgrades) - [7 Common Mistakes in Rails Upgrades](https://www.fastruby.io/blog/rails/upgrades/7-common-mistakes-made-while-doing-rails-upgrades.html)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
@@ -24,7 +25,6 @@
 * [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/qualcomm_phone_chips_send_telemtry) - [Qualcomm Phone Chips Send Telemtry](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
 * [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
-* [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 15:40:35](https://lobste.rs/s/a9eeru/7_common_mistakes_rails_upgrades) - [7 Common Mistakes in Rails Upgrades](https://www.fastruby.io/blog/rails/upgrades/7-common-mistakes-made-while-doing-rails-upgrades.html)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
