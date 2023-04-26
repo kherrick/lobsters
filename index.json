@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 14:54:31",
+      "https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from"
+    ],
+    [
+      "The Full-Source Bootstrap: Building from source all the way down",
+      "https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 14:47:57",
       "https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes"
     ],
@@ -197,16 +207,6 @@
     [
       "Qualcomm Phone Chips Send Telemtry",
       "https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 11:39:36",
-      "https://lobste.rs/s/jfnh3z/makerust_rust_makefile"
-    ],
-    [
-      "makerust: Rust, but in a Makefile",
-      "https://github.com/badboy/makerust"
     ]
   ],
   [
