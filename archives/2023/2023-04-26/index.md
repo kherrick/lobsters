@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 22:08:12](https://lobste.rs/s/fugcaf/research_codebase_manifesto) - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
 * [2023-04-26, 20:41:28](https://lobste.rs/s/0qpq5e/checkers_ai) - [Checkers AI](https://github.com/antonmedv/damka)
 * [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
