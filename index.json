@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 18:59:52",
+      "https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone"
+    ],
+    [
+      "Unifying Qt::TimeSpec within QTimeZone",
+      "https://www.qt.io/blog/unifying-qttimespec-within-qtimezone"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 18:26:23",
       "https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade"
     ],
@@ -197,16 +207,6 @@
     [
       "Fun with Kermit and ZMODEM over SSH",
       "https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 15:36:14",
-      "https://lobste.rs/s/sb47vz/chatgpt_shell_updates"
-    ],
-    [
-      "chatgpt-shell updates",
-      "https://xenodium.com/chatgpt-shell-available-on-melpa"
     ]
   ],
   [
