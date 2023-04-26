@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 05:12:56](https://lobste.rs/s/ee4npn/gradle_still_sucks) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
@@ -21,7 +22,6 @@
 * [2023-04-25, 06:53:11](https://lobste.rs/s/0pes7b/are_pull_requests_bad_because_they) - [Are pull requests bad because they originate from open-source development?](https://blog.ploeh.dk/2023/04/24/are-pull-requests-bad-because-they-originate-from-open-source-development/)
 * [2023-04-25, 05:49:12](https://lobste.rs/s/nudkxl/deep_neural_networks_from_scratch_zig) - [Deep Neural Networks from Scratch in Zig](https://monadmonkey.com/dnns-from-scratch-in-zig)
 * [2023-04-25, 05:35:19](https://lobste.rs/s/behyod/nine_ways_shoot_yourself_foot_with) - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
-* [2023-04-25, 03:08:24](https://lobste.rs/s/37dvyx/distractions_cause_bad_code) - [Distractions Cause Bad Code](https://ntietz.com/blog/distractions-cause-bad-code/)
 * [2023-04-25, 00:02:49](https://lobste.rs/s/xm2rdj/rust_allows_redeclaring_local_variables) - [Rust allows redeclaring local variables to great benefit](https://ntietz.com/blog/rust-shadowing-idiomatic/)
 * [2023-04-24, 18:16:17](https://lobste.rs/s/kzwsh0/every_type_is_defined_by_its_intro_elim) - [Every type is defined by its intro and elim forms](https://blog.jez.io/intro-elim/)
 * [2023-04-24, 15:26:21](https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop) - [Why I use Nix and make(1) to develop](https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/)
