@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-26, 14:34:36](https://lobste.rs/s/qwsgd7/mastodon_is_doomed) - [Mastodon Is Doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
 * [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
 * [2023-04-26, 13:23:36](https://lobste.rs/s/61kxnm/from_postgresql_snowflake_data) - [From PostgreSQL to Snowflake: A data migration story](https://medium.com/wttj-tech/from-postgresql-to-snowflake-a-data-migration-story-5fd17f778019)
