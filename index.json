@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-26, 14:01:42",
+      "https://lobste.rs/s/jtna4e/review_six_text_editors"
+    ],
+    [
+      "Review of Six Text Editors",
+      "https://home.octetfont.com/blog/review-editors.html"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 13:23:36",
       "https://lobste.rs/s/61kxnm/from_postgresql_snowflake_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust allows redeclaring local variables to great benefit",
       "https://ntietz.com/blog/rust-shadowing-idiomatic/"
-    ]
-  ],
-  [
-    [
-      "2023-04-24, 15:26:21",
-      "https://lobste.rs/s/g6gk8d/why_i_use_nix_make_1_develop"
-    ],
-    [
-      "Why I use Nix and make(1) to develop",
-      "https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/"
     ]
   ]
 ]
