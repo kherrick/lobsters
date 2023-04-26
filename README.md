@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 17:40:21](https://lobste.rs/s/dicvvu/sounds_like_bug) - [Sounds Like a Bug](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
+* [2023-04-26, 17:38:06](https://lobste.rs/s/7ezoge/delphi_11_c_builder_11_community_editions) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 15:40:35](https://lobste.rs/s/a9eeru/7_common_mistakes_rails_upgrades) - [7 Common Mistakes in Rails Upgrades](https://www.fastruby.io/blog/rails/upgrades/7-common-mistakes-made-while-doing-rails-upgrades.html)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
@@ -15,7 +17,6 @@
 * [2023-04-26, 05:12:56](https://lobste.rs/s/ee4npn/gradle_still_sucks) - [Gradle still sucks](https://silverhammermba.github.io/blog/2023/01/06/gradle)
 * [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
-* [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)
 * [2023-04-25, 15:36:14](https://lobste.rs/s/sb47vz/chatgpt_shell_updates) - [chatgpt-shell updates](https://xenodium.com/chatgpt-shell-available-on-melpa)
@@ -23,7 +24,6 @@
 * [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 14:00:33](https://lobste.rs/s/vxrqt7/internet_is_wholesome_mvcc_edition) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 * [2023-04-25, 11:41:45](https://lobste.rs/s/i1rbqo/qualcomm_phone_chips_send_telemtry) - [Qualcomm Phone Chips Send Telemtry](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)
-* [2023-04-25, 09:26:25](https://lobste.rs/s/kbikaw/six_ways_shoot_yourself_foot_with) - [Six ways to shoot yourself in the foot with healthchecks](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks)
 * [2023-04-25, 08:42:27](https://lobste.rs/s/bzzkta/second_ic_2021) - [Second IC :) (2021)](http://sam.zeloof.xyz/second-ic/)
 
 ## [Archives](archives/index.md)
