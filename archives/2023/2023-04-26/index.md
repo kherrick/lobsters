@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 22:08:12](https://lobste.rs/s/fugcaf/research_codebase_manifesto) - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
 * [2023-04-26, 20:41:28](https://lobste.rs/s/0qpq5e/checkers_ai) - [Checkers AI](https://github.com/antonmedv/damka)
 * [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
 * [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
