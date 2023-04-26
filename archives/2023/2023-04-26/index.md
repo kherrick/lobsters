@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 09:45:12](https://lobste.rs/s/y5yrva/youtrack_2023_1_has_been_released) - [YouTrack 2023.1 has been released](https://www.jetbrains.com/youtrack/whatsnew/)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
 * [2023-04-26, 07:29:21](https://lobste.rs/s/di37ga/more_thoughts_on_bootstrappable_ghc) - [More thoughts on a bootstrappable GHC](https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC)
