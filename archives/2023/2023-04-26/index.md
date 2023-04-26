@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 20:41:28](https://lobste.rs/s/0qpq5e/checkers_ai) - [Checkers AI](https://github.com/antonmedv/damka)
 * [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
 * [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
