@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-26, 13:19:40](https://lobste.rs/s/1woe5y/disturbing_facts_about_protonmail_2021) - [Disturbing facts about ProtonMail (2021)](https://encryp.ch/blog/disturbing-facts-about-protonmail/)
 * [2023-04-26, 11:52:48](https://lobste.rs/s/usqox4/streamlining_software_dependency) - [Streamlining Software Dependency Management with Dependabot](https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/)
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
@@ -9,7 +10,6 @@
 * [2023-04-26, 00:48:36](https://lobste.rs/s/abnxhd/calculators_codes_hidden_messages) - [Calculators, codes, and hidden messages](https://vintagecomputerstories.blogspot.com/2023/04/calculators-codes-and-hidden-messages.html)
 * [2023-04-25, 22:39:14](https://lobste.rs/s/5jetnk/nix_melt_ranger_like_flake_lock_viewer) - [nix-melt - A ranger-like flake.lock viewer](https://github.com/nix-community/nix-melt)
 * [2023-04-25, 20:49:08](https://lobste.rs/s/mbywa3/who_will_benefit_most_from_msrk) - [Who will benefit the most from MSRK?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
-* [2023-04-25, 19:42:40](https://lobste.rs/s/rpwv62/how_get_true_headache_brute_forcing_ntru) - [How to get a true headache: brute forcing NTRU](https://www.notamonadtutorial.com/how-to-get-a-true-headache-brute-forcing-ntru/)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 18:44:23](https://lobste.rs/s/8n4ttj/intel_submits_long_awaited_shadow_stack) - [Intel Submits Long-Awaited Shadow Stack Support For Linux 6.4](https://www.phoronix.com/news/Shadow-Stack-PR-For-Linux-6.4)
 * [2023-04-25, 16:46:36](https://lobste.rs/s/ixefoc/fun_with_kermit_zmodem_over_ssh) - [Fun with Kermit and ZMODEM over SSH](https://www.cambus.net/fun-with-kermit-and-zmodem-over-ssh/)

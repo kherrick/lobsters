@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-26](index.md)
 
+* [2023-04-26, 13:19:40](https://lobste.rs/s/1woe5y/disturbing_facts_about_protonmail_2021) - [Disturbing facts about ProtonMail (2021)](https://encryp.ch/blog/disturbing-facts-about-protonmail/)
 * [2023-04-26, 11:52:48](https://lobste.rs/s/usqox4/streamlining_software_dependency) - [Streamlining Software Dependency Management with Dependabot](https://blog.mergify.com/streamlining-software-dependency-management-with-dependabot/)
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 09:45:12](https://lobste.rs/s/y5yrva/youtrack_2023_1_has_been_released) - [YouTrack 2023.1 has been released](https://www.jetbrains.com/youtrack/whatsnew/)
