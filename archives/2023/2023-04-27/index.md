@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
+* [2023-04-27, 17:24:12](https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz) - [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
 * [2023-04-27, 17:14:35](https://lobste.rs/s/uubygx/datomic_event_sourcing_without_hassle) - [Datomic: Event Sourcing without the hassle (2018)](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
 * [2023-04-27, 16:46:17](https://lobste.rs/s/nzb0mo/new_product_preview_rp2040_pico30) - [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
 * [2023-04-27, 16:40:28](https://lobste.rs/s/iirq9g/database_trends_spotted_at_kubecon) - [Database Trends Spotted at KubeCon Europe](https://redis.com/blog/kubecon-database-trends/)

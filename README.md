@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
+* [2023-04-27, 17:24:12](https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz) - [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
 * [2023-04-27, 17:14:35](https://lobste.rs/s/uubygx/datomic_event_sourcing_without_hassle) - [Datomic: Event Sourcing without the hassle (2018)](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
 * [2023-04-27, 16:46:17](https://lobste.rs/s/nzb0mo/new_product_preview_rp2040_pico30) - [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
 * [2023-04-27, 16:40:28](https://lobste.rs/s/iirq9g/database_trends_spotted_at_kubecon) - [Database Trends Spotted at KubeCon Europe](https://redis.com/blog/kubecon-database-trends/)
@@ -14,10 +16,8 @@
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-27, 04:39:23](https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most) - [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
-* [2023-04-26, 22:51:26](https://lobste.rs/s/rmu6un/bringing_memory_safety_sudo_su) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
-* [2023-04-26, 19:20:52](https://lobste.rs/s/kkfept/one_decade_later_i_m_still_mad_at_gnome) - [One decade later, I’m still mad at GNOME](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
