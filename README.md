@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 20:21:58](https://lobste.rs/s/hlaxtt/announcing_xtdb_2_x_early_access) - [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
 * [2023-04-27, 19:52:21](https://lobste.rs/s/khxtp2/chatgpt_writes_capi_infrastructure) - [ChatGPT Writes a CAPI Infrastructure Provider](https://eng.d2iq.com/blog/chatgpt-writes-a-capi-infrastructure-provider/)
 * [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:24:12](https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz) - [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
@@ -24,7 +25,6 @@
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
-* [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
 
 ## [Archives](archives/index.md)
 
