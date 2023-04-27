@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 15:14:30",
+      "https://lobste.rs/s/sxlefb/datomic_is_free"
+    ],
+    [
+      "Datomic is Free",
+      "https://blog.datomic.com/2023/04/datomic-is-free.html"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 11:03:50",
       "https://lobste.rs/s/nmfvv6/vvd_open_source_real_3d_volumetric"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2023-04-27, 08:52:02",
-      "https://lobste.rs/s/vtujtz/programming_with_union_intersection"
-    ],
-    [
-      "Programming with union, intersection, and negation types",
-      "https://arxiv.org/pdf/2111.03354.pdf"
-    ]
-  ],
-  [
-    [
       "2023-04-27, 06:12:10",
       "https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple"
     ],
     [
       "Setting Up A Cloud Server For Multiple Sites",
       "https://sdubinsky.com/blog/16"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 06:03:19",
-      "https://lobste.rs/s/i6tand/peterson_s_algorithm"
-    ],
-    [
-      "Peterson's algorithm",
-      "https://en.wikipedia.org/wiki/Peterson%27s_algorithm"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "Hacking the original xbox controller for fun and no profit",
       "https://wheybags.com/blog/xbox.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-26, 22:08:12",
+      "https://lobste.rs/s/fugcaf/research_codebase_manifesto"
+    ],
+    [
+      "A Research Codebase Manifesto",
+      "https://www.moderndescartes.com/essays/research_code/"
     ]
   ],
   [
