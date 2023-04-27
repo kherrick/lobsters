@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 20:45:14](https://lobste.rs/s/esywdy/cra_tw_link_shortener_for_crates_io) - [cra.tw - a link shortener for crates.io](https://cra.tw)
 * [2023-04-27, 20:21:58](https://lobste.rs/s/hlaxtt/announcing_xtdb_2_x_early_access) - [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
 * [2023-04-27, 19:52:21](https://lobste.rs/s/khxtp2/chatgpt_writes_capi_infrastructure) - [ChatGPT Writes a CAPI Infrastructure Provider](https://eng.d2iq.com/blog/chatgpt-writes-a-capi-infrastructure-provider/)
 * [2023-04-27, 17:57:54](https://lobste.rs/s/kbged7/upgrade_postgresql_from_14_15_on_ubuntu_23) - [Upgrade PostgreSQL from 14 to 15 on Ubuntu 23.04](https://www.paulox.net/2023/04/27/upgrading-postgresql-from-version-14-to-15-on-ubuntu-23-04-lunar-lobster/)
