@@ -11,6 +11,7 @@
 * [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
 * [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
+* [2023-04-26, 19:20:52](https://lobste.rs/s/kkfept/one_decade_later_i_m_still_mad_at_gnome) - [One decade later, I’m still mad at GNOME](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 19:20:52](https://lobste.rs/s/kkfept/one_decade_later_gnome_still_sucks) - [One decade later, GNOME still sucks](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 18:59:52](https://lobste.rs/s/nihc2r/unifying_qt_timespec_within_qtimezone) - [Unifying Qt::TimeSpec within QTimeZone](https://www.qt.io/blog/unifying-qttimespec-within-qtimezone)
 * [2023-04-26, 18:26:23](https://lobste.rs/s/qjk0bi/slimbook_pro2_kubuntu_18_04_22_04_upgrade) - [Slimbook Pro2, Kubuntu 18.04 to 22.04 upgrade, changes, fun](https://www.dedoimedo.com/computers/slimbook-pro2-upgrade.html)
