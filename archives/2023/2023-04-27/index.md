@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-27, 08:52:02](https://lobste.rs/s/vtujtz/programming_with_union_intersection) - [Programming with union, intersection, and negation types](https://arxiv.org/pdf/2111.03354.pdf)
 * [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 06:03:19](https://lobste.rs/s/i6tand/peterson_s_algorithm) - [Peterson's algorithm](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)

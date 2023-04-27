@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-27, 08:52:02](https://lobste.rs/s/vtujtz/programming_with_union_intersection) - [Programming with union, intersection, and negation types](https://arxiv.org/pdf/2111.03354.pdf)
 * [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 06:03:19](https://lobste.rs/s/i6tand/peterson_s_algorithm) - [Peterson's algorithm](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
@@ -21,7 +22,6 @@
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
-* [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
 * [2023-04-26, 10:29:26](https://lobste.rs/s/zvvi3g/characterizing_tech_debt) - [Characterizing Tech Debt](https://justinblank.com/notebooks/characterizingtechdebt.html)
 * [2023-04-26, 07:54:21](https://lobste.rs/s/a1m85x/futexes_translation_dictionary) - [Futexes: a translation dictionary](https://outerproduct.net/futex-dictionary.html)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
