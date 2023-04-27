@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 00:58:56",
+      "https://lobste.rs/s/7fkkky/foundation_package_preview_now"
+    ],
+    [
+      "Foundation Package Preview Now Available",
+      "https://www.swift.org/blog/foundation-preview-now-available/"
+    ]
+  ],
+  [
+    [
       "2023-04-26, 22:51:26",
       "https://lobste.rs/s/rmu6un/bringing_memory_safety_sudo_su"
     ],
@@ -127,16 +137,6 @@
     [
       "sudo-rs: A memory safe implementation of sudo and su",
       "https://github.com/memorysafety/sudo-rs"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 15:40:35",
-      "https://lobste.rs/s/a9eeru/7_common_mistakes_rails_upgrades"
-    ],
-    [
-      "7 Common Mistakes in Rails Upgrades",
-      "https://www.fastruby.io/blog/rails/upgrades/7-common-mistakes-made-while-doing-rails-upgrades.html"
     ]
   ],
   [
