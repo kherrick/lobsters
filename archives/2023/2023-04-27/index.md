@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 17:57:54](https://lobste.rs/s/kbged7/upgrade_postgresql_from_14_15_on_ubuntu_23) - [Upgrade PostgreSQL from 14 to 15 on Ubuntu 23.04](https://www.paulox.net/2023/04/27/upgrading-postgresql-from-version-14-to-15-on-ubuntu-23-04-lunar-lobster/)
 * [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:24:12](https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz) - [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
 * [2023-04-27, 17:14:35](https://lobste.rs/s/uubygx/datomic_event_sourcing_without_hassle) - [Datomic: Event Sourcing without the hassle (2018)](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
