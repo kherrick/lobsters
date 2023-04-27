@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 16:40:28](https://lobste.rs/s/iirq9g/database_trends_spotted_at_kubecon) - [Database Trends Spotted at KubeCon Europe](https://redis.com/blog/kubecon-database-trends/)
 * [2023-04-27, 16:28:34](https://lobste.rs/s/m57dw4/call_for_testers_spatial_shell) - [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
@@ -15,7 +16,6 @@
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 22:08:12](https://lobste.rs/s/fugcaf/research_codebase_manifesto) - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
 * [2023-04-26, 20:20:00](https://lobste.rs/s/qrvpsn/there_is_chat_gpt_telegram_bot_is_capable) - [There is a Chat GPT Telegram bot that is capable of understanding both text and voice messages](https://github.com/watscho/chat-gpt-telegram-bot)
-* [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
 * [2023-04-26, 19:20:52](https://lobste.rs/s/kkfept/one_decade_later_i_m_still_mad_at_gnome) - [One decade later, I’m still mad at GNOME](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
