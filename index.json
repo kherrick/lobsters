@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 05:47:24",
+      "https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023_nango_blog"
+    ],
+    [
+      "Why is OAuth still hard in 2023? | Nango Blog",
+      "https://www.nango.dev/blog/why-is-oauth-still-hard"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 04:39:23",
       "https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most"
     ],
@@ -217,16 +227,6 @@
     [
       "More thoughts on a bootstrappable GHC",
       "https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC"
-    ]
-  ],
-  [
-    [
-      "2023-04-25, 19:07:57",
-      "https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai"
-    ],
-    [
-      "The Dual LLM pattern for building AI assistants that can resist prompt injection",
-      "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
     ]
   ],
   [
