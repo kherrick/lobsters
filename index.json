@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-27, 17:27:05",
+      "https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023"
+    ],
+    [
+      "The future of programming: Research at CHI 2023",
+      "https://austinhenley.com/blog/futureofprogramming2023.html"
+    ]
+  ],
+  [
+    [
+      "2023-04-27, 17:24:12",
+      "https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz"
+    ],
+    [
+      "Hardest Question on Ruby Arrays Quiz",
+      "https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 17:14:35",
       "https://lobste.rs/s/uubygx/datomic_event_sourcing_without_hassle"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-04-26, 22:51:26",
-      "https://lobste.rs/s/rmu6un/bringing_memory_safety_sudo_su"
-    ],
-    [
-      "Bringing Memory Safety to sudo and su",
-      "https://www.memorysafety.org/blog/sudo-and-su/"
-    ]
-  ],
-  [
-    [
       "2023-04-26, 22:37:15",
       "https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun"
     ],
@@ -167,16 +177,6 @@
     [
       "More on the comma as generator, and streaming with select in jq",
       "https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 19:20:52",
-      "https://lobste.rs/s/kkfept/one_decade_later_i_m_still_mad_at_gnome"
-    ],
-    [
-      "One decade later, I’m still mad at GNOME",
-      "https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/"
     ]
   ],
   [
