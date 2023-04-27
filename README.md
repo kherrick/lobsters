@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 06:03:19](https://lobste.rs/s/i6tand/peterson_s_algorithm) - [Peterson's algorithm](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023_nango_blog) - [Why is OAuth still hard in 2023? | Nango Blog](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-27, 04:39:23](https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most) - [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
@@ -12,7 +13,6 @@
 * [2023-04-26, 20:01:34](https://lobste.rs/s/ska7w7/gcc_13_1_released) - [GCC 13.1 Released](https://gcc.gnu.org/pipermail/gcc-announce/2023/000175.html)
 * [2023-04-26, 19:47:12](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with) - [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/)
 * [2023-04-26, 19:20:52](https://lobste.rs/s/kkfept/one_decade_later_gnome_still_sucks) - [One decade later, GNOME still sucks](https://felipec.wordpress.com/2023/03/04/one-decade-later-gnome-still-sucks/)
-* [2023-04-26, 18:23:55](https://lobste.rs/s/yyukak/autometrics_rs_0_4_spot_commits_introduce) - [autometrics-rs 0.4: Spot commits that introduce errors or slow down your application](https://fiberplane.com/blog/autometrics-rs-0-4-spot-commits-that-introduce-errors-or-slow-down-your-application)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 17:38:06](https://lobste.rs/s/7ezoge/delphi_11_c_builder_11_community_editions) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
