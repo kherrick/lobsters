@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 04:39:23](https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most) - [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 * [2023-04-27, 00:58:56](https://lobste.rs/s/7fkkky/foundation_package_preview_now) - [Foundation Package Preview Now Available](https://www.swift.org/blog/foundation-preview-now-available/)
 * [2023-04-26, 22:51:26](https://lobste.rs/s/rmu6un/bringing_memory_safety_sudo_su) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
@@ -23,7 +24,6 @@
 * [2023-04-26, 07:29:21](https://lobste.rs/s/di37ga/more_thoughts_on_bootstrappable_ghc) - [More thoughts on a bootstrappable GHC](https://www.joachim-breitner.de/blog/802-More_thoughts_on_a_bootstrappable_GHC)
 * [2023-04-25, 19:07:57](https://lobste.rs/s/ltyzx5/dual_llm_pattern_for_building_ai) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-04-25, 14:25:09](https://lobste.rs/s/32aeji/gpt4_should_be_part_your_toolkit) - [GPT4 should be part of your toolkit](https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/)
-* [2023-04-25, 14:01:23](https://lobste.rs/s/jvxb8s/my_thoughts_on_ocaml) - [My thoughts on OCaml](https://osa1.net/posts/2023-04-24-ocaml-thoughts.html)
 * [2023-04-25, 14:00:33](https://lobste.rs/s/vxrqt7/internet_is_wholesome_mvcc_edition) - [Internet is wholesome: MVCC edition](https://avi.im/blag/2023/internet-mvcc/)
 
 ## [Archives](archives/index.md)
