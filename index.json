@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 17:14:35",
+      "https://lobste.rs/s/uubygx/datomic_event_sourcing_without_hassle"
+    ],
+    [
+      "Datomic: Event Sourcing without the hassle (2018)",
+      "https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 16:46:17",
       "https://lobste.rs/s/nzb0mo/new_product_preview_rp2040_pico30"
     ],
@@ -127,16 +137,6 @@
     [
       "The Power of Ten – Rules for Developing Safety Critical Code",
       "https://spinroot.com/gerard/pdf/P10.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 00:58:56",
-      "https://lobste.rs/s/7fkkky/foundation_package_preview_now"
-    ],
-    [
-      "Foundation Package Preview Now Available",
-      "https://www.swift.org/blog/foundation-preview-now-available/"
     ]
   ],
   [
