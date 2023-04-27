@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 00:58:56](https://lobste.rs/s/7fkkky/foundation_package_preview_now) - [Foundation Package Preview Now Available](https://www.swift.org/blog/foundation-preview-now-available/)
 * [2023-04-26, 22:51:26](https://lobste.rs/s/rmu6un/bringing_memory_safety_sudo_su) - [Bringing Memory Safety to sudo and su](https://www.memorysafety.org/blog/sudo-and-su/)
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 22:08:12](https://lobste.rs/s/fugcaf/research_codebase_manifesto) - [A Research Codebase Manifesto](https://www.moderndescartes.com/essays/research_code/)
@@ -13,7 +14,6 @@
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 17:38:06](https://lobste.rs/s/7ezoge/delphi_11_c_builder_11_community_editions) - [Delphi 11 and C++Builder 11 Community Editions Released](https://blogs.embarcadero.com/delphi-11-and-cbuilder-11-community-editions-released/)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
-* [2023-04-26, 15:40:35](https://lobste.rs/s/a9eeru/7_common_mistakes_rails_upgrades) - [7 Common Mistakes in Rails Upgrades](https://www.fastruby.io/blog/rails/upgrades/7-common-mistakes-made-while-doing-rails-upgrades.html)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 * [2023-04-26, 14:01:42](https://lobste.rs/s/jtna4e/review_six_text_editors) - [Review of Six Text Editors](https://home.octetfont.com/blog/review-editors.html)
