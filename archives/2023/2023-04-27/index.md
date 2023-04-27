@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 08:52:02](https://lobste.rs/s/vtujtz/programming_with_union_intersection) - [Programming with union, intersection, and negation types](https://arxiv.org/pdf/2111.03354.pdf)
 * [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 06:03:19](https://lobste.rs/s/i6tand/peterson_s_algorithm) - [Peterson's algorithm](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023_nango_blog) - [Why is OAuth still hard in 2023? | Nango Blog](https://www.nango.dev/blog/why-is-oauth-still-hard)
