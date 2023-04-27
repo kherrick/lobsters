@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-27, 19:52:21",
+      "https://lobste.rs/s/khxtp2/chatgpt_writes_capi_infrastructure"
+    ],
+    [
+      "ChatGPT Writes a CAPI Infrastructure Provider",
+      "https://eng.d2iq.com/blog/chatgpt-writes-a-capi-infrastructure-provider/"
+    ]
+  ],
+  [
+    [
       "2023-04-27, 17:27:05",
       "https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "You could have invented futexes",
       "https://tavianator.com/2023/futex.html"
-    ]
-  ],
-  [
-    [
-      "2023-04-26, 10:29:26",
-      "https://lobste.rs/s/zvvi3g/characterizing_tech_debt"
-    ],
-    [
-      "Characterizing Tech Debt",
-      "https://justinblank.com/notebooks/characterizingtechdebt.html"
     ]
   ],
   [
