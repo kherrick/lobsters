@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-27](index.md)
 
+* [2023-04-27, 11:03:50](https://lobste.rs/s/nmfvv6/vvd_open_source_real_3d_volumetric) - [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
 * [2023-04-27, 10:22:51](https://lobste.rs/s/m2xfws/50_shades_rust_emerging_rust_guis_wasm) - [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 * [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-27, 08:52:02](https://lobste.rs/s/vtujtz/programming_with_union_intersection) - [Programming with union, intersection, and negation types](https://arxiv.org/pdf/2111.03354.pdf)
