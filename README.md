@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
 * [2023-04-27, 20:45:14](https://lobste.rs/s/esywdy/cra_tw_link_shortener_for_crates_io) - [cra.tw - a link shortener for crates.io](https://cra.tw)
 * [2023-04-27, 20:21:58](https://lobste.rs/s/hlaxtt/announcing_xtdb_2_x_early_access) - [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
 * [2023-04-27, 19:52:21](https://lobste.rs/s/khxtp2/chatgpt_writes_capi_infrastructure) - [ChatGPT Writes a CAPI Infrastructure Provider](https://eng.d2iq.com/blog/chatgpt-writes-a-capi-infrastructure-provider/)
@@ -24,7 +25,6 @@
 * [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
-* [2023-04-26, 14:47:57](https://lobste.rs/s/0lwuwo/you_could_have_invented_futexes) - [You could have invented futexes](https://tavianator.com/2023/futex.html)
 
 ## [Archives](archives/index.md)
 
