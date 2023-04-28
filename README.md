@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
+* [2023-04-28, 14:07:38](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most) - [Fun Format Friday: Why do you hate your most beloved text editor?](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most)
 * [2023-04-28, 13:52:51](https://lobste.rs/s/xyonbl/curl_8_is_faster) - [curl 8 is faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
@@ -17,8 +19,6 @@
 * [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
 * [2023-04-27, 20:45:14](https://lobste.rs/s/esywdy/cra_tw_link_shortener_for_crates_io) - [cra.tw - a link shortener for crates.io](https://cra.tw)
-* [2023-04-27, 20:21:58](https://lobste.rs/s/hlaxtt/announcing_xtdb_2_x_early_access) - [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
-* [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 16:28:34](https://lobste.rs/s/m57dw4/call_for_testers_spatial_shell) - [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
