@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
 * [2023-04-28, 12:23:56](https://lobste.rs/s/le6ojv/monitor_screen_blanks_due_static) - [Monitor/screen that blanks due to static electricity in my chair](https://superuser.com/questions/1406140/monitor-screen-that-blanks-due-to-static-electricity-in-my-chair#1406142)
 * [2023-04-28, 12:20:37](https://lobste.rs/s/fm1nlb/uefi_pc_boot_process_uefi_with_qemu) - [UEFI, PC boot process and UEFI with QEMU](https://joonas.fi/2021/02/uefi-pc-boot-process-and-uefi-with-qemu/)
 * [2023-04-28, 10:52:43](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend)
@@ -16,7 +17,6 @@
 * [2023-04-27, 20:45:14](https://lobste.rs/s/esywdy/cra_tw_link_shortener_for_crates_io) - [cra.tw - a link shortener for crates.io](https://cra.tw)
 * [2023-04-27, 20:21:58](https://lobste.rs/s/hlaxtt/announcing_xtdb_2_x_early_access) - [Announcing XTDB 2.x Early Access ·](https://www.xtdb.com/blog/2x-early-access)
 * [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
-* [2023-04-27, 16:46:17](https://lobste.rs/s/nzb0mo/new_product_preview_rp2040_pico30) - [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
 * [2023-04-27, 16:28:34](https://lobste.rs/s/m57dw4/call_for_testers_spatial_shell) - [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
