@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 08:37:37](https://lobste.rs/s/0jqdfm/laravel_business_process_is_simple_clean) - [Laravel Business Process is a simple and clean way to run business process](https://github.com/JustSteveKing/laravel-business-process)
 * [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 07:51:30](https://lobste.rs/s/qxlh6m/native_implementation_mutable_value) - [Native Implementation of Mutable Value Semantics](https://arxiv.org/pdf/2106.12678.pdf)
 * [2023-04-28, 06:46:16](https://lobste.rs/s/jtx8tg/pinging_locations) - [Pinging Locations](https://www.hackerfactor.com/blog/index.php?/archives/989-Pinging-Locations.html)
