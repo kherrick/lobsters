@@ -19,10 +19,10 @@
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 11:03:50](https://lobste.rs/s/nmfvv6/vvd_open_source_real_3d_volumetric) - [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
 * [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
-* [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
+* [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 
