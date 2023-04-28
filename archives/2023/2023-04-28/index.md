@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 07:51:30](https://lobste.rs/s/qxlh6m/native_implementation_mutable_value) - [Native Implementation of Mutable Value Semantics](https://arxiv.org/pdf/2106.12678.pdf)
 * [2023-04-28, 06:46:16](https://lobste.rs/s/jtx8tg/pinging_locations) - [Pinging Locations](https://www.hackerfactor.com/blog/index.php?/archives/989-Pinging-Locations.html)
 * [2023-04-28, 05:48:49](https://lobste.rs/s/yllllu/we_re_afraid_language_models_aren_t) - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
 * [2023-04-28, 03:28:47](https://lobste.rs/s/5gdmy4/learnings_from_integrating_jmx_based) - [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)

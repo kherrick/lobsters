@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 07:51:30](https://lobste.rs/s/qxlh6m/native_implementation_mutable_value) - [Native Implementation of Mutable Value Semantics](https://arxiv.org/pdf/2106.12678.pdf)
 * [2023-04-28, 06:46:16](https://lobste.rs/s/jtx8tg/pinging_locations) - [Pinging Locations](https://www.hackerfactor.com/blog/index.php?/archives/989-Pinging-Locations.html)
 * [2023-04-28, 05:48:49](https://lobste.rs/s/yllllu/we_re_afraid_language_models_aren_t) - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
 * [2023-04-28, 03:28:47](https://lobste.rs/s/5gdmy4/learnings_from_integrating_jmx_based) - [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)
@@ -15,7 +16,6 @@
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 11:03:50](https://lobste.rs/s/nmfvv6/vvd_open_source_real_3d_volumetric) - [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
-* [2023-04-27, 10:22:51](https://lobste.rs/s/m2xfws/50_shades_rust_emerging_rust_guis_wasm) - [50 Shades of Rust, or emerging Rust GUIs in a WASM world](https://monadical.com/posts/shades-of-rust-gui-library-list.html)
 * [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
