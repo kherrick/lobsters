@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 10:52:43](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
 * [2023-04-28, 08:48:59](https://lobste.rs/s/xpmwpg/erosion_status_software_developers_as) - [The Erosion of the Status of Software Developers as Professionals](https://levelup.gitconnected.com/the-erosion-of-the-status-of-software-developers-as-professionals-c9cd4ba0ae85)
 * [2023-04-28, 08:37:37](https://lobste.rs/s/0jqdfm/laravel_business_process_is_simple_clean) - [Laravel Business Process is a simple and clean way to run business process](https://github.com/JustSteveKing/laravel-business-process)
