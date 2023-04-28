@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 06:46:16](https://lobste.rs/s/jtx8tg/pinging_locations) - [Pinging Locations](https://www.hackerfactor.com/blog/index.php?/archives/989-Pinging-Locations.html)
 * [2023-04-28, 05:48:49](https://lobste.rs/s/yllllu/we_re_afraid_language_models_aren_t) - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
 * [2023-04-28, 03:28:47](https://lobste.rs/s/5gdmy4/learnings_from_integrating_jmx_based) - [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)
 * [2023-04-28, 02:46:02](https://lobste.rs/s/6546qu/mahmoud_hashemi_edits_system_libraries) - [Mahmoud Hashemi edits system libraries](https://www.youtube.com/watch?v=GeSM4zSc8-A)
@@ -22,7 +23,6 @@
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
-* [2023-04-26, 17:50:42](https://lobste.rs/s/xskiw5/urllib3_v2_0_0_is_now_generally_available) - [urllib3 v2.0.0 is now generally available](https://sethmlarson.dev/urllib3-2.0.0)
 * [2023-04-26, 15:59:29](https://lobste.rs/s/02igal/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/memorysafety/sudo-rs)
 * [2023-04-26, 14:54:31](https://lobste.rs/s/ecfph0/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 
