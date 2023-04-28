@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 * [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
 * [2023-04-28, 14:40:08](https://lobste.rs/s/pb7vne/release_technical_report_into_intel) - [Release of a Technical Report into Intel Trust Domain Extensions](https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html)
 * [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
@@ -7,7 +8,6 @@
 * [2023-04-28, 13:52:51](https://lobste.rs/s/xyonbl/curl_8_is_faster) - [curl 8 is faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
-* [2023-04-28, 12:23:56](https://lobste.rs/s/le6ojv/monitor_screen_blanks_due_static) - [Monitor/screen that blanks due to static electricity in my chair](https://superuser.com/questions/1406140/monitor-screen-that-blanks-due-to-static-electricity-in-my-chair#1406142)
 * [2023-04-28, 12:20:37](https://lobste.rs/s/fm1nlb/uefi_pc_boot_process_uefi_with_qemu) - [UEFI, PC boot process and UEFI with QEMU](https://joonas.fi/2021/02/uefi-pc-boot-process-and-uefi-with-qemu/)
 * [2023-04-28, 10:52:43](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
