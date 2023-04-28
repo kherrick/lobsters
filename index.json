@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-28, 08:18:23",
+      "https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search"
+    ],
+    [
+      "Beautiful Branchless Binary Search",
+      "https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/"
+    ]
+  ],
+  [
+    [
       "2023-04-28, 07:51:30",
       "https://lobste.rs/s/qxlh6m/native_implementation_mutable_value"
     ],
@@ -187,16 +197,6 @@
     [
       "Why is OAuth still hard in 2023?",
       "https://www.nango.dev/blog/why-is-oauth-still-hard"
-    ]
-  ],
-  [
-    [
-      "2023-04-27, 04:39:23",
-      "https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most"
-    ],
-    [
-      "The Part of PostgreSQL We Hate the Most",
-      "https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/"
     ]
   ],
   [
