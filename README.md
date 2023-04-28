@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 * [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
 * [2023-04-28, 14:40:08](https://lobste.rs/s/pb7vne/release_technical_report_into_intel) - [Release of a Technical Report into Intel Trust Domain Extensions](https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html)
@@ -24,7 +25,6 @@
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
 * [2023-04-27, 11:03:50](https://lobste.rs/s/nmfvv6/vvd_open_source_real_3d_volumetric) - [VVD: an open source Real 3D Volumetric Display](https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display)
-* [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
 
 ## [Archives](archives/index.md)
 
