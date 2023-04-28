@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 03:28:47](https://lobste.rs/s/5gdmy4/learnings_from_integrating_jmx_based) - [Learnings from integrating JMX based metrics from Java applications into time series databases](https://last9.io/blog/learnings-integrating-jmxtrans/)
 * [2023-04-28, 02:46:02](https://lobste.rs/s/6546qu/mahmoud_hashemi_edits_system_libraries) - [Mahmoud Hashemi edits system libraries](https://www.youtube.com/watch?v=GeSM4zSc8-A)
 * [2023-04-28, 01:26:55](https://lobste.rs/s/0sa90u/nix_start) - [Nix start](https://gitlab.com/engmark/nix-start/-/blob/main/README.md#nix-start)
 * [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
@@ -9,7 +10,6 @@
 * [2023-04-27, 17:27:05](https://lobste.rs/s/vvsfzy/future_programming_research_at_chi_2023) - [The future of programming: Research at CHI 2023](https://austinhenley.com/blog/futureofprogramming2023.html)
 * [2023-04-27, 17:24:12](https://lobste.rs/s/xx50z5/hardest_question_on_ruby_arrays_quiz) - [Hardest Question on Ruby Arrays Quiz](https://www.vector-logic.com/blog/posts/hardest-question-on-ruby-arrays-quiz)
 * [2023-04-27, 16:46:17](https://lobste.rs/s/nzb0mo/new_product_preview_rp2040_pico30) - [New Product Preview: RP2040-PICO30 Raspberry Pico with 30 GPIO available](https://olimex.wordpress.com/2023/04/27/new-product-preview-rp2040-pico30-raspberry-pico-with-30-gpio-available/)
-* [2023-04-27, 16:40:28](https://lobste.rs/s/iirq9g/database_trends_spotted_at_kubecon) - [Database Trends Spotted at KubeCon Europe](https://redis.com/blog/kubecon-database-trends/)
 * [2023-04-27, 16:28:34](https://lobste.rs/s/m57dw4/call_for_testers_spatial_shell) - [Call For Testers: Spatial Shell](https://soap.coffee/~lthms/news/CFTSpatialShell.html)
 * [2023-04-27, 15:29:20](https://lobste.rs/s/mtmhpa/2_maxsat_problem_can_be_solved_polynomial) - [The 2-MAXSAT Problem Can Be Solved in Polynomial Time](https://arxiv.org/abs/2304.12517)
 * [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
