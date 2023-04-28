@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
 * [2023-04-28, 12:23:56](https://lobste.rs/s/le6ojv/monitor_screen_blanks_due_static) - [Monitor/screen that blanks due to static electricity in my chair](https://superuser.com/questions/1406140/monitor-screen-that-blanks-due-to-static-electricity-in-my-chair#1406142)
 * [2023-04-28, 12:20:37](https://lobste.rs/s/fm1nlb/uefi_pc_boot_process_uefi_with_qemu) - [UEFI, PC boot process and UEFI with QEMU](https://joonas.fi/2021/02/uefi-pc-boot-process-and-uefi-with-qemu/)
