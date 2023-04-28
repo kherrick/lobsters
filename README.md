@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 07:51:30](https://lobste.rs/s/qxlh6m/native_implementation_mutable_value) - [Native Implementation of Mutable Value Semantics](https://arxiv.org/pdf/2106.12678.pdf)
 * [2023-04-28, 06:46:16](https://lobste.rs/s/jtx8tg/pinging_locations) - [Pinging Locations](https://www.hackerfactor.com/blog/index.php?/archives/989-Pinging-Locations.html)
 * [2023-04-28, 05:48:49](https://lobste.rs/s/yllllu/we_re_afraid_language_models_aren_t) - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
@@ -19,7 +20,6 @@
 * [2023-04-27, 09:00:18](https://lobste.rs/s/fasokv/performance_excuses_debunked) - [Performance Excuses Debunked](https://www.computerenhance.com/p/performance-excuses-debunked)
 * [2023-04-27, 06:12:10](https://lobste.rs/s/okebea/setting_up_cloud_server_for_multiple) - [Setting Up A Cloud Server For Multiple Sites](https://sdubinsky.com/blog/16)
 * [2023-04-27, 05:47:24](https://lobste.rs/s/vxvnzl/why_is_oauth_still_hard_2023) - [Why is OAuth still hard in 2023?](https://www.nango.dev/blog/why-is-oauth-still-hard)
-* [2023-04-27, 04:39:23](https://lobste.rs/s/ebdisa/part_postgresql_we_hate_most) - [The Part of PostgreSQL We Hate the Most](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/)
 * [2023-04-27, 02:31:22](https://lobste.rs/s/1llv4p/power_ten_rules_for_developing_safety) - [The Power of Ten – Rules for Developing Safety Critical Code](https://spinroot.com/gerard/pdf/P10.pdf)
 * [2023-04-26, 22:37:15](https://lobste.rs/s/hvndtp/hacking_original_xbox_controller_for_fun) - [Hacking the original xbox controller for fun and no profit](https://wheybags.com/blog/xbox.html)
 * [2023-04-26, 18:07:19](https://lobste.rs/s/paq79n/tigerstyle_how_design_safer_systems_less) - [TigerStyle! (Or How To Design Safer Systems in Less Time)](https://www.youtube.com/watch?v=w3WYdYyjek4)
