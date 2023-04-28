@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
 * [2023-04-28, 14:40:08](https://lobste.rs/s/pb7vne/release_technical_report_into_intel) - [Release of a Technical Report into Intel Trust Domain Extensions](https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html)
 * [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 14:07:38](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most) - [Fun Format Friday: Why do you hate your most beloved text editor?](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most)

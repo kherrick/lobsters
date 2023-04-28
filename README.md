@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
 * [2023-04-28, 14:40:08](https://lobste.rs/s/pb7vne/release_technical_report_into_intel) - [Release of a Technical Report into Intel Trust Domain Extensions](https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html)
 * [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
-* [2023-04-28, 14:07:38](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most) - [Fun Format Friday: Why do you hate your most beloved text editor?](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most)
 * [2023-04-28, 13:52:51](https://lobste.rs/s/xyonbl/curl_8_is_faster) - [curl 8 is faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
