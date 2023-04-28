@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-28](index.md)
 
+* [2023-04-28, 22:24:05](https://lobste.rs/s/82nyq4/exciting_sqlite_improvements_since_2020) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 22:11:20](https://lobste.rs/s/r8hue3/gootloader_unloaded_researchers_launch) - [Gootloader Unloaded: Researchers Launch Multi-Pronged Offensive…](https://www.esentire.com/web-native-pages/gootloader-unloaded)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
