@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
 * [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
 * [2023-04-29, 18:36:16](https://lobste.rs/s/0bjhye/doublespeak_chat) - [Doublespeak.chat](https://doublespeak.chat)
@@ -23,7 +24,6 @@
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
 * [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-* [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
 
 ## [Archives](archives/index.md)

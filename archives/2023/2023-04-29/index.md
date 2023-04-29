@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
 * [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
 * [2023-04-29, 18:36:16](https://lobste.rs/s/0bjhye/doublespeak_chat) - [Doublespeak.chat](https://doublespeak.chat)
