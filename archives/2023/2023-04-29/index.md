@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-04-29, 12:25:39](https://lobste.rs/s/ixsoyi/some_remarks_on_large_language_models) - [Some remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
