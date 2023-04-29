@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 09:51:10](https://lobste.rs/s/nclnov/releasing_systrap_high_performance) - [Releasing Systrap - A high-performance gVisor platform](https://gvisor.dev/blog/2023/04/28/systrap-release/)
 * [2023-04-29, 09:34:06](https://lobste.rs/s/ndqkbp/junk_drawer_phone_as_music_streaming) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-29, 06:33:04](https://lobste.rs/s/ts8hw5/fun_with_flat_map_s_non_explicit) - [Fun with flat_map’s non-explicit constructors](https://quuxplusone.github.io/blog/2023/04/28/flat-map-constructors/)
 * [2023-04-29, 05:05:04](https://lobste.rs/s/uyj3vj/lambda_capabilities) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
@@ -9,7 +10,6 @@
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 * [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
-* [2023-04-28, 14:40:08](https://lobste.rs/s/pb7vne/release_technical_report_into_intel) - [Release of a Technical Report into Intel Trust Domain Extensions](https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html)
 * [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 14:07:38](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most) - [Fun Format Friday: Why do you hate your most beloved text editor?](https://lobste.rs/s/qp2puf/fun_format_friday_why_do_you_hate_your_most)
 * [2023-04-28, 13:52:51](https://lobste.rs/s/xyonbl/curl_8_is_faster) - [curl 8 is faster](https://daniel.haxx.se/blog/2023/04/28/curl-8-is-faster/)
