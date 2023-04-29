@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-29, 17:06:08",
+      "https://lobste.rs/s/owgmzq/using_language_models_convert_between"
+    ],
+    [
+      "Using Language Models to Convert Between Natural Language and Game Commands",
+      "https://openreview.net/forum?id=jQSStHwtmDN"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 14:50:45",
       "https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Beautiful Branchless Binary Search",
       "https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 07:51:30",
-      "https://lobste.rs/s/qxlh6m/native_implementation_mutable_value"
-    ],
-    [
-      "Native Implementation of Mutable Value Semantics",
-      "https://arxiv.org/pdf/2106.12678.pdf"
     ]
   ],
   [
