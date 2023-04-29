@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-29, 09:51:10",
+      "https://lobste.rs/s/nclnov/releasing_systrap_high_performance"
+    ],
+    [
+      "Releasing Systrap - A high-performance gVisor platform",
+      "https://gvisor.dev/blog/2023/04/28/systrap-release/"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 09:34:06",
       "https://lobste.rs/s/ndqkbp/junk_drawer_phone_as_music_streaming"
     ],
@@ -87,16 +97,6 @@
     [
       "Five Worlds of AI",
       "https://scottaaronson.blog/?p=7266"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 14:40:08",
-      "https://lobste.rs/s/pb7vne/release_technical_report_into_intel"
-    ],
-    [
-      "Release of a Technical Report into Intel Trust Domain Extensions",
-      "https://googleprojectzero.blogspot.com/2023/04/technical-report-into-intel-tdx.html"
     ]
   ],
   [
