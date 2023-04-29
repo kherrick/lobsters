@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-29, 06:33:04",
+      "https://lobste.rs/s/ts8hw5/fun_with_flat_map_s_non_explicit"
+    ],
+    [
+      "Fun with flat_map’s non-explicit constructors",
+      "https://quuxplusone.github.io/blog/2023/04/28/flat-map-constructors/"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 05:05:04",
       "https://lobste.rs/s/uyj3vj/lambda_capabilities"
     ],
@@ -137,16 +147,6 @@
     [
       "Bringing runtime checks to compile time in Rust",
       "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
-    ]
-  ],
-  [
-    [
-      "2023-04-28, 12:23:56",
-      "https://lobste.rs/s/le6ojv/monitor_screen_blanks_due_static"
-    ],
-    [
-      "Monitor/screen that blanks due to static electricity in my chair",
-      "https://superuser.com/questions/1406140/monitor-screen-that-blanks-due-to-static-electricity-in-my-chair#1406142"
     ]
   ],
   [
