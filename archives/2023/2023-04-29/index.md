@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 12:25:39](https://lobste.rs/s/ixsoyi/some_remarks_on_large_language_models) - [Some remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
 * [2023-04-29, 09:51:10](https://lobste.rs/s/nclnov/releasing_systrap_high_performance) - [Releasing Systrap - A high-performance gVisor platform](https://gvisor.dev/blog/2023/04/28/systrap-release/)
 * [2023-04-29, 09:34:06](https://lobste.rs/s/ndqkbp/junk_drawer_phone_as_music_streaming) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-29, 06:33:04](https://lobste.rs/s/ts8hw5/fun_with_flat_map_s_non_explicit) - [Fun with flat_map’s non-explicit constructors](https://quuxplusone.github.io/blog/2023/04/28/flat-map-constructors/)
