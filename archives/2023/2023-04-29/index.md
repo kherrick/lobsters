@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-29](index.md)
 
+* [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 17:06:08](https://lobste.rs/s/owgmzq/using_language_models_convert_between) - [Using Language Models to Convert Between Natural Language and Game Commands](https://openreview.net/forum?id=jQSStHwtmDN)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 17:06:08](https://lobste.rs/s/owgmzq/using_language_models_convert_between) - [Using Language Models to Convert Between Natural Language and Game Commands](https://openreview.net/forum?id=jQSStHwtmDN)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
@@ -20,7 +21,6 @@
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 12:54:33](https://lobste.rs/s/7klqar/bringing_runtime_checks_compile_time) - [Bringing runtime checks to compile time in Rust](https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/)
 * [2023-04-28, 12:20:37](https://lobste.rs/s/fm1nlb/uefi_pc_boot_process_uefi_with_qemu) - [UEFI, PC boot process and UEFI with QEMU](https://joonas.fi/2021/02/uefi-pc-boot-process-and-uefi-with-qemu/)
-* [2023-04-28, 10:52:43](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdbu3/what_are_you_doing_this_weekend)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
 * [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
