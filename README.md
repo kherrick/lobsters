@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 20:03:34](https://lobste.rs/s/nyp7bo/magic_rails) - [The Magic of Rails](https://speakerdeck.com/eileencodes/the-magic-of-rails)
 * [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
 * [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
@@ -19,7 +20,6 @@
 * [2023-04-28, 22:24:05](https://lobste.rs/s/82nyq4/exciting_sqlite_improvements_since_2020) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
-* [2023-04-28, 15:04:41](https://lobste.rs/s/ssoxoi/five_worlds_ai) - [Five Worlds of AI](https://scottaaronson.blog/?p=7266)
 * [2023-04-28, 14:15:30](https://lobste.rs/s/1tpfld/clojure_introducing_morse) - [Clojure - Introducing Morse](https://clojure.org/news/2023/04/28/introducing-morse)
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
