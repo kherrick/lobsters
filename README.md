@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 * [2023-04-29, 12:25:39](https://lobste.rs/s/ixsoyi/some_remarks_on_large_language_models) - [Some remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
 * [2023-04-29, 09:51:10](https://lobste.rs/s/nclnov/releasing_systrap_high_performance) - [Releasing Systrap - A high-performance gVisor platform](https://gvisor.dev/blog/2023/04/28/systrap-release/)
@@ -24,7 +25,6 @@
 * [2023-04-28, 01:26:55](https://lobste.rs/s/0sa90u/nix_start) - [Nix start](https://gitlab.com/engmark/nix-start/-/blob/main/README.md#nix-start)
 * [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
-* [2023-04-27, 15:14:30](https://lobste.rs/s/sxlefb/datomic_is_free_as_beer) - [Datomic is Free (as in beer)](https://blog.datomic.com/2023/04/datomic-is-free.html)
 
 ## [Archives](archives/index.md)
 
