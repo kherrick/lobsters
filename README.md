@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-29, 05:05:04](https://lobste.rs/s/uyj3vj/lambda_capabilities) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-28, 22:59:18](https://lobste.rs/s/6hgkj8/survey_large_language_models) - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 * [2023-04-28, 22:35:25](https://lobste.rs/s/0ebyrc/scrapscript) - [scrapscript](https://scrapscript.org/)
 * [2023-04-28, 22:24:05](https://lobste.rs/s/82nyq4/exciting_sqlite_improvements_since_2020) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
@@ -19,7 +20,6 @@
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
 * [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 * [2023-04-28, 07:51:30](https://lobste.rs/s/qxlh6m/native_implementation_mutable_value) - [Native Implementation of Mutable Value Semantics](https://arxiv.org/pdf/2106.12678.pdf)
-* [2023-04-28, 05:48:49](https://lobste.rs/s/yllllu/we_re_afraid_language_models_aren_t) - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
 * [2023-04-28, 01:26:55](https://lobste.rs/s/0sa90u/nix_start) - [Nix start](https://gitlab.com/engmark/nix-start/-/blob/main/README.md#nix-start)
 * [2023-04-27, 23:56:30](https://lobste.rs/s/nmbess/sun_ray_laptops_mips_getting_root_on_them) - [Of Sun Ray laptops, MIPS and getting root on them](https://oldvcr.blogspot.com/2023/04/of-sun-ray-laptops-mips-and-getting.html)
 * [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
