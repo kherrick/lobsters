@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 03:04:11](https://lobste.rs/s/80ezy6/cell_gc_using_cell_synergistic_processor) - [Cell GC: Using the Cell Synergistic Processor as a Garbage Collection Coprocessor (2008)](http://www.cs.cmu.edu/~745/papers/p141-cher.pdf)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 * [2023-04-30, 00:46:40](https://lobste.rs/s/4q9wfy/simple_freebsd_poudriere_harvester) - [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
 * [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
@@ -24,7 +25,6 @@
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
-* [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
 
 ## [Archives](archives/index.md)
 
