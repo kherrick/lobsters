@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-30, 10:06:49",
+      "https://lobste.rs/s/mc2sty/humble_chronicles_state_management"
+    ],
+    [
+      "Humble Chronicles: State Management",
+      "https://tonsky.me/blog/humble-state/"
+    ]
+  ],
+  [
+    [
       "2023-04-30, 06:36:27",
       "https://lobste.rs/s/k1zfim/kde_dev_tries_xfce"
     ],
@@ -147,16 +157,6 @@
     [
       "loxcraft: a compiler, language server, and online playground for the Lox programming language",
       "https://github.com/ajeetdsouza/loxcraft"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 17:06:08",
-      "https://lobste.rs/s/owgmzq/using_language_models_convert_between"
-    ],
-    [
-      "Using Language Models to Convert Between Natural Language and Game Commands",
-      "https://openreview.net/forum?id=jQSStHwtmDN"
     ]
   ],
   [
