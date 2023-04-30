@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 18:32:33](https://lobste.rs/s/3bafuw/8bbs_forgotten_primary_source_2017) - [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
 * [2023-04-30, 17:18:27](https://lobste.rs/s/kx05dq/137_emergent_abilities_large_language) - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 * [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 * [2023-04-30, 15:45:13](https://lobste.rs/s/nyfm0l/browser_based_robot_simulator_with_three) - [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
@@ -16,7 +17,6 @@
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
-* [2023-04-30, 03:04:11](https://lobste.rs/s/80ezy6/cell_gc_using_cell_synergistic_processor) - [Cell GC: Using the Cell Synergistic Processor as a Garbage Collection Coprocessor (2008)](http://www.cs.cmu.edu/~745/papers/p141-cher.pdf)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 * [2023-04-30, 00:46:40](https://lobste.rs/s/4q9wfy/simple_freebsd_poudriere_harvester) - [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
 * [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
