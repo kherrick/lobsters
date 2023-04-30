@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 12:38:32](https://lobste.rs/s/4sbdei/introducing_tobox_transactional_outbox) - [Introducing tobox, a transactional outbox framework](https://honeyryderchuck.gitlab.io/2023/04/29/introducing-tobox.html)
 * [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
 * [2023-04-30, 10:31:36](https://lobste.rs/s/smmkva/fine_grained_backface_culling) - [Fine-grained backface culling](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [2023-04-30, 10:06:49](https://lobste.rs/s/mc2sty/humble_chronicles_state_management) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
