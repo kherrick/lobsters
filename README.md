@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 10:31:36](https://lobste.rs/s/smmkva/fine_grained_backface_culling) - [Fine-grained backface culling](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [2023-04-30, 10:06:49](https://lobste.rs/s/mc2sty/humble_chronicles_state_management) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
@@ -22,7 +23,6 @@
 * [2023-04-29, 12:25:39](https://lobste.rs/s/ixsoyi/some_remarks_on_large_language_models) - [Some remarks on Large Language Models](https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9)
 * [2023-04-29, 05:05:04](https://lobste.rs/s/uyj3vj/lambda_capabilities) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-28, 22:35:25](https://lobste.rs/s/0ebyrc/scrapscript) - [scrapscript](https://scrapscript.org/)
-* [2023-04-28, 22:24:05](https://lobste.rs/s/82nyq4/exciting_sqlite_improvements_since_2020) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 * [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 
