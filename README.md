@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 13:56:14](https://lobste.rs/s/uuptzm/duplicacy_new_generation_cloud_backup) - [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
 * [2023-04-30, 12:38:32](https://lobste.rs/s/4sbdei/introducing_tobox_transactional_outbox) - [Introducing tobox, a transactional outbox framework](https://honeyryderchuck.gitlab.io/2023/04/29/introducing-tobox.html)
 * [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
 * [2023-04-30, 10:31:36](https://lobste.rs/s/smmkva/fine_grained_backface_culling) - [Fine-grained backface culling](https://zeux.io/2023/04/28/triangle-backface-culling/)
@@ -24,7 +25,6 @@
 * [2023-04-29, 05:05:04](https://lobste.rs/s/uyj3vj/lambda_capabilities) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
 * [2023-04-28, 22:35:25](https://lobste.rs/s/0ebyrc/scrapscript) - [scrapscript](https://scrapscript.org/)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
-* [2023-04-28, 16:04:29](https://lobste.rs/s/1rmjuk/deno_kv_global_database_for_global_apps) - [Deno KV - a global database for global apps](https://deno.com/kv)
 
 ## [Archives](archives/index.md)
 
