@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 10:06:49](https://lobste.rs/s/mc2sty/humble_chronicles_state_management) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
@@ -15,7 +16,6 @@
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
 * [2023-04-29, 18:36:16](https://lobste.rs/s/0bjhye/doublespeak_chat) - [Doublespeak.chat](https://doublespeak.chat)
 * [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
-* [2023-04-29, 17:06:08](https://lobste.rs/s/owgmzq/using_language_models_convert_between) - [Using Language Models to Convert Between Natural Language and Game Commands](https://openreview.net/forum?id=jQSStHwtmDN)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
