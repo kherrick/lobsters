@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 00:46:40](https://lobste.rs/s/4q9wfy/simple_freebsd_poudriere_harvester) - [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
+* [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 * [2023-04-29, 21:52:02](https://lobste.rs/s/abmott/transplanting_mac_s_central_processor) - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 * [2023-04-29, 20:03:34](https://lobste.rs/s/nyp7bo/magic_rails) - [The Magic of Rails](https://speakerdeck.com/eileencodes/the-magic-of-rails)
 * [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
@@ -16,7 +18,6 @@
 * [2023-04-29, 09:34:06](https://lobste.rs/s/ndqkbp/junk_drawer_phone_as_music_streaming) - [Junk Drawer Phone as a Music Streaming Server](https://davidhampgonsalves.com/junk-drawer-phone-as-a-music-streaming-server/)
 * [2023-04-29, 06:33:04](https://lobste.rs/s/ts8hw5/fun_with_flat_map_s_non_explicit) - [Fun with flat_map’s non-explicit constructors](https://quuxplusone.github.io/blog/2023/04/28/flat-map-constructors/)
 * [2023-04-29, 05:05:04](https://lobste.rs/s/uyj3vj/lambda_capabilities) - [Lambda Capabilities](https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/)
-* [2023-04-28, 22:59:18](https://lobste.rs/s/6hgkj8/survey_large_language_models) - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 * [2023-04-28, 22:35:25](https://lobste.rs/s/0ebyrc/scrapscript) - [scrapscript](https://scrapscript.org/)
 * [2023-04-28, 22:24:05](https://lobste.rs/s/82nyq4/exciting_sqlite_improvements_since_2020) - [Exciting SQLite Improvements Since 2020](https://blog.airsequel.com/exciting-sqlite-improvements-since-2020/)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
@@ -24,7 +25,6 @@
 * [2023-04-28, 12:56:13](https://lobste.rs/s/4tyaay/driver_adventures_for_1999_webcam) - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
 * [2023-04-28, 09:14:12](https://lobste.rs/s/fvb7rk/xtdb_open_source_datomic_alternative) - [XTDB - an open-source Datomic alternative](https://www.xtdb.com/)
 * [2023-04-28, 08:18:23](https://lobste.rs/s/xlbnip/beautiful_branchless_binary_search) - [Beautiful Branchless Binary Search](https://probablydance.com/2023/04/27/beautiful-branchless-binary-search/)
-* [2023-04-27, 23:34:07](https://lobste.rs/s/dxyncf/cve_2022_0329_problems_with_automated) - [CVE-2022-0329 and the problems with automated vulnerability management (2022)](https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/)
 
 ## [Archives](archives/index.md)
 
