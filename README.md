@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
@@ -10,7 +11,6 @@
 * [2023-04-29, 21:52:02](https://lobste.rs/s/abmott/transplanting_mac_s_central_processor) - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 * [2023-04-29, 20:03:34](https://lobste.rs/s/nyp7bo/magic_rails) - [The Magic of Rails](https://speakerdeck.com/eileencodes/the-magic-of-rails)
 * [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
-* [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
 * [2023-04-29, 18:36:16](https://lobste.rs/s/0bjhye/doublespeak_chat) - [Doublespeak.chat](https://doublespeak.chat)
 * [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)

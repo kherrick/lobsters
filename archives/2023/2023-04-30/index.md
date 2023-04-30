@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
