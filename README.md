@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 15:08:16](https://lobste.rs/s/kie0bc/how_upgrade_ubuntu_preserve_your_docker) - [How to upgrade Ubuntu but preserve your docker versioned application stack](https://cap5.nl/how-to-upgrade-ubuntu-but-preserve-your-docker-versioned-application-stack/)
 * [2023-04-30, 14:00:30](https://lobste.rs/s/yrihnq/image_vector_quantization_is_just_like) - [Image vector quantization is just like creating a tilemap](https://30fps.net/notebooks/image-vq/)
 * [2023-04-30, 14:00:24](https://lobste.rs/s/ojlrku/introducing_gleam_package_index) - [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
 * [2023-04-30, 13:56:14](https://lobste.rs/s/uuptzm/duplicacy_new_generation_cloud_backup) - [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
@@ -17,7 +18,6 @@
 * [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 * [2023-04-29, 21:52:02](https://lobste.rs/s/abmott/transplanting_mac_s_central_processor) - [Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator](https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/)
 * [2023-04-29, 20:03:34](https://lobste.rs/s/nyp7bo/magic_rails) - [The Magic of Rails](https://speakerdeck.com/eileencodes/the-magic-of-rails)
-* [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
