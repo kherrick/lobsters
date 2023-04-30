@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 * [2023-04-30, 18:32:33](https://lobste.rs/s/3bafuw/8bbs_forgotten_primary_source_2017) - [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
 * [2023-04-30, 17:18:27](https://lobste.rs/s/kx05dq/137_emergent_abilities_large_language) - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 * [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
@@ -20,7 +21,6 @@
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 * [2023-04-30, 00:46:40](https://lobste.rs/s/4q9wfy/simple_freebsd_poudriere_harvester) - [Simple FreeBSD Poudriere Harvester Guide](https://vermaden.wordpress.com/2023/04/30/simple-freebsd-poudriere-harvester-guide/)
 * [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
-* [2023-04-29, 20:03:34](https://lobste.rs/s/nyp7bo/magic_rails) - [The Magic of Rails](https://speakerdeck.com/eileencodes/the-magic-of-rails)
 * [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
