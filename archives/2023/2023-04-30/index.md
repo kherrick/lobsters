@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 23:10:13](https://lobste.rs/s/eytc9s/web_s_most_important_decision) - [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 * [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 * [2023-04-30, 18:32:33](https://lobste.rs/s/3bafuw/8bbs_forgotten_primary_source_2017) - [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
