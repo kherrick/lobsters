@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
 * [2023-04-30, 10:31:36](https://lobste.rs/s/smmkva/fine_grained_backface_culling) - [Fine-grained backface culling](https://zeux.io/2023/04/28/triangle-backface-culling/)
 * [2023-04-30, 10:06:49](https://lobste.rs/s/mc2sty/humble_chronicles_state_management) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
@@ -15,7 +16,6 @@
 * [2023-04-29, 19:01:38](https://lobste.rs/s/hlzgp4/announcing_babylon_js_6_0) - [Announcing Babylon.js 6.0](https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a)
 * [2023-04-29, 18:59:27](https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation) - [Microsoft source-code annotation language (SAL)](https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170)
 * [2023-04-29, 18:36:24](https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned) - [LLM Sandboxing: Early Lessons Learned](https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned)
-* [2023-04-29, 18:36:16](https://lobste.rs/s/0bjhye/doublespeak_chat) - [Doublespeak.chat](https://doublespeak.chat)
 * [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
