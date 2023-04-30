@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-04-29, 18:59:27",
+      "https://lobste.rs/s/jmu8pp/microsoft_source_code_annotation"
+    ],
+    [
+      "Microsoft source-code annotation language (SAL)",
+      "https://learn.microsoft.com/en-us/cpp/code-quality/understanding-sal?view=msvc-170"
+    ]
+  ],
+  [
+    [
       "2023-04-29, 18:36:24",
       "https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned"
     ],
@@ -187,16 +197,6 @@
     [
       "Some remarks on Large Language Models",
       "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 09:51:10",
-      "https://lobste.rs/s/nclnov/releasing_systrap_high_performance"
-    ],
-    [
-      "Releasing Systrap - A high-performance gVisor platform",
-      "https://gvisor.dev/blog/2023/04/28/systrap-release/"
     ]
   ],
   [
