@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-04-30, 14:00:30",
+      "https://lobste.rs/s/yrihnq/image_vector_quantization_is_just_like"
+    ],
+    [
+      "Image vector quantization is just like creating a tilemap",
+      "https://30fps.net/notebooks/image-vq/"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 14:00:24",
+      "https://lobste.rs/s/ojlrku/introducing_gleam_package_index"
+    ],
+    [
+      "Introducing the Gleam package index",
+      "https://gleam.run/news/introducing-the-gleam-package-index/"
+    ]
+  ],
+  [
+    [
       "2023-04-30, 13:56:14",
       "https://lobste.rs/s/uuptzm/duplicacy_new_generation_cloud_backup"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-04-29, 18:36:24",
-      "https://lobste.rs/s/bb59nw/llm_sandboxing_early_lessons_learned"
-    ],
-    [
-      "LLM Sandboxing: Early Lessons Learned",
-      "https://blog.forcesunseen.com/llm-sandboxing-early-lessons-learned"
-    ]
-  ],
-  [
-    [
       "2023-04-29, 18:18:24",
       "https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server"
     ],
@@ -217,16 +227,6 @@
     [
       "Some remarks on Large Language Models",
       "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9"
-    ]
-  ],
-  [
-    [
-      "2023-04-29, 05:05:04",
-      "https://lobste.rs/s/uyj3vj/lambda_capabilities"
-    ],
-    [
-      "Lambda Capabilities",
-      "https://roscidus.com/blog/blog/2023/04/26/lambda-capabilities/"
     ]
   ],
   [
