@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-04-30, 20:44:47",
+      "https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing"
+    ],
+    [
+      "What Is a URL: Dangers of inconsistent parsing of URLs",
+      "https://azeemba.com/posts/what-is-a-url.html"
+    ]
+  ],
+  [
+    [
       "2023-04-30, 19:29:38",
       "https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with"
     ],
@@ -117,16 +127,6 @@
     [
       "UART Driver From Scratch: Bare Metal Programming Series",
       "https://www.youtube.com/watch?v=qSUbe_a54gY"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 10:31:36",
-      "https://lobste.rs/s/smmkva/fine_grained_backface_culling"
-    ],
-    [
-      "Fine-grained backface culling",
-      "https://zeux.io/2023/04/28/triangle-backface-culling/"
     ]
   ],
   [
