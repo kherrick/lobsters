@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 * [2023-04-30, 15:45:13](https://lobste.rs/s/nyfm0l/browser_based_robot_simulator_with_three) - [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
 * [2023-04-30, 15:22:36](https://lobste.rs/s/xsqx1d/agile_good_hype_ugly_review) - [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
 * [2023-04-30, 15:08:16](https://lobste.rs/s/kie0bc/how_upgrade_ubuntu_preserve_your_docker) - [How to upgrade Ubuntu but preserve your docker versioned application stack](https://cap5.nl/how-to-upgrade-ubuntu-but-preserve-your-docker-versioned-application-stack/)
@@ -23,7 +24,6 @@
 * [2023-04-29, 14:50:45](https://lobste.rs/s/mp1erj/foss_i_love_local_game_streaming_with) - [FOSS I Love: Local game streaming with Sunshine and Moonlight](https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/)
 * [2023-04-29, 14:06:21](https://lobste.rs/s/qoj66x/tufte_css) - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
-* [2023-04-28, 22:35:25](https://lobste.rs/s/0ebyrc/scrapscript) - [scrapscript](https://scrapscript.org/)
 * [2023-04-28, 16:25:50](https://lobste.rs/s/gydqtq/gefs_good_enough_file_system_for_plan_9) - [gefs: a good enough file system for plan 9](https://orib.dev/gefs.html)
 
 ## [Archives](archives/index.md)

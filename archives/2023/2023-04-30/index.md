@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-04-30](index.md)
 
+* [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 * [2023-04-30, 15:45:13](https://lobste.rs/s/nyfm0l/browser_based_robot_simulator_with_three) - [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
 * [2023-04-30, 15:22:36](https://lobste.rs/s/xsqx1d/agile_good_hype_ugly_review) - [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
 * [2023-04-30, 15:08:16](https://lobste.rs/s/kie0bc/how_upgrade_ubuntu_preserve_your_docker) - [How to upgrade Ubuntu but preserve your docker versioned application stack](https://cap5.nl/how-to-upgrade-ubuntu-but-preserve-your-docker-versioned-application-stack/)
