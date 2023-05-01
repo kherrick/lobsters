@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-01, 10:39:52",
+      "https://lobste.rs/s/loedio/little_book_deep_learning"
+    ],
+    [
+      "The Little Book of Deep Learning",
+      "https://fleuret.org/public/lbdl.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 08:45:09",
       "https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings"
     ],
@@ -167,16 +177,6 @@
     [
       "UART Driver From Scratch: Bare Metal Programming Series",
       "https://www.youtube.com/watch?v=qSUbe_a54gY"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 10:06:49",
-      "https://lobste.rs/s/mc2sty/humble_chronicles_state_management"
-    ],
-    [
-      "Humble Chronicles: State Management",
-      "https://tonsky.me/blog/humble-state/"
     ]
   ],
   [
