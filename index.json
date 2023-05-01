@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-01, 23:24:15",
+      "https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data"
+    ],
+    [
+      "Flattening ASTs (and Other Compiler Data Structures)",
+      "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-01, 21:56:30",
+      "https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial"
+    ],
+    [
+      "Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …",
+      "https://github.com/Ixrec/rust-orphan-rules"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 20:59:41",
       "https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-05-01, 19:25:15",
-      "https://lobste.rs/s/85py9l/hotspot_performance_engineering_fails"
-    ],
-    [
-      "Hotspot performance engineering fails",
-      "https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/"
-    ]
-  ],
-  [
-    [
       "2023-05-01, 18:58:24",
       "https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by"
     ],
@@ -107,16 +117,6 @@
     [
       "Counters and Stones",
       "https://kizu.dev/counters-and-stones/"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 16:38:25",
-      "https://lobste.rs/s/0kjra9/most_cited_neural_networks_all_build_on"
-    ],
-    [
-      "The most cited neural networks all build on work done in my labs (2021)",
-      "https://people.idsia.ch/~juergen/most-cited-neural-nets.html"
     ]
   ],
   [
