@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
+* [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 * [2023-05-01, 11:35:52](https://lobste.rs/s/x2guun/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x2guun/what_are_you_doing_this_week)
 * [2023-05-01, 10:39:52](https://lobste.rs/s/loedio/little_book_deep_learning) - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 08:45:09](https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
@@ -19,11 +21,9 @@
 * [2023-04-30, 12:38:32](https://lobste.rs/s/4sbdei/introducing_tobox_transactional_outbox) - [Introducing tobox, a transactional outbox framework](https://honeyryderchuck.gitlab.io/2023/04/29/introducing-tobox.html)
 * [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
-* [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
-* [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 
 ## [Archives](archives/index.md)
