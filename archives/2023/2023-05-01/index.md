@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
 * [2023-05-01, 17:11:38](https://lobste.rs/s/gapmly/counters_stones) - [Counters and Stones](https://kizu.dev/counters-and-stones/)
 * [2023-05-01, 16:38:25](https://lobste.rs/s/0kjra9/most_cited_neural_networks_all_build_on) - [The most cited neural networks all build on work done in my labs (2021)](https://people.idsia.ch/~juergen/most-cited-neural-nets.html)
