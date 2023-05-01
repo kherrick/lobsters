@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-01, 20:28:34",
+      "https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios"
+    ],
+    [
+      "About Rapid Security Responses for iOS, iPadOS, and macOS",
+      "https://support.apple.com/en-us/HT201224"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 19:54:19",
       "https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting"
     ],
@@ -237,16 +247,6 @@
     [
       "Declarative GNOME configuration with NixOS",
       "https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 01:21:54",
-      "https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668"
-    ],
-    [
-      "Debian-based distros have adopted PEP 668",
-      "https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS"
     ]
   ]
 ]
