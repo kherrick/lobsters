@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 14:22:30](https://lobste.rs/s/w4mewc/how_interpret_understand_act_on_feedback) - [How to interpret, understand, and act on feedback](https://felixcrux.com/blog/how-to-interpret-understand-and-act-on-feedback)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 * [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)

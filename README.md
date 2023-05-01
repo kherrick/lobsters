@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 14:22:30](https://lobste.rs/s/w4mewc/how_interpret_understand_act_on_feedback) - [How to interpret, understand, and act on feedback](https://felixcrux.com/blog/how-to-interpret-understand-and-act-on-feedback)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 * [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
@@ -24,7 +25,6 @@
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
-* [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 
 ## [Archives](archives/index.md)
 
