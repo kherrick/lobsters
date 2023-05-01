@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 19:26:08](https://lobste.rs/s/xenqbt/combining_code_coverage_data_from) - [Combining Code Coverage Data From Multiple Testing Tools (Jest & Cypress)](https://www.upgradejs.com/blog/testing/combining-code-coverage-data-from-multiple-testing-tools.html)
+* [2023-05-01, 19:25:15](https://lobste.rs/s/85py9l/hotspot_performance_engineering_fails) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-05-01, 18:58:24](https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by) - [Object-Oriented Programming, lecture by Daniel Ingalls (1989)](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 * [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)

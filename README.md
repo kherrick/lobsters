@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 19:26:08](https://lobste.rs/s/xenqbt/combining_code_coverage_data_from) - [Combining Code Coverage Data From Multiple Testing Tools (Jest & Cypress)](https://www.upgradejs.com/blog/testing/combining-code-coverage-data-from-multiple-testing-tools.html)
+* [2023-05-01, 19:25:15](https://lobste.rs/s/85py9l/hotspot_performance_engineering_fails) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-05-01, 18:58:24](https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by) - [Object-Oriented Programming, lecture by Daniel Ingalls (1989)](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 * [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
@@ -14,7 +16,6 @@
 * [2023-05-01, 11:35:52](https://lobste.rs/s/x2guun/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x2guun/what_are_you_doing_this_week)
 * [2023-05-01, 10:39:52](https://lobste.rs/s/loedio/little_book_deep_learning) - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 08:45:09](https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
-* [2023-05-01, 07:14:53](https://lobste.rs/s/0uxwnn/manifesto_for_agile_software) - [Manifesto for Agile Software Development (2001)](https://agilemanifesto.org/)
 * [2023-05-01, 02:59:20](https://lobste.rs/s/b80goz/mirror_for_rust_compile_time_reflection) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-04-30, 23:15:29](https://lobste.rs/s/w5wpr5/mysteries_griffin_imate) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-04-30, 23:10:13](https://lobste.rs/s/eytc9s/web_s_most_important_decision) - [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
@@ -22,7 +23,6 @@
 * [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 * [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 * [2023-04-30, 14:00:24](https://lobste.rs/s/ojlrku/introducing_gleam_package_index) - [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
-* [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 
