@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 20:28:34](https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios) - [About Rapid Security Responses for iOS, iPadOS, and macOS](https://support.apple.com/en-us/HT201224)
