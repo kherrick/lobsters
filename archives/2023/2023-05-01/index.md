@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 20:28:34](https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios) - [About Rapid Security Responses for iOS, iPadOS, and macOS](https://support.apple.com/en-us/HT201224)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 * [2023-05-01, 19:50:22](https://lobste.rs/s/bhhwjx/expanding_chatgpt_code_interpreter_with) - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions)
