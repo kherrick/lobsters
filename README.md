@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-01, 21:56:30](https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial) - [Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …](https://github.com/Ixrec/rust-orphan-rules)
 * [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:28:34](https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios) - [About Rapid Security Responses for iOS, iPadOS, and macOS](https://support.apple.com/en-us/HT201224)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 * [2023-05-01, 19:50:22](https://lobste.rs/s/bhhwjx/expanding_chatgpt_code_interpreter_with) - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions)
 * [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)
+* [2023-05-01, 19:25:15](https://lobste.rs/s/85py9l/hotspot_performance_engineering_fails) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 * [2023-05-01, 18:58:24](https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by) - [Object-Oriented Programming, lecture by Daniel Ingalls (1989)](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 * [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
