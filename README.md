@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 * [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 * [2023-05-01, 11:35:52](https://lobste.rs/s/x2guun/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x2guun/what_are_you_doing_this_week)
@@ -17,7 +18,6 @@
 * [2023-04-30, 15:22:36](https://lobste.rs/s/xsqx1d/agile_good_hype_ugly_review) - [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
 * [2023-04-30, 14:00:30](https://lobste.rs/s/yrihnq/image_vector_quantization_is_just_like) - [Image vector quantization is just like creating a tilemap](https://30fps.net/notebooks/image-vq/)
 * [2023-04-30, 14:00:24](https://lobste.rs/s/ojlrku/introducing_gleam_package_index) - [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
-* [2023-04-30, 13:56:14](https://lobste.rs/s/uuptzm/duplicacy_new_generation_cloud_backup) - [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
 * [2023-04-30, 12:38:32](https://lobste.rs/s/4sbdei/introducing_tobox_transactional_outbox) - [Introducing tobox, a transactional outbox framework](https://honeyryderchuck.gitlab.io/2023/04/29/introducing-tobox.html)
 * [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
