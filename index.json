@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-01, 20:49:23",
+      "https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down"
+    ],
+    [
+      "ChatGPT: abstract logic and the doubling down bias",
+      "https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 20:42:27",
       "https://lobste.rs/s/c1qatd/two_years_ocaml"
     ],
@@ -47,16 +57,6 @@
     [
       "If someone’s having to read your docs, it’s not “simple”",
       "https://justsimply.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 19:26:08",
-      "https://lobste.rs/s/xenqbt/combining_code_coverage_data_from"
-    ],
-    [
-      "Combining Code Coverage Data From Multiple Testing Tools (Jest & Cypress)",
-      "https://www.upgradejs.com/blog/testing/combining-code-coverage-data-from-multiple-testing-tools.html"
     ]
   ],
   [
