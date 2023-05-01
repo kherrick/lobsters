@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 10:39:52](https://lobste.rs/s/loedio/little_book_deep_learning) - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 * [2023-05-01, 08:45:09](https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-05-01, 07:14:53](https://lobste.rs/s/0uxwnn/manifesto_for_agile_software) - [Manifesto for Agile Software Development (2001)](https://agilemanifesto.org/)
 * [2023-05-01, 02:59:20](https://lobste.rs/s/b80goz/mirror_for_rust_compile_time_reflection) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
@@ -17,7 +18,6 @@
 * [2023-04-30, 13:56:14](https://lobste.rs/s/uuptzm/duplicacy_new_generation_cloud_backup) - [Duplicacy: A New Generation of Cloud Backup Tool Based on Lock-Free Deduplication](https://raw.githubusercontent.com/gilbertchen/duplicacy/master/duplicacy_paper.pdf)
 * [2023-04-30, 12:38:32](https://lobste.rs/s/4sbdei/introducing_tobox_transactional_outbox) - [Introducing tobox, a transactional outbox framework](https://honeyryderchuck.gitlab.io/2023/04/29/introducing-tobox.html)
 * [2023-04-30, 11:25:21](https://lobste.rs/s/ir1ea3/uart_driver_from_scratch_bare_metal) - [UART Driver From Scratch: Bare Metal Programming Series](https://www.youtube.com/watch?v=qSUbe_a54gY)
-* [2023-04-30, 10:06:49](https://lobste.rs/s/mc2sty/humble_chronicles_state_management) - [Humble Chronicles: State Management](https://tonsky.me/blog/humble-state/)
 * [2023-04-30, 06:36:27](https://lobste.rs/s/k1zfim/kde_dev_tries_xfce) - [KDE Dev tries XFCE](https://blog.nicco.love/kde-dev-tries-xfce/)
 * [2023-04-30, 06:14:29](https://lobste.rs/s/p6or46/first_class_modules_modular_implicits) - [First-Class Modules and Modular Implicits in OCaml (2017)](https://tycon.github.io/modular-implicits.html)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
