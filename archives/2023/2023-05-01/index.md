@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 19:50:22](https://lobste.rs/s/bhhwjx/expanding_chatgpt_code_interpreter_with) - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions)
 * [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)
 * [2023-05-01, 19:26:08](https://lobste.rs/s/xenqbt/combining_code_coverage_data_from) - [Combining Code Coverage Data From Multiple Testing Tools (Jest & Cypress)](https://www.upgradejs.com/blog/testing/combining-code-coverage-data-from-multiple-testing-tools.html)
 * [2023-05-01, 19:25:15](https://lobste.rs/s/85py9l/hotspot_performance_engineering_fails) - [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
