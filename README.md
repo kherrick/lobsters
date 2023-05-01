@@ -13,7 +13,7 @@
 * [2023-04-30, 23:10:13](https://lobste.rs/s/eytc9s/web_s_most_important_decision) - [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 * [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
-* [2023-04-30, 17:18:27](https://lobste.rs/s/kx05dq/137_emergent_abilities_large_language) - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+* [2023-04-30, 18:32:33](https://lobste.rs/s/3bafuw/8bbs_forgotten_primary_source_2017) - [8BBS: A Forgotten Primary Source (2017)](https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html)
 * [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
 * [2023-04-30, 15:45:13](https://lobste.rs/s/nyfm0l/browser_based_robot_simulator_with_three) - [Browser-based robot simulator with three.js & rapier.js](https://grgv.xyz/blog/simulator/)
 * [2023-04-30, 15:22:36](https://lobste.rs/s/xsqx1d/agile_good_hype_ugly_review) - [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
