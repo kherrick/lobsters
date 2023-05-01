@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-01, 19:41:22",
+      "https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not"
+    ],
+    [
+      "If someone’s having to read your docs, it’s not “simple”",
+      "https://justsimply.dev/"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 19:26:08",
       "https://lobste.rs/s/xenqbt/combining_code_coverage_data_from"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing the Gleam package index",
       "https://gleam.run/news/introducing-the-gleam-package-index/"
-    ]
-  ],
-  [
-    [
-      "2023-04-30, 05:04:16",
-      "https://lobste.rs/s/wfn2ti/writing_os_go_bootloader"
-    ],
-    [
-      "Writing an OS in Go: The Bootloader",
-      "https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader"
     ]
   ],
   [
