@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 21:56:30](https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial) - [Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …](https://github.com/Ixrec/rust-orphan-rules)
 * [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:28:34](https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios) - [About Rapid Security Responses for iOS, iPadOS, and macOS](https://support.apple.com/en-us/HT201224)
@@ -24,7 +25,6 @@
 * [2023-04-30, 23:15:29](https://lobste.rs/s/w5wpr5/mysteries_griffin_imate) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-04-30, 23:10:13](https://lobste.rs/s/eytc9s/web_s_most_important_decision) - [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
-* [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 
 ## [Archives](archives/index.md)
 
