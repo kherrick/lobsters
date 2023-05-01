@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 08:45:09](https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-05-01, 07:14:53](https://lobste.rs/s/0uxwnn/manifesto_for_agile_software) - [Manifesto for Agile Software Development (2001)](https://agilemanifesto.org/)
 * [2023-05-01, 02:59:20](https://lobste.rs/s/b80goz/mirror_for_rust_compile_time_reflection) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-04-30, 23:15:29](https://lobste.rs/s/w5wpr5/mysteries_griffin_imate) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
@@ -23,7 +24,6 @@
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 * [2023-04-30, 00:11:19](https://lobste.rs/s/sx7zcd/waterloo_style) - [Waterloo Style](https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html)
-* [2023-04-29, 18:18:24](https://lobste.rs/s/4rqlsy/loxcraft_compiler_language_server) - [loxcraft: a compiler, language server, and online playground for the Lox programming language](https://github.com/ajeetdsouza/loxcraft)
 * [2023-04-29, 12:56:33](https://lobste.rs/s/rhxevh/memoirs_from_old_web_keygen_element) - [Memoirs from the old web: The KEYGEN element](https://www.devever.net/~hl/web-keygen)
 
 ## [Archives](archives/index.md)
