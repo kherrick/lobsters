@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 18:58:24](https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by) - [Object-Oriented Programming, lecture by Daniel Ingalls (1989)](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 * [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
 * [2023-05-01, 17:11:38](https://lobste.rs/s/gapmly/counters_stones) - [Counters and Stones](https://kizu.dev/counters-and-stones/)
@@ -20,7 +21,6 @@
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 * [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
 * [2023-04-30, 16:42:38](https://lobste.rs/s/8beic0/pep_647_user_defined_type_guards_2020) - [PEP 647 – User-Defined Type Guards (2020)](https://peps.python.org/pep-0647)
-* [2023-04-30, 15:22:36](https://lobste.rs/s/xsqx1d/agile_good_hype_ugly_review) - [Agile! The Good, the Hype and the Ugly (review)](https://beza1e1.tuxen.de/agile_good_hype_ugly.html)
 * [2023-04-30, 14:00:24](https://lobste.rs/s/ojlrku/introducing_gleam_package_index) - [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
 * [2023-04-30, 05:23:57](https://lobste.rs/s/9bl88u/my_favorite_c_compiler_flags_during) - [My favorite C compiler flags during development](https://nullprogram.com/blog/2023/04/29/)
 * [2023-04-30, 05:04:16](https://lobste.rs/s/wfn2ti/writing_os_go_bootloader) - [Writing an OS in Go: The Bootloader](https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader)

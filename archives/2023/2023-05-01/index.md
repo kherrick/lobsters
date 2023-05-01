@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-01](index.md)
 
+* [2023-05-01, 18:58:24](https://lobste.rs/s/wwuaiw/object_oriented_programming_lecture_by) - [Object-Oriented Programming, lecture by Daniel Ingalls (1989)](https://www.youtube.com/watch?v=Ao9W93OxQ7U)
 * [2023-05-01, 18:45:45](https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs) - [Exposing a Rust Library to Node with Napi-rs](https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs)
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
 * [2023-05-01, 17:11:38](https://lobste.rs/s/gapmly/counters_stones) - [Counters and Stones](https://kizu.dev/counters-and-stones/)
