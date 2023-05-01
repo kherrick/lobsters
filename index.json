@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-04-30, 18:32:33",
-      "https://lobste.rs/s/3bafuw/8bbs_forgotten_primary_source_2017"
-    ],
-    [
-      "8BBS: A Forgotten Primary Source (2017)",
-      "https://www.wrestlinggnon.com/hacking/2017/09/25/8bbs-a-forgotten-primary-source.html"
-    ]
-  ],
-  [
-    [
       "2023-04-30, 17:18:27",
       "https://lobste.rs/s/kx05dq/137_emergent_abilities_large_language"
     ],
@@ -177,6 +167,16 @@
     [
       "UART Driver From Scratch: Bare Metal Programming Series",
       "https://www.youtube.com/watch?v=qSUbe_a54gY"
+    ]
+  ],
+  [
+    [
+      "2023-04-30, 10:06:49",
+      "https://lobste.rs/s/mc2sty/humble_chronicles_state_management"
+    ],
+    [
+      "Humble Chronicles: State Management",
+      "https://tonsky.me/blog/humble-state/"
     ]
   ],
   [
