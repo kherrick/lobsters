@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 * [2023-05-01, 19:50:22](https://lobste.rs/s/bhhwjx/expanding_chatgpt_code_interpreter_with) - [Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua](https://til.simonwillison.net/llms/code-interpreter-expansions)
 * [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)
 * [2023-05-01, 19:26:08](https://lobste.rs/s/xenqbt/combining_code_coverage_data_from) - [Combining Code Coverage Data From Multiple Testing Tools (Jest & Cypress)](https://www.upgradejs.com/blog/testing/combining-code-coverage-data-from-multiple-testing-tools.html)
@@ -23,7 +24,6 @@
 * [2023-04-30, 23:10:13](https://lobste.rs/s/eytc9s/web_s_most_important_decision) - [The web's most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 * [2023-04-30, 19:29:38](https://lobste.rs/s/wdl8zr/declarative_gnome_configuration_with) - [Declarative GNOME configuration with NixOS](https://hoverbear.org/blog/declarative-gnome-configuration-in-nixos/)
-* [2023-04-30, 14:00:24](https://lobste.rs/s/ojlrku/introducing_gleam_package_index) - [Introducing the Gleam package index](https://gleam.run/news/introducing-the-gleam-package-index/)
 * [2023-04-30, 01:21:54](https://lobste.rs/s/5dxqcm/debian_based_distros_have_adopted_pep_668) - [Debian-based distros have adopted PEP 668](https://salsa.debian.org/python-team/packages/python-pip/-/blob/master/debian/NEWS)
 
 ## [Archives](archives/index.md)
