@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-02, 17:01:42",
+      "https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai"
+    ],
+    [
+      "Mojo — a new programming language for all AI developers",
+      "https://www.modular.com/mojo"
+    ]
+  ],
+  [
+    [
       "2023-05-02, 15:59:42",
       "https://lobste.rs/s/tulmfl/avoiding_http_3_for_while_as_pragmatic"
     ],
@@ -157,16 +167,6 @@
     [
       "Goodbye to Flake8 and PyLint: faster linting with Ruff",
       "https://pythonspeed.com/articles/pylint-flake8-ruff/"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 19:50:22",
-      "https://lobste.rs/s/bhhwjx/expanding_chatgpt_code_interpreter_with"
-    ],
-    [
-      "Expanding ChatGPT Code Interpreter with Python packages, Deno and Lua",
-      "https://til.simonwillison.net/llms/code-interpreter-expansions"
     ]
   ],
   [
