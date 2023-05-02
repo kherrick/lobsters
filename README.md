@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-02, 09:09:16](https://lobste.rs/s/vs4kf8/devops_capabilities) - [DevOps capabilities](https://cloud.google.com/architecture/devops)
 * [2023-05-02, 06:43:17](https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
@@ -7,7 +8,6 @@
 * [2023-05-02, 02:21:00](https://lobste.rs/s/glknzp/tracking_down_bug) - [Tracking Down a Bug](http://www.os2museum.com/wp/tracking-down-a-bug/)
 * [2023-05-02, 01:23:43](https://lobste.rs/s/jr0x82/gradieeent_half_decent_hidden_power) - [GradIEEEnt half decent: The hidden power of imprecise lines](https://youtu.be/Ae9EKCyI1xU)
 * [2023-05-01, 23:24:15](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-* [2023-05-01, 21:56:30](https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial) - [Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …](https://github.com/Ixrec/rust-orphan-rules)
 * [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
