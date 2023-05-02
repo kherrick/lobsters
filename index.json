@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-02, 18:10:05",
+      "https://lobste.rs/s/tj5cxs/ibm_i_as_400_databases_all_way_down"
+    ],
+    [
+      "IBM i (AS/400): Databases all the way down",
+      "https://www.youtube.com/watch?v=CDSgJE5mPJM"
+    ]
+  ],
+  [
+    [
       "2023-05-02, 17:56:53",
       "https://lobste.rs/s/fgs28k/first_class_case_statements"
     ],
@@ -187,16 +197,6 @@
     [
       "If someone’s having to read your docs, it’s not “simple”",
       "https://justsimply.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 18:45:45",
-      "https://lobste.rs/s/dbdghc/exposing_rust_library_node_with_napi_rs"
-    ],
-    [
-      "Exposing a Rust Library to Node with Napi-rs",
-      "https://johns.codes/blog/exposing-a-rust-library-to-node-with-napirs"
     ]
   ],
   [
