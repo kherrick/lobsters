@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 22:26:07](https://lobste.rs/s/q4ment/i_want_talk_about_webgpu) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-02, 20:27:37](https://lobste.rs/s/ex38su/game_development_go_ebitengine_shaders) - [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 * [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 22:26:07](https://lobste.rs/s/q4ment/i_want_talk_about_webgpu) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-02, 20:27:37](https://lobste.rs/s/ex38su/game_development_go_ebitengine_shaders) - [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 * [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
@@ -24,7 +25,6 @@
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
 * [2023-05-01, 15:40:11](https://lobste.rs/s/xd1gmr/converting_my_x201_thinkpad_into_slabtop) - [Converting My X201 ThinkPad into a Slabtop](https://bt.ht/slabtop/)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
-* [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 
 ## [Archives](archives/index.md)
 
