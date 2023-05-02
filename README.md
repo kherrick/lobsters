@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 09:09:16](https://lobste.rs/s/vs4kf8/devops_capabilities) - [DevOps capabilities](https://cloud.google.com/architecture/devops)
 * [2023-05-02, 06:43:17](https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 03:01:40](https://lobste.rs/s/feueje/simd_with_zig) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
@@ -24,7 +25,6 @@
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 * [2023-05-01, 11:35:52](https://lobste.rs/s/x2guun/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x2guun/what_are_you_doing_this_week)
 * [2023-04-30, 23:15:29](https://lobste.rs/s/w5wpr5/mysteries_griffin_imate) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
-* [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 
 ## [Archives](archives/index.md)
 
