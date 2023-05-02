@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
 * [2023-05-02, 18:10:05](https://lobste.rs/s/tj5cxs/ibm_i_as_400_databases_all_way_down) - [IBM i (AS/400): Databases all the way down](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 17:56:53](https://lobste.rs/s/fgs28k/first_class_case_statements) - [First class case statements](https://vimeo.com/823083943?share=copy#t=136)
 * [2023-05-02, 17:17:55](https://lobste.rs/s/h88xev/modular_unified_extensible_platform) - [Modular: A unified, extensible platform to superpower your AI](https://www.modular.com/blog/a-unified-extensible-platform-to-superpower-your-ai)
@@ -23,7 +24,6 @@
 * [2023-05-01, 17:47:55](https://lobste.rs/s/vmtqfo/ibm_jx_rebadged_pcjr_for_japan_australia) - [IBM JX - A rebadged PCjr for the Japan/Australia/New Zealand market](https://computeradsfromthepast.substack.com/p/ibm-jx)
 * [2023-05-01, 15:40:11](https://lobste.rs/s/xd1gmr/converting_my_x201_thinkpad_into_slabtop) - [Converting My X201 ThinkPad into a Slabtop](https://bt.ht/slabtop/)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
-* [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 
 ## [Archives](archives/index.md)
