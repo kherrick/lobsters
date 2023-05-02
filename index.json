@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-02, 19:58:57",
+      "https://lobste.rs/s/0nfqrj/update_on_lock_icon"
+    ],
+    [
+      "An Update on the Lock Icon",
+      "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1"
+    ]
+  ],
+  [
+    [
       "2023-05-02, 18:10:05",
       "https://lobste.rs/s/tj5cxs/ibm_i_as_400_databases_all_way_down"
     ],
@@ -227,16 +237,6 @@
     [
       "ntfy.sh - Open source push notifications via PUT/POST",
       "https://ntfy.sh"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 12:29:40",
-      "https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve"
-    ],
-    [
-      "Incident report on surprise hyper CVE from 2023-04-11",
-      "https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve"
     ]
   ],
   [
