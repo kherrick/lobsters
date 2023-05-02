@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-05-01, 21:56:30",
+      "https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial"
+    ],
+    [
+      "Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …",
+      "https://github.com/Ixrec/rust-orphan-rules"
+    ]
+  ],
+  [
+    [
       "2023-05-01, 20:59:41",
       "https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/x2guun/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-05-01, 08:45:09",
-      "https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings"
-    ],
-    [
-      "Modern perfect hashing for strings",
-      "http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html"
     ]
   ],
   [
