@@ -6,6 +6,7 @@
 * [2023-05-02, 02:21:00](https://lobste.rs/s/glknzp/tracking_down_bug) - [Tracking Down a Bug](http://www.os2museum.com/wp/tracking-down-a-bug/)
 * [2023-05-02, 01:23:43](https://lobste.rs/s/jr0x82/gradieeent_half_decent_hidden_power) - [GradIEEEnt half decent: The hidden power of imprecise lines](https://youtu.be/Ae9EKCyI1xU)
 * [2023-05-01, 23:24:15](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+* [2023-05-01, 21:56:30](https://lobste.rs/s/py6vvf/coherence_orphan_rules_rust_unofficial) - [Coherence and Orphan Rules in Rust: An unofficial, experimental place for documenting …](https://github.com/Ixrec/rust-orphan-rules)
 * [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
@@ -22,7 +23,6 @@
 * [2023-05-01, 12:29:40](https://lobste.rs/s/nzoswo/incident_report_on_surprise_hyper_cve) - [Incident report on surprise hyper CVE from 2023-04-11](https://seanmonstar.com/post/715784167270596608/coe-surpise-hyper-cve)
 * [2023-05-01, 12:19:21](https://lobste.rs/s/hebbxe/lluffman_llm_based_steganography) - [LLuffman: LLM-based steganography](https://botnoise.org/~pokes/lluffman/)
 * [2023-05-01, 11:35:52](https://lobste.rs/s/x2guun/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x2guun/what_are_you_doing_this_week)
-* [2023-05-01, 08:45:09](https://lobste.rs/s/doaxxk/modern_perfect_hashing_for_strings) - [Modern perfect hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 * [2023-04-30, 23:15:29](https://lobste.rs/s/w5wpr5/mysteries_griffin_imate) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2023-04-30, 20:44:47](https://lobste.rs/s/aeacbi/what_is_url_dangers_inconsistent_parsing) - [What Is a URL: Dangers of inconsistent parsing of URLs](https://azeemba.com/posts/what-is-a-url.html)
 
