@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 17:56:53](https://lobste.rs/s/fgs28k/first_class_case_statements) - [First class case statements](https://vimeo.com/823083943?share=copy#t=136)
 * [2023-05-02, 17:17:55](https://lobste.rs/s/h88xev/modular_unified_extensible_platform) - [Modular: A unified, extensible platform to superpower your AI](https://www.modular.com/blog/a-unified-extensible-platform-to-superpower-your-ai)
 * [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 15:59:42](https://lobste.rs/s/tulmfl/avoiding_http_3_for_while_as_pragmatic) - [Avoiding HTTP/3 (for a while) as a pragmatic default](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow)
@@ -8,7 +9,6 @@
 * [2023-05-02, 11:56:13](https://lobste.rs/s/qiyt13/rules_thumb_for_software_development) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
-* [2023-05-02, 09:09:16](https://lobste.rs/s/vs4kf8/devops_capabilities) - [DevOps capabilities](https://cloud.google.com/architecture/devops)
 * [2023-05-02, 06:43:17](https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 03:01:40](https://lobste.rs/s/feueje/simd_with_zig) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
