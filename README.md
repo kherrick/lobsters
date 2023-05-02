@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-02, 15:49:12](https://lobste.rs/s/92kybs/android_ios_direct_file_transfer_over) - [Android<->iOS direct file transfer over auto-configured hotspot](https://www.youtube.com/watch?v=-RKiSmo-Bns)
 * [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:56:13](https://lobste.rs/s/qiyt13/rules_thumb_for_software_development) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
@@ -10,7 +11,6 @@
 * [2023-05-02, 03:01:40](https://lobste.rs/s/feueje/simd_with_zig) - [SIMD with Zig](https://www.openmymind.net/SIMD-With-Zig/)
 * [2023-05-02, 01:23:43](https://lobste.rs/s/jr0x82/gradieeent_half_decent_hidden_power) - [GradIEEEnt half decent: The hidden power of imprecise lines](https://youtu.be/Ae9EKCyI1xU)
 * [2023-05-01, 23:24:15](https://lobste.rs/s/xw1fdb/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-* [2023-05-01, 20:59:41](https://lobste.rs/s/mtw1s4/org_assistant_org_babel_extension_for) - [org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT](https://github.com/tyler-dodge/org-assistant)
 * [2023-05-01, 20:49:23](https://lobste.rs/s/j6rpyb/chatgpt_abstract_logic_doubling_down) - [ChatGPT: abstract logic and the doubling down bias](https://lukeplant.me.uk/blog/posts/abstract-logic-and-the-doubling-down-bias/)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 20:28:34](https://lobste.rs/s/k5o2ur/about_rapid_security_responses_for_ios) - [About Rapid Security Responses for iOS, iPadOS, and macOS](https://support.apple.com/en-us/HT201224)
