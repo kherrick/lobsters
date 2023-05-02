@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-02](index.md)
 
+* [2023-05-02, 13:55:07](https://lobste.rs/s/hd9ywd/does_preview_environments_considered) - [Does preview environments considered best practices](https://github.com/livecycle/preevy)
 * [2023-05-02, 11:56:13](https://lobste.rs/s/qiyt13/rules_thumb_for_software_development) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
