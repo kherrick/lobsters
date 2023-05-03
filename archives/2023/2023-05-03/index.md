@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 21:42:09](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 21:22:06](https://lobste.rs/s/rvyork/two_approaches_decoupling) - [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
 * [2023-05-03, 21:21:20](https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure) - [Python Monorepo: an Example. Part 1: Structure and Tooling](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 * [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
