@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
 * [2023-05-03, 14:21:50](https://lobste.rs/s/uxhe81/introducing_multiview_for_nvk) - [Introducing Multiview for NVK](https://www.collabora.com/news-and-blog/blog/2023/05/03/introducing-multiview-for-nvk/)
@@ -15,7 +16,6 @@
 * [2023-05-02, 22:26:07](https://lobste.rs/s/q4ment/i_want_talk_about_webgpu) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
 * [2023-05-02, 20:27:37](https://lobste.rs/s/ex38su/game_development_go_ebitengine_shaders) - [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 * [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
-* [2023-05-02, 18:10:05](https://lobste.rs/s/tj5cxs/ibm_i_as_400_databases_all_way_down) - [IBM i (AS/400): Databases all the way down](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 17:56:53](https://lobste.rs/s/fgs28k/first_class_case_statements) - [First class case statements](https://vimeo.com/823083943?share=copy#t=136)
 * [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 15:49:12](https://lobste.rs/s/92kybs/android_ios_direct_file_transfer_over) - [Android<->iOS direct file transfer over auto-configured hotspot](https://www.youtube.com/watch?v=-RKiSmo-Bns)
