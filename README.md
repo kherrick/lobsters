@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
 * [2023-05-03, 14:21:50](https://lobste.rs/s/uxhe81/introducing_multiview_for_nvk) - [Introducing Multiview for NVK](https://www.collabora.com/news-and-blog/blog/2023/05/03/introducing-multiview-for-nvk/)
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
@@ -23,7 +24,6 @@
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
-* [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 
 ## [Archives](archives/index.md)
