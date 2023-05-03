@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-03, 04:15:51",
+      "https://lobste.rs/s/drczyz/laws_computing_look_from_forth_side"
+    ],
+    [
+      "The Laws of Computing - A look from the Forth side",
+      "https://www.exemark.com/FORTH/Ting_Laws_of_Computing_v4.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 03:11:53",
       "https://lobste.rs/s/cqkh8c/gradieeent_half_decent"
     ],
@@ -167,16 +177,6 @@
     [
       "MacDock for System 7",
       "https://github.com/retrospectmike/MacDock"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 03:01:40",
-      "https://lobste.rs/s/feueje/simd_with_zig"
-    ],
-    [
-      "SIMD with Zig",
-      "https://www.openmymind.net/SIMD-With-Zig/"
     ]
   ],
   [
