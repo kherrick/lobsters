@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 04:26:22](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview) - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
 * [2023-05-03, 04:15:51](https://lobste.rs/s/drczyz/laws_computing_look_from_forth_side) - [The Laws of Computing - A look from the Forth side](https://www.exemark.com/FORTH/Ting_Laws_of_Computing_v4.pdf)
 * [2023-05-03, 03:11:53](https://lobste.rs/s/cqkh8c/gradieeent_half_decent) - [GradIEEEnt half decent](http://tom7.org/grad/murphy2023grad.pdf)
 * [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
@@ -16,7 +17,6 @@
 * [2023-05-02, 11:56:13](https://lobste.rs/s/qiyt13/rules_thumb_for_software_development) - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
-* [2023-05-02, 06:43:17](https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 01:23:43](https://lobste.rs/s/jr0x82/gradieeent_half_decent_hidden_power) - [GradIEEEnt half decent: The hidden power of imprecise lines](https://youtu.be/Ae9EKCyI1xU)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
