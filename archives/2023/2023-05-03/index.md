@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 * [2023-05-03, 18:23:20](https://lobste.rs/s/cnq1r1/making_fetch_happen_building_general) - [Making Fetch Happen - Building a General purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)

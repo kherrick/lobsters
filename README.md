@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 * [2023-05-03, 18:23:20](https://lobste.rs/s/cnq1r1/making_fetch_happen_building_general) - [Making Fetch Happen - Building a General purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
@@ -21,7 +22,6 @@
 * [2023-05-02, 20:27:37](https://lobste.rs/s/ex38su/game_development_go_ebitengine_shaders) - [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 * [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
 * [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
-* [2023-05-02, 15:49:12](https://lobste.rs/s/92kybs/android_ios_direct_file_transfer_over) - [Android<->iOS direct file transfer over auto-configured hotspot](https://www.youtube.com/watch?v=-RKiSmo-Bns)
 * [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
