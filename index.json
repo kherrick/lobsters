@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-03, 21:22:06",
+      "https://lobste.rs/s/rvyork/two_approaches_decoupling"
+    ],
+    [
+      "Two Approaches To Decoupling",
+      "https://htmx.org/essays/two-approaches-to-decoupling/"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 21:21:20",
+      "https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure"
+    ],
+    [
+      "Python Monorepo: an Example. Part 1: Structure and Tooling",
+      "https://www.tweag.io/blog/2023-04-04-python-monorepo-1/"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 19:22:26",
       "https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally"
     ],
@@ -77,16 +97,6 @@
     [
       "Turing Test, Etc",
       "https://gigamonkeys.com/turing/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 14:21:50",
-      "https://lobste.rs/s/uxhe81/introducing_multiview_for_nvk"
-    ],
-    [
-      "Introducing Multiview for NVK",
-      "https://www.collabora.com/news-and-blog/blog/2023/05/03/introducing-multiview-for-nvk/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Mojo — a new programming language for all AI developers",
       "https://www.modular.com/mojo"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 14:07:40",
-      "https://lobste.rs/s/6cmeeg/from_project_management_data"
-    ],
-    [
-      "From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent",
-      "https://corecursive.com/data-compression-yann-collet/"
     ]
   ],
   [
