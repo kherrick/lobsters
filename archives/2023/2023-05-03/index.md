@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 18:23:20](https://lobste.rs/s/cnq1r1/making_fetch_happen_building_general) - [Making Fetch Happen - Building a General purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/)
+* [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 * [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
