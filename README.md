@@ -18,12 +18,12 @@
 * [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
+* [2023-05-02, 06:43:17](https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012) - [Dark Matter Developers: The Unseen 99% (2012)](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
 * [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-02, 01:23:43](https://lobste.rs/s/jr0x82/gradieeent_half_decent_hidden_power) - [GradIEEEnt half decent: The hidden power of imprecise lines](https://youtu.be/Ae9EKCyI1xU)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 * [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)
-* [2023-05-01, 15:40:11](https://lobste.rs/s/xd1gmr/converting_my_x201_thinkpad_into_slabtop) - [Converting My X201 ThinkPad into a Slabtop](https://bt.ht/slabtop/)
 * [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 
 ## [Archives](archives/index.md)
