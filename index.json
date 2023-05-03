@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-03, 06:28:33",
+      "https://lobste.rs/s/uvwvwc/variadic_functions_vs_variadic"
+    ],
+    [
+      "Variadic functions vs variadic templates",
+      "https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates"
+    ]
+  ],
+  [
+    [
+      "2023-05-03, 06:19:50",
+      "https://lobste.rs/s/ksvp55/unlocking_north_korean_songs_on_karaoke"
+    ],
+    [
+      "Unlocking North Korean songs on a karaoke machine",
+      "https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/"
+    ]
+  ],
+  [
+    [
       "2023-05-03, 05:31:43",
       "https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-05-02, 11:56:13",
-      "https://lobste.rs/s/qiyt13/rules_thumb_for_software_development"
-    ],
-    [
-      "Rules of Thumb for Software Development Estimations",
-      "https://vadimkravcenko.com/shorts/project-estimates/"
-    ]
-  ],
-  [
-    [
       "2023-05-02, 11:51:37",
       "https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only"
     ],
@@ -167,16 +177,6 @@
     [
       "Why Split Lexing and Parsing Into Two Separate Phases?",
       "https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 06:43:17",
-      "https://lobste.rs/s/jphayn/dark_matter_developers_unseen_99_2012"
-    ],
-    [
-      "Dark Matter Developers: The Unseen 99% (2012)",
-      "https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99"
     ]
   ],
   [
