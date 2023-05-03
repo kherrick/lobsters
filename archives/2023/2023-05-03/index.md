@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 21:22:06](https://lobste.rs/s/rvyork/two_approaches_decoupling) - [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
+* [2023-05-03, 21:21:20](https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure) - [Python Monorepo: an Example. Part 1: Structure and Tooling](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 * [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 * [2023-05-03, 18:23:20](https://lobste.rs/s/cnq1r1/making_fetch_happen_building_general) - [Making Fetch Happen - Building a General purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)

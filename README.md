@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 21:22:06](https://lobste.rs/s/rvyork/two_approaches_decoupling) - [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
+* [2023-05-03, 21:21:20](https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure) - [Python Monorepo: an Example. Part 1: Structure and Tooling](https://www.tweag.io/blog/2023-04-04-python-monorepo-1/)
 * [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 * [2023-05-03, 18:23:20](https://lobste.rs/s/cnq1r1/making_fetch_happen_building_general) - [Making Fetch Happen - Building a General purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
@@ -8,7 +10,6 @@
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
-* [2023-05-03, 14:21:50](https://lobste.rs/s/uxhe81/introducing_multiview_for_nvk) - [Introducing Multiview for NVK](https://www.collabora.com/news-and-blog/blog/2023/05/03/introducing-multiview-for-nvk/)
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
@@ -22,7 +23,6 @@
 * [2023-05-02, 20:27:37](https://lobste.rs/s/ex38su/game_development_go_ebitengine_shaders) - [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/)
 * [2023-05-02, 19:58:57](https://lobste.rs/s/0nfqrj/update_on_lock_icon) - [An Update on the Lock Icon](https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1)
 * [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
-* [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 
