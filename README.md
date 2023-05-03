@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 10:34:35](https://lobste.rs/s/bxmj21/laravel_you) - [Laravel and you](https://lobste.rs/s/bxmj21/laravel_you)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
 * [2023-05-03, 06:28:33](https://lobste.rs/s/uvwvwc/variadic_functions_vs_variadic) - [Variadic functions vs variadic templates](https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates)
@@ -20,7 +21,6 @@
 * [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
-* [2023-05-02, 03:48:27](https://lobste.rs/s/qnoz50/macdock_for_system_7) - [MacDock for System 7](https://github.com/retrospectmike/MacDock)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 * [2023-05-01, 19:41:22](https://lobste.rs/s/rwvisz/if_someone_s_having_read_your_docs_it_s_not) - [If someone’s having to read your docs, it’s not “simple”](https://justsimply.dev/)

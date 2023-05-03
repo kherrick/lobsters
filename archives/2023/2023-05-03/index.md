@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 10:34:35](https://lobste.rs/s/bxmj21/laravel_you) - [Laravel and you](https://lobste.rs/s/bxmj21/laravel_you)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
 * [2023-05-03, 06:28:33](https://lobste.rs/s/uvwvwc/variadic_functions_vs_variadic) - [Variadic functions vs variadic templates](https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates)
