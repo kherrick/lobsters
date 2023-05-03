@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
@@ -24,7 +25,6 @@
 * [2023-05-02, 10:19:03](https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two) - [Why Split Lexing and Parsing Into Two Separate Phases?](https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html)
 * [2023-05-01, 20:42:27](https://lobste.rs/s/c1qatd/two_years_ocaml) - [Two Years of OCaml](https://borretti.me/article/two-years-ocaml)
 * [2023-05-01, 19:54:19](https://lobste.rs/s/fkjjzn/goodbye_flake8_pylint_faster_linting) - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
-* [2023-05-01, 14:16:58](https://lobste.rs/s/5drapz/ntfy_sh_open_source_push_notifications) - [ntfy.sh - Open source push notifications via PUT/POST](https://ntfy.sh)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-03](index.md)
 
+* [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
