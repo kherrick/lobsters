@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
 * [2023-05-03, 14:21:50](https://lobste.rs/s/uxhe81/introducing_multiview_for_nvk) - [Introducing Multiview for NVK](https://www.collabora.com/news-and-blog/blog/2023/05/03/introducing-multiview-for-nvk/)
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
@@ -17,7 +18,6 @@
 * [2023-05-02, 18:10:05](https://lobste.rs/s/tj5cxs/ibm_i_as_400_databases_all_way_down) - [IBM i (AS/400): Databases all the way down](https://www.youtube.com/watch?v=CDSgJE5mPJM)
 * [2023-05-02, 17:56:53](https://lobste.rs/s/fgs28k/first_class_case_statements) - [First class case statements](https://vimeo.com/823083943?share=copy#t=136)
 * [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
-* [2023-05-02, 15:59:42](https://lobste.rs/s/tulmfl/avoiding_http_3_for_while_as_pragmatic) - [Avoiding HTTP/3 (for a while) as a pragmatic default](https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow)
 * [2023-05-02, 15:49:12](https://lobste.rs/s/92kybs/android_ios_direct_file_transfer_over) - [Android<->iOS direct file transfer over auto-configured hotspot](https://www.youtube.com/watch?v=-RKiSmo-Bns)
 * [2023-05-02, 14:07:40](https://lobste.rs/s/6cmeeg/from_project_management_data) - [From Project Management to Data Compression Innovator: Building LZ4, ZStandard, and Finite State Ent](https://corecursive.com/data-compression-yann-collet/)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
