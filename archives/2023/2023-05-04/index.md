@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
+* [2023-05-04, 16:33:35](https://lobste.rs/s/k3napm/cqrs_performance_design_pattern) - [CQRS Performance Design Pattern Demystified](https://danonsoftware.com/2023/03/10/cqrs-performance-design-pattern-demystified/)
 * [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:58:37](https://lobste.rs/s/h7ragl/tidelift_2023_state_open_source) - [Tidelift 2023 state of the open source maintainer report](https://explore.tidelift.com/050423#page=1)
 * [2023-05-04, 14:47:39](https://lobste.rs/s/f5xqil/stacks_for_terraform) - [Stacks for Terraform](https://github.com/cisco-open/stacks)
