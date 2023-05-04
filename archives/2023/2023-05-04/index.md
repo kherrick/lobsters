@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 07:13:28](https://lobste.rs/s/piteo5/typed_error_handling_kotlin) - [Typed Error Handling in Kotlin](https://medium.com/better-programming/typed-error-handling-in-kotlin-11ff25882880)
 * [2023-05-04, 07:09:32](https://lobste.rs/s/vwbjnr/quickly_resize_video_with_ffmpeg_vaapi) - [Quickly resize a video with FFmpeg/Vaapi for Mastodon](https://www.paulox.net/2023/05/03/quickly_resize-a-video-with-ffmpeg-for-mastodon/)
 * [2023-05-04, 06:09:31](https://lobste.rs/s/lb5va3/viewing_pull_request_s_changes_since_your) - [Viewing a pull request's changes since your last review, even in the face of a rebase](https://daisy.wtf/writing/github-changes-since-last-review/)
 * [2023-05-04, 05:44:23](https://lobste.rs/s/fzkwco/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/index.php)
