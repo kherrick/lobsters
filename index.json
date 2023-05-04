@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 09:58:22",
+      "https://lobste.rs/s/zxvink/runtime_dependency_management_instld"
+    ],
+    [
+      "Runtime dependency management? INSTLD",
+      "https://github.com/pomponchik/instld"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 09:55:00",
       "https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql"
     ],
@@ -97,16 +107,6 @@
     [
       "Passkeys: The beginning of the end of the password",
       "https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 21:21:20",
-      "https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure"
-    ],
-    [
-      "Python Monorepo: an Example. Part 1: Structure and Tooling",
-      "https://www.tweag.io/blog/2023-04-04-python-monorepo-1/"
     ]
   ],
   [
