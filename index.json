@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 05:00:32",
+      "https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open"
+    ],
+    [
+      "Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry",
+      "https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 04:37:45",
       "https://lobste.rs/s/xzqg2q/simulating_turing_machines_with_wang"
     ],
@@ -97,16 +107,6 @@
     [
       "Haskell in Production: Standard Chartered",
       "https://serokell.io/blog/haskell-in-production-standard-chartered"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 15:31:33",
-      "https://lobste.rs/s/giguyv/turing_test_etc"
-    ],
-    [
-      "Turing Test, Etc",
-      "https://gigamonkeys.com/turing/"
     ]
   ],
   [
