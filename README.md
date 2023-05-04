@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 14:02:10](https://lobste.rs/s/ekuole/pairing_vs_code_review) - [Pairing vs. Code review](https://web.archive.org/web/20211030160932/https://zipmessage.com/ben_orenstein/pairing-vs-code-review-prs)
 * [2023-05-04, 12:17:24](https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
 * [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
@@ -9,7 +10,6 @@
 * [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
 * [2023-05-04, 08:30:03](https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023) - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html)
-* [2023-05-04, 07:13:28](https://lobste.rs/s/piteo5/typed_error_handling_kotlin) - [Typed Error Handling in Kotlin](https://medium.com/better-programming/typed-error-handling-in-kotlin-11ff25882880)
 * [2023-05-04, 07:09:32](https://lobste.rs/s/vwbjnr/quickly_resize_video_with_ffmpeg_vaapi) - [Quickly resize a video with FFmpeg/Vaapi for Mastodon](https://www.paulox.net/2023/05/03/quickly_resize-a-video-with-ffmpeg-for-mastodon/)
 * [2023-05-04, 06:09:31](https://lobste.rs/s/lb5va3/viewing_pull_request_s_changes_since_your) - [Viewing a pull request's changes since your last review, even in the face of a rebase](https://daisy.wtf/writing/github-changes-since-last-review/)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)

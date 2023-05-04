@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 14:02:10](https://lobste.rs/s/ekuole/pairing_vs_code_review) - [Pairing vs. Code review](https://web.archive.org/web/20211030160932/https://zipmessage.com/ben_orenstein/pairing-vs-code-review-prs)
 * [2023-05-04, 12:17:24](https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
 * [2023-05-04, 11:41:55](https://lobste.rs/s/chys3o/mojo_may_be_biggest_programming_language) - [Mojo may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
