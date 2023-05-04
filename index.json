@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 07:13:28",
+      "https://lobste.rs/s/piteo5/typed_error_handling_kotlin"
+    ],
+    [
+      "Typed Error Handling in Kotlin",
+      "https://medium.com/better-programming/typed-error-handling-in-kotlin-11ff25882880"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 07:09:32",
       "https://lobste.rs/s/vwbjnr/quickly_resize_video_with_ffmpeg_vaapi"
     ],
@@ -207,16 +217,6 @@
     [
       "I want to talk about WebGPU",
       "https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 19:58:57",
-      "https://lobste.rs/s/0nfqrj/update_on_lock_icon"
-    ],
-    [
-      "An Update on the Lock Icon",
-      "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html?m=1"
     ]
   ],
   [
