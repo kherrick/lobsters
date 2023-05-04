@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-04, 04:37:45](https://lobste.rs/s/xzqg2q/simulating_turing_machines_with_wang) - [Simulating Turing Machines with Wang tiles](https://seriot.ch/projects/simulating_turing_machines_with_wang_tiles.html)
 * [2023-05-03, 21:42:09](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
@@ -14,7 +15,6 @@
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
-* [2023-05-03, 06:28:33](https://lobste.rs/s/uvwvwc/variadic_functions_vs_variadic) - [Variadic functions vs variadic templates](https://www.sandordargo.com/blog/2023/05/03/variadic-functions-vs-variadic-templates)
 * [2023-05-03, 06:19:50](https://lobste.rs/s/ksvp55/unlocking_north_korean_songs_on_karaoke) - [Unlocking North Korean songs on a karaoke machine (2020)](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-05-03, 05:31:43](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too) - [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 * [2023-05-03, 04:26:22](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview) - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
