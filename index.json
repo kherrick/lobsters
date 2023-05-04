@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-04, 16:46:45",
+      "https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code"
+    ],
+    [
+      "Mitchell Hashimoto uses a simple code editor",
+      "https://youtu.be/rysgxl35EGc"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 16:33:35",
+      "https://lobste.rs/s/k3napm/cqrs_performance_design_pattern"
+    ],
+    [
+      "CQRS Performance Design Pattern Demystified",
+      "https://danonsoftware.com/2023/03/10/cqrs-performance-design-pattern-demystified/"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 16:15:29",
       "https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup"
     ],
@@ -37,16 +57,6 @@
     [
       "A Deep Dive into GarminOS and its MonkeyC Virtual Machine",
       "https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 14:02:10",
-      "https://lobste.rs/s/ekuole/pairing_vs_code_review"
-    ],
-    [
-      "Pairing vs. Code review",
-      "https://web.archive.org/web/20211030160932/https://zipmessage.com/ben_orenstein/pairing-vs-code-review-prs"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Bootstrapping Uber’s Infrastructure on arm64 with Zig",
       "https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 15:40:56",
-      "https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered"
-    ],
-    [
-      "Haskell in Production: Standard Chartered",
-      "https://serokell.io/blog/haskell-in-production-standard-chartered"
     ]
   ],
   [
