@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 20:21:26](https://lobste.rs/s/hdhjux/proposal_add_alternative_spelling_go) - [proposal: Add alternative spelling of .go in file names](https://github.com/golang/go/issues/59968)
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
-* [2023-05-04, 17:06:23](https://lobste.rs/s/52gbav/sibylfs_formal_specification_oracle) - [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems (2015)](https://www.youtube.com/watch?v=828dcJDnwpE)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
