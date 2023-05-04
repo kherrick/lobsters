@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
+* [2023-05-04, 15:58:37](https://lobste.rs/s/h7ragl/tidelift_2023_state_open_source) - [Tidelift 2023 state of the open source maintainer report](https://explore.tidelift.com/050423#page=1)
 * [2023-05-04, 14:47:39](https://lobste.rs/s/f5xqil/stacks_for_terraform) - [Stacks for Terraform](https://github.com/cisco-open/stacks)
 * [2023-05-04, 14:20:50](https://lobste.rs/s/cdqjyx/deep_dive_into_garminos_its_monkeyc) - [A Deep Dive into GarminOS and its MonkeyC Virtual Machine](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
 * [2023-05-04, 14:02:10](https://lobste.rs/s/ekuole/pairing_vs_code_review) - [Pairing vs. Code review](https://web.archive.org/web/20211030160932/https://zipmessage.com/ben_orenstein/pairing-vs-code-review-prs)
@@ -22,8 +24,6 @@
 * [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
-* [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
-* [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
 * [2023-05-03, 05:31:43](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too) - [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 
 ## [Archives](archives/index.md)
