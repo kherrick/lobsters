@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:58:22](https://lobste.rs/s/zxvink/runtime_dependency_management_instld) - [Runtime dependency management? INSTLD](https://github.com/pomponchik/instld)
 * [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
@@ -10,7 +11,6 @@
 * [2023-05-04, 06:09:31](https://lobste.rs/s/lb5va3/viewing_pull_request_s_changes_since_your) - [Viewing a pull request's changes since your last review, even in the face of a rebase](https://daisy.wtf/writing/github-changes-since-last-review/)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
-* [2023-05-04, 04:37:45](https://lobste.rs/s/xzqg2q/simulating_turing_machines_with_wang) - [Simulating Turing Machines with Wang tiles](https://seriot.ch/projects/simulating_turing_machines_with_wang_tiles.html)
 * [2023-05-03, 21:42:09](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 19:22:26](https://lobste.rs/s/3fbmac/client_certificates_aren_t_universally) - [Client certificates aren't universally more secure](https://www.devever.net/~hl/clientcert)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)

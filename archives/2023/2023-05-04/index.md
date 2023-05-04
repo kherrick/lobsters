@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:58:22](https://lobste.rs/s/zxvink/runtime_dependency_management_instld) - [Runtime dependency management? INSTLD](https://github.com/pomponchik/instld)
 * [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
