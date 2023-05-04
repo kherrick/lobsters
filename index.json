@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 09:55:00",
+      "https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql"
+    ],
+    [
+      "Join order: how to force it in PostgreSQL",
+      "https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 09:07:41",
       "https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist"
     ],
@@ -227,16 +237,6 @@
     [
       "I want to talk about WebGPU",
       "https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 17:01:42",
-      "https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai"
-    ],
-    [
-      "Mojo — a new programming language for all AI developers",
-      "https://www.modular.com/mojo"
     ]
   ],
   [
