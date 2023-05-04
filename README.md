@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:58:22](https://lobste.rs/s/zxvink/runtime_dependency_management_instld) - [Runtime dependency management? INSTLD](https://github.com/pomponchik/instld)
 * [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
@@ -19,7 +20,6 @@
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
-* [2023-05-03, 06:19:50](https://lobste.rs/s/ksvp55/unlocking_north_korean_songs_on_karaoke) - [Unlocking North Korean songs on a karaoke machine (2020)](https://www.northkoreatech.org/2020/06/02/unlocking-north-korean-songs-on-a-karaoke-machine/)
 * [2023-05-03, 05:31:43](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too) - [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 * [2023-05-03, 04:26:22](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview) - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
 * [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)

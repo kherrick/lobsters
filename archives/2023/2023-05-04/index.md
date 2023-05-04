@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:58:22](https://lobste.rs/s/zxvink/runtime_dependency_management_instld) - [Runtime dependency management? INSTLD](https://github.com/pomponchik/instld)
 * [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
