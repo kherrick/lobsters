@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-04, 17:42:15",
-      "https://lobste.rs/s/xfdo7k/leaked_google_document_we_have_no_moat"
-    ],
-    [
-      "Leaked Google document: “We Have No Moat, And Neither Does OpenAI”",
-      "https://simonwillison.net/2023/May/4/no-moat/"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 17:06:23",
       "https://lobste.rs/s/52gbav/sibylfs_formal_specification_oracle"
     ],
@@ -37,6 +27,16 @@
     [
       "CQRS Performance Design Pattern Demystified",
       "https://danonsoftware.com/2023/03/10/cqrs-performance-design-pattern-demystified/"
+    ]
+  ],
+  [
+    [
+      "2023-05-04, 16:15:29",
+      "https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup"
+    ],
+    [
+      "Pijul ssh selfhosting setup",
+      "https://nest.pijul.com/tankf33der/selfhosting"
     ]
   ],
   [
