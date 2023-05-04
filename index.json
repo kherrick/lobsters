@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 09:07:41",
+      "https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist"
+    ],
+    [
+      "Clojure/conj 2023 videos playlist",
+      "https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 08:30:03",
       "https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023"
     ],
@@ -87,16 +97,6 @@
     [
       "Two Approaches To Decoupling",
       "https://htmx.org/essays/two-approaches-to-decoupling/"
-    ]
-  ],
-  [
-    [
-      "2023-05-03, 21:21:20",
-      "https://lobste.rs/s/wj3lqd/python_monorepo_example_part_1_structure"
-    ],
-    [
-      "Python Monorepo: an Example. Part 1: Structure and Tooling",
-      "https://www.tweag.io/blog/2023-04-04-python-monorepo-1/"
     ]
   ],
   [
