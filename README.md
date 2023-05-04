@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 17:42:15](https://lobste.rs/s/xfdo7k/leaked_google_document_we_have_no_moat) - [Leaked Google document: “We Have No Moat, And Neither Does OpenAI”](https://simonwillison.net/2023/May/4/no-moat/)
 * [2023-05-04, 17:06:23](https://lobste.rs/s/52gbav/sibylfs_formal_specification_oracle) - [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems (2015)](https://www.youtube.com/watch?v=828dcJDnwpE)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 16:33:35](https://lobste.rs/s/k3napm/cqrs_performance_design_pattern) - [CQRS Performance Design Pattern Demystified](https://danonsoftware.com/2023/03/10/cqrs-performance-design-pattern-demystified/)
-* [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 * [2023-05-04, 14:47:39](https://lobste.rs/s/f5xqil/stacks_for_terraform) - [Stacks for Terraform](https://github.com/cisco-open/stacks)
 * [2023-05-04, 14:20:50](https://lobste.rs/s/cdqjyx/deep_dive_into_garminos_its_monkeyc) - [A Deep Dive into GarminOS and its MonkeyC Virtual Machine](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
