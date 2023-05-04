@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 17:06:23](https://lobste.rs/s/52gbav/sibylfs_formal_specification_oracle) - [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems (2015)](https://www.youtube.com/watch?v=828dcJDnwpE)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 16:33:35](https://lobste.rs/s/k3napm/cqrs_performance_design_pattern) - [CQRS Performance Design Pattern Demystified](https://danonsoftware.com/2023/03/10/cqrs-performance-design-pattern-demystified/)
 * [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
@@ -23,7 +24,6 @@
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 * [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
-* [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 05:31:43](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too) - [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 
 ## [Archives](archives/index.md)
