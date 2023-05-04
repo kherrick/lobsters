@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:58:22](https://lobste.rs/s/zxvink/runtime_dependency_management_instld) - [Runtime dependency management? INSTLD](https://github.com/pomponchik/instld)
@@ -24,7 +25,6 @@
 * [2023-05-03, 04:26:22](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview) - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
 * [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 22:26:07](https://lobste.rs/s/q4ment/i_want_talk_about_webgpu) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
-* [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 
 ## [Archives](archives/index.md)
 
