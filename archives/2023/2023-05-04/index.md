@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 17:42:15](https://lobste.rs/s/xfdo7k/leaked_google_document_we_have_no_moat) - [Leaked Google document: “We Have No Moat, And Neither Does OpenAI”](https://simonwillison.net/2023/May/4/no-moat/)
 * [2023-05-04, 17:06:23](https://lobste.rs/s/52gbav/sibylfs_formal_specification_oracle) - [SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems (2015)](https://www.youtube.com/watch?v=828dcJDnwpE)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
