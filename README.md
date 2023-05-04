@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-04, 04:37:45](https://lobste.rs/s/xzqg2q/simulating_turing_machines_with_wang) - [Simulating Turing Machines with Wang tiles](https://seriot.ch/projects/simulating_turing_machines_with_wang_tiles.html)
 * [2023-05-03, 21:42:09](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 21:22:06](https://lobste.rs/s/rvyork/two_approaches_decoupling) - [Two Approaches To Decoupling](https://htmx.org/essays/two-approaches-to-decoupling/)
@@ -10,7 +11,6 @@
 * [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
 * [2023-05-03, 16:40:14](https://lobste.rs/s/f3kd0s/bootstrapping_uber_s_infrastructure_on) - [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
 * [2023-05-03, 15:40:56](https://lobste.rs/s/v3kkp9/haskell_production_standard_chartered) - [Haskell in Production: Standard Chartered](https://serokell.io/blog/haskell-in-production-standard-chartered)
-* [2023-05-03, 15:31:33](https://lobste.rs/s/giguyv/turing_test_etc) - [Turing Test, Etc](https://gigamonkeys.com/turing/)
 * [2023-05-03, 10:44:29](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu) - [How to make a CSS-only hamburger menu](https://threkk.medium.com/how-to-make-a-css-only-hamburger-menu-f7ad41e13399?source=friends_link)
 * [2023-05-03, 08:29:39](https://lobste.rs/s/a2t1ap/php_8_2_honest_trailer) - [PHP 8.2: Honest Trailer](https://www.youtube.com/watch?v=nB419rY_-iQ)
 * [2023-05-03, 08:29:09](https://lobste.rs/s/77smiw/sovereign_clouds) - [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4)
