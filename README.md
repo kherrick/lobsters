@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
 * [2023-05-04, 08:30:03](https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023) - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html)
 * [2023-05-04, 07:13:28](https://lobste.rs/s/piteo5/typed_error_handling_kotlin) - [Typed Error Handling in Kotlin](https://medium.com/better-programming/typed-error-handling-in-kotlin-11ff25882880)
@@ -23,7 +24,6 @@
 * [2023-05-03, 04:26:22](https://lobste.rs/s/2lne9h/at_protocol_aka_bluesky_overview) - [AT Protocol (aka BlueSky) Overview](https://atproto.com/guides/overview)
 * [2023-05-02, 23:09:20](https://lobste.rs/s/uptebu/value_oriented_programming_needs) - [Value Oriented Programming Needs Implicits?](https://matklad.github.io/2023/05/02/implicits-for-mvs.html)
 * [2023-05-02, 22:26:07](https://lobste.rs/s/q4ment/i_want_talk_about_webgpu) - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)
-* [2023-05-02, 17:01:42](https://lobste.rs/s/ca60r4/mojo_new_programming_language_for_all_ai) - [Mojo — a new programming language for all AI developers](https://www.modular.com/mojo)
 * [2023-05-02, 11:51:37](https://lobste.rs/s/9etcve/let_s_make_sure_github_doesn_t_become_only) - [Let's Make Sure Github Doesn't Become the only Option](https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option)
 
 ## [Archives](archives/index.md)

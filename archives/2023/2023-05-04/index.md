@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-04](index.md)
 
+* [2023-05-04, 09:55:00](https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql) - [Join order: how to force it in PostgreSQL](https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
 * [2023-05-04, 08:30:03](https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023) - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html)
 * [2023-05-04, 07:13:28](https://lobste.rs/s/piteo5/typed_error_handling_kotlin) - [Typed Error Handling in Kotlin](https://medium.com/better-programming/typed-error-handling-in-kotlin-11ff25882880)
