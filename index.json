@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-04, 08:30:03",
+      "https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023"
+    ],
+    [
+      "Stabilizing async fn in traits in 2023",
+      "https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html"
+    ]
+  ],
+  [
+    [
       "2023-05-04, 07:13:28",
       "https://lobste.rs/s/piteo5/typed_error_handling_kotlin"
     ],
@@ -237,16 +247,6 @@
     [
       "Let's Make Sure Github Doesn't Become the only Option",
       "https://blog.edwardloveall.com/lets-make-sure-github-doesnt-become-the-only-option"
-    ]
-  ],
-  [
-    [
-      "2023-05-02, 10:19:03",
-      "https://lobste.rs/s/ndkycy/why_split_lexing_parsing_into_two"
-    ],
-    [
-      "Why Split Lexing and Parsing Into Two Separate Phases?",
-      "https://tratt.net/laurie/blog/2023/why_split_lexing_and_parsing_into_two_separate_phases.html"
     ]
   ]
 ]
