@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 16:36:45](https://lobste.rs/s/w5xjrz/electronic_music_nextcube_running_max_on) - [Electronic Music and the NeXTcube - Running MAX on the IRCAM Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
 * [2023-05-05, 14:53:38](https://lobste.rs/s/wxnpmi/gpt_4_technical_report_blog_post) - [GPT-4 Technical Report: A blog post masquerading as scientific literature](https://numbersallthewaydown.com/2023/04/06/gpt-4-technical-report-a-blog-post-masquerading-as-scientific-literature/)
 * [2023-05-05, 14:32:56](https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language) - [rellm: Exact structure out of any language model completion](https://github.com/r2d4/rellm)
@@ -22,7 +23,6 @@
 * [2023-05-04, 14:47:39](https://lobste.rs/s/f5xqil/stacks_for_terraform) - [Stacks for Terraform](https://github.com/cisco-open/stacks)
 * [2023-05-04, 12:17:24](https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
-* [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 
