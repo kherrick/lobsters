@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 07:11:15",
+      "https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly"
+    ],
+    [
+      "Using PSR-3 placeholders properly",
+      "https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 06:53:12",
       "https://lobste.rs/s/iiiptz/whatever_you_do_don_t_autoload_rails_lib"
     ],
@@ -57,16 +67,6 @@
     [
       "Fun Format Friday: You now have a super computer. What next?",
       "https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 03:21:04",
-      "https://lobste.rs/s/ea9gll/network_analysis_made_simple"
-    ],
-    [
-      "Network Analysis Made Simple",
-      "https://ericmjl.github.io/Network-Analysis-Made-Simple/"
     ]
   ],
   [
