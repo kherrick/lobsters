@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 03:21:04](https://lobste.rs/s/ea9gll/network_analysis_made_simple) - [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
+* [2023-05-05, 03:10:04](https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic) - [Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-05, 00:20:56](https://lobste.rs/s/kalnwv/new_c_features_gcc_13) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 * [2023-05-05, 00:16:53](https://lobste.rs/s/4qodud/how_survive_your_project_s_first_100_000) - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-04, 20:21:26](https://lobste.rs/s/hdhjux/proposal_add_alternative_spelling_go) - [proposal: Add alternative spelling of .go in file names](https://github.com/golang/go/issues/59968)
@@ -8,10 +10,8 @@
 * [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 * [2023-05-04, 14:47:39](https://lobste.rs/s/f5xqil/stacks_for_terraform) - [Stacks for Terraform](https://github.com/cisco-open/stacks)
-* [2023-05-04, 14:20:50](https://lobste.rs/s/cdqjyx/deep_dive_into_garminos_its_monkeyc) - [A Deep Dive into GarminOS and its MonkeyC Virtual Machine](https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html)
 * [2023-05-04, 12:17:24](https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
 * [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
-* [2023-05-04, 11:41:55](https://lobste.rs/s/chys3o/mojo_may_be_biggest_programming_language) - [Mojo may be the biggest programming language advance in decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
