@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 06:24:30](https://lobste.rs/s/oh5j3d/specifying_verifying_higher_order_rust) - [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/)
+* [2023-05-05, 06:18:58](https://lobste.rs/s/qxotuu/writing_code_with_chatgpt_improve_it_with) - [Writing Code with ChatGPT? Improve it with Kani](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
 * [2023-05-05, 06:13:53](https://lobste.rs/s/z12ggp/data_structure_behind_terminals) - [The data structure behind terminals](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-05, 04:43:50](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super) - [Fun Format Friday: You now have a super computer. What next?](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super)
