@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 14:32:56](https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language) - [rellm: Exact structure out of any language model completion](https://github.com/r2d4/rellm)
+* [2023-05-05, 14:32:22](https://lobste.rs/s/ahzsf9/jit_compilers_102) - [JIT Compilers 102](https://redvice.org/2023/template-jits/)
 * [2023-05-05, 12:59:32](https://lobste.rs/s/uviyja/ambient_0_2_multiplayer_ui_sound) - [Ambient 0.2: multiplayer UI, sound, clientside WASM, and more](https://www.ambient.run/post/ambient-0-2)
 * [2023-05-05, 11:49:39](https://lobste.rs/s/h2v7cy/frictionless_developer_environments) - [Frictionless developer environments](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
 * [2023-05-05, 11:47:23](https://lobste.rs/s/y1qty2/entering_garden_ferris) - [Entering the Garden of Ferris](https://d0nut.hashnode.dev/entering-the-garden-of-ferris)
@@ -7,7 +9,6 @@
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 07:11:15](https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly) - [Using PSR-3 placeholders properly](https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly)
-* [2023-05-05, 06:18:58](https://lobste.rs/s/qxotuu/writing_code_with_chatgpt_improve_it_with) - [Writing Code with ChatGPT? Improve it with Kani](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
 * [2023-05-05, 06:13:53](https://lobste.rs/s/z12ggp/data_structure_behind_terminals) - [The data structure behind terminals](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-05, 04:43:50](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super) - [Fun Format Friday: You now have a super computer. What next?](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super)
@@ -24,7 +25,6 @@
 * [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
-* [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 
 ## [Archives](archives/index.md)
 

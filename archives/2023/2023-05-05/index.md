@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 14:32:56](https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language) - [rellm: Exact structure out of any language model completion](https://github.com/r2d4/rellm)
+* [2023-05-05, 14:32:22](https://lobste.rs/s/ahzsf9/jit_compilers_102) - [JIT Compilers 102](https://redvice.org/2023/template-jits/)
 * [2023-05-05, 12:59:32](https://lobste.rs/s/uviyja/ambient_0_2_multiplayer_ui_sound) - [Ambient 0.2: multiplayer UI, sound, clientside WASM, and more](https://www.ambient.run/post/ambient-0-2)
 * [2023-05-05, 11:49:39](https://lobste.rs/s/h2v7cy/frictionless_developer_environments) - [Frictionless developer environments](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
 * [2023-05-05, 11:47:23](https://lobste.rs/s/y1qty2/entering_garden_ferris) - [Entering the Garden of Ferris](https://d0nut.hashnode.dev/entering-the-garden-of-ferris)
