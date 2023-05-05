@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 12:59:32](https://lobste.rs/s/uviyja/ambient_0_2_multiplayer_ui_sound) - [Ambient 0.2: multiplayer UI, sound, clientside WASM, and more](https://www.ambient.run/post/ambient-0-2)
 * [2023-05-05, 11:49:39](https://lobste.rs/s/h2v7cy/frictionless_developer_environments) - [Frictionless developer environments](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
 * [2023-05-05, 11:47:23](https://lobste.rs/s/y1qty2/entering_garden_ferris) - [Entering the Garden of Ferris](https://d0nut.hashnode.dev/entering-the-garden-of-ferris)
 * [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
