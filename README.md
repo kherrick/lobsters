@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 16:36:45](https://lobste.rs/s/w5xjrz/electronic_music_nextcube_running_max_on) - [Electronic Music and the NeXTcube - Running MAX on the IRCAM Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
@@ -11,7 +12,6 @@
 * [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
-* [2023-05-05, 07:11:15](https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly) - [Using PSR-3 placeholders properly](https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly)
 * [2023-05-05, 06:13:53](https://lobste.rs/s/z12ggp/data_structure_behind_terminals) - [The data structure behind terminals](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-05, 03:10:04](https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic) - [Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
