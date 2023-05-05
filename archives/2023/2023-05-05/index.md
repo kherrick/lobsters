@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 14:53:38](https://lobste.rs/s/wxnpmi/gpt_4_technical_report_blog_post) - [GPT-4 Technical Report: A blog post masquerading as scientific literature](https://numbersallthewaydown.com/2023/04/06/gpt-4-technical-report-a-blog-post-masquerading-as-scientific-literature/)
 * [2023-05-05, 14:32:56](https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language) - [rellm: Exact structure out of any language model completion](https://github.com/r2d4/rellm)
 * [2023-05-05, 14:32:22](https://lobste.rs/s/ahzsf9/jit_compilers_102) - [JIT Compilers 102](https://redvice.org/2023/template-jits/)
 * [2023-05-05, 12:59:32](https://lobste.rs/s/uviyja/ambient_0_2_multiplayer_ui_sound) - [Ambient 0.2: multiplayer UI, sound, clientside WASM, and more](https://www.ambient.run/post/ambient-0-2)
