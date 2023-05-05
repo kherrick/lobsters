@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 20:26:41",
+      "https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances"
+    ],
+    [
+      "Farewell to the Era of Cheap EC2 Spot Instances",
+      "https://pauley.me/post/2023/spot-price-trends/"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 19:23:35",
       "https://lobste.rs/s/dc5wjv/htmx_is_future"
     ],
@@ -237,16 +247,6 @@
     [
       "Moving Prime Video service to monolith reduces costs by 90%",
       "https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 05:12:48",
-      "https://lobste.rs/s/2ep6mu/seven_programming_ur_languages"
-    ],
-    [
-      "The seven programming ur-languages",
-      "https://madhadron.com/programming/seven_ur_languages.html"
     ]
   ]
 ]
