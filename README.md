@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 20:59:52](https://lobste.rs/s/rrnypu/hofstadter_express_your_ideas) - [Hofstadter - Express Your Ideas](https://hofstadter.io/)
 * [2023-05-05, 20:26:41](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 19:19:20](https://lobste.rs/s/yy6idm/hostnames_usernames_reserve_2015) - [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
@@ -17,7 +18,6 @@
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 06:13:53](https://lobste.rs/s/z12ggp/data_structure_behind_terminals) - [The data structure behind terminals](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
-* [2023-05-05, 03:10:04](https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic) - [Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-05, 00:20:56](https://lobste.rs/s/kalnwv/new_c_features_gcc_13) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
 * [2023-05-05, 00:16:53](https://lobste.rs/s/4qodud/how_survive_your_project_s_first_100_000) - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
