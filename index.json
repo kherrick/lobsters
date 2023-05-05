@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 15:02:00",
+      "https://lobste.rs/s/abcs6x/externally_managed_environments_when"
+    ],
+    [
+      "“Externally managed environments”: when PEP 668 breaks pip",
+      "https://pythonspeed.com/articles/externally-managed-environment-pep-668/"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 14:53:38",
       "https://lobste.rs/s/wxnpmi/gpt_4_technical_report_blog_post"
     ],
@@ -37,16 +47,6 @@
     [
       "Ambient 0.2: multiplayer UI, sound, clientside WASM, and more",
       "https://www.ambient.run/post/ambient-0-2"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 11:49:39",
-      "https://lobste.rs/s/h2v7cy/frictionless_developer_environments"
-    ],
-    [
-      "Frictionless developer environments",
-      "https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/"
     ]
   ],
   [
