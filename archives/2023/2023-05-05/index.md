@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-05, 04:43:50](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super) - [Fun Format Friday: You now have a super computer. What next?](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super)
 * [2023-05-05, 03:21:04](https://lobste.rs/s/ea9gll/network_analysis_made_simple) - [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
 * [2023-05-05, 03:10:04](https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic) - [Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
