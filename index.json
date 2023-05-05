@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-05, 03:21:04",
+      "https://lobste.rs/s/ea9gll/network_analysis_made_simple"
+    ],
+    [
+      "Network Analysis Made Simple",
+      "https://ericmjl.github.io/Network-Analysis-Made-Simple/"
+    ]
+  ],
+  [
+    [
+      "2023-05-05, 03:10:04",
+      "https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic"
+    ],
+    [
+      "Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request",
+      "https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 00:20:56",
       "https://lobste.rs/s/kalnwv/new_c_features_gcc_13"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-05-04, 14:20:50",
-      "https://lobste.rs/s/cdqjyx/deep_dive_into_garminos_its_monkeyc"
-    ],
-    [
-      "A Deep Dive into GarminOS and its MonkeyC Virtual Machine",
-      "https://www.anvilsecure.com/blog/compromising-garmins-sport-watches-a-deep-dive-into-garminos-and-its-monkeyc-virtual-machine.html"
-    ]
-  ],
-  [
-    [
       "2023-05-04, 12:17:24",
       "https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi"
     ],
@@ -107,16 +117,6 @@
     [
       "Static linking considered useful",
       "https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 11:41:55",
-      "https://lobste.rs/s/chys3o/mojo_may_be_biggest_programming_language"
-    ],
-    [
-      "Mojo may be the biggest programming language advance in decades",
-      "https://www.fast.ai/posts/2023-05-03-mojo-launch.html"
     ]
   ],
   [
