@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 21:41:11",
+      "https://lobste.rs/s/dzfvqh/crystal_language_for_humans"
+    ],
+    [
+      "Crystal the language for humans",
+      "https://www.deusinmachina.net/p/a-look-at-the-crystal-programming"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 20:59:52",
       "https://lobste.rs/s/rrnypu/hofstadter_express_your_ideas"
     ],
@@ -157,16 +167,6 @@
     [
       "Building x86 Rust containers from Mac Silicon",
       "https://loige.co/building_x86_rust-containers-from-mac-silicon"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 06:13:53",
-      "https://lobste.rs/s/z12ggp/data_structure_behind_terminals"
-    ],
-    [
-      "The data structure behind terminals",
-      "https://www.warp.dev/blog/the-data-structure-behind-terminals"
     ]
   ],
   [
