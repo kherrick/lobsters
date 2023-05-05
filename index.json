@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 10:05:55",
+      "https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition"
+    ],
+    [
+      "CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion",
+      "https://github.com/rochus-keller/CrossLine/"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 09:04:42",
       "https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac"
     ],
@@ -27,16 +37,6 @@
     [
       "Whatever you do, don't autoload Rails `lib/`",
       "https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 06:24:30",
-      "https://lobste.rs/s/oh5j3d/specifying_verifying_higher_order_rust"
-    ],
-    [
-      "Specifying and Verifying Higher-order Rust Iterators",
-      "https://hal.science/hal-03827702v2/"
     ]
   ],
   [
