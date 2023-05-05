@@ -19,11 +19,11 @@
 * [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
 * [2023-05-04, 11:05:04](https://lobste.rs/s/vbogwu/sun_tzu_wouldn_t_like_cybersecurity) - [Sun Tzu wouldn’t like the cybersecurity industry](https://kellyshortridge.com/blog/posts/sun-tzu-wouldnt-like-the-cybersecurity-industry/)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+* [2023-05-04, 10:27:27](https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com) - [1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip](https://xoreaxeax.com/b/heart)
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
 * [2023-05-04, 08:30:03](https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023) - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
-* [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 
 ## [Archives](archives/index.md)
