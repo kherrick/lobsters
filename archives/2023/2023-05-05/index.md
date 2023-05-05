@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 20:26:41](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 19:19:20](https://lobste.rs/s/yy6idm/hostnames_usernames_reserve_2015) - [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
