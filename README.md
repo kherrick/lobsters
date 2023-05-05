@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
 * [2023-05-05, 21:41:11](https://lobste.rs/s/dzfvqh/crystal_language_for_humans) - [Crystal the language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 * [2023-05-05, 20:59:52](https://lobste.rs/s/rrnypu/hofstadter_express_your_ideas) - [Hofstadter - Express Your Ideas](https://hofstadter.io/)
 * [2023-05-05, 20:26:41](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
@@ -22,7 +23,6 @@
 * [2023-05-05, 00:16:53](https://lobste.rs/s/4qodud/how_survive_your_project_s_first_100_000) - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
-* [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 
