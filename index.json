@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-05, 06:24:30",
+      "https://lobste.rs/s/oh5j3d/specifying_verifying_higher_order_rust"
+    ],
+    [
+      "Specifying and Verifying Higher-order Rust Iterators",
+      "https://hal.science/hal-03827702v2/"
+    ]
+  ],
+  [
+    [
+      "2023-05-05, 06:18:58",
+      "https://lobste.rs/s/qxotuu/writing_code_with_chatgpt_improve_it_with"
+    ],
+    [
+      "Writing Code with ChatGPT? Improve it with Kani",
+      "https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 06:13:53",
       "https://lobste.rs/s/z12ggp/data_structure_behind_terminals"
     ],
@@ -167,26 +187,6 @@
     [
       "Moving Prime Video service to monolith reduces costs by 90%",
       "https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 10:27:27",
-      "https://lobste.rs/s/45oezk/1014_byte_polyglot_binary_elf64_dos_com"
-    ],
-    [
-      "1014 byte polyglot binary: ELF64/DOS.COM/GameBoy/Megadrive/PDF/ARJ/PKZIP/7zip",
-      "https://xoreaxeax.com/b/heart"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 09:58:22",
-      "https://lobste.rs/s/zxvink/runtime_dependency_management_instld"
-    ],
-    [
-      "Runtime dependency management? INSTLD",
-      "https://github.com/pomponchik/instld"
     ]
   ],
   [
