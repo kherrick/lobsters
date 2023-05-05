@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-05, 06:13:53",
+      "https://lobste.rs/s/z12ggp/data_structure_behind_terminals"
+    ],
+    [
+      "The data structure behind terminals",
+      "https://www.warp.dev/blog/the-data-structure-behind-terminals"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 05:30:08",
       "https://lobste.rs/s/il6b75/macos_internals"
     ],
@@ -177,16 +187,6 @@
     [
       "Runtime dependency management? INSTLD",
       "https://github.com/pomponchik/instld"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 09:55:00",
-      "https://lobste.rs/s/qawu63/join_order_how_force_it_postgresql"
-    ],
-    [
-      "Join order: how to force it in PostgreSQL",
-      "https://www.cybertec-postgresql.com/en/forcing-a-join-order-in-postgresql/"
     ]
   ],
   [
