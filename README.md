@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 00:20:56](https://lobste.rs/s/kalnwv/new_c_features_gcc_13) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
+* [2023-05-05, 00:16:53](https://lobste.rs/s/4qodud/how_survive_your_project_s_first_100_000) - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-04, 20:21:26](https://lobste.rs/s/hdhjux/proposal_add_alternative_spelling_go) - [proposal: Add alternative spelling of .go in file names](https://github.com/golang/go/issues/59968)
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
@@ -20,11 +22,9 @@
 * [2023-05-04, 06:09:31](https://lobste.rs/s/lb5va3/viewing_pull_request_s_changes_since_your) - [Viewing a pull request's changes since your last review, even in the face of a rebase](https://daisy.wtf/writing/github-changes-since-last-review/)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
-* [2023-05-03, 21:42:09](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password) - [Passkeys: The beginning of the end of the password](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
 * [2023-05-03, 18:17:06](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now) - [Somehow AutoHotKey is kinda good now](https://www.hillelwayne.com/post/ahk-v2/)
 * [2023-05-03, 17:19:18](https://lobste.rs/s/upmvxg/driving_compilers) - [Driving Compilers](https://fabiensanglard.net/dc/)
-* [2023-05-03, 05:31:43](https://lobste.rs/s/hn2gle/cloud_exit_pays_off_performance_too) - [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697)
 
 ## [Archives](archives/index.md)
 
