@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
+* [2023-05-05, 19:19:20](https://lobste.rs/s/yy6idm/hostnames_usernames_reserve_2015) - [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
@@ -21,8 +23,6 @@
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 16:15:29](https://lobste.rs/s/ren1x1/pijul_ssh_selfhosting_setup) - [Pijul ssh selfhosting setup](https://nest.pijul.com/tankf33der/selfhosting)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
-* [2023-05-04, 12:17:24](https://lobste.rs/s/gls60k/uefi_secure_boot_on_raspberry_pi) - [UEFI Secure Boot on the Raspberry Pi](https://www.linux.it/~ema/posts/secure-boot-rpi/)
-* [2023-05-04, 11:51:01](https://lobste.rs/s/ureytx/static_linking_considered_useful) - [Static linking considered useful](https://medium.com/@anton_samokhvalov/static-linking-considered-useful-c25300c46e3d)
 * [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 

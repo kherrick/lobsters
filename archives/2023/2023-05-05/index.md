@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
+* [2023-05-05, 19:19:20](https://lobste.rs/s/yy6idm/hostnames_usernames_reserve_2015) - [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
