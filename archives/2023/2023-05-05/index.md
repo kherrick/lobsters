@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
+* [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 16:36:45](https://lobste.rs/s/w5xjrz/electronic_music_nextcube_running_max_on) - [Electronic Music and the NeXTcube - Running MAX on the IRCAM Musical Workstation](https://0110.be/posts/Electronic_Music_and_the_NeXTcube_-_Running_MAX_on_the_IRCAM_Musical_Workstation)
 * [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
 * [2023-05-05, 14:53:38](https://lobste.rs/s/wxnpmi/gpt_4_technical_report_blog_post) - [GPT-4 Technical Report: A blog post masquerading as scientific literature](https://numbersallthewaydown.com/2023/04/06/gpt-4-technical-report-a-blog-post-masquerading-as-scientific-literature/)
