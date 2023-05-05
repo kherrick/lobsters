@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 07:11:15](https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly) - [Using PSR-3 placeholders properly](https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly)
-* [2023-05-05, 06:53:12](https://lobste.rs/s/iiiptz/whatever_you_do_don_t_autoload_rails_lib) - [Whatever you do, don't autoload Rails `lib/`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 * [2023-05-05, 06:18:58](https://lobste.rs/s/qxotuu/writing_code_with_chatgpt_improve_it_with) - [Writing Code with ChatGPT? Improve it with Kani](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
 * [2023-05-05, 06:13:53](https://lobste.rs/s/z12ggp/data_structure_behind_terminals) - [The data structure behind terminals](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)

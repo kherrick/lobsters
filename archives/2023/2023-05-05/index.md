@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 07:11:15](https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly) - [Using PSR-3 placeholders properly](https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly)
