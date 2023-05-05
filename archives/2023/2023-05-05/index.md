@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-05](index.md)
 
+* [2023-05-05, 07:11:15](https://lobste.rs/s/8ubckd/using_psr_3_placeholders_properly) - [Using PSR-3 placeholders properly](https://peakd.com/hive-168588/@crell/using-psr-3-placeholders-properly)
 * [2023-05-05, 06:53:12](https://lobste.rs/s/iiiptz/whatever_you_do_don_t_autoload_rails_lib) - [Whatever you do, don't autoload Rails `lib/`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 * [2023-05-05, 06:24:30](https://lobste.rs/s/oh5j3d/specifying_verifying_higher_order_rust) - [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/)
 * [2023-05-05, 06:18:58](https://lobste.rs/s/qxotuu/writing_code_with_chatgpt_improve_it_with) - [Writing Code with ChatGPT? Improve it with Kani](https://model-checking.github.io/kani-verifier-blog/2023/05/01/writing-code-with-chatgpt-improve-it-with-kani.html)
