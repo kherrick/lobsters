@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-05, 16:56:03",
+      "https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all"
+    ],
+    [
+      "I checked if browsers could cache all bookmarked pages locally",
+      "https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf"
+    ]
+  ],
+  [
+    [
+      "2023-05-05, 16:49:37",
+      "https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state"
+    ],
+    [
+      "A few words on Ruby's type annotations state",
+      "https://zverok.space/blog/2023-05-05-ruby-types.html"
+    ]
+  ],
+  [
+    [
       "2023-05-05, 16:36:45",
       "https://lobste.rs/s/w5xjrz/electronic_music_nextcube_running_max_on"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2023-05-05, 12:59:32",
-      "https://lobste.rs/s/uviyja/ambient_0_2_multiplayer_ui_sound"
+      "2023-05-05, 11:49:39",
+      "https://lobste.rs/s/h2v7cy/frictionless_developer_environments"
     ],
     [
-      "Ambient 0.2: multiplayer UI, sound, clientside WASM, and more",
-      "https://www.ambient.run/post/ambient-0-2"
+      "Frictionless developer environments",
+      "https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "macOS Internals",
       "https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 04:43:50",
-      "https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super"
-    ],
-    [
-      "Fun Format Friday: You now have a super computer. What next?",
-      "https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Maybe you should store passwords in plaintext",
       "https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 14:47:39",
-      "https://lobste.rs/s/f5xqil/stacks_for_terraform"
-    ],
-    [
-      "Stacks for Terraform",
-      "https://github.com/cisco-open/stacks"
     ]
   ],
   [
