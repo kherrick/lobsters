@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-05, 04:43:50](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super) - [Fun Format Friday: You now have a super computer. What next?](https://lobste.rs/s/nbigsf/fun_format_friday_you_now_have_super)
 * [2023-05-05, 03:21:04](https://lobste.rs/s/ea9gll/network_analysis_made_simple) - [Network Analysis Made Simple](https://ericmjl.github.io/Network-Analysis-Made-Simple/)
 * [2023-05-05, 03:10:04](https://lobste.rs/s/lcckro/heisting_20_million_dollars_worth_magic) - [Heisting 20 Million Dollars' Worth of Magic: The Gathering Cards in a Single Request](https://www.mayer.cool/writings/Heisting-20-Million-in-Magic-Cards/)
 * [2023-05-05, 00:20:56](https://lobste.rs/s/kalnwv/new_c_features_gcc_13) - [New C features in GCC 13](https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13)
@@ -20,7 +21,6 @@
 * [2023-05-04, 09:07:41](https://lobste.rs/s/ufhbjr/clojure_conj_2023_videos_playlist) - [Clojure/conj 2023 videos playlist](https://www.youtube.com/playlist?list=PLZdCLR02grLpIQQkyGLgIyt0eHE56aJqd)
 * [2023-05-04, 08:30:03](https://lobste.rs/s/dh3gyk/stabilizing_async_fn_traits_2023) - [Stabilizing async fn in traits in 2023](https://blog.rust-lang.org/inside-rust/2023/05/03/stabilizing-async-fn-in-trait.html)
 * [2023-05-04, 07:09:32](https://lobste.rs/s/vwbjnr/quickly_resize_video_with_ffmpeg_vaapi) - [Quickly resize a video with FFmpeg/Vaapi for Mastodon](https://www.paulox.net/2023/05/03/quickly_resize-a-video-with-ffmpeg-for-mastodon/)
-* [2023-05-04, 06:09:31](https://lobste.rs/s/lb5va3/viewing_pull_request_s_changes_since_your) - [Viewing a pull request's changes since your last review, even in the face of a rebase](https://daisy.wtf/writing/github-changes-since-last-review/)
 * [2023-05-04, 05:12:48](https://lobste.rs/s/2ep6mu/seven_programming_ur_languages) - [The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)
 * [2023-05-04, 05:00:32](https://lobste.rs/s/xlkv9i/microsoft_is_forcing_outlook_teams_open) - [Microsoft is forcing Outlook and Teams to open links in Edge, and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
 * [2023-05-03, 18:20:15](https://lobste.rs/s/tynwq6/does_gpt_4_think_better_javascript) - [Does GPT-4 think better in Javascript?](https://vgel.me/posts/gpt4-javascript/)
