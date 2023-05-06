@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-06, 06:35:52](https://lobste.rs/s/iq9x3z/prime_video_service_dumps_microservices) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/amp/)
 * [2023-05-06, 04:15:59](https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks) - [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 * [2023-05-06, 02:36:53](https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit) - [Merklizing the key/value store for fun and profit | Joel Gustafson](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
@@ -15,6 +14,7 @@
 * [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
 * [2023-05-05, 14:53:38](https://lobste.rs/s/wxnpmi/gpt_4_technical_report_blog_post) - [GPT-4 Technical Report: A blog post masquerading as scientific literature](https://numbersallthewaydown.com/2023/04/06/gpt-4-technical-report-a-blog-post-masquerading-as-scientific-literature/)
 * [2023-05-05, 14:32:56](https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language) - [rellm: Exact structure out of any language model completion](https://github.com/r2d4/rellm)
+* [2023-05-05, 14:32:22](https://lobste.rs/s/ahzsf9/jit_compilers_102) - [JIT Compilers 102](https://redvice.org/2023/template-jits/)
 * [2023-05-05, 11:49:39](https://lobste.rs/s/h2v7cy/frictionless_developer_environments) - [Frictionless developer environments](https://blog.testdouble.com/posts/2023-05-02-frictionless-developer-environments/)
 * [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
