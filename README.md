@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 18:50:56](https://lobste.rs/s/esb6gw/discord_should_remove_usernames) - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 16:05:53](https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi) - [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
 * [2023-05-06, 15:53:03](https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve) - [Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera](https://blog.assetnote.io/2023/04/30/rce-oracle-opera/)
@@ -22,7 +23,6 @@
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
 * [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
-* [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 
