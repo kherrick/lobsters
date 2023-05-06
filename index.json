@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 18:36:52",
+      "https://lobste.rs/s/rxymcp/constructing_human_grade_parsers"
+    ],
+    [
+      "Constructing human-grade parsers",
+      "https://duriansoftware.com/joe/constructing-human-grade-parsers"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 16:05:53",
       "https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi"
     ],
@@ -217,16 +227,6 @@
     [
       "CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion",
       "https://github.com/rochus-keller/CrossLine/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 09:04:42",
-      "https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac"
-    ],
-    [
-      "Building x86 Rust containers from Mac Silicon",
-      "https://loige.co/building_x86_rust-containers-from-mac-silicon"
     ]
   ],
   [
