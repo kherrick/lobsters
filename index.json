@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 16:05:53",
+      "https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi"
+    ],
+    [
+      "Functions as a Service in Go with WASM, WASI and Rust",
+      "https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 15:53:03",
       "https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve"
     ],
@@ -187,16 +197,6 @@
     [
       "“Externally managed environments”: when PEP 668 breaks pip",
       "https://pythonspeed.com/articles/externally-managed-environment-pep-668/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 14:32:56",
-      "https://lobste.rs/s/lgtvdm/rellm_exact_structure_out_any_language"
-    ],
-    [
-      "rellm: Exact structure out of any language model completion",
-      "https://github.com/r2d4/rellm"
     ]
   ],
   [
