@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 02:36:53](https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit) - [Merklizing the key/value store for fun and profit | Joel Gustafson](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
 * [2023-05-05, 21:41:11](https://lobste.rs/s/dzfvqh/crystal_language_for_humans) - [Crystal the language for humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
-* [2023-05-05, 20:59:52](https://lobste.rs/s/rrnypu/hofstadter_express_your_ideas) - [Hofstadter - Express Your Ideas](https://hofstadter.io/)
 * [2023-05-05, 20:26:41](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 19:19:20](https://lobste.rs/s/yy6idm/hostnames_usernames_reserve_2015) - [Hostnames and usernames to reserve (2015)](https://ldpreload.com/blog/names-to-reserve)
