@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 19:25:57",
+      "https://lobste.rs/s/dbxgx0/constexpr_auto_ymd_year_2021_january_day"
+    ],
+    [
+      "constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)",
+      "https://en.cppreference.com/w/cpp/chrono/operator_slash"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 19:15:58",
       "https://lobste.rs/s/bymzol/solid_is_specification_lets_people_store"
     ],
@@ -227,16 +237,6 @@
     [
       "“Externally managed environments”: when PEP 668 breaks pip",
       "https://pythonspeed.com/articles/externally-managed-environment-pep-668/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 11:08:17",
-      "https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless"
-    ],
-    [
-      "Even Amazon can't make sense of serverless or microservices",
-      "https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580"
     ]
   ],
   [
