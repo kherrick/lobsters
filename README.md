@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 19:25:57](https://lobste.rs/s/dbxgx0/constexpr_auto_ymd_year_2021_january_day) - [constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)](https://en.cppreference.com/w/cpp/chrono/operator_slash)
 * [2023-05-06, 19:15:58](https://lobste.rs/s/bymzol/solid_is_specification_lets_people_store) - [Solid is a specification that lets people store their data securely in decentralized data stores](https://solidproject.org/)
 * [2023-05-06, 18:50:56](https://lobste.rs/s/esb6gw/discord_should_remove_usernames) - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
@@ -23,7 +24,6 @@
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
-* [2023-05-05, 11:08:17](https://lobste.rs/s/fsnvuu/even_amazon_can_t_make_sense_serverless) - [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
 ## [Archives](archives/index.md)
