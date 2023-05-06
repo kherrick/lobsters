@@ -6,6 +6,7 @@
 * [2023-05-06, 18:50:56](https://lobste.rs/s/esb6gw/discord_should_remove_usernames) - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 16:05:53](https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi) - [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+* [2023-05-06, 15:53:03](https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve) - [Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera](https://blog.assetnote.io/2023/04/30/rce-oracle-opera/)
 * [2023-05-06, 15:35:01](https://lobste.rs/s/csbadz/kernel_without_buffer_heads) - [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 * [2023-05-06, 14:55:25](https://lobste.rs/s/5yv5qz/creating_custom_rails_generators) - [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
 * [2023-05-06, 14:43:09](https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox) - [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
@@ -23,7 +24,6 @@
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
-* [2023-05-05, 15:02:00](https://lobste.rs/s/abcs6x/externally_managed_environments_when) - [“Externally managed environments”: when PEP 668 breaks pip](https://pythonspeed.com/articles/externally-managed-environment-pep-668/)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
 ## [Archives](archives/index.md)
