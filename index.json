@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-05-06, 15:53:03",
-      "https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve"
-    ],
-    [
-      "Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera",
-      "https://blog.assetnote.io/2023/04/30/rce-oracle-opera/"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 15:35:01",
       "https://lobste.rs/s/csbadz/kernel_without_buffer_heads"
     ],
@@ -127,6 +117,16 @@
     [
       "WebGPU: Rotating Cube",
       "https://john-millikin.com/static/webgpu-rotating-cube.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 10:38:58",
+      "https://lobste.rs/s/5fzlqj/unix_koans"
+    ],
+    [
+      "The UNIX Koans",
+      "https://prirai.github.io/books/unix-koans.html"
     ]
   ],
   [
