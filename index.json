@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 10:38:58",
+      "https://lobste.rs/s/5fzlqj/unix_koans"
+    ],
+    [
+      "The UNIX Koans",
+      "https://prirai.github.io/books/unix-koans.html"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 04:15:59",
       "https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks"
     ],
@@ -137,16 +147,6 @@
     [
       "rellm: Exact structure out of any language model completion",
       "https://github.com/r2d4/rellm"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 14:32:22",
-      "https://lobste.rs/s/ahzsf9/jit_compilers_102"
-    ],
-    [
-      "JIT Compilers 102",
-      "https://redvice.org/2023/template-jits/"
     ]
   ],
   [
