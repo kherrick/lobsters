@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 14:55:25](https://lobste.rs/s/5yv5qz/creating_custom_rails_generators) - [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
 * [2023-05-06, 14:43:09](https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox) - [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
@@ -24,7 +25,6 @@
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
-* [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
 
 ## [Archives](archives/index.md)
 

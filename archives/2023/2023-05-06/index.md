@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 14:55:25](https://lobste.rs/s/5yv5qz/creating_custom_rails_generators) - [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
 * [2023-05-06, 14:43:09](https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox) - [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
