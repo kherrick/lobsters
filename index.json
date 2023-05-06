@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 19:15:58",
+      "https://lobste.rs/s/bymzol/solid_is_specification_lets_people_store"
+    ],
+    [
+      "Solid is a specification that lets people store their data securely in decentralized data stores",
+      "https://solidproject.org/"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 18:50:56",
       "https://lobste.rs/s/esb6gw/discord_should_remove_usernames"
     ],
@@ -237,16 +247,6 @@
     [
       "macOS Internals",
       "https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 16:46:45",
-      "https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code"
-    ],
-    [
-      "Mitchell Hashimoto uses a simple code editor",
-      "https://youtu.be/rysgxl35EGc"
     ]
   ]
 ]
