@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 16:05:53](https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi) - [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
 * [2023-05-06, 15:53:03](https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve) - [Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera](https://blog.assetnote.io/2023/04/30/rce-oracle-opera/)
 * [2023-05-06, 15:35:01](https://lobste.rs/s/csbadz/kernel_without_buffer_heads) - [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
