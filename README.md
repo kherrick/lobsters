@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 06:35:52](https://lobste.rs/s/iq9x3z/prime_video_service_dumps_microservices) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/amp/)
 * [2023-05-06, 04:15:59](https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks) - [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 * [2023-05-06, 02:36:53](https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit) - [Merklizing the key/value store for fun and profit | Joel Gustafson](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
@@ -20,7 +21,6 @@
 * [2023-05-05, 10:05:55](https://lobste.rs/s/p2srlo/crossline_is_desktop_outliner_tradition) - [CrossLine is a desktop Outliner in the tradition of Ecco Pro supporting cross-links and transclusion](https://github.com/rochus-keller/CrossLine/)
 * [2023-05-05, 09:04:42](https://lobste.rs/s/alzpfn/building_x86_rust_containers_from_mac) - [Building x86 Rust containers from Mac Silicon](https://loige.co/building_x86_rust-containers-from-mac-silicon)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
-* [2023-05-05, 00:16:53](https://lobste.rs/s/4qodud/how_survive_your_project_s_first_100_000) - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
