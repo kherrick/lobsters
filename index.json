@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-06, 04:15:59",
+      "https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks"
+    ],
+    [
+      "On the security of the Linux disk encryption LUKS",
+      "https://dys2p.com/en/2023-05-luks-security.html"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 02:36:53",
       "https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit"
     ],
@@ -187,16 +197,6 @@
     [
       "macOS Internals",
       "https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 00:20:56",
-      "https://lobste.rs/s/kalnwv/new_c_features_gcc_13"
-    ],
-    [
-      "New C features in GCC 13",
-      "https://developers.redhat.com/articles/2023/05/04/new-c-features-gcc-13"
     ]
   ],
   [
