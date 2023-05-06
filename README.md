@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
 * [2023-05-06, 10:38:58](https://lobste.rs/s/5fzlqj/unix_koans) - [The UNIX Koans](https://prirai.github.io/books/unix-koans.html)
 * [2023-05-06, 04:15:59](https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks) - [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
@@ -24,7 +25,6 @@
 * [2023-05-04, 19:36:08](https://lobste.rs/s/fwz8zb/so_this_guy_is_now_s3_all_s3) - [So this guy is now S3. All of S3](https://chaos.social/@jonty/110307532009155432)
 * [2023-05-04, 16:46:45](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code) - [Mitchell Hashimoto uses a simple code editor](https://youtu.be/rysgxl35EGc)
 * [2023-05-04, 15:17:36](https://lobste.rs/s/ab6gsq/maybe_you_should_store_passwords) - [Maybe you should store passwords in plaintext](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
-* [2023-05-04, 10:49:35](https://lobste.rs/s/etmmm5/moving_prime_video_service_monolith) - [Moving Prime Video service to monolith reduces costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 
 ## [Archives](archives/index.md)
 
