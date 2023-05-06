@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 19:15:58](https://lobste.rs/s/bymzol/solid_is_specification_lets_people_store) - [Solid is a specification that lets people store their data securely in decentralized data stores](https://solidproject.org/)
 * [2023-05-06, 18:50:56](https://lobste.rs/s/esb6gw/discord_should_remove_usernames) - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 16:05:53](https://lobste.rs/s/hrhmor/functions_as_service_go_with_wasm_wasi) - [Functions as a Service in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
