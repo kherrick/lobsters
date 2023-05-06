@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-05-06, 15:53:03",
+      "https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve"
+    ],
+    [
+      "Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera",
+      "https://blog.assetnote.io/2023/04/30/rce-oracle-opera/"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 15:35:01",
       "https://lobste.rs/s/csbadz/kernel_without_buffer_heads"
     ],
@@ -227,16 +237,6 @@
     [
       "A few words on Ruby's type annotations state",
       "https://zverok.space/blog/2023-05-05-ruby-types.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 15:02:00",
-      "https://lobste.rs/s/abcs6x/externally_managed_environments_when"
-    ],
-    [
-      "“Externally managed environments”: when PEP 668 breaks pip",
-      "https://pythonspeed.com/articles/externally-managed-environment-pep-668/"
     ]
   ],
   [
