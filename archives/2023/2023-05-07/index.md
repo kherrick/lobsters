@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 14:43:13](https://lobste.rs/s/fgguuk/lenovo_thinksmart_view_rebooted) - [The Lenovo ThinkSmart View, Rebooted](https://taoofmac.com/space/blog/2023/04/22/1330)
 * [2023-05-07, 13:52:39](https://lobste.rs/s/kyvxgq/writing_http_client_middleware_go) - [Writing HTTP client middleware in Go](https://echorand.me/posts/go-http-client-middleware/)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 * [2023-05-07, 11:17:34](https://lobste.rs/s/lgi87v/shell_ux_changes_research_gnome_shell) - [Shell UX Changes: The Research – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2021/02/15/shell-ux-changes-the-research/)
