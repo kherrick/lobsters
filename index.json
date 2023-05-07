@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 10:47:17",
+      "https://lobste.rs/s/k0kk7y/tale_mrtd_gcc_clang"
+    ],
+    [
+      "The tale of -mrtd in GCC and Clang",
+      "https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 10:06:41",
       "https://lobste.rs/s/yzqfcg/deepmind_s_epistemic_neural_networks"
     ],
@@ -217,16 +227,6 @@
     [
       "Stop Using Hamburger Menus",
       "https://bt.ht/hamburgers/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 16:56:03",
-      "https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all"
-    ],
-    [
-      "I checked if browsers could cache all bookmarked pages locally",
-      "https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf"
     ]
   ],
   [
