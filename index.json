@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 18:16:41",
+      "https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face"
+    ],
+    [
+      "Raft does not Guarantee Liveness in the face of Network Faults (2020)",
+      "https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 15:25:39",
       "https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml"
     ],
@@ -177,16 +187,6 @@
     [
       "Creating Custom Rails Generators",
       "https://garrettdimon.com/journal/posts/creating-custom-rails-generators"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 14:43:09",
-      "https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox"
-    ],
-    [
-      "How unity builds lurked into the Firefox Build System",
-      "https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html"
     ]
   ],
   [
