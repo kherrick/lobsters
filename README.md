@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-07, 13:52:39](https://lobste.rs/s/kyvxgq/writing_http_client_middleware_go) - [Writing HTTP client middleware in Go](https://echorand.me/posts/go-http-client-middleware/)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 * [2023-05-07, 11:17:34](https://lobste.rs/s/lgi87v/shell_ux_changes_research_gnome_shell) - [Shell UX Changes: The Research – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2021/02/15/shell-ux-changes-the-research/)
 * [2023-05-07, 10:47:17](https://lobste.rs/s/k0kk7y/tale_mrtd_gcc_clang) - [The tale of -mrtd in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
@@ -21,7 +22,6 @@
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
-* [2023-05-06, 02:36:53](https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
