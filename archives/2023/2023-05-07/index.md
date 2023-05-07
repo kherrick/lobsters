@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-05-07, 14:43:13](https://lobste.rs/s/fgguuk/lenovo_thinksmart_view_rebooted) - [The Lenovo ThinkSmart View, Rebooted](https://taoofmac.com/space/blog/2023/04/22/1330)
