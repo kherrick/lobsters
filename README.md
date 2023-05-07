@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-07, 10:47:17](https://lobste.rs/s/k0kk7y/tale_mrtd_gcc_clang) - [The tale of -mrtd in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 10:06:41](https://lobste.rs/s/yzqfcg/deepmind_s_epistemic_neural_networks) - [DeepMind’s Epistemic Neural Networks Enable Large Language Model Fine-Tuning With 50% Less Data](https://syncedreview.com/2022/11/16/deepminds-epistemic-neural-networks-enable-large-language-model-fine-tuning-with-50-less-data/)
 * [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
 * [2023-05-07, 09:28:03](https://lobste.rs/s/hc0qkh/monoliths_are_not_dinosaurs) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
@@ -22,7 +23,6 @@
 * [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
-* [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
 * [2023-05-05, 16:49:37](https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state) - [A few words on Ruby's type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 05:30:08](https://lobste.rs/s/il6b75/macos_internals) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 
