@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 * [2023-05-07, 11:17:34](https://lobste.rs/s/lgi87v/shell_ux_changes_research_gnome_shell) - [Shell UX Changes: The Research – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2021/02/15/shell-ux-changes-the-research/)
 * [2023-05-07, 10:47:17](https://lobste.rs/s/k0kk7y/tale_mrtd_gcc_clang) - [The tale of -mrtd in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 10:06:41](https://lobste.rs/s/yzqfcg/deepmind_s_epistemic_neural_networks) - [DeepMind’s Epistemic Neural Networks Enable Large Language Model Fine-Tuning With 50% Less Data](https://syncedreview.com/2022/11/16/deepminds-epistemic-neural-networks-enable-large-language-model-fine-tuning-with-50-less-data/)
