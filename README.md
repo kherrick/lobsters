@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-07, 19:40:19](https://lobste.rs/s/6xzgwj/passkeys_loss_user_control) - [Passkeys: A loss of user control?](https://lapcatsoftware.com/articles/2023/5/1.html)
 * [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
@@ -19,7 +20,6 @@
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 15:35:01](https://lobste.rs/s/csbadz/kernel_without_buffer_heads) - [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 * [2023-05-06, 14:55:25](https://lobste.rs/s/5yv5qz/creating_custom_rails_generators) - [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
-* [2023-05-06, 14:43:09](https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox) - [How unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
