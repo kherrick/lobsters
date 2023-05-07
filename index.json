@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 02:41:44",
+      "https://lobste.rs/s/djsjg0/petri_net_theory_modeling_systems"
+    ],
+    [
+      "Petri Net Theory and the Modeling of Systems",
+      "http://jklp.org/profession/books/pn/index.html"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 19:35:41",
       "https://lobste.rs/s/u6tgyf/classification_principal_programming"
     ],
@@ -227,16 +237,6 @@
     [
       "A few words on Ruby's type annotations state",
       "https://zverok.space/blog/2023-05-05-ruby-types.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 15:02:00",
-      "https://lobste.rs/s/abcs6x/externally_managed_environments_when"
-    ],
-    [
-      "“Externally managed environments”: when PEP 668 breaks pip",
-      "https://pythonspeed.com/articles/externally-managed-environment-pep-668/"
     ]
   ],
   [
