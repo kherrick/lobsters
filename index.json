@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-05-06, 14:43:09",
+      "https://lobste.rs/s/tzdgap/how_unity_builds_lurked_into_firefox"
+    ],
+    [
+      "How unity builds lurked into the Firefox Build System",
+      "https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 14:29:14",
       "https://lobste.rs/s/ywvuyi/prompt_injection_autogpt"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop Using Hamburger Menus",
       "https://bt.ht/hamburgers/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 16:49:37",
-      "https://lobste.rs/s/ote0uk/few_words_on_ruby_s_type_annotations_state"
-    ],
-    [
-      "A few words on Ruby's type annotations state",
-      "https://zverok.space/blog/2023-05-05-ruby-types.html"
     ]
   ]
 ]
