@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-07, 10:06:41](https://lobste.rs/s/yzqfcg/deepmind_s_epistemic_neural_networks) - [DeepMind’s Epistemic Neural Networks Enable Large Language Model Fine-Tuning With 50% Less Data](https://syncedreview.com/2022/11/16/deepminds-epistemic-neural-networks-enable-large-language-model-fine-tuning-with-50-less-data/)
+* [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
 * [2023-05-07, 09:28:03](https://lobste.rs/s/hc0qkh/monoliths_are_not_dinosaurs) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-07, 06:56:05](https://lobste.rs/s/g1z4xm/polymorphic_types_wdeprecated_copy_dtor) - [Polymorphic types and -Wdeprecated-copy-dtor](https://quuxplusone.github.io/blog/2023/05/05/deprecated-copy-with-dtor/)
 * [2023-05-07, 03:31:24](https://lobste.rs/s/ewtjm3/nintendo_reportedly_issues_dmca) - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
@@ -16,10 +18,8 @@
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
-* [2023-05-06, 04:15:59](https://lobste.rs/s/8mwztm/on_security_linux_disk_encryption_luks) - [On the security of the Linux disk encryption LUKS](https://dys2p.com/en/2023-05-luks-security.html)
 * [2023-05-06, 02:36:53](https://lobste.rs/s/0myqa5/merklizing_key_value_store_for_fun_profit) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-05-05, 22:27:17](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/q5aymk/what_are_you_doing_this_weekend)
-* [2023-05-05, 20:26:41](https://lobste.rs/s/4ctd8v/farewell_era_cheap_ec2_spot_instances) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-05, 19:23:35](https://lobste.rs/s/dc5wjv/htmx_is_future) - [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 18:13:49](https://lobste.rs/s/wvpgee/stop_using_hamburger_menus) - [Stop Using Hamburger Menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 16:56:03](https://lobste.rs/s/ggvvxc/i_checked_if_browsers_could_cache_all) - [I checked if browsers could cache all bookmarked pages locally](https://bitecode.substack.com/p/i-checked-if-browsers-could-cache?sd=pf)
