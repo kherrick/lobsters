@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 14:43:13",
+      "https://lobste.rs/s/fgguuk/lenovo_thinksmart_view_rebooted"
+    ],
+    [
+      "The Lenovo ThinkSmart View, Rebooted",
+      "https://taoofmac.com/space/blog/2023/04/22/1330"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 13:52:39",
       "https://lobste.rs/s/kyvxgq/writing_http_client_middleware_go"
     ],
@@ -147,16 +157,6 @@
     [
       "Functions as a Service in Go with WASM, WASI and Rust",
       "https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 15:53:03",
-      "https://lobste.rs/s/ewcj1m/exploiting_order_operations_bug_achieve"
-    ],
-    [
-      "Exploiting an Order of Operations Bug to Achieve RCE in Oracle Opera",
-      "https://blog.assetnote.io/2023/04/30/rce-oracle-opera/"
     ]
   ],
   [
