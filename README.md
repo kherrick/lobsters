@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 15:17:55](https://lobste.rs/s/ogrfgo/ai_scientists_safe_useful_ai) - [AI Scientists: Safe and Useful AI?](https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai/)
 * [2023-05-08, 15:10:11](https://lobste.rs/s/thznzc/how_old_school_computers_played_sound) - [How Old-School Computers Played Sound Samples](https://youtu.be/0xWyLeVnxFU)
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
@@ -18,7 +19,6 @@
 * [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
-* [2023-05-07, 14:43:13](https://lobste.rs/s/fgguuk/lenovo_thinksmart_view_rebooted) - [The Lenovo ThinkSmart View, Rebooted](https://taoofmac.com/space/blog/2023/04/22/1330)
 * [2023-05-07, 13:52:39](https://lobste.rs/s/kyvxgq/writing_http_client_middleware_go) - [Writing HTTP client middleware in Go](https://echorand.me/posts/go-http-client-middleware/)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 * [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
