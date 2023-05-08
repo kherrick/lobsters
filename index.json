@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 04:54:51",
+      "https://lobste.rs/s/qbeqio/how_capabilities_work_austral"
+    ],
+    [
+      "How Capabilities Work in Austral",
+      "https://borretti.me/article/how-capabilities-work-austral"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 04:21:16",
       "https://lobste.rs/s/wuybjp/sidebar_dividers_for_mutt"
     ],
@@ -117,16 +127,6 @@
     [
       "Monoliths are not dinosaurs",
       "https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 06:56:05",
-      "https://lobste.rs/s/g1z4xm/polymorphic_types_wdeprecated_copy_dtor"
-    ],
-    [
-      "Polymorphic types and -Wdeprecated-copy-dtor",
-      "https://quuxplusone.github.io/blog/2023/05/05/deprecated-copy-with-dtor/"
     ]
   ],
   [
