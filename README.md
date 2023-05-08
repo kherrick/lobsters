@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 * [2023-05-08, 04:21:16](https://lobste.rs/s/wuybjp/sidebar_dividers_for_mutt) - [sidebar dividers for mutt](https://jmtd.net/log/mutt_sidebar/)
 * [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
@@ -20,7 +21,6 @@
 * [2023-05-06, 19:15:58](https://lobste.rs/s/bymzol/solid_is_specification_lets_people_store) - [Solid is a specification that lets people store their data securely in decentralized data stores](https://solidproject.org/)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
 * [2023-05-06, 15:35:01](https://lobste.rs/s/csbadz/kernel_without_buffer_heads) - [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
-* [2023-05-06, 14:55:25](https://lobste.rs/s/5yv5qz/creating_custom_rails_generators) - [Creating Custom Rails Generators](https://garrettdimon.com/journal/posts/creating-custom-rails-generators)
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
