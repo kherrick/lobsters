@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
 * [2023-05-08, 08:11:39](https://lobste.rs/s/wm99xo/bluesky_is_scam) - [Bluesky is a scam](https://fiatjaf.com/ab1127fb.html)
 * [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
@@ -21,7 +22,6 @@
 * [2023-05-06, 19:35:41](https://lobste.rs/s/u6tgyf/classification_principal_programming) - [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
 * [2023-05-06, 19:25:57](https://lobste.rs/s/dbxgx0/constexpr_auto_ymd_year_2021_january_day) - [constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)](https://en.cppreference.com/w/cpp/chrono/operator_slash)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
-* [2023-05-06, 15:35:01](https://lobste.rs/s/csbadz/kernel_without_buffer_heads) - [A kernel without buffer heads](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
 * [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)

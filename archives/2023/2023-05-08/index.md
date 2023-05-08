@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
 * [2023-05-08, 08:11:39](https://lobste.rs/s/wm99xo/bluesky_is_scam) - [Bluesky is a scam](https://fiatjaf.com/ab1127fb.html)
 * [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
