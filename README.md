@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
 * [2023-05-08, 19:23:42](https://lobste.rs/s/luqobb/around_world_how_wikipedia_became_multi) - [Around the world: How Wikipedia became a multi-datacenter deployment](https://techblog.wikimedia.org/2023/05/08/around-the-world-how-wikipedia-became-a-multi-datacenter-deployment/)
 * [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
-* [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming_2013) - [The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)
