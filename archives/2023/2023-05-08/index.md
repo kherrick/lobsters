@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 15:52:52](https://lobste.rs/s/9qlcz1/netdata_v1_39_0) - [Netdata v1.39.0](https://github.com/netdata/netdata/releases/tag/v1.39.0)
 * [2023-05-08, 15:17:55](https://lobste.rs/s/ogrfgo/ai_scientists_safe_useful_ai) - [AI Scientists: Safe and Useful AI?](https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai/)
 * [2023-05-08, 15:10:11](https://lobste.rs/s/thznzc/how_old_school_computers_played_sound) - [How Old-School Computers Played Sound Samples](https://youtu.be/0xWyLeVnxFU)
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)
