@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 12:01:07](https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed) - [Stringly Typed vs Strongly Typed](https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed)
 * [2023-05-08, 10:55:48](https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009) - [Triple-Parity RAID and Beyond (2009)](https://queue.acm.org/detail.cfm?id=1670144)
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
@@ -22,7 +23,6 @@
 * [2023-05-07, 02:41:44](https://lobste.rs/s/djsjg0/petri_net_theory_modeling_systems) - [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
 * [2023-05-06, 19:35:41](https://lobste.rs/s/u6tgyf/classification_principal_programming) - [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
 * [2023-05-06, 18:36:52](https://lobste.rs/s/rxymcp/constructing_human_grade_parsers) - [Constructing human-grade parsers](https://duriansoftware.com/joe/constructing-human-grade-parsers)
-* [2023-05-06, 14:29:14](https://lobste.rs/s/ywvuyi/prompt_injection_autogpt) - [Prompt Injection and AutoGPT](https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
 

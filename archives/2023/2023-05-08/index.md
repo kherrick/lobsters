@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 12:01:07](https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed) - [Stringly Typed vs Strongly Typed](https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed)
 * [2023-05-08, 10:55:48](https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009) - [Triple-Parity RAID and Beyond (2009)](https://queue.acm.org/detail.cfm?id=1670144)
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
