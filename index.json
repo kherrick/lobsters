@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 10:55:48",
+      "https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009"
+    ],
+    [
+      "Triple-Parity RAID and Beyond (2009)",
+      "https://queue.acm.org/detail.cfm?id=1670144"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 10:20:42",
       "https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Classification of the principal programming paradigms",
       "https://www.info.ucl.ac.be/~pvr/paradigms.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 19:25:57",
-      "https://lobste.rs/s/dbxgx0/constexpr_auto_ymd_year_2021_january_day"
-    ],
-    [
-      "constexpr auto ymd {year(2021)/January/day(23)};  (std::chrono::operator/)",
-      "https://en.cppreference.com/w/cpp/chrono/operator_slash"
     ]
   ],
   [
