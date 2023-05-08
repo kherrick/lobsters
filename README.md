@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming_2013) - [The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
@@ -20,7 +21,6 @@
 * [2023-05-08, 08:11:39](https://lobste.rs/s/wm99xo/bluesky_is_scam) - [Bluesky is a scam](https://fiatjaf.com/ab1127fb.html)
 * [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
-* [2023-05-08, 04:21:16](https://lobste.rs/s/wuybjp/sidebar_dividers_for_mutt) - [sidebar dividers for mutt](https://jmtd.net/log/mutt_sidebar/)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
