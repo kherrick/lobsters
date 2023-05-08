@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 23:28:55](https://lobste.rs/s/5eleuv/freebsd_ports_test_builder_for_arm64) - [FreeBSD Ports Test Builder for arm64/aarch64 in Oracle Cloud](https://sekrit.de/webdocs/freebsd/oracle-aarch64-testbuilder.html)
+* [2023-05-08, 23:27:02](https://lobste.rs/s/hazq6z/user_management_freebsd) - [User Management in FreeBSD](https://www.youtube.com/watch?v=C0_1B4Wm1dE)
 * [2023-05-08, 23:25:59](https://lobste.rs/s/gambhc/freebsd_journal_2023_03_04_embedded) - [FreeBSD Journal - 2023/03-04 - Embedded](https://freebsdfoundation.org/past-issues/embedded/)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
@@ -15,7 +17,6 @@
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 * [2023-05-08, 13:27:16](https://lobste.rs/s/vxmto6/etherforth) - [etherforth](https://www.etherforth.org/)
 * [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
-* [2023-05-08, 12:16:06](https://lobste.rs/s/wnoagh/pixel_phones_are_sold_with_bootloader) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-08, 12:09:33](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week)
 * [2023-05-08, 12:01:07](https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed) - [Stringly Typed vs Strongly Typed](https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed)
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
@@ -23,7 +24,6 @@
 * [2023-05-08, 08:11:39](https://lobste.rs/s/wm99xo/bluesky_is_scam) - [Bluesky is a scam](https://fiatjaf.com/ab1127fb.html)
 * [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
-* [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 
 ## [Archives](archives/index.md)
