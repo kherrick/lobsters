@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-05-08, 17:36:00",
-      "https://lobste.rs/s/q3czgd/future_programming"
+      "2023-05-08, 18:03:06",
+      "https://lobste.rs/s/bikq0t/programmable_ink"
     ],
     [
-      "The Future of Programming",
+      "Programmable Ink",
+      "https://youtu.be/ifYuvgXZ108"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 17:36:00",
+      "https://lobste.rs/s/q3czgd/future_programming_2013"
+    ],
+    [
+      "The Future of Programming (2013)",
       "https://www.youtube.com/watch?v=8pTEmbeENF4"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Netdata v1.39.0",
       "https://github.com/netdata/netdata/releases/tag/v1.39.0"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 15:17:55",
-      "https://lobste.rs/s/ogrfgo/ai_scientists_safe_useful_ai"
-    ],
-    [
-      "AI Scientists: Safe and Useful AI?",
-      "https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai/"
     ]
   ],
   [
