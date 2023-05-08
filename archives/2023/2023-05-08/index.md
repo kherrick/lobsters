@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 15:10:11](https://lobste.rs/s/thznzc/how_old_school_computers_played_sound) - [How Old-School Computers Played Sound Samples](https://youtu.be/0xWyLeVnxFU)
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 * [2023-05-08, 13:27:16](https://lobste.rs/s/vxmto6/etherforth) - [etherforth](https://www.etherforth.org/)
