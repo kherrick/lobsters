@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 23:25:59",
+      "https://lobste.rs/s/gambhc/freebsd_journal_2023_03_04_embedded"
+    ],
+    [
+      "FreeBSD Journal - 2023/03-04 - Embedded",
+      "https://freebsdfoundation.org/past-issues/embedded/"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 21:32:11",
       "https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with"
     ],
@@ -37,16 +47,6 @@
     [
       "Around the world: How Wikipedia became a multi-datacenter deployment",
       "https://techblog.wikimedia.org/2023/05/08/around-the-world-how-wikipedia-became-a-multi-datacenter-deployment/"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 18:56:00",
-      "https://lobste.rs/s/d0edkt/what_is_type_level_programming"
-    ],
-    [
-      "What is Type-Level Programming?",
-      "https://blog.sulami.xyz/posts/type-level-programming/"
     ]
   ],
   [
