@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 19:29:16",
+      "https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website"
+    ],
+    [
+      "SQRL is an open standard for secure website login and authentication",
+      "https://en.m.wikipedia.org/wiki/SQRL"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 19:23:42",
       "https://lobste.rs/s/luqobb/around_world_how_wikipedia_became_multi"
     ],
@@ -217,16 +227,6 @@
     [
       "How Capabilities Work in Austral",
       "https://borretti.me/article/how-capabilities-work-austral"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 18:16:41",
-      "https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face"
-    ],
-    [
-      "Raft does not Guarantee Liveness in the face of Network Faults (2020)",
-      "https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/"
     ]
   ],
   [
