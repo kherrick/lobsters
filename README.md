@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 13:27:16](https://lobste.rs/s/vxmto6/etherforth) - [etherforth](https://www.etherforth.org/)
 * [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
 * [2023-05-08, 12:16:06](https://lobste.rs/s/wnoagh/pixel_phones_are_sold_with_bootloader) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-08, 12:09:33](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2023-05-07, 03:31:24](https://lobste.rs/s/ewtjm3/nintendo_reportedly_issues_dmca) - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 * [2023-05-07, 02:41:44](https://lobste.rs/s/djsjg0/petri_net_theory_modeling_systems) - [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
-* [2023-05-06, 13:31:44](https://lobste.rs/s/qhh0xe/webgpu_rotating_cube) - [WebGPU: Rotating Cube](https://john-millikin.com/static/webgpu-rotating-cube.html)
 
 ## [Archives](archives/index.md)
 
