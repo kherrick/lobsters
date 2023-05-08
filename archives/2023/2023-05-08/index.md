@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming) - [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+* [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)
 * [2023-05-08, 16:33:35](https://lobste.rs/s/c4kiaz/ibm_3090_processor_training) - [IBM 3090 Processor Training](https://www.youtube.com/watch?v=S0HY6Z3aq8A)
