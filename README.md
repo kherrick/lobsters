@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 * [2023-05-08, 13:27:16](https://lobste.rs/s/vxmto6/etherforth) - [etherforth](https://www.etherforth.org/)
 * [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
 * [2023-05-08, 12:16:06](https://lobste.rs/s/wnoagh/pixel_phones_are_sold_with_bootloader) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
@@ -23,7 +24,6 @@
 * [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
 * [2023-05-07, 09:28:03](https://lobste.rs/s/hc0qkh/monoliths_are_not_dinosaurs) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-07, 03:31:24](https://lobste.rs/s/ewtjm3/nintendo_reportedly_issues_dmca) - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
-* [2023-05-07, 02:41:44](https://lobste.rs/s/djsjg0/petri_net_theory_modeling_systems) - [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
 * [2023-05-06, 14:05:34](https://lobste.rs/s/l1fxb1/memoirs_from_old_web_ie_s_crazy_content) - [Memoirs from the old web: IE's crazy content rating system](https://www.devever.net/~hl/pics)
 
 ## [Archives](archives/index.md)
