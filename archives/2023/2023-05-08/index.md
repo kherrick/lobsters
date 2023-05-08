@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
+* [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming_2013) - [The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming) - [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
