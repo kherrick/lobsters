@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)
 * [2023-05-08, 16:33:35](https://lobste.rs/s/c4kiaz/ibm_3090_processor_training) - [IBM 3090 Processor Training](https://www.youtube.com/watch?v=S0HY6Z3aq8A)
 * [2023-05-08, 15:52:52](https://lobste.rs/s/9qlcz1/netdata_v1_39_0) - [Netdata v1.39.0](https://github.com/netdata/netdata/releases/tag/v1.39.0)
 * [2023-05-08, 15:17:55](https://lobste.rs/s/ogrfgo/ai_scientists_safe_useful_ai) - [AI Scientists: Safe and Useful AI?](https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai/)
