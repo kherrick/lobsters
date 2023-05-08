@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 19:23:42](https://lobste.rs/s/luqobb/around_world_how_wikipedia_became_multi) - [Around the world: How Wikipedia became a multi-datacenter deployment](https://techblog.wikimedia.org/2023/05/08/around-the-world-how-wikipedia-became-a-multi-datacenter-deployment/)
 * [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming_2013) - [The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)

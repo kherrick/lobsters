@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 19:23:42](https://lobste.rs/s/luqobb/around_world_how_wikipedia_became_multi) - [Around the world: How Wikipedia became a multi-datacenter deployment](https://techblog.wikimedia.org/2023/05/08/around-the-world-how-wikipedia-became-a-multi-datacenter-deployment/)
 * [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:36:00](https://lobste.rs/s/q3czgd/future_programming_2013) - [The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)
@@ -24,7 +25,6 @@
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
-* [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
 
 ## [Archives](archives/index.md)
 
