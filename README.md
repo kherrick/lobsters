@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)
 * [2023-05-08, 16:33:35](https://lobste.rs/s/c4kiaz/ibm_3090_processor_training) - [IBM 3090 Processor Training](https://www.youtube.com/watch?v=S0HY6Z3aq8A)
 * [2023-05-08, 15:52:52](https://lobste.rs/s/9qlcz1/netdata_v1_39_0) - [Netdata v1.39.0](https://github.com/netdata/netdata/releases/tag/v1.39.0)
@@ -19,7 +20,6 @@
 * [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 * [2023-05-08, 04:21:16](https://lobste.rs/s/wuybjp/sidebar_dividers_for_mutt) - [sidebar dividers for mutt](https://jmtd.net/log/mutt_sidebar/)
-* [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
 * [2023-05-07, 15:25:39](https://lobste.rs/s/zk7psy/how_i_wrote_activitypub_server_ocaml) - [How I wrote an Activitypub Server in OCaml: Lessons Learnt, Weekends Lost](https://gopiandcode.uk/logs/log-writing-activitypub.html)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
