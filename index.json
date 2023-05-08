@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-08, 17:36:00",
+      "https://lobste.rs/s/q3czgd/future_programming"
+    ],
+    [
+      "The Future of Programming",
+      "https://www.youtube.com/watch?v=8pTEmbeENF4"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 17:31:48",
+      "https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar"
+    ],
+    [
+      "Rational Rendering and Floating Bar",
+      "https://iquilezles.org/articles/floatingbar/"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 17:26:10",
       "https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-05-08, 10:55:48",
-      "https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009"
-    ],
-    [
-      "Triple-Parity RAID and Beyond (2009)",
-      "https://queue.acm.org/detail.cfm?id=1670144"
-    ]
-  ],
-  [
-    [
       "2023-05-08, 10:20:42",
       "https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Devil Mode: A twisted key sequence translator for modifier-free editing experience",
       "https://github.com/susam/devil"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 03:31:24",
-      "https://lobste.rs/s/ewtjm3/nintendo_reportedly_issues_dmca"
-    ],
-    [
-      "Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased",
-      "https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/"
     ]
   ]
 ]
