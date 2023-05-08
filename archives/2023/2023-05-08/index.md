@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 12:16:06](https://lobste.rs/s/wnoagh/pixel_phones_are_sold_with_bootloader) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
+* [2023-05-08, 12:09:33](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week)
 * [2023-05-08, 12:01:07](https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed) - [Stringly Typed vs Strongly Typed](https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed)
 * [2023-05-08, 10:55:48](https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009) - [Triple-Parity RAID and Beyond (2009)](https://queue.acm.org/detail.cfm?id=1670144)
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
