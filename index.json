@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 12:01:07",
+      "https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed"
+    ],
+    [
+      "Stringly Typed vs Strongly Typed",
+      "https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 10:55:48",
       "https://lobste.rs/s/uxgf78/triple_parity_raid_beyond_2009"
     ],
@@ -217,16 +227,6 @@
     [
       "Constructing human-grade parsers",
       "https://duriansoftware.com/joe/constructing-human-grade-parsers"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 14:29:14",
-      "https://lobste.rs/s/ywvuyi/prompt_injection_autogpt"
-    ],
-    [
-      "Prompt Injection and AutoGPT",
-      "https://gist.github.com/rain-1/a1ed1116c6da4d2b195e562c8d3f9482"
     ]
   ],
   [
