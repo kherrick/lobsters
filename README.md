@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 * [2023-05-08, 04:21:16](https://lobste.rs/s/wuybjp/sidebar_dividers_for_mutt) - [sidebar dividers for mutt](https://jmtd.net/log/mutt_sidebar/)
 * [2023-05-07, 19:31:01](https://lobste.rs/s/dfbx6e/what_learn_from_prime_video) - [What to learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 18:16:41](https://lobste.rs/s/dutlhf/raft_does_not_guarantee_liveness_face) - [Raft does not Guarantee Liveness in the face of Network Faults (2020)](https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/)
@@ -12,7 +13,6 @@
 * [2023-05-07, 10:06:41](https://lobste.rs/s/yzqfcg/deepmind_s_epistemic_neural_networks) - [DeepMind’s Epistemic Neural Networks Enable Large Language Model Fine-Tuning With 50% Less Data](https://syncedreview.com/2022/11/16/deepminds-epistemic-neural-networks-enable-large-language-model-fine-tuning-with-50-less-data/)
 * [2023-05-07, 09:57:29](https://lobste.rs/s/xaqsox/devil_mode_twisted_key_sequence) - [Devil Mode: A twisted key sequence translator for modifier-free editing experience](https://github.com/susam/devil)
 * [2023-05-07, 09:28:03](https://lobste.rs/s/hc0qkh/monoliths_are_not_dinosaurs) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
-* [2023-05-07, 06:56:05](https://lobste.rs/s/g1z4xm/polymorphic_types_wdeprecated_copy_dtor) - [Polymorphic types and -Wdeprecated-copy-dtor](https://quuxplusone.github.io/blog/2023/05/05/deprecated-copy-with-dtor/)
 * [2023-05-07, 03:31:24](https://lobste.rs/s/ewtjm3/nintendo_reportedly_issues_dmca) - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects, Skyline Switch emulator development ceased](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 * [2023-05-07, 02:41:44](https://lobste.rs/s/djsjg0/petri_net_theory_modeling_systems) - [Petri Net Theory and the Modeling of Systems](http://jklp.org/profession/books/pn/index.html)
 * [2023-05-06, 19:35:41](https://lobste.rs/s/u6tgyf/classification_principal_programming) - [Classification of the principal programming paradigms](https://www.info.ucl.ac.be/~pvr/paradigms.html)
