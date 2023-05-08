@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 08:11:39",
+      "https://lobste.rs/s/wm99xo/bluesky_is_scam"
+    ],
+    [
+      "Bluesky is a scam",
+      "https://fiatjaf.com/ab1127fb.html"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 07:41:56",
       "https://lobste.rs/s/uvcinl/avoiding_merge_trap"
     ],
@@ -237,16 +247,6 @@
     [
       "WebGPU: Rotating Cube",
       "https://john-millikin.com/static/webgpu-rotating-cube.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 19:23:35",
-      "https://lobste.rs/s/dc5wjv/htmx_is_future"
-    ],
-    [
-      "HTMX is the Future",
-      "https://quii.dev/HTMX_is_the_Future"
     ]
   ]
 ]
