@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 14:17:19](https://lobste.rs/s/defoca/how_omnipaxos_handles_partial) - [How OmniPaxos handles partial connectivity - and why other protocols can’t](https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/)
@@ -12,7 +13,6 @@
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
-* [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)

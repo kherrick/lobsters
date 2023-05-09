@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 14:17:19](https://lobste.rs/s/defoca/how_omnipaxos_handles_partial) - [How OmniPaxos handles partial connectivity - and why other protocols can’t](https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/)
