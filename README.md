@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
 * [2023-05-09, 09:18:04](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties) - [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 * [2023-05-09, 08:27:12](https://lobste.rs/s/dppdld/architecture_applications_apollo) - [The Architecture and Applications of the Apollo Domain](https://cl-pdx.com/static/The-Apollo-Domain-Operating-System.pdf)
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
@@ -9,7 +10,6 @@
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
-* [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
