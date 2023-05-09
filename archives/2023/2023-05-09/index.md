@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_more) - [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
 * [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_essential) - [Python's Missing Batteries: Essential Libraries You're Missing Out On](https://martinheinz.dev/blog/96)
 * [2023-05-09, 20:39:36](https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its) - [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 * [2023-05-09, 20:09:45](https://lobste.rs/s/fjlvpw/curse_blessings_dynamic_sql) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
