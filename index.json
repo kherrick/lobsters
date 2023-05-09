@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-09, 22:26:19",
-      "https://lobste.rs/s/rgohq5/at_protocol_is_most_obtuse_crock_s"
-    ],
-    [
-      "The AT protocol is the most obtuse crock of s***",
-      "https://urbanists.social/@sam/110339902538138997"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 21:38:53",
       "https://lobste.rs/s/glqqyp/python_s_missing_batteries_more"
     ],
@@ -147,6 +137,16 @@
     [
       "The seven specification ur-languages",
       "https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 14:17:19",
+      "https://lobste.rs/s/defoca/how_omnipaxos_handles_partial"
+    ],
+    [
+      "How OmniPaxos handles partial connectivity - and why other protocols can’t",
+      "https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/"
     ]
   ],
   [
