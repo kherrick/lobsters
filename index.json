@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-09, 13:42:56",
-      "https://lobste.rs/s/enwxxs/spdx_announces_3_0_release_candidate_with"
-    ],
-    [
-      "SPDX Announces 3.0 Release Candidate with New Use Cases",
-      "https://www.linuxfoundation.org/press/spdx-sbom-3-release-candidate"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 09:36:31",
       "https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal"
     ],
@@ -217,6 +207,16 @@
     [
       "Stringly Typed vs Strongly Typed",
       "https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 10:20:42",
+      "https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for"
+    ],
+    [
+      "Setting up Hetzner ARM instances with and for Objective-S",
+      "https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html"
     ]
   ],
   [
