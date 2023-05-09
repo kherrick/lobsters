@@ -2,10 +2,10 @@
 
 * [2023-05-09, 00:30:22](https://lobste.rs/s/1jjjoe/can_ai_code_beat_saber_watch_chatgpt_try) - [Can AI code Beat Saber ? Watch ChatGPT try](https://youtu.be/E2rktIcLJwo)
 * [2023-05-09, 00:04:55](https://lobste.rs/s/blpfqo/fossy_2023_call_for_proposals) - [FOSSY 2023 | Call for Proposals](https://2023.fossy.us/call-for-proposals/)
-* [2023-05-08, 23:28:55](https://lobste.rs/s/5eleuv/freebsd_ports_test_builder_for_arm64) - [FreeBSD Ports Test Builder for arm64/aarch64 in Oracle Cloud](https://sekrit.de/webdocs/freebsd/oracle-aarch64-testbuilder.html)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
+* [2023-05-08, 18:56:00](https://lobste.rs/s/d0edkt/what_is_type_level_programming) - [What is Type-Level Programming?](https://blog.sulami.xyz/posts/type-level-programming/)
 * [2023-05-08, 18:03:06](https://lobste.rs/s/bikq0t/programmable_ink) - [Programmable Ink](https://youtu.be/ifYuvgXZ108)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
