@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 14:17:19](https://lobste.rs/s/defoca/how_omnipaxos_handles_partial) - [How OmniPaxos handles partial connectivity - and why other protocols can’t](https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/)
 * [2023-05-09, 13:42:56](https://lobste.rs/s/enwxxs/spdx_announces_3_0_release_candidate_with) - [SPDX Announces 3.0 Release Candidate with New Use Cases](https://www.linuxfoundation.org/press/spdx-sbom-3-release-candidate)
 * [2023-05-09, 10:33:27](https://lobste.rs/s/5iiq4j/ai_personas_talk_chatgpt) - [AI Personas to Talk to in ChatGpt](https://www.aidemos.info/ai-personas-to-talk-to-in-chatgpt/)
 * [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
