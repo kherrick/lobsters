@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
