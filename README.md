@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
+* [2023-05-09, 22:26:19](https://lobste.rs/s/rgohq5/at_protocol_is_most_obtuse_crock_s) - [The AT protocol is the most obtuse crock of s***](https://urbanists.social/@sam/110339902538138997)
 * [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_more) - [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
 * [2023-05-09, 20:39:36](https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its) - [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 * [2023-05-09, 20:09:45](https://lobste.rs/s/fjlvpw/curse_blessings_dynamic_sql) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
@@ -14,7 +15,6 @@
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
-* [2023-05-09, 14:17:19](https://lobste.rs/s/defoca/how_omnipaxos_handles_partial) - [How OmniPaxos handles partial connectivity - and why other protocols can’t](https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/)
 * [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
 * [2023-05-09, 09:18:04](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties) - [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
