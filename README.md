@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-09, 00:04:55](https://lobste.rs/s/blpfqo/fossy_2023_call_for_proposals) - [FOSSY 2023 | Call for Proposals](https://2023.fossy.us/call-for-proposals/)
 * [2023-05-08, 23:25:59](https://lobste.rs/s/gambhc/freebsd_journal_2023_03_04_embedded) - [FreeBSD Journal - 2023/03-04 - Embedded](https://freebsdfoundation.org/past-issues/embedded/)
@@ -16,7 +17,6 @@
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 * [2023-05-08, 13:27:16](https://lobste.rs/s/vxmto6/etherforth) - [etherforth](https://www.etherforth.org/)
 * [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
-* [2023-05-08, 12:16:06](https://lobste.rs/s/wnoagh/pixel_phones_are_sold_with_bootloader) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-08, 12:09:33](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week)
 * [2023-05-08, 12:01:07](https://lobste.rs/s/b8lh0b/stringly_typed_vs_strongly_typed) - [Stringly Typed vs Strongly Typed](https://www.hanselman.com/blog/stringly-typed-vs-strongly-typed)
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
