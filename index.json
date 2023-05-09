@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-09, 22:48:21",
+      "https://lobste.rs/s/ovtnys/firefox_113_0"
+    ],
+    [
+      "Firefox  113.0",
+      "https://www.mozilla.org/en-US/firefox/113.0/releasenotes/"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 22:27:10",
       "https://lobste.rs/s/ix3x3t/alpine_3_18_0_released"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2023-05-09, 14:17:19",
+      "https://lobste.rs/s/defoca/how_omnipaxos_handles_partial"
+    ],
+    [
+      "How OmniPaxos handles partial connectivity - and why other protocols can’t",
+      "https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 09:36:31",
       "https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-05-08, 17:31:48",
-      "https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar"
-    ],
-    [
-      "Rational Rendering and Floating Bar",
-      "https://iquilezles.org/articles/floatingbar/"
-    ]
-  ],
-  [
-    [
       "2023-05-08, 17:26:10",
       "https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released"
     ],
@@ -237,16 +247,6 @@
     [
       "On Custom-Width Integer Types",
       "https://alic.dev/blog/custom-bitwidth.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 09:31:30",
-      "https://lobste.rs/s/0l25al/spacetraders_api_based_game"
-    ],
-    [
-      "SpaceTraders: an API based game",
-      "https://spacetraders.io/"
     ]
   ]
 ]
