@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 16:48:32](https://lobste.rs/s/0sk8gw/not_what_you_ve_signed_up_for_compromising) - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)

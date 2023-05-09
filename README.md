@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 16:48:32](https://lobste.rs/s/0sk8gw/not_what_you_ve_signed_up_for_compromising) - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
@@ -9,7 +10,6 @@
 * [2023-05-09, 08:27:12](https://lobste.rs/s/dppdld/architecture_applications_apollo) - [The Architecture and Applications of the Apollo Domain](https://cl-pdx.com/static/The-Apollo-Domain-Operating-System.pdf)
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
-* [2023-05-08, 23:25:59](https://lobste.rs/s/gambhc/freebsd_journal_2023_03_04_embedded) - [FreeBSD Journal - 2023/03-04 - Embedded](https://freebsdfoundation.org/past-issues/embedded/)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
