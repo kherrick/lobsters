@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 10:33:27](https://lobste.rs/s/5iiq4j/ai_personas_talk_chatgpt) - [AI Personas to Talk to in ChatGpt](https://www.aidemos.info/ai-personas-to-talk-to-in-chatgpt/)
 * [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
 * [2023-05-09, 09:18:04](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties) - [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 * [2023-05-09, 08:27:12](https://lobste.rs/s/dppdld/architecture_applications_apollo) - [The Architecture and Applications of the Apollo Domain](https://cl-pdx.com/static/The-Apollo-Domain-Operating-System.pdf)
