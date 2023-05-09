@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 20:39:36](https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its) - [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 * [2023-05-09, 20:09:45](https://lobste.rs/s/fjlvpw/curse_blessings_dynamic_sql) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
@@ -19,7 +20,6 @@
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 * [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
-* [2023-05-08, 19:29:16](https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website) - [SQRL is an open standard for secure website login and authentication](https://en.m.wikipedia.org/wiki/SQRL)
 * [2023-05-08, 17:31:48](https://lobste.rs/s/rjjpyo/rational_rendering_floating_bar) - [Rational Rendering and Floating Bar](https://iquilezles.org/articles/floatingbar/)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)

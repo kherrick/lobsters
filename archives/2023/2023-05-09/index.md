@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 20:39:36](https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its) - [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 * [2023-05-09, 20:09:45](https://lobste.rs/s/fjlvpw/curse_blessings_dynamic_sql) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
