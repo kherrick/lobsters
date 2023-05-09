@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 17:30:41](https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2) - [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
+* [2023-05-09, 17:28:09](https://lobste.rs/s/xz9bcn/cover_craft_dust_covers_disaster) - [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)
+* [2023-05-09, 17:25:00](https://lobste.rs/s/l1oefi/language_models_can_explain_neurons) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 16:48:32](https://lobste.rs/s/0sk8gw/not_what_you_ve_signed_up_for_compromising) - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 15:00:33](https://lobste.rs/s/ldamqv/story_redis_its_creator_antirez) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
