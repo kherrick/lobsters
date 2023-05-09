@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 22:48:21](https://lobste.rs/s/ovtnys/firefox_113_0) - [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
 * [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
 * [2023-05-09, 22:26:19](https://lobste.rs/s/rgohq5/at_protocol_is_most_obtuse_crock_s) - [The AT protocol is the most obtuse crock of s***](https://urbanists.social/@sam/110339902538138997)
 * [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_more) - [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
