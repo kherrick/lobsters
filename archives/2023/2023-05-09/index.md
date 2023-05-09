@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
+* [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
 * [2023-05-09, 17:30:41](https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2) - [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
 * [2023-05-09, 17:28:09](https://lobste.rs/s/xz9bcn/cover_craft_dust_covers_disaster) - [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)

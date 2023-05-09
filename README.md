@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
+* [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
 * [2023-05-09, 17:30:41](https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2) - [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
 * [2023-05-09, 17:28:09](https://lobste.rs/s/xz9bcn/cover_craft_dust_covers_disaster) - [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)
@@ -11,7 +13,6 @@
 * [2023-05-09, 14:17:19](https://lobste.rs/s/defoca/how_omnipaxos_handles_partial) - [How OmniPaxos handles partial connectivity - and why other protocols can’t](https://omnipaxos.com/blog/how-omnipaxos-handles-partial-connectivity-and-why-other-protocols-cant/)
 * [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
 * [2023-05-09, 09:18:04](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties) - [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
-* [2023-05-09, 08:27:12](https://lobste.rs/s/dppdld/architecture_applications_apollo) - [The Architecture and Applications of the Apollo Domain](https://cl-pdx.com/static/The-Apollo-Domain-Operating-System.pdf)
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
@@ -22,7 +23,6 @@
 * [2023-05-08, 17:01:49](https://lobste.rs/s/yrhcr0/text_elite) - [Text Elite](http://www.elitehomepage.org/text/index.htm)
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
-* [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 
