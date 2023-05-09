@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
 * [2023-05-09, 17:30:41](https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2) - [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
 * [2023-05-09, 17:28:09](https://lobste.rs/s/xz9bcn/cover_craft_dust_covers_disaster) - [Cover Craft Dust Covers - Disaster Insurance. Protect your hardware from the unexpected](https://computeradsfromthepast.substack.com/p/cover-craft-dust-covers)
 * [2023-05-09, 17:25:00](https://lobste.rs/s/l1oefi/language_models_can_explain_neurons) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
@@ -22,7 +23,6 @@
 * [2023-05-08, 14:27:24](https://lobste.rs/s/7zb227/breaking_semver_rust_by_adding_private) - [Breaking semver in Rust by adding a private type, or by adding an import](https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/)
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 * [2023-05-08, 13:15:10](https://lobste.rs/s/kult0i/different_approaches_http_routing_go) - [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
-* [2023-05-08, 12:09:33](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zkzsue/what_are_you_doing_this_week)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 
