@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-09, 20:39:36",
+      "https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its"
+    ],
+    [
+      "Implementing Vale's Region Borrowing, and its Unexpected Quest",
+      "https://verdagon.dev/blog/making-regions-part-2-generics"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 20:09:45",
       "https://lobste.rs/s/fjlvpw/curse_blessings_dynamic_sql"
     ],
@@ -187,16 +197,6 @@
     [
       "Why your TCP-based VPN stutters (and how to fix it)",
       "https://blog.carldong.me/2023/05/03/why-do-vpns.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 19:29:16",
-      "https://lobste.rs/s/tid0t4/sqrl_is_open_standard_for_secure_website"
-    ],
-    [
-      "SQRL is an open standard for secure website login and authentication",
-      "https://en.m.wikipedia.org/wiki/SQRL"
     ]
   ],
   [
