@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-09, 08:27:12](https://lobste.rs/s/dppdld/architecture_applications_apollo) - [The Architecture and Applications of the Apollo Domain](https://cl-pdx.com/static/The-Apollo-Domain-Operating-System.pdf)
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-09, 00:04:55](https://lobste.rs/s/blpfqo/fossy_2023_call_for_proposals) - [FOSSY 2023 | Call for Proposals](https://2023.fossy.us/call-for-proposals/)
@@ -22,7 +23,6 @@
 * [2023-05-08, 10:20:42](https://lobste.rs/s/fdh9dn/setting_up_hetzner_arm_instances_with_for) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-08, 09:31:30](https://lobste.rs/s/0l25al/spacetraders_api_based_game) - [SpaceTraders: an API based game](https://spacetraders.io/)
 * [2023-05-08, 08:11:39](https://lobste.rs/s/wm99xo/bluesky_is_scam) - [Bluesky is a scam](https://fiatjaf.com/ab1127fb.html)
-* [2023-05-08, 07:41:56](https://lobste.rs/s/uvcinl/avoiding_merge_trap) - [Avoiding the merge trap](https://lwn.net/Articles/926240/)
 * [2023-05-08, 04:54:51](https://lobste.rs/s/qbeqio/how_capabilities_work_austral) - [How Capabilities Work in Austral](https://borretti.me/article/how-capabilities-work-austral)
 * [2023-05-07, 12:54:36](https://lobste.rs/s/vz7mq2/hardening_macos_updated_for_macos) - [Hardening macOS (updated for macOS Ventura)](https://www.bejarano.io/hardening-macos/)
 
