@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:51:26](https://lobste.rs/s/q2abjc/various_restoration_techniques_using) - [Various Restoration Techniques Using PostgreSQL Point-In-Time Recovery](https://www.highgo.ca/2023/05/09/various-restoration-techniques-using-postgresql-point-in-time-recovery/)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
 * [2023-05-10, 06:04:10](https://lobste.rs/s/cvb2lz/is_this_dynamic_cast_needed) - [Is this dynamic_cast needed?](https://www.sandordargo.com/blog/2023/05/10/is-this-dynamic-cast-needed)
