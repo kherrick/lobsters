@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 06:04:10](https://lobste.rs/s/cvb2lz/is_this_dynamic_cast_needed) - [Is this dynamic_cast needed?](https://www.sandordargo.com/blog/2023/05/10/is-this-dynamic-cast-needed)
 * [2023-05-10, 04:20:40](https://lobste.rs/s/ncqfr6/ssh_quick_easy_login_setup) - [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
 * [2023-05-10, 03:13:25](https://lobste.rs/s/avyb9m/how_succeed_open_source_without_really) - [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 * [2023-05-10, 01:10:51](https://lobste.rs/s/oaascp/inpla_interaction_nets_as_programming) - [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
@@ -22,7 +23,6 @@
 * [2023-05-09, 08:24:23](https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb) - [Fitting millions of documents in 128 TB of virtual memory](https://blog.meilisearch.com/dynamic-virtual-address-management/)
 * [2023-05-09, 07:16:12](https://lobste.rs/s/px9f9s/assemblers) - [Assemblers](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-08, 21:32:11](https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with) - [Which Go router should I use? (with flowchart)](https://www.alexedwards.net/blog/which-go-router-should-i-use)
-* [2023-05-08, 20:49:37](https://lobste.rs/s/owhohx/why_your_tcp_based_vpn_stutters_how_fix_it) - [Why your TCP-based VPN stutters (and how to fix it)](https://blog.carldong.me/2023/05/03/why-do-vpns.html)
 * [2023-05-08, 17:26:10](https://lobste.rs/s/b1wj1p/spritely_goblins_v0_11_0_released) - [Spritely Goblins v0.11.0 released, contains time travel distributed debugger](https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html)
 * [2023-05-08, 13:58:26](https://lobste.rs/s/vq4ici/on_custom_width_integer_types) - [On Custom-Width Integer Types](https://alic.dev/blog/custom-bitwidth.html)
 
