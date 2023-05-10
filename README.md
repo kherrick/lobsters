@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-05-10, 23:17:00](https://lobste.rs/s/ngg64e/rustless_sudo_running_some_suid_binaries) - [Rustless sudo: running (some) suid binaries safely](https://medium.com/@anton_samokhvalov/rustless-sudo-exploring-secure-alternatives-for-suid-binaries-4e46391de292)
-* [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful) - [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
+* [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful_2014) - [Local state is harmful (2014)](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
