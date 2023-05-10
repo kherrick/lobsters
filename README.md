@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 19:56:44](https://lobste.rs/s/6p4nth/announcing_studio_bot_ai_powered_coding) - [Announcing Studio Bot, an AI-powered coding assistant](https://android-developers.googleblog.com/2023/05/android-studio-io-23-announcing-studio-bot.html)
 * [2023-05-10, 19:29:18](https://lobste.rs/s/96r1dj/palm_2_technical_report) - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 18:04:21](https://lobste.rs/s/vtujbo/google_ai_palm_2) - [Google AI PaLM 2](https://ai.google/discover/palm2/)
@@ -18,7 +19,6 @@
 * [2023-05-10, 01:10:51](https://lobste.rs/s/oaascp/inpla_interaction_nets_as_programming) - [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
 * [2023-05-09, 22:48:21](https://lobste.rs/s/ovtnys/firefox_113_0) - [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
 * [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
-* [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_more) - [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)

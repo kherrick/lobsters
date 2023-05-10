@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 19:56:44](https://lobste.rs/s/6p4nth/announcing_studio_bot_ai_powered_coding) - [Announcing Studio Bot, an AI-powered coding assistant](https://android-developers.googleblog.com/2023/05/android-studio-io-23-announcing-studio-bot.html)
 * [2023-05-10, 19:29:18](https://lobste.rs/s/96r1dj/palm_2_technical_report) - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 18:04:21](https://lobste.rs/s/vtujbo/google_ai_palm_2) - [Google AI PaLM 2](https://ai.google/discover/palm2/)
