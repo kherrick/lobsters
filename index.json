@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 18:16:19",
+      "https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better"
+    ],
+    [
+      "Binary formats and protocols: LTV is better than TLV",
+      "https://www.devever.net/~hl/ltv"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 18:04:21",
       "https://lobste.rs/s/vtujbo/google_ai_palm_2"
     ],
@@ -127,16 +137,6 @@
     [
       "mop3: A Mastodon to POP3 Gateway",
       "https://github.com/nkizz/mop3"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 04:20:40",
-      "https://lobste.rs/s/ncqfr6/ssh_quick_easy_login_setup"
-    ],
-    [
-      "SSH quick and easy login setup",
-      "https://cap5.nl/ssh-quick-and-easy-login-setup/"
     ]
   ],
   [
