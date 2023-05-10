@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 12:35:19",
+      "https://lobste.rs/s/jkk0oi/julia_1_9_highlights"
+    ],
+    [
+      "Julia 1.9 Highlights",
+      "https://julialang.org/blog/2023/04/julia-1.9-highlights/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 10:57:44",
       "https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language"
     ],
@@ -177,16 +187,6 @@
     [
       "Odin Programming Language",
       "https://odin-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 17:30:41",
-      "https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2"
-    ],
-    [
-      "How we built Network Analytics v2",
-      "https://blog.cloudflare.com/building-network-analytics-v2/"
     ]
   ],
   [
