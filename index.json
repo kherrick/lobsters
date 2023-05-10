@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 08:47:26",
+      "https://lobste.rs/s/vpsoux/subset_apl_subset_compiling_common_lisp"
+    ],
+    [
+      "A subset of APL subset compiling to Common Lisp",
+      "https://github.com/phantomics/april"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 07:26:58",
       "https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern"
     ],
@@ -227,16 +237,6 @@
     [
       "Assemblers",
       "https://maskray.me/blog/2023-05-08-assemblers"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 21:32:11",
-      "https://lobste.rs/s/suiwf0/which_go_router_should_i_use_with"
-    ],
-    [
-      "Which Go router should I use? (with flowchart)",
-      "https://www.alexedwards.net/blog/which-go-router-should-i-use"
     ]
   ],
   [
