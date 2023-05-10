@@ -1,8 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-10, 21:06:46](https://lobste.rs/s/7djtcg/announcing_dart_3) - [Announcing Dart 3](https://medium.com/dartlang/announcing-dart-3-53f065a10635)
-* [2023-05-10, 19:56:44](https://lobste.rs/s/6p4nth/announcing_studio_bot_ai_powered_coding) - [Announcing Studio Bot, an AI-powered coding assistant](https://android-developers.googleblog.com/2023/05/android-studio-io-23-announcing-studio-bot.html)
-* [2023-05-10, 19:29:18](https://lobste.rs/s/96r1dj/palm_2_technical_report) - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
+* [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful) - [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
+* [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
 * [2023-05-10, 16:54:06](https://lobste.rs/s/puwn1o/hunting_russian_intelligence_snake) - [Hunting Russian Intelligence “Snake” Malware](https://www.cyber.gov.au/about-us/advisories/hunting-russian-intelligence-snake-malware)
@@ -13,6 +12,7 @@
 * [2023-05-10, 10:57:44](https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language) - [llm: Run inference for Large Language Models on CPU, with Rust](https://github.com/rustformers/llm)
 * [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
+* [2023-05-10, 08:47:26](https://lobste.rs/s/vpsoux/subset_apl_compiling_common_lisp) - [A subset of APL compiling to Common Lisp](https://github.com/phantomics/april)
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
 * [2023-05-10, 03:13:25](https://lobste.rs/s/avyb9m/how_succeed_open_source_without_really) - [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
