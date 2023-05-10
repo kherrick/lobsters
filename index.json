@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 07:26:58",
+      "https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern"
+    ],
+    [
+      "Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team",
+      "https://github.com/rust-lang/compiler-team/issues/631"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 06:51:26",
       "https://lobste.rs/s/q2abjc/various_restoration_techniques_using"
     ],
@@ -237,16 +247,6 @@
     [
       "Spritely Goblins v0.11.0 released, contains time travel distributed debugger",
       "https://spritely.institute/news/spritely-goblins-v0110-released-time-travel-distributed-debugging-and-more.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 13:58:26",
-      "https://lobste.rs/s/vq4ici/on_custom_width_integer_types"
-    ],
-    [
-      "On Custom-Width Integer Types",
-      "https://alic.dev/blog/custom-bitwidth.html"
     ]
   ]
 ]
