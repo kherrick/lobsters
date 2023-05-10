@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 18:04:21](https://lobste.rs/s/vtujbo/google_ai_palm_2) - [Google AI PaLM 2](https://ai.google/discover/palm2/)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
 * [2023-05-10, 16:54:06](https://lobste.rs/s/puwn1o/hunting_russian_intelligence_snake) - [Hunting Russian Intelligence “Snake” Malware](https://www.cyber.gov.au/about-us/advisories/hunting-russian-intelligence-snake-malware)

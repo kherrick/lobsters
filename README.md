@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 18:04:21](https://lobste.rs/s/vtujbo/google_ai_palm_2) - [Google AI PaLM 2](https://ai.google/discover/palm2/)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
 * [2023-05-10, 16:54:06](https://lobste.rs/s/puwn1o/hunting_russian_intelligence_snake) - [Hunting Russian Intelligence “Snake” Malware](https://www.cyber.gov.au/about-us/advisories/hunting-russian-intelligence-snake-malware)
@@ -13,7 +14,6 @@
 * [2023-05-10, 08:47:26](https://lobste.rs/s/vpsoux/subset_apl_compiling_common_lisp) - [A subset of APL compiling to Common Lisp](https://github.com/phantomics/april)
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
-* [2023-05-10, 04:20:40](https://lobste.rs/s/ncqfr6/ssh_quick_easy_login_setup) - [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
 * [2023-05-10, 03:13:25](https://lobste.rs/s/avyb9m/how_succeed_open_source_without_really) - [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 * [2023-05-10, 01:10:51](https://lobste.rs/s/oaascp/inpla_interaction_nets_as_programming) - [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
 * [2023-05-09, 22:48:21](https://lobste.rs/s/ovtnys/firefox_113_0) - [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
