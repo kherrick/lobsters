@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-05-10, 09:46:53",
+      "https://lobste.rs/s/d9fezb/languages_pre_fortran"
+    ],
+    [
+      "Languages Pre-Fortran",
+      "https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 09:42:37",
       "https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin"
     ],
@@ -237,16 +247,6 @@
     [
       "An Introduction to TLA+ and Its Use in Parties",
       "https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 08:24:23",
-      "https://lobste.rs/s/3swdng/fitting_millions_documents_128_tb"
-    ],
-    [
-      "Fitting millions of documents in 128 TB of virtual memory",
-      "https://blog.meilisearch.com/dynamic-virtual-address-management/"
     ]
   ]
 ]
