@@ -22,10 +22,10 @@
   [
     [
       "2023-05-10, 08:47:26",
-      "https://lobste.rs/s/vpsoux/subset_apl_subset_compiling_common_lisp"
+      "https://lobste.rs/s/vpsoux/subset_apl_compiling_common_lisp"
     ],
     [
-      "A subset of APL subset compiling to Common Lisp",
+      "A subset of APL compiling to Common Lisp",
       "https://github.com/phantomics/april"
     ]
   ],
