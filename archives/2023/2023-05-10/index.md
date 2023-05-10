@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
 * [2023-05-10, 06:04:10](https://lobste.rs/s/cvb2lz/is_this_dynamic_cast_needed) - [Is this dynamic_cast needed?](https://www.sandordargo.com/blog/2023/05/10/is-this-dynamic-cast-needed)
 * [2023-05-10, 04:20:40](https://lobste.rs/s/ncqfr6/ssh_quick_easy_login_setup) - [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
 * [2023-05-10, 04:09:53](https://lobste.rs/s/wghxun/bubbles_evilbrags) - [Bubbles and evilbrags](https://ioc.exchange/@invisv/110342357303579856)
