@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 12:35:19](https://lobste.rs/s/jkk0oi/julia_1_9_highlights) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 10:57:44](https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language) - [llm: Run inference for Large Language Models on CPU, with Rust](https://github.com/rustformers/llm)
 * [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
@@ -18,7 +19,6 @@
 * [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
-* [2023-05-09, 17:30:41](https://lobste.rs/s/wol41i/how_we_built_network_analytics_v2) - [How we built Network Analytics v2](https://blog.cloudflare.com/building-network-analytics-v2/)
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-05-09, 14:26:30](https://lobste.rs/s/juyhvd/seven_specification_ur_languages) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 09:36:31](https://lobste.rs/s/paywf7/interrupt_safe_ring_buffer_bare_metal) - [Interrupt Safe Ring Buffer: Bare Metal Programming Series](https://www.youtube.com/watch?v=uIJnATS9j_0)
