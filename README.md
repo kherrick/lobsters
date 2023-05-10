@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 18:04:21](https://lobste.rs/s/vtujbo/google_ai_palm_2) - [Google AI PaLM 2](https://ai.google/discover/palm2/)
+* [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
 * [2023-05-10, 16:54:06](https://lobste.rs/s/puwn1o/hunting_russian_intelligence_snake) - [Hunting Russian Intelligence “Snake” Malware](https://www.cyber.gov.au/about-us/advisories/hunting-russian-intelligence-snake-malware)
 * [2023-05-10, 16:20:10](https://lobste.rs/s/vc3mzf/vulkan_video_decoding) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-10, 14:06:17](https://lobste.rs/s/vjwhwu/how_are_kubernetes_volumeattachments) - [How are Kubernetes VolumeAttachments Named?](https://sklar.rocks/k8s-volumeattachment-names/)
@@ -17,9 +19,7 @@
 * [2023-05-09, 22:48:21](https://lobste.rs/s/ovtnys/firefox_113_0) - [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
 * [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
 * [2023-05-09, 21:38:53](https://lobste.rs/s/glqqyp/python_s_missing_batteries_more) - [Python's Missing Batteries: More Libraries](https://martinheinz.dev/blog/96)
-* [2023-05-09, 20:39:36](https://lobste.rs/s/a6q04h/implementing_vale_s_region_borrowing_its) - [Implementing Vale's Region Borrowing, and its Unexpected Quest](https://verdagon.dev/blog/making-regions-part-2-generics)
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
-* [2023-05-09, 19:06:57](https://lobste.rs/s/x5e4a7/chaos_communication_camp_2023_call_for) - [Chaos Communication Camp 2023 - Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
 * [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
