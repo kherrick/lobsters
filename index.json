@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 10:57:44",
+      "https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language"
+    ],
+    [
+      "llm: Run inference for Large Language Models on CPU, with Rust",
+      "https://github.com/rustformers/llm"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 09:46:53",
       "https://lobste.rs/s/d9fezb/languages_pre_fortran"
     ],
@@ -57,16 +67,6 @@
     [
       "mop3: A Mastodon to POP3 Gateway",
       "https://github.com/nkizz/mop3"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 06:04:10",
-      "https://lobste.rs/s/cvb2lz/is_this_dynamic_cast_needed"
-    ],
-    [
-      "Is this dynamic_cast needed?",
-      "https://www.sandordargo.com/blog/2023/05/10/is-this-dynamic-cast-needed"
     ]
   ],
   [
