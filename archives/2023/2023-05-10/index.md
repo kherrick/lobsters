@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 23:17:00](https://lobste.rs/s/ngg64e/rustless_sudo_running_some_suid_binaries) - [Rustless sudo: running (some) suid binaries safely](https://medium.com/@anton_samokhvalov/rustless-sudo-exploring-secure-alternatives-for-suid-binaries-4e46391de292)
 * [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful) - [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 21:06:46](https://lobste.rs/s/7djtcg/announcing_dart_3) - [Announcing Dart 3](https://medium.com/dartlang/announcing-dart-3-53f065a10635)
