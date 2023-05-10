@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 10:57:44](https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language) - [llm: Run inference for Large Language Models on CPU, with Rust](https://github.com/rustformers/llm)
 * [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
 * [2023-05-10, 08:47:26](https://lobste.rs/s/vpsoux/subset_apl_subset_compiling_common_lisp) - [A subset of APL subset compiling to Common Lisp](https://github.com/phantomics/april)

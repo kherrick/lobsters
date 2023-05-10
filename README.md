@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-10, 10:57:44](https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language) - [llm: Run inference for Large Language Models on CPU, with Rust](https://github.com/rustformers/llm)
 * [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
 * [2023-05-10, 08:47:26](https://lobste.rs/s/vpsoux/subset_apl_compiling_common_lisp) - [A subset of APL compiling to Common Lisp](https://github.com/phantomics/april)
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:51:26](https://lobste.rs/s/q2abjc/various_restoration_techniques_using) - [Various Restoration Techniques Using PostgreSQL Point-In-Time Recovery](https://www.highgo.ca/2023/05/09/various-restoration-techniques-using-postgresql-point-in-time-recovery/)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
-* [2023-05-10, 06:04:10](https://lobste.rs/s/cvb2lz/is_this_dynamic_cast_needed) - [Is this dynamic_cast needed?](https://www.sandordargo.com/blog/2023/05/10/is-this-dynamic-cast-needed)
 * [2023-05-10, 04:20:40](https://lobste.rs/s/ncqfr6/ssh_quick_easy_login_setup) - [SSH quick and easy login setup](https://cap5.nl/ssh-quick-and-easy-login-setup/)
 * [2023-05-10, 03:13:25](https://lobste.rs/s/avyb9m/how_succeed_open_source_without_really) - [How to Succeed in Open Source Without Really Trying (Really)](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 * [2023-05-10, 01:10:51](https://lobste.rs/s/oaascp/inpla_interaction_nets_as_programming) - [Inpla: Interaction nets as a programming language](https://github.com/inpla/inpla)
