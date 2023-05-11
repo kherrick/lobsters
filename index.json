@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 10:17:28",
+      "https://lobste.rs/s/fvkhdo/xerox_parc_archive"
+    ],
+    [
+      "The Xerox PARC Archive",
+      "https://info.computerhistory.org/xerox-parc-archive"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 09:51:25",
       "https://lobste.rs/s/men8vf/open_closed_omission_collapse"
     ],
@@ -87,16 +97,6 @@
     [
       "The 2023 Developer Survey is now live",
       "https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 23:17:00",
-      "https://lobste.rs/s/ngg64e/rustless_sudo_running_some_suid_binaries"
-    ],
-    [
-      "Rustless sudo: running (some) suid binaries safely",
-      "https://medium.com/@anton_samokhvalov/rustless-sudo-exploring-secure-alternatives-for-suid-binaries-4e46391de292"
     ]
   ],
   [
