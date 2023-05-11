@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 09:51:25",
+      "https://lobste.rs/s/men8vf/open_closed_omission_collapse"
+    ],
+    [
+      "Open and Closed, Omission and Collapse",
+      "https://brooker.co.za/blog/2023/05/10/open-closed.html"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 09:36:56",
       "https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem"
     ],
@@ -237,16 +247,6 @@
     [
       "Is sequential IO dead in the era of the NVMe drive?",
       "https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 17:53:02",
-      "https://lobste.rs/s/95gumw/odin_programming_language"
-    ],
-    [
-      "Odin Programming Language",
-      "https://odin-lang.org/"
     ]
   ]
 ]
