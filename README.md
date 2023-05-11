@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 10:17:28](https://lobste.rs/s/fvkhdo/xerox_parc_archive) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 09:51:25](https://lobste.rs/s/men8vf/open_closed_omission_collapse) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
@@ -9,7 +10,6 @@
 * [2023-05-11, 00:25:32](https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails) - [4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)](https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
-* [2023-05-10, 23:17:00](https://lobste.rs/s/ngg64e/rustless_sudo_running_some_suid_binaries) - [Rustless sudo: running (some) suid binaries safely](https://medium.com/@anton_samokhvalov/rustless-sudo-exploring-secure-alternatives-for-suid-binaries-4e46391de292)
 * [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful_2014) - [Local state is harmful (2014)](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
