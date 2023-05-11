@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-11, 00:25:32",
+      "https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails"
+    ],
+    [
+      "4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)",
+      "https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 00:23:08",
+      "https://lobste.rs/s/xlelua/attractive_nuisances_software_design"
+    ],
+    [
+      "Attractive nuisances in software design",
+      "https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 00:20:01",
+      "https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live"
+    ],
+    [
+      "The 2023 Developer Survey is now live",
+      "https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 23:17:00",
       "https://lobste.rs/s/ngg64e/rustless_sudo_running_some_suid_binaries"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-05-10, 09:46:53",
-      "https://lobste.rs/s/d9fezb/languages_pre_fortran"
-    ],
-    [
-      "Languages Pre-Fortran",
-      "https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 09:42:37",
       "https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin"
     ],
@@ -157,16 +177,6 @@
     [
       "How to Succeed in Open Source Without Really Trying (Really)",
       "https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 01:10:51",
-      "https://lobste.rs/s/oaascp/inpla_interaction_nets_as_programming"
-    ],
-    [
-      "Inpla: Interaction nets as a programming language",
-      "https://github.com/inpla/inpla"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Understanding ActivityPub",
       "https://seb.jambor.dev/posts/understanding-activitypub/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 14:26:30",
-      "https://lobste.rs/s/juyhvd/seven_specification_ur_languages"
-    ],
-    [
-      "The seven specification ur-languages",
-      "https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/"
     ]
   ],
   [
