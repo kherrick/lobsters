@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 * [2023-05-11, 06:46:42](https://lobste.rs/s/qubhc9/how_fix_transaction_id_wraparound) - [How to Fix Transaction ID Wraparound](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
 * [2023-05-11, 06:29:28](https://lobste.rs/s/ttlm7n/memoriam_ian_hacking_1936_2023) - [In memoriam: Ian Hacking (1936–2023)](https://philosophy.utoronto.ca/news/in-memoriam-ian-hacking-1936-2023/)
 * [2023-05-11, 05:39:30](https://lobste.rs/s/l2he5p/federal_appeals_court_gets_it_fair_use) - [Federal Appeals Court Gets It: Fair Use Protects Security Research Tools](https://www.eff.org/deeplinks/2023/05/federal-appeals-court-gets-it-fair-use-protects-security-research-tools)
