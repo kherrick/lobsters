@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
 * [2023-05-11, 21:15:10](https://lobste.rs/s/d2ryva/problems_harder_than_np_complete) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
 * [2023-05-11, 20:44:02](https://lobste.rs/s/wrqfvg/updated_gpg_key_for_signing_firefox) - [Updated GPG key for signing Firefox Releases](https://blog.mozilla.org/security/2023/05/11/updated-gpg-key-for-signing-firefox-releases/)
