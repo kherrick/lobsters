@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 15:55:57](https://lobste.rs/s/yfsml1/free_software_is_commune_why) - [Free Software is a commune…but why?](https://defcon.social/@corbin/110350743851899680)
 * [2023-05-11, 15:39:05](https://lobste.rs/s/xut5ng/fast_collisions_for_large_editable) - [Fast Collisions for Large Editable Vehicles](https://brickadia.com/blog/devlog-4/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 11:28:23](https://lobste.rs/s/xta7ph/state_dns_rebinding_2023) - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
@@ -18,7 +19,6 @@
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
-* [2023-05-10, 14:06:17](https://lobste.rs/s/vjwhwu/how_are_kubernetes_volumeattachments) - [How are Kubernetes VolumeAttachments Named?](https://sklar.rocks/k8s-volumeattachment-names/)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 12:35:19](https://lobste.rs/s/jkk0oi/julia_1_9_highlights) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)

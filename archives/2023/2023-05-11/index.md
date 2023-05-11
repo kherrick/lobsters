@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 15:55:57](https://lobste.rs/s/yfsml1/free_software_is_commune_why) - [Free Software is a commune…but why?](https://defcon.social/@corbin/110350743851899680)
 * [2023-05-11, 15:39:05](https://lobste.rs/s/xut5ng/fast_collisions_for_large_editable) - [Fast Collisions for Large Editable Vehicles](https://brickadia.com/blog/devlog-4/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 11:28:23](https://lobste.rs/s/xta7ph/state_dns_rebinding_2023) - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
