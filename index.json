@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 11:05:12",
+      "https://lobste.rs/s/ljz1vt/coloring_r_s_blind_spot"
+    ],
+    [
+      "Coloring in R's blind spot",
+      "https://www.zeileis.org/news/coloring/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 10:34:09",
       "https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully"
     ],
@@ -237,16 +247,6 @@
     [
       "Alpine 3.18.0 released",
       "https://alpinelinux.org/posts/Alpine-3.18.0-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:06:09",
-      "https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive"
-    ],
-    [
-      "Is sequential IO dead in the era of the NVMe drive?",
-      "https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive"
     ]
   ]
 ]
