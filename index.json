@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 09:36:56",
+      "https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem"
+    ],
+    [
+      "bcachefs - a new COW filesystem",
+      "https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 08:13:45",
       "https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults"
     ],
@@ -197,16 +207,6 @@
     [
       "mop3: A Mastodon to POP3 Gateway",
       "https://github.com/nkizz/mop3"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 03:13:25",
-      "https://lobste.rs/s/avyb9m/how_succeed_open_source_without_really"
-    ],
-    [
-      "How to Succeed in Open Source Without Really Trying (Really)",
-      "https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj"
     ]
   ],
   [
