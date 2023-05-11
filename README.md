@@ -10,7 +10,7 @@
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 * [2023-05-11, 06:46:42](https://lobste.rs/s/qubhc9/how_fix_transaction_id_wraparound) - [How to Fix Transaction ID Wraparound](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
 * [2023-05-11, 05:39:30](https://lobste.rs/s/l2he5p/federal_appeals_court_gets_it_fair_use) - [Federal Appeals Court Gets It: Fair Use Protects Security Research Tools](https://www.eff.org/deeplinks/2023/05/federal-appeals-court-gets-it-fair-use-protects-security-research-tools)
-* [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters Handmade Seattle 2022](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
+* [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
 * [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful_2014) - [Local state is harmful (2014)](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
