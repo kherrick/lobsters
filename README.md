@@ -17,7 +17,7 @@
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 17:53:07](https://lobste.rs/s/iqjwos/slitherbot_snake_robot_with_3d_printed) - [Slitherbot: A Snake robot with 3D printed skin actuated by micro-servos](https://hackaday.io/project/178463-slitherbot)
-* [2023-05-10, 16:54:06](https://lobste.rs/s/puwn1o/hunting_russian_intelligence_snake) - [Hunting Russian Intelligence “Snake” Malware](https://www.cyber.gov.au/about-us/advisories/hunting-russian-intelligence-snake-malware)
+* [2023-05-10, 16:20:10](https://lobste.rs/s/vc3mzf/vulkan_video_decoding) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-10, 14:06:17](https://lobste.rs/s/vjwhwu/how_are_kubernetes_volumeattachments) - [How are Kubernetes VolumeAttachments Named?](https://sklar.rocks/k8s-volumeattachment-names/)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 12:35:19](https://lobste.rs/s/jkk0oi/julia_1_9_highlights) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
