@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 21:15:10](https://lobste.rs/s/d2ryva/problems_harder_than_np_complete) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
+* [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
 * [2023-05-11, 20:44:02](https://lobste.rs/s/wrqfvg/updated_gpg_key_for_signing_firefox) - [Updated GPG key for signing Firefox Releases](https://blog.mozilla.org/security/2023/05/11/updated-gpg-key-for-signing-firefox-releases/)
 * [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 17:51:28](https://lobste.rs/s/iem3oe/wzprof_cross_language_profiler_using) - [wzprof, a cross-language profiler using WebAssembly](https://github.com/stealthrocket/wzprof)
@@ -7,10 +9,8 @@
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 16:12:12](https://lobste.rs/s/cibjhg/it_s_not_just_cloud_costs_are_out_control) - [It's not just cloud costs that are out of control](https://world.hey.com/dhh/it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c)
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
-* [2023-05-11, 15:56:50](https://lobste.rs/s/mtxay2/what_use_cases_external_tools_would_be) - [What use cases and external tools would be affected if PostgreSQL switched to (very) large files?](https://twitter.com/MengTangmu/status/1653884820236410880)
 * [2023-05-11, 15:39:05](https://lobste.rs/s/xut5ng/fast_collisions_for_large_editable) - [Fast Collisions for Large Editable Vehicles](https://brickadia.com/blog/devlog-4/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
-* [2023-05-11, 11:28:23](https://lobste.rs/s/xta7ph/state_dns_rebinding_2023) - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
 * [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 10:17:28](https://lobste.rs/s/fvkhdo/xerox_parc_archive) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)

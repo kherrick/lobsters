@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 21:15:10](https://lobste.rs/s/d2ryva/problems_harder_than_np_complete) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
+* [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
 * [2023-05-11, 20:44:02](https://lobste.rs/s/wrqfvg/updated_gpg_key_for_signing_firefox) - [Updated GPG key for signing Firefox Releases](https://blog.mozilla.org/security/2023/05/11/updated-gpg-key-for-signing-firefox-releases/)
 * [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 17:51:28](https://lobste.rs/s/iem3oe/wzprof_cross_language_profiler_using) - [wzprof, a cross-language profiler using WebAssembly](https://github.com/stealthrocket/wzprof)
