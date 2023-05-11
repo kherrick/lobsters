@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 11:28:23](https://lobste.rs/s/xta7ph/state_dns_rebinding_2023) - [State of DNS Rebinding in 2023](https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/)
 * [2023-05-11, 11:05:12](https://lobste.rs/s/ljz1vt/coloring_r_s_blind_spot) - [Coloring in R's blind spot](https://www.zeileis.org/news/coloring/)
 * [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 10:17:28](https://lobste.rs/s/fvkhdo/xerox_parc_archive) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
@@ -24,7 +25,6 @@
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
 * [2023-05-09, 22:48:21](https://lobste.rs/s/ovtnys/firefox_113_0) - [Firefox  113.0](https://www.mozilla.org/en-US/firefox/113.0/releasenotes/)
-* [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
 
 ## [Archives](archives/index.md)
 
