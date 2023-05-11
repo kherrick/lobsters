@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 10:34:09",
+      "https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully"
+    ],
+    [
+      "The JavaScript Ecosystem is Delightfully Weird",
+      "https://fly.io/blog/js-ecosystem-delightfully-wierd/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 10:17:28",
       "https://lobste.rs/s/fvkhdo/xerox_parc_archive"
     ],
@@ -67,16 +77,6 @@
     [
       "The Craft Behind Crafting Interpreters Handmade Seattle 2022",
       "https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 00:25:32",
-      "https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails"
-    ],
-    [
-      "4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)",
-      "https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html"
     ]
   ],
   [
