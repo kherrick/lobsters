@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 16:58:00](https://lobste.rs/s/capkfc/free_information_third_kind) - [Free Information of the Third Kind](https://larrysanger.org/2023/04/free-information-of-the-third-kind/)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
-* [2023-05-11, 16:12:12](https://lobste.rs/s/cibjhg/it_s_not_just_cloud_costs_are_out_control) - [It's not just cloud costs that are out of control](https://world.hey.com/dhh/it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c)
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 15:56:50](https://lobste.rs/s/mtxay2/what_use_cases_external_tools_would_be) - [What use cases and external tools would be affected if PostgreSQL switched to (very) large files?](https://twitter.com/MengTangmu/status/1653884820236410880)
 * [2023-05-11, 15:39:05](https://lobste.rs/s/xut5ng/fast_collisions_for_large_editable) - [Fast Collisions for Large Editable Vehicles](https://brickadia.com/blog/devlog-4/)

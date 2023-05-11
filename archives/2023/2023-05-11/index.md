@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 16:58:00](https://lobste.rs/s/capkfc/free_information_third_kind) - [Free Information of the Third Kind](https://larrysanger.org/2023/04/free-information-of-the-third-kind/)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 16:12:12](https://lobste.rs/s/cibjhg/it_s_not_just_cloud_costs_are_out_control) - [It's not just cloud costs that are out of control](https://world.hey.com/dhh/it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c)
