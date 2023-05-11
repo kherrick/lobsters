@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 16:48:14",
+      "https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt"
+    ],
+    [
+      "Delimiters won’t save you from prompt injection",
+      "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 16:34:49",
       "https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers"
     ],
@@ -237,16 +247,6 @@
     [
       "mop3: A Mastodon to POP3 Gateway",
       "https://github.com/nkizz/mop3"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 22:48:21",
-      "https://lobste.rs/s/ovtnys/firefox_113_0"
-    ],
-    [
-      "Firefox  113.0",
-      "https://www.mozilla.org/en-US/firefox/113.0/releasenotes/"
     ]
   ]
 ]
