@@ -14,7 +14,6 @@
 * [2023-05-10, 14:06:17](https://lobste.rs/s/vjwhwu/how_are_kubernetes_volumeattachments) - [How are Kubernetes VolumeAttachments Named?](https://sklar.rocks/k8s-volumeattachment-names/)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 12:35:19](https://lobste.rs/s/jkk0oi/julia_1_9_highlights) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
-* [2023-05-10, 10:57:44](https://lobste.rs/s/hwiqdx/llm_run_inference_for_large_language) - [llm: Run inference for Large Language Models on CPU, with Rust](https://github.com/rustformers/llm)
 * [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
@@ -25,6 +24,7 @@
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
+* [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 
 ## [Archives](archives/index.md)
 
