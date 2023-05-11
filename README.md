@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters Handmade Seattle 2022](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:25:32](https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails) - [4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)](https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
@@ -24,7 +25,6 @@
 * [2023-05-09, 19:48:09](https://lobste.rs/s/vtbnwg/erlang_otp_27_0_0_will_no_longer_be_exactly) - [In Erlang/OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
-* [2023-05-09, 09:18:04](https://lobste.rs/s/ry1gda/introduction_tla_its_use_parties) - [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 
 ## [Archives](archives/index.md)
 
