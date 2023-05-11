@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 17:51:28](https://lobste.rs/s/iem3oe/wzprof_cross_language_profiler_using) - [wzprof, a cross-language profiler using WebAssembly](https://github.com/stealthrocket/wzprof)
 * [2023-05-11, 16:58:00](https://lobste.rs/s/capkfc/free_information_third_kind) - [Free Information of the Third Kind](https://larrysanger.org/2023/04/free-information-of-the-third-kind/)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
@@ -24,7 +25,6 @@
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
-* [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
 
 ## [Archives](archives/index.md)
 
