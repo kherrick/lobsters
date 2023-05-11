@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 11:28:23",
+      "https://lobste.rs/s/xta7ph/state_dns_rebinding_2023"
+    ],
+    [
+      "State of DNS Rebinding in 2023",
+      "https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 11:05:12",
       "https://lobste.rs/s/ljz1vt/coloring_r_s_blind_spot"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox  113.0",
       "https://www.mozilla.org/en-US/firefox/113.0/releasenotes/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 22:27:10",
-      "https://lobste.rs/s/ix3x3t/alpine_3_18_0_released"
-    ],
-    [
-      "Alpine 3.18.0 released",
-      "https://alpinelinux.org/posts/Alpine-3.18.0-released.html"
     ]
   ]
 ]
