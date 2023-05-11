@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-05-11, 06:46:42](https://lobste.rs/s/qubhc9/how_fix_transaction_id_wraparound) - [How to Fix Transaction ID Wraparound](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
-* [2023-05-11, 06:29:28](https://lobste.rs/s/ttlm7n/memoriam_ian_hacking_1936_2023) - [In memoriam: Ian Hacking (1936–2023)](https://philosophy.utoronto.ca/news/in-memoriam-ian-hacking-1936-2023/)
 * [2023-05-11, 05:39:30](https://lobste.rs/s/l2he5p/federal_appeals_court_gets_it_fair_use) - [Federal Appeals Court Gets It: Fair Use Protects Security Research Tools](https://www.eff.org/deeplinks/2023/05/federal-appeals-court-gets-it-fair-use-protects-security-research-tools)
 * [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters Handmade Seattle 2022](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:25:32](https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails) - [4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)](https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html)
@@ -17,6 +16,7 @@
 * [2023-05-10, 14:06:17](https://lobste.rs/s/vjwhwu/how_are_kubernetes_volumeattachments) - [How are Kubernetes VolumeAttachments Named?](https://sklar.rocks/k8s-volumeattachment-names/)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 12:35:19](https://lobste.rs/s/jkk0oi/julia_1_9_highlights) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
+* [2023-05-10, 09:46:53](https://lobste.rs/s/d9fezb/languages_pre_fortran) - [Languages Pre-Fortran](https://craftofcoding.wordpress.com/2022/11/04/languages-pre-fortran/)
 * [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
 * [2023-05-10, 07:26:58](https://lobste.rs/s/ofzo9d/experimental_feature_gate_for_extern) - [Experimental feature gate for `extern \"crabi\"` ABI · Issue #631 · rust-lang/compiler-team](https://github.com/rust-lang/compiler-team/issues/631)
 * [2023-05-10, 06:27:55](https://lobste.rs/s/boccap/mop3_mastodon_pop3_gateway) - [mop3: A Mastodon to POP3 Gateway](https://github.com/nkizz/mop3)
