@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-11, 05:39:30](https://lobste.rs/s/l2he5p/federal_appeals_court_gets_it_fair_use) - [Federal Appeals Court Gets It: Fair Use Protects Security Research Tools](https://www.eff.org/deeplinks/2023/05/federal-appeals-court-gets-it-fair-use-protects-security-research-tools)
 * [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters Handmade Seattle 2022](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:25:32](https://lobste.rs/s/hlvsle/4_essential_tools_level_up_your_rails) - [4 Essential Tools to Level Up Your Rails Security (from brakeman to secure_headers)](https://www.fastruby.io/blog/rails/security/ruby-security-toolkit.html)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
@@ -24,7 +25,6 @@
 * [2023-05-09, 22:27:10](https://lobste.rs/s/ix3x3t/alpine_3_18_0_released) - [Alpine 3.18.0 released](https://alpinelinux.org/posts/Alpine-3.18.0-released.html)
 * [2023-05-09, 19:06:09](https://lobste.rs/s/hgz1hj/is_sequential_io_dead_era_nvme_drive) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 17:53:02](https://lobste.rs/s/95gumw/odin_programming_language) - [Odin Programming Language](https://odin-lang.org/)
-* [2023-05-09, 16:01:59](https://lobste.rs/s/2bmlmz/understanding_activitypub) - [Understanding ActivityPub](https://seb.jambor.dev/posts/understanding-activitypub/)
 
 ## [Archives](archives/index.md)
 
