@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-11, 16:58:00](https://lobste.rs/s/capkfc/free_information_third_kind) - [Free Information of the Third Kind](https://larrysanger.org/2023/04/free-information-of-the-third-kind/)
+* [2023-05-11, 17:51:28](https://lobste.rs/s/iem3oe/wzprof_cross_language_profiler_using) - [wzprof, a cross-language profiler using WebAssembly](https://github.com/stealthrocket/wzprof)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
