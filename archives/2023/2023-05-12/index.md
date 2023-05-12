@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 18:15:45](https://lobste.rs/s/yta0sy/responsive_layouts_qt) - [Responsive Layouts in Qt](https://www.qt.io/blog/responsive-layouts-in-qt)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
 * [2023-05-12, 16:40:00](https://lobste.rs/s/fccgyr/how_i_made_tracy_30x_faster) - [How I made Tracy 30× faster](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [2023-05-12, 16:21:42](https://lobste.rs/s/mhmlqd/evolving_django_multitenant_build) - [Evolving django-multitenant to build scalable SaaS apps on Postgres & Citus](https://www.citusdata.com/blog/2023/05/09/evolving-django-multitenant-to-build-scalable-saas-apps-on-postgres-and-citus/)

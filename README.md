@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 18:15:45](https://lobste.rs/s/yta0sy/responsive_layouts_qt) - [Responsive Layouts in Qt](https://www.qt.io/blog/responsive-layouts-in-qt)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
 * [2023-05-12, 16:40:00](https://lobste.rs/s/fccgyr/how_i_made_tracy_30x_faster) - [How I made Tracy 30× faster](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [2023-05-12, 16:21:42](https://lobste.rs/s/mhmlqd/evolving_django_multitenant_build) - [Evolving django-multitenant to build scalable SaaS apps on Postgres & Citus](https://www.citusdata.com/blog/2023/05/09/evolving-django-multitenant-to-build-scalable-saas-apps-on-postgres-and-citus/)
@@ -17,7 +18,6 @@
 * [2023-05-12, 05:48:25](https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical) - [I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
-* [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
 * [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
