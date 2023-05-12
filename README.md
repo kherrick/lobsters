@@ -21,10 +21,10 @@
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
+* [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-* [2023-05-10, 09:42:37](https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin) - [25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1)
 
 ## [Archives](archives/index.md)
 
