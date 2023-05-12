@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 13:44:06](https://lobste.rs/s/4vcbe3/real_life_fractal_zoom) - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available_from) - [Racket version 8.9 is now available from https://download.racket-lang.org/](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 11:58:41](https://lobste.rs/s/zrueoa/8_new_top_level_domains_for_dads_grads) - [8 new top-level domains for dads, grads and techies](https://blog.google/products/registry/8-new-top-level-domains-for-dads-grads-tech/)
@@ -20,7 +21,6 @@
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
-* [2023-05-11, 10:17:28](https://lobste.rs/s/fvkhdo/xerox_parc_archive) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
