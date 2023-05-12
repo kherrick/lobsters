@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 14:24:20](https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released) - [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
 * [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 13:44:06](https://lobste.rs/s/4vcbe3/real_life_fractal_zoom) - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available_from) - [Racket version 8.9 is now available from https://download.racket-lang.org/](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
@@ -23,7 +24,6 @@
 * [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
-* [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 
 ## [Archives](archives/index.md)
