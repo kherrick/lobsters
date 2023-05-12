@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-05-11, 00:20:01",
+      "https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live"
+    ],
+    [
+      "The 2023 Developer Survey is now live",
+      "https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 22:43:36",
       "https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements"
     ],
@@ -237,16 +247,6 @@
     [
       "See this page fetch itself, byte by byte, over TLS",
       "https://subtls.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 09:42:37",
-      "https://lobste.rs/s/pyqmfa/25_linux_mirror_servers_hosted_on_15w_thin"
-    ],
-    [
-      "25 Linux mirror servers hosted on 15W thin clients serve 90TB of updates per day",
-      "https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html?m=1"
     ]
   ]
 ]
