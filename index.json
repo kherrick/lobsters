@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-12, 09:02:25",
+      "https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018"
+    ],
+    [
+      "pytz: The Fastest Footgun in the West (2018)",
+      "https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 05:48:25",
       "https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical"
     ],
@@ -177,16 +187,6 @@
     [
       "KDE Plasma 6: “Better defaults”",
       "https://pointieststick.com/2023/05/11/plasma-6-better-defaults/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 03:46:03",
-      "https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters"
-    ],
-    [
-      "The Craft Behind Crafting Interpreters",
-      "https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/"
     ]
   ],
   [
