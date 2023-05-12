@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
 * [2023-05-12, 19:11:03](https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 18:15:45](https://lobste.rs/s/yta0sy/responsive_layouts_qt) - [Responsive Layouts in Qt](https://www.qt.io/blog/responsive-layouts-in-qt)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
@@ -24,7 +25,6 @@
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
-* [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
 * [2023-05-12, 19:11:03](https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 18:15:45](https://lobste.rs/s/yta0sy/responsive_layouts_qt) - [Responsive Layouts in Qt](https://www.qt.io/blog/responsive-layouts-in-qt)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
