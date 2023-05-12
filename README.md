@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 09:33:38](https://lobste.rs/s/o6birb/way_radically_improve_security_sudo_make) - [Way to radically improve security of sudo: make a daemon instead of setuid binary](https://github.com/memorysafety/sudo-rs/issues/291)
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-12, 05:48:25](https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical) - [I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
@@ -12,7 +13,6 @@
 * [2023-05-11, 17:51:28](https://lobste.rs/s/iem3oe/wzprof_cross_language_profiler_using) - [wzprof, a cross-language profiler using WebAssembly](https://github.com/stealthrocket/wzprof)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
-* [2023-05-11, 16:12:12](https://lobste.rs/s/cibjhg/it_s_not_just_cloud_costs_are_out_control) - [It's not just cloud costs that are out of control](https://world.hey.com/dhh/it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c)
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
