@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-12, 16:21:42",
+      "https://lobste.rs/s/mhmlqd/evolving_django_multitenant_build"
+    ],
+    [
+      "Evolving django-multitenant to build scalable SaaS apps on Postgres & Citus",
+      "https://www.citusdata.com/blog/2023/05/09/evolving-django-multitenant-to-build-scalable-saas-apps-on-postgres-and-citus/"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 15:49:07",
       "https://lobste.rs/s/oaslmu/surprisingly_elegant_javascript_type"
     ],
@@ -147,16 +157,6 @@
     [
       "vmtest: Run your tests in virtual machines",
       "https://dxuuu.xyz/vmtest.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 21:15:10",
-      "https://lobste.rs/s/d2ryva/problems_harder_than_np_complete"
-    ],
-    [
-      "Problems harder than NP-Complete",
-      "https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/"
     ]
   ],
   [
