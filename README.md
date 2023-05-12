@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 13:44:06](https://lobste.rs/s/4vcbe3/real_life_fractal_zoom) - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available_from) - [Racket version 8.9 is now available from https://download.racket-lang.org/](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 11:58:41](https://lobste.rs/s/zrueoa/8_new_top_level_domains_for_dads_grads) - [8 new top-level domains for dads, grads and techies](https://blog.google/products/registry/8-new-top-level-domains-for-dads-grads-tech/)
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
-* [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 
 ## [Archives](archives/index.md)
 
