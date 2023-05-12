@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
+* [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
 * [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
 * [2023-05-12, 19:11:03](https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 18:15:45](https://lobste.rs/s/yta0sy/responsive_layouts_qt) - [Responsive Layouts in Qt](https://www.qt.io/blog/responsive-layouts-in-qt)
@@ -16,10 +18,8 @@
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
 * [2023-05-12, 09:33:38](https://lobste.rs/s/o6birb/way_radically_improve_security_sudo_make) - [Way to radically improve security of sudo: make a daemon instead of setuid binary](https://github.com/memorysafety/sudo-rs/issues/291)
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
-* [2023-05-12, 05:48:25](https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical) - [I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
-* [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
 * [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
