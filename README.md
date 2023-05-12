@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 00:31:07](https://lobste.rs/s/xuaoaz/single_abstract_method_traits) - [Single Abstract Method Traits](https://mcyoung.xyz/2023/05/11/sam-closures/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
 * [2023-05-11, 21:15:10](https://lobste.rs/s/d2ryva/problems_harder_than_np_complete) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
@@ -20,7 +21,6 @@
 * [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
-* [2023-05-10, 22:47:38](https://lobste.rs/s/yqamwr/local_state_is_harmful_2014) - [Local state is harmful (2014)](https://www.scattered-thoughts.net/writing/local-state-is-harmful/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
 * [2023-05-10, 18:16:19](https://lobste.rs/s/lfbey9/binary_formats_protocols_ltv_is_better) - [Binary formats and protocols: LTV is better than TLV](https://www.devever.net/~hl/ltv)
 * [2023-05-10, 13:58:07](https://lobste.rs/s/hqpn3v/see_this_page_fetch_itself_byte_by_byte) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)

@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-12](index.md)
+
+* [2023-05-12, 00:31:07](https://lobste.rs/s/xuaoaz/single_abstract_method_traits) - [Single Abstract Method Traits](https://mcyoung.xyz/2023/05/11/sam-closures/)
