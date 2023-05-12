@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 21:16:28](https://lobste.rs/s/9reana/announcing_durin_new_mobile_app_for_ipfs) - [Announcing Durin: a New Mobile App for the IPFS Network](https://blog.ipfs.tech/announcing-durin/)
 * [2023-05-12, 20:51:30](https://lobste.rs/s/nyj7qc/50_years_filesystems_1994) - [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 * [2023-05-12, 20:15:01](https://lobste.rs/s/qqyweh/introducing_deopt_explorer) - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)

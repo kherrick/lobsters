@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 21:16:28](https://lobste.rs/s/9reana/announcing_durin_new_mobile_app_for_ipfs) - [Announcing Durin: a New Mobile App for the IPFS Network](https://blog.ipfs.tech/announcing-durin/)
 * [2023-05-12, 20:51:30](https://lobste.rs/s/nyj7qc/50_years_filesystems_1994) - [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
@@ -16,7 +17,6 @@
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available) - [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 11:58:41](https://lobste.rs/s/zrueoa/8_new_top_level_domains_for_dads_grads) - [8 new top-level domains for dads, grads and techies](https://blog.google/products/registry/8-new-top-level-domains-for-dads-grads-tech/)
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
-* [2023-05-12, 09:33:38](https://lobste.rs/s/o6birb/way_radically_improve_security_sudo_make) - [Way to radically improve security of sudo: make a daemon instead of setuid binary](https://github.com/memorysafety/sudo-rs/issues/291)
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
