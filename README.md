@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-12, 05:48:25](https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical) - [I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-12, 00:31:07](https://lobste.rs/s/xuaoaz/single_abstract_method_traits) - [Single Abstract Method Traits](https://mcyoung.xyz/2023/05/11/sam-closures/)
@@ -18,7 +19,6 @@
 * [2023-05-11, 10:17:28](https://lobste.rs/s/fvkhdo/xerox_parc_archive) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
-* [2023-05-11, 03:46:03](https://lobste.rs/s/dyjm4u/craft_behind_crafting_interpreters) - [The Craft Behind Crafting Interpreters](https://guide.handmade-seattle.com/c/2022/behind-crafting-interpreters/)
 * [2023-05-11, 00:23:08](https://lobste.rs/s/xlelua/attractive_nuisances_software_design) - [Attractive nuisances in software design](https://blog.ganssle.io/articles/2023/01/attractive-nuisances.html)
 * [2023-05-11, 00:20:01](https://lobste.rs/s/l7zhvr/2023_developer_survey_is_now_live) - [The 2023 Developer Survey is now live](https://stackoverflow.blog/2023/05/08/the-2023-developer-survey-is-now-live/)
 * [2023-05-10, 22:43:36](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements) - [Google I/O 2023 Announcements](https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements)
