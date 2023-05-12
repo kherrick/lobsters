@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 15:12:22](https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend) - [Introducing \"Implement DNS in a Weekend\"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 14:54:10](https://lobste.rs/s/ha2x0q/understanding_wasm_part_1) - [Understanding Wasm, Part 1: Virtualization](https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/)
 * [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2023-05-12, 14:24:20](https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released) - [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
