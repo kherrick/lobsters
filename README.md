@@ -7,7 +7,7 @@
 * [2023-05-12, 14:24:20](https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released) - [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
 * [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 13:44:06](https://lobste.rs/s/4vcbe3/real_life_fractal_zoom) - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
-* [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available_from) - [Racket version 8.9 is now available from https://download.racket-lang.org/](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
+* [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available) - [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 11:58:41](https://lobste.rs/s/zrueoa/8_new_top_level_domains_for_dads_grads) - [8 new top-level domains for dads, grads and techies](https://blog.google/products/registry/8-new-top-level-domains-for-dads-grads-tech/)
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
 * [2023-05-12, 09:33:38](https://lobste.rs/s/o6birb/way_radically_improve_security_sudo_make) - [Way to radically improve security of sudo: make a daemon instead of setuid binary](https://github.com/memorysafety/sudo-rs/issues/291)

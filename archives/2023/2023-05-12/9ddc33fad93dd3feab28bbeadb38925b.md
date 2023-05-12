@@ -1,0 +1,3 @@
+# [Published on 2023-05-12](index.md)
+
+* [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available) - [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
