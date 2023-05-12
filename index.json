@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-12, 14:38:30",
+      "https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua"
+    ],
+    [
+      "Building a baseline JIT for Lua automatically",
+      "https://sillycross.github.io/2023/05/12/2023-05-12/"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 14:24:20",
       "https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released"
     ],
@@ -237,16 +247,6 @@
     [
       "KDE Plasma 6: “Better defaults”",
       "https://pointieststick.com/2023/05/11/plasma-6-better-defaults/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 22:43:36",
-      "https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements"
-    ],
-    [
-      "Google I/O 2023 Announcements",
-      "https://lobste.rs/s/n0mcqh/google_i_o_2023_announcements"
     ]
   ]
 ]
