@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 15:49:07](https://lobste.rs/s/oaslmu/surprisingly_elegant_javascript_type) - [The Surprisingly Elegant Javascript Type Model  (2012)](https://web.archive.org/web/20140205182624/http://vijayan.ca/blog/2012/02/21/javascript-type-model)
 * [2023-05-12, 15:12:22](https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend) - [Introducing \"Implement DNS in a Weekend\"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 14:54:10](https://lobste.rs/s/ha2x0q/understanding_wasm_part_1) - [Understanding Wasm, Part 1: Virtualization](https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/)
 * [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 15:49:07](https://lobste.rs/s/oaslmu/surprisingly_elegant_javascript_type) - [The Surprisingly Elegant Javascript Type Model  (2012)](https://web.archive.org/web/20140205182624/http://vijayan.ca/blog/2012/02/21/javascript-type-model)
 * [2023-05-12, 15:12:22](https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend) - [Introducing \"Implement DNS in a Weekend\"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 14:54:10](https://lobste.rs/s/ha2x0q/understanding_wasm_part_1) - [Understanding Wasm, Part 1: Virtualization](https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/)
 * [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
@@ -22,7 +23,6 @@
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 16:05:58](https://lobste.rs/s/mnsg8g/electronics_lab_bench_setup_guide) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
-* [2023-05-11, 10:34:09](https://lobste.rs/s/0sqbn4/javascript_ecosystem_is_delightfully) - [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:13:45](https://lobste.rs/s/ecowej/kde_plasma_6_better_defaults) - [KDE Plasma 6: “Better defaults”](https://pointieststick.com/2023/05/11/plasma-6-better-defaults/)
 
