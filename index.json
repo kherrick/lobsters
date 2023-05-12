@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-12, 14:54:10",
+      "https://lobste.rs/s/ha2x0q/understanding_wasm_part_1"
+    ],
+    [
+      "Understanding Wasm, Part 1: Virtualization",
+      "https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 14:38:30",
       "https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua"
     ],
@@ -107,16 +117,6 @@
     [
       "Yaksha Programming Language",
       "https://yakshalang.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 00:31:07",
-      "https://lobste.rs/s/xuaoaz/single_abstract_method_traits"
-    ],
-    [
-      "Single Abstract Method Traits",
-      "https://mcyoung.xyz/2023/05/11/sam-closures/"
     ]
   ],
   [
