@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
 * [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
