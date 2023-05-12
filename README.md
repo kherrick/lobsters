@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-12, 14:54:10](https://lobste.rs/s/ha2x0q/understanding_wasm_part_1) - [Understanding Wasm, Part 1: Virtualization](https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/)
 * [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2023-05-12, 14:24:20](https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released) - [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
 * [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
@@ -11,7 +12,6 @@
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-12, 05:48:25](https://lobste.rs/s/iogb38/i_ve_mostly_stopped_reading_technical) - [I've mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
-* [2023-05-12, 00:31:07](https://lobste.rs/s/xuaoaz/single_abstract_method_traits) - [Single Abstract Method Traits](https://mcyoung.xyz/2023/05/11/sam-closures/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
 * [2023-05-11, 21:15:10](https://lobste.rs/s/d2ryva/problems_harder_than_np_complete) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:01:23](https://lobste.rs/s/ghtixh/tailscaling_git_ht_how_cheat_aws_into_load) - [Tailscaling git.ht: how to cheat AWS into load-balancing to an old laptop](https://vlad.git.ht/a2575267fc147e7812b2abcf83b48b57)
