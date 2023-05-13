@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2023-05-12, 19:11:03",
-      "https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis"
+      "2023-05-12, 19:28:29",
+      "https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models"
     ],
     [
-      "Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring",
-      "https://atlarge-research.com/pdfs/2022-systor-apis.pdf"
+      "Overview of Flatpak’s Permission Models",
+      "https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html"
     ]
   ],
   [
