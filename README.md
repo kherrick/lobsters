@@ -10,7 +10,7 @@
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
-* [2023-05-12, 19:11:03](https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
+* [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
 * [2023-05-12, 16:40:00](https://lobste.rs/s/fccgyr/how_i_made_tracy_30x_faster) - [How I made Tracy 30× faster](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [2023-05-12, 15:12:22](https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend) - [Introducing \"Implement DNS in a Weekend\"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
