@@ -2,6 +2,7 @@
 
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 * [2023-05-12, 20:51:30](https://lobste.rs/s/nyj7qc/50_years_filesystems_1994) - [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
+* [2023-05-12, 20:15:01](https://lobste.rs/s/qqyweh/introducing_deopt_explorer) - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
@@ -21,7 +22,6 @@
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
 * [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
-* [2023-05-11, 16:48:14](https://lobste.rs/s/tuj6ed/delimiters_won_t_save_you_from_prompt) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 * [2023-05-11, 09:36:56](https://lobste.rs/s/q3kkwa/bcachefs_new_cow_filesystem) - [bcachefs - a new COW filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
