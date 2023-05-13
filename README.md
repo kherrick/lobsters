@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-13, 17:33:37](https://lobste.rs/s/10smh7/new_tlds_not_bad_actually) - [New TLDs: Not Bad, Actually](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:49:26](https://lobste.rs/s/icxhwv/openbsd_7_3_on_es40_dec_alpha_emulator) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
 * [2023-05-13, 13:38:43](https://lobste.rs/s/qhqvua/radical_simplicity_technology) - [Radical Simplicity in Technology](http://www.radicalsimpli.city/)
@@ -8,6 +7,7 @@
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 * [2023-05-12, 20:51:30](https://lobste.rs/s/nyj7qc/50_years_filesystems_1994) - [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
+* [2023-05-12, 20:15:01](https://lobste.rs/s/qqyweh/introducing_deopt_explorer) - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
