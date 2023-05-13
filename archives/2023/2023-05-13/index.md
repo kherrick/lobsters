@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 21:08:58](https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well) - [Debuginfod can index source code as well as debug symbols](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 * [2023-05-13, 18:55:06](https://lobste.rs/s/wtezsz/dealing_with_sharing) - [Dealing with Sharing](http://www.modernescpp.com/index.php/dealing-with-sharing)
 * [2023-05-13, 17:33:37](https://lobste.rs/s/10smh7/new_tlds_not_bad_actually) - [New TLDs: Not Bad, Actually](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)

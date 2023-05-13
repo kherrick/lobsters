@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-13, 21:08:58](https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well) - [Debuginfod can index source code as well as debug symbols](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 * [2023-05-13, 18:55:06](https://lobste.rs/s/wtezsz/dealing_with_sharing) - [Dealing with Sharing](http://www.modernescpp.com/index.php/dealing-with-sharing)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
@@ -13,7 +14,6 @@
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
-* [2023-05-12, 19:28:29](https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models) - [Overview of Flatpak’s Permission Models](https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html)
 * [2023-05-12, 17:33:54](https://lobste.rs/s/eg170v/age_software_project) - [The Age of a Software Project](https://registerspill.thorstenball.com/p/the-age-of-a-software-project)
 * [2023-05-12, 16:40:00](https://lobste.rs/s/fccgyr/how_i_made_tracy_30x_faster) - [How I made Tracy 30× faster](https://wolf.nereid.pl/posts/how-tracy-faster/)
 * [2023-05-12, 15:12:22](https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend) - [Introducing \"Implement DNS in a Weekend\"](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
