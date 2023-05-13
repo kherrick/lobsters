@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 18:55:06](https://lobste.rs/s/wtezsz/dealing_with_sharing) - [Dealing with Sharing](http://www.modernescpp.com/index.php/dealing-with-sharing)
 * [2023-05-13, 17:33:37](https://lobste.rs/s/10smh7/new_tlds_not_bad_actually) - [New TLDs: Not Bad, Actually](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:49:26](https://lobste.rs/s/icxhwv/openbsd_7_3_on_es40_dec_alpha_emulator) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
