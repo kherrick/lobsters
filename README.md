@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-13, 13:21:09](https://lobste.rs/s/elcibv/redpanda_s_official_jepsen_report_what_we) - [Redpanda’s official Jepsen report: What we fixed, and what we shouldn’t (2022)](https://redpanda.com/blog/redpanda-official-jepsen-report-and-analysis)
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 * [2023-05-12, 21:16:28](https://lobste.rs/s/9reana/announcing_durin_new_mobile_app_for_ipfs) - [Announcing Durin: a New Mobile App for the IPFS Network](https://blog.ipfs.tech/announcing-durin/)
@@ -22,7 +23,6 @@
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-12, 01:46:41](https://lobste.rs/s/80qdbq/yaksha_programming_language) - [Yaksha Programming Language](https://yakshalang.github.io/)
 * [2023-05-11, 22:06:06](https://lobste.rs/s/ss6k1l/vmtest_run_your_tests_virtual_machines) - [vmtest: Run your tests in virtual machines](https://dxuuu.xyz/vmtest.html)
-* [2023-05-11, 19:00:56](https://lobste.rs/s/hrkkol/fq_jq_for_binary_formats_tool_language) - [fq: jq for binary formats - tool, language and decoders for working with binary and text formats](https://github.com/wader/fq)
 * [2023-05-11, 16:34:49](https://lobste.rs/s/zqifd8/thea_flowers_doesn_t_use_package_managers) - [Thea Flowers doesn't use package managers](https://youtu.be/TISCCy4H4PI)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 
