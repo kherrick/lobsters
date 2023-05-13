@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-05-12, 19:28:29",
+      "https://lobste.rs/s/vrrq5c/overview_flatpak_s_permission_models"
+    ],
+    [
+      "Overview of Flatpak’s Permission Models",
+      "https://theevilskeleton.gitlab.io/2023/05/11/overview-of-flatpaks-permission-models.html"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 19:11:03",
       "https://lobste.rs/s/w0s2pu/understanding_modern_storage_apis"
     ],
@@ -97,16 +107,6 @@
     [
       "How I made Tracy 30× faster",
       "https://wolf.nereid.pl/posts/how-tracy-faster/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 15:49:07",
-      "https://lobste.rs/s/oaslmu/surprisingly_elegant_javascript_type"
-    ],
-    [
-      "The Surprisingly Elegant Javascript Type Model  (2012)",
-      "https://web.archive.org/web/20140205182624/http://vijayan.ca/blog/2012/02/21/javascript-type-model"
     ]
   ],
   [
