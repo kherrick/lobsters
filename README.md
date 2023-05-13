@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 * [2023-05-13, 18:55:06](https://lobste.rs/s/wtezsz/dealing_with_sharing) - [Dealing with Sharing](http://www.modernescpp.com/index.php/dealing-with-sharing)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:49:26](https://lobste.rs/s/icxhwv/openbsd_7_3_on_es40_dec_alpha_emulator) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
@@ -19,7 +20,6 @@
 * [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2023-05-12, 14:24:20](https://lobste.rs/s/v9yqbh/ruby_3_3_0_preview1_released) - [Ruby 3.3.0-preview1 Released](https://www.ruby-lang.org/en/news/2023/05/12/ruby-3-3-0-preview1-released/)
 * [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
-* [2023-05-12, 13:44:06](https://lobste.rs/s/4vcbe3/real_life_fractal_zoom) - [Real-life fractal zoom](https://www.youtube.com/watch?v=S1kpqOqSttA)
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available) - [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
 * [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
