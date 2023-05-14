@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 07:40:10](https://lobste.rs/s/45nklo/first_video_game) - [The First Video Game](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
@@ -23,7 +24,6 @@
 * [2023-05-12, 14:13:01](https://lobste.rs/s/43n5u0/first_rust_code_shows_up_windows_11_kernel) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 13:14:01](https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available) - [Racket version 8.9 is now available](https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941)
 * [2023-05-12, 10:00:44](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xvghoe/what_are_you_doing_this_weekend)
-* [2023-05-12, 09:02:25](https://lobste.rs/s/whvzyp/pytz_fastest_footgun_west_2018) - [pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 12:57:02](https://lobste.rs/s/iq5viq/testing_new_encrypted_messaging_app_s) - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/)
 
 ## [Archives](archives/index.md)

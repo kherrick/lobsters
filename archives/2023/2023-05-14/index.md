@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 07:40:10](https://lobste.rs/s/45nklo/first_video_game) - [The First Video Game](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
