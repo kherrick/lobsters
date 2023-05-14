@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 17:24:02](https://lobste.rs/s/iwjqdf/reproducible_development_with) - [Reproducible Development with Devcontainers](https://www.infoq.com/articles/devcontainers/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 * [2023-05-14, 16:08:28](https://lobste.rs/s/w9qp6s/software_development_ethics) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
 * [2023-05-14, 15:56:26](https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling) - [First-principles on AI scaling](https://dynomight.net/scaling/)
