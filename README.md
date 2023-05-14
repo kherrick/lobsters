@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 00:57:54](https://lobste.rs/s/edb1od/hopeful_case_for_generative_ai_software) - [A Hopeful Case for Generative AI in Software Engineering](https://neverworkintheory.org/2023/05/13/generative-ai.html)
 * [2023-05-13, 21:08:58](https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well) - [Debuginfod can index source code as well as debug symbols](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
@@ -12,7 +13,6 @@
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 * [2023-05-12, 20:51:30](https://lobste.rs/s/nyj7qc/50_years_filesystems_1994) - [50 years in filesystems: 1994](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
-* [2023-05-12, 20:15:01](https://lobste.rs/s/qqyweh/introducing_deopt_explorer) - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
 * [2023-05-12, 19:48:53](https://lobste.rs/s/azphsq/experimenting_with_multi_factor) - [Experimenting with multi-factor encryption](https://notes.volution.ro/v1/2023/05/remarks/e175b2ef/)
 * [2023-05-12, 19:38:05](https://lobste.rs/s/wrq7iv/guide_test_parametrization_rust) - [A guide to test parametrization in Rust](https://unterwaditzer.net/2023/rust-test-parametrization.html)
 * [2023-05-12, 19:36:41](https://lobste.rs/s/u3glse/iterator_generator) - [Iterator, Generator](https://without.boats/blog/iterator-generator/)
