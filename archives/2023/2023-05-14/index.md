@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 18:25:10](https://lobste.rs/s/fnxhhv/how_does_autogpt_work_under_hood) - [How does AutoGPT work under the hood?](https://ad-absurdum.me/blog/how-autogpt-works-under-the-hood)
 * [2023-05-14, 17:33:14](https://lobste.rs/s/hq5wo9/first_time_pc_user_can_t_work_computer_1995) - [First-time PC user can’t work computer (1995)](https://www.youtube.com/watch?v=0KDdU0DCbJA)
 * [2023-05-14, 17:24:02](https://lobste.rs/s/iwjqdf/reproducible_development_with) - [Reproducible Development with Devcontainers](https://www.infoq.com/articles/devcontainers/)

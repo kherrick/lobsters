@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 18:25:10](https://lobste.rs/s/fnxhhv/how_does_autogpt_work_under_hood) - [How does AutoGPT work under the hood?](https://ad-absurdum.me/blog/how-autogpt-works-under-the-hood)
 * [2023-05-14, 17:33:14](https://lobste.rs/s/hq5wo9/first_time_pc_user_can_t_work_computer_1995) - [First-time PC user can’t work computer (1995)](https://www.youtube.com/watch?v=0KDdU0DCbJA)
 * [2023-05-14, 17:24:02](https://lobste.rs/s/iwjqdf/reproducible_development_with) - [Reproducible Development with Devcontainers](https://www.infoq.com/articles/devcontainers/)
@@ -18,7 +19,6 @@
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 00:57:54](https://lobste.rs/s/edb1od/hopeful_case_for_generative_ai_software) - [A Hopeful Case for Generative AI in Software Engineering](https://neverworkintheory.org/2023/05/13/generative-ai.html)
-* [2023-05-13, 21:08:58](https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well) - [Debuginfod can index source code as well as debug symbols](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:49:26](https://lobste.rs/s/icxhwv/openbsd_7_3_on_es40_dec_alpha_emulator) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
