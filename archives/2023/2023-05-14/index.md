@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
 * [2023-05-14, 19:55:05](https://lobste.rs/s/edogif/claude_s_constitution) - [Claude’s Constitution](https://www.anthropic.com/index/claudes-constitution)
 * [2023-05-14, 19:31:25](https://lobste.rs/s/nqosmz/timeline_digital_paint_draw_software) - [Timeline of digital paint and draw software](https://kristenroos.ca/timeline)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)

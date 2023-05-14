@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
 * [2023-05-14, 19:55:05](https://lobste.rs/s/edogif/claude_s_constitution) - [Claude’s Constitution](https://www.anthropic.com/index/claudes-constitution)
 * [2023-05-14, 19:31:25](https://lobste.rs/s/nqosmz/timeline_digital_paint_draw_software) - [Timeline of digital paint and draw software](https://kristenroos.ca/timeline)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
@@ -22,7 +23,6 @@
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 00:57:54](https://lobste.rs/s/edb1od/hopeful_case_for_generative_ai_software) - [A Hopeful Case for Generative AI in Software Engineering](https://neverworkintheory.org/2023/05/13/generative-ai.html)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
-* [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 
