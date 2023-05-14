@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 17:33:14](https://lobste.rs/s/hq5wo9/first_time_pc_user_can_t_work_computer_1995) - [First-time PC user can’t work computer (1995)](https://www.youtube.com/watch?v=0KDdU0DCbJA)
 * [2023-05-14, 17:24:02](https://lobste.rs/s/iwjqdf/reproducible_development_with) - [Reproducible Development with Devcontainers](https://www.infoq.com/articles/devcontainers/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 * [2023-05-14, 16:08:28](https://lobste.rs/s/w9qp6s/software_development_ethics) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
@@ -24,7 +25,6 @@
 * [2023-05-13, 13:21:09](https://lobste.rs/s/elcibv/redpanda_s_official_jepsen_report_what_we) - [Redpanda’s official Jepsen report: What we fixed, and what we shouldn’t (2022)](https://redpanda.com/blog/redpanda-official-jepsen-report-and-analysis)
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
-* [2023-05-12, 14:38:30](https://lobste.rs/s/ftsowh/building_baseline_jit_for_lua) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 
 ## [Archives](archives/index.md)
 
