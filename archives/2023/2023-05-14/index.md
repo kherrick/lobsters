@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 16:08:28](https://lobste.rs/s/w9qp6s/software_development_ethics) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
 * [2023-05-14, 15:56:26](https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling) - [First-principles on AI scaling](https://dynomight.net/scaling/)
 * [2023-05-14, 12:51:06](https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 12:38:53](https://lobste.rs/s/vyttof/assisted_generation_new_direction) - [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
