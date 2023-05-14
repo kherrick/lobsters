@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-14, 16:08:28",
+      "https://lobste.rs/s/w9qp6s/software_development_ethics"
+    ],
+    [
+      "Software Development Ethics",
+      "http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 15:56:26",
       "https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling"
     ],
@@ -207,16 +217,6 @@
     [
       "Oils 0.15.0 - Big Contributions and More Concessions",
       "https://www.oilshell.org/blog/2023/05/release-0.15.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 15:12:22",
-      "https://lobste.rs/s/ld8gka/introducing_implement_dns_weekend"
-    ],
-    [
-      "Introducing \"Implement DNS in a Weekend\"",
-      "https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/"
     ]
   ],
   [
