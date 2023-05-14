@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-14, 16:38:19",
+      "https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms"
+    ],
+    [
+      "Context-Free Grammar Parsing with LLMs",
+      "https://matt-rickard.com/context-free-grammar-parsing-with-llms"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 16:08:28",
       "https://lobste.rs/s/w9qp6s/software_development_ethics"
     ],
@@ -237,16 +247,6 @@
     [
       "First Rust Code Shows Up in the Windows 11 Kernel",
       "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 13:14:01",
-      "https://lobste.rs/s/ac7ca0/racket_version_8_9_is_now_available"
-    ],
-    [
-      "Racket version 8.9 is now available",
-      "https://racket.discourse.group/t/racket-version-8-9-is-now-available-from-https-download-racket-lang-org/1941"
     ]
   ]
 ]
