@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-14, 18:55:21",
+      "https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust"
+    ],
+    [
+      "Build a desktop app with Qt and Rust",
+      "https://blog.logrocket.com/build-desktop-app-qt-rust/"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 18:25:10",
       "https://lobste.rs/s/fnxhhv/how_does_autogpt_work_under_hood"
     ],
@@ -177,16 +187,6 @@
     [
       "A Hopeful Case for Generative AI in Software Engineering",
       "https://neverworkintheory.org/2023/05/13/generative-ai.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 21:08:58",
-      "https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well"
-    ],
-    [
-      "Debuginfod can index source code as well as debug symbols",
-      "https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/"
     ]
   ],
   [
