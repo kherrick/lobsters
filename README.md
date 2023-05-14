@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-14, 15:56:26](https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling) - [First-principles on AI scaling](https://dynomight.net/scaling/)
 * [2023-05-14, 12:51:06](https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 12:38:53](https://lobste.rs/s/vyttof/assisted_generation_new_direction) - [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
 * [2023-05-14, 12:35:12](https://lobste.rs/s/foan2p/how_run_llama_13b_with_6gb_graphics_card) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
@@ -14,7 +15,6 @@
 * [2023-05-14, 00:57:54](https://lobste.rs/s/edb1od/hopeful_case_for_generative_ai_software) - [A Hopeful Case for Generative AI in Software Engineering](https://neverworkintheory.org/2023/05/13/generative-ai.html)
 * [2023-05-13, 21:08:58](https://lobste.rs/s/3n2c2m/debuginfod_can_index_source_code_as_well) - [Debuginfod can index source code as well as debug symbols](https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
-* [2023-05-13, 18:55:06](https://lobste.rs/s/wtezsz/dealing_with_sharing) - [Dealing with Sharing](http://www.modernescpp.com/index.php/dealing-with-sharing)
 * [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:49:26](https://lobste.rs/s/icxhwv/openbsd_7_3_on_es40_dec_alpha_emulator) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
 * [2023-05-13, 13:38:43](https://lobste.rs/s/qhqvua/radical_simplicity_technology) - [Radical Simplicity in Technology](http://www.radicalsimpli.city/)
