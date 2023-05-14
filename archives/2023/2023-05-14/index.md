@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 11:04:14](https://lobste.rs/s/aqijo6/connecting_electric_typewriter_modern) - [Connecting an electric typewriter to a modern computer](https://jbb.ghsq.ga/2022/03/12/electric-typewriter.html)
+* [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
 * [2023-05-14, 09:42:22](https://lobste.rs/s/7579yq/introduction_dm_verity_embedded_device) - [An Introduction to Dm-verity in Embedded Device Security](https://www.starlab.io/blog/dm-verity-in-embedded-device-security)
 * [2023-05-14, 07:40:10](https://lobste.rs/s/45nklo/first_video_game) - [The First Video Game](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
