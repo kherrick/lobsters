@@ -22,7 +22,7 @@
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 00:57:54](https://lobste.rs/s/edb1od/hopeful_case_for_generative_ai_software) - [A Hopeful Case for Generative AI in Software Engineering](https://neverworkintheory.org/2023/05/13/generative-ai.html)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
-* [2023-05-13, 13:21:09](https://lobste.rs/s/elcibv/redpanda_s_official_jepsen_report_what_we) - [Redpanda’s official Jepsen report: What we fixed, and what we shouldn’t (2022)](https://redpanda.com/blog/redpanda-official-jepsen-report-and-analysis)
+* [2023-05-13, 17:11:57](https://lobste.rs/s/zuxeue/cryptohack) - [CryptoHack](https://cryptohack.org/)
 * [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 06:31:25](https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more) - [Oils 0.15.0 - Big Contributions and More Concessions](https://www.oilshell.org/blog/2023/05/release-0.15.0.html)
 
