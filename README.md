@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:32:30](https://lobste.rs/s/2szmg9/introducing_rwkv_for_hugging_face) - [Introducing RWKV [for Hugging Face Transformers]](https://huggingface.co/blog/rwkv)
 * [2023-05-15, 15:05:01](https://lobste.rs/s/sudrsj/programming_languages_festival_fun_2_day) - [Programming Languages Festival : Fun, 2-day, single-track, non-academic conference](https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024)
 * [2023-05-15, 14:16:06](https://lobste.rs/s/wpm6zd/sql_vs_nosql_cutting_through_tech_twitter) - [SQL vs. NoSQL - cutting through the Tech Twitter noise](https://payloadcms.com/blog/sql-vs-nosql-cutting-through-the-tech-twitter-noise)
@@ -24,7 +25,6 @@
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
-* [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
 
 ## [Archives](archives/index.md)
 
