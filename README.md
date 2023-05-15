@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 12:19:02](https://lobste.rs/s/xki2c7/using_ox_hugo_build_websites_with_emacs) - [Using ox-hugo To Build Websites with Emacs](https://www.kengrimes.com/ox-hugo-tutorial/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
 * [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)
 * [2023-05-15, 10:37:25](https://lobste.rs/s/5tv6yc/detailed_walkthrough_procedure) - [Detailed walkthrough of procedure to uncensor models](https://erichartford.com/uncensored-models)
@@ -15,7 +16,6 @@
 * [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-05-14, 21:50:34](https://lobste.rs/s/pcgvro/relocation_overflow_code_models) - [Relocation overflow and code models](https://maskray.me/blog/2023-05-14-relocation-overflow-and-code-models)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
-* [2023-05-14, 19:55:05](https://lobste.rs/s/edogif/claude_s_constitution) - [Claude’s Constitution](https://www.anthropic.com/index/claudes-constitution)
 * [2023-05-14, 19:31:25](https://lobste.rs/s/nqosmz/timeline_digital_paint_draw_software) - [Timeline of digital paint and draw software](https://kristenroos.ca/timeline)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 17:33:14](https://lobste.rs/s/hq5wo9/first_time_pc_user_can_t_work_computer_1995) - [First-time PC user can’t work computer (1995)](https://www.youtube.com/watch?v=0KDdU0DCbJA)
