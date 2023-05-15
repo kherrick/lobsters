@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 12:19:02](https://lobste.rs/s/xki2c7/using_ox_hugo_build_websites_with_emacs) - [Using ox-hugo To Build Websites with Emacs](https://www.kengrimes.com/ox-hugo-tutorial/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
 * [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)

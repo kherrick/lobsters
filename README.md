@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 12:19:02](https://lobste.rs/s/xki2c7/using_ox_hugo_build_websites_with_emacs) - [Using ox-hugo To Build Websites with Emacs](https://www.kengrimes.com/ox-hugo-tutorial/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
 * [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)
@@ -12,7 +13,6 @@
 * [2023-05-15, 07:54:15](https://lobste.rs/s/pshl44/weight_uncertainty_neural_networks_2018) - [Weight Uncertainty in Neural Networks (2018)](https://www.nitarshan.com/bayes-by-backprop/)
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
-* [2023-05-15, 01:22:57](https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first) - [The Group Decode ROM: The 8086 processor's first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-05-14, 21:50:34](https://lobste.rs/s/pcgvro/relocation_overflow_code_models) - [Relocation overflow and code models](https://maskray.me/blog/2023-05-14-relocation-overflow-and-code-models)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
