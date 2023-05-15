@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 16:48:48](https://lobste.rs/s/rc3lxa/exploit_notes) - [Exploit Notes](https://exploit-notes.hdks.org/)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:58:52](https://lobste.rs/s/ckfvwo/event_sourcing_microservices_unix_style) - [Event Sourcing and Microservices – Unix Style](https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
