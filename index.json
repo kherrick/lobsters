@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-05-15, 16:48:48",
-      "https://lobste.rs/s/rc3lxa/exploit_notes"
+      "2023-05-15, 17:28:50",
+      "https://lobste.rs/s/5dco74/magazines_vmem_extending_slab_allocator"
     ],
     [
-      "Exploit Notes",
-      "https://exploit-notes.hdks.org/"
+      "Magazines and Vmem: Extending the Slab Allocator to Many CPUs and Arbitrary Resources",
+      "http://www.parrot.org/sites/www.parrot.org/files/vmem.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 17:26:18",
+      "https://lobste.rs/s/k6xnx9/slab_allocator_object_caching_kernel"
+    ],
+    [
+      "The Slab Allocator: An Object-Caching Kernel Memory Allocator",
+      "https://srl.cs.jhu.edu/courses/600.418/SlabAllocator.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Context-Free Grammar Parsing with LLMs",
       "https://matt-rickard.com/context-free-grammar-parsing-with-llms"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 11:51:40",
-      "https://lobste.rs/s/licgi6/diving_into_secret_macos_tool"
-    ],
-    [
-      "Diving into a secret macOS tool - networkQuality",
-      "https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/"
     ]
   ]
 ]
