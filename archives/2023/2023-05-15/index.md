@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 14:16:06](https://lobste.rs/s/wpm6zd/sql_vs_nosql_cutting_through_tech_twitter) - [SQL vs. NoSQL - cutting through the Tech Twitter noise](https://payloadcms.com/blog/sql-vs-nosql-cutting-through-the-tech-twitter-noise)
 * [2023-05-15, 14:10:12](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt) - [How to develop apps with chatgpt?](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt)
 * [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
