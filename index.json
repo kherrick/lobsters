@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 01:22:57",
+      "https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first"
+    ],
+    [
+      "The Group Decode ROM: The 8086 processor's first step of instruction decoding",
+      "http://www.righto.com/2023/05/8086-processor-group-decode-rom.html"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 00:55:21",
       "https://lobste.rs/s/dr4aqx/do_papercuts_matter"
     ],
@@ -237,16 +247,6 @@
     [
       "This time, it feels different",
       "https://nadh.in/blog/this-time-it-feels-different/"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 06:31:25",
-      "https://lobste.rs/s/fzsxay/oils_0_15_0_big_contributions_more"
-    ],
-    [
-      "Oils 0.15.0 - Big Contributions and More Concessions",
-      "https://www.oilshell.org/blog/2023/05/release-0.15.0.html"
     ]
   ]
 ]
