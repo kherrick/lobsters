@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 07:54:15](https://lobste.rs/s/pshl44/weight_uncertainty_neural_networks_2018) - [Weight Uncertainty in Neural Networks (2018)](https://www.nitarshan.com/bayes-by-backprop/)
 * [2023-05-15, 07:40:28](https://lobste.rs/s/ao9jce/cerebras_makes_it_easy_harness) - [Cerebras Makes It Easy to Harness the Predictive Power of GPT-J (2022)](https://www.cerebras.net/blog/cerebras-makes-it-easy-to-harness-the-predictive-power-of-gpt-j)
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
@@ -15,7 +16,6 @@
 * [2023-05-14, 17:24:02](https://lobste.rs/s/iwjqdf/reproducible_development_with) - [Reproducible Development with Devcontainers](https://www.infoq.com/articles/devcontainers/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 * [2023-05-14, 16:08:28](https://lobste.rs/s/w9qp6s/software_development_ethics) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
-* [2023-05-14, 15:56:26](https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling) - [First-principles on AI scaling](https://dynomight.net/scaling/)
 * [2023-05-14, 12:51:06](https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 12:35:12](https://lobste.rs/s/foan2p/how_run_llama_13b_with_6gb_graphics_card) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
