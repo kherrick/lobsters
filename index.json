@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-15, 16:00:46",
+      "https://lobste.rs/s/926cq7/large_language_models_plagiarism"
+    ],
+    [
+      "Large language models and plagiarism",
+      "https://lcamtuf.substack.com/p/large-language-models-and-plagiarism"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 15:58:52",
+      "https://lobste.rs/s/ckfvwo/event_sourcing_microservices_unix_style"
+    ],
+    [
+      "Event Sourcing and Microservices – Unix Style",
+      "https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 15:48:09",
       "https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims"
     ],
@@ -27,16 +47,6 @@
     [
       "Programming Languages Festival : Fun, 2-day, single-track, non-academic conference",
       "https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 14:16:06",
-      "https://lobste.rs/s/wpm6zd/sql_vs_nosql_cutting_through_tech_twitter"
-    ],
-    [
-      "SQL vs. NoSQL - cutting through the Tech Twitter noise",
-      "https://payloadcms.com/blog/sql-vs-nosql-cutting-through-the-tech-twitter-noise"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Do papercuts matter?",
       "https://registerspill.thorstenball.com/p/do-papercuts-matter"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 21:50:34",
-      "https://lobste.rs/s/pcgvro/relocation_overflow_code_models"
-    ],
-    [
-      "Relocation overflow and code models",
-      "https://maskray.me/blog/2023-05-14-relocation-overflow-and-code-models"
     ]
   ],
   [
