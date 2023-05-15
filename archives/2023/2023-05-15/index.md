@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
 * [2023-05-15, 17:28:50](https://lobste.rs/s/5dco74/magazines_vmem_extending_slab_allocator) - [Magazines and Vmem: Extending the Slab Allocator to Many CPUs and Arbitrary Resources](http://www.parrot.org/sites/www.parrot.org/files/vmem.pdf)
 * [2023-05-15, 17:26:18](https://lobste.rs/s/k6xnx9/slab_allocator_object_caching_kernel) - [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://srl.cs.jhu.edu/courses/600.418/SlabAllocator.pdf)
 * [2023-05-15, 16:48:48](https://lobste.rs/s/rc3lxa/exploit_notes) - [Exploit Notes](https://exploit-notes.hdks.org/)
