@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 15:48:09",
+      "https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims"
+    ],
+    [
+      "Kafka vs Redpanda Performance - Do the claims add up?",
+      "https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 15:32:30",
       "https://lobste.rs/s/2szmg9/introducing_rwkv_for_hugging_face"
     ],
@@ -237,16 +247,6 @@
     [
       "Diving into a secret macOS tool - networkQuality",
       "https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 11:02:19",
-      "https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for"
-    ],
-    [
-      "A bare-metal actor operating system for Raspberry Pi",
-      "https://github.com/organix/mycelia"
     ]
   ]
 ]
