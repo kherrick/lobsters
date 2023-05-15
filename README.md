@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-15, 16:48:48](https://lobste.rs/s/rc3lxa/exploit_notes) - [Exploit Notes](https://exploit-notes.hdks.org/)
+* [2023-05-15, 17:28:50](https://lobste.rs/s/5dco74/magazines_vmem_extending_slab_allocator) - [Magazines and Vmem: Extending the Slab Allocator to Many CPUs and Arbitrary Resources](http://www.parrot.org/sites/www.parrot.org/files/vmem.pdf)
+* [2023-05-15, 17:26:18](https://lobste.rs/s/k6xnx9/slab_allocator_object_caching_kernel) - [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://srl.cs.jhu.edu/courses/600.418/SlabAllocator.pdf)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:58:52](https://lobste.rs/s/ckfvwo/event_sourcing_microservices_unix_style) - [Event Sourcing and Microservices – Unix Style](https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
@@ -24,7 +25,6 @@
 * [2023-05-14, 19:31:25](https://lobste.rs/s/nqosmz/timeline_digital_paint_draw_software) - [Timeline of digital paint and draw software](https://kristenroos.ca/timeline)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
-* [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 17:28:50](https://lobste.rs/s/5dco74/magazines_vmem_extending_slab_allocator) - [Magazines and Vmem: Extending the Slab Allocator to Many CPUs and Arbitrary Resources](http://www.parrot.org/sites/www.parrot.org/files/vmem.pdf)
+* [2023-05-15, 17:26:18](https://lobste.rs/s/k6xnx9/slab_allocator_object_caching_kernel) - [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://srl.cs.jhu.edu/courses/600.418/SlabAllocator.pdf)
 * [2023-05-15, 16:48:48](https://lobste.rs/s/rc3lxa/exploit_notes) - [Exploit Notes](https://exploit-notes.hdks.org/)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:58:52](https://lobste.rs/s/ckfvwo/event_sourcing_microservices_unix_style) - [Event Sourcing and Microservices – Unix Style](https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html)
