@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 07:05:17",
+      "https://lobste.rs/s/oo8g89/xstate_state_machine_library_for"
+    ],
+    [
+      "XState - State machine library for javascript and typescript",
+      "https://xstate.js.org/docs/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 02:49:37",
       "https://lobste.rs/s/vdzzxr/idle_dr_dos"
     ],
@@ -147,16 +157,6 @@
     [
       "Making GHC faster at emitting code",
       "https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 12:38:53",
-      "https://lobste.rs/s/vyttof/assisted_generation_new_direction"
-    ],
-    [
-      "Assisted Generation: a new direction toward low-latency text generation",
-      "https://huggingface.co/blog/assisted-generation"
     ]
   ],
   [
