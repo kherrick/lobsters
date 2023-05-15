@@ -4,7 +4,6 @@
 * [2023-05-15, 08:12:15](https://lobste.rs/s/4no8lb/vanilla_fp_no_framework_framework_for) - [vanilla-fp - the no-framework framework for building component-based purely-functional UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 07:59:12](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
 * [2023-05-15, 07:54:15](https://lobste.rs/s/pshl44/weight_uncertainty_neural_networks_2018) - [Weight Uncertainty in Neural Networks (2018)](https://www.nitarshan.com/bayes-by-backprop/)
-* [2023-05-15, 07:40:28](https://lobste.rs/s/ao9jce/cerebras_makes_it_easy_harness) - [Cerebras Makes It Easy to Harness the Predictive Power of GPT-J (2022)](https://www.cerebras.net/blog/cerebras-makes-it-easy-to-harness-the-predictive-power-of-gpt-j)
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-15, 01:22:57](https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first) - [The Group Decode ROM: The 8086 processor's first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
@@ -24,6 +23,7 @@
 * [2023-05-14, 11:04:14](https://lobste.rs/s/aqijo6/connecting_electric_typewriter_modern) - [Connecting an electric typewriter to a modern computer](https://jbb.ghsq.ga/2022/03/12/electric-typewriter.html)
 * [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
+* [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
 
 ## [Archives](archives/index.md)
