@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 20:00:57](https://lobste.rs/s/ipyuwh/ai_hacking_games_jailbreak_ctfs) - [AI Hacking Games (Jailbreak CTFs)](https://securitycafe.ro/2023/05/15/ai-hacking-games-jailbreak-ctfs/)
 * [2023-05-15, 19:54:24](https://lobste.rs/s/hjwpui/arch_linux_news_git_migration) - [Arch Linux - News: Git migration announcement](https://archlinux.org/news/git-migration-announcement/)
 * [2023-05-15, 18:57:41](https://lobste.rs/s/inxg9u/hand_386_delivers_true_386_processor) - [Hand 386 Delivers A \"True 386 Processor\" in a Handheld](https://www.tomshardware.com/news/hand-386-handheld)
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
@@ -22,7 +23,6 @@
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
-* [2023-05-14, 19:31:25](https://lobste.rs/s/nqosmz/timeline_digital_paint_draw_software) - [Timeline of digital paint and draw software](https://kristenroos.ca/timeline)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 

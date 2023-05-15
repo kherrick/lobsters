@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 20:00:57](https://lobste.rs/s/ipyuwh/ai_hacking_games_jailbreak_ctfs) - [AI Hacking Games (Jailbreak CTFs)](https://securitycafe.ro/2023/05/15/ai-hacking-games-jailbreak-ctfs/)
 * [2023-05-15, 19:54:24](https://lobste.rs/s/hjwpui/arch_linux_news_git_migration) - [Arch Linux - News: Git migration announcement](https://archlinux.org/news/git-migration-announcement/)
 * [2023-05-15, 18:57:41](https://lobste.rs/s/inxg9u/hand_386_delivers_true_386_processor) - [Hand 386 Delivers A \"True 386 Processor\" in a Handheld](https://www.tomshardware.com/news/hand-386-handheld)
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
