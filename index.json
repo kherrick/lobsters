@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 13:39:21",
+      "https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible"
+    ],
+    [
+      "Private class fields are incompatible with common frameworks",
+      "https://lea.verou.me/2023/04/private-fields-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 13:21:29",
       "https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp"
     ],
@@ -197,16 +207,6 @@
     [
       "Context-Free Grammar Parsing with LLMs",
       "https://matt-rickard.com/context-free-grammar-parsing-with-llms"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 12:51:06",
-      "https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code"
-    ],
-    [
-      "Making GHC faster at emitting code",
-      "https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/"
     ]
   ],
   [
