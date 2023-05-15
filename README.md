@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-15, 01:22:57](https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first) - [The Group Decode ROM: The 8086 processor's first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
@@ -15,7 +16,6 @@
 * [2023-05-14, 16:08:28](https://lobste.rs/s/w9qp6s/software_development_ethics) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
 * [2023-05-14, 15:56:26](https://lobste.rs/s/lgpph7/first_principles_on_ai_scaling) - [First-principles on AI scaling](https://dynomight.net/scaling/)
 * [2023-05-14, 12:51:06](https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
-* [2023-05-14, 12:38:53](https://lobste.rs/s/vyttof/assisted_generation_new_direction) - [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
 * [2023-05-14, 12:35:12](https://lobste.rs/s/foan2p/how_run_llama_13b_with_6gb_graphics_card) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 11:04:14](https://lobste.rs/s/aqijo6/connecting_electric_typewriter_modern) - [Connecting an electric typewriter to a modern computer](https://jbb.ghsq.ga/2022/03/12/electric-typewriter.html)
