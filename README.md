@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-05-14, 21:50:34](https://lobste.rs/s/pcgvro/relocation_overflow_code_models) - [Relocation overflow and code models](https://maskray.me/blog/2023-05-14-relocation-overflow-and-code-models)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
 * [2023-05-14, 19:55:05](https://lobste.rs/s/edogif/claude_s_constitution) - [Claude’s Constitution](https://www.anthropic.com/index/claudes-constitution)
@@ -17,7 +18,6 @@
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 11:04:14](https://lobste.rs/s/aqijo6/connecting_electric_typewriter_modern) - [Connecting an electric typewriter to a modern computer](https://jbb.ghsq.ga/2022/03/12/electric-typewriter.html)
 * [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
-* [2023-05-14, 09:42:22](https://lobste.rs/s/7579yq/introduction_dm_verity_embedded_device) - [An Introduction to Dm-verity in Embedded Device Security](https://www.starlab.io/blog/dm-verity-in-embedded-device-security)
 * [2023-05-14, 07:40:10](https://lobste.rs/s/45nklo/first_video_game) - [The First Video Game](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
