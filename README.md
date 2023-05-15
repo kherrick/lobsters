@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-15, 01:22:57](https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first) - [The Group Decode ROM: The 8086 processor's first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)
 * [2023-05-14, 21:50:34](https://lobste.rs/s/pcgvro/relocation_overflow_code_models) - [Relocation overflow and code models](https://maskray.me/blog/2023-05-14-relocation-overflow-and-code-models)
@@ -24,7 +25,6 @@
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-13, 19:55:35](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email) - [What do you use as your current email provider? Why is it better than your previous?](https://lobste.rs/s/ijenlh/what_do_you_use_as_your_current_email)
-* [2023-05-13, 13:07:35](https://lobste.rs/s/fvilxt/this_time_it_feels_different) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 
 ## [Archives](archives/index.md)
 
