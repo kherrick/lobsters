@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 12:19:02](https://lobste.rs/s/xki2c7/using_ox_hugo_build_websites_with_emacs) - [Using ox-hugo To Build Websites with Emacs](https://www.kengrimes.com/ox-hugo-tutorial/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
@@ -20,7 +21,6 @@
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 * [2023-05-14, 17:33:14](https://lobste.rs/s/hq5wo9/first_time_pc_user_can_t_work_computer_1995) - [First-time PC user can’t work computer (1995)](https://www.youtube.com/watch?v=0KDdU0DCbJA)
 * [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
-* [2023-05-14, 12:51:06](https://lobste.rs/s/6pz7uq/making_ghc_faster_at_emitting_code) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 12:35:12](https://lobste.rs/s/foan2p/how_run_llama_13b_with_6gb_graphics_card) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
