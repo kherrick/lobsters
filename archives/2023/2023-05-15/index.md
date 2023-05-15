@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
 * [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)
 * [2023-05-15, 10:37:25](https://lobste.rs/s/5tv6yc/detailed_walkthrough_procedure) - [Detailed walkthrough of procedure to uncensor models](https://erichartford.com/uncensored-models)
 * [2023-05-15, 10:00:43](https://lobste.rs/s/graz04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/graz04/what_are_you_doing_this_week)
