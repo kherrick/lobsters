@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 07:40:28](https://lobste.rs/s/ao9jce/cerebras_makes_it_easy_harness) - [Cerebras Makes It Easy to Harness the Predictive Power of GPT-J (2022)](https://www.cerebras.net/blog/cerebras-makes-it-easy-to-harness-the-predictive-power-of-gpt-j)
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-15, 01:22:57](https://lobste.rs/s/ndo4ko/group_decode_rom_8086_processor_s_first) - [The Group Decode ROM: The 8086 processor's first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
@@ -20,7 +21,6 @@
 * [2023-05-14, 11:51:40](https://lobste.rs/s/licgi6/diving_into_secret_macos_tool) - [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 11:04:14](https://lobste.rs/s/aqijo6/connecting_electric_typewriter_modern) - [Connecting an electric typewriter to a modern computer](https://jbb.ghsq.ga/2022/03/12/electric-typewriter.html)
 * [2023-05-14, 11:02:19](https://lobste.rs/s/ybzobk/bare_metal_actor_operating_system_for) - [A bare-metal actor operating system for Raspberry Pi](https://github.com/organix/mycelia)
-* [2023-05-14, 07:40:10](https://lobste.rs/s/45nklo/first_video_game) - [The First Video Game](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 * [2023-05-14, 04:11:02](https://lobste.rs/s/1lsezo/jep_439_generational_zgc) - [JEP 439: Generational ZGC](https://openjdk.org/jeps/439)
 * [2023-05-14, 03:13:21](https://lobste.rs/s/busqvh/prompt_injection_explained) - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-14, 01:19:54](https://lobste.rs/s/26rt1m/freebsd_13_2_on_thinkpad_t14_gen1) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
