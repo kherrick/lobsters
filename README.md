@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-15, 15:05:01](https://lobste.rs/s/sudrsj/programming_languages_festival_fun_2_day) - [Programming Languages Festival : Fun, 2-day, single-track, non-academic conference](https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024)
 * [2023-05-15, 14:16:06](https://lobste.rs/s/wpm6zd/sql_vs_nosql_cutting_through_tech_twitter) - [SQL vs. NoSQL - cutting through the Tech Twitter noise](https://payloadcms.com/blog/sql-vs-nosql-cutting-through-the-tech-twitter-noise)
 * [2023-05-15, 14:10:12](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt) - [How to develop apps with chatgpt?](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt)
 * [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
@@ -13,7 +14,6 @@
 * [2023-05-15, 08:25:21](https://lobste.rs/s/wakym4/introduction_fourier_transform_for) - [Introduction to the Fourier Transform For Image Processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
 * [2023-05-15, 08:12:15](https://lobste.rs/s/4no8lb/vanilla_fp_no_framework_framework_for) - [vanilla-fp - the no-framework framework for building component-based purely-functional UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 07:59:12](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
-* [2023-05-15, 07:54:15](https://lobste.rs/s/pshl44/weight_uncertainty_neural_networks_2018) - [Weight Uncertainty in Neural Networks (2018)](https://www.nitarshan.com/bayes-by-backprop/)
 * [2023-05-15, 07:05:17](https://lobste.rs/s/oo8g89/xstate_state_machine_library_for) - [XState - State machine library for javascript and typescript](https://xstate.js.org/docs/)
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-15, 00:55:21](https://lobste.rs/s/dr4aqx/do_papercuts_matter) - [Do papercuts matter?](https://registerspill.thorstenball.com/p/do-papercuts-matter)

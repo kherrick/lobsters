@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 15:05:01](https://lobste.rs/s/sudrsj/programming_languages_festival_fun_2_day) - [Programming Languages Festival : Fun, 2-day, single-track, non-academic conference](https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024)
 * [2023-05-15, 14:16:06](https://lobste.rs/s/wpm6zd/sql_vs_nosql_cutting_through_tech_twitter) - [SQL vs. NoSQL - cutting through the Tech Twitter noise](https://payloadcms.com/blog/sql-vs-nosql-cutting-through-the-tech-twitter-noise)
 * [2023-05-15, 14:10:12](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt) - [How to develop apps with chatgpt?](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt)
 * [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
