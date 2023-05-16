@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-16, 18:31:16](https://lobste.rs/s/bjzxu5/guidance_guidance_language_for) - [guidance: A guidance language for controlling large language models](https://github.com/microsoft/guidance)
+* [2023-05-16, 19:34:56](https://lobste.rs/s/hqbmti/more_memory_more_problems_single) - [More Memory, More Problems: The single Postgres setting that almost took down our database](https://medium.com/the-prefect-blog/more-memory-more-problems-b182d7807e3c)
 * [2023-05-16, 17:56:45](https://lobste.rs/s/1fkcoc/build_routing_web_app_with_neo4j) - [Build A Routing Web App With Neo4j, OpenStreetMap, and Leaflet.js](https://medium.com/neo4j/build-a-routing-web-app-with-neo4j-openstreetmap-and-leaflet-js-bdc66443132c)
 * [2023-05-16, 17:55:47](https://lobste.rs/s/hap5vv/release_0_4_x_dyrector_io_dyrectorio) - [Release 0.4.x · dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio/releases/tag/0.4.1)
 * [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)
