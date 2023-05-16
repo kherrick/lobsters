@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
@@ -24,7 +25,6 @@
 * [2023-05-15, 08:12:15](https://lobste.rs/s/4no8lb/vanilla_fp_no_framework_framework_for) - [vanilla-fp - the no-framework framework for building component-based purely-functional UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 07:59:12](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
-* [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
 
 ## [Archives](archives/index.md)
 
