@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
 * [2023-05-16, 01:32:50](https://lobste.rs/s/t7drvx/es2023_introduces_new_array_copying) - [ES2023 introduces new array copying methods to JavaScript](https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/)
@@ -9,7 +10,6 @@
 * [2023-05-15, 18:57:41](https://lobste.rs/s/inxg9u/hand_386_delivers_true_386_processor) - [Hand 386 Delivers A \"True 386 Processor\" in a Handheld](https://www.tomshardware.com/news/hand-386-handheld)
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
-* [2023-05-15, 15:58:52](https://lobste.rs/s/ckfvwo/event_sourcing_microservices_unix_style) - [Event Sourcing and Microservices – Unix Style](https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:32:30](https://lobste.rs/s/2szmg9/introducing_rwkv_for_hugging_face) - [Introducing RWKV [for Hugging Face Transformers]](https://huggingface.co/blog/rwkv)
 * [2023-05-15, 15:05:01](https://lobste.rs/s/sudrsj/programming_languages_festival_fun_2_day) - [Programming Languages Festival : Fun, 2-day, single-track, non-academic conference](https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024)

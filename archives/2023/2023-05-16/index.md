@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_you_teams_structured) - [How are you teams structured?](https://lobste.rs/s/sfoo81/how_are_you_teams_structured)
