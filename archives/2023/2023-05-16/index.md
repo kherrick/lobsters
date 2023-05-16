@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 08:41:00](https://lobste.rs/s/utfwip/continuous_code_reviews_using_non) - [Continuous Code Reviews using Non-Blocking Reviews - a case study](https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html)
 * [2023-05-16, 07:18:30](https://lobste.rs/s/zmm7o8/securely_hosting_user_data_modern_web) - [Securely Hosting User Data in Modern Web Applications](https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html)
 * [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
