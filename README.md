@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)
 * [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-05-16, 16:46:32](https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps) - [#1 WebAssembly and C++: Baby steps](https://twdev.blog/2023/05/wasm_cpp_01/)
 * [2023-05-16, 16:42:20](https://lobste.rs/s/epmfud/translating_akkadian_clay_tablet_with) - [Translating Akkadian clay tablet with chatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
@@ -12,7 +13,6 @@
 * [2023-05-16, 11:15:52](https://lobste.rs/s/66lqie/tailscaling_git_ht_game_curling) - [Tailscaling git.ht: the game of curling](https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f)
 * [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
-* [2023-05-16, 09:20:35](https://lobste.rs/s/dzrlqr/my_20_year_career_is_technical_debt) - [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-16, 07:18:30](https://lobste.rs/s/zmm7o8/securely_hosting_user_data_modern_web) - [Securely Hosting User Data in Modern Web Applications](https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html)
 * [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)

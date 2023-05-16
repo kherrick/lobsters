@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)
 * [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-05-16, 16:46:32](https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps) - [#1 WebAssembly and C++: Baby steps](https://twdev.blog/2023/05/wasm_cpp_01/)
 * [2023-05-16, 16:42:20](https://lobste.rs/s/epmfud/translating_akkadian_clay_tablet_with) - [Translating Akkadian clay tablet with chatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
