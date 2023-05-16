@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 07:18:30](https://lobste.rs/s/zmm7o8/securely_hosting_user_data_modern_web) - [Securely Hosting User Data in Modern Web Applications](https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html)
 * [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)

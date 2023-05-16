@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 07:18:30](https://lobste.rs/s/zmm7o8/securely_hosting_user_data_modern_web) - [Securely Hosting User Data in Modern Web Applications](https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html)
 * [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
@@ -17,7 +18,6 @@
 * [2023-05-15, 14:10:12](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt) - [How to develop apps with chatgpt?](https://lobste.rs/s/4qzq1t/how_develop_apps_with_chatgpt)
 * [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
-* [2023-05-15, 12:19:02](https://lobste.rs/s/xki2c7/using_ox_hugo_build_websites_with_emacs) - [Using ox-hugo To Build Websites with Emacs](https://www.kengrimes.com/ox-hugo-tutorial/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
 * [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)
 * [2023-05-15, 10:00:43](https://lobste.rs/s/graz04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/graz04/what_are_you_doing_this_week)
