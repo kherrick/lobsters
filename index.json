@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-16, 00:27:33",
+      "https://lobste.rs/s/wn0jag/tokens_from_tomorrow"
+    ],
+    [
+      "Tokens from Tomorrow",
+      "https://robertcunningham.xyz/scribe/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 23:02:47",
       "https://lobste.rs/s/dcde99/why_chatbots_are_not_future_interfaces"
     ],
@@ -237,16 +247,6 @@
     [
       "Build a desktop app with Qt and Rust",
       "https://blog.logrocket.com/build-desktop-app-qt-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 16:38:19",
-      "https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms"
-    ],
-    [
-      "Context-Free Grammar Parsing with LLMs",
-      "https://matt-rickard.com/context-free-grammar-parsing-with-llms"
     ]
   ]
 ]
