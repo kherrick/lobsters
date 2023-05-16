@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 17:56:45](https://lobste.rs/s/1fkcoc/build_routing_web_app_with_neo4j) - [Build A Routing Web App With Neo4j, OpenStreetMap, and Leaflet.js](https://medium.com/neo4j/build-a-routing-web-app-with-neo4j-openstreetmap-and-leaflet-js-bdc66443132c)
+* [2023-05-16, 17:55:47](https://lobste.rs/s/hap5vv/release_0_4_x_dyrector_io_dyrectorio) - [Release 0.4.x · dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio/releases/tag/0.4.1)
 * [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)
 * [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-05-16, 16:46:32](https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps) - [#1 WebAssembly and C++: Baby steps](https://twdev.blog/2023/05/wasm_cpp_01/)
