@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-16, 16:47:07",
+      "https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent"
+    ],
+    [
+      "FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support",
+      "http://www.call-with-current-continuation.org/fleng/fleng.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 16:46:32",
+      "https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps"
+    ],
+    [
+      "#1 WebAssembly and C++: Baby steps",
+      "https://twdev.blog/2023/05/wasm_cpp_01/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 16:42:20",
+      "https://lobste.rs/s/epmfud/translating_akkadian_clay_tablet_with"
+    ],
+    [
+      "Translating Akkadian clay tablet with chatGPT?",
+      "http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 15:57:27",
       "https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16"
     ],
@@ -97,16 +127,6 @@
     [
       "My 20 Year Career is Technical Debt or Deprecated",
       "https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 08:41:00",
-      "https://lobste.rs/s/utfwip/continuous_code_reviews_using_non"
-    ],
-    [
-      "Continuous Code Reviews using Non-Blocking Reviews - a case study",
-      "https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Kafka vs Redpanda Performance - Do the claims add up?",
       "https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 11:09:20",
-      "https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast"
-    ],
-    [
-      "Mathematically Correct Breakfast -- Linked Bagel Halves",
-      "https://georgehart.com/bagel/bagel.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 07:59:12",
-      "https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone"
-    ],
-    [
-      "The Maddest My Code Made Anyone",
-      "http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/"
     ]
   ]
 ]
