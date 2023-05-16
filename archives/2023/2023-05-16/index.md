@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 21:54:22](https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics) - [Storybits: Error Resistant Mnemonics (2017)](https://rya.nc/storybits.html)
 * [2023-05-16, 21:24:35](https://lobste.rs/s/7a6et1/serial_compilation_1401_fortran) - [Serial compilation and the 1401 FORTRAN compiler (1965)](https://ibm-1401.info/1401-IBM-Systems-Journal-FORTRAN.html)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
