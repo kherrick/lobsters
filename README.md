@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 22:16:17](https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it) - [Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS](https://www.usenix.org/conference/srecon23americas/presentation/malla)
 * [2023-05-16, 22:10:27](https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets) - [Datalab: A Linter for ML Datasets](https://cleanlab.ai/blog/datalab/)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
@@ -13,7 +14,6 @@
 * [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)
-* [2023-05-16, 13:51:11](https://lobste.rs/s/aplilu/compiling_bigloo_scheme_webassembly) - [Compiling Bigloo Scheme to WebAssembly](https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/)
 * [2023-05-16, 13:43:31](https://lobste.rs/s/z52y8e/erlang_otp_26_highlights) - [Erlang/OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 12:55:52](https://lobste.rs/s/dt18kx/porcelains) - [Porcelains](https://glazkov.com/2023/04/17/porcelains/)
 * [2023-05-16, 11:15:52](https://lobste.rs/s/66lqie/tailscaling_git_ht_game_curling) - [Tailscaling git.ht: the game of curling](https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f)

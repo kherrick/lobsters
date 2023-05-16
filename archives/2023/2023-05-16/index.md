@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 22:16:17](https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it) - [Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS](https://www.usenix.org/conference/srecon23americas/presentation/malla)
 * [2023-05-16, 22:10:27](https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets) - [Datalab: A Linter for ML Datasets](https://cleanlab.ai/blog/datalab/)
 * [2023-05-16, 21:54:22](https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics) - [Storybits: Error Resistant Mnemonics (2017)](https://rya.nc/storybits.html)
