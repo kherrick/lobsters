@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 22:16:17](https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it) - [Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS](https://www.usenix.org/conference/srecon23americas/presentation/malla)
+* [2023-05-16, 22:10:27](https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets) - [Datalab: A Linter for ML Datasets](https://cleanlab.ai/blog/datalab/)
 * [2023-05-16, 21:54:22](https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics) - [Storybits: Error Resistant Mnemonics (2017)](https://rya.nc/storybits.html)
 * [2023-05-16, 21:24:35](https://lobste.rs/s/7a6et1/serial_compilation_1401_fortran) - [Serial compilation and the 1401 FORTRAN compiler (1965)](https://ibm-1401.info/1401-IBM-Systems-Journal-FORTRAN.html)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
