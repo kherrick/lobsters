@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 13:43:31](https://lobste.rs/s/z52y8e/erlang_otp_26_highlights) - [Erlang/OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 13:13:19](https://lobste.rs/s/tjl1ou/new_zip_tld_is_going_cause_some_problems) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
 * [2023-05-16, 12:55:52](https://lobste.rs/s/dt18kx/porcelains) - [Porcelains](https://glazkov.com/2023/04/17/porcelains/)
 * [2023-05-16, 11:15:52](https://lobste.rs/s/66lqie/tailscaling_git_ht_game_curling) - [Tailscaling git.ht: the game of curling](https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f)
