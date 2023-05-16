@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)
 * [2023-05-16, 13:51:11](https://lobste.rs/s/aplilu/compiling_bigloo_scheme_webassembly) - [Compiling Bigloo Scheme to WebAssembly](https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/)
@@ -23,7 +24,6 @@
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
-* [2023-05-15, 10:56:43](https://lobste.rs/s/zvuirq/designing_packet_protocol_bare_metal) - [Designing A Packet Protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=VzOPdQukW1Q)
 * [2023-05-15, 07:59:12](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
 
 ## [Archives](archives/index.md)

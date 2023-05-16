@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)
 * [2023-05-16, 13:51:11](https://lobste.rs/s/aplilu/compiling_bigloo_scheme_webassembly) - [Compiling Bigloo Scheme to WebAssembly](https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/)
