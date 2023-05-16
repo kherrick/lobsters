@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 11:15:52](https://lobste.rs/s/66lqie/tailscaling_git_ht_game_curling) - [Tailscaling git.ht: the game of curling](https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f)
 * [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 * [2023-05-16, 09:20:35](https://lobste.rs/s/dzrlqr/my_20_year_career_is_technical_debt) - [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
@@ -10,7 +11,6 @@
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
 * [2023-05-16, 01:32:50](https://lobste.rs/s/t7drvx/es2023_introduces_new_array_copying) - [ES2023 introduces new array copying methods to JavaScript](https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/)
-* [2023-05-16, 00:27:33](https://lobste.rs/s/wn0jag/tokens_from_tomorrow) - [Tokens from Tomorrow](https://robertcunningham.xyz/scribe/)
 * [2023-05-15, 23:02:47](https://lobste.rs/s/dcde99/why_chatbots_are_not_future_interfaces) - [Why Chatbots Are Not the Future of Interfaces](https://wattenberger.com/thoughts/boo-chatbots)
 * [2023-05-15, 19:54:24](https://lobste.rs/s/hjwpui/arch_linux_news_git_migration) - [Arch Linux - News: Git migration announcement](https://archlinux.org/news/git-migration-announcement/)
 * [2023-05-15, 18:57:41](https://lobste.rs/s/inxg9u/hand_386_delivers_true_386_processor) - [Hand 386 Delivers A \"True 386 Processor\" in a Handheld](https://www.tomshardware.com/news/hand-386-handheld)
