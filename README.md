@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_you_teams_structured) - [How are you teams structured?](https://lobste.rs/s/sfoo81/how_are_you_teams_structured)
+* [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
 * [2023-05-16, 01:32:50](https://lobste.rs/s/t7drvx/es2023_introduces_new_array_copying) - [ES2023 introduces new array copying methods to JavaScript](https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/)
 * [2023-05-16, 00:27:33](https://lobste.rs/s/wn0jag/tokens_from_tomorrow) - [Tokens from Tomorrow](https://robertcunningham.xyz/scribe/)
 * [2023-05-15, 23:02:47](https://lobste.rs/s/dcde99/why_chatbots_are_not_future_interfaces) - [Why Chatbots Are Not the Future of Interfaces](https://wattenberger.com/thoughts/boo-chatbots)
