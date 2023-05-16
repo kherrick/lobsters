@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 21:24:35](https://lobste.rs/s/7a6et1/serial_compilation_1401_fortran) - [Serial compilation and the 1401 FORTRAN compiler (1965)](https://ibm-1401.info/1401-IBM-Systems-Journal-FORTRAN.html)
+* [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
 * [2023-05-16, 21:10:01](https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010) - [Math.h functions that seem unnecessary (2010)](https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/)
 * [2023-05-16, 20:22:59](https://lobste.rs/s/q5d2sq/building_deploying_mysql_raft_at_meta) - [Building and deploying MySQL Raft at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
