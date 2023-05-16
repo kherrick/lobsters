@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
+* [2023-05-16, 21:10:01](https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010) - [Math.h functions that seem unnecessary (2010)](https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/)
 * [2023-05-16, 20:22:59](https://lobste.rs/s/q5d2sq/building_deploying_mysql_raft_at_meta) - [Building and deploying MySQL Raft at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:52:10](https://lobste.rs/s/r2vlzz/how_futile_are_mindless_assessments) - [How Futile are Mindless Assessments of Roundoff in Floating-Point Computation? (2006)](https://people.eecs.berkeley.edu/~wkahan/Mindless.pdf)
