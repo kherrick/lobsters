@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 * [2023-05-16, 09:20:35](https://lobste.rs/s/dzrlqr/my_20_year_career_is_technical_debt) - [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-16, 08:41:00](https://lobste.rs/s/utfwip/continuous_code_reviews_using_non) - [Continuous Code Reviews using Non-Blocking Reviews - a case study](https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html)
@@ -16,7 +17,6 @@
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
-* [2023-05-15, 15:05:01](https://lobste.rs/s/sudrsj/programming_languages_festival_fun_2_day) - [Programming Languages Festival : Fun, 2-day, single-track, non-academic conference](https://www.kickstarter.com/projects/contextfree/programming-languages-festival-feb-2024)
 * [2023-05-15, 13:39:21](https://lobste.rs/s/wgywzn/private_class_fields_are_incompatible) - [Private class fields are incompatible with common frameworks](https://lea.verou.me/2023/04/private-fields-considered-harmful/)
 * [2023-05-15, 13:21:29](https://lobste.rs/s/ldxl42/windows_2000_64_bit_for_alpha_axp) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)

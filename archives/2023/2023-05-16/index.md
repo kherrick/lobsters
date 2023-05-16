@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 * [2023-05-16, 09:20:35](https://lobste.rs/s/dzrlqr/my_20_year_career_is_technical_debt) - [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-16, 08:41:00](https://lobste.rs/s/utfwip/continuous_code_reviews_using_non) - [Continuous Code Reviews using Non-Blocking Reviews - a case study](https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html)
