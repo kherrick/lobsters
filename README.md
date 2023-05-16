@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 00:27:33](https://lobste.rs/s/wn0jag/tokens_from_tomorrow) - [Tokens from Tomorrow](https://robertcunningham.xyz/scribe/)
 * [2023-05-15, 23:02:47](https://lobste.rs/s/dcde99/why_chatbots_are_not_future_interfaces) - [Why Chatbots Are Not the Future of Interfaces](https://wattenberger.com/thoughts/boo-chatbots)
 * [2023-05-15, 19:54:24](https://lobste.rs/s/hjwpui/arch_linux_news_git_migration) - [Arch Linux - News: Git migration announcement](https://archlinux.org/news/git-migration-announcement/)
 * [2023-05-15, 18:57:41](https://lobste.rs/s/inxg9u/hand_386_delivers_true_386_processor) - [Hand 386 Delivers A \"True 386 Processor\" in a Handheld](https://www.tomshardware.com/news/hand-386-handheld)
@@ -24,7 +25,6 @@
 * [2023-05-15, 02:49:37](https://lobste.rs/s/vdzzxr/idle_dr_dos) - [IDLE DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-14, 20:41:33](https://lobste.rs/s/zgscv0/map_github) - [Map of GitHub](https://anvaka.github.io/map-of-github/)
 * [2023-05-14, 18:55:21](https://lobste.rs/s/va4qoj/build_desktop_app_with_qt_rust) - [Build a desktop app with Qt and Rust](https://blog.logrocket.com/build-desktop-app-qt-rust/)
-* [2023-05-14, 16:38:19](https://lobste.rs/s/v6wfc3/context_free_grammar_parsing_with_llms) - [Context-Free Grammar Parsing with LLMs](https://matt-rickard.com/context-free-grammar-parsing-with-llms)
 
 ## [Archives](archives/index.md)
 
