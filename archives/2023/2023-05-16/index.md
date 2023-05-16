@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
+* [2023-05-16, 16:46:32](https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps) - [#1 WebAssembly and C++: Baby steps](https://twdev.blog/2023/05/wasm_cpp_01/)
+* [2023-05-16, 16:42:20](https://lobste.rs/s/epmfud/translating_akkadian_clay_tablet_with) - [Translating Akkadian clay tablet with chatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)

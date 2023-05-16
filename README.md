@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
+* [2023-05-16, 16:46:32](https://lobste.rs/s/y4mkqz/1_webassembly_c_baby_steps) - [#1 WebAssembly and C++: Baby steps](https://twdev.blog/2023/05/wasm_cpp_01/)
+* [2023-05-16, 16:42:20](https://lobste.rs/s/epmfud/translating_akkadian_clay_tablet_with) - [Translating Akkadian clay tablet with chatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)
@@ -10,7 +13,6 @@
 * [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 * [2023-05-16, 09:20:35](https://lobste.rs/s/dzrlqr/my_20_year_career_is_technical_debt) - [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
-* [2023-05-16, 08:41:00](https://lobste.rs/s/utfwip/continuous_code_reviews_using_non) - [Continuous Code Reviews using Non-Blocking Reviews - a case study](https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html)
 * [2023-05-16, 07:18:30](https://lobste.rs/s/zmm7o8/securely_hosting_user_data_modern_web) - [Securely Hosting User Data in Modern Web Applications](https://security.googleblog.com/2023/04/securely-hosting-user-data-in-modern.html)
 * [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 * [2023-05-16, 06:18:31](https://lobste.rs/s/ivgtie/netbsd_agm2023_annual_general_meeting) - [NetBSD AGM2023: Annual General Meeting](https://github.com/ebijun/NetBSD/blob/master/Guide/AGM/2023-agm.rst)
@@ -23,8 +25,6 @@
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
 * [2023-05-15, 15:48:09](https://lobste.rs/s/1zp3zn/kafka_vs_redpanda_performance_do_claims) - [Kafka vs Redpanda Performance - Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
-* [2023-05-15, 11:09:20](https://lobste.rs/s/e2dhg2/mathematically_correct_breakfast) - [Mathematically Correct Breakfast -- Linked Bagel Halves](https://georgehart.com/bagel/bagel.html)
-* [2023-05-15, 07:59:12](https://lobste.rs/s/mbwqac/maddest_my_code_made_anyone) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
 
 ## [Archives](archives/index.md)
 
