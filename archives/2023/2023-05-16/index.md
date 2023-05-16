@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:52:10](https://lobste.rs/s/r2vlzz/how_futile_are_mindless_assessments) - [How Futile are Mindless Assessments of Roundoff in Floating-Point Computation? (2006)](https://people.eecs.berkeley.edu/~wkahan/Mindless.pdf)
 * [2023-05-16, 19:44:44](https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
 * [2023-05-16, 19:34:56](https://lobste.rs/s/hqbmti/more_memory_more_problems_single) - [More Memory, More Problems: The single Postgres setting that almost took down our database](https://medium.com/the-prefect-blog/more-memory-more-problems-b182d7807e3c)

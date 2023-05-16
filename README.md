@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:52:10](https://lobste.rs/s/r2vlzz/how_futile_are_mindless_assessments) - [How Futile are Mindless Assessments of Roundoff in Floating-Point Computation? (2006)](https://people.eecs.berkeley.edu/~wkahan/Mindless.pdf)
 * [2023-05-16, 19:44:44](https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
 * [2023-05-16, 19:34:56](https://lobste.rs/s/hqbmti/more_memory_more_problems_single) - [More Memory, More Problems: The single Postgres setting that almost took down our database](https://medium.com/the-prefect-blog/more-memory-more-problems-b182d7807e3c)
@@ -20,7 +21,6 @@
 * [2023-05-16, 05:43:09](https://lobste.rs/s/uoczhn/debian_installer_bookworm_rc_3_release) - [Debian Installer Bookworm RC 3 release](https://lists.debian.org/debian-devel-announce/2023/05/msg00001.html)
 * [2023-05-16, 02:06:51](https://lobste.rs/s/sfoo81/how_are_your_teams_structured) - [How are your teams structured?](https://lobste.rs/s/sfoo81/how_are_your_teams_structured)
 * [2023-05-16, 01:32:50](https://lobste.rs/s/t7drvx/es2023_introduces_new_array_copying) - [ES2023 introduces new array copying methods to JavaScript](https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/)
-* [2023-05-15, 23:02:47](https://lobste.rs/s/dcde99/why_chatbots_are_not_future_interfaces) - [Why Chatbots Are Not the Future of Interfaces](https://wattenberger.com/thoughts/boo-chatbots)
 * [2023-05-15, 19:54:24](https://lobste.rs/s/hjwpui/arch_linux_news_git_migration) - [Arch Linux - News: Git migration announcement](https://archlinux.org/news/git-migration-announcement/)
 * [2023-05-15, 18:01:26](https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python) - [Real Multithreading is Coming to Python](https://martinheinz.dev/blog/97)
 * [2023-05-15, 16:00:46](https://lobste.rs/s/926cq7/large_language_models_plagiarism) - [Large language models and plagiarism](https://lcamtuf.substack.com/p/large-language-models-and-plagiarism)
