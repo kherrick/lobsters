@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-16, 23:27:47",
+      "https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity"
+    ],
+    [
+      "Development notes from xkcd's \"Gravity\" and \"Escape Speed\"",
+      "https://chromakode.com/post/xkcd-gravity-escape-speed/"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 22:16:17",
       "https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it"
     ],
@@ -127,16 +137,6 @@
     [
       "Real World Crypto 2023 Recap",
       "https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 13:51:11",
-      "https://lobste.rs/s/aplilu/compiling_bigloo_scheme_webassembly"
-    ],
-    [
-      "Compiling Bigloo Scheme to WebAssembly",
-      "https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/"
     ]
   ],
   [
