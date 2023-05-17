@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 02:15:56",
+      "https://lobste.rs/s/l0wlr2/remembering_john_conway_s_fractran"
+    ],
+    [
+      "Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language",
+      "https://raganwald.com/2020/05/03/fractran.html"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 23:27:47",
       "https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity"
     ],
@@ -67,16 +77,6 @@
     [
       "Why KDE Plasma was chosen as the default desktop environment for Asahi Linux",
       "https://social.treehouse.systems/@marcan/110366434912340959"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 19:34:56",
-      "https://lobste.rs/s/hqbmti/more_memory_more_problems_single"
-    ],
-    [
-      "More Memory, More Problems: The single Postgres setting that almost took down our database",
-      "https://medium.com/the-prefect-blog/more-memory-more-problems-b182d7807e3c"
     ]
   ],
   [
