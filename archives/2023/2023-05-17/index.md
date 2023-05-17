@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 20:24:04](https://lobste.rs/s/ao9dqd/redis_statistics_every_developer_should) - [Redis Statistics Every Developer Should Know](https://redis.com/blog/redis-statistics/)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_home_starcoder_fine_tuning) - [starcoder: Home of StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
