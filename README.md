@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-17, 12:49:54](https://lobste.rs/s/db42hq/design_patterns_revisited_modern_java_by) - [Design Patterns Revisited in Modern Java by Venkat Subramaniam](https://www.youtube.com/watch?v=V7iW27F9oog)
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
@@ -18,7 +19,6 @@
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 14:17:00](https://lobste.rs/s/mnlxjv/real_world_crypto_2023_recap) - [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/)
 * [2023-05-16, 13:43:31](https://lobste.rs/s/z52y8e/erlang_otp_26_highlights) - [Erlang/OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
-* [2023-05-16, 12:55:52](https://lobste.rs/s/dt18kx/porcelains) - [Porcelains](https://glazkov.com/2023/04/17/porcelains/)
 * [2023-05-16, 11:15:52](https://lobste.rs/s/66lqie/tailscaling_git_ht_game_curling) - [Tailscaling git.ht: the game of curling](https://vlad.git.ht/4b50ecb6e96e440429f3b22adb90fd1f)
 * [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 * [2023-05-16, 10:00:46](https://lobste.rs/s/u6ihie/my_interview_with_eelco_visser_on_parsing) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
