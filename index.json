@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-17, 12:19:14",
+      "https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks"
+    ],
+    [
+      "How Are Nullables Different From Mocks?",
+      "https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 12:07:37",
+      "https://lobste.rs/s/xduoqo/people_want_products_not_projects"
+    ],
+    [
+      "People want products, not projects",
+      "https://friendshipcastle.zip/blog/product-vs-project"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 11:32:56",
       "https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-05-16, 21:24:35",
-      "https://lobste.rs/s/7a6et1/serial_compilation_1401_fortran"
-    ],
-    [
-      "Serial compilation and the 1401 FORTRAN compiler (1965)",
-      "https://ibm-1401.info/1401-IBM-Systems-Journal-FORTRAN.html"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 21:22:20",
       "https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld"
     ],
@@ -87,16 +97,6 @@
     [
       "Inside DataDog’s $5M Outage",
       "https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 21:10:01",
-      "https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010"
-    ],
-    [
-      "Math.h functions that seem unnecessary (2010)",
-      "https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/"
     ]
   ],
   [
