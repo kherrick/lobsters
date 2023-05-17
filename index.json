@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 22:37:55",
+      "https://lobste.rs/s/wahgza/llm_numbers_numbers_every_llm_developer"
+    ],
+    [
+      "llm-numbers: Numbers every LLM developer should know",
+      "https://github.com/ray-project/llm-numbers"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 21:31:17",
       "https://lobste.rs/s/ql5zgd/simplest_usable_pc"
     ],
@@ -137,16 +147,6 @@
     [
       "Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS",
       "https://www.usenix.org/conference/srecon23americas/presentation/malla"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 22:10:27",
-      "https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets"
-    ],
-    [
-      "Datalab: A Linter for ML Datasets",
-      "https://cleanlab.ai/blog/datalab/"
     ]
   ],
   [
