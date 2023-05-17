@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-17, 14:22:07](https://lobste.rs/s/bza36n/0x61_openbsd_template_on_qemu_proxmox) - [『 0x61 』- OpenBSD template on QEMU/Proxmox](https://x61.sh/log/2023/05/17052023102313-qemu_proxmox_openbsd_template.html)
 * [2023-05-17, 14:08:01](https://lobste.rs/s/duxu6x/calibrating_troubleshooting_web_server) - [Calibrating and troubleshooting web-server (Jetty) performance](https://vlad.git.ht/602a0e1fe234285e9ef7bda6bfbc9ba6)
 * [2023-05-17, 12:49:54](https://lobste.rs/s/db42hq/design_patterns_revisited_modern_java_by) - [Design Patterns Revisited in Modern Java by Venkat Subramaniam](https://www.youtube.com/watch?v=V7iW27F9oog)
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
@@ -9,7 +10,6 @@
 * [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 22:16:17](https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it) - [Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS](https://www.usenix.org/conference/srecon23americas/presentation/malla)
 * [2023-05-16, 22:10:27](https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets) - [Datalab: A Linter for ML Datasets](https://cleanlab.ai/blog/datalab/)
-* [2023-05-16, 21:54:22](https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics) - [Storybits: Error Resistant Mnemonics (2017)](https://rya.nc/storybits.html)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
