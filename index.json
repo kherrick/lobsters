@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 18:32:38",
+      "https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization"
+    ],
+    [
+      "An Introduction to Bε -trees and Write-Optimization",
+      "http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 15:31:29",
       "https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference"
     ],
@@ -147,16 +157,6 @@
     [
       "Inside DataDog’s $5M Outage",
       "https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 21:10:01",
-      "https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010"
-    ],
-    [
-      "Math.h functions that seem unnecessary (2010)",
-      "https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/"
     ]
   ],
   [
