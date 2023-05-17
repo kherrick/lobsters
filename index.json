@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 15:31:29",
+      "https://lobste.rs/s/rhlfrz/starcoder_home_starcoder_fine_tuning"
+    ],
+    [
+      "starcoder: Home of StarCoder: fine-tuning & inference",
+      "https://github.com/bigcode-project/starcoder"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 15:09:52",
       "https://lobste.rs/s/y0mbnp/nickel_language"
     ],
@@ -237,16 +247,6 @@
     [
       "ES2023 introduces new array copying methods to JavaScript",
       "https://www.sonarsource.com/blog/es2023-new-array-copying-methods-javascript/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 18:01:26",
-      "https://lobste.rs/s/i9wbjm/real_multithreading_is_coming_python"
-    ],
-    [
-      "Real Multithreading is Coming to Python",
-      "https://martinheinz.dev/blog/97"
     ]
   ]
 ]
