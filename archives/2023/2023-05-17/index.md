@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 14:08:01](https://lobste.rs/s/duxu6x/calibrating_troubleshooting_web_server) - [Calibrating and troubleshooting web-server (Jetty) performance](https://vlad.git.ht/602a0e1fe234285e9ef7bda6bfbc9ba6)
 * [2023-05-17, 12:49:54](https://lobste.rs/s/db42hq/design_patterns_revisited_modern_java_by) - [Design Patterns Revisited in Modern Java by Venkat Subramaniam](https://www.youtube.com/watch?v=V7iW27F9oog)
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
