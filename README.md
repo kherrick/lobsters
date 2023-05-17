@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
 * [2023-05-17, 02:15:56](https://lobste.rs/s/l0wlr2/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 22:16:17](https://lobste.rs/s/wdcoab/logs_told_us_it_was_dns_it_looked_like_dns_it) - [Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS](https://www.usenix.org/conference/srecon23americas/presentation/malla)
@@ -11,7 +12,6 @@
 * [2023-05-16, 21:10:01](https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010) - [Math.h functions that seem unnecessary (2010)](https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:44:44](https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
-* [2023-05-16, 17:56:45](https://lobste.rs/s/1fkcoc/build_routing_web_app_with_neo4j) - [Build A Routing Web App With Neo4j, OpenStreetMap, and Leaflet.js](https://medium.com/neo4j/build-a-routing-web-app-with-neo4j-openstreetmap-and-leaflet-js-bdc66443132c)
 * [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)
 * [2023-05-16, 16:47:07](https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent) - [FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-05-16, 15:57:27](https://lobste.rs/s/pklyuz/sqlite_release_3_42_0_on_2023_05_16) - [SQLite Release 3.42.0 On 2023-05-16](https://sqlite.org/releaselog/3_42_0.html)
