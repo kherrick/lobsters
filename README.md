@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_home_starcoder_fine_tuning) - [starcoder: Home of StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
+* [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference) - [StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
 * [2023-05-17, 14:22:07](https://lobste.rs/s/bza36n/openbsd_template_on_qemu_proxmox) - [OpenBSD template on QEMU/Proxmox](https://x61.sh/log/2023/05/17052023102313-qemu_proxmox_openbsd_template.html)
 * [2023-05-17, 14:08:01](https://lobste.rs/s/duxu6x/calibrating_troubleshooting_web_server) - [Calibrating and troubleshooting web-server (Jetty) performance](https://vlad.git.ht/602a0e1fe234285e9ef7bda6bfbc9ba6)
