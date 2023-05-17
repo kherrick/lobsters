@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 20:24:04",
+      "https://lobste.rs/s/ao9dqd/redis_statistics_every_developer_should"
+    ],
+    [
+      "Redis Statistics Every Developer Should Know",
+      "https://redis.com/blog/redis-statistics/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 18:40:51",
       "https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss"
     ],
@@ -137,16 +147,6 @@
     [
       "Datalab: A Linter for ML Datasets",
       "https://cleanlab.ai/blog/datalab/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 21:54:22",
-      "https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics"
-    ],
-    [
-      "Storybits: Error Resistant Mnemonics (2017)",
-      "https://rya.nc/storybits.html"
     ]
   ],
   [
