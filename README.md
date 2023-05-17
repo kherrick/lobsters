@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference) - [StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
 * [2023-05-17, 14:22:07](https://lobste.rs/s/bza36n/openbsd_template_on_qemu_proxmox) - [OpenBSD template on QEMU/Proxmox](https://x61.sh/log/2023/05/17052023102313-qemu_proxmox_openbsd_template.html)
@@ -15,7 +16,6 @@
 * [2023-05-16, 21:54:22](https://lobste.rs/s/abok1f/storybits_error_resistant_mnemonics) - [Storybits: Error Resistant Mnemonics (2017)](https://rya.nc/storybits.html)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
-* [2023-05-16, 21:10:01](https://lobste.rs/s/fvpor3/math_h_functions_seem_unnecessary_2010) - [Math.h functions that seem unnecessary (2010)](https://www.johndcook.com/blog/2010/06/07/math-library-functions-that-seem-unnecessary/)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:44:44](https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
 * [2023-05-16, 17:11:19](https://lobste.rs/s/2vj6kz/python_family_languages) - [The Python Family of Languages](https://matt-rickard.com/the-python-family-of-languages)

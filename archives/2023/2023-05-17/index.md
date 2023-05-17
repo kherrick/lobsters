@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_home_starcoder_fine_tuning) - [starcoder: Home of StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
 * [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference) - [StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
