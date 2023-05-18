@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 02:00:38",
+      "https://lobste.rs/s/eiookj/read_every_single_error"
+    ],
+    [
+      "Read Every Single Error",
+      "https://www.pulumi.com/blog/reducing-our-error-rate/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 23:54:54",
       "https://lobste.rs/s/mvyti3/improving_performance_with_http"
     ],
@@ -237,16 +247,6 @@
     [
       "Qdrant Vector Search Engine is Written in Rust: Here's why",
       "https://qdrant.tech/articles/why_rust/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 06:43:43",
-      "https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer"
-    ],
-    [
-      "You should be reading academic computer science papers (2022)",
-      "https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/"
     ]
   ]
 ]
