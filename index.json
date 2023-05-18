@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-18, 12:51:04",
+      "https://lobste.rs/s/m0cj2a/hdr_color_management_kwin"
+    ],
+    [
+      "HDR and color management in KWin",
+      "https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 12:30:46",
+      "https://lobste.rs/s/i1hff5/announcing_sniffnet_v1_2_0"
+    ],
+    [
+      "Announcing Sniffnet v1.2.0",
+      "https://github.com/GyulyVGC/sniffnet/releases/tag/v1.2.0"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 09:37:01",
       "https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-05-17, 02:15:56",
-      "https://lobste.rs/s/l0wlr2/remembering_john_conway_s_fractran"
-    ],
-    [
-      "Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language",
-      "https://raganwald.com/2020/05/03/fractran.html"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 23:27:47",
       "https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity"
     ],
@@ -237,16 +247,6 @@
     [
       "Why KDE Plasma was chosen as the default desktop environment for Asahi Linux",
       "https://social.treehouse.systems/@marcan/110366434912340959"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 10:20:55",
-      "https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written"
-    ],
-    [
-      "Qdrant Vector Search Engine is Written in Rust: Here's why",
-      "https://qdrant.tech/articles/why_rust/"
     ]
   ]
 ]
