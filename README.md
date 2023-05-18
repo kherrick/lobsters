@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
 * [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
@@ -20,7 +21,6 @@
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
-* [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
