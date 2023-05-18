@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 08:59:51",
+      "https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations"
+    ],
+    [
+      "Teaching ChatGPT the Art of Lottie Animations",
+      "https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 08:14:13",
       "https://lobste.rs/s/hxqaed/pixar_technical_library"
     ],
@@ -227,16 +237,6 @@
     [
       "SQLite Release 3.42.0 On 2023-05-16",
       "https://sqlite.org/releaselog/3_42_0.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 15:48:18",
-      "https://lobste.rs/s/m10xjy/programming_find_1"
-    ],
-    [
-      "Programming in find(1)",
-      "http://www.chiark.greenend.org.uk/~pmaydell/find/"
     ]
   ],
   [
