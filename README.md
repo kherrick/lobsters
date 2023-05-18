@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-17, 23:54:54](https://lobste.rs/s/mvyti3/improving_performance_with_http) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 22:37:55](https://lobste.rs/s/wahgza/llm_numbers_numbers_every_llm_developer) - [llm-numbers: Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 21:31:17](https://lobste.rs/s/ql5zgd/simplest_usable_pc) - [Simplest Usable PC](https://www.youtube.com/watch?v=0u8IqqJ-YSI&list=PLYlQj5cfIcBU5SqFe6Uz4Q31_6VZyZ8h5&index=14)
@@ -24,7 +25,6 @@
 * [2023-05-16, 15:48:18](https://lobste.rs/s/m10xjy/programming_find_1) - [Programming in find(1)](http://www.chiark.greenend.org.uk/~pmaydell/find/)
 * [2023-05-16, 13:43:31](https://lobste.rs/s/z52y8e/erlang_otp_26_highlights) - [Erlang/OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
-* [2023-05-16, 06:43:43](https://lobste.rs/s/ymgdcq/you_should_be_reading_academic_computer) - [You should be reading academic computer science papers (2022)](https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/)
 
 ## [Archives](archives/index.md)
 
