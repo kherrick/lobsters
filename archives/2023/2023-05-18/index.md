@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 23:09:38](https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with) - [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
 * [2023-05-18, 19:45:04](https://lobste.rs/s/snooq9/security_implications_http_response) - [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
