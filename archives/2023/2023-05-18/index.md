@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
 * [2023-05-18, 19:45:04](https://lobste.rs/s/snooq9/security_implications_http_response) - [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
 * [2023-05-18, 19:07:35](https://lobste.rs/s/74bpih/tinystories_how_small_can_language) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2023-05-18, 18:52:48](https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u) - [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)

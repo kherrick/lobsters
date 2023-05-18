@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
 * [2023-05-18, 19:45:04](https://lobste.rs/s/snooq9/security_implications_http_response) - [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
 * [2023-05-18, 19:07:35](https://lobste.rs/s/74bpih/tinystories_how_small_can_language) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2023-05-18, 18:52:48](https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u) - [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)
@@ -20,7 +21,6 @@
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
 * [2023-05-17, 14:22:07](https://lobste.rs/s/bza36n/openbsd_template_on_qemu_proxmox) - [OpenBSD template on QEMU/Proxmox](https://x61.sh/log/2023/05/17052023102313-qemu_proxmox_openbsd_template.html)
-* [2023-05-17, 14:08:01](https://lobste.rs/s/duxu6x/calibrating_troubleshooting_web_server) - [Calibrating and troubleshooting web-server (Jetty) performance](https://vlad.git.ht/602a0e1fe234285e9ef7bda6bfbc9ba6)
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
