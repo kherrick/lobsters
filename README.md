@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 18:08:34](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one) - [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
@@ -12,7 +13,6 @@
 * [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-17, 23:54:54](https://lobste.rs/s/mvyti3/improving_performance_with_http) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 22:37:55](https://lobste.rs/s/wahgza/llm_numbers_numbers_every_llm_developer) - [llm-numbers: Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
-* [2023-05-17, 21:31:17](https://lobste.rs/s/ql5zgd/simplest_usable_pc) - [Simplest Usable PC](https://www.youtube.com/watch?v=0u8IqqJ-YSI&list=PLYlQj5cfIcBU5SqFe6Uz4Q31_6VZyZ8h5&index=14)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
