@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
+* [2023-05-18, 12:30:46](https://lobste.rs/s/i1hff5/announcing_sniffnet_v1_2_0) - [Announcing Sniffnet v1.2.0](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.2.0)
 * [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
 * [2023-05-18, 08:59:51](https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations) - [Teaching ChatGPT the Art of Lottie Animations](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
 * [2023-05-18, 08:14:13](https://lobste.rs/s/hxqaed/pixar_technical_library) - [Pixar technical library](https://graphics.pixar.com/library/)

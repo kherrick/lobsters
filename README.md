@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
+* [2023-05-18, 12:30:46](https://lobste.rs/s/i1hff5/announcing_sniffnet_v1_2_0) - [Announcing Sniffnet v1.2.0](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.2.0)
 * [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
 * [2023-05-18, 08:59:51](https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations) - [Teaching ChatGPT the Art of Lottie Animations](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
 * [2023-05-18, 08:14:13](https://lobste.rs/s/hxqaed/pixar_technical_library) - [Pixar technical library](https://graphics.pixar.com/library/)
@@ -18,13 +20,11 @@
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
-* [2023-05-17, 02:15:56](https://lobste.rs/s/l0wlr2/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
 * [2023-05-16, 20:09:27](https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop) - [Go proposal:  less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
 * [2023-05-16, 19:44:44](https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
-* [2023-05-16, 10:20:55](https://lobste.rs/s/ihlsnm/qdrant_vector_search_engine_is_written) - [Qdrant Vector Search Engine is Written in Rust: Here's why](https://qdrant.tech/articles/why_rust/)
 
 ## [Archives](archives/index.md)
 
