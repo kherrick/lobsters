@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 19:07:35",
+      "https://lobste.rs/s/74bpih/tinystories_how_small_can_language"
+    ],
+    [
+      "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+      "https://arxiv.org/abs/2305.07759"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 18:52:48",
       "https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u"
     ],
@@ -237,16 +247,6 @@
     [
       "Inside DataDog’s $5M Outage",
       "https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 19:44:44",
-      "https://lobste.rs/s/mi5vm1/why_kde_plasma_was_chosen_as_default"
-    ],
-    [
-      "Why KDE Plasma was chosen as the default desktop environment for Asahi Linux",
-      "https://social.treehouse.systems/@marcan/110366434912340959"
     ]
   ]
 ]
