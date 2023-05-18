@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 18:52:48",
+      "https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u"
+    ],
+    [
+      "Radxa Rock-5B PCIe and RTL8125B networking in U-boot",
+      "https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 18:08:34",
       "https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one"
     ],
@@ -227,16 +237,6 @@
     [
       "Inside DataDog’s $5M Outage",
       "https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 20:09:27",
-      "https://lobste.rs/s/0rvydn/go_proposal_less_error_prone_loop"
-    ],
-    [
-      "Go proposal:  less error-prone loop variable scoping",
-      "https://github.com/golang/go/issues/60078"
     ]
   ],
   [
