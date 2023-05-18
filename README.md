@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
 * [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
 * [2023-05-18, 12:30:46](https://lobste.rs/s/i1hff5/announcing_sniffnet_v1_2_0) - [Announcing Sniffnet v1.2.0](https://github.com/GyulyVGC/sniffnet/releases/tag/v1.2.0)
 * [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
@@ -13,7 +14,6 @@
 * [2023-05-17, 21:31:17](https://lobste.rs/s/ql5zgd/simplest_usable_pc) - [Simplest Usable PC](https://www.youtube.com/watch?v=0u8IqqJ-YSI&list=PLYlQj5cfIcBU5SqFe6Uz4Q31_6VZyZ8h5&index=14)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
-* [2023-05-17, 15:31:29](https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference) - [StarCoder: fine-tuning & inference](https://github.com/bigcode-project/starcoder)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
 * [2023-05-17, 14:22:07](https://lobste.rs/s/bza36n/openbsd_template_on_qemu_proxmox) - [OpenBSD template on QEMU/Proxmox](https://x61.sh/log/2023/05/17052023102313-qemu_proxmox_openbsd_template.html)
 * [2023-05-17, 14:08:01](https://lobste.rs/s/duxu6x/calibrating_troubleshooting_web_server) - [Calibrating and troubleshooting web-server (Jetty) performance](https://vlad.git.ht/602a0e1fe234285e9ef7bda6bfbc9ba6)
