@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 14:42:58",
+      "https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format"
+    ],
+    [
+      "Deco: Delimiter Collision Free Format",
+      "https://github.com/Enhex/Deco"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 12:51:04",
       "https://lobste.rs/s/m0cj2a/hdr_color_management_kwin"
     ],
@@ -127,16 +137,6 @@
     [
       "An Introduction to Bε -trees and Write-Optimization",
       "http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 15:31:29",
-      "https://lobste.rs/s/rhlfrz/starcoder_fine_tuning_inference"
-    ],
-    [
-      "StarCoder: fine-tuning & inference",
-      "https://github.com/bigcode-project/starcoder"
     ]
   ],
   [
