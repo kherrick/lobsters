@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 19:45:04](https://lobste.rs/s/snooq9/security_implications_http_response) - [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
 * [2023-05-18, 19:07:35](https://lobste.rs/s/74bpih/tinystories_how_small_can_language) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2023-05-18, 18:52:48](https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u) - [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)
 * [2023-05-18, 18:08:34](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one) - [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
@@ -24,7 +25,6 @@
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
-* [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)
 
 ## [Archives](archives/index.md)
 
