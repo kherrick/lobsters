@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 04:50:51",
+      "https://lobste.rs/s/o7rmhg/rfc_6920_naming_things_with_hashes_2013"
+    ],
+    [
+      "RFC 6920: Naming Things with Hashes (2013)",
+      "https://www.rfc-editor.org/rfc/rfc6920.html"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 02:00:38",
       "https://lobste.rs/s/eiookj/read_every_single_error"
     ],
@@ -197,16 +207,6 @@
     [
       "Why KDE Plasma was chosen as the default desktop environment for Asahi Linux",
       "https://social.treehouse.systems/@marcan/110366434912340959"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 16:47:07",
-      "https://lobste.rs/s/xyxmmw/fleng_14_compiler_for_family_concurrent"
-    ],
-    [
-      "FLENG 14: A compiler for a family of concurrent logic languages, now with \"PCN\" support",
-      "http://www.call-with-current-continuation.org/fleng/fleng.html"
     ]
   ],
   [
