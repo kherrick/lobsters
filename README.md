@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
 * [2023-05-18, 08:59:51](https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations) - [Teaching ChatGPT the Art of Lottie Animations](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
 * [2023-05-18, 08:14:13](https://lobste.rs/s/hxqaed/pixar_technical_library) - [Pixar technical library](https://graphics.pixar.com/library/)
 * [2023-05-18, 07:13:37](https://lobste.rs/s/osp4fs/wyvern_language_for_usable_design_driven) - [Wyvern: A Language for Usable Design Driven Assurance (2017)](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance/6b99464b4609dfba2d81157da175bf30b71e925f)
@@ -17,7 +18,6 @@
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
-* [2023-05-17, 02:15:56](https://lobste.rs/s/l0wlr2/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 23:27:47](https://lobste.rs/s/wbcfpw/development_notes_from_xkcd_s_gravity) - [Development notes from xkcd's \"Gravity\" and \"Escape Speed\"](https://chromakode.com/post/xkcd-gravity-escape-speed/)
 * [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 * [2023-05-16, 21:10:14](https://lobste.rs/s/gdipmg/inside_datadog_s_5m_outage) - [Inside DataDog’s $5M Outage](https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage)

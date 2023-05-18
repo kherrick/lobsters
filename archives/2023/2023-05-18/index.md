@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
 * [2023-05-18, 08:59:51](https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations) - [Teaching ChatGPT the Art of Lottie Animations](https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227)
 * [2023-05-18, 08:14:13](https://lobste.rs/s/hxqaed/pixar_technical_library) - [Pixar technical library](https://graphics.pixar.com/library/)
 * [2023-05-18, 07:13:37](https://lobste.rs/s/osp4fs/wyvern_language_for_usable_design_driven) - [Wyvern: A Language for Usable Design Driven Assurance (2017)](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance/6b99464b4609dfba2d81157da175bf30b71e925f)
