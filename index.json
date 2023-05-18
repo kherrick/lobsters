@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 08:14:13",
+      "https://lobste.rs/s/hxqaed/pixar_technical_library"
+    ],
+    [
+      "Pixar technical library",
+      "https://graphics.pixar.com/library/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 07:13:37",
       "https://lobste.rs/s/osp4fs/wyvern_language_for_usable_design_driven"
     ],
@@ -227,16 +237,6 @@
     [
       "Programming in find(1)",
       "http://www.chiark.greenend.org.uk/~pmaydell/find/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 13:43:31",
-      "https://lobste.rs/s/z52y8e/erlang_otp_26_highlights"
-    ],
-    [
-      "Erlang/OTP 26 Highlights",
-      "https://www.erlang.org/blog/otp-26-highlights/"
     ]
   ],
   [
