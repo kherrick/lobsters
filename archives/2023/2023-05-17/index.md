@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 23:54:54](https://lobste.rs/s/mvyti3/improving_performance_with_http) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 22:37:55](https://lobste.rs/s/wahgza/llm_numbers_numbers_every_llm_developer) - [llm-numbers: Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 21:31:17](https://lobste.rs/s/ql5zgd/simplest_usable_pc) - [Simplest Usable PC](https://www.youtube.com/watch?v=0u8IqqJ-YSI&list=PLYlQj5cfIcBU5SqFe6Uz4Q31_6VZyZ8h5&index=14)
 * [2023-05-17, 20:24:04](https://lobste.rs/s/ao9dqd/redis_statistics_every_developer_should) - [Redis Statistics Every Developer Should Know](https://redis.com/blog/redis-statistics/)
