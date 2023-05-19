@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-19, 10:55:00",
+      "https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using"
+    ],
+    [
+      "Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…",
+      "https://valberg.dk/django-sse-postgresql-listen-notify.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:50:27",
+      "https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro"
+    ],
+    [
+      "TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)",
+      "https://tinyapps.org/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 10:35:29",
       "https://lobste.rs/s/enfalx/zig_stdlib_http_client_server"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-05-18, 23:09:38",
-      "https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with"
-    ],
-    [
-      "Optimizing Mastodon Performance with Sidekiq and Redis Enterprise",
-      "https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 20:56:04",
       "https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services"
     ],
@@ -237,16 +247,6 @@
     [
       "\"Where have all the hackers gone?\" + a way to discuss programming languages",
       "https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 15:09:52",
-      "https://lobste.rs/s/y0mbnp/nickel_language"
-    ],
-    [
-      "Nickel language",
-      "https://nickel-lang.org/"
     ]
   ]
 ]
