@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
@@ -15,7 +16,6 @@
 * [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
 * [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
-* [2023-05-19, 06:47:25](https://lobste.rs/s/zfz8xr/giving_lending_async_closures) - [Giving, lending, and async closures](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
 * [2023-05-19, 06:11:12](https://lobste.rs/s/2wbr0s/nabu_network_dedicated_preserving_nabu) - [The NABU Network | Dedicated to preserving NABU PCs](https://www.nabunetwork.com/)

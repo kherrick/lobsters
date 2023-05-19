@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
