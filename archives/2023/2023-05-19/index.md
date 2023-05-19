@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 20:35:46](https://lobste.rs/s/cxdkra/transformers_united_introduction) - [Transformers United: Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 * [2023-05-19, 20:12:41](https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml) - [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 19:51:21](https://lobste.rs/s/lvtrgg/building_weather_station) - [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)

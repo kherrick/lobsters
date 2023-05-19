@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 20:35:46](https://lobste.rs/s/cxdkra/transformers_united_introduction) - [Transformers United: Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 * [2023-05-19, 20:12:41](https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml) - [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 19:51:21](https://lobste.rs/s/lvtrgg/building_weather_station) - [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)
@@ -23,7 +24,6 @@
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
-* [2023-05-18, 18:08:34](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one) - [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 
 ## [Archives](archives/index.md)
