@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
 * [2023-05-19, 15:13:18](https://lobste.rs/s/kbvmer/early_computer_art_50_s_60_s) - [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
@@ -18,7 +19,6 @@
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
 * [2023-05-19, 06:11:12](https://lobste.rs/s/2wbr0s/nabu_network_dedicated_preserving_nabu) - [The NABU Network | Dedicated to preserving NABU PCs](https://www.nabunetwork.com/)
-* [2023-05-19, 05:57:01](https://lobste.rs/s/2xnhtk/open_switch_curve_meter) - [Open switch curve meter](https://github.com/bluepylons/Open-Switch-Curve-Meter)
 * [2023-05-19, 02:54:46](https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools) - [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
