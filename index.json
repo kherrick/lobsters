@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-19, 13:17:35",
+      "https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time"
+    ],
+    [
+      "Andreas Kling is sure it'll work this time",
+      "https://youtu.be/Hc_3uNUE9WU"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 12:32:54",
       "https://lobste.rs/s/d6cazt/flows_network_serverless_workflow"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-05-19, 06:47:25",
-      "https://lobste.rs/s/zfz8xr/giving_lending_async_closures"
-    ],
-    [
-      "Giving, lending, and async closures",
-      "https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 06:45:38",
       "https://lobste.rs/s/ssfszf/stop_saying_c_c"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-05-19, 06:00:09",
-      "https://lobste.rs/s/6m2cn5/gentle_introduction_8_bit_matrix"
+      "2023-05-19, 05:57:01",
+      "https://lobste.rs/s/2xnhtk/open_switch_curve_meter"
     ],
     [
-      "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale",
-      "https://huggingface.co/blog/hf-bitsandbytes-integration"
+      "Open switch curve meter",
+      "https://github.com/bluepylons/Open-Switch-Curve-Meter"
     ]
   ],
   [
