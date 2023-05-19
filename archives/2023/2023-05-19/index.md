@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
+* [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
 * [2023-05-19, 09:31:40](https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai) - [MTIA v1: Meta's first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)

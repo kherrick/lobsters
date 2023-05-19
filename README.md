@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
+* [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
 * [2023-05-19, 09:31:40](https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai) - [MTIA v1: Meta's first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
@@ -15,8 +17,6 @@
 * [2023-05-18, 23:09:38](https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with) - [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
-* [2023-05-18, 19:45:04](https://lobste.rs/s/snooq9/security_implications_http_response) - [Security implications of HTTP response headers](https://snyk.io/blog/security-implications-of-http-response-headers/)
-* [2023-05-18, 19:07:35](https://lobste.rs/s/74bpih/tinystories_how_small_can_language) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2023-05-18, 18:52:48](https://lobste.rs/s/u5qpsz/radxa_rock_5b_pcie_rtl8125b_networking_u) - [Radxa Rock-5B PCIe and RTL8125B networking in U-boot](https://www.collabora.com/news-and-blog/blog/2023/05/18/radxa-rock-5b-pcie-rtl8125b-networking-uboot/)
 * [2023-05-18, 18:08:34](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one) - [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
