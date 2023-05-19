@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
 * [2023-05-19, 10:55:00](https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…](https://valberg.dk/django-sse-postgresql-listen-notify.html)
 * [2023-05-19, 10:50:27](https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro) - [TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)](https://tinyapps.org/)
 * [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
