@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 05:26:05](https://lobste.rs/s/ipvo4k/future_programming) - [The Future of Programming](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-19, 02:54:46](https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools) - [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
 * [2023-05-18, 23:09:38](https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with) - [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
@@ -24,7 +25,6 @@
 * [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
-* [2023-05-16, 21:22:20](https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld) - [The Dangers of Google’s .zip TLD](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5)
 
 ## [Archives](archives/index.md)
 
