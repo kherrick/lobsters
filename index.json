@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-05-19, 10:50:27",
-      "https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro"
-    ],
-    [
-      "TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)",
-      "https://tinyapps.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 10:35:29",
       "https://lobste.rs/s/enfalx/zig_stdlib_http_client_server"
     ],
@@ -177,6 +167,16 @@
     [
       "Against LLM maximalism",
       "https://explosion.ai/blog/against-llm-maximalism"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 09:31:40",
+      "https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai"
+    ],
+    [
+      "MTIA v1: Meta's first-generation AI inference accelerator",
+      "https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/"
     ]
   ],
   [
