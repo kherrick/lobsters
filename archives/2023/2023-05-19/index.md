@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 18:39:40](https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions) - [C++ Member Functions vs. Free Functions](https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html)
 * [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)

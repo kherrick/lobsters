@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 18:39:40](https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions) - [C++ Member Functions vs. Free Functions](https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html)
 * [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
@@ -24,7 +25,6 @@
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
 * [2023-05-18, 18:08:34](https://lobste.rs/s/b7zr5p/procomm_plus_for_windows_one_world_one) - [PROCOMM PLUS for Windows - One World. One Communications Software](https://computeradsfromthepast.substack.com/p/procomm-plus-for-windows)
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
-* [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 
 ## [Archives](archives/index.md)
 
