@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-19, 10:18:12",
+      "https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:07:58",
+      "https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop"
+    ],
+    [
+      "Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory",
+      "https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 09:56:59",
       "https://lobste.rs/s/lqserq/against_llm_maximalism"
     ],
@@ -147,26 +167,6 @@
     [
       "SIGBOVIK 0x2023",
       "http://sigbovik.org/2023/proceedings.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 19:45:04",
-      "https://lobste.rs/s/snooq9/security_implications_http_response"
-    ],
-    [
-      "Security implications of HTTP response headers",
-      "https://snyk.io/blog/security-implications-of-http-response-headers/"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 19:07:35",
-      "https://lobste.rs/s/74bpih/tinystories_how_small_can_language"
-    ],
-    [
-      "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
-      "https://arxiv.org/abs/2305.07759"
     ]
   ],
   [
