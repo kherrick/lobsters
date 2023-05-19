@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-19, 06:47:25",
+      "https://lobste.rs/s/zfz8xr/giving_lending_async_closures"
+    ],
+    [
+      "Giving, lending, and async closures",
+      "https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 06:45:38",
       "https://lobste.rs/s/ssfszf/stop_saying_c_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Nickel language",
       "https://nickel-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 11:32:56",
-      "https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file"
-    ],
-    [
-      "Taking Rust to the Cloud: Blazingly Fast File Sharing",
-      "https://blog.orhun.dev/blazingly-fast-file-sharing/"
     ]
   ]
 ]
