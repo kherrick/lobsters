@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
 * [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)

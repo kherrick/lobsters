@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
 * [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
@@ -22,7 +23,6 @@
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
-* [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
 
