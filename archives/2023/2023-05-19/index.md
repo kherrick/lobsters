@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
+* [2023-05-19, 12:24:18](https://lobste.rs/s/fbpgm0/first_kaios_3_x_device_jailbreak_nokia) - [First KaiOS 3.x device jailbreak: Nokia 2780 Flip](https://wiki.bananahackers.net/en/devices/nokia-2780-flip)
+* [2023-05-19, 12:10:50](https://lobste.rs/s/cvibgo/floating_point_guide_what_every) - [The floating-point guide — What every programmer should know about floating-point arithmetic](https://floating-point-gui.de)
 * [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
 * [2023-05-19, 10:55:00](https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…](https://valberg.dk/django-sse-postgresql-listen-notify.html)
 * [2023-05-19, 10:50:27](https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro) - [TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)](https://tinyapps.org/)

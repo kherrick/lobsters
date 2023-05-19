@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
+* [2023-05-19, 12:24:18](https://lobste.rs/s/fbpgm0/first_kaios_3_x_device_jailbreak_nokia) - [First KaiOS 3.x device jailbreak: Nokia 2780 Flip](https://wiki.bananahackers.net/en/devices/nokia-2780-flip)
+* [2023-05-19, 12:10:50](https://lobste.rs/s/cvibgo/floating_point_guide_what_every) - [The floating-point guide — What every programmer should know about floating-point arithmetic](https://floating-point-gui.de)
 * [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
 * [2023-05-19, 10:55:00](https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…](https://valberg.dk/django-sse-postgresql-listen-notify.html)
 * [2023-05-19, 10:50:27](https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro) - [TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)](https://tinyapps.org/)
@@ -15,8 +18,6 @@
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
 * [2023-05-19, 06:11:12](https://lobste.rs/s/2wbr0s/nabu_network_dedicated_preserving_nabu) - [The NABU Network | Dedicated to preserving NABU PCs](https://www.nabunetwork.com/)
 * [2023-05-19, 06:00:09](https://lobste.rs/s/6m2cn5/gentle_introduction_8_bit_matrix) - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale](https://huggingface.co/blog/hf-bitsandbytes-integration)
-* [2023-05-19, 05:57:01](https://lobste.rs/s/2xnhtk/open_switch_curve_meter) - [Open switch curve meter](https://github.com/bluepylons/Open-Switch-Curve-Meter)
-* [2023-05-19, 05:26:05](https://lobste.rs/s/ipvo4k/future_programming) - [The Future of Programming](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-19, 02:54:46](https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools) - [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
@@ -24,7 +25,6 @@
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
-* [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 
 ## [Archives](archives/index.md)
 
