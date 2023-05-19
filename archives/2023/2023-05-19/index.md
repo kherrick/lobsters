@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 09:31:40](https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai) - [MTIA v1: Meta's first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 06:47:25](https://lobste.rs/s/zfz8xr/giving_lending_async_closures) - [Giving, lending, and async closures](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)
