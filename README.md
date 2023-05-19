@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 05:57:01](https://lobste.rs/s/2xnhtk/open_switch_curve_meter) - [Open switch curve meter](https://github.com/bluepylons/Open-Switch-Curve-Meter)
 * [2023-05-19, 05:26:05](https://lobste.rs/s/ipvo4k/future_programming) - [The Future of Programming](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-19, 02:54:46](https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools) - [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
 * [2023-05-18, 23:09:38](https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with) - [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
@@ -22,7 +23,6 @@
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
-* [2023-05-17, 12:19:14](https://lobste.rs/s/aqez4c/how_are_nullables_different_from_mocks) - [How Are Nullables Different From Mocks?](https://www.jamesshore.com/v2/projects/nullables/how-are-nullables-different-from-mocks)
 * [2023-05-17, 12:07:37](https://lobste.rs/s/xduoqo/people_want_products_not_projects) - [People want products, not projects](https://friendshipcastle.zip/blog/product-vs-project)
 * [2023-05-17, 11:32:56](https://lobste.rs/s/enz2ir/taking_rust_cloud_blazingly_fast_file) - [Taking Rust to the Cloud: Blazingly Fast File Sharing](https://blog.orhun.dev/blazingly-fast-file-sharing/)
 
