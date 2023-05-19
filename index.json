@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-19, 06:11:12",
+      "https://lobste.rs/s/2wbr0s/nabu_network_dedicated_preserving_nabu"
+    ],
+    [
+      "The NABU Network | Dedicated to preserving NABU PCs",
+      "https://www.nabunetwork.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 06:00:09",
+      "https://lobste.rs/s/6m2cn5/gentle_introduction_8_bit_matrix"
+    ],
+    [
+      "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale",
+      "https://huggingface.co/blog/hf-bitsandbytes-integration"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 05:57:01",
       "https://lobste.rs/s/2xnhtk/open_switch_curve_meter"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-05-18, 08:59:51",
-      "https://lobste.rs/s/c4hhuz/teaching_chatgpt_art_lottie_animations"
-    ],
-    [
-      "Teaching ChatGPT the Art of Lottie Animations",
-      "https://medium.com/@animishmish/teaching-chatgpt-to-create-lottie-animations-5cba189b1227"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 08:14:13",
       "https://lobste.rs/s/hxqaed/pixar_technical_library"
     ],
@@ -207,16 +217,6 @@
     [
       "\"Where have all the hackers gone?\" + a way to discuss programming languages",
       "https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 18:32:38",
-      "https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization"
-    ],
-    [
-      "An Introduction to Bε -trees and Write-Optimization",
-      "http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf"
     ]
   ],
   [
