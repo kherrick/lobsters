@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 15:13:18](https://lobste.rs/s/kbvmer/early_computer_art_50_s_60_s) - [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 * [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
 * [2023-05-19, 12:24:18](https://lobste.rs/s/fbpgm0/first_kaios_3_x_device_jailbreak_nokia) - [First KaiOS 3.x device jailbreak: Nokia 2780 Flip](https://wiki.bananahackers.net/en/devices/nokia-2780-flip)
 * [2023-05-19, 12:10:50](https://lobste.rs/s/cvibgo/floating_point_guide_what_every) - [The floating-point guide — What every programmer should know about floating-point arithmetic](https://floating-point-gui.de)
 * [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
 * [2023-05-19, 10:55:00](https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…](https://valberg.dk/django-sse-postgresql-listen-notify.html)
-* [2023-05-19, 10:50:27](https://lobste.rs/s/kx1prm/tinyapps_interesting_resource_for_retro) - [TinyApps -- an interesting resource for retro Windows (& PalmOS & early Mac OS X)](https://tinyapps.org/)
 * [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
 * [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
