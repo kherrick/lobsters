@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 * [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
 * [2023-05-19, 12:24:18](https://lobste.rs/s/fbpgm0/first_kaios_3_x_device_jailbreak_nokia) - [First KaiOS 3.x device jailbreak: Nokia 2780 Flip](https://wiki.bananahackers.net/en/devices/nokia-2780-flip)
 * [2023-05-19, 12:10:50](https://lobste.rs/s/cvibgo/floating_point_guide_what_every) - [The floating-point guide — What every programmer should know about floating-point arithmetic](https://floating-point-gui.de)
