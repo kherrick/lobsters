@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 06:47:25](https://lobste.rs/s/zfz8xr/giving_lending_async_closures) - [Giving, lending, and async closures](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
@@ -19,7 +20,6 @@
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
 * [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
-* [2023-05-18, 09:37:01](https://lobste.rs/s/dcqnkv/organize_business_logic_your_ruby_on) - [Organize Business Logic in Your Ruby on Rails Application](https://blog.appsignal.com/2023/05/10/organize-business-logic-in-your-ruby-on-rails-application.html)
 * [2023-05-18, 08:14:13](https://lobste.rs/s/hxqaed/pixar_technical_library) - [Pixar technical library](https://graphics.pixar.com/library/)
 * [2023-05-18, 04:50:51](https://lobste.rs/s/o7rmhg/rfc_6920_naming_things_with_hashes_2013) - [RFC 6920: Naming Things with Hashes (2013)](https://www.rfc-editor.org/rfc/rfc6920.html)
 * [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)

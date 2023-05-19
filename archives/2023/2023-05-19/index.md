@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 06:47:25](https://lobste.rs/s/zfz8xr/giving_lending_async_closures) - [Giving, lending, and async closures](https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/)
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
