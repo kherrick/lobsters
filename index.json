@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-19, 18:39:40",
+      "https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions"
+    ],
+    [
+      "C++ Member Functions vs. Free Functions",
+      "https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 18:32:33",
       "https://lobste.rs/s/sjjtd2/user_stories_thanks_no"
     ],
@@ -237,16 +247,6 @@
     [
       "LMDB - the first version of Redis written in Tcl",
       "https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 15:04:52",
-      "https://lobste.rs/s/rrzagj/simple_joys_scaling_up"
-    ],
-    [
-      "The Simple Joys of Scaling Up",
-      "https://motherduck.com/blog/the-simple-joys-of-scaling-up/"
     ]
   ]
 ]
