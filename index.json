@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-19, 05:26:05",
+      "https://lobste.rs/s/ipvo4k/future_programming"
+    ],
+    [
+      "The Future of Programming",
+      "https://signalsandthreads.com/future-of-programming/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 02:54:46",
       "https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools"
     ],
@@ -237,16 +247,6 @@
     [
       "Taking Rust to the Cloud: Blazingly Fast File Sharing",
       "https://blog.orhun.dev/blazingly-fast-file-sharing/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 21:22:20",
-      "https://lobste.rs/s/1uyazs/dangers_google_s_zip_tld"
-    ],
-    [
-      "The Dangers of Google’s .zip TLD",
-      "https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5"
     ]
   ]
 ]
