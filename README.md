@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
 * [2023-05-19, 09:31:40](https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai) - [MTIA v1: Meta's first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
@@ -21,7 +22,6 @@
 * [2023-05-18, 16:00:45](https://lobste.rs/s/7wgx28/lmdb_first_version_redis_written_tcl) - [LMDB - the first version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:04:52](https://lobste.rs/s/rrzagj/simple_joys_scaling_up) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:42:58](https://lobste.rs/s/jgpnkq/deco_delimiter_collision_free_format) - [Deco: Delimiter Collision Free Format](https://github.com/Enhex/Deco)
-* [2023-05-18, 12:51:04](https://lobste.rs/s/m0cj2a/hdr_color_management_kwin) - [HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/05/18/hdr-and-color-management-in-kwin)
 * [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
