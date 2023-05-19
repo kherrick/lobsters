@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
 * [2023-05-19, 15:13:18](https://lobste.rs/s/kbvmer/early_computer_art_50_s_60_s) - [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 * [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
