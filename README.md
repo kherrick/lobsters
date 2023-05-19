@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
 * [2023-05-19, 15:13:18](https://lobste.rs/s/kbvmer/early_computer_art_50_s_60_s) - [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
-* [2023-05-19, 12:32:54](https://lobste.rs/s/d6cazt/flows_network_serverless_workflow) - [Flows.network: Serverless workflow automation and tooling for large language models](https://flows.network/)
 * [2023-05-19, 12:24:18](https://lobste.rs/s/fbpgm0/first_kaios_3_x_device_jailbreak_nokia) - [First KaiOS 3.x device jailbreak: Nokia 2780 Flip](https://wiki.bananahackers.net/en/devices/nokia-2780-flip)
 * [2023-05-19, 12:10:50](https://lobste.rs/s/cvibgo/floating_point_guide_what_every) - [The floating-point guide — What every programmer should know about floating-point arithmetic](https://floating-point-gui.de)
 * [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
