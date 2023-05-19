@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-19, 02:54:46](https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools) - [Making a Multi-User ChatGPT as an April Fools Joke](https://izzy.sh/blog/00002-lunai-beginnings/)
 * [2023-05-18, 23:09:38](https://lobste.rs/s/kfg2tx/optimizing_mastodon_performance_with) - [Optimizing Mastodon Performance with Sidekiq and Redis Enterprise](https://thenewstack.io/optimizing-mastodon-performance-with-sidekiq-and-redis-enterprise/)
 * [2023-05-18, 20:56:04](https://lobste.rs/s/pbd5xe/expand_contract_for_databases_services) - [Expand Contract for Databases and Services](https://andydote.co.uk/2023/05/18/expand-contract/)
 * [2023-05-18, 20:32:04](https://lobste.rs/s/18sfg2/sigbovik_0x2023) - [SIGBOVIK 0x2023](http://sigbovik.org/2023/proceedings.pdf)
@@ -17,7 +18,6 @@
 * [2023-05-18, 07:13:37](https://lobste.rs/s/osp4fs/wyvern_language_for_usable_design_driven) - [Wyvern: A Language for Usable Design Driven Assurance (2017)](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance/6b99464b4609dfba2d81157da175bf30b71e925f)
 * [2023-05-18, 04:50:51](https://lobste.rs/s/o7rmhg/rfc_6920_naming_things_with_hashes_2013) - [RFC 6920: Naming Things with Hashes (2013)](https://www.rfc-editor.org/rfc/rfc6920.html)
 * [2023-05-18, 02:00:38](https://lobste.rs/s/eiookj/read_every_single_error) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
-* [2023-05-17, 23:54:54](https://lobste.rs/s/mvyti3/improving_performance_with_http) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 18:40:51](https://lobste.rs/s/jhuosw/where_have_all_hackers_gone_way_discuss) - [\"Where have all the hackers gone?\" + a way to discuss programming languages](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-17, 18:32:38](https://lobste.rs/s/epd9z2/introduction_b_trees_write_optimization) - [An Introduction to Bε -trees and Write-Optimization](http://supertech.csail.mit.edu/papers/BenderFaJa15.pdf)
 * [2023-05-17, 15:09:52](https://lobste.rs/s/y0mbnp/nickel_language) - [Nickel language](https://nickel-lang.org/)
