@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-19, 20:12:41",
+      "https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml"
+    ],
+    [
+      "Petrol: embedding a type-safe SQL API in OCaml using GADTs",
+      "https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 20:08:27",
+      "https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon"
+    ],
+    [
+      "Zig stdlib to get HTTP client soon",
+      "https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 19:51:21",
       "https://lobste.rs/s/lvtrgg/building_weather_station"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-05-19, 09:31:40",
-      "https://lobste.rs/s/ohfgao/mtia_v1_meta_s_first_generation_ai"
-    ],
-    [
-      "MTIA v1: Meta's first-generation AI inference accelerator",
-      "https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 07:45:29",
       "https://lobste.rs/s/l0m9dx/high_performance_tidy_trees"
     ],
@@ -207,16 +217,6 @@
     [
       "Running Ruby 3.2's YJIT in Production at Discourse",
       "https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 02:54:46",
-      "https://lobste.rs/s/mwktml/making_multi_user_chatgpt_as_april_fools"
-    ],
-    [
-      "Making a Multi-User ChatGPT as an April Fools Joke",
-      "https://izzy.sh/blog/00002-lunai-beginnings/"
     ]
   ],
   [
