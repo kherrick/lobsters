@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 13:18:29",
+      "https://lobste.rs/s/vw3wgr/cargo_cult_ai"
+    ],
+    [
+      "Cargo Cult AI",
+      "https://queue.acm.org/detail.cfm?ref=rss&id=3595860"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 12:48:16",
       "https://lobste.rs/s/p7ckkd/my_robotic_mower_woes"
     ],
@@ -167,16 +177,6 @@
     [
       "The absurd cost of finalizers in Go",
       "https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 15:41:06",
-      "https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with"
-    ],
-    [
-      "Deploying OpenBSD template with terraform on proxmox",
-      "https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html"
     ]
   ],
   [
