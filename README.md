@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-20, 09:59:16](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:13:11](https://lobste.rs/s/rbqy38/envisioning_simplified_intel) - [Envisioning a Simplified Intel Architecture for the Future](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-20, 07:47:31](https://lobste.rs/s/jxigt4/happiness_is_good_pythonstartup_script) - [Happiness is a good PYTHONSTARTUP script](https://bitecode.substack.com/p/happiness-is-a-good-pythonstartup)
 * [2023-05-20, 07:38:26](https://lobste.rs/s/vmkjgz/web_archive_wikipedia) - [Web ARChive - Wikipedia](https://en.wikipedia.org/wiki/Web_ARChive)
@@ -11,7 +12,6 @@
 * [2023-05-19, 23:56:54](https://lobste.rs/s/u1gvzp/debugging_fuse_deadlock_linux_kernel) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
 * [2023-05-19, 20:35:46](https://lobste.rs/s/cxdkra/transformers_united_introduction) - [Transformers United: Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
-* [2023-05-19, 20:12:41](https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml) - [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 18:39:40](https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions) - [C++ Member Functions vs. Free Functions](https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html)
 * [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
