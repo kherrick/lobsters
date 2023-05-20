@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-20, 06:37:35](https://lobste.rs/s/uovahy/version_2_my_solar_powered_epaper_digital) - [Version 2 of my solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
 * [2023-05-20, 04:33:41](https://lobste.rs/s/tv68rk/kim_1_sounds_like_stephen_hawking) - [The KIM-1 that sounds like Stephen Hawking (or: \"jitbanging\" DECtalk)](https://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
 * [2023-05-20, 04:31:16](https://lobste.rs/s/12nsqb/on_sprintf_fails_2016) - [On sprintf() Fails (2016)](https://gms.tf/on-sprintf-fails.html)
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
@@ -13,7 +14,6 @@
 * [2023-05-19, 18:39:40](https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions) - [C++ Member Functions vs. Free Functions](https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html)
 * [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
-* [2023-05-19, 16:12:31](https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based) - [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 15:41:06](https://lobste.rs/s/j6lnnj/deploying_openbsd_template_with) - [Deploying OpenBSD template with terraform on proxmox](https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html)
 * [2023-05-19, 15:13:18](https://lobste.rs/s/kbvmer/early_computer_art_50_s_60_s) - [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
