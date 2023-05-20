@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-20, 04:33:41](https://lobste.rs/s/tv68rk/kim_1_sounds_like_stephen_hawking) - [The KIM-1 that sounds like Stephen Hawking (or: \"jitbanging\" DECtalk)](https://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
+* [2023-05-20, 04:31:16](https://lobste.rs/s/12nsqb/on_sprintf_fails_2016) - [On sprintf() Fails (2016)](https://gms.tf/on-sprintf-fails.html)
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 23:56:54](https://lobste.rs/s/u1gvzp/debugging_fuse_deadlock_linux_kernel) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
@@ -20,8 +22,6 @@
 * [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-19, 10:18:12](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend)
 * [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
-* [2023-05-19, 09:56:59](https://lobste.rs/s/lqserq/against_llm_maximalism) - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
-* [2023-05-19, 07:45:29](https://lobste.rs/s/l0m9dx/high_performance_tidy_trees) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-19, 07:09:11](https://lobste.rs/s/fh1vem/hands_free_coding_2020) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 06:45:38](https://lobste.rs/s/ssfszf/stop_saying_c_c) - [Stop Saying C/C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
 * [2023-05-19, 06:32:21](https://lobste.rs/s/1jmos2/running_ruby_3_2_s_yjit_production_at) - [Running Ruby 3.2's YJIT in Production at Discourse](https://blog.discourse.org/2023/05/running-ruby-3-2s-yjit-in-production-at-discourse/)
