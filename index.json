@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 09:59:16",
+      "https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web"
+    ],
+    [
+      "Building a Signal Analyzer with Modern Web Tech",
+      "https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 09:13:11",
       "https://lobste.rs/s/rbqy38/envisioning_simplified_intel"
     ],
@@ -107,16 +117,6 @@
     [
       "Transformers United: Introduction to Transformers",
       "https://www.youtube.com/watch?v=XfpMkf4rD6E"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 20:12:41",
-      "https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml"
-    ],
-    [
-      "Petrol: embedding a type-safe SQL API in OCaml using GADTs",
-      "https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html"
     ]
   ],
   [
