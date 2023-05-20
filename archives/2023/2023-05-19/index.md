@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 23:56:54](https://lobste.rs/s/u1gvzp/debugging_fuse_deadlock_linux_kernel) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
 * [2023-05-19, 22:30:20](https://lobste.rs/s/foi28d/chatuml_ai_copilot_for_working_with) - [ChatUML - An AI copilot for working with diagrams](https://chatuml.com/)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
 * [2023-05-19, 20:35:46](https://lobste.rs/s/cxdkra/transformers_united_introduction) - [Transformers United: Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
