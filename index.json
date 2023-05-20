@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 20:06:08",
+      "https://lobste.rs/s/zlsghj/easing_functions_cheat_sheet"
+    ],
+    [
+      "Easing Functions Cheat Sheet",
+      "https://easings.net/"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 18:59:29",
       "https://lobste.rs/s/jwb3ib/data_wrangling_with_data_wrangler"
     ],
@@ -157,16 +167,6 @@
     [
       "Zig stdlib to get HTTP client soon",
       "https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 18:39:40",
-      "https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions"
-    ],
-    [
-      "C++ Member Functions vs. Free Functions",
-      "https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html"
     ]
   ],
   [
