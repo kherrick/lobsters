@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-20, 20:17:50",
+      "https://lobste.rs/s/bzhi6h/approaching_cps_soup"
+    ],
+    [
+      "Approaching CPS soup",
+      "https://wingolog.org/archives/2023/05/20/approaching-cps-soup"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 20:09:56",
+      "https://lobste.rs/s/dk82je/writing_python_like_it_s_rust"
+    ],
+    [
+      "Writing Python like it’s Rust",
+      "https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 20:06:08",
       "https://lobste.rs/s/zlsghj/easing_functions_cheat_sheet"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-05-19, 20:12:41",
-      "https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml"
-    ],
-    [
-      "Petrol: embedding a type-safe SQL API in OCaml using GADTs",
-      "https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 20:08:27",
       "https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon"
     ],
@@ -207,16 +217,6 @@
     [
       "Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard",
       "https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 10:55:00",
-      "https://lobste.rs/s/qyler8/writing_chat_application_django_4_2_using"
-    ],
-    [
-      "Writing a chat application in Django 4.2 using async StreamingHttpResponse, Server-Sent Events and…",
-      "https://valberg.dk/django-sse-postgresql-listen-notify.html"
     ]
   ],
   [
