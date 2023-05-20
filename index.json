@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 22:27:46",
+      "https://lobste.rs/s/wgw8fj/build_web_server_with_rust_tokio"
+    ],
+    [
+      "Build a web server with Rust and tokio",
+      "https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 20:17:50",
       "https://lobste.rs/s/bzhi6h/approaching_cps_soup"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig stdlib HTTP client and server",
       "https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 10:18:12",
-      "https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/dvsehh/what_are_you_doing_this_weekend"
     ]
   ],
   [
