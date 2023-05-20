@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-20, 23:10:35](https://lobste.rs/s/dl5orz/axle_os) - [axle OS](https://axleos.com/)
 * [2023-05-20, 22:27:46](https://lobste.rs/s/wgw8fj/build_web_server_with_rust_tokio) - [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 * [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
@@ -19,7 +20,6 @@
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
-* [2023-05-19, 18:32:33](https://lobste.rs/s/sjjtd2/user_stories_thanks_no) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 * [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
