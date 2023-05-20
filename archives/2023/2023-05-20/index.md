@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
+* [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-20, 20:06:08](https://lobste.rs/s/zlsghj/easing_functions_cheat_sheet) - [Easing Functions Cheat Sheet](https://easings.net/)
 * [2023-05-20, 18:59:29](https://lobste.rs/s/jwb3ib/data_wrangling_with_data_wrangler) - [Data wrangling with Data Wrangler](https://austinhenley.com/blog/datawrangler.html)
 * [2023-05-20, 15:11:58](https://lobste.rs/s/h7o6c6/patterns_register_map_design) - [Patterns in register map design](https://www.devever.net/~hl/regmap)
