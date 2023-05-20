@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 18:59:29](https://lobste.rs/s/jwb3ib/data_wrangling_with_data_wrangler) - [Data wrangling with Data Wrangler](https://austinhenley.com/blog/datawrangler.html)
 * [2023-05-20, 15:11:58](https://lobste.rs/s/h7o6c6/patterns_register_map_design) - [Patterns in register map design](https://www.devever.net/~hl/regmap)
 * [2023-05-20, 13:18:29](https://lobste.rs/s/vw3wgr/cargo_cult_ai) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
