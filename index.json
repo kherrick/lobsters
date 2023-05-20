@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 06:37:35",
+      "https://lobste.rs/s/uovahy/version_2_my_solar_powered_epaper_digital"
+    ],
+    [
+      "Version 2 of my solar-powered, ePaper digital photo frame",
+      "https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 04:33:41",
       "https://lobste.rs/s/tv68rk/kim_1_sounds_like_stephen_hawking"
     ],
@@ -127,16 +137,6 @@
     [
       "The absurd cost of finalizers in Go",
       "https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 16:12:31",
-      "https://lobste.rs/s/gcrvf1/drag_your_gan_interactive_point_based"
-    ],
-    [
-      "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
-      "https://vcai.mpi-inf.mpg.de/projects/DragGAN/"
     ]
   ],
   [
