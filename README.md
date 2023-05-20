@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-20, 15:11:58](https://lobste.rs/s/h7o6c6/patterns_register_map_design) - [Patterns in register map design](https://www.devever.net/~hl/regmap)
 * [2023-05-20, 13:18:29](https://lobste.rs/s/vw3wgr/cargo_cult_ai) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
 * [2023-05-20, 09:59:16](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
@@ -12,7 +13,6 @@
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
-* [2023-05-19, 20:35:46](https://lobste.rs/s/cxdkra/transformers_united_introduction) - [Transformers United: Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 * [2023-05-19, 20:12:41](https://lobste.rs/s/vlsm2x/petrol_embedding_type_safe_sql_api_ocaml) - [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://gopiandcode.uk/logs/log-ways-of-sql-in-ocaml.html)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 18:39:40](https://lobste.rs/s/oekc6v/c_member_functions_vs_free_functions) - [C++ Member Functions vs. Free Functions](https://www.danielsieger.com/blog/2023/05/01/cpp-member-vs-free-functions.html)
