@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-05-19, 22:30:20",
-      "https://lobste.rs/s/foi28d/chatuml_ai_copilot_for_working_with"
+      "2023-05-20, 00:30:18",
+      "https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired"
     ],
     [
-      "ChatUML - An AI copilot for working with diagrams",
-      "https://chatuml.com/"
+      "Harvey OS has been retired",
+      "https://harvey-os.org/2023/04/23/retirement.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 00:15:47",
+      "https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference"
+    ],
+    [
+      "wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web",
+      "https://github.com/webonnx/wonnx"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 23:56:54",
+      "https://lobste.rs/s/u1gvzp/debugging_fuse_deadlock_linux_kernel"
+    ],
+    [
+      "Debugging a FUSE deadlock in the Linux kernel",
+      "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "What is the last programming language you learned and why?",
       "https://lobste.rs/s/m9ismq/what_is_last_programming_language_you"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 20:35:46",
-      "https://lobste.rs/s/cxdkra/transformers_united_introduction"
-    ],
-    [
-      "Transformers United: Introduction to Transformers",
-      "https://www.youtube.com/watch?v=XfpMkf4rD6E"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory",
       "https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 09:56:59",
-      "https://lobste.rs/s/lqserq/against_llm_maximalism"
-    ],
-    [
-      "Against LLM maximalism",
-      "https://explosion.ai/blog/against-llm-maximalism"
     ]
   ],
   [
