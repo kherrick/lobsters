@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 20:44:24](https://lobste.rs/s/gsiuwu/besm_soviet_pl) - [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
 * [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
 * [2023-05-21, 20:34:26](https://lobste.rs/s/xckepk/swapping_engine_out_moving_race_car) - [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
 * [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
