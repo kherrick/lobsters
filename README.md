@@ -3,7 +3,6 @@
 * [2023-05-21, 10:52:53](https://lobste.rs/s/rggv2q/economics_software_maintenance) - [The Economics of Software Maintenance](https://outspeaking.com/words-of-technology/the-economics-of-software-maintenance.html)
 * [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 09:41:49](https://lobste.rs/s/f7hecs/experimenting_with_graph_databases_with) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
-* [2023-05-21, 09:20:41](https://lobste.rs/s/rh9cnp/trapped_by_technology_fallacies) - [Trapped by Technology Fallacies](https://postmodernsecurity.com/2023/05/11/trapped-by-technology-fallacies/)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 * [2023-05-21, 04:39:03](https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation) - [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
 * [2023-05-21, 00:19:14](https://lobste.rs/s/nomojs/racing_against_lock_exploiting_spinlock) - [Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel](https://0xkol.github.io/assets/files/Racing_Against_the_Lock__Exploiting_Spinlock_UAF_in_the_Android_Kernel.pdf)
@@ -23,6 +22,7 @@
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
+* [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 
