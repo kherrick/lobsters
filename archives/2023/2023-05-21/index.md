@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 09:41:49](https://lobste.rs/s/f7hecs/experimenting_with_graph_databases_with) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 09:20:41](https://lobste.rs/s/rh9cnp/trapped_by_technology_fallacies) - [Trapped by Technology Fallacies](https://postmodernsecurity.com/2023/05/11/trapped-by-technology-fallacies/)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)

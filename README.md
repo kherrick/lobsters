@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 09:41:49](https://lobste.rs/s/f7hecs/experimenting_with_graph_databases_with) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 09:20:41](https://lobste.rs/s/rh9cnp/trapped_by_technology_fallacies) - [Trapped by Technology Fallacies](https://postmodernsecurity.com/2023/05/11/trapped-by-technology-fallacies/)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
@@ -18,7 +19,6 @@
 * [2023-05-20, 09:13:11](https://lobste.rs/s/rbqy38/envisioning_simplified_intel) - [Envisioning a Simplified Intel Architecture for the Future](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-20, 07:47:31](https://lobste.rs/s/jxigt4/happiness_is_good_pythonstartup_script) - [Happiness is a good PYTHONSTARTUP script](https://bitecode.substack.com/p/happiness-is-a-good-pythonstartup)
 * [2023-05-20, 06:37:35](https://lobste.rs/s/uovahy/version_2_my_solar_powered_epaper_digital) - [Version 2 of my solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
-* [2023-05-20, 04:33:41](https://lobste.rs/s/tv68rk/kim_1_sounds_like_stephen_hawking) - [The KIM-1 that sounds like Stephen Hawking (or: \"jitbanging\" DECtalk)](https://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
