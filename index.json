@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 04:39:03",
+      "https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation"
+    ],
+    [
+      "Beyond Relooper: recursive translation of unstructured control flow to structured control flow",
+      "https://dl.acm.org/doi/10.1145/3547621"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 00:19:14",
       "https://lobste.rs/s/nomojs/racing_against_lock_exploiting_spinlock"
     ],
@@ -217,16 +227,6 @@
     [
       "Andreas Kling is sure it'll work this time",
       "https://youtu.be/Hc_3uNUE9WU"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 11:08:36",
-      "https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer"
-    ],
-    [
-      "Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard",
-      "https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/"
     ]
   ],
   [
