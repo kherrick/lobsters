@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-21, 00:19:14](https://lobste.rs/s/nomojs/racing_against_lock_exploiting_spinlock) - [Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel](https://0xkol.github.io/assets/files/Racing_Against_the_Lock__Exploiting_Spinlock_UAF_in_the_Android_Kernel.pdf)
+* [2023-05-20, 23:59:19](https://lobste.rs/s/8i2ycn/x86_s_external_architectural) - [X86-S External Architectural Specification - legacy-reduced ISA](https://cdrdv2-public.intel.com/776648/x86s-EAS-v1-4-17-23-1.pdf)
 * [2023-05-20, 23:10:35](https://lobste.rs/s/dl5orz/axle_os) - [axle OS](https://axleos.com/)
 * [2023-05-20, 22:27:46](https://lobste.rs/s/wgw8fj/build_web_server_with_rust_tokio) - [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 * [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
@@ -15,14 +17,12 @@
 * [2023-05-20, 07:38:26](https://lobste.rs/s/vmkjgz/web_archive) - [Web ARChive](https://en.wikipedia.org/wiki/Web_ARChive)
 * [2023-05-20, 06:37:35](https://lobste.rs/s/uovahy/version_2_my_solar_powered_epaper_digital) - [Version 2 of my solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
 * [2023-05-20, 04:33:41](https://lobste.rs/s/tv68rk/kim_1_sounds_like_stephen_hawking) - [The KIM-1 that sounds like Stephen Hawking (or: \"jitbanging\" DECtalk)](https://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
-* [2023-05-20, 04:31:16](https://lobste.rs/s/12nsqb/on_sprintf_fails_2016) - [On sprintf() Fails (2016)](https://gms.tf/on-sprintf-fails.html)
 * [2023-05-20, 00:30:18](https://lobste.rs/s/l6mwv0/harvey_os_has_been_retired) - [Harvey OS has been retired](https://harvey-os.org/2023/04/23/retirement.html)
 * [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 21:16:26](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you) - [What is the last programming language you learned and why?](https://lobste.rs/s/m9ismq/what_is_last_programming_language_you)
 * [2023-05-19, 20:08:27](https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon) - [Zig stdlib to get HTTP client soon](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
 * [2023-05-19, 17:44:26](https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go) - [The absurd cost of finalizers in Go](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
-* [2023-05-19, 11:08:36](https://lobste.rs/s/djbgjq/beepberry_is_79_hackable_pocket_computer) - [Beepberry is a $79 hackable pocket computer kit with a BlackBerry keyboard](https://liliputing.com/beepberry-is-a-79-hackable-pocket-computer-kit-with-a-blackberry-keyboard/)
 * [2023-05-19, 10:35:29](https://lobste.rs/s/enfalx/zig_stdlib_http_client_server) - [Zig stdlib HTTP client and server](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-19, 10:07:58](https://lobste.rs/s/f6lsjg/past_meets_present_this_200_mini_laptop) - [Past meets present in this $200 mini-laptop with a Intel 8088 chip and 640KB of memory](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 

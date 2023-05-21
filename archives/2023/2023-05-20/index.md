@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 23:59:19](https://lobste.rs/s/8i2ycn/x86_s_external_architectural) - [X86-S External Architectural Specification - legacy-reduced ISA](https://cdrdv2-public.intel.com/776648/x86s-EAS-v1-4-17-23-1.pdf)
 * [2023-05-20, 23:10:35](https://lobste.rs/s/dl5orz/axle_os) - [axle OS](https://axleos.com/)
 * [2023-05-20, 22:27:46](https://lobste.rs/s/wgw8fj/build_web_server_with_rust_tokio) - [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 * [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
