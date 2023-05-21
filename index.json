@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 22:44:21",
+      "https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring"
+    ],
+    [
+      "Go networking framework using io_uring",
+      "https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 20:44:24",
       "https://lobste.rs/s/gsiuwu/besm_soviet_pl"
     ],
@@ -227,16 +237,6 @@
     [
       "Building a Signal Analyzer with Modern Web Tech",
       "https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 09:13:11",
-      "https://lobste.rs/s/rbqy38/envisioning_simplified_intel"
-    ],
-    [
-      "Envisioning a Simplified Intel Architecture for the Future",
-      "https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html"
     ]
   ],
   [
