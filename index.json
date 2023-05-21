@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 10:52:53",
+      "https://lobste.rs/s/rggv2q/economics_software_maintenance"
+    ],
+    [
+      "The Economics of Software Maintenance",
+      "https://outspeaking.com/words-of-technology/the-economics-of-software-maintenance.html"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 09:59:50",
       "https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers"
     ],
@@ -217,16 +227,6 @@
     [
       "What is the last programming language you learned and why?",
       "https://lobste.rs/s/m9ismq/what_is_last_programming_language_you"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 20:08:27",
-      "https://lobste.rs/s/wvqs83/zig_stdlib_get_http_client_soon"
-    ],
-    [
-      "Zig stdlib to get HTTP client soon",
-      "https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81"
     ]
   ],
   [
