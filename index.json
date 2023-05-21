@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 14:25:57",
+      "https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless"
+    ],
+    [
+      "PGP signatures on PyPI: worse than useless",
+      "https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 14:22:11",
       "https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial"
     ],
@@ -227,16 +237,6 @@
     [
       "wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web",
       "https://github.com/webonnx/wonnx"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 17:44:26",
-      "https://lobste.rs/s/vhivpd/absurd_cost_finalizers_go"
-    ],
-    [
-      "The absurd cost of finalizers in Go",
-      "https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/"
     ]
   ],
   [
