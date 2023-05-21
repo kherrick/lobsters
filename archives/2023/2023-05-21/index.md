@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 18:26:46](https://lobste.rs/s/qsoshg/using_golang_package_python_using_gopy) - [Using a Golang package in Python using Gopy](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 15:37:43](https://lobste.rs/s/w51iwa/what_makes_rust_c_compilation_slow) - [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
 * [2023-05-21, 15:17:34](https://lobste.rs/s/sr49e7/dolphin_progress_report_february_march) - [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
