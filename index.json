@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 07:06:34",
+      "https://lobste.rs/s/qbcjsl/mojo_future_ai_programming"
+    ],
+    [
+      "Mojo: The Future of AI Programming",
+      "https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 04:39:03",
       "https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation"
     ],
@@ -227,16 +237,6 @@
     [
       "Andreas Kling is sure it'll work this time",
       "https://youtu.be/Hc_3uNUE9WU"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 10:35:29",
-      "https://lobste.rs/s/enfalx/zig_stdlib_http_client_server"
-    ],
-    [
-      "Zig stdlib HTTP client and server",
-      "https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig"
     ]
   ],
   [
