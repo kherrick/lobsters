@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 * [2023-05-21, 14:03:28](https://lobste.rs/s/prqy43/honing_your_craft) - [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
 * [2023-05-21, 10:52:53](https://lobste.rs/s/rggv2q/economics_software_maintenance) - [The Economics of Software Maintenance](https://outspeaking.com/words-of-technology/the-economics-of-software-maintenance.html)
