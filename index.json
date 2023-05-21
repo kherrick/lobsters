@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 14:22:11",
+      "https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial"
+    ],
+    [
+      "Resilient LL Parsing Tutorial",
+      "https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 14:03:28",
       "https://lobste.rs/s/prqy43/honing_your_craft"
     ],
@@ -217,16 +227,6 @@
     [
       "wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web",
       "https://github.com/webonnx/wonnx"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 21:16:26",
-      "https://lobste.rs/s/m9ismq/what_is_last_programming_language_you"
-    ],
-    [
-      "What is the last programming language you learned and why?",
-      "https://lobste.rs/s/m9ismq/what_is_last_programming_language_you"
     ]
   ],
   [
