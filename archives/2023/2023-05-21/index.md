@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 10:52:53](https://lobste.rs/s/rggv2q/economics_software_maintenance) - [The Economics of Software Maintenance](https://outspeaking.com/words-of-technology/the-economics-of-software-maintenance.html)
 * [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 09:41:49](https://lobste.rs/s/f7hecs/experimenting_with_graph_databases_with) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 09:20:41](https://lobste.rs/s/rh9cnp/trapped_by_technology_fallacies) - [Trapped by Technology Fallacies](https://postmodernsecurity.com/2023/05/11/trapped-by-technology-fallacies/)
