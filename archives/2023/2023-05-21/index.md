@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
+* [2023-05-21, 20:34:26](https://lobste.rs/s/xckepk/swapping_engine_out_moving_race_car) - [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
 * [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
 * [2023-05-21, 18:26:46](https://lobste.rs/s/qsoshg/using_golang_package_python_using_gopy) - [Using a Golang package in Python using Gopy](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)

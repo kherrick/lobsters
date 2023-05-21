@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
+* [2023-05-21, 20:34:26](https://lobste.rs/s/xckepk/swapping_engine_out_moving_race_car) - [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
 * [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
 * [2023-05-21, 18:26:46](https://lobste.rs/s/qsoshg/using_golang_package_python_using_gopy) - [Using a Golang package in Python using Gopy](https://last9.io/blog/using-golang-package-in-python-using-gopy/)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
@@ -19,12 +21,10 @@
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-20, 18:59:29](https://lobste.rs/s/jwb3ib/data_wrangling_with_data_wrangler) - [Data wrangling with Data Wrangler](https://austinhenley.com/blog/datawrangler.html)
 * [2023-05-20, 15:11:58](https://lobste.rs/s/h7o6c6/patterns_register_map_design) - [Patterns in register map design](https://www.devever.net/~hl/regmap)
-* [2023-05-20, 13:18:29](https://lobste.rs/s/vw3wgr/cargo_cult_ai) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
 * [2023-05-20, 09:59:16](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:13:11](https://lobste.rs/s/rbqy38/envisioning_simplified_intel) - [Envisioning a Simplified Intel Architecture for the Future](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-20, 07:47:31](https://lobste.rs/s/jxigt4/happiness_is_good_pythonstartup_script) - [Happiness is a good PYTHONSTARTUP script](https://bitecode.substack.com/p/happiness-is-a-good-pythonstartup)
-* [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 
 ## [Archives](archives/index.md)
 
