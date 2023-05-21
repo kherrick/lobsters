@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 15:37:43](https://lobste.rs/s/w51iwa/what_makes_rust_c_compilation_slow) - [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
 * [2023-05-21, 15:17:34](https://lobste.rs/s/sr49e7/dolphin_progress_report_february_march) - [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
@@ -23,7 +24,6 @@
 * [2023-05-20, 09:59:16](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:13:11](https://lobste.rs/s/rbqy38/envisioning_simplified_intel) - [Envisioning a Simplified Intel Architecture for the Future](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-20, 07:47:31](https://lobste.rs/s/jxigt4/happiness_is_good_pythonstartup_script) - [Happiness is a good PYTHONSTARTUP script](https://bitecode.substack.com/p/happiness-is-a-good-pythonstartup)
-* [2023-05-20, 00:15:47](https://lobste.rs/s/4fcyux/wonnx_webgpu_accelerated_onnx_inference) - [wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [2023-05-19, 13:17:35](https://lobste.rs/s/yiebpu/andreas_kling_is_sure_it_ll_work_this_time) - [Andreas Kling is sure it'll work this time](https://youtu.be/Hc_3uNUE9WU)
 
 ## [Archives](archives/index.md)
