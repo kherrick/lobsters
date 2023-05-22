@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-22, 11:30:27](https://lobste.rs/s/zbhcuz/analyze_online_pdfs_with_bing_chat) - [Analyze Online PDFs with Bing Chat](https://www.aidemos.info/a-simple-but-powerful-method-to-analyze-online-pdfs-with-bing-chat/)
+* [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 11:28:00](https://lobste.rs/s/f4b7zh/art_code_review) - [The Art of Code Review](https://redd.one/blog/the-art-of-code-review)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)

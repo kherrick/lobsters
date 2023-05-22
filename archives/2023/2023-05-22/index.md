@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 11:30:27](https://lobste.rs/s/zbhcuz/analyze_online_pdfs_with_bing_chat) - [Analyze Online PDFs with Bing Chat](https://www.aidemos.info/a-simple-but-powerful-method-to-analyze-online-pdfs-with-bing-chat/)
 * [2023-05-22, 11:28:00](https://lobste.rs/s/f4b7zh/art_code_review) - [The Art of Code Review](https://redd.one/blog/the-art-of-code-review)
 * [2023-05-22, 11:17:10](https://lobste.rs/s/qm3dxa/how_get_insanely_rich_creator_economy) - [How to Get Insanely Rich in the Creator Economy](https://blog.nateliason.com/p/get-rich-creator-economy)
