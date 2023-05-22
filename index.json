@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-22, 09:18:23",
+      "https://lobste.rs/s/oojsua/netwhale_listen_network"
+    ],
+    [
+      "netwhale: Listen to network",
+      "https://github.com/Heersin/netwhale"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 08:04:46",
       "https://lobste.rs/s/gr0cxx/open_llm_leaderboard"
     ],
@@ -117,16 +127,6 @@
     [
       "Hash Functions for GPU Rendering",
       "https://www.shadertoy.com/view/XlGcRh"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 18:26:46",
-      "https://lobste.rs/s/qsoshg/using_golang_package_python_using_gopy"
-    ],
-    [
-      "Using a Golang package in Python using Gopy",
-      "https://last9.io/blog/using-golang-package-in-python-using-gopy/"
     ]
   ],
   [
