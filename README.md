@@ -22,9 +22,9 @@
 * [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-21, 22:44:21](https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring) - [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
 * [2023-05-21, 20:44:24](https://lobste.rs/s/gsiuwu/besm_soviet_pl) - [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
+* [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
-* [2023-05-21, 14:03:28](https://lobste.rs/s/prqy43/honing_your_craft) - [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
 
 ## [Archives](archives/index.md)
 
