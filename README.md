@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 11:30:27](https://lobste.rs/s/zbhcuz/analyze_online_pdfs_with_bing_chat) - [Analyze Online PDFs with Bing Chat](https://www.aidemos.info/a-simple-but-powerful-method-to-analyze-online-pdfs-with-bing-chat/)
+* [2023-05-22, 11:28:00](https://lobste.rs/s/f4b7zh/art_code_review) - [The Art of Code Review](https://redd.one/blog/the-art-of-code-review)
 * [2023-05-22, 11:17:10](https://lobste.rs/s/qm3dxa/how_get_insanely_rich_creator_economy) - [How to Get Insanely Rich in the Creator Economy](https://blog.nateliason.com/p/get-rich-creator-economy)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
@@ -17,12 +19,10 @@
 * [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
 * [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
-* [2023-05-21, 15:37:43](https://lobste.rs/s/w51iwa/what_makes_rust_c_compilation_slow) - [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
 * [2023-05-21, 15:17:34](https://lobste.rs/s/sr49e7/dolphin_progress_report_february_march) - [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 * [2023-05-21, 14:03:28](https://lobste.rs/s/prqy43/honing_your_craft) - [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
-* [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
