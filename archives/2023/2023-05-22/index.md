@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 16:11:07](https://lobste.rs/s/g0chdb/when_cymbals_come) - [When the cymbals come in](https://registerspill.thorstenball.com/p/when-the-cymbals-come-in)
+* [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
+* [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
 * [2023-05-22, 15:41:39](https://lobste.rs/s/afgtx8/how_music_affects_cognitive_task) - [How music affects cognitive task performance (2019)](https://pubmed.ncbi.nlm.nih.gov/30688499/)
 * [2023-05-22, 14:54:22](https://lobste.rs/s/dd6x98/making_time_for_planning) - [Making time for planning](https://lobste.rs/s/dd6x98/making_time_for_planning)
 * [2023-05-22, 14:49:10](https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion) - [Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles](https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/)
