@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 * [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-22, 00:21:36](https://lobste.rs/s/6o7ond/detect_solar_flares_gamma_ray_bursts_for) - [Detect Solar Flares and Gamma-Ray Bursts for Less Than $100](https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than-100)
 * [2023-05-21, 22:44:21](https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring) - [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
@@ -14,7 +15,6 @@
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 * [2023-05-21, 14:03:28](https://lobste.rs/s/prqy43/honing_your_craft) - [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
-* [2023-05-21, 10:52:53](https://lobste.rs/s/rggv2q/economics_software_maintenance) - [The Economics of Software Maintenance](https://outspeaking.com/words-of-technology/the-economics-of-software-maintenance.html)
 * [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 09:41:49](https://lobste.rs/s/f7hecs/experimenting_with_graph_databases_with) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
