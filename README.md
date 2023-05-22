@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 15:41:39](https://lobste.rs/s/afgtx8/how_music_affects_cognitive_task) - [How music affects cognitive task performance (2019)](https://pubmed.ncbi.nlm.nih.gov/30688499/)
 * [2023-05-22, 14:54:22](https://lobste.rs/s/dd6x98/making_time_for_planning) - [Making time for planning](https://lobste.rs/s/dd6x98/making_time_for_planning)
 * [2023-05-22, 14:49:10](https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion) - [Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles](https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
@@ -18,7 +19,6 @@
 * [2023-05-21, 22:44:21](https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring) - [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
 * [2023-05-21, 20:44:24](https://lobste.rs/s/gsiuwu/besm_soviet_pl) - [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
 * [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
-* [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 15:17:34](https://lobste.rs/s/sr49e7/dolphin_progress_report_february_march) - [Dolphin Progress Report: February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
