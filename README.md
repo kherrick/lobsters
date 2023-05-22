@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
+* [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
 * [2023-05-22, 09:18:23](https://lobste.rs/s/oojsua/netwhale_listen_network) - [netwhale: Listen to network](https://github.com/Heersin/netwhale)
 * [2023-05-22, 08:04:46](https://lobste.rs/s/gr0cxx/open_llm_leaderboard) - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
@@ -22,9 +24,7 @@
 * [2023-05-21, 14:03:28](https://lobste.rs/s/prqy43/honing_your_craft) - [Honing Your Craft](https://davi.sh/blog/2023/05/craft/)
 * [2023-05-21, 09:59:50](https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers) - [Some notes on the cost of Go finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
-* [2023-05-21, 04:39:03](https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation) - [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
-* [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
 
 ## [Archives](archives/index.md)
 

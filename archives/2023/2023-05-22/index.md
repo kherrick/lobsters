@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
+* [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
 * [2023-05-22, 09:18:23](https://lobste.rs/s/oojsua/netwhale_listen_network) - [netwhale: Listen to network](https://github.com/Heersin/netwhale)
 * [2023-05-22, 08:04:46](https://lobste.rs/s/gr0cxx/open_llm_leaderboard) - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
