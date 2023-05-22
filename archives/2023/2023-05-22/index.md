@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 20:24:33](https://lobste.rs/s/xgflad/nurl_generate_nix_fetcher_calls_from) - [Nurl - Generate Nix fetcher calls from repository URLs](https://github.com/nix-community/nurl)
 * [2023-05-22, 19:38:13](https://lobste.rs/s/3zadk0/helping_sommeliers_inventory_wines) - [Helping sommeliers inventory wines faster with Whisper, DuckDB, and Metaphone](https://vikramoberoi.com/helping-sommeliers-inventory-wine-faster-with-whisper-duckdb-and-metaphone/)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
 * [2023-05-22, 19:01:26](https://lobste.rs/s/qhly0q/io_uring) - [Io_uring](https://nick-black.com/dankwiki/index.php/Io_uring)
