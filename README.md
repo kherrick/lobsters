@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 07:39:24](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million) - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 * [2023-05-22, 06:59:50](https://lobste.rs/s/lmsst8/why_meta_s_latest_large_language_model) - [Why Meta’s latest large language model survived only three days online](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/)
 * [2023-05-22, 06:08:11](https://lobste.rs/s/lthlpw/modding_age_empires_ii_with_sprite) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
@@ -22,7 +23,6 @@
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 * [2023-05-21, 04:39:03](https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation) - [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
 * [2023-05-20, 23:10:35](https://lobste.rs/s/dl5orz/axle_os) - [axle OS](https://axleos.com/)
-* [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
 
