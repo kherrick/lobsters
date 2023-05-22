@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 11:17:10](https://lobste.rs/s/qm3dxa/how_get_insanely_rich_creator_economy) - [How to Get Insanely Rich in the Creator Economy](https://blog.nateliason.com/p/get-rich-creator-economy)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
@@ -14,7 +15,6 @@
 * [2023-05-21, 22:44:21](https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring) - [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
 * [2023-05-21, 20:44:24](https://lobste.rs/s/gsiuwu/besm_soviet_pl) - [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
 * [2023-05-21, 20:34:50](https://lobste.rs/s/0qg0qk/nibbling_around_sound_blaster_s_lunch) - [Nibbling Around the Sound Blaster's Lunch - Digital Sound in DOS Games without a Sound Blaster](http://nerdlypleasures.blogspot.com/2023/05/nibbling-around-sound-blasters-lunch.html)
-* [2023-05-21, 20:34:26](https://lobste.rs/s/xckepk/swapping_engine_out_moving_race_car) - [Swapping the Engine out of a Moving Race Car](https://signalsandthreads.com/swapping-the-engine-out-of-a-moving-race-car/)
 * [2023-05-21, 19:57:32](https://lobste.rs/s/hp09sk/hash_functions_for_gpu_rendering) - [Hash Functions for GPU Rendering](https://www.shadertoy.com/view/XlGcRh)
 * [2023-05-21, 17:15:46](https://lobste.rs/s/scy2v4/toaster_3d_editor_models_pure_html_css) - [Toaster: 3D Editor that models in pure HTML and CSS](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 15:37:43](https://lobste.rs/s/w51iwa/what_makes_rust_c_compilation_slow) - [What Makes Rust/C++ Compilation Slow?](https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow)
