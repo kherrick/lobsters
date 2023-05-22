@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 06:59:50](https://lobste.rs/s/lmsst8/why_meta_s_latest_large_language_model) - [Why Meta’s latest large language model survived only three days online](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/)
 * [2023-05-22, 06:08:11](https://lobste.rs/s/lthlpw/modding_age_empires_ii_with_sprite) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 * [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
@@ -24,7 +25,6 @@
 * [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
-* [2023-05-20, 09:59:16](https://lobste.rs/s/fgrynk/building_signal_analyzer_with_modern_web) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 
 ## [Archives](archives/index.md)
 
