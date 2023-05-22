@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-22, 14:49:10",
+      "https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion"
+    ],
+    [
+      "Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles",
+      "https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 13:35:01",
       "https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent"
     ],
@@ -227,16 +237,6 @@
     [
       "Honing Your Craft",
       "https://davi.sh/blog/2023/05/craft/"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 07:06:34",
-      "https://lobste.rs/s/qbcjsl/mojo_future_ai_programming"
-    ],
-    [
-      "Mojo: The Future of AI Programming",
-      "https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming"
     ]
   ],
   [
