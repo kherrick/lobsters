@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-22, 11:17:10",
-      "https://lobste.rs/s/qm3dxa/how_get_insanely_rich_creator_economy"
-    ],
-    [
-      "How to Get Insanely Rich in the Creator Economy",
-      "https://blog.nateliason.com/p/get-rich-creator-economy"
-    ]
-  ],
-  [
-    [
       "2023-05-22, 11:06:18",
       "https://lobste.rs/s/finhxu/memory_allocation"
     ],
@@ -227,6 +217,16 @@
     [
       "Honing Your Craft",
       "https://davi.sh/blog/2023/05/craft/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:59:50",
+      "https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers"
+    ],
+    [
+      "Some notes on the cost of Go finalizers",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes"
     ]
   ],
   [
