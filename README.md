@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
+* [2023-05-22, 21:20:52](https://lobste.rs/s/gmlvct/how_host_your_side_projects_for_free_2023) - [How to host your side-projects for free in 2023: from Auth to Database](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [2023-05-22, 20:24:33](https://lobste.rs/s/xgflad/nurl_generate_nix_fetcher_calls_from) - [Nurl - Generate Nix fetcher calls from repository URLs](https://github.com/nix-community/nurl)
 * [2023-05-22, 19:38:13](https://lobste.rs/s/3zadk0/helping_sommeliers_inventory_wines) - [Helping sommeliers inventory wines faster with Whisper, DuckDB, and Metaphone](https://vikramoberoi.com/helping-sommeliers-inventory-wine-faster-with-whisper-duckdb-and-metaphone/)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
@@ -9,7 +11,6 @@
 * [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
 * [2023-05-22, 14:49:10](https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion) - [Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles](https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
-* [2023-05-22, 11:30:27](https://lobste.rs/s/zbhcuz/analyze_online_pdfs_with_bing_chat) - [Analyze Online PDFs with Bing Chat](https://www.aidemos.info/a-simple-but-powerful-method-to-analyze-online-pdfs-with-bing-chat/)
 * [2023-05-22, 11:28:00](https://lobste.rs/s/f4b7zh/art_code_review) - [The Art of Code Review](https://redd.one/blog/the-art-of-code-review)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
@@ -22,7 +23,6 @@
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 * [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-21, 22:44:21](https://lobste.rs/s/4glqwd/go_networking_framework_using_io_uring) - [Go networking framework using io_uring](https://betterprogramming.pub/an-introduction-to-gain-part-1-writing-high-performance-tcp-application-df5f7253e54a)
-* [2023-05-21, 20:44:24](https://lobste.rs/s/gsiuwu/besm_soviet_pl) - [ПП-BESM - a Soviet PL](http://xav.io/posts/besm/)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 
