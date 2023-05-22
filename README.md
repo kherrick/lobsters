@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-22, 06:08:11](https://lobste.rs/s/lthlpw/modding_age_empires_ii_with_sprite) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 * [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-22, 00:21:36](https://lobste.rs/s/6o7ond/detect_solar_flares_gamma_ray_bursts_for) - [Detect Solar Flares and Gamma-Ray Bursts for Less Than $100](https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than-100)
@@ -20,7 +21,6 @@
 * [2023-05-21, 07:06:34](https://lobste.rs/s/qbcjsl/mojo_future_ai_programming) - [Mojo: The Future of AI Programming](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 * [2023-05-21, 04:39:03](https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation) - [Beyond Relooper: recursive translation of unstructured control flow to structured control flow](https://dl.acm.org/doi/10.1145/3547621)
 * [2023-05-20, 23:10:35](https://lobste.rs/s/dl5orz/axle_os) - [axle OS](https://axleos.com/)
-* [2023-05-20, 22:27:46](https://lobste.rs/s/wgw8fj/build_web_server_with_rust_tokio) - [Build a web server with Rust and tokio](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler)
 * [2023-05-20, 20:17:50](https://lobste.rs/s/bzhi6h/approaching_cps_soup) - [Approaching CPS soup](https://wingolog.org/archives/2023/05/20/approaching-cps-soup)
 * [2023-05-20, 20:09:56](https://lobste.rs/s/dk82je/writing_python_like_it_s_rust) - [Writing Python like it’s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-20, 12:48:16](https://lobste.rs/s/p7ckkd/my_robotic_mower_woes) - [My Robotic Mower Woes](https://bt.ht/luba/)
