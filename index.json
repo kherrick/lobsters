@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-22, 11:06:18",
+      "https://lobste.rs/s/finhxu/memory_allocation"
+    ],
+    [
+      "Memory Allocation",
+      "https://samwho.dev/memory-allocation/"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 10:57:51",
+      "https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for"
+    ],
+    [
+      "napkin-math: Techniques and numbers for estimating system's performance from first-principles",
+      "https://github.com/sirupsen/napkin-math"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 10:00:34",
       "https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-05-21, 04:39:03",
-      "https://lobste.rs/s/n5nisg/beyond_relooper_recursive_translation"
-    ],
-    [
-      "Beyond Relooper: recursive translation of unstructured control flow to structured control flow",
-      "https://dl.acm.org/doi/10.1145/3547621"
-    ]
-  ],
-  [
-    [
       "2023-05-20, 20:09:56",
       "https://lobste.rs/s/dk82je/writing_python_like_it_s_rust"
     ],
     [
       "Writing Python like it’s Rust",
       "https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 12:48:16",
-      "https://lobste.rs/s/p7ckkd/my_robotic_mower_woes"
-    ],
-    [
-      "My Robotic Mower Woes",
-      "https://bt.ht/luba/"
     ]
   ]
 ]
