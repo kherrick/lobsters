@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-22, 11:30:27",
+      "https://lobste.rs/s/zbhcuz/analyze_online_pdfs_with_bing_chat"
+    ],
+    [
+      "Analyze Online PDFs with Bing Chat",
+      "https://www.aidemos.info/a-simple-but-powerful-method-to-analyze-online-pdfs-with-bing-chat/"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 11:28:00",
+      "https://lobste.rs/s/f4b7zh/art_code_review"
+    ],
+    [
+      "The Art of Code Review",
+      "https://redd.one/blog/the-art-of-code-review"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 11:17:10",
       "https://lobste.rs/s/qm3dxa/how_get_insanely_rich_creator_economy"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-05-21, 15:37:43",
-      "https://lobste.rs/s/w51iwa/what_makes_rust_c_compilation_slow"
-    ],
-    [
-      "What Makes Rust/C++ Compilation Slow?",
-      "https://mojodojo.dev/mojo_team_answers.html#what-makes-rust-c-compilation-slow"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 15:17:34",
       "https://lobste.rs/s/sr49e7/dolphin_progress_report_february_march"
     ],
@@ -217,16 +227,6 @@
     [
       "Honing Your Craft",
       "https://davi.sh/blog/2023/05/craft/"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 09:59:50",
-      "https://lobste.rs/s/ztfeww/some_notes_on_cost_go_finalizers"
-    ],
-    [
-      "Some notes on the cost of Go finalizers",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes"
     ]
   ],
   [
