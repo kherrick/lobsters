@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-22, 07:39:24",
+      "https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million"
+    ],
+    [
+      "How Much Memory Do You Need to Run 1 Million Concurrent Tasks?",
+      "https://pkolaczk.github.io/memory-consumption-of-async/"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 06:59:50",
       "https://lobste.rs/s/lmsst8/why_meta_s_latest_large_language_model"
     ],
@@ -217,16 +227,6 @@
     [
       "axle OS",
       "https://axleos.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 20:17:50",
-      "https://lobste.rs/s/bzhi6h/approaching_cps_soup"
-    ],
-    [
-      "Approaching CPS soup",
-      "https://wingolog.org/archives/2023/05/20/approaching-cps-soup"
     ]
   ],
   [
