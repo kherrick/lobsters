@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 19:00:20",
+      "https://lobste.rs/s/fe7w9z/dependency_composition"
+    ],
+    [
+      "Dependency Composition",
+      "https://martinfowler.com/articles/dependency-composition.html"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 18:38:52",
       "https://lobste.rs/s/mpgogu/implementing_application_layer"
     ],
@@ -227,16 +237,6 @@
     [
       "How I used Nix to turn Open Policy Agent policies into standalone CLI tools",
       "https://determinate.systems/posts/open-policy-agent"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 09:18:23",
-      "https://lobste.rs/s/oojsua/netwhale_listen_network"
-    ],
-    [
-      "netwhale: Listen to network",
-      "https://github.com/Heersin/netwhale"
     ]
   ],
   [
