@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 12:17:26](https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary) - [Introducing Pins: Permanent Nix Binary Storage](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-23, 07:37:06](https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread) - [What If We Pretended That a Task = Thread?](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
 * [2023-05-23, 04:16:07](https://lobste.rs/s/ieq7hs/principled_approach_operating_system) - [A Principled Approach to Operating System Construction in Haskell (2005)](http://web.cecs.pdx.edu/~apt/icfp05.pdf)
@@ -14,7 +15,6 @@
 * [2023-05-22, 16:11:07](https://lobste.rs/s/g0chdb/when_cymbals_come) - [When the cymbals come in](https://registerspill.thorstenball.com/p/when-the-cymbals-come-in)
 * [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
 * [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
-* [2023-05-22, 14:49:10](https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion) - [Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles](https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
