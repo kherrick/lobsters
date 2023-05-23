@@ -4,7 +4,6 @@
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 * [2023-05-23, 18:38:52](https://lobste.rs/s/mpgogu/implementing_application_layer) - [Implementing Application Layer Encryption in Ruby on Rails applications with Asherah](https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/)
-* [2023-05-23, 18:30:45](https://lobste.rs/s/sgv2yx/how_use_rss) - [How To Use RSS ·](https://quakkels.com/posts/202305_2_how_to_use_rss/)
 * [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
@@ -23,6 +22,7 @@
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
 * [2023-05-22, 19:01:26](https://lobste.rs/s/qhly0q/io_uring) - [Io_uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
+* [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 07:39:24](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million) - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 
