@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 07:37:06](https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread) - [What If We Pretended That a Task = Thread?](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
 * [2023-05-23, 04:16:07](https://lobste.rs/s/ieq7hs/principled_approach_operating_system) - [A Principled Approach to Operating System Construction in Haskell (2005)](http://web.cecs.pdx.edu/~apt/icfp05.pdf)
 * [2023-05-23, 03:54:24](https://lobste.rs/s/9knahp/dvfs_frequently_leaks_secrets) - [DVFS Frequently Leaks Secrets: Hertzbleed Attacks Beyond SIKE, Cryptography, and CPU-Only Data](https://www.hertzbleed.com/2h2b.pdf)
 * [2023-05-22, 23:58:20](https://lobste.rs/s/yuuobe/return_general_purpose_database_2021) - [A Return to the General Purpose Database (2021)](https://redmonk.com/sogrady/2021/10/26/general-purpose-database/)
@@ -22,7 +23,6 @@
 * [2023-05-22, 06:59:50](https://lobste.rs/s/lmsst8/why_meta_s_latest_large_language_model) - [Why Meta’s latest large language model survived only three days online](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/)
 * [2023-05-22, 06:08:11](https://lobste.rs/s/lthlpw/modding_age_empires_ii_with_sprite) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
-* [2023-05-22, 01:26:42](https://lobste.rs/s/hxghf3/egos_2000_minimal_2k_loc_operating_system) - [egos-2000: A minimal (2K LOC) operating system](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 
