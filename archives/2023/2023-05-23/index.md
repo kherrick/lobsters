@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 13:41:03](https://lobste.rs/s/lt6u9e/hot_pixels_frequency_power_temperature) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and ARM SoCs](https://arxiv.org/pdf/2305.12784.pdf)
 * [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 * [2023-05-23, 12:17:26](https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary) - [Introducing Pins: Permanent Nix Binary Storage](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
