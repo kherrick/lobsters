@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 04:16:07](https://lobste.rs/s/ieq7hs/principled_approach_operating_system) - [A Principled Approach to Operating System Construction in Haskell (2005)](http://web.cecs.pdx.edu/~apt/icfp05.pdf)
 * [2023-05-23, 03:54:24](https://lobste.rs/s/9knahp/dvfs_frequently_leaks_secrets) - [DVFS Frequently Leaks Secrets: Hertzbleed Attacks Beyond SIKE, Cryptography, and CPU-Only Data](https://www.hertzbleed.com/2h2b.pdf)
 * [2023-05-22, 23:58:20](https://lobste.rs/s/yuuobe/return_general_purpose_database_2021) - [A Return to the General Purpose Database (2021)](https://redmonk.com/sogrady/2021/10/26/general-purpose-database/)
 * [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
@@ -15,7 +16,6 @@
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 11:28:00](https://lobste.rs/s/f4b7zh/art_code_review) - [The Art of Code Review](https://redd.one/blog/the-art-of-code-review)
 * [2023-05-22, 11:06:18](https://lobste.rs/s/finhxu/memory_allocation) - [Memory Allocation](https://samwho.dev/memory-allocation/)
-* [2023-05-22, 10:57:51](https://lobste.rs/s/gx0ddr/napkin_math_techniques_numbers_for) - [napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
 * [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
 * [2023-05-22, 09:18:23](https://lobste.rs/s/oojsua/netwhale_listen_network) - [netwhale: Listen to network](https://github.com/Heersin/netwhale)
 * [2023-05-22, 07:39:24](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million) - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
