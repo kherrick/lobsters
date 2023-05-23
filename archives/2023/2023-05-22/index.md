@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 23:58:20](https://lobste.rs/s/yuuobe/return_general_purpose_database_2021) - [A Return to the General Purpose Database (2021)](https://redmonk.com/sogrady/2021/10/26/general-purpose-database/)
 * [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
 * [2023-05-22, 21:20:52](https://lobste.rs/s/gmlvct/how_host_your_side_projects_for_free_2023) - [How to host your side-projects for free in 2023: from Auth to Database](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [2023-05-22, 20:24:33](https://lobste.rs/s/xgflad/nurl_generate_nix_fetcher_calls_from) - [Nurl - Generate Nix fetcher calls from repository URLs](https://github.com/nix-community/nurl)
