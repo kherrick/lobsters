@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
 * [2023-05-23, 15:50:20](https://lobste.rs/s/ocbely/building_mobile_responsive_apps_with) - [Building Mobile Responsive Apps with Intent-Driven Design](https://www.appsmith.com/blog/intent-driven-design-mobile)
 * [2023-05-23, 14:53:43](https://lobste.rs/s/6zwy2f/removing_pgp_from_pypi) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
