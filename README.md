@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 22:45:51](https://lobste.rs/s/f3pytl/network_instrumentation_tcp_file) - [Network Instrumentation and TCP File Descriptor Hijacking](https://krisnova.net/posts/network-instrumentation/)
 * [2023-05-23, 22:32:28](https://lobste.rs/s/cdj6gf/50_years_filesystems_towards_2004_lfs) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 * [2023-05-23, 20:48:52](https://lobste.rs/s/3qe8cw/nginx_1_25_0_brings_http_3_support) - [NGINX 1.25.0 brings HTTP/3 support](https://nginx.org/en/docs/http/ngx_http_v3_module.html)
 * [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
@@ -21,7 +22,6 @@
 * [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
 * [2023-05-22, 21:20:52](https://lobste.rs/s/gmlvct/how_host_your_side_projects_for_free_2023) - [How to host your side-projects for free in 2023: from Auth to Database](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
-* [2023-05-22, 19:01:26](https://lobste.rs/s/qhly0q/io_uring) - [Io_uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
 * [2023-05-22, 07:39:24](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million) - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
