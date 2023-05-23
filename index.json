@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 12:17:26",
+      "https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary"
+    ],
+    [
+      "Introducing Pins: Permanent Nix Binary Storage",
+      "https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 08:24:46",
       "https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about"
     ],
@@ -137,16 +147,6 @@
     [
       "Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985",
       "https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 14:49:10",
-      "https://lobste.rs/s/pojwz5/compress_palooza_unpacking_5_billion"
-    ],
-    [
-      "Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles",
-      "https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/"
     ]
   ],
   [
