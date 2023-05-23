@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 * [2023-05-23, 12:17:26](https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary) - [Introducing Pins: Permanent Nix Binary Storage](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-23, 07:37:06](https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread) - [What If We Pretended That a Task = Thread?](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
@@ -24,7 +25,6 @@
 * [2023-05-22, 06:08:11](https://lobste.rs/s/lthlpw/modding_age_empires_ii_with_sprite) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-22, 04:48:46](https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line) - [Trogon – An automatic TUI for command-line apps](https://github.com/Textualize/trogon)
 * [2023-05-21, 14:25:57](https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
-* [2023-05-21, 14:22:11](https://lobste.rs/s/lbzdtu/resilient_ll_parsing_tutorial) - [Resilient LL Parsing Tutorial](https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html)
 
 ## [Archives](archives/index.md)
 
