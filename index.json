@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 13:41:03",
+      "https://lobste.rs/s/lt6u9e/hot_pixels_frequency_power_temperature"
+    ],
+    [
+      "Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and ARM SoCs",
+      "https://arxiv.org/pdf/2305.12784.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 13:25:04",
       "https://lobste.rs/s/tfrtrd/why_i_use_elm_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "Trogon – An automatic TUI for command-line apps",
       "https://github.com/Textualize/trogon"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 14:25:57",
-      "https://lobste.rs/s/av31pn/pgp_signatures_on_pypi_worse_than_useless"
-    ],
-    [
-      "PGP signatures on PyPI: worse than useless",
-      "https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless"
     ]
   ]
 ]
