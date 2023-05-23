@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 18:30:45](https://lobste.rs/s/sgv2yx/how_use_rss) - [How To Use RSS ·](https://quakkels.com/posts/202305_2_how_to_use_rss/)
 * [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
@@ -22,7 +23,6 @@
 * [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
 * [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)
-* [2023-05-22, 10:00:34](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8p9pg/what_are_you_doing_this_week)
 * [2023-05-22, 09:18:23](https://lobste.rs/s/oojsua/netwhale_listen_network) - [netwhale: Listen to network](https://github.com/Heersin/netwhale)
 * [2023-05-22, 07:39:24](https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million) - [How Much Memory Do You Need to Run 1 Million Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 

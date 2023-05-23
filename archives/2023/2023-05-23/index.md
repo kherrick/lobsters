@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 18:30:45](https://lobste.rs/s/sgv2yx/how_use_rss) - [How To Use RSS ·](https://quakkels.com/posts/202305_2_how_to_use_rss/)
 * [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
