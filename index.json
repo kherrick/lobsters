@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 20:48:52",
+      "https://lobste.rs/s/3qe8cw/nginx_1_25_0_brings_http_3_support"
+    ],
+    [
+      "NGINX 1.25.0 brings HTTP/3 support",
+      "https://nginx.org/en/docs/http/ngx_http_v3_module.html"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 20:23:01",
       "https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability"
     ],
@@ -217,16 +227,6 @@
     [
       "Dynamic Tracing on OpenBSD 7.3",
       "https://blog.lambda.cx/posts/openbsd-dynamic-tracing/"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 16:04:13",
-      "https://lobste.rs/s/63espt/interview_with_programming_visionaries"
-    ],
-    [
-      "Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985",
-      "https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries"
     ]
   ],
   [
