@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 18:38:52](https://lobste.rs/s/mpgogu/implementing_application_layer) - [Implementing Application Layer Encryption in Ruby on Rails applications with Asherah](https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/)
 * [2023-05-23, 18:30:45](https://lobste.rs/s/sgv2yx/how_use_rss) - [How To Use RSS ·](https://quakkels.com/posts/202305_2_how_to_use_rss/)
 * [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
@@ -13,7 +14,6 @@
 * [2023-05-23, 12:17:26](https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary) - [Introducing Pins: Permanent Nix Binary Storage](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-23, 07:37:06](https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread) - [What If We Pretended That a Task = Thread?](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
-* [2023-05-23, 04:16:07](https://lobste.rs/s/ieq7hs/principled_approach_operating_system) - [A Principled Approach to Operating System Construction in Haskell (2005)](http://web.cecs.pdx.edu/~apt/icfp05.pdf)
 * [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
 * [2023-05-22, 21:20:52](https://lobste.rs/s/gmlvct/how_host_your_side_projects_for_free_2023) - [How to host your side-projects for free in 2023: from Auth to Database](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [2023-05-22, 20:24:33](https://lobste.rs/s/xgflad/nurl_generate_nix_fetcher_calls_from) - [Nurl - Generate Nix fetcher calls from repository URLs](https://github.com/nix-community/nurl)
