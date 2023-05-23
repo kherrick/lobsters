@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 * [2023-05-23, 18:38:52](https://lobste.rs/s/mpgogu/implementing_application_layer) - [Implementing Application Layer Encryption in Ruby on Rails applications with Asherah](https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/)
 * [2023-05-23, 18:30:45](https://lobste.rs/s/sgv2yx/how_use_rss) - [How To Use RSS ·](https://quakkels.com/posts/202305_2_how_to_use_rss/)
