@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 16:53:00",
+      "https://lobste.rs/s/kbdjww/understanding_code_smells_elixir"
+    ],
+    [
+      "Understanding Code Smells in Elixir Functional Language",
+      "https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 16:43:33",
       "https://lobste.rs/s/a4zoah/how_include_git_version_information_go"
     ],
@@ -107,16 +117,6 @@
     [
       "What If We Pretended That a Task = Thread?",
       "https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 04:16:07",
-      "https://lobste.rs/s/ieq7hs/principled_approach_operating_system"
-    ],
-    [
-      "A Principled Approach to Operating System Construction in Haskell (2005)",
-      "http://web.cecs.pdx.edu/~apt/icfp05.pdf"
     ]
   ],
   [
