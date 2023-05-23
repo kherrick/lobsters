@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 22:32:28](https://lobste.rs/s/cdj6gf/50_years_filesystems_towards_2004_lfs) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 * [2023-05-23, 20:48:52](https://lobste.rs/s/3qe8cw/nginx_1_25_0_brings_http_3_support) - [NGINX 1.25.0 brings HTTP/3 support](https://nginx.org/en/docs/http/ngx_http_v3_module.html)
 * [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
