@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 19:52:17",
+      "https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits"
+    ],
+    [
+      "Open sourcing our Rust crate audits",
+      "https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 19:00:20",
       "https://lobste.rs/s/fe7w9z/dependency_composition"
     ],
@@ -167,16 +177,6 @@
     [
       "How to host your side-projects for free in 2023: from Auth to Database",
       "https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 20:24:33",
-      "https://lobste.rs/s/xgflad/nurl_generate_nix_fetcher_calls_from"
-    ],
-    [
-      "Nurl - Generate Nix fetcher calls from repository URLs",
-      "https://github.com/nix-community/nurl"
     ]
   ],
   [
