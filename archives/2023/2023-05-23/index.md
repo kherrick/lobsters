@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 * [2023-05-23, 18:38:52](https://lobste.rs/s/mpgogu/implementing_application_layer) - [Implementing Application Layer Encryption in Ruby on Rails applications with Asherah](https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/)
