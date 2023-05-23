@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 18:38:52",
+      "https://lobste.rs/s/mpgogu/implementing_application_layer"
+    ],
+    [
+      "Implementing Application Layer Encryption in Ruby on Rails applications with Asherah",
+      "https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 18:30:45",
       "https://lobste.rs/s/sgv2yx/how_use_rss"
     ],
@@ -127,16 +137,6 @@
     [
       "What If We Pretended That a Task = Thread?",
       "https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 04:16:07",
-      "https://lobste.rs/s/ieq7hs/principled_approach_operating_system"
-    ],
-    [
-      "A Principled Approach to Operating System Construction in Haskell (2005)",
-      "http://web.cecs.pdx.edu/~apt/icfp05.pdf"
     ]
   ],
   [
