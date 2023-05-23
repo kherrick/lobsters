@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-23, 16:28:02",
+      "https://lobste.rs/s/yfyr03/unintended_side_effects"
+    ],
+    [
+      "Unintended Side Effects",
+      "http://www.os2museum.com/wp/unintended-side-effects/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 15:50:20",
       "https://lobste.rs/s/ocbely/building_mobile_responsive_apps_with"
     ],
@@ -237,16 +247,6 @@
     [
       "How Much Memory Do You Need to Run 1 Million Concurrent Tasks?",
       "https://pkolaczk.github.io/memory-consumption-of-async/"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 04:48:46",
-      "https://lobste.rs/s/zmj2n9/trogon_automatic_tui_for_command_line"
-    ],
-    [
-      "Trogon – An automatic TUI for command-line apps",
-      "https://github.com/Textualize/trogon"
     ]
   ]
 ]
