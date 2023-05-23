@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
 * [2023-05-23, 15:50:20](https://lobste.rs/s/ocbely/building_mobile_responsive_apps_with) - [Building Mobile Responsive Apps with Intent-Driven Design](https://www.appsmith.com/blog/intent-driven-design-mobile)
 * [2023-05-23, 14:53:43](https://lobste.rs/s/6zwy2f/removing_pgp_from_pypi) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2023-05-23, 14:18:55](https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive) - [How Much Faster Is Making A Tar Archive Without Gzip?](https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/)
