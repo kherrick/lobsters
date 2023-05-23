@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-23, 14:18:55](https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive) - [How Much Faster Is Making A Tar Archive Without Gzip?](https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
 * [2023-05-23, 13:58:11](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for) - [Trusted publishing: a new benchmark for packaging security](https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/)
 * [2023-05-23, 13:41:03](https://lobste.rs/s/lt6u9e/hot_pixels_frequency_power_temperature) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and ARM SoCs](https://arxiv.org/pdf/2305.12784.pdf)
@@ -14,7 +15,6 @@
 * [2023-05-22, 19:38:13](https://lobste.rs/s/3zadk0/helping_sommeliers_inventory_wines) - [Helping sommeliers inventory wines faster with Whisper, DuckDB, and Metaphone](https://vikramoberoi.com/helping-sommeliers-inventory-wine-faster-with-whisper-duckdb-and-metaphone/)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
 * [2023-05-22, 19:01:26](https://lobste.rs/s/qhly0q/io_uring) - [Io_uring](https://nick-black.com/dankwiki/index.php/Io_uring)
-* [2023-05-22, 16:11:07](https://lobste.rs/s/g0chdb/when_cymbals_come) - [When the cymbals come in](https://registerspill.thorstenball.com/p/when-the-cymbals-come-in)
 * [2023-05-22, 16:10:16](https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3) - [Dynamic Tracing on OpenBSD 7.3](https://blog.lambda.cx/posts/openbsd-dynamic-tracing/)
 * [2023-05-22, 16:04:13](https://lobste.rs/s/63espt/interview_with_programming_visionaries) - [Interview with Programming Visionaries Donald Knuth and Niklaus Wirth from 1985](https://computeradsfromthepast.substack.com/p/interview-with-programming-visionaries)
 * [2023-05-22, 13:35:01](https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent) - [How I used Nix to turn Open Policy Agent policies into standalone CLI tools](https://determinate.systems/posts/open-policy-agent)

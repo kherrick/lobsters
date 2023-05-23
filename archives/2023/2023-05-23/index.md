@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 14:18:55](https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive) - [How Much Faster Is Making A Tar Archive Without Gzip?](https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
 * [2023-05-23, 13:58:11](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for) - [Trusted publishing: a new benchmark for packaging security](https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/)
 * [2023-05-23, 13:41:03](https://lobste.rs/s/lt6u9e/hot_pixels_frequency_power_temperature) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and ARM SoCs](https://arxiv.org/pdf/2305.12784.pdf)
