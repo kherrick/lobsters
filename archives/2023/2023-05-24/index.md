@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 * [2023-05-24, 12:56:34](https://lobste.rs/s/7gpsqa/using_numpy_replace_pandas_groupby_apply) - [Using NumPy to replace Pandas GroupBy-Apply pattern for performance](https://vikramsg.github.io/blog_pandas_groupby_with_numpy/)
 * [2023-05-24, 12:47:35](https://lobste.rs/s/4dljzu/50_shades_go) - [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 * [2023-05-24, 12:10:29](https://lobste.rs/s/fvpid9/decoding_openai_evals) - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
