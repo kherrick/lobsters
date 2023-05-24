@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 18:12:23](https://lobste.rs/s/brceu4/breaking_sha256_length_extension) - [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
 * [2023-05-24, 17:58:50](https://lobste.rs/s/oyrvc1/introducing_cellulose_tool_improve) - [Introducing Cellulose - a tool to improve inference performance of ML models](https://www.cellulose.ai)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)

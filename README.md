@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 18:12:23](https://lobste.rs/s/brceu4/breaking_sha256_length_extension) - [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
 * [2023-05-24, 17:58:50](https://lobste.rs/s/oyrvc1/introducing_cellulose_tool_improve) - [Introducing Cellulose - a tool to improve inference performance of ML models](https://www.cellulose.ai)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
@@ -12,7 +13,6 @@
 * [2023-05-24, 14:12:19](https://lobste.rs/s/mpfoqc/line_rendering_deep_overview) - [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
-* [2023-05-24, 12:56:34](https://lobste.rs/s/7gpsqa/using_numpy_replace_pandas_groupby_apply) - [Using NumPy to replace Pandas GroupBy-Apply pattern for performance](https://vikramsg.github.io/blog_pandas_groupby_with_numpy/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 07:14:33](https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet) - [Implementing a custom bootloader packet protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=RrUyS-gixWk)
 * [2023-05-24, 06:09:48](https://lobste.rs/s/7eg4uo/linux_networking_shallow_dive_wireguard) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
