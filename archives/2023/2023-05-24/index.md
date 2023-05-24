@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
+* [2023-05-24, 17:58:50](https://lobste.rs/s/oyrvc1/introducing_cellulose_tool_improve) - [Introducing Cellulose - a tool to improve inference performance of ML models](https://www.cellulose.ai)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 16:32:43](https://lobste.rs/s/wscjby/rewrite_it_rust_considered_harmful) - [``Rewrite it in Rust'' Considered Harmful?](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 * [2023-05-24, 16:30:57](https://lobste.rs/s/c9ve4e/fart_init_small_provisioning_script_for) - [fart-init small provisioning script for openbsd cloud infrastructure](https://x61.sh/log/2023/05/23052023153621-fart-init.html)
