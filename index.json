@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 12:10:29",
+      "https://lobste.rs/s/fvpid9/decoding_openai_evals"
+    ],
+    [
+      "Decoding OpenAI Evals",
+      "https://portkey.ai/blog/decoding-openai-evals/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 12:09:24",
+      "https://lobste.rs/s/slb0eu/chainforge_open_source_visual"
+    ],
+    [
+      "ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs",
+      "https://github.com/ianarawjo/ChainForge"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 11:24:56",
       "https://lobste.rs/s/xjwzbh/c_23_even_more_constexpr"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-05-23, 15:50:20",
-      "https://lobste.rs/s/ocbely/building_mobile_responsive_apps_with"
-    ],
-    [
-      "Building Mobile Responsive Apps with Intent-Driven Design",
-      "https://www.appsmith.com/blog/intent-driven-design-mobile"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 14:18:55",
       "https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive"
     ],
@@ -227,16 +237,6 @@
     [
       "Ditherpunk, The article I wish I had about monochrome image dithering",
       "https://surma.dev/things/ditherpunk/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 07:37:06",
-      "https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread"
-    ],
-    [
-      "What If We Pretended That a Task = Thread?",
-      "https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/"
     ]
   ],
   [
