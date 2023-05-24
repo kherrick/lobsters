@@ -24,7 +24,7 @@
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
-* [2023-05-23, 13:58:11](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for) - [Trusted publishing: a new benchmark for packaging security](https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/)
+* [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 
 ## [Archives](archives/index.md)
 
