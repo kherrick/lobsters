@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 18:47:13](https://lobste.rs/s/trmsvo/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first.html)
 * [2023-05-24, 18:12:23](https://lobste.rs/s/brceu4/breaking_sha256_length_extension) - [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)

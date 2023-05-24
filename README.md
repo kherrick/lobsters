@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 18:47:13](https://lobste.rs/s/trmsvo/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first.html)
 * [2023-05-24, 18:12:23](https://lobste.rs/s/brceu4/breaking_sha256_length_extension) - [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
@@ -24,7 +25,6 @@
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
 * [2023-05-23, 13:58:11](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for) - [Trusted publishing: a new benchmark for packaging security](https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/)
 * [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
-* [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 
 ## [Archives](archives/index.md)
 
