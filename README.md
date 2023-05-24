@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
 * [2023-05-24, 14:12:19](https://lobste.rs/s/mpfoqc/line_rendering_deep_overview) - [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
@@ -22,7 +23,6 @@
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
 * [2023-05-23, 13:58:11](https://lobste.rs/s/h0oars/trusted_publishing_new_benchmark_for) - [Trusted publishing: a new benchmark for packaging security](https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/)
 * [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
-* [2023-05-23, 12:17:26](https://lobste.rs/s/ej0lra/introducing_pins_permanent_nix_binary) - [Introducing Pins: Permanent Nix Binary Storage](https://blog.cachix.org/posts/2023-05-23-introducing-pins-permanent-nix-binary-storage/)
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
 
