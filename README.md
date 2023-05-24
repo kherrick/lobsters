@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 07:14:33](https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet) - [Implementing a custom bootloader packet protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=RrUyS-gixWk)
 * [2023-05-24, 06:09:48](https://lobste.rs/s/7eg4uo/linux_networking_shallow_dive_wireguard) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-24, 05:28:19](https://lobste.rs/s/utv6bn/new_xen_updates_on_risc_v) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 * [2023-05-24, 02:35:17](https://lobste.rs/s/hfdcjj/how_start_go_project_2023) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-24, 01:16:25](https://lobste.rs/s/li8g36/local_async_executors_why_they_should_be) - [Local Async Executors and Why They Should be the Default](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
-* [2023-05-23, 22:45:51](https://lobste.rs/s/f3pytl/network_instrumentation_tcp_file) - [Network Instrumentation and TCP File Descriptor Hijacking](https://krisnova.net/posts/network-instrumentation/)
 * [2023-05-23, 22:32:28](https://lobste.rs/s/cdj6gf/50_years_filesystems_towards_2004_lfs) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 * [2023-05-23, 20:48:52](https://lobste.rs/s/3qe8cw/nginx_1_25_0_brings_http_3_support) - [NGINX 1.25.0 brings HTTP/3 support](https://nginx.org/en/docs/http/ngx_http_v3_module.html)
 * [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
