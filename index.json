@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 18:00:14",
+      "https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on"
+    ],
+    [
+      "The Fastest Maze-Solving Competition On Earth",
+      "https://youtu.be/ZMQbHMgK2rw"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 17:58:50",
+      "https://lobste.rs/s/oyrvc1/introducing_cellulose_tool_improve"
+    ],
+    [
+      "Introducing Cellulose - a tool to improve inference performance of ML models",
+      "https://www.cellulose.ai"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 17:49:48",
       "https://lobste.rs/s/uflzpg/pypi_was_subpoenaed"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2023-05-24, 14:12:19",
+      "https://lobste.rs/s/mpfoqc/line_rendering_deep_overview"
+    ],
+    [
+      "Line Rendering Deep Overview",
+      "https://panthavma.com/articles/lines/deep-overview-extraction/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 13:45:55",
       "https://lobste.rs/s/qhwjrg/sudo_signal_propagation"
     ],
@@ -97,16 +127,6 @@
     [
       "Using NumPy to replace Pandas GroupBy-Apply pattern for performance",
       "https://vikramsg.github.io/blog_pandas_groupby_with_numpy/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 12:09:24",
-      "https://lobste.rs/s/slb0eu/chainforge_open_source_visual"
-    ],
-    [
-      "ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs",
-      "https://github.com/ianarawjo/ChainForge"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-05-24, 01:16:25",
-      "https://lobste.rs/s/li8g36/local_async_executors_why_they_should_be"
-    ],
-    [
-      "Local Async Executors and Why They Should be the Default",
-      "https://maciej.codes/2022-06-09-local-async.html"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 01:08:11",
       "https://lobste.rs/s/gm6shy/you_don_t_need_modal_window"
     ],
     [
       "You don't need a modal window",
       "https://youdontneedamodalwindow.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 22:32:28",
-      "https://lobste.rs/s/cdj6gf/50_years_filesystems_towards_2004_lfs"
-    ],
-    [
-      "50 years in filesystems: towards 2004 – LFS",
-      "https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html"
     ]
   ],
   [
