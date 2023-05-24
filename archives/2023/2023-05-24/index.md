@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 16:32:43](https://lobste.rs/s/wscjby/rewrite_it_rust_considered_harmful) - [``Rewrite it in Rust'' Considered Harmful?](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
+* [2023-05-24, 16:30:57](https://lobste.rs/s/c9ve4e/fart_init_small_provisioning_script_for) - [fart-init small provisioning script for openbsd cloud infrastructure](https://x61.sh/log/2023/05/23052023153621-fart-init.html)
 * [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
