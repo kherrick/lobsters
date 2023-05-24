@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 21:08:53](https://lobste.rs/s/sntl2k/scryer_prolog_meetup_2023) - [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
+* [2023-05-24, 20:58:35](https://lobste.rs/s/merhcs/introducing_popover_api) - [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-24, 19:54:22](https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors) - [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 * [2023-05-24, 19:52:34](https://lobste.rs/s/qgcdvh/half_half_demystifying_intel_s) - [Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast, Secure Partitioned Execution](https://cseweb.ucsd.edu/~tullsen/halfandhalf.pdf)
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
@@ -18,13 +20,11 @@
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 07:14:33](https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet) - [Implementing a custom bootloader packet protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=RrUyS-gixWk)
-* [2023-05-24, 06:09:48](https://lobste.rs/s/7eg4uo/linux_networking_shallow_dive_wireguard) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-24, 02:35:17](https://lobste.rs/s/hfdcjj/how_start_go_project_2023) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
-* [2023-05-23, 13:25:04](https://lobste.rs/s/tfrtrd/why_i_use_elm_2023) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 
 ## [Archives](archives/index.md)
 
