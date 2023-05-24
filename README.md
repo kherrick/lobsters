@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 05:28:19](https://lobste.rs/s/utv6bn/new_xen_updates_on_risc_v) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 * [2023-05-24, 02:35:17](https://lobste.rs/s/hfdcjj/how_start_go_project_2023) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-24, 01:16:25](https://lobste.rs/s/li8g36/local_async_executors_why_they_should_be) - [Local Async Executors and Why They Should be the Default](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
@@ -23,7 +24,6 @@
 * [2023-05-23, 08:24:46](https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about) - [Ditherpunk, The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-23, 07:37:06](https://lobste.rs/s/mjnzu0/what_if_we_pretended_task_thread) - [What If We Pretended That a Task = Thread?](https://blaz.is/blog/post/lets-pretend-that-task-equals-thread/)
 * [2023-05-22, 21:21:03](https://lobste.rs/s/ql55nd/fixing_latent_crash_21_year_old_obscure_pc) - [Fixing a latent crash in a 21-year-old obscure PC game](https://www.vogons.org/viewtopic.php?p=1163091#p1163091)
-* [2023-05-22, 21:20:52](https://lobste.rs/s/gmlvct/how_host_your_side_projects_for_free_2023) - [How to host your side-projects for free in 2023: from Auth to Database](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [2023-05-22, 19:22:07](https://lobste.rs/s/0ehpvv/launching_eyg_run_functional_language) - [launching eyg.run a functional language and structural editor](https://vimeo.com/829141501)
 
 ## [Archives](archives/index.md)
