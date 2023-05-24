@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 12:10:29](https://lobste.rs/s/fvpid9/decoding_openai_evals) - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
+* [2023-05-24, 12:09:24](https://lobste.rs/s/slb0eu/chainforge_open_source_visual) - [ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 11:24:56](https://lobste.rs/s/xjwzbh/c_23_even_more_constexpr) - [C++23: Even more constexpr](https://www.sandordargo.com/blog/2023/05/24/cpp23-constexpr)
 * [2023-05-24, 10:05:16](https://lobste.rs/s/fbun9p/modal_nonmodal_dialogs_when_when_not_use) - [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
