@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 23:21:01",
+      "https://lobste.rs/s/oig425/state_garnet_2023"
+    ],
+    [
+      "The State Of Garnet, 2023",
+      "https://wiki.alopex.li/TheStateOfGarnet2023"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 20:58:35",
       "https://lobste.rs/s/merhcs/introducing_popover_api"
     ],
@@ -187,16 +197,6 @@
     [
       "A new direction for Pijul's hosting service",
       "https://pijul.org/posts/2023-05-23-nest-a-new-hope/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 07:14:33",
-      "https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet"
-    ],
-    [
-      "Implementing a custom bootloader packet protocol: Bare Metal Programming Series",
-      "https://www.youtube.com/watch?v=RrUyS-gixWk"
     ]
   ],
   [
