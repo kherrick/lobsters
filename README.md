@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-05-24, 21:08:53](https://lobste.rs/s/sntl2k/scryer_prolog_meetup_2023) - [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
-* [2023-05-24, 20:58:35](https://lobste.rs/s/merhcs/introducing_popover_api) - [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-24, 19:54:22](https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors) - [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 * [2023-05-24, 19:52:34](https://lobste.rs/s/qgcdvh/half_half_demystifying_intel_s) - [Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast, Secure Partitioned Execution](https://cseweb.ucsd.edu/~tullsen/halfandhalf.pdf)
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
@@ -16,6 +15,7 @@
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
+* [2023-05-24, 14:12:19](https://lobste.rs/s/mpfoqc/line_rendering_deep_overview) - [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
