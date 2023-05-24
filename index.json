@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 17:49:48",
+      "https://lobste.rs/s/uflzpg/pypi_was_subpoenaed"
+    ],
+    [
+      "PyPI was subpoenaed",
+      "https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 16:32:43",
       "https://lobste.rs/s/wscjby/rewrite_it_rust_considered_harmful"
     ],
@@ -57,16 +67,6 @@
     [
       "Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy",
       "https://github.com/fishfolk/jumpy"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 14:12:19",
-      "https://lobste.rs/s/mpfoqc/line_rendering_deep_overview"
-    ],
-    [
-      "Line Rendering Deep Overview",
-      "https://panthavma.com/articles/lines/deep-overview-extraction/"
     ]
   ],
   [
