@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 19:03:00",
+      "https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet"
+    ],
+    [
+      "There's still no silver bullet",
+      "https://changelog.com/posts/still-no-silver-bullet"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 18:47:13",
       "https://lobste.rs/s/trmsvo/optimise_expensive_first"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I Use Elm in 2023",
       "https://taylor.town/elm-2023"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 08:24:46",
-      "https://lobste.rs/s/vqh7u0/ditherpunk_article_i_wish_i_had_about"
-    ],
-    [
-      "Ditherpunk, The article I wish I had about monochrome image dithering",
-      "https://surma.dev/things/ditherpunk/"
     ]
   ]
 ]
