@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 15:59:29",
+      "https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments"
+    ],
+    [
+      "Why doesn’t CSS have single line comments?",
+      "https://blog.jim-nielsen.com/2023/single-line-comments-in-css/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 15:50:30",
       "https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas"
     ],
@@ -77,16 +87,6 @@
     [
       "50 Shades of Go",
       "https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 12:10:29",
-      "https://lobste.rs/s/fvpid9/decoding_openai_evals"
-    ],
-    [
-      "Decoding OpenAI Evals",
-      "https://portkey.ai/blog/decoding-openai-evals/"
     ]
   ],
   [
