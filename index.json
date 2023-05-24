@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 01:08:11",
+      "https://lobste.rs/s/gm6shy/you_don_t_need_modal_window"
+    ],
+    [
+      "You don't need a modal window",
+      "https://youdontneedamodalwindow.dev/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 22:45:51",
       "https://lobste.rs/s/f3pytl/network_instrumentation_tcp_file"
     ],
@@ -227,16 +237,6 @@
     [
       "Dynamic Tracing on OpenBSD 7.3",
       "https://blog.lambda.cx/posts/openbsd-dynamic-tracing/"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 13:35:01",
-      "https://lobste.rs/s/e7mrcf/how_i_used_nix_turn_open_policy_agent"
-    ],
-    [
-      "How I used Nix to turn Open Policy Agent policies into standalone CLI tools",
-      "https://determinate.systems/posts/open-policy-agent"
     ]
   ],
   [
