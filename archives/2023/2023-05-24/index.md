@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 23:21:01](https://lobste.rs/s/oig425/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-05-24, 21:08:53](https://lobste.rs/s/sntl2k/scryer_prolog_meetup_2023) - [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
 * [2023-05-24, 20:58:35](https://lobste.rs/s/merhcs/introducing_popover_api) - [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-24, 19:54:22](https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors) - [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
