@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 02:35:17",
+      "https://lobste.rs/s/hfdcjj/how_start_go_project_2023"
+    ],
+    [
+      "How to start a Go project in 2023",
+      "https://boyter.org/posts/how-to-start-go-project-2023/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 01:16:25",
       "https://lobste.rs/s/li8g36/local_async_executors_why_they_should_be"
     ],
@@ -237,16 +247,6 @@
     [
       "launching eyg.run a functional language and structural editor",
       "https://vimeo.com/829141501"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 16:10:16",
-      "https://lobste.rs/s/pwoj7q/dynamic_tracing_on_openbsd_7_3"
-    ],
-    [
-      "Dynamic Tracing on OpenBSD 7.3",
-      "https://blog.lambda.cx/posts/openbsd-dynamic-tracing/"
     ]
   ]
 ]
