@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 21:08:53",
+      "https://lobste.rs/s/sntl2k/scryer_prolog_meetup_2023"
+    ],
+    [
+      "Scryer Prolog Meetup 2023",
+      "https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 20:58:35",
+      "https://lobste.rs/s/merhcs/introducing_popover_api"
+    ],
+    [
+      "Introducing the popover API",
+      "https://developer.chrome.com/blog/introducing-popover-api/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 19:54:22",
       "https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-05-24, 06:09:48",
-      "https://lobste.rs/s/7eg4uo/linux_networking_shallow_dive_wireguard"
-    ],
-    [
-      "Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT",
-      "https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 02:35:17",
       "https://lobste.rs/s/hfdcjj/how_start_go_project_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.29 - Gleam gets autocompletion",
       "https://gleam.run/news/v0.29-gleam-gets-autocompletion/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 13:25:04",
-      "https://lobste.rs/s/tfrtrd/why_i_use_elm_2023"
-    ],
-    [
-      "Why I Use Elm in 2023",
-      "https://taylor.town/elm-2023"
     ]
   ]
 ]
