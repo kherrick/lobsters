@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
 * [2023-05-24, 14:12:19](https://lobste.rs/s/mpfoqc/line_rendering_deep_overview) - [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
