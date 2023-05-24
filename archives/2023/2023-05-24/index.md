@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 12:47:35](https://lobste.rs/s/4dljzu/50_shades_go) - [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 * [2023-05-24, 12:10:29](https://lobste.rs/s/fvpid9/decoding_openai_evals) - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
 * [2023-05-24, 12:09:24](https://lobste.rs/s/slb0eu/chainforge_open_source_visual) - [ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 11:24:56](https://lobste.rs/s/xjwzbh/c_23_even_more_constexpr) - [C++23: Even more constexpr](https://www.sandordargo.com/blog/2023/05/24/cpp23-constexpr)
