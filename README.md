@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 10:05:16](https://lobste.rs/s/fbun9p/modal_nonmodal_dialogs_when_when_not_use) - [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 07:14:33](https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet) - [Implementing a custom bootloader packet protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=RrUyS-gixWk)
 * [2023-05-24, 06:09:48](https://lobste.rs/s/7eg4uo/linux_networking_shallow_dive_wireguard) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
@@ -12,7 +13,6 @@
 * [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
-* [2023-05-23, 18:38:52](https://lobste.rs/s/mpgogu/implementing_application_layer) - [Implementing Application Layer Encryption in Ruby on Rails applications with Asherah](https://www.godaddy.com/engineering/2023/05/23/application-layer-encryption-in-ruby-on-rails-with-asherah/)
 * [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 16:28:02](https://lobste.rs/s/yfyr03/unintended_side_effects) - [Unintended Side Effects](http://www.os2museum.com/wp/unintended-side-effects/)
