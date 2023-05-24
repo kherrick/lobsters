@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
@@ -8,7 +9,6 @@
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 * [2023-05-24, 12:56:34](https://lobste.rs/s/7gpsqa/using_numpy_replace_pandas_groupby_apply) - [Using NumPy to replace Pandas GroupBy-Apply pattern for performance](https://vikramsg.github.io/blog_pandas_groupby_with_numpy/)
 * [2023-05-24, 12:47:35](https://lobste.rs/s/4dljzu/50_shades_go) - [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
-* [2023-05-24, 12:10:29](https://lobste.rs/s/fvpid9/decoding_openai_evals) - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
 * [2023-05-24, 12:09:24](https://lobste.rs/s/slb0eu/chainforge_open_source_visual) - [ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 07:14:33](https://lobste.rs/s/fqd6yj/implementing_custom_bootloader_packet) - [Implementing a custom bootloader packet protocol: Bare Metal Programming Series](https://www.youtube.com/watch?v=RrUyS-gixWk)
