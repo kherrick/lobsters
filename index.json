@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 01:16:25",
+      "https://lobste.rs/s/li8g36/local_async_executors_why_they_should_be"
+    ],
+    [
+      "Local Async Executors and Why They Should be the Default",
+      "https://maciej.codes/2022-06-09-local-async.html"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 01:08:11",
       "https://lobste.rs/s/gm6shy/you_don_t_need_modal_window"
     ],
@@ -237,16 +247,6 @@
     [
       "Dynamic Tracing on OpenBSD 7.3",
       "https://blog.lambda.cx/posts/openbsd-dynamic-tracing/"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 07:39:24",
-      "https://lobste.rs/s/m9xe97/how_much_memory_do_you_need_run_1_million"
-    ],
-    [
-      "How Much Memory Do You Need to Run 1 Million Concurrent Tasks?",
-      "https://pkolaczk.github.io/memory-consumption-of-async/"
     ]
   ]
 ]
