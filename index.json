@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-24, 20:58:35",
-      "https://lobste.rs/s/merhcs/introducing_popover_api"
-    ],
-    [
-      "Introducing the popover API",
-      "https://developer.chrome.com/blog/introducing-popover-api/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 19:54:22",
       "https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors"
     ],
@@ -157,6 +147,16 @@
     [
       "Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy",
       "https://github.com/fishfolk/jumpy"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 14:12:19",
+      "https://lobste.rs/s/mpfoqc/line_rendering_deep_overview"
+    ],
+    [
+      "Line Rendering Deep Overview",
+      "https://panthavma.com/articles/lines/deep-overview-extraction/"
     ]
   ],
   [
