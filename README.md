@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 12:56:34](https://lobste.rs/s/7gpsqa/using_numpy_replace_pandas_groupby_apply) - [Using NumPy to replace Pandas GroupBy-Apply pattern for performance](https://vikramsg.github.io/blog_pandas_groupby_with_numpy/)
 * [2023-05-24, 12:47:35](https://lobste.rs/s/4dljzu/50_shades_go) - [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 * [2023-05-24, 12:10:29](https://lobste.rs/s/fvpid9/decoding_openai_evals) - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
 * [2023-05-24, 12:09:24](https://lobste.rs/s/slb0eu/chainforge_open_source_visual) - [ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs](https://github.com/ianarawjo/ChainForge)
@@ -16,7 +17,6 @@
 * [2023-05-23, 20:23:01](https://lobste.rs/s/vfdnlz/what_if_we_had_sockpuppet_vulnerability) - [What if we had the SockPuppet vulnerability in iOS 16?](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
 * [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
-* [2023-05-23, 16:53:00](https://lobste.rs/s/kbdjww/understanding_code_smells_elixir) - [Understanding Code Smells in Elixir Functional Language](https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 14:18:55](https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive) - [How Much Faster Is Making A Tar Archive Without Gzip?](https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
