@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 13:16:54](https://lobste.rs/s/1xt4ik/trick_for_reflection_c) - [A Trick for Reflection in C++](https://sillycross.github.io/2021/08/23/2021-08-23/)
 * [2023-05-24, 12:56:34](https://lobste.rs/s/7gpsqa/using_numpy_replace_pandas_groupby_apply) - [Using NumPy to replace Pandas GroupBy-Apply pattern for performance](https://vikramsg.github.io/blog_pandas_groupby_with_numpy/)
 * [2023-05-24, 12:47:35](https://lobste.rs/s/4dljzu/50_shades_go) - [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
@@ -16,7 +17,6 @@
 * [2023-05-23, 22:32:28](https://lobste.rs/s/cdj6gf/50_years_filesystems_towards_2004_lfs) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 * [2023-05-23, 20:48:52](https://lobste.rs/s/3qe8cw/nginx_1_25_0_brings_http_3_support) - [NGINX 1.25.0 brings HTTP/3 support](https://nginx.org/en/docs/http/ngx_http_v3_module.html)
 * [2023-05-23, 19:52:17](https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits) - [Open sourcing our Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1)
-* [2023-05-23, 19:00:20](https://lobste.rs/s/fe7w9z/dependency_composition) - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 * [2023-05-23, 14:18:55](https://lobste.rs/s/uz0fwj/how_much_faster_is_making_tar_archive) - [How Much Faster Is Making A Tar Archive Without Gzip?](https://lowendbox.com/blog/how-much-faster-is-making-a-tar-archive-without-gzip/)
 * [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
