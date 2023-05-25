@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 17:32:33",
+      "https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl"
+    ],
+    [
+      "New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators",
+      "https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 16:59:43",
       "https://lobste.rs/s/8vxbnc/llm_university_llmu"
     ],
@@ -117,16 +127,6 @@
     [
       "Infecting SSH Public Keys with backdoors",
       "https://blog.thc.org/infecting-ssh-public-keys-with-backdoors"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 19:52:34",
-      "https://lobste.rs/s/qgcdvh/half_half_demystifying_intel_s"
-    ],
-    [
-      "Half&Half: Demystifying Intel’s Directional Branch Predictors for Fast, Secure Partitioned Execution",
-      "https://cseweb.ucsd.edu/~tullsen/halfandhalf.pdf"
     ]
   ],
   [
