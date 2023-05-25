@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 14:48:25](https://lobste.rs/s/dyahnd/beryl_md_journey_towards_building) - [Beryl.md: A Journey Towards Building an Extensible Todo List App](https://thesam.zone/blog/beryl-update-2/)
 * [2023-05-25, 13:34:59](https://lobste.rs/s/sl0hef/implementing_distributed_key_value) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 12:55:10](https://lobste.rs/s/2igzds/introduction_rails_engines_how_why_when) - [Introduction to Rails Engines (how, why, and when to use them)](https://www.fastruby.io/blog/introduction-to-rails-engines.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
