@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
 * [2023-05-25, 07:54:15](https://lobste.rs/s/kpatex/aider_is_gpt_4_powered_coding_your) - [aider is GPT-4 powered coding in your terminal](https://github.com/paul-gauthier/aider)
 * [2023-05-25, 06:39:13](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-05-25, 03:39:57](https://lobste.rs/s/layfzt/xorvoid) - [xorvoid](https://xorvoid.com/sectorc.html)
@@ -20,7 +21,6 @@
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
-* [2023-05-24, 14:12:19](https://lobste.rs/s/mpfoqc/line_rendering_deep_overview) - [Line Rendering Deep Overview](https://panthavma.com/articles/lines/deep-overview-extraction/)
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
