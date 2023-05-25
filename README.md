@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 13:34:59](https://lobste.rs/s/sl0hef/implementing_distributed_key_value) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 12:55:10](https://lobste.rs/s/2igzds/introduction_rails_engines_how_why_when) - [Introduction to Rails Engines (how, why, and when to use them)](https://www.fastruby.io/blog/introduction-to-rails-engines.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
@@ -24,7 +25,6 @@
 * [2023-05-24, 13:45:55](https://lobste.rs/s/qhwjrg/sudo_signal_propagation) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
-* [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
 
 ## [Archives](archives/index.md)
 
