@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 19:02:57](https://lobste.rs/s/4zkl71/new_playground_memory_spy) - [New playground: memory spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 * [2023-05-25, 17:32:33](https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl) - [New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators](https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/)
@@ -22,7 +23,6 @@
 * [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
-* [2023-05-24, 14:38:37](https://lobste.rs/s/jx4agm/fish_folk_tactical_2d_shooter_made_with) - [Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy](https://github.com/fishfolk/jumpy)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 

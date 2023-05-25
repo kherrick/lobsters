@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 19:02:57](https://lobste.rs/s/4zkl71/new_playground_memory_spy) - [New playground: memory spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 * [2023-05-25, 17:32:33](https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl) - [New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators](https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/)
