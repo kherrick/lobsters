@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 15:42:45",
+      "https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from"
+    ],
+    [
+      "Getting meaningful stack traces from Rust tests returning a Result",
+      "https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 14:48:25",
       "https://lobste.rs/s/dyahnd/beryl_md_journey_towards_building"
     ],
@@ -217,16 +227,6 @@
     [
       "Fish Folk – Tactical 2D shooter made with Rust-lang and Bevy",
       "https://github.com/fishfolk/jumpy"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 13:45:55",
-      "https://lobste.rs/s/qhwjrg/sudo_signal_propagation"
-    ],
-    [
-      "Sudo and signal propagation",
-      "https://dxuuu.xyz/sudo.html"
     ]
   ],
   [
