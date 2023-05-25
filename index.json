@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 20:43:08",
+      "https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant"
+    ],
+    [
+      "Rooting with root cause: finding a variant of a Project Zero bug",
+      "https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 20:23:38",
       "https://lobste.rs/s/mybtox/weston_12_0_highlights_changes"
     ],
@@ -237,16 +247,6 @@
     [
       "A new direction for Pijul's hosting service",
       "https://pijul.org/posts/2023-05-23-nest-a-new-hope/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 01:08:11",
-      "https://lobste.rs/s/gm6shy/you_don_t_need_modal_window"
-    ],
-    [
-      "You don't need a modal window",
-      "https://youdontneedamodalwindow.dev/"
     ]
   ]
 ]
