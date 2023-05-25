@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 * [2023-05-25, 17:32:33](https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl) - [New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators](https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/)
 * [2023-05-25, 16:59:43](https://lobste.rs/s/8vxbnc/llm_university_llmu) - [LLM University (LLMU)](https://docs.cohere.com/docs/llmu)
 * [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
