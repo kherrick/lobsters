@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 14:48:25",
+      "https://lobste.rs/s/dyahnd/beryl_md_journey_towards_building"
+    ],
+    [
+      "Beryl.md: A Journey Towards Building an Extensible Todo List App",
+      "https://thesam.zone/blog/beryl-update-2/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 13:34:59",
       "https://lobste.rs/s/sl0hef/implementing_distributed_key_value"
     ],
@@ -237,16 +247,6 @@
     [
       "You don't need a modal window",
       "https://youdontneedamodalwindow.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 16:43:33",
-      "https://lobste.rs/s/a4zoah/how_include_git_version_information_go"
-    ],
-    [
-      "How to include Git version information in Go",
-      "https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/"
     ]
   ]
 ]
