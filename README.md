@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 03:39:57](https://lobste.rs/s/layfzt/xorvoid) - [xorvoid](https://xorvoid.com/sectorc.html)
 * [2023-05-25, 03:04:13](https://lobste.rs/s/kube70/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 * [2023-05-24, 23:21:01](https://lobste.rs/s/oig425/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-05-24, 21:08:53](https://lobste.rs/s/sntl2k/scryer_prolog_meetup_2023) - [Scryer Prolog Meetup 2023](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2023/)
@@ -24,7 +25,6 @@
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 * [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-23, 16:43:33](https://lobste.rs/s/a4zoah/how_include_git_version_information_go) - [How to include Git version information in Go](https://blog.carlmjohnson.net/post/2023/golang-git-hash-how-to/)
-* [2023-05-23, 13:59:32](https://lobste.rs/s/g9powf/gleam_v0_29_gleam_gets_autocompletion) - [Gleam v0.29 - Gleam gets autocompletion](https://gleam.run/news/v0.29-gleam-gets-autocompletion/)
 
 ## [Archives](archives/index.md)
 
