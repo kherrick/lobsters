@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 12:55:10](https://lobste.rs/s/2igzds/introduction_rails_engines_how_why_when) - [Introduction to Rails Engines (how, why, and when to use them)](https://www.fastruby.io/blog/introduction-to-rails-engines.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
 * [2023-05-25, 07:54:15](https://lobste.rs/s/kpatex/aider_is_gpt_4_powered_coding_your) - [aider is GPT-4 powered coding in your terminal](https://github.com/paul-gauthier/aider)

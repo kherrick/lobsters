@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 12:55:10](https://lobste.rs/s/2igzds/introduction_rails_engines_how_why_when) - [Introduction to Rails Engines (how, why, and when to use them)](https://www.fastruby.io/blog/introduction-to-rails-engines.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
 * [2023-05-25, 07:54:15](https://lobste.rs/s/kpatex/aider_is_gpt_4_powered_coding_your) - [aider is GPT-4 powered coding in your terminal](https://github.com/paul-gauthier/aider)
@@ -13,7 +14,6 @@
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 18:47:13](https://lobste.rs/s/trmsvo/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first.html)
 * [2023-05-24, 18:12:23](https://lobste.rs/s/brceu4/breaking_sha256_length_extension) - [Breaking SHA256: length extension attacks in practice (with Go)](https://kerkour.com/sha256-length-extension-attacks)
-* [2023-05-24, 18:00:14](https://lobste.rs/s/xitdue/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 16:32:43](https://lobste.rs/s/wscjby/rewrite_it_rust_considered_harmful) - [``Rewrite it in Rust'' Considered Harmful?](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 * [2023-05-24, 16:30:57](https://lobste.rs/s/c9ve4e/fart_init_small_provisioning_script_for) - [fart-init small provisioning script for openbsd cloud infrastructure](https://x61.sh/log/2023/05/23052023153621-fart-init.html)
