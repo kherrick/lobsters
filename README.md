@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-25, 20:43:08](https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant) - [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
 * [2023-05-25, 20:23:38](https://lobste.rs/s/mybtox/weston_12_0_highlights_changes) - [Weston 12.0: Highlights and changes](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
@@ -24,7 +25,6 @@
 * [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
-* [2023-05-24, 01:08:11](https://lobste.rs/s/gm6shy/you_don_t_need_modal_window) - [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 
 ## [Archives](archives/index.md)
 
