@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
 * [2023-05-25, 20:43:08](https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant) - [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
 * [2023-05-25, 20:23:38](https://lobste.rs/s/mybtox/weston_12_0_highlights_changes) - [Weston 12.0: Highlights and changes](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
