@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 03:04:13",
+      "https://lobste.rs/s/kube70/rfc_enforcing_bounds_safety_c_fbounds"
+    ],
+    [
+      "RFC: Enforcing Bounds Safety in C (-fbounds-safety)",
+      "https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 23:21:01",
       "https://lobste.rs/s/oig425/state_garnet_2023"
     ],
@@ -217,16 +227,6 @@
     [
       "You don't need a modal window",
       "https://youdontneedamodalwindow.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 19:52:17",
-      "https://lobste.rs/s/jcv9il/open_sourcing_our_rust_crate_audits"
-    ],
-    [
-      "Open sourcing our Rust crate audits",
-      "https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html?m=1"
     ]
   ],
   [
