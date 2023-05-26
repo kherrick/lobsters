@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 03:23:51](https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about) - [What Machine Learning Tells Us About the Mathematical Structures of Concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU)
 * [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
 * [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
 * [2023-05-25, 20:43:08](https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant) - [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
@@ -14,7 +15,6 @@
 * [2023-05-25, 13:34:59](https://lobste.rs/s/sl0hef/implementing_distributed_key_value) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
-* [2023-05-25, 07:54:15](https://lobste.rs/s/kpatex/aider_is_gpt_4_powered_coding_your) - [aider is GPT-4 powered coding in your terminal](https://github.com/paul-gauthier/aider)
 * [2023-05-25, 06:39:13](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-05-25, 03:39:57](https://lobste.rs/s/layfzt/sectorc_c_compiler_512_bytes) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-25, 03:04:13](https://lobste.rs/s/kube70/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
