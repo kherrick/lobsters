@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 20:37:13](https://lobste.rs/s/kf4s18/molecular_geometry_abc_s_book) - [The Molecular Geometry ABC'S Book](https://github.com/elobdog/molgeomabc/blob/master/Molecular%20Geometry%20ABC%27S%20Book.pdf)
 * [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 18:06:36](https://lobste.rs/s/osgeb0/visuals_machine_learning) - [Visuals and Machine Learning](https://kdimensions.com/)
 * [2023-05-26, 18:06:19](https://lobste.rs/s/wpwhtb/unlocking_power_junodb_paypal_s_key_value) - [Unlocking the Power of JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
@@ -24,7 +25,6 @@
 * [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
 * [2023-05-25, 06:39:13](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
-* [2023-05-25, 03:39:57](https://lobste.rs/s/layfzt/sectorc_c_compiler_512_bytes) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 
 ## [Archives](archives/index.md)
 
