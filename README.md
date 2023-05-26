@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 13:48:30](https://lobste.rs/s/gev0ku/where_does_my_computer_get_time_from) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
@@ -14,7 +15,6 @@
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
-* [2023-05-25, 17:32:33](https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl) - [New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators](https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/)
 * [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
 * [2023-05-25, 14:48:25](https://lobste.rs/s/dyahnd/beryl_md_journey_towards_building) - [Beryl.md: A Journey Towards Building an Extensible Todo List App](https://thesam.zone/blog/beryl-update-2/)
 * [2023-05-25, 13:34:59](https://lobste.rs/s/sl0hef/implementing_distributed_key_value) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
