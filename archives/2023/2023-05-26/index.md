@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:37:13](https://lobste.rs/s/kf4s18/molecular_geometry_abc_s_book) - [The Molecular Geometry ABC'S Book](https://github.com/elobdog/molgeomabc/blob/master/Molecular%20Geometry%20ABC%27S%20Book.pdf)
 * [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 18:06:36](https://lobste.rs/s/osgeb0/visuals_machine_learning) - [Visuals and Machine Learning](https://kdimensions.com/)
