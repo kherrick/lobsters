@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-26, 17:13:27](https://lobste.rs/s/w1sibt/false_promise_imitating_proprietary) - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 * [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 14:10:39](https://lobste.rs/s/gcr1o9/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
@@ -19,7 +20,6 @@
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 * [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
-* [2023-05-25, 14:48:25](https://lobste.rs/s/dyahnd/beryl_md_journey_towards_building) - [Beryl.md: A Journey Towards Building an Extensible Todo List App](https://thesam.zone/blog/beryl-update-2/)
 * [2023-05-25, 13:34:59](https://lobste.rs/s/sl0hef/implementing_distributed_key_value) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 09:39:04](https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus) - [rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect](https://github.com/Gopiandcode/rhombus-in-the-rough)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
