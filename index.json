@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 03:52:11",
+      "https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust"
+    ],
+    [
+      "Flux -- Liquid Types for Rust",
+      "https://www.youtube.com/watch?v=k-izcFCHN2o"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 03:23:51",
       "https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about"
     ],
@@ -217,16 +227,6 @@
     [
       "Why doesn’t CSS have single line comments?",
       "https://blog.jim-nielsen.com/2023/single-line-comments-in-css/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 15:50:30",
-      "https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas"
-    ],
-    [
-      "Choosing a good file format for Pandas",
-      "https://pythonspeed.com/articles/best-file-format-for-pandas/"
     ]
   ],
   [
