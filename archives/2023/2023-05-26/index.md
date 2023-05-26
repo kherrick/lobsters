@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 14:10:39](https://lobste.rs/s/gcr1o9/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 13:59:53](https://lobste.rs/s/9ap0kq/what_s_new_m68k_llvm_may_2023) - [What’s New in M68k LLVM (May 2023)](https://m680x0.github.io/blog/2023/05/may-updates.html)
 * [2023-05-26, 13:48:30](https://lobste.rs/s/gev0ku/where_does_my_computer_get_time_from) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
