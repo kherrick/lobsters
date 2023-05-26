@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
 * [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
 * [2023-05-25, 20:43:08](https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant) - [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
 * [2023-05-25, 20:23:38](https://lobste.rs/s/mybtox/weston_12_0_highlights_changes) - [Weston 12.0: Highlights and changes](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)
@@ -18,7 +19,6 @@
 * [2023-05-25, 03:39:57](https://lobste.rs/s/layfzt/sectorc_c_compiler_512_bytes) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-25, 03:04:13](https://lobste.rs/s/kube70/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 * [2023-05-24, 23:21:01](https://lobste.rs/s/oig425/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
-* [2023-05-24, 19:54:22](https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors) - [Infecting SSH Public Keys with backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
