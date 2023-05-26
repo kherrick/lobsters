@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 08:50:42](https://lobste.rs/s/fllznp/securing_pypi_accounts_via_two_factor) - [Securing PyPI accounts via Two-Factor Authentication](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 08:38:33](https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020) - [A Time Leap Challenge for SAT Solving (2020)](https://arxiv.org/abs/2008.02215)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 * [2023-05-26, 03:52:11](https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust) - [Flux -- Liquid Types for Rust](https://www.youtube.com/watch?v=k-izcFCHN2o)
@@ -23,7 +24,6 @@
 * [2023-05-24, 23:21:01](https://lobste.rs/s/oig425/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
-* [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 
 ## [Archives](archives/index.md)
