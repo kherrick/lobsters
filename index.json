@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 16:33:49",
+      "https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way"
+    ],
+    [
+      "Writing to the macOS clipboard the hard way",
+      "https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 14:10:39",
       "https://lobste.rs/s/gcr1o9/fastest_maze_solving_competition_on"
     ],
@@ -237,16 +247,6 @@
     [
       "SectorC: A C Compiler in 512 bytes",
       "https://xorvoid.com/sectorc.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 23:21:01",
-      "https://lobste.rs/s/oig425/state_garnet_2023"
-    ],
-    [
-      "The State Of Garnet, 2023",
-      "https://wiki.alopex.li/TheStateOfGarnet2023"
     ]
   ]
 ]
