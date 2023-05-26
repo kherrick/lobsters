@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
 * [2023-05-26, 10:56:27](https://lobste.rs/s/uzieer/don_t_abuse_su_for_dropping_user) - [Don't abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)

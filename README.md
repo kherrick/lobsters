@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
 * [2023-05-26, 10:56:27](https://lobste.rs/s/uzieer/don_t_abuse_su_for_dropping_user) - [Don't abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
@@ -10,7 +11,6 @@
 * [2023-05-26, 03:52:11](https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust) - [Flux -- Liquid Types for Rust](https://www.youtube.com/watch?v=k-izcFCHN2o)
 * [2023-05-26, 03:23:51](https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about) - [What Machine Learning Tells Us About the Mathematical Structures of Concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU)
 * [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
-* [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
