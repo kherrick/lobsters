@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 18:06:36](https://lobste.rs/s/osgeb0/visuals_machine_learning) - [Visuals and Machine Learning](https://kdimensions.com/)
 * [2023-05-26, 18:06:19](https://lobste.rs/s/wpwhtb/unlocking_power_junodb_paypal_s_key_value) - [Unlocking the Power of JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
@@ -16,7 +17,6 @@
 * [2023-05-26, 08:38:33](https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020) - [A Time Leap Challenge for SAT Solving (2020)](https://arxiv.org/abs/2008.02215)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 * [2023-05-26, 03:52:11](https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust) - [Flux -- Liquid Types for Rust](https://www.youtube.com/watch?v=k-izcFCHN2o)
-* [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)

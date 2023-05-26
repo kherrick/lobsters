@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 18:06:36](https://lobste.rs/s/osgeb0/visuals_machine_learning) - [Visuals and Machine Learning](https://kdimensions.com/)
 * [2023-05-26, 18:06:19](https://lobste.rs/s/wpwhtb/unlocking_power_junodb_paypal_s_key_value) - [Unlocking the Power of JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
