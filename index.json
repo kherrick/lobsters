@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 08:50:42",
+      "https://lobste.rs/s/fllznp/securing_pypi_accounts_via_two_factor"
+    ],
+    [
+      "Securing PyPI accounts via Two-Factor Authentication",
+      "https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 08:38:33",
       "https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020"
     ],
@@ -227,16 +237,6 @@
     [
       "PyPI was subpoenaed",
       "https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 15:59:29",
-      "https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments"
-    ],
-    [
-      "Why doesn’t CSS have single line comments?",
-      "https://blog.jim-nielsen.com/2023/single-line-comments-in-css/"
     ]
   ],
   [
