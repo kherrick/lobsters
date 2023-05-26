@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 * [2023-05-26, 22:35:23](https://lobste.rs/s/bq46cx/coreos_as_pet) - [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 * [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:37:13](https://lobste.rs/s/kf4s18/molecular_geometry_abc_s_book) - [The Molecular Geometry ABC'S Book](https://github.com/elobdog/molgeomabc/blob/master/Molecular%20Geometry%20ABC%27S%20Book.pdf)

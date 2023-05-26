@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 * [2023-05-26, 22:35:23](https://lobste.rs/s/bq46cx/coreos_as_pet) - [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 * [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:37:13](https://lobste.rs/s/kf4s18/molecular_geometry_abc_s_book) - [The Molecular Geometry ABC'S Book](https://github.com/elobdog/molgeomabc/blob/master/Molecular%20Geometry%20ABC%27S%20Book.pdf)
@@ -22,7 +23,6 @@
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
-* [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
 * [2023-05-25, 08:34:30](https://lobste.rs/s/32hmxt/fuck_it_we_ll_do_it_live) - [Fuck It, We'll Do It Live](https://acko.net/blog/do-it-live/)
 * [2023-05-25, 06:39:13](https://lobste.rs/s/uxy6ge/even_more_hindsight_on_vim_helix_kakoune) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 
