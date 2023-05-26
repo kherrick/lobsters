@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-26, 18:06:36",
+      "https://lobste.rs/s/osgeb0/visuals_machine_learning"
+    ],
+    [
+      "Visuals and Machine Learning",
+      "https://kdimensions.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 18:06:19",
+      "https://lobste.rs/s/wpwhtb/unlocking_power_junodb_paypal_s_key_value"
+    ],
+    [
+      "Unlocking the Power of JunoDB: PayPal’s Key-Value Store Goes Open-Source",
+      "https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 17:29:38",
       "https://lobste.rs/s/1ma7qd/building_personal_voip_system"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-05-26, 03:23:51",
-      "https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about"
-    ],
-    [
-      "What Machine Learning Tells Us About the Mathematical Structures of Concepts",
-      "https://www.youtube.com/watch?v=Lqt7TgYk8rU"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 01:44:22",
       "https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux"
     ],
@@ -207,16 +217,6 @@
     [
       "Implementing a distributed key-value store on top of implementing Raft in Go",
       "https://notes.eatonphil.com/2023-05-25-raft.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 09:39:04",
-      "https://lobste.rs/s/al4mvg/rhombus_rough_2d_rpg_implemented_rhombus"
-    ],
-    [
-      "rhombus-in-the-rough: A 2D RPG implemented in the Rhombus Racket dialect",
-      "https://github.com/Gopiandcode/rhombus-in-the-rough"
     ]
   ],
   [
