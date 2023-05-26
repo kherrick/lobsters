@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 10:56:27](https://lobste.rs/s/uzieer/don_t_abuse_su_for_dropping_user) - [Don't abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
 * [2023-05-26, 09:51:22](https://lobste.rs/s/tlau5r/names_are_not_descriptions_descriptions) - [Names are not descriptions; descriptions are not names](https://lists.gnu.org/archive/html/emacs-devel/2023-05/msg00330.html)
 * [2023-05-26, 08:50:42](https://lobste.rs/s/fllznp/securing_pypi_accounts_via_two_factor) - [Securing PyPI accounts via Two-Factor Authentication](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 08:38:33](https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020) - [A Time Leap Challenge for SAT Solving (2020)](https://arxiv.org/abs/2008.02215)
@@ -10,7 +11,6 @@
 * [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
-* [2023-05-25, 19:02:57](https://lobste.rs/s/4zkl71/new_playground_memory_spy) - [New playground: memory spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 * [2023-05-25, 17:32:33](https://lobste.rs/s/r605mi/new_open_source_hardware_esp32_sbc_fabgl) - [New Open Source Hardware: ESP32-SBC-FabGL based on FabGL library with PS2 keyboard, mouse and VGA display with many retro computer emulators](https://olimex.wordpress.com/2023/05/25/new-open-source-hardware-design-is-verified-esp32-sbc-fabgl-single-board-computer-based-on-fabgl-library-with-ps2-keyboard-mouse-and-vga-display-with-many-retro-computer-emulators/)
 * [2023-05-25, 15:42:45](https://lobste.rs/s/arl7xl/getting_meaningful_stack_traces_from) - [Getting meaningful stack traces from Rust tests returning a Result](https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/)
