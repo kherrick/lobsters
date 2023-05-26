@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-05-26, 09:51:22",
+      "https://lobste.rs/s/tlau5r/names_are_not_descriptions_descriptions"
+    ],
+    [
+      "Names are not descriptions; descriptions are not names",
+      "https://lists.gnu.org/archive/html/emacs-devel/2023-05/msg00330.html"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 08:50:42",
       "https://lobste.rs/s/fllznp/securing_pypi_accounts_via_two_factor"
     ],
@@ -207,16 +217,6 @@
     [
       "Getting meaningful stack traces from Rust tests returning a Result",
       "https://bluxte.net/musings/2023/01/08/improving_failure_messages_rust_tests/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 13:34:59",
-      "https://lobste.rs/s/sl0hef/implementing_distributed_key_value"
-    ],
-    [
-      "Implementing a distributed key-value store on top of implementing Raft in Go",
-      "https://notes.eatonphil.com/2023-05-25-raft.html"
     ]
   ],
   [
