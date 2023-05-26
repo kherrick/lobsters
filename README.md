@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 03:52:11](https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust) - [Flux -- Liquid Types for Rust](https://www.youtube.com/watch?v=k-izcFCHN2o)
 * [2023-05-26, 03:23:51](https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about) - [What Machine Learning Tells Us About the Mathematical Structures of Concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU)
 * [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
 * [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
@@ -22,7 +23,6 @@
 * [2023-05-24, 19:03:00](https://lobste.rs/s/nw0tqc/there_s_still_no_silver_bullet) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-05-24, 17:49:48](https://lobste.rs/s/uflzpg/pypi_was_subpoenaed) - [PyPI was subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 15:59:29](https://lobste.rs/s/ecjljk/why_doesn_t_css_have_single_line_comments) - [Why doesn’t CSS have single line comments?](https://blog.jim-nielsen.com/2023/single-line-comments-in-css/)
-* [2023-05-24, 15:50:30](https://lobste.rs/s/itq35s/choosing_good_file_format_for_pandas) - [Choosing a good file format for Pandas](https://pythonspeed.com/articles/best-file-format-for-pandas/)
 * [2023-05-24, 14:51:35](https://lobste.rs/s/oybjb1/god_mode_for_emacs) - [God-mode for Emacs](https://chrisdone.com/posts/god-mode/)
 * [2023-05-24, 09:28:08](https://lobste.rs/s/erplse/new_direction_for_pijul_s_hosting_service) - [A new direction for Pijul's hosting service](https://pijul.org/posts/2023-05-23-nest-a-new-hope/)
 
