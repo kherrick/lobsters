@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-26, 08:38:33](https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020) - [A Time Leap Challenge for SAT Solving (2020)](https://arxiv.org/abs/2008.02215)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 * [2023-05-26, 03:52:11](https://lobste.rs/s/sh7t71/flux_liquid_types_for_rust) - [Flux -- Liquid Types for Rust](https://www.youtube.com/watch?v=k-izcFCHN2o)
 * [2023-05-26, 03:23:51](https://lobste.rs/s/lahflb/what_machine_learning_tells_us_about) - [What Machine Learning Tells Us About the Mathematical Structures of Concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU)
 * [2023-05-26, 01:44:22](https://lobste.rs/s/d2ijgx/game_ui_database_resource_for_ui_ux) - [Game UI Database:  Resource for UI/UX Designers in the games industry](https://www.gameuidatabase.com/)
 * [2023-05-25, 21:08:30](https://lobste.rs/s/0so0xk/generated_adventure_postmortem_game) - [Generated Adventure — The Postmortem of a Game Made With chatGPT and Midjourney](https://blog.luden.io/generated-adventure-the-postmortem-of-a-game-made-with-chatgpt-and-midjourney-prompts-included-f87e7e615204)
-* [2023-05-25, 20:43:08](https://lobste.rs/s/qh1hoh/rooting_with_root_cause_finding_variant) - [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
 * [2023-05-25, 20:23:38](https://lobste.rs/s/mybtox/weston_12_0_highlights_changes) - [Weston 12.0: Highlights and changes](https://www.collabora.com/news-and-blog/news-and-events/weston-12-highlights-and-changes.html)
 * [2023-05-25, 20:19:51](https://lobste.rs/s/n2xvkl/ipinfo_s_free_ip_address_location) - [IPinfo's Free IP Address Location Database](https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html)
 * [2023-05-25, 20:09:24](https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
