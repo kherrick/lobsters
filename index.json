@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 17:13:27",
+      "https://lobste.rs/s/w1sibt/false_promise_imitating_proprietary"
+    ],
+    [
+      "The False Promise of Imitating Proprietary LLMs",
+      "https://arxiv.org/abs/2305.15717"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 16:33:49",
       "https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way"
     ],
@@ -77,16 +87,6 @@
     [
       "Don't abuse su for dropping user privileges (2015)",
       "https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 09:51:22",
-      "https://lobste.rs/s/tlau5r/names_are_not_descriptions_descriptions"
-    ],
-    [
-      "Names are not descriptions; descriptions are not names",
-      "https://lists.gnu.org/archive/html/emacs-devel/2023-05/msg00330.html"
     ]
   ],
   [
