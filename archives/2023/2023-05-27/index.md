@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 20:37:27](https://lobste.rs/s/fubsps/lawyer_cites_fake_cases_invented_by) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 * [2023-05-27, 18:12:10](https://lobste.rs/s/2ejs78/i_sent_robot_forgeries_handwriting) - [I sent robot forgeries to a handwriting expert](https://www.youtube.com/watch?v=cQO2XTP7QDw)
 * [2023-05-27, 17:56:59](https://lobste.rs/s/ppmwq8/http_status_codes_with_haikus_for) - [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
 * [2023-05-27, 17:00:29](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
