@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
 * [2023-05-27, 10:58:03](https://lobste.rs/s/lob2ag/finding_best_go_project_structure_part_1) - [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
 * [2023-05-27, 03:56:01](https://lobste.rs/s/lipxm4/13_sheep) - [13 Sheep](https://www.neeldhara.com/blog/13sheep/)
 * [2023-05-27, 03:00:23](https://lobste.rs/s/gm1anv/kryptey_android_keyboard_for_e2ee) - [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 02:57:07](https://lobste.rs/s/unbffe/makefile_tricks_for_python_projects) - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
-* [2023-05-27, 01:32:00](https://lobste.rs/s/snaabl/i_am_no_longer_speaking_at_rustconf_2023) - [I Am No Longer Speaking at RustConf 2023](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)
 * [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 * [2023-05-26, 22:35:23](https://lobste.rs/s/bq46cx/coreos_as_pet) - [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 * [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
