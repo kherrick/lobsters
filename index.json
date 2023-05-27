@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-27, 17:00:29",
+      "https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality"
+    ],
+    [
+      "Oxidizing OCaml: Locality",
+      "https://blog.janestreet.com/oxidizing-ocaml-locality/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 16:09:22",
       "https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7"
     ],
@@ -137,16 +147,6 @@
     [
       "Building a Personal VoIP System",
       "https://www.sacredheartsc.com/blog/building-a-personal-voip-system/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 17:13:27",
-      "https://lobste.rs/s/w1sibt/false_promise_imitating_proprietary"
-    ],
-    [
-      "The False Promise of Imitating Proprietary LLMs",
-      "https://arxiv.org/abs/2305.15717"
     ]
   ],
   [
