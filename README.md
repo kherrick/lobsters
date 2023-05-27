@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
 * [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
@@ -10,7 +11,6 @@
 * [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 * [2023-05-26, 22:35:23](https://lobste.rs/s/bq46cx/coreos_as_pet) - [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 * [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-* [2023-05-26, 20:37:13](https://lobste.rs/s/kf4s18/molecular_geometry_abc_s_book) - [The Molecular Geometry ABC'S Book](https://github.com/elobdog/molgeomabc/blob/master/Molecular%20Geometry%20ABC%27S%20Book.pdf)
 * [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 18:06:19](https://lobste.rs/s/wpwhtb/unlocking_power_junodb_paypal_s_key_value) - [Unlocking the Power of JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
 * [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
