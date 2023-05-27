@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-27, 03:00:23",
+      "https://lobste.rs/s/gm1anv/kryptey_android_keyboard_for_e2ee"
+    ],
+    [
+      "KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger",
+      "https://github.com/amnesica/KryptEY"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 02:57:07",
+      "https://lobste.rs/s/unbffe/makefile_tricks_for_python_projects"
+    ],
+    [
+      "Makefile tricks for Python projects",
+      "https://ricardoanderegg.com/posts/makefile-python-project-tricks/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 23:31:54",
       "https://lobste.rs/s/6gfp4z/poisoning_chatgpt"
     ],
@@ -47,16 +67,6 @@
     [
       "Avoid Putting Logic in Map Blocks",
       "https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 18:06:36",
-      "https://lobste.rs/s/osgeb0/visuals_machine_learning"
-    ],
-    [
-      "Visuals and Machine Learning",
-      "https://kdimensions.com/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "IPinfo's Free IP Address Location Database",
       "https://tech.marksblogg.com/ipinfo-free-ip-address-location-database.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 20:09:24",
-      "https://lobste.rs/s/rhgdf5/super_colliding_nix_stores_nix_flakes_for"
-    ],
-    [
-      "Super Colliding Nix Stores: Nix Flakes for Millions of Developers",
-      "https://blog.replit.com/super-colliding-nix-stores"
     ]
   ],
   [
