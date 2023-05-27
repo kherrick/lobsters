@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-27, 14:32:28",
+      "https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023"
+    ],
+    [
+      "What's up in the Python community? - May 2023",
+      "http://bitecode.substack.com/p/whats-up-in-the-python-community-790"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 13:20:18",
       "https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser"
     ],
@@ -217,16 +227,6 @@
     [
       "Don't abuse su for dropping user privileges (2015)",
       "https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 08:38:33",
-      "https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020"
-    ],
-    [
-      "A Time Leap Challenge for SAT Solving (2020)",
-      "https://arxiv.org/abs/2008.02215"
     ]
   ],
   [
