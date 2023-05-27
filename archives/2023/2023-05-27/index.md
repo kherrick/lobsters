@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 03:56:01](https://lobste.rs/s/lipxm4/13_sheep) - [13 Sheep](https://www.neeldhara.com/blog/13sheep/)
 * [2023-05-27, 03:00:23](https://lobste.rs/s/gm1anv/kryptey_android_keyboard_for_e2ee) - [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 02:57:07](https://lobste.rs/s/unbffe/makefile_tricks_for_python_projects) - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
