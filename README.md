@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-27, 21:26:08](https://lobste.rs/s/wznhti/emulating_obscure_platform_gemei_a330) - [Emulating an obscure platform: Gemei A330](https://minexew.github.io/2023/05/24/ga330emu.html)
 * [2023-05-27, 20:37:27](https://lobste.rs/s/fubsps/lawyer_cites_fake_cases_invented_by) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 * [2023-05-27, 17:56:59](https://lobste.rs/s/ppmwq8/http_status_codes_with_haikus_for) - [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
 * [2023-05-27, 17:00:29](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
@@ -18,7 +19,6 @@
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 14:10:39](https://lobste.rs/s/gcr1o9/fastest_maze_solving_competition_on) - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
-* [2023-05-26, 13:59:53](https://lobste.rs/s/9ap0kq/what_s_new_m68k_llvm_may_2023) - [What’s New in M68k LLVM (May 2023)](https://m680x0.github.io/blog/2023/05/may-updates.html)
 * [2023-05-26, 13:48:30](https://lobste.rs/s/gev0ku/where_does_my_computer_get_time_from) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
