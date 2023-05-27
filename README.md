@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
 * [2023-05-27, 10:58:03](https://lobste.rs/s/lob2ag/finding_best_go_project_structure_part_1) - [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
@@ -22,7 +23,6 @@
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
 * [2023-05-26, 10:56:27](https://lobste.rs/s/uzieer/don_t_abuse_su_for_dropping_user) - [Don't abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
-* [2023-05-26, 08:38:33](https://lobste.rs/s/s2waqu/time_leap_challenge_for_sat_solving_2020) - [A Time Leap Challenge for SAT Solving (2020)](https://arxiv.org/abs/2008.02215)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 
