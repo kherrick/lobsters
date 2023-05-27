@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-27, 17:56:59](https://lobste.rs/s/ppmwq8/http_status_codes_with_haikus_for) - [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
 * [2023-05-27, 17:00:29](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 * [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
 * [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
@@ -22,7 +23,6 @@
 * [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
-* [2023-05-26, 10:56:27](https://lobste.rs/s/uzieer/don_t_abuse_su_for_dropping_user) - [Don't abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 * [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 
