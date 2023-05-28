@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 16:45:01](https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host) - [Introducing the Azure Linux container host for AKS](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
@@ -13,7 +14,6 @@
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
 * [2023-05-27, 10:58:03](https://lobste.rs/s/lob2ag/finding_best_go_project_structure_part_1) - [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
-* [2023-05-27, 03:56:01](https://lobste.rs/s/lipxm4/13_sheep) - [13 Sheep](https://www.neeldhara.com/blog/13sheep/)
 * [2023-05-27, 03:00:23](https://lobste.rs/s/gm1anv/kryptey_android_keyboard_for_e2ee) - [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 02:57:07](https://lobste.rs/s/unbffe/makefile_tricks_for_python_projects) - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 * [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
