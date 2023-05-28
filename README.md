@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
 * [2023-05-28, 18:25:20](https://lobste.rs/s/wltxsd/programming_before_you_program) - [Programming Before You Program](https://www.youtube.com/watch?v=0OqGAZo7cCg)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
@@ -23,7 +24,6 @@
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
-* [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 
 ## [Archives](archives/index.md)

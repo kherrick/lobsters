@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
 * [2023-05-28, 18:25:20](https://lobste.rs/s/wltxsd/programming_before_you_program) - [Programming Before You Program](https://www.youtube.com/watch?v=0OqGAZo7cCg)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
