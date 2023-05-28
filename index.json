@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-28, 22:15:56",
+      "https://lobste.rs/s/rsku2p/building_micro_mirror_free_software_cdn"
+    ],
+    [
+      "Building the Micro Mirror Free Software CDN",
+      "https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 21:28:42",
       "https://lobste.rs/s/ogqjxl/how_rewrite_service_michal_bock_april"
     ],
@@ -197,16 +207,6 @@
     [
       "Makefile tricks for Python projects",
       "https://ricardoanderegg.com/posts/makefile-python-project-tricks/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 22:35:23",
-      "https://lobste.rs/s/bq46cx/coreos_as_pet"
-    ],
-    [
-      "CoreOS as a pet",
-      "https://major.io/p/coreos-as-pet/"
     ]
   ],
   [
