@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-28, 06:39:54](https://lobste.rs/s/gdjnaz/don_t_forward_things_aren_t_forwarding) - [Don’t forward things that aren’t forwarding references](https://quuxplusone.github.io/blog/2023/05/27/dont-forward-non-forwarding-references/)
 * [2023-05-28, 05:14:57](https://lobste.rs/s/jhrffu/go_services_one_goliath_project) - [Go + Services = One Goliath Project](https://blog.khanacademy.org/go-services-one-goliath-project/)
 * [2023-05-27, 21:26:08](https://lobste.rs/s/wznhti/emulating_obscure_platform_gemei_a330) - [Emulating an obscure platform: Gemei A330](https://minexew.github.io/2023/05/24/ga330emu.html)
 * [2023-05-27, 20:37:27](https://lobste.rs/s/fubsps/lawyer_cites_fake_cases_invented_by) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
@@ -24,7 +25,6 @@
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
 * [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
-* [2023-05-25, 17:46:09](https://lobste.rs/s/3lyfqb/pamela_fox_won_t_quit_vi) - [Pamela Fox won't quit vi](https://youtu.be/XL4XTr23b8U)
 
 ## [Archives](archives/index.md)
 
