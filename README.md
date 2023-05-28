@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 * [2023-05-28, 06:39:54](https://lobste.rs/s/gdjnaz/don_t_forward_things_aren_t_forwarding) - [Don’t forward things that aren’t forwarding references](https://quuxplusone.github.io/blog/2023/05/27/dont-forward-non-forwarding-references/)
 * [2023-05-28, 05:14:57](https://lobste.rs/s/jhrffu/go_services_one_goliath_project) - [Go + Services = One Goliath Project](https://blog.khanacademy.org/go-services-one-goliath-project/)
@@ -23,7 +24,6 @@
 * [2023-05-26, 13:48:30](https://lobste.rs/s/gev0ku/where_does_my_computer_get_time_from) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 * [2023-05-26, 13:16:41](https://lobste.rs/s/6sz8m9/writing_shell_scripts_nushell) - [Writing shell scripts in Nushell](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell)
 * [2023-05-26, 12:43:20](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1) - [Fun Format Friday: An angel hands you 1 billion dollars to develop your magnum opus, no strings](https://lobste.rs/s/upbrlj/fun_format_friday_angel_hands_you_1)
-* [2023-05-26, 12:33:32](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f8cgeo/what_are_you_doing_this_weekend)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 
 ## [Archives](archives/index.md)
