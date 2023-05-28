@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-28, 16:45:01",
+      "https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host"
+    ],
+    [
+      "Introducing the Azure Linux container host for AKS",
+      "https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 16:12:25",
       "https://lobste.rs/s/sd9ln2/wordpress_turns_20"
     ],
@@ -177,16 +187,6 @@
     [
       "Fontemon: Video Game in a Font",
       "https://www.coderelay.io/fontemon.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 18:38:34",
-      "https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks"
-    ],
-    [
-      "Avoid Putting Logic in Map Blocks",
-      "https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks"
     ]
   ],
   [
