@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-28, 16:45:01](https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host) - [Introducing the Azure Linux container host for AKS](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 * [2023-05-28, 06:39:54](https://lobste.rs/s/gdjnaz/don_t_forward_things_aren_t_forwarding) - [Don’t forward things that aren’t forwarding references](https://quuxplusone.github.io/blog/2023/05/27/dont-forward-non-forwarding-references/)
@@ -18,7 +19,6 @@
 * [2023-05-26, 23:31:54](https://lobste.rs/s/6gfp4z/poisoning_chatgpt) - [The poisoning of ChatGPT](https://softwarecrisis.dev/letters/the-poisoning-of-chatgpt/)
 * [2023-05-26, 22:35:23](https://lobste.rs/s/bq46cx/coreos_as_pet) - [CoreOS as a pet](https://major.io/p/coreos-as-pet/)
 * [2023-05-26, 20:49:27](https://lobste.rs/s/nzkcdp/fontemon_video_game_font) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-* [2023-05-26, 18:38:34](https://lobste.rs/s/aez0sp/avoid_putting_logic_map_blocks) - [Avoid Putting Logic in Map Blocks](https://thoughtbot.com/blog/avoid-putting-logic-in-map-blocks)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 13:48:30](https://lobste.rs/s/gev0ku/where_does_my_computer_get_time_from) - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
