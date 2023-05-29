@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 20:58:13](https://lobste.rs/s/1p25qe/itu_news_magazine_future_coordinated) - [ITU News Magazine - The future of Coordinated Universal Time](https://www.itu.int/hub/publication/s-gen-news-2023-2/)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 19:29:16](https://lobste.rs/s/f8n26f/pac_man_how_frightened_ghosts_decide) - [Pac-Man: How Frightened Ghosts Decide Where to Go](https://youtu.be/eFP0_rkjwlY)
@@ -16,7 +17,6 @@
 * [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 06:00:41](https://lobste.rs/s/dpr19w/generic_exploit_for_all_version_7_maybe) - [Generic exploit for all version 7 (maybe others) LM32-based AMD SMU's used in APUs](https://github.com/jevinskie/amd-lm32-smu-exploit)
-* [2023-05-29, 04:26:56](https://lobste.rs/s/tgpuq6/everything_you_want_know_about_media) - [Everything You Want To Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
 * [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users_2007) - [On educating users (2007)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)

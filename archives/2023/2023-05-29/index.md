@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 20:58:13](https://lobste.rs/s/1p25qe/itu_news_magazine_future_coordinated) - [ITU News Magazine - The future of Coordinated Universal Time](https://www.itu.int/hub/publication/s-gen-news-2023-2/)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 19:29:16](https://lobste.rs/s/f8n26f/pac_man_how_frightened_ghosts_decide) - [Pac-Man: How Frightened Ghosts Decide Where to Go](https://youtu.be/eFP0_rkjwlY)
