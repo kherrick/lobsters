@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 04:26:56](https://lobste.rs/s/tgpuq6/everything_you_want_know_about_media) - [Everything You Want To Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
 * [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users) - [On educating users](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
@@ -22,7 +23,6 @@
 * [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
-* [2023-05-27, 10:58:03](https://lobste.rs/s/lob2ag/finding_best_go_project_structure_part_1) - [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 
