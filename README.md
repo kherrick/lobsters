@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 18:19:56](https://lobste.rs/s/9slfdh/configuring_portals) - [Configuring portals](https://www.bassi.io/articles/2023/05/29/configuring-portals/)
 * [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 17:18:26](https://lobste.rs/s/zc8wrc/env_sample_sync_automatically_safely) - [env-sample-sync: Automatically and safely synchronize .env files with env.sample](https://github.com/acaloiaro/env-sample-sync)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
@@ -24,7 +25,6 @@
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
-* [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
 
 ## [Archives](archives/index.md)
 

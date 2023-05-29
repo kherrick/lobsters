@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 18:19:56](https://lobste.rs/s/9slfdh/configuring_portals) - [Configuring portals](https://www.bassi.io/articles/2023/05/29/configuring-portals/)
 * [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 17:18:26](https://lobste.rs/s/zc8wrc/env_sample_sync_automatically_safely) - [env-sample-sync: Automatically and safely synchronize .env files with env.sample](https://github.com/acaloiaro/env-sample-sync)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
