@@ -8,7 +8,7 @@
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 06:00:41](https://lobste.rs/s/dpr19w/generic_exploit_for_all_version_7_maybe) - [Generic exploit for all version 7 (maybe others) LM32-based AMD SMU's used in APUs](https://github.com/jevinskie/amd-lm32-smu-exploit)
 * [2023-05-29, 04:26:56](https://lobste.rs/s/tgpuq6/everything_you_want_know_about_media) - [Everything You Want To Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
-* [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users) - [On educating users](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
+* [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users_2007) - [On educating users (2007)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
 * [2023-05-28, 23:36:29](https://lobste.rs/s/z1l5xl/fixing_r_s_design_flaws_new_version_pqr) - [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
