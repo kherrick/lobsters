@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 * [2023-05-29, 11:07:31](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user) - [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
 * [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
