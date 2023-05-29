@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-29, 16:25:19",
+      "https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded"
+    ],
+    [
+      "C++17’s Useful Features for Embedded Systems",
+      "https://interrupt.memfault.com/blog/cpp-17-for-embedded"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 15:51:51",
       "https://lobste.rs/s/waw1se/path_niche_skill_sets_community"
     ],
@@ -197,16 +207,6 @@
     [
       "GraphQL and Type Systems",
       "https://hypirion.com/musings/graphql-and-type-systems"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 16:45:01",
-      "https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host"
-    ],
-    [
-      "Introducing the Azure Linux container host for AKS",
-      "https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101"
     ]
   ],
   [
