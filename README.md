@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 17:18:26](https://lobste.rs/s/zc8wrc/env_sample_sync_automatically_safely) - [env-sample-sync: Automatically and safely synchronize .env files with env.sample](https://github.com/acaloiaro/env-sample-sync)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
@@ -17,7 +18,6 @@
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
 * [2023-05-28, 23:36:29](https://lobste.rs/s/z1l5xl/fixing_r_s_design_flaws_new_version_pqr) - [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
-* [2023-05-28, 22:15:56](https://lobste.rs/s/rsku2p/building_micro_mirror_free_software_cdn) - [Building the Micro Mirror Free Software CDN](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html)
 * [2023-05-28, 21:28:42](https://lobste.rs/s/ogqjxl/how_rewrite_service) - [How to Rewrite a Service](https://youtube.com/watch?v=LP0sTNruvaM)
 * [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
