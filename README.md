@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 01:03:33](https://lobste.rs/s/yptpka/wrong_people_are_resigning) - [The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
+* [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users) - [On educating users](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
+* [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
+* [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
 * [2023-05-28, 23:36:29](https://lobste.rs/s/z1l5xl/fixing_r_s_design_flaws_new_version_pqr) - [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
 * [2023-05-28, 22:15:56](https://lobste.rs/s/rsku2p/building_micro_mirror_free_software_cdn) - [Building the Micro Mirror Free Software CDN](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html)
 * [2023-05-28, 21:28:42](https://lobste.rs/s/ogqjxl/how_rewrite_service_michal_bock_april) - [How to Rewrite a Service - Michal Bock - April Gophers 2023](https://youtube.com/watch?v=LP0sTNruvaM)
@@ -19,11 +23,7 @@
 * [2023-05-27, 14:32:28](https://lobste.rs/s/zvahs0/what_s_up_python_community_may_2023) - [What's up in the Python community? - May 2023](http://bitecode.substack.com/p/whats-up-in-the-python-community-790)
 * [2023-05-27, 13:20:18](https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser) - [A story about one refactoring of the parser grammar in IntelliJ-AWK](https://maximullaris.com/intellij-awk_grammar_refactoring.html)
 * [2023-05-27, 10:59:13](https://lobste.rs/s/0umwcq/devil_mode_manual) - [Devil Mode Manual](https://susam.github.io/devil/)
-* [2023-05-27, 10:58:03](https://lobste.rs/s/lob2ag/finding_best_go_project_structure_part_1) - [Finding The Best Go Project Structure - Part 1](https://avivcarmi.com//finding-the-best-go-project-structure-part-1/)
-* [2023-05-27, 03:00:23](https://lobste.rs/s/gm1anv/kryptey_android_keyboard_for_e2ee) - [KryptEY: Android keyboard for E2EE communication through the signal protocol in any messenger](https://github.com/amnesica/KryptEY)
-* [2023-05-27, 02:57:07](https://lobste.rs/s/unbffe/makefile_tricks_for_python_projects) - [Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 * [2023-05-26, 17:29:38](https://lobste.rs/s/1ma7qd/building_personal_voip_system) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
-* [2023-05-26, 16:33:49](https://lobste.rs/s/x3sfpo/writing_macos_clipboard_hard_way) - [Writing to the macOS clipboard the hard way](https://nathancraddock.com/blog/2023/writing-to-the-clipboard-the-hard-way/)
 * [2023-05-26, 06:47:55](https://lobste.rs/s/wq7rqd/linear_feeds_are_dark_pattern) - [Linear feeds are a dark pattern](https://tilde.town/~dzwdz/blog/feeds.html)
 
 ## [Archives](archives/index.md)
