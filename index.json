@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-29, 11:07:31",
+      "https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user"
+    ],
+    [
+      "Ratatui: Build rich terminal user interfaces using Rust",
+      "https://blog.orhun.dev/ratatui-0-21-0/"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 11:03:40",
       "https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation"
     ],
@@ -237,16 +247,6 @@
     [
       "What's up in the Python community? - May 2023",
       "http://bitecode.substack.com/p/whats-up-in-the-python-community-790"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 13:20:18",
-      "https://lobste.rs/s/nx0m5k/story_about_one_refactoring_parser"
-    ],
-    [
-      "A story about one refactoring of the parser grammar in IntelliJ-AWK",
-      "https://maximullaris.com/intellij-awk_grammar_refactoring.html"
     ]
   ]
 ]
