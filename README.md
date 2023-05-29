@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 06:00:41](https://lobste.rs/s/dpr19w/generic_exploit_for_all_version_7_maybe) - [Generic exploit for all version 7 (maybe others) LM32-based AMD SMU's used in APUs](https://github.com/jevinskie/amd-lm32-smu-exploit)
 * [2023-05-29, 04:26:56](https://lobste.rs/s/tgpuq6/everything_you_want_know_about_media) - [Everything You Want To Know About Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
@@ -18,7 +19,6 @@
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 * [2023-05-28, 06:39:54](https://lobste.rs/s/gdjnaz/don_t_forward_things_aren_t_forwarding) - [Don’t forward things that aren’t forwarding references](https://quuxplusone.github.io/blog/2023/05/27/dont-forward-non-forwarding-references/)
 * [2023-05-28, 05:14:57](https://lobste.rs/s/jhrffu/go_services_one_goliath_project) - [Go + Services = One Goliath Project](https://blog.khanacademy.org/go-services-one-goliath-project/)
-* [2023-05-27, 21:26:08](https://lobste.rs/s/wznhti/emulating_obscure_platform_gemei_a330) - [Emulating an obscure platform: Gemei A330](https://minexew.github.io/2023/05/24/ga330emu.html)
 * [2023-05-27, 17:56:59](https://lobste.rs/s/ppmwq8/http_status_codes_with_haikus_for) - [HTTP Status Codes with Haikus for messages](https://github.com/3digitdev/Haiku-TTP-Codes)
 * [2023-05-27, 17:00:29](https://lobste.rs/s/vrwxap/oxidizing_ocaml_locality) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 * [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
