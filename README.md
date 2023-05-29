@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 14:32:08](https://lobste.rs/s/uz7kc4/eu_ai_act_target_us_open_source_software) - [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
@@ -16,7 +17,6 @@
 * [2023-05-28, 22:15:56](https://lobste.rs/s/rsku2p/building_micro_mirror_free_software_cdn) - [Building the Micro Mirror Free Software CDN](https://blog.thelifeofkenneth.com/2023/05/building-micro-mirror-free-software-cdn.html)
 * [2023-05-28, 21:28:42](https://lobste.rs/s/ogqjxl/how_rewrite_service) - [How to Rewrite a Service](https://youtube.com/watch?v=LP0sTNruvaM)
 * [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
-* [2023-05-28, 18:25:20](https://lobste.rs/s/wltxsd/programming_before_you_program) - [Programming Before You Program](https://www.youtube.com/watch?v=0OqGAZo7cCg)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 16:45:01](https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host) - [Introducing the Azure Linux container host for AKS](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101)
