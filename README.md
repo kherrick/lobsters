@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+* [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 19:29:16](https://lobste.rs/s/f8n26f/pac_man_how_frightened_ghosts_decide) - [Pac-Man: How Frightened Ghosts Decide Where to Go](https://youtu.be/eFP0_rkjwlY)
 * [2023-05-29, 18:19:56](https://lobste.rs/s/9slfdh/configuring_portals) - [Configuring portals](https://www.bassi.io/articles/2023/05/29/configuring-portals/)
 * [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
@@ -18,8 +20,6 @@
 * [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users_2007) - [On educating users (2007)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
-* [2023-05-28, 23:36:29](https://lobste.rs/s/z1l5xl/fixing_r_s_design_flaws_new_version_pqr) - [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
-* [2023-05-28, 21:28:42](https://lobste.rs/s/ogqjxl/how_rewrite_service) - [How to Rewrite a Service](https://youtube.com/watch?v=LP0sTNruvaM)
 * [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
