@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 14:32:08](https://lobste.rs/s/uz7kc4/eu_ai_act_target_us_open_source_software) - [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)

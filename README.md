@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 14:32:08](https://lobste.rs/s/uz7kc4/eu_ai_act_target_us_open_source_software) - [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
@@ -20,7 +21,6 @@
 * [2023-05-28, 18:39:57](https://lobste.rs/s/u0xoyv/crossword_solving_with_gpt) - [crossword solving with gpt](https://gist.github.com/rain-1/df003eb5f5ff50be791cba85c1041d16)
 * [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
-* [2023-05-28, 16:45:01](https://lobste.rs/s/fmk9wj/introducing_azure_linux_container_host) - [Introducing the Azure Linux container host for AKS](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 * [2023-05-27, 16:09:22](https://lobste.rs/s/gqh9tt/why_does_farmer_emoji_have_length_7) - [Why does the farmer emoji have a length of 7 in JavaScript?](https://evanhahn.com/javascript-string-lengths/)
