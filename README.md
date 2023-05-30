@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 * [2023-05-30, 05:25:55](https://lobste.rs/s/3xznmg/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-05-30, 04:49:51](https://lobste.rs/s/wil1vy/wasm_4_fantasy_console) - [WASM-4 Fantasy Console](http://wasm4.org)
 * [2023-05-30, 04:22:17](https://lobste.rs/s/wkkelk/gull_s_theorem_revisited_2020) - [Gull's theorem revisited (2020)](https://arxiv.org/abs/2012.00719)
@@ -21,7 +22,6 @@
 * [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
-* [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
