@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 13:03:16](https://lobste.rs/s/eewwlb/language_pragmatics_engineering) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
