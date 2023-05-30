@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-30, 20:31:52",
-      "https://lobste.rs/s/ec7t2s/on_rustconf_keynote"
-    ],
-    [
-      "On the RustConf keynote",
-      "https://blog.rust-lang.org/2023/05/29/RustConf.html"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 18:30:30",
       "https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2"
     ],
@@ -207,6 +197,16 @@
     [
       "My first superoptimizer",
       "https://austinhenley.com/blog/superoptimizer.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 20:48:09",
+      "https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite"
+    ],
+    [
+      "Building the coordinate system for an infinite spreadsheet",
+      "https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet"
     ]
   ],
   [
