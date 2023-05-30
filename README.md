@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 19:14:55](https://lobste.rs/s/2uel9w/batten_down_fix_later) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-30, 18:30:30](https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2) - [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-30, 17:43:06](https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects) - [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
@@ -7,7 +8,6 @@
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 17:13:25](https://lobste.rs/s/saa9ry/how_add_security_headers_using) - [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
 * [2023-05-30, 15:01:32](https://lobste.rs/s/l7cjib/seamless_services_for_open_world) - [Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands](https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8)
-* [2023-05-30, 13:03:16](https://lobste.rs/s/eewwlb/language_pragmatics_engineering) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
