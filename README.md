@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 17:43:06](https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects) - [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 17:13:25](https://lobste.rs/s/saa9ry/how_add_security_headers_using) - [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
@@ -17,7 +18,6 @@
 * [2023-05-30, 04:49:51](https://lobste.rs/s/wil1vy/wasm_4_fantasy_console) - [WASM-4 Fantasy Console](http://wasm4.org)
 * [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-* [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
