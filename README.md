@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 23:27:50](https://lobste.rs/s/d3npxa/webassembly_system_interface_wasi_with) - [WebAssembly System Interface (WASI) with sockets for Go](https://github.com/stealthrocket/wasi-go)
 * [2023-05-30, 22:22:38](https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist) - [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 18:30:30](https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2) - [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
@@ -12,7 +13,6 @@
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
-* [2023-05-30, 10:28:08](https://lobste.rs/s/brhbxm/exploring_android_heap_allocations) - [Exploring Android Heap allocations in jemalloc 'new'](https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new)
 * [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
 * [2023-05-30, 09:41:19](https://lobste.rs/s/vrryky/basics_python_packaging_early_2023) - [The Basics of Python Packaging in Early 2023](https://drivendata.co/blog/python-packaging-2023)
 * [2023-05-30, 08:44:46](https://lobste.rs/s/w0dspc/crablang_community_fork_language_named) - [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
