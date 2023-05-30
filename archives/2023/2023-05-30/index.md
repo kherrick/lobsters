@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 10:28:08](https://lobste.rs/s/brhbxm/exploring_android_heap_allocations) - [Exploring Android Heap allocations in jemalloc 'new'](https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new)
 * [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
 * [2023-05-30, 10:01:03](https://lobste.rs/s/81x1pe/rust_has_been_forked_crab_language) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 09:41:19](https://lobste.rs/s/vrryky/basics_python_packaging_early_2023) - [The Basics of Python Packaging in Early 2023](https://drivendata.co/blog/python-packaging-2023)

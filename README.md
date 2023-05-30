@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 10:28:08](https://lobste.rs/s/brhbxm/exploring_android_heap_allocations) - [Exploring Android Heap allocations in jemalloc 'new'](https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new)
 * [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
 * [2023-05-30, 10:01:03](https://lobste.rs/s/81x1pe/rust_has_been_forked_crab_language) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 09:41:19](https://lobste.rs/s/vrryky/basics_python_packaging_early_2023) - [The Basics of Python Packaging in Early 2023](https://drivendata.co/blog/python-packaging-2023)
@@ -23,7 +24,6 @@
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
 * [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
-* [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 
 ## [Archives](archives/index.md)
