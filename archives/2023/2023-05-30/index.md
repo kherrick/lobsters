@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 20:31:52](https://lobste.rs/s/ec7t2s/on_rustconf_keynote) - [On the RustConf keynote](https://blog.rust-lang.org/2023/05/29/RustConf.html)
 * [2023-05-30, 19:14:55](https://lobste.rs/s/2uel9w/batten_down_fix_later) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-30, 18:30:30](https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2) - [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
