@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 15:01:32](https://lobste.rs/s/l7cjib/seamless_services_for_open_world) - [Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands](https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8)
+* [2023-05-30, 15:00:06](https://lobste.rs/s/rdocnm/how_write_joke_will_still_be_funny_two) - [How To Write A Joke That Will Still Be Funny In Two Thousand Years - Ramsey Nasser @ Causal Islands](https://www.youtube.com/watch?v=3DZTjOsioSA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW)
 * [2023-05-30, 13:03:16](https://lobste.rs/s/eewwlb/language_pragmatics_engineering) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
@@ -14,9 +16,7 @@
 * [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
-* [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
-* [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
