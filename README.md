@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 18:30:30](https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2) - [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-30, 17:43:06](https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects) - [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
@@ -19,12 +20,11 @@
 * [2023-05-30, 04:49:51](https://lobste.rs/s/wil1vy/wasm_4_fantasy_console) - [WASM-4 Fantasy Console](http://wasm4.org)
 * [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-* [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
+* [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 * [2023-05-29, 11:07:31](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user) - [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
-* [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 
 ## [Archives](archives/index.md)
 
