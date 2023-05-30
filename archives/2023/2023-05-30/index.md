@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
 * [2023-05-30, 10:28:08](https://lobste.rs/s/brhbxm/exploring_android_heap_allocations) - [Exploring Android Heap allocations in jemalloc 'new'](https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new)
 * [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
