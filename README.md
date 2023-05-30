@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
+* [2023-05-30, 10:01:03](https://lobste.rs/s/81x1pe/rust_has_been_forked_crab_language) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 09:41:19](https://lobste.rs/s/vrryky/basics_python_packaging_early_2023) - [The Basics of Python Packaging in Early 2023](https://drivendata.co/blog/python-packaging-2023)
 * [2023-05-30, 08:44:46](https://lobste.rs/s/w0dspc/crablang_community_fork_language_named) - [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
 * [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
@@ -10,7 +12,6 @@
 * [2023-05-29, 20:58:13](https://lobste.rs/s/1p25qe/itu_news_magazine_future_coordinated) - [ITU News Magazine - The future of Coordinated Universal Time](https://www.itu.int/hub/publication/s-gen-news-2023-2/)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
-* [2023-05-29, 19:29:16](https://lobste.rs/s/f8n26f/pac_man_how_frightened_ghosts_decide) - [Pac-Man: How Frightened Ghosts Decide Where to Go](https://youtu.be/eFP0_rkjwlY)
 * [2023-05-29, 18:11:36](https://lobste.rs/s/izcn2l/cloudflare_workers_introduces_connect) - [Cloudflare Workers Introduces connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 17:18:26](https://lobste.rs/s/zc8wrc/env_sample_sync_automatically_safely) - [env-sample-sync: Automatically and safely synchronize .env files with env.sample](https://github.com/acaloiaro/env-sample-sync)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
@@ -22,7 +23,6 @@
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
 * [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
-* [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 
