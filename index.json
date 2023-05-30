@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 04:22:17",
+      "https://lobste.rs/s/wkkelk/gull_s_theorem_revisited_2020"
+    ],
+    [
+      "Gull's theorem revisited (2020)",
+      "https://arxiv.org/abs/2012.00719"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 00:51:14",
       "https://lobste.rs/s/ruynmz/getting_started_with_duskos"
     ],
@@ -207,16 +217,6 @@
     [
       "UTF-8 support for Nix",
       "https://github.com/figsoda/utf8"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 16:59:55",
-      "https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing"
-    ],
-    [
-      "retrowin32: async, DLL loading, tracing execution, and Zig",
-      "https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html"
     ]
   ],
   [
