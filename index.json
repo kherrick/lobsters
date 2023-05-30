@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 04:49:51",
+      "https://lobste.rs/s/wil1vy/wasm_4_fantasy_console"
+    ],
+    [
+      "WASM-4 Fantasy Console",
+      "http://wasm4.org"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 04:22:17",
       "https://lobste.rs/s/wkkelk/gull_s_theorem_revisited_2020"
     ],
@@ -177,16 +187,6 @@
     [
       "Clever Code Considered Harmful",
       "https://www.joshwcomeau.com/career/clever-code-considered-harmful/"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 06:00:41",
-      "https://lobste.rs/s/dpr19w/generic_exploit_for_all_version_7_maybe"
-    ],
-    [
-      "Generic exploit for all version 7 (maybe others) LM32-based AMD SMU's used in APUs",
-      "https://github.com/jevinskie/amd-lm32-smu-exploit"
     ]
   ],
   [
