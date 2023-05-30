@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 17:13:25](https://lobste.rs/s/saa9ry/how_add_security_headers_using) - [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
 * [2023-05-30, 15:01:32](https://lobste.rs/s/l7cjib/seamless_services_for_open_world) - [Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands](https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8)
-* [2023-05-30, 15:00:06](https://lobste.rs/s/rdocnm/how_write_joke_will_still_be_funny_two) - [How To Write A Joke That Will Still Be Funny In Two Thousand Years - Ramsey Nasser @ Causal Islands](https://www.youtube.com/watch?v=3DZTjOsioSA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW)
 * [2023-05-30, 13:03:16](https://lobste.rs/s/eewwlb/language_pragmatics_engineering) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
