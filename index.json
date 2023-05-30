@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 18:07:14",
+      "https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly"
+    ],
+    [
+      "Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration",
+      "https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 17:43:06",
       "https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects"
     ],
@@ -177,16 +187,6 @@
     [
       "My first superoptimizer",
       "https://austinhenley.com/blog/superoptimizer.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 16:25:19",
-      "https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded"
-    ],
-    [
-      "C++17’s Useful Features for Embedded Systems",
-      "https://interrupt.memfault.com/blog/cpp-17-for-embedded"
     ]
   ],
   [
