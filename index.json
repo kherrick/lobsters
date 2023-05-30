@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 23:27:50",
+      "https://lobste.rs/s/d3npxa/webassembly_system_interface_wasi_with"
+    ],
+    [
+      "WebAssembly System Interface (WASI) with sockets for Go",
+      "https://github.com/stealthrocket/wasi-go"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 22:22:38",
       "https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist"
     ],
@@ -117,16 +127,6 @@
     [
       "OffensiveCon23",
       "https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 10:28:08",
-      "https://lobste.rs/s/brhbxm/exploring_android_heap_allocations"
-    ],
-    [
-      "Exploring Android Heap allocations in jemalloc 'new'",
-      "https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new"
     ]
   ],
   [
