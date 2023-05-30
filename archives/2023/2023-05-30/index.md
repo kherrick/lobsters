@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 22:22:38](https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist) - [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 20:31:52](https://lobste.rs/s/ec7t2s/on_rustconf_keynote) - [On the RustConf keynote](https://blog.rust-lang.org/2023/05/29/RustConf.html)
 * [2023-05-30, 19:14:55](https://lobste.rs/s/2uel9w/batten_down_fix_later) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
