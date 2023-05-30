@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
+* [2023-05-30, 17:13:25](https://lobste.rs/s/saa9ry/how_add_security_headers_using) - [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
 * [2023-05-30, 15:01:32](https://lobste.rs/s/l7cjib/seamless_services_for_open_world) - [Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands](https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8)
 * [2023-05-30, 15:00:06](https://lobste.rs/s/rdocnm/how_write_joke_will_still_be_funny_two) - [How To Write A Joke That Will Still Be Funny In Two Thousand Years - Ramsey Nasser @ Causal Islands](https://www.youtube.com/watch?v=3DZTjOsioSA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW)
 * [2023-05-30, 13:03:16](https://lobste.rs/s/eewwlb/language_pragmatics_engineering) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
@@ -17,13 +19,11 @@
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
-* [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 * [2023-05-29, 11:07:31](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user) - [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
-* [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 
 ## [Archives](archives/index.md)
