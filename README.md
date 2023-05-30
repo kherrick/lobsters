@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
 * [2023-05-30, 10:28:08](https://lobste.rs/s/brhbxm/exploring_android_heap_allocations) - [Exploring Android Heap allocations in jemalloc 'new'](https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new)
@@ -9,7 +10,6 @@
 * [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 * [2023-05-30, 05:25:55](https://lobste.rs/s/3xznmg/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-05-30, 04:49:51](https://lobste.rs/s/wil1vy/wasm_4_fantasy_console) - [WASM-4 Fantasy Console](http://wasm4.org)
-* [2023-05-30, 04:22:17](https://lobste.rs/s/wkkelk/gull_s_theorem_revisited_2020) - [Gull's theorem revisited (2020)](https://arxiv.org/abs/2012.00719)
 * [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
