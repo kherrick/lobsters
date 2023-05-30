@@ -17,12 +17,12 @@
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:48:09](https://lobste.rs/s/rftcbj/building_coordinate_system_for_infinite) - [Building the coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 16:25:19](https://lobste.rs/s/lwm1lt/c_17_s_useful_features_for_embedded) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
+* [2023-05-29, 15:51:51](https://lobste.rs/s/waw1se/path_niche_skill_sets_community) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 14:53:57](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sqonjw/what_are_you_doing_this_week)
 * [2023-05-29, 12:15:49](https://lobste.rs/s/5f1wt0/integrating_zig_swiftui) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 * [2023-05-29, 11:07:31](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user) - [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
 * [2023-05-29, 11:03:40](https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation) - [Zeal - Open Source Offline Documentation Browser](https://zealdocs.org/)
-* [2023-05-29, 10:15:14](https://lobste.rs/s/wu1bo4/how_discover_all_data_sources_low_fuss_way) - [How to discover all the data sources, low-fuss way](https://minimalmodeling.substack.com/p/how-to-discover-all-the-data-sources)
 * [2023-05-29, 08:00:28](https://lobste.rs/s/cer9rc/clever_code_considered_harmful) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
 
