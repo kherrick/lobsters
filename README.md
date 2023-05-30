@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-30, 04:22:17](https://lobste.rs/s/wkkelk/gull_s_theorem_revisited_2020) - [Gull's theorem revisited (2020)](https://arxiv.org/abs/2012.00719)
 * [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:58:13](https://lobste.rs/s/1p25qe/itu_news_magazine_future_coordinated) - [ITU News Magazine - The future of Coordinated Universal Time](https://www.itu.int/hub/publication/s-gen-news-2023-2/)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
@@ -21,7 +22,6 @@
 * [2023-05-29, 00:59:33](https://lobste.rs/s/vyojfe/on_educating_users_2007) - [On educating users (2007)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EducatingUsers)
 * [2023-05-29, 00:19:04](https://lobste.rs/s/rtak9l/all_hard_stuff_nobody_talks_about_when) - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-29, 00:06:14](https://lobste.rs/s/qyymld/utf_8_support_for_nix) - [UTF-8 support for Nix](https://github.com/figsoda/utf8)
-* [2023-05-28, 16:59:55](https://lobste.rs/s/ryhfzu/retrowin32_async_dll_loading_tracing) - [retrowin32: async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 16:48:06](https://lobste.rs/s/62dnvb/graphql_type_systems) - [GraphQL and Type Systems](https://hypirion.com/musings/graphql-and-type-systems)
 * [2023-05-28, 16:12:25](https://lobste.rs/s/sd9ln2/wordpress_turns_20) - [WordPress Turns 20](https://wordpress.org/news/2003/05/wordpress-now-available/)
 * [2023-05-28, 15:14:07](https://lobste.rs/s/au6bcu/gemini_protocol_seen_by_this_http_client) - [The Gemini protocol seen by this HTTP client person](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
