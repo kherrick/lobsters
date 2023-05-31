@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-31, 15:11:57",
+      "https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs"
+    ],
+    [
+      "When LIMIT 9 works but LIMIT 10 hangs",
+      "https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 15:11:34",
+      "https://lobste.rs/s/hbvl3j/how_s_about_git"
+    ],
+    [
+      "How's about Git?",
+      "https://www.flipt.io/blog/gitops-announcement"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 15:03:28",
       "https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-05-30, 17:13:25",
-      "https://lobste.rs/s/saa9ry/how_add_security_headers_using"
-    ],
-    [
-      "How to Add Security Headers Using Cloudflare",
-      "https://algustionesa.com/security-headers/"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 12:33:36",
       "https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work"
     ],
     [
       "Using UPX for compression might work against you",
       "https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 08:44:46",
-      "https://lobste.rs/s/w0dspc/crablang_community_fork_language_named"
-    ],
-    [
-      "CrabLang:  A community fork of a language named after a plant fungus",
-      "https://crablang.org/"
     ]
   ],
   [
