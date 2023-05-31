@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-31, 17:10:12",
+      "https://lobste.rs/s/vddh6i/inside_chatgpt_s_brain"
+    ],
+    [
+      "Inside ChatGPT's Brain",
+      "https://serokell.io/blog/language-models-behind-chatgpt"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 17:07:55",
+      "https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style"
+    ],
+    [
+      "Does a programming language with ML-style modules need packages?",
+      "https://softwareengineering.stackexchange.com/q/445747/398052"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 16:30:59",
       "https://lobste.rs/s/dwc1ar/against_generality_2016"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-05-31, 05:06:39",
-      "https://lobste.rs/s/cxwnob/memory_disks"
-    ],
-    [
-      "Memory Disks",
-      "https://euroquis.nl//freebsd/2023/05/30/memory.html"
-    ]
-  ],
-  [
-    [
       "2023-05-31, 03:08:44",
       "https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds"
     ],
@@ -177,16 +187,6 @@
     [
       "WASIX, the Superset of WASI Supporting Threads, Processes and Sockets",
       "https://wasmer.io/posts/announcing-wasix"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 22:22:38",
-      "https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist"
-    ],
-    [
-      "systemshock: Shockolate - A minimalist and cross platform System Shock source port",
-      "https://github.com/Interrupt/systemshock"
     ]
   ],
   [
