@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
 * [2023-05-31, 15:43:51](https://lobste.rs/s/npylv8/how_s2n_quic_uses_kani_inspire_confidence) - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html)
 * [2023-05-31, 15:11:57](https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs) - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)

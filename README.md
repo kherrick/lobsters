@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:43:51](https://lobste.rs/s/npylv8/how_s2n_quic_uses_kani_inspire_confidence) - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html)
 * [2023-05-31, 15:11:57](https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs) - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 * [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
@@ -24,7 +25,6 @@
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
-* [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 
 ## [Archives](archives/index.md)
 
