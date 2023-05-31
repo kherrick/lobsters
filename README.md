@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 03:39:03](https://lobste.rs/s/msjtwc/understanding_phase_changes_machine) - [Understanding Phase Changes in Machine Learning](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
 * [2023-05-31, 02:53:04](https://lobste.rs/s/4awvgw/gateway_pattern) - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
 * [2023-05-31, 02:27:44](https://lobste.rs/s/utpgdk/svg_images_from_postgres) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
@@ -21,7 +22,6 @@
 * [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 * [2023-05-30, 05:25:55](https://lobste.rs/s/3xznmg/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-05-30, 04:49:51](https://lobste.rs/s/wil1vy/wasm_4_fantasy_console) - [WASM-4 Fantasy Console](http://wasm4.org)
-* [2023-05-30, 00:51:14](https://lobste.rs/s/ruynmz/getting_started_with_duskos) - [Getting Started with DuskOS](https://alexw.nyc/tech/duskos-1.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 * [2023-05-29, 11:07:31](https://lobste.rs/s/axacyg/ratatui_build_rich_terminal_user) - [Ratatui: Build rich terminal user interfaces using Rust](https://blog.orhun.dev/ratatui-0-21-0/)
