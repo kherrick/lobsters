@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 14:43:18](https://lobste.rs/s/ry4rlt/how_lossless_data_compression_works) - [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
 * [2023-05-31, 14:21:22](https://lobste.rs/s/mlngqn/prfs_prps_other_fantastic_things) - [PRFs, PRPs and other fantastic things](https://blog.cryptographyengineering.com/2023/05/08/prfs-prps-and-other-fantastic-things/)
 * [2023-05-31, 12:12:04](https://lobste.rs/s/5r7gca/testing_packet_protocol_bare_metal) - [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
@@ -24,7 +25,6 @@
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 08:44:46](https://lobste.rs/s/w0dspc/crablang_community_fork_language_named) - [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
 * [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
-* [2023-05-30, 05:25:55](https://lobste.rs/s/3xznmg/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 
 ## [Archives](archives/index.md)
 
