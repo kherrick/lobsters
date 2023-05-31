@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 00:49:12](https://lobste.rs/s/zhd15w/makefile_basics) - [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 * [2023-05-30, 23:58:52](https://lobste.rs/s/aksady/wasix_superset_wasi_supporting_threads) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 * [2023-05-30, 23:27:50](https://lobste.rs/s/d3npxa/webassembly_system_interface_wasi_with) - [WebAssembly System Interface (WASI) with sockets for Go](https://github.com/stealthrocket/wasi-go)
 * [2023-05-30, 22:22:38](https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist) - [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
@@ -13,7 +14,6 @@
 * [2023-05-30, 15:01:32](https://lobste.rs/s/l7cjib/seamless_services_for_open_world) - [Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands](https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
-* [2023-05-30, 11:08:55](https://lobste.rs/s/amvnne/offensivecon23) - [OffensiveCon23](https://www.youtube.com/watch?v=BarJCn4yChA&list=PLYvhPWR_XYJmh-qBNKUrlyjQYKBpCDZzB&pp=iAQB)
 * [2023-05-30, 10:05:16](https://lobste.rs/s/ab7yzc/product_quantization_vector_search) - [Product Quantization in Vector Search](https://qdrant.tech/articles/product-quantization/)
 * [2023-05-30, 09:41:19](https://lobste.rs/s/vrryky/basics_python_packaging_early_2023) - [The Basics of Python Packaging in Early 2023](https://drivendata.co/blog/python-packaging-2023)
 * [2023-05-30, 08:44:46](https://lobste.rs/s/w0dspc/crablang_community_fork_language_named) - [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
