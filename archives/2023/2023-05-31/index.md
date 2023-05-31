@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 15:11:57](https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs) - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
+* [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 14:43:18](https://lobste.rs/s/ry4rlt/how_lossless_data_compression_works) - [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
 * [2023-05-31, 14:21:22](https://lobste.rs/s/mlngqn/prfs_prps_other_fantastic_things) - [PRFs, PRPs and other fantastic things](https://blog.cryptographyengineering.com/2023/05/08/prfs-prps-and-other-fantastic-things/)
