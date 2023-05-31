@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 14:21:22](https://lobste.rs/s/mlngqn/prfs_prps_other_fantastic_things) - [PRFs, PRPs and other fantastic things](https://blog.cryptographyengineering.com/2023/05/08/prfs-prps-and-other-fantastic-things/)
 * [2023-05-31, 12:14:50](https://lobste.rs/s/m1jpgr/ask_hn_is_it_just_me_gpt_4_s_quality_has) - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately? | Hacker News](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 12:12:04](https://lobste.rs/s/5r7gca/testing_packet_protocol_bare_metal) - [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
