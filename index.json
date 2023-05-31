@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 23:58:52",
+      "https://lobste.rs/s/aksady/wasix_superset_wasi_supporting_threads"
+    ],
+    [
+      "WASIX, the Superset of WASI Supporting Threads, Processes and Sockets",
+      "https://wasmer.io/posts/announcing-wasix"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 23:27:50",
       "https://lobste.rs/s/d3npxa/webassembly_system_interface_wasi_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Ratatui: Build rich terminal user interfaces using Rust",
       "https://blog.orhun.dev/ratatui-0-21-0/"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 11:03:40",
-      "https://lobste.rs/s/d6hcl9/zeal_open_source_offline_documentation"
-    ],
-    [
-      "Zeal - Open Source Offline Documentation Browser",
-      "https://zealdocs.org/"
     ]
   ]
 ]
