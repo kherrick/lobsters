@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 12:14:50](https://lobste.rs/s/m1jpgr/ask_hn_is_it_just_me_gpt_4_s_quality_has) - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately? | Hacker News](https://news.ycombinator.com/item?id=36134249)
+* [2023-05-31, 12:12:04](https://lobste.rs/s/5r7gca/testing_packet_protocol_bare_metal) - [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_less_hands) - [Programming with one or less hands](https://lobste.rs/s/o4usyg/programming_with_one_less_hands)
@@ -11,10 +13,8 @@
 * [2023-05-31, 02:27:44](https://lobste.rs/s/utpgdk/svg_images_from_postgres) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
 * [2023-05-31, 00:49:12](https://lobste.rs/s/zhd15w/makefile_basics) - [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 * [2023-05-30, 23:58:52](https://lobste.rs/s/aksady/wasix_superset_wasi_supporting_threads) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
-* [2023-05-30, 23:27:50](https://lobste.rs/s/d3npxa/webassembly_system_interface_wasi_with) - [WebAssembly System Interface (WASI) with sockets for Go](https://github.com/stealthrocket/wasi-go)
 * [2023-05-30, 22:22:38](https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist) - [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
-* [2023-05-30, 18:30:30](https://lobste.rs/s/dbpazj/sha_3_buffer_overflow_part_2) - [SHA-3 Buffer Overflow (Part 2)](https://mouha.be/sha-3-buffer-overflow-part-2/)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-30, 17:43:06](https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects) - [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)

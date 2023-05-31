@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 12:14:50](https://lobste.rs/s/m1jpgr/ask_hn_is_it_just_me_gpt_4_s_quality_has) - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately? | Hacker News](https://news.ycombinator.com/item?id=36134249)
+* [2023-05-31, 12:12:04](https://lobste.rs/s/5r7gca/testing_packet_protocol_bare_metal) - [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_less_hands) - [Programming with one or less hands](https://lobste.rs/s/o4usyg/programming_with_one_less_hands)
