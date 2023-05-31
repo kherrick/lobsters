@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 05:06:39](https://lobste.rs/s/cxwnob/memory_disks) - [Memory Disks](https://euroquis.nl//freebsd/2023/05/30/memory.html)
 * [2023-05-31, 03:39:03](https://lobste.rs/s/msjtwc/understanding_phase_changes_machine) - [Understanding Phase Changes in Machine Learning](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
 * [2023-05-31, 02:53:04](https://lobste.rs/s/4awvgw/gateway_pattern) - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
