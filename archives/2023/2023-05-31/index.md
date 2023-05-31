@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 20:26:10](https://lobste.rs/s/1fjc4l/transformer_math_101) - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
 * [2023-05-31, 17:53:19](https://lobste.rs/s/3jqru1/web_s_most_underutilized_api_text) - [Web's Most Underutilized API: Text Fragments](https://lobste.rs/s/3jqru1/web_s_most_underutilized_api_text)
 * [2023-05-31, 17:39:03](https://lobste.rs/s/nedsfl/nezha_deployable_high_performance) - [Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks](https://www.vldb.org/pvldb/vol16/p629-geng.pdf)
@@ -22,6 +23,7 @@
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_less_hands) - [Programming with one or less hands](https://lobste.rs/s/o4usyg/programming_with_one_less_hands)
+* [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
 * [2023-05-31, 07:51:53](https://lobste.rs/s/xfyk2b/spleen_2_0_0_released_with_full_cp437) - [Spleen 2.0.0 released with full CP437 support](https://www.cambus.net/spleen-2.0.0-released-with-full-cp437-support/)
 * [2023-05-31, 07:08:19](https://lobste.rs/s/isky5j/mirror_for_rust_compile_time_reflection) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-31, 06:35:37](https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd) - [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
