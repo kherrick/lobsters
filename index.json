@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-31, 03:08:44",
+      "https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds"
+    ],
+    [
+      "We've learned nothing from the SolarWinds hack",
+      "https://cyrnel.net/solarwinds-hack-lessons-learned/"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 02:53:04",
+      "https://lobste.rs/s/4awvgw/gateway_pattern"
+    ],
+    [
+      "The Gateway Pattern",
+      "https://mattbrictson.com/blog/gateway-pattern"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 02:27:44",
       "https://lobste.rs/s/utpgdk/svg_images_from_postgres"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-05-30, 15:01:32",
-      "https://lobste.rs/s/l7cjib/seamless_services_for_open_world"
-    ],
-    [
-      "Seamless Services for an Open World - Brooklyn Zelenka @ Causal Islands",
-      "https://www.youtube.com/watch?v=Kr3B3sXh_VA&list=PLfW9my7NCey_HXemvHbILZul-fLcVsvaW&index=8"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 12:55:02",
       "https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs"
     ],
@@ -147,16 +157,6 @@
     [
       "Using UPX for compression might work against you",
       "https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 10:05:16",
-      "https://lobste.rs/s/ab7yzc/product_quantization_vector_search"
-    ],
-    [
-      "Product Quantization in Vector Search",
-      "https://qdrant.tech/articles/product-quantization/"
     ]
   ],
   [
