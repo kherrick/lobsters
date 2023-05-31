@@ -2,7 +2,6 @@
 
 * [2023-05-31, 20:26:10](https://lobste.rs/s/1fjc4l/transformer_math_101) - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
-* [2023-05-31, 17:53:19](https://lobste.rs/s/3jqru1/web_s_most_underutilized_api_text) - [Web's Most Underutilized API: Text Fragments](https://lobste.rs/s/3jqru1/web_s_most_underutilized_api_text)
 * [2023-05-31, 17:39:03](https://lobste.rs/s/nedsfl/nezha_deployable_high_performance) - [Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks](https://www.vldb.org/pvldb/vol16/p629-geng.pdf)
 * [2023-05-31, 17:10:12](https://lobste.rs/s/vddh6i/inside_chatgpt_s_brain) - [Inside ChatGPT's Brain](https://serokell.io/blog/language-models-behind-chatgpt)
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
@@ -20,6 +19,7 @@
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
 * [2023-05-31, 00:49:12](https://lobste.rs/s/zhd15w/makefile_basics) - [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 * [2023-05-30, 23:58:52](https://lobste.rs/s/aksady/wasix_superset_wasi_supporting_threads) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
+* [2023-05-30, 22:22:38](https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist) - [systemshock: Shockolate - A minimalist and cross platform System Shock source port](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
