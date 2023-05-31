@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-05-31, 07:08:19](https://lobste.rs/s/isky5j/mirror_for_rust_compile_time_reflection) - [A Mirror for Rust: Compile-Time Reflection Report](https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/)
 * [2023-05-31, 06:35:37](https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd) - [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
 * [2023-05-31, 05:06:39](https://lobste.rs/s/cxwnob/memory_disks) - [Memory Disks](https://euroquis.nl//freebsd/2023/05/30/memory.html)
 * [2023-05-31, 03:39:03](https://lobste.rs/s/msjtwc/understanding_phase_changes_machine) - [Understanding Phase Changes in Machine Learning](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
@@ -17,6 +16,7 @@
 * [2023-05-30, 17:43:06](https://lobste.rs/s/k7hmtr/i_think_i_finally_get_js_objects) - [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
+* [2023-05-30, 17:13:25](https://lobste.rs/s/saa9ry/how_add_security_headers_using) - [How to Add Security Headers Using Cloudflare](https://algustionesa.com/security-headers/)
 * [2023-05-30, 12:55:02](https://lobste.rs/s/13cmnf/35_million_hot_dogs_benchmarking_caddy_vs) - [35 Million Hot Dogs: Benchmarking Caddy vs. Nginx (2022)](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
 * [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 * [2023-05-30, 08:44:46](https://lobste.rs/s/w0dspc/crablang_community_fork_language_named) - [CrabLang:  A community fork of a language named after a plant fungus](https://crablang.org/)
