@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 17:39:03](https://lobste.rs/s/nedsfl/nezha_deployable_high_performance) - [Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks](https://www.vldb.org/pvldb/vol16/p629-geng.pdf)
 * [2023-05-31, 17:10:12](https://lobste.rs/s/vddh6i/inside_chatgpt_s_brain) - [Inside ChatGPT's Brain](https://serokell.io/blog/language-models-behind-chatgpt)
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
