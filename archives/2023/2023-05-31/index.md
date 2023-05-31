@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 17:10:12](https://lobste.rs/s/vddh6i/inside_chatgpt_s_brain) - [Inside ChatGPT's Brain](https://serokell.io/blog/language-models-behind-chatgpt)
+* [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
 * [2023-05-31, 15:43:51](https://lobste.rs/s/npylv8/how_s2n_quic_uses_kani_inspire_confidence) - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html)
