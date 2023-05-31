@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-31, 06:35:37",
+      "https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd"
+    ],
+    [
+      "Introducing Iguana: extremely fast SIMD-optimized decompression",
+      "https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 05:06:39",
       "https://lobste.rs/s/cxwnob/memory_disks"
     ],
@@ -207,16 +217,6 @@
     [
       "Kernel string overcopying",
       "https://dxuuu.xyz/string-overcopy.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 04:49:51",
-      "https://lobste.rs/s/wil1vy/wasm_4_fantasy_console"
-    ],
-    [
-      "WASM-4 Fantasy Console",
-      "http://wasm4.org"
     ]
   ],
   [
