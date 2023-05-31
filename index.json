@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-05-31, 15:43:51",
+      "https://lobste.rs/s/npylv8/how_s2n_quic_uses_kani_inspire_confidence"
+    ],
+    [
+      "How s2n-quic uses Kani to inspire confidence",
+      "https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 15:11:34",
       "https://lobste.rs/s/hbvl3j/how_s_about_git"
     ],
@@ -187,16 +197,6 @@
     [
       "WASIX, the Superset of WASI Supporting Threads, Processes and Sockets",
       "https://wasmer.io/posts/announcing-wasix"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 22:22:38",
-      "https://lobste.rs/s/o63foe/systemshock_shockolate_minimalist"
-    ],
-    [
-      "systemshock: Shockolate - A minimalist and cross platform System Shock source port",
-      "https://github.com/Interrupt/systemshock"
     ]
   ],
   [
