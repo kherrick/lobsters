@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_less_hands) - [Programming with one or less hands](https://lobste.rs/s/o4usyg/programming_with_one_less_hands)
 * [2023-05-31, 07:51:53](https://lobste.rs/s/xfyk2b/spleen_2_0_0_released_with_full_cp437) - [Spleen 2.0.0 released with full CP437 support](https://www.cambus.net/spleen-2.0.0-released-with-full-cp437-support/)
 * [2023-05-31, 06:35:37](https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd) - [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
@@ -24,7 +25,6 @@
 * [2023-05-30, 08:33:33](https://lobste.rs/s/s76wut/python_language_summit_2023_what_is) - [The Python Language Summit 2023: What is the Standard Library for?](https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023-what-is.html)
 * [2023-05-30, 05:25:55](https://lobste.rs/s/3xznmg/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-05-29, 20:48:19](https://lobste.rs/s/pa4som/my_first_superoptimizer) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
-* [2023-05-29, 11:52:18](https://lobste.rs/s/3ohqya/email_addresses_are_not_primary_user) - [Email addresses are not primary user identities](https://ntietz.com/blog/email-address-not-identifier/)
 
 ## [Archives](archives/index.md)
 
