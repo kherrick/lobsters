@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_less_hands) - [Programming with one or less hands](https://lobste.rs/s/o4usyg/programming_with_one_less_hands)
 * [2023-05-31, 07:51:53](https://lobste.rs/s/xfyk2b/spleen_2_0_0_released_with_full_cp437) - [Spleen 2.0.0 released with full CP437 support](https://www.cambus.net/spleen-2.0.0-released-with-full-cp437-support/)
