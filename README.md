@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 05:46:58](https://lobste.rs/s/p9t2mx/firmware_is_broken_terminology) - [Firmware is broken Terminology](https://hacktivis.me/articles/firmware-broken-terminology)
 * [2023-05-31, 20:26:10](https://lobste.rs/s/1fjc4l/transformer_math_101) - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
 * [2023-05-31, 17:39:03](https://lobste.rs/s/nedsfl/nezha_deployable_high_performance) - [Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks](https://www.vldb.org/pvldb/vol16/p629-geng.pdf)
@@ -7,7 +8,6 @@
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
-* [2023-05-31, 15:43:51](https://lobste.rs/s/npylv8/how_s2n_quic_uses_kani_inspire_confidence) - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html)
 * [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 14:43:18](https://lobste.rs/s/ry4rlt/how_lossless_data_compression_works) - [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
