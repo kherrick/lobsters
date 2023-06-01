@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 * [2023-06-01, 05:46:58](https://lobste.rs/s/p9t2mx/firmware_is_broken_terminology) - [Firmware is broken Terminology](https://hacktivis.me/articles/firmware-broken-terminology)
@@ -13,7 +14,6 @@
 * [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 14:43:18](https://lobste.rs/s/ry4rlt/how_lossless_data_compression_works) - [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
-* [2023-05-31, 12:12:04](https://lobste.rs/s/5r7gca/testing_packet_protocol_bare_metal) - [Testing the Packet Protocol: Bare Metal Programming Series](https://youtu.be/rG1Faau2QuM)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
