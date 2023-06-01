@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 11:10:05",
+      "https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner"
+    ],
+    [
+      "Rust to Assembly: Understanding the Inner Workings of Rust",
+      "https://eventhelix.com/rust/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 06:57:06",
       "https://lobste.rs/s/rnwf7j/nixos_23_05_released"
     ],
@@ -47,16 +57,6 @@
     [
       "Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks",
       "https://www.vldb.org/pvldb/vol16/p629-geng.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 17:10:12",
-      "https://lobste.rs/s/vddh6i/inside_chatgpt_s_brain"
-    ],
-    [
-      "Inside ChatGPT's Brain",
-      "https://serokell.io/blog/language-models-behind-chatgpt"
     ]
   ],
   [
