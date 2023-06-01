@@ -14,6 +14,7 @@
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 * [2023-06-01, 05:46:58](https://lobste.rs/s/p9t2mx/firmware_is_broken_terminology) - [Firmware is broken Terminology](https://hacktivis.me/articles/firmware-broken-terminology)
+* [2023-05-31, 20:26:10](https://lobste.rs/s/1fjc4l/transformer_math_101) - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
@@ -24,7 +25,6 @@
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
-* [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 
 ## [Archives](archives/index.md)
 
