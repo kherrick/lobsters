@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
 * [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)
 * [2023-06-01, 21:05:05](https://lobste.rs/s/vs1pqa/testing_control_flow_translations_ghc) - [Testing Control-Flow Translations in GHC](https://www.tweag.io/blog/2023-06-01-translation-testing/)
@@ -15,7 +16,6 @@
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/locking_war_story) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
 * [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
-* [2023-06-01, 13:19:44](https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure) - [Paired benchmarking: how to measure performance](https://www.bazhenov.me/posts/paired-benchmarking/)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
