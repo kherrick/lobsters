@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos VS 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 15:54:14](https://lobste.rs/s/lcwzm2/default_parameters_virtual_c_20) - [Default parameters and virtual (C++20)](https://euroquis.nl//kde/2023/06/01/override.html)
 * [2023-06-01, 15:50:27](https://lobste.rs/s/p1qd1t/improvements_static_analysis_gcc_13) - [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/read_seek_considered_dangerous) - [Read + Seek considered dangerous](https://swatinem.de/blog/locking-war-story/)
@@ -19,7 +20,6 @@
 * [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
-* [2023-05-31, 09:33:44](https://lobste.rs/s/u9fxug/dev_home_for_windows_developers) - [Dev Home for Windows Developers](https://learn.microsoft.com/en-us/windows/dev-home/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
 * [2023-05-31, 06:35:37](https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd) - [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)

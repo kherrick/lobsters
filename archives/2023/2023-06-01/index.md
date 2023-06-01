@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos VS 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 15:54:14](https://lobste.rs/s/lcwzm2/default_parameters_virtual_c_20) - [Default parameters and virtual (C++20)](https://euroquis.nl//kde/2023/06/01/override.html)
 * [2023-06-01, 15:50:27](https://lobste.rs/s/p1qd1t/improvements_static_analysis_gcc_13) - [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/read_seek_considered_dangerous) - [Read + Seek considered dangerous](https://swatinem.de/blog/locking-war-story/)
