@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)
 * [2023-06-01, 21:05:05](https://lobste.rs/s/vs1pqa/testing_control_flow_translations_ghc) - [Testing Control-Flow Translations in GHC](https://www.tweag.io/blog/2023-06-01-translation-testing/)
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 * [2023-06-01, 21:00:34](https://lobste.rs/s/z75ydm/licenses_masquerading_as_open_source) - [Licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
