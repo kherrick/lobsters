@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 * [2023-06-01, 05:46:58](https://lobste.rs/s/p9t2mx/firmware_is_broken_terminology) - [Firmware is broken Terminology](https://hacktivis.me/articles/firmware-broken-terminology)
 * [2023-05-31, 20:26:10](https://lobste.rs/s/1fjc4l/transformer_math_101) - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
@@ -24,7 +25,6 @@
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
-* [2023-05-30, 12:33:36](https://lobste.rs/s/rdit0h/using_upx_for_compression_might_work) - [Using UPX for compression might work against you](https://usrme.xyz/posts/using-upx-for-compression-might-work-against-you/)
 
 ## [Archives](archives/index.md)
 
