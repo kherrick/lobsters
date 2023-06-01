@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 22:15:07](https://lobste.rs/s/wcklcd/sarif_static_analysis_results) - [SARIF: Static Analysis Results Interchange Format](https://sarifweb.azurewebsites.net/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
 * [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)

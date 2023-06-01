@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 22:15:07](https://lobste.rs/s/wcklcd/sarif_static_analysis_results) - [SARIF: Static Analysis Results Interchange Format](https://sarifweb.azurewebsites.net/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
 * [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)
@@ -23,7 +24,6 @@
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
-* [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
 
 ## [Archives](archives/index.md)
