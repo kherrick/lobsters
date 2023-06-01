@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
+* [2023-06-01, 13:19:44](https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure) - [Paired benchmarking: how to measure performance](https://www.bazhenov.me/posts/paired-benchmarking/)
+* [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
@@ -10,7 +13,6 @@
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
-* [2023-05-31, 15:11:57](https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs) - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 * [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 14:43:18](https://lobste.rs/s/ry4rlt/how_lossless_data_compression_works) - [How Lossless Data Compression Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531/)
@@ -20,10 +22,8 @@
 * [2023-05-31, 07:51:53](https://lobste.rs/s/xfyk2b/spleen_2_0_0_released_with_full_cp437) - [Spleen 2.0.0 released with full CP437 support](https://www.cambus.net/spleen-2.0.0-released-with-full-cp437-support/)
 * [2023-05-31, 06:35:37](https://lobste.rs/s/4cynth/introducing_iguana_extremely_fast_simd) - [Introducing Iguana: extremely fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
-* [2023-05-31, 00:49:12](https://lobste.rs/s/zhd15w/makefile_basics) - [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 * [2023-05-30, 20:45:20](https://lobste.rs/s/z5wujk/turds) - [Turds](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
-* [2023-05-30, 17:20:39](https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile) - [A chiral aperiodic monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 17:15:53](https://lobste.rs/s/ugeagh/modern_cpus_have_backstage_cast) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 
 ## [Archives](archives/index.md)
