@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 19:22:55](https://lobste.rs/s/ggewr2/porting_qt6_practice) - [Porting to Qt6 in practice](https://rabbitictranslator.com/port-to-qt6/)
 * [2023-06-01, 18:59:10](https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs) - [TIL: Turbo Stream broadcasting needs default_url_options to be set](https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/)
 * [2023-06-01, 18:49:41](https://lobste.rs/s/4lrxjl/timezone_bugfix_took_us_through_api_oop) - [A timezone bugfix that took us through API and OOP design discussions](https://buoy.blog/2023/05/29/date-in-zone.html)
 * [2023-06-01, 18:00:13](https://lobste.rs/s/ge6afc/announcing_typescript_5_1) - [Announcing TypeScript 5.1](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
@@ -24,7 +25,6 @@
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
 * [2023-05-31, 03:08:44](https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds) - [We've learned nothing from the SolarWinds hack](https://cyrnel.net/solarwinds-hack-lessons-learned/)
-* [2023-05-30, 18:07:14](https://lobste.rs/s/94z0u3/directly_compiling_scheme_webassembly) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 
 ## [Archives](archives/index.md)
 
