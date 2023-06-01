@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 21:05:05](https://lobste.rs/s/vs1pqa/testing_control_flow_translations_ghc) - [Testing Control-Flow Translations in GHC](https://www.tweag.io/blog/2023-06-01-translation-testing/)
+* [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 * [2023-06-01, 21:00:34](https://lobste.rs/s/z75ydm/licenses_masquerading_as_open_source) - [Licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 19:22:55](https://lobste.rs/s/ggewr2/porting_qt6_practice) - [Porting to Qt6 in practice](https://rabbitictranslator.com/port-to-qt6/)
 * [2023-06-01, 18:59:10](https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs) - [TIL: Turbo Stream broadcasting needs default_url_options to be set](https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/)
@@ -19,8 +21,6 @@
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 * [2023-05-31, 19:58:28](https://lobste.rs/s/tkstgw/ko_easy_go_containers) - [ko: Easy Go Containers](https://ko.build/)
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
-* [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
-* [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)
