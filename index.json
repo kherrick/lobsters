@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 21:48:08",
+      "https://lobste.rs/s/lh7q98/on_software_dependency_engineering"
+    ],
+    [
+      "On Software Dependency Engineering",
+      "https://hackmd.io/@cflewis/Sk0gb9ILh"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 21:21:44",
       "https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types"
     ],
@@ -237,16 +247,6 @@
     [
       "Programming with one or fewer hands",
       "https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 03:08:44",
-      "https://lobste.rs/s/hnz7iu/we_ve_learned_nothing_from_solarwinds"
-    ],
-    [
-      "We've learned nothing from the SolarWinds hack",
-      "https://cyrnel.net/solarwinds-hack-lessons-learned/"
     ]
   ]
 ]
