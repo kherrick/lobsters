@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 14:06:48",
+      "https://lobste.rs/s/u8lgij/git_aliases"
+    ],
+    [
+      "git-aliases",
+      "https://www.hschne.at/git-aliases/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 13:20:43",
       "https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible"
     ],
@@ -87,16 +97,6 @@
     [
       "ko: Easy Go Containers",
       "https://ko.build/"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 17:39:03",
-      "https://lobste.rs/s/nedsfl/nezha_deployable_high_performance"
-    ],
-    [
-      "Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks",
-      "https://www.vldb.org/pvldb/vol16/p629-geng.pdf"
     ]
   ],
   [
