@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-01, 13:20:43",
+      "https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible"
+    ],
+    [
+      "sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure",
+      "https://github.com/sacredheartsc/selfhosted"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:19:44",
+      "https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure"
+    ],
+    [
+      "Paired benchmarking: how to measure performance",
+      "https://www.bazhenov.me/posts/paired-benchmarking/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:12:29",
+      "https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with"
+    ],
+    [
+      "Millions of PC Motherboards Were Sold With a Firmware Backdoor",
+      "https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 12:06:52",
       "https://lobste.rs/s/tc1abt/apache_opendal"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-05-31, 15:11:57",
-      "https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs"
-    ],
-    [
-      "When LIMIT 9 works but LIMIT 10 hangs",
-      "https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs"
-    ]
-  ],
-  [
-    [
       "2023-05-31, 15:11:34",
       "https://lobste.rs/s/hbvl3j/how_s_about_git"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-05-31, 00:49:12",
-      "https://lobste.rs/s/zhd15w/makefile_basics"
-    ],
-    [
-      "Makefile basics",
-      "https://gist.github.com/isaacs/62a2d1825d04437c6f08"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 20:45:20",
       "https://lobste.rs/s/z5wujk/turds"
     ],
@@ -227,16 +237,6 @@
     [
       "Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration",
       "https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 17:20:39",
-      "https://lobste.rs/s/6jfqd0/chiral_aperiodic_monotile"
-    ],
-    [
-      "A chiral aperiodic monotile",
-      "https://cs.uwaterloo.ca/~csk/spectre/"
     ]
   ],
   [
