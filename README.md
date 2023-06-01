@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-01, 21:00:34](https://lobste.rs/s/z75ydm/licenses_masquerading_as_open_source) - [Licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 19:22:55](https://lobste.rs/s/ggewr2/porting_qt6_practice) - [Porting to Qt6 in practice](https://rabbitictranslator.com/port-to-qt6/)
 * [2023-06-01, 18:59:10](https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs) - [TIL: Turbo Stream broadcasting needs default_url_options to be set](https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/)
 * [2023-06-01, 18:49:41](https://lobste.rs/s/4lrxjl/timezone_bugfix_took_us_through_api_oop) - [A timezone bugfix that took us through API and OOP design discussions](https://buoy.blog/2023/05/29/date-in-zone.html)
@@ -20,7 +21,6 @@
 * [2023-05-31, 17:07:55](https://lobste.rs/s/xi3mi0/does_programming_language_with_ml_style) - [Does a programming language with ML-style modules need packages?](https://softwareengineering.stackexchange.com/q/445747/398052)
 * [2023-05-31, 16:30:59](https://lobste.rs/s/dwc1ar/against_generality_2016) - [Against generality (2016)](https://novalis.org/blog/2016-09-27-against-generality.html)
 * [2023-05-31, 15:46:43](https://lobste.rs/s/dcnysk/process_engineering_at_furry_convention) - [Process Engineering at a Furry Convention](https://cendyne.dev/posts/2023-04-16-process-engineering-at-a-furry-convention.html)
-* [2023-05-31, 15:11:34](https://lobste.rs/s/hbvl3j/how_s_about_git) - [How's about Git?](https://www.flipt.io/blog/gitops-announcement)
 * [2023-05-31, 15:03:28](https://lobste.rs/s/dfs5jc/i_think_zig_is_hard_worth_it) - [I think Zig is hard...but worth it](http://ratfactor.com/zig/hard)
 * [2023-05-31, 11:03:02](https://lobste.rs/s/uefpv7/hacking_my_smart_toothbrush) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-31, 08:57:10](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands) - [Programming with one or fewer hands](https://lobste.rs/s/o4usyg/programming_with_one_fewer_hands)

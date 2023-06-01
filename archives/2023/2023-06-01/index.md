@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 21:00:34](https://lobste.rs/s/z75ydm/licenses_masquerading_as_open_source) - [Licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 19:22:55](https://lobste.rs/s/ggewr2/porting_qt6_practice) - [Porting to Qt6 in practice](https://rabbitictranslator.com/port-to-qt6/)
 * [2023-06-01, 18:59:10](https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs) - [TIL: Turbo Stream broadcasting needs default_url_options to be set](https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/)
 * [2023-06-01, 18:49:41](https://lobste.rs/s/4lrxjl/timezone_bugfix_took_us_through_api_oop) - [A timezone bugfix that took us through API and OOP design discussions](https://buoy.blog/2023/05/29/date-in-zone.html)
