@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-05-31, 15:11:57",
+      "https://lobste.rs/s/uo7tpg/when_limit_9_works_limit_10_hangs"
+    ],
+    [
+      "When LIMIT 9 works but LIMIT 10 hangs",
+      "https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 15:11:34",
       "https://lobste.rs/s/hbvl3j/how_s_about_git"
     ],
@@ -197,16 +207,6 @@
     [
       "Makefile basics",
       "https://gist.github.com/isaacs/62a2d1825d04437c6f08"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 23:58:52",
-      "https://lobste.rs/s/aksady/wasix_superset_wasi_supporting_threads"
-    ],
-    [
-      "WASIX, the Superset of WASI Supporting Threads, Processes and Sockets",
-      "https://wasmer.io/posts/announcing-wasix"
     ]
   ],
   [
