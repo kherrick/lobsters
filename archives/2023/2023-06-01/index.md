@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 22:34:06](https://lobste.rs/s/haeryh/rtic_real_time_interrupt_driven) - [RTIC: Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [2023-06-01, 22:15:07](https://lobste.rs/s/wcklcd/sarif_static_analysis_results) - [SARIF: Static Analysis Results Interchange Format](https://sarifweb.azurewebsites.net/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
