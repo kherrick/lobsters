@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 07:00:14](https://lobste.rs/s/brupwe/keenwrite_3_3_1) - [KeenWrite 3.3.1](https://github.com/DaveJarvis/KeenWrite/releases/tag/3.3.1)
 * [2023-06-02, 06:34:03](https://lobste.rs/s/k1ohcn/ai_controlled_us_military_drone_kills_its) - [AI-controlled US military drone ‘kills’ its operator in simulated test](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test)
 * [2023-06-02, 04:25:10](https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful) - [restful is antimemetic, or, the least successful thesis ever](https://cohost.org/tef/post/1601060-restful-is-antimemet)
 * [2023-06-02, 03:21:03](https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained) - [The RustConf Keynote Fiasco, explained](https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained)
@@ -11,7 +12,6 @@
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 * [2023-06-01, 19:22:55](https://lobste.rs/s/ggewr2/porting_qt6_practice) - [Porting to Qt6 in practice](https://rabbitictranslator.com/port-to-qt6/)
 * [2023-06-01, 18:59:10](https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs) - [TIL: Turbo Stream broadcasting needs default_url_options to be set](https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/)
-* [2023-06-01, 18:49:41](https://lobste.rs/s/4lrxjl/timezone_bugfix_took_us_through_api_oop) - [A timezone bugfix that took us through API and OOP design discussions](https://buoy.blog/2023/05/29/date-in-zone.html)
 * [2023-06-01, 18:00:13](https://lobste.rs/s/ge6afc/announcing_typescript_5_1) - [Announcing TypeScript 5.1](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
 * [2023-06-01, 17:10:01](https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
