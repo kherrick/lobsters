@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 03:21:03",
+      "https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained"
+    ],
+    [
+      "The RustConf Keynote Fiasco, explained",
+      "https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 02:39:44",
       "https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly"
     ],
@@ -167,16 +177,6 @@
     [
       "sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure",
       "https://github.com/sacredheartsc/selfhosted"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 13:19:44",
-      "https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure"
-    ],
-    [
-      "Paired benchmarking: how to measure performance",
-      "https://www.bazhenov.me/posts/paired-benchmarking/"
     ]
   ],
   [
