@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 12:40:46](https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use) - [Migrate away from data URLs in SVG <use> element](https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/)
+* [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 11:06:16](https://lobste.rs/s/k6uxil/quitting_then_rejoining_stack_overflow) - [Quitting (And Then Rejoining) Stack Overflow](https://corecursive.com/stack-overflow/)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-02, 09:18:30](https://lobste.rs/s/qwiube/all_businesses_should_afford_know_their) - [All businesses should afford to know that their website works](https://squidler.io/)
