@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 15:00:25",
+      "https://lobste.rs/s/mugzr4/this_month_with_nim_april_may_2023"
+    ],
+    [
+      "This Month with Nim: April and May 2023",
+      "https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 14:44:22",
       "https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui"
     ],
@@ -227,16 +237,6 @@
     [
       "Apache OpenDAL",
       "https://opendal.apache.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 11:10:05",
-      "https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner"
-    ],
-    [
-      "Rust to Assembly: Understanding the Inner Workings of Rust",
-      "https://eventhelix.com/rust/"
     ]
   ],
   [
