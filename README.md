@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 15:41:36](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid) - [What would you do with a year-long paid sabbatical?](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid)
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-02, 15:18:06](https://lobste.rs/s/g0nsun/nuance_nim_untyped_ast_node_generation_at) - [nuance: Nim untyped AST node generation at runtime with custom line info](https://github.com/metagn/nuance)
@@ -22,7 +23,6 @@
 * [2023-06-01, 18:00:13](https://lobste.rs/s/ge6afc/announcing_typescript_5_1) - [Announcing TypeScript 5.1](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
 * [2023-06-01, 17:10:01](https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
-* [2023-06-01, 15:50:27](https://lobste.rs/s/p1qd1t/improvements_static_analysis_gcc_13) - [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 

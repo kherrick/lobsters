@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 15:41:36](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid) - [What would you do with a year-long paid sabbatical?](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid)
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-02, 15:18:06](https://lobste.rs/s/g0nsun/nuance_nim_untyped_ast_node_generation_at) - [nuance: Nim untyped AST node generation at runtime with custom line info](https://github.com/metagn/nuance)
