@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 15:48:08](https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly) - [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
 * [2023-06-02, 15:41:36](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid) - [What would you do with a year-long paid sabbatical?](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid)
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)

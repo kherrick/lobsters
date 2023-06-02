@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 15:48:08](https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly) - [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
 * [2023-06-02, 15:41:36](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid) - [What would you do with a year-long paid sabbatical?](https://lobste.rs/s/qqdmln/what_would_you_do_with_year_long_paid)
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
@@ -14,7 +15,6 @@
 * [2023-06-02, 11:06:16](https://lobste.rs/s/k6uxil/quitting_then_rejoining_stack_overflow) - [Quitting (And Then Rejoining) Stack Overflow](https://corecursive.com/stack-overflow/)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-02, 04:25:10](https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful) - [restful is antimemetic, or, the least successful thesis ever](https://cohost.org/tef/post/1601060-restful-is-antimemet)
-* [2023-06-02, 03:21:03](https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained) - [The RustConf Keynote Fiasco, explained](https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained)
 * [2023-06-02, 02:39:44](https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly) - [AR glasses USB protocols: the Good, the Bad and the Ugly](https://voidcomputing.hu/blog/good-bad-ugly/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
