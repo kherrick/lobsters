@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 * [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
-* [2023-06-02, 13:24:54](https://lobste.rs/s/vcorkp/go_away_muse_you_re_drunk_again_charlie_s) - [Go away, Muse, you're drunk (again) - Charlie's Diary](http://www.antipope.org/charlie/blog-static/2023/06/go-away-muse-youre-drunk-again.html)
+* [2023-06-02, 13:24:54](https://lobste.rs/s/vcorkp/go_away_muse_you_re_drunk_again) - [Go away, Muse, you're drunk (again)](http://www.antipope.org/charlie/blog-static/2023/06/go-away-muse-youre-drunk-again.html)
 * [2023-06-02, 13:20:50](https://lobste.rs/s/d82hvg/sql_2023_is_out) - [SQL:2023 is out](https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out)
 * [2023-06-02, 12:40:46](https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use) - [Migrate away from data URLs in SVG <use> element](https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
@@ -19,7 +20,6 @@
 * [2023-06-01, 17:10:01](https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 15:50:27](https://lobste.rs/s/p1qd1t/improvements_static_analysis_gcc_13) - [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
-* [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
 * [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)

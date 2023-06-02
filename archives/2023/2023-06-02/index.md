@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 * [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
 * [2023-06-02, 13:24:54](https://lobste.rs/s/vcorkp/go_away_muse_you_re_drunk_again_charlie_s) - [Go away, Muse, you're drunk (again) - Charlie's Diary](http://www.antipope.org/charlie/blog-static/2023/06/go-away-muse-youre-drunk-again.html)
+* [2023-06-02, 13:24:54](https://lobste.rs/s/vcorkp/go_away_muse_you_re_drunk_again) - [Go away, Muse, you're drunk (again)](http://www.antipope.org/charlie/blog-static/2023/06/go-away-muse-youre-drunk-again.html)
 * [2023-06-02, 13:20:50](https://lobste.rs/s/d82hvg/sql_2023_is_out) - [SQL:2023 is out](https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out)
 * [2023-06-02, 12:40:46](https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use) - [Migrate away from data URLs in SVG <use> element](https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
