@@ -2,7 +2,6 @@
 
 * [2023-06-02, 09:18:30](https://lobste.rs/s/qwiube/all_businesses_should_afford_know_their) - [All businesses should afford to know that their website works](https://squidler.io/)
 * [2023-06-02, 07:00:14](https://lobste.rs/s/brupwe/keenwrite_3_3_1) - [KeenWrite 3.3.1](https://github.com/DaveJarvis/KeenWrite/releases/tag/3.3.1)
-* [2023-06-02, 06:34:03](https://lobste.rs/s/k1ohcn/ai_controlled_us_military_drone_kills_its) - [AI-controlled US military drone ‘kills’ its operator in simulated test](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test)
 * [2023-06-02, 04:25:10](https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful) - [restful is antimemetic, or, the least successful thesis ever](https://cohost.org/tef/post/1601060-restful-is-antimemet)
 * [2023-06-02, 03:21:03](https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained) - [The RustConf Keynote Fiasco, explained](https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained)
 * [2023-06-02, 02:39:44](https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly) - [AR glasses USB protocols: the Good, the Bad and the Ugly](https://voidcomputing.hu/blog/good-bad-ugly/)
@@ -19,6 +18,7 @@
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/locking_war_story) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
 * [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
+* [2023-06-01, 13:19:44](https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure) - [Paired benchmarking: how to measure performance](https://www.bazhenov.me/posts/paired-benchmarking/)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
