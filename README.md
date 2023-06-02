@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 02:39:44](https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly) - [AR glasses USB protocols: the Good, the Bad and the Ugly](https://voidcomputing.hu/blog/good-bad-ugly/)
 * [2023-06-01, 22:34:06](https://lobste.rs/s/haeryh/rtic_real_time_interrupt_driven) - [RTIC: Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [2023-06-01, 22:15:07](https://lobste.rs/s/wcklcd/sarif_static_analysis_results) - [SARIF: Static Analysis Results Interchange Format](https://sarifweb.azurewebsites.net/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
@@ -12,7 +13,6 @@
 * [2023-06-01, 18:00:13](https://lobste.rs/s/ge6afc/announcing_typescript_5_1) - [Announcing TypeScript 5.1](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/)
 * [2023-06-01, 17:10:01](https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
-* [2023-06-01, 15:54:14](https://lobste.rs/s/lcwzm2/default_parameters_virtual_c_20) - [Default parameters and virtual (C++20)](https://euroquis.nl//kde/2023/06/01/override.html)
 * [2023-06-01, 15:50:27](https://lobste.rs/s/p1qd1t/improvements_static_analysis_gcc_13) - [Improvements to static analysis in the GCC 13 compiler](https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler)
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/locking_war_story) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
