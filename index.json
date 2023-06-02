@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 15:34:24",
+      "https://lobste.rs/s/h4qza7/language_modelling_first_100_years"
+    ],
+    [
+      "Language modelling: the first 100 years",
+      "https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 15:22:20",
       "https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for"
     ],
@@ -217,16 +227,6 @@
     [
       "Improvements to static analysis in the GCC 13 compiler",
       "https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 13:20:43",
-      "https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible"
-    ],
-    [
-      "sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure",
-      "https://github.com/sacredheartsc/selfhosted"
     ]
   ],
   [
