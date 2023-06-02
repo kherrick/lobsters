@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 14:34:39",
+      "https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023"
+    ],
+    [
+      "Important change for the .ga TLD 6th june 2023",
+      "https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 13:48:52",
       "https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai"
     ],
@@ -137,16 +147,6 @@
     [
       "Announcing Rust 1.70.0",
       "https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 18:59:10",
-      "https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs"
-    ],
-    [
-      "TIL: Turbo Stream broadcasting needs default_url_options to be set",
-      "https://goodenough.us/blog/2023-05-31-til-turbo-stream-broadcasting-needs-default-url-options-to-be-set/"
     ]
   ],
   [
