@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 03:21:03](https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained) - [The RustConf Keynote Fiasco, explained](https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained)
 * [2023-06-02, 02:39:44](https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly) - [AR glasses USB protocols: the Good, the Bad and the Ugly](https://voidcomputing.hu/blog/good-bad-ugly/)
 * [2023-06-01, 22:34:06](https://lobste.rs/s/haeryh/rtic_real_time_interrupt_driven) - [RTIC: Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [2023-06-01, 22:15:07](https://lobste.rs/s/wcklcd/sarif_static_analysis_results) - [SARIF: Static Analysis Results Interchange Format](https://sarifweb.azurewebsites.net/)
@@ -17,7 +18,6 @@
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/locking_war_story) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
 * [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
-* [2023-06-01, 13:19:44](https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure) - [Paired benchmarking: how to measure performance](https://www.bazhenov.me/posts/paired-benchmarking/)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
