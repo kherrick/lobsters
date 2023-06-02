@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-06-01, 22:15:07",
-      "https://lobste.rs/s/wcklcd/sarif_static_analysis_results"
-    ],
-    [
-      "SARIF: Static Analysis Results Interchange Format",
-      "https://sarifweb.azurewebsites.net/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 22:02:03",
       "https://lobste.rs/s/8f5phe/typst_compose_papers_faster"
     ],
@@ -97,6 +87,16 @@
     [
       "Announcing Rust 1.70.0",
       "https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 19:22:55",
+      "https://lobste.rs/s/ggewr2/porting_qt6_practice"
+    ],
+    [
+      "Porting to Qt6 in practice",
+      "https://rabbitictranslator.com/port-to-qt6/"
     ]
   ],
   [
