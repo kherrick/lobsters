@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-02, 09:18:30](https://lobste.rs/s/qwiube/all_businesses_should_afford_know_their) - [All businesses should afford to know that their website works](https://squidler.io/)
 * [2023-06-02, 07:00:14](https://lobste.rs/s/brupwe/keenwrite_3_3_1) - [KeenWrite 3.3.1](https://github.com/DaveJarvis/KeenWrite/releases/tag/3.3.1)
 * [2023-06-02, 06:34:03](https://lobste.rs/s/k1ohcn/ai_controlled_us_military_drone_kills_its) - [AI-controlled US military drone ‘kills’ its operator in simulated test](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test)
