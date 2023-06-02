@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-06-01, 19:22:55",
-      "https://lobste.rs/s/ggewr2/porting_qt6_practice"
-    ],
-    [
-      "Porting to Qt6 in practice",
-      "https://rabbitictranslator.com/port-to-qt6/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 18:59:10",
       "https://lobste.rs/s/e2joih/til_turbo_stream_broadcasting_needs"
     ],
@@ -177,6 +167,16 @@
     [
       "sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure",
       "https://github.com/sacredheartsc/selfhosted"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:19:44",
+      "https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure"
+    ],
+    [
+      "Paired benchmarking: how to measure performance",
+      "https://www.bazhenov.me/posts/paired-benchmarking/"
     ]
   ],
   [
