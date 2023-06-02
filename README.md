@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
 * [2023-06-02, 13:24:54](https://lobste.rs/s/vcorkp/go_away_muse_you_re_drunk_again_charlie_s) - [Go away, Muse, you're drunk (again) - Charlie's Diary](http://www.antipope.org/charlie/blog-static/2023/06/go-away-muse-youre-drunk-again.html)
 * [2023-06-02, 13:20:50](https://lobste.rs/s/d82hvg/sql_2023_is_out) - [SQL:2023 is out](https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out)
 * [2023-06-02, 12:40:46](https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use) - [Migrate away from data URLs in SVG <use> element](https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/)
@@ -9,7 +10,6 @@
 * [2023-06-02, 04:25:10](https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful) - [restful is antimemetic, or, the least successful thesis ever](https://cohost.org/tef/post/1601060-restful-is-antimemet)
 * [2023-06-02, 03:21:03](https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained) - [The RustConf Keynote Fiasco, explained](https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained)
 * [2023-06-02, 02:39:44](https://lobste.rs/s/j5nvbe/ar_glasses_usb_protocols_good_bad_ugly) - [AR glasses USB protocols: the Good, the Bad and the Ugly](https://voidcomputing.hu/blog/good-bad-ugly/)
-* [2023-06-01, 22:34:06](https://lobste.rs/s/haeryh/rtic_real_time_interrupt_driven) - [RTIC: Real-Time Interrupt-driven Concurrency](https://rtic.rs/)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:48:08](https://lobste.rs/s/lh7q98/on_software_dependency_engineering) - [On Software Dependency Engineering](https://hackmd.io/@cflewis/Sk0gb9ILh)
 * [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)
