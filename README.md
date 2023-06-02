@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-02, 11:06:16](https://lobste.rs/s/k6uxil/quitting_then_rejoining_stack_overflow) - [Quitting (And Then Rejoining) Stack Overflow](https://corecursive.com/stack-overflow/)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-02, 07:00:14](https://lobste.rs/s/brupwe/keenwrite_3_3_1) - [KeenWrite 3.3.1](https://github.com/DaveJarvis/KeenWrite/releases/tag/3.3.1)
 * [2023-06-02, 04:25:10](https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful) - [restful is antimemetic, or, the least successful thesis ever](https://cohost.org/tef/post/1601060-restful-is-antimemet)
@@ -18,7 +19,6 @@
 * [2023-06-01, 14:48:17](https://lobste.rs/s/4wdr9a/locking_war_story) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 14:06:48](https://lobste.rs/s/u8lgij/git_aliases) - [git-aliases](https://www.hschne.at/git-aliases/)
 * [2023-06-01, 13:20:43](https://lobste.rs/s/6r63sy/sacredheart_selfhosted_ansible) - [sacredheart-selfhosted: An ansible framework for all your self-hosted infrastructure](https://github.com/sacredheartsc/selfhosted)
-* [2023-06-01, 13:19:44](https://lobste.rs/s/x8aw1s/paired_benchmarking_how_measure) - [Paired benchmarking: how to measure performance](https://www.bazhenov.me/posts/paired-benchmarking/)
 * [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 12:06:52](https://lobste.rs/s/tc1abt/apache_opendal) - [Apache OpenDAL](https://opendal.apache.org/)
 * [2023-06-01, 11:10:05](https://lobste.rs/s/bykhdz/rust_assembly_understanding_inner) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
