@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-03, 23:46:56",
+      "https://lobste.rs/s/9shodq/plugins_case_study_envoy_wasm_extensions"
+    ],
+    [
+      "Plugins case study: Envoy WASM extensions",
+      "https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 23:45:06",
+      "https://lobste.rs/s/zftsuo/git_is_simply_too_hard"
+    ],
+    [
+      "Git is simply too hard",
+      "https://changelog.com/posts/git-is-simply-too-hard"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 22:21:25",
       "https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-02, 13:48:52",
-      "https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai"
-    ],
-    [
-      "Fun Format Friday: In another spacetime, AI has actually learned to program",
-      "https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 12:22:54",
       "https://lobste.rs/s/hjwidr/my_approach_building_large_technical"
     ],
@@ -237,16 +247,6 @@
     [
       "Typst: Compose papers faster",
       "https://typst.app/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 21:01:28",
-      "https://lobste.rs/s/owl4cg/announcing_rust_1_70_0"
-    ],
-    [
-      "Announcing Rust 1.70.0",
-      "https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html"
     ]
   ]
 ]
