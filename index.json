@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 05:49:49",
+      "https://lobste.rs/s/rvuw8d/nixos_for_impatient"
+    ],
+    [
+      "NixOS for the Impatient",
+      "https://borretti.me/article/nixos-for-the-impatient"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 05:14:33",
       "https://lobste.rs/s/mjhujr/expressivity_limitations_object"
     ],
@@ -167,16 +177,6 @@
     [
       "restful is antimemetic, or, the least successful thesis ever",
       "https://cohost.org/tef/post/1601060-restful-is-antimemet"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 03:21:03",
-      "https://lobste.rs/s/yixo3w/rustconf_keynote_fiasco_explained"
-    ],
-    [
-      "The RustConf Keynote Fiasco, explained",
-      "https://fasterthanli.me/articles/the-rustconf-keynote-fiasco-explained"
     ]
   ],
   [
