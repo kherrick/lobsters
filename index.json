@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 21:39:00",
+      "https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby"
+    ],
+    [
+      "rsh - Ruby SHell (a shell written in pure Ruby)",
+      "https://github.com/isene/rsh"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 20:18:25",
       "https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could"
     ],
@@ -147,16 +157,6 @@
     [
       "All Python versions, kept up-to-date on hourly basis using Nix",
       "https://github.com/cachix/nixpkgs-python"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 15:34:24",
-      "https://lobste.rs/s/h4qza7/language_modelling_first_100_years"
-    ],
-    [
-      "Language modelling: the first 100 years",
-      "https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5"
     ]
   ],
   [
