@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
 * [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
 * [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)

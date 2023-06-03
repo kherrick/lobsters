@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
 * [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
 * [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
@@ -21,7 +22,6 @@
 * [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
 * [2023-06-02, 13:20:50](https://lobste.rs/s/d82hvg/sql_2023_is_out) - [SQL:2023 is out](https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
-* [2023-06-02, 11:06:16](https://lobste.rs/s/k6uxil/quitting_then_rejoining_stack_overflow) - [Quitting (And Then Rejoining) Stack Overflow](https://corecursive.com/stack-overflow/)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
