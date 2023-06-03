@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 18:03:26",
+      "https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax"
+    ],
+    [
+      "PEP 695 – Type Parameter Syntax",
+      "https://peps.python.org/pep-0695/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 16:21:05",
       "https://lobste.rs/s/vwu83k/implementing_co_small_language_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Typst: Compose papers faster",
       "https://typst.app/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 21:21:44",
-      "https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types"
-    ],
-    [
-      "What Vale Taught Me About Linear Types, Borrowing, and Memory Safety",
-      "https://verdagon.dev/blog/linear-types-borrowing"
     ]
   ],
   [
