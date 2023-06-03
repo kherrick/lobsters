@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 15:22:50",
+      "https://lobste.rs/s/ybamfu/rce_via_ldap_truncation_on_hg_mozilla_org"
+    ],
+    [
+      "RCE via LDAP truncation on hg.mozilla.org",
+      "https://0day.click/recipe/pash/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 13:04:28",
       "https://lobste.rs/s/jpqz4b/why_how_hide_python_stack_trace"
     ],
@@ -187,16 +197,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 04:25:10",
-      "https://lobste.rs/s/ngiz7c/restful_is_antimemetic_least_successful"
-    ],
-    [
-      "restful is antimemetic, or, the least successful thesis ever",
-      "https://cohost.org/tef/post/1601060-restful-is-antimemet"
     ]
   ],
   [
