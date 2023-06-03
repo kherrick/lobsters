@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 04:15:26",
+      "https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect"
+    ],
+    [
+      "Peeking under the hood of GCC's `__builtin_expect` | Tudor Brindus",
+      "https://tbrindus.ca/how-builtin-expect-works/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 03:42:46",
       "https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology"
     ],
@@ -227,16 +237,6 @@
     [
       "Family Photos vs 256 Kb RAM",
       "https://laplab.me/posts/family-photos-vs-256-kb-ram/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 13:12:29",
-      "https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with"
-    ],
-    [
-      "Millions of PC Motherboards Were Sold With a Firmware Backdoor",
-      "https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/"
     ]
   ],
   [
