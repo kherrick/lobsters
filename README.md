@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 04:15:26](https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect) - [Peeking under the hood of GCC's `__builtin_expect` | Tudor Brindus](https://tbrindus.ca/how-builtin-expect-works/)
 * [2023-06-03, 03:42:46](https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology) - [GNU Grep versus the (Linux) open source ecology](https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology)
 * [2023-06-02, 15:48:08](https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly) - [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
@@ -23,7 +24,6 @@
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 * [2023-06-01, 17:10:01](https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
-* [2023-06-01, 13:12:29](https://lobste.rs/s/jo9mvl/millions_pc_motherboards_were_sold_with) - [Millions of PC Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 
 ## [Archives](archives/index.md)
