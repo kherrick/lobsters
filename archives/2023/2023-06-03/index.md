@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
 * [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
