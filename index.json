@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 03:42:46",
+      "https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology"
+    ],
+    [
+      "GNU Grep versus the (Linux) open source ecology",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 15:48:08",
       "https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly"
     ],
@@ -197,16 +207,6 @@
     [
       "Announcing Rust 1.70.0",
       "https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 18:00:13",
-      "https://lobste.rs/s/ge6afc/announcing_typescript_5_1"
-    ],
-    [
-      "Announcing TypeScript 5.1",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-1/"
     ]
   ],
   [
