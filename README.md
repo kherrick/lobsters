@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 13:04:28](https://lobste.rs/s/jpqz4b/why_how_hide_python_stack_trace) - [Why and how to hide the Python stack trace](https://bitecode.substack.com/p/why-and-how-to-hide-the-python-stack)
 * [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 * [2023-06-03, 08:13:07](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs) - [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 * [2023-06-03, 05:49:49](https://lobste.rs/s/rvuw8d/nixos_for_impatient) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
@@ -24,7 +25,6 @@
 * [2023-06-01, 21:21:44](https://lobste.rs/s/pcpvnw/what_vale_taught_me_about_linear_types) - [What Vale Taught Me About Linear Types, Borrowing, and Memory Safety](https://verdagon.dev/blog/linear-types-borrowing)
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 * [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
-* [2023-06-01, 06:57:06](https://lobste.rs/s/rnwf7j/nixos_23_05_released) - [NixOS 23.05 released](https://nixos.org/blog/announcements.html#nixos-23.05)
 
 ## [Archives](archives/index.md)
 
