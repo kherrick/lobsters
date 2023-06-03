@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 23:46:56](https://lobste.rs/s/9shodq/plugins_case_study_envoy_wasm_extensions) - [Plugins case study: Envoy WASM extensions](https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/)
+* [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)

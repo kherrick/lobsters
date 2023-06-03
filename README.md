@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 23:46:56](https://lobste.rs/s/9shodq/plugins_case_study_envoy_wasm_extensions) - [Plugins case study: Envoy WASM extensions](https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/)
+* [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
@@ -20,11 +22,9 @@
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
-* [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
-* [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
 
 ## [Archives](archives/index.md)
 
