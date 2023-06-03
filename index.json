@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 09:50:54",
+      "https://lobste.rs/s/emgzrz/using_fossil"
+    ],
+    [
+      "Using Fossil",
+      "https://wholesomedonut.prose.sh/using-fossil-not-git"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 08:13:07",
       "https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs"
     ],
@@ -87,16 +97,6 @@
     [
       "nuance: Nim untyped AST node generation at runtime with custom line info",
       "https://github.com/metagn/nuance"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 15:00:25",
-      "https://lobste.rs/s/mugzr4/this_month_with_nim_april_may_2023"
-    ],
-    [
-      "This Month with Nim: April and May 2023",
-      "https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html"
     ]
   ],
   [
