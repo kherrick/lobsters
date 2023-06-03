@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 05:14:33",
+      "https://lobste.rs/s/mjhujr/expressivity_limitations_object"
+    ],
+    [
+      "The Expressivity Limitations of Object-Oriented Programming",
+      "https://two-wrongs.com/expressive-limitations-of-oop"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 04:15:26",
       "https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing Rust 1.70.0",
       "https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 17:10:01",
-      "https://lobste.rs/s/dvtzfl/learn_x86_64_assembly_by_writing_gui_from"
-    ],
-    [
-      "Learn x86-64 assembly by writing a GUI from scratch",
-      "https://gaultier.github.io/blog/x11_x64.html"
     ]
   ],
   [
