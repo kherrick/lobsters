@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:22:50](https://lobste.rs/s/ybamfu/rce_via_ldap_truncation_on_hg_mozilla_org) - [RCE via LDAP truncation on hg.mozilla.org](https://0day.click/recipe/pash/)
 * [2023-06-03, 13:04:28](https://lobste.rs/s/jpqz4b/why_how_hide_python_stack_trace) - [Why and how to hide the Python stack trace](https://bitecode.substack.com/p/why-and-how-to-hide-the-python-stack)
 * [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
