@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 20:18:25](https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could) - [New macOS vulnerability, Migraine, could bypass System Integrity Protection](https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/)
 * [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
 * [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
@@ -15,7 +16,6 @@
 * [2023-06-03, 04:15:26](https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect) - [Peeking under the hood of GCC's `__builtin_expect`](https://tbrindus.ca/how-builtin-expect-works/)
 * [2023-06-03, 03:42:46](https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology) - [GNU Grep versus the (Linux) open source ecology](https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology)
 * [2023-06-02, 15:48:08](https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly) - [All Python versions, kept up-to-date on hourly basis using Nix](https://github.com/cachix/nixpkgs-python)
-* [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
