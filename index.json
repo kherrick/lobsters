@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 18:33:12",
+      "https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess"
+    ],
+    [
+      "Sean Taylor's notebooks are a mess",
+      "https://youtu.be/02rkpTou3fs"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 18:03:26",
       "https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax"
     ],
@@ -177,16 +187,6 @@
     [
       "SQL:2023 is out",
       "https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 12:40:46",
-      "https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use"
-    ],
-    [
-      "Migrate away from data URLs in SVG <use> element",
-      "https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/"
     ]
   ],
   [
