@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 * [2023-06-03, 16:21:05](https://lobste.rs/s/vwu83k/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
 * [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
@@ -18,7 +19,6 @@
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 * [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
 * [2023-06-02, 13:20:50](https://lobste.rs/s/d82hvg/sql_2023_is_out) - [SQL:2023 is out](https://peter.eisentraut.org/blog/2023/06/01/sql-2023-is-out)
-* [2023-06-02, 12:40:46](https://lobste.rs/s/rzushc/migrate_away_from_data_urls_svg_use) - [Migrate away from data URLs in SVG <use> element](https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 11:06:16](https://lobste.rs/s/k6uxil/quitting_then_rejoining_stack_overflow) - [Quitting (And Then Rejoining) Stack Overflow](https://corecursive.com/stack-overflow/)
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
