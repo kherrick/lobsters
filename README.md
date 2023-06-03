@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
 * [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 * [2023-06-03, 16:21:05](https://lobste.rs/s/vwu83k/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
@@ -24,7 +25,6 @@
 * [2023-06-02, 10:13:42](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hdxdx4/what_are_you_doing_this_weekend)
 * [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 * [2023-06-01, 21:01:28](https://lobste.rs/s/owl4cg/announcing_rust_1_70_0) - [Announcing Rust 1.70.0](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
-* [2023-06-01, 16:59:41](https://lobste.rs/s/ugssfv/family_photos_vs_256_kb_ram) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 
 ## [Archives](archives/index.md)
 

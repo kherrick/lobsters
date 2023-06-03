@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 19:45:48](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services) - [How do you find clients for your services](https://lobste.rs/s/peniah/how_do_you_find_clients_for_your_services)
 * [2023-06-03, 18:33:12](https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess) - [Sean Taylor's notebooks are a mess](https://youtu.be/02rkpTou3fs)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 * [2023-06-03, 16:21:05](https://lobste.rs/s/vwu83k/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
