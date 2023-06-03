@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 * [2023-06-03, 16:21:05](https://lobste.rs/s/vwu83k/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
 * [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:22:50](https://lobste.rs/s/ybamfu/rce_via_ldap_truncation_on_hg_mozilla_org) - [RCE via LDAP truncation on hg.mozilla.org](https://0day.click/recipe/pash/)
