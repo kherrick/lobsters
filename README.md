@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 * [2023-06-03, 08:13:07](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs) - [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 * [2023-06-03, 05:49:49](https://lobste.rs/s/rvuw8d/nixos_for_impatient) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-03, 05:14:33](https://lobste.rs/s/mjhujr/expressivity_limitations_object) - [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop)
@@ -9,7 +10,6 @@
 * [2023-06-02, 15:34:24](https://lobste.rs/s/h4qza7/language_modelling_first_100_years) - [Language modelling: the first 100 years](https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148?gi=cb378c952db5)
 * [2023-06-02, 15:22:20](https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-02, 15:18:06](https://lobste.rs/s/g0nsun/nuance_nim_untyped_ast_node_generation_at) - [nuance: Nim untyped AST node generation at runtime with custom line info](https://github.com/metagn/nuance)
-* [2023-06-02, 15:00:25](https://lobste.rs/s/mugzr4/this_month_with_nim_april_may_2023) - [This Month with Nim: April and May 2023](https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html)
 * [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 * [2023-06-02, 13:48:52](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai) - [Fun Format Friday: In another spacetime, AI has actually learned to program](https://lobste.rs/s/nfvwop/fun_format_friday_another_spacetime_ai)
