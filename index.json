@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-04, 13:32:59",
+      "https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it"
+    ],
+    [
+      "Anything can be a message queue if you use it wrongly enough",
+      "https://xeiaso.net/blog/anything-message-queue"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 12:56:02",
       "https://lobste.rs/s/pkvvne/making_plan"
     ],
@@ -227,16 +237,6 @@
     [
       "Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme",
       "https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 14:34:39",
-      "https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023"
-    ],
-    [
-      "Important change for the .ga TLD 6th june 2023",
-      "https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html"
     ]
   ],
   [
