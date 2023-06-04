@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-04, 20:18:35",
+      "https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized"
+    ],
+    [
+      "How one of Vladimir Putin’s most prized hacking units got pwned by the FBI",
+      "https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 18:06:34",
       "https://lobste.rs/s/v6nddh/rrr_succinct_rank_select_index_for_bit"
     ],
@@ -237,16 +247,6 @@
     [
       "The Expressivity Limitations of Object-Oriented Programming",
       "https://two-wrongs.com/expressive-limitations-of-oop"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 04:15:26",
-      "https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect"
-    ],
-    [
-      "Peeking under the hood of GCC's `__builtin_expect`",
-      "https://tbrindus.ca/how-builtin-expect-works/"
     ]
   ]
 ]
