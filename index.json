@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-04, 21:43:15",
+      "https://lobste.rs/s/zzrwr0/blink_1_0"
+    ],
+    [
+      "Blink 1.0",
+      "https://github.com/jart/blink/releases/tag/1.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 21:42:09",
+      "https://lobste.rs/s/1uixca/developing_qemu_on_asahi_linux_arm"
+    ],
+    [
+      "Developing QEMU on Asahi Linux (or Arm in general)",
+      "https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 20:18:35",
       "https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-06-03, 20:18:25",
-      "https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could"
-    ],
-    [
-      "New macOS vulnerability, Migraine, could bypass System Integrity Protection",
-      "https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 18:33:12",
       "https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess"
     ],
@@ -227,16 +237,6 @@
     [
       "The NixOS Foundation's Call to Action: S3 Costs Require Community Support",
       "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 05:49:49",
-      "https://lobste.rs/s/rvuw8d/nixos_for_impatient"
-    ],
-    [
-      "NixOS for the Impatient",
-      "https://borretti.me/article/nixos-for-the-impatient"
     ]
   ],
   [
