@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-04, 14:20:10",
+      "https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic"
+    ],
+    [
+      "Notes on std::optional’s monadic operations",
+      "https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 13:46:29",
       "https://lobste.rs/s/0narkq/large_sequence_models_for_software"
     ],
@@ -227,16 +237,6 @@
     [
       "Peeking under the hood of GCC's `__builtin_expect`",
       "https://tbrindus.ca/how-builtin-expect-works/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 03:42:46",
-      "https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology"
-    ],
-    [
-      "GNU Grep versus the (Linux) open source ecology",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology"
     ]
   ],
   [
