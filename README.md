@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-04, 23:04:37](https://lobste.rs/s/62jime/book_review_applied_math_for_security) - [Book review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:46:03](https://lobste.rs/s/yiylp3/haskell_unfolder_episode_4_falsify) - [The Haskell Unfolder Episode 4: falsify](https://www.youtube.com/watch?v=N0d7_MJmsKQ&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7&index=6)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 * [2023-06-04, 21:42:09](https://lobste.rs/s/1uixca/developing_qemu_on_asahi_linux_arm) - [Developing QEMU on Asahi Linux (or Arm in general)](https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html)
@@ -24,7 +25,6 @@
 * [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 * [2023-06-03, 08:13:07](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs) - [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
-* [2023-06-03, 05:14:33](https://lobste.rs/s/mjhujr/expressivity_limitations_object) - [The Expressivity Limitations of Object-Oriented Programming](https://two-wrongs.com/expressive-limitations-of-oop)
 
 ## [Archives](archives/index.md)
 

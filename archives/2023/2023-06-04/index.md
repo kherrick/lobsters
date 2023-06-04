@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 23:04:37](https://lobste.rs/s/62jime/book_review_applied_math_for_security) - [Book review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:46:03](https://lobste.rs/s/yiylp3/haskell_unfolder_episode_4_falsify) - [The Haskell Unfolder Episode 4: falsify](https://www.youtube.com/watch?v=N0d7_MJmsKQ&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7&index=6)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 * [2023-06-04, 21:42:09](https://lobste.rs/s/1uixca/developing_qemu_on_asahi_linux_arm) - [Developing QEMU on Asahi Linux (or Arm in general)](https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html)
