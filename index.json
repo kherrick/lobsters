@@ -2,10 +2,10 @@
   [
     [
       "2023-06-04, 10:54:30",
-      "https://lobste.rs/s/zyidtw/writing_hypervisor_vmm_python"
+      "https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python"
     ],
     [
-      "Writing a hypervisor VMM in Python",
+      "Writing a KVM hypervisor VMM in Python",
       "https://www.devever.net/~hl/kvm"
     ]
   ],
