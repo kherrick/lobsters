@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 20:18:35](https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized) - [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)
 * [2023-06-04, 18:06:34](https://lobste.rs/s/v6nddh/rrr_succinct_rank_select_index_for_bit) - [RRR: A Succinct Rank/Select Index for Bit Vectors](https://www.alexbowe.com/rrr/)
 * [2023-06-04, 15:55:18](https://lobste.rs/s/etdywq/higher_order_data_parallel_structured) - [Higher-Order, Data-Parallel Structured Deduction](https://arxiv.org/pdf/2211.11573.pdf)
 * [2023-06-04, 14:22:41](https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
