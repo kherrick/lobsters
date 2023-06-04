@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-06-03, 20:18:25",
+      "https://lobste.rs/s/jyzin6/new_macos_vulnerability_migraine_could"
+    ],
+    [
+      "New macOS vulnerability, Migraine, could bypass System Integrity Protection",
+      "https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 18:33:12",
       "https://lobste.rs/s/8ksvud/sean_taylor_s_notebooks_are_mess"
     ],
@@ -207,16 +217,6 @@
     [
       "This Site is no longer Solar Powered... For Now",
       "https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 15:22:50",
-      "https://lobste.rs/s/ybamfu/rce_via_ldap_truncation_on_hg_mozilla_org"
-    ],
-    [
-      "RCE via LDAP truncation on hg.mozilla.org",
-      "https://0day.click/recipe/pash/"
     ]
   ],
   [
