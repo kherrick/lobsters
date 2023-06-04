@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-04, 10:54:30",
+      "https://lobste.rs/s/zyidtw/writing_hypervisor_vmm_python"
+    ],
+    [
+      "Writing a hypervisor VMM in Python",
+      "https://www.devever.net/~hl/kvm"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 10:50:02",
+      "https://lobste.rs/s/soueys/fine_tune_llama_speak_like_homer_simpson"
+    ],
+    [
+      "Fine-tune LLaMA to speak like Homer Simpson",
+      "https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 08:11:06",
       "https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-02, 15:48:08",
-      "https://lobste.rs/s/swv6rl/all_python_versions_kept_up_date_on_hourly"
-    ],
-    [
-      "All Python versions, kept up-to-date on hourly basis using Nix",
-      "https://github.com/cachix/nixpkgs-python"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 15:22:20",
       "https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for"
     ],
@@ -237,16 +247,6 @@
     [
       "My Approach to Building Large Technical Projects",
       "https://mitchellh.com/writing/building-large-technical-projects"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 22:02:03",
-      "https://lobste.rs/s/8f5phe/typst_compose_papers_faster"
-    ],
-    [
-      "Typst: Compose papers faster",
-      "https://typst.app/"
     ]
   ]
 ]
