@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-04, 18:06:34",
+      "https://lobste.rs/s/v6nddh/rrr_succinct_rank_select_index_for_bit"
+    ],
+    [
+      "RRR: A Succinct Rank/Select Index for Bit Vectors",
+      "https://www.alexbowe.com/rrr/"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 15:55:18",
       "https://lobste.rs/s/etdywq/higher_order_data_parallel_structured"
     ],
@@ -237,16 +247,6 @@
     [
       "Peeking under the hood of GCC's `__builtin_expect`",
       "https://tbrindus.ca/how-builtin-expect-works/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 14:44:22",
-      "https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui"
-    ],
-    [
-      "Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme",
-      "https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/"
     ]
   ]
 ]
