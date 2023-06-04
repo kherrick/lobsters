@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-04, 08:11:06](https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art) - [RASCII: An advanced image to ASCII art generator tool & crate written in Rust](https://github.com/UTFeight/RASCII)
 * [2023-06-04, 07:01:21](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-03, 23:46:56](https://lobste.rs/s/9shodq/plugins_case_study_envoy_wasm_extensions) - [Plugins case study: Envoy WASM extensions](https://eli.thegreenplace.net/2023/plugins-case-study-envoy-wasm-extensions/)
 * [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
@@ -24,7 +25,6 @@
 * [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
 * [2023-06-02, 14:34:39](https://lobste.rs/s/sz6toy/important_change_for_ga_tld_6th_june_2023) - [Important change for the .ga TLD 6th june 2023](https://lists.dns-oarc.net/pipermail/dns-operations/2023-June/022045.html)
 * [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
-* [2023-06-01, 22:02:03](https://lobste.rs/s/8f5phe/typst_compose_papers_faster) - [Typst: Compose papers faster](https://typst.app/)
 
 ## [Archives](archives/index.md)
 
