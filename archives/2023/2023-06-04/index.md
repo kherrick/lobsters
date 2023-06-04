@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 13:46:29](https://lobste.rs/s/0narkq/large_sequence_models_for_software) - [Large sequence models for software development activities](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 12:56:02](https://lobste.rs/s/pkvvne/making_plan) - [Making a plan](https://registerspill.thorstenball.com/p/making-a-plan)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)

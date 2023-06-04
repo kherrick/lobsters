@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-04, 13:46:29](https://lobste.rs/s/0narkq/large_sequence_models_for_software) - [Large sequence models for software development activities](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 12:56:02](https://lobste.rs/s/pkvvne/making_plan) - [Making a plan](https://registerspill.thorstenball.com/p/making-a-plan)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
@@ -24,7 +25,6 @@
 * [2023-06-03, 04:15:26](https://lobste.rs/s/vesyzf/peeking_under_hood_gcc_s_builtin_expect) - [Peeking under the hood of GCC's `__builtin_expect`](https://tbrindus.ca/how-builtin-expect-works/)
 * [2023-06-03, 03:42:46](https://lobste.rs/s/ve5ef0/gnu_grep_versus_linux_open_source_ecology) - [GNU Grep versus the (Linux) open source ecology](https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology)
 * [2023-06-02, 14:44:22](https://lobste.rs/s/lj42nc/nice_looking_gui_for_common_lisp_nodgui) - [Nice looking GUI for Common Lisp: nodgui now comes with a surprisingly nice looking theme](https://lisp-journey.gitlab.io/blog/nodgui-now-has-a-nice-looking-theme-by-default/)
-* [2023-06-02, 12:22:54](https://lobste.rs/s/hjwidr/my_approach_building_large_technical) - [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 
 ## [Archives](archives/index.md)
 
