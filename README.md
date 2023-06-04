@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-04, 15:55:18](https://lobste.rs/s/etdywq/higher_order_data_parallel_structured) - [Higher-Order, Data-Parallel Structured Deduction](https://arxiv.org/pdf/2211.11573.pdf)
 * [2023-06-04, 14:22:41](https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:20:10](https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic) - [Notes on std::optional’s monadic operations](https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/)
 * [2023-06-04, 13:46:29](https://lobste.rs/s/0narkq/large_sequence_models_for_software) - [Large sequence models for software development activities](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
@@ -18,7 +19,6 @@
 * [2023-06-03, 16:21:05](https://lobste.rs/s/vwu83k/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #4: Adding Channels](https://abhinavsarkar.net/posts/implementing-co-4/)
 * [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:22:50](https://lobste.rs/s/ybamfu/rce_via_ldap_truncation_on_hg_mozilla_org) - [RCE via LDAP truncation on hg.mozilla.org](https://0day.click/recipe/pash/)
-* [2023-06-03, 13:04:28](https://lobste.rs/s/jpqz4b/why_how_hide_python_stack_trace) - [Why and how to hide the Python stack trace](https://bitecode.substack.com/p/why-and-how-to-hide-the-python-stack)
 * [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 * [2023-06-03, 08:13:07](https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs) - [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 * [2023-06-03, 05:49:49](https://lobste.rs/s/rvuw8d/nixos_for_impatient) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
