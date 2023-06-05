@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 07:23:57](https://lobste.rs/s/itndb2/can_ai_code) - [Can Ai Code?](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 * [2023-06-05, 07:12:15](https://lobste.rs/s/kb70jw/dear_stack_overflow_inc) - [Dear Stack Overflow, Inc](https://openletter.mousetail.nl/)
