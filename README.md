@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 07:23:57](https://lobste.rs/s/itndb2/can_ai_code) - [Can Ai Code?](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 * [2023-06-05, 07:12:15](https://lobste.rs/s/kb70jw/dear_stack_overflow_inc) - [Dear Stack Overflow, Inc](https://openletter.mousetail.nl/)
 * [2023-06-05, 06:42:46](https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you) - [Why it can be a good idea to say \"Thank You\" to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
@@ -24,7 +25,6 @@
 * [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
-* [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 
 ## [Archives](archives/index.md)
 
