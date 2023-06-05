@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 * [2023-06-05, 16:17:09](https://lobste.rs/s/fb1khu/building_programming_language_twenty) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 15:16:15](https://lobste.rs/s/98x6xu/adventures_writing_chip8_emulator_part_1) - [The Adventures of Writing a CHIP8 Emulator - Part 1](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)
@@ -24,7 +25,6 @@
 * [2023-06-04, 20:18:35](https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized) - [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
-* [2023-06-04, 07:01:21](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 
 ## [Archives](archives/index.md)
 
