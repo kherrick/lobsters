@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-05, 00:03:10](https://lobste.rs/s/gdpvzw/beyond_turing_test) - [Beyond the Turing test](https://loveofallwisdom.com/blog/2023/06/beyond-the-turing-test/)
 * [2023-06-04, 23:04:37](https://lobste.rs/s/62jime/book_review_applied_math_for_security) - [Book review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
@@ -11,7 +12,6 @@
 * [2023-06-04, 15:55:18](https://lobste.rs/s/etdywq/higher_order_data_parallel_structured) - [Higher-Order, Data-Parallel Structured Deduction](https://arxiv.org/pdf/2211.11573.pdf)
 * [2023-06-04, 14:22:41](https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:20:10](https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic) - [Notes on std::optional’s monadic operations](https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/)
-* [2023-06-04, 13:46:29](https://lobste.rs/s/0narkq/large_sequence_models_for_software) - [Large sequence models for software development activities](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
 * [2023-06-04, 10:50:02](https://lobste.rs/s/soueys/fine_tune_llama_speak_like_homer_simpson) - [Fine-tune LLaMA to speak like Homer Simpson](https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson)
