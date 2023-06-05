@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-06-05, 06:42:46",
-      "https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you"
-    ],
-    [
-      "Why it can be a good idea to say \"Thank You\" to ChatGPT",
-      "https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 05:11:31",
       "https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem"
     ],
@@ -147,6 +137,16 @@
     [
       "Higher-Order, Data-Parallel Structured Deduction",
       "https://arxiv.org/pdf/2211.11573.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 14:22:41",
+      "https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator"
+    ],
+    [
+      "A not-so-quick introduction to the C++ allocator model",
+      "https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/"
     ]
   ],
   [
