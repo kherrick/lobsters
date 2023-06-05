@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 14:11:06](https://lobste.rs/s/9wrpj0/what_are_embeddings) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-05, 14:09:37](https://lobste.rs/s/co4wfb/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
