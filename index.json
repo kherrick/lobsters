@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-05, 15:16:15",
+      "https://lobste.rs/s/98x6xu/adventures_writing_chip8_emulator_part_1"
+    ],
+    [
+      "The Adventures of Writing a CHIP8 Emulator - Part 1",
+      "https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 15:10:54",
+      "https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com"
+    ],
+    [
+      "TIL: Deploying a Sinatra app to Render.com",
+      "https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 15:02:07",
       "https://lobste.rs/s/xtt6t9/cane_lang_funky_programming_language"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2023-06-05, 07:23:57",
-      "https://lobste.rs/s/itndb2/can_ai_code"
-    ],
-    [
-      "Can Ai Code?",
-      "https://huggingface.co/spaces/mike-ravkine/can-ai-code-results"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 05:11:31",
       "https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem"
     ],
     [
       "MXRoute Mail Server Outage Postmortem",
       "https://mxbin.io/2DGJex"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 03:12:50",
-      "https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial"
-    ],
-    [
-      "NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang",
-      "https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA"
     ]
   ],
   [
