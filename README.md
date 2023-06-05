@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 15:02:07](https://lobste.rs/s/xtt6t9/cane_lang_funky_programming_language) - [cane-lang: A funky programming language made in 24 hours](https://sr.ht/~fd/cane-lang/)
 * [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 14:11:06](https://lobste.rs/s/9wrpj0/what_are_embeddings) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
@@ -24,7 +25,6 @@
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
 * [2023-06-04, 07:01:21](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard_2020) - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard)
-* [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 
 ## [Archives](archives/index.md)
 
