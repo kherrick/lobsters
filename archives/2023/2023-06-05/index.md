@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 07:23:57](https://lobste.rs/s/itndb2/can_ai_code) - [Can Ai Code?](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 * [2023-06-05, 07:12:15](https://lobste.rs/s/kb70jw/dear_stack_overflow_inc) - [Dear Stack Overflow, Inc](https://openletter.mousetail.nl/)
 * [2023-06-05, 06:42:46](https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you) - [Why it can be a good idea to say \"Thank You\" to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)

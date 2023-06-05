@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 07:23:57](https://lobste.rs/s/itndb2/can_ai_code) - [Can Ai Code?](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 * [2023-06-05, 07:12:15](https://lobste.rs/s/kb70jw/dear_stack_overflow_inc) - [Dear Stack Overflow, Inc](https://openletter.mousetail.nl/)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
@@ -14,7 +15,6 @@
 * [2023-06-04, 20:18:35](https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized) - [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)
 * [2023-06-04, 18:06:34](https://lobste.rs/s/v6nddh/rrr_succinct_rank_select_index_for_bit) - [RRR: A Succinct Rank/Select Index for Bit Vectors](https://www.alexbowe.com/rrr/)
 * [2023-06-04, 15:55:18](https://lobste.rs/s/etdywq/higher_order_data_parallel_structured) - [Higher-Order, Data-Parallel Structured Deduction](https://arxiv.org/pdf/2211.11573.pdf)
-* [2023-06-04, 14:22:41](https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:20:10](https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic) - [Notes on std::optional’s monadic operations](https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
