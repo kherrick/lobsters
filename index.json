@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 05:11:31",
+      "https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem"
+    ],
+    [
+      "MXRoute Mail Server Outage Postmortem",
+      "https://mxbin.io/2DGJex"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 03:12:50",
       "https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial"
     ],
@@ -237,16 +247,6 @@
     [
       "Using Fossil",
       "https://wholesomedonut.prose.sh/using-fossil-not-git"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 08:13:07",
-      "https://lobste.rs/s/yvkdmy/nixos_foundation_s_call_action_s3_costs"
-    ],
-    [
-      "The NixOS Foundation's Call to Action: S3 Costs Require Community Support",
-      "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672"
     ]
   ]
 ]
