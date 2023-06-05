@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
+* [2023-06-05, 11:40:19](https://lobste.rs/s/ivjmgy/practicing_statistics_with_common_lisp) - [Practicing Statistics with Common Lisp - IPS9, Chapter 1](https://github.com/Lisp-Stat/IPS9/blob/master/notebooks/Part%20I/Chapter%201%20Looking%20at%20Data.ipynb)
 * [2023-06-05, 10:40:16](https://lobste.rs/s/lao3oh/css_nesting) - [CSS Nesting](https://robinrendle.com/notes/css-nesting/)
 * [2023-06-05, 10:15:31](https://lobste.rs/s/wga1dg/socialized_proof_work) - [Socialized Proof of Work](https://blog.erlend.sh/socialized-proof-of-work)
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
@@ -14,7 +16,6 @@
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 * [2023-06-04, 21:42:09](https://lobste.rs/s/1uixca/developing_qemu_on_asahi_linux_arm) - [Developing QEMU on Asahi Linux (or Arm in general)](https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html)
 * [2023-06-04, 20:18:35](https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized) - [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)
-* [2023-06-04, 18:06:34](https://lobste.rs/s/v6nddh/rrr_succinct_rank_select_index_for_bit) - [RRR: A Succinct Rank/Select Index for Bit Vectors](https://www.alexbowe.com/rrr/)
 * [2023-06-04, 15:55:18](https://lobste.rs/s/etdywq/higher_order_data_parallel_structured) - [Higher-Order, Data-Parallel Structured Deduction](https://arxiv.org/pdf/2211.11573.pdf)
 * [2023-06-04, 14:20:10](https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic) - [Notes on std::optional’s monadic operations](https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
@@ -24,7 +25,6 @@
 * [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard_2020) - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
-* [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
 
 ## [Archives](archives/index.md)
 

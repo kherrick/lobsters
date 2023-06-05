@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
+* [2023-06-05, 11:40:19](https://lobste.rs/s/ivjmgy/practicing_statistics_with_common_lisp) - [Practicing Statistics with Common Lisp - IPS9, Chapter 1](https://github.com/Lisp-Stat/IPS9/blob/master/notebooks/Part%20I/Chapter%201%20Looking%20at%20Data.ipynb)
 * [2023-06-05, 10:40:16](https://lobste.rs/s/lao3oh/css_nesting) - [CSS Nesting](https://robinrendle.com/notes/css-nesting/)
 * [2023-06-05, 10:15:31](https://lobste.rs/s/wga1dg/socialized_proof_work) - [Socialized Proof of Work](https://blog.erlend.sh/socialized-proof-of-work)
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
