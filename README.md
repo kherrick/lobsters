@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 10:40:16](https://lobste.rs/s/lao3oh/css_nesting) - [CSS Nesting](https://robinrendle.com/notes/css-nesting/)
 * [2023-06-05, 10:15:31](https://lobste.rs/s/wga1dg/socialized_proof_work) - [Socialized Proof of Work](https://blog.erlend.sh/socialized-proof-of-work)
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
@@ -9,7 +10,6 @@
 * [2023-06-05, 03:12:50](https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial) - [NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
-* [2023-06-05, 00:03:10](https://lobste.rs/s/gdpvzw/beyond_turing_test) - [Beyond the Turing test](https://loveofallwisdom.com/blog/2023/06/beyond-the-turing-test/)
 * [2023-06-04, 22:46:03](https://lobste.rs/s/yiylp3/haskell_unfolder_episode_4_falsify) - [The Haskell Unfolder Episode 4: falsify](https://www.youtube.com/watch?v=N0d7_MJmsKQ&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7&index=6)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 * [2023-06-04, 21:42:09](https://lobste.rs/s/1uixca/developing_qemu_on_asahi_linux_arm) - [Developing QEMU on Asahi Linux (or Arm in general)](https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html)
