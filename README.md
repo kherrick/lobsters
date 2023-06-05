@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 07:12:15](https://lobste.rs/s/kb70jw/dear_stack_overflow_inc) - [Dear Stack Overflow, Inc](https://openletter.mousetail.nl/)
 * [2023-06-05, 06:42:46](https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you) - [Why it can be a good idea to say \"Thank You\" to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
 * [2023-06-05, 03:12:50](https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial) - [NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
@@ -17,7 +18,6 @@
 * [2023-06-04, 14:20:10](https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic) - [Notes on std::optional’s monadic operations](https://mariusbancila.ro/blog/2023/05/29/notes-on-std-optional-monadic-operations/)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
-* [2023-06-04, 10:50:02](https://lobste.rs/s/soueys/fine_tune_llama_speak_like_homer_simpson) - [Fine-tune LLaMA to speak like Homer Simpson](https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson)
 * [2023-06-04, 08:11:06](https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art) - [RASCII: An advanced image to ASCII art generator tool & crate written in Rust](https://github.com/UTFeight/RASCII)
 * [2023-06-04, 07:01:21](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard_2020) - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard)
