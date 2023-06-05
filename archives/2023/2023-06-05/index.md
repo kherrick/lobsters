@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 19:50:18](https://lobste.rs/s/awegaq/ocaml_programming_correct_efficient) - [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
 * [2023-06-05, 19:19:21](https://lobste.rs/s/epjc4d/introducing_apple_vision_pro_apple_s) - [Introducing Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 17:19:23](https://lobste.rs/s/vok2pm/falcon_has_landed_hugging_face_ecosystem) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
