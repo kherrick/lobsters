@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-06-04, 14:22:41",
-      "https://lobste.rs/s/trh2xe/not_so_quick_introduction_c_allocator"
-    ],
-    [
-      "A not-so-quick introduction to the C++ allocator model",
-      "https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 14:20:10",
       "https://lobste.rs/s/39qubb/notes_on_std_optional_s_monadic"
     ],
@@ -247,6 +237,16 @@
     [
       "PEP 695 – Type Parameter Syntax",
       "https://peps.python.org/pep-0695/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 09:50:54",
+      "https://lobste.rs/s/emgzrz/using_fossil"
+    ],
+    [
+      "Using Fossil",
+      "https://wholesomedonut.prose.sh/using-fossil-not-git"
     ]
   ]
 ]
