@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 07:12:15",
+      "https://lobste.rs/s/kb70jw/dear_stack_overflow_inc"
+    ],
+    [
+      "Dear Stack Overflow, Inc",
+      "https://openletter.mousetail.nl/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 06:42:46",
       "https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you"
     ],
@@ -167,16 +177,6 @@
     [
       "Writing a KVM hypervisor VMM in Python",
       "https://www.devever.net/~hl/kvm"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 10:50:02",
-      "https://lobste.rs/s/soueys/fine_tune_llama_speak_like_homer_simpson"
-    ],
-    [
-      "Fine-tune LLaMA to speak like Homer Simpson",
-      "https://replicate.com/blog/fine-tune-llama-to-speak-like-homer-simpson"
     ]
   ],
   [
