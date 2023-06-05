@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 17:19:23",
+      "https://lobste.rs/s/vok2pm/falcon_has_landed_hugging_face_ecosystem"
+    ],
+    [
+      "The Falcon has landed in the Hugging Face ecosystem",
+      "https://huggingface.co/blog/falcon"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 17:01:26",
       "https://lobste.rs/s/cajomt/what_are_you_doing_this_week"
     ],
@@ -177,16 +187,6 @@
     [
       "MXRoute Mail Server Outage Postmortem",
       "https://mxbin.io/2DGJex"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 03:12:50",
-      "https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial"
-    ],
-    [
-      "NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang",
-      "https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA"
     ]
   ],
   [
