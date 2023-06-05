@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 14:11:06](https://lobste.rs/s/9wrpj0/what_are_embeddings) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
+* [2023-06-05, 14:09:37](https://lobste.rs/s/co4wfb/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
+* [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 13:29:36](https://lobste.rs/s/pojjt7/stack_exchange_moderators_are_going_on) - [Stack Exchange moderators are going on strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 * [2023-06-05, 12:21:17](https://lobste.rs/s/rhklir/why_did_usenet_fail_terence_eden_s_blog) - [Why did Usenet fail? – Terence Eden’s Blog](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 12:21:17](https://lobste.rs/s/rhklir/why_did_usenet_fail) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
