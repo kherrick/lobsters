@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-05, 14:11:06",
+      "https://lobste.rs/s/9wrpj0/what_are_embeddings"
+    ],
+    [
+      "What are embeddings?",
+      "https://vickiboykis.com/what_are_embeddings/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 14:09:37",
+      "https://lobste.rs/s/co4wfb/effective_rust"
+    ],
+    [
+      "Effective Rust",
+      "https://www.lurklurk.org/effective-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 13:59:03",
+      "https://lobste.rs/s/9bz6bl/wwdc_2023"
+    ],
+    [
+      "WWDC 2023",
+      "https://www.apple.com/apple-events/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 13:29:36",
       "https://lobste.rs/s/pojjt7/stack_exchange_moderators_are_going_on"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-06-04, 22:46:03",
-      "https://lobste.rs/s/yiylp3/haskell_unfolder_episode_4_falsify"
-    ],
-    [
-      "The Haskell Unfolder Episode 4: falsify",
-      "https://www.youtube.com/watch?v=N0d7_MJmsKQ&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7&index=6"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 21:43:15",
       "https://lobste.rs/s/zzrwr0/blink_1_0"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-04, 08:11:06",
-      "https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art"
-    ],
-    [
-      "RASCII: An advanced image to ASCII art generator tool & crate written in Rust",
-      "https://github.com/UTFeight/RASCII"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 07:01:21",
       "https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python"
     ],
@@ -227,16 +237,6 @@
     [
       "Git is simply too hard (2020)",
       "https://changelog.com/posts/git-is-simply-too-hard"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 22:21:25",
-      "https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100"
-    ],
-    [
-      "I Hacked Magic the Gathering: Arena for a 100% Winrate",
-      "https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/"
     ]
   ],
   [
