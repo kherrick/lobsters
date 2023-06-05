@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 15:16:15](https://lobste.rs/s/98x6xu/adventures_writing_chip8_emulator_part_1) - [The Adventures of Writing a CHIP8 Emulator - Part 1](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)
+* [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
 * [2023-06-05, 15:02:07](https://lobste.rs/s/xtt6t9/cane_lang_funky_programming_language) - [cane-lang: A funky programming language made in 24 hours](https://sr.ht/~fd/cane-lang/)
 * [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
