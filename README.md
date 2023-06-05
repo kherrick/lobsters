@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 19:19:21](https://lobste.rs/s/epjc4d/introducing_apple_vision_pro_apple_s) - [Introducing Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 17:19:23](https://lobste.rs/s/vok2pm/falcon_has_landed_hugging_face_ecosystem) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
@@ -18,7 +19,6 @@
 * [2023-06-05, 10:15:31](https://lobste.rs/s/wga1dg/socialized_proof_work) - [Socialized Proof of Work](https://blog.erlend.sh/socialized-proof-of-work)
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
-* [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
