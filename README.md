@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 06:42:46](https://lobste.rs/s/odfjse/why_it_can_be_good_idea_say_thank_you) - [Why it can be a good idea to say \"Thank You\" to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
 * [2023-06-05, 03:12:50](https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial) - [NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
@@ -23,7 +24,6 @@
 * [2023-06-03, 22:21:25](https://lobste.rs/s/lv0i1i/i_hacked_magic_gathering_arena_for_100) - [I Hacked Magic the Gathering: Arena for a 100% Winrate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
 * [2023-06-03, 21:39:00](https://lobste.rs/s/dvk0cl/rsh_ruby_shell_shell_written_pure_ruby) - [rsh - Ruby SHell (a shell written in pure Ruby)](https://github.com/isene/rsh)
 * [2023-06-03, 18:03:26](https://lobste.rs/s/ptdnnm/pep_695_type_parameter_syntax) - [PEP 695 – Type Parameter Syntax](https://peps.python.org/pep-0695/)
-* [2023-06-03, 16:03:22](https://lobste.rs/s/pexsm4/this_site_is_no_longer_solar_powered_for) - [This Site is no longer Solar Powered... For Now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 09:50:54](https://lobste.rs/s/emgzrz/using_fossil) - [Using Fossil](https://wholesomedonut.prose.sh/using-fossil-not-git)
 
 ## [Archives](archives/index.md)
