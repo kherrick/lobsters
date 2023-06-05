@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 16:17:09](https://lobste.rs/s/fb1khu/building_programming_language_twenty) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 15:16:15](https://lobste.rs/s/98x6xu/adventures_writing_chip8_emulator_part_1) - [The Adventures of Writing a CHIP8 Emulator - Part 1](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)
 * [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
-* [2023-06-05, 15:02:07](https://lobste.rs/s/xtt6t9/cane_lang_funky_programming_language) - [cane-lang: A funky programming language made in 24 hours](https://sr.ht/~fd/cane-lang/)
 * [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 14:11:06](https://lobste.rs/s/9wrpj0/what_are_embeddings) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
@@ -16,6 +16,7 @@
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
+* [2023-06-05, 03:12:50](https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial) - [NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
@@ -24,7 +25,6 @@
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 10:54:30](https://lobste.rs/s/zyidtw/writing_kvm_hypervisor_vmm_python) - [Writing a KVM hypervisor VMM in Python](https://www.devever.net/~hl/kvm)
 * [2023-06-04, 07:01:21](https://lobste.rs/s/xbxjuo/proposing_struct_syntax_for_python) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
-* [2023-06-03, 23:45:06](https://lobste.rs/s/zftsuo/git_is_simply_too_hard_2020) - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard)
 
 ## [Archives](archives/index.md)
 
