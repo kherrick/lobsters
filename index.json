@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-06-05, 07:12:15",
-      "https://lobste.rs/s/kb70jw/dear_stack_overflow_inc"
-    ],
-    [
-      "Dear Stack Overflow, Inc",
-      "https://openletter.mousetail.nl/"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 05:11:31",
       "https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem"
     ],
@@ -207,6 +197,16 @@
     [
       "Writing a KVM hypervisor VMM in Python",
       "https://www.devever.net/~hl/kvm"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 08:11:06",
+      "https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art"
+    ],
+    [
+      "RASCII: An advanced image to ASCII art generator tool & crate written in Rust",
+      "https://github.com/UTFeight/RASCII"
     ]
   ],
   [
