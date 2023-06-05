@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 21:32:04](https://lobste.rs/s/6oojxm/counting_unique_visitors_without_using) - [Counting unique visitors without using cookies, UIDs or fingerprinting](https://notes.normally.com/cookieless-unique-visitor-counts/)
 * [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
 * [2023-06-05, 19:50:18](https://lobste.rs/s/awegaq/ocaml_programming_correct_efficient) - [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
 * [2023-06-05, 19:19:21](https://lobste.rs/s/epjc4d/introducing_apple_vision_pro_apple_s) - [Introducing Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
