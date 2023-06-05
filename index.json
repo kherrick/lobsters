@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 12:21:17",
+      "https://lobste.rs/s/rhklir/why_did_usenet_fail_terence_eden_s_blog"
+    ],
+    [
+      "Why did Usenet fail? – Terence Eden’s Blog",
+      "https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 11:41:27",
       "https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries"
     ],
@@ -197,16 +207,6 @@
     [
       "Writing a KVM hypervisor VMM in Python",
       "https://www.devever.net/~hl/kvm"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 08:11:06",
-      "https://lobste.rs/s/cqjdzx/rascii_advanced_image_ascii_art"
-    ],
-    [
-      "RASCII: An advanced image to ASCII art generator tool & crate written in Rust",
-      "https://github.com/UTFeight/RASCII"
     ]
   ],
   [
