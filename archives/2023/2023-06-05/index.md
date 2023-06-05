@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 17:19:23](https://lobste.rs/s/vok2pm/falcon_has_landed_hugging_face_ecosystem) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 * [2023-06-05, 16:17:09](https://lobste.rs/s/fb1khu/building_programming_language_twenty) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)

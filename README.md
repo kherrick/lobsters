@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-05, 17:19:23](https://lobste.rs/s/vok2pm/falcon_has_landed_hugging_face_ecosystem) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 * [2023-06-05, 16:17:09](https://lobste.rs/s/fb1khu/building_programming_language_twenty) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
@@ -18,7 +19,6 @@
 * [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:11:31](https://lobste.rs/s/tqouvn/mxroute_mail_server_outage_postmortem) - [MXRoute Mail Server Outage Postmortem](https://mxbin.io/2DGJex)
-* [2023-06-05, 03:12:50](https://lobste.rs/s/pvsp8s/nvidia_engineer_contributed_initial) - [NVIDIA engineer contributed initial CUDA Fortran support to LLVM Flang](https://www.phoronix.com/news/LLVM-Flang-Upstreaming-CUDA)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
