@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 16:58:15](https://lobste.rs/s/94d5gb/easy_question_hard_answer_how_i_convert) - [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
 * [2023-06-06, 16:12:06](https://lobste.rs/s/qfi7wj/compromising_honda_s_power_equipment) - [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
 * [2023-06-06, 16:11:37](https://lobste.rs/s/vqbtfo/transformer_inference_arithmetic) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/)
 * [2023-06-06, 16:00:25](https://lobste.rs/s/6mju8o/lynn_conway_chip_design_revolution) - [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
