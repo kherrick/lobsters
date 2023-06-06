@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 * [2023-06-06, 21:15:21](https://lobste.rs/s/1wrozw/developing_nix_libraries_with_subflakes) - [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
 * [2023-06-06, 21:04:43](https://lobste.rs/s/8aqg7w/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://rosenzweig.io/blog/opengl3-on-asahi-linux.html)
 * [2023-06-06, 20:45:35](https://lobste.rs/s/he9hw3/beware_leaky_abstractions_when_relying) - [Beware of Leaky Abstractions When Relying on Attribute Inheritance in Vue Components](https://markus.oberlehner.net/blog/beware-of-leaky-abstractions-when-relying-on-attribute-inheritance-in-vue-components/)
