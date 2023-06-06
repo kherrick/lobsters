@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 17:59:09](https://lobste.rs/s/3lsngs/it_s_turbo_time_how_we_made_semgrep) - [It’s Turbo time: how we made the Semgrep Playground super fast](https://semgrep.dev/blog/2023/turbo-mode)
 * [2023-06-06, 17:40:17](https://lobste.rs/s/trvudb/c_standard_library_function_isspace) - [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:37:52](https://lobste.rs/s/fzxtlf/object_lifetime) - [Object Lifetime](https://www.kdab.com/object-lifetime/)
 * [2023-06-06, 17:35:52](https://lobste.rs/s/gevrz3/introducing_generative_ai_qt_creator) - [Introducing Generative AI in Qt Creator](https://www.qt.io/blog/introducing-generative-ai-in-qt)
