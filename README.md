@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 06:23:38](https://lobste.rs/s/kv17am/teaching_learning_compilers) - [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-06, 05:39:15](https://lobste.rs/s/ykilyt/printing_double_aka_most_difficult) - [Printing double aka the most difficult problem in computer sciences](https://www.zverovich.net/2023/06/04/printing-double.html)
 * [2023-06-06, 05:23:09](https://lobste.rs/s/2gs64y/sre_real_world_for_xooglers) - [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
@@ -20,7 +21,6 @@
 * [2023-06-05, 12:21:17](https://lobste.rs/s/rhklir/why_did_usenet_fail) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
 * [2023-06-05, 10:40:16](https://lobste.rs/s/lao3oh/css_nesting) - [CSS Nesting](https://robinrendle.com/notes/css-nesting/)
-* [2023-06-05, 08:55:39](https://lobste.rs/s/zyd5hg/chip_bridge_usb_2_usb_3_divide) - [A chip to bridge the USB 2–USB 3 divide](https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
