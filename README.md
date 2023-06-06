@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 16:12:06](https://lobste.rs/s/qfi7wj/compromising_honda_s_power_equipment) - [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
+* [2023-06-06, 16:11:37](https://lobste.rs/s/vqbtfo/transformer_inference_arithmetic) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/)
+* [2023-06-06, 16:00:25](https://lobste.rs/s/6mju8o/lynn_conway_chip_design_revolution) - [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
 * [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:53:28](https://lobste.rs/s/t11cas/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/toc.html)
@@ -20,11 +23,8 @@
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 * [2023-06-05, 16:17:09](https://lobste.rs/s/fb1khu/building_programming_language_twenty) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
-* [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
-* [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
-* [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 
 ## [Archives](archives/index.md)
 
