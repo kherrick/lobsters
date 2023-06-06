@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 10:04:35](https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little) - [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)
 * [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 09:14:48](https://lobste.rs/s/pwde0j/weekly_code_confessions_digest) - [Weekly Code Confessions Digest: Exploring Intriguing Articles, Books, and Courses](https://codeconfessions.substack.com/p/weekly-code-confessions-digest-1)
 * [2023-06-06, 06:23:38](https://lobste.rs/s/kv17am/teaching_learning_compilers) - [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
@@ -24,7 +25,6 @@
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
-* [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 
 ## [Archives](archives/index.md)
 
