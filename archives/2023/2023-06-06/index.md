@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 11:16:12](https://lobste.rs/s/lbgehs/programmatic_flash_control_bare_metal) - [Programmatic Flash Control: Bare Metal Programming Series](https://www.youtube.com/watch?v=QcE3Y_8hroU)
 * [2023-06-06, 10:04:35](https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little) - [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)
 * [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 09:14:48](https://lobste.rs/s/pwde0j/weekly_code_confessions_digest) - [Weekly Code Confessions Digest: Exploring Intriguing Articles, Books, and Courses](https://codeconfessions.substack.com/p/weekly-code-confessions-digest-1)
