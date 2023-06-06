@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:53:28](https://lobste.rs/s/t11cas/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [2023-06-06, 13:34:36](https://lobste.rs/s/ztumuz/mathematics_impossible_computational) - [Mathematics of the impossible: Computational Complexity](https://www.ccs.neu.edu/home/viola/papers/moti.pdf)
