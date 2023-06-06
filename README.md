@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 09:14:48](https://lobste.rs/s/pwde0j/weekly_code_confessions_digest) - [Weekly Code Confessions Digest: Exploring Intriguing Articles, Books, and Courses](https://codeconfessions.substack.com/p/weekly-code-confessions-digest-1)
 * [2023-06-06, 06:23:38](https://lobste.rs/s/kv17am/teaching_learning_compilers) - [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-06, 05:39:15](https://lobste.rs/s/ykilyt/printing_double_aka_most_difficult) - [Printing double aka the most difficult problem in computer sciences](https://www.zverovich.net/2023/06/04/printing-double.html)
@@ -19,7 +20,6 @@
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 14:09:37](https://lobste.rs/s/co4wfb/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
-* [2023-06-05, 12:21:17](https://lobste.rs/s/rhklir/why_did_usenet_fail) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)

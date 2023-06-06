@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 09:14:48](https://lobste.rs/s/pwde0j/weekly_code_confessions_digest) - [Weekly Code Confessions Digest: Exploring Intriguing Articles, Books, and Courses](https://codeconfessions.substack.com/p/weekly-code-confessions-digest-1)
 * [2023-06-06, 06:23:38](https://lobste.rs/s/kv17am/teaching_learning_compilers) - [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-06, 05:39:15](https://lobste.rs/s/ykilyt/printing_double_aka_most_difficult) - [Printing double aka the most difficult problem in computer sciences](https://www.zverovich.net/2023/06/04/printing-double.html)
