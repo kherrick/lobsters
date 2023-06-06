@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 17:11:34",
+      "https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms"
+    ],
+    [
+      "Modern Image Processing Algorithms Implementation in C",
+      "https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 16:58:15",
       "https://lobste.rs/s/94d5gb/easy_question_hard_answer_how_i_convert"
     ],
@@ -207,16 +217,6 @@
     [
       "Running VSCode in Chromium on OpenBSD",
       "https://bt.ht/vscode/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 16:17:09",
-      "https://lobste.rs/s/fb1khu/building_programming_language_twenty"
-    ],
-    [
-      "Building a Programming Language in Twenty-Four Hours",
-      "https://ersei.net/en/blog/diy-programming-language"
     ]
   ],
   [
