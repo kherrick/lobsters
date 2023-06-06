@@ -11,6 +11,7 @@
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:53:28](https://lobste.rs/s/t11cas/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [2023-06-06, 13:34:36](https://lobste.rs/s/ztumuz/mathematics_impossible_computational) - [Mathematics of the impossible: Computational Complexity](https://www.ccs.neu.edu/home/viola/papers/moti.pdf)
+* [2023-06-06, 13:29:58](https://lobste.rs/s/hmyyz2/limited_success_generating_binary) - [Limited Success Generating a Binary Search](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-06, 13:29:58](https://lobste.rs/s/hmyyz2/ai_does_not_help_programmers) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-06, 12:42:15](https://lobste.rs/s/43hevj/tech_debt_metaphor_maximalism) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 * [2023-06-06, 11:16:12](https://lobste.rs/s/lbgehs/programmatic_flash_control_bare_metal) - [Programmatic Flash Control: Bare Metal Programming Series](https://www.youtube.com/watch?v=QcE3Y_8hroU)
