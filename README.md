@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 23:45:32](https://lobste.rs/s/fk8gjb/proving_my_compiler_code_incorrect_with) - [Proving My Compiler Code Incorrect With Alloy](https://danilafe.com/blog/dyno_alloy/)
 * [2023-06-05, 21:32:04](https://lobste.rs/s/6oojxm/counting_unique_visitors_without_using) - [Counting unique visitors without using cookies, UIDs or fingerprinting](https://notes.normally.com/cookieless-unique-visitor-counts/)
 * [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
@@ -23,7 +24,6 @@
 * [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 00:28:13](https://lobste.rs/s/sgsyei/dreamberd_perfect_programming_language) - [DreamBerd: perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
-* [2023-06-04, 20:18:35](https://lobste.rs/s/jrf82t/how_one_vladimir_putin_s_most_prized) - [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)
 * [2023-06-04, 13:32:59](https://lobste.rs/s/o3nion/anything_can_be_message_queue_if_you_use_it) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 
 ## [Archives](archives/index.md)
