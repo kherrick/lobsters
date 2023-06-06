@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 13:34:36](https://lobste.rs/s/ztumuz/mathematics_impossible_computational) - [Mathematics of the impossible: Computational Complexity](https://www.ccs.neu.edu/home/viola/papers/moti.pdf)
+* [2023-06-06, 13:29:58](https://lobste.rs/s/hmyyz2/ai_does_not_help_programmers) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-06, 12:42:15](https://lobste.rs/s/43hevj/tech_debt_metaphor_maximalism) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 * [2023-06-06, 11:16:12](https://lobste.rs/s/lbgehs/programmatic_flash_control_bare_metal) - [Programmatic Flash Control: Bare Metal Programming Series](https://www.youtube.com/watch?v=QcE3Y_8hroU)
 * [2023-06-06, 10:04:35](https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little) - [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)

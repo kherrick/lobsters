@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 13:34:36](https://lobste.rs/s/ztumuz/mathematics_impossible_computational) - [Mathematics of the impossible: Computational Complexity](https://www.ccs.neu.edu/home/viola/papers/moti.pdf)
+* [2023-06-06, 13:29:58](https://lobste.rs/s/hmyyz2/ai_does_not_help_programmers) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-06, 12:42:15](https://lobste.rs/s/43hevj/tech_debt_metaphor_maximalism) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 * [2023-06-06, 11:16:12](https://lobste.rs/s/lbgehs/programmatic_flash_control_bare_metal) - [Programmatic Flash Control: Bare Metal Programming Series](https://www.youtube.com/watch?v=QcE3Y_8hroU)
 * [2023-06-06, 10:04:35](https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little) - [Three-way handshake bypassing Little Snitch](https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/)
@@ -18,12 +20,10 @@
 * [2023-06-05, 15:16:15](https://lobste.rs/s/98x6xu/adventures_writing_chip8_emulator_part_1) - [The Adventures of Writing a CHIP8 Emulator - Part 1](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)
 * [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
 * [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
-* [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 14:09:37](https://lobste.rs/s/co4wfb/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 11:41:27](https://lobste.rs/s/vdknz2/spring_lisp_game_jam_2023_entries) - [Spring Lisp Game Jam 2023 Entries](https://itch.io/jam/spring-lisp-game-jam-2023/entries)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
-* [2023-06-05, 02:04:49](https://lobste.rs/s/vpfsqz/pre_release_historical_workstation) - [Pre-release and historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-04, 21:43:15](https://lobste.rs/s/zzrwr0/blink_1_0) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 
 ## [Archives](archives/index.md)
