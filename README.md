@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 21:04:43](https://lobste.rs/s/8aqg7w/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://rosenzweig.io/blog/opengl3-on-asahi-linux.html)
 * [2023-06-06, 20:45:35](https://lobste.rs/s/he9hw3/beware_leaky_abstractions_when_relying) - [Beware of Leaky Abstractions When Relying on Attribute Inheritance in Vue Components](https://markus.oberlehner.net/blog/beware-of-leaky-abstractions-when-relying-on-attribute-inheritance-in-vue-components/)
 * [2023-06-06, 20:22:23](https://lobste.rs/s/gloth9/debugging_aws_cloudfront_issues_live) - [Debugging AWS CloudFront issues live with SSH](https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654)
-* [2023-06-06, 20:21:47](https://lobste.rs/s/zl2fsz/easy_k8s_connectivity_for_local_utils) - [Easy K8S Connectivity for Local Utils](https://metalbear.co/blog/easy-k8s-connectivity-for-local-utils/)
 * [2023-06-06, 17:40:17](https://lobste.rs/s/trvudb/c_standard_library_function_isspace) - [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:37:52](https://lobste.rs/s/fzxtlf/object_lifetime) - [Object Lifetime](https://www.kdab.com/object-lifetime/)
 * [2023-06-06, 17:27:37](https://lobste.rs/s/kwwecm/rust_binary_analysis_feature_by_feature) - [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
