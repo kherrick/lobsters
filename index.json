@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-06-06, 20:22:23",
+      "https://lobste.rs/s/gloth9/debugging_aws_cloudfront_issues_live"
+    ],
+    [
+      "Debugging AWS CloudFront issues live with SSH",
+      "https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 17:40:17",
       "https://lobste.rs/s/trvudb/c_standard_library_function_isspace"
     ],
@@ -117,16 +127,6 @@
     [
       "OpenGL 3.1 on Asahi Linux",
       "https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 13:53:28",
-      "https://lobste.rs/s/t11cas/real_world_ocaml"
-    ],
-    [
-      "Real World OCaml",
-      "https://dev.realworldocaml.org/toc.html"
     ]
   ],
   [
