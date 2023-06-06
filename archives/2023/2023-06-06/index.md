@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 20:45:35](https://lobste.rs/s/he9hw3/beware_leaky_abstractions_when_relying) - [Beware of Leaky Abstractions When Relying on Attribute Inheritance in Vue Components](https://markus.oberlehner.net/blog/beware-of-leaky-abstractions-when-relying-on-attribute-inheritance-in-vue-components/)
 * [2023-06-06, 20:22:23](https://lobste.rs/s/gloth9/debugging_aws_cloudfront_issues_live) - [Debugging AWS CloudFront issues live with SSH](https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654)
 * [2023-06-06, 20:21:47](https://lobste.rs/s/zl2fsz/easy_k8s_connectivity_for_local_utils) - [Easy K8S Connectivity for Local Utils](https://metalbear.co/blog/easy-k8s-connectivity-for-local-utils/)
 * [2023-06-06, 17:59:09](https://lobste.rs/s/3lsngs/it_s_turbo_time_how_we_made_semgrep) - [It’s Turbo time: how we made the Semgrep Playground super fast](https://semgrep.dev/blog/2023/turbo-mode)

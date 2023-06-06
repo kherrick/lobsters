@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 20:45:35](https://lobste.rs/s/he9hw3/beware_leaky_abstractions_when_relying) - [Beware of Leaky Abstractions When Relying on Attribute Inheritance in Vue Components](https://markus.oberlehner.net/blog/beware-of-leaky-abstractions-when-relying-on-attribute-inheritance-in-vue-components/)
 * [2023-06-06, 20:22:23](https://lobste.rs/s/gloth9/debugging_aws_cloudfront_issues_live) - [Debugging AWS CloudFront issues live with SSH](https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654)
 * [2023-06-06, 20:21:47](https://lobste.rs/s/zl2fsz/easy_k8s_connectivity_for_local_utils) - [Easy K8S Connectivity for Local Utils](https://metalbear.co/blog/easy-k8s-connectivity-for-local-utils/)
 * [2023-06-06, 17:40:17](https://lobste.rs/s/trvudb/c_standard_library_function_isspace) - [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
@@ -19,7 +20,6 @@
 * [2023-06-06, 06:23:38](https://lobste.rs/s/kv17am/teaching_learning_compilers) - [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-06, 05:23:09](https://lobste.rs/s/2gs64y/sre_real_world_for_xooglers) - [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
-* [2023-06-05, 21:32:04](https://lobste.rs/s/6oojxm/counting_unique_visitors_without_using) - [Counting unique visitors without using cookies, UIDs or fingerprinting](https://notes.normally.com/cookieless-unique-visitor-counts/)
 * [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
 * [2023-06-05, 19:50:18](https://lobste.rs/s/awegaq/ocaml_programming_correct_efficient) - [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
