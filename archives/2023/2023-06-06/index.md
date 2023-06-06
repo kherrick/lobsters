@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 17:40:17](https://lobste.rs/s/trvudb/c_standard_library_function_isspace) - [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
+* [2023-06-06, 17:37:52](https://lobste.rs/s/fzxtlf/object_lifetime) - [Object Lifetime](https://www.kdab.com/object-lifetime/)
+* [2023-06-06, 17:35:52](https://lobste.rs/s/gevrz3/introducing_generative_ai_qt_creator) - [Introducing Generative AI in Qt Creator](https://www.qt.io/blog/introducing-generative-ai-in-qt)
+* [2023-06-06, 17:34:27](https://lobste.rs/s/an76l6/ggml_ai) - [ggml.ai](http://ggml.ai/)
 * [2023-06-06, 17:32:05](https://lobste.rs/s/m1uvvl/right_way_run_shell_commands_from_python) - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
 * [2023-06-06, 17:27:37](https://lobste.rs/s/kwwecm/rust_binary_analysis_feature_by_feature) - [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
 * [2023-06-06, 17:11:34](https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
