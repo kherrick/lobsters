@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 17:32:05](https://lobste.rs/s/m1uvvl/right_way_run_shell_commands_from_python) - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
+* [2023-06-06, 17:27:37](https://lobste.rs/s/kwwecm/rust_binary_analysis_feature_by_feature) - [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
 * [2023-06-06, 17:11:34](https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 16:58:15](https://lobste.rs/s/94d5gb/easy_question_hard_answer_how_i_convert) - [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
 * [2023-06-06, 16:12:06](https://lobste.rs/s/qfi7wj/compromising_honda_s_power_equipment) - [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
@@ -20,9 +22,7 @@
 * [2023-06-05, 21:32:04](https://lobste.rs/s/6oojxm/counting_unique_visitors_without_using) - [Counting unique visitors without using cookies, UIDs or fingerprinting](https://notes.normally.com/cookieless-unique-visitor-counts/)
 * [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
 * [2023-06-05, 19:50:18](https://lobste.rs/s/awegaq/ocaml_programming_correct_efficient) - [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
-* [2023-06-05, 17:01:26](https://lobste.rs/s/cajomt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cajomt/what_are_you_doing_this_week)
 * [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
-* [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 
