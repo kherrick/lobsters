@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-06, 05:23:09](https://lobste.rs/s/2gs64y/sre_real_world_for_xooglers) - [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 23:45:32](https://lobste.rs/s/fk8gjb/proving_my_compiler_code_incorrect_with) - [Proving My Compiler Code Incorrect With Alloy](https://danilafe.com/blog/dyno_alloy/)
 * [2023-06-05, 21:32:04](https://lobste.rs/s/6oojxm/counting_unique_visitors_without_using) - [Counting unique visitors without using cookies, UIDs or fingerprinting](https://notes.normally.com/cookieless-unique-visitor-counts/)
@@ -13,7 +14,6 @@
 * [2023-06-05, 15:10:54](https://lobste.rs/s/xdlub1/til_deploying_sinatra_app_render_com) - [TIL: Deploying a Sinatra app to Render.com](https://goodenough.us/blog/2023-06-05-til-deploying-a-sinatra-app-to-render-com/)
 * [2023-06-05, 14:37:19](https://lobste.rs/s/uf9lz3/ultimate_guide_software_development) - [The ultimate guide to software development with Guix](https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-05, 14:16:36](https://lobste.rs/s/grjqtn/linux_on_7th_generation_consoles_part_1) - [Linux on the 7th Generation of Consoles. Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
-* [2023-06-05, 14:11:06](https://lobste.rs/s/9wrpj0/what_are_embeddings) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-05, 14:09:37](https://lobste.rs/s/co4wfb/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 12:21:17](https://lobste.rs/s/rhklir/why_did_usenet_fail) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
