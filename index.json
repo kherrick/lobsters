@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 17:59:09",
+      "https://lobste.rs/s/3lsngs/it_s_turbo_time_how_we_made_semgrep"
+    ],
+    [
+      "It’s Turbo time: how we made the Semgrep Playground super fast",
+      "https://semgrep.dev/blog/2023/turbo-mode"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 17:40:17",
       "https://lobste.rs/s/trvudb/c_standard_library_function_isspace"
     ],
@@ -27,16 +37,6 @@
     [
       "Introducing Generative AI in Qt Creator",
       "https://www.qt.io/blog/introducing-generative-ai-in-qt"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 17:34:27",
-      "https://lobste.rs/s/an76l6/ggml_ai"
-    ],
-    [
-      "ggml.ai",
-      "http://ggml.ai/"
     ]
   ],
   [
