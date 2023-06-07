@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 11:16:49",
+      "https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone"
+    ],
+    [
+      "Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction",
+      "https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 10:18:09",
       "https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual"
     ],
@@ -127,16 +137,6 @@
     [
       "Easy question – hard answer, how to I convert a hex string to hex byte string in C?",
       "https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 16:12:06",
-      "https://lobste.rs/s/qfi7wj/compromising_honda_s_power_equipment"
-    ],
-    [
-      "Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API",
-      "https://eaton-works.com/2023/06/06/honda-ecommerce-hack/"
     ]
   ],
   [
