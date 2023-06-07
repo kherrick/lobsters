@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
 * [2023-06-07, 17:12:53](https://lobste.rs/s/gkv6bw/pycm_4_0_released_multilabel_confusion) - [PyCM 4.0 Released: Multilabel Confusion Matrix Support](https://github.com/sepandhaghighi/pycm)
 * [2023-06-07, 15:50:44](https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python) - [pystack: Like pstack but for Python](https://github.com/bloomberg/pystack)
 * [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
@@ -12,7 +13,6 @@
 * [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
 * [2023-06-07, 08:48:07](https://lobste.rs/s/xnvtwd/you_don_t_have_patch) - [You don’t have to patch](https://www.youtube.com/watch?v=lz9wU3FnSA0)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
-* [2023-06-07, 08:11:13](https://lobste.rs/s/co2szy/introducing_merged_apis_on_aws_appsync) - [Introducing Merged APIs on AWS AppSync](https://aws.amazon.com/blogs/mobile/introducing-merged-apis-on-aws-appsync/)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 * [2023-06-06, 21:15:21](https://lobste.rs/s/1wrozw/developing_nix_libraries_with_subflakes) - [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
 * [2023-06-07, 17:12:53](https://lobste.rs/s/gkv6bw/pycm_4_0_released_multilabel_confusion) - [PyCM 4.0 Released: Multilabel Confusion Matrix Support](https://github.com/sepandhaghighi/pycm)
 * [2023-06-07, 15:50:44](https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python) - [pystack: Like pstack but for Python](https://github.com/bloomberg/pystack)
 * [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
