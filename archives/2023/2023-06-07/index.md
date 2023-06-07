@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 01:21:10](https://lobste.rs/s/za80qd/i_will_never_participate_weird_internet) - [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)

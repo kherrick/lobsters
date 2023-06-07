@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 01:21:10](https://lobste.rs/s/za80qd/i_will_never_participate_weird_internet) - [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
 * [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 * [2023-06-06, 21:15:21](https://lobste.rs/s/1wrozw/developing_nix_libraries_with_subflakes) - [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
@@ -22,7 +23,6 @@
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
 * [2023-06-05, 19:50:18](https://lobste.rs/s/awegaq/ocaml_programming_correct_efficient) - [OCaml Programming: Correct + Efficient + Beautiful [a textbook]](https://cs3110.github.io/textbook/cover.html)
-* [2023-06-05, 16:33:54](https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd) - [Running VSCode in Chromium on OpenBSD](https://bt.ht/vscode/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 
