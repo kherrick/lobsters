@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 11:16:49](https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone) - [Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction](https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/)
@@ -14,7 +15,6 @@
 * [2023-06-06, 17:27:37](https://lobste.rs/s/kwwecm/rust_binary_analysis_feature_by_feature) - [Rust Binary Analysis, Feature by Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)
 * [2023-06-06, 17:11:34](https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 16:58:15](https://lobste.rs/s/94d5gb/easy_question_hard_answer_how_i_convert) - [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
-* [2023-06-06, 16:00:25](https://lobste.rs/s/6mju8o/lynn_conway_chip_design_revolution) - [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
 * [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:29:58](https://lobste.rs/s/hmyyz2/limited_success_generating_binary) - [Limited Success Generating a Binary Search](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)

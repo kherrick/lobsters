@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 11:16:49](https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone) - [Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction](https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/)
