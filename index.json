@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 15:50:44",
+      "https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python"
+    ],
+    [
+      "pystack: Like pstack but for Python",
+      "https://github.com/bloomberg/pystack"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 15:22:41",
       "https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released"
     ],
@@ -147,16 +157,6 @@
     [
       "The C Standard Library Function isspace() Depends on Locale",
       "https://www.evanjones.ca/isspace_locale.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 17:27:37",
-      "https://lobste.rs/s/kwwecm/rust_binary_analysis_feature_by_feature"
-    ],
-    [
-      "Rust Binary Analysis, Feature by Feature",
-      "https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/"
     ]
   ],
   [
