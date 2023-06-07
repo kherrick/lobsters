@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 01:21:10](https://lobste.rs/s/za80qd/i_will_never_participate_weird_internet) - [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
 * [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 * [2023-06-06, 21:15:21](https://lobste.rs/s/1wrozw/developing_nix_libraries_with_subflakes) - [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
 * [2023-06-06, 21:04:43](https://lobste.rs/s/8aqg7w/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://rosenzweig.io/blog/opengl3-on-asahi-linux.html)
@@ -9,7 +10,6 @@
 * [2023-06-06, 17:11:34](https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 16:58:15](https://lobste.rs/s/94d5gb/easy_question_hard_answer_how_i_convert) - [Easy question – hard answer, how to I convert a hex string to hex byte string in C?](https://colinpaice.blog/2023/06/06/easy-question-hard-answer-how-to-i-convert-a-hex-string-to-hex-byte-string-in-c/)
 * [2023-06-06, 16:12:06](https://lobste.rs/s/qfi7wj/compromising_honda_s_power_equipment) - [Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API](https://eaton-works.com/2023/06/06/honda-ecommerce-hack/)
-* [2023-06-06, 16:11:37](https://lobste.rs/s/vqbtfo/transformer_inference_arithmetic) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/)
 * [2023-06-06, 16:00:25](https://lobste.rs/s/6mju8o/lynn_conway_chip_design_revolution) - [Lynn Conway and The Chip Design Revolution](https://www.sparkfun.com/news/7203)
 * [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
