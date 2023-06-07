@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 21:07:10",
+      "https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe"
+    ],
+    [
+      "Abusing undocumented features to spoof PE section headers",
+      "https://secret.club/2023/06/05/spoof-pe-sections.html"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 17:12:53",
       "https://lobste.rs/s/gkv6bw/pycm_4_0_released_multilabel_confusion"
     ],
@@ -117,16 +127,6 @@
     [
       "Mojo is a much better \"Objective-C without the C\" than Swift ever was",
       "https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 08:11:13",
-      "https://lobste.rs/s/co2szy/introducing_merged_apis_on_aws_appsync"
-    ],
-    [
-      "Introducing Merged APIs on AWS AppSync",
-      "https://aws.amazon.com/blogs/mobile/introducing-merged-apis-on-aws-appsync/"
     ]
   ],
   [
