@@ -5,7 +5,7 @@
 * [2023-06-07, 17:12:53](https://lobste.rs/s/gkv6bw/pycm_4_0_released_multilabel_confusion) - [PyCM 4.0 Released: Multilabel Confusion Matrix Support](https://github.com/sepandhaghighi/pycm)
 * [2023-06-07, 15:50:44](https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python) - [pystack: Like pstack but for Python](https://github.com/bloomberg/pystack)
 * [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
-* [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://hackmd.io/@jaskarth4/B1gaTOaU2)
+* [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
