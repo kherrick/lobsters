@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-07, 08:48:07",
+      "https://lobste.rs/s/xnvtwd/you_don_t_have_patch"
+    ],
+    [
+      "You don’t have to patch",
+      "https://www.youtube.com/watch?v=lz9wU3FnSA0"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 08:45:40",
+      "https://lobste.rs/s/nppf8y/mojo_is_much_better_quot_objective_c"
+    ],
+    [
+      "Mojo is a much better &quot;Objective-C without the C&quot; than Swift ever was",
+      "https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 08:11:13",
       "https://lobste.rs/s/co2szy/introducing_merged_apis_on_aws_appsync"
     ],
@@ -57,16 +77,6 @@
     [
       "OpenGL 3.1 on Asahi Linux",
       "https://rosenzweig.io/blog/opengl3-on-asahi-linux.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 20:22:23",
-      "https://lobste.rs/s/gloth9/debugging_aws_cloudfront_issues_live"
-    ],
-    [
-      "Debugging AWS CloudFront issues live with SSH",
-      "https://vlad.git.ht/1bc082adfb910fb622ed6fe8d40ea654"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Hacking window titles to help OBS",
       "https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 06:23:38",
-      "https://lobste.rs/s/kv17am/teaching_learning_compilers"
-    ],
-    [
-      "Teaching and Learning Compilers Incrementally",
-      "https://iucompilercourse.github.io/tutorial-web-page/"
     ]
   ],
   [
