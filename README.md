@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
 * [2023-06-07, 08:48:07](https://lobste.rs/s/xnvtwd/you_don_t_have_patch) - [You don’t have to patch](https://www.youtube.com/watch?v=lz9wU3FnSA0)
-* [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_quot_objective_c) - [Mojo is a much better &quot;Objective-C without the C&quot; than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
+* [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-07, 08:11:13](https://lobste.rs/s/co2szy/introducing_merged_apis_on_aws_appsync) - [Introducing Merged APIs on AWS AppSync](https://aws.amazon.com/blogs/mobile/introducing-merged-apis-on-aws-appsync/)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 01:21:10](https://lobste.rs/s/za80qd/i_will_never_participate_weird_internet) - [i will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
@@ -22,7 +23,6 @@
 * [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 05:23:09](https://lobste.rs/s/2gs64y/sre_real_world_for_xooglers) - [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
-* [2023-06-05, 20:57:26](https://lobste.rs/s/1xrl8n/criminalization_encryption_8_december) - [Criminalization of encryption : the 8 december case](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
 * [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 
