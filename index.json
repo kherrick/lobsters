@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 22:34:36",
+      "https://lobste.rs/s/0r47te/why_liquid_haskell_matters"
+    ],
+    [
+      "Why Liquid Haskell matters",
+      "https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 21:07:10",
       "https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe"
     ],
@@ -187,16 +197,6 @@
     [
       "OpenGL 3.1 on Asahi Linux",
       "https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 13:29:58",
-      "https://lobste.rs/s/hmyyz2/limited_success_generating_binary"
-    ],
-    [
-      "Limited Success Generating a Binary Search",
-      "https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext"
     ]
   ],
   [
