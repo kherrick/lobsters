@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://hackmd.io/@jaskarth4/B1gaTOaU2)
 * [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
