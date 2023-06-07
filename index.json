@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 05:41:53",
+      "https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know"
+    ],
+    [
+      "“csinc”, the AArch64 instruction you didn’t know you wanted",
+      "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 01:21:10",
       "https://lobste.rs/s/za80qd/i_will_never_participate_weird_internet"
     ],
@@ -217,16 +227,6 @@
     [
       "OCaml Programming: Correct + Efficient + Beautiful [a textbook]",
       "https://cs3110.github.io/textbook/cover.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 16:33:54",
-      "https://lobste.rs/s/dgvhbe/running_vscode_chromium_on_openbsd"
-    ],
-    [
-      "Running VSCode in Chromium on OpenBSD",
-      "https://bt.ht/vscode/"
     ]
   ],
   [
