@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
@@ -23,7 +24,6 @@
 * [2023-06-06, 09:30:58](https://lobste.rs/s/wwhaqu/hacking_window_titles_help_obs) - [Hacking window titles to help OBS](https://blog.pkh.me/p/40-hacking-window-titles-to-help-obs.html)
 * [2023-06-06, 05:23:09](https://lobste.rs/s/2gs64y/sre_real_world_for_xooglers) - [SRE in the Real World: for Xooglers](https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit#heading=h.j54phqvh6ubj)
 * [2023-06-06, 04:23:55](https://lobste.rs/s/1evftg/why_lisp_syntax_works) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
-* [2023-06-05, 13:59:03](https://lobste.rs/s/9bz6bl/wwdc_2023) - [WWDC 2023](https://www.apple.com/apple-events/)
 * [2023-06-05, 08:45:49](https://lobste.rs/s/47amaq/rust_i_wanted_had_no_future) - [The Rust I Wanted Had No Future](https://graydon2.dreamwidth.org/307291.html)
 
 ## [Archives](archives/index.md)
