@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 07:24:46](https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool) - [Build backends for internal tools (Retool for backends)](https://subzero.cloud/)
 * [2023-06-08, 06:46:32](https://lobste.rs/s/phlfpq/re_encoding_riscv) - [Re encoding RISCV](https://github.com/shacron/sled/wiki/Re-encoding-RISCV)
 * [2023-06-08, 03:55:09](https://lobste.rs/s/cl7p8c/dnsocial) - [DNSocial](https://git.jon-e.net/jonny/DNSocial)
 * [2023-06-08, 02:12:27](https://lobste.rs/s/zf2hab/using_open_source_llms_optimize) - [Using open-source LLMs to optimize government data](https://adhoc.team/2023/06/07/using-open-source-llms-to-optimize-government-data/)
@@ -15,7 +16,6 @@
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 11:16:49](https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone) - [Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction](https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/)
 * [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
-* [2023-06-07, 08:48:07](https://lobste.rs/s/xnvtwd/you_don_t_have_patch) - [You don’t have to patch](https://www.youtube.com/watch?v=lz9wU3FnSA0)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
