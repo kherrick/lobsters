@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 08:30:59",
+      "https://lobste.rs/s/q07w1n/graydon_hoare_rust_for_modern_cpp_devs"
+    ],
+    [
+      "Graydon Hoare - Rust for Modern CPP Devs [2022]",
+      "http://venge.net/graydon/talks/RustForModernCPPDevs.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 07:24:46",
       "https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool"
     ],
@@ -237,16 +247,6 @@
     [
       "Tech debt metaphor maximalism",
       "https://apenwarr.ca/log/20230605"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 10:04:35",
-      "https://lobste.rs/s/dwagna/three_way_handshake_bypassing_little"
-    ],
-    [
-      "Three-way handshake bypassing Little Snitch",
-      "https://blog.obdev.at/three-way-handshake-bypassing-little-snitch/"
     ]
   ]
 ]
