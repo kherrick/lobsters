@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 02:12:27](https://lobste.rs/s/zf2hab/using_open_source_llms_optimize) - [Using open-source LLMs to optimize government data](https://adhoc.team/2023/06/07/using-open-source-llms-to-optimize-government-data/)
 * [2023-06-08, 00:41:49](https://lobste.rs/s/a6ztly/exploiting_sonos_one_speaker_three) - [Exploiting the Sonos One Speaker Three Different Ways: A Pwn2Own Toronto Highlight](https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight)
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
@@ -7,7 +8,7 @@
 * [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
-* [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone) - [Writing a Vector Database in a Week in Rust - DZone](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
+* [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust) - [Writing a Vector Database in a Week in Rust](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 11:16:49](https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone) - [Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction](https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/)
@@ -17,7 +18,6 @@
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-06, 21:38:52](https://lobste.rs/s/fkbx8b/handheld_386sx_gets_teardown) - [That Handheld 386SX Gets A Teardown](https://hackaday.com/2023/06/06/that-handheld-386sx-gets-a-teardown/)
 * [2023-06-06, 21:15:21](https://lobste.rs/s/1wrozw/developing_nix_libraries_with_subflakes) - [Developing Nix Libraries with Subflakes](https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/)
-* [2023-06-06, 17:40:17](https://lobste.rs/s/trvudb/c_standard_library_function_isspace) - [The C Standard Library Function isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:11:34](https://lobste.rs/s/9vu1nw/modern_image_processing_algorithms) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
 * [2023-06-06, 13:56:55](https://lobste.rs/s/nfibt1/opengl_3_1_on_asahi_linux) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
