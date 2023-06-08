@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 22:08:47](https://lobste.rs/s/kemxvp/beggar_barons) - [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 * [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 19:24:51](https://lobste.rs/s/njehxs/mlfix_quickly_fix_datasets) - [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
 * [2023-06-08, 19:12:20](https://lobste.rs/s/spyztm/linux_on_7th_generation_consoles_part_2) - [Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo](https://www.lilysthings.org/blog/linux-on-ps3/)
