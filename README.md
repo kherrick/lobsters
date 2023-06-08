@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 19:12:20](https://lobste.rs/s/spyztm/linux_on_7th_generation_consoles_part_2) - [Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo](https://www.lilysthings.org/blog/linux-on-ps3/)
 * [2023-06-08, 18:26:36](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june) - [The Apollo Reddit client will shut down June 30](https://reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
@@ -13,7 +14,6 @@
 * [2023-06-08, 07:24:46](https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool) - [Build backends for internal tools (Retool for backends)](https://subzero.cloud/)
 * [2023-06-08, 06:46:32](https://lobste.rs/s/phlfpq/re_encoding_riscv) - [Re encoding RISCV](https://github.com/shacron/sled/wiki/Re-encoding-RISCV)
 * [2023-06-08, 03:55:09](https://lobste.rs/s/cl7p8c/dnsocial) - [DNSocial](https://git.jon-e.net/jonny/DNSocial)
-* [2023-06-08, 00:41:49](https://lobste.rs/s/a6ztly/exploiting_sonos_one_speaker_three) - [Exploiting the Sonos One Speaker Three Different Ways: A Pwn2Own Toronto Highlight](https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight)
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
 * [2023-06-07, 15:50:44](https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python) - [pystack: Like pstack but for Python](https://github.com/bloomberg/pystack)

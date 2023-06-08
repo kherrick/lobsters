@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 19:12:20](https://lobste.rs/s/spyztm/linux_on_7th_generation_consoles_part_2) - [Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo](https://www.lilysthings.org/blog/linux-on-ps3/)
 * [2023-06-08, 18:26:36](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june) - [The Apollo Reddit client will shut down June 30](https://reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
