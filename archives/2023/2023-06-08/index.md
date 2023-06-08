@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 15:18:36](https://lobste.rs/s/kwo90e/isolating_minecraft_with_magic) - [Isolating Minecraft With Magic and Bubblewrap](https://ersei.net/en/blog/isolate-minecraft)
+* [2023-06-08, 15:16:04](https://lobste.rs/s/mkzcsl/fantasary_prototyping_object_world_tcp) - [\"Fantasary\" - prototyping an object world (& TCP netlayer) at the Lisp Game Jam](https://spritely.institute/news/lisp-game-jam---fantasary---prototyping-an-object-world--tcp-netlayer.html)
 * [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-08, 12:44:52](https://lobste.rs/s/z3wnlp/test262_fyi_daily_runner_test262_for_many) - [test262.fyi: Daily runner of test262 for many engines](https://github.com/CanadaHonk/test262.fyi)
