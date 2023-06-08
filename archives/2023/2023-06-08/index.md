@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 22:54:14](https://lobste.rs/s/ihjcym/online_karnaugh_map_solver_with_circuit) - [Online Karnaugh map solver with circuit for up to 6 variables](http://32x8.com/index.html)
 * [2023-06-08, 22:08:47](https://lobste.rs/s/kemxvp/beggar_barons) - [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 * [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 19:24:51](https://lobste.rs/s/njehxs/mlfix_quickly_fix_datasets) - [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
