@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 10:15:39](https://lobste.rs/s/4j83f6/re_using_css_for_wrong_html_with_sass) - [Re-using CSS for the wrong HTML with Sass](https://lukeplant.me.uk/blog/posts/reusing-css-for-the-wrong-html-with-sass/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/graydon_hoare_rust_for_modern_cpp_devs) - [Graydon Hoare - Rust for Modern CPP Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
 * [2023-06-08, 07:24:46](https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool) - [Build backends for internal tools (Retool for backends)](https://subzero.cloud/)
 * [2023-06-08, 06:46:32](https://lobste.rs/s/phlfpq/re_encoding_riscv) - [Re encoding RISCV](https://github.com/shacron/sled/wiki/Re-encoding-RISCV)
