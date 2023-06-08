@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 20:40:48",
+      "https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers"
+    ],
+    [
+      "Understanding GPT tokenizers",
+      "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 19:24:51",
       "https://lobste.rs/s/njehxs/mlfix_quickly_fix_datasets"
     ],
@@ -177,16 +187,6 @@
     [
       "pystack: Like pstack but for Python",
       "https://github.com/bloomberg/pystack"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 15:22:41",
-      "https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released"
-    ],
-    [
-      "OpenSUSE Leap 15.5 released",
-      "https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/"
     ]
   ],
   [
