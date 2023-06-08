@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 22:08:47",
+      "https://lobste.rs/s/kemxvp/beggar_barons"
+    ],
+    [
+      "The Beggar Barons",
+      "https://zedshaw.com/blog/2022-02-05-the-beggar-barons/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 20:40:48",
       "https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers"
     ],
@@ -237,16 +247,6 @@
     [
       "Mojo is a much better \"Objective-C without the C\" than Swift ever was",
       "https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 05:41:53",
-      "https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know"
-    ],
-    [
-      "“csinc”, the AArch64 instruction you didn’t know you wanted",
-      "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/"
     ]
   ]
 ]
