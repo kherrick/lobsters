@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 19:24:51](https://lobste.rs/s/njehxs/mlfix_quickly_fix_datasets) - [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
 * [2023-06-08, 19:12:20](https://lobste.rs/s/spyztm/linux_on_7th_generation_consoles_part_2) - [Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo](https://www.lilysthings.org/blog/linux-on-ps3/)
 * [2023-06-08, 18:26:36](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june) - [The Apollo Reddit client will shut down June 30](https://reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
@@ -22,7 +23,6 @@
 * [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
-* [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 
