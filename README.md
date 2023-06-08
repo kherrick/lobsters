@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-08, 12:44:52](https://lobste.rs/s/z3wnlp/test262_fyi_daily_runner_test262_for_many) - [test262.fyi: Daily runner of test262 for many engines](https://github.com/CanadaHonk/test262.fyi)
 * [2023-06-08, 10:15:39](https://lobste.rs/s/4j83f6/re_using_css_for_wrong_html_with_sass) - [Re-using CSS for the wrong HTML with Sass](https://lukeplant.me.uk/blog/posts/reusing-css-for-the-wrong-html-with-sass/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/graydon_hoare_rust_for_modern_c_devs_2022) - [Graydon Hoare - Rust for Modern C++ Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
@@ -17,7 +18,6 @@
 * [2023-06-07, 13:23:30](https://lobste.rs/s/73yqku/writing_vector_database_week_rust) - [Writing a Vector Database in a Week in Rust](https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 * [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
-* [2023-06-07, 11:16:49](https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone) - [Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction](https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/)
 * [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)

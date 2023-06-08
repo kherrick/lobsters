@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-08, 12:44:52](https://lobste.rs/s/z3wnlp/test262_fyi_daily_runner_test262_for_many) - [test262.fyi: Daily runner of test262 for many engines](https://github.com/CanadaHonk/test262.fyi)
 * [2023-06-08, 10:15:39](https://lobste.rs/s/4j83f6/re_using_css_for_wrong_html_with_sass) - [Re-using CSS for the wrong HTML with Sass](https://lukeplant.me.uk/blog/posts/reusing-css-for-the-wrong-html-with-sass/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/graydon_hoare_rust_for_modern_cpp_devs) - [Graydon Hoare - Rust for Modern CPP Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
