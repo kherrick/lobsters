@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-08, 15:52:26",
+      "https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec"
+    ],
+    [
+      "Scrubbing sensitive data at 180MiB/sec/core",
+      "https://encore.dev/blog/scrubbing-sensitive-data"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 15:47:28",
+      "https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered"
+    ],
+    [
+      "Faster sorting algorithms discovered using deep reinforcement learning",
+      "https://www.nature.com/articles/s41586-023-06004-9"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 15:18:36",
       "https://lobste.rs/s/kwo90e/isolating_minecraft_with_magic"
     ],
@@ -227,26 +247,6 @@
     [
       "“csinc”, the AArch64 instruction you didn’t know you wanted",
       "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 15:55:05",
-      "https://lobste.rs/s/uhacke/webkit_features_safari_17_beta"
-    ],
-    [
-      "WebKit Features in Safari 17 beta",
-      "https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 12:42:15",
-      "https://lobste.rs/s/43hevj/tech_debt_metaphor_maximalism"
-    ],
-    [
-      "Tech debt metaphor maximalism",
-      "https://apenwarr.ca/log/20230605"
     ]
   ]
 ]
