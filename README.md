@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
 * [2023-06-08, 15:47:28](https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered) - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-08, 15:18:36](https://lobste.rs/s/kwo90e/isolating_minecraft_with_magic) - [Isolating Minecraft With Magic and Bubblewrap](https://ersei.net/en/blog/isolate-minecraft)
@@ -12,7 +13,6 @@
 * [2023-06-08, 07:24:46](https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool) - [Build backends for internal tools (Retool for backends)](https://subzero.cloud/)
 * [2023-06-08, 06:46:32](https://lobste.rs/s/phlfpq/re_encoding_riscv) - [Re encoding RISCV](https://github.com/shacron/sled/wiki/Re-encoding-RISCV)
 * [2023-06-08, 03:55:09](https://lobste.rs/s/cl7p8c/dnsocial) - [DNSocial](https://git.jon-e.net/jonny/DNSocial)
-* [2023-06-08, 02:12:27](https://lobste.rs/s/zf2hab/using_open_source_llms_optimize) - [Using open-source LLMs to optimize government data](https://adhoc.team/2023/06/07/using-open-source-llms-to-optimize-government-data/)
 * [2023-06-08, 00:41:49](https://lobste.rs/s/a6ztly/exploiting_sonos_one_speaker_three) - [Exploiting the Sonos One Speaker Three Different Ways: A Pwn2Own Toronto Highlight](https://www.zerodayinitiative.com/blog/2023/5/24/exploiting-the-sonos-one-speaker-three-different-ways-a-pwn2own-toronto-highlight)
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
