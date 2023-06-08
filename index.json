@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 13:44:06",
+      "https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using"
+    ],
+    [
+      "Douglas Crockford: “We should stop using JavaScript”",
+      "https://digest.browsertech.com/archive/browsertech-digest-9801/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 12:44:52",
       "https://lobste.rs/s/z3wnlp/test262_fyi_daily_runner_test262_for_many"
     ],
@@ -167,16 +177,6 @@
     [
       "Languages Zoo",
       "https://blog.fogus.me/2023/06/02/languages-zoo/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 11:16:49",
-      "https://lobste.rs/s/eg93ss/debugging_outside_your_comfort_zone"
-    ],
-    [
-      "Debugging Outside Your Comfort Zone: Diving Beneath a Trusted Abstraction",
-      "https://www.infoq.com/articles/debugging-beneath-trusted-abstraction/"
     ]
   ],
   [
