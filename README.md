@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 19:24:51](https://lobste.rs/s/njehxs/mlfix_quickly_fix_datasets) - [MLfix to quickly fix datasets](https://www.collabora.com/news-and-blog/blog/2023/06/08/mlfix-to-quickly-fix-datasets/)
 * [2023-06-08, 19:12:20](https://lobste.rs/s/spyztm/linux_on_7th_generation_consoles_part_2) - [Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo](https://www.lilysthings.org/blog/linux-on-ps3/)
 * [2023-06-08, 18:26:36](https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june) - [The Apollo Reddit client will shut down June 30](https://reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
@@ -18,7 +19,6 @@
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 21:07:10](https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe) - [Abusing undocumented features to spoof PE section headers](https://secret.club/2023/06/05/spoof-pe-sections.html)
 * [2023-06-07, 15:50:44](https://lobste.rs/s/0tanqc/pystack_like_pstack_for_python) - [pystack: Like pstack but for Python](https://github.com/bloomberg/pystack)
-* [2023-06-07, 15:22:41](https://lobste.rs/s/d8ufy0/opensuse_leap_15_5_released) - [OpenSUSE Leap 15.5 released](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 14:07:41](https://lobste.rs/s/8kulzf/cuneicode_future_text_c) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
