@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 02:12:27",
+      "https://lobste.rs/s/zf2hab/using_open_source_llms_optimize"
+    ],
+    [
+      "Using open-source LLMs to optimize government data",
+      "https://adhoc.team/2023/06/07/using-open-source-llms-to-optimize-government-data/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 00:41:49",
       "https://lobste.rs/s/a6ztly/exploiting_sonos_one_speaker_three"
     ],
@@ -72,10 +82,10 @@
   [
     [
       "2023-06-07, 13:23:30",
-      "https://lobste.rs/s/73yqku/writing_vector_database_week_rust_dzone"
+      "https://lobste.rs/s/73yqku/writing_vector_database_week_rust"
     ],
     [
-      "Writing a Vector Database in a Week in Rust - DZone",
+      "Writing a Vector Database in a Week in Rust",
       "https://dzone.com/articles/writing-a-vector-database-in-a-week-in-rust"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Developing Nix Libraries with Subflakes",
       "https://figsoda.github.io/posts/2023/developing-nix-libraries-with-subflakes/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 17:40:17",
-      "https://lobste.rs/s/trvudb/c_standard_library_function_isspace"
-    ],
-    [
-      "The C Standard Library Function isspace() Depends on Locale",
-      "https://www.evanjones.ca/isspace_locale.html"
     ]
   ],
   [
