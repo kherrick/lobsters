@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
+* [2023-06-08, 15:47:28](https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered) - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-08, 15:18:36](https://lobste.rs/s/kwo90e/isolating_minecraft_with_magic) - [Isolating Minecraft With Magic and Bubblewrap](https://ersei.net/en/blog/isolate-minecraft)
 * [2023-06-08, 15:16:04](https://lobste.rs/s/mkzcsl/fantasary_prototyping_object_world_tcp) - [\"Fantasary\" - prototyping an object world (& TCP netlayer) at the Lisp Game Jam](https://spritely.institute/news/lisp-game-jam---fantasary---prototyping-an-object-world--tcp-netlayer.html)
 * [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
@@ -23,8 +25,6 @@
 * [2023-06-07, 10:18:09](https://lobste.rs/s/nojjy3/microsoft_improves_c_support_visual) - [Microsoft improves C# support in Visual Studio Code but full commercial use requires paid license](https://devclass.com/2023/06/07/microsoft-improves-c-support-in-visual-studio-code-but-full-commercial-use-requires-paid-license/)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-07, 05:41:53](https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
-* [2023-06-06, 15:55:05](https://lobste.rs/s/uhacke/webkit_features_safari_17_beta) - [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
-* [2023-06-06, 12:42:15](https://lobste.rs/s/43hevj/tech_debt_metaphor_maximalism) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/20230605)
 
 ## [Archives](archives/index.md)
 

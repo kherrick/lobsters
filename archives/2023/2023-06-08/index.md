@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
+* [2023-06-08, 15:47:28](https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered) - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-08, 15:18:36](https://lobste.rs/s/kwo90e/isolating_minecraft_with_magic) - [Isolating Minecraft With Magic and Bubblewrap](https://ersei.net/en/blog/isolate-minecraft)
 * [2023-06-08, 15:16:04](https://lobste.rs/s/mkzcsl/fantasary_prototyping_object_world_tcp) - [\"Fantasary\" - prototyping an object world (& TCP netlayer) at the Lisp Game Jam](https://spritely.institute/news/lisp-game-jam---fantasary---prototyping-an-object-world--tcp-netlayer.html)
 * [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
