@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 * [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:35:32](https://lobste.rs/s/o6echm/depth_first_procrastination) - [Depth-First Procrastination](https://borretti.me/article/depth-first-procrastination)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
@@ -22,7 +23,6 @@
 * [2023-06-08, 10:15:39](https://lobste.rs/s/4j83f6/re_using_css_for_wrong_html_with_sass) - [Re-using CSS for the wrong HTML with Sass](https://lukeplant.me.uk/blog/posts/reusing-css-for-the-wrong-html-with-sass/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/rust_for_modern_c_devs_2022) - [Rust for Modern C++ Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
 * [2023-06-08, 03:55:09](https://lobste.rs/s/cl7p8c/dnsocial) - [DNSocial](https://git.jon-e.net/jonny/DNSocial)
-* [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
 
