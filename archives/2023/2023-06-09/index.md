@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 17:39:35](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend)
 * [2023-06-09, 15:32:55](https://lobste.rs/s/a89ovs/fallacy_ai_functionality) - [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
 * [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 15:01:40](https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)

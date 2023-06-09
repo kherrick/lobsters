@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 17:39:35](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend)
 * [2023-06-09, 15:32:55](https://lobste.rs/s/a89ovs/fallacy_ai_functionality) - [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
 * [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 15:01:40](https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
@@ -13,7 +14,6 @@
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 04:17:09](https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land) - [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
-* [2023-06-09, 04:14:51](https://lobste.rs/s/wg5fid/parsing_ip_addresses_crazily_fast) - [Parsing IP addresses crazily fast](https://lemire.me/blog/2023/06/08/parsing-ip-addresses-crazily-fast/)
 * [2023-06-09, 03:52:01](https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer) - [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 * [2023-06-09, 02:27:16](https://lobste.rs/s/7ncs8s/developers_are_lazy_thus_flatpak) - [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
 * [2023-06-08, 22:54:14](https://lobste.rs/s/ihjcym/online_karnaugh_map_solver_with_circuit) - [Online Karnaugh map solver with circuit for up to 6 variables](http://32x8.com/index.html)
