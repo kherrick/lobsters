@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-08, 22:08:47",
-      "https://lobste.rs/s/kemxvp/beggar_barons"
-    ],
-    [
-      "The Beggar Barons",
-      "https://zedshaw.com/blog/2022-02-05-the-beggar-barons/"
-    ]
-  ],
-  [
-    [
       "2023-06-08, 20:40:48",
       "https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers"
     ],
@@ -47,16 +37,6 @@
     [
       "Linux on the 7th Generation of Consoles Part 2: Playstation 3 and Gentoo",
       "https://www.lilysthings.org/blog/linux-on-ps3/"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 18:26:36",
-      "https://lobste.rs/s/biqc7f/apollo_reddit_client_will_shut_down_june"
-    ],
-    [
-      "The Apollo Reddit client will shut down June 30",
-      "https://reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2023-06-08, 06:46:32",
+      "https://lobste.rs/s/phlfpq/re_encoding_riscv"
+    ],
+    [
+      "Re encoding RISCV",
+      "https://github.com/shacron/sled/wiki/Re-encoding-RISCV"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 03:55:09",
       "https://lobste.rs/s/cl7p8c/dnsocial"
     ],
@@ -247,6 +237,16 @@
     [
       "Mojo is a much better \"Objective-C without the C\" than Swift ever was",
       "https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 05:41:53",
+      "https://lobste.rs/s/zlkdm5/csinc_aarch64_instruction_you_didn_t_know"
+    ],
+    [
+      "“csinc”, the AArch64 instruction you didn’t know you wanted",
+      "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/"
     ]
   ]
 ]
