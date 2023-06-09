@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-09, 15:01:40",
+      "https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15"
+    ],
+    [
+      "Building arbitrary Life patterns in 15 gliders",
+      "https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 14:54:03",
+      "https://lobste.rs/s/un2nt7/cube_sed"
+    ],
+    [
+      "cube.sed",
+      "https://github.com/izabera/cube.sed/"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 14:14:48",
       "https://lobste.rs/s/fz0sha/wasmati_you_should_write_your"
     ],
@@ -77,16 +97,6 @@
     [
       "Fun Format Friday: You've awoken to 1960",
       "https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 05:08:38",
-      "https://lobste.rs/s/1efefa/how_desmos_uses_pratt_parsers_2018"
-    ],
-    [
-      "How Desmos uses Pratt Parsers (2018)",
-      "https://engineering.desmos.com/articles/pratt-parser/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Rust for Modern C++ Devs [2022]",
       "http://venge.net/graydon/talks/RustForModernCPPDevs.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 13:04:55",
-      "https://lobste.rs/s/0r1whx/sicp_emacs"
-    ],
-    [
-      "SICP in Emacs",
-      "https://kchousos.github.io/posts/sicp-in-emacs/"
     ]
   ]
 ]
