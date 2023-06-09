@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 06:33:55](https://lobste.rs/s/fgwriz/demo_using_llm_chatgpt_as_personal) - [DEMO: Using LLM & ChatGPT as personal assistant](https://forms.gle/SYnoYRoziwHHkp7U9)
 * [2023-06-09, 05:08:38](https://lobste.rs/s/1efefa/how_desmos_uses_pratt_parsers_2018) - [How Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 04:17:09](https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land) - [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)

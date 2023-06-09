@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 06:33:55](https://lobste.rs/s/fgwriz/demo_using_llm_chatgpt_as_personal) - [DEMO: Using LLM & ChatGPT as personal assistant](https://forms.gle/SYnoYRoziwHHkp7U9)
 * [2023-06-09, 05:08:38](https://lobste.rs/s/1efefa/how_desmos_uses_pratt_parsers_2018) - [How Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 04:17:09](https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land) - [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
@@ -16,7 +17,6 @@
 * [2023-06-08, 15:16:04](https://lobste.rs/s/mkzcsl/fantasary_prototyping_object_world_tcp) - [\"Fantasary\" - prototyping an object world (& TCP netlayer) at the Lisp Game Jam](https://spritely.institute/news/lisp-game-jam---fantasary---prototyping-an-object-world--tcp-netlayer.html)
 * [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
-* [2023-06-08, 12:44:52](https://lobste.rs/s/z3wnlp/test262_fyi_daily_runner_test262_for_many) - [test262.fyi: Daily runner of test262 for many engines](https://github.com/CanadaHonk/test262.fyi)
 * [2023-06-08, 10:15:39](https://lobste.rs/s/4j83f6/re_using_css_for_wrong_html_with_sass) - [Re-using CSS for the wrong HTML with Sass](https://lukeplant.me.uk/blog/posts/reusing-css-for-the-wrong-html-with-sass/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/rust_for_modern_c_devs_2022) - [Rust for Modern C++ Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
 * [2023-06-08, 07:24:46](https://lobste.rs/s/lpalcq/build_backends_for_internal_tools_retool) - [Build backends for internal tools (Retool for backends)](https://subzero.cloud/)
