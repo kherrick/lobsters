@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-09, 14:14:48",
+      "https://lobste.rs/s/fz0sha/wasmati_you_should_write_your"
+    ],
+    [
+      "wasmati: You should write your WebAssembly in TypeScript",
+      "https://www.zksecurity.xyz/blog/posts/wasmati/"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 14:06:39",
       "https://lobste.rs/s/iahjqa/turbo_boost"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust for Modern C++ Devs [2022]",
       "http://venge.net/graydon/talks/RustForModernCPPDevs.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 14:51:23",
-      "https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser"
-    ],
-    [
-      "Modded Minecraft Malware \"fractureiser\" - What We Know",
-      "https://github.com/fractureiser-investigation/fractureiser"
     ]
   ],
   [
