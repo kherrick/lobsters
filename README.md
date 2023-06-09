@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 05:08:38](https://lobste.rs/s/1efefa/how_desmos_uses_pratt_parsers_2018) - [How Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 04:17:09](https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land) - [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 * [2023-06-09, 04:14:51](https://lobste.rs/s/wg5fid/parsing_ip_addresses_crazily_fast) - [Parsing IP addresses crazily fast](https://lemire.me/blog/2023/06/08/parsing-ip-addresses-crazily-fast/)
@@ -23,7 +24,6 @@
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
-* [2023-06-07, 12:20:52](https://lobste.rs/s/clgw1t/languages_zoo) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 
 ## [Archives](archives/index.md)
