@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 * [2023-06-09, 17:39:35](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend)
 * [2023-06-09, 15:32:55](https://lobste.rs/s/a89ovs/fallacy_ai_functionality) - [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
 * [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
@@ -22,7 +23,6 @@
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
 * [2023-06-08, 15:47:28](https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered) - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
-* [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/rust_for_modern_c_devs_2022) - [Rust for Modern C++ Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)
 
