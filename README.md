@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 15:01:40](https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
 * [2023-06-09, 14:14:48](https://lobste.rs/s/fz0sha/wasmati_you_should_write_your) - [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
@@ -21,7 +22,6 @@
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
 * [2023-06-08, 15:47:28](https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered) - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
-* [2023-06-08, 15:16:04](https://lobste.rs/s/mkzcsl/fantasary_prototyping_object_world_tcp) - [\"Fantasary\" - prototyping an object world (& TCP netlayer) at the Lisp Game Jam](https://spritely.institute/news/lisp-game-jam---fantasary---prototyping-an-object-world--tcp-netlayer.html)
 * [2023-06-08, 14:59:12](https://lobste.rs/s/xttmfk/animated_jpeg_xl_decoding_added_ffmpeg) - [Animated JPEG XL decoding added to FFmpeg](https://github.com/FFmpeg/FFmpeg/commit/99da411322e1e8603149033138d6e87b58fe41a3)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-08, 08:30:59](https://lobste.rs/s/q07w1n/rust_for_modern_c_devs_2022) - [Rust for Modern C++ Devs [2022]](http://venge.net/graydon/talks/RustForModernCPPDevs.pdf)

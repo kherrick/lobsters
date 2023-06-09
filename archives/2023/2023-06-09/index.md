@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 15:01:40](https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
 * [2023-06-09, 14:14:48](https://lobste.rs/s/fz0sha/wasmati_you_should_write_your) - [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
