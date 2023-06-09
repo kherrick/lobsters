@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:35:32](https://lobste.rs/s/o6echm/depth_first_procrastination) - [Depth-First Procrastination](https://borretti.me/article/depth-first-procrastination)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
 * [2023-06-09, 06:33:55](https://lobste.rs/s/fgwriz/demo_using_llm_chatgpt_as_personal) - [DEMO: Using LLM & ChatGPT as personal assistant](https://forms.gle/SYnoYRoziwHHkp7U9)

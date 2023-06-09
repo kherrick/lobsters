@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:35:32](https://lobste.rs/s/o6echm/depth_first_procrastination) - [Depth-First Procrastination](https://borretti.me/article/depth-first-procrastination)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
 * [2023-06-09, 05:08:38](https://lobste.rs/s/1efefa/how_desmos_uses_pratt_parsers_2018) - [How Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
@@ -24,7 +25,6 @@
 * [2023-06-07, 22:34:36](https://lobste.rs/s/0r47te/why_liquid_haskell_matters) - [Why Liquid Haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 * [2023-06-07, 14:51:23](https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser) - [Modded Minecraft Malware \"fractureiser\" - What We Know](https://github.com/fractureiser-investigation/fractureiser)
 * [2023-06-07, 13:04:55](https://lobste.rs/s/0r1whx/sicp_emacs) - [SICP in Emacs](https://kchousos.github.io/posts/sicp-in-emacs/)
-* [2023-06-07, 08:45:40](https://lobste.rs/s/nppf8y/mojo_is_much_better_objective_c_without_c) - [Mojo is a much better \"Objective-C without the C\" than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 
 ## [Archives](archives/index.md)
 
