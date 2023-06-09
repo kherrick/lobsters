@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-09, 04:37:19",
+      "https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from"
+    ],
+    [
+      "acme.sh runs arbitrary commands from a remote server",
+      "https://github.com/acmesh-official/acme.sh/issues/4659"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 04:17:09",
       "https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-06-08, 06:46:32",
+      "https://lobste.rs/s/phlfpq/re_encoding_riscv"
+    ],
+    [
+      "Re encoding RISCV",
+      "https://github.com/shacron/sled/wiki/Re-encoding-RISCV"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 03:55:09",
       "https://lobste.rs/s/cl7p8c/dnsocial"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-07, 21:07:10",
-      "https://lobste.rs/s/sfvqfs/abusing_undocumented_features_spoof_pe"
-    ],
-    [
-      "Abusing undocumented features to spoof PE section headers",
-      "https://secret.club/2023/06/05/spoof-pe-sections.html"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 14:51:23",
       "https://lobste.rs/s/mvocki/modded_minecraft_malware_fractureiser"
     ],
@@ -227,16 +237,6 @@
     [
       "SICP in Emacs",
       "https://kchousos.github.io/posts/sicp-in-emacs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 12:20:52",
-      "https://lobste.rs/s/clgw1t/languages_zoo"
-    ],
-    [
-      "Languages Zoo",
-      "https://blog.fogus.me/2023/06/02/languages-zoo/"
     ]
   ],
   [
