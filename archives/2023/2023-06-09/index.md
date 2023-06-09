@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 14:14:48](https://lobste.rs/s/fz0sha/wasmati_you_should_write_your) - [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
 * [2023-06-09, 14:06:39](https://lobste.rs/s/iahjqa/turbo_boost) - [Turbo Boost](https://blog.cr.yp.to/20230609-turboboost.html)
 * [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)
 * [2023-06-09, 13:50:58](https://lobste.rs/s/ebkugw/hands_free_binary_deobfuscation_with) - [Hands-Free Binary Deobfuscation with gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/)
