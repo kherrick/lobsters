@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)
+* [2023-06-09, 13:50:58](https://lobste.rs/s/ebkugw/hands_free_binary_deobfuscation_with) - [Hands-Free Binary Deobfuscation with gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/)
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 * [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:35:32](https://lobste.rs/s/o6echm/depth_first_procrastination) - [Depth-First Procrastination](https://borretti.me/article/depth-first-procrastination)
