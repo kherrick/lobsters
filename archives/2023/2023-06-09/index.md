@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 * [2023-06-09, 17:39:35](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend)
 * [2023-06-09, 15:32:55](https://lobste.rs/s/a89ovs/fallacy_ai_functionality) - [The Fallacy of AI Functionality](https://dl.acm.org/doi/10.1145/3531146.3533158)
