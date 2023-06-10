@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 20:03:47",
+      "https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time"
+    ],
+    [
+      "CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server",
+      "https://github.com/jakobkhansen/CCDetect-lsp"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 19:33:05",
       "https://lobste.rs/s/it1nmg/websub_2018"
     ],
@@ -237,16 +247,6 @@
     [
       "acme.sh runs arbitrary commands from a remote server",
       "https://github.com/acmesh-official/acme.sh/issues/4659"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 03:52:01",
-      "https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer"
-    ],
-    [
-      "Monongahela: A Balanced Ternary Computer",
-      "https://wiki.alopex.li/TernaryComputer"
     ]
   ]
 ]
