@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 07:51:10",
+      "https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you"
+    ],
+    [
+      "LLMs are good at playing you",
+      "https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 06:43:27",
       "https://lobste.rs/s/hgc3ns/handoff_waste_taylorism"
     ],
@@ -177,16 +187,6 @@
     [
       "acme.sh runs arbitrary commands from a remote server",
       "https://github.com/acmesh-official/acme.sh/issues/4659"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 04:17:09",
-      "https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land"
-    ],
-    [
-      "Adventures in Debian's Qt land",
-      "https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/"
     ]
   ],
   [
