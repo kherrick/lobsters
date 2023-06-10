@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 20:03:47](https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time) - [CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server](https://github.com/jakobkhansen/CCDetect-lsp)
 * [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
 * [2023-06-10, 19:03:33](https://lobste.rs/s/ypwb34/musicgen_simple_controllable_music) - [MusicGen: Simple and Controllable Music Generation](https://ai.honu.io/papers/musicgen/)
@@ -24,7 +25,6 @@
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
-* [2023-06-09, 03:52:01](https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer) - [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 
 ## [Archives](archives/index.md)
 
