@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 11:18:28",
+      "https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models"
+    ],
+    [
+      "Levin Tree Search with Context Models",
+      "https://racket.discourse.group/t/levin-tree-search-with-context-models/1984"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 08:26:25",
       "https://lobste.rs/s/tr0ud5/allthingsoneplace_teardowns_reviews"
     ],
@@ -227,16 +237,6 @@
     [
       "Understanding GPT tokenizers",
       "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 16:00:21",
-      "https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up"
-    ],
-    [
-      "Understanding CPUs can help speed up Numba and NumPy code",
-      "https://pythonspeed.com/articles/speeding-up-numba/"
     ]
   ],
   [
