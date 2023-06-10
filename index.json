@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 19:06:42",
+      "https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang"
+    ],
+    [
+      "How much memory is needed to run 1M Erlang processes?",
+      "https://hauleth.dev/post/beam-process-memory-usage/"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 19:03:33",
       "https://lobste.rs/s/ypwb34/musicgen_simple_controllable_music"
     ],
@@ -177,16 +187,6 @@
     [
       "dark matter is not a theory",
       "https://www.youtube.com/watch?v=PbmJkMhmrVI"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 15:01:40",
-      "https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15"
-    ],
-    [
-      "Building arbitrary Life patterns in 15 gliders",
-      "https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/"
     ]
   ],
   [
