@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-10, 13:21:59",
+      "https://lobste.rs/s/ujh6g1/zig_language_server_cancellation"
+    ],
+    [
+      "Zig Language Server And Cancellation",
+      "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 13:17:47",
+      "https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor"
+    ],
+    [
+      "Breaking the black-box security coprocessor in the Nintendo Switch",
+      "https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 11:18:28",
       "https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-06-09, 14:14:48",
-      "https://lobste.rs/s/fz0sha/wasmati_you_should_write_your"
-    ],
-    [
-      "wasmati: You should write your WebAssembly in TypeScript",
-      "https://www.zksecurity.xyz/blog/posts/wasmati/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 14:06:39",
       "https://lobste.rs/s/iahjqa/turbo_boost"
     ],
@@ -227,16 +237,6 @@
     [
       "Developers are lazy, thus Flatpak",
       "https://blog.brixit.nl/developers-are-lazy-thus-flatpak/"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 20:40:48",
-      "https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers"
-    ],
-    [
-      "Understanding GPT tokenizers",
-      "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/"
     ]
   ],
   [
