@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
 * [2023-06-10, 19:03:33](https://lobste.rs/s/ypwb34/musicgen_simple_controllable_music) - [MusicGen: Simple and Controllable Music Generation](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
@@ -9,7 +10,6 @@
 * [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 11:18:28](https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models) - [Levin Tree Search with Context Models](https://racket.discourse.group/t/levin-tree-search-with-context-models/1984)
-* [2023-06-10, 08:26:25](https://lobste.rs/s/tr0ud5/teardowns_reviews_usb_c_power_adapters) - [Teardowns and reviews of USB-C power adapters](https://www.allthingsoneplace.com/video-list)
 * [2023-06-10, 07:52:56](https://lobste.rs/s/7t0ed8/how_strengths_lisp_family_languages) - [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://academic.oup.com/bib/article/19/3/537/2769437)
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
