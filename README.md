@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
 * [2023-06-10, 20:03:47](https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time) - [CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server](https://github.com/jakobkhansen/CCDetect-lsp)
 * [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
@@ -18,7 +19,6 @@
 * [2023-06-10, 00:01:24](https://lobste.rs/s/r6bisg/why_do_ml_on_erlang_vm) - [Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
-* [2023-06-09, 17:39:35](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rm6xll/what_are_you_doing_this_weekend)
 * [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
 * [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)

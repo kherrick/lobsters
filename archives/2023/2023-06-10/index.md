@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
 * [2023-06-10, 20:03:47](https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time) - [CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server](https://github.com/jakobkhansen/CCDetect-lsp)
 * [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
