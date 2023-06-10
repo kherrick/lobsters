@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
 * [2023-06-10, 03:58:26](https://lobste.rs/s/pffapj/how_pix_firewall_nat_saved_internet) - [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
 * [2023-06-10, 00:01:24](https://lobste.rs/s/r6bisg/why_do_ml_on_erlang_vm) - [Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
@@ -13,7 +14,6 @@
 * [2023-06-09, 14:14:48](https://lobste.rs/s/fz0sha/wasmati_you_should_write_your) - [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
 * [2023-06-09, 14:06:39](https://lobste.rs/s/iahjqa/turbo_boost) - [Turbo Boost](https://blog.cr.yp.to/20230609-turboboost.html)
 * [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)
-* [2023-06-09, 13:50:58](https://lobste.rs/s/ebkugw/hands_free_binary_deobfuscation_with) - [Hands-Free Binary Deobfuscation with gooMBA](https://hex-rays.com/blog/deobfuscation-with-goomba/)
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 * [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
