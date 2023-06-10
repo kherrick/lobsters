@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+* [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 11:18:28](https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models) - [Levin Tree Search with Context Models](https://racket.discourse.group/t/levin-tree-search-with-context-models/1984)
 * [2023-06-10, 08:26:25](https://lobste.rs/s/tr0ud5/teardowns_reviews_usb_c_power_adapters) - [Teardowns and reviews of USB-C power adapters](https://www.allthingsoneplace.com/video-list)
 * [2023-06-10, 08:26:25](https://lobste.rs/s/tr0ud5/allthingsoneplace_teardowns_reviews) - [AllThingsOnePlace: Teardowns and reviews of USB-C power adapters](https://www.allthingsoneplace.com/video-list)

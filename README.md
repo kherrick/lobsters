@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+* [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 11:18:28](https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models) - [Levin Tree Search with Context Models](https://racket.discourse.group/t/levin-tree-search-with-context-models/1984)
 * [2023-06-10, 08:26:25](https://lobste.rs/s/tr0ud5/teardowns_reviews_usb_c_power_adapters) - [Teardowns and reviews of USB-C power adapters](https://www.allthingsoneplace.com/video-list)
 * [2023-06-10, 07:52:56](https://lobste.rs/s/7t0ed8/how_strengths_lisp_family_languages) - [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://academic.oup.com/bib/article/19/3/537/2769437)
@@ -15,7 +17,6 @@
 * [2023-06-09, 15:17:08](https://lobste.rs/s/ejltdd/dark_matter_is_not_theory) - [dark matter is not a theory](https://www.youtube.com/watch?v=PbmJkMhmrVI)
 * [2023-06-09, 15:01:40](https://lobste.rs/s/ljf9xt/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
-* [2023-06-09, 14:14:48](https://lobste.rs/s/fz0sha/wasmati_you_should_write_your) - [wasmati: You should write your WebAssembly in TypeScript](https://www.zksecurity.xyz/blog/posts/wasmati/)
 * [2023-06-09, 14:06:39](https://lobste.rs/s/iahjqa/turbo_boost) - [Turbo Boost](https://blog.cr.yp.to/20230609-turboboost.html)
 * [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
@@ -23,7 +24,6 @@
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 03:52:01](https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer) - [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 * [2023-06-09, 02:27:16](https://lobste.rs/s/7ncs8s/developers_are_lazy_thus_flatpak) - [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
-* [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 
 ## [Archives](archives/index.md)
