@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 07:52:56](https://lobste.rs/s/7t0ed8/how_strengths_lisp_family_languages) - [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://academic.oup.com/bib/article/19/3/537/2769437)
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
@@ -23,7 +24,6 @@
 * [2023-06-09, 02:27:16](https://lobste.rs/s/7ncs8s/developers_are_lazy_thus_flatpak) - [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
 * [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
-* [2023-06-08, 15:52:26](https://lobste.rs/s/fuvcur/scrubbing_sensitive_data_at_180mib_sec) - [Scrubbing sensitive data at 180MiB/sec/core](https://encore.dev/blog/scrubbing-sensitive-data)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 
 ## [Archives](archives/index.md)
