@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 11:18:28](https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models) - [Levin Tree Search with Context Models](https://racket.discourse.group/t/levin-tree-search-with-context-models/1984)
 * [2023-06-10, 08:26:25](https://lobste.rs/s/tr0ud5/allthingsoneplace_teardowns_reviews) - [AllThingsOnePlace: Teardowns and reviews of USB-C power adapters](https://www.allthingsoneplace.com/video-list)
 * [2023-06-10, 07:52:56](https://lobste.rs/s/7t0ed8/how_strengths_lisp_family_languages) - [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://academic.oup.com/bib/article/19/3/537/2769437)
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
@@ -23,7 +24,6 @@
 * [2023-06-09, 03:52:01](https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer) - [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 * [2023-06-09, 02:27:16](https://lobste.rs/s/7ncs8s/developers_are_lazy_thus_flatpak) - [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
 * [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
-* [2023-06-08, 16:00:21](https://lobste.rs/s/ltiaci/understanding_cpus_can_help_speed_up) - [Understanding CPUs can help speed up Numba and NumPy code](https://pythonspeed.com/articles/speeding-up-numba/)
 * [2023-06-08, 13:44:06](https://lobste.rs/s/cy0w2e/douglas_crockford_we_should_stop_using) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 
 ## [Archives](archives/index.md)
