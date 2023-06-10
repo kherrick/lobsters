@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
 * [2023-06-10, 03:58:26](https://lobste.rs/s/pffapj/how_pix_firewall_nat_saved_internet) - [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
@@ -18,7 +19,6 @@
 * [2023-06-09, 13:20:46](https://lobste.rs/s/yrt3sp/trees_graphs) - [Trees and Graphs](https://www.crockford.com/graphs.html)
 * [2023-06-09, 12:03:42](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960) - [Fun Format Friday: You've awoken to 1960](https://lobste.rs/s/rss9tr/fun_format_friday_you_ve_awoken_1960)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
-* [2023-06-09, 04:17:09](https://lobste.rs/s/gbnhcb/adventures_debian_s_qt_land) - [Adventures in Debian's Qt land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 * [2023-06-09, 03:52:01](https://lobste.rs/s/hckqhx/monongahela_balanced_ternary_computer) - [Monongahela: A Balanced Ternary Computer](https://wiki.alopex.li/TernaryComputer)
 * [2023-06-09, 02:27:16](https://lobste.rs/s/7ncs8s/developers_are_lazy_thus_flatpak) - [Developers are lazy, thus Flatpak](https://blog.brixit.nl/developers-are-lazy-thus-flatpak/)
 * [2023-06-08, 20:40:48](https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)

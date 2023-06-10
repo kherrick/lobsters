@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
 * [2023-06-10, 03:58:26](https://lobste.rs/s/pffapj/how_pix_firewall_nat_saved_internet) - [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
