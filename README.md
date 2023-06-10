@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 14:24:32](https://lobste.rs/s/4ffp1s/how_use_optimized_images_astro) - [How to use optimized images in Astro](https://fogbender.com/blog/optimize-images-in-astro-with-assets-integration)
 * [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
@@ -10,7 +11,6 @@
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
-* [2023-06-10, 03:58:26](https://lobste.rs/s/pffapj/how_pix_firewall_nat_saved_internet) - [How the PIX Firewall and NAT Saved the Internet](https://youtu.be/GLrfqtf4txw)
 * [2023-06-10, 00:01:24](https://lobste.rs/s/r6bisg/why_do_ml_on_erlang_vm) - [Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
