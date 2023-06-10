@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-10, 04:12:31",
+      "https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023"
+    ],
+    [
+      "Haiku Activity & Contract Report, May 2023",
+      "https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 03:58:26",
+      "https://lobste.rs/s/pffapj/how_pix_firewall_nat_saved_internet"
+    ],
+    [
+      "How the PIX Firewall and NAT Saved the Internet",
+      "https://youtu.be/GLrfqtf4txw"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 00:01:24",
       "https://lobste.rs/s/r6bisg/why_do_ml_on_erlang_vm"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-08, 22:54:14",
-      "https://lobste.rs/s/ihjcym/online_karnaugh_map_solver_with_circuit"
-    ],
-    [
-      "Online Karnaugh map solver with circuit for up to 6 variables",
-      "http://32x8.com/index.html"
-    ]
-  ],
-  [
-    [
       "2023-06-08, 20:40:48",
       "https://lobste.rs/s/ohmh8t/understanding_gpt_tokenizers"
     ],
@@ -227,16 +237,6 @@
     [
       "Scrubbing sensitive data at 180MiB/sec/core",
       "https://encore.dev/blog/scrubbing-sensitive-data"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 15:47:28",
-      "https://lobste.rs/s/av41wn/faster_sorting_algorithms_discovered"
-    ],
-    [
-      "Faster sorting algorithms discovered using deep reinforcement learning",
-      "https://www.nature.com/articles/s41586-023-06004-9"
     ]
   ],
   [
