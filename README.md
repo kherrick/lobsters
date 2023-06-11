@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-11, 14:34:36](https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense) - [Low Level PC/Server Attack & Defense Timeline](https://darkmentor.com/timeline.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 * [2023-06-11, 12:25:19](https://lobste.rs/s/ncv9my/understanding_deepmind_s_alphadev) - [Understanding DeepMind's AlphaDev Breakthrough in Optimizing Sorting Algorithms](https://codeconfessions.substack.com/p/exploring-deepminds-alphadev-breakthrough)
 * [2023-06-11, 10:32:35](https://lobste.rs/s/nzozlk/gnu_s_bulletin_volume_1_no_1_1986) - [GNU's Bulletin Volume 1 No. 1 (1986)](https://www.gnu.org/bulletins/bull1.txt)
@@ -11,7 +12,6 @@
 * [2023-06-10, 20:03:47](https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time) - [CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server](https://github.com/jakobkhansen/CCDetect-lsp)
 * [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
-* [2023-06-10, 19:03:33](https://lobste.rs/s/ypwb34/musicgen_simple_controllable_music) - [MusicGen: Simple and Controllable Music Generation](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
 * [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
