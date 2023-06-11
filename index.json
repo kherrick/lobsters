@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-11, 19:00:08",
+      "https://lobste.rs/s/9ukhzm/can_you_trust_chatgpt_s_package"
+    ],
+    [
+      "Can you trust ChatGPT’s package recommendations?",
+      "https://vulcan.io/blog/ai-hallucinations-package-risk"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 18:10:28",
       "https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6"
     ],
@@ -157,16 +167,6 @@
     [
       "Debian 12 \"bookworm\" released",
       "https://www.debian.org/News/2023/20230610"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 14:24:32",
-      "https://lobste.rs/s/4ffp1s/how_use_optimized_images_astro"
-    ],
-    [
-      "How to use optimized images in Astro",
-      "https://fogbender.com/blog/optimize-images-in-astro-with-assets-integration"
     ]
   ],
   [
