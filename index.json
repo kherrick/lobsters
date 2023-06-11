@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-11, 14:34:36",
+      "https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense"
+    ],
+    [
+      "Low Level PC/Server Attack & Defense Timeline",
+      "https://darkmentor.com/timeline.html"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 12:42:31",
       "https://lobste.rs/s/geecgb/history_effective_use_vim"
     ],
@@ -107,16 +117,6 @@
     [
       "How much memory is needed to run 1M Erlang processes?",
       "https://hauleth.dev/post/beam-process-memory-usage/"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 19:03:33",
-      "https://lobste.rs/s/ypwb34/musicgen_simple_controllable_music"
-    ],
-    [
-      "MusicGen: Simple and Controllable Music Generation",
-      "https://ai.honu.io/papers/musicgen/"
     ]
   ],
   [
