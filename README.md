@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-11, 04:15:37](https://lobste.rs/s/fygopa/what_heck_is_gevent_2020) - [What the heck is gevent? (2020)](https://eng.lyft.com/what-the-heck-is-gevent-4e87db98a8)
 * [2023-06-11, 01:25:04](https://lobste.rs/s/71ycgr/animating_with_code_motion_canvas) - [Animating with Code - Motion Canvas](https://www.youtube.com/watch?v=WTUafAwrunE)
 * [2023-06-11, 01:21:48](https://lobste.rs/s/fh2lvv/vore_new_rss_feed_reader) - [vore: a new rss feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-06-11, 01:19:15](https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal) - [HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/HigherOrderCO/HVM)
@@ -14,7 +15,6 @@
 * [2023-06-10, 14:24:32](https://lobste.rs/s/4ffp1s/how_use_optimized_images_astro) - [How to use optimized images in Astro](https://fogbender.com/blog/optimize-images-in-astro-with-assets-integration)
 * [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
-* [2023-06-10, 11:18:28](https://lobste.rs/s/evhvyi/levin_tree_search_with_context_models) - [Levin Tree Search with Context Models](https://racket.discourse.group/t/levin-tree-search-with-context-models/1984)
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
