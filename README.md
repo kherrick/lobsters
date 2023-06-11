@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-11, 19:00:08](https://lobste.rs/s/9ukhzm/can_you_trust_chatgpt_s_package) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
@@ -21,7 +22,6 @@
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
-* [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)

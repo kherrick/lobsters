@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-11, 19:00:08](https://lobste.rs/s/9ukhzm/can_you_trust_chatgpt_s_package) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
