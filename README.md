@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
 * [2023-06-11, 14:34:36](https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense) - [Low Level PC/Server Attack & Defense Timeline](https://darkmentor.com/timeline.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 * [2023-06-11, 12:25:19](https://lobste.rs/s/ncv9my/understanding_deepmind_s_alphadev) - [Understanding DeepMind's AlphaDev Breakthrough in Optimizing Sorting Algorithms](https://codeconfessions.substack.com/p/exploring-deepminds-alphadev-breakthrough)
@@ -24,7 +25,6 @@
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
-* [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 
 ## [Archives](archives/index.md)
 
