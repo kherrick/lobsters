@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
+* [2023-06-11, 12:25:19](https://lobste.rs/s/ncv9my/understanding_deepmind_s_alphadev) - [Understanding DeepMind's AlphaDev Breakthrough in Optimizing Sorting Algorithms](https://codeconfessions.substack.com/p/exploring-deepminds-alphadev-breakthrough)
 * [2023-06-11, 10:32:35](https://lobste.rs/s/nzozlk/gnu_s_bulletin_volume_1_no_1_1986) - [GNU's Bulletin Volume 1 No. 1 (1986)](https://www.gnu.org/bulletins/bull1.txt)
 * [2023-06-11, 04:15:37](https://lobste.rs/s/fygopa/what_heck_is_gevent_2020) - [What the heck is gevent? (2020)](https://eng.lyft.com/what-the-heck-is-gevent-4e87db98a8)
 * [2023-06-11, 01:25:04](https://lobste.rs/s/71ycgr/animating_with_code_motion_canvas) - [Animating with Code - Motion Canvas](https://www.youtube.com/watch?v=WTUafAwrunE)
@@ -18,11 +20,9 @@
 * [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 07:51:10](https://lobste.rs/s/ze3zuy/llms_are_good_at_playing_you) - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
-* [2023-06-10, 04:12:31](https://lobste.rs/s/t8xekb/haiku_activity_contract_report_may_2023) - [Haiku Activity & Contract Report, May 2023](https://www.haiku-os.org/blog/waddlesplash/2023-06-09_haiku_activity_contract_report_may_2023/)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 * [2023-06-09, 14:54:03](https://lobste.rs/s/un2nt7/cube_sed) - [cube.sed](https://github.com/izabera/cube.sed/)
-* [2023-06-09, 13:52:20](https://lobste.rs/s/boru64/austral_programming_language) - [The Austral Programming Language](https://austral-lang.org/)
 * [2023-06-09, 13:24:36](https://lobste.rs/s/qiy7if/monitoring_is_pain) - [Monitoring is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 * [2023-06-09, 04:37:19](https://lobste.rs/s/uufguo/acme_sh_runs_arbitrary_commands_from) - [acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 
