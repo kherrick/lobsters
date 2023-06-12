@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-12, 08:32:25",
+      "https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links"
+    ],
+    [
+      "Can we be stricter about removing links with modal popups?",
+      "https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 06:48:44",
       "https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet"
     ],
@@ -217,16 +227,6 @@
     [
       "Debian 12 \"bookworm\" released",
       "https://www.debian.org/News/2023/20230610"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 13:21:59",
-      "https://lobste.rs/s/ujh6g1/zig_language_server_cancellation"
-    ],
-    [
-      "Zig Language Server And Cancellation",
-      "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
     ]
   ],
   [
