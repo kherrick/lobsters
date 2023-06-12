@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 19:10:49](https://lobste.rs/s/iqen3s/qt_net_hosting_net_code_qt_application) - [Qt/.NET — Hosting .NET code in a Qt application](https://www.qt.io/blog/qt/.net-hosting-.net-code-in-a-qt-application)
 * [2023-06-12, 19:01:22](https://lobste.rs/s/7vful4/5nf_missing_use_case) - [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
 * [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 17:30:29](https://lobste.rs/s/2d6wus/understanding_deepmind_s_sorting) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
