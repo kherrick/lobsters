@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 12:19:49](https://lobste.rs/s/m96uae/monad_transformers_101) - [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
 * [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
 * [2023-06-12, 11:53:25](https://lobste.rs/s/94f1ta/modern_css_real_life) - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
