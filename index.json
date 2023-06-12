@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-12, 17:30:29",
-      "https://lobste.rs/s/2d6wus/understanding_deepmind_s_sorting"
-    ],
-    [
-      "Understanding DeepMind's Sorting Algorithm",
-      "https://justine.lol/sorting/"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 16:41:12",
       "https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with"
     ],
@@ -227,6 +217,16 @@
     [
       "History and effective use of Vim",
       "https://begriffs.com/posts/2019-07-19-history-use-vim.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 01:19:15",
+      "https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal"
+    ],
+    [
+      "HVM: A massively parallel, optimal functional runtime in Rust",
+      "https://github.com/HigherOrderCO/HVM"
     ]
   ],
   [
