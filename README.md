@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 06:48:44](https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet) - [Look up word definitions with WordNet and a shell script](https://tokyoma.de/microsth/pub.php?page=wordnet-script)
 * [2023-06-12, 05:35:51](https://lobste.rs/s/won4bb/fractal_software_for_fractal_futures) - [Fractal software for fractal futures](https://fossil-milk-962.notion.site/Fractal-software-for-fractal-futures-71e515597d6b424c994cae74f3341521?pvs=4)
 * [2023-06-12, 02:12:40](https://lobste.rs/s/v0mkr6/grayc_greybox_fuzzing_compilers) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C](https://srg.doc.ic.ac.uk/projects/grayc/)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
@@ -22,7 +23,6 @@
 * [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-* [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 
