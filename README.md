@@ -7,7 +7,6 @@
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
-* [2023-06-11, 19:00:08](https://lobste.rs/s/9ukhzm/can_you_trust_chatgpt_s_package) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 * [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
 * [2023-06-11, 14:34:36](https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense) - [Low Level PC/Server Attack & Defense Timeline](https://darkmentor.com/timeline.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
@@ -23,6 +22,7 @@
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
 * [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
+* [2023-06-10, 13:21:59](https://lobste.rs/s/ujh6g1/zig_language_server_cancellation) - [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 
