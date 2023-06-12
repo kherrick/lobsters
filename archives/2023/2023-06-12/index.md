@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 20:04:14](https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter) - [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
+* [2023-06-12, 20:01:25](https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity) - [Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures](https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf)
 * [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)

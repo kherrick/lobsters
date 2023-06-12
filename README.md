@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 20:04:14](https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter) - [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
+* [2023-06-12, 20:01:25](https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity) - [Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures](https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf)
 * [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
@@ -19,12 +21,10 @@
 * [2023-06-12, 08:32:25](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links) - [Can we be stricter about removing links with modal popups?](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links)
 * [2023-06-12, 06:48:44](https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet) - [Look up word definitions with WordNet and a shell script](https://tokyoma.de/microsth/pub.php?page=wordnet-script)
 * [2023-06-12, 05:35:51](https://lobste.rs/s/won4bb/fractal_software_for_fractal_futures) - [Fractal software for fractal futures](https://fossil-milk-962.notion.site/Fractal-software-for-fractal-futures-71e515597d6b424c994cae74f3341521?pvs=4)
-* [2023-06-12, 02:12:40](https://lobste.rs/s/v0mkr6/grayc_greybox_fuzzing_compilers) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C](https://srg.doc.ic.ac.uk/projects/grayc/)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
-* [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
 
 ## [Archives](archives/index.md)
 
