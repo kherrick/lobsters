@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 12:19:49](https://lobste.rs/s/m96uae/monad_transformers_101) - [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
+* [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
 * [2023-06-12, 11:53:25](https://lobste.rs/s/94f1ta/modern_css_real_life) - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 * [2023-06-12, 11:48:58](https://lobste.rs/s/ya6wl2/ai_system_devises_first_optimizations) - [AI system devises first optimizations to sorting code in over a decade](https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
@@ -15,8 +17,6 @@
 * [2023-06-11, 14:34:36](https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense) - [Low Level PC/Server Attack & Defense Timeline](https://darkmentor.com/timeline.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 * [2023-06-11, 10:32:35](https://lobste.rs/s/nzozlk/gnu_s_bulletin_volume_1_no_1_1986) - [GNU's Bulletin Volume 1 No. 1 (1986)](https://www.gnu.org/bulletins/bull1.txt)
-* [2023-06-11, 04:15:37](https://lobste.rs/s/fygopa/what_heck_is_gevent_2020) - [What the heck is gevent? (2020)](https://eng.lyft.com/what-the-heck-is-gevent-4e87db98a8)
-* [2023-06-11, 01:25:04](https://lobste.rs/s/71ycgr/animating_with_code_motion_canvas) - [Animating with Code - Motion Canvas](https://www.youtube.com/watch?v=WTUafAwrunE)
 * [2023-06-11, 01:21:48](https://lobste.rs/s/fh2lvv/vore_new_rss_feed_reader) - [vore: a new rss feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-06-11, 01:19:15](https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal) - [HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/HigherOrderCO/HVM)
 * [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
