@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 13:53:26](https://lobste.rs/s/7y7fqe/reflections_on_ten_years_past_snowden) - [Reflections on Ten Years Past The Snowden Revelations](https://datatracker.ietf.org/doc/html/draft-farrell-tenyearsafter-00)
+* [2023-06-12, 13:53:11](https://lobste.rs/s/kwk7u1/upgrading_my_chumby_8_kernel_part_5) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 12:19:49](https://lobste.rs/s/m96uae/monad_transformers_101) - [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
 * [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
@@ -20,10 +22,8 @@
 * [2023-06-11, 01:21:48](https://lobste.rs/s/fh2lvv/vore_new_rss_feed_reader) - [vore: a new rss feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-06-11, 01:19:15](https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal) - [HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/HigherOrderCO/HVM)
 * [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
-* [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
-* [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
 
 ## [Archives](archives/index.md)
