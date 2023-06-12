@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 16:41:12](https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with) - [Monitoring Solar Generation stats with InfluxDB, Telegraf and Solisclo](https://www.bentasker.co.uk/posts/blog/house-stuff/pulling-soliscloud-stats-into-influxdb-with-telegraf.html)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 13:57:51](https://lobste.rs/s/xhjee3/flame_graphs_arrive_wikimediadebug) - [Flame graphs arrive in WikimediaDebug](https://techblog.wikimedia.org/2023/06/08/flame-graphs-arrive-in-wikimediadebug/)
@@ -20,7 +21,6 @@
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
-* [2023-06-11, 01:21:48](https://lobste.rs/s/fh2lvv/vore_new_rss_feed_reader) - [vore: a new rss feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-06-11, 01:19:15](https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal) - [HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/HigherOrderCO/HVM)
 * [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)

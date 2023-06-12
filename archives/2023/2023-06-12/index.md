@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 16:41:12](https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with) - [Monitoring Solar Generation stats with InfluxDB, Telegraf and Solisclo](https://www.bentasker.co.uk/posts/blog/house-stuff/pulling-soliscloud-stats-into-influxdb-with-telegraf.html)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 13:57:51](https://lobste.rs/s/xhjee3/flame_graphs_arrive_wikimediadebug) - [Flame graphs arrive in WikimediaDebug](https://techblog.wikimedia.org/2023/06/08/flame-graphs-arrive-in-wikimediadebug/)
