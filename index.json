@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-12, 09:18:20",
+      "https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion"
+    ],
+    [
+      "How to make a QR code with Stable Diffusion",
+      "https://stable-diffusion-art.com/qr-code/"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 08:32:25",
       "https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links"
     ],
@@ -217,16 +227,6 @@
     [
       "Debian 12 \"bookworm\" released",
       "https://www.debian.org/News/2023/20230610"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 13:21:59",
-      "https://lobste.rs/s/ujh6g1/zig_language_server_cancellation"
-    ],
-    [
-      "Zig Language Server And Cancellation",
-      "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
     ]
   ],
   [
