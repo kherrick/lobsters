@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 19:10:49](https://lobste.rs/s/iqen3s/qt_net_hosting_net_code_qt_application) - [Qt/.NET — Hosting .NET code in a Qt application](https://www.qt.io/blog/qt/.net-hosting-.net-code-in-a-qt-application)
@@ -23,7 +24,6 @@
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
-* [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 * [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
 
 ## [Archives](archives/index.md)
