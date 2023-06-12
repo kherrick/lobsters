@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-12, 20:04:14",
+      "https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter"
+    ],
+    [
+      "A note on Metal shader converter",
+      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 20:01:25",
+      "https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity"
+    ],
+    [
+      "Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures",
+      "https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 19:33:01",
       "https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-12, 02:12:40",
-      "https://lobste.rs/s/v0mkr6/grayc_greybox_fuzzing_compilers"
-    ],
-    [
-      "GrayC: Greybox Fuzzing of Compilers and Analysers for C",
-      "https://srg.doc.ic.ac.uk/projects/grayc/"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 23:41:29",
       "https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage"
     ],
@@ -237,16 +247,6 @@
     [
       "Alloydocs updated to Alloy 6",
       "https://alloy.readthedocs.io/en/latest/language/time.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 22:49:29",
-      "https://lobste.rs/s/oa1vf8/asyncio_thoughts"
-    ],
-    [
-      "AsyncIO Thoughts",
-      "https://charlesleifer.com/blog/asyncio/"
     ]
   ]
 ]
