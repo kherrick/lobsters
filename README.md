@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 11:53:25](https://lobste.rs/s/94f1ta/modern_css_real_life) - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
+* [2023-06-12, 11:48:58](https://lobste.rs/s/ya6wl2/ai_system_devises_first_optimizations) - [AI system devises first optimizations to sorting code in over a decade](https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 * [2023-06-12, 08:32:25](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links) - [Can we be stricter about removing links with modal popups?](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links)
@@ -23,8 +25,6 @@
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
 * [2023-06-10, 16:27:35](https://lobste.rs/s/0pozni/zig_dangling_pointers_segfaults) - [Zig dangling pointers and segfaults](https://www.openmymind.net/Zig-Danling-Pointers/)
 * [2023-06-10, 15:54:49](https://lobste.rs/s/x8o2uo/debian_12_bookworm_released) - [Debian 12 \"bookworm\" released](https://www.debian.org/News/2023/20230610)
-* [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
-* [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 
 ## [Archives](archives/index.md)
 
