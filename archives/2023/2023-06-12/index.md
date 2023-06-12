@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 22:36:17](https://lobste.rs/s/yb9zvg/trading_at_light_speed_designing_low) - [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 * [2023-06-12, 21:16:14](https://lobste.rs/s/bpbjmv/firefox_on_android_crash_due_samsung_cpu) - [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-06-12, 20:04:14](https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter) - [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 * [2023-06-12, 20:01:25](https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity) - [Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures](https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf)

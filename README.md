@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 22:36:17](https://lobste.rs/s/yb9zvg/trading_at_light_speed_designing_low) - [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 * [2023-06-12, 21:16:14](https://lobste.rs/s/bpbjmv/firefox_on_android_crash_due_samsung_cpu) - [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-06-12, 20:04:14](https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter) - [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 * [2023-06-12, 20:01:25](https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity) - [Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures](https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf)
@@ -8,7 +9,6 @@
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 19:10:49](https://lobste.rs/s/iqen3s/qt_net_hosting_net_code_qt_application) - [Qt/.NET — Hosting .NET code in a Qt application](https://www.qt.io/blog/qt/.net-hosting-.net-code-in-a-qt-application)
 * [2023-06-12, 19:01:22](https://lobste.rs/s/7vful4/5nf_missing_use_case) - [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
-* [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 16:41:12](https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with) - [Monitoring Solar Generation stats with InfluxDB, Telegraf and Solisclo](https://www.bentasker.co.uk/posts/blog/house-stuff/pulling-soliscloud-stats-into-influxdb-with-telegraf.html)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
