@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 13:57:51](https://lobste.rs/s/xhjee3/flame_graphs_arrive_wikimediadebug) - [Flame graphs arrive in WikimediaDebug](https://techblog.wikimedia.org/2023/06/08/flame-graphs-arrive-in-wikimediadebug/)
 * [2023-06-12, 13:53:26](https://lobste.rs/s/7y7fqe/reflections_on_ten_years_past_snowden) - [Reflections on Ten Years Past The Snowden Revelations](https://datatracker.ietf.org/doc/html/draft-farrell-tenyearsafter-00)
 * [2023-06-12, 13:53:11](https://lobste.rs/s/kwk7u1/upgrading_my_chumby_8_kernel_part_5) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
