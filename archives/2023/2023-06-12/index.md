@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 17:30:29](https://lobste.rs/s/2d6wus/understanding_deepmind_s_sorting) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 16:41:12](https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with) - [Monitoring Solar Generation stats with InfluxDB, Telegraf and Solisclo](https://www.bentasker.co.uk/posts/blog/house-stuff/pulling-soliscloud-stats-into-influxdb-with-telegraf.html)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
