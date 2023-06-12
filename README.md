@@ -8,7 +8,6 @@
 * [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
 * [2023-06-11, 14:34:36](https://lobste.rs/s/0yurrb/low_level_pc_server_attack_defense) - [Low Level PC/Server Attack & Defense Timeline](https://darkmentor.com/timeline.html)
 * [2023-06-11, 12:42:31](https://lobste.rs/s/geecgb/history_effective_use_vim) - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
-* [2023-06-11, 12:25:19](https://lobste.rs/s/ncv9my/understanding_deepmind_s_alphadev) - [Understanding DeepMind's AlphaDev Breakthrough in Optimizing Sorting Algorithms](https://codeconfessions.substack.com/p/exploring-deepminds-alphadev-breakthrough)
 * [2023-06-11, 10:32:35](https://lobste.rs/s/nzozlk/gnu_s_bulletin_volume_1_no_1_1986) - [GNU's Bulletin Volume 1 No. 1 (1986)](https://www.gnu.org/bulletins/bull1.txt)
 * [2023-06-11, 04:15:37](https://lobste.rs/s/fygopa/what_heck_is_gevent_2020) - [What the heck is gevent? (2020)](https://eng.lyft.com/what-the-heck-is-gevent-4e87db98a8)
 * [2023-06-11, 01:25:04](https://lobste.rs/s/71ycgr/animating_with_code_motion_canvas) - [Animating with Code - Motion Canvas](https://www.youtube.com/watch?v=WTUafAwrunE)
@@ -25,6 +24,7 @@
 * [2023-06-10, 13:17:47](https://lobste.rs/s/hfhrug/breaking_black_box_security_coprocessor) - [Breaking the black-box security coprocessor in the Nintendo Switch](https://youtube.com/watch?v=gWXXFrIu8Cc&feature=share7)
 * [2023-06-10, 06:43:27](https://lobste.rs/s/hgc3ns/handoff_waste_taylorism) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-09, 22:31:24](https://lobste.rs/s/3bdlpn/thread_on_deterioration_accessibility) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
+* [2023-06-09, 20:21:10](https://lobste.rs/s/vpddbj/how_did_dial_up_isps_work) - [how did dial-up ISPs work?](https://blog.randomstring.org/2023/06/09/how-did-dial-up-isps-work-/)
 
 ## [Archives](archives/index.md)
 
