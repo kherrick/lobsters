@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 * [2023-06-12, 08:32:25](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links) - [Can we be stricter about removing links with modal popups?](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links)
 * [2023-06-12, 06:48:44](https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet) - [Look up word definitions with WordNet and a shell script](https://tokyoma.de/microsth/pub.php?page=wordnet-script)
@@ -17,7 +18,6 @@
 * [2023-06-11, 01:21:48](https://lobste.rs/s/fh2lvv/vore_new_rss_feed_reader) - [vore: a new rss feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-06-11, 01:19:15](https://lobste.rs/s/j6t7vq/hvm_massively_parallel_optimal) - [HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/HigherOrderCO/HVM)
 * [2023-06-10, 22:49:29](https://lobste.rs/s/oa1vf8/asyncio_thoughts) - [AsyncIO Thoughts](https://charlesleifer.com/blog/asyncio/)
-* [2023-06-10, 20:03:47](https://lobste.rs/s/rzmnam/ccdetect_lsp_language_agnostic_real_time) - [CCDetect-lsp: Language-agnostic real-time duplicate code detection LSP server](https://github.com/jakobkhansen/CCDetect-lsp)
 * [2023-06-10, 19:33:05](https://lobste.rs/s/it1nmg/websub_2018) - [WebSub (2018)](https://www.w3.org/TR/websub/)
 * [2023-06-10, 19:06:42](https://lobste.rs/s/r9aiuq/how_much_memory_is_needed_run_1m_erlang) - [How much memory is needed to run 1M Erlang processes?](https://hauleth.dev/post/beam-process-memory-usage/)
 * [2023-06-10, 18:48:15](https://lobste.rs/s/qgdjni/responses_common_criticisms_lisp) - [Responses to common criticisms of Lisp languages?](https://racket.discourse.group/t/responses-to-common-criticisms-of-lisp-languages/1986)
