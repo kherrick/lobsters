@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 20:46:01](https://lobste.rs/s/wlf4r5/anti_personas) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
 * [2023-06-13, 18:35:55](https://lobste.rs/s/4ehzjm/faster_feature_implementation_with) - [Faster feature implementation with Server Driven UI](https://engineering.q42.nl/sdui-postnl-app/)
 * [2023-06-13, 18:31:07](https://lobste.rs/s/r6hqv9/radio_on_tv) - [radio on the tv](https://computer.rip/2023-06-12-radio-on-the-tv.html)
@@ -24,7 +25,6 @@
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
-* [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 
 ## [Archives](archives/index.md)
 
