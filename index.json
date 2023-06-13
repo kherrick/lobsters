@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 12:26:02",
+      "https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain"
+    ],
+    [
+      "Adding Dialyzer without the Pain",
+      "https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 10:18:09",
       "https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility"
     ],
@@ -227,16 +237,6 @@
     [
       "Chimera Linux is entering alpha stage",
       "https://chimera-linux.org/news/2023/06/entering-alpha.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 19:26:49",
-      "https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command"
-    ],
-    [
-      "spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened",
-      "https://github.com/samwho/spacer"
     ]
   ],
   [
