@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 08:56:19](https://lobste.rs/s/brpilp/computational_content_isomorphisms) - [The Computational Content of Isomorphisms (2013)](https://media.proquest.com/media/hms/ORIG/2/D49uH?_s=rKxUwmbgqKEXAH9RCzAhMuwUWLk%3D)
 * [2023-06-13, 08:35:59](https://lobste.rs/s/gadyil/fuzzing_scheme_with_afl) - [Fuzzing Scheme with AFL++](https://weinholt.se/articles/fuzzing-scheme-with-aflplusplus/)
 * [2023-06-13, 08:20:42](https://lobste.rs/s/qixlxb/hacking_root_epp_servers_take_control) - [hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 07:34:40](https://lobste.rs/s/ren8yn/dealing_with_deprecations) - [Dealing with deprecations](https://stitcher.io/blog/dealing-with-deprecations)
@@ -19,7 +20,6 @@
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 12:19:49](https://lobste.rs/s/m96uae/monad_transformers_101) - [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
 * [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
-* [2023-06-12, 11:53:25](https://lobste.rs/s/94f1ta/modern_css_real_life) - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 08:56:19](https://lobste.rs/s/brpilp/computational_content_isomorphisms) - [The Computational Content of Isomorphisms (2013)](https://media.proquest.com/media/hms/ORIG/2/D49uH?_s=rKxUwmbgqKEXAH9RCzAhMuwUWLk%3D)
 * [2023-06-13, 08:35:59](https://lobste.rs/s/gadyil/fuzzing_scheme_with_afl) - [Fuzzing Scheme with AFL++](https://weinholt.se/articles/fuzzing-scheme-with-aflplusplus/)
 * [2023-06-13, 08:20:42](https://lobste.rs/s/qixlxb/hacking_root_epp_servers_take_control) - [hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 07:34:40](https://lobste.rs/s/ren8yn/dealing_with_deprecations) - [Dealing with deprecations](https://stitcher.io/blog/dealing-with-deprecations)
