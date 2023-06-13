@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)

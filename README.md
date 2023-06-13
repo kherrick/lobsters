@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
@@ -12,7 +13,6 @@
 * [2023-06-13, 04:51:22](https://lobste.rs/s/afesfj/scripting_with_elixir) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-13, 01:02:43](https://lobste.rs/s/whl7eb/wwdc23_passkeys) - [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
-* [2023-06-12, 22:36:17](https://lobste.rs/s/yb9zvg/trading_at_light_speed_designing_low) - [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 * [2023-06-12, 21:16:14](https://lobste.rs/s/bpbjmv/firefox_on_android_crash_due_samsung_cpu) - [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-06-12, 20:04:14](https://lobste.rs/s/oxzs1q/note_on_metal_shader_converter) - [A note on Metal shader converter](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 * [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
