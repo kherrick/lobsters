@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 18:35:55](https://lobste.rs/s/4ehzjm/faster_feature_implementation_with) - [Faster feature implementation with Server Driven UI](https://engineering.q42.nl/sdui-postnl-app/)
 * [2023-06-13, 18:31:07](https://lobste.rs/s/r6hqv9/radio_on_tv) - [radio on the tv](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
