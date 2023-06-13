@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 18:23:41",
+      "https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads"
+    ],
+    [
+      "It's great that you provide operator overloads, but it's also nice to have names",
+      "https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 17:40:58",
       "https://lobste.rs/s/iudmph/clearly_predatory_western_digital"
     ],
@@ -117,16 +127,6 @@
     [
       "A simple hash table in C",
       "https://theleo.zone/posts/hashmap-in-c/"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 22:36:17",
-      "https://lobste.rs/s/yb9zvg/trading_at_light_speed_designing_low"
-    ],
-    [
-      "Trading at light speed: designing low latency systems in C++(2022)",
-      "https://www.youtube.com/watch?v=8uAW5FQtcvE"
     ]
   ],
   [
