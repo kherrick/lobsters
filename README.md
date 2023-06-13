@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 01:02:43](https://lobste.rs/s/whl7eb/wwdc23_passkeys) - [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
 * [2023-06-13, 00:34:45](https://lobste.rs/s/rvryyq/meet_swift_openapi_generator) - [Meet Swift OpenAPI Generator](https://developer.apple.com/wwdc23/10171)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 22:36:17](https://lobste.rs/s/yb9zvg/trading_at_light_speed_designing_low) - [Trading at light speed: designing low latency systems in C++(2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE)
@@ -9,7 +10,6 @@
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 19:01:22](https://lobste.rs/s/7vful4/5nf_missing_use_case) - [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
-* [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
