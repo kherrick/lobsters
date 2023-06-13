@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 08:20:42](https://lobste.rs/s/qixlxb/hacking_root_epp_servers_take_control) - [hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 07:34:40](https://lobste.rs/s/ren8yn/dealing_with_deprecations) - [Dealing with deprecations](https://stitcher.io/blog/dealing-with-deprecations)
 * [2023-06-13, 04:51:22](https://lobste.rs/s/afesfj/scripting_with_elixir) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-13, 01:02:43](https://lobste.rs/s/whl7eb/wwdc23_passkeys) - [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
@@ -21,7 +22,6 @@
 * [2023-06-12, 11:53:25](https://lobste.rs/s/94f1ta/modern_css_real_life) - [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
-* [2023-06-12, 08:32:25](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links) - [Can we be stricter about removing links with modal popups?](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
