@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
 * [2023-06-13, 08:56:19](https://lobste.rs/s/brpilp/computational_content_isomorphisms) - [The Computational Content of Isomorphisms (2013)](https://media.proquest.com/media/hms/ORIG/2/D49uH?_s=rKxUwmbgqKEXAH9RCzAhMuwUWLk%3D)
 * [2023-06-13, 08:35:59](https://lobste.rs/s/gadyil/fuzzing_scheme_with_afl) - [Fuzzing Scheme with AFL++](https://weinholt.se/articles/fuzzing-scheme-with-aflplusplus/)
 * [2023-06-13, 08:20:42](https://lobste.rs/s/qixlxb/hacking_root_epp_servers_take_control) - [hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
@@ -14,7 +15,6 @@
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 19:01:22](https://lobste.rs/s/7vful4/5nf_missing_use_case) - [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
-* [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
