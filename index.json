@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 04:51:22",
+      "https://lobste.rs/s/afesfj/scripting_with_elixir"
+    ],
+    [
+      "Scripting with Elixir",
+      "https://underjord.io/scripting-with-elixir.html"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 01:02:43",
       "https://lobste.rs/s/whl7eb/wwdc23_passkeys"
     ],
@@ -197,16 +207,6 @@
     [
       "Can we be stricter about removing links with modal popups?",
       "https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 06:48:44",
-      "https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet"
-    ],
-    [
-      "Look up word definitions with WordNet and a shell script",
-      "https://tokyoma.de/microsth/pub.php?page=wordnet-script"
     ]
   ],
   [
