@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 22:42:50](https://lobste.rs/s/e3vlp6/business_motives_for_llm_chatbots_other) - [Business motives for LLM chatbots, and other curse words](https://cohost.org/catball/post/1675182-business-motives-for)
 * [2023-06-13, 21:09:46](https://lobste.rs/s/ahc31s/porting_fsr_2_opengl) - [Porting FSR 2 to OpenGL](https://juandiegomontoya.github.io/porting_fsr2.html)
 * [2023-06-13, 20:46:01](https://lobste.rs/s/wlf4r5/anti_personas) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
