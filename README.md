@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 * [2023-06-13, 12:26:02](https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain) - [Adding Dialyzer without the Pain](https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/)
@@ -21,7 +22,6 @@
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-* [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
