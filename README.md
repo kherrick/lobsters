@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 * [2023-06-13, 12:26:02](https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain) - [Adding Dialyzer without the Pain](https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/)
 * [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
 * [2023-06-13, 08:56:19](https://lobste.rs/s/brpilp/computational_content_isomorphisms) - [The Computational Content of Isomorphisms (2013)](https://media.proquest.com/media/hms/ORIG/2/D49uH?_s=rKxUwmbgqKEXAH9RCzAhMuwUWLk%3D)
@@ -19,7 +20,6 @@
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-* [2023-06-12, 12:19:49](https://lobste.rs/s/m96uae/monad_transformers_101) - [Monad Transformers 101](https://www.williamyaoh.com/posts/2023-06-10-monad-transformers-101.html)
 * [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
