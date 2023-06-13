@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 04:51:22](https://lobste.rs/s/afesfj/scripting_with_elixir) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-13, 01:02:43](https://lobste.rs/s/whl7eb/wwdc23_passkeys) - [WWDC23: Passkeys](https://blog.millerti.me/2023/06/10/wwdc23-passkeys/)
 * [2023-06-13, 00:34:45](https://lobste.rs/s/rvryyq/meet_swift_openapi_generator) - [Meet Swift OpenAPI Generator](https://developer.apple.com/wwdc23/10171)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
@@ -20,7 +21,6 @@
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
 * [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 * [2023-06-12, 08:32:25](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links) - [Can we be stricter about removing links with modal popups?](https://lobste.rs/s/fipfen/can_we_be_stricter_about_removing_links)
-* [2023-06-12, 06:48:44](https://lobste.rs/s/ggjrum/look_up_word_definitions_with_wordnet) - [Look up word definitions with WordNet and a shell script](https://tokyoma.de/microsth/pub.php?page=wordnet-script)
 * [2023-06-12, 05:35:51](https://lobste.rs/s/won4bb/fractal_software_for_fractal_futures) - [Fractal software for fractal futures](https://fossil-milk-962.notion.site/Fractal-software-for-fractal-futures-71e515597d6b424c994cae74f3341521?pvs=4)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
