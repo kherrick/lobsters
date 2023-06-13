@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 20:19:05",
+      "https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21"
+    ],
+    [
+      "WASI socket extensions for Go 1.21",
+      "https://github.com/stealthrocket/net"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 18:35:55",
       "https://lobste.rs/s/4ehzjm/faster_feature_implementation_with"
     ],
@@ -227,16 +237,6 @@
     [
       "Second-Class References",
       "https://borretti.me/article/second-class-references"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 23:41:29",
-      "https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage"
-    ],
-    [
-      "Chimera Linux is entering alpha stage",
-      "https://chimera-linux.org/news/2023/06/entering-alpha.html"
     ]
   ],
   [
