@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 00:34:45",
+      "https://lobste.rs/s/rvryyq/meet_swift_openapi_generator"
+    ],
+    [
+      "Meet Swift OpenAPI Generator",
+      "https://developer.apple.com/wwdc23/10171"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 22:48:14",
       "https://lobste.rs/s/hwhuvh/simple_hash_table_c"
     ],
@@ -37,16 +47,6 @@
     [
       "A note on Metal shader converter",
       "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 20:01:25",
-      "https://lobste.rs/s/dqgo04/every_signature_is_broken_on_insecurity"
-    ],
-    [
-      "Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML Signatures",
-      "https://www.usenix.org/system/files/sec23summer_235-rohlmann-prepub.pdf"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2023-06-12, 16:41:12",
-      "https://lobste.rs/s/bzajaf/monitoring_solar_generation_stats_with"
+      "2023-06-12, 17:53:51",
+      "https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith"
     ],
     [
-      "Monitoring Solar Generation stats with InfluxDB, Telegraf and Solisclo",
-      "https://www.bentasker.co.uk/posts/blog/house-stuff/pulling-soliscloud-stats-into-influxdb-with-telegraf.html"
+      "Minimal Linux VM cross compiledwith Clang and Zig",
+      "https://richiejp.com/zig-cross-compile-ltp-ltx-linux"
     ]
   ],
   [
