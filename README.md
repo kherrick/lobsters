@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 * [2023-06-13, 12:26:02](https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain) - [Adding Dialyzer without the Pain](https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/)
 * [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
@@ -22,7 +23,6 @@
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 12:15:30](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1sqecv/what_are_you_doing_this_week)
 * [2023-06-12, 11:47:36](https://lobste.rs/s/sizjds/second_class_references) - [Second-Class References](https://borretti.me/article/second-class-references)
-* [2023-06-12, 09:18:20](https://lobste.rs/s/wwoma9/how_make_qr_code_with_stable_diffusion) - [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 
