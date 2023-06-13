@@ -10,6 +10,7 @@
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 19:01:22](https://lobste.rs/s/7vful4/5nf_missing_use_case) - [5NF: The Missing Use Case](https://datademythed.com/posts/5nf_missing_use_case/)
+* [2023-06-12, 17:53:51](https://lobste.rs/s/i7vhs1/minimal_linux_vm_cross_compiledwith) - [Minimal Linux VM cross compiledwith Clang and Zig](https://richiejp.com/zig-cross-compile-ltp-ltx-linux)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
@@ -24,7 +25,6 @@
 * [2023-06-11, 23:41:29](https://lobste.rs/s/h1t9h4/chimera_linux_is_entering_alpha_stage) - [Chimera Linux is entering alpha stage](https://chimera-linux.org/news/2023/06/entering-alpha.html)
 * [2023-06-11, 19:26:49](https://lobste.rs/s/kgslhc/spacer_cli_tool_insert_spacers_command) - [spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened](https://github.com/samwho/spacer)
 * [2023-06-11, 19:20:53](https://lobste.rs/s/vx8hbs/rust_module_system_encourages_poor) - [Rust Module System Encourages Poor Practices (Comparing to Go)](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
-* [2023-06-11, 18:10:28](https://lobste.rs/s/otrf0y/alloydocs_updated_alloy_6) - [Alloydocs updated to Alloy 6](https://alloy.readthedocs.io/en/latest/language/time.html)
 
 ## [Archives](archives/index.md)
 
