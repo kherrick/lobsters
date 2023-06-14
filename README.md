@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_reading_on_desktop) - [State of screen reading reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
 * [2023-06-14, 04:08:04](https://lobste.rs/s/z6uewd/how_implement_dependent_type_theory_i) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 * [2023-06-13, 23:51:10](https://lobste.rs/s/78poic/game_2_sisyphus_needs_nap) - [Game 2: Sisyphus Needs a Nap](http://eieio.games/game-diary/game-2-sisyphus/)
@@ -21,7 +22,6 @@
 * [2023-06-12, 21:16:14](https://lobste.rs/s/bpbjmv/firefox_on_android_crash_due_samsung_cpu) - [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)
 * [2023-06-12, 19:23:55](https://lobste.rs/s/uzozse/lisp_game_jam_wireworld_webassembly) - [Lisp Game Jam - \"Wireworld\" in WebAssembly using Spritely's Hoot project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
-* [2023-06-12, 19:20:04](https://lobste.rs/s/p1rlpo/jmp_is_launched_out_beta) - [JMP is Launched and Out of Beta](https://blog.jmp.chat/b/launch-2023)
 * [2023-06-12, 15:52:00](https://lobste.rs/s/2deq5l/adventures_writing_chip8_emulator_part_2) - [The Adventures of Writing a CHIP8 Emulator - Part 2](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-2/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 * [2023-06-12, 12:56:48](https://lobste.rs/s/21mbed/america_less_internet) - [An America-less Internet](https://www.nthbrock.com/posts/americaless-internet/)
