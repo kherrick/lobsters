@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity](https://lethain.com/digg-v4/)
 * [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/pre_patch_overhaul_latex_preview_system) - [[Pre-PATCH] Overhaul of the LaTeX preview system - Timothy](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
 * [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
@@ -21,7 +22,6 @@
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 14:17:47](https://lobste.rs/s/rpt0cg/stack_overflow_developer_survey_2023) - [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
-* [2023-06-13, 12:26:02](https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain) - [Adding Dialyzer without the Pain](https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/)
 * [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
