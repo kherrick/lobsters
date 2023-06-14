@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
+* [2023-06-14, 14:17:23](https://lobste.rs/s/e58dqr/appsmith_s_deployment_architecture) - [Appsmith's Deployment Architecture](https://www.appsmith.com/blog/appsmith-deployment-architecture)
 * [2023-06-14, 13:57:32](https://lobste.rs/s/ebqrnx/qt_for_mcus_2_5_lts_released) - [Qt for MCUs 2.5 LTS released](https://www.qt.io/blog/qt-for-mcus-2.5-lts-released)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
