@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-14, 10:17:08",
+      "https://lobste.rs/s/kzgl7z/gentle_introduction_graph_neural"
+    ],
+    [
+      "A Gentle Introduction to Graph Neural Networks (2021)",
+      "https://distill.pub/2021/gnn-intro/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 10:15:30",
+      "https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo"
+    ],
+    [
+      "Set theoretic typing for Elixir - demo",
+      "https://typex.fly.dev"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 08:07:02",
       "https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-06-13, 07:34:40",
-      "https://lobste.rs/s/ren8yn/dealing_with_deprecations"
-    ],
-    [
-      "Dealing with deprecations",
-      "https://stitcher.io/blog/dealing-with-deprecations"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 04:51:22",
       "https://lobste.rs/s/afesfj/scripting_with_elixir"
     ],
     [
       "Scripting with Elixir",
       "https://underjord.io/scripting-with-elixir.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 01:02:43",
-      "https://lobste.rs/s/whl7eb/wwdc23_passkeys"
-    ],
-    [
-      "WWDC23: Passkeys",
-      "https://blog.millerti.me/2023/06/10/wwdc23-passkeys/"
     ]
   ],
   [
