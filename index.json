@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 18:37:39",
+      "https://lobste.rs/s/di6yo6/need_for_user_controlled_content"
+    ],
+    [
+      "The Need for User-Controlled Content Filtering on YouTube",
+      "https://algustionesa.com/youtube-content-filter/"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 18:07:13",
       "https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple"
     ],
@@ -217,16 +227,6 @@
     [
       "Rewriting the Ruby parser",
       "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 10:18:09",
-      "https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility"
-    ],
-    [
-      "GHC Language Extensions Compatibility",
-      "http://ghcaniuse.damianfral.com/"
     ]
   ],
   [
