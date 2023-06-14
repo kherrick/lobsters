@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-14, 08:07:02](https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing) - [FishFuzz: Catch Deeper Bugs by Throwing Larger Nets](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_reading_on_desktop) - [State of screen reading reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
 * [2023-06-14, 04:08:04](https://lobste.rs/s/z6uewd/how_implement_dependent_type_theory_i) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
-* [2023-06-13, 23:51:10](https://lobste.rs/s/78poic/game_2_sisyphus_needs_nap) - [Game 2: Sisyphus Needs a Nap](http://eieio.games/game-diary/game-2-sisyphus/)
 * [2023-06-13, 21:09:46](https://lobste.rs/s/ahc31s/porting_fsr_2_opengl) - [Porting FSR 2 to OpenGL](https://juandiegomontoya.github.io/porting_fsr2.html)
 * [2023-06-13, 20:46:01](https://lobste.rs/s/wlf4r5/anti_personas) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
