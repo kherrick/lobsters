@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 22:57:15",
+      "https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting"
+    ],
+    [
+      "Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED",
+      "https://www.nassiben.com/video-based-crypta"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 21:21:05",
       "https://lobste.rs/s/ucf7gz/linux_kernel_regression_tracking"
     ],
@@ -227,16 +237,6 @@
     [
       "Rewriting the Ruby parser",
       "https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 22:48:14",
-      "https://lobste.rs/s/hwhuvh/simple_hash_table_c"
-    ],
-    [
-      "A simple hash table in C",
-      "https://theleo.zone/posts/hashmap-in-c/"
     ]
   ],
   [
