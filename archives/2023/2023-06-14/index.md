@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity](https://lethain.com/digg-v4/)
 * [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/pre_patch_overhaul_latex_preview_system) - [[Pre-PATCH] Overhaul of the LaTeX preview system - Timothy](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
