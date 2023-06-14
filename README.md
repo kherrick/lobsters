@@ -1,10 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-14, 18:37:39](https://lobste.rs/s/di6yo6/need_for_user_controlled_content) - [The Need for User-Controlled Content Filtering on YouTube](https://algustionesa.com/youtube-content-filter/)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
-* [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity](https://lethain.com/digg-v4/)
-* [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/pre_patch_overhaul_latex_preview_system) - [[Pre-PATCH] Overhaul of the LaTeX preview system - Timothy](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
+* [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
+* [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/overhaul_latex_preview_system) - [Overhaul of the LaTeX preview system](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
 * [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
 * [2023-06-14, 14:17:23](https://lobste.rs/s/e58dqr/appsmith_s_deployment_architecture) - [Appsmith's Deployment Architecture](https://www.appsmith.com/blog/appsmith-deployment-architecture)
 * [2023-06-14, 13:57:32](https://lobste.rs/s/ebqrnx/qt_for_mcus_2_5_lts_released) - [Qt for MCUs 2.5 LTS released](https://www.qt.io/blog/qt-for-mcus-2.5-lts-released)
@@ -23,6 +22,7 @@
 * [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
+* [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 15:31:52](https://lobste.rs/s/vtghvu/why_not_tell_people_simply_use_pyenv) - [Why not tell people to \"simply\" use pyenv, poetry or anaconda](https://bitecode.substack.com/p/why-not-tell-people-to-simply-use)
 

@@ -9,6 +9,7 @@
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity](https://lethain.com/digg-v4/)
 * [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/pre_patch_overhaul_latex_preview_system) - [[Pre-PATCH] Overhaul of the LaTeX preview system - Timothy](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
+* [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/overhaul_latex_preview_system) - [Overhaul of the LaTeX preview system](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
 * [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
 * [2023-06-14, 14:17:23](https://lobste.rs/s/e58dqr/appsmith_s_deployment_architecture) - [Appsmith's Deployment Architecture](https://www.appsmith.com/blog/appsmith-deployment-architecture)
 * [2023-06-14, 13:57:32](https://lobste.rs/s/ebqrnx/qt_for_mcus_2_5_lts_released) - [Qt for MCUs 2.5 LTS released](https://www.qt.io/blog/qt-for-mcus-2.5-lts-released)
