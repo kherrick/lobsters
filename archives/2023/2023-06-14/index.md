@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 20:54:02](https://lobste.rs/s/wmjhao/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-14, 18:37:39](https://lobste.rs/s/di6yo6/need_for_user_controlled_content) - [The Need for User-Controlled Content Filtering on YouTube](https://algustionesa.com/youtube-content-filter/)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
