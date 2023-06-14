@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 21:21:05](https://lobste.rs/s/ucf7gz/linux_kernel_regression_tracking) - [Linux kernel regression tracking (regzbot)](https://linux-regtracking.leemhuis.info/about/#tldr)
 * [2023-06-14, 20:54:02](https://lobste.rs/s/wmjhao/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
