@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
 * [2023-06-14, 10:17:08](https://lobste.rs/s/kzgl7z/gentle_introduction_graph_neural) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2023-06-14, 10:15:30](https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo) - [Set theoretic typing for Elixir - demo](https://typex.fly.dev)
 * [2023-06-14, 08:07:02](https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing) - [FishFuzz: Catch Deeper Bugs by Throwing Larger Nets](https://nebelwelt.net/publications/files/23SEC5.pdf)
@@ -17,7 +18,6 @@
 * [2023-06-13, 12:26:02](https://lobste.rs/s/uyvtnt/adding_dialyzer_without_pain) - [Adding Dialyzer without the Pain](https://fly.io/phoenix-files/adding-dialyzer-without-the-pain/)
 * [2023-06-13, 10:18:09](https://lobste.rs/s/il0zix/ghc_language_extensions_compatibility) - [GHC Language Extensions Compatibility](http://ghcaniuse.damianfral.com/)
 * [2023-06-13, 08:20:42](https://lobste.rs/s/qixlxb/hacking_root_epp_servers_take_control) - [hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
-* [2023-06-13, 04:51:22](https://lobste.rs/s/afesfj/scripting_with_elixir) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-12, 22:48:14](https://lobste.rs/s/hwhuvh/simple_hash_table_c) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 21:16:14](https://lobste.rs/s/bpbjmv/firefox_on_android_crash_due_samsung_cpu) - [Firefox on Android crash due to Samsung CPU bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-06-12, 19:33:01](https://lobste.rs/s/3jnxqt/go_team_discusses_creating_math_rand_v2) - [Go team discusses creating math/rand/v2](https://github.com/golang/go/discussions/60751)

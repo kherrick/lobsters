@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
 * [2023-06-14, 10:17:08](https://lobste.rs/s/kzgl7z/gentle_introduction_graph_neural) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2023-06-14, 10:15:30](https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo) - [Set theoretic typing for Elixir - demo](https://typex.fly.dev)
 * [2023-06-14, 08:07:02](https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing) - [FishFuzz: Catch Deeper Bugs by Throwing Larger Nets](https://nebelwelt.net/publications/files/23SEC5.pdf)
