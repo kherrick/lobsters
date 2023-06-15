@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 18:47:35](https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new) - [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 * [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
@@ -18,7 +19,6 @@
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
 * [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
-* [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
