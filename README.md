@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 15:41:09](https://lobste.rs/s/c2npl1/benchmarking_neural_network_training) - [Benchmarking Neural Network Training Algorithms](https://arxiv.org/abs/2306.07179)
 * [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 * [2023-06-15, 14:58:21](https://lobste.rs/s/o1gxro/11_years_hosting_saas) - [11 years of hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
@@ -9,7 +10,6 @@
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 13:06:12](https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust) - [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
-* [2023-06-15, 12:48:23](https://lobste.rs/s/wvntvf/briar_mailbox_released_improve) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
