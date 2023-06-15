@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 18:47:35](https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new) - [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 * [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
@@ -24,7 +25,6 @@
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
-* [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
 
 ## [Archives](archives/index.md)
 
