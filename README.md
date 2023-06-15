@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 01:32:09](https://lobste.rs/s/5b6tjz/github_dev_press_key_on_any_repo) - [github.dev: Press the . key on any repo](https://github.dev/github/dev)
+* [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 21:21:05](https://lobste.rs/s/ucf7gz/linux_kernel_regression_tracking) - [Linux kernel regression tracking (regzbot)](https://linux-regtracking.leemhuis.info/about/#tldr)
@@ -18,8 +20,6 @@
 * [2023-06-14, 08:07:02](https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing) - [FishFuzz: Catch Deeper Bugs by Throwing Larger Nets](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
-* [2023-06-14, 04:08:04](https://lobste.rs/s/z6uewd/how_implement_dependent_type_theory_i) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
-* [2023-06-13, 20:46:01](https://lobste.rs/s/wlf4r5/anti_personas) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
 * [2023-06-13, 18:31:07](https://lobste.rs/s/r6hqv9/radio_on_tv) - [radio on the tv](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
