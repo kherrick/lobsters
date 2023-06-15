@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 13:06:12](https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust) - [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
 * [2023-06-15, 12:48:23](https://lobste.rs/s/wvntvf/briar_mailbox_released_improve) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
