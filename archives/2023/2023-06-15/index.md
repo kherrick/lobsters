@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 18:47:35](https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new) - [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 * [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
 * [2023-06-15, 16:52:05](https://lobste.rs/s/j7dttk/interview_with_emacs_enthusiast_2023) - [Interview with an Emacs Enthusiast in 2023 [Colorized]](https://youtu.be/urcL86UpqZc)

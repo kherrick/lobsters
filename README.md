@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 18:47:35](https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new) - [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 * [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
@@ -12,7 +13,6 @@
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 13:06:12](https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust) - [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
-* [2023-06-15, 12:48:23](https://lobste.rs/s/wvntvf/briar_mailbox_released_improve) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
