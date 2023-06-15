@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 15:16:35",
+      "https://lobste.rs/s/47wxba/javascript_imports_under_hood"
+    ],
+    [
+      "JavaScript Imports Under The Hood",
+      "https://blog.jim-nielsen.com/2023/imports-under-the-hood/"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 15:06:20",
       "https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017"
     ],
@@ -237,16 +247,6 @@
     [
       "Eltanin - An OS project and a Linux distro (Glacies)",
       "http://eltaninos.org/en/blog/2023-05-07-00"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 07:42:18",
-      "https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux"
-    ],
-    [
-      "State of screen reading on desktop Linux",
-      "https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/"
     ]
   ]
 ]
