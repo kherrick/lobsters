@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 21:50:52",
+      "https://lobste.rs/s/sk11aq/mlc_llm"
+    ],
+    [
+      "MLC LLM",
+      "https://mlc.ai/mlc-llm/"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 20:56:09",
       "https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator"
     ],
@@ -37,16 +47,6 @@
     [
       "Programming book recommendations and anti-recommendations (2016)",
       "https://danluu.com/programming-books/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 17:47:26",
-      "https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers"
-    ],
-    [
-      "Announcing Go support for Wasm Workers Server",
-      "https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/"
     ]
   ],
   [
