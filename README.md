@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
 * [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
@@ -18,7 +19,6 @@
 * [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
 * [2023-06-14, 10:17:08](https://lobste.rs/s/kzgl7z/gentle_introduction_graph_neural) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2023-06-14, 10:15:30](https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo) - [Set theoretic typing for Elixir - demo](https://typex.fly.dev)
-* [2023-06-14, 08:07:02](https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing) - [FishFuzz: Catch Deeper Bugs by Throwing Larger Nets](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
