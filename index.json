@@ -2,10 +2,10 @@
   [
     [
       "2023-06-15, 08:49:44",
-      "https://lobste.rs/s/ie3a7v/writing_ronin_ruby_scripts_using_ronin"
+      "https://lobste.rs/s/ie3a7v/how_write_ruby_scripts_for_security"
     ],
     [
-      "Writing Ronin Ruby Scripts using ronin-support",
+      "How to write Ruby scripts for security research using ronin-support",
       "https://ronin-rb.dev/docs/guides/writing-ronin-ruby-scripts/"
     ]
   ],
