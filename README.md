@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 22:47:31](https://lobste.rs/s/72lmnd/microservices_containers_explained) - [Microservices and Containers Explained… Using LEGOs](https://redis.com/blog/microservices-and-containers/)
 * [2023-06-15, 21:50:52](https://lobste.rs/s/sk11aq/mlc_llm) - [MLC LLM](https://mlc.ai/mlc-llm/)
 * [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
@@ -10,7 +11,6 @@
 * [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 * [2023-06-15, 14:57:28](https://lobste.rs/s/jxamw6/embed_github_actions_your_docs) - [Embed GitHub Actions in your Docs](https://runme.dev/blog/embed-github-actions)
-* [2023-06-15, 14:55:26](https://lobste.rs/s/ojw7l0/vervis_actor_refactoring) - [Vervis Actor Refactoring](https://forgefed.org/blog/vervis-actor-refactoring/)
 * [2023-06-15, 14:23:36](https://lobste.rs/s/8hkyqu/evaluating_openai_s_whisper_on_community) - [Evaluating OpenAI’s Whisper on Community Conversations](https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/)
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 22:47:31](https://lobste.rs/s/72lmnd/microservices_containers_explained) - [Microservices and Containers Explained… Using LEGOs](https://redis.com/blog/microservices-and-containers/)
 * [2023-06-15, 21:50:52](https://lobste.rs/s/sk11aq/mlc_llm) - [MLC LLM](https://mlc.ai/mlc-llm/)
 * [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
