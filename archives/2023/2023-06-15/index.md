@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-15, 08:49:44](https://lobste.rs/s/ie3a7v/writing_ronin_ruby_scripts_using_ronin) - [Writing Ronin Ruby Scripts using ronin-support](https://ronin-rb.dev/docs/guides/writing-ronin-ruby-scripts/)
 * [2023-06-15, 08:49:44](https://lobste.rs/s/ie3a7v/how_write_ruby_scripts_for_security) - [How to write Ruby scripts for security research using ronin-support](https://ronin-rb.dev/docs/guides/writing-ronin-ruby-scripts/)
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
