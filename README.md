@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 * [2023-06-15, 15:41:09](https://lobste.rs/s/c2npl1/benchmarking_neural_network_training) - [Benchmarking Neural Network Training Algorithms](https://arxiv.org/abs/2306.07179)
 * [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
-* [2023-06-15, 14:58:21](https://lobste.rs/s/o1gxro/11_years_hosting_saas) - [11 years of hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 14:57:28](https://lobste.rs/s/jxamw6/embed_github_actions_your_docs) - [Embed GitHub Actions in your Docs](https://runme.dev/blog/embed-github-actions)
 * [2023-06-15, 14:55:26](https://lobste.rs/s/ojw7l0/vervis_actor_refactoring) - [Vervis Actor Refactoring](https://forgefed.org/blog/vervis-actor-refactoring/)
 * [2023-06-15, 14:23:36](https://lobste.rs/s/8hkyqu/evaluating_openai_s_whisper_on_community) - [Evaluating OpenAI’s Whisper on Community Conversations](https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/)
