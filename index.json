@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 08:35:45",
+      "https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate"
+    ],
+    [
+      "gabo: GitHub Actions Boilerplate Generator",
+      "https://github.com/ashishb/gabo"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 06:23:05",
       "https://lobste.rs/s/rxui3k/88_hats_puzzle"
     ],
@@ -177,16 +187,6 @@
     [
       "Set theoretic typing for Elixir - demo",
       "https://typex.fly.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 08:07:02",
-      "https://lobste.rs/s/cuxs9f/fishfuzz_catch_deeper_bugs_by_throwing"
-    ],
-    [
-      "FishFuzz: Catch Deeper Bugs by Throwing Larger Nets",
-      "https://nebelwelt.net/publications/files/23SEC5.pdf"
     ]
   ],
   [
