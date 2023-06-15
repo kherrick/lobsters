@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 13:06:12](https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust) - [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
 * [2023-06-15, 12:48:23](https://lobste.rs/s/wvntvf/briar_mailbox_released_improve) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
@@ -9,7 +10,7 @@
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
-* [2023-06-14, 21:21:05](https://lobste.rs/s/ucf7gz/linux_kernel_regression_tracking) - [Linux kernel regression tracking (regzbot)](https://linux-regtracking.leemhuis.info/about/#tldr)
+* [2023-06-14, 20:54:02](https://lobste.rs/s/wmjhao/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
@@ -22,7 +23,6 @@
 * [2023-06-14, 10:15:30](https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo) - [Set theoretic typing for Elixir - demo](https://typex.fly.dev)
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
-* [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
 
