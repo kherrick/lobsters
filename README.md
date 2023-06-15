@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 12:48:23](https://lobste.rs/s/wvntvf/briar_mailbox_released_improve) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
@@ -20,7 +21,6 @@
 * [2023-06-14, 10:17:08](https://lobste.rs/s/kzgl7z/gentle_introduction_graph_neural) - [A Gentle Introduction to Graph Neural Networks (2021)](https://distill.pub/2021/gnn-intro/)
 * [2023-06-14, 10:15:30](https://lobste.rs/s/n4hqy2/set_theoretic_typing_for_elixir_demo) - [Set theoretic typing for Elixir - demo](https://typex.fly.dev)
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
-* [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
 * [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
