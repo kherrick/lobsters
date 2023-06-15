@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
 * [2023-06-15, 16:52:05](https://lobste.rs/s/j7dttk/interview_with_emacs_enthusiast_2023) - [Interview with an Emacs Enthusiast in 2023 [Colorized]](https://youtu.be/urcL86UpqZc)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 * [2023-06-15, 15:41:09](https://lobste.rs/s/c2npl1/benchmarking_neural_network_training) - [Benchmarking Neural Network Training Algorithms](https://arxiv.org/abs/2306.07179)

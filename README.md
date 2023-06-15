@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 * [2023-06-15, 15:41:09](https://lobste.rs/s/c2npl1/benchmarking_neural_network_training) - [Benchmarking Neural Network Training Algorithms](https://arxiv.org/abs/2306.07179)
 * [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
@@ -20,7 +21,6 @@
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
-* [2023-06-14, 14:36:43](https://lobste.rs/s/5kiumr/overhaul_latex_preview_system) - [Overhaul of the LaTeX preview system](https://list.orgmode.org/87lek2up0w.fsf@tec.tecosaur.net/)
 * [2023-06-14, 14:21:23](https://lobste.rs/s/e3lj0p/it_s_dangerous_go_alone_pub_mod_use_this_rs) - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/)
 * [2023-06-14, 14:17:23](https://lobste.rs/s/e58dqr/appsmith_s_deployment_architecture) - [Appsmith's Deployment Architecture](https://www.appsmith.com/blog/appsmith-deployment-architecture)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
