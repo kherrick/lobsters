@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-15, 08:49:44](https://lobste.rs/s/ie3a7v/how_write_ruby_scripts_for_security) - [How to write Ruby scripts for security research using ronin-support](https://ronin-rb.dev/docs/guides/writing-ronin-ruby-scripts/)
 * [2023-06-15, 08:35:45](https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate) - [gabo: GitHub Actions Boilerplate Generator](https://github.com/ashishb/gabo)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
 * [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
+* [2023-06-15, 01:32:09](https://lobste.rs/s/5b6tjz/github_dev_press_key_on_any_repo) - [github.dev: Press the . key on any repo](https://github.dev/github/dev)
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
