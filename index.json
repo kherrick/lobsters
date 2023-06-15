@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 20:56:09",
+      "https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator"
+    ],
+    [
+      "diskonaut: Terminal disk space navigator",
+      "https://github.com/imsnif/diskonaut"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 20:43:12",
       "https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your"
     ],
@@ -177,16 +187,6 @@
     [
       "The case of the supersized shebang [2019]",
       "https://lwn.net/Articles/779997/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 01:27:25",
-      "https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin"
-    ],
-    [
-      "How to port a Metasploit Exploit to Ronin Exploits",
-      "https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html"
     ]
   ],
   [
