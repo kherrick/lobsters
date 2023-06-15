@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 17:47:26](https://lobste.rs/s/b8qsoa/announcing_go_support_for_wasm_workers) - [Announcing Go support for Wasm Workers Server](https://wasmlabs.dev/articles/go-support-on-wasm-workers-server/)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 * [2023-06-15, 15:41:09](https://lobste.rs/s/c2npl1/benchmarking_neural_network_training) - [Benchmarking Neural Network Training Algorithms](https://arxiv.org/abs/2306.07179)
@@ -17,7 +18,6 @@
 * [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
-* [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
