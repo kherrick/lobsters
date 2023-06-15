@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
-* [2023-06-15, 01:32:09](https://lobste.rs/s/5b6tjz/github_dev_press_key_on_any_repo) - [github.dev: Press the . key on any repo](https://github.dev/github/dev)
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
@@ -22,6 +21,7 @@
 * [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 * [2023-06-14, 04:13:33](https://lobste.rs/s/dhm20r/end_end_tracing) - [End-to-end Tracing](https://www.canva.dev/blog/engineering/end-to-end-tracing/)
 * [2023-06-13, 20:19:05](https://lobste.rs/s/ymnile/wasi_socket_extensions_for_go_1_21) - [WASI socket extensions for Go 1.21](https://github.com/stealthrocket/net)
+* [2023-06-13, 18:31:07](https://lobste.rs/s/r6hqv9/radio_on_tv) - [radio on the tv](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-13, 18:23:41](https://lobste.rs/s/uuayrc/it_s_great_you_provide_operator_overloads) - [It's great that you provide operator overloads, but it's also nice to have names](https://devblogs.microsoft.com/oldnewthing/20230605-00/?p=108289)
 * [2023-06-13, 17:40:58](https://lobste.rs/s/iudmph/clearly_predatory_western_digital) - [“Clearly predatory”: Western Digital sparks panic, anger for age-shaming HDDs [after 3 years uptime]](https://arstechnica.com/gadgets/2023/06/clearly-predatory-western-digital-sparks-panic-anger-for-age-shaming-hdds/)
 * [2023-06-13, 16:22:30](https://lobste.rs/s/1y78kf/rewriting_ruby_parser) - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/)
