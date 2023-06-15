@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 08:49:44",
+      "https://lobste.rs/s/ie3a7v/writing_ronin_ruby_scripts_using_ronin"
+    ],
+    [
+      "Writing Ronin Ruby Scripts using ronin-support",
+      "https://ronin-rb.dev/docs/guides/writing-ronin-ruby-scripts/"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 08:35:45",
       "https://lobste.rs/s/t3pfgp/gabo_github_actions_boilerplate"
     ],
@@ -137,16 +147,6 @@
     [
       "Appsmith's Deployment Architecture",
       "https://www.appsmith.com/blog/appsmith-deployment-architecture"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 13:57:32",
-      "https://lobste.rs/s/ebqrnx/qt_for_mcus_2_5_lts_released"
-    ],
-    [
-      "Qt for MCUs 2.5 LTS released",
-      "https://www.qt.io/blog/qt-for-mcus-2.5-lts-released"
     ]
   ],
   [
