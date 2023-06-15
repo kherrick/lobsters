@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 * [2023-06-15, 14:58:21](https://lobste.rs/s/o1gxro/11_years_hosting_saas) - [11 years of hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 14:57:28](https://lobste.rs/s/jxamw6/embed_github_actions_your_docs) - [Embed GitHub Actions in your Docs](https://runme.dev/blog/embed-github-actions)
@@ -24,7 +25,6 @@
 * [2023-06-14, 14:17:23](https://lobste.rs/s/e58dqr/appsmith_s_deployment_architecture) - [Appsmith's Deployment Architecture](https://www.appsmith.com/blog/appsmith-deployment-architecture)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 12:59:28](https://lobste.rs/s/xxxezb/eltanin_os_project_linux_distro_glacies) - [Eltanin - An OS project and a Linux distro (Glacies)](http://eltaninos.org/en/blog/2023-05-07-00)
-* [2023-06-14, 07:42:18](https://lobste.rs/s/hbjsyg/state_screen_reading_on_desktop_linux) - [State of screen reading on desktop Linux](https://samthursfield.wordpress.com/2023/06/07/state-of-screen-reading-reading-on-desktop-linux/)
 
 ## [Archives](archives/index.md)
 
