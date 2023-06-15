@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-15, 14:55:26](https://lobste.rs/s/ojw7l0/vervis_actor_refactoring) - [Vervis Actor Refactoring](https://forgefed.org/blog/vervis-actor-refactoring/)
 * [2023-06-15, 14:23:36](https://lobste.rs/s/8hkyqu/evaluating_openai_s_whisper_on_community) - [Evaluating OpenAI’s Whisper on Community Conversations](https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/)
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
@@ -12,7 +13,6 @@
 * [2023-06-15, 01:27:25](https://lobste.rs/s/bjaabc/how_port_metasploit_exploit_ronin) - [How to port a Metasploit Exploit to Ronin Exploits](https://ronin-rb.dev/docs/porting/metasploit_exploits_to_ronin_exploits.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 22:57:15](https://lobste.rs/s/d55cva/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://www.nassiben.com/video-based-crypta)
-* [2023-06-14, 20:54:02](https://lobste.rs/s/wmjhao/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-14, 18:07:13](https://lobste.rs/s/m7dnex/yabin_yet_another_pastebin_simple) - [YABin: Yet another pastebin, simple but feature-rich](https://github.com/Yureien/YABin)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
