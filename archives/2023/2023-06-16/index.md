@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 12:35:07](https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your) - [signway: Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting authentic signed URLs to the requested API](https://github.com/gabotechs/signway)
 * [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
