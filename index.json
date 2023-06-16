@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 07:48:09",
+      "https://lobste.rs/s/fnrmcy/control_escape_meta_tricks"
+    ],
+    [
+      "Control, Escape, and Meta Tricks",
+      "https://susam.net/blog/control-escape-meta-tricks.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 07:16:00",
       "https://lobste.rs/s/qhb1zk/parallel_futures_mobile_application"
     ],
@@ -137,16 +147,6 @@
     [
       "Bias in the .NET random number generator (2017)",
       "https://fuglede.dk/en/blog/bias-in-net-rng/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 14:23:36",
-      "https://lobste.rs/s/8hkyqu/evaluating_openai_s_whisper_on_community"
-    ],
-    [
-      "Evaluating OpenAI’s Whisper on Community Conversations",
-      "https://cortico.ai/news/insights/evaluating-openai-s-whisper-on-community-conversations/"
     ]
   ],
   [
