@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 16:56:32",
+      "https://lobste.rs/s/bzl7la/experimenting_with_memory_management"
+    ],
+    [
+      "Experimenting with Memory Management for Basil",
+      "https://degaz.io/blog/632020/post.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 16:20:40",
       "https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel"
     ],
@@ -197,16 +207,6 @@
     [
       "The quest for a Secure and Accessible Desktop",
       "https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 13:06:12",
-      "https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust"
-    ],
-    [
-      "Exploring Dataflow Analysis in the Rust Compiler",
-      "https://aneksteind.github.io/posts/2023-06-12.html"
     ]
   ],
   [
