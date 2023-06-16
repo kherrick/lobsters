@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 10:25:38](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend)
 * [2023-06-16, 09:10:57](https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you) - [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 * [2023-06-16, 08:38:27](https://lobste.rs/s/zxupuc/10_containerization_best_practices_keep) - [10 Containerization Best Practices to Keep in Mind](https://blog.dyrector.io/2023-06-15-containerization-best-practices/)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
@@ -23,7 +24,6 @@
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
-* [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 
 ## [Archives](archives/index.md)
