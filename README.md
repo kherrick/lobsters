@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 19:00:20](https://lobste.rs/s/npdccc/initializing_large_static_maps_go) - [Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 18:42:22](https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick) - [Porting Python and Pwnlib code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
@@ -24,7 +25,6 @@
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
-* [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 
 ## [Archives](archives/index.md)
 

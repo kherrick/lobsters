@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 19:00:20](https://lobste.rs/s/npdccc/initializing_large_static_maps_go) - [Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 18:42:22](https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick) - [Porting Python and Pwnlib code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
