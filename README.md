@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 17:57:24](https://lobste.rs/s/qd71yj/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions [feat. io_uring]](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html?m=1)
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 12:35:07](https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your) - [signway: Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting authentic signed URLs to the requested API](https://github.com/gabotechs/signway)
@@ -10,7 +11,6 @@
 * [2023-06-16, 09:10:57](https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you) - [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 07:16:00](https://lobste.rs/s/qhb1zk/parallel_futures_mobile_application) - [Parallel futures in mobile application development](https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development)
-* [2023-06-16, 03:21:46](https://lobste.rs/s/pmy2rf/trsvid_video_player_for_trs_80_model_1_3_4) - [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 * [2023-06-16, 02:25:18](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious) - [Fun Format Friday: What's the most malicious way your project(s) could be used?](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious)
 * [2023-06-15, 21:50:52](https://lobste.rs/s/sk11aq/mlc_llm) - [MLC LLM](https://mlc.ai/mlc-llm/)
 * [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
