@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 19:00:20",
+      "https://lobste.rs/s/npdccc/initializing_large_static_maps_go"
+    ],
+    [
+      "Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches",
+      "https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 18:47:12",
       "https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson"
     ],
@@ -237,16 +247,6 @@
     [
       "Tindall On Software Delays",
       "https://two-wrongs.com/tindall-on-software-delays.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 13:54:28",
-      "https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times"
-    ],
-    [
-      "I booted Linux 292,612 times",
-      "https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/"
     ]
   ]
 ]
