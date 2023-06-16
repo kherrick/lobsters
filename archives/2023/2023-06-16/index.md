@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 21:42:46](https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd) - [FreeBSD Day – Celebrating 30 Years of FreeBSD](https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/)
 * [2023-06-16, 19:00:20](https://lobste.rs/s/npdccc/initializing_large_static_maps_go) - [Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 18:42:22](https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick) - [Porting Python and Pwnlib code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)

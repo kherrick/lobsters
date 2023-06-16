@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 21:42:46](https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd) - [FreeBSD Day – Celebrating 30 Years of FreeBSD](https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/)
 * [2023-06-16, 19:00:20](https://lobste.rs/s/npdccc/initializing_large_static_maps_go) - [Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 18:42:22](https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick) - [Porting Python and Pwnlib code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
@@ -19,7 +20,6 @@
 * [2023-06-15, 21:50:52](https://lobste.rs/s/sk11aq/mlc_llm) - [MLC LLM](https://mlc.ai/mlc-llm/)
 * [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-* [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
