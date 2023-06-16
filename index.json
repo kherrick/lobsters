@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-16, 18:47:12",
+      "https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson"
+    ],
+    [
+      "Limits of Programmer Productivity: A lesson from Fred Brooks on development environments",
+      "https://pboyd.io/posts/productivity-limit/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 18:42:22",
+      "https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick"
+    ],
+    [
+      "Porting Python and Pwnlib code to Ronin Quick Refs",
+      "https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 18:05:57",
       "https://lobste.rs/s/35grkv/towards_modern_web_stack"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-06-15, 18:47:35",
-      "https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new"
-    ],
-    [
-      "WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events",
-      "https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 18:00:37",
       "https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti"
     ],
@@ -227,16 +237,6 @@
     [
       "Tindall On Software Delays",
       "https://two-wrongs.com/tindall-on-software-delays.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 23:08:39",
-      "https://lobste.rs/s/gl1fls/zed_building_platform_open_sources"
-    ],
-    [
-      "Zed: Building a platform that open sources itself",
-      "https://zed.dev/blog/open-sourcing-zed-on-zed"
     ]
   ],
   [
