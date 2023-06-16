@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
 * [2023-06-16, 11:16:22](https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz) - [WebAssembly shaper added to harfbuzz](https://github.com/harfbuzz/harfbuzz/pull/4131)
 * [2023-06-16, 10:58:56](https://lobste.rs/s/usihsy/creating_chatgpt_plugins_using_new) - [Creating ChatGPT Plugins Using the New Function Call Feature](https://codeconfessions.substack.com/p/creating-chatgpt-plugins-using-the)
 * [2023-06-16, 10:25:38](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend)
@@ -10,7 +11,6 @@
 * [2023-06-16, 03:21:46](https://lobste.rs/s/pmy2rf/trsvid_video_player_for_trs_80_model_1_3_4) - [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 * [2023-06-16, 02:25:18](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious) - [Fun Format Friday: What's the most malicious way your project(s) could be used?](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious)
 * [2023-06-16, 01:27:49](https://lobste.rs/s/w44l4p/google_domains_shutting_down_sold) - [Google Domains shutting down, sold to Squarespace](https://9to5google.com/2023/06/15/google-domains-squarespace/)
-* [2023-06-15, 22:47:31](https://lobste.rs/s/72lmnd/microservices_containers_explained) - [Microservices and Containers Explained… Using LEGOs](https://redis.com/blog/microservices-and-containers/)
 * [2023-06-15, 21:50:52](https://lobste.rs/s/sk11aq/mlc_llm) - [MLC LLM](https://mlc.ai/mlc-llm/)
 * [2023-06-15, 20:56:09](https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator) - [diskonaut: Terminal disk space navigator](https://github.com/imsnif/diskonaut)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
