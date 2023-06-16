@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-16, 17:57:24](https://lobste.rs/s/qd71yj/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions [feat. io_uring]](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html?m=1)
+* [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
+* [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 12:35:07](https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your) - [signway: Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting authentic signed URLs to the requested API](https://github.com/gabotechs/signway)
@@ -23,7 +24,6 @@
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
-* [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 13:54:28](https://lobste.rs/s/h8c2kq/i_booted_linux_292_612_times) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 
 ## [Archives](archives/index.md)

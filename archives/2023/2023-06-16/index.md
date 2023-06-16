@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
+* [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 17:57:24](https://lobste.rs/s/qd71yj/learnings_from_kctf_vrp_s_42_linux_kernel) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions [feat. io_uring]](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html?m=1)
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
