@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 09:10:57](https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you) - [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 * [2023-06-16, 08:38:27](https://lobste.rs/s/zxupuc/10_containerization_best_practices_keep) - [10 Containerization Best Practices to Keep in Mind](https://blog.dyrector.io/2023-06-15-containerization-best-practices/)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 07:16:00](https://lobste.rs/s/qhb1zk/parallel_futures_mobile_application) - [Parallel futures in mobile application development](https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development)
