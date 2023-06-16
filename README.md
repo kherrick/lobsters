@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 11:16:22](https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz) - [WebAssembly shaper added to harfbuzz](https://github.com/harfbuzz/harfbuzz/pull/4131)
 * [2023-06-16, 10:58:56](https://lobste.rs/s/usihsy/creating_chatgpt_plugins_using_new) - [Creating ChatGPT Plugins Using the New Function Call Feature](https://codeconfessions.substack.com/p/creating-chatgpt-plugins-using-the)
 * [2023-06-16, 10:25:38](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend)
 * [2023-06-16, 09:10:57](https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you) - [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
@@ -16,7 +17,6 @@
 * [2023-06-15, 18:47:35](https://lobste.rs/s/znatjv/wireplumber_s_event_dispatcher_new) - [WirePlumber's Event Dispatcher: a new, simplified way of handling PipeWire events](https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/)
 * [2023-06-15, 18:00:37](https://lobste.rs/s/rcwd7l/programming_book_recommendations_anti) - [Programming book recommendations and anti-recommendations (2016)](https://danluu.com/programming-books/)
 * [2023-06-15, 16:31:58](https://lobste.rs/s/21hnpz/meilisearch_across_semantic_verse) - [Meilisearch across the Semantic Verse](https://github.com/meilisearch/meilisearch/issues/3838)
-* [2023-06-15, 15:16:35](https://lobste.rs/s/47wxba/javascript_imports_under_hood) - [JavaScript Imports Under The Hood](https://blog.jim-nielsen.com/2023/imports-under-the-hood/)
 * [2023-06-15, 15:06:20](https://lobste.rs/s/8bpebe/bias_net_random_number_generator_2017) - [Bias in the .NET random number generator (2017)](https://fuglede.dk/en/blog/bias-in-net-rng/)
 * [2023-06-15, 14:18:18](https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others) - [Some tests are stronger than others](https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/)
 * [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)

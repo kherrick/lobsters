@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 11:16:22](https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz) - [WebAssembly shaper added to harfbuzz](https://github.com/harfbuzz/harfbuzz/pull/4131)
 * [2023-06-16, 10:58:56](https://lobste.rs/s/usihsy/creating_chatgpt_plugins_using_new) - [Creating ChatGPT Plugins Using the New Function Call Feature](https://codeconfessions.substack.com/p/creating-chatgpt-plugins-using-the)
 * [2023-06-16, 10:25:38](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend)
 * [2023-06-16, 09:10:57](https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you) - [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
