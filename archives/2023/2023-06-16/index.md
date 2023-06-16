@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 08:38:27](https://lobste.rs/s/zxupuc/10_containerization_best_practices_keep) - [10 Containerization Best Practices to Keep in Mind](https://blog.dyrector.io/2023-06-15-containerization-best-practices/)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 07:16:00](https://lobste.rs/s/qhb1zk/parallel_futures_mobile_application) - [Parallel futures in mobile application development](https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development)
 * [2023-06-16, 03:21:46](https://lobste.rs/s/pmy2rf/trsvid_video_player_for_trs_80_model_1_3_4) - [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)

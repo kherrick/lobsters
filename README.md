@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-16, 08:38:27](https://lobste.rs/s/zxupuc/10_containerization_best_practices_keep) - [10 Containerization Best Practices to Keep in Mind](https://blog.dyrector.io/2023-06-15-containerization-best-practices/)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 07:16:00](https://lobste.rs/s/qhb1zk/parallel_futures_mobile_application) - [Parallel futures in mobile application development](https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development)
 * [2023-06-16, 03:21:46](https://lobste.rs/s/pmy2rf/trsvid_video_player_for_trs_80_model_1_3_4) - [trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
@@ -20,7 +21,6 @@
 * [2023-06-15, 13:06:12](https://lobste.rs/s/chcoq8/exploring_dataflow_analysis_rust) - [Exploring Dataflow Analysis in the Rust Compiler](https://aneksteind.github.io/posts/2023-06-12.html)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 * [2023-06-15, 06:23:05](https://lobste.rs/s/rxui3k/88_hats_puzzle) - [The 88 Hats Puzzle](http://archive.vector.org.uk/art10500850)
-* [2023-06-15, 02:42:11](https://lobste.rs/s/uketxj/case_supersized_shebang_2019) - [The case of the supersized shebang [2019]](https://lwn.net/Articles/779997/)
 * [2023-06-14, 23:08:39](https://lobste.rs/s/gl1fls/zed_building_platform_open_sources) - [Zed: Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-14, 15:03:26](https://lobste.rs/s/zqa4cc/learning_modern_compilers) - [Learning modern compilers?](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 * [2023-06-14, 14:40:22](https://lobste.rs/s/oonovp/digg_s_v4_launch_optimism_born_necessity) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
