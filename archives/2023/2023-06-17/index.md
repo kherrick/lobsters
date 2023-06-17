@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/release_not_so_common_desktop) - [Release Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
 * [2023-06-17, 13:25:46](https://lobste.rs/s/zl4t3g/i_don_t_need_your_query_language) - [I Don't Need Your Query Language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)

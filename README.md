@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/release_not_so_common_desktop) - [Release Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
 * [2023-06-17, 13:25:46](https://lobste.rs/s/zl4t3g/i_don_t_need_your_query_language) - [I Don't Need Your Query Language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
@@ -17,7 +18,6 @@
 * [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
-* [2023-06-16, 12:35:07](https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your) - [signway: Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting authentic signed URLs to the requested API](https://github.com/gabotechs/signway)
 * [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
 * [2023-06-16, 11:16:22](https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz) - [WebAssembly shaper added to harfbuzz](https://github.com/harfbuzz/harfbuzz/pull/4131)
 * [2023-06-16, 10:58:56](https://lobste.rs/s/usihsy/creating_chatgpt_plugins_using_new) - [Creating ChatGPT Plugins Using the New Function Call Feature](https://codeconfessions.substack.com/p/creating-chatgpt-plugins-using-the)
