@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-17, 13:25:46](https://lobste.rs/s/zl4t3g/i_don_t_need_your_query_language) - [I Don't Need Your Query Language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
 * [2023-06-17, 07:45:34](https://lobste.rs/s/hkf57n/using_git_annex_for_data_archiving) - [Using git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 06:47:00](https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
@@ -23,7 +24,6 @@
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 02:25:18](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious) - [Fun Format Friday: What's the most malicious way your project(s) could be used?](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious)
 * [2023-06-15, 20:43:12](https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your) - [My 24 year old HP Jornada can do things your modern iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-* [2023-06-15, 13:50:25](https://lobste.rs/s/hfo92h/quest_for_secure_accessible_desktop) - [The quest for a Secure and Accessible Desktop](https://arcan-fe.com/2023/06/15/the-quest-for-a-secure-and-accessible-desktop/)
 * [2023-06-15, 12:12:54](https://lobste.rs/s/guh9t9/tindall_on_software_delays) - [Tindall On Software Delays](https://two-wrongs.com/tindall-on-software-delays.html)
 
 ## [Archives](archives/index.md)
