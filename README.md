@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2) - [Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
@@ -20,7 +21,6 @@
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
-* [2023-06-16, 11:16:22](https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz) - [WebAssembly shaper added to harfbuzz](https://github.com/harfbuzz/harfbuzz/pull/4131)
 * [2023-06-16, 10:25:38](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend)
 * [2023-06-16, 07:48:09](https://lobste.rs/s/fnrmcy/control_escape_meta_tricks) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 02:25:18](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious) - [Fun Format Friday: What's the most malicious way your project(s) could be used?](https://lobste.rs/s/0ahmgp/fun_format_friday_what_s_most_malicious)

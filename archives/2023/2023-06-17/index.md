@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/release_not_so_common_desktop) - [Release Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
