@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-17, 01:03:49",
+      "https://lobste.rs/s/vkxuwv/theseus_dht_protocol"
+    ],
+    [
+      "Theseus DHT Protocol",
+      "https://wootfish.github.io/theseus.dht/"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 00:05:12",
+      "https://lobste.rs/s/ql6dxw/tempo_grpc_alternative_s_faster_lighter"
+    ],
+    [
+      "Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere",
+      "https://github.com/betwixt-labs/tempo"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 21:42:46",
       "https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-15, 21:50:52",
-      "https://lobste.rs/s/sk11aq/mlc_llm"
-    ],
-    [
-      "MLC LLM",
-      "https://mlc.ai/mlc-llm/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 20:56:09",
       "https://lobste.rs/s/jrlqbv/diskonaut_terminal_disk_space_navigator"
     ],
@@ -217,16 +227,6 @@
     [
       "Bias in the .NET random number generator (2017)",
       "https://fuglede.dk/en/blog/bias-in-net-rng/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 14:18:18",
-      "https://lobste.rs/s/2dx1vo/some_tests_are_stronger_than_others"
-    ],
-    [
-      "Some tests are stronger than others",
-      "https://buttondown.email/hillelwayne/archive/some-tests-are-stronger-than-others/"
     ]
   ],
   [
