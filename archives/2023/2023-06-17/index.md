@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
 * [2023-06-17, 07:45:34](https://lobste.rs/s/hkf57n/using_git_annex_for_data_archiving) - [Using git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 06:47:00](https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 02:36:00](https://lobste.rs/s/czpsqv/rash_reckless_racket_shell) - [Rash - The Reckless Racket Shell](https://rash-lang.org/)
