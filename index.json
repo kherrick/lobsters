@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-17, 22:26:27",
+      "https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust"
+    ],
+    [
+      "Encoding ML-style modules in Rust",
+      "https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 21:50:02",
       "https://lobste.rs/s/qnmx3s/zfs_notes"
     ],
@@ -197,16 +207,6 @@
     [
       "Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection",
       "https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 11:16:22",
-      "https://lobste.rs/s/y9jwcv/webassembly_shaper_added_harfbuzz"
-    ],
-    [
-      "WebAssembly shaper added to harfbuzz",
-      "https://github.com/harfbuzz/harfbuzz/pull/4131"
     ]
   ],
   [
