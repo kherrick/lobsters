@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-17, 06:47:00",
+      "https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand"
+    ],
+    [
+      "How to Create a UTF-16 Surrogate Pair by Hand, with Python",
+      "https://www.oilshell.org/blog/2023/06/surrogate-pair.html"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 02:36:00",
       "https://lobste.rs/s/czpsqv/rash_reckless_racket_shell"
     ],
@@ -167,16 +177,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/c7tqkz/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 09:10:57",
-      "https://lobste.rs/s/kfk3wm/what_kind_asynchronous_is_right_for_you"
-    ],
-    [
-      "What Kind of Asynchronous is Right For You?",
-      "https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html"
     ]
   ],
   [
