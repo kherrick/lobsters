@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-17, 21:50:02",
+      "https://lobste.rs/s/qnmx3s/zfs_notes"
+    ],
+    [
+      "ZFS Notes",
+      "https://wiki.alopex.li/ZfsNotes"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 17:05:17",
       "https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use"
     ],
@@ -197,16 +207,6 @@
     [
       "WebAssembly shaper added to harfbuzz",
       "https://github.com/harfbuzz/harfbuzz/pull/4131"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 10:58:56",
-      "https://lobste.rs/s/usihsy/creating_chatgpt_plugins_using_new"
-    ],
-    [
-      "Creating ChatGPT Plugins Using the New Function Call Feature",
-      "https://codeconfessions.substack.com/p/creating-chatgpt-plugins-using-the"
     ]
   ],
   [
