@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 17:55:17",
+      "https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020"
+    ],
+    [
+      "Data Abstraction: Theory And Practice (2020)",
+      "https://www.bkase.io/posts/data-abstraction"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 17:43:57",
       "https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor"
     ],
@@ -217,16 +227,6 @@
     [
       "Ikea-Oriented Development",
       "https://taylor.town/ikea-oriented-development"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 06:47:00",
-      "https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand"
-    ],
-    [
-      "How to Create a UTF-16 Surrogate Pair by Hand, with Python",
-      "https://www.oilshell.org/blog/2023/06/surrogate-pair.html"
     ]
   ],
   [
