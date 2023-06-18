@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
 * [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:28:25](https://lobste.rs/s/am7nu9/spectral_contexts_go) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
@@ -16,7 +17,6 @@
 * [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
-* [2023-06-18, 09:55:43](https://lobste.rs/s/c73thl/languagemodels_explore_small_language) - [languagemodels: Explore [small] language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)
 * [2023-06-18, 04:21:37](https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 02:56:09](https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator) - [Infinigen procedural 3D scene generator](https://infinigen.org/)
 * [2023-06-18, 01:32:06](https://lobste.rs/s/a48cie/error_vs_exception) - [Error vs. Exception](https://wiki.haskell.org/Error_vs._Exception)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
 * [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:28:25](https://lobste.rs/s/am7nu9/spectral_contexts_go) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
