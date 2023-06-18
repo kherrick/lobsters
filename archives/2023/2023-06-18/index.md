@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 19:28:25](https://lobste.rs/s/am7nu9/spectral_contexts_go) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 * [2023-06-18, 18:51:44](https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue) - [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
 * [2023-06-18, 17:43:57](https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor) - [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
