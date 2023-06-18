@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 17:43:57](https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor) - [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
 * [2023-06-18, 17:23:38](https://lobste.rs/s/czgtpw/follow_up_i_booted_linux_292_612_times) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 16:34:00](https://lobste.rs/s/phqinz/flowpilot_open_source_mobile_app_adds) - [FlowPilot: Open-Source Mobile App adds Self-Driving Capabilities to your Car](https://flowdrive.ai)
@@ -24,7 +25,6 @@
 * [2023-06-17, 06:47:00](https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 02:10:26](https://lobste.rs/s/ucilt7/merging_bcachefs) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-17, 01:03:49](https://lobste.rs/s/vkxuwv/theseus_dht_protocol) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-* [2023-06-17, 00:05:12](https://lobste.rs/s/ql6dxw/tempo_grpc_alternative_s_faster_lighter) - [Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere](https://github.com/betwixt-labs/tempo)
 
 ## [Archives](archives/index.md)
 
