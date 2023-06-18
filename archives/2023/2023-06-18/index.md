@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-18, 13:54:00](https://lobste.rs/s/byqs1o/difference_between_root_certificate) - [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 13:30:30](https://lobste.rs/s/ylkkyj/bulb_reviews_range_modern_led_bulbs) - [Bulb Reviews: A Range of Modern LED Bulbs](https://www.sevarg.net/2023/06/17/led-bulb-reviews/)
 * [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
