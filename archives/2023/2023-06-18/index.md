@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
+* [2023-06-18, 17:23:38](https://lobste.rs/s/czgtpw/follow_up_i_booted_linux_292_612_times) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 16:34:00](https://lobste.rs/s/phqinz/flowpilot_open_source_mobile_app_adds) - [FlowPilot: Open-Source Mobile App adds Self-Driving Capabilities to your Car](https://flowdrive.ai)
 * [2023-06-18, 16:04:35](https://lobste.rs/s/shioaj/designing_pythonic_library_apis) - [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
 * [2023-06-18, 16:01:22](https://lobste.rs/s/itjx6c/building_search_dsls_with_django) - [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/)
