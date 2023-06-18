@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
+* [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:26:10](https://lobste.rs/s/aj9dc0/how_write_better_commit_messages) - [How to write better commit messages](https://skerritt.blog/writing-better-commit-messages/)
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 * [2023-06-18, 09:55:43](https://lobste.rs/s/c73thl/languagemodels_explore_small_language) - [languagemodels: Explore [small] language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)
