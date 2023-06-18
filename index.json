@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 09:55:43",
+      "https://lobste.rs/s/c73thl/languagemodels_explore_small_language"
+    ],
+    [
+      "languagemodels: Explore [small] language models on any computer with 512MB of RAM",
+      "https://github.com/jncraton/languagemodels"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 04:21:37",
       "https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out"
     ],
@@ -157,16 +167,6 @@
     [
       "FreeBSD Day – Celebrating 30 Years of FreeBSD",
       "https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 19:00:20",
-      "https://lobste.rs/s/npdccc/initializing_large_static_maps_go"
-    ],
-    [
-      "Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches",
-      "https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/"
     ]
   ],
   [
