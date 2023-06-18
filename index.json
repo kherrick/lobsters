@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-18, 16:04:35",
+      "https://lobste.rs/s/shioaj/designing_pythonic_library_apis"
+    ],
+    [
+      "Designing Pythonic library APIs",
+      "https://benhoyt.com/writings/python-api-design/"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 16:01:22",
+      "https://lobste.rs/s/itjx6c/building_search_dsls_with_django"
+    ],
+    [
+      "Building Search DSLs with Django",
+      "https://danlamanna.com/posts/building-search-dsls-with-django/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 14:59:51",
       "https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-17, 02:36:00",
-      "https://lobste.rs/s/czpsqv/rash_reckless_racket_shell"
-    ],
-    [
-      "Rash - The Reckless Racket Shell",
-      "https://rash-lang.org/"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 02:10:26",
       "https://lobste.rs/s/ucilt7/merging_bcachefs"
     ],
@@ -237,16 +247,6 @@
     [
       "A Note About Zig Books for the Zig Community",
       "https://kristoff.it/blog/note-about-zig-books/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:20:40",
-      "https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel"
-    ],
-    [
-      "Put an io_uring on it - Exploiting the Linux Kernel",
-      "https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel"
     ]
   ]
 ]
