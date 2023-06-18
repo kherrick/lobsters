@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 13:30:30](https://lobste.rs/s/ylkkyj/bulb_reviews_range_modern_led_bulbs) - [Bulb Reviews: A Range of Modern LED Bulbs](https://www.sevarg.net/2023/06/17/led-bulb-reviews/)
 * [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:26:10](https://lobste.rs/s/aj9dc0/how_write_better_commit_messages) - [How to write better commit messages](https://skerritt.blog/writing-better-commit-messages/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 13:30:30](https://lobste.rs/s/ylkkyj/bulb_reviews_range_modern_led_bulbs) - [Bulb Reviews: A Range of Modern LED Bulbs](https://www.sevarg.net/2023/06/17/led-bulb-reviews/)
 * [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:26:10](https://lobste.rs/s/aj9dc0/how_write_better_commit_messages) - [How to write better commit messages](https://skerritt.blog/writing-better-commit-messages/)
@@ -20,7 +21,6 @@
 * [2023-06-17, 02:10:26](https://lobste.rs/s/ucilt7/merging_bcachefs) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-17, 01:03:49](https://lobste.rs/s/vkxuwv/theseus_dht_protocol) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-17, 00:05:12](https://lobste.rs/s/ql6dxw/tempo_grpc_alternative_s_faster_lighter) - [Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere](https://github.com/betwixt-labs/tempo)
-* [2023-06-16, 21:42:46](https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd) - [FreeBSD Day – Celebrating 30 Years of FreeBSD](https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
