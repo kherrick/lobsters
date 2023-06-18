@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:28:25](https://lobste.rs/s/am7nu9/spectral_contexts_go) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 * [2023-06-18, 18:51:44](https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue) - [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
