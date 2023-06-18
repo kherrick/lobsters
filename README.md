@@ -24,7 +24,7 @@
 * [2023-06-17, 01:03:49](https://lobste.rs/s/vkxuwv/theseus_dht_protocol) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-17, 00:05:12](https://lobste.rs/s/ql6dxw/tempo_grpc_alternative_s_faster_lighter) - [Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere](https://github.com/betwixt-labs/tempo)
 * [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
-* [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
+* [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 
 ## [Archives](archives/index.md)
 
