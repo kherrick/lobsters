@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 02:56:09](https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator) - [Infinigen procedural 3D scene generator](https://infinigen.org/)
 * [2023-06-18, 01:32:06](https://lobste.rs/s/a48cie/error_vs_exception) - [Error vs. Exception](https://wiki.haskell.org/Error_vs._Exception)
 * [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
@@ -16,7 +17,6 @@
 * [2023-06-16, 21:42:46](https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd) - [FreeBSD Day – Celebrating 30 Years of FreeBSD](https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/)
 * [2023-06-16, 19:00:20](https://lobste.rs/s/npdccc/initializing_large_static_maps_go) - [Initializing Large Static Maps in Go: comparing startup time and build cost for different approaches](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
-* [2023-06-16, 18:42:22](https://lobste.rs/s/ppv2jp/porting_python_pwnlib_code_ronin_quick) - [Porting Python and Pwnlib code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
 * [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 16:56:32](https://lobste.rs/s/bzl7la/experimenting_with_memory_management) - [Experimenting with Memory Management for Basil](https://degaz.io/blog/632020/post.html)
