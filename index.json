@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 04:21:37",
+      "https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out"
+    ],
+    [
+      "Squeezing a Little More Performance Out of Bytecode Interpreters",
+      "https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 02:56:09",
       "https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator"
     ],
@@ -187,16 +197,6 @@
     [
       "A Note About Zig Books for the Zig Community",
       "https://kristoff.it/blog/note-about-zig-books/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:56:32",
-      "https://lobste.rs/s/bzl7la/experimenting_with_memory_management"
-    ],
-    [
-      "Experimenting with Memory Management for Basil",
-      "https://degaz.io/blog/632020/post.html"
     ]
   ],
   [
