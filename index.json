@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-18, 17:27:02",
+      "https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as"
+    ],
+    [
+      "Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster",
+      "https://github.com/richox/orz"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 17:23:38",
+      "https://lobste.rs/s/czgtpw/follow_up_i_booted_linux_292_612_times"
+    ],
+    [
+      "Follow up to “I booted Linux 292,612 times”",
+      "https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 16:34:00",
       "https://lobste.rs/s/phqinz/flowpilot_open_source_mobile_app_adds"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-06-17, 13:25:46",
-      "https://lobste.rs/s/zl4t3g/i_don_t_need_your_query_language"
-    ],
-    [
-      "I Don't Need Your Query Language",
-      "https://antonz.org/fancy-ql/"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 12:19:50",
       "https://lobste.rs/s/yfy98y/ikea_oriented_development"
     ],
@@ -237,16 +247,6 @@
     [
       "Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere",
       "https://github.com/betwixt-labs/tempo"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 18:04:34",
-      "https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community"
-    ],
-    [
-      "A Note About Zig Books for the Zig Community",
-      "https://kristoff.it/blog/note-about-zig-books/"
     ]
   ]
 ]
