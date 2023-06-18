@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 18:51:44](https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue) - [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
 * [2023-06-18, 17:43:57](https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor) - [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)

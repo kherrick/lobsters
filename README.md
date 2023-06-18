@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 18:51:44](https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue) - [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
 * [2023-06-18, 17:43:57](https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor) - [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
@@ -22,7 +23,6 @@
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2) - [Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
-* [2023-06-17, 06:47:00](https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 02:10:26](https://lobste.rs/s/ucilt7/merging_bcachefs) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-17, 01:03:49](https://lobste.rs/s/vkxuwv/theseus_dht_protocol) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 
