@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 18:51:44",
+      "https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue"
+    ],
+    [
+      "noweb: the lesser known org babel glue",
+      "https://xenodium.com/noweb-more-glue-for-your-org-toolbox/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 17:55:17",
       "https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020"
     ],
@@ -217,16 +227,6 @@
     [
       "Ikea-Oriented Development",
       "https://taylor.town/ikea-oriented-development"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 06:47:00",
-      "https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand"
-    ],
-    [
-      "How to Create a UTF-16 Surrogate Pair by Hand, with Python",
-      "https://www.oilshell.org/blog/2023/06/surrogate-pair.html"
     ]
   ],
   [
