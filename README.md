@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-18, 10:26:10](https://lobste.rs/s/aj9dc0/how_write_better_commit_messages) - [How to write better commit messages](https://skerritt.blog/writing-better-commit-messages/)
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 * [2023-06-18, 09:55:43](https://lobste.rs/s/c73thl/languagemodels_explore_small_language) - [languagemodels: Explore [small] language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)
 * [2023-06-18, 04:21:37](https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
@@ -19,7 +20,6 @@
 * [2023-06-17, 00:05:12](https://lobste.rs/s/ql6dxw/tempo_grpc_alternative_s_faster_lighter) - [Tempo: a gRPC alternative that’s faster, lighter, and runs everywhere](https://github.com/betwixt-labs/tempo)
 * [2023-06-16, 21:42:46](https://lobste.rs/s/m9nzuj/freebsd_day_celebrating_30_years_freebsd) - [FreeBSD Day – Celebrating 30 Years of FreeBSD](https://freebsdfoundation.org/blog/freebsd-day-celebrating-30-years-of-freebsd/)
 * [2023-06-16, 18:47:12](https://lobste.rs/s/io6fyl/limits_programmer_productivity_lesson) - [Limits of Programmer Productivity: A lesson from Fred Brooks on development environments](https://pboyd.io/posts/productivity-limit/)
-* [2023-06-16, 18:05:57](https://lobste.rs/s/35grkv/towards_modern_web_stack) - [Towards a modern Web stack](https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?pli=1&resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw)
 * [2023-06-16, 18:04:34](https://lobste.rs/s/7t4idv/note_about_zig_books_for_zig_community) - [A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)
 * [2023-06-16, 16:20:40](https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel) - [Put an io_uring on it - Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 11:28:09](https://lobste.rs/s/2rgojg/single_ownership_memory_safety_without) - [Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
