@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-06-18, 13:30:30",
-      "https://lobste.rs/s/ylkkyj/bulb_reviews_range_modern_led_bulbs"
-    ],
-    [
-      "Bulb Reviews: A Range of Modern LED Bulbs",
-      "https://www.sevarg.net/2023/06/17/led-bulb-reviews/"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 10:46:05",
       "https://lobste.rs/s/idjbvw/inside_python_dict_explorable"
     ],
@@ -227,6 +217,16 @@
     [
       "Ikea-Oriented Development",
       "https://taylor.town/ikea-oriented-development"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 06:47:00",
+      "https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand"
+    ],
+    [
+      "How to Create a UTF-16 Surrogate Pair by Hand, with Python",
+      "https://www.oilshell.org/blog/2023/06/surrogate-pair.html"
     ]
   ],
   [
