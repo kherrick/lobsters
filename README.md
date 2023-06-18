@@ -10,7 +10,6 @@
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-18, 13:54:00](https://lobste.rs/s/byqs1o/difference_between_root_certificate) - [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
-* [2023-06-18, 13:30:30](https://lobste.rs/s/ylkkyj/bulb_reviews_range_modern_led_bulbs) - [Bulb Reviews: A Range of Modern LED Bulbs](https://www.sevarg.net/2023/06/17/led-bulb-reviews/)
 * [2023-06-18, 10:46:05](https://lobste.rs/s/idjbvw/inside_python_dict_explorable) - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
@@ -23,6 +22,7 @@
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 * [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2) - [Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
+* [2023-06-17, 06:47:00](https://lobste.rs/s/ql8goe/how_create_utf_16_surrogate_pair_by_hand) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 02:10:26](https://lobste.rs/s/ucilt7/merging_bcachefs) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-17, 01:03:49](https://lobste.rs/s/vkxuwv/theseus_dht_protocol) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 
