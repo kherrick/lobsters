@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-18, 10:46:05",
+      "https://lobste.rs/s/idjbvw/inside_python_dict_explorable"
+    ],
+    [
+      "Inside python dict — an explorable explanation",
+      "https://just-taking-a-ride.com/inside_python_dict/chapter1.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 10:43:51",
+      "https://lobste.rs/s/czndvw/go_execution_tracer_overhaul"
+    ],
+    [
+      "Go: Execution Tracer Overhaul",
+      "https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 10:26:10",
       "https://lobste.rs/s/aj9dc0/how_write_better_commit_messages"
     ],
@@ -227,26 +247,6 @@
     [
       "Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection",
       "https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 07:48:09",
-      "https://lobste.rs/s/fnrmcy/control_escape_meta_tricks"
-    ],
-    [
-      "Control, Escape, and Meta Tricks",
-      "https://susam.net/blog/control-escape-meta-tricks.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 20:43:12",
-      "https://lobste.rs/s/exmzyf/my_24_year_old_hp_jornada_can_do_things_your"
-    ],
-    [
-      "My 24 year old HP Jornada can do things your modern iPhone still can't do",
-      "https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html"
     ]
   ]
 ]
