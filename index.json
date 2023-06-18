@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 14:59:51",
+      "https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into"
+    ],
+    [
+      "The legend of \"x86 CPUs decode instructions into RISC form internally\"",
+      "https://fanael.github.io/is-x86-risc-internally.html"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 14:06:08",
       "https://lobste.rs/s/xzeu0q/my_first_impressions_nix"
     ],
@@ -227,16 +237,6 @@
     [
       "A Note About Zig Books for the Zig Community",
       "https://kristoff.it/blog/note-about-zig-books/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:20:40",
-      "https://lobste.rs/s/wh2oze/put_io_uring_on_it_exploiting_linux_kernel"
-    ],
-    [
-      "Put an io_uring on it - Exploiting the Linux Kernel",
-      "https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel"
     ]
   ],
   [
