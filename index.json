@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 18:40:47",
+      "https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve"
+    ],
+    [
+      "LibreOffice Arbitrary File Write (CVE-2023-1883)",
+      "https://secfault-security.com/blog/libreoffice.html"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 17:02:29",
       "https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language"
     ],
@@ -37,16 +47,6 @@
     [
       "Elixir v1.15 released",
       "https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 14:50:18",
-      "https://lobste.rs/s/yb2ydw/haskell_puzzles"
-    ],
-    [
-      "Haskell Puzzles",
-      "https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html"
     ]
   ],
   [
