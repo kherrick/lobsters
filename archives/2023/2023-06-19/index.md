@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 09:28:39](https://lobste.rs/s/bkstel/birth_death_javascript) - [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+* [2023-06-19, 09:24:52](https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline) - [Optimize KDE for Long-Term Offline Computing](https://phabricator.kde.org/T15624)
 * [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
 * [2023-06-19, 06:04:39](https://lobste.rs/s/a3r5at/icfp_2018_keynote_address_conveying) - [ICFP 2018 Keynote Address: Conveying the Power of Abstraction](https://www.youtube.com/watch?v=PvSpyhm6TUU)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
