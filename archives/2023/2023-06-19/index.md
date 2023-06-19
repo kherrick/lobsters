@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
 * [2023-06-19, 14:45:03](https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long) - [Hand encode transformer weights to do long form addition](https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb)

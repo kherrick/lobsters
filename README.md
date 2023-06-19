@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
 * [2023-06-19, 14:45:03](https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long) - [Hand encode transformer weights to do long form addition](https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb)
@@ -17,7 +18,6 @@
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
 * [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
-* [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
 * [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
