@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 17:02:29",
+      "https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language"
+    ],
+    [
+      "Hurl: a terrible but cute idea for a language",
+      "https://ntietz.com/blog/introducing-hurl/"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 16:50:14",
       "https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache"
     ],
@@ -217,16 +227,6 @@
     [
       "Designing Pythonic library APIs",
       "https://benhoyt.com/writings/python-api-design/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 16:01:22",
-      "https://lobste.rs/s/itjx6c/building_search_dsls_with_django"
-    ],
-    [
-      "Building Search DSLs with Django",
-      "https://danlamanna.com/posts/building-search-dsls-with-django/"
     ]
   ],
   [
