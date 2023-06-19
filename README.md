@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
 * [2023-06-19, 01:12:57](https://lobste.rs/s/fsqkxg/symbex_search_python_code_then_pipe_it) - [symbex: search Python code then pipe it into an LLM](https://simonwillison.net/2023/Jun/18/symbex/)
 * [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
@@ -20,7 +21,6 @@
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 * [2023-06-18, 04:21:37](https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
-* [2023-06-18, 02:56:09](https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator) - [Infinigen procedural 3D scene generator](https://infinigen.org/)
 * [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
