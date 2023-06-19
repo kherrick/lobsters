@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 06:04:39](https://lobste.rs/s/a3r5at/icfp_2018_keynote_address_conveying) - [ICFP 2018 Keynote Address: Conveying the Power of Abstraction](https://www.youtube.com/watch?v=PvSpyhm6TUU)
+* [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
+* [2023-06-19, 05:54:28](https://lobste.rs/s/oxqicy/migrating_netflix_graphql_safely) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
 * [2023-06-19, 04:53:37](https://lobste.rs/s/f8kmf0/building_networked_key_value_store_on) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:19:51](https://lobste.rs/s/jfqwoq/introduction_exploiting_ps4_ps5_through) - [Introduction - Exploiting the PS4 and PS5 through a game save](https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
@@ -10,7 +13,6 @@
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 18:51:44](https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue) - [noweb: the lesser known org babel glue](https://xenodium.com/noweb-more-glue-for-your-org-toolbox/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
-* [2023-06-18, 17:43:57](https://lobste.rs/s/cwk5lp/history_nvidia_stream_multiprocessor) - [A history of NVidia Stream Multiprocessor (2020)](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
 * [2023-06-18, 16:34:00](https://lobste.rs/s/phqinz/flowpilot_open_source_mobile_app_adds) - [FlowPilot: Open-Source Mobile App adds Self-Driving Capabilities to your Car](https://flowdrive.ai)
 * [2023-06-18, 16:04:35](https://lobste.rs/s/shioaj/designing_pythonic_library_apis) - [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
@@ -19,12 +21,10 @@
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-18, 13:54:00](https://lobste.rs/s/byqs1o/difference_between_root_certificate) - [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
-* [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 * [2023-06-18, 04:21:37](https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
-* [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
 
 ## [Archives](archives/index.md)
 

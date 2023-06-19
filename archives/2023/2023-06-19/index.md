@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 06:04:39](https://lobste.rs/s/a3r5at/icfp_2018_keynote_address_conveying) - [ICFP 2018 Keynote Address: Conveying the Power of Abstraction](https://www.youtube.com/watch?v=PvSpyhm6TUU)
+* [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
+* [2023-06-19, 05:54:28](https://lobste.rs/s/oxqicy/migrating_netflix_graphql_safely) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
 * [2023-06-19, 04:53:37](https://lobste.rs/s/f8kmf0/building_networked_key_value_store_on) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:19:51](https://lobste.rs/s/jfqwoq/introduction_exploiting_ps4_ps5_through) - [Introduction - Exploiting the PS4 and PS5 through a game save](https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
