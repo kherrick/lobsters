@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 10:28:49](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week)
 * [2023-06-19, 10:15:59](https://lobste.rs/s/cqnbjq/best_teams_i_ve_worked_with) - [The best teams I've worked with](https://alediaferia.com/2023/06/15/the-best-teams-ive-worked-with/)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
 * [2023-06-19, 09:28:39](https://lobste.rs/s/bkstel/birth_death_javascript) - [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
@@ -10,7 +11,6 @@
 * [2023-06-19, 05:54:28](https://lobste.rs/s/oxqicy/migrating_netflix_graphql_safely) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
-* [2023-06-19, 01:12:57](https://lobste.rs/s/fsqkxg/symbex_search_python_code_then_pipe_it) - [symbex: search Python code then pipe it into an LLM](https://simonwillison.net/2023/Jun/18/symbex/)
 * [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
 * [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
