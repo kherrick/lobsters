@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 16:50:14](https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache) - [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
@@ -12,7 +13,6 @@
 * [2023-06-19, 09:24:52](https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline) - [Optimize KDE for Long-Term Offline Computing](https://phabricator.kde.org/T15624)
 * [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
-* [2023-06-19, 05:54:28](https://lobste.rs/s/oxqicy/migrating_netflix_graphql_safely) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
 * [2023-06-19, 04:53:37](https://lobste.rs/s/f8kmf0/building_networked_key_value_store_on) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:19:51](https://lobste.rs/s/jfqwoq/introduction_exploiting_ps4_ps5_through) - [Introduction - Exploiting the PS4 and PS5 through a game save](https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
