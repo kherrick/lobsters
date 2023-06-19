@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 07:04:41",
+      "https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions"
+    ],
+    [
+      "complgen: Generate shell completions based on a BNF-like grammar",
+      "https://github.com/adaszko/complgen"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 06:04:39",
       "https://lobste.rs/s/a3r5at/icfp_2018_keynote_address_conveying"
     ],
@@ -217,16 +227,6 @@
     [
       "Squeezing a Little More Performance Out of Bytecode Interpreters",
       "https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 22:26:27",
-      "https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust"
-    ],
-    [
-      "Encoding ML-style modules in Rust",
-      "https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/"
     ]
   ],
   [
