@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 21:08:56](https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text) - [pulsar: A Community-led Hyper-Hackable Text Editor (fork of atom)](https://github.com/pulsar-edit/pulsar)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
@@ -21,7 +22,6 @@
 * [2023-06-19, 04:53:37](https://lobste.rs/s/f8kmf0/building_networked_key_value_store_on) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
-* [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 16:04:35](https://lobste.rs/s/shioaj/designing_pythonic_library_apis) - [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)

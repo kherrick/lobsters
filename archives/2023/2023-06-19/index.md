@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 21:08:56](https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text) - [pulsar: A Community-led Hyper-Hackable Text Editor (fork of atom)](https://github.com/pulsar-edit/pulsar)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
