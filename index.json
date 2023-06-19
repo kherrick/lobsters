@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-06-18, 04:21:37",
-      "https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out"
+      "2023-06-18, 10:43:51",
+      "https://lobste.rs/s/czndvw/go_execution_tracer_overhaul"
     ],
     [
-      "Squeezing a Little More Performance Out of Bytecode Interpreters",
-      "https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/"
+      "Go: Execution Tracer Overhaul",
+      "https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md"
     ]
   ],
   [
