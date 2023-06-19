@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 11:55:32",
+      "https://lobste.rs/s/a3hofe/egglog_python"
+    ],
+    [
+      "egglog in Python",
+      "https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 11:15:12",
       "https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2023-06-18, 18:51:44",
+      "https://lobste.rs/s/zcroqd/noweb_lesser_known_org_babel_glue"
+    ],
+    [
+      "noweb: the lesser known org babel glue",
+      "https://xenodium.com/noweb-more-glue-for-your-org-toolbox/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 17:55:17",
       "https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020"
     ],
@@ -167,16 +187,6 @@
     [
       "Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster",
       "https://github.com/richox/orz"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 16:34:00",
-      "https://lobste.rs/s/phqinz/flowpilot_open_source_mobile_app_adds"
-    ],
-    [
-      "FlowPilot: Open-Source Mobile App adds Self-Driving Capabilities to your Car",
-      "https://flowdrive.ai"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "My First Impressions of Nix",
       "https://mtlynch.io/notes/nix-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 10:43:51",
-      "https://lobste.rs/s/czndvw/go_execution_tracer_overhaul"
-    ],
-    [
-      "Go: Execution Tracer Overhaul",
-      "https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md"
     ]
   ],
   [
