@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 02:25:34",
+      "https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows"
+    ],
+    [
+      "Building solutions to problems that no one knows exist yet",
+      "https://austinhenley.com/blog/solvingunknownproblems.html"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 01:41:57",
       "https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior"
     ],
@@ -197,16 +207,6 @@
     [
       "Squeezing a Little More Performance Out of Bytecode Interpreters",
       "https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 02:56:09",
-      "https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator"
-    ],
-    [
-      "Infinigen procedural 3D scene generator",
-      "https://infinigen.org/"
     ]
   ],
   [
