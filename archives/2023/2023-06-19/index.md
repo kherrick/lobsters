@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 10:15:59](https://lobste.rs/s/cqnbjq/best_teams_i_ve_worked_with) - [The best teams I've worked with](https://alediaferia.com/2023/06/15/the-best-teams-ive-worked-with/)
+* [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
 * [2023-06-19, 09:28:39](https://lobste.rs/s/bkstel/birth_death_javascript) - [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2023-06-19, 09:24:52](https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline) - [Optimize KDE for Long-Term Offline Computing](https://phabricator.kde.org/T15624)
 * [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
