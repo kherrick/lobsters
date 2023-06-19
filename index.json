@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 14:45:03",
+      "https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long"
+    ],
+    [
+      "Hand encode transformer weights to do long form addition",
+      "https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 11:55:32",
       "https://lobste.rs/s/a3hofe/egglog_python"
     ],
@@ -237,16 +247,6 @@
     [
       "ZFS Notes",
       "https://wiki.alopex.li/ZfsNotes"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 17:05:17",
-      "https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use"
-    ],
-    [
-      "The best Python feature you cannot use",
-      "https://www.bitecode.dev/p/the-best-python-feature-you-cannot"
     ]
   ]
 ]
