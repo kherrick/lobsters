@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+* [2023-06-19, 21:47:53](https://lobste.rs/s/jxtnyt/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://eprint.iacr.org/2023/923)
 * [2023-06-19, 21:08:56](https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text) - [pulsar: A Community-led Hyper-Hackable Text Editor (fork of atom)](https://github.com/pulsar-edit/pulsar)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)

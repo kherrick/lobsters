@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+* [2023-06-19, 21:47:53](https://lobste.rs/s/jxtnyt/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://eprint.iacr.org/2023/923)
 * [2023-06-19, 21:08:56](https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text) - [pulsar: A Community-led Hyper-Hackable Text Editor (fork of atom)](https://github.com/pulsar-edit/pulsar)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
@@ -9,7 +11,6 @@
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
-* [2023-06-19, 14:45:03](https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long) - [Hand encode transformer weights to do long form addition](https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 11:55:32](https://lobste.rs/s/a3hofe/egglog_python) - [egglog in Python](https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html)
 * [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
@@ -22,7 +23,6 @@
 * [2023-06-19, 04:53:37](https://lobste.rs/s/f8kmf0/building_networked_key_value_store_on) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
-* [2023-06-18, 16:04:35](https://lobste.rs/s/shioaj/designing_pythonic_library_apis) - [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 
