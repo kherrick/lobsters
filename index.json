@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-19, 09:28:39",
+      "https://lobste.rs/s/bkstel/birth_death_javascript"
+    ],
+    [
+      "The Birth & Death of JavaScript",
+      "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 09:24:52",
+      "https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline"
+    ],
+    [
+      "Optimize KDE for Long-Term Offline Computing",
+      "https://phabricator.kde.org/T15624"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 07:04:41",
       "https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions"
     ],
@@ -47,16 +67,6 @@
     [
       "Building a Networked Key-Value-Store on an FPGA",
       "https://adamwalker.github.io/Building-FPGA-KVS/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 04:19:51",
-      "https://lobste.rs/s/jfqwoq/introduction_exploiting_ps4_ps5_through"
-    ],
-    [
-      "Introduction - Exploiting the PS4 and PS5 through a game save",
-      "https://mccaulay.co.uk/mast1c0re-introduction-exploiting-the-ps4-and-ps5-through-a-gamesave/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "My First Impressions of Nix",
       "https://mtlynch.io/notes/nix-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 13:54:00",
-      "https://lobste.rs/s/byqs1o/difference_between_root_certificate"
-    ],
-    [
-      "The Difference Between Root Certificate Authorities, Intermediates, and Resellers",
-      "https://www.agwa.name/blog/post/roots_intermediates_and_resellers"
     ]
   ],
   [
