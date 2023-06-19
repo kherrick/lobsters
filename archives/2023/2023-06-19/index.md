@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
 * [2023-06-19, 14:45:03](https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long) - [Hand encode transformer weights to do long form addition](https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
