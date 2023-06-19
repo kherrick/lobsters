@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-19, 01:41:57",
+      "https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior"
+    ],
+    [
+      "Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files",
+      "https://www.oilshell.org/blog/2023/06/narrow-waist.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 01:12:57",
+      "https://lobste.rs/s/fsqkxg/symbex_search_python_code_then_pipe_it"
+    ],
+    [
+      "symbex: search Python code then pipe it into an LLM",
+      "https://simonwillison.net/2023/Jun/18/symbex/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 22:08:20",
       "https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-18, 01:32:06",
-      "https://lobste.rs/s/a48cie/error_vs_exception"
-    ],
-    [
-      "Error vs. Exception",
-      "https://wiki.haskell.org/Error_vs._Exception"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 22:26:27",
       "https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "The best Python feature you cannot use",
       "https://www.bitecode.dev/p/the-best-python-feature-you-cannot"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 16:54:21",
-      "https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2"
-    ],
-    [
-      "Not so Common Desktop Environment (NsCDE) 2.3 released",
-      "https://github.com/NsCDE/NsCDE/releases/tag/2.3"
     ]
   ],
   [
