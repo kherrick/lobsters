@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 11:15:12",
+      "https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written"
+    ],
+    [
+      "fhtagn – a tiny CLI programs tester written in AWK",
+      "https://maximullaris.com/fhtagn.html"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 10:28:49",
       "https://lobste.rs/s/ugceqo/what_are_you_doing_this_week"
     ],
@@ -217,16 +227,6 @@
     [
       "My First Impressions of Nix",
       "https://mtlynch.io/notes/nix-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 10:43:51",
-      "https://lobste.rs/s/czndvw/go_execution_tracer_overhaul"
-    ],
-    [
-      "Go: Execution Tracer Overhaul",
-      "https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md"
     ]
   ],
   [
