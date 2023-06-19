@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
 * [2023-06-19, 17:02:29](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language) - [Hurl: a terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:50:14](https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache) - [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
-* [2023-06-19, 14:50:18](https://lobste.rs/s/yb2ydw/haskell_puzzles) - [Haskell Puzzles](https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html)
 * [2023-06-19, 14:45:03](https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long) - [Hand encode transformer weights to do long form addition](https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 11:55:32](https://lobste.rs/s/a3hofe/egglog_python) - [egglog in Python](https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html)
