@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
 * [2023-06-19, 17:02:29](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language) - [Hurl: a terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:50:14](https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache) - [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
@@ -21,7 +22,6 @@
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 17:55:17](https://lobste.rs/s/talogd/data_abstraction_theory_practice_2020) - [Data Abstraction: Theory And Practice (2020)](https://www.bkase.io/posts/data-abstraction)
-* [2023-06-18, 17:27:02](https://lobste.rs/s/yvazrm/compressor_rust_compresses_as_good_as) - [Compressor in Rust; compresses as good as \"zstd -19\", while being 10 times faster](https://github.com/richox/orz)
 * [2023-06-18, 16:04:35](https://lobste.rs/s/shioaj/designing_pythonic_library_apis) - [Designing Pythonic library APIs](https://benhoyt.com/writings/python-api-design/)
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)

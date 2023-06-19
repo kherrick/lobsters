@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
 * [2023-06-19, 17:02:29](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language) - [Hurl: a terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:50:14](https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache) - [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
