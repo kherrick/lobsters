@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
 * [2023-06-19, 10:28:49](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week)
 * [2023-06-19, 10:15:59](https://lobste.rs/s/cqnbjq/best_teams_i_ve_worked_with) - [The best teams I've worked with](https://alediaferia.com/2023/06/15/the-best-teams-ive-worked-with/)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
@@ -22,7 +23,6 @@
 * [2023-06-18, 16:01:22](https://lobste.rs/s/itjx6c/building_search_dsls_with_django) - [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/)
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
-* [2023-06-18, 10:43:51](https://lobste.rs/s/czndvw/go_execution_tracer_overhaul) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
 
