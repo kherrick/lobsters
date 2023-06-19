@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 20:33:34",
+      "https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require"
+    ],
+    [
+      "WESP: An encryption method that is proven to require an exponentially growing time to break it",
+      "https://eprint.iacr.org/2023/937"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 19:13:57",
       "https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace"
     ],
@@ -217,16 +227,6 @@
     [
       "Data Abstraction: Theory And Practice (2020)",
       "https://www.bkase.io/posts/data-abstraction"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 16:04:35",
-      "https://lobste.rs/s/shioaj/designing_pythonic_library_apis"
-    ],
-    [
-      "Designing Pythonic library APIs",
-      "https://benhoyt.com/writings/python-api-design/"
     ]
   ],
   [
