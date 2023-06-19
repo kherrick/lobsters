@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-19, 21:53:37",
+      "https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css"
+    ],
+    [
+      "Metaprogramming in Zig and parsing CSS",
+      "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 21:47:53",
+      "https://lobste.rs/s/jxtnyt/video_based_cryptanalysis_extracting"
+    ],
+    [
+      "Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED",
+      "https://eprint.iacr.org/2023/923"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 21:08:56",
       "https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text"
     ],
@@ -87,16 +107,6 @@
     [
       "Haskell Puzzles",
       "https://jaspervdj.be/posts/2023-06-19-haskell-puzzles.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 14:45:03",
-      "https://lobste.rs/s/m0d55j/hand_encode_transformer_weights_do_long"
-    ],
-    [
-      "Hand encode transformer weights to do long form addition",
-      "https://colab.research.google.com/github/newhouseb/handcrafted/blob/main/HandCrafted.ipynb"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files",
       "https://www.oilshell.org/blog/2023/06/narrow-waist.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 16:04:35",
-      "https://lobste.rs/s/shioaj/designing_pythonic_library_apis"
-    ],
-    [
-      "Designing Pythonic library APIs",
-      "https://benhoyt.com/writings/python-api-design/"
     ]
   ],
   [
