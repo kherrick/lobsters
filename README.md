@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
+* [2023-06-19, 01:12:57](https://lobste.rs/s/fsqkxg/symbex_search_python_code_then_pipe_it) - [symbex: search Python code then pipe it into an LLM](https://simonwillison.net/2023/Jun/18/symbex/)
 * [2023-06-18, 22:08:20](https://lobste.rs/s/srjrkg/hdr_qr_codes_using_video_tags) - [HDR QR codes using video tags](https://twitter.com/dtinth/status/1670438696871501825/photo/1)
 * [2023-06-18, 20:08:46](https://lobste.rs/s/totzhe/shuhari) - [Shuhari](https://frantic.im/shuhari)
 * [2023-06-18, 19:52:40](https://lobste.rs/s/bsnekr/redbean_systems) - [Redbean Systems](https://redbean.systems/)
@@ -19,11 +21,9 @@
 * [2023-06-18, 10:16:36](https://lobste.rs/s/ndzdhk/on_road_kde_plasma_6) - [On the road to KDE Plasma 6](https://pointieststick.com/2023/06/18/on-the-road-to-plasma-6/)
 * [2023-06-18, 04:21:37](https://lobste.rs/s/w8vovg/squeezing_little_more_performance_out) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 02:56:09](https://lobste.rs/s/jjvil8/infinigen_procedural_3d_scene_generator) - [Infinigen procedural 3D scene generator](https://infinigen.org/)
-* [2023-06-18, 01:32:06](https://lobste.rs/s/a48cie/error_vs_exception) - [Error vs. Exception](https://wiki.haskell.org/Error_vs._Exception)
 * [2023-06-17, 22:26:27](https://lobste.rs/s/hcwjcs/encoding_ml_style_modules_rust) - [Encoding ML-style modules in Rust](https://blog.waleedkhan.name/encoding-ml-style-modules-in-rust/)
 * [2023-06-17, 21:50:02](https://lobste.rs/s/qnmx3s/zfs_notes) - [ZFS Notes](https://wiki.alopex.li/ZfsNotes)
 * [2023-06-17, 17:05:17](https://lobste.rs/s/frdqzn/best_python_feature_you_cannot_use) - [The best Python feature you cannot use](https://www.bitecode.dev/p/the-best-python-feature-you-cannot)
-* [2023-06-17, 16:54:21](https://lobste.rs/s/yldffu/not_so_common_desktop_environment_nscde_2) - [Not so Common Desktop Environment (NsCDE) 2.3 released](https://github.com/NsCDE/NsCDE/releases/tag/2.3)
 * [2023-06-17, 12:19:50](https://lobste.rs/s/yfy98y/ikea_oriented_development) - [Ikea-Oriented Development](https://taylor.town/ikea-oriented-development)
 
 ## [Archives](archives/index.md)
