@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
+* [2023-06-20, 13:04:09](https://lobste.rs/s/6jnina/acm_programming_languages_software) - [ACM Programming Languages Software Award goes to OCaml researchers](https://www.cst.cam.ac.uk/news/acm-programming-languages-software-award-goes-ocaml-researchers)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
 * [2023-06-20, 12:36:38](https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from) - [Creating Self-Hosted Tile Maps from OpenStreetMap Data](https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/)
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
@@ -20,9 +22,7 @@
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 11:55:32](https://lobste.rs/s/a3hofe/egglog_python) - [egglog in Python](https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html)
 * [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
-* [2023-06-19, 10:28:49](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
-* [2023-06-19, 09:24:52](https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline) - [Optimize KDE for Long-Term Offline Computing](https://phabricator.kde.org/T15624)
 * [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
 
