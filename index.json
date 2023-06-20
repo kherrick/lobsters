@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-06-19, 20:33:34",
-      "https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require"
-    ],
-    [
-      "WESP: An encryption method that is proven to require an exponentially growing time to break it",
-      "https://eprint.iacr.org/2023/937"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 19:13:57",
       "https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace"
     ],
@@ -227,6 +217,16 @@
     [
       "Write Free Software",
       "https://writefreesoftware.org"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 09:24:52",
+      "https://lobste.rs/s/pxjft4/optimize_kde_for_long_term_offline"
+    ],
+    [
+      "Optimize KDE for Long-Term Offline Computing",
+      "https://phabricator.kde.org/T15624"
     ]
   ],
   [
