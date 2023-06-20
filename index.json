@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-20, 15:43:32",
+      "https://lobste.rs/s/8a4hte/bike_outliner_outline_writing_lists"
+    ],
+    [
+      "Bike Outliner: Outline writing, lists, and notes app for Mac",
+      "https://www.hogbaysoftware.com/bike/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 15:31:04",
       "https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with"
     ],
@@ -227,16 +237,6 @@
     [
       "Write Free Software",
       "https://writefreesoftware.org"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 07:04:41",
-      "https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions"
-    ],
-    [
-      "complgen: Generate shell completions based on a BNF-like grammar",
-      "https://github.com/adaszko/complgen"
     ]
   ],
   [
