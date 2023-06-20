@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-20, 16:49:55",
+      "https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file"
+    ],
+    [
+      "TIL: Don’t forget your Web Manifest file",
+      "https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 16:24:25",
       "https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part"
     ],
@@ -127,16 +137,6 @@
     [
       "Hashing",
       "https://samwho.dev/hashing"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 07:51:51",
-      "https://lobste.rs/s/eythdk/bit_hacking_with_go_code"
-    ],
-    [
-      "Bit Hacking (with Go code)",
-      "https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/"
     ]
   ],
   [
