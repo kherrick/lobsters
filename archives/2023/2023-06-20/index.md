@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
+* [2023-06-20, 15:16:20](https://lobste.rs/s/4tluma/data_falsificada_part_1_clusterfake) - [Data Falsificada (Part 1): \"Clusterfake\"](http://datacolada.org/109)
 * [2023-06-20, 14:59:09](https://lobste.rs/s/cdg2gy/facebook_s_fake_followers) - [Facebook's Fake Followers](https://daveon.design/facebooks-fake-followers.html)
 * [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
 * [2023-06-20, 13:04:09](https://lobste.rs/s/6jnina/acm_programming_languages_software) - [ACM Programming Languages Software Award goes to OCaml researchers](https://www.cst.cam.ac.uk/news/acm-programming-languages-software-award-goes-ocaml-researchers)

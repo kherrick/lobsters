@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
+* [2023-06-20, 15:16:20](https://lobste.rs/s/4tluma/data_falsificada_part_1_clusterfake) - [Data Falsificada (Part 1): \"Clusterfake\"](http://datacolada.org/109)
 * [2023-06-20, 14:59:09](https://lobste.rs/s/cdg2gy/facebook_s_fake_followers) - [Facebook's Fake Followers](https://daveon.design/facebooks-fake-followers.html)
 * [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
 * [2023-06-20, 13:04:09](https://lobste.rs/s/6jnina/acm_programming_languages_software) - [ACM Programming Languages Software Award goes to OCaml researchers](https://www.cst.cam.ac.uk/news/acm-programming-languages-software-award-goes-ocaml-researchers)
@@ -8,7 +10,6 @@
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
 * [2023-06-20, 09:27:03](https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently) - [Managing a fleet of computers, efficiently and easily](https://wedonthaveaprivacyproblem.com/ruptime/)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
-* [2023-06-20, 08:34:30](https://lobste.rs/s/1ikrbn/advanced_binary_fuzzing_using_afl_qemu) - [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing](https://airbus-seclab.github.io/AFLplusplus-blogpost/)
 * [2023-06-20, 07:51:51](https://lobste.rs/s/eythdk/bit_hacking_with_go_code) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-20, 01:15:00](https://lobste.rs/s/nredlj/microui_v2_implementation_overview) - [Microui v2: An Implementation Overview](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
@@ -21,7 +22,6 @@
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 11:55:32](https://lobste.rs/s/a3hofe/egglog_python) - [egglog in Python](https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html)
 * [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
-* [2023-06-19, 10:28:49](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ugceqo/what_are_you_doing_this_week)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
 * [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
