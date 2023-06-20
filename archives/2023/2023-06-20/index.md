@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 09:27:03](https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently) - [Managing a fleet of computers, efficiently and easily](https://wedonthaveaprivacyproblem.com/ruptime/)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 * [2023-06-20, 08:34:30](https://lobste.rs/s/1ikrbn/advanced_binary_fuzzing_using_afl_qemu) - [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing](https://airbus-seclab.github.io/AFLplusplus-blogpost/)
 * [2023-06-20, 07:51:51](https://lobste.rs/s/eythdk/bit_hacking_with_go_code) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
