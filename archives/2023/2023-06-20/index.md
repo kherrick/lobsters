@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 12:36:38](https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from) - [Creating Self-Hosted Tile Maps from OpenStreetMap Data](https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/)
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
 * [2023-06-20, 11:43:53](https://lobste.rs/s/buwmpl/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com/blog/typed-python/)
 * [2023-06-20, 09:27:03](https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently) - [Managing a fleet of computers, efficiently and easily](https://wedonthaveaprivacyproblem.com/ruptime/)

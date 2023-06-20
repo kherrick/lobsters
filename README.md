@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 12:36:38](https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from) - [Creating Self-Hosted Tile Maps from OpenStreetMap Data](https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/)
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
 * [2023-06-20, 11:43:53](https://lobste.rs/s/buwmpl/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com/blog/typed-python/)
 * [2023-06-20, 09:27:03](https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently) - [Managing a fleet of computers, efficiently and easily](https://wedonthaveaprivacyproblem.com/ruptime/)
@@ -9,7 +10,6 @@
 * [2023-06-20, 01:15:00](https://lobste.rs/s/nredlj/microui_v2_implementation_overview) - [Microui v2: An Implementation Overview](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
-* [2023-06-19, 21:47:53](https://lobste.rs/s/jxtnyt/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://eprint.iacr.org/2023/923)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
