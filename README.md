@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 * [2023-06-20, 08:34:30](https://lobste.rs/s/1ikrbn/advanced_binary_fuzzing_using_afl_qemu) - [Advanced binary fuzzing using AFL++-QEMU and libprotobuf: a practical case of grammar-aware in-memory persistent fuzzing](https://airbus-seclab.github.io/AFLplusplus-blogpost/)
 * [2023-06-20, 07:51:51](https://lobste.rs/s/eythdk/bit_hacking_with_go_code) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-20, 01:15:00](https://lobste.rs/s/nredlj/microui_v2_implementation_overview) - [Microui v2: An Implementation Overview](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 21:47:53](https://lobste.rs/s/jxtnyt/video_based_cryptanalysis_extracting) - [Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED](https://eprint.iacr.org/2023/923)
-* [2023-06-19, 21:08:56](https://lobste.rs/s/6w1qtb/pulsar_community_led_hyper_hackable_text) - [pulsar: A Community-led Hyper-Hackable Text Editor (fork of atom)](https://github.com/pulsar-edit/pulsar)
 * [2023-06-19, 20:33:34](https://lobste.rs/s/dz54dy/wesp_encryption_method_is_proven_require) - [WESP: An encryption method that is proven to require an exponentially growing time to break it](https://eprint.iacr.org/2023/937)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
