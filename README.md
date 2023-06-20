@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
 * [2023-06-20, 18:34:42](https://lobste.rs/s/zc6azd/update_framework_framework_for_securing) - [The Update Framework: A framework for securing software update systems](https://theupdateframework.io)
 * [2023-06-20, 18:33:33](https://lobste.rs/s/fmnniy/uptane_securing_software_updates_for) - [Uptane: Securing Software Updates for Automobiles](https://uptane.github.io)
 * [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
@@ -23,7 +24,6 @@
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
-* [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
 
 ## [Archives](archives/index.md)

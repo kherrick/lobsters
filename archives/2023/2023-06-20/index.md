@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
 * [2023-06-20, 18:34:42](https://lobste.rs/s/zc6azd/update_framework_framework_for_securing) - [The Update Framework: A framework for securing software update systems](https://theupdateframework.io)
 * [2023-06-20, 18:33:33](https://lobste.rs/s/fmnniy/uptane_securing_software_updates_for) - [Uptane: Securing Software Updates for Automobiles](https://uptane.github.io)
 * [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
