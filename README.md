@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 16:24:25](https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part) - [A roadmap for VirtIO Video on ChromeOS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
 * [2023-06-20, 16:17:26](https://lobste.rs/s/n7m0dt/drones_run_linux_free_software_is_not) - [drones run linux: free software is not enough](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
 * [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
@@ -13,7 +14,6 @@
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
 * [2023-06-20, 09:27:03](https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently) - [Managing a fleet of computers, efficiently and easily](https://wedonthaveaprivacyproblem.com/ruptime/)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
-* [2023-06-20, 07:51:51](https://lobste.rs/s/eythdk/bit_hacking_with_go_code) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-20, 01:15:00](https://lobste.rs/s/nredlj/microui_v2_implementation_overview) - [Microui v2: An Implementation Overview](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
