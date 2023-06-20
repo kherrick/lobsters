@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
+* [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
 * [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
 * [2023-06-20, 15:16:20](https://lobste.rs/s/4tluma/data_falsificada_part_1_clusterfake) - [Data Falsificada (Part 1): \"Clusterfake\"](http://datacolada.org/109)
-* [2023-06-20, 14:59:09](https://lobste.rs/s/cdg2gy/facebook_s_fake_followers) - [Facebook's Fake Followers](https://daveon.design/facebooks-fake-followers.html)
 * [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
 * [2023-06-20, 13:04:09](https://lobste.rs/s/6jnina/acm_programming_languages_software) - [ACM Programming Languages Software Award goes to OCaml researchers](https://www.cst.cam.ac.uk/news/acm-programming-languages-software-award-goes-ocaml-researchers)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
@@ -15,7 +16,6 @@
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
-* [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
 * [2023-06-19, 17:02:29](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language) - [Hurl: a terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)

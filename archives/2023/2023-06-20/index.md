@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
+* [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
 * [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
 * [2023-06-20, 15:16:20](https://lobste.rs/s/4tluma/data_falsificada_part_1_clusterfake) - [Data Falsificada (Part 1): \"Clusterfake\"](http://datacolada.org/109)
 * [2023-06-20, 14:59:09](https://lobste.rs/s/cdg2gy/facebook_s_fake_followers) - [Facebook's Fake Followers](https://daveon.design/facebooks-fake-followers.html)
