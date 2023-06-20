@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
 * [2023-06-20, 18:34:42](https://lobste.rs/s/zc6azd/update_framework_framework_for_securing) - [The Update Framework: A framework for securing software update systems](https://theupdateframework.io)
 * [2023-06-20, 18:33:33](https://lobste.rs/s/fmnniy/uptane_securing_software_updates_for) - [Uptane: Securing Software Updates for Automobiles](https://uptane.github.io)
