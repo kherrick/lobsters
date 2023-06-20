@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-20, 12:05:06",
+      "https://lobste.rs/s/axzvvf/factors_consider_before_choosing"
+    ],
+    [
+      "Factors to Consider Before Choosing a Logging Framework",
+      "https://betterstack.com/community/guides/logging/logging-framework/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 11:43:53",
       "https://lobste.rs/s/buwmpl/compiling_typed_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Plain Text Journaling",
       "https://peppe.rs/posts/plain_text_journaling/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 14:59:51",
-      "https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into"
-    ],
-    [
-      "The legend of \"x86 CPUs decode instructions into RISC form internally\"",
-      "https://fanael.github.io/is-x86-risc-internally.html"
     ]
   ]
 ]
