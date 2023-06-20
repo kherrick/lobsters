@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
 * [2023-06-20, 12:36:38](https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from) - [Creating Self-Hosted Tile Maps from OpenStreetMap Data](https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/)
 * [2023-06-20, 12:05:06](https://lobste.rs/s/axzvvf/factors_consider_before_choosing) - [Factors to Consider Before Choosing a Logging Framework](https://betterstack.com/community/guides/logging/logging-framework/)
 * [2023-06-20, 11:43:53](https://lobste.rs/s/buwmpl/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com/blog/typed-python/)
@@ -14,7 +15,6 @@
 * [2023-06-19, 19:13:57](https://lobste.rs/s/g9lr7l/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2023-06-19, 18:40:47](https://lobste.rs/s/tcrvqt/libreoffice_arbitrary_file_write_cve) - [LibreOffice Arbitrary File Write (CVE-2023-1883)](https://secfault-security.com/blog/libreoffice.html)
 * [2023-06-19, 17:02:29](https://lobste.rs/s/iuunre/hurl_terrible_cute_idea_for_language) - [Hurl: a terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
-* [2023-06-19, 16:50:14](https://lobste.rs/s/tpeeji/nats_building_nix_binary_cache) - [NATS: building a Nix binary cache](https://bmcgee.ie/posts/2023/06/nats-building-a-nix-binary-cache/)
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
