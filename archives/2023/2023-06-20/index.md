@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 18:34:42](https://lobste.rs/s/zc6azd/update_framework_framework_for_securing) - [The Update Framework: A framework for securing software update systems](https://theupdateframework.io)
+* [2023-06-20, 18:33:33](https://lobste.rs/s/fmnniy/uptane_securing_software_updates_for) - [Uptane: Securing Software Updates for Automobiles](https://uptane.github.io)
 * [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
 * [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
