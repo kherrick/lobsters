@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-20, 18:34:42",
+      "https://lobste.rs/s/zc6azd/update_framework_framework_for_securing"
+    ],
+    [
+      "The Update Framework: A framework for securing software update systems",
+      "https://theupdateframework.io"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 18:33:33",
+      "https://lobste.rs/s/fmnniy/uptane_securing_software_updates_for"
+    ],
+    [
+      "Uptane: Securing Software Updates for Automobiles",
+      "https://uptane.github.io"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 17:57:06",
       "https://lobste.rs/s/vq15to/speedcrunch"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-06-20, 15:16:20",
-      "https://lobste.rs/s/4tluma/data_falsificada_part_1_clusterfake"
-    ],
-    [
-      "Data Falsificada (Part 1): \"Clusterfake\"",
-      "http://datacolada.org/109"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 13:05:50",
       "https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as"
     ],
@@ -127,16 +137,6 @@
     [
       "Factors to Consider Before Choosing a Logging Framework",
       "https://betterstack.com/community/guides/logging/logging-framework/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 09:27:03",
-      "https://lobste.rs/s/6wucku/managing_fleet_computers_efficiently"
-    ],
-    [
-      "Managing a fleet of computers, efficiently and easily",
-      "https://wedonthaveaprivacyproblem.com/ruptime/"
     ]
   ],
   [
