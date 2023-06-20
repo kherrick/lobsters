@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 16:24:25](https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part) - [A roadmap for VirtIO Video on ChromeOS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
 * [2023-06-20, 16:17:26](https://lobste.rs/s/n7m0dt/drones_run_linux_free_software_is_not) - [drones run linux: free software is not enough](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
