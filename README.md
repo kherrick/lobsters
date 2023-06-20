@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 07:51:51](https://lobste.rs/s/eythdk/bit_hacking_with_go_code) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-20, 01:15:00](https://lobste.rs/s/nredlj/microui_v2_implementation_overview) - [Microui v2: An Implementation Overview](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 21:53:37](https://lobste.rs/s/eya30y/metaprogramming_zig_parsing_css) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
@@ -24,7 +25,6 @@
 * [2023-06-19, 02:25:34](https://lobste.rs/s/iynsqz/building_solutions_problems_no_one_knows) - [Building solutions to problems that no one knows exist yet](https://austinhenley.com/blog/solvingunknownproblems.html)
 * [2023-06-19, 01:41:57](https://lobste.rs/s/l1pahw/narrow_waists_can_be_interior_exterior) - [Narrow Waists Can Be Interior or Exterior: PyObject vs. Unix Files](https://www.oilshell.org/blog/2023/06/narrow-waist.html)
 * [2023-06-18, 14:59:51](https://lobste.rs/s/iozq2j/legend_x86_cpus_decode_instructions_into) - [The legend of \"x86 CPUs decode instructions into RISC form internally\"](https://fanael.github.io/is-x86-risc-internally.html)
-* [2023-06-18, 14:06:08](https://lobste.rs/s/xzeu0q/my_first_impressions_nix) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 
 ## [Archives](archives/index.md)
 
