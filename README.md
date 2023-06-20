@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
 * [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 16:24:25](https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part) - [A roadmap for VirtIO Video on ChromeOS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
@@ -22,7 +23,6 @@
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
-* [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
 
