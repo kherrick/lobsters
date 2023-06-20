@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-20, 16:24:25](https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part) - [A roadmap for VirtIO Video on ChromeOS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
+* [2023-06-20, 16:17:26](https://lobste.rs/s/n7m0dt/drones_run_linux_free_software_is_not) - [drones run linux: free software is not enough](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
 * [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
 * [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
 * [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
@@ -20,10 +22,8 @@
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:41:55](https://lobste.rs/s/hdbgds/elixir_v1_15_released) - [Elixir v1.15 released](https://elixir-lang.org/blog/2023/06/19/elixir-v1-15-0-released/)
 * [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
-* [2023-06-19, 11:55:32](https://lobste.rs/s/a3hofe/egglog_python) - [egglog in Python](https://egg-smol-python.readthedocs.io/en/latest/explanation/pldi_2023_presentation.html)
 * [2023-06-19, 11:15:12](https://lobste.rs/s/bh44j5/fhtagn_tiny_cli_programs_tester_written) - [fhtagn – a tiny CLI programs tester written in AWK](https://maximullaris.com/fhtagn.html)
 * [2023-06-19, 10:11:05](https://lobste.rs/s/tgj1he/write_free_software) - [Write Free Software](https://writefreesoftware.org)
-* [2023-06-19, 07:04:41](https://lobste.rs/s/zcuwf5/complgen_generate_shell_completions) - [complgen: Generate shell completions based on a BNF-like grammar](https://github.com/adaszko/complgen)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
 
 ## [Archives](archives/index.md)
