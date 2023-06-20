@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 14:59:09](https://lobste.rs/s/cdg2gy/facebook_s_fake_followers) - [Facebook's Fake Followers](https://daveon.design/facebooks-fake-followers.html)
 * [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
 * [2023-06-20, 13:04:09](https://lobste.rs/s/6jnina/acm_programming_languages_software) - [ACM Programming Languages Software Award goes to OCaml researchers](https://www.cst.cam.ac.uk/news/acm-programming-languages-software-award-goes-ocaml-researchers)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
