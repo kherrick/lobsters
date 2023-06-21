@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:42:41](https://lobste.rs/s/614unf/adding_delimiters_between_string) - [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
 * [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)

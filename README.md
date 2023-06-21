@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:42:41](https://lobste.rs/s/614unf/adding_delimiters_between_string) - [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
 * [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
@@ -15,7 +16,6 @@
 * [2023-06-21, 04:45:51](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
-* [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 15:43:32](https://lobste.rs/s/8a4hte/bike_outliner_outline_writing_lists) - [Bike Outliner: Outline writing, lists, and notes app for Mac](https://www.hogbaysoftware.com/bike/)
 * [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
