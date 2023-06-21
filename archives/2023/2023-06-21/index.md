@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 18:42:41](https://lobste.rs/s/614unf/adding_delimiters_between_string) - [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
 * [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 18:03:40](https://lobste.rs/s/cc9pdf/rust_vs_c_formatting) - [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
