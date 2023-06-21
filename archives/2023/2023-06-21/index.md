@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 22:42:59](https://lobste.rs/s/auaqqa/pcg64_dxsm_random_number_generator) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
 * [2023-06-21, 21:51:49](https://lobste.rs/s/uheamj/jird_little_language_for_music_just) - [Jird: A little language for music in just intonation](https://jird.readthedocs.io/en/latest/)
 * [2023-06-21, 20:59:16](https://lobste.rs/s/yx4ipq/lehman_s_spe_classfication_2017) - [Lehman's SPE-classfication (2017)](https://www.expressionsofchange.org/lehman-spe-classification/)
 * [2023-06-21, 20:09:48](https://lobste.rs/s/phlazg/crafting_better_faster_code_view) - [Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/)
