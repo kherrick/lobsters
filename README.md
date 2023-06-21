@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 12:31:02](https://lobste.rs/s/juqljx/custom_giraffe_caret) - [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
 * [2023-06-21, 11:17:18](https://lobste.rs/s/hvzkh2/navigating_sharp_edges_openai_s_function) - [Navigating Sharp Edges in OpenAI's Function Call Feature](https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais)
 * [2023-06-21, 10:56:49](https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 07:27:17](https://lobste.rs/s/yd2kke/gitui_0_23_adds_more_fuzzy_finding) - [GitUI 0.23 adds more fuzzy finding and rewording commits](https://github.com/extrawurst/gitui/releases/tag/v0.23.0)
@@ -12,7 +13,6 @@
 * [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
 * [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
-* [2023-06-20, 16:24:25](https://lobste.rs/s/sykhuu/roadmap_for_virtio_video_on_chromeos_part) - [A roadmap for VirtIO Video on ChromeOS, part 1](https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/)
 * [2023-06-20, 15:43:32](https://lobste.rs/s/8a4hte/bike_outliner_outline_writing_lists) - [Bike Outliner: Outline writing, lists, and notes app for Mac](https://www.hogbaysoftware.com/bike/)
 * [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
 * [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
