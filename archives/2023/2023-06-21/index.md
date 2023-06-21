@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 15:15:57](https://lobste.rs/s/ip5shg/second_wave_devops) - [Second Wave Devops](https://www.systeminit.com/blog-second-wave-devops/)
+* [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
 * [2023-06-21, 12:31:02](https://lobste.rs/s/juqljx/custom_giraffe_caret) - [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
 * [2023-06-21, 11:17:18](https://lobste.rs/s/hvzkh2/navigating_sharp_edges_openai_s_function) - [Navigating Sharp Edges in OpenAI's Function Call Feature](https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais)
