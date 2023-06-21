@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-21, 18:24:19",
+      "https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles"
+    ],
+    [
+      "Cyclic Dependency Space Toggles",
+      "https://kizu.dev/cyclic-toggles/"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 18:12:52",
+      "https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source"
+    ],
+    [
+      "Red Hat cutting back RHEL source availability",
+      "https://lwn.net/Articles/935592/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 18:03:40",
       "https://lobste.rs/s/cc9pdf/rust_vs_c_formatting"
     ],
@@ -67,16 +87,6 @@
     [
       "Navigating Sharp Edges in OpenAI's Function Call Feature",
       "https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 10:56:49",
-      "https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with"
-    ],
-    [
-      "Leaking secrets through caching with Bunny CDN",
-      "https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Introducing the Rust Leadership Council",
       "https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 12:36:38",
-      "https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from"
-    ],
-    [
-      "Creating Self-Hosted Tile Maps from OpenStreetMap Data",
-      "https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/"
     ]
   ],
   [
