@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 17:39:40](https://lobste.rs/s/xfe52b/why_rust_is_bad_actually) - [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
+* [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
 * [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
 * [2023-06-21, 12:31:02](https://lobste.rs/s/juqljx/custom_giraffe_caret) - [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
@@ -11,8 +13,6 @@
 * [2023-06-21, 04:45:51](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
-* [2023-06-20, 18:34:42](https://lobste.rs/s/zc6azd/update_framework_framework_for_securing) - [The Update Framework: A framework for securing software update systems](https://theupdateframework.io)
-* [2023-06-20, 17:57:06](https://lobste.rs/s/vq15to/speedcrunch) - [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
 * [2023-06-20, 17:10:46](https://lobste.rs/s/6myqed/introduction_defensive_css) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 15:43:32](https://lobste.rs/s/8a4hte/bike_outliner_outline_writing_lists) - [Bike Outliner: Outline writing, lists, and notes app for Mac](https://www.hogbaysoftware.com/bike/)

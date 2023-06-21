@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 17:39:40](https://lobste.rs/s/xfe52b/why_rust_is_bad_actually) - [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
+* [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
 * [2023-06-21, 15:15:57](https://lobste.rs/s/ip5shg/second_wave_devops) - [Second Wave Devops](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
