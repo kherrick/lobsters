@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 20:09:48](https://lobste.rs/s/phlazg/crafting_better_faster_code_view) - [Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/)
 * [2023-06-21, 19:05:14](https://lobste.rs/s/p1wjkd/openbsd_kernel_relinking_is_not) - [OpenBSD kernel relinking is not transactional and a local exploit exists](https://marc.info/?l=full-disclosure&m=168718134305683&w=2)
 * [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:42:41](https://lobste.rs/s/614unf/adding_delimiters_between_string) - [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
@@ -18,7 +19,6 @@
 * [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
-* [2023-06-20, 15:43:32](https://lobste.rs/s/8a4hte/bike_outliner_outline_writing_lists) - [Bike Outliner: Outline writing, lists, and notes app for Mac](https://www.hogbaysoftware.com/bike/)
 * [2023-06-20, 15:31:04](https://lobste.rs/s/hsxqrr/algebraic_effect_types_explained_with) - [Algebraic effect types explained with live examples](https://vimeo.com/837681881?share=copy)
 * [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
 * [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
