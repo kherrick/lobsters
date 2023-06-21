@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 14:41:20",
+      "https://lobste.rs/s/nxwj3u/flexible_systems"
+    ],
+    [
+      "Flexible systems",
+      "https://jordankaye.dev/posts/flexible-systems/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 12:31:02",
       "https://lobste.rs/s/juqljx/custom_giraffe_caret"
     ],
@@ -237,16 +247,6 @@
     [
       "PostgreSQL reconsiders its process-based model",
       "https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 06:04:37",
-      "https://lobste.rs/s/9vw2i7/plain_text_journaling"
-    ],
-    [
-      "Plain Text Journaling",
-      "https://peppe.rs/posts/plain_text_journaling/"
     ]
   ]
 ]
