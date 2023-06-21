@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 22:42:59",
+      "https://lobste.rs/s/auaqqa/pcg64_dxsm_random_number_generator"
+    ],
+    [
+      "The PCG64 DXSM random number generator",
+      "https://dotat.at/@/2023-06-21-pcg64-dxsm.html"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 21:51:49",
       "https://lobste.rs/s/uheamj/jird_little_language_for_music_just"
     ],
@@ -217,16 +227,6 @@
     [
       "Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date",
       "https://determinate.systems/posts/flake-checker"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 13:05:50",
-      "https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as"
-    ],
-    [
-      "My first steps with Nix on Mac OSX as Homebrew replacement",
-      "https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html"
     ]
   ],
   [
