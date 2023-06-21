@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 11:17:18",
+      "https://lobste.rs/s/hvzkh2/navigating_sharp_edges_openai_s_function"
+    ],
+    [
+      "Navigating Sharp Edges in OpenAI's Function Call Feature",
+      "https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 10:56:49",
       "https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with"
     ],
@@ -227,16 +237,6 @@
     [
       "PostgreSQL reconsiders its process-based model",
       "https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 12:54:05",
-      "https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less"
-    ],
-    [
-      "We need more of Richard Stallman, not less",
-      "https://ploum.net/2023-06-19-more-rms.html"
     ]
   ],
   [
