@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 11:17:18](https://lobste.rs/s/hvzkh2/navigating_sharp_edges_openai_s_function) - [Navigating Sharp Edges in OpenAI's Function Call Feature](https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais)
 * [2023-06-21, 10:56:49](https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 07:27:17](https://lobste.rs/s/yd2kke/gitui_0_23_adds_more_fuzzy_finding) - [GitUI 0.23 adds more fuzzy finding and rewording commits](https://github.com/extrawurst/gitui/releases/tag/v0.23.0)
 * [2023-06-21, 07:25:53](https://lobste.rs/s/lcabae/bing_chat_data_exfiltration_exploit) - [Bing Chat: Data Exfiltration Exploit Explained](https://embracethered.com/blog/posts/2023/bing-chat-data-exfiltration-poc-and-fix/)
@@ -23,7 +24,6 @@
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 * [2023-06-19, 16:24:37](https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
-* [2023-06-19, 12:54:05](https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 06:04:37](https://lobste.rs/s/9vw2i7/plain_text_journaling) - [Plain Text Journaling](https://peppe.rs/posts/plain_text_journaling/)
 
 ## [Archives](archives/index.md)
