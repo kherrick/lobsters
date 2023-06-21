@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-21, 15:15:57",
+      "https://lobste.rs/s/ip5shg/second_wave_devops"
+    ],
+    [
+      "Second Wave Devops",
+      "https://www.systeminit.com/blog-second-wave-devops/"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 15:15:15",
+      "https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership"
+    ],
+    [
+      "Oxidizing OCaml: Rust-Style Ownership",
+      "https://blog.janestreet.com/oxidizing-ocaml-ownership/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 14:41:20",
       "https://lobste.rs/s/nxwj3u/flexible_systems"
     ],
@@ -47,16 +67,6 @@
     [
       "GitUI 0.23 adds more fuzzy finding and rewording commits",
       "https://github.com/extrawurst/gitui/releases/tag/v0.23.0"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 07:25:53",
-      "https://lobste.rs/s/lcabae/bing_chat_data_exfiltration_exploit"
-    ],
-    [
-      "Bing Chat: Data Exfiltration Exploit Explained",
-      "https://embracethered.com/blog/posts/2023/bing-chat-data-exfiltration-poc-and-fix/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Compiling typed Python",
       "https://bernsteinbear.com//blog/typed-python/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 16:24:37",
-      "https://lobste.rs/s/ndgtuv/postgresql_reconsiders_its_process"
-    ],
-    [
-      "PostgreSQL reconsiders its process-based model",
-      "https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/"
     ]
   ]
 ]
