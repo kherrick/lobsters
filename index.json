@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 10:56:49",
+      "https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with"
+    ],
+    [
+      "Leaking secrets through caching with Bunny CDN",
+      "https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 07:27:17",
       "https://lobste.rs/s/yd2kke/gitui_0_23_adds_more_fuzzy_finding"
     ],
@@ -187,16 +197,6 @@
     [
       "Creating Self-Hosted Tile Maps from OpenStreetMap Data",
       "https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 12:05:06",
-      "https://lobste.rs/s/axzvvf/factors_consider_before_choosing"
-    ],
-    [
-      "Factors to Consider Before Choosing a Logging Framework",
-      "https://betterstack.com/community/guides/logging/logging-framework/"
     ]
   ],
   [
