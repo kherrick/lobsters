@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
+* [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 18:03:40](https://lobste.rs/s/cc9pdf/rust_vs_c_formatting) - [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
 * [2023-06-21, 17:39:40](https://lobste.rs/s/xfe52b/why_rust_is_bad_actually) - [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
 * [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
@@ -7,7 +9,6 @@
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
 * [2023-06-21, 12:31:02](https://lobste.rs/s/juqljx/custom_giraffe_caret) - [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
 * [2023-06-21, 11:17:18](https://lobste.rs/s/hvzkh2/navigating_sharp_edges_openai_s_function) - [Navigating Sharp Edges in OpenAI's Function Call Feature](https://codeconfessions.substack.com/p/navigating-sharp-edges-in-openais)
-* [2023-06-21, 10:56:49](https://lobste.rs/s/hweg33/leaking_secrets_through_caching_with) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 07:27:17](https://lobste.rs/s/yd2kke/gitui_0_23_adds_more_fuzzy_finding) - [GitUI 0.23 adds more fuzzy finding and rewording commits](https://github.com/extrawurst/gitui/releases/tag/v0.23.0)
 * [2023-06-21, 07:25:53](https://lobste.rs/s/lcabae/bing_chat_data_exfiltration_exploit) - [Bing Chat: Data Exfiltration Exploit Explained](https://embracethered.com/blog/posts/2023/bing-chat-data-exfiltration-poc-and-fix/)
 * [2023-06-21, 07:16:35](https://lobste.rs/s/gug1t5/people_are_using_ai_automate_responses) - [People Are Using AI to Automate Responses to Site That Pays Them to Train AI](https://futurism.com/the-byte/people-automating-responses-train-ai)
@@ -22,7 +23,6 @@
 * [2023-06-20, 15:23:46](https://lobste.rs/s/0dk3nr/50_years_text_games_parses_rich_history) - [“50 Years of Text Games” parses the rich history of a foundational genre](https://arstechnica.com/?p=1948253)
 * [2023-06-20, 13:05:50](https://lobste.rs/s/tlytjj/my_first_steps_with_nix_on_mac_osx_as) - [My first steps with Nix on Mac OSX as Homebrew replacement](https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
-* [2023-06-20, 12:36:38](https://lobste.rs/s/84wg6t/creating_self_hosted_tile_maps_from) - [Creating Self-Hosted Tile Maps from OpenStreetMap Data](https://terinstock.com/post/2023/06/Creating-Self-Hosted-Tile-Maps-from-OpenStreetMap-Data/)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 * [2023-06-20, 00:52:17](https://lobste.rs/s/lnyfm6/compiling_typed_python) - [Compiling typed Python](https://bernsteinbear.com//blog/typed-python/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
+* [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 18:03:40](https://lobste.rs/s/cc9pdf/rust_vs_c_formatting) - [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
 * [2023-06-21, 17:39:40](https://lobste.rs/s/xfe52b/why_rust_is_bad_actually) - [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
 * [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
