@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
+* [2023-06-22, 19:05:04](https://lobste.rs/s/sivfz2/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/)
+* [2023-06-22, 19:02:14](https://lobste.rs/s/twdrki/graphics_for_jvm_2020) - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/)
 * [2023-06-22, 18:46:20](https://lobste.rs/s/hu9wcv/one_node_module_integrate_any_ai_model) - [One node module to integrate any AI model](https://github.com/Barqawiz/IntelliNode)
 * [2023-06-22, 17:00:37](https://lobste.rs/s/44170v/introducing_mdn_playground_bring_your) - [Introducing the MDN Playground: Bring your code to life](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
 * [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
