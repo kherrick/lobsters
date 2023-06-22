@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-22, 07:33:36](https://lobste.rs/s/vr86aa/std_shared_ptr_is_anti_pattern) - [std::shared_ptr is an anti-pattern](https://ddanilov.me/shared-ptr-is-evil/)
 * [2023-06-22, 05:29:22](https://lobste.rs/s/nf7xfh/binary_size_exceptions) - [Binary size and exceptions](https://www.sandordargo.com/blog/2023/03/29/binary-size-and-exceptions)
 * [2023-06-22, 04:36:03](https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems) - [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
 * [2023-06-21, 22:42:59](https://lobste.rs/s/auaqqa/pcg64_dxsm_random_number_generator) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
@@ -9,7 +10,6 @@
 * [2023-06-21, 19:05:14](https://lobste.rs/s/p1wjkd/openbsd_kernel_relinking_is_not) - [OpenBSD kernel relinking is not transactional and a local exploit exists](https://marc.info/?l=full-disclosure&m=168718134305683&w=2)
 * [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:42:41](https://lobste.rs/s/614unf/adding_delimiters_between_string) - [Adding Delimiters Between String Elements in C++](https://embeddedartistry.com/blog/2023/01/19/adding-delimiters-between-string-elements-in-c/)
-* [2023-06-21, 18:24:19](https://lobste.rs/s/wiwxwb/cyclic_dependency_space_toggles) - [Cyclic Dependency Space Toggles](https://kizu.dev/cyclic-toggles/)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 18:03:40](https://lobste.rs/s/cc9pdf/rust_vs_c_formatting) - [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
 * [2023-06-21, 17:39:40](https://lobste.rs/s/xfe52b/why_rust_is_bad_actually) - [Why Rust is bad, actually(*)](https://www.youtube.com/watch?v=4pOd7Fk84VA)
