@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 17:00:37](https://lobste.rs/s/44170v/introducing_mdn_playground_bring_your) - [Introducing the MDN Playground: Bring your code to life](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
 * [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
 * [2023-06-22, 15:58:15](https://lobste.rs/s/uwhukb/furthering_evolution_centos_stream) - [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
 * [2023-06-22, 15:57:50](https://lobste.rs/s/vuiiwf/c_20_coroutines_driving_job_system) - [C++20 Coroutines Driving a Job System](https://poniesandlight.co.uk/reflect/coroutines_job_system/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-22, 17:00:37](https://lobste.rs/s/44170v/introducing_mdn_playground_bring_your) - [Introducing the MDN Playground: Bring your code to life](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
 * [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
 * [2023-06-22, 15:58:15](https://lobste.rs/s/uwhukb/furthering_evolution_centos_stream) - [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
 * [2023-06-22, 15:57:50](https://lobste.rs/s/vuiiwf/c_20_coroutines_driving_job_system) - [C++20 Coroutines Driving a Job System](https://poniesandlight.co.uk/reflect/coroutines_job_system/)
@@ -17,7 +18,6 @@
 * [2023-06-21, 19:05:14](https://lobste.rs/s/p1wjkd/openbsd_kernel_relinking_is_not) - [OpenBSD kernel relinking is not transactional and a local exploit exists](https://marc.info/?l=full-disclosure&m=168718134305683&w=2)
 * [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
-* [2023-06-21, 18:03:40](https://lobste.rs/s/cc9pdf/rust_vs_c_formatting) - [Rust vs C++ Formatting](https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/)
 * [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
 * [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
