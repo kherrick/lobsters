@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-22, 04:36:03](https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems) - [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
 * [2023-06-21, 22:42:59](https://lobste.rs/s/auaqqa/pcg64_dxsm_random_number_generator) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
 * [2023-06-21, 21:51:49](https://lobste.rs/s/uheamj/jird_little_language_for_music_just) - [Jird: A little language for music in just intonation](https://jird.readthedocs.io/en/latest/)
 * [2023-06-21, 20:59:16](https://lobste.rs/s/yx4ipq/lehman_s_spe_classfication_2017) - [Lehman's SPE-classfication (2017)](https://www.expressionsofchange.org/lehman-spe-classification/)
@@ -22,7 +23,6 @@
 * [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 * [2023-06-20, 20:12:16](https://lobste.rs/s/eu3yz1/amd_opensil_open_source_silicon) - [AMD openSIL – Open-Source Silicon Initialization Library](https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644)
 * [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
-* [2023-06-20, 15:26:32](https://lobste.rs/s/fancbx/introducing_nix_flake_checker_tool_for) - [Introducing the Nix Flake Checker, a tool for keeping your Nixpkgs inputs up to date](https://determinate.systems/posts/flake-checker)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 
