@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-22, 07:54:00",
+      "https://lobste.rs/s/fr2qsg/winpopup_2001"
+    ],
+    [
+      "WinPopup (2001)",
+      "https://susam.net/maze/winpopup.html"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 07:33:36",
       "https://lobste.rs/s/vr86aa/std_shared_ptr_is_anti_pattern"
     ],
@@ -217,16 +227,6 @@
     [
       "Making Python 100x faster with less than 100 lines of Rust",
       "https://ohadravid.github.io/posts/2023-03-rusty-python/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 16:49:55",
-      "https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file"
-    ],
-    [
-      "TIL: Don’t forget your Web Manifest file",
-      "https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/"
     ]
   ],
   [
