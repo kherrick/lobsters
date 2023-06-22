@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 15:57:50](https://lobste.rs/s/vuiiwf/c_20_coroutines_driving_job_system) - [C++20 Coroutines Driving a Job System](https://poniesandlight.co.uk/reflect/coroutines_job_system/)
+* [2023-06-22, 15:55:52](https://lobste.rs/s/vdkyrb/collection_handy_online_tools_for) - [Collection of handy online tools for developers, open source with great UX](https://it-tools.tech/)
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-22, 12:46:07](https://lobste.rs/s/ly5oio/blowing_up_my_compile_times_for_dubious) - [Blowing up my compile times for dubious benefits](https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html)
 * [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
