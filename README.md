@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-22, 19:05:04](https://lobste.rs/s/sivfz2/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/)
 * [2023-06-22, 19:02:14](https://lobste.rs/s/twdrki/graphics_for_jvm_2020) - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/)
@@ -23,7 +24,6 @@
 * [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 * [2023-06-21, 14:41:20](https://lobste.rs/s/nxwj3u/flexible_systems) - [Flexible systems](https://jordankaye.dev/posts/flexible-systems/)
 * [2023-06-21, 12:31:02](https://lobste.rs/s/juqljx/custom_giraffe_caret) - [Custom giraffe caret](https://muffinman.io/blog/custom-giraffe-caret/)
-* [2023-06-21, 07:16:35](https://lobste.rs/s/gug1t5/people_are_using_ai_automate_responses) - [People Are Using AI to Automate Responses to Site That Pays Them to Train AI](https://futurism.com/the-byte/people-automating-responses-train-ai)
 * [2023-06-21, 04:45:51](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 
 ## [Archives](archives/index.md)
