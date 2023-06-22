@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
 * [2023-06-22, 07:33:36](https://lobste.rs/s/vr86aa/std_shared_ptr_is_anti_pattern) - [std::shared_ptr is an anti-pattern](https://ddanilov.me/shared-ptr-is-evil/)
 * [2023-06-22, 05:29:22](https://lobste.rs/s/nf7xfh/binary_size_exceptions) - [Binary size and exceptions](https://www.sandordargo.com/blog/2023/03/29/binary-size-and-exceptions)
 * [2023-06-22, 04:36:03](https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems) - [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
@@ -22,7 +23,6 @@
 * [2023-06-21, 07:16:35](https://lobste.rs/s/gug1t5/people_are_using_ai_automate_responses) - [People Are Using AI to Automate Responses to Site That Pays Them to Train AI](https://futurism.com/the-byte/people-automating-responses-train-ai)
 * [2023-06-21, 04:45:51](https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-20, 21:42:11](https://lobste.rs/s/vmzb25/making_python_100x_faster_with_less_than) - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
-* [2023-06-20, 16:49:55](https://lobste.rs/s/zajqmv/til_don_t_forget_your_web_manifest_file) - [TIL: Don’t forget your Web Manifest file](https://goodenough.us/blog/2023-06-16-til-don-t-forget-your-web-manifest-file/)
 * [2023-06-20, 12:52:27](https://lobste.rs/s/4xadpe/introducing_rust_leadership_council) - [Introducing the Rust Leadership Council](https://blog.rust-lang.org/2023/06/20/introducing-leadership-council.html)
 * [2023-06-20, 09:12:24](https://lobste.rs/s/yrn8fk/hashing) - [Hashing](https://samwho.dev/hashing)
 
