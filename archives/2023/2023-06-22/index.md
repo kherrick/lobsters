@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
+* [2023-06-22, 15:58:15](https://lobste.rs/s/uwhukb/furthering_evolution_centos_stream) - [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
 * [2023-06-22, 15:57:50](https://lobste.rs/s/vuiiwf/c_20_coroutines_driving_job_system) - [C++20 Coroutines Driving a Job System](https://poniesandlight.co.uk/reflect/coroutines_job_system/)
 * [2023-06-22, 15:55:52](https://lobste.rs/s/vdkyrb/collection_handy_online_tools_for) - [Collection of handy online tools for developers, open source with great UX](https://it-tools.tech/)
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
