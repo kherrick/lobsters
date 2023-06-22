@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 19:30:34](https://lobste.rs/s/prusrm/adding_io_uring_java) - [Adding io_uring to Java](https://korennoy.com/2023/06/09/adding-io_uring-to-java/)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-22, 19:05:04](https://lobste.rs/s/sivfz2/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/)
