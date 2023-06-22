@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-22, 19:30:34",
+      "https://lobste.rs/s/prusrm/adding_io_uring_java"
+    ],
+    [
+      "Adding io_uring to Java",
+      "https://korennoy.com/2023/06/09/adding-io_uring-to-java/"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 19:20:10",
       "https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy"
     ],
@@ -237,16 +247,6 @@
     [
       "Custom giraffe caret",
       "https://muffinman.io/blog/custom-giraffe-caret/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 04:45:51",
-      "https://lobste.rs/s/g25hoj/linux_namespaces_are_poor_man_s_plan_9"
-    ],
-    [
-      "Linux Namespaces Are a Poor Man's Plan 9 Namespaces",
-      "https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/"
     ]
   ]
 ]
