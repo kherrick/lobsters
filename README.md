@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-23, 17:09:19](https://lobste.rs/s/tbmttm/just_calm_down_about_gpt_4_already) - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 16:04:00](https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow) - [Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:00](https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
@@ -17,6 +16,7 @@
 * [2023-06-23, 10:35:22](https://lobste.rs/s/vf91gm/combinatorial_coordinates_for) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
 * [2023-06-23, 05:55:17](https://lobste.rs/s/mzi3vv/announcing_svelte_4) - [Announcing Svelte 4](https://svelte.dev/blog/svelte-4)
+* [2023-06-22, 19:30:34](https://lobste.rs/s/prusrm/adding_io_uring_java) - [Adding io_uring to Java](https://korennoy.com/2023/06/09/adding-io_uring-to-java/)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-22, 19:05:04](https://lobste.rs/s/sivfz2/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/)
