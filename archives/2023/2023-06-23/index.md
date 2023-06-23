@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
+* [2023-06-23, 12:33:39](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has) - [Fun Format Friday: The Tech Tinker(bell) has bestowed upon you world fame within the dev space](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has)
 * [2023-06-23, 11:53:34](https://lobste.rs/s/bsfcg8/infinite_hows_dangers_five_whys_2014) - [The Infinite Hows (or, the Dangers Of The Five Whys) (2014)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
 * [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)

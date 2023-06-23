@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
+* [2023-06-23, 12:33:39](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has) - [Fun Format Friday: The Tech Tinker(bell) has bestowed upon you world fame within the dev space](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has)
 * [2023-06-23, 11:53:34](https://lobste.rs/s/bsfcg8/infinite_hows_dangers_five_whys_2014) - [The Infinite Hows (or, the Dangers Of The Five Whys) (2014)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
 * [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
@@ -20,10 +22,8 @@
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-22, 12:46:07](https://lobste.rs/s/ly5oio/blowing_up_my_compile_times_for_dubious) - [Blowing up my compile times for dubious benefits](https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html)
 * [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
-* [2023-06-22, 04:36:03](https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems) - [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
 * [2023-06-21, 21:51:49](https://lobste.rs/s/uheamj/jird_little_language_for_music_just) - [Jird: A little language for music in just intonation](https://jird.readthedocs.io/en/latest/)
 * [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
-* [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
 
 ## [Archives](archives/index.md)
