@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-23, 23:36:14",
+      "https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019"
+    ],
+    [
+      "Allow 0.0.0.0/8 as a valid address range (2019)",
+      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 20:35:47",
       "https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low"
     ],
@@ -207,16 +217,6 @@
     [
       "BYTE Interview with the Creators of the Macintosh from 1984",
       "https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 17:00:37",
-      "https://lobste.rs/s/44170v/introducing_mdn_playground_bring_your"
-    ],
-    [
-      "Introducing the MDN Playground: Bring your code to life",
-      "https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/"
     ]
   ],
   [
