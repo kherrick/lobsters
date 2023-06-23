@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
+* [2023-06-23, 15:22:04](https://lobste.rs/s/zsyeog/being_rockstars_when_software_was) - [Being \"rockstars\": when software was a talents/creatives industry](https://morepablo.com/2023/06/creatives-industries.html)
 * [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
@@ -11,7 +13,6 @@
 * [2023-06-23, 10:35:22](https://lobste.rs/s/vf91gm/combinatorial_coordinates_for) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
 * [2023-06-23, 05:55:17](https://lobste.rs/s/mzi3vv/announcing_svelte_4) - [Announcing Svelte 4](https://svelte.dev/blog/svelte-4)
-* [2023-06-23, 02:14:09](https://lobste.rs/s/hcf9y6/guide_windows_application_development) - [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11/)
 * [2023-06-22, 19:30:34](https://lobste.rs/s/prusrm/adding_io_uring_java) - [Adding io_uring to Java](https://korennoy.com/2023/06/09/adding-io_uring-to-java/)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
@@ -24,7 +25,6 @@
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-22, 12:46:07](https://lobste.rs/s/ly5oio/blowing_up_my_compile_times_for_dubious) - [Blowing up my compile times for dubious benefits](https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html)
 * [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
-* [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
 
 ## [Archives](archives/index.md)
 
