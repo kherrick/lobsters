@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-23, 10:44:29",
+      "https://lobste.rs/s/rb1krj/twilight_programmers"
+    ],
+    [
+      "Twilight Of The Programmers",
+      "https://danielbmarkham.com/twilight-of-the-programmers/"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 10:35:22",
+      "https://lobste.rs/s/vf91gm/combinatorial_coordinates_for"
+    ],
+    [
+      "Combinatorial coordinates for the aperiodic Spectre tiling",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 09:07:54",
       "https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig"
     ],
@@ -227,26 +247,6 @@
     [
       "Oxidizing OCaml: Rust-Style Ownership",
       "https://blog.janestreet.com/oxidizing-ocaml-ownership/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 14:41:20",
-      "https://lobste.rs/s/nxwj3u/flexible_systems"
-    ],
-    [
-      "Flexible systems",
-      "https://jordankaye.dev/posts/flexible-systems/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 12:31:02",
-      "https://lobste.rs/s/juqljx/custom_giraffe_caret"
-    ],
-    [
-      "Custom giraffe caret",
-      "https://muffinman.io/blog/custom-giraffe-caret/"
     ]
   ]
 ]
