@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 15:30:09](https://lobste.rs/s/ds7tta/tour_our_250k_line_clojure_codebase) - [Tour of our 250k line Clojure codebase](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
 * [2023-06-23, 15:22:04](https://lobste.rs/s/zsyeog/being_rockstars_when_software_was) - [Being \"rockstars\": when software was a talents/creatives industry](https://morepablo.com/2023/06/creatives-industries.html)
 * [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
