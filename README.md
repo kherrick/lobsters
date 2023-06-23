@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:35:22](https://lobste.rs/s/vf91gm/combinatorial_coordinates_for) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
@@ -24,7 +25,6 @@
 * [2023-06-21, 18:57:54](https://lobste.rs/s/wkadkf/go_1_21_release_notes_draft) - [Go 1.21 Release Notes (draft)](https://tip.golang.org/doc/go1.21)
 * [2023-06-21, 18:12:52](https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 17:39:36](https://lobste.rs/s/pqhmpj/windows_98_icons_are_great_2015) - [Windows 98 Icons are Great (2015)](https://alexmeub.com/old-windows-icons/)
-* [2023-06-21, 15:15:15](https://lobste.rs/s/fjy1ff/oxidizing_ocaml_rust_style_ownership) - [Oxidizing OCaml: Rust-Style Ownership](https://blog.janestreet.com/oxidizing-ocaml-ownership/)
 
 ## [Archives](archives/index.md)
 
