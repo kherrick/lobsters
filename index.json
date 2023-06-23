@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-23, 12:47:09",
+      "https://lobste.rs/s/mbcsmc/shrinking_shared_library"
+    ],
+    [
+      "Shrinking a Shared Library",
+      "https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 12:33:39",
+      "https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has"
+    ],
+    [
+      "Fun Format Friday: The Tech Tinker(bell) has bestowed upon you world fame within the dev space",
+      "https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 11:53:34",
       "https://lobste.rs/s/bsfcg8/infinite_hows_dangers_five_whys_2014"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-22, 04:36:03",
-      "https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems"
-    ],
-    [
-      "Port LLVM XRay to Apple systems",
-      "https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems"
-    ]
-  ],
-  [
-    [
       "2023-06-21, 21:51:49",
       "https://lobste.rs/s/uheamj/jird_little_language_for_music_just"
     ],
@@ -227,16 +237,6 @@
     [
       "Go 1.21 Release Notes (draft)",
       "https://tip.golang.org/doc/go1.21"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 18:12:52",
-      "https://lobste.rs/s/a0mucw/red_hat_cutting_back_rhel_source"
-    ],
-    [
-      "Red Hat cutting back RHEL source availability",
-      "https://lwn.net/Articles/935592/"
     ]
   ],
   [
