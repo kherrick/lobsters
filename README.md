@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 05:55:17](https://lobste.rs/s/mzi3vv/announcing_svelte_4) - [Announcing Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-23, 02:14:09](https://lobste.rs/s/hcf9y6/guide_windows_application_development) - [A guide to Windows application development using w64devkit](https://nullprogram.com/blog/2021/03/11/)
 * [2023-06-22, 19:30:34](https://lobste.rs/s/prusrm/adding_io_uring_java) - [Adding io_uring to Java](https://korennoy.com/2023/06/09/adding-io_uring-to-java/)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
@@ -15,7 +16,6 @@
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-22, 12:46:07](https://lobste.rs/s/ly5oio/blowing_up_my_compile_times_for_dubious) - [Blowing up my compile times for dubious benefits](https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html)
 * [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
-* [2023-06-22, 07:33:36](https://lobste.rs/s/vr86aa/std_shared_ptr_is_anti_pattern) - [std::shared_ptr is an anti-pattern](https://ddanilov.me/shared-ptr-is-evil/)
 * [2023-06-22, 04:36:03](https://lobste.rs/s/1dpfgc/port_llvm_xray_apple_systems) - [Port LLVM XRay to Apple systems](https://maskray.me/blog/2023-06-18-port-llvm-xray-to-apple-systems)
 * [2023-06-21, 22:42:59](https://lobste.rs/s/auaqqa/pcg64_dxsm_random_number_generator) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
 * [2023-06-21, 21:51:49](https://lobste.rs/s/uheamj/jird_little_language_for_music_just) - [Jird: A little language for music in just intonation](https://jird.readthedocs.io/en/latest/)
