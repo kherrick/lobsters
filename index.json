@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-23, 15:06:55",
+      "https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source"
+    ],
+    [
+      "MPT-30B: Raising the bar for open-source foundation models",
+      "https://www.mosaicml.com/blog/mpt-30b"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 14:47:20",
       "https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as"
     ],
@@ -157,16 +167,6 @@
     [
       "Graphics for JVM (2020)",
       "https://tonsky.me/blog/skija/"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 18:46:20",
-      "https://lobste.rs/s/hu9wcv/one_node_module_integrate_any_ai_model"
-    ],
-    [
-      "One node module to integrate any AI model",
-      "https://github.com/Barqawiz/IntelliNode"
     ]
   ],
   [
