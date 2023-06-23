@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 16:04:00](https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow) - [Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:00](https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
@@ -10,7 +11,6 @@
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 * [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
 * [2023-06-23, 12:33:39](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has) - [Fun Format Friday: The Tech Tinker(bell) has bestowed upon you world fame within the dev space](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has)
-* [2023-06-23, 11:53:34](https://lobste.rs/s/bsfcg8/infinite_hows_dangers_five_whys_2014) - [The Infinite Hows (or, the Dangers Of The Five Whys) (2014)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
 * [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:35:22](https://lobste.rs/s/vf91gm/combinatorial_coordinates_for) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
