@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-23, 19:11:30",
+      "https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code"
+    ],
+    [
+      "David Fowler has trouble with code templates",
+      "https://youtu.be/2xC-d4rXT0k"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 19:09:59",
+      "https://lobste.rs/s/ncqudt/on_ember_s_new_major_version_cadence_why_i"
+    ],
+    [
+      "On Ember’s New Major Version Cadence : and why I hope it will be useful to other projects as well",
+      "https://v5.chriskrycho.com/journal/on-embers-new-major-version-cadence/"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 16:31:27",
       "https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-06-22, 19:30:34",
-      "https://lobste.rs/s/prusrm/adding_io_uring_java"
-    ],
-    [
-      "Adding io_uring to Java",
-      "https://korennoy.com/2023/06/09/adding-io_uring-to-java/"
-    ]
-  ],
-  [
-    [
       "2023-06-22, 19:20:10",
       "https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy"
     ],
@@ -227,16 +237,6 @@
     [
       "Agile is people, the rest is commentary",
       "https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 12:46:07",
-      "https://lobste.rs/s/ly5oio/blowing_up_my_compile_times_for_dubious"
-    ],
-    [
-      "Blowing up my compile times for dubious benefits",
-      "https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html"
     ]
   ],
   [
