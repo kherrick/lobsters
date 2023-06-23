@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
+* [2023-06-23, 19:09:59](https://lobste.rs/s/ncqudt/on_ember_s_new_major_version_cadence_why_i) - [On Ember’s New Major Version Cadence : and why I hope it will be useful to other projects as well](https://v5.chriskrycho.com/journal/on-embers-new-major-version-cadence/)
 * [2023-06-23, 17:09:19](https://lobste.rs/s/tbmttm/just_calm_down_about_gpt_4_already) - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 16:04:00](https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow) - [Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection](https://verdagon.dev/blog/vale-memory-safe-cpp)
