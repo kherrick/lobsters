@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 * [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 * [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
@@ -16,7 +17,6 @@
 * [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-22, 19:05:04](https://lobste.rs/s/sivfz2/rfc_enforcing_bounds_safety_c_fbounds) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/)
 * [2023-06-22, 19:02:14](https://lobste.rs/s/twdrki/graphics_for_jvm_2020) - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/)
-* [2023-06-22, 18:46:20](https://lobste.rs/s/hu9wcv/one_node_module_integrate_any_ai_model) - [One node module to integrate any AI model](https://github.com/Barqawiz/IntelliNode)
 * [2023-06-22, 17:00:37](https://lobste.rs/s/44170v/introducing_mdn_playground_bring_your) - [Introducing the MDN Playground: Bring your code to life](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
 * [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
 * [2023-06-22, 15:57:50](https://lobste.rs/s/vuiiwf/c_20_coroutines_driving_job_system) - [C++20 Coroutines Driving a Job System](https://poniesandlight.co.uk/reflect/coroutines_job_system/)
