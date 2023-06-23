@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-23, 02:14:09",
+      "https://lobste.rs/s/hcf9y6/guide_windows_application_development"
+    ],
+    [
+      "A guide to Windows application development using w64devkit",
+      "https://nullprogram.com/blog/2021/03/11/"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 19:30:34",
       "https://lobste.rs/s/prusrm/adding_io_uring_java"
     ],
@@ -177,16 +187,6 @@
     [
       "Jird: A little language for music in just intonation",
       "https://jird.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 20:09:48",
-      "https://lobste.rs/s/phlazg/crafting_better_faster_code_view"
-    ],
-    [
-      "Crafting a better, faster code view",
-      "https://github.blog/2023-06-21-crafting-a-better-faster-code-view/"
     ]
   ],
   [
