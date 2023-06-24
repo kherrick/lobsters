@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 19:39:38](https://lobste.rs/s/5w2rlf/why_how_add_home_manager_nixos) - [Why and How to Add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 * [2023-06-24, 16:08:19](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-24, 12:07:33](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust) - [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
 * [2023-06-24, 11:32:54](https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism) - [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
@@ -24,7 +25,6 @@
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
-* [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 
 ## [Archives](archives/index.md)
 

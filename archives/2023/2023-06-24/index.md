@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 19:39:38](https://lobste.rs/s/5w2rlf/why_how_add_home_manager_nixos) - [Why and How to Add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 * [2023-06-24, 18:21:04](https://lobste.rs/s/nwxcx7/how_decarbonise_transport) - [How to decarbonise transport](https://www.youtube.com/watch?v=rhNlFiCmVyg)
 * [2023-06-24, 16:08:19](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-24, 12:07:33](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust) - [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
