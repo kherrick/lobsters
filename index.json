@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-24, 11:32:54",
+      "https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism"
+    ],
+    [
+      "Bootloader Firmware Update Mechanism: Bare Metal Programming Series",
+      "https://youtu.be/_hd6FITV_Hw"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 11:08:28",
       "https://lobste.rs/s/iqxbjt/type_checker_simon_peyton_jones"
     ],
@@ -37,16 +47,6 @@
     [
       "Make your programs run faster by better using the data cache",
       "https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 04:39:00",
-      "https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option"
-    ],
-    [
-      "How to safely use gawk's -i option?",
-      "https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option"
     ]
   ],
   [
