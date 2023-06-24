@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 12:07:33](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust) - [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
 * [2023-06-24, 11:32:54](https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism) - [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
 * [2023-06-24, 11:08:28](https://lobste.rs/s/iqxbjt/type_checker_simon_peyton_jones) - [The Type Checker - Simon Peyton Jones](https://www.youtube.com/watch?v=F8KXb0gy2-k)
 * [2023-06-24, 10:21:18](https://lobste.rs/s/nazx5c/faster_denser_stronger_hopefully_not) - [Faster, denser, stronger, hopefully not bigger: uniform floats](https://outerproduct.net/trivial/2023-06-24_number-whose-point-floats.html)
@@ -22,7 +23,6 @@
 * [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
-* [2023-06-23, 05:55:17](https://lobste.rs/s/mzi3vv/announcing_svelte_4) - [Announcing Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 
