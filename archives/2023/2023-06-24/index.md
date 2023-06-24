@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 05:50:07](https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better) - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-24, 04:39:00](https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option) - [How to safely use gawk's -i option?](https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option)
 * [2023-06-24, 02:28:56](https://lobste.rs/s/b2fr5s/go_1_21_will_probably_download_newer) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)

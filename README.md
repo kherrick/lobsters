@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 05:50:07](https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better) - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-24, 04:39:00](https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option) - [How to safely use gawk's -i option?](https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option)
 * [2023-06-24, 02:28:56](https://lobste.rs/s/b2fr5s/go_1_21_will_probably_download_newer) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
@@ -12,7 +13,6 @@
 * [2023-06-23, 16:04:00](https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow) - [Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:00](https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
-* [2023-06-23, 15:30:09](https://lobste.rs/s/ds7tta/tour_our_250k_line_clojure_codebase) - [Tour of our 250k line Clojure codebase](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
