@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-24, 21:38:28",
+      "https://lobste.rs/s/qxjnbr/what_is_semantic_kernel"
+    ],
+    [
+      "What is Semantic Kernel?",
+      "https://learn.microsoft.com/en-us/semantic-kernel/overview/"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 21:37:39",
+      "https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust"
+    ],
+    [
+      "My deduplication solution written in Rust beats everything else, i. e. casync, borg",
+      "https://github.com/borgbackup/borg/issues/7674"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 20:12:13",
       "https://lobste.rs/s/nqahtz/xml_is_future"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-06-23, 16:04:00",
-      "https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow"
-    ],
-    [
-      "Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection",
-      "https://verdagon.dev/blog/vale-memory-safe-cpp"
-    ]
-  ],
-  [
-    [
       "2023-06-23, 16:00:00",
       "https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire"
     ],
@@ -227,16 +237,6 @@
     [
       "Twilight Of The Programmers",
       "https://danielbmarkham.com/twilight-of-the-programmers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 09:07:54",
-      "https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig"
-    ],
-    [
-      "The Seamstress Event Loop In Zig",
-      "https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html"
     ]
   ],
   [
