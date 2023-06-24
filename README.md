@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 04:39:00](https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option) - [How to safely use gawk's -i option?](https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option)
 * [2023-06-24, 02:28:56](https://lobste.rs/s/b2fr5s/go_1_21_will_probably_download_newer) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 * [2023-06-23, 23:53:13](https://lobste.rs/s/cxcdr5/connecting_your_rc2014_psion_5mx_psion_3) - [Connecting your RC2014 to a Psion 5MX, Psion 3, or other RS232 terminal](https://www.kianryan.co.uk/2023-06-22-connecting-rc2014-to-psion-or-other-rs232-terminal/)
@@ -13,7 +14,6 @@
 * [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 * [2023-06-23, 15:30:09](https://lobste.rs/s/ds7tta/tour_our_250k_line_clojure_codebase) - [Tour of our 250k line Clojure codebase](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
-* [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 * [2023-06-23, 12:47:09](https://lobste.rs/s/mbcsmc/shrinking_shared_library) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
