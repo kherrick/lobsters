@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-06-23, 16:04:00",
-      "https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow"
-    ],
-    [
-      "Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection",
-      "https://verdagon.dev/blog/vale-memory-safe-cpp"
-    ]
-  ],
-  [
-    [
       "2023-06-23, 16:00:00",
       "https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire"
     ],
@@ -237,6 +227,16 @@
     [
       "Random floating point numbers",
       "https://dotat.at/@/2023-06-23-random-double.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 10:44:29",
+      "https://lobste.rs/s/rb1krj/twilight_programmers"
+    ],
+    [
+      "Twilight Of The Programmers",
+      "https://danielbmarkham.com/twilight-of-the-programmers/"
     ]
   ],
   [
