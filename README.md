@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 * [2023-06-23, 23:53:13](https://lobste.rs/s/cxcdr5/connecting_your_rc2014_psion_5mx_psion_3) - [Connecting your RC2014 to a Psion 5MX, Psion 3, or other RS232 terminal](https://www.kianryan.co.uk/2023-06-22-connecting-rc2014-to-psion-or-other-rs232-terminal/)
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 20:35:47](https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low) - [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
@@ -9,6 +10,7 @@
 * [2023-06-23, 16:04:00](https://lobste.rs/s/vsywv1/making_c_memory_safe_without_borrow) - [Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:00](https://lobste.rs/s/5yihui/putting_out_hardware_dumpster_fire) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
+* [2023-06-23, 15:30:09](https://lobste.rs/s/ds7tta/tour_our_250k_line_clojure_codebase) - [Tour of our 250k line Clojure codebase](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
 * [2023-06-23, 15:06:55](https://lobste.rs/s/6xopnw/mpt_30b_raising_bar_for_open_source) - [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
@@ -21,8 +23,6 @@
 * [2023-06-23, 09:07:54](https://lobste.rs/s/2yzqmv/seamstress_event_loop_zig) - [The Seamstress Event Loop In Zig](https://ryleealanza.org/2023/06/21/The-Seamstress-Event-Loop-in-Zig.html)
 * [2023-06-23, 05:55:17](https://lobste.rs/s/mzi3vv/announcing_svelte_4) - [Announcing Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
-* [2023-06-22, 19:08:57](https://lobste.rs/s/chbq9x/byte_interview_with_creators_macintosh) - [BYTE Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
-* [2023-06-22, 15:58:25](https://lobste.rs/s/dnvtlp/i_am_first_psf_security_developer) - [I am the first PSF Security Developer-in-Residence](https://sethmlarson.dev/security-developer-in-residence)
 * [2023-06-22, 15:20:06](https://lobste.rs/s/8nuabr/agile_is_people_rest_is_commentary) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-22, 07:54:00](https://lobste.rs/s/fr2qsg/winpopup_2001) - [WinPopup (2001)](https://susam.net/maze/winpopup.html)
 
