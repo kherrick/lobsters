@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 23:53:13](https://lobste.rs/s/cxcdr5/connecting_your_rc2014_psion_5mx_psion_3) - [Connecting your RC2014 to a Psion 5MX, Psion 3, or other RS232 terminal](https://www.kianryan.co.uk/2023-06-22-connecting-rc2014-to-psion-or-other-rs232-terminal/)
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 20:35:47](https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low) - [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
