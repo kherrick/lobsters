@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-24, 05:50:07",
+      "https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better"
+    ],
+    [
+      "Make your programs run faster by better using the data cache",
+      "https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 04:39:00",
       "https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option"
     ],
@@ -117,16 +127,6 @@
     [
       "Mozilla noticed a Google javascript and Linux kernel bug",
       "https://fosstodon.org/@gabrielesvelto/110592904713090347"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 15:30:09",
-      "https://lobste.rs/s/ds7tta/tour_our_250k_line_clojure_codebase"
-    ],
-    [
-      "Tour of our 250k line Clojure codebase",
-      "https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/"
     ]
   ],
   [
