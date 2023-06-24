@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 10:21:18](https://lobste.rs/s/nazx5c/faster_denser_stronger_hopefully_not) - [Faster, denser, stronger, hopefully not bigger: uniform floats](https://outerproduct.net/trivial/2023-06-24_number-whose-point-floats.html)
 * [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-24, 05:50:07](https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better) - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-24, 04:39:00](https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option) - [How to safely use gawk's -i option?](https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option)

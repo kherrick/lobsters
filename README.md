@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-24, 10:21:18](https://lobste.rs/s/nazx5c/faster_denser_stronger_hopefully_not) - [Faster, denser, stronger, hopefully not bigger: uniform floats](https://outerproduct.net/trivial/2023-06-24_number-whose-point-floats.html)
 * [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-24, 05:50:07](https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better) - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-24, 04:39:00](https://lobste.rs/s/q3z4op/how_safely_use_gawk_s_i_option) - [How to safely use gawk's -i option?](https://unix.stackexchange.com/questions/749645/how-to-safely-use-gawks-i-option)
@@ -17,7 +18,6 @@
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
-* [2023-06-23, 12:33:39](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has) - [Fun Format Friday: The Tech Tinker(bell) has bestowed upon you world fame within the dev space](https://lobste.rs/s/uvannj/fun_format_friday_tech_tinker_bell_has)
 * [2023-06-23, 11:12:38](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6mpqfp/what_are_you_doing_this_weekend)
 * [2023-06-23, 10:44:29](https://lobste.rs/s/rb1krj/twilight_programmers) - [Twilight Of The Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:35:22](https://lobste.rs/s/vf91gm/combinatorial_coordinates_for) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
