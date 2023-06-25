@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 20:53:42](https://lobste.rs/s/2eljsl/flunct_well_typed_fluent_apis_sml) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)
 * [2023-06-25, 18:18:18](https://lobste.rs/s/0qasjz/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
@@ -19,7 +20,6 @@
 * [2023-06-25, 03:07:43](https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading) - [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
 * [2023-06-25, 03:04:36](https://lobste.rs/s/bkndrn/intercal_practically_impossible) - [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:59:27](https://lobste.rs/s/dlqrdx/game_trees_0_90_released) - [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
-* [2023-06-25, 00:37:08](https://lobste.rs/s/tikyzw/ingesting_historical_data_into_influxdb) - [Ingesting historical data into InfluxDB](https://www.subrat.info/operating-influxdb-historical-data/)
 * [2023-06-24, 23:58:20](https://lobste.rs/s/7viskj/weechat_version_4_0_0) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 21:37:39](https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust) - [My deduplication solution written in Rust beats everything else, i. e. casync, borg](https://github.com/borgbackup/borg/issues/7674)
 * [2023-06-24, 20:12:13](https://lobste.rs/s/nqahtz/xml_is_future) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)

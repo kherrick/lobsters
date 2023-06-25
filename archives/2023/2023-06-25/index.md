@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 20:53:42](https://lobste.rs/s/2eljsl/flunct_well_typed_fluent_apis_sml) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)
 * [2023-06-25, 18:18:18](https://lobste.rs/s/0qasjz/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
