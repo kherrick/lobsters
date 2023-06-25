@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 06:14:41](https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh) - [Oils 0.16.0 - Breaking Renames and YSH](https://www.oilshell.org/blog/2023/06/release-0.16.0.html)
 * [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:07:43](https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading) - [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
 * [2023-06-25, 03:04:36](https://lobste.rs/s/bkndrn/intercal_practically_impossible) - [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
@@ -19,7 +20,6 @@
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 20:35:47](https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low) - [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
-* [2023-06-23, 19:09:59](https://lobste.rs/s/ncqudt/on_ember_s_new_major_version_cadence_why_i) - [On Ember’s New Major Version Cadence : and why I hope it will be useful to other projects as well](https://v5.chriskrycho.com/journal/on-embers-new-major-version-cadence/)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)

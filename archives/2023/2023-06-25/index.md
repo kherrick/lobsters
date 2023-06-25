@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 06:14:41](https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh) - [Oils 0.16.0 - Breaking Renames and YSH](https://www.oilshell.org/blog/2023/06/release-0.16.0.html)
 * [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:07:43](https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading) - [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
 * [2023-06-25, 03:04:36](https://lobste.rs/s/bkndrn/intercal_practically_impossible) - [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
