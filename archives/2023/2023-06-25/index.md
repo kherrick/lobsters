@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-25](index.md)
+
+* [2023-06-25, 00:37:08](https://lobste.rs/s/tikyzw/ingesting_historical_data_into_influxdb) - [Ingesting historical data into InfluxDB](https://www.subrat.info/operating-influxdb-historical-data/)

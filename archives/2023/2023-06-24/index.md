@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 23:58:20](https://lobste.rs/s/7viskj/weechat_version_4_0_0) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 21:38:28](https://lobste.rs/s/qxjnbr/what_is_semantic_kernel) - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 * [2023-06-24, 21:37:39](https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust) - [My deduplication solution written in Rust beats everything else, i. e. casync, borg](https://github.com/borgbackup/borg/issues/7674)
 * [2023-06-24, 20:12:13](https://lobste.rs/s/nqahtz/xml_is_future) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
