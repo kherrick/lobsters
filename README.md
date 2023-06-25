@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 12:49:22](https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach) - [From Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
+* [2023-06-25, 12:48:28](https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming) - [Tips for concurrent programming](http://catern.com/concur.html)
 * [2023-06-25, 10:37:02](https://lobste.rs/s/d1xhk9/rails_design_patterns) - [Rails design patterns](https://rubyhero.dev/rails-design-patterns-the-big-picture)
 * [2023-06-25, 09:43:58](https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor) - [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
 * [2023-06-25, 09:08:55](https://lobste.rs/s/rhgftu/amazon_prime_video_s_microservices_move) - [Amazon Prime Video’s microservices move doesn’t lead to a monolith after all](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
@@ -12,7 +14,6 @@
 * [2023-06-25, 02:59:27](https://lobste.rs/s/dlqrdx/game_trees_0_90_released) - [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-25, 00:37:08](https://lobste.rs/s/tikyzw/ingesting_historical_data_into_influxdb) - [Ingesting historical data into InfluxDB](https://www.subrat.info/operating-influxdb-historical-data/)
 * [2023-06-24, 23:58:20](https://lobste.rs/s/7viskj/weechat_version_4_0_0) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
-* [2023-06-24, 21:38:28](https://lobste.rs/s/qxjnbr/what_is_semantic_kernel) - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 * [2023-06-24, 21:37:39](https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust) - [My deduplication solution written in Rust beats everything else, i. e. casync, borg](https://github.com/borgbackup/borg/issues/7674)
 * [2023-06-24, 20:12:13](https://lobste.rs/s/nqahtz/xml_is_future) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 * [2023-06-24, 19:39:38](https://lobste.rs/s/5w2rlf/why_how_add_home_manager_nixos) - [Why and How to Add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
@@ -21,7 +22,6 @@
 * [2023-06-24, 11:32:54](https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism) - [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
 * [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
-* [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
