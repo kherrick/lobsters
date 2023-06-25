@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 09:08:55](https://lobste.rs/s/rhgftu/amazon_prime_video_s_microservices_move) - [Amazon Prime Video’s microservices move doesn’t lead to a monolith after all](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
 * [2023-06-25, 06:14:41](https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh) - [Oils 0.16.0 - Breaking Renames and YSH](https://www.oilshell.org/blog/2023/06/release-0.16.0.html)
@@ -22,7 +23,6 @@
 * [2023-06-23, 20:35:47](https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low) - [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
-* [2023-06-23, 15:57:24](https://lobste.rs/s/zx025j/mozilla_noticed_google_javascript_linux) - [Mozilla noticed a Google javascript and Linux kernel bug](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 
