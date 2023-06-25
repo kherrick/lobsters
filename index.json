@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-06-25, 03:07:43",
+      "https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading"
+    ],
+    [
+      "Restoring Dyld Memory Loading",
+      "https://blog.xpnsec.com/restoring-dyld-memory-loading/"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 03:04:36",
       "https://lobste.rs/s/bkndrn/intercal_practically_impossible"
     ],
@@ -237,16 +247,6 @@
     [
       "XML is the future",
       "https://www.bitecode.dev/p/hype-cycles"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 19:39:38",
-      "https://lobste.rs/s/5w2rlf/why_how_add_home_manager_nixos"
-    ],
-    [
-      "Why and How to Add Home Manager to NixOS",
-      "https://drakerossman.com/blog/how-to-add-home-manager-to-nixos"
     ]
   ]
 ]
