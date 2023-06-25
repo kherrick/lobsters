@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)
 * [2023-06-25, 18:18:18](https://lobste.rs/s/0qasjz/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
 * [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
@@ -24,7 +25,6 @@
 * [2023-06-24, 19:39:38](https://lobste.rs/s/5w2rlf/why_how_add_home_manager_nixos) - [Why and How to Add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 * [2023-06-24, 16:08:19](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-24, 12:07:33](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust) - [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
-* [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 
 ## [Archives](archives/index.md)
 
