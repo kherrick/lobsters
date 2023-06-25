@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-25, 20:17:54",
+      "https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen"
+    ],
+    [
+      "argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total",
+      "https://codeberg.org/valpackett/argon2ian"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 18:18:18",
       "https://lobste.rs/s/0qasjz/brief_incomplete_mostly_wrong_history"
     ],
@@ -237,16 +247,6 @@
     [
       "keyberon: A rust crate to create a pure rust keyboard firmware",
       "https://github.com/TeXitoi/keyberon"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 14:47:20",
-      "https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as"
-    ],
-    [
-      "How to Kill a Decentralised Network (such as the Fediverse)",
-      "https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html"
     ]
   ]
 ]
