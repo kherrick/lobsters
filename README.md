@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:07:43](https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading) - [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
 * [2023-06-25, 03:04:36](https://lobste.rs/s/bkndrn/intercal_practically_impossible) - [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:59:27](https://lobste.rs/s/dlqrdx/game_trees_0_90_released) - [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
@@ -15,7 +16,6 @@
 * [2023-06-24, 11:08:28](https://lobste.rs/s/iqxbjt/type_checker) - [The Type Checker](https://www.youtube.com/watch?v=F8KXb0gy2-k)
 * [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
-* [2023-06-23, 23:53:13](https://lobste.rs/s/cxcdr5/connecting_your_rc2014_psion_5mx_psion_3) - [Connecting your RC2014 to a Psion 5MX, Psion 3, or other RS232 terminal](https://www.kianryan.co.uk/2023-06-22-connecting-rc2014-to-psion-or-other-rs232-terminal/)
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 20:35:47](https://lobste.rs/s/maihrd/intel_one_mono_font_aiming_for_clarity_low) - [intel-one-mono: A font aiming for clarity and low-vision developers](https://github.com/intel/intel-one-mono)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
