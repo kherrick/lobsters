@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 23:01:44](https://lobste.rs/s/raoy5h/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://youtu.be/RNZeAmp1EaA)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 21:45:31](https://lobste.rs/s/eh6mjq/hypersomnia_multiplayer_top_down) - [Hypersomnia: Multiplayer top-down shooter made from scratch](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights)
 * [2023-06-25, 21:21:00](https://lobste.rs/s/ehevj8/50_50_2010) - [50 in 50 (2010)](https://vimeo.com/25958308)

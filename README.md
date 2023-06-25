@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 23:01:44](https://lobste.rs/s/raoy5h/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://youtu.be/RNZeAmp1EaA)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 21:45:31](https://lobste.rs/s/eh6mjq/hypersomnia_multiplayer_top_down) - [Hypersomnia: Multiplayer top-down shooter made from scratch](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights)
 * [2023-06-25, 21:21:00](https://lobste.rs/s/ehevj8/50_50_2010) - [50 in 50 (2010)](https://vimeo.com/25958308)
@@ -21,7 +22,6 @@
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
 * [2023-06-25, 06:14:41](https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh) - [Oils 0.16.0 - Breaking Renames and YSH](https://www.oilshell.org/blog/2023/06/release-0.16.0.html)
 * [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
-* [2023-06-25, 02:59:27](https://lobste.rs/s/dlqrdx/game_trees_0_90_released) - [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-24, 23:58:20](https://lobste.rs/s/7viskj/weechat_version_4_0_0) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 21:37:39](https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust) - [My deduplication solution written in Rust beats everything else, i. e. casync, borg](https://github.com/borgbackup/borg/issues/7674)
 * [2023-06-24, 20:12:13](https://lobste.rs/s/nqahtz/xml_is_future) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
