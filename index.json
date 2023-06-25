@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-25, 17:36:16",
+      "https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs"
+    ],
+    [
+      "Programming using only flake inputs",
+      "https://discourse.nixos.org/t/29611"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 16:32:06",
       "https://lobste.rs/s/qy07bo/ranges_c_20"
     ],
@@ -217,16 +227,6 @@
     [
       "keyberon: A rust crate to create a pure rust keyboard firmware",
       "https://github.com/TeXitoi/keyberon"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 11:32:54",
-      "https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism"
-    ],
-    [
-      "Bootloader Firmware Update Mechanism: Bare Metal Programming Series",
-      "https://youtu.be/_hd6FITV_Hw"
     ]
   ],
   [
