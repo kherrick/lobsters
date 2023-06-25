@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-25, 12:49:22",
+      "https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach"
+    ],
+    [
+      "From Theory to Systems: A Grounded Approach to Programming Language Education (2019)",
+      "https://arxiv.org/abs/1904.06750"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 12:48:28",
+      "https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming"
+    ],
+    [
+      "Tips for concurrent programming",
+      "http://catern.com/concur.html"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 10:37:02",
       "https://lobste.rs/s/d1xhk9/rails_design_patterns"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-06-24, 21:38:28",
-      "https://lobste.rs/s/qxjnbr/what_is_semantic_kernel"
-    ],
-    [
-      "What is Semantic Kernel?",
-      "https://learn.microsoft.com/en-us/semantic-kernel/overview/"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 21:37:39",
       "https://lobste.rs/s/dhn1g1/my_deduplication_solution_written_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "O Brother GeoBook, Let's Get Thou back on the Internet?",
       "https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 23:36:14",
-      "https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019"
-    ],
-    [
-      "Allow 0.0.0.0/8 as a valid address range (2019)",
-      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a"
     ]
   ],
   [
