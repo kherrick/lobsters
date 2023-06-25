@@ -19,12 +19,12 @@
 * [2023-06-24, 16:08:19](https://lobste.rs/s/p93jau/e_graph_extraction_problem_is_np_complete) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-24, 12:07:33](https://lobste.rs/s/ylofeo/keyberon_rust_crate_create_pure_rust) - [keyberon: A rust crate to create a pure rust keyboard firmware](https://github.com/TeXitoi/keyberon)
 * [2023-06-24, 11:32:54](https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism) - [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
+* [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
 * [2023-06-23, 19:11:30](https://lobste.rs/s/pdlxzl/david_fowler_has_trouble_with_code) - [David Fowler has trouble with code templates](https://youtu.be/2xC-d4rXT0k)
 * [2023-06-23, 16:31:27](https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server) - [What happens when a Matrix server disappears?](https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
-* [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
 
 ## [Archives](archives/index.md)
 
