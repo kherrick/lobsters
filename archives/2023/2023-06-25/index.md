@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 10:37:02](https://lobste.rs/s/d1xhk9/rails_design_patterns) - [Rails design patterns](https://rubyhero.dev/rails-design-patterns-the-big-picture)
 * [2023-06-25, 09:43:58](https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor) - [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
 * [2023-06-25, 09:08:55](https://lobste.rs/s/rhgftu/amazon_prime_video_s_microservices_move) - [Amazon Prime Video’s microservices move doesn’t lead to a monolith after all](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
