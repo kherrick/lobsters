@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
 * [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 * [2023-06-25, 14:43:14](https://lobste.rs/s/2ffyzv/bootstrapping_once_future_compiler_by) - [Bootstrapping: The once and future compiler by Joshua Nelson (2022)](https://www.youtube.com/watch?v=oUIjG-y4zaA)
+* [2023-06-25, 14:43:14](https://lobste.rs/s/2ffyzv/bootstrapping_once_future_compiler_2022) - [Bootstrapping: The once and future compiler (2022)](https://www.youtube.com/watch?v=oUIjG-y4zaA)
 * [2023-06-25, 12:49:22](https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach) - [From Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:48:28](https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming) - [Tips for concurrent programming](http://catern.com/concur.html)
 * [2023-06-25, 10:37:02](https://lobste.rs/s/d1xhk9/rails_design_patterns) - [Rails design patterns](https://rubyhero.dev/rails-design-patterns-the-big-picture)
