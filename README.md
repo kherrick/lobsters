@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-25, 03:07:43](https://lobste.rs/s/qwtoz5/restoring_dyld_memory_loading) - [Restoring Dyld Memory Loading](https://blog.xpnsec.com/restoring-dyld-memory-loading/)
+* [2023-06-25, 03:04:36](https://lobste.rs/s/bkndrn/intercal_practically_impossible) - [INTERCAL: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
+* [2023-06-25, 02:59:27](https://lobste.rs/s/dlqrdx/game_trees_0_90_released) - [Game of Trees 0.90 released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-25, 00:37:08](https://lobste.rs/s/tikyzw/ingesting_historical_data_into_influxdb) - [Ingesting historical data into InfluxDB](https://www.subrat.info/operating-influxdb-historical-data/)
 * [2023-06-24, 23:58:20](https://lobste.rs/s/7viskj/weechat_version_4_0_0) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 21:38:28](https://lobste.rs/s/qxjnbr/what_is_semantic_kernel) - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
@@ -11,8 +14,6 @@
 * [2023-06-24, 11:32:54](https://lobste.rs/s/f40mpj/bootloader_firmware_update_mechanism) - [Bootloader Firmware Update Mechanism: Bare Metal Programming Series](https://youtu.be/_hd6FITV_Hw)
 * [2023-06-24, 11:08:28](https://lobste.rs/s/iqxbjt/type_checker) - [The Type Checker](https://www.youtube.com/watch?v=F8KXb0gy2-k)
 * [2023-06-24, 07:45:04](https://lobste.rs/s/acbwmc/real_time_messaging) - [Real-time Messaging](https://slack.engineering/real-time-messaging/)
-* [2023-06-24, 05:50:07](https://lobste.rs/s/desnbj/make_your_programs_run_faster_by_better) - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
-* [2023-06-24, 02:28:56](https://lobste.rs/s/b2fr5s/go_1_21_will_probably_download_newer) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 01:28:07](https://lobste.rs/s/04nqkb/o_brother_geobook_let_s_get_thou_back_on) - [O Brother GeoBook, Let's Get Thou back on the Internet?](https://oldvcr.blogspot.com/2023/06/o-brother-geobook-lets-get-thou-back-on.html)
 * [2023-06-23, 23:53:13](https://lobste.rs/s/cxcdr5/connecting_your_rc2014_psion_5mx_psion_3) - [Connecting your RC2014 to a Psion 5MX, Psion 3, or other RS232 terminal](https://www.kianryan.co.uk/2023-06-22-connecting-rc2014-to-psion-or-other-rs232-terminal/)
 * [2023-06-23, 23:36:14](https://lobste.rs/s/29xg6k/allow_0_0_0_0_8_as_valid_address_range_2019) - [Allow 0.0.0.0/8 as a valid address range (2019)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=96125bf9985a)
@@ -24,7 +25,6 @@
 * [2023-06-23, 15:23:44](https://lobste.rs/s/j6x3fl/binpash_try) - [binpash/try](https://github.com/binpash/try)
 * [2023-06-23, 14:47:20](https://lobste.rs/s/302ahc/how_kill_decentralised_network_such_as) - [How to Kill a Decentralised Network (such as the Fediverse)](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-23, 13:44:01](https://lobste.rs/s/kojwb9/random_floating_point_numbers) - [Random floating point numbers](https://dotat.at/@/2023-06-23-random-double.html)
-* [2023-06-22, 19:20:10](https://lobste.rs/s/bqqzyh/coroutines_make_robot_code_easy) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 
 ## [Archives](archives/index.md)
 
