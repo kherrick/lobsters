@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
@@ -11,7 +12,6 @@
 * [2023-06-26, 05:41:55](https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir) - [Why We Need Interoperability and HL7 FHIR](https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/)
 * [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
-* [2023-06-26, 00:01:43](https://lobste.rs/s/b2z7xm/building_custom_mach_o_memory_loader_for) - [Building a Custom Mach-O Memory Loader for macOS - Part 1](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 21:45:31](https://lobste.rs/s/eh6mjq/hypersomnia_multiplayer_top_down) - [Hypersomnia: Multiplayer top-down shooter made from scratch](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights)
 * [2023-06-25, 21:21:00](https://lobste.rs/s/ehevj8/50_50_2010) - [50 in 50 (2010)](https://vimeo.com/25958308)
