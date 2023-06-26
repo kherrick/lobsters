@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 13:50:38",
+      "https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance"
+    ],
+    [
+      "RowPress: Amplifying Read Disturbance in Modern DRAM Chips",
+      "https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 11:51:52",
       "https://lobste.rs/s/wac58n/use_config_store_your_project_configs"
     ],
@@ -137,16 +147,6 @@
     [
       "Hypersomnia: Multiplayer top-down shooter made from scratch",
       "https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 21:21:00",
-      "https://lobste.rs/s/ehevj8/50_50_2010"
-    ],
-    [
-      "50 in 50 (2010)",
-      "https://vimeo.com/25958308"
     ]
   ],
   [
