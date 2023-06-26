@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 11:16:11",
+      "https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0"
+    ],
+    [
+      "A case for ClojureScript 2.0",
+      "https://tonsky.me/blog/clojurescript-2/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 10:33:22",
       "https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput"
     ],
@@ -217,16 +227,6 @@
     [
       "Raku is pretty damn Cool",
       "https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 06:14:41",
-      "https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh"
-    ],
-    [
-      "Oils 0.16.0 - Breaking Renames and YSH",
-      "https://www.oilshell.org/blog/2023/06/release-0.16.0.html"
     ]
   ],
   [
