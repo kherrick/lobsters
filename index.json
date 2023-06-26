@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-26, 01:52:01",
+      "https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility"
+    ],
+    [
+      "C++ standard library ABI compatibility",
+      "https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 00:01:43",
+      "https://lobste.rs/s/b2z7xm/building_custom_mach_o_memory_loader_for"
+    ],
+    [
+      "Building a Custom Mach-O Memory Loader for macOS - Part 1",
+      "https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 23:01:44",
       "https://lobste.rs/s/raoy5h/principles_flix_programming_language"
     ],
@@ -47,16 +67,6 @@
     [
       "An Introduction to Parser Combinators",
       "https://blog.varunramesh.net/posts/intro-parser-combinators/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 20:53:42",
-      "https://lobste.rs/s/2eljsl/flunct_well_typed_fluent_apis_sml"
-    ],
-    [
-      "Flunct: Well-typed, fluent APIs in SML",
-      "https://github.com/OriRoth/flunct"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Bootstrapping: The once and future compiler (2022)",
       "https://www.youtube.com/watch?v=oUIjG-y4zaA"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 12:49:22",
-      "https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach"
-    ],
-    [
-      "From Theory to Systems: A Grounded Approach to Programming Language Education (2019)",
-      "https://arxiv.org/abs/1904.06750"
     ]
   ],
   [
