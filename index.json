@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 19:38:31",
+      "https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github"
+    ],
+    [
+      "Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows",
+      "https://determinate.systems/posts/magic-nix-cache"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 17:57:19",
       "https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go"
     ],
@@ -47,16 +57,6 @@
     [
       "Deprecation of bdist_egg uploads to PyPI",
       "https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 16:31:36",
-      "https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories"
-    ],
-    [
-      "Solving Undefined Behavior in Factories with constinit from C++20",
-      "https://www.cppstories.com/2023/ub-factory-constinit/"
     ]
   ],
   [
