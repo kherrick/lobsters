@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 05:41:55](https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir) - [Why We Need Interoperability and HL7 FHIR](https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/)
 * [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-26, 00:01:43](https://lobste.rs/s/b2z7xm/building_custom_mach_o_memory_loader_for) - [Building a Custom Mach-O Memory Loader for macOS - Part 1](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
@@ -14,7 +15,6 @@
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
 * [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
 * [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
-* [2023-06-25, 14:43:14](https://lobste.rs/s/2ffyzv/bootstrapping_once_future_compiler_2022) - [Bootstrapping: The once and future compiler (2022)](https://www.youtube.com/watch?v=oUIjG-y4zaA)
 * [2023-06-25, 12:49:22](https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach) - [From Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:48:28](https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming) - [Tips for concurrent programming](http://catern.com/concur.html)
 * [2023-06-25, 09:43:58](https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor) - [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
