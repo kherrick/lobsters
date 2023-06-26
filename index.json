@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-26, 17:57:19",
+      "https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go"
+    ],
+    [
+      "tailer: a rewrite of the CLI tool \"spacer\" in Go",
+      "https://github.com/hionay/tailer"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 17:53:49",
+      "https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml"
+    ],
+    [
+      "clang-uml: Customizable automatic UML diagram generator for C++ based on Clang",
+      "https://github.com/bkryza/clang-uml"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 17:28:24",
       "https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-06-26, 06:37:17",
-      "https://lobste.rs/s/tvrzkz/k8s_on_aws_installing_kubeadm_on_ec2_using"
-    ],
-    [
-      "k8s on AWS: installing kubeadm on EC2 using terraform and ansible",
-      "https://www.youtube.com/watch?v=Cr6oLkCAwiA"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 05:41:55",
       "https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir"
     ],
@@ -167,16 +177,6 @@
     [
       "Petnames: A humane approach to secure, decentralized naming",
       "https://spritely.institute/static/papers/petnames.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 21:45:31",
-      "https://lobste.rs/s/eh6mjq/hypersomnia_multiplayer_top_down"
-    ],
-    [
-      "Hypersomnia: Multiplayer top-down shooter made from scratch",
-      "https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights"
     ]
   ],
   [
