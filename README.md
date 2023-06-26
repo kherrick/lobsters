@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
 * [2023-06-26, 17:53:49](https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml) - [clang-uml: Customizable automatic UML diagram generator for C++ based on Clang](https://github.com/bkryza/clang-uml)
 * [2023-06-26, 17:28:24](https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 * [2023-06-26, 17:16:14](https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different) - [Noticing when an app has servers in different regions](https://blog.jonlu.ca/posts/snappy-internet?ref=ls)
 * [2023-06-26, 16:35:33](https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi) - [Deprecation of bdist_egg uploads to PyPI](https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/)
-* [2023-06-26, 16:31:36](https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories) - [Solving Undefined Behavior in Factories with constinit from C++20](https://www.cppstories.com/2023/ub-factory-constinit/)
 * [2023-06-26, 16:30:34](https://lobste.rs/s/aakviw/finite_state_machine_with_std_variant) - [Finite State Machine with std::variant](https://www.cppstories.com/2023/finite-state-machines-variant-cpp/)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)

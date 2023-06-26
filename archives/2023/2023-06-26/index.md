@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
 * [2023-06-26, 17:53:49](https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml) - [clang-uml: Customizable automatic UML diagram generator for C++ based on Clang](https://github.com/bkryza/clang-uml)
 * [2023-06-26, 17:28:24](https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
