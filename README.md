@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 22:57:15](https://lobste.rs/s/tkokfx/lost_transit_debugging_dropped_packets) - [Lost in transit: debugging dropped packets from negative header lengths](https://blog.cloudflare.com/lost-in-transit-debugging-dropped-packets-from-negative-header-lengths/)
 * [2023-06-26, 22:00:15](https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 * [2023-06-26, 21:00:49](https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite) - [Higher rank polymorphism despite monomorphization](https://cohost.org/prophet/post/1757240-higher-rank-polymorp)
 * [2023-06-26, 20:06:26](https://lobste.rs/s/oldzzi/nvk_update_enabling_new_extensions) - [NVK update: Enabling new extensions, conformance status & more](https://www.collabora.com/news-and-blog/news-and-events/nvk-update-enabling-new-extensions-conformance-status-more.html)
@@ -20,7 +21,6 @@
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 21:20:20](https://lobste.rs/s/xe376v/introduction_parser_combinators) - [An Introduction to Parser Combinators](https://blog.varunramesh.net/posts/intro-parser-combinators/)
-* [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
