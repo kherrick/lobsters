@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 21:00:49](https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite) - [Higher rank polymorphism despite monomorphization](https://cohost.org/prophet/post/1757240-higher-rank-polymorp)
 * [2023-06-26, 20:06:26](https://lobste.rs/s/oldzzi/nvk_update_enabling_new_extensions) - [NVK update: Enabling new extensions, conformance status & more](https://www.collabora.com/news-and-blog/news-and-events/nvk-update-enabling-new-extensions-conformance-status-more.html)
 * [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
-* [2023-06-26, 17:53:49](https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml) - [clang-uml: Customizable automatic UML diagram generator for C++ based on Clang](https://github.com/bkryza/clang-uml)
 * [2023-06-26, 17:28:24](https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 * [2023-06-26, 17:16:14](https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different) - [Noticing when an app has servers in different regions](https://blog.jonlu.ca/posts/snappy-internet?ref=ls)
 * [2023-06-26, 16:35:33](https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi) - [Deprecation of bdist_egg uploads to PyPI](https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/)
