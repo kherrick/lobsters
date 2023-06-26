@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 09:32:40",
+      "https://lobste.rs/s/0foj6i/hiding_memory_latency_with_order_cpu"
+    ],
+    [
+      "Hiding Memory Latency With In-Order CPU Cores OR How Compilers Optimize Your Code",
+      "https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 09:20:21",
       "https://lobste.rs/s/pgfgzv/screenshots"
     ],
@@ -177,16 +187,6 @@
     [
       "Tips for concurrent programming",
       "http://catern.com/concur.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 09:43:58",
-      "https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor"
-    ],
-    [
-      "Tips for writing Rails tasks with Thor instead of Rake",
-      "https://mattbrictson.com/blog/rails-tasks-with-thor"
     ]
   ],
   [
