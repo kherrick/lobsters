@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-26, 16:44:09",
+      "https://lobste.rs/s/xzfcvv/every_factorial_is_power"
+    ],
+    [
+      "Every factorial is a power",
+      "https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 16:35:33",
+      "https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi"
+    ],
+    [
+      "Deprecation of bdist_egg uploads to PyPI",
+      "https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 16:31:36",
       "https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-25, 16:25:29",
-      "https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about"
-    ],
-    [
-      "Everything You Never Wanted to Know About CMake (Redux)",
-      "https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 08:39:03",
       "https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake"
     ],
@@ -237,16 +247,6 @@
     [
       "Time is not a synchronization primitive",
       "https://xeiaso.net/blog/nosleep"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 20:12:13",
-      "https://lobste.rs/s/nqahtz/xml_is_future"
-    ],
-    [
-      "XML is the future",
-      "https://www.bitecode.dev/p/hype-cycles"
     ]
   ]
 ]
