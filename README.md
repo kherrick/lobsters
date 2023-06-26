@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-26, 00:01:43](https://lobste.rs/s/b2z7xm/building_custom_mach_o_memory_loader_for) - [Building a Custom Mach-O Memory Loader for macOS - Part 1](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
 * [2023-06-25, 23:01:44](https://lobste.rs/s/raoy5h/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://youtu.be/RNZeAmp1EaA)
@@ -10,7 +11,6 @@
 * [2023-06-25, 20:53:42](https://lobste.rs/s/2eljsl/flunct_well_typed_fluent_apis_sml) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)
-* [2023-06-25, 18:18:18](https://lobste.rs/s/0qasjz/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
 * [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
 * [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
