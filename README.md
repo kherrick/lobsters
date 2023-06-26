@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 09:32:40](https://lobste.rs/s/0foj6i/hiding_memory_latency_with_order_cpu) - [Hiding Memory Latency With In-Order CPU Cores OR How Compilers Optimize Your Code](https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 06:46:35](https://lobste.rs/s/juqvrb/sqlite_for_beginners_journal_modes) - [SQLite For Beginners: Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-26, 06:37:17](https://lobste.rs/s/tvrzkz/k8s_on_aws_installing_kubeadm_on_ec2_using) - [k8s on AWS: installing kubeadm on EC2 using terraform and ansible](https://www.youtube.com/watch?v=Cr6oLkCAwiA)
@@ -18,7 +19,6 @@
 * [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
 * [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 * [2023-06-25, 12:48:28](https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming) - [Tips for concurrent programming](http://catern.com/concur.html)
-* [2023-06-25, 09:43:58](https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor) - [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
 * [2023-06-25, 06:14:41](https://lobste.rs/s/5awjtm/oils_0_16_0_breaking_renames_ysh) - [Oils 0.16.0 - Breaking Renames and YSH](https://www.oilshell.org/blog/2023/06/release-0.16.0.html)

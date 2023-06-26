@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 09:32:40](https://lobste.rs/s/0foj6i/hiding_memory_latency_with_order_cpu) - [Hiding Memory Latency With In-Order CPU Cores OR How Compilers Optimize Your Code](https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 06:46:35](https://lobste.rs/s/juqvrb/sqlite_for_beginners_journal_modes) - [SQLite For Beginners: Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-26, 06:37:17](https://lobste.rs/s/tvrzkz/k8s_on_aws_installing_kubeadm_on_ec2_using) - [k8s on AWS: installing kubeadm on EC2 using terraform and ansible](https://www.youtube.com/watch?v=Cr6oLkCAwiA)
