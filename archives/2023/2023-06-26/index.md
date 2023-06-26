@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 23:47:10](https://lobste.rs/s/ufhmy0/lofi_local_first_meetup_5_tuesday_at_12pm) - [LoFI (Local-First) Meetup #5 Tuesday at 12PM ET](https://twitter.com/founderYonz/status/1669114460072472579?s=20)
 * [2023-06-26, 22:57:15](https://lobste.rs/s/tkokfx/lost_transit_debugging_dropped_packets) - [Lost in transit: debugging dropped packets from negative header lengths](https://blog.cloudflare.com/lost-in-transit-debugging-dropped-packets-from-negative-header-lengths/)
 * [2023-06-26, 22:00:15](https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 * [2023-06-26, 21:00:49](https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite) - [Higher rank polymorphism despite monomorphization](https://cohost.org/prophet/post/1757240-higher-rank-polymorp)
