@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 10:33:22",
+      "https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput"
+    ],
+    [
+      "Optimizing a ring buffer for throughput (2021)",
+      "https://rigtorp.se/ringbuffer/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 10:02:01",
       "https://lobste.rs/s/sajn1j/what_are_you_doing_this_week"
     ],
@@ -97,16 +107,6 @@
     [
       "Building a Custom Mach-O Memory Loader for macOS - Part 1",
       "https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 23:01:44",
-      "https://lobste.rs/s/raoy5h/principles_flix_programming_language"
-    ],
-    [
-      "The Principles of the Flix Programming Language",
-      "https://youtu.be/RNZeAmp1EaA"
     ]
   ],
   [
