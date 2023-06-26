@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 20:06:26](https://lobste.rs/s/oldzzi/nvk_update_enabling_new_extensions) - [NVK update: Enabling new extensions, conformance status & more](https://www.collabora.com/news-and-blog/news-and-events/nvk-update-enabling-new-extensions-conformance-status-more.html)
 * [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
 * [2023-06-26, 17:53:49](https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml) - [clang-uml: Customizable automatic UML diagram generator for C++ based on Clang](https://github.com/bkryza/clang-uml)
@@ -13,7 +14,6 @@
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
 * [2023-06-26, 09:57:42](https://lobste.rs/s/jgoupz/axp64_2210_installation_media) - [AXP64 2210 Installation Media Reconstruction](https://virtuallyfun.com/2023/06/26/axp64-2210-installation-media-reconstruction/)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
-* [2023-06-26, 06:46:35](https://lobste.rs/s/juqvrb/sqlite_for_beginners_journal_modes) - [SQLite For Beginners: Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-26, 05:41:55](https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir) - [Why We Need Interoperability and HL7 FHIR](https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/)
 * [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)

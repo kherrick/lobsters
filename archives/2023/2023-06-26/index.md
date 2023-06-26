@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 20:06:26](https://lobste.rs/s/oldzzi/nvk_update_enabling_new_extensions) - [NVK update: Enabling new extensions, conformance status & more](https://www.collabora.com/news-and-blog/news-and-events/nvk-update-enabling-new-extensions-conformance-status-more.html)
 * [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
 * [2023-06-26, 17:53:49](https://lobste.rs/s/bvwr0v/clang_uml_customizable_automatic_uml) - [clang-uml: Customizable automatic UML diagram generator for C++ based on Clang](https://github.com/bkryza/clang-uml)
