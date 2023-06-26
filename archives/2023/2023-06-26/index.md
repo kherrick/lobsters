@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
 * [2023-06-26, 09:57:42](https://lobste.rs/s/jgoupz/axp64_2210_installation_media) - [AXP64 2210 Installation Media Reconstruction](https://virtuallyfun.com/2023/06/26/axp64-2210-installation-media-reconstruction/)
