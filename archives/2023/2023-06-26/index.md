@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 16:31:36](https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories) - [Solving Undefined Behavior in Factories with constinit from C++20](https://www.cppstories.com/2023/ub-factory-constinit/)
+* [2023-06-26, 16:30:34](https://lobste.rs/s/aakviw/finite_state_machine_with_std_variant) - [Finite State Machine with std::variant](https://www.cppstories.com/2023/finite-state-machines-variant-cpp/)
 * [2023-06-26, 13:50:38](https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
