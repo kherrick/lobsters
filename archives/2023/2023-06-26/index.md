@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 22:00:15](https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 * [2023-06-26, 21:00:49](https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite) - [Higher rank polymorphism despite monomorphization](https://cohost.org/prophet/post/1757240-higher-rank-polymorp)
 * [2023-06-26, 20:06:26](https://lobste.rs/s/oldzzi/nvk_update_enabling_new_extensions) - [NVK update: Enabling new extensions, conformance status & more](https://www.collabora.com/news-and-blog/news-and-events/nvk-update-enabling-new-extensions-conformance-status-more.html)
 * [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
