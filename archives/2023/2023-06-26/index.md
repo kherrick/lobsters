@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
 * [2023-06-26, 09:57:42](https://lobste.rs/s/jgoupz/axp64_2210_installation_media) - [AXP64 2210 Installation Media Reconstruction](https://virtuallyfun.com/2023/06/26/axp64-2210-installation-media-reconstruction/)
 * [2023-06-26, 09:32:40](https://lobste.rs/s/0foj6i/hiding_memory_latency_with_order_cpu) - [Hiding Memory Latency With In-Order CPU Cores OR How Compilers Optimize Your Code](https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/)
