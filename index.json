@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 22:00:15",
+      "https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows"
+    ],
+    [
+      "Modern TLS/SSL on 16-bit Windows",
+      "https://www.dialup.net/wingpt/tls.html"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 21:00:49",
       "https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite"
     ],
@@ -197,16 +207,6 @@
     [
       "cargo-nocode: Write nothing; deploy nowhere",
       "https://github.com/orhun/cargo-nocode"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 20:17:54",
-      "https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen"
-    ],
-    [
-      "argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total",
-      "https://codeberg.org/valpackett/argon2ian"
     ]
   ],
   [
