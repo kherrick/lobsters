@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 16:44:09](https://lobste.rs/s/xzfcvv/every_factorial_is_power) - [Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
+* [2023-06-26, 16:35:33](https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi) - [Deprecation of bdist_egg uploads to PyPI](https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/)
 * [2023-06-26, 16:31:36](https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories) - [Solving Undefined Behavior in Factories with constinit from C++20](https://www.cppstories.com/2023/ub-factory-constinit/)
 * [2023-06-26, 16:30:34](https://lobste.rs/s/aakviw/finite_state_machine_with_std_variant) - [Finite State Machine with std::variant](https://www.cppstories.com/2023/finite-state-machines-variant-cpp/)
 * [2023-06-26, 13:50:38](https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 16:44:09](https://lobste.rs/s/xzfcvv/every_factorial_is_power) - [Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
+* [2023-06-26, 16:35:33](https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi) - [Deprecation of bdist_egg uploads to PyPI](https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/)
 * [2023-06-26, 16:31:36](https://lobste.rs/s/tjeggg/solving_undefined_behavior_factories) - [Solving Undefined Behavior in Factories with constinit from C++20](https://www.cppstories.com/2023/ub-factory-constinit/)
 * [2023-06-26, 16:30:34](https://lobste.rs/s/aakviw/finite_state_machine_with_std_variant) - [Finite State Machine with std::variant](https://www.cppstories.com/2023/finite-state-machines-variant-cpp/)
 * [2023-06-26, 13:50:38](https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
@@ -20,11 +22,9 @@
 * [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
-* [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
 * [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
-* [2023-06-24, 20:12:13](https://lobste.rs/s/nqahtz/xml_is_future) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 
 ## [Archives](archives/index.md)
 
