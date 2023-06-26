@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-06-25, 20:53:42",
+      "https://lobste.rs/s/2eljsl/flunct_well_typed_fluent_apis_sml"
+    ],
+    [
+      "Flunct: Well-typed, fluent APIs in SML",
+      "https://github.com/OriRoth/flunct"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 20:39:44",
       "https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy"
     ],
@@ -167,16 +177,6 @@
     [
       "Tips for writing Rails tasks with Thor instead of Rake",
       "https://mattbrictson.com/blog/rails-tasks-with-thor"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 09:08:55",
-      "https://lobste.rs/s/rhgftu/amazon_prime_video_s_microservices_move"
-    ],
-    [
-      "Amazon Prime Video’s microservices move doesn’t lead to a monolith after all",
-      "https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/"
     ]
   ],
   [
