@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 06:46:35](https://lobste.rs/s/juqvrb/sqlite_for_beginners_journal_modes) - [SQLite For Beginners: Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-26, 06:37:17](https://lobste.rs/s/tvrzkz/k8s_on_aws_installing_kubeadm_on_ec2_using) - [k8s on AWS: installing kubeadm on EC2 using terraform and ansible](https://www.youtube.com/watch?v=Cr6oLkCAwiA)
 * [2023-06-26, 05:41:55](https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir) - [Why We Need Interoperability and HL7 FHIR](https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/)
@@ -16,7 +17,6 @@
 * [2023-06-25, 17:36:16](https://lobste.rs/s/eu7zr8/programming_using_only_flake_inputs) - [Programming using only flake inputs](https://discourse.nixos.org/t/29611)
 * [2023-06-25, 16:32:06](https://lobste.rs/s/qy07bo/ranges_c_20) - [Ranges (C++20)](https://euroquis.nl/kde/2023/06/25/ranges.html)
 * [2023-06-25, 16:25:29](https://lobste.rs/s/xahmjb/everything_you_never_wanted_know_about) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
-* [2023-06-25, 12:49:22](https://lobste.rs/s/bdjevo/from_theory_systems_grounded_approach) - [From Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:48:28](https://lobste.rs/s/wr8jxb/tips_for_concurrent_programming) - [Tips for concurrent programming](http://catern.com/concur.html)
 * [2023-06-25, 09:43:58](https://lobste.rs/s/t43hl6/tips_for_writing_rails_tasks_with_thor) - [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
 * [2023-06-25, 08:39:03](https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
