@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-26, 13:50:38](https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
@@ -14,7 +15,6 @@
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 21:45:31](https://lobste.rs/s/eh6mjq/hypersomnia_multiplayer_top_down) - [Hypersomnia: Multiplayer top-down shooter made from scratch](https://github.com/TeamHypersomnia/Hypersomnia#tech-highlights)
-* [2023-06-25, 21:21:00](https://lobste.rs/s/ehevj8/50_50_2010) - [50 in 50 (2010)](https://vimeo.com/25958308)
 * [2023-06-25, 21:20:20](https://lobste.rs/s/xe376v/introduction_parser_combinators) - [An Introduction to Parser Combinators](https://blog.varunramesh.net/posts/intro-parser-combinators/)
 * [2023-06-25, 20:39:44](https://lobste.rs/s/f85ewt/cargo_nocode_write_nothing_deploy) - [cargo-nocode: Write nothing; deploy nowhere](https://github.com/orhun/cargo-nocode)
 * [2023-06-25, 20:17:54](https://lobste.rs/s/4q7nyv/argon2ian_argon2_hash_wasm_for_evergreen) - [argon2ian: the Argon2 hash in Wasm for evergreen browsers and Deno – just 8.5kb total](https://codeberg.org/valpackett/argon2ian)

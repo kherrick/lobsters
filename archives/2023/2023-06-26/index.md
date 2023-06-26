@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 13:50:38](https://lobste.rs/s/ucnqga/rowpress_amplifying_read_disturbance) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
