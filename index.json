@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 17:04:53",
+      "https://lobste.rs/s/ygnzre/performance_benefits_not_null"
+    ],
+    [
+      "Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns",
+      "https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 16:36:22",
       "https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open"
     ],
@@ -237,16 +247,6 @@
     [
       "A case for ClojureScript 2.0",
       "https://tonsky.me/blog/clojurescript-2/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 10:33:22",
-      "https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput"
-    ],
-    [
-      "Optimizing a ring buffer for throughput (2021)",
-      "https://rigtorp.se/ringbuffer/"
     ]
   ]
 ]
