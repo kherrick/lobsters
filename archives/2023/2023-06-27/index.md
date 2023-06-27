@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 15:30:11](https://lobste.rs/s/hcirp6/property_based_testing_against_model_web) - [Property-Based Testing Against a Model of a Web Application](https://concerningquality.com/model-based-testing/)
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:55:38](https://lobste.rs/s/qsst0k/well_known_links_resource) - [A Well-Known Links Resource](https://blog.jim-nielsen.com/2022/well-known-links-resource/)
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
