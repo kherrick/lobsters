@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 23:02:50](https://lobste.rs/s/ppuaxp/finding_best_sine_function_for_nintendo) - [Finding the BEST sine function for Nintendo 64](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 22:11:02](https://lobste.rs/s/donvzl/source_code_for_dragon_64_version) - [Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter](https://github.com/davidlinsley/DragonBasic)
 * [2023-06-27, 22:09:51](https://lobste.rs/s/japoai/awesome_llm_github_curated_repository) - [Awesome-LLM Github- a curated repository of LLModels, papers and evolution](https://github.com/Hannibal046/Awesome-LLM)
 * [2023-06-27, 21:46:17](https://lobste.rs/s/2pupfo/password_game) - [The Password Game](https://neal.fun/password-game/)
@@ -9,7 +10,6 @@
 * [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
 * [2023-06-27, 16:36:22](https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open) - [Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3](https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/)
 * [2023-06-27, 16:18:23](https://lobste.rs/s/f0wvyl/slimbook_is_dead_long_live_slimbook) - [The Slimbook is dead, long live the Slimbook](https://www.dedoimedo.com/computers/slimbook-executive-coming.html)
-* [2023-06-27, 15:42:57](https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with) - [Terraform modules: separate repo with semantic version tags](https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4)
 * [2023-06-27, 15:30:11](https://lobste.rs/s/hcirp6/property_based_testing_against_model_web) - [Property-Based Testing Against a Model of a Web Application](https://concerningquality.com/model-based-testing/)
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
