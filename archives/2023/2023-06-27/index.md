@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
 * [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
 * [2023-06-27, 07:27:29](https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky) - [Seven Reasons You Should Not Ignore Flaky Tests](https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/)

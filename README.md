@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
 * [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
 * [2023-06-27, 07:27:29](https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky) - [Seven Reasons You Should Not Ignore Flaky Tests](https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/)
@@ -24,7 +25,6 @@
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
-* [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
 
 ## [Archives](archives/index.md)
 
