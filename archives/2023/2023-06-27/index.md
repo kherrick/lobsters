@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:55:38](https://lobste.rs/s/qsst0k/well_known_links_resource) - [A Well-Known Links Resource](https://blog.jim-nielsen.com/2022/well-known-links-resource/)
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 * [2023-06-27, 12:16:47](https://lobste.rs/s/ozatya/building_type_safe_graphql_schemas_with) - [Building Type-safe GraphQL Schemas with TypeScript](https://grafbase.com/blog/why-we-added-typescript-configuration-support)

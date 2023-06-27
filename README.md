@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:55:38](https://lobste.rs/s/qsst0k/well_known_links_resource) - [A Well-Known Links Resource](https://blog.jim-nielsen.com/2022/well-known-links-resource/)
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 * [2023-06-27, 12:16:47](https://lobste.rs/s/ozatya/building_type_safe_graphql_schemas_with) - [Building Type-safe GraphQL Schemas with TypeScript](https://grafbase.com/blog/why-we-added-typescript-configuration-support)
@@ -18,7 +19,6 @@
 * [2023-06-26, 21:00:49](https://lobste.rs/s/pk4y4w/higher_rank_polymorphism_despite) - [Higher rank polymorphism despite monomorphization](https://cohost.org/prophet/post/1757240-higher-rank-polymorp)
 * [2023-06-26, 19:38:31](https://lobste.rs/s/q4hsfg/introducing_magic_nix_cache_github) - [Introducing the Magic Nix Cache, a GitHub Action for speeding up Nix-related workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
-* [2023-06-26, 17:28:24](https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 * [2023-06-26, 17:16:14](https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different) - [Noticing when an app has servers in different regions](https://blog.jonlu.ca/posts/snappy-internet?ref=ls)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
