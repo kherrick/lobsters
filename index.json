@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-27, 05:27:57",
+      "https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming"
+    ],
+    [
+      "FP^2: Fully in-Place Functional Programming",
+      "https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 05:23:08",
+      "https://lobste.rs/s/nkuil7/gtlds_new_clothes_look_at_centralization"
+    ],
+    [
+      "The gTLDs' New Clothes - A Look at Centralization in Naked Domains",
+      "https://www.netmeister.org/blog/naked-domains.html"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 03:54:04",
       "https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook"
     ],
@@ -207,26 +227,6 @@
     [
       "Petnames: A humane approach to secure, decentralized naming",
       "https://spritely.institute/static/papers/petnames.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 21:20:20",
-      "https://lobste.rs/s/xe376v/introduction_parser_combinators"
-    ],
-    [
-      "An Introduction to Parser Combinators",
-      "https://blog.varunramesh.net/posts/intro-parser-combinators/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 08:39:03",
-      "https://lobste.rs/s/slyx8h/web_based_cryptography_is_always_snake"
-    ],
-    [
-      "Web-based cryptography is always snake oil",
-      "https://www.devever.net/~hl/webcrypto"
     ]
   ],
   [
