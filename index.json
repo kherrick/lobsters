@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 13:55:38",
+      "https://lobste.rs/s/qsst0k/well_known_links_resource"
+    ],
+    [
+      "A Well-Known Links Resource",
+      "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 13:02:12",
       "https://lobste.rs/s/pt5k7b/you_should_break_law_demeter"
     ],
@@ -187,16 +197,6 @@
     [
       "Noticing when an app has servers in different regions",
       "https://blog.jonlu.ca/posts/snappy-internet?ref=ls"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 16:35:33",
-      "https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi"
-    ],
-    [
-      "Deprecation of bdist_egg uploads to PyPI",
-      "https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/"
     ]
   ],
   [
