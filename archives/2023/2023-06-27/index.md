@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
+* [2023-06-27, 07:27:29](https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky) - [Seven Reasons You Should Not Ignore Flaky Tests](https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)

@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
+* [2023-06-27, 07:27:29](https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky) - [Seven Reasons You Should Not Ignore Flaky Tests](https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
-* [2023-06-27, 05:23:08](https://lobste.rs/s/nkuil7/gtlds_new_clothes_look_at_centralization) - [The gTLDs' New Clothes - A Look at Centralization in Naked Domains](https://www.netmeister.org/blog/naked-domains.html)
 * [2023-06-27, 03:54:04](https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook) - [The Self-Supervised Learning Cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
 * [2023-06-26, 22:57:15](https://lobste.rs/s/tkokfx/lost_transit_debugging_dropped_packets) - [Lost in transit: debugging dropped packets from negative header lengths](https://blog.cloudflare.com/lost-in-transit-debugging-dropped-packets-from-negative-header-lengths/)
 * [2023-06-26, 22:00:15](https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
@@ -24,7 +25,6 @@
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
-* [2023-06-25, 04:03:00](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 
 ## [Archives](archives/index.md)
 
