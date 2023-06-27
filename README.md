@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
 * [2023-06-27, 05:23:08](https://lobste.rs/s/nkuil7/gtlds_new_clothes_look_at_centralization) - [The gTLDs' New Clothes - A Look at Centralization in Naked Domains](https://www.netmeister.org/blog/naked-domains.html)
 * [2023-06-27, 03:54:04](https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook) - [The Self-Supervised Learning Cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
@@ -20,7 +21,6 @@
 * [2023-06-26, 09:57:42](https://lobste.rs/s/jgoupz/axp64_2210_installation_media) - [AXP64 2210 Installation Media Reconstruction](https://virtuallyfun.com/2023/06/26/axp64-2210-installation-media-reconstruction/)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 05:41:55](https://lobste.rs/s/x4panr/why_we_need_interoperability_hl7_fhir) - [Why We Need Interoperability and HL7 FHIR](https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/)
-* [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 * [2023-06-25, 08:04:27](https://lobste.rs/s/wexiaq/raku_is_pretty_damn_cool) - [Raku is pretty damn Cool](https://felix-knorr.net/posts/2023-06-24-raku-is-awesome.html)
