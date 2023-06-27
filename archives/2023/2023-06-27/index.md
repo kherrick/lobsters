@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 23:02:50](https://lobste.rs/s/ppuaxp/finding_best_sine_function_for_nintendo) - [Finding the BEST sine function for Nintendo 64](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 22:11:02](https://lobste.rs/s/donvzl/source_code_for_dragon_64_version) - [Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter](https://github.com/davidlinsley/DragonBasic)
 * [2023-06-27, 22:09:51](https://lobste.rs/s/japoai/awesome_llm_github_curated_repository) - [Awesome-LLM Github- a curated repository of LLModels, papers and evolution](https://github.com/Hannibal046/Awesome-LLM)
