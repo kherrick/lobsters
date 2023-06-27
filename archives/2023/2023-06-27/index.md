@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
 * [2023-06-27, 16:36:22](https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open) - [Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3](https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/)
 * [2023-06-27, 16:18:23](https://lobste.rs/s/f0wvyl/slimbook_is_dead_long_live_slimbook) - [The Slimbook is dead, long live the Slimbook](https://www.dedoimedo.com/computers/slimbook-executive-coming.html)
 * [2023-06-27, 15:42:57](https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with) - [Terraform modules: separate repo with semantic version tags](https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
 * [2023-06-27, 16:36:22](https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open) - [Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3](https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/)
 * [2023-06-27, 16:18:23](https://lobste.rs/s/f0wvyl/slimbook_is_dead_long_live_slimbook) - [The Slimbook is dead, long live the Slimbook](https://www.dedoimedo.com/computers/slimbook-executive-coming.html)
 * [2023-06-27, 15:42:57](https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with) - [Terraform modules: separate repo with semantic version tags](https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4)
@@ -24,7 +25,6 @@
 * [2023-06-26, 17:16:14](https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different) - [Noticing when an app has servers in different regions](https://blog.jonlu.ca/posts/snappy-internet?ref=ls)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
-* [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 
 ## [Archives](archives/index.md)
 
