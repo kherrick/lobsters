@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 18:00:51](https://lobste.rs/s/xvbjol/when_numpy_is_too_slow) - [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)

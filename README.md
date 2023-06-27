@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 18:00:51](https://lobste.rs/s/xvbjol/when_numpy_is_too_slow) - [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
@@ -14,7 +15,6 @@
 * [2023-06-27, 11:58:04](https://lobste.rs/s/qmgfck/spatial_cypher_cheat_sheet_resource_for) - [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
-* [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
