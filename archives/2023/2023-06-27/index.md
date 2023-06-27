@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 18:00:51](https://lobste.rs/s/xvbjol/when_numpy_is_too_slow) - [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
+* [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
 * [2023-06-27, 16:36:22](https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open) - [Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3](https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/)
 * [2023-06-27, 16:18:23](https://lobste.rs/s/f0wvyl/slimbook_is_dead_long_live_slimbook) - [The Slimbook is dead, long live the Slimbook](https://www.dedoimedo.com/computers/slimbook-executive-coming.html)
