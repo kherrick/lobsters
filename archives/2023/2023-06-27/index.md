@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 22:11:02](https://lobste.rs/s/donvzl/source_code_for_dragon_64_version) - [Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter](https://github.com/davidlinsley/DragonBasic)
+* [2023-06-27, 22:09:51](https://lobste.rs/s/japoai/awesome_llm_github_curated_repository) - [Awesome-LLM Github- a curated repository of LLModels, papers and evolution](https://github.com/Hannibal046/Awesome-LLM)
+* [2023-06-27, 21:46:17](https://lobste.rs/s/2pupfo/password_game) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 18:00:51](https://lobste.rs/s/xvbjol/when_numpy_is_too_slow) - [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
