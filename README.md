@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 12:16:47](https://lobste.rs/s/ozatya/building_type_safe_graphql_schemas_with) - [Building Type-safe GraphQL Schemas with TypeScript](https://grafbase.com/blog/why-we-added-typescript-configuration-support)
 * [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 * [2023-06-27, 11:58:04](https://lobste.rs/s/qmgfck/spatial_cypher_cheat_sheet_resource_for) - [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
@@ -9,7 +10,6 @@
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
-* [2023-06-27, 05:23:08](https://lobste.rs/s/nkuil7/gtlds_new_clothes_look_at_centralization) - [The gTLDs' New Clothes - A Look at Centralization in Naked Domains](https://www.netmeister.org/blog/naked-domains.html)
 * [2023-06-27, 03:54:04](https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook) - [The Self-Supervised Learning Cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
 * [2023-06-26, 22:57:15](https://lobste.rs/s/tkokfx/lost_transit_debugging_dropped_packets) - [Lost in transit: debugging dropped packets from negative header lengths](https://blog.cloudflare.com/lost-in-transit-debugging-dropped-packets-from-negative-header-lengths/)
 * [2023-06-26, 22:00:15](https://lobste.rs/s/wlroig/modern_tls_ssl_on_16_bit_windows) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
