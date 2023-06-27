@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
+* [2023-06-27, 11:58:04](https://lobste.rs/s/qmgfck/spatial_cypher_cheat_sheet_resource_for) - [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
 * [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
@@ -17,13 +19,11 @@
 * [2023-06-26, 17:28:24](https://lobste.rs/s/2trkvj/emacsconf_2023_call_for_participation) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 * [2023-06-26, 17:16:14](https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different) - [Noticing when an app has servers in different regions](https://blog.jonlu.ca/posts/snappy-internet?ref=ls)
 * [2023-06-26, 16:35:33](https://lobste.rs/s/btitxh/deprecation_bdist_egg_uploads_pypi) - [Deprecation of bdist_egg uploads to PyPI](https://blog.pypi.org/posts/2023-06-26-deprecate-egg-uploads/)
-* [2023-06-26, 16:30:34](https://lobste.rs/s/aakviw/finite_state_machine_with_std_variant) - [Finite State Machine with std::variant](https://www.cppstories.com/2023/finite-state-machines-variant-cpp/)
 * [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
-* [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
 * [2023-06-25, 22:08:13](https://lobste.rs/s/hdplee/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://spritely.institute/static/papers/petnames.html)
 
 ## [Archives](archives/index.md)

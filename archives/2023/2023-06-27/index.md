@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
+* [2023-06-27, 11:58:04](https://lobste.rs/s/qmgfck/spatial_cypher_cheat_sheet_resource_for) - [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
 * [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
