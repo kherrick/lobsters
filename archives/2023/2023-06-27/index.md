@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-27](index.md)
+
+* [2023-06-27, 03:54:04](https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook) - [The Self-Supervised Learning Cookbook](https://ai.facebook.com/blog/self-supervised-learning-practical-guide/)
