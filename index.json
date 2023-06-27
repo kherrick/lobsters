@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-27, 16:36:22",
+      "https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open"
+    ],
+    [
+      "Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3",
+      "https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 16:18:23",
+      "https://lobste.rs/s/f0wvyl/slimbook_is_dead_long_live_slimbook"
+    ],
+    [
+      "The Slimbook is dead, long live the Slimbook",
+      "https://www.dedoimedo.com/computers/slimbook-executive-coming.html"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 15:42:57",
       "https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with"
     ],
@@ -227,26 +247,6 @@
     [
       "Optimizing a ring buffer for throughput (2021)",
       "https://rigtorp.se/ringbuffer/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 10:02:01",
-      "https://lobste.rs/s/sajn1j/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/sajn1j/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 09:20:21",
-      "https://lobste.rs/s/pgfgzv/screenshots"
-    ],
-    [
-      "Screenshots",
-      "https://sebastiandedeyne.com/screenshots/"
     ]
   ]
 ]
