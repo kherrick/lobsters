@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
 * [2023-06-27, 05:23:08](https://lobste.rs/s/nkuil7/gtlds_new_clothes_look_at_centralization) - [The gTLDs' New Clothes - A Look at Centralization in Naked Domains](https://www.netmeister.org/blog/naked-domains.html)
@@ -18,7 +19,6 @@
 * [2023-06-26, 11:16:11](https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0) - [A case for ClojureScript 2.0](https://tonsky.me/blog/clojurescript-2/)
 * [2023-06-26, 10:33:22](https://lobste.rs/s/u5pdid/optimizing_ring_buffer_for_throughput) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-26, 10:02:01](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sajn1j/what_are_you_doing_this_week)
-* [2023-06-26, 09:57:42](https://lobste.rs/s/jgoupz/axp64_2210_installation_media) - [AXP64 2210 Installation Media Reconstruction](https://virtuallyfun.com/2023/06/26/axp64-2210-installation-media-reconstruction/)
 * [2023-06-26, 09:20:21](https://lobste.rs/s/pgfgzv/screenshots) - [Screenshots](https://sebastiandedeyne.com/screenshots/)
 * [2023-06-26, 05:32:52](https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy) - [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/integration.html)
 * [2023-06-26, 01:52:01](https://lobste.rs/s/vbi95d/c_standard_library_abi_compatibility) - [C++ standard library ABI compatibility](https://maskray.me/blog/2023-06-25-c++-standard-library-abi-compatibility)
