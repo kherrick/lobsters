@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-27, 18:00:51",
+      "https://lobste.rs/s/xvbjol/when_numpy_is_too_slow"
+    ],
+    [
+      "When NumPy is too slow",
+      "https://pythonspeed.com/articles/numpy-is-slow/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 17:58:13",
+      "https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from"
+    ],
+    [
+      "Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022",
+      "https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 17:04:53",
       "https://lobste.rs/s/ygnzre/performance_benefits_not_null"
     ],
@@ -57,16 +77,6 @@
     [
       "Tildes",
       "https://gitlab.com/tildes/tildes/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 13:55:38",
-      "https://lobste.rs/s/qsst0k/well_known_links_resource"
-    ],
-    [
-      "A Well-Known Links Resource",
-      "https://blog.jim-nielsen.com/2022/well-known-links-resource/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "FP^2: Fully in-Place Functional Programming",
       "https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 03:54:04",
-      "https://lobste.rs/s/hv6zvt/self_supervised_learning_cookbook"
-    ],
-    [
-      "The Self-Supervised Learning Cookbook",
-      "https://ai.facebook.com/blog/self-supervised-learning-practical-guide/"
     ]
   ],
   [
