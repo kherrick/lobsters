@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 15:42:57](https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with) - [Terraform modules: separate repo with semantic version tags](https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4)
 * [2023-06-27, 15:30:11](https://lobste.rs/s/hcirp6/property_based_testing_against_model_web) - [Property-Based Testing Against a Model of a Web Application](https://concerningquality.com/model-based-testing/)
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:55:38](https://lobste.rs/s/qsst0k/well_known_links_resource) - [A Well-Known Links Resource](https://blog.jim-nielsen.com/2022/well-known-links-resource/)

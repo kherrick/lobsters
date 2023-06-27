@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-27, 15:42:57](https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with) - [Terraform modules: separate repo with semantic version tags](https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4)
 * [2023-06-27, 15:30:11](https://lobste.rs/s/hcirp6/property_based_testing_against_model_web) - [Property-Based Testing Against a Model of a Web Application](https://concerningquality.com/model-based-testing/)
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:55:38](https://lobste.rs/s/qsst0k/well_known_links_resource) - [A Well-Known Links Resource](https://blog.jim-nielsen.com/2022/well-known-links-resource/)
@@ -10,7 +11,6 @@
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 08:21:46](https://lobste.rs/s/vazubp/ghc_s_runtime_system) - [GHC's Runtime System](https://youtube.com/video/zOFrGSQf9eo)
 * [2023-06-27, 07:30:03](https://lobste.rs/s/nmyaq1/modern_mobile_rendering_hypehype) - [Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
-* [2023-06-27, 07:27:29](https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky) - [Seven Reasons You Should Not Ignore Flaky Tests](https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:50:43](https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt) - [The Story Behind Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
