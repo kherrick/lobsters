@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 15:42:57",
+      "https://lobste.rs/s/ocdh4j/terraform_modules_separate_repo_with"
+    ],
+    [
+      "Terraform modules: separate repo with semantic version tags",
+      "https://tomharrisonjr.com/terraform-modules-separate-repo-with-semantic-version-tags-bc51673f96b4"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 15:30:11",
       "https://lobste.rs/s/hcirp6/property_based_testing_against_model_web"
     ],
@@ -97,16 +107,6 @@
     [
       "Modern Mobile Rendering @ HypeHype",
       "https://www.youtube.com/watch?v=m3bW8d4Brec"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 07:27:29",
-      "https://lobste.rs/s/cloljb/seven_reasons_you_should_not_ignore_flaky"
-    ],
-    [
-      "Seven Reasons You Should Not Ignore Flaky Tests",
-      "https://gradle.com/blog/seven-reasons-you-should-not-ignore-flaky-tests/"
     ]
   ],
   [
