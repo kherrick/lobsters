@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 05:50:43",
+      "https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt"
+    ],
+    [
+      "The Story Behind Last Week's Let's Encrypt Downtime",
+      "https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 05:27:57",
       "https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming"
     ],
@@ -197,16 +207,6 @@
     [
       "Why We Need Interoperability and HL7 FHIR",
       "https://ruky.me/2023/06/25/why-we-need-interoperability-and-hl7-fhir/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 05:32:52",
-      "https://lobste.rs/s/acfzoh/no_more_dsls_implement_deploy"
-    ],
-    [
-      "No more DSLs: Implement and deploy a distributed system with a single program",
-      "http://catern.com/integration.html"
     ]
   ],
   [
