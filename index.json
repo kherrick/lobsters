@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 13:02:12",
+      "https://lobste.rs/s/pt5k7b/you_should_break_law_demeter"
+    ],
+    [
+      "You should break the Law of Demeter",
+      "https://www.tedinski.com/2018/12/18/the-law-of-demeter.html"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 12:16:47",
       "https://lobste.rs/s/ozatya/building_type_safe_graphql_schemas_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Screenshots",
       "https://sebastiandedeyne.com/screenshots/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 22:08:13",
-      "https://lobste.rs/s/hdplee/petnames_humane_approach_secure"
-    ],
-    [
-      "Petnames: A humane approach to secure, decentralized naming",
-      "https://spritely.institute/static/papers/petnames.html"
     ]
   ]
 ]
