@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-27, 22:11:02",
+      "https://lobste.rs/s/donvzl/source_code_for_dragon_64_version"
+    ],
+    [
+      "Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter",
+      "https://github.com/davidlinsley/DragonBasic"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 22:09:51",
+      "https://lobste.rs/s/japoai/awesome_llm_github_curated_repository"
+    ],
+    [
+      "Awesome-LLM Github- a curated repository of LLModels, papers and evolution",
+      "https://github.com/Hannibal046/Awesome-LLM"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 21:46:17",
+      "https://lobste.rs/s/2pupfo/password_game"
+    ],
+    [
+      "The Password Game",
+      "https://neal.fun/password-game/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 19:11:57",
       "https://lobste.rs/s/isju8j/fast_machines_slow_machines"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2023-06-27, 08:21:46",
-      "https://lobste.rs/s/vazubp/ghc_s_runtime_system"
-    ],
-    [
-      "GHC's Runtime System",
-      "https://youtube.com/video/zOFrGSQf9eo"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 06:51:31",
       "https://lobste.rs/s/ifaar4/grug_brained_developer"
     ],
     [
       "The Grug Brained Developer",
       "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 05:50:43",
-      "https://lobste.rs/s/ecca7m/story_behind_last_week_s_let_s_encrypt"
-    ],
-    [
-      "The Story Behind Last Week's Let's Encrypt Downtime",
-      "https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Use `.config` to store your project configs",
       "https://dot-config.github.io"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 11:16:11",
-      "https://lobste.rs/s/aanmqw/case_for_clojurescript_2_0"
-    ],
-    [
-      "A case for ClojureScript 2.0",
-      "https://tonsky.me/blog/clojurescript-2/"
     ]
   ]
 ]
