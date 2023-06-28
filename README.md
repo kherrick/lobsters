@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 05:13:18](https://lobste.rs/s/pg935y/recovering_bizarre_super_mario_b_side) - [Recovering a Bizarre Super Mario 'B-side' With a Cassette Tape](https://youtu.be/GLIz0CxRLiI)
 * [2023-06-28, 04:10:50](https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd) - [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
 * [2023-06-28, 03:43:56](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own) - [Emailing on behalf of users. Bring Your Own Domain?](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own)
@@ -24,7 +25,6 @@
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
 * [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
-* [2023-06-26, 11:51:52](https://lobste.rs/s/wac58n/use_config_store_your_project_configs) - [Use `.config` to store your project configs](https://dot-config.github.io)
 
 ## [Archives](archives/index.md)
 

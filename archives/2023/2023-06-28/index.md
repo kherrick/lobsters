@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 05:13:18](https://lobste.rs/s/pg935y/recovering_bizarre_super_mario_b_side) - [Recovering a Bizarre Super Mario 'B-side' With a Cassette Tape](https://youtu.be/GLIz0CxRLiI)
 * [2023-06-28, 04:10:50](https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd) - [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
 * [2023-06-28, 03:43:56](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own) - [Emailing on behalf of users. Bring Your Own Domain?](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own)
