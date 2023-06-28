@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 10:53:55](https://lobste.rs/s/h6jnmb/qdrant_under_hood_io_uring) - [Qdrant under the hood: io_uring](https://qdrant.tech/articles/io_uring/)
 * [2023-06-28, 10:40:58](https://lobste.rs/s/vr8pvu/explainer_blogs_for_ipfs_things_ipsl_dht) - [Explainer blogs for IPFS things (IPSL,DHT, Slices) by Jorropo](https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ)
 * [2023-06-28, 09:11:09](https://lobste.rs/s/qirqgc/analyzing_every_clojure_project_on) - [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 08:42:30](https://lobste.rs/s/rlptzd/adding_weak_references_chicken) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 04:10:50](https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd) - [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
-* [2023-06-28, 03:43:56](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own) - [Emailing on behalf of users. Bring Your Own Domain?](https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own)
 * [2023-06-28, 02:20:22](https://lobste.rs/s/wbte8j/how_not_write_pipeline) - [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
 * [2023-06-28, 00:02:25](https://lobste.rs/s/qxk9kz/is_orm_still_anti_pattern) - [Is ORM still an 'anti pattern'?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
