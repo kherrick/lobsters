@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-06-28, 15:48:24",
-      "https://lobste.rs/s/k4lybq/massive_bug_at_heart_npm_ecosystem"
+      "2023-06-28, 16:29:55",
+      "https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally"
     ],
     [
-      "The massive bug at the heart of the npm ecosystem",
+      "typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
+      "https://github.com/jetpack-io/typeid"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 15:48:24",
+      "https://lobste.rs/s/k4lybq/npm_design_flaw_manifests"
+    ],
+    [
+      "npm design flaw in manifests",
       "https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "The Grug Brained Developer",
       "https://grugbrain.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 05:27:57",
-      "https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming"
-    ],
-    [
-      "FP^2: Fully in-Place Functional Programming",
-      "https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/"
     ]
   ]
 ]
