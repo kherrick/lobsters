@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 11:04:08](https://lobste.rs/s/kgvzzp/meta_developer_tools_working_at_scale) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 10:53:55](https://lobste.rs/s/h6jnmb/qdrant_under_hood_io_uring) - [Qdrant under the hood: io_uring](https://qdrant.tech/articles/io_uring/)
 * [2023-06-28, 10:40:58](https://lobste.rs/s/vr8pvu/explainer_blogs_for_ipfs_things_ipsl_dht) - [Explainer blogs for IPFS things (IPSL,DHT, Slices) by Jorropo](https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ)
 * [2023-06-28, 09:11:09](https://lobste.rs/s/qirqgc/analyzing_every_clojure_project_on) - [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
@@ -24,7 +25,6 @@
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
-* [2023-06-26, 17:57:19](https://lobste.rs/s/y1p25w/tailer_rewrite_cli_tool_spacer_go) - [tailer: a rewrite of the CLI tool \"spacer\" in Go](https://github.com/hionay/tailer)
 
 ## [Archives](archives/index.md)
 
