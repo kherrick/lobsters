@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/massive_bug_at_heart_npm_ecosystem) - [The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
+* [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
+* [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/npm_design_flaw_manifests) - [npm design flaw in manifests](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
 * [2023-06-28, 15:10:32](https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table) - [Solving \"Two Sum\" in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_breaking_email) - [GMail is Breaking Email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
@@ -24,7 +25,6 @@
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 * [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
-* [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
 
 ## [Archives](archives/index.md)
 
