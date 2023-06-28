@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 04:10:50",
+      "https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd"
+    ],
+    [
+      "GCC --enable-languages=all on OpenBSD",
+      "https://briancallahan.net/blog/20230626.html"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 03:43:56",
       "https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own"
     ],
@@ -57,16 +67,6 @@
     [
       "Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter",
       "https://github.com/davidlinsley/DragonBasic"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 22:09:51",
-      "https://lobste.rs/s/japoai/awesome_llm_github_curated_repository"
-    ],
-    [
-      "Awesome-LLM Github- a curated repository of LLModels, papers and evolution",
-      "https://github.com/Hannibal046/Awesome-LLM"
     ]
   ],
   [
