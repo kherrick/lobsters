@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
+* [2023-06-28, 17:59:24](https://lobste.rs/s/j1bppo/include_also_moc_files_headers) - [Include also moc files of headers](https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/)
 * [2023-06-28, 17:02:52](https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale) - [The Logfile Navigator For The Small-Scale](https://lnav.org/)
 * [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 * [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/npm_design_flaw_manifests) - [npm design flaw in manifests](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
