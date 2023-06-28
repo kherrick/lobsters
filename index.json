@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-06-27, 12:16:47",
-      "https://lobste.rs/s/ozatya/building_type_safe_graphql_schemas_with"
-    ],
-    [
-      "Building Type-safe GraphQL Schemas with TypeScript",
-      "https://grafbase.com/blog/why-we-added-typescript-configuration-support"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 12:10:44",
       "https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response"
     ],
@@ -237,6 +227,16 @@
     [
       "tailer: a rewrite of the CLI tool \"spacer\" in Go",
       "https://github.com/hionay/tailer"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 17:16:14",
+      "https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different"
+    ],
+    [
+      "Noticing when an app has servers in different regions",
+      "https://blog.jonlu.ca/posts/snappy-internet?ref=ls"
     ]
   ],
   [
