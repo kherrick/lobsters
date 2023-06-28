@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:59:24](https://lobste.rs/s/j1bppo/include_also_moc_files_headers) - [Include also moc files of headers](https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/)
 * [2023-06-28, 17:02:52](https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale) - [The Logfile Navigator For The Small-Scale](https://lnav.org/)
@@ -8,7 +9,6 @@
 * [2023-06-28, 15:10:32](https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table) - [Solving \"Two Sum\" in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
-* [2023-06-28, 11:04:08](https://lobste.rs/s/kgvzzp/meta_developer_tools_working_at_scale) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 10:40:58](https://lobste.rs/s/vr8pvu/explainer_blogs_for_ipfs_things_ipsl_dht) - [Explainer blogs for IPFS things (IPSL,DHT, Slices) by Jorropo](https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ)
 * [2023-06-28, 09:11:09](https://lobste.rs/s/qirqgc/analyzing_every_clojure_project_on) - [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)

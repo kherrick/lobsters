@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:59:24](https://lobste.rs/s/j1bppo/include_also_moc_files_headers) - [Include also moc files of headers](https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/)
 * [2023-06-28, 17:02:52](https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale) - [The Logfile Navigator For The Small-Scale](https://lnav.org/)
