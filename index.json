@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 17:02:52",
+      "https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale"
+    ],
+    [
+      "The Logfile Navigator For The Small-Scale",
+      "https://lnav.org/"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 16:29:55",
       "https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally"
     ],
@@ -42,10 +52,10 @@
   [
     [
       "2023-06-28, 14:30:56",
-      "https://lobste.rs/s/gc4ie8/gmail_is_breaking_email"
+      "https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam"
     ],
     [
-      "GMail is Breaking Email",
+      "GMail is Marking My Email as Spam",
       "http://www.igregious.com/2023/03/gmail-is-breaking-email.html"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Meta developer tools: Working at scale",
       "https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 10:53:55",
-      "https://lobste.rs/s/h6jnmb/qdrant_under_hood_io_uring"
-    ],
-    [
-      "Qdrant under the hood: io_uring",
-      "https://qdrant.tech/articles/io_uring/"
     ]
   ],
   [
