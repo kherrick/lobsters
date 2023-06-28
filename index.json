@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 14:30:56",
+      "https://lobste.rs/s/gc4ie8/gmail_is_breaking_email"
+    ],
+    [
+      "GMail is Breaking Email",
+      "http://www.igregious.com/2023/03/gmail-is-breaking-email.html"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 11:04:08",
       "https://lobste.rs/s/kgvzzp/meta_developer_tools_working_at_scale"
     ],
@@ -187,16 +197,6 @@
     [
       "Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3",
       "https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 15:30:11",
-      "https://lobste.rs/s/hcirp6/property_based_testing_against_model_web"
-    ],
-    [
-      "Property-Based Testing Against a Model of a Web Application",
-      "https://concerningquality.com/model-based-testing/"
     ]
   ],
   [
