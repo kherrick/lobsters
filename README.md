@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 08:42:30](https://lobste.rs/s/rlptzd/adding_weak_references_chicken) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 05:13:18](https://lobste.rs/s/pg935y/recovering_bizarre_super_mario_b_side) - [Recovering a Bizarre Super Mario 'B-side' With a Cassette Tape](https://youtu.be/GLIz0CxRLiI)
 * [2023-06-28, 04:10:50](https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd) - [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
@@ -20,7 +21,6 @@
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 * [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
-* [2023-06-27, 11:58:04](https://lobste.rs/s/qmgfck/spatial_cypher_cheat_sheet_resource_for) - [The Spatial Cypher Cheat Sheet: A Resource For Working With Geospatial Data In Neo4j](https://lyonwj.com/blog/spatial-cypher-cheat-sheet)
 * [2023-06-27, 11:47:34](https://lobste.rs/s/f4yvnb/what_s_deal_with_cpython_pypy_micropython) - [What's the deal with CPython, Pypy, MicroPython, Jython...?](https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 * [2023-06-27, 05:27:57](https://lobste.rs/s/akwuwf/fp_2_fully_place_functional_programming) - [FP^2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/publication/fp2-fully-in-place-functional-programming/)
