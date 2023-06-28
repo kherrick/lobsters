@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 03:43:56",
+      "https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own"
+    ],
+    [
+      "Emailing on behalf of users. Bring Your Own Domain?",
+      "https://lobste.rs/s/mxix8u/emailing_on_behalf_users_bring_your_own"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 02:20:22",
       "https://lobste.rs/s/wbte8j/how_not_write_pipeline"
     ],
@@ -227,16 +237,6 @@
     [
       "tailer: a rewrite of the CLI tool \"spacer\" in Go",
       "https://github.com/hionay/tailer"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 17:16:14",
-      "https://lobste.rs/s/etgxlw/noticing_when_app_has_servers_different"
-    ],
-    [
-      "Noticing when an app has servers in different regions",
-      "https://blog.jonlu.ca/posts/snappy-internet?ref=ls"
     ]
   ],
   [
