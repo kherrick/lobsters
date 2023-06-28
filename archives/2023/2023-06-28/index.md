@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 23:41:32](https://lobste.rs/s/bvzvvr/selected_papers_isca_50_retrospective) - [Selected Papers - ISCA@50 retrospective: 1996-2020](https://sites.coecis.cornell.edu/isca50retrospective/papers)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
 * [2023-06-28, 20:27:40](https://lobste.rs/s/b6dpnu/fixing_entire_sm64_source_code_insane_n64) - [FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)](https://www.youtube.com/watch?v=t_rzYnXEQlE)
 * [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
