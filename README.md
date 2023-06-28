@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/massive_bug_at_heart_npm_ecosystem) - [The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
 * [2023-06-28, 15:10:32](https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table) - [Solving \"Two Sum\" in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_breaking_email) - [GMail is Breaking Email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
 * [2023-06-28, 11:04:08](https://lobste.rs/s/kgvzzp/meta_developer_tools_working_at_scale) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 10:53:55](https://lobste.rs/s/h6jnmb/qdrant_under_hood_io_uring) - [Qdrant under the hood: io_uring](https://qdrant.tech/articles/io_uring/)
 * [2023-06-28, 10:40:58](https://lobste.rs/s/vr8pvu/explainer_blogs_for_ipfs_things_ipsl_dht) - [Explainer blogs for IPFS things (IPSL,DHT, Slices) by Jorropo](https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ)
-* [2023-06-28, 09:11:09](https://lobste.rs/s/qirqgc/analyzing_every_clojure_project_on) - [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 08:42:30](https://lobste.rs/s/rlptzd/adding_weak_references_chicken) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)

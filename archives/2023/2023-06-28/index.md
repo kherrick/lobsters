@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/massive_bug_at_heart_npm_ecosystem) - [The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
 * [2023-06-28, 15:10:32](https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table) - [Solving \"Two Sum\" in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_breaking_email) - [GMail is Breaking Email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
