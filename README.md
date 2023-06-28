@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_breaking_email) - [GMail is Breaking Email](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
 * [2023-06-28, 11:04:08](https://lobste.rs/s/kgvzzp/meta_developer_tools_working_at_scale) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 10:53:55](https://lobste.rs/s/h6jnmb/qdrant_under_hood_io_uring) - [Qdrant under the hood: io_uring](https://qdrant.tech/articles/io_uring/)
@@ -14,7 +15,6 @@
 * [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 23:02:50](https://lobste.rs/s/ppuaxp/finding_best_sine_function_for_nintendo) - [Finding the BEST sine function for Nintendo 64](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 22:11:02](https://lobste.rs/s/donvzl/source_code_for_dragon_64_version) - [Source code for the Dragon 64 version of the Microsoft 16K BASIC Interpreter](https://github.com/davidlinsley/DragonBasic)
-* [2023-06-27, 21:46:17](https://lobste.rs/s/2pupfo/password_game) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 18:00:51](https://lobste.rs/s/xvbjol/when_numpy_is_too_slow) - [When NumPy is too slow](https://pythonspeed.com/articles/numpy-is-slow/)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
