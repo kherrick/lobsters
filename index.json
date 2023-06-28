@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 15:10:32",
+      "https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table"
+    ],
+    [
+      "Solving \"Two Sum\" in C with a tiny hash table",
+      "https://nullprogram.com/blog/2023/06/26/"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 14:39:18",
       "https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for"
     ],
@@ -187,16 +197,6 @@
     [
       "Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns",
       "https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 16:36:22",
-      "https://lobste.rs/s/hlfk52/running_linux_with_kernel_6_3_on_open"
-    ],
-    [
-      "Running Linux with kernel 6.3 on Open Source Hardware board with ESP32-S3",
-      "https://olimex.wordpress.com/2023/06/27/running-linux-with-kernel-6-3-on-open-source-hardware-board-with-esp32-s3/"
     ]
   ],
   [
