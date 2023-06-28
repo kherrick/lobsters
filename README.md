@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-28, 20:27:40](https://lobste.rs/s/b6dpnu/fixing_entire_sm64_source_code_insane_n64) - [FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)](https://www.youtube.com/watch?v=t_rzYnXEQlE)
 * [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:59:24](https://lobste.rs/s/j1bppo/include_also_moc_files_headers) - [Include also moc files of headers](https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/)
@@ -10,7 +11,6 @@
 * [2023-06-28, 14:39:18](https://lobste.rs/s/kqyx2z/managed_self_hosted_github_runners_for) - [Managed self-hosted GitHub runners for Nix](https://www.cachix.org/github-runners-for-nix-nixos)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
 * [2023-06-28, 10:40:58](https://lobste.rs/s/vr8pvu/explainer_blogs_for_ipfs_things_ipsl_dht) - [Explainer blogs for IPFS things (IPSL,DHT, Slices) by Jorropo](https://hackmd.io/@UV0H7uWJTQ6Wm8jsq8w8mQ)
-* [2023-06-28, 09:11:09](https://lobste.rs/s/qirqgc/analyzing_every_clojure_project_on) - [Analyzing Every Clojure Project on Github](https://blog.phronemophobic.com/dewey-analysis.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 08:42:30](https://lobste.rs/s/rlptzd/adding_weak_references_chicken) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
