@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-29, 21:39:43",
+      "https://lobste.rs/s/fdyhki/keeping_open_source_open"
+    ],
+    [
+      "Keeping Open Source Open",
+      "https://rockylinux.org/news/keeping-open-source-open/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 21:28:21",
       "https://lobste.rs/s/acepul/wayland_is_pretty_good_actually"
     ],
@@ -147,16 +157,6 @@
     [
       "Practical Procedural Macros",
       "https://xy2.dev/blog/simple-proc-macro/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 10:04:47",
-      "https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared"
-    ],
-    [
-      "FastDepends: FastAPI DI system cleared of all HTTP logic",
-      "https://lancetnik.github.io/FastDepends/"
     ]
   ],
   [
