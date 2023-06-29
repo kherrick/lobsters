@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 16:35:33](https://lobste.rs/s/5k6huk/unison_projects_introduction) - [Unison projects introduction](https://www.unison-lang.org/learn/projects/)
 * [2023-06-29, 16:18:45](https://lobste.rs/s/bd3eoc/code_shortest_path_first) - [Code the Shortest Path First](https://evanlh.com/posts/shortest_path_first_sdlc/)
 * [2023-06-29, 15:56:10](https://lobste.rs/s/7m8dnu/how_german_soda_became_hackers_fuel) - [How a German Soda Became Hackers' Fuel of Choice](https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
 * [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
