@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 09:32:29](https://lobste.rs/s/dsi3mi/beyond_devtools_profiling_webapps_at) - [Beyond the DevTools: Profiling WebApps at the Assembly Level](https://leaningtech.com/beyond-the-devtools-profiling-webapps-at-the-assembly-level/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 * [2023-06-29, 02:38:51](https://lobste.rs/s/xi7ter/wingpt_ai_assistant_for_windows_3_1) - [WinGPT: AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-29, 01:17:57](https://lobste.rs/s/b6xmiq/gathering_streams) - [Gathering the streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
-* [2023-06-28, 23:41:32](https://lobste.rs/s/bvzvvr/selected_papers_isca_50_retrospective) - [Selected Papers - ISCA@50 retrospective: 1996-2020](https://sites.coecis.cornell.edu/isca50retrospective/papers)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
 * [2023-06-28, 20:27:40](https://lobste.rs/s/b6dpnu/fixing_entire_sm64_source_code_insane_n64) - [FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)](https://www.youtube.com/watch?v=t_rzYnXEQlE)
 * [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
