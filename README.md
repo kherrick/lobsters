@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 21:58:41](https://lobste.rs/s/5vvoe8/attempting_large_code_refactor_using) - [Attempting Large Code Refactor using LLMs](https://contra.com/p/NU73mvBO-attempting-large-code-refactor-using-ll-ms)
 * [2023-06-29, 21:39:43](https://lobste.rs/s/fdyhki/keeping_open_source_open) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:51:45](https://lobste.rs/s/bcxhxr/is_react_having_angular_js_moment) - [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
@@ -7,7 +8,6 @@
 * [2023-06-29, 20:04:10](https://lobste.rs/s/fdfvoe/lisp_vs_wolframlang) - [LISP vs WolframLang](http://xahlee.info/M/lisp_vs_WolframLang.html)
 * [2023-06-29, 16:35:33](https://lobste.rs/s/5k6huk/unison_projects_introduction) - [Unison projects introduction](https://www.unison-lang.org/learn/projects/)
 * [2023-06-29, 16:18:45](https://lobste.rs/s/bd3eoc/code_shortest_path_first) - [Code the Shortest Path First](https://evanlh.com/posts/shortest_path_first_sdlc/)
-* [2023-06-29, 15:56:10](https://lobste.rs/s/7m8dnu/how_german_soda_became_hackers_fuel) - [How a German Soda Became Hackers' Fuel of Choice](https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
 * [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
 * [2023-06-29, 15:31:09](https://lobste.rs/s/gfgy8y/compressed_indexable_bitset) - [A compressed indexable bitset](https://quickwit.io/blog/compressed-indexable-bitset)
 * [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
