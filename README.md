@@ -1,8 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 * [2023-06-29, 13:22:17](https://lobste.rs/s/bbh4he/having_fun_with_hash_collisions) - [Having fun with hash collisions](https://indy.codes/having-fun-with-hash-collisions)
-* [2023-06-29, 13:17:19](https://lobste.rs/s/6ueaem/tailops_less_cloudy_devops_age_chatgpt) - [TailOps - less cloudy DevOps in the age of ChatGPT](https://vlad.git.ht/9569da54b5b0a58fe338f8d02164b6cf)
-* [2023-06-29, 13:15:36](https://lobste.rs/s/eofkxb/ai_could_pay_dividends_americans) - [AI Could Pay Dividends to Americans, Literally](https://www.politico.com/news/magazine/2023/06/29/ai-pay-americans-data-00103648)
 * [2023-06-29, 13:03:36](https://lobste.rs/s/xwpyh0/all_you_need_is_cody) - [All You Need Is Cody](https://about.sourcegraph.com/blog/all-you-need-is-cody)
 * [2023-06-29, 12:39:42](https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks) - [Frida can now inject Rust and inline hooks into OS kernels and embedded targets](https://frida.re/news/2023/06/23/frida-16-1-0-released/)
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
@@ -23,6 +22,7 @@
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 02:20:22](https://lobste.rs/s/wbte8j/how_not_write_pipeline) - [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+* [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 

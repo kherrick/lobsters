@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 * [2023-06-29, 13:22:17](https://lobste.rs/s/bbh4he/having_fun_with_hash_collisions) - [Having fun with hash collisions](https://indy.codes/having-fun-with-hash-collisions)
 * [2023-06-29, 13:17:19](https://lobste.rs/s/6ueaem/tailops_less_cloudy_devops_age_chatgpt) - [TailOps - less cloudy DevOps in the age of ChatGPT](https://vlad.git.ht/9569da54b5b0a58fe338f8d02164b6cf)
 * [2023-06-29, 13:15:36](https://lobste.rs/s/eofkxb/ai_could_pay_dividends_americans) - [AI Could Pay Dividends to Americans, Literally](https://www.politico.com/news/magazine/2023/06/29/ai-pay-americans-data-00103648)
