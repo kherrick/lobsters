@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-06-29, 13:22:17",
+      "https://lobste.rs/s/bbh4he/having_fun_with_hash_collisions"
+    ],
+    [
+      "Having fun with hash collisions",
+      "https://indy.codes/having-fun-with-hash-collisions"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 13:17:19",
+      "https://lobste.rs/s/6ueaem/tailops_less_cloudy_devops_age_chatgpt"
+    ],
+    [
+      "TailOps - less cloudy DevOps in the age of ChatGPT",
+      "https://vlad.git.ht/9569da54b5b0a58fe338f8d02164b6cf"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 13:15:36",
+      "https://lobste.rs/s/eofkxb/ai_could_pay_dividends_americans"
+    ],
+    [
+      "AI Could Pay Dividends to Americans, Literally",
+      "https://www.politico.com/news/magazine/2023/06/29/ai-pay-americans-data-00103648"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 13:03:36",
+      "https://lobste.rs/s/xwpyh0/all_you_need_is_cody"
+    ],
+    [
+      "All You Need Is Cody",
+      "https://about.sourcegraph.com/blog/all-you-need-is-cody"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 12:39:42",
       "https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks"
     ],
@@ -61,26 +101,6 @@
   ],
   [
     [
-      "2023-06-29, 02:38:51",
-      "https://lobste.rs/s/xi7ter/wingpt_ai_assistant_for_windows_3_1"
-    ],
-    [
-      "WinGPT: AI Assistant for Windows 3.1",
-      "https://www.dialup.net/wingpt/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 01:17:57",
-      "https://lobste.rs/s/b6xmiq/gathering_streams"
-    ],
-    [
-      "Gathering the streams",
-      "https://cr.openjdk.org/~vklang/Gatherers.html"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 00:35:09",
       "https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme"
     ],
@@ -107,16 +127,6 @@
     [
       "FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)",
       "https://www.youtube.com/watch?v=t_rzYnXEQlE"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 18:45:09",
-      "https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos"
-    ],
-    [
-      "How to think about async and await in Lilos",
-      "https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "What ad blocker do you use and why?",
       "https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 08:42:30",
-      "https://lobste.rs/s/rlptzd/adding_weak_references_chicken"
-    ],
-    [
-      "Adding weak references to CHICKEN",
-      "https://www.more-magic.net/posts/weak-references.html"
     ]
   ],
   [
