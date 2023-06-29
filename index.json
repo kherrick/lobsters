@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-29, 10:04:47",
+      "https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared"
+    ],
+    [
+      "FastDepends: FastAPI DI system cleared of all HTTP logic",
+      "https://lancetnik.github.io/FastDepends/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 09:32:29",
       "https://lobste.rs/s/dsi3mi/beyond_devtools_profiling_webapps_at"
     ],
@@ -237,16 +247,6 @@
     [
       "Red Hat’s commitment to open source: A response to the git.centos.org changes",
       "https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 06:51:31",
-      "https://lobste.rs/s/ifaar4/grug_brained_developer"
-    ],
-    [
-      "The Grug Brained Developer",
-      "https://grugbrain.dev/"
     ]
   ]
 ]
