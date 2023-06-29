@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
 * [2023-06-29, 15:31:09](https://lobste.rs/s/gfgy8y/compressed_indexable_bitset) - [A compressed indexable bitset](https://quickwit.io/blog/compressed-indexable-bitset)
 * [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 * [2023-06-29, 13:22:17](https://lobste.rs/s/bbh4he/having_fun_with_hash_collisions) - [Having fun with hash collisions](https://indy.codes/having-fun-with-hash-collisions)
@@ -17,7 +18,6 @@
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:02:52](https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale) - [The Logfile Navigator For The Small-Scale](https://lnav.org/)
 * [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
-* [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/npm_design_flaw_manifests) - [npm design flaw in manifests](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
 * [2023-06-28, 15:10:32](https://lobste.rs/s/dlctt5/solving_two_sum_c_with_tiny_hash_table) - [Solving \"Two Sum\" in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
