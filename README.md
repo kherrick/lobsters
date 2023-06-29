@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 15:31:09](https://lobste.rs/s/gfgy8y/compressed_indexable_bitset) - [A compressed indexable bitset](https://quickwit.io/blog/compressed-indexable-bitset)
 * [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 * [2023-06-29, 13:22:17](https://lobste.rs/s/bbh4he/having_fun_with_hash_collisions) - [Having fun with hash collisions](https://indy.codes/having-fun-with-hash-collisions)
 * [2023-06-29, 13:03:36](https://lobste.rs/s/xwpyh0/all_you_need_is_cody) - [All You Need Is Cody](https://about.sourcegraph.com/blog/all-you-need-is-cody)
@@ -22,7 +23,6 @@
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 02:20:22](https://lobste.rs/s/wbte8j/how_not_write_pipeline) - [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-* [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 
