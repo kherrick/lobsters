@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 01:17:57](https://lobste.rs/s/b6xmiq/gathering_streams) - [Gathering the streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 * [2023-06-28, 23:41:32](https://lobste.rs/s/bvzvvr/selected_papers_isca_50_retrospective) - [Selected Papers - ISCA@50 retrospective: 1996-2020](https://sites.coecis.cornell.edu/isca50retrospective/papers)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
@@ -22,7 +23,6 @@
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 17:04:53](https://lobste.rs/s/ygnzre/performance_benefits_not_null) - [Performance Benefits of NOT NULL Constraints on Foreign Key Reference Columns](https://www.cockroachlabs.com/blog/performance-benefits-of-not-null-constraints/)
 * [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
-* [2023-06-27, 13:02:12](https://lobste.rs/s/pt5k7b/you_should_break_law_demeter) - [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 * [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 * [2023-06-27, 06:51:31](https://lobste.rs/s/ifaar4/grug_brained_developer) - [The Grug Brained Developer](https://grugbrain.dev/)
 
