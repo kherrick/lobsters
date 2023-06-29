@@ -10,6 +10,7 @@
 * [2023-06-29, 10:04:47](https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared) - [FastDepends: FastAPI DI system cleared of all HTTP logic](https://lancetnik.github.io/FastDepends/)
 * [2023-06-29, 09:32:29](https://lobste.rs/s/dsi3mi/beyond_devtools_profiling_webapps_at) - [Beyond the DevTools: Profiling WebApps at the Assembly Level](https://leaningtech.com/beyond-the-devtools-profiling-webapps-at-the-assembly-level/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
+* [2023-06-29, 02:38:51](https://lobste.rs/s/xi7ter/wingpt_ai_assistant_for_windows_3_1) - [WinGPT: AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
 * [2023-06-28, 20:27:40](https://lobste.rs/s/b6dpnu/fixing_entire_sm64_source_code_insane_n64) - [FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)](https://www.youtube.com/watch?v=t_rzYnXEQlE)
@@ -22,7 +23,6 @@
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-28, 02:20:22](https://lobste.rs/s/wbte8j/how_not_write_pipeline) - [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
-* [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 
