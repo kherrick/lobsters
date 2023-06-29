@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 12:39:42](https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks) - [Frida can now inject Rust and inline hooks into OS kernels and embedded targets](https://frida.re/news/2023/06/23/frida-16-1-0-released/)
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
 * [2023-06-29, 10:32:40](https://lobste.rs/s/fn7g2n/practical_procedural_macros) - [Practical Procedural Macros](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 10:04:47](https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared) - [FastDepends: FastAPI DI system cleared of all HTTP logic](https://lancetnik.github.io/FastDepends/)
@@ -20,7 +21,6 @@
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 08:42:30](https://lobste.rs/s/rlptzd/adding_weak_references_chicken) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
-* [2023-06-28, 04:10:50](https://lobste.rs/s/rro8mr/gcc_enable_languages_all_on_openbsd) - [GCC --enable-languages=all on OpenBSD](https://briancallahan.net/blog/20230626.html)
 * [2023-06-28, 02:20:22](https://lobste.rs/s/wbte8j/how_not_write_pipeline) - [how (not) to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
 * [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
