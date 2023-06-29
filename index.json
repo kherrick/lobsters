@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-06-29, 21:39:43",
-      "https://lobste.rs/s/fdyhki/keeping_open_source_open"
-    ],
-    [
-      "Keeping Open Source Open",
-      "https://rockylinux.org/news/keeping-open-source-open/"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 21:28:21",
       "https://lobste.rs/s/acepul/wayland_is_pretty_good_actually"
     ],
@@ -187,6 +177,16 @@
     [
       "CLI tools hidden in the Python standard library",
       "https://til.simonwillison.net/python/stdlib-cli-tools"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 00:35:09",
+      "https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme"
+    ],
+    [
+      "A Quick Tour of NVM Express (NVMe)",
+      "https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/"
     ]
   ],
   [
