@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-29, 05:02:31",
+      "https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library"
+    ],
+    [
+      "CLI tools hidden in the Python standard library",
+      "https://til.simonwillison.net/python/stdlib-cli-tools"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 02:38:51",
       "https://lobste.rs/s/xi7ter/wingpt_ai_assistant_for_windows_3_1"
     ],
@@ -77,16 +87,6 @@
     [
       "I made a command-line tool designed to assist with polyrhythmic drum parts",
       "https://github.com/dredozubov/polyrhythmix"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 17:59:24",
-      "https://lobste.rs/s/j1bppo/include_also_moc_files_headers"
-    ],
-    [
-      "Include also moc files of headers",
-      "https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/"
     ]
   ],
   [
