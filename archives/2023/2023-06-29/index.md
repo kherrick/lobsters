@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 16:18:45](https://lobste.rs/s/bd3eoc/code_shortest_path_first) - [Code the Shortest Path First](https://evanlh.com/posts/shortest_path_first_sdlc/)
+* [2023-06-29, 15:56:10](https://lobste.rs/s/7m8dnu/how_german_soda_became_hackers_fuel) - [How a German Soda Became Hackers' Fuel of Choice](https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
 * [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
 * [2023-06-29, 15:31:09](https://lobste.rs/s/gfgy8y/compressed_indexable_bitset) - [A compressed indexable bitset](https://quickwit.io/blog/compressed-indexable-bitset)
 * [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
