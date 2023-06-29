@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 * [2023-06-29, 02:38:51](https://lobste.rs/s/xi7ter/wingpt_ai_assistant_for_windows_3_1) - [WinGPT: AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-29, 01:17:57](https://lobste.rs/s/b6xmiq/gathering_streams) - [Gathering the streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
@@ -8,7 +9,6 @@
 * [2023-06-28, 20:27:40](https://lobste.rs/s/b6dpnu/fixing_entire_sm64_source_code_insane_n64) - [FIXING the ENTIRE SM64 Source Code (INSANE N64 performance) (2022)](https://www.youtube.com/watch?v=t_rzYnXEQlE)
 * [2023-06-28, 18:45:09](https://lobste.rs/s/p9bml4/how_think_about_async_await_lilos) - [How to think about async and await in Lilos](https://github.com/cbiffle/lilos/blob/main/doc/intro.adoc#how-to-think-about-async-and-await)
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
-* [2023-06-28, 17:59:24](https://lobste.rs/s/j1bppo/include_also_moc_files_headers) - [Include also moc files of headers](https://frinring.wordpress.com/2023/06/28/include-also-moc-files-of-headers/)
 * [2023-06-28, 17:02:52](https://lobste.rs/s/cxqmjn/logfile_navigator_for_small_scale) - [The Logfile Navigator For The Small-Scale](https://lnav.org/)
 * [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 * [2023-06-28, 15:48:24](https://lobste.rs/s/k4lybq/npm_design_flaw_manifests) - [npm design flaw in manifests](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/)
