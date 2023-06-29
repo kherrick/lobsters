@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 21:39:43](https://lobste.rs/s/fdyhki/keeping_open_source_open) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:51:45](https://lobste.rs/s/bcxhxr/is_react_having_angular_js_moment) - [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 21:39:43](https://lobste.rs/s/fdyhki/keeping_open_source_open) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:51:45](https://lobste.rs/s/bcxhxr/is_react_having_angular_js_moment) - [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
@@ -15,7 +16,6 @@
 * [2023-06-29, 12:39:42](https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks) - [Frida can now inject Rust and inline hooks into OS kernels and embedded targets](https://frida.re/news/2023/06/23/frida-16-1-0-released/)
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
 * [2023-06-29, 10:32:40](https://lobste.rs/s/fn7g2n/practical_procedural_macros) - [Practical Procedural Macros](https://xy2.dev/blog/simple-proc-macro/)
-* [2023-06-29, 10:04:47](https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared) - [FastDepends: FastAPI DI system cleared of all HTTP logic](https://lancetnik.github.io/FastDepends/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 * [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
