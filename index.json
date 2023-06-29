@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-29, 15:39:12",
+      "https://lobste.rs/s/fikaij/embed_git_commit_zig_programs"
+    ],
+    [
+      "Embed git commit in Zig programs",
+      "https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 15:31:09",
       "https://lobste.rs/s/gfgy8y/compressed_indexable_bitset"
     ],
@@ -167,16 +177,6 @@
     [
       "typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
       "https://github.com/jetpack-io/typeid"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 15:48:24",
-      "https://lobste.rs/s/k4lybq/npm_design_flaw_manifests"
-    ],
-    [
-      "npm design flaw in manifests",
-      "https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem/"
     ]
   ],
   [
