@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
+* [2023-06-29, 20:04:10](https://lobste.rs/s/fdfvoe/lisp_vs_wolframlang) - [LISP vs WolframLang](http://xahlee.info/M/lisp_vs_WolframLang.html)
 * [2023-06-29, 16:41:38](https://lobste.rs/s/qg2q16/how_we_built_quack_beta) - [How We Built Quack (Beta)](https://goodenough.us/blog/2023-06-29-how-we-built-quack-beta/)
 * [2023-06-29, 16:35:33](https://lobste.rs/s/5k6huk/unison_projects_introduction) - [Unison projects introduction](https://www.unison-lang.org/learn/projects/)
 * [2023-06-29, 16:18:45](https://lobste.rs/s/bd3eoc/code_shortest_path_first) - [Code the Shortest Path First](https://evanlh.com/posts/shortest_path_first_sdlc/)
