@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 10:32:40](https://lobste.rs/s/fn7g2n/practical_procedural_macros) - [Practical Procedural Macros](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 10:04:47](https://lobste.rs/s/smuqhv/fastdepends_fastapi_di_system_cleared) - [FastDepends: FastAPI DI system cleared of all HTTP logic](https://lancetnik.github.io/FastDepends/)
 * [2023-06-29, 09:32:29](https://lobste.rs/s/dsi3mi/beyond_devtools_profiling_webapps_at) - [Beyond the DevTools: Profiling WebApps at the Assembly Level](https://leaningtech.com/beyond-the-devtools-profiling-webapps-at-the-assembly-level/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
@@ -23,7 +24,6 @@
 * [2023-06-27, 23:44:16](https://lobste.rs/s/lfhj2v/freebsd_jails_containers) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 19:11:57](https://lobste.rs/s/isju8j/fast_machines_slow_machines) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
-* [2023-06-27, 15:23:14](https://lobste.rs/s/gjyma0/tildes) - [Tildes](https://gitlab.com/tildes/tildes/)
 * [2023-06-27, 12:10:44](https://lobste.rs/s/x6jhz7/red_hat_s_commitment_open_source_response) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 
 ## [Archives](archives/index.md)
