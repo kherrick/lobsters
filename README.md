@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:51:45](https://lobste.rs/s/bcxhxr/is_react_having_angular_js_moment) - [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 * [2023-06-29, 20:04:10](https://lobste.rs/s/fdfvoe/lisp_vs_wolframlang) - [LISP vs WolframLang](http://xahlee.info/M/lisp_vs_WolframLang.html)
@@ -24,7 +25,6 @@
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
 * [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
-* [2023-06-27, 17:58:13](https://lobste.rs/s/rwxani/rust_fact_vs_fiction_5_insights_from) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 
 ## [Archives](archives/index.md)
 
