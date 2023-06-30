@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
 * [2023-06-30, 07:07:33](https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process) - [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/abs/2306.08127)
