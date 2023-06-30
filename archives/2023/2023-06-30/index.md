@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 23:46:18](https://lobste.rs/s/3ljgla/reddit_users_are_saying_goodbye_their) - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
 * [2023-06-30, 22:28:59](https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail) - [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
 * [2023-06-30, 20:59:34](https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst) - [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
 * [2023-06-30, 20:48:01](https://lobste.rs/s/uwupbr/what_s_between_set_sequence) - [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
