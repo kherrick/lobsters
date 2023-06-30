@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 15:57:42](https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer) - [Foenix F256K New Retro Computer](https://www.youtube.com/watch?v=57FuA8YuXn0)
 * [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
@@ -8,7 +9,6 @@
 * [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
 * [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
 * [2023-06-30, 12:42:37](https://lobste.rs/s/x8q1bk/bliss_fulldepends) - [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
-* [2023-06-30, 12:35:50](https://lobste.rs/s/u6t6qp/coding_adventure_making_stronger_chess) - [Coding Adventure: Making a Stronger Chess Engine](https://www.youtube.com/watch?v=_vqlIPDR2TU)
 * [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
 * [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
