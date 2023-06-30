@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-06-30, 07:07:33",
+      "https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process"
+    ],
+    [
+      "Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust",
+      "https://arxiv.org/abs/2306.08127"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 06:41:42",
       "https://lobste.rs/s/svhzj9/divorce_from_llvm"
     ],
@@ -217,16 +227,6 @@
     [
       "NixOS and my Descent into Insanity",
       "https://ersei.net/en/blog/its-nixin-time"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 12:39:42",
-      "https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks"
-    ],
-    [
-      "Frida can now inject Rust and inline hooks into OS kernels and embedded targets",
-      "https://frida.re/news/2023/06/23/frida-16-1-0-released/"
     ]
   ],
   [
