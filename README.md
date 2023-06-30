@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 15:57:42](https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer) - [Foenix F256K New Retro Computer](https://www.youtube.com/watch?v=57FuA8YuXn0)
 * [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
@@ -13,7 +14,6 @@
 * [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
-* [2023-06-30, 07:07:33](https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process) - [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/abs/2306.08127)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-30, 04:57:04](https://lobste.rs/s/t92n0w/finding_bestest_sine_function_for) - [Finding the BESTEST sine function for Nintendo 64](http://blog.sesse.net/blog/tech/2023-06-29-23-16_finding_the_bestest_sine_function_for_nintendo_64.html)
 * [2023-06-29, 22:26:21](https://lobste.rs/s/jlhjb8/software_runtimes_are_hot_again) - [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)

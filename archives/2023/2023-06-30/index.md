@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 15:57:42](https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer) - [Foenix F256K New Retro Computer](https://www.youtube.com/watch?v=57FuA8YuXn0)
 * [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
