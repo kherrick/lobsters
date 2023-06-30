@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 22:28:59](https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail) - [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
 * [2023-06-30, 20:59:34](https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst) - [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
 * [2023-06-30, 20:48:01](https://lobste.rs/s/uwupbr/what_s_between_set_sequence) - [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
 * [2023-06-30, 20:10:02](https://lobste.rs/s/czatp8/waiting_for_go1_21_execution_tracing_with) - [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
