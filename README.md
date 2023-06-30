@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 07:07:33](https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process) - [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/abs/2306.08127)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-30, 04:57:04](https://lobste.rs/s/t92n0w/finding_bestest_sine_function_for) - [Finding the BESTEST sine function for Nintendo 64](http://blog.sesse.net/blog/tech/2023-06-29-23-16_finding_the_bestest_sine_function_for_nintendo_64.html)
 * [2023-06-29, 22:40:14](https://lobste.rs/s/yjhhzu/qlora_efficient_finetuning_quantized) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)
@@ -23,7 +24,6 @@
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
-* [2023-06-28, 09:04:24](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why) - [What ad blocker do you use and why?](https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why)
 * [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 
 ## [Archives](archives/index.md)
