@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 * [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
@@ -16,7 +17,6 @@
 * [2023-06-29, 22:26:21](https://lobste.rs/s/jlhjb8/software_runtimes_are_hot_again) - [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
 * [2023-06-29, 21:58:41](https://lobste.rs/s/5vvoe8/attempting_large_code_refactor_using) - [Attempting Large Code Refactor using LLMs](https://contra.com/p/NU73mvBO-attempting-large-code-refactor-using-ll-ms)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
-* [2023-06-29, 20:51:45](https://lobste.rs/s/bcxhxr/is_react_having_angular_js_moment) - [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 * [2023-06-29, 16:35:33](https://lobste.rs/s/5k6huk/unison_projects_introduction) - [Unison projects introduction](https://www.unison-lang.org/learn/projects/)
 * [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
