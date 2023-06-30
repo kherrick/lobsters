@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)

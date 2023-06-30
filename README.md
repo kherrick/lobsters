@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
@@ -21,7 +22,6 @@
 * [2023-06-29, 16:35:33](https://lobste.rs/s/5k6huk/unison_projects_introduction) - [Unison projects introduction](https://www.unison-lang.org/learn/projects/)
 * [2023-06-29, 15:39:12](https://lobste.rs/s/fikaij/embed_git_commit_zig_programs) - [Embed git commit in Zig programs](https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/)
 * [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
-* [2023-06-29, 13:03:36](https://lobste.rs/s/xwpyh0/all_you_need_is_cody) - [All You Need Is Cody](https://about.sourcegraph.com/blog/all-you-need-is-cody)
 * [2023-06-29, 12:39:42](https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks) - [Frida can now inject Rust and inline hooks into OS kernels and embedded targets](https://frida.re/news/2023/06/23/frida-16-1-0-released/)
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
