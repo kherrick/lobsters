@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 06:41:42",
+      "https://lobste.rs/s/svhzj9/divorce_from_llvm"
+    ],
+    [
+      "Divorce from LLVM",
+      "https://github.com/ziglang/zig/issues/16270"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 04:57:04",
       "https://lobste.rs/s/t92n0w/finding_bestest_sine_function_for"
     ],
@@ -107,16 +117,6 @@
     [
       "Embed git commit in Zig programs",
       "https://en.liujiacai.net/2023/06/29/embed-git-commit-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 15:31:09",
-      "https://lobste.rs/s/gfgy8y/compressed_indexable_bitset"
-    ],
-    [
-      "A compressed indexable bitset",
-      "https://quickwit.io/blog/compressed-indexable-bitset"
     ]
   ],
   [
