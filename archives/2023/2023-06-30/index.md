@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 15:57:42](https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer) - [Foenix F256K New Retro Computer](https://www.youtube.com/watch?v=57FuA8YuXn0)
