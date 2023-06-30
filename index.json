@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 17:01:49",
+      "https://lobste.rs/s/mzmdux/racket_frustrates_me"
+    ],
+    [
+      "Racket frustrates me",
+      "https://blog.winny.tech/posts/racket-frustrates-me/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 15:57:42",
       "https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer"
     ],
@@ -127,16 +137,6 @@
     [
       "Of course the network can be a filesystem",
       "https://xeiaso.net/blog/gophercon-eu-demo"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 07:07:33",
-      "https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process"
-    ],
-    [
-      "Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust",
-      "https://arxiv.org/abs/2306.08127"
     ]
   ],
   [
