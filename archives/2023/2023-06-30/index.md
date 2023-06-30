@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 20:10:02](https://lobste.rs/s/czatp8/waiting_for_go1_21_execution_tracing_with) - [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
 * [2023-06-30, 19:43:10](https://lobste.rs/s/dmveiv/user_apc_api_2020) - [User APC API (2020)](https://repnz.github.io/posts/apc/user-apc/)
 * [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
