@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 12:42:37](https://lobste.rs/s/x8q1bk/bliss_fulldepends) - [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
+* [2023-06-30, 12:35:50](https://lobste.rs/s/u6t6qp/coding_adventure_making_stronger_chess) - [Coding Adventure: Making a Stronger Chess Engine](https://www.youtube.com/watch?v=_vqlIPDR2TU)
+* [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
 * [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)

@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 12:42:37](https://lobste.rs/s/x8q1bk/bliss_fulldepends) - [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
+* [2023-06-30, 12:35:50](https://lobste.rs/s/u6t6qp/coding_adventure_making_stronger_chess) - [Coding Adventure: Making a Stronger Chess Engine](https://www.youtube.com/watch?v=_vqlIPDR2TU)
+* [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
 * [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
@@ -20,11 +23,8 @@
 * [2023-06-29, 13:03:36](https://lobste.rs/s/xwpyh0/all_you_need_is_cody) - [All You Need Is Cody](https://about.sourcegraph.com/blog/all-you-need-is-cody)
 * [2023-06-29, 12:39:42](https://lobste.rs/s/7t9p8t/frida_can_now_inject_rust_inline_hooks) - [Frida can now inject Rust and inline hooks into OS kernels and embedded targets](https://frida.re/news/2023/06/23/frida-16-1-0-released/)
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
-* [2023-06-29, 10:32:40](https://lobste.rs/s/fn7g2n/practical_procedural_macros) - [Practical Procedural Macros](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
-* [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 * [2023-06-28, 14:30:56](https://lobste.rs/s/gc4ie8/gmail_is_marking_my_email_as_spam) - [GMail is Marking My Email as Spam](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
-* [2023-06-28, 06:13:31](https://lobste.rs/s/jgk0id/programming_languages_going_above) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 
 ## [Archives](archives/index.md)
 
