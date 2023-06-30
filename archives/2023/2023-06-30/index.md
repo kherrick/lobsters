@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 * [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
 * [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)

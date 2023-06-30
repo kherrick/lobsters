@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 * [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
 * [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
@@ -10,7 +11,6 @@
 * [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 11:32:21](https://lobste.rs/s/owlzqs/yoga_layout_cross_platform_layout_engine) - [Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
-* [2023-06-30, 07:07:33](https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process) - [Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust](https://arxiv.org/abs/2306.08127)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-30, 04:57:04](https://lobste.rs/s/t92n0w/finding_bestest_sine_function_for) - [Finding the BESTEST sine function for Nintendo 64](http://blog.sesse.net/blog/tech/2023-06-29-23-16_finding_the_bestest_sine_function_for_nintendo_64.html)
 * [2023-06-29, 22:26:21](https://lobste.rs/s/jlhjb8/software_runtimes_are_hot_again) - [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
