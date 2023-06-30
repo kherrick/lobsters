@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
+* [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
+* [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
+* [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
 * [2023-06-30, 12:42:37](https://lobste.rs/s/x8q1bk/bliss_fulldepends) - [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
 * [2023-06-30, 12:35:50](https://lobste.rs/s/u6t6qp/coding_adventure_making_stronger_chess) - [Coding Adventure: Making a Stronger Chess Engine](https://www.youtube.com/watch?v=_vqlIPDR2TU)
 * [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
