@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 20:10:02",
+      "https://lobste.rs/s/czatp8/waiting_for_go1_21_execution_tracing_with"
+    ],
+    [
+      "Waiting for go1.21: Execution Tracing with < 1% Overhead",
+      "https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 19:43:10",
       "https://lobste.rs/s/dmveiv/user_apc_api_2020"
     ],
@@ -237,16 +247,6 @@
     [
       "NixOS and my Descent into Insanity",
       "https://ersei.net/en/blog/its-nixin-time"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 05:02:31",
-      "https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library"
-    ],
-    [
-      "CLI tools hidden in the Python standard library",
-      "https://til.simonwillison.net/python/stdlib-cli-tools"
     ]
   ]
 ]
