@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-06-30, 04:57:04](https://lobste.rs/s/t92n0w/finding_bestest_sine_function_for) - [Finding the BESTEST sine function for Nintendo 64](http://blog.sesse.net/blog/tech/2023-06-29-23-16_finding_the_bestest_sine_function_for_nintendo_64.html)
 * [2023-06-29, 22:40:14](https://lobste.rs/s/yjhhzu/qlora_efficient_finetuning_quantized) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)
 * [2023-06-29, 22:26:21](https://lobste.rs/s/jlhjb8/software_runtimes_are_hot_again) - [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
 * [2023-06-29, 21:58:41](https://lobste.rs/s/5vvoe8/attempting_large_code_refactor_using) - [Attempting Large Code Refactor using LLMs](https://contra.com/p/NU73mvBO-attempting-large-code-refactor-using-ll-ms)
@@ -18,7 +19,6 @@
 * [2023-06-29, 11:55:59](https://lobste.rs/s/bizm4q/awk_programming_language_second_edition) - [The AWK Programming Language, Second Edition](https://awk.dev)
 * [2023-06-29, 10:32:40](https://lobste.rs/s/fn7g2n/practical_procedural_macros) - [Practical Procedural Macros](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 05:02:31](https://lobste.rs/s/8wcdzy/cli_tools_hidden_python_standard_library) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
-* [2023-06-29, 00:35:09](https://lobste.rs/s/pw96vs/quick_tour_nvm_express_nvme) - [A Quick Tour of NVM Express (NVMe)](https://metebalci.com/blog/a-quick-tour-of-nvm-express-nvme/)
 * [2023-06-28, 23:07:12](https://lobste.rs/s/iyltho/cargo_dist) - [cargo-dist](https://opensource.axo.dev/cargo-dist/)
 * [2023-06-28, 18:05:05](https://lobste.rs/s/a3xoz9/i_made_command_line_tool_designed_assist) - [I made a command-line tool designed to assist with polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 16:29:55](https://lobste.rs/s/kq8cmf/typeid_type_safe_k_sortable_globally) - [typeid: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
