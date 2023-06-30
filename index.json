@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 07:07:33",
+      "https://lobste.rs/s/bsozaj/friend_foe_inside_exploring_process"
+    ],
+    [
+      "Friend or Foe Inside? Exploring In-Process Isolation to Maintain Memory Safety for Unsafe Rust",
+      "https://arxiv.org/abs/2306.08127"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 06:41:42",
       "https://lobste.rs/s/svhzj9/divorce_from_llvm"
     ],
@@ -227,16 +237,6 @@
     [
       "GMail is Marking My Email as Spam",
       "http://www.igregious.com/2023/03/gmail-is-breaking-email.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 09:04:24",
-      "https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why"
-    ],
-    [
-      "What ad blocker do you use and why?",
-      "https://lobste.rs/s/gzud3v/what_ad_blocker_do_you_use_why"
     ]
   ],
   [
