@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 19:43:10](https://lobste.rs/s/dmveiv/user_apc_api_2020) - [User APC API (2020)](https://repnz.github.io/posts/apc/user-apc/)
 * [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
