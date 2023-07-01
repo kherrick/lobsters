@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-01, 10:03:35",
+      "https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems"
+    ],
+    [
+      "Failure modes of decentralized systems",
+      "http://dpk.io/centralization"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 08:18:43",
       "https://lobste.rs/s/hjhzyt/opensmtpd_7_3_0p1_released"
     ],
@@ -187,16 +197,6 @@
     [
       "For Python packages, file structure != API",
       "https://benhoyt.com/writings/python-api-file-structure/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 12:42:37",
-      "https://lobste.rs/s/x8q1bk/bliss_fulldepends"
-    ],
-    [
-      "bliss-fulldepends",
-      "https://bvnf.space/blog/009-fulldeps.html"
     ]
   ],
   [
