@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 18:57:30](https://lobste.rs/s/zjtfuz/gpu_accelerated_smt_constraint_solving) - [GPU accelerated SMT constraint solving](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
+* [2023-07-01, 18:54:14](https://lobste.rs/s/xjkftk/putting_filesystem_on_top_object_store_is) - [Putting a Filesystem on Top of an Object Store is a Bad Idea. Here is why](https://blog.min.io/filesystem-on-object-store-is-a-bad-idea/)
 * [2023-07-01, 17:46:41](https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with) - [Simple Fixed-window Rate Limiter With Redis](https://hjr265.me/blog/simple-rate-limiter-with-redis/)
 * [2023-07-01, 15:12:13](https://lobste.rs/s/zz1bfj/understanding_wasm_part_2_whence_wasm) - [Understanding Wasm, Part 2: Whence Wasm - Chris Dickinson](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)

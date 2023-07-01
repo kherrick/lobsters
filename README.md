@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 18:57:30](https://lobste.rs/s/zjtfuz/gpu_accelerated_smt_constraint_solving) - [GPU accelerated SMT constraint solving](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
+* [2023-07-01, 18:54:14](https://lobste.rs/s/xjkftk/putting_filesystem_on_top_object_store_is) - [Putting a Filesystem on Top of an Object Store is a Bad Idea. Here is why](https://blog.min.io/filesystem-on-object-store-is-a-bad-idea/)
 * [2023-07-01, 17:46:41](https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with) - [Simple Fixed-window Rate Limiter With Redis](https://hjr265.me/blog/simple-rate-limiter-with-redis/)
 * [2023-07-01, 15:12:13](https://lobste.rs/s/zz1bfj/understanding_wasm_part_2_whence_wasm) - [Understanding Wasm, Part 2: Whence Wasm](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
@@ -18,10 +20,8 @@
 * [2023-06-30, 20:10:02](https://lobste.rs/s/czatp8/waiting_for_go1_21_execution_tracing_with) - [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
 * [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
-* [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
-* [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
 * [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
