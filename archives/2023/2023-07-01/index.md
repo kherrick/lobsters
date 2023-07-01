@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
 * [2023-07-01, 08:18:43](https://lobste.rs/s/hjhzyt/opensmtpd_7_3_0p1_released) - [OpenSMTPD 7.3.0p1 released](https://www.mail-archive.com/misc@opensmtpd.org/msg05909.html)
 * [2023-07-01, 06:58:49](https://lobste.rs/s/u7zxbx/why_roller_coaster_tycoon_is_game) - [Why Roller Coaster Tycoon is a Game Development Masterpiece](https://youtu.be/ESGHKtrlMzs)

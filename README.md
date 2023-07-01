@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
 * [2023-07-01, 08:18:43](https://lobste.rs/s/hjhzyt/opensmtpd_7_3_0p1_released) - [OpenSMTPD 7.3.0p1 released](https://www.mail-archive.com/misc@opensmtpd.org/msg05909.html)
 * [2023-07-01, 06:58:49](https://lobste.rs/s/u7zxbx/why_roller_coaster_tycoon_is_game) - [Why Roller Coaster Tycoon is a Game Development Masterpiece](https://youtu.be/ESGHKtrlMzs)
@@ -20,7 +21,6 @@
 * [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
 * [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
 * [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
-* [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
