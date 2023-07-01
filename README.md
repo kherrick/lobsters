@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 17:46:41](https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with) - [Simple Fixed-window Rate Limiter With Redis](https://hjr265.me/blog/simple-rate-limiter-with-redis/)
 * [2023-07-01, 15:12:13](https://lobste.rs/s/zz1bfj/understanding_wasm_part_2_whence_wasm) - [Understanding Wasm, Part 2: Whence Wasm](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 * [2023-07-01, 13:01:02](https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus) - [Training LLMs with AMD MI250 GPUs and MosaicML](https://www.mosaicml.com/blog/amd-mi250)
@@ -11,7 +12,6 @@
 * [2023-07-01, 05:33:45](https://lobste.rs/s/qc2ld4/c64_cartridge_on_stripboard) - [C64 Cartridge on a Stripboard](http://www.linusakesson.net/hardware/autostart/index.php)
 * [2023-07-01, 04:18:40](https://lobste.rs/s/w9n4a3/efficient_jagged_arrays) - [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-01, 04:13:12](https://lobste.rs/s/2ms8ti/programming_on_ipad) - [Programming On an iPad](https://juliette.page/blog/ipad.html)
-* [2023-07-01, 03:12:48](https://lobste.rs/s/qz9mwn/compiling_pseudo_rust_code_x86_assembly) - [Compiling Pseudo-Rust Code to x86 Assembly](https://veera.app/codegen.html)
 * [2023-06-30, 22:28:59](https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail) - [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
 * [2023-06-30, 20:59:34](https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst) - [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
 * [2023-06-30, 20:48:01](https://lobste.rs/s/uwupbr/what_s_between_set_sequence) - [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
