@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 13:01:02](https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus) - [Training LLMs with AMD MI250 GPUs and MosaicML](https://www.mosaicml.com/blog/amd-mi250)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)

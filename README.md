@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 13:01:02](https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus) - [Training LLMs with AMD MI250 GPUs and MosaicML](https://www.mosaicml.com/blog/amd-mi250)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
@@ -24,7 +25,6 @@
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-29, 21:28:21](https://lobste.rs/s/acepul/wayland_is_pretty_good_actually) - [Wayland is pretty good, actually](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
-* [2023-06-29, 15:09:04](https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity) - [NixOS and my Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
 
 ## [Archives](archives/index.md)
 
