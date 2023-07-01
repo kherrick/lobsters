@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 04:18:40](https://lobste.rs/s/w9n4a3/efficient_jagged_arrays) - [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-01, 04:13:12](https://lobste.rs/s/2ms8ti/programming_on_ipad) - [Programming On an iPad](https://juliette.page/blog/ipad.html)
 * [2023-07-01, 03:12:48](https://lobste.rs/s/qz9mwn/boba_devlog_0_compiling_pseudo_rust_code) - [Boba Devlog #0: Compiling Pseudo-Rust Code to x86 Assembly](https://veera.app/codegen.html)
 * [2023-06-30, 22:28:59](https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail) - [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
@@ -18,7 +19,6 @@
 * [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)
 * [2023-06-30, 12:42:37](https://lobste.rs/s/x8q1bk/bliss_fulldepends) - [bliss-fulldepends](https://bvnf.space/blog/009-fulldeps.html)
 * [2023-06-30, 12:32:04](https://lobste.rs/s/rhj7r0/bayesian_learning) - [Bayesian Learning](https://ermongroup.github.io/cs228-notes/learning/bayesian/)
-* [2023-06-30, 11:33:16](https://lobste.rs/s/robyj5/puzzlefs_next_generation_container) - [PuzzleFS: a next-generation container filesystem](https://github.com/anuvu/puzzlefs)
 * [2023-06-30, 08:45:12](https://lobste.rs/s/1wlsbh/course_network_can_be_filesystem) - [Of course the network can be a filesystem](https://xeiaso.net/blog/gophercon-eu-demo)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-29, 22:26:21](https://lobste.rs/s/jlhjb8/software_runtimes_are_hot_again) - [Software runtimes are hot again](https://github.com/stealthrocket/timecraft)
