@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 06:58:49](https://lobste.rs/s/u7zxbx/why_roller_coaster_tycoon_is_game) - [Why Roller Coaster Tycoon is a Game Development Masterpiece](https://youtu.be/ESGHKtrlMzs)
 * [2023-07-01, 05:33:45](https://lobste.rs/s/qc2ld4/c64_cartridge_on_stripboard) - [C64 Cartridge on a Stripboard](http://www.linusakesson.net/hardware/autostart/index.php)
 * [2023-07-01, 04:18:40](https://lobste.rs/s/w9n4a3/efficient_jagged_arrays) - [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-01, 04:13:12](https://lobste.rs/s/2ms8ti/programming_on_ipad) - [Programming On an iPad](https://juliette.page/blog/ipad.html)
@@ -14,7 +15,6 @@
 * [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
-* [2023-06-30, 13:03:36](https://lobste.rs/s/euzxt6/training_transformers_with_4_bit) - [Training Transformers with 4-bit Integers](https://arxiv.org/abs/2306.11987)
 * [2023-06-30, 12:58:11](https://lobste.rs/s/ailbl7/python_legend_zelda) - [Python and the Legend of Zelda](https://gazj.substack.com/p/python-and-the-legend-of-zelda)
 * [2023-06-30, 12:56:48](https://lobste.rs/s/akcrvt/three_pitfalls_i2c) - [Three pitfalls in I2C](https://blog.trends.tf/three-pitfalls-in-i2c.html)
 * [2023-06-30, 12:52:37](https://lobste.rs/s/htwngi/for_python_packages_file_structure_api) - [For Python packages, file structure != API](https://benhoyt.com/writings/python-api-file-structure/)

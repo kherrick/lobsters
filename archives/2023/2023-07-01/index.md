@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 06:58:49](https://lobste.rs/s/u7zxbx/why_roller_coaster_tycoon_is_game) - [Why Roller Coaster Tycoon is a Game Development Masterpiece](https://youtu.be/ESGHKtrlMzs)
 * [2023-07-01, 05:33:45](https://lobste.rs/s/qc2ld4/c64_cartridge_on_stripboard) - [C64 Cartridge on a Stripboard](http://www.linusakesson.net/hardware/autostart/index.php)
 * [2023-07-01, 04:18:40](https://lobste.rs/s/w9n4a3/efficient_jagged_arrays) - [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-01, 04:13:12](https://lobste.rs/s/2ms8ti/programming_on_ipad) - [Programming On an iPad](https://juliette.page/blog/ipad.html)
