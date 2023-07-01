@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
+* [2023-07-01, 23:45:28](https://lobste.rs/s/aw8oz3/sobject_datetime_precision_testing) - [SObject Datetime Precision and Testing - Salesforce](https://www.robbieduncan.com/blog/sobject-datetime-precision-and-testing)
 * [2023-07-01, 22:19:20](https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip) - [Turbo9 - Pipelined 6809 Microprocessor IP](https://www.youtube.com/watch?v=LPJ4IFz4fjE)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 22:03:30](https://lobste.rs/s/cq9kr2/who_killed_google_reader) - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
@@ -8,7 +10,6 @@
 * [2023-07-01, 17:46:41](https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with) - [Simple Fixed-window Rate Limiter With Redis](https://hjr265.me/blog/simple-rate-limiter-with-redis/)
 * [2023-07-01, 15:12:13](https://lobste.rs/s/zz1bfj/understanding_wasm_part_2_whence_wasm) - [Understanding Wasm, Part 2: Whence Wasm](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
-* [2023-07-01, 13:01:02](https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus) - [Training LLMs with AMD MI250 GPUs and MosaicML](https://www.mosaicml.com/blog/amd-mi250)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
@@ -24,7 +25,6 @@
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
-* [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 
 ## [Archives](archives/index.md)
 

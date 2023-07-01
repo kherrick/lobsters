@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
+* [2023-07-01, 23:45:28](https://lobste.rs/s/aw8oz3/sobject_datetime_precision_testing) - [SObject Datetime Precision and Testing - Salesforce](https://www.robbieduncan.com/blog/sobject-datetime-precision-and-testing)
 * [2023-07-01, 22:19:20](https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip) - [Turbo9 - Pipelined 6809 Microprocessor IP](https://www.youtube.com/watch?v=LPJ4IFz4fjE)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 22:03:30](https://lobste.rs/s/cq9kr2/who_killed_google_reader) - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
