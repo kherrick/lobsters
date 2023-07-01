@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 15:12:13](https://lobste.rs/s/zz1bfj/understanding_wasm_part_2_whence_wasm) - [Understanding Wasm, Part 2: Whence Wasm - Chris Dickinson](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 * [2023-07-01, 13:01:02](https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus) - [Training LLMs with AMD MI250 GPUs and MosaicML](https://www.mosaicml.com/blog/amd-mi250)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
