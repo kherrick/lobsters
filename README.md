@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-06-30, 23:46:18](https://lobste.rs/s/3ljgla/reddit_users_are_saying_goodbye_their) - [Reddit users are saying goodbye to their favorite apps with tributes and memes](https://www.theverge.com/2023/6/30/23780130/reddit-third-party-apps-saying-goodbye-apollo-rif-boost-sync-baconreader)
 * [2023-06-30, 22:28:59](https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail) - [NFSv4 Server Inside FreeBSD VNET Jail](https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/)
 * [2023-06-30, 20:59:34](https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst) - [The simplest package manager (for Typst)](https://typst.app/blog/2023/package-manager)
 * [2023-06-30, 20:48:01](https://lobste.rs/s/uwupbr/what_s_between_set_sequence) - [What's between a set and a sequence?](https://buttondown.email/hillelwayne/archive/whats-lives-between-a-set-and-a-sequence/)
@@ -8,6 +7,7 @@
 * [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 17:01:49](https://lobste.rs/s/mzmdux/racket_frustrates_me) - [Racket frustrates me](https://blog.winny.tech/posts/racket-frustrates-me/)
+* [2023-06-30, 15:57:42](https://lobste.rs/s/ief0lb/foenix_f256k_new_retro_computer) - [Foenix F256K New Retro Computer](https://www.youtube.com/watch?v=57FuA8YuXn0)
 * [2023-06-30, 15:55:22](https://lobste.rs/s/b1edks/quadratic_c_i_cost_growth) - [Quadratic C.I. Cost Growth](https://www.softwareatscale.dev/p/quadratic-ci-cost-growth)
 * [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
