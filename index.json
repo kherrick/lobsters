@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-01, 23:45:37",
+      "https://lobste.rs/s/oj5bfs/programming_language_checklist"
+    ],
+    [
+      "Programming language checklist",
+      "https://www.mcmillen.dev/language_checklist.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 23:45:28",
+      "https://lobste.rs/s/aw8oz3/sobject_datetime_precision_testing"
+    ],
+    [
+      "SObject Datetime Precision and Testing - Salesforce",
+      "https://www.robbieduncan.com/blog/sobject-datetime-precision-and-testing"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 22:19:20",
       "https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip"
     ],
@@ -77,16 +97,6 @@
     [
       "Postgres schema changes are still a PITA",
       "https://xata.io/blog/postgres-schema-changes-pita"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 13:01:02",
-      "https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus"
-    ],
-    [
-      "Training LLMs with AMD MI250 GPUs and MosaicML",
-      "https://www.mosaicml.com/blog/amd-mi250"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Divorce from LLVM",
       "https://github.com/ziglang/zig/issues/16270"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 20:10:36",
-      "https://lobste.rs/s/yhdjvx/javascript_gom_jabbar"
-    ],
-    [
-      "JavaScript Gom Jabbar",
-      "https://frantic.im/javascript-gom-jabbar/"
     ]
   ]
 ]
