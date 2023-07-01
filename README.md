@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-01, 22:19:20](https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip) - [Turbo9 - Pipelined 6809 Microprocessor IP](https://www.youtube.com/watch?v=LPJ4IFz4fjE)
+* [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 22:03:30](https://lobste.rs/s/cq9kr2/who_killed_google_reader) - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
 * [2023-07-01, 18:57:30](https://lobste.rs/s/zjtfuz/gpu_accelerated_smt_constraint_solving) - [GPU accelerated SMT constraint solving](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
 * [2023-07-01, 18:54:14](https://lobste.rs/s/xjkftk/putting_filesystem_on_top_object_store_is) - [Putting a Filesystem on Top of an Object Store is a Bad Idea. Here is why](https://blog.min.io/filesystem-on-object-store-is-a-bad-idea/)
@@ -11,7 +13,6 @@
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
 * [2023-07-01, 08:18:43](https://lobste.rs/s/hjhzyt/opensmtpd_7_3_0p1_released) - [OpenSMTPD 7.3.0p1 released](https://www.mail-archive.com/misc@opensmtpd.org/msg05909.html)
-* [2023-07-01, 06:58:49](https://lobste.rs/s/u7zxbx/why_roller_coaster_tycoon_is_game) - [Why Roller Coaster Tycoon is a Game Development Masterpiece](https://youtu.be/ESGHKtrlMzs)
 * [2023-07-01, 05:33:45](https://lobste.rs/s/qc2ld4/c64_cartridge_on_stripboard) - [C64 Cartridge on a Stripboard](http://www.linusakesson.net/hardware/autostart/index.php)
 * [2023-07-01, 04:18:40](https://lobste.rs/s/w9n4a3/efficient_jagged_arrays) - [Efficient jagged arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-01, 04:13:12](https://lobste.rs/s/2ms8ti/programming_on_ipad) - [Programming On an iPad](https://juliette.page/blog/ipad.html)
@@ -21,7 +22,6 @@
 * [2023-06-30, 20:10:02](https://lobste.rs/s/czatp8/waiting_for_go1_21_execution_tracing_with) - [Waiting for go1.21: Execution Tracing with < 1% Overhead](https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/)
 * [2023-06-30, 19:28:04](https://lobste.rs/s/fjejkz/programming_language_perversity) - [Programming Language Perversity](https://buttondown.email/hillelwayne/archive/programming-language-perversity/)
 * [2023-06-30, 19:01:35](https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
-* [2023-06-30, 14:47:45](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rclqqu/what_are_you_doing_this_weekend)
 * [2023-06-30, 14:31:39](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life) - [Fun Format Friday: Code is the fabric of life](https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life)
 * [2023-06-30, 06:41:42](https://lobste.rs/s/svhzj9/divorce_from_llvm) - [Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-29, 20:10:36](https://lobste.rs/s/yhdjvx/javascript_gom_jabbar) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
