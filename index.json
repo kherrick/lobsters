@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-01, 13:01:02",
+      "https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus"
+    ],
+    [
+      "Training LLMs with AMD MI250 GPUs and MosaicML",
+      "https://www.mosaicml.com/blog/amd-mi250"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 12:30:38",
       "https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog"
     ],
@@ -237,16 +247,6 @@
     [
       "JavaScript Gom Jabbar",
       "https://frantic.im/javascript-gom-jabbar/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 15:09:04",
-      "https://lobste.rs/s/dpmkva/nixos_my_descent_into_insanity"
-    ],
-    [
-      "NixOS and my Descent into Insanity",
-      "https://ersei.net/en/blog/its-nixin-time"
     ]
   ]
 ]
