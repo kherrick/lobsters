@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-01, 12:06:17",
+      "https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps"
+    ],
+    [
+      "The problem with federated web apps",
+      "https://www.devever.net/~hl/webappcoupling"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 10:03:35",
       "https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems"
     ],
@@ -197,16 +207,6 @@
     [
       "For Python packages, file structure != API",
       "https://benhoyt.com/writings/python-api-file-structure/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 12:32:04",
-      "https://lobste.rs/s/rhj7r0/bayesian_learning"
-    ],
-    [
-      "Bayesian Learning",
-      "https://ermongroup.github.io/cs228-notes/learning/bayesian/"
     ]
   ],
   [
