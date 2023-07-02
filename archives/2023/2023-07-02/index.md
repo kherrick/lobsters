@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 07:13:21](https://lobste.rs/s/u7bsm9/tree_structured_concurrency) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 * [2023-07-02, 06:48:23](https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries) - [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2023-07-02, 04:16:53](https://lobste.rs/s/5wnigy/restful_is_scam_browsers_are_cool) - [restful is a scam, but browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)

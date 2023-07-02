@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-02, 07:13:21](https://lobste.rs/s/u7bsm9/tree_structured_concurrency) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 * [2023-07-02, 06:48:23](https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries) - [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2023-07-02, 04:16:53](https://lobste.rs/s/5wnigy/restful_is_scam_browsers_are_cool) - [restful is a scam, but browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)
@@ -10,7 +11,6 @@
 * [2023-07-02, 02:20:23](https://lobste.rs/s/0h5sss/complex_history_intel_i960_risc) - [The complex history of the Intel i960 RISC processor](https://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
-* [2023-07-01, 23:45:28](https://lobste.rs/s/aw8oz3/sobject_datetime_precision_testing) - [SObject Datetime Precision and Testing - Salesforce](https://www.robbieduncan.com/blog/sobject-datetime-precision-and-testing)
 * [2023-07-01, 22:19:20](https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip) - [Turbo9 - Pipelined 6809 Microprocessor IP](https://www.youtube.com/watch?v=LPJ4IFz4fjE)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 22:03:30](https://lobste.rs/s/cq9kr2/who_killed_google_reader) - [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)
