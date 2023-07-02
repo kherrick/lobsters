@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-02, 17:17:43",
+      "https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise"
+    ],
+    [
+      "Propagating bounds through bitwise operations",
+      "http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 17:13:03",
+      "https://lobste.rs/s/7rhm1z/goodbye_monster"
+    ],
+    [
+      "goodbye monster",
+      "https://goodbye.monster/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 17:06:13",
+      "https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt"
+    ],
+    [
+      "How Google Measures and Manages Tech Debt",
+      "https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 15:28:06",
       "https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-07-02, 02:20:23",
-      "https://lobste.rs/s/0h5sss/complex_history_intel_i960_risc"
-    ],
-    [
-      "The complex history of the Intel i960 RISC processor",
-      "https://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 00:53:38",
       "https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations"
     ],
@@ -177,16 +197,6 @@
     [
       "Programming language checklist",
       "https://www.mcmillen.dev/language_checklist.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 22:19:20",
-      "https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip"
-    ],
-    [
-      "Turbo9 - Pipelined 6809 Microprocessor IP",
-      "https://www.youtube.com/watch?v=LPJ4IFz4fjE"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The problem with federated web apps",
       "https://www.devever.net/~hl/webappcoupling"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 10:03:35",
-      "https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems"
-    ],
-    [
-      "Failure modes of decentralized systems",
-      "http://dpk.io/centralization"
     ]
   ]
 ]
