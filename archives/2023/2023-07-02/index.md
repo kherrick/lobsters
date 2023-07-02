@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 12:04:21](https://lobste.rs/s/rf6mtw/why_go_full_stack_2023) - [Why go full-stack in 2023?](https://teamplify.com/blog/why-go-full-stack/)
 * [2023-07-02, 11:27:15](https://lobste.rs/s/aygoog/first_successful_firmware_update_bare) - [First Successful Firmware Update: Bare Metal Programming Series](https://www.youtube.com/watch?v=fnulMkctAWk)
 * [2023-07-02, 10:54:33](https://lobste.rs/s/kh5sne/windows_10_on_xiaomi_pocophone_f1) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
