@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-07-02, 12:04:21",
-      "https://lobste.rs/s/rf6mtw/why_go_full_stack_2023"
+      "2023-07-02, 13:02:42",
+      "https://lobste.rs/s/wdxc1b/programming_on_android_tablet"
     ],
     [
-      "Why go full-stack in 2023?",
-      "https://teamplify.com/blog/why-go-full-stack/"
+      "Programming on an Android tablet",
+      "https://denizaksimsek.com/2023/programming-on-a-tablet/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 12:58:57",
+      "https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own"
+    ],
+    [
+      "Is there a simple way to self-host your own tweets?",
+      "https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "GPU accelerated SMT constraint solving",
       "https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 17:46:41",
-      "https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with"
-    ],
-    [
-      "Simple Fixed-window Rate Limiter With Redis",
-      "https://hjr265.me/blog/simple-rate-limiter-with-redis/"
     ]
   ],
   [
