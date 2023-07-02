@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 15:28:06",
+      "https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead"
+    ],
+    [
+      "TweetSneak - Evade Twitter Login Overhead",
+      "https://tweetsneak.pages.dev/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 14:30:51",
       "https://lobste.rs/s/rz1pxp/implementing_c_like_for_loop_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Failure modes of decentralized systems",
       "http://dpk.io/centralization"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 20:59:34",
-      "https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst"
-    ],
-    [
-      "The simplest package manager (for Typst)",
-      "https://typst.app/blog/2023/package-manager"
     ]
   ]
 ]
