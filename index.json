@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 06:55:09",
+      "https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via"
+    ],
+    [
+      "Static site update, self-hosted search via pagefind",
+      "http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 06:48:23",
       "https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries"
     ],
@@ -197,16 +207,6 @@
     [
       "Failure modes of decentralized systems",
       "http://dpk.io/centralization"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 04:18:40",
-      "https://lobste.rs/s/w9n4a3/efficient_jagged_arrays"
-    ],
-    [
-      "Efficient jagged arrays",
-      "https://zeux.io/2023/06/30/efficient-jagged-arrays/"
     ]
   ],
   [
