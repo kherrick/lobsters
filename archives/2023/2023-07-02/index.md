@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 22:06:53](https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)

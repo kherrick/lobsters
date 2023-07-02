@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-02, 22:06:53](https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
@@ -18,7 +19,6 @@
 * [2023-07-02, 03:02:52](https://lobste.rs/s/6v4txm/why_i_use_twain_web_framework) - [Why I use the Twain web framework](https://gilmi.me/blog/post/2023/07/01/why-i-use-twain)
 * [2023-07-02, 02:51:21](https://lobste.rs/s/rdjhrm/cool_urls_keep_their_contents) - [Cool URLs keep their contents](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsKeepTheirContents)
 * [2023-07-02, 02:46:38](https://lobste.rs/s/bku4lj/making_potato_livecam_with_commodore_128) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](https://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
-* [2023-07-02, 02:23:50](https://lobste.rs/s/yblhgm/opengoal_jak_daxter_port_progress_report) - [OpenGoal Jak and Daxter Port Progress Report - June 2023](https://opengoal.dev/blog/progress-report-june-2023/)
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
