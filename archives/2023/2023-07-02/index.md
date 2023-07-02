@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
+* [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
+* [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
 * [2023-07-02, 14:30:51](https://lobste.rs/s/rz1pxp/implementing_c_like_for_loop_python) - [Implementing a c-like for loop in Python](https://tushar.lol/post/cursed-for/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)

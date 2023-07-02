@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
+* [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
+* [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
 * [2023-07-02, 14:30:51](https://lobste.rs/s/rz1pxp/implementing_c_like_for_loop_python) - [Implementing a c-like for loop in Python](https://tushar.lol/post/cursed-for/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
@@ -15,16 +18,13 @@
 * [2023-07-02, 02:51:21](https://lobste.rs/s/rdjhrm/cool_urls_keep_their_contents) - [Cool URLs keep their contents](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsKeepTheirContents)
 * [2023-07-02, 02:46:38](https://lobste.rs/s/bku4lj/making_potato_livecam_with_commodore_128) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](https://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 * [2023-07-02, 02:23:50](https://lobste.rs/s/yblhgm/opengoal_jak_daxter_port_progress_report) - [OpenGoal Jak and Daxter Port Progress Report - June 2023](https://opengoal.dev/blog/progress-report-june-2023/)
-* [2023-07-02, 02:20:23](https://lobste.rs/s/0h5sss/complex_history_intel_i960_risc) - [The complex history of the Intel i960 RISC processor](https://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
-* [2023-07-01, 22:19:20](https://lobste.rs/s/qhllas/turbo9_pipelined_6809_microprocessor_ip) - [Turbo9 - Pipelined 6809 Microprocessor IP](https://www.youtube.com/watch?v=LPJ4IFz4fjE)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 18:57:30](https://lobste.rs/s/zjtfuz/gpu_accelerated_smt_constraint_solving) - [GPU accelerated SMT constraint solving](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
-* [2023-07-01, 10:03:35](https://lobste.rs/s/xiykqb/failure_modes_decentralized_systems) - [Failure modes of decentralized systems](http://dpk.io/centralization)
 
 ## [Archives](archives/index.md)
 
