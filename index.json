@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 10:15:30",
+      "https://lobste.rs/s/bntuxk/smallest_pride_contribution"
+    ],
+    [
+      "The smallest Pride contribution",
+      "https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 07:13:21",
       "https://lobste.rs/s/u7bsm9/tree_structured_concurrency"
     ],
@@ -227,16 +237,6 @@
     [
       "The simplest package manager (for Typst)",
       "https://typst.app/blog/2023/package-manager"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 19:01:35",
-      "https://lobste.rs/s/m7igmh/commonjs_is_hurting_javascript"
-    ],
-    [
-      "CommonJS is hurting JavaScript",
-      "https://deno.com/blog/commonjs-is-hurting-javascript"
     ]
   ],
   [
