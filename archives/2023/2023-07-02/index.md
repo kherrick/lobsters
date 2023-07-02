@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
+* [2023-07-02, 12:58:57](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own) - [Is there a simple way to self-host your own tweets?](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own)
 * [2023-07-02, 12:04:21](https://lobste.rs/s/rf6mtw/why_go_full_stack_2023) - [Why go full-stack in 2023?](https://teamplify.com/blog/why-go-full-stack/)
 * [2023-07-02, 11:27:15](https://lobste.rs/s/aygoog/first_successful_firmware_update_bare) - [First Successful Firmware Update: Bare Metal Programming Series](https://www.youtube.com/watch?v=fnulMkctAWk)
 * [2023-07-02, 10:54:33](https://lobste.rs/s/kh5sne/windows_10_on_xiaomi_pocophone_f1) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
