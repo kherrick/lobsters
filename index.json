@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 06:48:23",
+      "https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries"
+    ],
+    [
+      "ldd(1) and untrusted binaries",
+      "https://jmmv.dev/2023/07/ldd-untrusted-binaries.html"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 04:16:53",
       "https://lobste.rs/s/5wnigy/restful_is_scam_browsers_are_cool"
     ],
@@ -187,16 +197,6 @@
     [
       "Failure modes of decentralized systems",
       "http://dpk.io/centralization"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 05:33:45",
-      "https://lobste.rs/s/qc2ld4/c64_cartridge_on_stripboard"
-    ],
-    [
-      "C64 Cartridge on a Stripboard",
-      "http://www.linusakesson.net/hardware/autostart/index.php"
     ]
   ],
   [
