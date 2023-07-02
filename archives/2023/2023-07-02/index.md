@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 * [2023-07-02, 07:13:21](https://lobste.rs/s/u7bsm9/tree_structured_concurrency) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 * [2023-07-02, 06:48:23](https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries) - [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
