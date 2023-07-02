@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 11:27:15",
+      "https://lobste.rs/s/aygoog/first_successful_firmware_update_bare"
+    ],
+    [
+      "First Successful Firmware Update: Bare Metal Programming Series",
+      "https://www.youtube.com/watch?v=fnulMkctAWk"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 10:54:33",
       "https://lobste.rs/s/kh5sne/windows_10_on_xiaomi_pocophone_f1"
     ],
@@ -237,16 +247,6 @@
     [
       "The simplest package manager (for Typst)",
       "https://typst.app/blog/2023/package-manager"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 06:41:42",
-      "https://lobste.rs/s/svhzj9/divorce_from_llvm"
-    ],
-    [
-      "Divorce from LLVM",
-      "https://github.com/ziglang/zig/issues/16270"
     ]
   ]
 ]
