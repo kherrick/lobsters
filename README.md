@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
 * [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
@@ -21,7 +22,6 @@
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
-* [2023-07-01, 18:57:30](https://lobste.rs/s/zjtfuz/gpu_accelerated_smt_constraint_solving) - [GPU accelerated SMT constraint solving](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
 * [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)

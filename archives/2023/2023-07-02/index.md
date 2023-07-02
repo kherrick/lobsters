@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:17:43](https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
 * [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
