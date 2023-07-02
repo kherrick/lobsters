@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-02, 02:23:50",
+      "https://lobste.rs/s/yblhgm/opengoal_jak_daxter_port_progress_report"
+    ],
+    [
+      "OpenGoal Jak and Daxter Port Progress Report - June 2023",
+      "https://opengoal.dev/blog/progress-report-june-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 02:20:23",
+      "https://lobste.rs/s/0h5sss/complex_history_intel_i960_risc"
+    ],
+    [
+      "The complex history of the Intel i960 RISC processor",
+      "https://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 00:53:38",
+      "https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations"
+    ],
+    [
+      "Zero-downtime schema migrations in Postgres using Reshape",
+      "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 23:45:37",
       "https://lobste.rs/s/oj5bfs/programming_language_checklist"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-07-01, 13:01:02",
-      "https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus"
-    ],
-    [
-      "Training LLMs with AMD MI250 GPUs and MosaicML",
-      "https://www.mosaicml.com/blog/amd-mi250"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 12:30:38",
       "https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-30, 22:28:59",
-      "https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail"
-    ],
-    [
-      "NFSv4 Server Inside FreeBSD VNET Jail",
-      "https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 20:59:34",
       "https://lobste.rs/s/g9hkks/simplest_package_manager_for_typst"
     ],
@@ -227,16 +237,6 @@
     [
       "CommonJS is hurting JavaScript",
       "https://deno.com/blog/commonjs-is-hurting-javascript"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 14:31:39",
-      "https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life"
-    ],
-    [
-      "Fun Format Friday: Code is the fabric of life",
-      "https://lobste.rs/s/0dqjmb/fun_format_friday_code_is_fabric_life"
     ]
   ],
   [
