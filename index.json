@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 22:06:53",
+      "https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd"
+    ],
+    [
+      "Parsing time stamps faster with SIMD instructions",
+      "https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 20:50:03",
       "https://lobste.rs/s/alwaiy/100_test_coverage"
     ],
@@ -177,16 +187,6 @@
     [
       "Making a potato livecam with the Commodore 128 VDC and ComputerEyes",
       "https://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 02:23:50",
-      "https://lobste.rs/s/yblhgm/opengoal_jak_daxter_port_progress_report"
-    ],
-    [
-      "OpenGoal Jak and Daxter Port Progress Report - June 2023",
-      "https://opengoal.dev/blog/progress-report-june-2023/"
     ]
   ],
   [
