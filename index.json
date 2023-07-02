@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-07-01, 18:54:14",
-      "https://lobste.rs/s/xjkftk/putting_filesystem_on_top_object_store_is"
-    ],
-    [
-      "Putting a Filesystem on Top of an Object Store is a Bad Idea. Here is why",
-      "https://blog.min.io/filesystem-on-object-store-is-a-bad-idea/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 17:46:41",
       "https://lobste.rs/s/4xi9xd/simple_fixed_window_rate_limiter_with"
     ],
@@ -97,6 +87,16 @@
     [
       "Postgres schema changes are still a PITA",
       "https://xata.io/blog/postgres-schema-changes-pita"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 13:01:02",
+      "https://lobste.rs/s/osgxkx/training_llms_with_amd_mi250_gpus"
+    ],
+    [
+      "Training LLMs with AMD MI250 GPUs and MosaicML",
+      "https://www.mosaicml.com/blog/amd-mi250"
     ]
   ],
   [
