@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 07:13:21",
+      "https://lobste.rs/s/u7bsm9/tree_structured_concurrency"
+    ],
+    [
+      "Tree-Structured Concurrency",
+      "https://blog.yoshuawuyts.com/tree-structured-concurrency/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 06:55:09",
       "https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via"
     ],
@@ -97,16 +107,6 @@
     [
       "Programming language checklist",
       "https://www.mcmillen.dev/language_checklist.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 23:45:28",
-      "https://lobste.rs/s/aw8oz3/sobject_datetime_precision_testing"
-    ],
-    [
-      "SObject Datetime Precision and Testing - Salesforce",
-      "https://www.robbieduncan.com/blog/sobject-datetime-precision-and-testing"
     ]
   ],
   [
