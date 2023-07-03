@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 13:37:13](https://lobste.rs/s/hidugz/foundationdb_distributed_key_value) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 * [2023-07-03, 13:09:06](https://lobste.rs/s/ga8obp/joins_13_ways) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
 * [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
@@ -19,7 +20,6 @@
 * [2023-07-02, 14:30:51](https://lobste.rs/s/rz1pxp/implementing_c_like_for_loop_python) - [Implementing a c-like for loop in Python](https://tushar.lol/post/cursed-for/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
 * [2023-07-02, 12:58:57](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own) - [Is there a simple way to self-host your own tweets?](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own)
-* [2023-07-02, 11:27:15](https://lobste.rs/s/aygoog/first_successful_firmware_update_bare) - [First Successful Firmware Update: Bare Metal Programming Series](https://www.youtube.com/watch?v=fnulMkctAWk)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 * [2023-07-02, 07:13:21](https://lobste.rs/s/u7bsm9/tree_structured_concurrency) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
