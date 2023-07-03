@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-03, 13:37:13",
+      "https://lobste.rs/s/hidugz/foundationdb_distributed_key_value"
+    ],
+    [
+      "FoundationDB: A Distributed Key-Value Store",
+      "https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 13:14:10",
       "https://lobste.rs/s/hhoopi/lobsters_is_11_today"
     ],
@@ -187,16 +197,6 @@
     [
       "Is there a simple way to self-host your own tweets?",
       "https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 11:27:15",
-      "https://lobste.rs/s/aygoog/first_successful_firmware_update_bare"
-    ],
-    [
-      "First Successful Firmware Update: Bare Metal Programming Series",
-      "https://www.youtube.com/watch?v=fnulMkctAWk"
     ]
   ],
   [
