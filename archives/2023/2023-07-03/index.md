@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 15:28:25](https://lobste.rs/s/h8x9ek/dark_room_from_code_hobo_indie_game) - [A Dark Room: From Code Hobo to Indie Game Developer](https://corecursive.com/a-dark-room-with-amir-rajan/)

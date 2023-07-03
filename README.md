@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 15:28:25](https://lobste.rs/s/h8x9ek/dark_room_from_code_hobo_indie_game) - [A Dark Room: From Code Hobo to Indie Game Developer](https://corecursive.com/a-dark-room-with-amir-rajan/)
@@ -22,7 +23,6 @@
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
-* [2023-07-02, 12:58:57](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own) - [Is there a simple way to self-host your own tweets?](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 
