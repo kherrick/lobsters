@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 15:28:25](https://lobste.rs/s/h8x9ek/dark_room_from_code_hobo_indie_game) - [A Dark Room: From Code Hobo to Indie Game Developer](https://corecursive.com/a-dark-room-with-amir-rajan/)
 * [2023-07-03, 14:13:50](https://lobste.rs/s/cspe9k/construction_high_performance_virtual) - [The construction of high-performance virtual machines for dynamic languages (2011)](https://theses.gla.ac.uk/2975/1/2011shannonphd.pdf)
 * [2023-07-03, 14:02:32](https://lobste.rs/s/cupmee/two_ways_turbo_charge_tox) - [Two Ways to Turbo-Charge tox](https://hynek.me/articles/turbo-charge-tox/)
@@ -20,7 +21,6 @@
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
 * [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
-* [2023-07-02, 14:30:51](https://lobste.rs/s/rz1pxp/implementing_c_like_for_loop_python) - [Implementing a c-like for loop in Python](https://tushar.lol/post/cursed-for/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
 * [2023-07-02, 12:58:57](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own) - [Is there a simple way to self-host your own tweets?](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
