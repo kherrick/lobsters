@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 21:20:49](https://lobste.rs/s/embrk0/freebsd_successful_failure_linux) - [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
+* [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
+* [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
 * [2023-07-03, 20:51:05](https://lobste.rs/s/rz0hxs/bruno_bonacci_on_viewstamped) - [Bruno Bonacci on Viewstamped Replication @PWL London (2018)](https://www.youtube.com/watch?v=1EzNa-zAYS8)
 * [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:38:23](https://lobste.rs/s/qwatst/cloud_migration_strategy) - [Cloud Migration Strategy Misconceptions](https://redis.com/blog/cloud-migration-strategy-misconceptions/ )

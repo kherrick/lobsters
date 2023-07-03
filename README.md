@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 21:20:49](https://lobste.rs/s/embrk0/freebsd_successful_failure_linux) - [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
+* [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
+* [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
 * [2023-07-03, 20:51:05](https://lobste.rs/s/rz0hxs/bruno_bonacci_on_viewstamped) - [Bruno Bonacci on Viewstamped Replication @PWL London (2018)](https://www.youtube.com/watch?v=1EzNa-zAYS8)
 * [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
@@ -18,11 +21,8 @@
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 07:50:31](https://lobste.rs/s/tdlkxe/how_think_about_async_await_rust) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
-* [2023-07-03, 04:11:30](https://lobste.rs/s/6nftvv/intel_386_microprocessor_design) - [Intel 386 Microprocessor Design and Development Oral History Panel (2008)](http://archive.computerhistory.org/resources/text/Oral_History/Intel_386_Design_and_Dev/102702019.05.01.acc.pdf)
 * [2023-07-03, 03:21:23](https://lobste.rs/s/saaiyd/most_tests_should_be_generated) - [Most Tests Should Be Generated](https://concerningquality.com/generated-tests/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
-* [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
-* [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 
