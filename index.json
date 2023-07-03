@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-03, 14:02:32",
+      "https://lobste.rs/s/cupmee/two_ways_turbo_charge_tox"
+    ],
+    [
+      "Two Ways to Turbo-Charge tox",
+      "https://hynek.me/articles/turbo-charge-tox/"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 13:37:13",
       "https://lobste.rs/s/hidugz/foundationdb_distributed_key_value"
     ],
@@ -237,16 +247,6 @@
     [
       "ldd(1) and untrusted binaries",
       "https://jmmv.dev/2023/07/ldd-untrusted-binaries.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 22:12:58",
-      "https://lobste.rs/s/rlodgq/you_don_t_need_all"
-    ],
-    [
-      "You Don’t Need __all__",
-      "https://jamesturk.net/posts/you-dont-need-all/"
     ]
   ]
 ]
