@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-03, 12:59:27",
+      "https://lobste.rs/s/8qdaps/demystifying_pratt_parsers"
+    ],
+    [
+      "Demystifying Pratt Parsers",
+      "https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 12:55:18",
+      "https://lobste.rs/s/a1vyji/draggable_objects"
+    ],
+    [
+      "Draggable objects",
+      "https://www.redblobgames.com/making-of/draggable/"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 10:37:06",
       "https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-07-02, 00:53:38",
-      "https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations"
-    ],
-    [
-      "Zero-downtime schema migrations in Postgres using Reshape",
-      "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 22:12:58",
       "https://lobste.rs/s/rlodgq/you_don_t_need_all"
     ],
     [
       "You Don’t Need __all__",
       "https://jamesturk.net/posts/you-dont-need-all/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 12:06:17",
-      "https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps"
-    ],
-    [
-      "The problem with federated web apps",
-      "https://www.devever.net/~hl/webappcoupling"
     ]
   ]
 ]
