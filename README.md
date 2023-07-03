@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
+* [2023-07-03, 04:11:30](https://lobste.rs/s/6nftvv/intel_386_microprocessor_design) - [Intel 386 Microprocessor Design and Development Oral History Panel (2008)](http://archive.computerhistory.org/resources/text/Oral_History/Intel_386_Design_and_Dev/102702019.05.01.acc.pdf)
 * [2023-07-03, 03:21:23](https://lobste.rs/s/saaiyd/most_tests_should_be_generated) - [Most Tests Should Be Generated](https://concerningquality.com/generated-tests/)
 * [2023-07-02, 22:06:53](https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
@@ -18,11 +20,9 @@
 * [2023-07-02, 06:48:23](https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries) - [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2023-07-02, 04:16:53](https://lobste.rs/s/5wnigy/restful_is_scam_browsers_are_cool) - [restful is a scam, but browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)
 * [2023-07-02, 02:51:21](https://lobste.rs/s/rdjhrm/cool_urls_keep_their_contents) - [Cool URLs keep their contents](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsKeepTheirContents)
-* [2023-07-02, 02:46:38](https://lobste.rs/s/bku4lj/making_potato_livecam_with_commodore_128) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](https://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 23:45:37](https://lobste.rs/s/oj5bfs/programming_language_checklist) - [Programming language checklist](https://www.mcmillen.dev/language_checklist.html)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
-* [2023-07-01, 13:09:15](https://lobste.rs/s/ze70h7/postgres_schema_changes_are_still_pita) - [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 * [2023-07-01, 12:30:38](https://lobste.rs/s/reu7qa/orange_website_proofing_my_blog) - [Orange-Website-Proofing My Blog](https://laplab.me/posts/orange-website-proofing-my-blog/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 
