@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
+* [2023-07-03, 12:55:18](https://lobste.rs/s/a1vyji/draggable_objects) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-07-03, 10:37:06](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week)
 * [2023-07-03, 09:26:44](https://lobste.rs/s/y5mpnt/perl_5_38_0_has_been_released) - [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
