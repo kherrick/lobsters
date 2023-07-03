@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:38:23](https://lobste.rs/s/qwatst/cloud_migration_strategy) - [Cloud Migration Strategy Misconceptions](https://redis.com/blog/cloud-migration-strategy-misconceptions/ )
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)

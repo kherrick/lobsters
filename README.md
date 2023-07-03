@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
@@ -18,7 +19,6 @@
 * [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
 * [2023-07-03, 04:11:30](https://lobste.rs/s/6nftvv/intel_386_microprocessor_design) - [Intel 386 Microprocessor Design and Development Oral History Panel (2008)](http://archive.computerhistory.org/resources/text/Oral_History/Intel_386_Design_and_Dev/102702019.05.01.acc.pdf)
 * [2023-07-03, 03:21:23](https://lobste.rs/s/saaiyd/most_tests_should_be_generated) - [Most Tests Should Be Generated](https://concerningquality.com/generated-tests/)
-* [2023-07-02, 22:06:53](https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
