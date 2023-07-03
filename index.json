@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-07-02, 17:17:43",
+      "https://lobste.rs/s/0arm5r/propagating_bounds_through_bitwise"
+    ],
+    [
+      "Propagating bounds through bitwise operations",
+      "http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 17:13:03",
       "https://lobste.rs/s/7rhm1z/goodbye_monster"
     ],
@@ -217,16 +227,6 @@
     [
       "Zero-downtime schema migrations in Postgres using Reshape",
       "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 23:45:37",
-      "https://lobste.rs/s/oj5bfs/programming_language_checklist"
-    ],
-    [
-      "Programming language checklist",
-      "https://www.mcmillen.dev/language_checklist.html"
     ]
   ],
   [
