@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-03, 21:22:39",
+      "https://lobste.rs/s/kferob/what_amd_learned_from_its_big_chiplet_push"
+    ],
+    [
+      "What AMD Learned from Its Big Chiplet Push",
+      "https://spectrum.ieee.org/chiplet"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 21:22:09",
+      "https://lobste.rs/s/jnxqm9/setting_up_dynamic_static_ipv6_addresses"
+    ],
+    [
+      "Setting Up Dynamic and Static IPv6 Addresses on FreeBSD",
+      "https://www.subnetspider.com/freebsd/ipv6/2023/07/02/setting-up-dynamic-and-static-ipv6-addresses-on-freebsd.html"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 21:20:49",
       "https://lobste.rs/s/embrk0/freebsd_successful_failure_linux"
     ],
@@ -37,16 +57,6 @@
     [
       "Bruno Bonacci on Viewstamped Replication @PWL London (2018)",
       "https://www.youtube.com/watch?v=1EzNa-zAYS8"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 20:04:46",
-      "https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow"
-    ],
-    [
-      "Any Deep ReLU Network is Shallow",
-      "https://arxiv.org/pdf/2306.11827.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The smallest Pride contribution",
       "https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 06:55:09",
-      "https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via"
-    ],
-    [
-      "Static site update, self-hosted search via pagefind",
-      "http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html"
     ]
   ]
 ]
