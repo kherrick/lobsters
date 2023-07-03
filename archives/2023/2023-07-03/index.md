@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 15:28:25](https://lobste.rs/s/h8x9ek/dark_room_from_code_hobo_indie_game) - [A Dark Room: From Code Hobo to Indie Game Developer](https://corecursive.com/a-dark-room-with-amir-rajan/)
 * [2023-07-03, 14:13:50](https://lobste.rs/s/cspe9k/construction_high_performance_virtual) - [The construction of high-performance virtual machines for dynamic languages (2011)](https://theses.gla.ac.uk/2975/1/2011shannonphd.pdf)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 15:28:25](https://lobste.rs/s/h8x9ek/dark_room_from_code_hobo_indie_game) - [A Dark Room: From Code Hobo to Indie Game Developer](https://corecursive.com/a-dark-room-with-amir-rajan/)
 * [2023-07-03, 14:13:50](https://lobste.rs/s/cspe9k/construction_high_performance_virtual) - [The construction of high-performance virtual machines for dynamic languages (2011)](https://theses.gla.ac.uk/2975/1/2011shannonphd.pdf)
@@ -19,7 +20,6 @@
 * [2023-07-02, 22:06:53](https://lobste.rs/s/cjm3g2/parsing_time_stamps_faster_with_simd) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 17:13:03](https://lobste.rs/s/7rhm1z/goodbye_monster) - [goodbye monster](https://goodbye.monster/)
-* [2023-07-02, 17:06:13](https://lobste.rs/s/vppulh/how_google_measures_manages_tech_debt) - [How Google Measures and Manages Tech Debt](https://newsletter.abinoda.com/p/measuring-and-managing-tech-debt)
 * [2023-07-02, 15:28:06](https://lobste.rs/s/oitgtg/tweetsneak_evade_twitter_login_overhead) - [TweetSneak - Evade Twitter Login Overhead](https://tweetsneak.pages.dev/)
 * [2023-07-02, 13:02:42](https://lobste.rs/s/wdxc1b/programming_on_android_tablet) - [Programming on an Android tablet](https://denizaksimsek.com/2023/programming-on-a-tablet/)
 * [2023-07-02, 12:58:57](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own) - [Is there a simple way to self-host your own tweets?](https://lobste.rs/s/tua5dz/is_there_simple_way_self_host_your_own)
