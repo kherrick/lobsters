@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
