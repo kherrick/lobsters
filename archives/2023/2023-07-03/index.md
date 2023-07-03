@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 21:22:39](https://lobste.rs/s/kferob/what_amd_learned_from_its_big_chiplet_push) - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
+* [2023-07-03, 21:22:09](https://lobste.rs/s/jnxqm9/setting_up_dynamic_static_ipv6_addresses) - [Setting Up Dynamic and Static IPv6 Addresses on FreeBSD](https://www.subnetspider.com/freebsd/ipv6/2023/07/02/setting-up-dynamic-and-static-ipv6-addresses-on-freebsd.html)
 * [2023-07-03, 21:20:49](https://lobste.rs/s/embrk0/freebsd_successful_failure_linux) - [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
