@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-03, 10:37:06](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week)
 * [2023-07-03, 09:26:44](https://lobste.rs/s/y5mpnt/perl_5_38_0_has_been_released) - [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 07:50:31](https://lobste.rs/s/tdlkxe/how_think_about_async_await_rust) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
@@ -21,7 +22,6 @@
 * [2023-07-02, 06:55:09](https://lobste.rs/s/saukap/static_site_update_self_hosted_search_via) - [Static site update, self-hosted search via pagefind](http://raymii.org/s/blog/Site_update_self_hosted_search_via_pagefind.html)
 * [2023-07-02, 06:48:23](https://lobste.rs/s/qzli82/ldd_1_untrusted_binaries) - [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 * [2023-07-02, 04:16:53](https://lobste.rs/s/5wnigy/restful_is_scam_browsers_are_cool) - [restful is a scam, but browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)
-* [2023-07-02, 02:51:21](https://lobste.rs/s/rdjhrm/cool_urls_keep_their_contents) - [Cool URLs keep their contents](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsKeepTheirContents)
 * [2023-07-02, 00:53:38](https://lobste.rs/s/bstz5g/zero_downtime_schema_migrations) - [Zero-downtime schema migrations in Postgres using Reshape](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/)
 * [2023-07-01, 22:12:58](https://lobste.rs/s/rlodgq/you_don_t_need_all) - [You Don’t Need __all__](https://jamesturk.net/posts/you-dont-need-all/)
 * [2023-07-01, 12:06:17](https://lobste.rs/s/w2m7pr/problem_with_federated_web_apps) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
