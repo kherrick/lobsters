@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-03](index.md)
+
+* [2023-07-03, 03:21:23](https://lobste.rs/s/saaiyd/most_tests_should_be_generated) - [Most Tests Should Be Generated](https://concerningquality.com/generated-tests/)
