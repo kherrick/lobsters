@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 20:51:05](https://lobste.rs/s/rz0hxs/bruno_bonacci_on_viewstamped) - [Bruno Bonacci on Viewstamped Replication @PWL London (2018)](https://www.youtube.com/watch?v=1EzNa-zAYS8)
 * [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:38:23](https://lobste.rs/s/qwatst/cloud_migration_strategy) - [Cloud Migration Strategy Misconceptions](https://redis.com/blog/cloud-migration-strategy-misconceptions/ )
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
