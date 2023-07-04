@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 12:59:10",
+      "https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course"
+    ],
+    [
+      "CMU 819 Homotopy type theory - Course Introduction",
+      "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 12:55:45",
+      "https://lobste.rs/s/jhmasp/array_algorithms_unintrusive"
+    ],
+    [
+      "array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++",
+      "https://github.com/clibraries/array-algorithms"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 12:15:52",
       "https://lobste.rs/s/bvr4vq/gentle_art_patch_review"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-07-03, 16:16:53",
-      "https://lobste.rs/s/dk7z9u/transparent_comparisons"
-    ],
-    [
-      "Transparent Comparisons",
-      "https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 14:13:50",
       "https://lobste.rs/s/cspe9k/construction_high_performance_virtual"
     ],
@@ -237,16 +247,6 @@
     [
       "The Xerox Smalltalk-80 GUI Was Weird",
       "https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 10:15:30",
-      "https://lobste.rs/s/bntuxk/smallest_pride_contribution"
-    ],
-    [
-      "The smallest Pride contribution",
-      "https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html"
     ]
   ]
 ]
