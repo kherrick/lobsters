@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 18:23:07](https://lobste.rs/s/ne0lm6/let_s_debug_kubernetes_pod_locally) - [Let's debug a kubernetes pod locally](https://aeb-dev.me/posts/lets-debug-a-kubernetes-pod-locally/)
 * [2023-07-04, 18:09:32](https://lobste.rs/s/jkwwxn/version_skew) - [Version Skew](https://www.industrialempathy.com/posts/version-skew/)
 * [2023-07-04, 18:01:20](https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for) - [Makie, a modern and fast plotting library for Julia](https://makie.org/)
 * [2023-07-04, 15:28:09](https://lobste.rs/s/gtxqeh/ai_how_i_use_it_help_with_my_writing) - [AI and how I use it to help with my writing](https://tilde.club/~chimbo/blog/ai-and-how-i-use-it-to-help-with-my-writing.html)
