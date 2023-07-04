@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 18:09:32](https://lobste.rs/s/jkwwxn/version_skew) - [Version Skew](https://www.industrialempathy.com/posts/version-skew/)
+* [2023-07-04, 18:01:20](https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for) - [Makie, a modern and fast plotting library for Julia](https://makie.org/)
 * [2023-07-04, 15:28:09](https://lobste.rs/s/gtxqeh/ai_how_i_use_it_help_with_my_writing) - [AI and how I use it to help with my writing](https://tilde.club/~chimbo/blog/ai-and-how-i-use-it-to-help-with-my-writing.html)
 * [2023-07-04, 13:16:44](https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres) - [SQLite-based databases on the postgres protocol](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65)
 * [2023-07-04, 12:59:10](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course) - [CMU 819 Homotopy type theory - Course Introduction](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d)

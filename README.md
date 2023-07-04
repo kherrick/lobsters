@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 18:09:32](https://lobste.rs/s/jkwwxn/version_skew) - [Version Skew](https://www.industrialempathy.com/posts/version-skew/)
+* [2023-07-04, 18:01:20](https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for) - [Makie, a modern and fast plotting library for Julia](https://makie.org/)
 * [2023-07-04, 13:16:44](https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres) - [SQLite-based databases on the postgres protocol](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65)
 * [2023-07-04, 12:59:10](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course) - [CMU 819 Homotopy type theory - Course Introduction](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d)
 * [2023-07-04, 12:55:45](https://lobste.rs/s/jhmasp/array_algorithms_unintrusive) - [array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++](https://github.com/clibraries/array-algorithms)
@@ -16,7 +18,6 @@
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
-* [2023-07-03, 16:16:53](https://lobste.rs/s/dk7z9u/transparent_comparisons) - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
 * [2023-07-03, 13:37:13](https://lobste.rs/s/hidugz/foundationdb_distributed_key_value) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 * [2023-07-03, 13:09:06](https://lobste.rs/s/ga8obp/joins_13_ways) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
@@ -24,7 +25,6 @@
 * [2023-07-03, 12:55:18](https://lobste.rs/s/a1vyji/draggable_objects) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-07-03, 09:26:44](https://lobste.rs/s/y5mpnt/perl_5_38_0_has_been_released) - [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
-* [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
 
 ## [Archives](archives/index.md)
 
