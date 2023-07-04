@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 23:42:58](https://lobste.rs/s/0ggn3k/joys_active_passive_ha) - [The joys of Active-Passive HA](https://cyrnel.net/joys-of-active-passive-ha/)
 * [2023-07-04, 23:08:01](https://lobste.rs/s/cdmvza/cloud_native_software_engineering) - [Cloud Native Software Engineering](https://arxiv.org/abs/2307.01045)
 * [2023-07-04, 22:46:43](https://lobste.rs/s/8kstjh/announcing_typescript_5_2_beta) - [Announcing TypeScript 5.2 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-beta)
 * [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
@@ -15,7 +16,6 @@
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 10:39:09](https://lobste.rs/s/5xsoqz/disabling_matrix_portalling) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
-* [2023-07-04, 01:40:39](https://lobste.rs/s/2npnnw/git_is_my_buddy_effective_git_as_solo) - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
