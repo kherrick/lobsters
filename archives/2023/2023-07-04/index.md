@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-04](index.md)
+
+* [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
