@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 01:40:39](https://lobste.rs/s/2npnnw/git_is_my_buddy_effective_git_as_solo) - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+* [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
 * [2023-07-03, 21:22:39](https://lobste.rs/s/kferob/what_amd_learned_from_its_big_chiplet_push) - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
 * [2023-07-03, 21:22:09](https://lobste.rs/s/jnxqm9/setting_up_dynamic_static_ipv6_addresses) - [Setting Up Dynamic and Static IPv6 Addresses on FreeBSD](https://www.subnetspider.com/freebsd/ipv6/2023/07/02/setting-up-dynamic-and-static-ipv6-addresses-on-freebsd.html)
-* [2023-07-03, 21:20:49](https://lobste.rs/s/embrk0/freebsd_successful_failure_linux) - [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
 * [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
@@ -22,7 +23,6 @@
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 07:50:31](https://lobste.rs/s/tdlkxe/how_think_about_async_await_rust) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
-* [2023-07-03, 03:21:23](https://lobste.rs/s/saaiyd/most_tests_should_be_generated) - [Most Tests Should Be Generated](https://concerningquality.com/generated-tests/)
 * [2023-07-02, 20:50:03](https://lobste.rs/s/alwaiy/100_test_coverage) - [100% test coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-02, 10:15:30](https://lobste.rs/s/bntuxk/smallest_pride_contribution) - [The smallest Pride contribution](https://blog.sesse.net/blog/tech/2023-07-01-15-47_the_smallest_pride_contribution.html)
 
