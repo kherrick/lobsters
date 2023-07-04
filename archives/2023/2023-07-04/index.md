@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-04, 19:11:33](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do) - [Programming and computing bloggers: How do you decide what to write about?](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do)
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
 * [2023-07-04, 18:23:07](https://lobste.rs/s/ne0lm6/let_s_debug_kubernetes_pod_locally) - [Let's debug a kubernetes pod locally](https://aeb-dev.me/posts/lets-debug-a-kubernetes-pod-locally/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
 * [2023-07-04, 18:23:07](https://lobste.rs/s/ne0lm6/let_s_debug_kubernetes_pod_locally) - [Let's debug a kubernetes pod locally](https://aeb-dev.me/posts/lets-debug-a-kubernetes-pod-locally/)
 * [2023-07-04, 18:09:32](https://lobste.rs/s/jkwwxn/version_skew) - [Version Skew](https://www.industrialempathy.com/posts/version-skew/)
@@ -23,7 +24,6 @@
 * [2023-07-03, 13:37:13](https://lobste.rs/s/hidugz/foundationdb_distributed_key_value) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 * [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
-* [2023-07-03, 09:26:44](https://lobste.rs/s/y5mpnt/perl_5_38_0_has_been_released) - [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 
 ## [Archives](archives/index.md)
