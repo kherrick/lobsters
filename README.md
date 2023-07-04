@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 10:39:09](https://lobste.rs/s/5xsoqz/disabling_matrix_portalling) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-04, 05:17:58](https://lobste.rs/s/1v0bot/animated_elliptic_curve) - [The Animated Elliptic Curve](https://curves.xargs.org/)
 * [2023-07-04, 01:40:39](https://lobste.rs/s/2npnnw/git_is_my_buddy_effective_git_as_solo) - [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
-* [2023-07-03, 21:20:49](https://lobste.rs/s/embrk0/freebsd_successful_failure_linux) - [FreeBSD: Successful Failure - Linux: Failing Success](https://www.youtube.com/watch?v=f2e4FNMzyto)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
 * [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
