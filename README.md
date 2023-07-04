@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-04, 12:15:52](https://lobste.rs/s/bvr4vq/gentle_art_patch_review) - [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 10:39:09](https://lobste.rs/s/5xsoqz/disabling_matrix_portalling) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
@@ -20,7 +21,6 @@
 * [2023-07-03, 13:09:06](https://lobste.rs/s/ga8obp/joins_13_ways) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
 * [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
 * [2023-07-03, 12:55:18](https://lobste.rs/s/a1vyji/draggable_objects) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-* [2023-07-03, 10:37:06](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x9pwqy/what_are_you_doing_this_week)
 * [2023-07-03, 09:26:44](https://lobste.rs/s/y5mpnt/perl_5_38_0_has_been_released) - [Perl 5.38.0 has been released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 04:17:51](https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
