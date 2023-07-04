@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-04, 15:28:09](https://lobste.rs/s/gtxqeh/ai_how_i_use_it_help_with_my_writing) - [AI and how I use it to help with my writing](https://tilde.club/~chimbo/blog/ai-and-how-i-use-it-to-help-with-my-writing.html)
 * [2023-07-04, 13:16:44](https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres) - [SQLite-based databases on the postgres protocol](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65)
 * [2023-07-04, 12:59:10](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course) - [CMU 819 Homotopy type theory - Course Introduction](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d)
 * [2023-07-04, 12:55:45](https://lobste.rs/s/jhmasp/array_algorithms_unintrusive) - [array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++](https://github.com/clibraries/array-algorithms)
@@ -13,6 +12,7 @@
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 21:18:10](https://lobste.rs/s/1vt59x/rustfmt_support_for_let_else_statements) - [Rustfmt support for let-else statements](https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html)
+* [2023-07-03, 20:04:46](https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow) - [Any Deep ReLU Network is Shallow](https://arxiv.org/pdf/2306.11827.pdf)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
