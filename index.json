@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-04, 15:28:09",
-      "https://lobste.rs/s/gtxqeh/ai_how_i_use_it_help_with_my_writing"
-    ],
-    [
-      "AI and how I use it to help with my writing",
-      "https://tilde.club/~chimbo/blog/ai-and-how-i-use-it-to-help-with-my-writing.html"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 13:16:44",
       "https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres"
     ],
@@ -127,6 +117,16 @@
     [
       "Rustfmt support for let-else statements",
       "https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 20:04:46",
+      "https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow"
+    ],
+    [
+      "Any Deep ReLU Network is Shallow",
+      "https://arxiv.org/pdf/2306.11827.pdf"
     ]
   ],
   [
