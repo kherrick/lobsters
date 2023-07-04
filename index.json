@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-07-04, 10:39:09",
+      "https://lobste.rs/s/5xsoqz/disabling_matrix_portalling"
+    ],
+    [
+      "Disabling Matrix Portalling",
+      "https://libera.chat/news/matrix-deportalling"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 09:18:22",
       "https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash"
     ],
@@ -117,16 +127,6 @@
     [
       "Rustfmt support for let-else statements",
       "https://blog.rust-lang.org/2023/07/01/rustfmt-supports-let-else-statements.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 20:04:46",
-      "https://lobste.rs/s/pcwfdn/any_deep_relu_network_is_shallow"
-    ],
-    [
-      "Any Deep ReLU Network is Shallow",
-      "https://arxiv.org/pdf/2306.11827.pdf"
     ]
   ],
   [
