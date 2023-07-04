@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 23:08:01](https://lobste.rs/s/cdmvza/cloud_native_software_engineering) - [Cloud Native Software Engineering](https://arxiv.org/abs/2307.01045)
 * [2023-07-04, 22:46:43](https://lobste.rs/s/8kstjh/announcing_typescript_5_2_beta) - [Announcing TypeScript 5.2 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-beta)
 * [2023-07-04, 20:15:57](https://lobste.rs/s/wxecnm/v_0_4_big_yearly_release_with_coroutines) - [V 0.4: a big yearly release with coroutines and a 370 item changelog](https://github.com/vlang/v/discussions/18730)
 * [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
