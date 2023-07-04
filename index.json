@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 18:09:32",
+      "https://lobste.rs/s/jkwwxn/version_skew"
+    ],
+    [
+      "Version Skew",
+      "https://www.industrialempathy.com/posts/version-skew/"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 18:01:20",
+      "https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for"
+    ],
+    [
+      "Makie, a modern and fast plotting library for Julia",
+      "https://makie.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 13:16:44",
       "https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-07-03, 16:16:53",
-      "https://lobste.rs/s/dk7z9u/transparent_comparisons"
-    ],
-    [
-      "Transparent Comparisons",
-      "https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 13:37:13",
       "https://lobste.rs/s/hidugz/foundationdb_distributed_key_value"
     ],
@@ -237,16 +247,6 @@
     [
       "Names should be as short as possible while still being clear",
       "https://benhoyt.com/writings/short-names/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 04:17:51",
-      "https://lobste.rs/s/fvnuvm/xerox_smalltalk_80_gui_was_weird"
-    ],
-    [
-      "The Xerox Smalltalk-80 GUI Was Weird",
-      "https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird"
     ]
   ]
 ]
