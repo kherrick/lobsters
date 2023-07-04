@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 12:59:10](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course) - [CMU 819 Homotopy type theory - Course Introduction](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d)
+* [2023-07-04, 12:55:45](https://lobste.rs/s/jhmasp/array_algorithms_unintrusive) - [array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++](https://github.com/clibraries/array-algorithms)
 * [2023-07-04, 12:15:52](https://lobste.rs/s/bvr4vq/gentle_art_patch_review) - [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 10:39:09](https://lobste.rs/s/5xsoqz/disabling_matrix_portalling) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
