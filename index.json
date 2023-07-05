@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 03:09:19",
+      "https://lobste.rs/s/w4sqiu/lossy_image_formats"
+    ],
+    [
+      "Lossy Image Formats",
+      "https://wiki.alopex.li/LossyImageFormats"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 02:36:50",
       "https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular"
     ],
@@ -197,16 +207,6 @@
     [
       "Can Dell’s 6K monitor beat their 8K monitor?",
       "https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 18:19:55",
-      "https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you"
-    ],
-    [
-      "Using git mailmap when names change (or you mess up your email)",
-      "https://ntietz.com/blog/git-mailmap-for-name-changes/"
     ]
   ],
   [
