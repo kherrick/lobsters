@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 08:18:38](https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb) - [FerretDB - A drop-in (Open Source) MongoDB alternative](https://github.com/FerretDB/FerretDB)
+* [2023-07-05, 08:18:25](https://lobste.rs/s/qxcwcg/save_webflow_css_file_with_chrome) - [Save Webflow CSS to File with Chrome Extension](https://chrome.google.com/webstore/detail/save-webflow-css-to-file/iidglmobandldbncofoallinklijdmhd?gad=1)
+* [2023-07-05, 08:10:52](https://lobste.rs/s/xt61uo/vcf_southwest_2023_recap_fixing_disaster) - [VCF Southwest 2023 Recap and Fixing a Disaster](https://youtu.be/TIx0pLhQbD0)
 * [2023-07-05, 06:34:36](https://lobste.rs/s/jbawig/five_stages_accepting_constructive) - [Five stages of accepting constructive mathematics](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf)
 * [2023-07-05, 05:22:09](https://lobste.rs/s/8tocdp/web_servers_should_refuse_requests_for) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
@@ -19,12 +22,9 @@
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
-* [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
-* [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
-* [2023-07-03, 09:03:05](https://lobste.rs/s/r5oaks/names_should_be_as_short_as_possible_while) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 
 ## [Archives](archives/index.md)
 
