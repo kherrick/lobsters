@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 05:22:09](https://lobste.rs/s/8tocdp/web_servers_should_refuse_requests_for) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
 * [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
 * [2023-07-05, 02:36:50](https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular) - [Breaking ciphers with regular expressions](https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/)
@@ -15,7 +16,6 @@
 * [2023-07-04, 12:55:45](https://lobste.rs/s/jhmasp/array_algorithms_unintrusive) - [array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++](https://github.com/clibraries/array-algorithms)
 * [2023-07-04, 12:15:52](https://lobste.rs/s/bvr4vq/gentle_art_patch_review) - [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
-* [2023-07-04, 10:39:09](https://lobste.rs/s/5xsoqz/disabling_matrix_portalling) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
