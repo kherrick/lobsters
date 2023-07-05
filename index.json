@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-05, 13:49:17",
+      "https://lobste.rs/s/jejatm/regex_engine_internals_as_library"
+    ],
+    [
+      "Regex engine internals as a library",
+      "https://blog.burntsushi.net/regex-internals/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 13:41:47",
+      "https://lobste.rs/s/i6cv1z/adam_savage_learns_sci_fi_space_helmet"
+    ],
+    [
+      "Adam Savage Learns Sci-Fi Space Helmet Secrets",
+      "https://www.youtube.com/watch?v=ANg49KSeKWs"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 13:29:33",
       "https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-07-04, 13:16:44",
-      "https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres"
-    ],
-    [
-      "SQLite-based databases on the postgres protocol",
-      "https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 09:18:22",
       "https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash"
     ],
     [
       "A slack clone in 5 lines of bash",
       "https://the-dam.org/docs/explanations/suc.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 01:16:00",
-      "https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from"
-    ],
-    [
-      "Elixir type system updates moving from research into development",
-      "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
     ]
   ],
   [
