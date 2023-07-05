@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
 * [2023-07-05, 15:33:07](https://lobste.rs/s/swssdc/what_does_image_decoding_attribute) - [What does the image decoding attribute actually do?](https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/)
 * [2023-07-05, 15:20:12](https://lobste.rs/s/yryrfz/laws_identity) - [The Laws of Identity](https://www.identityblog.com/?p=352)
 * [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
