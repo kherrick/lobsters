@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 13:13:01](https://lobste.rs/s/rec0c1/bogomips_wikipedia) - [BogoMips - Wikipedia](https://en.wikipedia.org/wiki/BogoMips)
 * [2023-07-05, 13:12:31](https://lobste.rs/s/jrz0mv/scope_based_resource_management_for) - [Scope-based resource management for the kernel [LWN.net]](https://lwn.net/Articles/934679/)
 * [2023-07-05, 12:31:27](https://lobste.rs/s/gofgzf/network_programming_basics_ruby) - [Network Programming Basics in Ruby](https://lucas.dohmen.io/posts/2023/06/04/network-programming-basics-in-ruby/)
