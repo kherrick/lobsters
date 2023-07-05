@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 * [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
 * [2023-07-05, 15:20:12](https://lobste.rs/s/yryrfz/laws_identity) - [The Laws of Identity](https://www.identityblog.com/?p=352)
 * [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
@@ -18,7 +19,6 @@
 * [2023-07-05, 05:22:09](https://lobste.rs/s/8tocdp/web_servers_should_refuse_requests_for) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
 * [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
-* [2023-07-05, 02:36:50](https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular) - [Breaking ciphers with regular expressions](https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/)
 * [2023-07-04, 23:42:58](https://lobste.rs/s/0ggn3k/joys_active_passive_ha) - [The joys of Active-Passive HA](https://cyrnel.net/joys-of-active-passive-ha/)
 * [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-04, 19:11:33](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do) - [Programming and computing bloggers: How do you decide what to write about?](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do)
