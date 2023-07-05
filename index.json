@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-05, 09:47:31",
+      "https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri"
+    ],
+    [
+      "Two Stories for \"What is CHERI?\"",
+      "https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 09:45:55",
+      "https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural"
+    ],
+    [
+      "Demoscene accepted as UNESCO cultural heritage in The Netherlands",
+      "http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 08:18:38",
       "https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb"
     ],
@@ -167,26 +187,6 @@
     [
       "CMU 819 Homotopy type theory - Course Introduction",
       "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 12:55:45",
-      "https://lobste.rs/s/jhmasp/array_algorithms_unintrusive"
-    ],
-    [
-      "array-algorithms: Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++",
-      "https://github.com/clibraries/array-algorithms"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 12:15:52",
-      "https://lobste.rs/s/bvr4vq/gentle_art_patch_review"
-    ],
-    [
-      "The Gentle Art of Patch Review",
-      "https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/"
     ]
   ],
   [
