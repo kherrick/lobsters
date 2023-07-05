@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
-* [2023-07-05, 15:33:07](https://lobste.rs/s/swssdc/what_does_image_decoding_attribute) - [What does the image decoding attribute actually do?](https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/)
 * [2023-07-05, 15:20:12](https://lobste.rs/s/yryrfz/laws_identity) - [The Laws of Identity](https://www.identityblog.com/?p=352)
 * [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
+* [2023-07-05, 14:58:16](https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d) - [Setting up Joplin: WebDAV and FreeBSD rc.d](https://gioarc.me/posts/infra/joplin-and-webdav.html)
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
