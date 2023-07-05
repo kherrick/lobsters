@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 16:46:25",
+      "https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what"
+    ],
+    [
+      "Rust Doesn't Have Named Arguments. So What?",
+      "https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 16:01:05",
       "https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not"
     ],
@@ -177,16 +187,6 @@
     [
       "Lossy Image Formats",
       "https://wiki.alopex.li/LossyImageFormats"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 02:36:50",
-      "https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular"
-    ],
-    [
-      "Breaking ciphers with regular expressions",
-      "https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/"
     ]
   ],
   [
