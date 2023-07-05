@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 22:14:08](https://lobste.rs/s/qqp1cu/litefs_cloud_distributed_sqlite_with) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 * [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
@@ -22,7 +23,6 @@
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
 * [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
-* [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 

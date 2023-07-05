@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 22:14:08](https://lobste.rs/s/qqp1cu/litefs_cloud_distributed_sqlite_with) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 * [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
