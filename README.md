@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
+* [2023-07-05, 13:41:47](https://lobste.rs/s/i6cv1z/adam_savage_learns_sci_fi_space_helmet) - [Adam Savage Learns Sci-Fi Space Helmet Secrets](https://www.youtube.com/watch?v=ANg49KSeKWs)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 13:13:01](https://lobste.rs/s/rec0c1/bogomips_wikipedia) - [BogoMips - Wikipedia](https://en.wikipedia.org/wiki/BogoMips)
 * [2023-07-05, 13:12:31](https://lobste.rs/s/jrz0mv/scope_based_resource_management_for) - [Scope-based resource management for the kernel [LWN.net]](https://lwn.net/Articles/934679/)
@@ -20,9 +22,7 @@
 * [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-04, 19:11:33](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do) - [Programming and computing bloggers: How do you decide what to write about?](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do)
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
-* [2023-07-04, 13:16:44](https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres) - [SQLite-based databases on the postgres protocol](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
-* [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 
