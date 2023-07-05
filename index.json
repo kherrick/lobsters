@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-05, 15:33:07",
-      "https://lobste.rs/s/swssdc/what_does_image_decoding_attribute"
-    ],
-    [
-      "What does the image decoding attribute actually do?",
-      "https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 15:20:12",
       "https://lobste.rs/s/yryrfz/laws_identity"
     ],
@@ -37,6 +27,16 @@
     [
       "Making static Hugo sites dynamic with htmx and Go",
       "https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 14:58:16",
+      "https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d"
+    ],
+    [
+      "Setting up Joplin: WebDAV and FreeBSD rc.d",
+      "https://gioarc.me/posts/infra/joplin-and-webdav.html"
     ]
   ],
   [
