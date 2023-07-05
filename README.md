@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 12:31:27](https://lobste.rs/s/gofgzf/network_programming_basics_ruby) - [Network Programming Basics in Ruby](https://lucas.dohmen.io/posts/2023/06/04/network-programming-basics-in-ruby/)
 * [2023-07-05, 12:04:49](https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 10:42:37](https://lobste.rs/s/e6mpsv/build2_0_16_0_released) - [build2 0.16.0 released](https://build2.org/release/0.16.0.xhtml)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
@@ -22,7 +23,6 @@
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
-* [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 

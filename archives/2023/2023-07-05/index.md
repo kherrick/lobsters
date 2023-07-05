@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 12:31:27](https://lobste.rs/s/gofgzf/network_programming_basics_ruby) - [Network Programming Basics in Ruby](https://lucas.dohmen.io/posts/2023/06/04/network-programming-basics-in-ruby/)
 * [2023-07-05, 12:04:49](https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 10:42:37](https://lobste.rs/s/e6mpsv/build2_0_16_0_released) - [build2 0.16.0 released](https://build2.org/release/0.16.0.xhtml)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
