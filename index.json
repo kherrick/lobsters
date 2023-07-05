@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 12:04:49",
+      "https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power"
+    ],
+    [
+      "How can we compare expressive power between two Turing-complete languages?",
+      "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 10:42:37",
       "https://lobste.rs/s/e6mpsv/build2_0_16_0_released"
     ],
@@ -127,16 +137,6 @@
     [
       "The joys of Active-Passive HA",
       "https://cyrnel.net/joys-of-active-passive-ha/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 23:08:01",
-      "https://lobste.rs/s/cdmvza/cloud_native_software_engineering"
-    ],
-    [
-      "Cloud Native Software Engineering",
-      "https://arxiv.org/abs/2307.01045"
     ]
   ],
   [
