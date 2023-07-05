@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 15:20:12](https://lobste.rs/s/yryrfz/laws_identity) - [The Laws of Identity](https://www.identityblog.com/?p=352)
+* [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
 * [2023-07-05, 14:58:16](https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d) - [Setting up Joplin: WebDAV and FreeBSD rc.d](https://gioarc.me/posts/infra/joplin-and-webdav.html)
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
