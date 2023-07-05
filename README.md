@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
 * [2023-07-05, 02:36:50](https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular) - [Breaking ciphers with regular expressions](https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/)
 * [2023-07-05, 02:03:38](https://lobste.rs/s/l6w9kc/engineering_guardrails) - [Engineering Guardrails](https://ashishb.net/all/engineering-guardrails/)
 * [2023-07-04, 23:42:58](https://lobste.rs/s/0ggn3k/joys_active_passive_ha) - [The joys of Active-Passive HA](https://cyrnel.net/joys-of-active-passive-ha/)
@@ -20,7 +21,6 @@
 * [2023-07-04, 00:40:15](https://lobste.rs/s/tnvzoq/make_your_renders_unnecessarily) - [Make Your Renders Unnecessarily Complicated](https://youtu.be/YE9rEQAGpLw)
 * [2023-07-03, 21:19:19](https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 19:13:54](https://lobste.rs/s/7zb4w8/can_dell_s_6k_monitor_beat_their_8k_monitor) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
-* [2023-07-03, 18:19:55](https://lobste.rs/s/ydhsqz/using_git_mailmap_when_names_change_you) - [Using git mailmap when names change (or you mess up your email)](https://ntietz.com/blog/git-mailmap-for-name-changes/)
 * [2023-07-03, 16:36:03](https://lobste.rs/s/h19qh4/not_every_developer_wants_be_web) - [Not every developer wants to be a web developer: Hello oranda](https://blog.axo.dev/2023/06/oranda)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 * [2023-07-03, 12:59:27](https://lobste.rs/s/8qdaps/demystifying_pratt_parsers) - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
