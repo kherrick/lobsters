@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
 * [2023-07-05, 21:03:52](https://lobste.rs/s/is4bah/rebar_biased_barometer_for_gauging) - [rebar: A biased barometer for gauging the relative speed of some regex engines on a curated set of tasks](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 20:58:05](https://lobste.rs/s/ma4mrj/duplicate_this) - [Duplicate this](https://xenodium.com/duplicate-this/)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
