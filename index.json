@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 14:58:16",
+      "https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d"
+    ],
+    [
+      "Setting up Joplin: WebDAV and FreeBSD rc.d",
+      "https://gioarc.me/posts/infra/joplin-and-webdav.html"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 14:24:35",
       "https://lobste.rs/s/xsquae/my_kind_repl"
     ],
@@ -55,7 +65,7 @@
       "https://lobste.rs/s/jrz0mv/scope_based_resource_management_for"
     ],
     [
-      "Scope-based resource management for the kernel [LWN.net]",
+      "Scope-based resource management for the kernel",
       "https://lwn.net/Articles/934679/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Lossy Image Formats",
       "https://wiki.alopex.li/LossyImageFormats"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 02:36:50",
-      "https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular"
-    ],
-    [
-      "Breaking ciphers with regular expressions",
-      "https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/"
     ]
   ],
   [
