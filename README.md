@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 10:42:37](https://lobste.rs/s/e6mpsv/build2_0_16_0_released) - [build2 0.16.0 released](https://build2.org/release/0.16.0.xhtml)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 08:18:38](https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb) - [FerretDB - A drop-in (Open Source) MongoDB alternative](https://github.com/FerretDB/FerretDB)
@@ -18,7 +19,6 @@
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
 * [2023-07-04, 18:01:20](https://lobste.rs/s/vzrjiz/makie_modern_fast_plotting_library_for) - [Makie, a modern and fast plotting library for Julia](https://makie.org/)
 * [2023-07-04, 13:16:44](https://lobste.rs/s/kauhkd/sqlite_based_databases_on_postgres) - [SQLite-based databases on the postgres protocol](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65)
-* [2023-07-04, 12:59:10](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course) - [CMU 819 Homotopy type theory - Course Introduction](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0945cc7f-48b7-4803-81af-e7193a3f461d)
 * [2023-07-04, 11:53:03](https://lobste.rs/s/piyhwn/improving_on_gear_hashing_with_fastcdc) - [Improving on Gear Hashing with FastCDC](https://joshleeb.com/posts/fastcdc.html)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-04, 01:16:00](https://lobste.rs/s/stacig/elixir_type_system_updates_moving_from) - [Elixir type system updates moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
