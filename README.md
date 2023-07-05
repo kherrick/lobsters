@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 12:04:49](https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 10:42:37](https://lobste.rs/s/e6mpsv/build2_0_16_0_released) - [build2 0.16.0 released](https://build2.org/release/0.16.0.xhtml)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
@@ -13,7 +14,6 @@
 * [2023-07-05, 02:36:50](https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular) - [Breaking ciphers with regular expressions](https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/)
 * [2023-07-05, 02:03:38](https://lobste.rs/s/l6w9kc/engineering_guardrails) - [Engineering Guardrails](https://ashishb.net/all/engineering-guardrails/)
 * [2023-07-04, 23:42:58](https://lobste.rs/s/0ggn3k/joys_active_passive_ha) - [The joys of Active-Passive HA](https://cyrnel.net/joys-of-active-passive-ha/)
-* [2023-07-04, 23:08:01](https://lobste.rs/s/cdmvza/cloud_native_software_engineering) - [Cloud Native Software Engineering](https://arxiv.org/abs/2307.01045)
 * [2023-07-04, 19:54:14](https://lobste.rs/s/uvh7ve/simula_forgotten_programming_language) - [Simula: the forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-04, 19:11:33](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do) - [Programming and computing bloggers: How do you decide what to write about?](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do)
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
