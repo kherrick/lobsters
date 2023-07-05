@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-07-05, 08:18:38",
-      "https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb"
-    ],
-    [
-      "FerretDB - A drop-in (Open Source) MongoDB alternative",
-      "https://github.com/FerretDB/FerretDB"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 05:22:09",
       "https://lobste.rs/s/8tocdp/web_servers_should_refuse_requests_for"
     ],
@@ -197,6 +187,16 @@
     [
       "Lossy Image Formats",
       "https://wiki.alopex.li/LossyImageFormats"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 02:36:50",
+      "https://lobste.rs/s/xrpeer/breaking_ciphers_with_regular"
+    ],
+    [
+      "Breaking ciphers with regular expressions",
+      "https://jamey.thesharps.us/2023/07/04/breaking-ciphers-with-regular-expressions/"
     ]
   ],
   [
