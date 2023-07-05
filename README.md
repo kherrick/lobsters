@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 15:33:07](https://lobste.rs/s/swssdc/what_does_image_decoding_attribute) - [What does the image decoding attribute actually do?](https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/)
 * [2023-07-05, 15:20:12](https://lobste.rs/s/yryrfz/laws_identity) - [The Laws of Identity](https://www.identityblog.com/?p=352)
 * [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
 * [2023-07-05, 14:58:16](https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d) - [Setting up Joplin: WebDAV and FreeBSD rc.d](https://gioarc.me/posts/infra/joplin-and-webdav.html)
@@ -14,7 +15,6 @@
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 08:18:38](https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb) - [FerretDB - A drop-in (Open Source) MongoDB alternative](https://github.com/FerretDB/FerretDB)
-* [2023-07-05, 08:18:25](https://lobste.rs/s/qxcwcg/save_webflow_css_file_with_chrome) - [Save Webflow CSS to File with Chrome Extension](https://chrome.google.com/webstore/detail/save-webflow-css-to-file/iidglmobandldbncofoallinklijdmhd?gad=1)
 * [2023-07-05, 05:22:09](https://lobste.rs/s/8tocdp/web_servers_should_refuse_requests_for) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
 * [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
