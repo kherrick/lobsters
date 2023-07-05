@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 12:31:27",
+      "https://lobste.rs/s/gofgzf/network_programming_basics_ruby"
+    ],
+    [
+      "Network Programming Basics in Ruby",
+      "https://lucas.dohmen.io/posts/2023/06/04/network-programming-basics-in-ruby/"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 12:04:49",
       "https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power"
     ],
@@ -217,16 +227,6 @@
     [
       "Elixir type system updates moving from research into development",
       "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 21:19:19",
-      "https://lobste.rs/s/hwy8s3/problems_c_how_zig_addresses_them"
-    ],
-    [
-      "Problems of C, and how Zig addresses them",
-      "https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them"
     ]
   ],
   [
