@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-05, 22:14:08](https://lobste.rs/s/qqp1cu/litefs_cloud_distributed_sqlite_with) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
+* [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 * [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
 * [2023-07-05, 21:03:52](https://lobste.rs/s/is4bah/rebar_biased_barometer_for_gauging) - [rebar: A biased barometer for gauging the relative speed of some regex engines on a curated set of tasks](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 20:58:05](https://lobste.rs/s/ma4mrj/duplicate_this) - [Duplicate this](https://xenodium.com/duplicate-this/)
@@ -18,10 +20,8 @@
 * [2023-07-05, 10:42:37](https://lobste.rs/s/e6mpsv/build2_0_16_0_released) - [build2 0.16.0 released](https://build2.org/release/0.16.0.xhtml)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
-* [2023-07-05, 08:18:38](https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb) - [FerretDB - A drop-in (Open Source) MongoDB alternative](https://github.com/FerretDB/FerretDB)
 * [2023-07-05, 03:22:08](https://lobste.rs/s/l4nkzn/windows_papercuts_for_nix_developers) - [Windows Papercuts for *NIX Developers](https://www.feoh.org/posts/windows-papercuts-for-nix-developers.html)
 * [2023-07-05, 03:09:19](https://lobste.rs/s/w4sqiu/lossy_image_formats) - [Lossy Image Formats](https://wiki.alopex.li/LossyImageFormats)
-* [2023-07-04, 19:11:33](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do) - [Programming and computing bloggers: How do you decide what to write about?](https://lobste.rs/s/u5ddne/programming_computing_bloggers_how_do)
 * [2023-07-04, 18:43:20](https://lobste.rs/s/ohlq7i/binding_on_port_0) - [Binding On Port 0](https://eklitzke.org/binding-on-port-zero)
 * [2023-07-04, 09:18:22](https://lobste.rs/s/agjdrw/slack_clone_5_lines_bash) - [A slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
