@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
+* [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 08:18:38](https://lobste.rs/s/hat2mu/ferretdb_drop_open_source_mongodb) - [FerretDB - A drop-in (Open Source) MongoDB alternative](https://github.com/FerretDB/FerretDB)
 * [2023-07-05, 08:18:25](https://lobste.rs/s/qxcwcg/save_webflow_css_file_with_chrome) - [Save Webflow CSS to File with Chrome Extension](https://chrome.google.com/webstore/detail/save-webflow-css-to-file/iidglmobandldbncofoallinklijdmhd?gad=1)
 * [2023-07-05, 08:10:52](https://lobste.rs/s/xt61uo/vcf_southwest_2023_recap_fixing_disaster) - [VCF Southwest 2023 Recap and Fixing a Disaster](https://youtu.be/TIx0pLhQbD0)
