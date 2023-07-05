@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 14:58:16](https://lobste.rs/s/xfs8q7/setting_up_joplin_webdav_freebsd_rc_d) - [Setting up Joplin: WebDAV and FreeBSD rc.d](https://gioarc.me/posts/infra/joplin-and-webdav.html)
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:41:47](https://lobste.rs/s/i6cv1z/adam_savage_learns_sci_fi_space_helmet) - [Adam Savage Learns Sci-Fi Space Helmet Secrets](https://www.youtube.com/watch?v=ANg49KSeKWs)
