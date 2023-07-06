@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-07-05, 18:22:54",
+      "https://lobste.rs/s/qzkjnh/go_module_proxy_at_grab"
+    ],
+    [
+      "Go module proxy at Grab",
+      "https://engineering.grab.com/go-module-proxy"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 17:08:27",
       "https://lobste.rs/s/a5nqkh/lxd_becomes_canonical_project"
     ],
@@ -147,16 +157,6 @@
     [
       "Firefox 115 can silently remotely disable my extension on any site",
       "https://lapcatsoftware.com/articles/2023/7/1.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 13:12:31",
-      "https://lobste.rs/s/jrz0mv/scope_based_resource_management_for"
-    ],
-    [
-      "Scope-based resource management for the kernel",
-      "https://lwn.net/Articles/934679/"
     ]
   ],
   [
