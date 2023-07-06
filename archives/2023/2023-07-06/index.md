@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 15:36:57](https://lobste.rs/s/a05y9d/event_driven_architecture_what_you_need) - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)
 * [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation) - [TySON: TypeScript Object Notation](https://github.com/jetpack-io/tyson)

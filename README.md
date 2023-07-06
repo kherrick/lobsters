@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 15:36:57](https://lobste.rs/s/a05y9d/event_driven_architecture_what_you_need) - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)
 * [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
@@ -20,7 +21,6 @@
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
-* [2023-07-05, 12:31:27](https://lobste.rs/s/gofgzf/network_programming_basics_ruby) - [Network Programming Basics in Ruby](https://lucas.dohmen.io/posts/2023/06/04/network-programming-basics-in-ruby/)
 * [2023-07-05, 12:04:49](https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
