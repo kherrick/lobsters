@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-06, 12:04:49",
+      "https://lobste.rs/s/ciw36z/simulation_testing_for_liveness"
+    ],
+    [
+      "Simulation Testing For Liveness",
+      "https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 07:05:14",
       "https://lobste.rs/s/7phynj/nix_community_survey_2023"
     ],
@@ -77,16 +87,6 @@
     [
       "Drawing a Cirle in Qt QML three different ways",
       "https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 21:03:52",
-      "https://lobste.rs/s/is4bah/rebar_biased_barometer_for_gauging"
-    ],
-    [
-      "rebar: A biased barometer for gauging the relative speed of some regex engines on a curated set of tasks",
-      "https://github.com/BurntSushi/rebar"
     ]
   ],
   [
