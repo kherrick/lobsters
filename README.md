@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 22:29:34](https://lobste.rs/s/kbqj7k/improving_performance_windows_guest_on) - [Improving the performance of a Windows Guest on KVM/QEMU](https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5)
 * [2023-07-06, 21:30:24](https://lobste.rs/s/g0evzx/exploring_openkylin_china_s_1st) - [Exploring openKylin: China's 1st Independent Open-Source Linux OS](https://news.itsfoss.com/openkylin-linux-os/)
-* [2023-07-06, 19:32:29](https://lobste.rs/s/inqj9i/formal_software_design_with_alloy_6) - [Formal Software Design with Alloy 6](https://haslab.github.io/formal-software-design/)
 * [2023-07-06, 19:14:36](https://lobste.rs/s/3artws/zink_brings_conformant_opengl_on) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
