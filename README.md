@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 17:47:32](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools) - [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
 * [2023-07-06, 17:09:15](https://lobste.rs/s/wozxsu/streambuilder_tumblr_s_open_source) - [StreamBuilder: [tumblr’s] open-source framework for powering your dashboard](https://www.tumblr.com/engineering/722102563011493888/streambuilder-our-open-source-framework-for)
 * [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 16:50:26](https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years) - [The Windows Clock: Why Seconds took Years](https://youtu.be/qe1ltXdKMow)
@@ -21,7 +22,6 @@
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:49:17](https://lobste.rs/s/jejatm/regex_engine_internals_as_library) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
-* [2023-07-05, 12:04:49](https://lobste.rs/s/lscbm7/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
 * [2023-07-05, 09:45:55](https://lobste.rs/s/lxqkuu/demoscene_accepted_as_unesco_cultural) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
