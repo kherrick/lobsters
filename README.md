@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 17:09:15](https://lobste.rs/s/wozxsu/streambuilder_tumblr_s_open_source) - [StreamBuilder: [tumblr’s] open-source framework for powering your dashboard](https://www.tumblr.com/engineering/722102563011493888/streambuilder-our-open-source-framework-for)
 * [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 16:50:26](https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years) - [The Windows Clock: Why Seconds took Years](https://youtu.be/qe1ltXdKMow)
 * [2023-07-06, 16:43:34](https://lobste.rs/s/heshio/be_open_black_digital_design_tip) - [Be Open to Black: A Digital Design Tip](https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black)
@@ -13,7 +14,6 @@
 * [2023-07-06, 04:19:00](https://lobste.rs/s/0gsgun/cloud_backed_sqlite_cloud_backed_sqlite) - [Cloud Backed SQLite: Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
-* [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 * [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
