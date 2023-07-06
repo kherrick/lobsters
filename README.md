@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation) - [TySON: TypeScript Object Notation](https://github.com/jetpack-io/tyson)
+* [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
+* [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-06, 12:04:49](https://lobste.rs/s/ciw36z/simulation_testing_for_liveness) - [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 * [2023-07-06, 07:05:14](https://lobste.rs/s/7phynj/nix_community_survey_2023) - [Nix Community Survey 2023](https://survey.nixos.org/2023)
@@ -13,7 +14,6 @@
 * [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
 * [2023-07-05, 20:58:05](https://lobste.rs/s/ma4mrj/duplicate_this) - [Duplicate this](https://xenodium.com/duplicate-this/)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
-* [2023-07-05, 17:08:27](https://lobste.rs/s/a5nqkh/lxd_becomes_canonical_project) - [LXD becomes a Canonical project](https://lwn.net/Articles/937369/)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 * [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
 * [2023-07-05, 15:10:29](https://lobste.rs/s/rns8hq/making_static_hugo_sites_dynamic_with) - [Making static Hugo sites dynamic with htmx and Go](https://adriano.fyi/posts/2023/2023-07-04-making-hugo-static-sites-dynamic-with-htmx-and-go/)
