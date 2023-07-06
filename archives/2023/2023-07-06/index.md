@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 16:50:26](https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years) - [The Windows Clock: Why Seconds took Years](https://youtu.be/qe1ltXdKMow)
 * [2023-07-06, 16:43:34](https://lobste.rs/s/heshio/be_open_black_digital_design_tip) - [Be Open to Black: A Digital Design Tip](https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black)
 * [2023-07-06, 15:36:57](https://lobste.rs/s/a05y9d/event_driven_architecture_what_you_need) - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)

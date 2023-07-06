@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 16:50:26](https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years) - [The Windows Clock: Why Seconds took Years](https://youtu.be/qe1ltXdKMow)
 * [2023-07-06, 16:43:34](https://lobste.rs/s/heshio/be_open_black_digital_design_tip) - [Be Open to Black: A Digital Design Tip](https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black)
 * [2023-07-06, 15:36:57](https://lobste.rs/s/a05y9d/event_driven_architecture_what_you_need) - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)
@@ -11,7 +12,6 @@
 * [2023-07-06, 06:15:43](https://lobste.rs/s/rqoej7/implementing_system_call_for_openbsd) - [Implementing a system call for OpenBSD](https://www.poolp.org/posts/2023-07-05/implementing-a-system-call-for-openbsd/)
 * [2023-07-06, 04:19:00](https://lobste.rs/s/0gsgun/cloud_backed_sqlite_cloud_backed_sqlite) - [Cloud Backed SQLite: Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
-* [2023-07-05, 22:14:08](https://lobste.rs/s/qqp1cu/litefs_cloud_distributed_sqlite_with) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 * [2023-07-05, 21:16:00](https://lobste.rs/s/oiebz5/drawing_cirle_qt_qml_three_different_ways) - [Drawing a Cirle in Qt QML three different ways](https://raymii.org/s/articles/Drawing_a_Circle_in_Qt_QML_three_different_ways.html)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
