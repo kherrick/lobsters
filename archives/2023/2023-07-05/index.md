@@ -11,6 +11,7 @@
 * [2023-07-05, 21:03:52](https://lobste.rs/s/is4bah/rebar_biased_barometer_for_gauging) - [rebar: A biased barometer for gauging the relative speed of some regex engines on a curated set of tasks](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 20:58:05](https://lobste.rs/s/ma4mrj/duplicate_this) - [Duplicate this](https://xenodium.com/duplicate-this/)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
+* [2023-07-05, 18:22:54](https://lobste.rs/s/qzkjnh/go_module_proxy_at_grab) - [Go module proxy at Grab](https://engineering.grab.com/go-module-proxy)
 * [2023-07-05, 17:08:27](https://lobste.rs/s/a5nqkh/lxd_becomes_canonical_project) - [LXD becomes a Canonical project](https://lwn.net/Articles/937369/)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 * [2023-07-05, 16:01:05](https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not) - [The Certificate Authority model does not work for LAN devices](https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/)
