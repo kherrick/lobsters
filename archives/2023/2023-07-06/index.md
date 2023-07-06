@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation) - [TySON: TypeScript Object Notation](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-06, 12:04:49](https://lobste.rs/s/ciw36z/simulation_testing_for_liveness) - [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 * [2023-07-06, 07:05:14](https://lobste.rs/s/7phynj/nix_community_survey_2023) - [Nix Community Survey 2023](https://survey.nixos.org/2023)
