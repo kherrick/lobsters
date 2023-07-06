@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-06, 23:43:47",
+      "https://lobste.rs/s/gnqqpz/impact_remote_code_execution"
+    ],
+    [
+      "Impact of remote-code execution vulnerability in LangChain",
+      "https://ntietz.com/blog/langchain-rce/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 22:29:34",
       "https://lobste.rs/s/kbqj7k/improving_performance_windows_guest_on"
     ],
@@ -237,16 +247,6 @@
     [
       "Two Stories for \"What is CHERI?\"",
       "https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 13:14:10",
-      "https://lobste.rs/s/hhoopi/lobsters_is_11_today"
-    ],
-    [
-      "Lobsters is 11 today",
-      "https://lobste.rs/s/hhoopi/lobsters_is_11_today"
     ]
   ]
 ]
