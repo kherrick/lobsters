@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 23:43:47](https://lobste.rs/s/gnqqpz/impact_remote_code_execution) - [Impact of remote-code execution vulnerability in LangChain](https://ntietz.com/blog/langchain-rce/)
 * [2023-07-06, 22:29:34](https://lobste.rs/s/kbqj7k/improving_performance_windows_guest_on) - [Improving the performance of a Windows Guest on KVM/QEMU](https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5)
 * [2023-07-06, 21:30:24](https://lobste.rs/s/g0evzx/exploring_openkylin_china_s_1st) - [Exploring openKylin: China's 1st Independent Open-Source Linux OS](https://news.itsfoss.com/openkylin-linux-os/)
 * [2023-07-06, 19:14:36](https://lobste.rs/s/3artws/zink_brings_conformant_opengl_on) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
@@ -24,7 +25,6 @@
 * [2023-07-05, 14:24:35](https://lobste.rs/s/xsquae/my_kind_repl) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 09:47:31](https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri) - [Two Stories for \"What is CHERI?\"](https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html)
-* [2023-07-03, 13:14:10](https://lobste.rs/s/hhoopi/lobsters_is_11_today) - [Lobsters is 11 today](https://lobste.rs/s/hhoopi/lobsters_is_11_today)
 
 ## [Archives](archives/index.md)
 
