@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
+* [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 17:47:32](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools) - [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
-* [2023-07-06, 17:09:15](https://lobste.rs/s/wozxsu/streambuilder_tumblr_s_open_source) - [StreamBuilder: [tumblr’s] open-source framework for powering your dashboard](https://www.tumblr.com/engineering/722102563011493888/streambuilder-our-open-source-framework-for)
 * [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 16:50:26](https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years) - [The Windows Clock: Why Seconds took Years](https://youtu.be/qe1ltXdKMow)
 * [2023-07-06, 16:43:34](https://lobste.rs/s/heshio/be_open_black_digital_design_tip) - [Be Open to Black: A Digital Design Tip](https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black)
-* [2023-07-06, 15:36:57](https://lobste.rs/s/a05y9d/event_driven_architecture_what_you_need) - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)
 * [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
