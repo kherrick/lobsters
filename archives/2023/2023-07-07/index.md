@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 10:40:58](https://lobste.rs/s/fajnge/from_lunar_phases_yank_pop) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:31:32](https://lobste.rs/s/y8krin/language_based_approach_programming) - [A Language-Based Approach to Programming with Serialized Data](https://www.youtube.com/watch?v=XqBLV67PrPQ)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
