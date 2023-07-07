@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
 * [2023-07-07, 13:03:06](https://lobste.rs/s/1be4iv/til_is_not_same_as_any) - [TIL - IN is not the same as ANY](https://kmoppel.github.io/2023-07-04-til-in-is-not-the-same-as-any/)
 * [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2023-07-07, 10:40:58](https://lobste.rs/s/fajnge/from_lunar_phases_yank_pop) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
