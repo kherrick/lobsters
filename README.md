@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 21:09:57](https://lobste.rs/s/lumax9/coverage_guided_fuzzing_haskell) - [Coverage-guided fuzzing of Haskell programs for cheap](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
 * [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 18:07:26](https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent) - [SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state](https://github.com/okTurtles/sbp-js)
@@ -22,7 +23,6 @@
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 17:47:32](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools) - [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
 * [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
-* [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 
