@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 05:19:23](https://lobste.rs/s/gsy5d6/gpt_4_api_general_availability) - [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-07, 01:32:41](https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-07, 01:29:57](https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text) - [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
@@ -21,7 +22,6 @@
 * [2023-07-06, 07:05:14](https://lobste.rs/s/7phynj/nix_community_survey_2023) - [Nix Community Survey 2023](https://survey.nixos.org/2023)
 * [2023-07-06, 06:15:43](https://lobste.rs/s/rqoej7/implementing_system_call_for_openbsd) - [Implementing a system call for OpenBSD](https://www.poolp.org/posts/2023-07-05/implementing-a-system-call-for-openbsd/)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
-* [2023-07-05, 22:09:27](https://lobste.rs/s/slxe16/why_i_switched_from_neovim_vscode) - [Why I Switched From Neovim To VSCode](https://www.nexxel.dev/blog/neovim-to-vscode)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
 * [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)

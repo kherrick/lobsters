@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 05:19:23](https://lobste.rs/s/gsy5d6/gpt_4_api_general_availability) - [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-07, 01:32:41](https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-07, 01:29:57](https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text) - [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/n_times_faster_than_c_part_one_spoiler_6_33x) - [{n} times faster than C - part one (spoiler - 6.33x)](https://owen.cafe/posts/six-times-faster-than-c/)
