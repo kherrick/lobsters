@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 * [2023-07-07, 07:04:52](https://lobste.rs/s/hkf8ce/searching_for_meaning) - [Searching for meaning](https://nb.karmi.cz/semantic-search-with-elasticsearch/)
 * [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
 * [2023-07-07, 05:19:23](https://lobste.rs/s/gsy5d6/gpt_4_api_general_availability) - [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
@@ -20,7 +21,6 @@
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-06, 12:04:49](https://lobste.rs/s/ciw36z/simulation_testing_for_liveness) - [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 * [2023-07-06, 07:05:14](https://lobste.rs/s/7phynj/nix_community_survey_2023) - [Nix Community Survey 2023](https://survey.nixos.org/2023)
-* [2023-07-06, 06:15:43](https://lobste.rs/s/rqoej7/implementing_system_call_for_openbsd) - [Implementing a system call for OpenBSD](https://www.poolp.org/posts/2023-07-05/implementing-a-system-call-for-openbsd/)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
