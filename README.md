@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 16:29:43](https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization) - [Taking Advantage of Auto-Vectorization in Rust (2020)](https://www.nickwilcox.com/blog/autovec/)
 * [2023-07-07, 15:47:21](https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands) - [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
 * [2023-07-07, 13:03:06](https://lobste.rs/s/1be4iv/til_is_not_same_as_any) - [TIL - IN is not the same as ANY](https://kmoppel.github.io/2023-07-04-til-in-is-not-the-same-as-any/)
@@ -23,7 +24,6 @@
 * [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
-* [2023-07-06, 12:04:49](https://lobste.rs/s/ciw36z/simulation_testing_for_liveness) - [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 
 ## [Archives](archives/index.md)
