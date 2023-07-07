@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 09:31:32](https://lobste.rs/s/y8krin/language_based_approach_programming) - [A Language-Based Approach to Programming with Serialized Data](https://www.youtube.com/watch?v=XqBLV67PrPQ)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 * [2023-07-07, 07:04:52](https://lobste.rs/s/hkf8ce/searching_for_meaning) - [Searching for meaning](https://nb.karmi.cz/semantic-search-with-elasticsearch/)
@@ -10,7 +11,6 @@
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-07, 00:45:24](https://lobste.rs/s/lsa53x/souffle_datalog_synthesis_tool_for) - [Soufflé: A Datalog Synthesis Tool for Static Analysis](https://souffle-lang.github.io/docs.html)
 * [2023-07-07, 00:15:07](https://lobste.rs/s/azyhee/tweaking_emacs_for_ruby_development) - [Tweaking Emacs for Ruby Development](https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/)
-* [2023-07-06, 23:43:47](https://lobste.rs/s/gnqqpz/impact_remote_code_execution) - [Impact of remote-code execution vulnerability in LangChain](https://ntietz.com/blog/langchain-rce/)
 * [2023-07-06, 19:14:36](https://lobste.rs/s/3artws/zink_brings_conformant_opengl_on) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
