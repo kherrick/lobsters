@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 18:07:26](https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent) - [SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state](https://github.com/okTurtles/sbp-js)
 * [2023-07-07, 17:52:06](https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many) - [Taking back what was lost, aka the many challenges of a not so important subsystem rewrite](https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/)
