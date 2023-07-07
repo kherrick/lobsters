@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 00:15:07",
+      "https://lobste.rs/s/azyhee/tweaking_emacs_for_ruby_development"
+    ],
+    [
+      "Tweaking Emacs for Ruby Development",
+      "https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 23:43:47",
       "https://lobste.rs/s/gnqqpz/impact_remote_code_execution"
     ],
@@ -27,6 +37,16 @@
     [
       "Exploring openKylin: China's 1st Independent Open-Source Linux OS",
       "https://news.itsfoss.com/openkylin-linux-os/"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 19:32:29",
+      "https://lobste.rs/s/inqj9i/formal_software_design_with_alloy_6"
+    ],
+    [
+      "Formal Software Design with Alloy 6",
+      "https://haslab.github.io/formal-software-design/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The Windows Clock: Why Seconds took Years",
       "https://youtu.be/qe1ltXdKMow"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 16:43:34",
-      "https://lobste.rs/s/heshio/be_open_black_digital_design_tip"
-    ],
-    [
-      "Be Open to Black: A Digital Design Tip",
-      "https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Firefox 115 can silently remotely disable my extension on any site",
       "https://lapcatsoftware.com/articles/2023/7/1.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 09:47:31",
-      "https://lobste.rs/s/r6n14b/two_stories_for_what_is_cheri"
-    ],
-    [
-      "Two Stories for \"What is CHERI?\"",
-      "https://tratt.net/laurie/blog/2023/two_stories_for_what_is_cheri.html"
     ]
   ]
 ]
