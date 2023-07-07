@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 19:04:09",
+      "https://lobste.rs/s/yvskjc/experiencing_decreased_performance"
+    ],
+    [
+      "Experiencing Decreased Performance with ChatGPT-4",
+      "https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 18:47:38",
       "https://lobste.rs/s/zls0gn/subtle_magic_tsnet"
     ],
@@ -37,16 +47,6 @@
     [
       "GKE (Google Kubernetes Engine) Review",
       "https://matduggan.com/gke-google-kubernetes-engine-review/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 16:29:43",
-      "https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization"
-    ],
-    [
-      "Taking Advantage of Auto-Vectorization in Rust (2020)",
-      "https://www.nickwilcox.com/blog/autovec/"
     ]
   ],
   [
