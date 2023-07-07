@@ -7,6 +7,7 @@
 * [2023-07-07, 17:52:06](https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many) - [Taking back what was lost, aka the many challenges of a not so important subsystem rewrite](https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 16:29:43](https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization) - [Taking Advantage of Auto-Vectorization in Rust (2020)](https://www.nickwilcox.com/blog/autovec/)
+* [2023-07-07, 15:47:21](https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands) - [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
 * [2023-07-07, 13:03:06](https://lobste.rs/s/1be4iv/til_is_not_same_as_any) - [TIL - IN is not the same as ANY](https://kmoppel.github.io/2023-07-04-til-in-is-not-the-same-as-any/)
 * [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
@@ -22,7 +23,6 @@
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 17:47:32](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools) - [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
-* [2023-07-06, 16:51:19](https://lobste.rs/s/nea2ew/case_against_self_closing_tags_html) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 
