@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:31:32](https://lobste.rs/s/y8krin/language_based_approach_programming) - [A Language-Based Approach to Programming with Serialized Data](https://www.youtube.com/watch?v=XqBLV67PrPQ)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
