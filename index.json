@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 23:12:14",
+      "https://lobste.rs/s/wk9gls/b2b_saas_kit_open_source_recipe_for"
+    ],
+    [
+      "B2B SaaS Kit: open-source recipe for building a B2B SaaS app from a working example",
+      "https://github.com/fogbender/b2b-saaskit"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 21:09:57",
       "https://lobste.rs/s/lumax9/coverage_guided_fuzzing_haskell"
     ],
@@ -167,16 +177,6 @@
     [
       "Corinna in the Perl Core",
       "https://ovid.github.io/articles/corinna-in-the-perl-core.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 01:32:41",
-      "https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts"
-    ],
-    [
-      "Sierra Creative Interpreter – Scripts",
-      "https://www.benshoof.org/blog/sci-scripts"
     ]
   ],
   [
