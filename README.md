@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 18:07:26](https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent) - [SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state](https://github.com/okTurtles/sbp-js)
 * [2023-07-07, 17:52:06](https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many) - [Taking back what was lost, aka the many challenges of a not so important subsystem rewrite](https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 16:29:43](https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization) - [Taking Advantage of Auto-Vectorization in Rust (2020)](https://www.nickwilcox.com/blog/autovec/)
@@ -24,7 +25,6 @@
 * [2023-07-06, 15:29:16](https://lobste.rs/s/hf3ojm/observability_driven_ci) - [Observability Driven CI](https://andydote.co.uk/2023/07/06/observability-driven-ci/)
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
-* [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 
 ## [Archives](archives/index.md)
 
