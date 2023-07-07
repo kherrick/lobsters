@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 16:29:43](https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization) - [Taking Advantage of Auto-Vectorization in Rust (2020)](https://www.nickwilcox.com/blog/autovec/)
 * [2023-07-07, 15:47:21](https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands) - [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
