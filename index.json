@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 18:07:26",
+      "https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent"
+    ],
+    [
+      "SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state",
+      "https://github.com/okTurtles/sbp-js"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 17:52:06",
       "https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many"
     ],
@@ -237,16 +247,6 @@
     [
       "The Many Ways that Digital Minds Can Know",
       "https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 22:27:39",
-      "https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing"
-    ],
-    [
-      "Terminal Click: A new terminal bringing dead text to life",
-      "https://terminal.click"
     ]
   ]
 ]
