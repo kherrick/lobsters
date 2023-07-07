@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 * [2023-07-07, 07:04:52](https://lobste.rs/s/hkf8ce/searching_for_meaning) - [Searching for meaning](https://nb.karmi.cz/semantic-search-with-elasticsearch/)
 * [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
@@ -24,7 +25,6 @@
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
-* [2023-07-05, 13:29:33](https://lobste.rs/s/pqkcep/firefox_115_can_silently_remotely) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 
 ## [Archives](archives/index.md)
 

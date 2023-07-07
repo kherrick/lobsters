@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 * [2023-07-07, 07:04:52](https://lobste.rs/s/hkf8ce/searching_for_meaning) - [Searching for meaning](https://nb.karmi.cz/semantic-search-with-elasticsearch/)
 * [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
