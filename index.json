@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 07:49:39",
+      "https://lobste.rs/s/ibtnxo/what_is_type_type"
+    ],
+    [
+      "What is the type of Type?",
+      "https://avestura.dev/blog/what-is-the-type-of-type"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 07:04:52",
       "https://lobste.rs/s/hkf8ce/searching_for_meaning"
     ],
@@ -197,16 +207,6 @@
     [
       "Nix Community Survey 2023",
       "https://survey.nixos.org/2023"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 06:15:43",
-      "https://lobste.rs/s/rqoej7/implementing_system_call_for_openbsd"
-    ],
-    [
-      "Implementing a system call for OpenBSD",
-      "https://www.poolp.org/posts/2023-07-05/implementing-a-system-call-for-openbsd/"
     ]
   ],
   [
