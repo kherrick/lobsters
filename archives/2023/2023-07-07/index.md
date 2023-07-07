@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 23:12:14](https://lobste.rs/s/wk9gls/b2b_saas_kit_open_source_recipe_for) - [B2B SaaS Kit: open-source recipe for building a B2B SaaS app from a working example](https://github.com/fogbender/b2b-saaskit)
 * [2023-07-07, 21:09:57](https://lobste.rs/s/lumax9/coverage_guided_fuzzing_haskell) - [Coverage-guided fuzzing of Haskell programs for cheap](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
 * [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)

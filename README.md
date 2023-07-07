@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 23:12:14](https://lobste.rs/s/wk9gls/b2b_saas_kit_open_source_recipe_for) - [B2B SaaS Kit: open-source recipe for building a B2B SaaS app from a working example](https://github.com/fogbender/b2b-saaskit)
 * [2023-07-07, 21:09:57](https://lobste.rs/s/lumax9/coverage_guided_fuzzing_haskell) - [Coverage-guided fuzzing of Haskell programs for cheap](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
 * [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
@@ -17,7 +18,6 @@
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 * [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
-* [2023-07-07, 01:32:41](https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-07, 01:29:57](https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text) - [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-07, 00:45:24](https://lobste.rs/s/lsa53x/souffle_datalog_synthesis_tool_for) - [Soufflé: A Datalog Synthesis Tool for Static Analysis](https://souffle-lang.github.io/docs.html)
