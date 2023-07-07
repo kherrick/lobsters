@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 09:31:32",
+      "https://lobste.rs/s/y8krin/language_based_approach_programming"
+    ],
+    [
+      "A Language-Based Approach to Programming with Serialized Data",
+      "https://www.youtube.com/watch?v=XqBLV67PrPQ"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 09:13:45",
       "https://lobste.rs/s/xc37sv/nix_shell_template"
     ],
@@ -97,16 +107,6 @@
     [
       "Tweaking Emacs for Ruby Development",
       "https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 23:43:47",
-      "https://lobste.rs/s/gnqqpz/impact_remote_code_execution"
-    ],
-    [
-      "Impact of remote-code execution vulnerability in LangChain",
-      "https://ntietz.com/blog/langchain-rce/"
     ]
   ],
   [
