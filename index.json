@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-07-07, 16:29:43",
+      "https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization"
+    ],
+    [
+      "Taking Advantage of Auto-Vectorization in Rust (2020)",
+      "https://www.nickwilcox.com/blog/autovec/"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 15:24:36",
       "https://lobste.rs/s/uxvgkc/mistaken_for_malware"
     ],
@@ -147,16 +157,6 @@
     [
       "Corinna in the Perl Core",
       "https://ovid.github.io/articles/corinna-in-the-perl-core.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 01:32:41",
-      "https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts"
-    ],
-    [
-      "Sierra Creative Interpreter – Scripts",
-      "https://www.benshoof.org/blog/sci-scripts"
     ]
   ],
   [
