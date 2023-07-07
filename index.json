@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 05:50:48",
+      "https://lobste.rs/s/atd2xi/corinna_perl_core"
+    ],
+    [
+      "Corinna in the Perl Core",
+      "https://ovid.github.io/articles/corinna-in-the-perl-core.html"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 05:19:23",
       "https://lobste.rs/s/gsy5d6/gpt_4_api_general_availability"
     ],
@@ -77,16 +87,6 @@
     [
       "Improving the performance of a Windows Guest on KVM/QEMU",
       "https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 19:32:29",
-      "https://lobste.rs/s/inqj9i/formal_software_design_with_alloy_6"
-    ],
-    [
-      "Formal Software Design with Alloy 6",
-      "https://haslab.github.io/formal-software-design/"
     ]
   ],
   [
