@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
 * [2023-07-07, 05:19:23](https://lobste.rs/s/gsy5d6/gpt_4_api_general_availability) - [GPT-4 API general availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-07, 01:32:41](https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-07, 01:29:57](https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text) - [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
@@ -8,7 +9,6 @@
 * [2023-07-07, 00:15:07](https://lobste.rs/s/azyhee/tweaking_emacs_for_ruby_development) - [Tweaking Emacs for Ruby Development](https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/)
 * [2023-07-06, 23:43:47](https://lobste.rs/s/gnqqpz/impact_remote_code_execution) - [Impact of remote-code execution vulnerability in LangChain](https://ntietz.com/blog/langchain-rce/)
 * [2023-07-06, 22:29:34](https://lobste.rs/s/kbqj7k/improving_performance_windows_guest_on) - [Improving the performance of a Windows Guest on KVM/QEMU](https://leduccc.medium.com/improving-the-performance-of-a-windows-10-guest-on-qemu-a5b3f54d9cf5)
-* [2023-07-06, 19:32:29](https://lobste.rs/s/inqj9i/formal_software_design_with_alloy_6) - [Formal Software Design with Alloy 6](https://haslab.github.io/formal-software-design/)
 * [2023-07-06, 19:14:36](https://lobste.rs/s/3artws/zink_brings_conformant_opengl_on) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
