@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 16:29:43",
+      "https://lobste.rs/s/zwlua6/taking_advantage_auto_vectorization"
+    ],
+    [
+      "Taking Advantage of Auto-Vectorization in Rust (2020)",
+      "https://www.nickwilcox.com/blog/autovec/"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 15:47:21",
       "https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands"
     ],
@@ -227,16 +237,6 @@
     [
       "The Many Ways that Digital Minds Can Know",
       "https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 12:04:49",
-      "https://lobste.rs/s/ciw36z/simulation_testing_for_liveness"
-    ],
-    [
-      "Simulation Testing For Liveness",
-      "https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/"
     ]
   ],
   [
