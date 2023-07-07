@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2023-07-07, 10:40:58](https://lobste.rs/s/fajnge/from_lunar_phases_yank_pop) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:31:32](https://lobste.rs/s/y8krin/language_based_approach_programming) - [A Language-Based Approach to Programming with Serialized Data](https://www.youtube.com/watch?v=XqBLV67PrPQ)

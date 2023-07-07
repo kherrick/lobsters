@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2023-07-07, 10:40:58](https://lobste.rs/s/fajnge/from_lunar_phases_yank_pop) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:31:32](https://lobste.rs/s/y8krin/language_based_approach_programming) - [A Language-Based Approach to Programming with Serialized Data](https://www.youtube.com/watch?v=XqBLV67PrPQ)
@@ -21,7 +22,6 @@
 * [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 * [2023-07-06, 14:18:56](https://lobste.rs/s/xfi7gl/many_ways_digital_minds_can_know) - [The Many Ways that Digital Minds Can Know](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-06, 12:04:49](https://lobste.rs/s/ciw36z/simulation_testing_for_liveness) - [Simulation Testing For Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
-* [2023-07-06, 07:05:14](https://lobste.rs/s/7phynj/nix_community_survey_2023) - [Nix Community Survey 2023](https://survey.nixos.org/2023)
 * [2023-07-05, 22:27:39](https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing) - [Terminal Click: A new terminal bringing dead text to life](https://terminal.click)
 * [2023-07-05, 18:41:01](https://lobste.rs/s/tx4s9v/opinion_on_what_s_good_general_purpose) - [An opinion on what's a good general-purpose programming language](https://avestura.dev/blog/ideal-programming-language)
 * [2023-07-05, 16:46:25](https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what) - [Rust Doesn't Have Named Arguments. So What?](https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what)
