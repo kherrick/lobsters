@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-07, 13:03:06](https://lobste.rs/s/1be4iv/til_is_not_same_as_any) - [TIL - IN is not the same as ANY](https://kmoppel.github.io/2023-07-04-til-in-is-not-the-same-as-any/)
 * [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2023-07-07, 10:40:58](https://lobste.rs/s/fajnge/from_lunar_phases_yank_pop) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
@@ -12,7 +13,6 @@
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-07, 00:45:24](https://lobste.rs/s/lsa53x/souffle_datalog_synthesis_tool_for) - [Soufflé: A Datalog Synthesis Tool for Static Analysis](https://souffle-lang.github.io/docs.html)
 * [2023-07-07, 00:15:07](https://lobste.rs/s/azyhee/tweaking_emacs_for_ruby_development) - [Tweaking Emacs for Ruby Development](https://johnhame.link/posts/tweaking-emacs-for-ruby-development-in-2023/)
-* [2023-07-06, 19:14:36](https://lobste.rs/s/3artws/zink_brings_conformant_opengl_on) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
 * [2023-07-06, 18:17:25](https://lobste.rs/s/nnxkut/i_want_xaes_256_gcm_11) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 17:47:32](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools) - [How do you use AI development tools?](https://lobste.rs/s/dqz1uk/how_do_you_use_ai_development_tools)
