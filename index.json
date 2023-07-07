@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-07-07, 01:32:41",
+      "https://lobste.rs/s/xplhgc/sierra_creative_interpreter_scripts"
+    ],
+    [
+      "Sierra Creative Interpreter – Scripts",
+      "https://www.benshoof.org/blog/sci-scripts"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 01:29:57",
+      "https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text"
+    ],
+    [
+      "Oils Is Exterior-First (Code, Text, and Structured Data)",
+      "https://www.oilshell.org/blog/2023/06/ysh-design.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 01:14:04",
+      "https://lobste.rs/s/7efvw7/n_times_faster_than_c_part_one_spoiler_6_33x"
+    ],
+    [
+      "{n} times faster than C - part one (spoiler - 6.33x)",
+      "https://owen.cafe/posts/six-times-faster-than-c/"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 00:45:24",
+      "https://lobste.rs/s/lsa53x/souffle_datalog_synthesis_tool_for"
+    ],
+    [
+      "Soufflé: A Datalog Synthesis Tool for Static Analysis",
+      "https://souffle-lang.github.io/docs.html"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 00:15:07",
       "https://lobste.rs/s/azyhee/tweaking_emacs_for_ruby_development"
     ],
@@ -37,16 +77,6 @@
     [
       "Exploring openKylin: China's 1st Independent Open-Source Linux OS",
       "https://news.itsfoss.com/openkylin-linux-os/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 19:32:29",
-      "https://lobste.rs/s/inqj9i/formal_software_design_with_alloy_6"
-    ],
-    [
-      "Formal Software Design with Alloy 6",
-      "https://haslab.github.io/formal-software-design/"
     ]
   ],
   [
@@ -101,12 +131,12 @@
   ],
   [
     [
-      "2023-07-06, 16:50:26",
-      "https://lobste.rs/s/i0fcfp/windows_clock_why_seconds_took_years"
+      "2023-07-06, 16:43:34",
+      "https://lobste.rs/s/heshio/be_open_black_digital_design_tip"
     ],
     [
-      "The Windows Clock: Why Seconds took Years",
-      "https://youtu.be/qe1ltXdKMow"
+      "Be Open to Black: A Digital Design Tip",
+      "https://toast.al/posts/visuallayout/2023-07-06_be-open-to-black"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-07-06, 04:19:00",
-      "https://lobste.rs/s/0gsgun/cloud_backed_sqlite"
-    ],
-    [
-      "Cloud Backed SQLite",
-      "https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 22:27:39",
       "https://lobste.rs/s/uhmygc/terminal_click_new_terminal_bringing"
     ],
@@ -217,26 +237,6 @@
     [
       "Rust Doesn't Have Named Arguments. So What?",
       "https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 16:01:05",
-      "https://lobste.rs/s/yk1zuk/certificate_authority_model_does_not"
-    ],
-    [
-      "The Certificate Authority model does not work for LAN devices",
-      "https://neosmart.net/blog/lets-stop-punishing-iot-devices-that-embrace-https-shall-we/"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 14:24:35",
-      "https://lobste.rs/s/xsquae/my_kind_repl"
-    ],
-    [
-      "My Kind of REPL",
-      "https://ianthehenry.com/posts/my-kind-of-repl/"
     ]
   ],
   [
