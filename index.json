@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 15:47:21",
+      "https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands"
+    ],
+    [
+      "A Deep Dive Into SVG Path Commands",
+      "https://www.nan.fyi/svg-paths"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 15:24:36",
       "https://lobste.rs/s/uxvgkc/mistaken_for_malware"
     ],
@@ -237,16 +247,6 @@
     [
       "Terminal Click: A new terminal bringing dead text to life",
       "https://terminal.click"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 16:46:25",
-      "https://lobste.rs/s/kyaqq1/rust_doesn_t_have_named_arguments_so_what"
-    ],
-    [
-      "Rust Doesn't Have Named Arguments. So What?",
-      "https://thoughtbot.com/blog/rust-doesn-t-have-named-arguments-so-what"
     ]
   ]
 ]
