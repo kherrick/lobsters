@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 20:35:37](https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement) - [Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)](http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675)
 * [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 20:35:37](https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement) - [Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)](http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675)
 * [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
@@ -14,7 +15,6 @@
 * [2023-07-08, 12:36:27](https://lobste.rs/s/25n6sw/beyond_functional_programming_taste) - [Beyond functional programming: a taste of Verse](https://www.youtube.com/watch?v=OJv8rFap0Nw)
 * [2023-07-08, 09:59:30](https://lobste.rs/s/4zgidm/cargo_semver_checks_scan_your_rust_crate) - [cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 04:51:41](https://lobste.rs/s/ddyqhx/counterexamples_type_systems) - [Counterexamples in Type Systems](https://github.com/stedolan/counterexamples)
-* [2023-07-08, 03:00:50](https://lobste.rs/s/tygylr/minotaur_simd_oriented_synthesizing) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-08, 02:39:05](https://lobste.rs/s/1i04z7/refurb_weekend_s_commodore_mos_kim_1) - [Refurb weekend(s): Commodore/MOS KIM-1](https://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 01:10:16](https://lobste.rs/s/erlu6r/ai_txt_robots_txt_for_ai) - [ai.txt: robots.txt for AI](https://spawning.substack.com/p/aitxt-a-new-way-for-websites-to-set)
 * [2023-07-07, 23:24:26](https://lobste.rs/s/nr1qd7/advanced_macos_commands) - [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands)
