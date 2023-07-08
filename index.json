@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-08, 20:39:08",
+      "https://lobste.rs/s/tuvc8s/jank_development_update_faster_object"
+    ],
+    [
+      "jank development update - A faster object model",
+      "https://jank-lang.org/blog/2023-07-08-object-model/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 20:35:37",
       "https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement"
     ],
@@ -187,16 +197,6 @@
     [
       "The Subtle Magic of tsnet",
       "https://tailscale.dev/blog/tsup-tsnet"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 17:52:06",
-      "https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many"
-    ],
-    [
-      "Taking back what was lost, aka the many challenges of a not so important subsystem rewrite",
-      "https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/"
     ]
   ],
   [
