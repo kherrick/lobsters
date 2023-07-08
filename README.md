@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 * [2023-07-08, 14:24:13](https://lobste.rs/s/jcbtsv/re_evaluation_on_multipaxos_under) - [Re-evaluation on MultiPaxos under partial network partition from the OmniPaxos paper](https://zhiying12.github.io/posts/2023/06/blog-post-1/)
@@ -13,7 +14,6 @@
 * [2023-07-08, 02:39:05](https://lobste.rs/s/1i04z7/refurb_weekend_s_commodore_mos_kim_1) - [Refurb weekend(s): Commodore/MOS KIM-1](https://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 01:10:16](https://lobste.rs/s/erlu6r/ai_txt_robots_txt_for_ai) - [ai.txt: robots.txt for AI](https://spawning.substack.com/p/aitxt-a-new-way-for-websites-to-set)
 * [2023-07-07, 23:24:26](https://lobste.rs/s/nr1qd7/advanced_macos_commands) - [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands)
-* [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 17:52:06](https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many) - [Taking back what was lost, aka the many challenges of a not so important subsystem rewrite](https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
