@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
