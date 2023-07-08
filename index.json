@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-08, 21:11:07",
+      "https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world"
+    ],
+    [
+      "How small is the smallest .NET Hello World binary?",
+      "https://blog.washi.dev/posts/tinysharp/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 20:39:08",
       "https://lobste.rs/s/tuvc8s/jank_development_update_faster_object"
     ],
@@ -87,16 +97,6 @@
     [
       "This will be easy",
       "https://www.bitecode.dev/p/this-will-be-easy"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 14:24:13",
-      "https://lobste.rs/s/jcbtsv/re_evaluation_on_multipaxos_under"
-    ],
-    [
-      "Re-evaluation on MultiPaxos under partial network partition from the OmniPaxos paper",
-      "https://zhiying12.github.io/posts/2023/06/blog-post-1/"
     ]
   ],
   [
