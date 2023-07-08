@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-08, 21:44:36",
+      "https://lobste.rs/s/astcqf/implementing_question_answering_system"
+    ],
+    [
+      "Implementing a question-answering system for PDF documents using ChatGPT and Redis",
+      "https://mstack.nl/blog/20230623-chatgpt-question-pdf-document/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 21:11:07",
       "https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world"
     ],
@@ -227,16 +237,6 @@
     [
       "How I Hacked my CASIO F-91W digital watch",
       "https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 09:13:45",
-      "https://lobste.rs/s/xc37sv/nix_shell_template"
-    ],
-    [
-      "Nix shell template",
-      "https://paperless.blog/nix-shell-template"
     ]
   ],
   [
