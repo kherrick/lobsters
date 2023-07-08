@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 21:44:36](https://lobste.rs/s/astcqf/implementing_question_answering_system) - [Implementing a question-answering system for PDF documents using ChatGPT and Redis](https://mstack.nl/blog/20230623-chatgpt-question-pdf-document/)
 * [2023-07-08, 21:11:07](https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-08, 20:39:08](https://lobste.rs/s/tuvc8s/jank_development_update_faster_object) - [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
