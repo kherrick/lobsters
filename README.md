@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
@@ -17,7 +18,6 @@
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 17:52:06](https://lobste.rs/s/g01nef/taking_back_what_was_lost_aka_many) - [Taking back what was lost, aka the many challenges of a not so important subsystem rewrite](https://en.trycht.cz/2023/06/06/taking-back-what-was-lost-aka-the-many-challenges-of-a-not-so-important-subsystem-rewrite/)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
-* [2023-07-07, 15:47:21](https://lobste.rs/s/sjosoz/deep_dive_into_svg_path_commands) - [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
 * [2023-07-07, 13:03:06](https://lobste.rs/s/1be4iv/til_is_not_same_as_any) - [TIL - IN is not the same as ANY](https://kmoppel.github.io/2023-07-04-til-in-is-not-the-same-as-any/)
 * [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
