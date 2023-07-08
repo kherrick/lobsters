@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 09:59:30](https://lobste.rs/s/4zgidm/cargo_semver_checks_scan_your_rust_crate) - [cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 04:57:39](https://lobste.rs/s/czhzew/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
 * [2023-07-08, 04:51:41](https://lobste.rs/s/ddyqhx/counterexamples_type_systems) - [Counterexamples in Type Systems](https://github.com/stedolan/counterexamples)
 * [2023-07-08, 03:00:50](https://lobste.rs/s/tygylr/minotaur_simd_oriented_synthesizing) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
@@ -24,7 +25,6 @@
 * [2023-07-07, 01:29:57](https://lobste.rs/s/xnnomt/oils_is_exterior_first_code_text) - [Oils Is Exterior-First (Code, Text, and Structured Data)](https://www.oilshell.org/blog/2023/06/ysh-design.html)
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 18:23:38](https://lobste.rs/s/2kvgav/learning_learn_rust) - [Learning to learn Rust](https://blog.danieljanus.pl/2023/07/06/learning-to-learn-rust/)
-* [2023-07-06, 14:56:07](https://lobste.rs/s/bjbaxw/tyson_typescript_object_notation_use_ts) - [TySON: TypeScript Object Notation. Use TS as an embeddable config language](https://github.com/jetpack-io/tyson)
 
 ## [Archives](archives/index.md)
 

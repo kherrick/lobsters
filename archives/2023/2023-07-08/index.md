@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 09:59:30](https://lobste.rs/s/4zgidm/cargo_semver_checks_scan_your_rust_crate) - [cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 04:57:39](https://lobste.rs/s/czhzew/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
 * [2023-07-08, 04:51:41](https://lobste.rs/s/ddyqhx/counterexamples_type_systems) - [Counterexamples in Type Systems](https://github.com/stedolan/counterexamples)
 * [2023-07-08, 03:00:50](https://lobste.rs/s/tygylr/minotaur_simd_oriented_synthesizing) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
