@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 13:54:07](https://lobste.rs/s/9zh1cc/prio_private_robust_scalable) - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics (2017)](https://crypto.stanford.edu/prio/paper.pdf)
 * [2023-07-08, 13:35:40](https://lobste.rs/s/n3xii1/comparison_multiple_generative_ai_tools) - [A comparison of multiple generative AI tools when asking for Ruby on Rails code](https://allaboutcoding.ghinda.com/a-comparison-of-multiple-generative-ai-tools-when-asking-for-ruby-on-rails-code)
 * [2023-07-08, 12:36:27](https://lobste.rs/s/25n6sw/beyond_functional_programming_taste) - [Beyond functional programming: a taste of Verse. Simon Peyton Jones & Tim Sweeney](https://www.youtube.com/watch?v=OJv8rFap0Nw)
