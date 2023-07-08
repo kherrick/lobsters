@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 01:25:10](https://lobste.rs/s/vvld3h/intel_vt_rp_part_1_remapping_attack_hlat) - [Intel VT-rp - Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
+* [2023-07-08, 01:10:16](https://lobste.rs/s/erlu6r/ai_txt_robots_txt_for_ai) - [ai.txt: robots.txt for AI](https://spawning.substack.com/p/aitxt-a-new-way-for-websites-to-set)
 * [2023-07-07, 23:24:26](https://lobste.rs/s/nr1qd7/advanced_macos_commands) - [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands)
-* [2023-07-07, 23:12:14](https://lobste.rs/s/wk9gls/b2b_saas_kit_open_source_recipe_for) - [B2B SaaS Kit: open-source recipe for building a B2B SaaS app from a working example](https://github.com/fogbender/b2b-saaskit)
-* [2023-07-07, 21:09:57](https://lobste.rs/s/lumax9/coverage_guided_fuzzing_haskell) - [Coverage-guided fuzzing of Haskell programs for cheap](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
 * [2023-07-07, 19:04:09](https://lobste.rs/s/yvskjc/experiencing_decreased_performance) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 18:07:26](https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent) - [SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state](https://github.com/okTurtles/sbp-js)
