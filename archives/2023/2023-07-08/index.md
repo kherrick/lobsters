@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 * [2023-07-08, 14:24:13](https://lobste.rs/s/jcbtsv/re_evaluation_on_multipaxos_under) - [Re-evaluation on MultiPaxos under partial network partition from the OmniPaxos paper](https://zhiying12.github.io/posts/2023/06/blog-post-1/)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 13:54:07](https://lobste.rs/s/9zh1cc/prio_private_robust_scalable) - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics (2017)](https://crypto.stanford.edu/prio/paper.pdf)
