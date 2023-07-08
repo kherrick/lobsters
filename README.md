@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 14:24:13](https://lobste.rs/s/jcbtsv/re_evaluation_on_multipaxos_under) - [Re-evaluation on MultiPaxos under partial network partition from the OmniPaxos paper](https://zhiying12.github.io/posts/2023/06/blog-post-1/)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 13:54:07](https://lobste.rs/s/9zh1cc/prio_private_robust_scalable) - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics (2017)](https://crypto.stanford.edu/prio/paper.pdf)
 * [2023-07-08, 13:35:40](https://lobste.rs/s/n3xii1/comparison_multiple_generative_ai_tools) - [A comparison of multiple generative AI tools when asking for Ruby on Rails code](https://allaboutcoding.ghinda.com/a-comparison-of-multiple-generative-ai-tools-when-asking-for-ruby-on-rails-code)
@@ -23,7 +24,6 @@
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
-* [2023-07-07, 05:50:48](https://lobste.rs/s/atd2xi/corinna_perl_core) - [Corinna in the Perl Core](https://ovid.github.io/articles/corinna-in-the-perl-core.html)
 * [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 
 ## [Archives](archives/index.md)
