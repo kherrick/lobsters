@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
@@ -24,7 +25,6 @@
 * [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
-* [2023-07-07, 01:14:04](https://lobste.rs/s/7efvw7/6_33_times_faster_than_c_part_one) - [6.33 times faster than C - part one](https://owen.cafe/posts/six-times-faster-than-c/)
 
 ## [Archives](archives/index.md)
 
