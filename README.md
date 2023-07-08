@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 21:11:07](https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-08, 20:39:08](https://lobste.rs/s/tuvc8s/jank_development_update_faster_object) - [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
 * [2023-07-08, 20:35:37](https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement) - [Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)](http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675)
 * [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
@@ -9,7 +10,6 @@
 * [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
-* [2023-07-08, 14:24:13](https://lobste.rs/s/jcbtsv/re_evaluation_on_multipaxos_under) - [Re-evaluation on MultiPaxos under partial network partition from the OmniPaxos paper](https://zhiying12.github.io/posts/2023/06/blog-post-1/)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 13:54:07](https://lobste.rs/s/9zh1cc/prio_private_robust_scalable) - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics (2017)](https://crypto.stanford.edu/prio/paper.pdf)
 * [2023-07-08, 13:35:40](https://lobste.rs/s/n3xii1/comparison_multiple_generative_ai_tools) - [A comparison of multiple generative AI tools when asking for Ruby on Rails code](https://allaboutcoding.ghinda.com/a-comparison-of-multiple-generative-ai-tools-when-asking-for-ruby-on-rails-code)
