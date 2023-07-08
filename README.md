@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
@@ -22,7 +23,6 @@
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
 * [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
-* [2023-07-07, 10:18:41](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cwdc26/what_are_you_doing_this_weekend)
 * [2023-07-07, 09:13:45](https://lobste.rs/s/xc37sv/nix_shell_template) - [Nix shell template](https://paperless.blog/nix-shell-template)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
