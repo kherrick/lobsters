@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-08, 20:35:37",
+      "https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement"
+    ],
+    [
+      "Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)",
+      "http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 19:08:33",
       "https://lobste.rs/s/bmddyf/functional_programming_lean"
     ],
@@ -137,16 +147,6 @@
     [
       "Counterexamples in Type Systems",
       "https://github.com/stedolan/counterexamples"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 03:00:50",
-      "https://lobste.rs/s/tygylr/minotaur_simd_oriented_synthesizing"
-    ],
-    [
-      "Minotaur: A SIMD-Oriented Synthesizing Superoptimizer",
-      "https://arxiv.org/abs/2306.00229"
     ]
   ],
   [
