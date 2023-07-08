@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-08, 04:57:39",
+      "https://lobste.rs/s/czhzew/finally_terminated_2015_finalterm"
+    ],
+    [
+      "Finally terminated (2015) - FinalTerm retrospective",
+      "https://worldwidemann.com/finally-terminated/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 04:51:41",
       "https://lobste.rs/s/ddyqhx/counterexamples_type_systems"
     ],
@@ -77,16 +87,6 @@
     [
       "The Subtle Magic of tsnet",
       "https://tailscale.dev/blog/tsup-tsnet"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 18:07:26",
-      "https://lobste.rs/s/trwq5h/sbp_v2_3_0_adds_sbp_domains_lock_prevent"
-    ],
-    [
-      "SBP v2.3.0 adds 'sbp/domains/lock' to prevent unauthorized access to domain state",
-      "https://github.com/okTurtles/sbp-js"
     ]
   ],
   [
