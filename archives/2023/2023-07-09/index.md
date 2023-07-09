@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 11:44:56](https://lobste.rs/s/aeaiju/getting_started_with_reasonreact) - [Getting started with ReasonReact and Melange](https://dev.to/psb/getting-started-with-reasonreact-and-melange-13hd)
 * [2023-07-09, 10:42:19](https://lobste.rs/s/8vooyv/three_js_development_2023) - [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/)
 * [2023-07-09, 09:50:15](https://lobste.rs/s/euaxn3/beware_integrated_tests_scam_was) - [Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
