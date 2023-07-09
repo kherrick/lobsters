@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_release_v0_17) - [Boa release v0.17](https://boajs.dev/posts/2023-07-08-boa-release-17/)
+* [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
 * [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 21:44:36](https://lobste.rs/s/astcqf/implementing_question_answering_system) - [Implementing a question-answering system for PDF documents using ChatGPT and Redis](https://mstack.nl/blog/20230623-chatgpt-question-pdf-document/)
 * [2023-07-08, 21:11:07](https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
@@ -9,7 +11,6 @@
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:49:31](https://lobste.rs/s/egwpvm/implement_dns_weekend) - [Implement DNS in a weekend](https://implement-dns.wizardzines.com/)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
-* [2023-07-08, 15:32:58](https://lobste.rs/s/immfmd/how_keep_lambda_calculus_simple) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
@@ -18,7 +19,6 @@
 * [2023-07-08, 09:59:30](https://lobste.rs/s/4zgidm/cargo_semver_checks_scan_your_rust_crate) - [cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 04:51:41](https://lobste.rs/s/ddyqhx/counterexamples_type_systems) - [Counterexamples in Type Systems](https://github.com/stedolan/counterexamples)
 * [2023-07-08, 02:39:05](https://lobste.rs/s/1i04z7/refurb_weekend_s_commodore_mos_kim_1) - [Refurb weekend(s): Commodore/MOS KIM-1](https://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
-* [2023-07-08, 01:10:16](https://lobste.rs/s/erlu6r/ai_txt_robots_txt_for_ai) - [ai.txt: robots.txt for AI](https://spawning.substack.com/p/aitxt-a-new-way-for-websites-to-set)
 * [2023-07-07, 23:24:26](https://lobste.rs/s/nr1qd7/advanced_macos_commands) - [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands)
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
