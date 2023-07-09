@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 08:44:44](https://lobste.rs/s/lwsooc/old_computer_challenge_2023) - [Old Computer Challenge (2023)](http://occ.deadnet.se)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
 * [2023-07-09, 06:53:05](https://lobste.rs/s/skmhss/reverse_engineering_8086_processor_s) - [Reverse-engineering the 8086 processor's address and data pin circuits](http://www.righto.com/2023/07/8086-pins.html)
