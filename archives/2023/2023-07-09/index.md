@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 21:22:57](https://lobste.rs/s/a6zoel/freedom_software_instead_free_software) - [Freedom Software instead of Free Software](https://thatworkshop.com/2023/07/09/freedom-software-instead-of-free-software/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 19:13:25](https://lobste.rs/s/yaobbe/programming_with_implicit_values) - [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
