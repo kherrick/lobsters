@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
+* [2023-07-09, 18:54:48](https://lobste.rs/s/6xz2w7/effects_bibliography_collaborative) - [effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 * [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 11:44:56](https://lobste.rs/s/aeaiju/getting_started_with_reasonreact) - [Getting started with ReasonReact and Melange](https://dev.to/psb/getting-started-with-reasonreact-and-melange-13hd)
