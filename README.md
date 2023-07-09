@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
 * [2023-07-09, 06:53:05](https://lobste.rs/s/skmhss/reverse_engineering_8086_processor_s) - [Reverse-engineering the 8086 processor's address and data pin circuits](http://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
@@ -24,7 +25,6 @@
 * [2023-07-07, 23:24:26](https://lobste.rs/s/nr1qd7/advanced_macos_commands) - [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
-* [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 
 ## [Archives](archives/index.md)
 
