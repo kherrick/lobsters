@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 21:22:57](https://lobste.rs/s/a6zoel/freedom_software_instead_free_software) - [Freedom Software instead of Free Software](https://thatworkshop.com/2023/07/09/freedom-software-instead-of-free-software/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 19:13:25](https://lobste.rs/s/yaobbe/programming_with_implicit_values) - [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
@@ -12,7 +13,6 @@
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
 * [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
-* [2023-07-09, 03:01:27](https://lobste.rs/s/pv8gcp/introducing_beamring) - [Introducing Beamring](https://silbernagel.dev/posts/introducing-beamring)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
 * [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
