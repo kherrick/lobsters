@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 07:49:19",
+      "https://lobste.rs/s/ok0sjk/wayland_on_openbsd"
+    ],
+    [
+      "Wayland on OpenBSD",
+      "https://xenocara.org/Wayland_on_OpenBSD.html"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 06:53:47",
       "https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging"
     ],
@@ -237,16 +247,6 @@
     [
       "Mistaken for malware",
       "https://soupault.app/blog/mistaken-for-malware/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 07:49:39",
-      "https://lobste.rs/s/ibtnxo/what_is_type_type"
-    ],
-    [
-      "What is the type of Type?",
-      "https://avestura.dev/blog/what-is-the-type-of-type"
     ]
   ]
 ]
