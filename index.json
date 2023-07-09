@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 10:42:19",
+      "https://lobste.rs/s/8vooyv/three_js_development_2023"
+    ],
+    [
+      "Three.js Development in 2023",
+      "https://brettkromkamp.com/posts/three-js-development-in-2023/"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 09:50:15",
       "https://lobste.rs/s/euaxn3/beware_integrated_tests_scam_was"
     ],
@@ -207,16 +217,6 @@
     [
       "cargo-semver-checks: Scan your Rust crate for semver violations",
       "https://github.com/obi1kenobi/cargo-semver-checks"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 04:51:41",
-      "https://lobste.rs/s/ddyqhx/counterexamples_type_systems"
-    ],
-    [
-      "Counterexamples in Type Systems",
-      "https://github.com/stedolan/counterexamples"
     ]
   ],
   [
