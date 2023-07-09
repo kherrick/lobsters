@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_release_v0_17) - [Boa release v0.17](https://boajs.dev/posts/2023-07-08-boa-release-17/)
+* [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
 * [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 21:44:36](https://lobste.rs/s/astcqf/implementing_question_answering_system) - [Implementing a question-answering system for PDF documents using ChatGPT and Redis](https://mstack.nl/blog/20230623-chatgpt-question-pdf-document/)
