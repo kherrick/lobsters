@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 19:13:25](https://lobste.rs/s/yaobbe/programming_with_implicit_values) - [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
@@ -24,7 +25,6 @@
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
-* [2023-07-08, 12:36:27](https://lobste.rs/s/25n6sw/beyond_functional_programming_taste) - [Beyond functional programming: a taste of Verse](https://www.youtube.com/watch?v=OJv8rFap0Nw)
 
 ## [Archives](archives/index.md)
 

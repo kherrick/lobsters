@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 21:22:57](https://lobste.rs/s/a6zoel/freedom_software_instead_free_software) - [Freedom Software instead of Free Software](https://thatworkshop.com/2023/07/09/freedom-software-instead-of-free-software/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
