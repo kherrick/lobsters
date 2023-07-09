@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 * [2023-07-09, 03:01:27](https://lobste.rs/s/pv8gcp/introducing_beamring) - [Introducing Beamring](https://silbernagel.dev/posts/introducing-beamring)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
@@ -23,7 +24,6 @@
 * [2023-07-07, 18:47:38](https://lobste.rs/s/zls0gn/subtle_magic_tsnet) - [The Subtle Magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 * [2023-07-07, 17:05:40](https://lobste.rs/s/4qgwal/gke_google_kubernetes_engine_review) - [GKE (Google Kubernetes Engine) Review](https://matduggan.com/gke-google-kubernetes-engine-review/)
 * [2023-07-07, 15:24:36](https://lobste.rs/s/uxvgkc/mistaken_for_malware) - [Mistaken for malware](https://soupault.app/blog/mistaken-for-malware/)
-* [2023-07-07, 11:47:08](https://lobste.rs/s/3ded2h/how_i_hacked_my_casio_f_91w_digital_watch) - [How I Hacked my CASIO F-91W digital watch](https://medium.com/@matteo.pisani.91/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15)
 * [2023-07-07, 07:49:39](https://lobste.rs/s/ibtnxo/what_is_type_type) - [What is the type of Type?](https://avestura.dev/blog/what-is-the-type-of-type)
 
 ## [Archives](archives/index.md)

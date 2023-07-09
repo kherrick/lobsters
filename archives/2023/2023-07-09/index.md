@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 * [2023-07-09, 03:01:27](https://lobste.rs/s/pv8gcp/introducing_beamring) - [Introducing Beamring](https://silbernagel.dev/posts/introducing-beamring)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_release_v0_17) - [Boa release v0.17](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
