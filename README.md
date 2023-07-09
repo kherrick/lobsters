@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 19:13:25](https://lobste.rs/s/yaobbe/programming_with_implicit_values) - [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 18:54:48](https://lobste.rs/s/6xz2w7/effects_bibliography_collaborative) - [effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
@@ -10,7 +11,6 @@
 * [2023-07-09, 08:44:44](https://lobste.rs/s/lwsooc/old_computer_challenge_2023) - [Old Computer Challenge (2023)](http://occ.deadnet.se)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
-* [2023-07-09, 06:53:05](https://lobste.rs/s/skmhss/reverse_engineering_8086_processor_s) - [Reverse-engineering the 8086 processor's address and data pin circuits](http://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 * [2023-07-09, 03:01:27](https://lobste.rs/s/pv8gcp/introducing_beamring) - [Introducing Beamring](https://silbernagel.dev/posts/introducing-beamring)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
