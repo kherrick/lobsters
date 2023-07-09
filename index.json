@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 19:13:25",
+      "https://lobste.rs/s/yaobbe/programming_with_implicit_values"
+    ],
+    [
+      "Programming with Implicit Values, Functions, and Control (2019)",
+      "https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 18:59:43",
       "https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on"
     ],
@@ -97,16 +107,6 @@
     [
       "RSoC: on-demand paging",
       "https://redox-os.org/news/kernel-8/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 06:53:05",
-      "https://lobste.rs/s/skmhss/reverse_engineering_8086_processor_s"
-    ],
-    [
-      "Reverse-engineering the 8086 processor's address and data pin circuits",
-      "http://www.righto.com/2023/07/8086-pins.html"
     ]
   ],
   [
