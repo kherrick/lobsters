@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 15:00:20",
+      "https://lobste.rs/s/ukqxjq/most_powerful_law_software"
+    ],
+    [
+      "The Most Powerful Law in Software",
+      "https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 11:44:56",
       "https://lobste.rs/s/aeaiju/getting_started_with_reasonreact"
     ],
@@ -227,16 +237,6 @@
     [
       "cargo-semver-checks: Scan your Rust crate for semver violations",
       "https://github.com/obi1kenobi/cargo-semver-checks"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 23:24:26",
-      "https://lobste.rs/s/nr1qd7/advanced_macos_commands"
-    ],
-    [
-      "Advanced macOS Commands",
-      "https://saurabhs.org/advanced-macos-commands"
     ]
   ],
   [
