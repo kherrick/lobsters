@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 03:01:27](https://lobste.rs/s/pv8gcp/introducing_beamring) - [Introducing Beamring](https://silbernagel.dev/posts/introducing-beamring)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
 * [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
@@ -14,7 +15,6 @@
 * [2023-07-08, 15:20:59](https://lobste.rs/s/pjk5r6/migrating_production_database_without) - [Migrating a production database without any downtime (2021)](https://teamplify.com/blog/zero-downtime-DB-migrations/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 * [2023-07-08, 14:20:54](https://lobste.rs/s/rh1z5n/risc_v_assembly_programming) - [RISC-V Assembly Programming](https://riscv-programming.org/)
-* [2023-07-08, 13:35:40](https://lobste.rs/s/n3xii1/comparison_multiple_generative_ai_tools) - [A comparison of multiple generative AI tools when asking for Ruby on Rails code](https://allaboutcoding.ghinda.com/a-comparison-of-multiple-generative-ai-tools-when-asking-for-ruby-on-rails-code)
 * [2023-07-08, 12:36:27](https://lobste.rs/s/25n6sw/beyond_functional_programming_taste) - [Beyond functional programming: a taste of Verse](https://www.youtube.com/watch?v=OJv8rFap0Nw)
 * [2023-07-08, 09:59:30](https://lobste.rs/s/4zgidm/cargo_semver_checks_scan_your_rust_crate) - [cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 04:51:41](https://lobste.rs/s/ddyqhx/counterexamples_type_systems) - [Counterexamples in Type Systems](https://github.com/stedolan/counterexamples)
