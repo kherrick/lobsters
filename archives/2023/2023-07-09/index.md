@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 09:50:15](https://lobste.rs/s/euaxn3/beware_integrated_tests_scam_was) - [Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 * [2023-07-09, 08:44:44](https://lobste.rs/s/lwsooc/old_computer_challenge_2023) - [Old Computer Challenge (2023)](http://occ.deadnet.se)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
