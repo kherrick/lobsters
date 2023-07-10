@@ -6,6 +6,7 @@
 
 * [2023-07-10, 19:27:13](https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs) - [Understanding zero-knowledge proofs](https://avestura.dev/blog/zero-knowledge-proofs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
+* [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 * [2023-07-10, 17:21:28](https://lobste.rs/s/3pbigc/bridging_fuzzing_property_testing) - [Bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
 * [2023-07-10, 17:02:01](https://lobste.rs/s/m1g36o/slimbook_executive_is_here_it_s_majestic) - [The Slimbook Executive is here, and it's majestic](https://www.dedoimedo.com/computers/slimbook-executive-here.html)
