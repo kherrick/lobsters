@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 21:55:19",
+      "https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger"
+    ],
+    [
+      "Microsoft's userspace keylogger tutorial",
+      "https://cohost.org/blep/post/1982850-i-think-microsoft-wi"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 19:27:13",
       "https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs"
     ],
@@ -207,16 +217,6 @@
     [
       "Irmin - A distributed database built on the same principles as Git",
       "https://irmin.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 00:09:30",
-      "https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014"
-    ],
-    [
-      "Why is pgloader so much faster? (2014)",
-      "https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/"
     ]
   ],
   [
