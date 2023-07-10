@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 08:40:20",
+      "https://lobste.rs/s/2kmua0/groff_version_1_23_0_released"
+    ],
+    [
+      "Groff version 1.23.0 released",
+      "https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 08:39:40",
+      "https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data"
+    ],
+    [
+      "JSON Generator: How To Create Dummy JSON Data",
+      "https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 08:05:11",
       "https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-07-08, 22:07:05",
-      "https://lobste.rs/s/cltrlr/286_running_like_386_2021"
-    ],
-    [
-      "A 286 running like a 386? (2021)",
-      "https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 20:39:08",
       "https://lobste.rs/s/tuvc8s/jank_development_update_faster_object"
     ],
@@ -237,16 +247,6 @@
     [
       "This will be easy",
       "https://www.bitecode.dev/p/this-will-be-easy"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 14:20:54",
-      "https://lobste.rs/s/rh1z5n/risc_v_assembly_programming"
-    ],
-    [
-      "RISC-V Assembly Programming",
-      "https://riscv-programming.org/"
     ]
   ]
 ]
