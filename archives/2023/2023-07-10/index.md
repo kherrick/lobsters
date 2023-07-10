@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 09:04:49](https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-10, 08:40:20](https://lobste.rs/s/2kmua0/groff_version_1_23_0_released) - [Groff version 1.23.0 released](https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html)
 * [2023-07-10, 08:39:40](https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data) - [JSON Generator: How To Create Dummy JSON Data](https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/)
 * [2023-07-10, 08:05:11](https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta) - [Notes on float and multi-byte delta compression](https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html)

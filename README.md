@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 09:04:49](https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-10, 08:40:20](https://lobste.rs/s/2kmua0/groff_version_1_23_0_released) - [Groff version 1.23.0 released](https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html)
 * [2023-07-10, 08:39:40](https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data) - [JSON Generator: How To Create Dummy JSON Data](https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/)
 * [2023-07-10, 08:05:11](https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta) - [Notes on float and multi-byte delta compression](https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html)
@@ -22,7 +23,6 @@
 * [2023-07-09, 08:44:44](https://lobste.rs/s/lwsooc/old_computer_challenge_2023) - [Old Computer Challenge (2023)](http://occ.deadnet.se)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
-* [2023-07-08, 20:39:08](https://lobste.rs/s/tuvc8s/jank_development_update_faster_object) - [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 
