@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 15:28:05](https://lobste.rs/s/swyfel/attacking_microcontroller_readout) - [Attacking Microcontroller Readout Protections with Fault Attacks – Emproof](https://www.emproof.com/attacking-microcontroller-readout-protections-with-fault-attacks/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:43:43](https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for) - [malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery](https://github.com/malwaredb/malwaredb-rs)
@@ -24,7 +25,6 @@
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 * [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
-* [2023-07-09, 10:42:19](https://lobste.rs/s/8vooyv/three_js_development_2023) - [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/)
 
 ## [Archives](archives/index.md)
 

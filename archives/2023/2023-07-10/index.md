@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 15:28:05](https://lobste.rs/s/swyfel/attacking_microcontroller_readout) - [Attacking Microcontroller Readout Protections with Fault Attacks – Emproof](https://www.emproof.com/attacking-microcontroller-readout-protections-with-fault-attacks/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 14:43:26](https://lobste.rs/s/yiwhz7/is_it_possible_extract_location_data_from) - [Is it possible to extract location data from mobile phones without coding an app?](https://lobste.rs/s/yiwhz7/is_it_possible_extract_location_data_from)
