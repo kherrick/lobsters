@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 11:01:48](https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost) - [Several InfluxDB Cloud customers lost data in hasty region shutdown](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 10:48:02](https://lobste.rs/s/xo09a2/implementing_wordle_firefox_address_bar) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-10, 09:46:41](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week)

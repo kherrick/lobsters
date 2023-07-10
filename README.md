@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 11:01:48](https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost) - [Several InfluxDB Cloud customers lost data in hasty region shutdown](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 10:48:02](https://lobste.rs/s/xo09a2/implementing_wordle_firefox_address_bar) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-10, 09:46:41](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week)
@@ -10,7 +11,6 @@
 * [2023-07-10, 08:05:11](https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta) - [Notes on float and multi-byte delta compression](https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html)
 * [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
 * [2023-07-10, 05:06:59](https://lobste.rs/s/kt96lu/tiny_elf_files_revisited_2021) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
-* [2023-07-10, 04:35:08](https://lobste.rs/s/mxocyu/polynomial_functors_mathematical) - [Polynomial Functors: A Mathematical Theory of Interaction](https://topos.site/poly-book.pdf)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
 * [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 23:55:01](https://lobste.rs/s/km3n7r/what_unix_cost_us) - [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
