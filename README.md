@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 * [2023-07-10, 17:02:01](https://lobste.rs/s/m1g36o/slimbook_executive_is_here_it_s_majestic) - [The Slimbook Executive is here, and it's majestic](https://www.dedoimedo.com/computers/slimbook-executive-here.html)
 * [2023-07-10, 16:35:25](https://lobste.rs/s/0vjays/rust_user_s_guide_generics) - [A Rust User's Guide to Generics](https://www.worldofbs.com/rust-generics/)
 * [2023-07-10, 16:13:52](https://lobste.rs/s/up99tf/unihiker_review_linux_based_stem) - [UniHiker review - A Linux-based STEM education platform with IoT and AI support](https://www.cnx-software.com/2023/07/10/unihiker-review-a-linux-based-stem-education-platform-with-iot-and-ai-support-microbit-edge-connector/)
 * [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
-* [2023-07-10, 13:43:43](https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for) - [malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery](https://github.com/malwaredb/malwaredb-rs)
 * [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 * [2023-07-10, 17:02:01](https://lobste.rs/s/m1g36o/slimbook_executive_is_here_it_s_majestic) - [The Slimbook Executive is here, and it's majestic](https://www.dedoimedo.com/computers/slimbook-executive-here.html)
 * [2023-07-10, 16:35:25](https://lobste.rs/s/0vjays/rust_user_s_guide_generics) - [A Rust User's Guide to Generics](https://www.worldofbs.com/rust-generics/)
 * [2023-07-10, 16:13:52](https://lobste.rs/s/up99tf/unihiker_review_linux_based_stem) - [UniHiker review - A Linux-based STEM education platform with IoT and AI support](https://www.cnx-software.com/2023/07/10/unihiker-review-a-linux-based-stem-education-platform-with-iot-and-ai-support-microbit-edge-connector/)
