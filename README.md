@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
 * [2023-07-10, 11:01:48](https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost) - [Several InfluxDB Cloud customers lost data in hasty region shutdown](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
@@ -19,7 +20,6 @@
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
-* [2023-07-09, 18:54:48](https://lobste.rs/s/6xz2w7/effects_bibliography_collaborative) - [effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 * [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 10:42:19](https://lobste.rs/s/8vooyv/three_js_development_2023) - [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/)

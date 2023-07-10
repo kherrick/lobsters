@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
 * [2023-07-10, 11:01:48](https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost) - [Several InfluxDB Cloud customers lost data in hasty region shutdown](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
