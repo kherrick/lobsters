@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-07-10, 11:01:48",
-      "https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost"
-    ],
-    [
-      "Several InfluxDB Cloud customers lost data in hasty region shutdown",
-      "https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 10:57:34",
       "https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115"
     ],
@@ -157,6 +147,16 @@
     [
       "Why is pgloader so much faster? (2014)",
       "https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 23:55:01",
+      "https://lobste.rs/s/km3n7r/what_unix_cost_us"
+    ],
+    [
+      "What UNIX Cost Us",
+      "https://www.youtube.com/watch?v=9-IWMbJXoLM"
     ]
   ],
   [
