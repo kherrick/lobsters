@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 11:01:48",
+      "https://lobste.rs/s/jxunz8/several_influxdb_cloud_customers_lost"
+    ],
+    [
+      "Several InfluxDB Cloud customers lost data in hasty region shutdown",
+      "https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 10:57:34",
       "https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115"
     ],
@@ -97,16 +107,6 @@
     [
       "Tiny ELF Files: Revisited in 2021",
       "https://nathanotterness.com/2021/10/tiny_elf_modernized.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 04:35:08",
-      "https://lobste.rs/s/mxocyu/polynomial_functors_mathematical"
-    ],
-    [
-      "Polynomial Functors: A Mathematical Theory of Interaction",
-      "https://topos.site/poly-book.pdf"
     ]
   ],
   [
