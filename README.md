@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 23:55:01](https://lobste.rs/s/km3n7r/what_unix_cost_us) - [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
@@ -13,7 +14,6 @@
 * [2023-07-09, 09:50:15](https://lobste.rs/s/euaxn3/beware_integrated_tests_scam_was) - [Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam)
 * [2023-07-09, 08:44:44](https://lobste.rs/s/lwsooc/old_computer_challenge_2023) - [Old Computer Challenge (2023)](http://occ.deadnet.se)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
-* [2023-07-09, 06:53:47](https://lobste.rs/s/fvpjtd/rsoc_on_demand_paging) - [RSoC: on-demand paging](https://redox-os.org/news/kernel-8/)
 * [2023-07-09, 03:47:00](https://lobste.rs/s/54dtnp/making_ocaml_5_succeed_for_developers) - [Making OCaml 5 Succeed for Developers and Organisations](https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/)
 * [2023-07-09, 01:34:56](https://lobste.rs/s/yzd6er/boa_javascript_engine_v0_17_released) - [Boa JavaScript Engine v0.17 released](https://boajs.dev/posts/2023-07-08-boa-release-17/)
 * [2023-07-09, 00:48:13](https://lobste.rs/s/86j4ld/matcheroni_minimalist_single_header) - [Matcheroni: A minimalist single-header library for building pattern-matchers, lexers, and parsers](https://github.com/aappleby/Matcheroni/)
