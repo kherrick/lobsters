@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 09:38:10",
+      "https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise"
+    ],
+    [
+      "What is a Unit Test? (The Answer Might Surprise You)",
+      "https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 09:04:49",
       "https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing"
     ],
@@ -227,16 +237,6 @@
     [
       "Making OCaml 5 Succeed for Developers and Organisations",
       "https://tarides.com/blog/2023-07-07-making-ocaml-5-succeed-for-developers-and-organisations/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 17:06:00",
-      "https://lobste.rs/s/ltxxwj/test_against_reality"
-    ],
-    [
-      "Test Against Reality",
-      "https://borretti.me/article/test-against-reality"
     ]
   ],
   [
