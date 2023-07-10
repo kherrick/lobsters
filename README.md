@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 10:48:02](https://lobste.rs/s/xo09a2/implementing_wordle_firefox_address_bar) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-10, 09:46:41](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week)
 * [2023-07-10, 09:38:10](https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise) - [What is a Unit Test? (The Answer Might Surprise You)](https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you)
@@ -16,7 +17,6 @@
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
-* [2023-07-09, 19:13:25](https://lobste.rs/s/yaobbe/programming_with_implicit_values) - [Programming with Implicit Values, Functions, and Control (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/implicits-tr-v2.pdf)
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 18:54:48](https://lobste.rs/s/6xz2w7/effects_bibliography_collaborative) - [effects-bibliography: A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
