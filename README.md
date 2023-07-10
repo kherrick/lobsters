@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 * [2023-07-10, 17:21:28](https://lobste.rs/s/3pbigc/bridging_fuzzing_property_testing) - [Bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
 * [2023-07-10, 17:02:01](https://lobste.rs/s/m1g36o/slimbook_executive_is_here_it_s_majestic) - [The Slimbook Executive is here, and it's majestic](https://www.dedoimedo.com/computers/slimbook-executive-here.html)
@@ -23,7 +24,6 @@
 * [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
-* [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 
 ## [Archives](archives/index.md)
