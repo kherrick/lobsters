@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 10:48:02](https://lobste.rs/s/xo09a2/implementing_wordle_firefox_address_bar) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-10, 09:46:41](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dp2qnc/what_are_you_doing_this_week)
 * [2023-07-10, 09:38:10](https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise) - [What is a Unit Test? (The Answer Might Surprise You)](https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you)
 * [2023-07-10, 09:04:49](https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
