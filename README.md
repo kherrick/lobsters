@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 14:43:26](https://lobste.rs/s/yiwhz7/is_it_possible_extract_location_data_from) - [Is it possible to extract location data from mobile phones without coding an app?](https://lobste.rs/s/yiwhz7/is_it_possible_extract_location_data_from)
 * [2023-07-10, 13:43:43](https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for) - [malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery](https://github.com/malwaredb/malwaredb-rs)
 * [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
@@ -24,7 +25,6 @@
 * [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 10:42:19](https://lobste.rs/s/8vooyv/three_js_development_2023) - [Three.js Development in 2023](https://brettkromkamp.com/posts/three-js-development-in-2023/)
 * [2023-07-09, 07:49:19](https://lobste.rs/s/ok0sjk/wayland_on_openbsd) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
-* [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
 
 ## [Archives](archives/index.md)
 
