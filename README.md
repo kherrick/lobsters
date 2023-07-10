@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 16:35:25](https://lobste.rs/s/0vjays/rust_user_s_guide_generics) - [A Rust User's Guide to Generics](https://www.worldofbs.com/rust-generics/)
 * [2023-07-10, 16:13:52](https://lobste.rs/s/up99tf/unihiker_review_linux_based_stem) - [UniHiker review - A Linux-based STEM education platform with IoT and AI support](https://www.cnx-software.com/2023/07/10/unihiker-review-a-linux-based-stem-education-platform-with-iot-and-ai-support-microbit-edge-connector/)
-* [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:43:43](https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for) - [malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery](https://github.com/malwaredb/malwaredb-rs)
