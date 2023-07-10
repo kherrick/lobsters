@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 16:13:52](https://lobste.rs/s/up99tf/unihiker_review_linux_based_stem) - [UniHiker review - A Linux-based STEM education platform with IoT and AI support](https://www.cnx-software.com/2023/07/10/unihiker-review-a-linux-based-stem-education-platform-with-iot-and-ai-support-microbit-edge-connector/)
+* [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 15:43:38](https://lobste.rs/s/6uo0rs/controller_pattern_is_awful_other_oo) - [The controller pattern is awful (and other OO heresy) (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 15:28:05](https://lobste.rs/s/swyfel/attacking_microcontroller_readout) - [Attacking Microcontroller Readout Protections with Fault Attacks – Emproof](https://www.emproof.com/attacking-microcontroller-readout-protections-with-fault-attacks/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)

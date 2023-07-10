@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-10, 15:43:38](https://lobste.rs/s/6uo0rs/controller_pattern_is_awful_other_oo) - [The controller pattern is awful (and other OO heresy) (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
+* [2023-07-10, 16:13:52](https://lobste.rs/s/up99tf/unihiker_review_linux_based_stem) - [UniHiker review - A Linux-based STEM education platform with IoT and AI support](https://www.cnx-software.com/2023/07/10/unihiker-review-a-linux-based-stem-education-platform-with-iot-and-ai-support-microbit-edge-connector/)
+* [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:43:43](https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for) - [malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery](https://github.com/malwaredb/malwaredb-rs)
@@ -15,7 +16,6 @@
 * [2023-07-10, 08:39:40](https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data) - [JSON Generator: How To Create Dummy JSON Data](https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/)
 * [2023-07-10, 08:05:11](https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta) - [Notes on float and multi-byte delta compression](https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html)
 * [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
-* [2023-07-10, 05:06:59](https://lobste.rs/s/kt96lu/tiny_elf_files_revisited_2021) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
 * [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 23:55:01](https://lobste.rs/s/km3n7r/what_unix_cost_us) - [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
