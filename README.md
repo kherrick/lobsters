@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 04:35:08](https://lobste.rs/s/mxocyu/polynomial_functors_mathematical) - [Polynomial Functors: A Mathematical Theory of Interaction](https://topos.site/poly-book.pdf)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
 * [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 23:55:01](https://lobste.rs/s/km3n7r/what_unix_cost_us) - [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
@@ -20,7 +21,6 @@
 * [2023-07-08, 22:07:05](https://lobste.rs/s/cltrlr/286_running_like_386_2021) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 21:11:07](https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-08, 20:39:08](https://lobste.rs/s/tuvc8s/jank_development_update_faster_object) - [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
-* [2023-07-08, 20:35:37](https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement) - [Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)](http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
