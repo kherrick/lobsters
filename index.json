@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 15:28:05",
+      "https://lobste.rs/s/swyfel/attacking_microcontroller_readout"
+    ],
+    [
+      "Attacking Microcontroller Readout Protections with Fault Attacks – Emproof",
+      "https://www.emproof.com/attacking-microcontroller-readout-protections-with-fault-attacks/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 15:07:31",
       "https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality"
     ],
@@ -237,16 +247,6 @@
     [
       "The Most Powerful Law in Software",
       "https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 10:42:19",
-      "https://lobste.rs/s/8vooyv/three_js_development_2023"
-    ],
-    [
-      "Three.js Development in 2023",
-      "https://brettkromkamp.com/posts/three-js-development-in-2023/"
     ]
   ]
 ]
