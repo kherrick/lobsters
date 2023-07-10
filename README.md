@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-09, 23:55:01](https://lobste.rs/s/km3n7r/what_unix_cost_us) - [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM)
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 22:23:46](https://lobste.rs/s/vifcwg/can_rubik_s_cube_be_brute_forced) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
@@ -20,7 +21,6 @@
 * [2023-07-08, 21:11:07](https://lobste.rs/s/ohjvhc/how_small_is_smallest_net_hello_world) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-08, 20:39:08](https://lobste.rs/s/tuvc8s/jank_development_update_faster_object) - [jank development update - A faster object model](https://jank-lang.org/blog/2023-07-08-object-model/)
 * [2023-07-08, 20:35:37](https://lobste.rs/s/vqs7yc/why_common_lisp_is_used_implement) - [Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)](http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675)
-* [2023-07-08, 19:08:33](https://lobste.rs/s/bmddyf/functional_programming_lean) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-07-08, 17:06:00](https://lobste.rs/s/ltxxwj/test_against_reality) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-08, 16:34:47](https://lobste.rs/s/v4jmts/eink_wrist_mounted_totp_generator) - [An eInk, Wrist-Mounted, TOTP Generator](https://shkspr.mobi/blog/2023/07/an-eink-wrist-mounted-totp-generator/)
 * [2023-07-08, 15:01:33](https://lobste.rs/s/r5yxn1/this_will_be_easy) - [This will be easy](https://www.bitecode.dev/p/this-will-be-easy)
