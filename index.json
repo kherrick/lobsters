@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 23:55:01",
+      "https://lobste.rs/s/km3n7r/what_unix_cost_us"
+    ],
+    [
+      "What UNIX Cost Us",
+      "https://www.youtube.com/watch?v=9-IWMbJXoLM"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 22:57:29",
       "https://lobste.rs/s/n6voy1/90s_developer_starter_pack"
     ],
@@ -197,16 +207,6 @@
     [
       "Why Common Lisp is used to implement commercial products at Secure Outcomes (2010)",
       "http://web.archive.org/web/20100117173315/http://article.gmane.org/gmane.lisp.lispworks.general/9675"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 19:08:33",
-      "https://lobste.rs/s/bmddyf/functional_programming_lean"
-    ],
-    [
-      "Functional Programming in Lean",
-      "https://leanprover.github.io/functional_programming_in_lean/"
     ]
   ],
   [
