@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 21:55:19](https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger) - [Microsoft's userspace keylogger tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
 * [2023-07-10, 19:27:13](https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs) - [Understanding zero-knowledge proofs](https://avestura.dev/blog/zero-knowledge-proofs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
@@ -21,7 +22,6 @@
 * [2023-07-10, 08:40:20](https://lobste.rs/s/2kmua0/groff_version_1_23_0_released) - [Groff version 1.23.0 released](https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html)
 * [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
-* [2023-07-10, 00:09:30](https://lobste.rs/s/yw0hws/why_is_pgloader_so_much_faster_2014) - [Why is pgloader so much faster? (2014)](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/)
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
