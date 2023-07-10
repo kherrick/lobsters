@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 13:43:43",
+      "https://lobste.rs/s/gyi4iy/malwaredb_rs_malwaredb_bookkeeping_for"
+    ],
+    [
+      "malwaredb-rs: MalwareDB: bookkeeping for malware, goodware, and unknown files with relationship discovery",
+      "https://github.com/malwaredb/malwaredb-rs"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 13:23:22",
       "https://lobste.rs/s/tjuuf5/firefox_address_bar_tips"
     ],
@@ -147,16 +157,6 @@
     [
       "Why is pgloader so much faster? (2014)",
       "https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 23:55:01",
-      "https://lobste.rs/s/km3n7r/what_unix_cost_us"
-    ],
-    [
-      "What UNIX Cost Us",
-      "https://www.youtube.com/watch?v=9-IWMbJXoLM"
     ]
   ],
   [
