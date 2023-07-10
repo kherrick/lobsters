@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-10, 19:27:13](https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs) - [Understanding zero-knowledge proofs](https://avestura.dev/blog/zero-knowledge-proofs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 * [2023-07-10, 17:21:28](https://lobste.rs/s/3pbigc/bridging_fuzzing_property_testing) - [Bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
@@ -17,7 +18,6 @@
 * [2023-07-10, 09:38:10](https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise) - [What is a Unit Test? (The Answer Might Surprise You)](https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you)
 * [2023-07-10, 09:04:49](https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-10, 08:40:20](https://lobste.rs/s/2kmua0/groff_version_1_23_0_released) - [Groff version 1.23.0 released](https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html)
-* [2023-07-10, 08:39:40](https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data) - [JSON Generator: How To Create Dummy JSON Data](https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/)
 * [2023-07-10, 08:05:11](https://lobste.rs/s/l1bj2n/notes_on_float_multi_byte_delta) - [Notes on float and multi-byte delta compression](https://cbloomrants.blogspot.com/2023/07/notes-on-float-and-multi-byte-delta.html)
 * [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
