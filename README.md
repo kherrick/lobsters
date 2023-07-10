@@ -5,6 +5,7 @@
 * [2023-07-10, 17:02:01](https://lobste.rs/s/m1g36o/slimbook_executive_is_here_it_s_majestic) - [The Slimbook Executive is here, and it's majestic](https://www.dedoimedo.com/computers/slimbook-executive-here.html)
 * [2023-07-10, 16:35:25](https://lobste.rs/s/0vjays/rust_user_s_guide_generics) - [A Rust User's Guide to Generics](https://www.worldofbs.com/rust-generics/)
 * [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
+* [2023-07-10, 15:43:38](https://lobste.rs/s/6uo0rs/controller_pattern_is_awful_other_oo) - [The controller pattern is awful (and other OO heresy) (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
@@ -24,7 +25,6 @@
 * [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 18:59:43](https://lobste.rs/s/ktsjpx/poisongpt_how_we_hid_lobotomized_llm_on) - [PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
-* [2023-07-09, 15:00:20](https://lobste.rs/s/ukqxjq/most_powerful_law_software) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 
 ## [Archives](archives/index.md)
 
