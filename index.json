@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 19:27:13",
+      "https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs"
+    ],
+    [
+      "Understanding zero-knowledge proofs",
+      "https://avestura.dev/blog/zero-knowledge-proofs"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 18:50:52",
       "https://lobste.rs/s/yrn2et/assembly_as_first_programming_language"
     ],
@@ -167,16 +177,6 @@
     [
       "Groff version 1.23.0 released",
       "https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 08:39:40",
-      "https://lobste.rs/s/fjnzak/json_generator_how_create_dummy_json_data"
-    ],
-    [
-      "JSON Generator: How To Create Dummy JSON Data",
-      "https://dadroit.com/blog/json-generator-how-to-create-dummy-json-data/"
     ]
   ],
   [
