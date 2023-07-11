@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)
 * [2023-07-11, 16:10:12](https://lobste.rs/s/ewxw1i/less_technical_introductions_type) - [Less-technical introductions to type checking?](https://lobste.rs/s/ewxw1i/less_technical_introductions_type)
-* [2023-07-11, 16:09:25](https://lobste.rs/s/p4ysc0/c_23_next_c_standard) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-11, 15:48:30](https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt) - [Generate from Constraints: Using Prompt-Hoisting for GPT-based Code Generation](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation )
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
