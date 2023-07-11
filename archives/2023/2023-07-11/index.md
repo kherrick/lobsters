@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 17:34:54](https://lobste.rs/s/43ghdi/modeling_game_mechanics_with_ceptre) - [Modeling Game Mechanics with Ceptre](https://www.convivial.tools/PapersPublic/ceptre-tog.pdf)
 * [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)

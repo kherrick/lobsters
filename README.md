@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 17:34:54](https://lobste.rs/s/43ghdi/modeling_game_mechanics_with_ceptre) - [Modeling Game Mechanics with Ceptre](https://www.convivial.tools/PapersPublic/ceptre-tog.pdf)
 * [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)
@@ -18,7 +19,6 @@
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 * [2023-07-11, 05:11:11](https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust) - [Shortening the Let’s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
-* [2023-07-10, 19:20:33](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs) - [Usability of modern solutions for logs' analysis and debugging is totally screwed](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
