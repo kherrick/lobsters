@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 15:48:30](https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt) - [Generate from Constraints: Using Prompt-Hoisting for GPT-based Code Generation](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation )
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
 * [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme) - [Atuin's new encryption scheme](https://atuin.sh/blog/new-encryption)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
-* [2023-07-11, 12:05:11](https://lobste.rs/s/1xfom3/smaller_is_better_ultra_compact_graph) - [Smaller Is Better: Ultra-Compact Graph Representations for Big Graphs](https://dzone.com/articles/smaller-is-better-ultra-compact-graph-representati)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
 * [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
 * [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)

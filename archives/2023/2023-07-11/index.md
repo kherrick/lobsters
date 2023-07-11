@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 15:48:30](https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt) - [Generate from Constraints: Using Prompt-Hoisting for GPT-based Code Generation](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation )
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 15:00:42](https://lobste.rs/s/xagolr/building_ui_component_library_how_we) - [Building a UI component library: How we balance brand identity and speed](https://einride.engineering/blog/building-a-ui-component-library/)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
