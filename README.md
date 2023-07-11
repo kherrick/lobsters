@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-11, 05:14:22](https://lobste.rs/s/wm6o0o/floatzone_accelerating_memory_error) - [FloatZone: Accelerating Memory Error Detection using the Floating Point Unit](https://download.vusec.net/papers/floatzone_sec23.pdf)
+* [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
+* [2023-07-11, 05:11:11](https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust) - [Shortening the Let’s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
 * [2023-07-11, 00:04:55](https://lobste.rs/s/iakokj/many_faces_llvm_pgo_fdo) - [The many faces of LLVM PGO and FDO](https://aaupov.github.io/blog/2023/07/09/pgo)
 * [2023-07-10, 21:55:19](https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger) - [Microsoft's userspace keylogger tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
@@ -22,7 +23,6 @@
 * [2023-07-10, 09:38:10](https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise) - [What is a Unit Test? (The Answer Might Surprise You)](https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you)
 * [2023-07-10, 09:04:49](https://lobste.rs/s/rlomlq/why_engineers_should_focus_on_writing) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-10, 08:40:20](https://lobste.rs/s/2kmua0/groff_version_1_23_0_released) - [Groff version 1.23.0 released](https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html)
-* [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 
