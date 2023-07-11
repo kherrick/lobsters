@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
 * [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme_atuin) - [Atuin's new encryption scheme | Atuin](https://atuin.sh/blog/new-encryption)
 * [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme) - [Atuin's new encryption scheme](https://atuin.sh/blog/new-encryption)
