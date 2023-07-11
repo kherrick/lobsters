@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
+* [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 * [2023-07-11, 17:34:54](https://lobste.rs/s/43ghdi/modeling_game_mechanics_with_ceptre) - [Modeling Game Mechanics with Ceptre](https://www.convivial.tools/PapersPublic/ceptre-tog.pdf)
 * [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
@@ -13,7 +15,6 @@
 * [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme) - [Atuin's new encryption scheme](https://atuin.sh/blog/new-encryption)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
-* [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
 * [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)
 * [2023-07-11, 10:00:19](https://lobste.rs/s/hpusgg/roots_trust_are_difficult) - [Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
 * [2023-07-11, 08:48:25](https://lobste.rs/s/bc6wwc/aegraphs_acyclic_e_graphs_for_efficient) - [aegraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)
@@ -23,7 +24,6 @@
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
-* [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 
 ## [Archives](archives/index.md)

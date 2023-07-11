@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
+* [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 * [2023-07-11, 17:34:54](https://lobste.rs/s/43ghdi/modeling_game_mechanics_with_ceptre) - [Modeling Game Mechanics with Ceptre](https://www.convivial.tools/PapersPublic/ceptre-tog.pdf)
 * [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
