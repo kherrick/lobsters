@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 10:00:19](https://lobste.rs/s/hpusgg/roots_trust_are_difficult) - [Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
 * [2023-07-11, 09:19:55](https://lobste.rs/s/btuz04/suse_preserves_choice_enterprise_linux) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL with a $10+ Million Investment](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 08:48:25](https://lobste.rs/s/bc6wwc/aegraphs_acyclic_e_graphs_for_efficient) - [aegraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
