@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-07-11, 05:14:22",
-      "https://lobste.rs/s/wm6o0o/floatzone_accelerating_memory_error"
+      "2023-07-11, 07:38:20",
+      "https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard"
     ],
     [
-      "FloatZone: Accelerating Memory Error Detection using the Floating Point Unit",
-      "https://download.vusec.net/papers/floatzone_sec23.pdf"
+      "Why are Prometheus queries hard?",
+      "https://fiberplane.com/blog/why-are-prometheus-queries-hard"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 05:11:11",
+      "https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust"
+    ],
+    [
+      "Shortening the Let’s Encrypt Chain of Trust",
+      "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Groff version 1.23.0 released",
       "https://lists.gnu.org/archive/html/groff/2023-07/msg00051.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 08:00:49",
-      "https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform"
-    ],
-    [
-      "New AI translates 5,000-year-old cuneiform tablets instantly",
-      "https://bigthink.com/the-future/ai-translates-cuneiform/"
     ]
   ],
   [
