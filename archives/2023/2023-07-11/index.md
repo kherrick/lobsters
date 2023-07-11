@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 09:19:55](https://lobste.rs/s/btuz04/suse_preserves_choice_enterprise_linux) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL with a $10+ Million Investment](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 08:48:25](https://lobste.rs/s/bc6wwc/aegraphs_acyclic_e_graphs_for_efficient) - [aegraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 * [2023-07-11, 05:14:22](https://lobste.rs/s/wm6o0o/floatzone_accelerating_memory_error) - [FloatZone: Accelerating Memory Error Detection using the Floating Point Unit](https://download.vusec.net/papers/floatzone_sec23.pdf)
