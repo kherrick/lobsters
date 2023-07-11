@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 16:10:12](https://lobste.rs/s/ewxw1i/less_technical_introductions_type) - [Less-technical introductions to type checking?](https://lobste.rs/s/ewxw1i/less_technical_introductions_type)
+* [2023-07-11, 16:09:25](https://lobste.rs/s/p4ysc0/c_23_next_c_standard) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
+* [2023-07-11, 16:06:57](https://lobste.rs/s/eoa0ku/def_con_30_zachary_minneker_how_get_mumps) - [DEF CON 30 - Zachary Minneker - How To Get MUMPS Thirty Years Later - Hacking the Govt w FOIAd Code](https://www.youtube.com/watch?v=nSbN7p39SrA)
 * [2023-07-11, 15:48:30](https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt) - [Generate from Constraints: Using Prompt-Hoisting for GPT-based Code Generation](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation )
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
@@ -19,9 +22,6 @@
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
-* [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
-* [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
-* [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:23:22](https://lobste.rs/s/tjuuf5/firefox_address_bar_tips) - [Firefox address bar tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 11:21:28](https://lobste.rs/s/jfjzyp/factor_practical_stack_language) - [Factor: a practical stack language](https://factorcode.org)
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
