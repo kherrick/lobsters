@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
 * [2023-07-10, 21:55:19](https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger) - [Microsoft's userspace keylogger tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
+* [2023-07-10, 21:43:57](https://lobste.rs/s/vxnsod/float_compression) - [Float Compression](https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/)
 * [2023-07-10, 19:27:13](https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs) - [Understanding zero-knowledge proofs](https://avestura.dev/blog/zero-knowledge-proofs)
+* [2023-07-10, 19:20:33](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs) - [Usability of modern solutions for logs' analysis and debugging is totally screwed](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
