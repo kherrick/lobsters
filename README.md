@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 15:00:42](https://lobste.rs/s/xagolr/building_ui_component_library_how_we) - [Building a UI component library: How we balance brand identity and speed](https://einride.engineering/blog/building-a-ui-component-library/)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
 * [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme) - [Atuin's new encryption scheme](https://atuin.sh/blog/new-encryption)
@@ -18,7 +19,6 @@
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
-* [2023-07-10, 16:35:25](https://lobste.rs/s/0vjays/rust_user_s_guide_generics) - [A Rust User's Guide to Generics](https://www.worldofbs.com/rust-generics/)
 * [2023-07-10, 16:05:55](https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not) - [Keep Linux Open and Free—We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 15:07:31](https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality) - [Feature Flags: Theory vs Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 15:01:00](https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu) - [Why We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
