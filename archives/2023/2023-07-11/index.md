@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 10:57:44](https://lobste.rs/s/pyabj4/divvi_up_privacy_respecting_system_for) - [Divvi Up: A privacy-respecting system for aggregate statistics](https://divviup.org/)
 * [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
 * [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)
 * [2023-07-11, 10:00:19](https://lobste.rs/s/hpusgg/roots_trust_are_difficult) - [Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)

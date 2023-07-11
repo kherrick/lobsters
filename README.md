@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 10:57:44](https://lobste.rs/s/pyabj4/divvi_up_privacy_respecting_system_for) - [Divvi Up: A privacy-respecting system for aggregate statistics](https://divviup.org/)
 * [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
 * [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)
 * [2023-07-11, 10:00:19](https://lobste.rs/s/hpusgg/roots_trust_are_difficult) - [Roots of Trust are difficult](https://mjg59.dreamwidth.org/66907.html)
@@ -24,7 +25,6 @@
 * [2023-07-10, 10:57:34](https://lobste.rs/s/oml1ke/what_s_new_thunderbird_115) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 10:48:02](https://lobste.rs/s/xo09a2/implementing_wordle_firefox_address_bar) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-10, 09:38:10](https://lobste.rs/s/uc2yeh/what_is_unit_test_answer_might_surprise) - [What is a Unit Test? (The Answer Might Surprise You)](https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you)
-* [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 
 ## [Archives](archives/index.md)
 
