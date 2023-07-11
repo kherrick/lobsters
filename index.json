@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-11, 05:14:22",
+      "https://lobste.rs/s/wm6o0o/floatzone_accelerating_memory_error"
+    ],
+    [
+      "FloatZone: Accelerating Memory Error Detection using the Floating Point Unit",
+      "https://download.vusec.net/papers/floatzone_sec23.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 05:11:11",
+      "https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust"
+    ],
+    [
+      "Shortening the Let’s Encrypt Chain of Trust",
+      "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 01:56:17",
       "https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler"
     ],
@@ -17,16 +37,6 @@
     [
       "Microsoft's userspace keylogger tutorial",
       "https://cohost.org/blep/post/1982850-i-think-microsoft-wi"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 21:43:57",
-      "https://lobste.rs/s/vxnsod/float_compression"
-    ],
-    [
-      "Float Compression",
-      "https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Irmin - A distributed database built on the same principles as Git",
       "https://irmin.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 22:57:29",
-      "https://lobste.rs/s/n6voy1/90s_developer_starter_pack"
-    ],
-    [
-      "The 90s Developer Starter Pack",
-      "https://retrocoding.net/the-90s-developer-starter-pack"
     ]
   ],
   [
