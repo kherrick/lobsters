@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-11, 20:14:02",
+      "https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search"
+    ],
+    [
+      "newpipe.net removed from Google search results due to DMCA take down request",
+      "https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 19:26:40",
+      "https://lobste.rs/s/meeavr/kap"
+    ],
+    [
+      "KAP",
+      "https://codeberg.org/loke/array"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 18:20:21",
       "https://lobste.rs/s/jiovgt/regex_isn_t_hard"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-07-11, 10:47:37",
-      "https://lobste.rs/s/zemngq/what_is_functional_programming"
-    ],
-    [
-      "What is Functional Programming?",
-      "https://joseph.yiasemides.com/posts/what-is-functional-programming"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 10:43:26",
       "https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server"
     ],
@@ -227,16 +237,6 @@
     [
       "The easiest way to speed up Python with Rust",
       "https://pythonspeed.com/articles/easiest-rust-python/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 11:21:28",
-      "https://lobste.rs/s/jfjzyp/factor_practical_stack_language"
-    ],
-    [
-      "Factor: a practical stack language",
-      "https://factorcode.org"
     ]
   ],
   [
