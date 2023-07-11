@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-11, 16:10:12",
+      "https://lobste.rs/s/ewxw1i/less_technical_introductions_type"
+    ],
+    [
+      "Less-technical introductions to type checking?",
+      "https://lobste.rs/s/ewxw1i/less_technical_introductions_type"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 16:09:25",
+      "https://lobste.rs/s/p4ysc0/c_23_next_c_standard"
+    ],
+    [
+      "C++23: The Next C++ Standard",
+      "http://modernescpp.com/index.php/c-23-the-next-c-standard"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 16:06:57",
+      "https://lobste.rs/s/eoa0ku/def_con_30_zachary_minneker_how_get_mumps"
+    ],
+    [
+      "DEF CON 30 - Zachary Minneker - How To Get MUMPS Thirty Years Later - Hacking the Govt w FOIAd Code",
+      "https://www.youtube.com/watch?v=nSbN7p39SrA"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 15:48:30",
       "https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt"
     ],
@@ -187,36 +217,6 @@
     [
       "The easiest way to speed up Python with Rust",
       "https://pythonspeed.com/articles/easiest-rust-python/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 16:05:55",
-      "https://lobste.rs/s/gd5f7c/keep_linux_open_free_we_can_t_afford_not"
-    ],
-    [
-      "Keep Linux Open and Free—We Can’t Afford Not To",
-      "https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 15:07:31",
-      "https://lobste.rs/s/b8gubk/feature_flags_theory_vs_reality"
-    ],
-    [
-      "Feature Flags: Theory vs Reality",
-      "https://bpapillon.com/post/feature-flags-theory-vs-reality/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 15:01:00",
-      "https://lobste.rs/s/xshle9/why_we_replaced_firecracker_with_qemu"
-    ],
-    [
-      "Why We Replaced Firecracker with QEMU",
-      "https://hocus.dev/blog/qemu-vs-firecracker/"
     ]
   ],
   [
