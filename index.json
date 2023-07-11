@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-11, 16:32:11",
+      "https://lobste.rs/s/vhglry/polymorphic_relationships"
+    ],
+    [
+      "Polymorphic Relationships in ActiveRecord",
+      "https://dick.codes/2023/07/10/polymorphic-relationships.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 16:17:51",
+      "https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth"
+    ],
+    [
+      "Retro: a modern, pragmatic Forth",
+      "https://retroforth.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 16:10:12",
       "https://lobste.rs/s/ewxw1i/less_technical_introductions_type"
     ],
@@ -17,16 +37,6 @@
     [
       "C++23: The Next C++ Standard",
       "http://modernescpp.com/index.php/c-23-the-next-c-standard"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 16:06:57",
-      "https://lobste.rs/s/eoa0ku/def_con_30_zachary_minneker_how_get_mumps"
-    ],
-    [
-      "DEF CON 30 - Zachary Minneker - How To Get MUMPS Thirty Years Later - Hacking the Govt w FOIAd Code",
-      "https://www.youtube.com/watch?v=nSbN7p39SrA"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Back-end parallelism in the Rust compiler",
       "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 21:55:19",
-      "https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger"
-    ],
-    [
-      "Microsoft's userspace keylogger tutorial",
-      "https://cohost.org/blep/post/1982850-i-think-microsoft-wi"
     ]
   ],
   [
