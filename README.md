@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
-* [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme_atuin) - [Atuin's new encryption scheme | Atuin](https://atuin.sh/blog/new-encryption)
+* [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme) - [Atuin's new encryption scheme](https://atuin.sh/blog/new-encryption)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:05:11](https://lobste.rs/s/1xfom3/smaller_is_better_ultra_compact_graph) - [Smaller Is Better: Ultra-Compact Graph Representations for Big Graphs](https://dzone.com/articles/smaller-is-better-ultra-compact-graph-representati)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
