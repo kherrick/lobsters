@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 12:22:35](https://lobste.rs/s/nsa1tj/atuin_s_new_encryption_scheme_atuin) - [Atuin's new encryption scheme | Atuin](https://atuin.sh/blog/new-encryption)
+* [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
+* [2023-07-11, 12:05:11](https://lobste.rs/s/1xfom3/smaller_is_better_ultra_compact_graph) - [Smaller Is Better: Ultra-Compact Graph Representations for Big Graphs](https://dzone.com/articles/smaller-is-better-ultra-compact-graph-representati)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
 * [2023-07-11, 10:57:44](https://lobste.rs/s/pyabj4/divvi_up_privacy_respecting_system_for) - [Divvi Up: A privacy-respecting system for aggregate statistics](https://divviup.org/)
 * [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
