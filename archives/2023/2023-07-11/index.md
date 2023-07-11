@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 15:00:42](https://lobste.rs/s/xagolr/building_ui_component_library_how_we) - [Building a UI component library: How we balance brand identity and speed](https://einride.engineering/blog/building-a-ui-component-library/)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
