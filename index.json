@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-11, 10:57:44",
+      "https://lobste.rs/s/pyabj4/divvi_up_privacy_respecting_system_for"
+    ],
+    [
+      "Divvi Up: A privacy-respecting system for aggregate statistics",
+      "https://divviup.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 10:47:37",
       "https://lobste.rs/s/zemngq/what_is_functional_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "What is a Unit Test? (The Answer Might Surprise You)",
       "https://tanzu.vmware.com/content/blog/what-is-a-unit-test-the-answer-might-surprise-you"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 18:40:27",
-      "https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments"
-    ],
-    [
-      "Toot toot! Mastodon-powered Blog Comments",
-      "https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/"
     ]
   ]
 ]
