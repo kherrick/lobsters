@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
 * [2023-07-11, 10:57:44](https://lobste.rs/s/pyabj4/divvi_up_privacy_respecting_system_for) - [Divvi Up: A privacy-respecting system for aggregate statistics](https://divviup.org/)
 * [2023-07-11, 10:47:37](https://lobste.rs/s/zemngq/what_is_functional_programming) - [What is Functional Programming?](https://joseph.yiasemides.com/posts/what-is-functional-programming)
 * [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)
@@ -9,7 +10,6 @@
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 * [2023-07-11, 05:11:11](https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust) - [Shortening the Let’s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
-* [2023-07-11, 00:04:55](https://lobste.rs/s/iakokj/many_faces_llvm_pgo_fdo) - [The many faces of LLVM PGO and FDO](https://aaupov.github.io/blog/2023/07/09/pgo)
 * [2023-07-10, 21:55:19](https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger) - [Microsoft's userspace keylogger tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
 * [2023-07-10, 19:20:33](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs) - [Usability of modern solutions for logs' analysis and debugging is totally screwed](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
