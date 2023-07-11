@@ -2,6 +2,7 @@
 
 * [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
 * [2023-07-10, 21:55:19](https://lobste.rs/s/r3kq9h/microsoft_s_userspace_keylogger) - [Microsoft's userspace keylogger tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
+* [2023-07-10, 21:43:57](https://lobste.rs/s/vxnsod/float_compression) - [Float Compression](https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/)
 * [2023-07-10, 19:20:33](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs) - [Usability of modern solutions for logs' analysis and debugging is totally screwed](https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs)
 * [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
@@ -23,7 +24,6 @@
 * [2023-07-10, 08:00:49](https://lobste.rs/s/1epyfw/new_ai_translates_5_000_year_old_cuneiform) - [New AI translates 5,000-year-old cuneiform tablets instantly](https://bigthink.com/the-future/ai-translates-cuneiform/)
 * [2023-07-10, 02:49:14](https://lobste.rs/s/35ym7n/irmin_distributed_database_built_on_same) - [Irmin - A distributed database built on the same principles as Git](https://irmin.org/)
 * [2023-07-09, 22:57:29](https://lobste.rs/s/n6voy1/90s_developer_starter_pack) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
-* [2023-07-09, 20:58:32](https://lobste.rs/s/o1gwaz/comparing_queuing_strategies) - [Comparing Queuing Strategies in Distributed Systems](https://fsck.ai/labs/queuing)
 * [2023-07-09, 18:40:27](https://lobste.rs/s/wtyqec/toot_toot_mastodon_powered_blog_comments) - [Toot toot! Mastodon-powered Blog Comments](https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/)
 
 ## [Archives](archives/index.md)
