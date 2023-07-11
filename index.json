@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2023-07-10, 19:27:13",
-      "https://lobste.rs/s/lsesfs/understanding_zero_knowledge_proofs"
+      "2023-07-10, 21:43:57",
+      "https://lobste.rs/s/vxnsod/float_compression"
     ],
     [
-      "Understanding zero-knowledge proofs",
-      "https://avestura.dev/blog/zero-knowledge-proofs"
+      "Float Compression",
+      "https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 19:20:33",
+      "https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs"
+    ],
+    [
+      "Usability of modern solutions for logs' analysis and debugging is totally screwed",
+      "https://lobste.rs/s/7lmn0y/usability_modern_solutions_for_logs"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Keep Linux Open and Free—We Can’t Afford Not To",
       "https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 15:43:38",
-      "https://lobste.rs/s/6uo0rs/controller_pattern_is_awful_other_oo"
-    ],
-    [
-      "The controller pattern is awful (and other OO heresy) (2013)",
-      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
     ]
   ],
   [
