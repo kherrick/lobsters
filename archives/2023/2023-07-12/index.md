@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 06:44:38](https://lobste.rs/s/utzakd/creating_dynamic_colors_swiftui) - [Creating dynamic colors in SwiftUI](https://www.jessesquires.com/blog/2023/07/11/creating-dynamic-colors-in-swiftui/)
+* [2023-07-12, 06:43:47](https://lobste.rs/s/w1cn0u/include_cleanup_visual_studio) - [#include cleanup in Visual Studio](https://devblogs.microsoft.com/cppblog/include-cleanup-in-visual-studio/)
 * [2023-07-12, 06:39:16](https://lobste.rs/s/15awsx/c_23_how_lambdas_are_going_change) - [C++23: How lambdas are going to change?](https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas)
 * [2023-07-12, 06:25:44](https://lobste.rs/s/joixdz/backing_up_archiving_removable_media_dar) - [Backing Up and Archiving to Removable Media: dar vs. git-annex](https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex)
 * [2023-07-12, 04:40:32](https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against) - [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](https://arxiv.org/pdf/2304.07940.pdf)
