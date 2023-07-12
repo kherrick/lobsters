@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-11, 23:53:21",
+      "https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot"
+    ],
+    [
+      "Why it’s necessary to shoot yourself in the foot",
+      "https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 23:03:18",
       "https://lobste.rs/s/cmvceq/security_risc_microarchitectural"
     ],
@@ -217,16 +227,6 @@
     [
       "Back-end parallelism in the Rust compiler",
       "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 18:50:52",
-      "https://lobste.rs/s/yrn2et/assembly_as_first_programming_language"
-    ],
-    [
-      "Assembly as a first programming language?",
-      "https://lobste.rs/s/yrn2et/assembly_as_first_programming_language"
     ]
   ],
   [
