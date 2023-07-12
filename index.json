@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 13:54:15",
+      "https://lobste.rs/s/fzbrzo/interview_with_linus_torvalds_linux"
+    ],
+    [
+      "An interview with Linus Torvalds: Linux succeeded thanks to selfishness and trust",
+      "https://www.bbc.com/news/technology-18419231"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 13:41:32",
       "https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino"
     ],
@@ -57,16 +67,6 @@
     [
       "Storing Data in Control Flow",
       "https://research.swtch.com/pcdata"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 10:25:07",
-      "https://lobste.rs/s/ceohvm/alerting_do_s_don_ts_for_effective"
-    ],
-    [
-      "Alerting: The Do’s and Don’ts for Effective Observability",
-      "https://medium.com/@letathenasleep/alerting-the-dos-and-don-ts-for-effective-observability-139db9fb49d1"
     ]
   ],
   [
