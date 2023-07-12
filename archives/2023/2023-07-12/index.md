@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 23:49:33](https://lobste.rs/s/idpgdz/escaping_cms_hell_into_cms_heaven) - [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
 * [2023-07-12, 21:17:29](https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency) - [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
 * [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
