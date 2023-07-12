@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-07-12, 10:25:07",
+      "https://lobste.rs/s/ceohvm/alerting_do_s_don_ts_for_effective"
+    ],
+    [
+      "Alerting: The Do’s and Don’ts for Effective Observability",
+      "https://medium.com/@letathenasleep/alerting-the-dos-and-don-ts-for-effective-observability-139db9fb49d1"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 09:17:03",
       "https://lobste.rs/s/k2kh11/fruit_poisonous_llama"
     ],
@@ -237,16 +247,6 @@
     [
       "Why are Prometheus queries hard?",
       "https://fiberplane.com/blog/why-are-prometheus-queries-hard"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 05:11:11",
-      "https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust"
-    ],
-    [
-      "Shortening the Let’s Encrypt Chain of Trust",
-      "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
     ]
   ]
 ]
