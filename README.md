@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 15:58:31](https://lobste.rs/s/nv7adm/designing_weather_app_for_visionos) - [Designing a Weather app for visionOS](https://www.david-smith.org/blog/2023/07/12/design-notes-40/)
 * [2023-07-12, 15:27:41](https://lobste.rs/s/bmpzak/qmk_usb_usb_keyboard_protocol_converter) - [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
-* [2023-07-12, 15:25:36](https://lobste.rs/s/ajuknr/urob_s_zmk_config_with_timerless_home_row) - [urob's ZMK config with timerless home row mods](https://github.com/urob/zmk-config)
 * [2023-07-12, 15:17:39](https://lobste.rs/s/alvnky/computer_science_major_arcana) - [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
 * [2023-07-12, 15:05:10](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted) - [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
-* [2023-07-12, 14:41:30](https://lobste.rs/s/htuevu/modeling_polymorphic_associations) - [Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
+* [2023-07-12, 14:11:39](https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on) - [smolOS: small OS for MicroPython on ESP8266, RP2040](https://github.com/w84death/smolOS)
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 12:06:35](https://lobste.rs/s/80ogqh/pronto_toward_live_designer_s_notebook) - [Pronto: Toward a Live Designer's Notebook](https://www.youtube.com/watch?v=if72CFsF_SY)

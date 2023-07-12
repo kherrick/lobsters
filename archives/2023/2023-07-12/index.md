@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 15:58:31](https://lobste.rs/s/nv7adm/designing_weather_app_for_visionos) - [Designing a Weather app for visionOS](https://www.david-smith.org/blog/2023/07/12/design-notes-40/)
 * [2023-07-12, 15:27:41](https://lobste.rs/s/bmpzak/qmk_usb_usb_keyboard_protocol_converter) - [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
 * [2023-07-12, 15:25:36](https://lobste.rs/s/ajuknr/urob_s_zmk_config_with_timerless_home_row) - [urob's ZMK config with timerless home row mods](https://github.com/urob/zmk-config)
 * [2023-07-12, 15:17:39](https://lobste.rs/s/alvnky/computer_science_major_arcana) - [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
