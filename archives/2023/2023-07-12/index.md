@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 10:25:07](https://lobste.rs/s/ceohvm/alerting_do_s_don_ts_for_effective) - [Alerting: The Do’s and Don’ts for Effective Observability](https://medium.com/@letathenasleep/alerting-the-dos-and-don-ts-for-effective-observability-139db9fb49d1)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2023-07-12, 06:44:38](https://lobste.rs/s/utzakd/creating_dynamic_colors_swiftui) - [Creating dynamic colors in SwiftUI](https://www.jessesquires.com/blog/2023/07/11/creating-dynamic-colors-in-swiftui/)
 * [2023-07-12, 06:43:47](https://lobste.rs/s/w1cn0u/include_cleanup_visual_studio) - [#include cleanup in Visual Studio](https://devblogs.microsoft.com/cppblog/include-cleanup-in-visual-studio/)
