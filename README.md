@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 06:25:44](https://lobste.rs/s/joixdz/backing_up_archiving_removable_media_dar) - [Backing Up and Archiving to Removable Media: dar vs. git-annex](https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex)
 * [2023-07-12, 04:40:32](https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against) - [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](https://arxiv.org/pdf/2304.07940.pdf)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
@@ -8,7 +9,6 @@
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
-* [2023-07-11, 16:40:31](https://lobste.rs/s/hgsqun/fighting_rust_anxiety_insights_from_go) - [Fighting Rust Anxiety: Insights from a Go Developer, Navigating Rust Syntax Shenanigans](https://arriqaaq.substack.com/p/fighting-rust-anxiety-insights-from)
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)
 * [2023-07-11, 16:10:12](https://lobste.rs/s/ewxw1i/less_technical_introductions_type) - [Less-technical introductions to type checking?](https://lobste.rs/s/ewxw1i/less_technical_introductions_type)
