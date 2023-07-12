@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 09:17:03",
+      "https://lobste.rs/s/k2kh11/fruit_poisonous_llama"
+    ],
+    [
+      "Fruit Of The Poisonous LLaMA?",
+      "https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 06:44:38",
       "https://lobste.rs/s/utzakd/creating_dynamic_colors_swiftui"
     ],
@@ -37,16 +47,6 @@
     [
       "Backing Up and Archiving to Removable Media: dar vs. git-annex",
       "https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 04:40:32",
-      "https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against"
-    ],
-    [
-      "AVX Timing Side-Channel Attacks against Address Space Layout Randomization",
-      "https://arxiv.org/pdf/2304.07940.pdf"
     ]
   ],
   [
