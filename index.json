@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 21:17:29",
+      "https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency"
+    ],
+    [
+      "Tech Notes: The dominator tree of a dependency graph",
+      "https://neugierig.org/software/blog/2023/07/dominator.html"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 20:19:49",
       "https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced"
     ],
@@ -77,16 +87,6 @@
     [
       "LLM CLI tool now supports self-hosted language models via plugins",
       "https://simonwillison.net/2023/Jul/12/llm/"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 14:11:39",
-      "https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on"
-    ],
-    [
-      "smolOS: small OS for MicroPython on ESP8266, RP2040",
-      "https://github.com/w84death/smolOS"
     ]
   ],
   [
