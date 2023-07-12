@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 04:40:32](https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against) - [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](https://arxiv.org/pdf/2304.07940.pdf)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
@@ -23,7 +24,6 @@
 * [2023-07-11, 08:48:25](https://lobste.rs/s/bc6wwc/aegraphs_acyclic_e_graphs_for_efficient) - [aegraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler](https://cfallin.org/pubs/egraphs2023_aegraphs_slides.pdf)
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 * [2023-07-11, 05:11:11](https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust) - [Shortening the Let’s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
-* [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 
 ## [Archives](archives/index.md)
