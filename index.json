@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 23:49:33",
+      "https://lobste.rs/s/idpgdz/escaping_cms_hell_into_cms_heaven"
+    ],
+    [
+      "Escaping CMS hell into CMS heaven",
+      "https://blog.oat.zone/cohost-blogger/"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 21:17:29",
       "https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency"
     ],
@@ -237,16 +247,6 @@
     [
       "We Put a Distributed Database In the Browser – And Made a Game of It",
       "https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 11:21:45",
-      "https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic"
-    ],
-    [
-      "pytest fixtures are magic",
-      "https://www.revsys.com/tidbits/pytest-fixtures-are-magic/"
     ]
   ]
 ]
