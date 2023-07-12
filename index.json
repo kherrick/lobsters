@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 13:41:32",
+      "https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino"
+    ],
+    [
+      "Wokwi - Online ESP32, STM32, Arduino Simulator",
+      "https://wokwi.com"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 12:45:34",
       "https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes"
     ],
@@ -87,16 +97,6 @@
     [
       "C++23: How lambdas are going to change?",
       "https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 06:25:44",
-      "https://lobste.rs/s/joixdz/backing_up_archiving_removable_media_dar"
-    ],
-    [
-      "Backing Up and Archiving to Removable Media: dar vs. git-annex",
-      "https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex"
     ]
   ],
   [
