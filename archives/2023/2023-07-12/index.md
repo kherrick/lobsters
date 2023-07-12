@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 15:05:10](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted) - [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
 * [2023-07-12, 14:41:30](https://lobste.rs/s/htuevu/modeling_polymorphic_associations) - [Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
 * [2023-07-12, 14:11:39](https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on) - [smolOS: small OS for MicroPython on ESP8266, RP2040](https://github.com/w84death/smolOS)
 * [2023-07-12, 13:54:15](https://lobste.rs/s/fzbrzo/interview_with_linus_torvalds_linux) - [An interview with Linus Torvalds: Linux succeeded thanks to selfishness and trust](https://www.bbc.com/news/technology-18419231)
