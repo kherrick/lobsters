@@ -10,6 +10,7 @@
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 11:54:17](https://lobste.rs/s/a3kydi/serverless_semantic_search_free_tier) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
+* [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2023-07-12, 06:39:16](https://lobste.rs/s/15awsx/c_23_how_lambdas_are_going_change) - [C++23: How lambdas are going to change?](https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas)
@@ -24,7 +25,6 @@
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
-* [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 
 ## [Archives](archives/index.md)
 
