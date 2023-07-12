@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 06:39:16](https://lobste.rs/s/15awsx/c_23_how_lambdas_are_going_change) - [C++23: How lambdas are going to change?](https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas)
 * [2023-07-12, 06:25:44](https://lobste.rs/s/joixdz/backing_up_archiving_removable_media_dar) - [Backing Up and Archiving to Removable Media: dar vs. git-annex](https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex)
 * [2023-07-12, 04:40:32](https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against) - [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](https://arxiv.org/pdf/2304.07940.pdf)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
@@ -12,7 +13,6 @@
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)
 * [2023-07-11, 16:10:12](https://lobste.rs/s/ewxw1i/less_technical_introductions_type) - [Less-technical introductions to type checking?](https://lobste.rs/s/ewxw1i/less_technical_introductions_type)
-* [2023-07-11, 15:48:30](https://lobste.rs/s/s1h7oe/generate_from_constraints_using_prompt) - [Generate from Constraints: Using Prompt-Hoisting for GPT-based Code Generation](https://michaelfeathers.silvrback.com/prompt-hoisting-for-gpt-based-code-generation )
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 13:11:52](https://lobste.rs/s/3xzdhe/mirrord_as_alternative_telepresence) - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)

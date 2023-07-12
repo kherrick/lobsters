@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 06:39:16](https://lobste.rs/s/15awsx/c_23_how_lambdas_are_going_change) - [C++23: How lambdas are going to change?](https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas)
 * [2023-07-12, 06:25:44](https://lobste.rs/s/joixdz/backing_up_archiving_removable_media_dar) - [Backing Up and Archiving to Removable Media: dar vs. git-annex](https://changelog.complete.org/archives/10535-backing-up-and-archiving-to-removable-media-dar-vs-git-annex)
 * [2023-07-12, 04:40:32](https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against) - [AVX Timing Side-Channel Attacks against Address Space Layout Randomization](https://arxiv.org/pdf/2304.07940.pdf)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
