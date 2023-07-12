@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 10:25:07](https://lobste.rs/s/ceohvm/alerting_do_s_don_ts_for_effective) - [Alerting: The Do’s and Don’ts for Effective Observability](https://medium.com/@letathenasleep/alerting-the-dos-and-don-ts-for-effective-observability-139db9fb49d1)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)

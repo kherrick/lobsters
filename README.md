@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 10:25:07](https://lobste.rs/s/ceohvm/alerting_do_s_don_ts_for_effective) - [Alerting: The Do’s and Don’ts for Effective Observability](https://medium.com/@letathenasleep/alerting-the-dos-and-don-ts-for-effective-observability-139db9fb49d1)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
@@ -11,7 +12,6 @@
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 23:03:18](https://lobste.rs/s/cmvceq/security_risc_microarchitectural) - [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs](https://www.youtube.com/watch?v=3-c4C_L2PRQ)
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
-* [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 * [2023-07-11, 16:32:11](https://lobste.rs/s/vhglry/polymorphic_relationships) - [Polymorphic Relationships in ActiveRecord](https://dick.codes/2023/07/10/polymorphic-relationships.html)
 * [2023-07-11, 16:17:51](https://lobste.rs/s/nvtnqv/retro_modern_pragmatic_forth) - [Retro: a modern, pragmatic Forth](https://retroforth.org/)
