@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 12:06:35](https://lobste.rs/s/80ogqh/pronto_toward_live_designer_s_notebook) - [Pronto: Toward a Live Designer's Notebook](https://www.youtube.com/watch?v=if72CFsF_SY)
 * [2023-07-12, 11:54:17](https://lobste.rs/s/a3kydi/serverless_semantic_search_free_tier) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
