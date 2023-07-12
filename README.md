@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-12, 18:20:11](https://lobste.rs/s/gjlsdg/chatgpt_visits_emacs_doctor) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
 * [2023-07-12, 18:03:34](https://lobste.rs/s/6ytg1z/creating_advanced_search_engine_with) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
@@ -14,7 +15,6 @@
 * [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
-* [2023-07-12, 06:39:16](https://lobste.rs/s/15awsx/c_23_how_lambdas_are_going_change) - [C++23: How lambdas are going to change?](https://www.sandordargo.com/blog/2022/11/23/cpp23-changes-to-lambdas)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)

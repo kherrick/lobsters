@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-12, 18:20:11](https://lobste.rs/s/gjlsdg/chatgpt_visits_emacs_doctor) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
 * [2023-07-12, 18:03:34](https://lobste.rs/s/6ytg1z/creating_advanced_search_engine_with) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
