@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 04:40:32",
+      "https://lobste.rs/s/bc54tr/avx_timing_side_channel_attacks_against"
+    ],
+    [
+      "AVX Timing Side-Channel Attacks against Address Space Layout Randomization",
+      "https://arxiv.org/pdf/2304.07940.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 04:28:49",
       "https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd"
     ],
@@ -227,16 +237,6 @@
     [
       "Shortening the Let’s Encrypt Chain of Trust",
       "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 01:56:17",
-      "https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler"
-    ],
-    [
-      "Back-end parallelism in the Rust compiler",
-      "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
     ]
   ],
   [
