@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-07-12, 10:40:35",
+      "https://lobste.rs/s/5agpof/principles_devops_flow"
+    ],
+    [
+      "Principles of DevOps: Flow",
+      "https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 10:35:05",
       "https://lobste.rs/s/3vhjui/storing_data_control_flow"
     ],
@@ -237,16 +247,6 @@
     [
       "pytest fixtures are magic",
       "https://www.revsys.com/tidbits/pytest-fixtures-are-magic/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 07:38:20",
-      "https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard"
-    ],
-    [
-      "Why are Prometheus queries hard?",
-      "https://fiberplane.com/blog/why-are-prometheus-queries-hard"
     ]
   ]
 ]
