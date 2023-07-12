@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 14:41:30](https://lobste.rs/s/htuevu/modeling_polymorphic_associations) - [Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
 * [2023-07-12, 14:11:39](https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on) - [smolOS: small OS for MicroPython on ESP8266, RP2040](https://github.com/w84death/smolOS)
 * [2023-07-12, 13:54:15](https://lobste.rs/s/fzbrzo/interview_with_linus_torvalds_linux) - [An interview with Linus Torvalds: Linux succeeded thanks to selfishness and trust](https://www.bbc.com/news/technology-18419231)
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)

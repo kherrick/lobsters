@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 14:41:30](https://lobste.rs/s/htuevu/modeling_polymorphic_associations) - [Modeling Polymorphic Associations in a Relational Database](https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database)
 * [2023-07-12, 14:11:39](https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on) - [smolOS: small OS for MicroPython on ESP8266, RP2040](https://github.com/w84death/smolOS)
 * [2023-07-12, 13:54:15](https://lobste.rs/s/fzbrzo/interview_with_linus_torvalds_linux) - [An interview with Linus Torvalds: Linux succeeded thanks to selfishness and trust](https://www.bbc.com/news/technology-18419231)
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
@@ -23,7 +24,6 @@
 * [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 11:21:45](https://lobste.rs/s/j8xgym/pytest_fixtures_are_magic) - [pytest fixtures are magic](https://www.revsys.com/tidbits/pytest-fixtures-are-magic/)
-* [2023-07-11, 10:43:26](https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server) - [Zig Bits 0x4 - Building an HTTP client/server from scratch](https://blog.orhun.dev/zig-bits-04/)
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 
 ## [Archives](archives/index.md)
