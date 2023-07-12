@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 14:41:30",
+      "https://lobste.rs/s/htuevu/modeling_polymorphic_associations"
+    ],
+    [
+      "Modeling Polymorphic Associations in a Relational Database",
+      "https://hashrocket.com/blog/posts/modeling-polymorphic-associations-in-a-relational-database"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 14:11:39",
       "https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on"
     ],
@@ -227,16 +237,6 @@
     [
       "pytest fixtures are magic",
       "https://www.revsys.com/tidbits/pytest-fixtures-are-magic/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 10:43:26",
-      "https://lobste.rs/s/6fvizz/zig_bits_0x4_building_http_client_server"
-    ],
-    [
-      "Zig Bits 0x4 - Building an HTTP client/server from scratch",
-      "https://blog.orhun.dev/zig-bits-04/"
     ]
   ],
   [
