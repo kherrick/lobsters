@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-12, 18:03:34](https://lobste.rs/s/6ytg1z/creating_advanced_search_engine_with) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 15:58:31](https://lobste.rs/s/nv7adm/designing_weather_app_for_visionos) - [Designing a Weather app for visionOS](https://www.david-smith.org/blog/2023/07/12/design-notes-40/)
 * [2023-07-12, 15:27:41](https://lobste.rs/s/bmpzak/qmk_usb_usb_keyboard_protocol_converter) - [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
 * [2023-07-12, 15:17:39](https://lobste.rs/s/alvnky/computer_science_major_arcana) - [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
@@ -7,7 +8,6 @@
 * [2023-07-12, 14:11:39](https://lobste.rs/s/ipztxc/smolos_small_os_for_micropython_on) - [smolOS: small OS for MicroPython on ESP8266, RP2040](https://github.com/w84death/smolOS)
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
-* [2023-07-12, 12:06:35](https://lobste.rs/s/80ogqh/pronto_toward_live_designer_s_notebook) - [Pronto: Toward a Live Designer's Notebook](https://www.youtube.com/watch?v=if72CFsF_SY)
 * [2023-07-12, 11:54:17](https://lobste.rs/s/a3kydi/serverless_semantic_search_free_tier) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 * [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
