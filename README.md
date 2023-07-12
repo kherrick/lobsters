@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 23:03:18](https://lobste.rs/s/cmvceq/security_risc_microarchitectural) - [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs](https://www.youtube.com/watch?v=3-c4C_L2PRQ)
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
@@ -22,7 +23,6 @@
 * [2023-07-11, 07:38:20](https://lobste.rs/s/xeubho/why_are_prometheus_queries_hard) - [Why are Prometheus queries hard?](https://fiberplane.com/blog/why-are-prometheus-queries-hard)
 * [2023-07-11, 05:11:11](https://lobste.rs/s/bsnbgk/shortening_let_s_encrypt_chain_trust) - [Shortening the Let’s Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-11, 01:56:17](https://lobste.rs/s/o9bgcz/back_end_parallelism_rust_compiler) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
-* [2023-07-10, 18:50:52](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language) - [Assembly as a first programming language?](https://lobste.rs/s/yrn2et/assembly_as_first_programming_language)
 * [2023-07-10, 17:38:07](https://lobste.rs/s/gaz50h/how_ahrefs_saved_us_400m_3_years_by_not) - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 * [2023-07-10, 17:36:10](https://lobste.rs/s/ycel14/easiest_way_speed_up_python_with_rust) - [The easiest way to speed up Python with Rust](https://pythonspeed.com/articles/easiest-rust-python/)
 

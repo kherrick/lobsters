@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 23:03:18](https://lobste.rs/s/cmvceq/security_risc_microarchitectural) - [A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs](https://www.youtube.com/watch?v=3-c4C_L2PRQ)
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 19:26:40](https://lobste.rs/s/meeavr/kap) - [KAP](https://codeberg.org/loke/array)
