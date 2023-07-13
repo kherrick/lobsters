@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-07-13, 07:39:17",
-      "https://lobste.rs/s/fgjh7p/ask_hn_what_s_largest_amount_bad_code_you"
-    ],
-    [
-      "Ask HN: What's the largest amount of bad code you have ever seen work?",
-      "https://news.ycombinator.com/item?id=18442637"
-    ]
-  ],
-  [
-    [
       "2023-07-13, 07:06:26",
       "https://lobste.rs/s/skatlx/how_does_linux_handle_writes"
     ],
@@ -227,6 +217,16 @@
     [
       "Computer Science Major Arcana",
       "https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 15:05:10",
+      "https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted"
+    ],
+    [
+      "LLM CLI tool now supports self-hosted language models via plugins",
+      "https://simonwillison.net/2023/Jul/12/llm/"
     ]
   ],
   [
