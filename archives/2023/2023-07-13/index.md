@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 17:23:41](https://lobste.rs/s/htsspg/low_resource_text_classification) - [\"Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
 * [2023-07-13, 16:12:00](https://lobste.rs/s/cpaijd/compression_algorithms_are_super_cool) - [Compression algorithms are a super cool way to do a lot of very useful AI/ML, and can be more scalab](https://twitter.com/EdwardRaffML/status/1679508062472900608)
 * [2023-07-13, 16:07:15](https://lobste.rs/s/b4mpns/govulncheck_v1_0_0_is_released) - [Govulncheck v1.0.0 is released](https://go.dev/blog/govulncheck)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)

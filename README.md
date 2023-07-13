@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 17:23:41](https://lobste.rs/s/htsspg/low_resource_text_classification) - [\"Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
 * [2023-07-13, 16:12:00](https://lobste.rs/s/cpaijd/compression_algorithms_are_super_cool) - [Compression algorithms are a super cool way to do a lot of very useful AI/ML, and can be more scalab](https://twitter.com/EdwardRaffML/status/1679508062472900608)
 * [2023-07-13, 16:07:15](https://lobste.rs/s/b4mpns/govulncheck_v1_0_0_is_released) - [Govulncheck v1.0.0 is released](https://go.dev/blog/govulncheck)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
@@ -22,7 +23,6 @@
 * [2023-07-12, 18:03:34](https://lobste.rs/s/6ytg1z/creating_advanced_search_engine_with) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 15:27:41](https://lobste.rs/s/bmpzak/qmk_usb_usb_keyboard_protocol_converter) - [QMK USB to USB Keyboard Protocol Converter](https://yaowei.dev/posts/usb-to-usb-converter/)
 * [2023-07-12, 15:17:39](https://lobste.rs/s/alvnky/computer_science_major_arcana) - [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
-* [2023-07-12, 15:05:10](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted) - [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 
