@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 07:06:26",
+      "https://lobste.rs/s/skatlx/how_does_linux_handle_writes"
+    ],
+    [
+      "How does Linux handle writes?",
+      "https://www.cyberdemon.org/2023/06/27/file-writes.html"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 06:56:07",
       "https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on"
     ],
@@ -227,16 +237,6 @@
     [
       "Vale's First Prototype for Immutable Region Borrowing",
       "https://verdagon.dev/blog/first-regions-prototype"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 14:53:21",
-      "https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures"
-    ],
-    [
-      "The day my ping took countermeasures",
-      "https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/"
     ]
   ],
   [
