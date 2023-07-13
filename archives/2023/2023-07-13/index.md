@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-13, 17:42:06](https://lobste.rs/s/xytlsp/can_you_beat_pokemon_firered_while_blind) - [Can you beat Pokemon FireRed while blind and deaf?](https://youtu.be/6gjsAA_5Agk)
 * [2023-07-13, 17:23:41](https://lobste.rs/s/htsspg/low_resource_text_classification) - [\"Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
 * [2023-07-13, 16:12:00](https://lobste.rs/s/cpaijd/compression_algorithms_are_super_cool) - [Compression algorithms are a super cool way to do a lot of very useful AI/ML, and can be more scalab](https://twitter.com/EdwardRaffML/status/1679508062472900608)
