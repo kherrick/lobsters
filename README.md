@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 23:21:50](https://lobste.rs/s/npkpx9/curry_howard_lambek_isomorphism) - [Curry-Howard-Lambek and the Isomorphism](https://timothysamson.github.io/posts/curry-howard/)
+* [2023-07-13, 23:16:06](https://lobste.rs/s/yhws0k/unsigned_guideline_for_better_code_2016) - [unsigned: A Guideline for Better Code (2016)](https://www.youtube.com/watch?v=wvtFGa6XJDU)
 * [2023-07-13, 22:34:09](https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name) - [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
@@ -17,9 +19,7 @@
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
-* [2023-07-13, 06:56:07](https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on) - [Prevent Locking Issues For Updates On Counters](https://sqlfordevs.com/concurrent-updates-locking)
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
-* [2023-07-12, 21:17:29](https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency) - [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
 * [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-12, 18:20:11](https://lobste.rs/s/gjlsdg/chatgpt_visits_emacs_doctor) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
