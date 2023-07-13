@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
+* [2023-07-13, 13:56:38](https://lobste.rs/s/8zc2g6/curated_transformers_lightweight) - [Curated Transformers – Lightweight, composable PyTorch transformers](https://github.com/explosion/curated-transformers)
+* [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
 * [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 10:27:56](https://lobste.rs/s/av0epa/ceasing_be_exceptional) - [ceasing to be exceptional](https://eli.sohl.com/2016/05/12/ceasing-to-be-exceptional.html)
@@ -22,7 +23,6 @@
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
-* [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 

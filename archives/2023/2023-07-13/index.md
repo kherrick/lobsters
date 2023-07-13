@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 13:56:38](https://lobste.rs/s/8zc2g6/curated_transformers_lightweight) - [Curated Transformers – Lightweight, composable PyTorch transformers](https://github.com/explosion/curated-transformers)
 * [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
 * [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
