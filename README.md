@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-07-13, 06:56:07](https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on) - [Prevent Locking Issues For Updates On Counters](https://sqlfordevs.com/concurrent-updates-locking)
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 23:49:33](https://lobste.rs/s/idpgdz/escaping_cms_hell_into_cms_heaven) - [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
@@ -23,7 +24,6 @@
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 * [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
-* [2023-07-11, 14:53:21](https://lobste.rs/s/xvxrv2/day_my_ping_took_countermeasures) - [The day my ping took countermeasures](https://blog.cloudflare.com/the-day-my-ping-took-countermeasures/)
 * [2023-07-11, 12:16:49](https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made) - [We Put a Distributed Database In the Browser – And Made a Game of It](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 
 ## [Archives](archives/index.md)
