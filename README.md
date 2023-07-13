@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 22:34:09](https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name) - [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-13, 17:42:06](https://lobste.rs/s/xytlsp/can_you_beat_pokemon_firered_while_blind) - [Can you beat Pokemon FireRed while blind and deaf?](https://youtu.be/6gjsAA_5Agk)
 * [2023-07-13, 17:23:41](https://lobste.rs/s/htsspg/low_resource_text_classification) - [\"Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
-* [2023-07-13, 16:12:00](https://lobste.rs/s/cpaijd/compression_algorithms_are_super_cool) - [Compression algorithms are a super cool way to do a lot of very useful AI/ML, and can be more scalab](https://twitter.com/EdwardRaffML/status/1679508062472900608)
 * [2023-07-13, 16:07:15](https://lobste.rs/s/b4mpns/govulncheck_v1_0_0_is_released) - [Govulncheck v1.0.0 is released](https://go.dev/blog/govulncheck)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
