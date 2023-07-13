@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 21:14:01",
+      "https://lobste.rs/s/ng43it/looming_demise_10x_developer"
+    ],
+    [
+      "The looming demise of the 10x developer",
+      "https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 17:42:06",
       "https://lobste.rs/s/xytlsp/can_you_beat_pokemon_firered_while_blind"
     ],
@@ -237,16 +247,6 @@
     [
       "dt: duck tape for your unix pipes",
       "https://dt.plumbing/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 23:53:21",
-      "https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot"
-    ],
-    [
-      "Why it’s necessary to shoot yourself in the foot",
-      "https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html"
     ]
   ]
 ]
