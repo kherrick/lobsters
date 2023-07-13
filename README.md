@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-13, 17:42:06](https://lobste.rs/s/xytlsp/can_you_beat_pokemon_firered_while_blind) - [Can you beat Pokemon FireRed while blind and deaf?](https://youtu.be/6gjsAA_5Agk)
@@ -13,7 +14,6 @@
 * [2023-07-13, 13:56:38](https://lobste.rs/s/8zc2g6/curated_transformers_lightweight) - [Curated Transformers – Lightweight, composable PyTorch transformers](https://github.com/explosion/curated-transformers)
 * [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
 * [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
-* [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
