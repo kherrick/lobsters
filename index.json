@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-13, 13:56:38",
+      "https://lobste.rs/s/8zc2g6/curated_transformers_lightweight"
+    ],
+    [
+      "Curated Transformers – Lightweight, composable PyTorch transformers",
+      "https://github.com/explosion/curated-transformers"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 13:50:30",
       "https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html"
     ],
     [
-      "Fun Format Friday: Your stove renders HTML",
+      "Fun Format Friday: Your stove renders HTML (X computes Y)",
       "https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Storing Data in Control Flow",
       "https://research.swtch.com/pcdata"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 09:17:03",
-      "https://lobste.rs/s/k2kh11/fruit_poisonous_llama"
-    ],
-    [
-      "Fruit Of The Poisonous LLaMA?",
-      "https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/"
     ]
   ],
   [
