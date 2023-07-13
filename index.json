@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-13, 23:21:50",
+      "https://lobste.rs/s/npkpx9/curry_howard_lambek_isomorphism"
+    ],
+    [
+      "Curry-Howard-Lambek and the Isomorphism",
+      "https://timothysamson.github.io/posts/curry-howard/"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 23:16:06",
+      "https://lobste.rs/s/yhws0k/unsigned_guideline_for_better_code_2016"
+    ],
+    [
+      "unsigned: A Guideline for Better Code (2016)",
+      "https://www.youtube.com/watch?v=wvtFGa6XJDU"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 22:34:09",
       "https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-07-13, 06:56:07",
-      "https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on"
-    ],
-    [
-      "Prevent Locking Issues For Updates On Counters",
-      "https://sqlfordevs.com/concurrent-updates-locking"
-    ]
-  ],
-  [
-    [
       "2023-07-13, 02:29:26",
       "https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview"
     ],
     [
       "Announcing Windows 11 Insider Preview Build 25905",
       "https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 21:17:29",
-      "https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency"
-    ],
-    [
-      "Tech Notes: The dominator tree of a dependency graph",
-      "https://neugierig.org/software/blog/2023/07/dominator.html"
     ]
   ],
   [
