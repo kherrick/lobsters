@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 15:13:36](https://lobste.rs/s/rk9ctb/faster_neural_networks_straight_from) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/en-CH/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:09:48](https://lobste.rs/s/2hsmwg/how_get_green_dot_turn_on_for_slack_users) - [How to get the green dot to turn on for slack users](https://many.pw/synapse)
@@ -22,7 +23,6 @@
 * [2023-07-12, 15:17:39](https://lobste.rs/s/alvnky/computer_science_major_arcana) - [Computer Science Major Arcana](https://www.tumblr.com/eyepool/722652304002678784/computer-science-major-arcana)
 * [2023-07-12, 15:05:10](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted) - [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
-* [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 

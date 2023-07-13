@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 15:13:36](https://lobste.rs/s/rk9ctb/faster_neural_networks_straight_from) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/en-CH/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:09:48](https://lobste.rs/s/2hsmwg/how_get_green_dot_turn_on_for_slack_users) - [How to get the green dot to turn on for slack users](https://many.pw/synapse)
