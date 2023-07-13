@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
+* [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 10:27:56](https://lobste.rs/s/av0epa/ceasing_be_exceptional) - [ceasing to be exceptional](https://eli.sohl.com/2016/05/12/ceasing-to-be-exceptional.html)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)

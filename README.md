@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
+* [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 10:27:56](https://lobste.rs/s/av0epa/ceasing_be_exceptional) - [ceasing to be exceptional](https://eli.sohl.com/2016/05/12/ceasing-to-be-exceptional.html)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
@@ -8,7 +10,6 @@
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-07-13, 06:56:07](https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on) - [Prevent Locking Issues For Updates On Counters](https://sqlfordevs.com/concurrent-updates-locking)
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
-* [2023-07-12, 23:49:33](https://lobste.rs/s/idpgdz/escaping_cms_hell_into_cms_heaven) - [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
 * [2023-07-12, 21:17:29](https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency) - [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
 * [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
@@ -22,7 +23,6 @@
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
-* [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 
