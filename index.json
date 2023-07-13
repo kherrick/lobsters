@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 09:33:10",
+      "https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully"
+    ],
+    [
+      "G1 String Deduplication Doesn't Fully Deduplicate Strings",
+      "https://justinblank.com/experiments/g1stringdeduplication.html"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 07:43:17",
       "https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app"
     ],
@@ -237,16 +247,6 @@
     [
       "Vale's First Prototype for Immutable Region Borrowing",
       "https://verdagon.dev/blog/first-regions-prototype"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 12:16:49",
-      "https://lobste.rs/s/kwqkar/we_put_distributed_database_browser_made"
-    ],
-    [
-      "We Put a Distributed Database In the Browser – And Made a Game of It",
-      "https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/"
     ]
   ]
 ]
