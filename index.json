@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 22:34:09",
+      "https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name"
+    ],
+    [
+      "Demo: Brute-forcing a macOS user’s real name from a browser using mDNS",
+      "https://fingerprint.com/blog/apple-macos-mdns-brute-force/"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 22:12:18",
       "https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust"
     ],
@@ -47,16 +57,6 @@
     [
       "\"Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors",
       "https://aclanthology.org/2023.findings-acl.426.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 16:12:00",
-      "https://lobste.rs/s/cpaijd/compression_algorithms_are_super_cool"
-    ],
-    [
-      "Compression algorithms are a super cool way to do a lot of very useful AI/ML, and can be more scalab",
-      "https://twitter.com/EdwardRaffML/status/1679508062472900608"
     ]
   ],
   [
