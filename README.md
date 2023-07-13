@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 06:56:07](https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on) - [Prevent Locking Issues For Updates On Counters](https://sqlfordevs.com/concurrent-updates-locking)
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 23:49:33](https://lobste.rs/s/idpgdz/escaping_cms_hell_into_cms_heaven) - [Escaping CMS hell into CMS heaven](https://blog.oat.zone/cohost-blogger/)
 * [2023-07-12, 21:17:29](https://lobste.rs/s/wvyvzq/tech_notes_dominator_tree_dependency) - [Tech Notes: The dominator tree of a dependency graph](https://neugierig.org/software/blog/2023/07/dominator.html)
@@ -14,7 +15,6 @@
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 * [2023-07-12, 11:54:17](https://lobste.rs/s/a3kydi/serverless_semantic_search_free_tier) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
-* [2023-07-12, 10:40:35](https://lobste.rs/s/5agpof/principles_devops_flow) - [Principles of DevOps: Flow](https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
