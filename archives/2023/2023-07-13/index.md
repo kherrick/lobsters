@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)
 * [2023-07-13, 07:39:17](https://lobste.rs/s/fgjh7p/ask_hn_what_s_largest_amount_bad_code_you) - [Ask HN: What's the largest amount of bad code you have ever seen work?](https://news.ycombinator.com/item?id=18442637)
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
