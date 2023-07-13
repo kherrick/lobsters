@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 10:27:56](https://lobste.rs/s/av0epa/ceasing_be_exceptional) - [ceasing to be exceptional](https://eli.sohl.com/2016/05/12/ceasing-to-be-exceptional.html)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)

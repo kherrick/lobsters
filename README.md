@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 11:44:09](https://lobste.rs/s/i1betg/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-13, 10:27:56](https://lobste.rs/s/av0epa/ceasing_be_exceptional) - [ceasing to be exceptional](https://eli.sohl.com/2016/05/12/ceasing-to-be-exceptional.html)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)
@@ -24,7 +25,6 @@
 * [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 18:20:21](https://lobste.rs/s/jiovgt/regex_isn_t_hard) - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
-* [2023-07-11, 15:20:42](https://lobste.rs/s/9xeffm/vale_s_first_prototype_for_immutable) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 
 ## [Archives](archives/index.md)
 
