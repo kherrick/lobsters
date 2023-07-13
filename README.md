@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-13, 07:43:17](https://lobste.rs/s/lewgjt/easy_way_get_release_updates_from_app) - [Easy way to get release updates from the App Store over Slack](https://appstoreslackbot.com)
+* [2023-07-13, 07:39:17](https://lobste.rs/s/fgjh7p/ask_hn_what_s_largest_amount_bad_code_you) - [Ask HN: What's the largest amount of bad code you have ever seen work?](https://news.ycombinator.com/item?id=18442637)
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-07-13, 06:56:07](https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on) - [Prevent Locking Issues For Updates On Counters](https://sqlfordevs.com/concurrent-updates-locking)
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
@@ -15,10 +17,8 @@
 * [2023-07-12, 15:05:10](https://lobste.rs/s/ptxfpp/llm_cli_tool_now_supports_self_hosted) - [LLM CLI tool now supports self-hosted language models via plugins](https://simonwillison.net/2023/Jul/12/llm/)
 * [2023-07-12, 13:41:32](https://lobste.rs/s/d0jlqq/wokwi_online_esp32_stm32_arduino) - [Wokwi - Online ESP32, STM32, Arduino Simulator](https://wokwi.com)
 * [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
-* [2023-07-12, 11:54:17](https://lobste.rs/s/a3kydi/serverless_semantic_search_free_tier) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 * [2023-07-12, 10:35:05](https://lobste.rs/s/3vhjui/storing_data_control_flow) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-12, 09:17:03](https://lobste.rs/s/k2kh11/fruit_poisonous_llama) - [Fruit Of The Poisonous LLaMA?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
-* [2023-07-12, 04:28:49](https://lobste.rs/s/zpsvop/hardening_emulated_devices_openbsd_s_vmd) - [Hardening Emulated Devices in OpenBSD's vmd(8) Hypervisor](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:07:41](https://lobste.rs/s/izgqio/plans_are_just_vibes_on_spreadsheet_they) - [Plans are just vibes on a spreadsheet. But they are invaluable](https://rexm.substack.com/p/plans-are-just-vibes-on-a-spreadsheet)
 * [2023-07-11, 23:53:21](https://lobste.rs/s/zk2h6g/why_it_s_necessary_shoot_yourself_foot) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 20:14:02](https://lobste.rs/s/n744hy/newpipe_net_removed_from_google_search) - [newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
