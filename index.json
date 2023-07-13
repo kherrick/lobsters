@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 06:56:07",
+      "https://lobste.rs/s/qxnl5k/prevent_locking_issues_for_updates_on"
+    ],
+    [
+      "Prevent Locking Issues For Updates On Counters",
+      "https://sqlfordevs.com/concurrent-updates-locking"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 02:29:26",
       "https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview"
     ],
@@ -137,16 +147,6 @@
     [
       "Serverless Semantic Search, Free tier only",
       "https://qdrant.tech/articles/serverless/"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 10:40:35",
-      "https://lobste.rs/s/5agpof/principles_devops_flow"
-    ],
-    [
-      "Principles of DevOps: Flow",
-      "https://garrit.xyz/posts/2023-07-12-principles-of-devops--flow"
     ]
   ],
   [
