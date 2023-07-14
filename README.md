@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 21:00:44](https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html) - [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 20:36:07](https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf) - [Keynote: Safety and Security: The Future of C++ - JF Bastien - CppNow 2023](https://www.youtube.com/watch?v=Gh79wcGJdTg)
 * [2023-07-14, 20:33:11](https://lobste.rs/s/moe2iz/put_pin_on) - [Put a Pin on That](https://ohadravid.github.io/posts/2023-07-put-a-pin-on-that/)
 * [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
@@ -19,7 +20,6 @@
 * [2023-07-14, 06:27:52](https://lobste.rs/s/stt72t/rustsmith_random_differential_compiler) - [RustSmith: Random Differential Compiler Testing for Rust](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf)
 * [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
-* [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
