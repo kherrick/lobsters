@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 09:54:59",
+      "https://lobste.rs/s/pwkmpa/no_code_is_best_code"
+    ],
+    [
+      "No Code is the Best Code",
+      "https://massimo-nazaria.github.io/blog/2022/12/21/no-code-is-the-best-code.html"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 06:41:26",
       "https://lobste.rs/s/nnzbmi/low_resource_text_classification"
     ],
@@ -237,16 +247,6 @@
     [
       "Advice for Operating a Public-Facing API",
       "https://jcs.org/2023/07/12/api"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 12:45:34",
-      "https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes"
-    ],
-    [
-      "dt: duck tape for your unix pipes",
-      "https://dt.plumbing/"
     ]
   ]
 ]
