@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 18:06:42](https://lobste.rs/s/pq7tqx/thinking_like_transformer) - [Thinking like Transformer](https://srush.github.io/raspy/)
 * [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 * [2023-07-14, 17:24:13](https://lobste.rs/s/9ivu1c/duckyzip_provably_honest_global_linking) - [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
@@ -13,6 +14,7 @@
 * [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/release_notes_podman_desktop_1_2) - [Release Notes - Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+* [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 * [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
 * [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
