@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-14, 16:54:13](https://lobste.rs/s/pyzybh/how_avoid_openai_s_api_fees) - [How to avoid openai's API fees](https://many.pw/synapse/two)
+* [2023-07-14, 17:10:14](https://lobste.rs/s/lgfo0j/i_made_32_bit_computer_inside_terraria) - [I Made a 32-bit Computer Inside Terraria](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 * [2023-07-14, 16:26:43](https://lobste.rs/s/38mawz/lost_arts_cljs_frontend) - [The Lost Arts of CLJS Frontend](https://code.thheller.com/blog/shadow-cljs/2023/07/13/the-lost-arts-of-cljs-frontend.html)
 * [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
