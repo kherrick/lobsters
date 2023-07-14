@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
+* [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
+* [2023-07-14, 12:00:57](https://lobste.rs/s/wankbu/still_going_zine_on_using_old_technology) - [Still Going: A zine on using old technology](https://jagtalon.com/2022/12/08/still-going-a-zine-on-using-old-technology/)
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
 * [2023-07-14, 11:17:51](https://lobste.rs/s/eyegxd/procedural_hydrology_dynamic_lake_river) - [Procedural Hydrology: Dynamic Lake and River Simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2023-07-14, 09:54:59](https://lobste.rs/s/pwkmpa/no_code_is_best_code) - [No Code is the Best Code](https://massimo-nazaria.github.io/blog/2022/12/21/no-code-is-the-best-code.html)
