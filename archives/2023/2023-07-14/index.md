@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 16:26:43](https://lobste.rs/s/38mawz/lost_arts_cljs_frontend) - [The Lost Arts of CLJS Frontend](https://code.thheller.com/blog/shadow-cljs/2023/07/13/the-lost-arts-of-cljs-frontend.html)
+* [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/release_notes_podman_desktop_1_2) - [Release Notes - Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 * [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
