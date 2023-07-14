@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 18:45:47](https://lobste.rs/s/60qfeo/dirty_pagetable_novel_exploitation) - [Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel](https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html)
 * [2023-07-14, 18:06:42](https://lobste.rs/s/pq7tqx/thinking_like_transformer) - [Thinking like Transformer](https://srush.github.io/raspy/)
 * [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
@@ -19,7 +20,6 @@
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
-* [2023-07-13, 16:07:15](https://lobste.rs/s/b4mpns/govulncheck_v1_0_0_is_released) - [Govulncheck v1.0.0 is released](https://go.dev/blog/govulncheck)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 14:09:48](https://lobste.rs/s/2hsmwg/how_get_green_dot_turn_on_for_slack_users) - [How to get the green dot to turn on for slack users](https://many.pw/synapse)
