@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 17:30:52",
+      "https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128"
+    ],
+    [
+      "{n} times faster than C, where n = 128",
+      "https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 17:24:13",
       "https://lobste.rs/s/9ivu1c/duckyzip_provably_honest_global_linking"
     ],
@@ -237,16 +247,6 @@
     [
       "G1 String Deduplication Doesn't Fully Deduplicate Strings",
       "https://justinblank.com/experiments/g1stringdeduplication.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 07:06:26",
-      "https://lobste.rs/s/skatlx/how_does_linux_handle_writes"
-    ],
-    [
-      "How does Linux handle writes?",
-      "https://www.cyberdemon.org/2023/06/27/file-writes.html"
     ]
   ]
 ]
