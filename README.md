@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 22:13:20](https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker) - [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
 * [2023-07-14, 21:00:44](https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html) - [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 20:36:07](https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf) - [Keynote: Safety and Security: The Future of C++ - JF Bastien - CppNow 2023](https://www.youtube.com/watch?v=Gh79wcGJdTg)
 * [2023-07-14, 20:33:11](https://lobste.rs/s/moe2iz/put_pin_on) - [Put a Pin on That](https://ohadravid.github.io/posts/2023-07-put-a-pin-on-that/)
 * [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 18:45:47](https://lobste.rs/s/60qfeo/dirty_pagetable_novel_exploitation) - [Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel](https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html)
-* [2023-07-14, 18:06:42](https://lobste.rs/s/pq7tqx/thinking_like_transformer) - [Thinking like Transformer](https://srush.github.io/raspy/)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 * [2023-07-14, 17:24:13](https://lobste.rs/s/9ivu1c/duckyzip_provably_honest_global_linking) - [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
 * [2023-07-14, 17:10:14](https://lobste.rs/s/lgfo0j/i_made_32_bit_computer_inside_terraria) - [I Made a 32-bit Computer Inside Terraria](https://www.youtube.com/watch?v=zXPiqk0-zDY)

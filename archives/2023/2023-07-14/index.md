@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 22:13:20](https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker) - [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
 * [2023-07-14, 21:00:44](https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html) - [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 20:36:07](https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf) - [Keynote: Safety and Security: The Future of C++ - JF Bastien - CppNow 2023](https://www.youtube.com/watch?v=Gh79wcGJdTg)
 * [2023-07-14, 20:33:11](https://lobste.rs/s/moe2iz/put_pin_on) - [Put a Pin on That](https://ohadravid.github.io/posts/2023-07-put-a-pin-on-that/)
