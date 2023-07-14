@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 * [2023-07-14, 17:24:13](https://lobste.rs/s/9ivu1c/duckyzip_provably_honest_global_linking) - [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
 * [2023-07-14, 17:10:14](https://lobste.rs/s/lgfo0j/i_made_32_bit_computer_inside_terraria) - [I Made a 32-bit Computer Inside Terraria](https://www.youtube.com/watch?v=zXPiqk0-zDY)

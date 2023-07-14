@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 * [2023-07-14, 17:24:13](https://lobste.rs/s/9ivu1c/duckyzip_provably_honest_global_linking) - [DuckyZip: Provably Honest Global Linking Service](https://eprint.iacr.org/2023/1069)
 * [2023-07-14, 17:10:14](https://lobste.rs/s/lgfo0j/i_made_32_bit_computer_inside_terraria) - [I Made a 32-bit Computer Inside Terraria](https://www.youtube.com/watch?v=zXPiqk0-zDY)
@@ -14,7 +15,6 @@
 * [2023-07-14, 11:17:51](https://lobste.rs/s/eyegxd/procedural_hydrology_dynamic_lake_river) - [Procedural Hydrology: Dynamic Lake and River Simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2023-07-14, 06:27:52](https://lobste.rs/s/stt72t/rustsmith_random_differential_compiler) - [RustSmith: Random Differential Compiler Testing for Rust](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf)
 * [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
-* [2023-07-13, 23:21:50](https://lobste.rs/s/npkpx9/curry_howard_lambek_isomorphism) - [Curry-Howard-Lambek and the Isomorphism](https://timothysamson.github.io/posts/curry-howard/)
 * [2023-07-13, 22:34:09](https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name) - [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
