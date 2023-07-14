@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 17:47:22",
+      "https://lobste.rs/s/awiiza/jami_local_denial_service_passing"
+    ],
+    [
+      "Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities",
+      "https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 17:30:52",
       "https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128"
     ],
@@ -137,16 +147,6 @@
     [
       "2022 KDE e.V. Report",
       "https://ev.kde.org/reports/ev-2022/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 23:21:50",
-      "https://lobste.rs/s/npkpx9/curry_howard_lambek_isomorphism"
-    ],
-    [
-      "Curry-Howard-Lambek and the Isomorphism",
-      "https://timothysamson.github.io/posts/curry-howard/"
     ]
   ],
   [
