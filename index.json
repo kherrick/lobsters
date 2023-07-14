@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 22:13:20",
+      "https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker"
+    ],
+    [
+      "dmodman: TUI downloader & update checker for nexusmods.com",
+      "https://github.com/dandels/dmodman/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 21:00:44",
       "https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html"
     ],
@@ -47,16 +57,6 @@
     [
       "Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel",
       "https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 18:06:42",
-      "https://lobste.rs/s/pq7tqx/thinking_like_transformer"
-    ],
-    [
-      "Thinking like Transformer",
-      "https://srush.github.io/raspy/"
     ]
   ],
   [
