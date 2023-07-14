@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 21:00:44",
+      "https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html"
+    ],
+    [
+      "libxo: The Easy Way to Generate text, XML, JSON, and HTML output",
+      "https://juniper.github.io/libxo/libxo-manual.html"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 20:36:07",
       "https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf"
     ],
@@ -187,16 +197,6 @@
     [
       "I have written a (toy) JVM in Rust",
       "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 21:26:39",
-      "https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable"
-    ],
-    [
-      "Patching GCC to build Actually Portable Executables",
-      "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/"
     ]
   ],
   [
