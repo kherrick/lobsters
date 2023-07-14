@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-14, 09:54:59](https://lobste.rs/s/pwkmpa/no_code_is_best_code) - [No Code is the Best Code](https://massimo-nazaria.github.io/blog/2022/12/21/no-code-is-the-best-code.html)
 * [2023-07-14, 06:41:26](https://lobste.rs/s/nnzbmi/low_resource_text_classification) - [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
 * [2023-07-14, 06:27:52](https://lobste.rs/s/stt72t/rustsmith_random_differential_compiler) - [RustSmith: Random Differential Compiler Testing for Rust](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf)
 * [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
@@ -25,6 +24,7 @@
 * [2023-07-13, 02:29:26](https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview) - [Announcing Windows 11 Insider Preview Build 25905](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 20:19:49](https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced) - [Gleam v0.30 - Local dependencies and enhanced externals](https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
+* [2023-07-12, 12:45:34](https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes) - [dt: duck tape for your unix pipes](https://dt.plumbing/)
 
 ## [Archives](archives/index.md)
 
