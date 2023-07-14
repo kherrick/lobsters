@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 11:17:51",
+      "https://lobste.rs/s/eyegxd/procedural_hydrology_dynamic_lake_river"
+    ],
+    [
+      "Procedural Hydrology: Dynamic Lake and River Simulation (2020)",
+      "https://nickmcd.me/2020/04/15/procedural-hydrology/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 06:41:26",
       "https://lobste.rs/s/nnzbmi/low_resource_text_classification"
     ],
@@ -237,16 +247,6 @@
     [
       "Advice for Operating a Public-Facing API",
       "https://jcs.org/2023/07/12/api"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 12:45:34",
-      "https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes"
-    ],
-    [
-      "dt: duck tape for your unix pipes",
-      "https://dt.plumbing/"
     ]
   ]
 ]
