@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/release_notes_podman_desktop_1_2) - [Release Notes - Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 * [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
@@ -21,7 +22,6 @@
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 14:09:48](https://lobste.rs/s/2hsmwg/how_get_green_dot_turn_on_for_slack_users) - [How to get the green dot to turn on for slack users](https://many.pw/synapse)
 * [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
-* [2023-07-13, 13:47:21](https://lobste.rs/s/ahigxo/css_findings_from_threads_app) - [CSS Findings From The Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-13, 09:33:10](https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully) - [G1 String Deduplication Doesn't Fully Deduplicate Strings](https://justinblank.com/experiments/g1stringdeduplication.html)
 * [2023-07-13, 07:06:26](https://lobste.rs/s/skatlx/how_does_linux_handle_writes) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-07-12, 20:05:36](https://lobste.rs/s/9jgl9k/advice_for_operating_public_facing_api) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
