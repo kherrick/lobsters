@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 18:45:47](https://lobste.rs/s/60qfeo/dirty_pagetable_novel_exploitation) - [Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel](https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html)
 * [2023-07-14, 18:06:42](https://lobste.rs/s/pq7tqx/thinking_like_transformer) - [Thinking like Transformer](https://srush.github.io/raspy/)
 * [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 18:45:47](https://lobste.rs/s/60qfeo/dirty_pagetable_novel_exploitation) - [Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel](https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html)
 * [2023-07-14, 18:06:42](https://lobste.rs/s/pq7tqx/thinking_like_transformer) - [Thinking like Transformer](https://srush.github.io/raspy/)
 * [2023-07-14, 17:47:22](https://lobste.rs/s/awiiza/jami_local_denial_service_passing) - [Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami)
@@ -16,7 +17,6 @@
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
 * [2023-07-14, 06:27:52](https://lobste.rs/s/stt72t/rustsmith_random_differential_compiler) - [RustSmith: Random Differential Compiler Testing for Rust](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf)
 * [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
-* [2023-07-13, 22:34:09](https://lobste.rs/s/vnixr3/demo_brute_forcing_macos_user_s_real_name) - [Demo: Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:26:39](https://lobste.rs/s/o25qdd/patching_gcc_build_actually_portable) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
