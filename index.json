@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-14, 20:36:07",
+      "https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf"
+    ],
+    [
+      "Keynote: Safety and Security: The Future of C++ - JF Bastien - CppNow 2023",
+      "https://www.youtube.com/watch?v=Gh79wcGJdTg"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 20:33:11",
+      "https://lobste.rs/s/moe2iz/put_pin_on"
+    ],
+    [
+      "Put a Pin on That",
+      "https://ohadravid.github.io/posts/2023-07-put-a-pin-on-that/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 19:52:30",
       "https://lobste.rs/s/tbi01x/framework_laptop_macbook"
     ],
@@ -27,16 +47,6 @@
     [
       "Thinking like Transformer",
       "https://srush.github.io/raspy/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 17:47:22",
-      "https://lobste.rs/s/awiiza/jami_local_denial_service_passing"
-    ],
-    [
-      "Jami Local Denial Of Service and Passing Strings to QRC URL Vulnerabilities",
-      "https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Fun Format Friday: Your stove renders HTML (X computes Y)",
       "https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 09:33:10",
-      "https://lobste.rs/s/sasact/g1_string_deduplication_doesn_t_fully"
-    ],
-    [
-      "G1 String Deduplication Doesn't Fully Deduplicate Strings",
-      "https://justinblank.com/experiments/g1stringdeduplication.html"
     ]
   ]
 ]
