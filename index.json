@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 14:10:30",
+      "https://lobste.rs/s/ij7aj4/release_notes_podman_desktop_1_2"
+    ],
+    [
+      "Release Notes - Podman Desktop 1.2",
+      "https://podman-desktop.io/blog/podman-desktop-release-1.2"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 13:43:22",
       "https://lobste.rs/s/qznp5t/making_business_case_for_event_driven"
     ],
@@ -227,16 +237,6 @@
     [
       "How does Linux handle writes?",
       "https://www.cyberdemon.org/2023/06/27/file-writes.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 20:19:49",
-      "https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced"
-    ],
-    [
-      "Gleam v0.30 - Local dependencies and enhanced externals",
-      "https://gleam.run/news/v0.30-local-dependencies-and-enhanced-externals/"
     ]
   ],
   [
