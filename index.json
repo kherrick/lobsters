@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-14, 12:25:38",
+      "https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai"
+    ],
+    [
+      "Wikipedia’s value in the age of generative AI",
+      "https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 12:16:49",
+      "https://lobste.rs/s/rdscdj/langford_pairing_2011"
+    ],
+    [
+      "Langford Pairing (2011)",
+      "https://susam.net/blog/langford-pairing.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 12:00:57",
+      "https://lobste.rs/s/wankbu/still_going_zine_on_using_old_technology"
+    ],
+    [
+      "Still Going: A zine on using old technology",
+      "https://jagtalon.com/2022/12/08/still-going-a-zine-on-using-old-technology/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 11:48:12",
       "https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend"
     ],
@@ -47,16 +77,6 @@
     [
       "Curry-Howard-Lambek and the Isomorphism",
       "https://timothysamson.github.io/posts/curry-howard/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 23:16:06",
-      "https://lobste.rs/s/yhws0k/unsigned_guideline_for_better_code_2016"
-    ],
-    [
-      "unsigned: A Guideline for Better Code (2016)",
-      "https://www.youtube.com/watch?v=wvtFGa6XJDU"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-07-13, 02:29:26",
-      "https://lobste.rs/s/5ga5r9/announcing_windows_11_insider_preview"
-    ],
-    [
-      "Announcing Windows 11 Insider Preview Build 25905",
-      "https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/"
-    ]
-  ],
-  [
-    [
       "2023-07-12, 20:19:49",
       "https://lobste.rs/s/m1mzul/gleam_v0_30_local_dependencies_enhanced"
     ],
@@ -237,16 +247,6 @@
     [
       "Advice for Operating a Public-Facing API",
       "https://jcs.org/2023/07/12/api"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 12:45:34",
-      "https://lobste.rs/s/b8icdy/dt_duck_tape_for_your_unix_pipes"
-    ],
-    [
-      "dt: duck tape for your unix pipes",
-      "https://dt.plumbing/"
     ]
   ]
 ]
