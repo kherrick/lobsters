@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 * [2023-07-15, 13:35:18](https://lobste.rs/s/estdhn/enter_anycable_v1_4_reliable_real_time) - [Enter AnyCable v1.4: reliable real-time features for apps of any size](https://evilmartians.com/chronicles/enter-anycable-v1-4-reliable-real-time-features-for-apps-of-any-size)
 * [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-15, 02:07:53](https://lobste.rs/s/apbon1/goofy_program_files_git_slog) - [Goofy Program Files: git-slog](https://www.mcclimon.org/blog/goofy-program-files-git-slog/)
@@ -22,7 +23,6 @@
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
 * [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
-* [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 

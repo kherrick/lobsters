@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 * [2023-07-15, 13:35:18](https://lobste.rs/s/estdhn/enter_anycable_v1_4_reliable_real_time) - [Enter AnyCable v1.4: reliable real-time features for apps of any size](https://evilmartians.com/chronicles/enter-anycable-v1-4-reliable-real-time-features-for-apps-of-any-size)
 * [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-15, 02:07:53](https://lobste.rs/s/apbon1/goofy_program_files_git_slog) - [Goofy Program Files: git-slog](https://www.mcclimon.org/blog/goofy-program-files-git-slog/)
