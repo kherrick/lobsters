@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-15, 00:59:15",
+      "https://lobste.rs/s/yob65q/ghostty_devlog_001"
+    ],
+    [
+      "Ghostty Devlog 001",
+      "https://mitchellh.com/writing/ghostty-devlog-001"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 00:35:21",
+      "https://lobste.rs/s/mbqmuu/unchecked_say_goodbye_checked"
+    ],
+    [
+      "unchecked: Say goodbye to checked exceptions forever",
+      "https://github.com/rogerkeays/unchecked"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 22:13:20",
       "https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker"
     ],
@@ -47,16 +67,6 @@
     [
       "Framework laptop or Macbook?",
       "https://lobste.rs/s/tbi01x/framework_laptop_macbook"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 18:45:47",
-      "https://lobste.rs/s/60qfeo/dirty_pagetable_novel_exploitation"
-    ],
-    [
-      "Dirty Pagetable: A Novel Exploitation Technique To Rule Linux Kernel",
-      "https://yanglingxi1993.github.io/dirty_pagetable/dirty_pagetable.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 06:27:52",
-      "https://lobste.rs/s/stt72t/rustsmith_random_differential_compiler"
-    ],
-    [
-      "RustSmith: Random Differential Compiler Testing for Rust",
-      "https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf"
     ]
   ],
   [
