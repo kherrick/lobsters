@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-15, 14:40:44",
+      "https://lobste.rs/s/ypb8pa/brismu_relational_interpretation"
+    ],
+    [
+      "brismu: a relational interpretation of Lojban",
+      "https://mostawesomedude.github.io/brismu/"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 14:38:21",
+      "https://lobste.rs/s/nv6o5y/path_implementing_programming_language"
+    ],
+    [
+      "The path to implementing a programming language",
+      "https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 14:31:34",
       "https://lobste.rs/s/scozd4/what_is_difference_between_turbo"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-07-14, 20:36:07",
-      "https://lobste.rs/s/oojk4g/keynote_safety_security_future_c_jf"
-    ],
-    [
-      "Keynote: Safety and Security: The Future of C++ - JF Bastien - CppNow 2023",
-      "https://www.youtube.com/watch?v=Gh79wcGJdTg"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 20:33:11",
       "https://lobste.rs/s/moe2iz/put_pin_on"
     ],
@@ -187,16 +197,6 @@
     [
       "The Lost Arts of CLJS Frontend",
       "https://code.thheller.com/blog/shadow-cljs/2023/07/13/the-lost-arts-of-cljs-frontend.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 16:24:33",
-      "https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large"
-    ],
-    [
-      "Mining Meaningful Methods from Large Language Models",
-      "https://earthly.dev/blog/build-transpose/"
     ]
   ],
   [
