@@ -18,13 +18,13 @@
 * [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+* [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
 * [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
 * [2023-07-14, 04:57:58](https://lobste.rs/s/zuhi6p/2022_kde_e_v_report) - [2022 KDE e.V. Report](https://ev.kde.org/reports/ev-2022/)
 * [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
-* [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 
 ## [Archives](archives/index.md)
 
