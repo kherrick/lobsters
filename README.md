@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-15, 19:24:53](https://lobste.rs/s/quychg/rrust_reversible_embedded_language) - [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
 * [2023-07-15, 18:08:34](https://lobste.rs/s/dj43h7/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://www.youtube.com/watch?v=RNZeAmp1EaA)
-* [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/artima_trouble_with_checked_exceptions) - [artima - The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
+* [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions) - [The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 14:40:44](https://lobste.rs/s/ypb8pa/brismu_relational_interpretation) - [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
 * [2023-07-15, 14:38:21](https://lobste.rs/s/nv6o5y/path_implementing_programming_language) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 14:31:34](https://lobste.rs/s/scozd4/what_is_difference_between_turbo) - [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
@@ -23,7 +24,6 @@
 * [2023-07-14, 16:26:43](https://lobste.rs/s/38mawz/lost_arts_cljs_frontend) - [The Lost Arts of CLJS Frontend](https://code.thheller.com/blog/shadow-cljs/2023/07/13/the-lost-arts-of-cljs-frontend.html)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
-* [2023-07-13, 22:12:18](https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust) - [I have written a (toy) JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 
 ## [Archives](archives/index.md)

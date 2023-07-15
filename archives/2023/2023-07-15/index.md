@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 19:24:53](https://lobste.rs/s/quychg/rrust_reversible_embedded_language) - [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
 * [2023-07-15, 18:08:34](https://lobste.rs/s/dj43h7/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://www.youtube.com/watch?v=RNZeAmp1EaA)
+* [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions) - [The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/artima_trouble_with_checked_exceptions) - [artima - The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 14:40:44](https://lobste.rs/s/ypb8pa/brismu_relational_interpretation) - [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
 * [2023-07-15, 14:38:21](https://lobste.rs/s/nv6o5y/path_implementing_programming_language) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
