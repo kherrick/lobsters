@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 14:40:44](https://lobste.rs/s/ypb8pa/brismu_relational_interpretation) - [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
+* [2023-07-15, 14:38:21](https://lobste.rs/s/nv6o5y/path_implementing_programming_language) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 14:31:34](https://lobste.rs/s/scozd4/what_is_difference_between_turbo) - [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
 * [2023-07-15, 14:12:46](https://lobste.rs/s/0ewopp/managing_llm_context_is_knapsack_problem) - [Managing LLM Context Is a Knapsack Problem](https://www.awelm.com/posts/knapsack/)
 * [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
