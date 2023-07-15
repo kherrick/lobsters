@@ -6,6 +6,7 @@
 
 * [2023-07-15, 19:24:53](https://lobste.rs/s/quychg/rrust_reversible_embedded_language) - [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
 * [2023-07-15, 18:08:34](https://lobste.rs/s/dj43h7/principles_flix_programming_language) - [The Principles of the Flix Programming Language](https://www.youtube.com/watch?v=RNZeAmp1EaA)
+* [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions_2003) - [The Trouble with Checked Exceptions (2003)](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions) - [The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 18:03:41](https://lobste.rs/s/aocv9o/artima_trouble_with_checked_exceptions) - [artima - The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions)
 * [2023-07-15, 14:40:44](https://lobste.rs/s/ypb8pa/brismu_relational_interpretation) - [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
