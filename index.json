@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-15, 19:24:53",
+      "https://lobste.rs/s/quychg/rrust_reversible_embedded_language"
+    ],
+    [
+      "RRUST: A reversible embedded language",
+      "https://blog.erk.dev/posts/rrust"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 18:08:34",
       "https://lobste.rs/s/dj43h7/principles_flix_programming_language"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2023-07-15, 18:03:41",
-      "https://lobste.rs/s/aocv9o/artima_trouble_with_checked_exceptions"
+      "https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions"
     ],
     [
-      "artima - The Trouble with Checked Exceptions",
+      "The Trouble with Checked Exceptions",
       "https://www.artima.com/articles/the-trouble-with-checked-exceptions"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Podman Desktop 1.2",
       "https://podman-desktop.io/blog/podman-desktop-release-1.2"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 22:12:18",
-      "https://lobste.rs/s/mk25un/i_have_written_toy_jvm_rust"
-    ],
-    [
-      "I have written a (toy) JVM in Rust",
-      "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
     ]
   ],
   [
