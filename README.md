@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-15, 13:35:18](https://lobste.rs/s/estdhn/enter_anycable_v1_4_reliable_real_time) - [Enter AnyCable v1.4: reliable real-time features for apps of any size](https://evilmartians.com/chronicles/enter-anycable-v1-4-reliable-real-time-features-for-apps-of-any-size)
 * [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-15, 02:07:53](https://lobste.rs/s/apbon1/goofy_program_files_git_slog) - [Goofy Program Files: git-slog](https://www.mcclimon.org/blog/goofy-program-files-git-slog/)
 * [2023-07-15, 01:52:37](https://lobste.rs/s/urhhhu/ziplm_gzip_backed_language_model) - [ziplm: gzip-backed language model](https://github.com/Futrell/ziplm/)
@@ -18,7 +19,6 @@
 * [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
-* [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
 * [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
