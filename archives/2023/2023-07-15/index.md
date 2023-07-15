@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 23:48:13](https://lobste.rs/s/j65fea/ada_outperforms_assembly_case_study) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
+* [2023-07-15, 23:46:47](https://lobste.rs/s/cr4yuc/a5k_another_world_on_chip) - [a5k: Another World on a chip](https://github.com/sylefeb/a5k)
 * [2023-07-15, 21:46:11](https://lobste.rs/s/qlde4b/recursive_cow_pages_userspace) - [Recursive COW pages in userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-15, 20:42:05](https://lobste.rs/s/wt0ph7/improving_heroku_postgres_extension) - [Improving the Heroku Postgres Extension Experience](https://blog.heroku.com/improving-the-heroku-postgres-extension-experience)
 * [2023-07-15, 19:24:53](https://lobste.rs/s/quychg/rrust_reversible_embedded_language) - [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
