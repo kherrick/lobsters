@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-15, 02:07:53](https://lobste.rs/s/apbon1/goofy_program_files_git_slog) - [Goofy Program Files: git-slog](https://www.mcclimon.org/blog/goofy-program-files-git-slog/)
+* [2023-07-15, 01:52:37](https://lobste.rs/s/urhhhu/ziplm_gzip_backed_language_model) - [ziplm: gzip-backed language model](https://github.com/Futrell/ziplm/)
+* [2023-07-15, 01:35:54](https://lobste.rs/s/tubkcq/how_wozniak_s_code_for_apple_1_works) - [How Wozniak’s code for the Apple 1 works](https://youtu.be/SpG8rgI7Hec)
 * [2023-07-15, 00:59:15](https://lobste.rs/s/yob65q/ghostty_devlog_001) - [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
 * [2023-07-15, 00:35:21](https://lobste.rs/s/mbqmuu/unchecked_say_goodbye_checked) - [unchecked: Say goodbye to checked exceptions forever](https://github.com/rogerkeays/unchecked)
 * [2023-07-14, 22:13:20](https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker) - [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
@@ -14,7 +17,6 @@
 * [2023-07-14, 16:24:33](https://lobste.rs/s/10xe7w/mining_meaningful_methods_from_large) - [Mining Meaningful Methods from Large Language Models](https://earthly.dev/blog/build-transpose/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
-* [2023-07-14, 13:43:22](https://lobste.rs/s/qznp5t/making_business_case_for_event_driven) - [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/eda-business-case)
 * [2023-07-14, 12:25:38](https://lobste.rs/s/nlt6dt/wikipedia_s_value_age_generative_ai) - [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
 * [2023-07-14, 12:16:49](https://lobste.rs/s/rdscdj/langford_pairing_2011) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 11:48:12](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cqqv5w/what_are_you_doing_this_weekend)
@@ -23,8 +25,6 @@
 * [2023-07-13, 21:14:01](https://lobste.rs/s/ng43it/looming_demise_10x_developer) - [The looming demise of the 10x developer](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-13, 15:37:47](https://lobste.rs/s/8ctuos/announcing_rust_1_71_0) - [Announcing Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 15:20:44](https://lobste.rs/s/58sfii/how_hype_will_turn_your_security_key_into) - [How Hype Will Turn Your Security Key Into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
-* [2023-07-13, 14:09:48](https://lobste.rs/s/2hsmwg/how_get_green_dot_turn_on_for_slack_users) - [How to get the green dot to turn on for slack users](https://many.pw/synapse)
-* [2023-07-13, 13:50:30](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html) - [Fun Format Friday: Your stove renders HTML (X computes Y)](https://lobste.rs/s/kgx9we/fun_format_friday_your_stove_renders_html)
 
 ## [Archives](archives/index.md)
 
