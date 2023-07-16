@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 11:01:32](https://lobste.rs/s/it2xsv/no_css_club) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
@@ -24,7 +25,6 @@
 * [2023-07-15, 00:59:15](https://lobste.rs/s/yob65q/ghostty_devlog_001) - [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
 * [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
-* [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 
 ## [Archives](archives/index.md)
 

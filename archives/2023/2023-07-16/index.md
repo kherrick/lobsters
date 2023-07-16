@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 11:01:32](https://lobste.rs/s/it2xsv/no_css_club) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
