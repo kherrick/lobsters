@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-16, 16:42:39",
+      "https://lobste.rs/s/gvpg3g/tutorial_quantum_interpreter_150_lines"
+    ],
+    [
+      "A tutorial quantum interpreter in 150 lines of Lisp",
+      "https://www.stylewarning.com/posts/quantum-interpreter/"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 14:05:16",
       "https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face"
     ],
@@ -217,16 +227,6 @@
     [
       "A Month on Chimera Linux",
       "https://bitcannon.net/post/a-month-with-chimera-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 01:35:54",
-      "https://lobste.rs/s/tubkcq/how_wozniak_s_code_for_apple_1_works"
-    ],
-    [
-      "How Wozniak’s code for the Apple 1 works",
-      "https://youtu.be/SpG8rgI7Hec"
     ]
   ],
   [
