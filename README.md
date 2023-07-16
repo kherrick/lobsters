@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-16, 22:04:03](https://lobste.rs/s/oetzgy/goofy_program_files_jlink) - [Goofy Program Files: jlink](https://www.mcclimon.org/blog/goofy-program-files-jlink/)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:25:20](https://lobste.rs/s/yslyr1/ill_typed_programs_don_t_evaluate) - [Ill-Typed Programs Don't Evaluate](https://arxiv.org/abs/2307.06928)
@@ -22,7 +23,6 @@
 * [2023-07-15, 14:40:44](https://lobste.rs/s/ypb8pa/brismu_relational_interpretation) - [brismu: a relational interpretation of Lojban](https://mostawesomedude.github.io/brismu/)
 * [2023-07-15, 14:38:21](https://lobste.rs/s/nv6o5y/path_implementing_programming_language) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 14:31:34](https://lobste.rs/s/scozd4/what_is_difference_between_turbo) - [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-* [2023-07-15, 14:12:46](https://lobste.rs/s/0ewopp/managing_llm_context_is_knapsack_problem) - [Managing LLM Context Is a Knapsack Problem](https://www.awelm.com/posts/knapsack/)
 * [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 * [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 
