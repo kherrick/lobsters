@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-16, 11:01:32",
+      "https://lobste.rs/s/it2xsv/no_css_club"
+    ],
+    [
+      "No CSS Club",
+      "https://nocss.club/"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 11:00:31",
+      "https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol"
+    ],
+    [
+      "Unauthenticated RCE on a RIGOL oscilloscope",
+      "https://tortel.li/post/insecure-scope/"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 09:32:30",
       "https://lobste.rs/s/a8kzam/evaluation_metrics_for_language"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-15, 00:35:21",
-      "https://lobste.rs/s/mbqmuu/unchecked_say_goodbye_checked"
-    ],
-    [
-      "unchecked: Say goodbye to checked exceptions forever",
-      "https://github.com/rogerkeays/unchecked"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 21:00:44",
       "https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html"
     ],
@@ -237,16 +247,6 @@
     [
       "keyboards and web apps, my post/rant for the year",
       "https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 14:10:30",
-      "https://lobste.rs/s/ij7aj4/podman_desktop_1_2"
-    ],
-    [
-      "Podman Desktop 1.2",
-      "https://podman-desktop.io/blog/podman-desktop-release-1.2"
     ]
   ]
 ]
