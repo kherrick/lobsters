@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 14:33:46](https://lobste.rs/s/h2bmqf/employee_owned_since_april_2020_2020) - [Employee-owned since April 2020 [2020]](https://blog.testdouble.com/posts/2020-05-12-esop-owned/)
 * [2023-07-16, 14:05:16](https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
