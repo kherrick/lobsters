@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-16, 06:20:51](https://lobste.rs/s/czuvct/request_for_feedback_solution_rhel_s) - [Request for Feedback: The Solution to RHEL's Decision to Damage the F/OSS Ecosystem](https://lobste.rs/s/czuvct/request_for_feedback_solution_rhel_s)
 * [2023-07-16, 02:18:50](https://lobste.rs/s/ugzrkz/perfect_laptop) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-15, 23:48:13](https://lobste.rs/s/j65fea/ada_outperforms_assembly_case_study) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
 * [2023-07-15, 23:46:47](https://lobste.rs/s/cr4yuc/a5k_another_world_on_chip) - [a5k: Another World on a chip](https://github.com/sylefeb/a5k)
@@ -17,7 +18,6 @@
 * [2023-07-15, 01:35:54](https://lobste.rs/s/tubkcq/how_wozniak_s_code_for_apple_1_works) - [How Wozniak’s code for the Apple 1 works](https://youtu.be/SpG8rgI7Hec)
 * [2023-07-15, 00:59:15](https://lobste.rs/s/yob65q/ghostty_devlog_001) - [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
 * [2023-07-15, 00:35:21](https://lobste.rs/s/mbqmuu/unchecked_say_goodbye_checked) - [unchecked: Say goodbye to checked exceptions forever](https://github.com/rogerkeays/unchecked)
-* [2023-07-14, 22:13:20](https://lobste.rs/s/blyhlz/dmodman_tui_downloader_update_checker) - [dmodman: TUI downloader & update checker for nexusmods.com](https://github.com/dandels/dmodman/)
 * [2023-07-14, 21:00:44](https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html) - [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
