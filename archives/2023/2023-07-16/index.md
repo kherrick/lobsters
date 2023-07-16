@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 17:01:35](https://lobste.rs/s/qso2ol/my_problem_with_four_document_model) - [My Problem With the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-16, 16:42:39](https://lobste.rs/s/gvpg3g/tutorial_quantum_interpreter_150_lines) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 14:33:46](https://lobste.rs/s/h2bmqf/employee_owned_since_april_2020_2020) - [Employee-owned since April 2020 [2020]](https://blog.testdouble.com/posts/2020-05-12-esop-owned/)
 * [2023-07-16, 14:05:16](https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
