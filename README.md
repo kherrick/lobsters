@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-16, 11:01:32](https://lobste.rs/s/it2xsv/no_css_club) - [No CSS Club](https://nocss.club/)
+* [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 09:32:30](https://lobste.rs/s/a8kzam/evaluation_metrics_for_language) - [Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)
 * [2023-07-16, 07:59:02](https://lobste.rs/s/7lwasm/direct_comparison_between_llama_cpp) - [A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities/)
 * [2023-07-16, 06:20:51](https://lobste.rs/s/czuvct/request_for_feedback_solution_rhel_s) - [Request for Feedback: The Solution to RHEL's Decision to Damage the F/OSS Ecosystem](https://lobste.rs/s/czuvct/request_for_feedback_solution_rhel_s)
@@ -19,12 +21,10 @@
 * [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-15, 01:35:54](https://lobste.rs/s/tubkcq/how_wozniak_s_code_for_apple_1_works) - [How Wozniak’s code for the Apple 1 works](https://youtu.be/SpG8rgI7Hec)
 * [2023-07-15, 00:59:15](https://lobste.rs/s/yob65q/ghostty_devlog_001) - [Ghostty Devlog 001](https://mitchellh.com/writing/ghostty-devlog-001)
-* [2023-07-15, 00:35:21](https://lobste.rs/s/mbqmuu/unchecked_say_goodbye_checked) - [unchecked: Say goodbye to checked exceptions forever](https://github.com/rogerkeays/unchecked)
 * [2023-07-14, 21:00:44](https://lobste.rs/s/eopgpp/libxo_easy_way_generate_text_xml_json_html) - [libxo: The Easy Way to Generate text, XML, JSON, and HTML output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 19:52:30](https://lobste.rs/s/tbi01x/framework_laptop_macbook) - [Framework laptop or Macbook?](https://lobste.rs/s/tbi01x/framework_laptop_macbook)
 * [2023-07-14, 17:30:52](https://lobste.rs/s/sqn7m0/n_times_faster_than_c_where_n_128) - [{n} times faster than C, where n = 128](https://ipthomas.com/blog/2023/07/n-times-faster-than-c-where-n-128/)
 * [2023-07-14, 15:24:52](https://lobste.rs/s/xaphjy/keyboards_web_apps_my_post_rant_for_year) - [keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
-* [2023-07-14, 14:10:30](https://lobste.rs/s/ij7aj4/podman_desktop_1_2) - [Podman Desktop 1.2](https://podman-desktop.io/blog/podman-desktop-release-1.2)
 
 ## [Archives](archives/index.md)
 
