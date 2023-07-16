@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:25:20](https://lobste.rs/s/yslyr1/ill_typed_programs_don_t_evaluate) - [Ill-Typed Programs Don't Evaluate](https://arxiv.org/abs/2307.06928)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)

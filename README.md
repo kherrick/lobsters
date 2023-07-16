@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:25:20](https://lobste.rs/s/yslyr1/ill_typed_programs_don_t_evaluate) - [Ill-Typed Programs Don't Evaluate](https://arxiv.org/abs/2307.06928)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
@@ -10,7 +11,6 @@
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 11:01:32](https://lobste.rs/s/it2xsv/no_css_club) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
-* [2023-07-16, 09:32:30](https://lobste.rs/s/a8kzam/evaluation_metrics_for_language) - [Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)
 * [2023-07-16, 07:59:02](https://lobste.rs/s/7lwasm/direct_comparison_between_llama_cpp) - [A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities/)
 * [2023-07-16, 02:18:50](https://lobste.rs/s/ugzrkz/perfect_laptop) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-15, 23:48:13](https://lobste.rs/s/j65fea/ada_outperforms_assembly_case_study) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
