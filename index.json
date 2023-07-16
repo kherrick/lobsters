@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-16, 22:55:16",
+      "https://lobste.rs/s/efo3o8/melody_language_compiles_regular"
+    ],
+    [
+      "Melody: a language that compiles to regular expressions and aims to be readable and maintainable",
+      "https://github.com/yoav-lavi/melody"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 22:04:03",
       "https://lobste.rs/s/oetzgy/goofy_program_files_jlink"
     ],
@@ -167,16 +177,6 @@
     [
       "Recursive COW pages in userspace",
       "https://wheybags.com/blog/cow.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 20:42:05",
-      "https://lobste.rs/s/wt0ph7/improving_heroku_postgres_extension"
-    ],
-    [
-      "Improving the Heroku Postgres Extension Experience",
-      "https://blog.heroku.com/improving-the-heroku-postgres-extension-experience"
     ]
   ],
   [
