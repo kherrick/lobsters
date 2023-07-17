@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 13:50:27](https://lobste.rs/s/lzuj8e/what_happens_when_students_switch) - [What Happens When Students Switch (Functional) Languages](https://blog.brownplt.org/2023/07/16/second-lang-fun.html)
 * [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
@@ -14,7 +15,6 @@
 * [2023-07-17, 01:38:47](https://lobste.rs/s/wozbc7/validating_verifying_emails) - [Validating or verifying emails](https://blog.ploeh.dk/2023/07/03/validating-or-verifying-emails/)
 * [2023-07-17, 00:28:20](https://lobste.rs/s/zmkzzf/undocumented_8086_instructions) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
-* [2023-07-16, 23:59:15](https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at) - [Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB](https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/)
 * [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
