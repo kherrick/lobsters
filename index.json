@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 11:28:14",
+      "https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces"
+    ],
+    [
+      "Generating terminal user interfaces with Ratatui + ChatGPT",
+      "https://blog.orhun.dev/ratatui-0-22-0/"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 10:08:46",
       "https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week"
     ],
@@ -107,16 +117,6 @@
     [
       "Melody: a language that compiles to regular expressions and aims to be readable and maintainable",
       "https://github.com/yoav-lavi/melody"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 22:04:03",
-      "https://lobste.rs/s/oetzgy/goofy_program_files_jlink"
-    ],
-    [
-      "Goofy Program Files: jlink",
-      "https://www.mcclimon.org/blog/goofy-program-files-jlink/"
     ]
   ],
   [
