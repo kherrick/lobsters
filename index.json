@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 13:50:27",
+      "https://lobste.rs/s/lzuj8e/what_happens_when_students_switch"
+    ],
+    [
+      "What Happens When Students Switch (Functional) Languages",
+      "https://blog.brownplt.org/2023/07/16/second-lang-fun.html"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 12:01:29",
       "https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice"
     ],
@@ -137,16 +147,6 @@
     [
       "Using XPath in 2023",
       "https://denizaksimsek.com/2023/xpath/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 23:59:15",
-      "https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at"
-    ],
-    [
-      "Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB",
-      "https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/"
     ]
   ],
   [
