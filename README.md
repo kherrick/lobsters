@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 16:59:06](https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys) - [Stop prefixing your UserDefaults keys](https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 * [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 * [2023-07-17, 13:50:27](https://lobste.rs/s/lzuj8e/what_happens_when_students_switch) - [What Happens When Students Switch (Functional) Languages](https://blog.brownplt.org/2023/07/16/second-lang-fun.html)
@@ -19,7 +20,6 @@
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
-* [2023-07-16, 16:42:39](https://lobste.rs/s/gvpg3g/tutorial_quantum_interpreter_150_lines) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 14:05:16](https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
