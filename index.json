@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 16:59:06",
+      "https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys"
+    ],
+    [
+      "Stop prefixing your UserDefaults keys",
+      "https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 16:34:52",
       "https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age"
     ],
@@ -187,16 +197,6 @@
     [
       "Writing a 9P server from scratch",
       "https://blog.aqwari.net/9p/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 16:42:39",
-      "https://lobste.rs/s/gvpg3g/tutorial_quantum_interpreter_150_lines"
-    ],
-    [
-      "A tutorial quantum interpreter in 150 lines of Lisp",
-      "https://www.stylewarning.com/posts/quantum-interpreter/"
     ]
   ],
   [
