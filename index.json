@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-07-16, 11:01:32",
+      "https://lobste.rs/s/it2xsv/no_css_club"
+    ],
+    [
+      "No CSS Club",
+      "https://nocss.club/"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 11:00:31",
       "https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol"
     ],
@@ -237,16 +247,6 @@
     [
       "Goodbye Debian GNU/kFreeBSD",
       "https://blog.aurel32.net/goodbye-kfreebsd.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 07:38:36",
-      "https://lobste.rs/s/uxi00j/month_on_chimera_linux"
-    ],
-    [
-      "A Month on Chimera Linux",
-      "https://bitcannon.net/post/a-month-with-chimera-linux/"
     ]
   ]
 ]
