@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 * [2023-07-17, 13:50:27](https://lobste.rs/s/lzuj8e/what_happens_when_students_switch) - [What Happens When Students Switch (Functional) Languages](https://blog.brownplt.org/2023/07/16/second-lang-fun.html)
 * [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)

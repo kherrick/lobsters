@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 * [2023-07-17, 13:50:27](https://lobste.rs/s/lzuj8e/what_happens_when_students_switch) - [What Happens When Students Switch (Functional) Languages](https://blog.brownplt.org/2023/07/16/second-lang-fun.html)
 * [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)
@@ -12,7 +13,6 @@
 * [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-17, 06:29:04](https://lobste.rs/s/6gcdpd/precompiled_headers) - [Precompiled headers](https://maskray.me/blog/2023-07-16-precompiled-headers)
 * [2023-07-17, 02:23:17](https://lobste.rs/s/mvqdev/three_different_cuts) - [Three Different Cuts](https://matklad.github.io/2023/07/16/three-different-cuts.html)
-* [2023-07-17, 01:38:47](https://lobste.rs/s/wozbc7/validating_verifying_emails) - [Validating or verifying emails](https://blog.ploeh.dk/2023/07/03/validating-or-verifying-emails/)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 23:59:15](https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at) - [Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB](https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/)
 * [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
