@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 20:29:21",
+      "https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix"
+    ],
+    [
+      "Search over 400k historical versions of nix packages at nixhub.io",
+      "http://nixhub.io/"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 20:23:18",
       "https://lobste.rs/s/qt85z1/coroutines_for_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Unauthenticated RCE on a RIGOL oscilloscope",
       "https://tortel.li/post/insecure-scope/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 02:18:50",
-      "https://lobste.rs/s/ugzrkz/perfect_laptop"
-    ],
-    [
-      "The Perfect Laptop",
-      "https://blog.brossia.com/posts/the_perfect_laptop/"
     ]
   ]
 ]
