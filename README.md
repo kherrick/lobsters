@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 10:08:46](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week)
 * [2023-07-17, 09:16:28](https://lobste.rs/s/sz0h4v/validating_firmware_image_integrity) - [Validating Firmware Image Integrity](https://www.youtube.com/watch?v=4-dle5L9REs)
 * [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
 * [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
@@ -15,7 +16,6 @@
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:25:20](https://lobste.rs/s/yslyr1/ill_typed_programs_don_t_evaluate) - [Ill-Typed Programs Don't Evaluate](https://arxiv.org/abs/2307.06928)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
-* [2023-07-16, 17:01:35](https://lobste.rs/s/qso2ol/my_problem_with_four_document_model) - [My Problem With the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-16, 16:42:39](https://lobste.rs/s/gvpg3g/tutorial_quantum_interpreter_150_lines) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 14:05:16](https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
