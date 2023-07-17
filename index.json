@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 22:44:10",
+      "https://lobste.rs/s/uepido/breaking_chains_trusting_trust"
+    ],
+    [
+      "Breaking the Chains of Trusting Trust",
+      "https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 22:06:09",
       "https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml"
     ],
@@ -237,16 +247,6 @@
     [
       "How I run my servers",
       "https://blog.wesleyac.com/posts/how-i-run-my-servers"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 11:00:31",
-      "https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol"
-    ],
-    [
-      "Unauthenticated RCE on a RIGOL oscilloscope",
-      "https://tortel.li/post/insecure-scope/"
     ]
   ]
 ]
