@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 16:34:52",
+      "https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age"
+    ],
+    [
+      "Store age identities inside the TPM: age-plugin-tpm",
+      "https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 15:15:07",
       "https://lobste.rs/s/escer0/daily_driving_windows_vista_2023"
     ],
@@ -137,16 +147,6 @@
     [
       "Using XPath in 2023",
       "https://denizaksimsek.com/2023/xpath/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 23:59:15",
-      "https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at"
-    ],
-    [
-      "Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB",
-      "https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/"
     ]
   ],
   [
