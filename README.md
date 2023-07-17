@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
+* [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-17, 21:22:12](https://lobste.rs/s/hoh0ku/ntp_implementation_elixir) - [NTP Implementation in Elixir](https://0x7f.dev/post/ntp-implementation-in-elixir/)
 * [2023-07-17, 21:13:54](https://lobste.rs/s/vtgkyh/how_long_will_last_intel_macs_be_supported) - [How long will the last Intel Macs be supported?](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/)
 * [2023-07-17, 20:29:21](https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix) - [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
@@ -20,9 +22,7 @@
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
-* [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
-* [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 
