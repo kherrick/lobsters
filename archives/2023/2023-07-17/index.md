@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
+* [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-17, 11:41:26](https://lobste.rs/s/pihpus/imdb_for_terminal_fetch_1000_movies_500) - [IMDB for the terminal. Fetch 1000 movies + 500 series, filter on prefs, get details, where to watch](https://github.com/isene/IMDB)
 * [2023-07-17, 11:28:14](https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces) - [Generating terminal user interfaces with Ratatui + ChatGPT](https://blog.orhun.dev/ratatui-0-22-0/)

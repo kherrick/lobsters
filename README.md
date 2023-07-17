@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
+* [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-17, 11:41:26](https://lobste.rs/s/pihpus/imdb_for_terminal_fetch_1000_movies_500) - [IMDB for the terminal. Fetch 1000 movies + 500 series, filter on prefs, get details, where to watch](https://github.com/isene/IMDB)
 * [2023-07-17, 11:28:14](https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces) - [Generating terminal user interfaces with Ratatui + ChatGPT](https://blog.orhun.dev/ratatui-0-22-0/)
@@ -23,8 +25,6 @@
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 02:18:50](https://lobste.rs/s/ugzrkz/perfect_laptop) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
-* [2023-07-15, 21:46:11](https://lobste.rs/s/qlde4b/recursive_cow_pages_userspace) - [Recursive COW pages in userspace](https://wheybags.com/blog/cow.html)
-* [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
 
 ## [Archives](archives/index.md)
 
