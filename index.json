@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-17, 00:28:20",
+      "https://lobste.rs/s/zmkzzf/undocumented_8086_instructions"
+    ],
+    [
+      "Undocumented 8086 instructions, explained by the microcode",
+      "https://www.righto.com/2023/07/undocumented-8086-instructions.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 00:20:31",
+      "https://lobste.rs/s/tiigtm/using_xpath_2023"
+    ],
+    [
+      "Using XPath in 2023",
+      "https://denizaksimsek.com/2023/xpath/"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 23:59:15",
+      "https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at"
+    ],
+    [
+      "Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB",
+      "https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 22:55:16",
       "https://lobste.rs/s/efo3o8/melody_language_compiles_regular"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-07-15, 23:46:47",
-      "https://lobste.rs/s/cr4yuc/a5k_another_world_on_chip"
-    ],
-    [
-      "a5k: Another World on a chip",
-      "https://github.com/sylefeb/a5k"
-    ]
-  ],
-  [
-    [
       "2023-07-15, 21:46:11",
       "https://lobste.rs/s/qlde4b/recursive_cow_pages_userspace"
     ],
@@ -187,26 +207,6 @@
     [
       "RRUST: A reversible embedded language",
       "https://blog.erk.dev/posts/rrust"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 18:03:41",
-      "https://lobste.rs/s/aocv9o/trouble_with_checked_exceptions_2003"
-    ],
-    [
-      "The Trouble with Checked Exceptions (2003)",
-      "https://www.artima.com/articles/the-trouble-with-checked-exceptions"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 14:40:44",
-      "https://lobste.rs/s/ypb8pa/brismu_relational_interpretation"
-    ],
-    [
-      "brismu: a relational interpretation of Lojban",
-      "https://mostawesomedude.github.io/brismu/"
     ]
   ],
   [
