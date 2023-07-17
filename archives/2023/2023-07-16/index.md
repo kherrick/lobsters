@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 23:59:15](https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at) - [Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB](https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/)
 * [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
 * [2023-07-16, 22:04:03](https://lobste.rs/s/oetzgy/goofy_program_files_jlink) - [Goofy Program Files: jlink](https://www.mcclimon.org/blog/goofy-program-files-jlink/)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
