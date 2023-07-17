@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-17, 06:36:43",
+      "https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat"
+    ],
+    [
+      "PostgreSQL: No More VACUUM, No More Bloat",
+      "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 06:29:04",
+      "https://lobste.rs/s/6gcdpd/precompiled_headers"
+    ],
+    [
+      "Precompiled headers",
+      "https://maskray.me/blog/2023-07-16-precompiled-headers"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 02:23:17",
       "https://lobste.rs/s/mvqdev/three_different_cuts"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-07-16, 11:01:32",
-      "https://lobste.rs/s/it2xsv/no_css_club"
-    ],
-    [
-      "No CSS Club",
-      "https://nocss.club/"
-    ]
-  ],
-  [
-    [
       "2023-07-16, 11:00:31",
       "https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol"
     ],
@@ -217,16 +227,6 @@
     [
       "RRUST: A reversible embedded language",
       "https://blog.erk.dev/posts/rrust"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 14:38:21",
-      "https://lobste.rs/s/nv6o5y/path_implementing_programming_language"
-    ],
-    [
-      "The path to implementing a programming language",
-      "https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md"
     ]
   ],
   [
