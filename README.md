@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 22:44:10](https://lobste.rs/s/uepido/breaking_chains_trusting_trust) - [Breaking the Chains of Trusting Trust](https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf)
 * [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-17, 21:22:12](https://lobste.rs/s/hoh0ku/ntp_implementation_elixir) - [NTP Implementation in Elixir](https://0x7f.dev/post/ntp-implementation-in-elixir/)
@@ -24,7 +25,6 @@
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 18:07:06](https://lobste.rs/s/3qn0bx/writing_9p_server_from_scratch) - [Writing a 9P server from scratch](https://blog.aqwari.net/9p/)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
-* [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 
 ## [Archives](archives/index.md)
 

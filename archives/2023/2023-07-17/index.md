@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 22:44:10](https://lobste.rs/s/uepido/breaking_chains_trusting_trust) - [Breaking the Chains of Trusting Trust](https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf)
 * [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-17, 21:22:12](https://lobste.rs/s/hoh0ku/ntp_implementation_elixir) - [NTP Implementation in Elixir](https://0x7f.dev/post/ntp-implementation-in-elixir/)
