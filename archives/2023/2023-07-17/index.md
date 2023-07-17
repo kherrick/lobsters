@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 23:14:47](https://lobste.rs/s/24o20f/haiku_activity_contract_report_june_2023) - [Haiku Activity & Contract Report, June 2023](https://www.haiku-os.org/blog/waddlesplash/2023-07-14_haiku_activity_contract_report_june_2023/)
 * [2023-07-17, 22:44:10](https://lobste.rs/s/uepido/breaking_chains_trusting_trust) - [Breaking the Chains of Trusting Trust](https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf)
 * [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
