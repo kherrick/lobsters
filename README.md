@@ -18,13 +18,13 @@
 * [2023-07-16, 14:05:16](https://lobste.rs/s/lcl15r/when_open_becomes_opaque_changing_face) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-16, 12:23:01](https://lobste.rs/s/naew9s/i_don_t_know_how_i_feel_about_email) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
+* [2023-07-16, 11:01:32](https://lobste.rs/s/it2xsv/no_css_club) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 11:00:31](https://lobste.rs/s/bpbhhc/unauthenticated_rce_on_rigol) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 02:18:50](https://lobste.rs/s/ugzrkz/perfect_laptop) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-15, 23:48:13](https://lobste.rs/s/j65fea/ada_outperforms_assembly_case_study) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
 * [2023-07-15, 21:46:11](https://lobste.rs/s/qlde4b/recursive_cow_pages_userspace) - [Recursive COW pages in userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-15, 19:24:53](https://lobste.rs/s/quychg/rrust_reversible_embedded_language) - [RRUST: A reversible embedded language](https://blog.erk.dev/posts/rrust)
 * [2023-07-15, 13:56:45](https://lobste.rs/s/uk7a7n/goodbye_debian_gnu_kfreebsd) - [Goodbye Debian GNU/kFreeBSD](https://blog.aurel32.net/goodbye-kfreebsd.html)
-* [2023-07-15, 07:38:36](https://lobste.rs/s/uxi00j/month_on_chimera_linux) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 
 ## [Archives](archives/index.md)
 
