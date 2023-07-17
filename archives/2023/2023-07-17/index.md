@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 21:13:54](https://lobste.rs/s/vtgkyh/how_long_will_last_intel_macs_be_supported) - [How long will the last Intel Macs be supported?](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/)
 * [2023-07-17, 20:29:21](https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix) - [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
 * [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 17:52:31](https://lobste.rs/s/7murwr/remote_server_cloud_running_chatgpt) - [Remote server in cloud but running ChatGPT local](https://many.pw/synapse/remote-vs-local)
