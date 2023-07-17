@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-17, 11:28:14](https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces) - [Generating terminal user interfaces with Ratatui + ChatGPT](https://blog.orhun.dev/ratatui-0-22-0/)
 * [2023-07-17, 10:08:46](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week)
 * [2023-07-17, 09:16:28](https://lobste.rs/s/sz0h4v/validating_firmware_image_integrity) - [Validating Firmware Image Integrity](https://www.youtube.com/watch?v=4-dle5L9REs)
 * [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
@@ -11,7 +12,6 @@
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 23:59:15](https://lobste.rs/s/cb6qlr/paper_notes_distributed_transactions_at) - [Paper Notes: Distributed Transactions at Scale in Amazon DynamoDB](https://distributed-computing-musings.com/2023/07/paper-notes-distributed-transactions-at-scale-in-amazon-dynamodb/)
 * [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
-* [2023-07-16, 22:04:03](https://lobste.rs/s/oetzgy/goofy_program_files_jlink) - [Goofy Program Files: jlink](https://www.mcclimon.org/blog/goofy-program-files-jlink/)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:53:57](https://lobste.rs/s/41tfgr/linux_mint_21_2_victoria_cinnamon) - [Linux Mint 21.2 “Victoria” Cinnamon released](https://blog.linuxmint.com/?p=4543)
 * [2023-07-16, 18:25:20](https://lobste.rs/s/yslyr1/ill_typed_programs_don_t_evaluate) - [Ill-Typed Programs Don't Evaluate](https://arxiv.org/abs/2307.06928)

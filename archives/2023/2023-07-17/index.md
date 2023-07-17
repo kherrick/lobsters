@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 11:28:14](https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces) - [Generating terminal user interfaces with Ratatui + ChatGPT](https://blog.orhun.dev/ratatui-0-22-0/)
 * [2023-07-17, 10:08:46](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week)
 * [2023-07-17, 09:16:28](https://lobste.rs/s/sz0h4v/validating_firmware_image_integrity) - [Validating Firmware Image Integrity](https://www.youtube.com/watch?v=4-dle5L9REs)
 * [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
