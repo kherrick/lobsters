@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 11:41:26",
+      "https://lobste.rs/s/pihpus/imdb_for_terminal_fetch_1000_movies_500"
+    ],
+    [
+      "IMDB for the terminal. Fetch 1000 movies + 500 series, filter on prefs, get details, where to watch",
+      "https://github.com/isene/IMDB"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 11:28:14",
       "https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces"
     ],
@@ -227,16 +237,6 @@
     [
       "Recursive COW pages in userspace",
       "https://wheybags.com/blog/cow.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 19:24:53",
-      "https://lobste.rs/s/quychg/rrust_reversible_embedded_language"
-    ],
-    [
-      "RRUST: A reversible embedded language",
-      "https://blog.erk.dev/posts/rrust"
     ]
   ],
   [
