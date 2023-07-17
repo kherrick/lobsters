@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 17:52:31](https://lobste.rs/s/7murwr/remote_server_cloud_running_chatgpt) - [Remote server in cloud but running ChatGPT local](https://many.pw/synapse/remote-vs-local)
 * [2023-07-17, 16:59:06](https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys) - [Stop prefixing your UserDefaults keys](https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
