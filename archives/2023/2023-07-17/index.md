@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 09:16:28](https://lobste.rs/s/sz0h4v/validating_firmware_image_integrity) - [Validating Firmware Image Integrity](https://www.youtube.com/watch?v=4-dle5L9REs)
 * [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
 * [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-17, 06:29:04](https://lobste.rs/s/6gcdpd/precompiled_headers) - [Precompiled headers](https://maskray.me/blog/2023-07-16-precompiled-headers)
