@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
 * [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
 * [2023-07-18, 15:03:48](https://lobste.rs/s/frenwu/analyzing_go_build_times) - [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 * [2023-07-18, 14:09:53](https://lobste.rs/s/aograx/using_emoji_on_web) - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
@@ -23,7 +24,6 @@
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 * [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-* [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
 * [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
 * [2023-07-18, 15:03:48](https://lobste.rs/s/frenwu/analyzing_go_build_times) - [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 * [2023-07-18, 14:09:53](https://lobste.rs/s/aograx/using_emoji_on_web) - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
