@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 23:04:34](https://lobste.rs/s/zncbhw/market_makers_want_expand_their_use) - [“Market Makers” Want to Expand Their Use of Shortwave](https://www.radioworld.com/tech-and-gear/market-makers-want-to-expand-their-use-of-shortwave)
 * [2023-07-18, 17:24:08](https://lobste.rs/s/fyiwvu/10nes) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
 * [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
@@ -16,7 +17,6 @@
 * [2023-07-18, 05:44:26](https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol) - [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
 * [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 * [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
-* [2023-07-17, 23:14:47](https://lobste.rs/s/24o20f/haiku_activity_contract_report_june_2023) - [Haiku Activity & Contract Report, June 2023](https://www.haiku-os.org/blog/waddlesplash/2023-07-14_haiku_activity_contract_report_june_2023/)
 * [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-17, 21:22:12](https://lobste.rs/s/hoh0ku/ntp_implementation_elixir) - [NTP Implementation in Elixir](https://0x7f.dev/post/ntp-implementation-in-elixir/)
