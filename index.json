@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 12:33:06",
+      "https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on"
+    ],
+    [
+      "Firefox has surpassed Chrome on Speedometer",
+      "https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 11:40:19",
       "https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc"
     ],
@@ -147,16 +157,6 @@
     [
       "Coroutines for Go",
       "https://research.swtch.com/coro"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 16:59:06",
-      "https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys"
-    ],
-    [
-      "Stop prefixing your UserDefaults keys",
-      "https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/"
     ]
   ],
   [
