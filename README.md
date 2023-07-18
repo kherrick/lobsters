@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 * [2023-07-18, 02:06:09](https://lobste.rs/s/bnrp1x/error_recovery_with_parser_combinators) - [Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)
 * [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 * [2023-07-17, 23:14:47](https://lobste.rs/s/24o20f/haiku_activity_contract_report_june_2023) - [Haiku Activity & Contract Report, June 2023](https://www.haiku-os.org/blog/waddlesplash/2023-07-14_haiku_activity_contract_report_june_2023/)
@@ -20,7 +21,6 @@
 * [2023-07-17, 10:08:46](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week)
 * [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
 * [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
-* [2023-07-17, 06:29:04](https://lobste.rs/s/6gcdpd/precompiled_headers) - [Precompiled headers](https://maskray.me/blog/2023-07-16-precompiled-headers)
 * [2023-07-17, 02:23:17](https://lobste.rs/s/mvqdev/three_different_cuts) - [Three Different Cuts](https://matklad.github.io/2023/07/16/three-different-cuts.html)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
