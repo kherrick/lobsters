@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
 * [2023-07-18, 08:49:38](https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c) - [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 * [2023-07-18, 07:34:32](https://lobste.rs/s/n0dwyk/how_deno_works) - [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
 * [2023-07-18, 07:01:13](https://lobste.rs/s/ye7u2v/generate_static_sites_for_reading) - [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
@@ -21,7 +22,6 @@
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-17, 11:41:26](https://lobste.rs/s/pihpus/imdb_for_terminal_fetch_1000_movies_500) - [IMDB for the terminal. Fetch 1000 movies + 500 series, filter on prefs, get details, where to watch](https://github.com/isene/IMDB)
 * [2023-07-17, 11:28:14](https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces) - [Generating terminal user interfaces with Ratatui + ChatGPT](https://blog.orhun.dev/ratatui-0-22-0/)
-* [2023-07-17, 07:14:15](https://lobste.rs/s/vxjy1e/rfc_8927_appreciation_post) - [A RFC 8927 Appreciation Post](https://hire.jonasgalvez.com.br/2023/jul/17/a-rfc-8927-appreciation-post/)
 * [2023-07-17, 06:36:43](https://lobste.rs/s/47fzrd/postgresql_no_more_vacuum_no_more_bloat) - [PostgreSQL: No More VACUUM, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-17, 02:23:17](https://lobste.rs/s/mvqdev/three_different_cuts) - [Three Different Cuts](https://matklad.github.io/2023/07/16/three-different-cuts.html)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
