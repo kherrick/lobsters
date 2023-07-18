@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 05:44:26",
+      "https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol"
+    ],
+    [
+      "Reverse engineering Tesla 2-bus protocol",
+      "https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 03:40:44",
       "https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server"
     ],
@@ -227,16 +237,6 @@
     [
       "Using XPath in 2023",
       "https://denizaksimsek.com/2023/xpath/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 21:01:58",
-      "https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas"
-    ],
-    [
-      "WebGPU — All of the cores, none of the canvas",
-      "https://surma.dev/things/webgpu/"
     ]
   ],
   [
