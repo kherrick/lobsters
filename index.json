@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 02:06:09",
+      "https://lobste.rs/s/bnrp1x/error_recovery_with_parser_combinators"
+    ],
+    [
+      "Error recovery with parser combinators (using nom)",
+      "https://eyalkalderon.com/blog/nom-error-recovery/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 00:07:25",
       "https://lobste.rs/s/jrz3ah/nix_package_versions"
     ],
@@ -217,16 +227,6 @@
     [
       "Using XPath in 2023",
       "https://denizaksimsek.com/2023/xpath/"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 22:55:16",
-      "https://lobste.rs/s/efo3o8/melody_language_compiles_regular"
-    ],
-    [
-      "Melody: a language that compiles to regular expressions and aims to be readable and maintainable",
-      "https://github.com/yoav-lavi/melody"
     ]
   ],
   [
