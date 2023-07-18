@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 02:06:09](https://lobste.rs/s/bnrp1x/error_recovery_with_parser_combinators) - [Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)
 * [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 * [2023-07-17, 23:14:47](https://lobste.rs/s/24o20f/haiku_activity_contract_report_june_2023) - [Haiku Activity & Contract Report, June 2023](https://www.haiku-os.org/blog/waddlesplash/2023-07-14_haiku_activity_contract_report_june_2023/)
 * [2023-07-17, 22:44:10](https://lobste.rs/s/uepido/breaking_chains_trusting_trust) - [Breaking the Chains of Trusting Trust](https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf)
@@ -22,7 +23,6 @@
 * [2023-07-17, 06:29:04](https://lobste.rs/s/6gcdpd/precompiled_headers) - [Precompiled headers](https://maskray.me/blog/2023-07-16-precompiled-headers)
 * [2023-07-17, 02:23:17](https://lobste.rs/s/mvqdev/three_different_cuts) - [Three Different Cuts](https://matklad.github.io/2023/07/16/three-different-cuts.html)
 * [2023-07-17, 00:20:31](https://lobste.rs/s/tiigtm/using_xpath_2023) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
-* [2023-07-16, 22:55:16](https://lobste.rs/s/efo3o8/melody_language_compiles_regular) - [Melody: a language that compiles to regular expressions and aims to be readable and maintainable](https://github.com/yoav-lavi/melody)
 * [2023-07-16, 21:01:58](https://lobste.rs/s/vzoo1p/webgpu_all_cores_none_canvas) - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 11:46:41](https://lobste.rs/s/mzlyyf/how_i_run_my_servers) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 
