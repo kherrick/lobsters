@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
 * [2023-07-18, 15:03:48](https://lobste.rs/s/frenwu/analyzing_go_build_times) - [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 * [2023-07-18, 14:09:53](https://lobste.rs/s/aograx/using_emoji_on_web) - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
 * [2023-07-18, 14:02:24](https://lobste.rs/s/qdyjfx/pointers_far_memory) - [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
