@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 14:09:53",
+      "https://lobste.rs/s/aograx/using_emoji_on_web"
+    ],
+    [
+      "Using emoji on the web",
+      "https://fullystacked.net/posts/using-emoji-on-the-web/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 14:02:24",
       "https://lobste.rs/s/qdyjfx/pointers_far_memory"
     ],
@@ -207,16 +217,6 @@
     [
       "Forth: The programming language that writes itself",
       "http://ratfactor.com/forth/the_programming_language_that_writes_itself.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 11:28:14",
-      "https://lobste.rs/s/mlh2my/generating_terminal_user_interfaces"
-    ],
-    [
-      "Generating terminal user interfaces with Ratatui + ChatGPT",
-      "https://blog.orhun.dev/ratatui-0-22-0/"
     ]
   ],
   [
