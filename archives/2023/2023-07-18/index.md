@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 14:09:53](https://lobste.rs/s/aograx/using_emoji_on_web) - [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)
 * [2023-07-18, 14:02:24](https://lobste.rs/s/qdyjfx/pointers_far_memory) - [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
 * [2023-07-18, 13:06:55](https://lobste.rs/s/es0wh6/forwarding_container_traffic_via_vpn) - [Forwarding container traffic via a VPN in Kubernetes](https://tech.j4m3s.eu/posts/vpn-forwarding-on-k8s/)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
