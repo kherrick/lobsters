@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 15:03:48",
+      "https://lobste.rs/s/frenwu/analyzing_go_build_times"
+    ],
+    [
+      "Analyzing Go Build Times",
+      "https://blog.howardjohn.info/posts/go-build-times/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 14:09:53",
       "https://lobste.rs/s/aograx/using_emoji_on_web"
     ],
@@ -227,16 +237,6 @@
     [
       "PostgreSQL: No More VACUUM, No More Bloat",
       "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 02:23:17",
-      "https://lobste.rs/s/mvqdev/three_different_cuts"
-    ],
-    [
-      "Three Different Cuts",
-      "https://matklad.github.io/2023/07/16/three-different-cuts.html"
     ]
   ],
   [
