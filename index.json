@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 08:49:38",
+      "https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c"
+    ],
+    [
+      "Implementing smart pointers for the C programming language",
+      "https://snai.pe/posts/c-smart-pointers"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 07:34:32",
       "https://lobste.rs/s/n0dwyk/how_deno_works"
     ],
@@ -197,16 +207,6 @@
     [
       "Generating terminal user interfaces with Ratatui + ChatGPT",
       "https://blog.orhun.dev/ratatui-0-22-0/"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 10:08:46",
-      "https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/zwqq3v/what_are_you_doing_this_week"
     ]
   ],
   [
