@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
 * [2023-07-18, 08:49:38](https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c) - [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 * [2023-07-18, 07:34:32](https://lobste.rs/s/n0dwyk/how_deno_works) - [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
@@ -15,7 +16,6 @@
 * [2023-07-17, 21:13:54](https://lobste.rs/s/vtgkyh/how_long_will_last_intel_macs_be_supported) - [How long will the last Intel Macs be supported?](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/)
 * [2023-07-17, 20:29:21](https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix) - [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
 * [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
-* [2023-07-17, 16:59:06](https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys) - [Stop prefixing your UserDefaults keys](https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 * [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 * [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)

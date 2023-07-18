@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
 * [2023-07-18, 09:50:39](https://lobste.rs/s/qpi41u/user_banned_from_github_by_mistake) - [User banned from GitHub by mistake; consequences & correction](https://social.pixie.town/@joepie91/110733995438668688)
 * [2023-07-18, 08:49:38](https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c) - [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
