@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 * [2023-07-17, 23:14:47](https://lobste.rs/s/24o20f/haiku_activity_contract_report_june_2023) - [Haiku Activity & Contract Report, June 2023](https://www.haiku-os.org/blog/waddlesplash/2023-07-14_haiku_activity_contract_report_june_2023/)
 * [2023-07-17, 22:44:10](https://lobste.rs/s/uepido/breaking_chains_trusting_trust) - [Breaking the Chains of Trusting Trust](https://www.aikidev.net/~vagrant/talks/2023/fossy/Breaking_the_Chains_of_Trusting_Trust.pdf)
 * [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
@@ -11,7 +12,6 @@
 * [2023-07-17, 16:59:06](https://lobste.rs/s/pslfyc/stop_prefixing_your_userdefaults_keys) - [Stop prefixing your UserDefaults keys](https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 * [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
-* [2023-07-17, 12:01:29](https://lobste.rs/s/qmow1z/writing_hurl_s_grammar_twice) - [Writing Hurl's grammar, twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 12:00:59](https://lobste.rs/s/uht9sv/what_do_we_need_for_perl_8) - [What do we need for Perl 8?](https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/)
 * [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-17, 11:41:26](https://lobste.rs/s/pihpus/imdb_for_terminal_fetch_1000_movies_500) - [IMDB for the terminal. Fetch 1000 movies + 500 series, filter on prefs, get details, where to watch](https://github.com/isene/IMDB)
