@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 08:49:38](https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c) - [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 * [2023-07-18, 07:34:32](https://lobste.rs/s/n0dwyk/how_deno_works) - [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
 * [2023-07-18, 07:01:13](https://lobste.rs/s/ye7u2v/generate_static_sites_for_reading) - [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
 * [2023-07-18, 05:44:26](https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol) - [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
