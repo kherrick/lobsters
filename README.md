@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
 * [2023-07-18, 23:04:34](https://lobste.rs/s/zncbhw/market_makers_want_expand_their_use) - [“Market Makers” Want to Expand Their Use of Shortwave](https://www.radioworld.com/tech-and-gear/market-makers-want-to-expand-their-use-of-shortwave)
 * [2023-07-18, 17:24:08](https://lobste.rs/s/fyiwvu/10nes) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
@@ -24,7 +25,6 @@
 * [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
 * [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
-* [2023-07-17, 11:54:18](https://lobste.rs/s/xgq91o/forth_programming_language_writes) - [Forth: The programming language that writes itself](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 
 ## [Archives](archives/index.md)
 

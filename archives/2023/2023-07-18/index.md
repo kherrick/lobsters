@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
 * [2023-07-18, 23:04:34](https://lobste.rs/s/zncbhw/market_makers_want_expand_their_use) - [“Market Makers” Want to Expand Their Use of Shortwave](https://www.radioworld.com/tech-and-gear/market-makers-want-to-expand-their-use-of-shortwave)
 * [2023-07-18, 17:24:08](https://lobste.rs/s/fyiwvu/10nes) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
