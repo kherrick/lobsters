@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-19, 01:57:02](https://lobste.rs/s/wufcno/show_1_showrunner_agents_multi_agent) - [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 00:08:22](https://lobste.rs/s/twg9ws/simtigerbeetle_director_s_cut) - [SimTigerBeetle (Director's Cut!)](https://www.youtube.com/watch?v=Vch4BWUVzMM)
 * [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
@@ -19,7 +20,6 @@
 * [2023-07-18, 05:44:26](https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol) - [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
 * [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 * [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
-* [2023-07-17, 22:06:09](https://lobste.rs/s/oulojm/sosml_online_interpreter_for_standard_ml) - [SOSML: The Online Interpreter for Standard ML](https://sosml.org/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-17, 20:29:21](https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix) - [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
 * [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
