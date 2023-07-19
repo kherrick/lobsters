@@ -1,12 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 13:10:11](https://lobste.rs/s/4zcdsi/launching_conversational_ai_over_slack) - [Launching Conversational AI over Slack powered by Struct and OpenAI](https://www.struct.ai/blog/launching-chatgpt-over-slack)
+* [2023-07-19, 13:05:18](https://lobste.rs/s/qyxaya/where_promote_article_about_ruby) - [Where to promote an article about Ruby](https://allaboutcoding.ghinda.com/where-to-promote-an-article-about-ruby)
+* [2023-07-19, 13:01:57](https://lobste.rs/s/zz9fc3/440_million_software_error_at_knight) - [The $440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 * [2023-07-19, 12:19:36](https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via) - [Simple Verification of Rust Programs via Functional Purification (2016)](https://github.com/Kha/masters-thesis/blob/master/main.pdf)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 10:03:11](https://lobste.rs/s/teyaua/binary_sizes_compiler_flags) - [Binary sizes and compiler flags](https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags)
 * [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
-* [2023-07-19, 07:37:14](https://lobste.rs/s/ptxcdy/flashattention_2_faster_attention_with) - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://hazyresearch.stanford.edu/blog/2023-07-17-flash2)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
 * [2023-07-19, 05:15:45](https://lobste.rs/s/k6e3k5/designing_data_structure) - [Designing a Data Structure](http://okasaki.blogspot.com/2008/05/designing-data-structure.html)
 * [2023-07-19, 04:20:00](https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager) - [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
@@ -21,10 +23,8 @@
 * [2023-07-18, 14:02:24](https://lobste.rs/s/qdyjfx/pointers_far_memory) - [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
-* [2023-07-18, 07:01:13](https://lobste.rs/s/ye7u2v/generate_static_sites_for_reading) - [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
 * [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
-* [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
 
 ## [Archives](archives/index.md)
 
