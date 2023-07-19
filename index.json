@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 18:47:47",
+      "https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify"
+    ],
+    [
+      "Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS",
+      "https://github.com/linkdd/tshellout"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 16:49:57",
       "https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution"
     ],
@@ -237,16 +247,6 @@
     [
       "strlcpy and strlcat added to glibc",
       "https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 03:40:44",
-      "https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server"
-    ],
-    [
-      "Announcing Stalwart Mail Server",
-      "https://stalw.art/blog/announcing-mail-server/"
     ]
   ]
 ]
