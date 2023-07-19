@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 10:03:11](https://lobste.rs/s/teyaua/binary_sizes_compiler_flags) - [Binary sizes and compiler flags](https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags)
 * [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
@@ -11,7 +12,6 @@
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-19, 01:57:02](https://lobste.rs/s/wufcno/show_1_showrunner_agents_multi_agent) - [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
-* [2023-07-18, 23:04:34](https://lobste.rs/s/zncbhw/market_makers_want_expand_their_use) - [“Market Makers” Want to Expand Their Use of Shortwave](https://www.radioworld.com/tech-and-gear/market-makers-want-to-expand-their-use-of-shortwave)
 * [2023-07-18, 17:24:08](https://lobste.rs/s/fyiwvu/10nes) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
 * [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
