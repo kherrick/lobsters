@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-19, 17:15:03",
+      "https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal"
+    ],
+    [
+      "Web Environment Integrity Proposal",
+      "https://github.com/RupertBenWiser/Web-Environment-Integrity"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 17:12:32",
       "https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support"
     ],
@@ -147,16 +157,6 @@
     [
       "Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler",
       "https://ferrous-systems.com/ferrocene/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 10:03:11",
-      "https://lobste.rs/s/teyaua/binary_sizes_compiler_flags"
-    ],
-    [
-      "Binary sizes and compiler flags",
-      "https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags"
     ]
   ],
   [
