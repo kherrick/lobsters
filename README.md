@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
+* [2023-07-19, 17:15:03](https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal) - [Web Environment Integrity Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-19, 17:12:32](https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support) - [Finding TLD Typos using ronin-support](https://ronin-rb.dev/blog/2023/07/17/finding-tld-typos-using-ronin-support.html)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 16:42:03](https://lobste.rs/s/vbhpqp/getting_started_with_rust_webassembly) - [Getting started with Rust and WebAssembly](https://grafbase.com/blog/getting-started-with-rust-and-webassembly)
@@ -15,7 +16,6 @@
 * [2023-07-19, 12:39:11](https://lobste.rs/s/f7esjj/death_infosec_twitter) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
 * [2023-07-19, 12:19:36](https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via) - [Simple Verification of Rust Programs via Functional Purification (2016)](https://github.com/Kha/masters-thesis/blob/master/main.pdf)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
-* [2023-07-19, 10:03:11](https://lobste.rs/s/teyaua/binary_sizes_compiler_flags) - [Binary sizes and compiler flags](https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
