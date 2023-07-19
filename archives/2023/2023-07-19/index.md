@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 12:39:11](https://lobste.rs/s/f7esjj/death_infosec_twitter) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
+* [2023-07-19, 12:19:36](https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via) - [Simple Verification of Rust Programs via Functional Purification (2016)](https://github.com/Kha/masters-thesis/blob/master/main.pdf)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 10:03:11](https://lobste.rs/s/teyaua/binary_sizes_compiler_flags) - [Binary sizes and compiler flags](https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags)
 * [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
