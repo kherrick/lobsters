@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-07-18, 14:09:53",
-      "https://lobste.rs/s/aograx/using_emoji_on_web"
-    ],
-    [
-      "Using emoji on the web",
-      "https://fullystacked.net/posts/using-emoji-on-the-web/"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 14:02:24",
       "https://lobste.rs/s/qdyjfx/pointers_far_memory"
     ],
@@ -177,6 +167,16 @@
     [
       "strlcpy and strlcat added to glibc",
       "https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 08:49:38",
+      "https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c"
+    ],
+    [
+      "Implementing smart pointers for the C programming language",
+      "https://snai.pe/posts/c-smart-pointers"
     ]
   ],
   [
