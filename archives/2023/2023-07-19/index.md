@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 20:53:41](https://lobste.rs/s/i0agrs/kraken_technologies_how_we_organise_our) - [Kraken Technologies: How we organise our very large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
 * [2023-07-19, 17:15:03](https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal) - [Web Environment Integrity Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-19, 17:12:32](https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support) - [Finding TLD Typos using ronin-support](https://ronin-rb.dev/blog/2023/07/17/finding-tld-typos-using-ronin-support.html)

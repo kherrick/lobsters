@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 20:53:41](https://lobste.rs/s/i0agrs/kraken_technologies_how_we_organise_our) - [Kraken Technologies: How we organise our very large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
 * [2023-07-19, 17:15:03](https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal) - [Web Environment Integrity Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-19, 17:12:32](https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support) - [Finding TLD Typos using ronin-support](https://ronin-rb.dev/blog/2023/07/17/finding-tld-typos-using-ronin-support.html)
@@ -14,7 +15,6 @@
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-19, 13:01:57](https://lobste.rs/s/zz9fc3/440_million_software_error_at_knight) - [The $440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 * [2023-07-19, 12:39:11](https://lobste.rs/s/f7esjj/death_infosec_twitter) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
-* [2023-07-19, 12:19:36](https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via) - [Simple Verification of Rust Programs via Functional Purification (2016)](https://github.com/Kha/masters-thesis/blob/master/main.pdf)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
