@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-19, 17:12:32",
+      "https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support"
+    ],
+    [
+      "Finding TLD Typos using ronin-support",
+      "https://ronin-rb.dev/blog/2023/07/17/finding-tld-typos-using-ronin-support.html"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 16:49:57",
       "https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution"
     ],
@@ -127,16 +137,6 @@
     [
       "The Death of Infosec Twitter",
       "https://www.cyentia.com/the-death-of-infosec-twitter/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 12:19:36",
-      "https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via"
-    ],
-    [
-      "Simple Verification of Rust Programs via Functional Purification (2016)",
-      "https://github.com/Kha/masters-thesis/blob/master/main.pdf"
     ]
   ],
   [
