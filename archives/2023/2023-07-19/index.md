@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
 * [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:09:54](https://lobste.rs/s/u1qkjx/setting_up_github_actions_run_fstests_for) - [Setting up GitHub Actions to run fstests for Btrfs](https://josefbacik.github.io/kernel/2023/07/18/btrfs-github-ci.html)

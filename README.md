@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
 * [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:09:54](https://lobste.rs/s/u1qkjx/setting_up_github_actions_run_fstests_for) - [Setting up GitHub Actions to run fstests for Btrfs](https://josefbacik.github.io/kernel/2023/07/18/btrfs-github-ci.html)
@@ -12,7 +13,6 @@
 * [2023-07-19, 12:19:36](https://lobste.rs/s/3wi9bd/simple_verification_rust_programs_via) - [Simple Verification of Rust Programs via Functional Purification (2016)](https://github.com/Kha/masters-thesis/blob/master/main.pdf)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 10:03:11](https://lobste.rs/s/teyaua/binary_sizes_compiler_flags) - [Binary sizes and compiler flags](https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags)
-* [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
