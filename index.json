@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 07:59:11",
+      "https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses"
+    ],
+    [
+      "More Software Projects need Defenses of Design",
+      "https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 07:37:14",
       "https://lobste.rs/s/ptxcdy/flashattention_2_faster_attention_with"
     ],
@@ -177,16 +187,6 @@
     [
       "strlcpy and strlcat added to glibc",
       "https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 07:34:32",
-      "https://lobste.rs/s/n0dwyk/how_deno_works"
-    ],
-    [
-      "How Deno works",
-      "https://www.zaynetro.com/post/2023-how-deno-works"
     ]
   ],
   [
