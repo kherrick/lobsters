@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 07:37:14](https://lobste.rs/s/ptxcdy/flashattention_2_faster_attention_with) - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://hazyresearch.stanford.edu/blog/2023-07-17-flash2)

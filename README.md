@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 09:39:48](https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node) - [Development workflow for Leaf Node Monitoring](https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/)
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 07:37:14](https://lobste.rs/s/ptxcdy/flashattention_2_faster_attention_with) - [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://hazyresearch.stanford.edu/blog/2023-07-17-flash2)
@@ -17,7 +18,6 @@
 * [2023-07-18, 15:03:48](https://lobste.rs/s/frenwu/analyzing_go_build_times) - [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 * [2023-07-18, 14:57:01](https://lobste.rs/s/gs5wp3/i_m_moving_my_projects_off_github_2022) - [I'm moving my projects off GitHub (2022)](https://ntietz.com/blog/moving-off-github/)
 * [2023-07-18, 14:02:24](https://lobste.rs/s/qdyjfx/pointers_far_memory) - [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
-* [2023-07-18, 13:06:55](https://lobste.rs/s/es0wh6/forwarding_container_traffic_via_vpn) - [Forwarding container traffic via a VPN in Kubernetes](https://tech.j4m3s.eu/posts/vpn-forwarding-on-k8s/)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
 * [2023-07-18, 07:01:13](https://lobste.rs/s/ye7u2v/generate_static_sites_for_reading) - [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
