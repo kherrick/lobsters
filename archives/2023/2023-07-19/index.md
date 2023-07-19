@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-19, 13:10:11](https://lobste.rs/s/4zcdsi/launching_conversational_ai_over_slack) - [Launching Conversational AI over Slack powered by Struct and OpenAI](https://www.struct.ai/blog/launching-chatgpt-over-slack)
 * [2023-07-19, 13:05:18](https://lobste.rs/s/qyxaya/where_promote_article_about_ruby) - [Where to promote an article about Ruby](https://allaboutcoding.ghinda.com/where-to-promote-an-article-about-ruby)

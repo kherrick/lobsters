@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-19, 13:10:11](https://lobste.rs/s/4zcdsi/launching_conversational_ai_over_slack) - [Launching Conversational AI over Slack powered by Struct and OpenAI](https://www.struct.ai/blog/launching-chatgpt-over-slack)
 * [2023-07-19, 13:01:57](https://lobste.rs/s/zz9fc3/440_million_software_error_at_knight) - [The $440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
@@ -21,7 +22,6 @@
 * [2023-07-18, 16:17:37](https://lobste.rs/s/kl1wdh/11_aspects_good_code) - [The 11 Aspects of Good Code](https://www.pathsensitive.com/2023/07/the-11-aspects-of-good-code.html)
 * [2023-07-18, 15:03:48](https://lobste.rs/s/frenwu/analyzing_go_build_times) - [Analyzing Go Build Times](https://blog.howardjohn.info/posts/go-build-times/)
 * [2023-07-18, 14:57:01](https://lobste.rs/s/gs5wp3/i_m_moving_my_projects_off_github_2022) - [I'm moving my projects off GitHub (2022)](https://ntietz.com/blog/moving-off-github/)
-* [2023-07-18, 14:02:24](https://lobste.rs/s/qdyjfx/pointers_far_memory) - [Pointers in Far Memory](https://queue.acm.org/detail.cfm?id=3606029)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
 * [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
