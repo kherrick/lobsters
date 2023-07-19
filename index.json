@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 14:42:19",
+      "https://lobste.rs/s/dbazgr/disk_is_bunch_bits"
+    ],
+    [
+      "A disk is a bunch of bits",
+      "https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 14:01:35",
       "https://lobste.rs/s/fgde9h/installing_debian_bookworm_without"
     ],
@@ -117,16 +127,6 @@
     [
       "Failed Attempts to Install NixOS on the Raspberry Pi 4",
       "https://mtlynch.io/notes/nixos-pi4-failed-attempts/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 05:15:45",
-      "https://lobste.rs/s/k6e3k5/designing_data_structure"
-    ],
-    [
-      "Designing a Data Structure",
-      "http://okasaki.blogspot.com/2008/05/designing-data-structure.html"
     ]
   ],
   [
