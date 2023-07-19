@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 05:15:45",
+      "https://lobste.rs/s/k6e3k5/designing_data_structure"
+    ],
+    [
+      "Designing a Data Structure",
+      "http://okasaki.blogspot.com/2008/05/designing-data-structure.html"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 04:20:00",
       "https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager"
     ],
@@ -177,16 +187,6 @@
     [
       "Generate static sites for reading subreddit archives",
       "https://github.com/raffomania/aharc"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 05:44:26",
-      "https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol"
-    ],
-    [
-      "Reverse engineering Tesla 2-bus protocol",
-      "https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/"
     ]
   ],
   [
