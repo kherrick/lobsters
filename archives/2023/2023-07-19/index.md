@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
 * [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
+* [2023-07-19, 17:12:32](https://lobste.rs/s/twsvpa/finding_tld_typos_using_ronin_support) - [Finding TLD Typos using ronin-support](https://ronin-rb.dev/blog/2023/07/17/finding-tld-typos-using-ronin-support.html)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 16:42:03](https://lobste.rs/s/vbhpqp/getting_started_with_rust_webassembly) - [Getting started with Rust and WebAssembly](https://grafbase.com/blog/getting-started-with-rust-and-webassembly)
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language](https://ziglang.org/news/0.11.0-postponed-again/)
