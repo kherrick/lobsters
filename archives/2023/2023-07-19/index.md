@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
+* [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:09:54](https://lobste.rs/s/u1qkjx/setting_up_github_actions_run_fstests_for) - [Setting up GitHub Actions to run fstests for Btrfs](https://josefbacik.github.io/kernel/2023/07/18/btrfs-github-ci.html)
 * [2023-07-19, 14:42:19](https://lobste.rs/s/dbazgr/disk_is_bunch_bits) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
