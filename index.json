@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 15:42:58",
+      "https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more"
+    ],
+    [
+      "The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language",
+      "https://ziglang.org/news/0.11.0-postponed-again/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 15:31:21",
       "https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b"
     ],
@@ -117,16 +127,6 @@
     [
       "Binary sizes and compiler flags",
       "https://www.sandordargo.com/blog/2023/07/19/binary-sizes-and-compiler-flags"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 09:39:48",
-      "https://lobste.rs/s/t0fcov/development_workflow_for_leaf_node"
-    ],
-    [
-      "Development workflow for Leaf Node Monitoring",
-      "https://www.leafnode.nl/news/development-workflow-for-leaf-node-monitoring/"
     ]
   ],
   [
