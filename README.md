@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 05:15:45](https://lobste.rs/s/k6e3k5/designing_data_structure) - [Designing a Data Structure](http://okasaki.blogspot.com/2008/05/designing-data-structure.html)
 * [2023-07-19, 04:20:00](https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager) - [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
 * [2023-07-19, 04:08:40](https://lobste.rs/s/v7lyl8/moonpool_commodity_thread_pools_for) - [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
@@ -18,7 +19,6 @@
 * [2023-07-18, 08:49:38](https://lobste.rs/s/oqy0yw/implementing_smart_pointers_for_c) - [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 * [2023-07-18, 07:34:32](https://lobste.rs/s/n0dwyk/how_deno_works) - [How Deno works](https://www.zaynetro.com/post/2023-how-deno-works)
 * [2023-07-18, 07:01:13](https://lobste.rs/s/ye7u2v/generate_static_sites_for_reading) - [Generate static sites for reading subreddit archives](https://github.com/raffomania/aharc)
-* [2023-07-18, 05:44:26](https://lobste.rs/s/r9s1gl/reverse_engineering_tesla_2_bus_protocol) - [Reverse engineering Tesla 2-bus protocol](https://blog.danman.eu/reverse-engineering-tesla-2-bus-protocol/)
 * [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 * [2023-07-18, 00:07:25](https://lobste.rs/s/jrz3ah/nix_package_versions) - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 * [2023-07-17, 22:02:15](https://lobste.rs/s/t9r5ci/ten_years_go_good_bad_meh) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)

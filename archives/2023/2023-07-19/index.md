@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 05:15:45](https://lobste.rs/s/k6e3k5/designing_data_structure) - [Designing a Data Structure](http://okasaki.blogspot.com/2008/05/designing-data-structure.html)
 * [2023-07-19, 04:20:00](https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager) - [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
 * [2023-07-19, 04:08:40](https://lobste.rs/s/v7lyl8/moonpool_commodity_thread_pools_for) - [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
