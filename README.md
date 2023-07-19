@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 16:42:03](https://lobste.rs/s/vbhpqp/getting_started_with_rust_webassembly) - [Getting started with Rust and WebAssembly](https://grafbase.com/blog/getting-started-with-rust-and-webassembly)
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language](https://ziglang.org/news/0.11.0-postponed-again/)
@@ -24,7 +25,6 @@
 * [2023-07-18, 14:57:01](https://lobste.rs/s/gs5wp3/i_m_moving_my_projects_off_github_2022) - [I'm moving my projects off GitHub (2022)](https://ntietz.com/blog/moving-off-github/)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:40:19](https://lobste.rs/s/vqgjvx/strlcpy_strlcat_added_glibc) - [strlcpy and strlcat added to glibc](https://zine.dev/2023/07/strlcpy-and-strlcat-added-to-glibc/)
-* [2023-07-18, 03:40:44](https://lobste.rs/s/ltsn2o/announcing_stalwart_mail_server) - [Announcing Stalwart Mail Server](https://stalw.art/blog/announcing-mail-server/)
 
 ## [Archives](archives/index.md)
 
