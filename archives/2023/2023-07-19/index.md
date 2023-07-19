@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 04:20:00](https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager) - [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
+* [2023-07-19, 04:08:40](https://lobste.rs/s/v7lyl8/moonpool_commodity_thread_pools_for) - [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-19, 01:57:02](https://lobste.rs/s/wufcno/show_1_showrunner_agents_multi_agent) - [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 00:08:22](https://lobste.rs/s/twg9ws/simtigerbeetle_director_s_cut) - [SimTigerBeetle (Director's Cut!)](https://www.youtube.com/watch?v=Vch4BWUVzMM)

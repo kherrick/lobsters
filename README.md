@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 04:20:00](https://lobste.rs/s/seyi9l/postgres_partition_pains_lockmanager) - [Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits)
+* [2023-07-19, 04:08:40](https://lobste.rs/s/v7lyl8/moonpool_commodity_thread_pools_for) - [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-19, 01:57:02](https://lobste.rs/s/wufcno/show_1_showrunner_agents_multi_agent) - [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
-* [2023-07-19, 00:08:22](https://lobste.rs/s/twg9ws/simtigerbeetle_director_s_cut) - [SimTigerBeetle (Director's Cut!)](https://www.youtube.com/watch?v=Vch4BWUVzMM)
 * [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
 * [2023-07-18, 17:24:08](https://lobste.rs/s/fyiwvu/10nes) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 17:06:50](https://lobste.rs/s/gpar6n/weaknesses_smalltalk_are_strengths) - [The Weaknesses of Smalltalk are the Strengths of Erlang (2011)](https://eighty-twenty.org/2011/05/08/weaknesses-of-smalltalk-strengths-of-erlang#comments)
@@ -24,7 +25,6 @@
 * [2023-07-17, 20:29:21](https://lobste.rs/s/1dm07z/search_over_400k_historical_versions_nix) - [Search over 400k historical versions of nix packages at nixhub.io](http://nixhub.io/)
 * [2023-07-17, 20:23:18](https://lobste.rs/s/qt85z1/coroutines_for_go) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 16:34:52](https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age) - [Store age identities inside the TPM: age-plugin-tpm](https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/)
-* [2023-07-17, 15:15:07](https://lobste.rs/s/escer0/daily_driving_windows_vista_2023) - [Daily Driving Windows Vista in 2023](https://www.lilysthings.org/blog/vista-in-2023/)
 
 ## [Archives](archives/index.md)
 
