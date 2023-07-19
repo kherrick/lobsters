@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 08:54:59",
+      "https://lobste.rs/s/iqllt0/limited_by_committee"
+    ],
+    [
+      "Limited by committee",
+      "https://stitcher.io/blog/limited-by-committee"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 07:59:11",
       "https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses"
     ],
@@ -237,16 +247,6 @@
     [
       "Coroutines for Go",
       "https://research.swtch.com/coro"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 16:34:52",
-      "https://lobste.rs/s/zj5d2r/store_age_identities_inside_tpm_age"
-    ],
-    [
-      "Store age identities inside the TPM: age-plugin-tpm",
-      "https://linderud.dev/blog/store-age-identities-inside-the-tpm-age-plugin-tpm/"
     ]
   ]
 ]
