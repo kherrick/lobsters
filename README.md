@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 16:42:03](https://lobste.rs/s/vbhpqp/getting_started_with_rust_webassembly) - [Getting started with Rust and WebAssembly](https://grafbase.com/blog/getting-started-with-rust-and-webassembly)
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions Zig Programming Language](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
@@ -17,7 +18,6 @@
 * [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
-* [2023-07-19, 05:15:45](https://lobste.rs/s/k6e3k5/designing_data_structure_2008) - [Designing a Data Structure (2008)](http://okasaki.blogspot.com/2008/05/designing-data-structure.html)
 * [2023-07-19, 04:08:40](https://lobste.rs/s/v7lyl8/moonpool_commodity_thread_pools_for) - [Moonpool: commodity thread pools for OCaml 5](https://github.com/c-cube/moonpool/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
