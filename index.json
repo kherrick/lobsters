@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-20, 18:04:09",
+      "https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth"
+    ],
+    [
+      "Nvidia’s H100: Funny L2, and Tons of Bandwidth",
+      "https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 18:01:52",
+      "https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not"
+    ],
+    [
+      "Extending native JS prototypes is not such a crazy idea with symbols",
+      "https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 17:47:02",
       "https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-07-20, 06:16:28",
-      "https://lobste.rs/s/aoipul/announcing_rspack"
-    ],
-    [
-      "Announcing Rspack",
-      "https://www.rspack.dev/blog/announcement.html"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 05:04:32",
       "https://lobste.rs/s/jfbezc/minigpt4_cpp"
     ],
@@ -177,16 +187,6 @@
     [
       "Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS",
       "https://github.com/linkdd/tshellout"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 17:15:03",
-      "https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal"
-    ],
-    [
-      "Web Environment Integrity Proposal",
-      "https://github.com/RupertBenWiser/Web-Environment-Integrity"
     ]
   ],
   [
