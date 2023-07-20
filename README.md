@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 06:16:28](https://lobste.rs/s/aoipul/announcing_rspack) - [Announcing Rspack](https://www.rspack.dev/blog/announcement.html)
 * [2023-07-20, 05:23:09](https://lobste.rs/s/v3nsuc/porting_my_c_game_engine_android) - [Porting my C++ game engine to Android](https://lisyarus.github.io/blog/programming/2023/07/19/porting-for-android.html)
 * [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
@@ -19,7 +20,6 @@
 * [2023-07-19, 13:01:57](https://lobste.rs/s/zz9fc3/440_million_software_error_at_knight) - [The $440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html)
 * [2023-07-19, 12:39:11](https://lobste.rs/s/f7esjj/death_infosec_twitter) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
-* [2023-07-19, 08:54:59](https://lobste.rs/s/iqllt0/limited_by_committee) - [Limited by committee](https://stitcher.io/blog/limited-by-committee)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)

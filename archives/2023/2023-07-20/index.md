@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 06:16:28](https://lobste.rs/s/aoipul/announcing_rspack) - [Announcing Rspack](https://www.rspack.dev/blog/announcement.html)
 * [2023-07-20, 05:23:09](https://lobste.rs/s/v3nsuc/porting_my_c_game_engine_android) - [Porting my C++ game engine to Android](https://lisyarus.github.io/blog/programming/2023/07/19/porting-for-android.html)
 * [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
