@@ -6,7 +6,7 @@
 * [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
 * [2023-07-20, 17:47:02](https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early) - [Installing Debian on a MacBook Air Early 2014](https://jchri.st/blog/installing-debian-on-a-macbook-air/)
 * [2023-07-20, 17:20:16](https://lobste.rs/s/hq1sdr/http_has_become_default_universal) - [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
-* [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
+* [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Federated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
 * [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 14:48:54](https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers) - [Building for Failure: Hidden dangers in Event-Driven Systems](https://encore.dev/blog/building-for-failure)
