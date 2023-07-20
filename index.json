@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-07-20, 06:16:28",
+      "https://lobste.rs/s/aoipul/announcing_rspack"
+    ],
+    [
+      "Announcing Rspack",
+      "https://www.rspack.dev/blog/announcement.html"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 05:04:32",
       "https://lobste.rs/s/jfbezc/minigpt4_cpp"
     ],
@@ -177,16 +187,6 @@
     [
       "Kevin Mitnick - Obituary",
       "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 18:47:47",
-      "https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify"
-    ],
-    [
-      "Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS",
-      "https://github.com/linkdd/tshellout"
     ]
   ],
   [
