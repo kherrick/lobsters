@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-20, 22:39:15",
+      "https://lobste.rs/s/ic3ajh/shrinking_vs_code_with_name_mangling"
+    ],
+    [
+      "Shrinking VS Code with name mangling",
+      "https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 19:29:00",
       "https://lobste.rs/s/kqbrqp/data_oriented_design_on_playdate"
     ],
@@ -147,16 +157,6 @@
     [
       "Sub-pixel Distance Transform",
       "https://acko.net/blog/subpixel-distance-transform/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 06:16:28",
-      "https://lobste.rs/s/aoipul/announcing_rspack"
-    ],
-    [
-      "Announcing Rspack",
-      "https://www.rspack.dev/blog/announcement.html"
     ]
   ],
   [
