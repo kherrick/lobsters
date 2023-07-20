@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 22:39:15](https://lobste.rs/s/ic3ajh/shrinking_vs_code_with_name_mangling) - [Shrinking VS Code with name mangling](https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode)
 * [2023-07-20, 19:29:00](https://lobste.rs/s/kqbrqp/data_oriented_design_on_playdate) - [Data Oriented Design on PlayDate](https://news.play.date/news/gun-trails/)
 * [2023-07-20, 19:09:51](https://lobste.rs/s/6mke7e/mojo_dynamism) - [Mojo and Dynamism](https://github.com/modularml/mojo/discussions/466)
 * [2023-07-20, 18:04:09](https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
