@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 09:39:56](https://lobste.rs/s/ynapft/django_parametrized_tests_for_all_model) - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/)
 * [2023-07-20, 06:16:28](https://lobste.rs/s/aoipul/announcing_rspack) - [Announcing Rspack](https://www.rspack.dev/blog/announcement.html)
 * [2023-07-20, 05:23:09](https://lobste.rs/s/v3nsuc/porting_my_c_game_engine_android) - [Porting my C++ game engine to Android](https://lisyarus.github.io/blog/programming/2023/07/19/porting-for-android.html)
 * [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
@@ -23,7 +24,6 @@
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 05:45:12](https://lobste.rs/s/vvhy5g/failed_attempts_install_nixos_on) - [Failed Attempts to Install NixOS on the Raspberry Pi 4](https://mtlynch.io/notes/nixos-pi4-failed-attempts/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
-* [2023-07-18, 23:23:40](https://lobste.rs/s/rzdbst/faq_on_500_mile_email) - [FAQ on the 500-mile email](https://www.ibiblio.org/harris/500milemail-faq.html)
 * [2023-07-18, 12:33:06](https://lobste.rs/s/vyhyka/firefox_has_surpassed_chrome_on) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 
 ## [Archives](archives/index.md)
