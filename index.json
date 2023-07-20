@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-20, 15:08:04",
+      "https://lobste.rs/s/wupk7c/azorius_0_1"
+    ],
+    [
+      "azorius 0.1",
+      "https://flak.tedunangst.com/post/azorius-01"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 14:48:54",
       "https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers"
     ],
     [
-      "Building for Failure: Hidden dangers in Event-Driven Systems – Encore Blog",
+      "Building for Failure: Hidden dangers in Event-Driven Systems",
       "https://encore.dev/blog/building-for-failure"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "A visual tree iterator in Rust",
       "https://blog.danieljanus.pl/2023/07/20/iterating-trees/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 20:53:41",
-      "https://lobste.rs/s/i0agrs/kraken_technologies_how_we_organise_our"
-    ],
-    [
-      "Kraken Technologies: How we organise our very large Python monolith",
-      "https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/"
     ]
   ],
   [
