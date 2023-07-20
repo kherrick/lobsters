@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 18:04:09](https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
+* [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
 * [2023-07-20, 17:47:02](https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early) - [Installing Debian on a MacBook Air Early 2014](https://jchri.st/blog/installing-debian-on-a-macbook-air/)
 * [2023-07-20, 17:20:16](https://lobste.rs/s/hq1sdr/http_has_become_default_universal) - [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
 * [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
