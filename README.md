@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 14:48:54](https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers) - [Building for Failure: Hidden dangers in Event-Driven Systems](https://encore.dev/blog/building-for-failure)
 * [2023-07-20, 13:59:02](https://lobste.rs/s/952inv/helping_arm_for_panfrost) - [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
@@ -21,7 +22,6 @@
 * [2023-07-19, 14:42:19](https://lobste.rs/s/dbazgr/disk_is_bunch_bits) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
-* [2023-07-19, 12:39:11](https://lobste.rs/s/f7esjj/death_infosec_twitter) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)

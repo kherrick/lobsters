@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 14:48:54](https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers) - [Building for Failure: Hidden dangers in Event-Driven Systems – Encore Blog](https://encore.dev/blog/building-for-failure)
 * [2023-07-20, 13:59:02](https://lobste.rs/s/952inv/helping_arm_for_panfrost) - [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
