@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
 * [2023-07-20, 16:11:35](https://lobste.rs/s/mlrde5/hot_summer_kde_akademy_2023_thessaloniki) - [Hot Summer KDE Akademy 2023 in Thessaloniki](https://blog.broulik.de/2023/07/hot-summer-akademy-2023-in-thessaloniki/)
 * [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
@@ -20,7 +21,6 @@
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
-* [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-19, 11:19:11](https://lobste.rs/s/qhohlx/ferrocene_iso_26262_iec_61508_qualified) - [Ferrocene -  ISO 26262 and IEC 61508 qualified rust compiler](https://ferrous-systems.com/ferrocene/)
 * [2023-07-19, 07:59:11](https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses) - [More Software Projects need Defenses of Design](https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/)
