@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 14:48:54](https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers) - [Building for Failure: Hidden dangers in Event-Driven Systems – Encore Blog](https://encore.dev/blog/building-for-failure)
 * [2023-07-20, 13:59:02](https://lobste.rs/s/952inv/helping_arm_for_panfrost) - [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
 * [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
