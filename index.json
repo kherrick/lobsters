@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-20, 17:20:16",
+      "https://lobste.rs/s/hq1sdr/http_has_become_default_universal"
+    ],
+    [
+      "HTTP has become the default, universal communication protocol",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 16:52:05",
       "https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted"
     ],
@@ -147,16 +157,6 @@
     [
       "Kevin Mitnick - Obituary",
       "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 00:17:33",
-      "https://lobste.rs/s/tazi2p/visual_tree_iterator_rust"
-    ],
-    [
-      "A visual tree iterator in Rust",
-      "https://blog.danieljanus.pl/2023/07/20/iterating-trees/"
     ]
   ],
   [
