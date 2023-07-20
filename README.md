@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
 * [2023-07-20, 12:54:49](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust) - [What I Learned Building a CLI App in Rust](http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/)
 * [2023-07-20, 11:02:06](https://lobste.rs/s/9l5flh/sub_pixel_distance_transform_acko_net) - [Sub-pixel Distance Transform — Acko.net](https://acko.net/blog/subpixel-distance-transform/)
 * [2023-07-20, 09:39:56](https://lobste.rs/s/ynapft/django_parametrized_tests_for_all_model) - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/)
@@ -14,7 +15,6 @@
 * [2023-07-19, 17:15:03](https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal) - [Web Environment Integrity Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
-* [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
 * [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 14:42:19](https://lobste.rs/s/dbazgr/disk_is_bunch_bits) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
