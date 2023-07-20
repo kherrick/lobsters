@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 19:29:00](https://lobste.rs/s/kqbrqp/data_oriented_design_on_playdate) - [Data Oriented Design on PlayDate](https://news.play.date/news/gun-trails/)
 * [2023-07-20, 19:09:51](https://lobste.rs/s/6mke7e/mojo_dynamism) - [Mojo and Dynamism](https://github.com/modularml/mojo/discussions/466)
 * [2023-07-20, 18:04:09](https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
@@ -14,7 +15,6 @@
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
 * [2023-07-20, 12:54:49](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust) - [What I Learned Building a CLI App in Rust](http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/)
 * [2023-07-20, 11:02:06](https://lobste.rs/s/9l5flh/sub_pixel_distance_transform) - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-* [2023-07-20, 09:39:56](https://lobste.rs/s/ynapft/django_parametrized_tests_for_all_model) - [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/)
 * [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
