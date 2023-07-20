@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-20](index.md)
+
+* [2023-07-20, 00:17:33](https://lobste.rs/s/tazi2p/visual_tree_iterator_rust) - [A visual tree iterator in Rust](https://blog.danieljanus.pl/2023/07/20/iterating-trees/)

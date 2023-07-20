@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-20, 00:17:33](https://lobste.rs/s/tazi2p/visual_tree_iterator_rust) - [A visual tree iterator in Rust](https://blog.danieljanus.pl/2023/07/20/iterating-trees/)
 * [2023-07-19, 20:53:41](https://lobste.rs/s/i0agrs/kraken_technologies_how_we_organise_our) - [Kraken Technologies: How we organise our very large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-19, 18:47:47](https://lobste.rs/s/wvyfxf/typescript_shell_out_library_simplify) - [Typescript Shell Out library, to simplify writing and composing shell commands for NodeJS](https://github.com/linkdd/tshellout)
 * [2023-07-19, 17:15:03](https://lobste.rs/s/tsu4lg/web_environment_integrity_proposal) - [Web Environment Integrity Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
@@ -9,7 +10,6 @@
 * [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 15:31:21](https://lobste.rs/s/xm8yyj/most_elegant_search_data_structure_b) - [The most elegant search data structure | (a,b)-trees](https://youtube.com/watch?v=lifFgyB77zc)
 * [2023-07-19, 15:29:57](https://lobste.rs/s/nbcn3g/simply_parse_c) - [Simply parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
-* [2023-07-19, 15:09:54](https://lobste.rs/s/u1qkjx/setting_up_github_actions_run_fstests_for) - [Setting up GitHub Actions to run fstests for Btrfs](https://josefbacik.github.io/kernel/2023/07/18/btrfs-github-ci.html)
 * [2023-07-19, 14:42:19](https://lobste.rs/s/dbazgr/disk_is_bunch_bits) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:01:35](https://lobste.rs/s/fgde9h/installing_debian_bookworm_without) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:29:24](https://lobste.rs/s/3fta7g/rfc_9420_aka_messaging_layer_security_mls) - [RFC 9420 aka Messaging Layer Security (MLS) - An Overview](https://blog.phnx.im/rfc-9420-mls/)
