@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 17:20:16](https://lobste.rs/s/hq1sdr/http_has_become_default_universal) - [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
 * [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
 * [2023-07-20, 16:11:35](https://lobste.rs/s/mlrde5/hot_summer_kde_akademy_2023_thessaloniki) - [Hot Summer KDE Akademy 2023 in Thessaloniki](https://blog.broulik.de/2023/07/hot-summer-akademy-2023-in-thessaloniki/)
 * [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
