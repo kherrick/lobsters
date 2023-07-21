@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-07-20, 19:09:51",
-      "https://lobste.rs/s/6mke7e/mojo_dynamism"
-    ],
-    [
-      "Mojo and Dynamism",
-      "https://github.com/modularml/mojo/discussions/466"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 18:04:09",
       "https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth"
     ],
@@ -237,6 +227,16 @@
     [
       "CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent",
       "https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 15:42:58",
+      "https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more"
+    ],
+    [
+      "The Upcoming Release Postponed Two More Weeks and Lacks Async Functions",
+      "https://ziglang.org/news/0.11.0-postponed-again/"
     ]
   ],
   [
