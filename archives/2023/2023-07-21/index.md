@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 21:15:24](https://lobste.rs/s/2loemw/queryability_sublime_mediocrity_sql) - [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
 * [2023-07-21, 20:27:13](https://lobste.rs/s/leiy1a/testing_sudo_rs_improving_sudo_along_way) - [Testing sudo-rs and improving sudo along the way](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-07-21, 19:17:35](https://lobste.rs/s/wpvb7v/ihp_v1_1_has_been_released) - [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
 * [2023-07-21, 18:45:52](https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without) - [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
