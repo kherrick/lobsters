@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 12:49:19](https://lobste.rs/s/tl6toa/rsbac_extending_linux_security_beyond) - [RSBAC: Extending Linux Security Beyond the Limits](https://www.rsbac.org/)
 * [2023-07-21, 12:15:26](https://lobste.rs/s/geckto/small_joys_programming_odin) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 09:14:13](https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80) - [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
