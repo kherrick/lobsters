@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-21, 22:15:50",
+      "https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis"
+    ],
+    [
+      "A 17th-century font in a 21st-century thesis",
+      "https://www.linyangchen.com/Typography-Fell-Types-font"
+    ]
+  ],
+  [
+    [
+      "2023-07-21, 22:15:39",
+      "https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016"
+    ],
+    [
+      "A Novice’s Intro to XSLT (2016)",
+      "https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 21:26:42",
       "https://lobste.rs/s/jr48n1/threads_goroutines"
     ],
@@ -57,16 +77,6 @@
     [
       "Async cancel safety in lilos: Mutex without lock, Queue without push",
       "https://cliffle.com/blog/lilos-cancel-safety/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 16:44:20",
-      "https://lobste.rs/s/1axynl/we_ve_got_vulkan_memory_allocator_at_home"
-    ],
-    [
-      "We've Got A Vulkan Memory Allocator At Home",
-      "https://nega.tv/writing-your-own-vulkan-memory-allocator/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Data Oriented Design on PlayDate",
       "https://news.play.date/news/gun-trails/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 18:01:52",
-      "https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not"
-    ],
-    [
-      "Extending native JS prototypes is not such a crazy idea with symbols",
-      "https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l"
     ]
   ],
   [
