@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 23:47:43](https://lobste.rs/s/k3uuzr/using_prolog_windows_nt_network) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm)
+* [2023-07-21, 23:44:17](https://lobste.rs/s/sw3xhb/updating_freebsd_on_armv6_board_rpi_b) - [Updating FreeBSD on armv6 board (RPI-B)](https://smallhacks.wordpress.com/2023/07/20/updating-freebsd-on-armv6-board-rpi-b/)
 * [2023-07-21, 22:45:56](https://lobste.rs/s/nt73mu/exploiting_puafs) - [Exploiting PUAFs](https://github.com/felix-pb/kfd/blob/main/writeups/exploiting-puafs.md)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
