@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-21, 13:41:12](https://lobste.rs/s/jueifh/my_infrastructure_megaupdate) - [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
-* [2023-07-21, 13:34:20](https://lobste.rs/s/sosrbv/modern_platform_for_content_creation) - [A Modern Platform for Content Creation](https://persumi.com/c/persumi/u/fredwu/p/welcome-to-persumi-a-modern-platform-for-content-creation)
 * [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
 * [2023-07-21, 12:59:20](https://lobste.rs/s/5jixfa/decoding_acl_paper_gzip_knn_rival_bert) - [Decoding the ACL Paper: Gzip and KNN Rival BERT in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-21, 12:49:19](https://lobste.rs/s/tl6toa/rsbac_extending_linux_security_beyond) - [RSBAC: Extending Linux Security Beyond the Limits](https://www.rsbac.org/)
@@ -12,6 +11,7 @@
 * [2023-07-21, 03:59:40](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been) - [Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been)
 * [2023-07-21, 01:06:20](https://lobste.rs/s/fovgks/tsnsrv_easily_accessing_services_on_your) - [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
 * [2023-07-21, 00:24:20](https://lobste.rs/s/ipsb7h/bilithification) - [Bilithification](https://blog.glyph.im/2023/07/bilithification.html)
+* [2023-07-20, 22:39:15](https://lobste.rs/s/ic3ajh/shrinking_vs_code_with_name_mangling) - [Shrinking VS Code with name mangling](https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode)
 * [2023-07-20, 19:29:00](https://lobste.rs/s/kqbrqp/data_oriented_design_on_playdate) - [Data Oriented Design on PlayDate](https://news.play.date/news/gun-trails/)
 * [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
 * [2023-07-20, 17:47:02](https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early) - [Installing Debian on a MacBook Air Early 2014](https://jchri.st/blog/installing-debian-on-a-macbook-air/)
