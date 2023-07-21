@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-21, 12:04:24",
+      "https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from"
+    ],
+    [
+      "Rethinking infrastructure as code from scratch",
+      "https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 09:14:13",
       "https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80"
     ],
@@ -17,16 +27,6 @@
     [
       "Nanosecond timestamp collisions are common",
       "https://www.evanjones.ca/nanosecond-collisions.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 07:16:34",
-      "https://lobste.rs/s/usralk/building_cost_effective_logging"
-    ],
-    [
-      "Building a cost-effective logging platform using ClickHouse for petabyte scale",
-      "https://www.zomato.com/blog/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale"
     ]
   ],
   [
