@@ -6,7 +6,6 @@
 * [2023-07-21, 00:24:20](https://lobste.rs/s/ipsb7h/bilithification) - [Bilithification](https://blog.glyph.im/2023/07/bilithification.html)
 * [2023-07-20, 22:39:15](https://lobste.rs/s/ic3ajh/shrinking_vs_code_with_name_mangling) - [Shrinking VS Code with name mangling](https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode)
 * [2023-07-20, 19:29:00](https://lobste.rs/s/kqbrqp/data_oriented_design_on_playdate) - [Data Oriented Design on PlayDate](https://news.play.date/news/gun-trails/)
-* [2023-07-20, 19:09:51](https://lobste.rs/s/6mke7e/mojo_dynamism) - [Mojo and Dynamism](https://github.com/modularml/mojo/discussions/466)
 * [2023-07-20, 18:04:09](https://lobste.rs/s/2tre0h/nvidia_s_h100_funny_l2_tons_bandwidth) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
 * [2023-07-20, 17:47:02](https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early) - [Installing Debian on a MacBook Air Early 2014](https://jchri.st/blog/installing-debian-on-a-macbook-air/)
@@ -24,6 +23,7 @@
 * [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
+* [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 
 ## [Archives](archives/index.md)
