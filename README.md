@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 12:15:26](https://lobste.rs/s/geckto/small_joys_programming_odin) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 09:14:13](https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80) - [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
@@ -22,7 +23,6 @@
 * [2023-07-20, 12:54:49](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust) - [What I Learned Building a CLI App in Rust](http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/)
 * [2023-07-20, 11:02:06](https://lobste.rs/s/9l5flh/sub_pixel_distance_transform) - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 * [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
-* [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 
