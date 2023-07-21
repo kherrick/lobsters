@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-21, 19:17:35",
+      "https://lobste.rs/s/wpvb7v/ihp_v1_1_has_been_released"
+    ],
+    [
+      "IHP v1.1 has been released",
+      "https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 18:45:52",
       "https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without"
     ],
@@ -167,16 +177,6 @@
     [
       "Extending native JS prototypes is not such a crazy idea with symbols",
       "https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 17:47:02",
-      "https://lobste.rs/s/pvygoo/installing_debian_on_macbook_air_early"
-    ],
-    [
-      "Installing Debian on a MacBook Air Early 2014",
-      "https://jchri.st/blog/installing-debian-on-a-macbook-air/"
     ]
   ],
   [
