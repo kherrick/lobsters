@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-21, 09:14:13",
+      "https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80"
+    ],
+    [
+      "HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators",
+      "https://sarahkmarr.com/retrohp1973.html"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 08:10:18",
       "https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are"
     ],
@@ -147,16 +157,6 @@
     [
       "azorius 0.1",
       "https://flak.tedunangst.com/post/azorius-01"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 14:48:54",
-      "https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers"
-    ],
-    [
-      "Building for Failure: Hidden dangers in Event-Driven Systems",
-      "https://encore.dev/blog/building-for-failure"
     ]
   ],
   [
