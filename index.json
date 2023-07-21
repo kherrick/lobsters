@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-21, 23:47:43",
+      "https://lobste.rs/s/k3uuzr/using_prolog_windows_nt_network"
+    ],
+    [
+      "Using Prolog in Windows NT Network Configuration (1996)",
+      "https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm"
+    ]
+  ],
+  [
+    [
+      "2023-07-21, 23:44:17",
+      "https://lobste.rs/s/sw3xhb/updating_freebsd_on_armv6_board_rpi_b"
+    ],
+    [
+      "Updating FreeBSD on armv6 board (RPI-B)",
+      "https://smallhacks.wordpress.com/2023/07/20/updating-freebsd-on-armv6-board-rpi-b/"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 22:45:56",
       "https://lobste.rs/s/nt73mu/exploiting_puafs"
     ],
@@ -27,16 +47,6 @@
     [
       "A 17th-century font in a 21st-century thesis",
       "https://www.linyangchen.com/Typography-Fell-Types-font"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 22:15:39",
-      "https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016"
-    ],
-    [
-      "A Novice’s Intro to XSLT (2016)",
-      "https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "HTTP has become the default, universal communication protocol",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 15:08:04",
-      "https://lobste.rs/s/wupk7c/azorius_0_1"
-    ],
-    [
-      "azorius 0.1",
-      "https://flak.tedunangst.com/post/azorius-01"
     ]
   ],
   [
