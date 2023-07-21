@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 07:16:34](https://lobste.rs/s/usralk/building_cost_effective_logging) - [Building a cost-effective logging platform using ClickHouse for petabyte scale](https://www.zomato.com/blog/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
 * [2023-07-21, 03:59:40](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been) - [Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been)
 * [2023-07-21, 02:00:47](https://lobste.rs/s/6adczw/retro_porting_os_2_1_0) - [Retro-Porting to OS/2 1.0](https://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
 * [2023-07-21, 01:06:20](https://lobste.rs/s/fovgks/tsnsrv_easily_accessing_services_on_your) - [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
@@ -23,7 +24,6 @@
 * [2023-07-20, 01:59:11](https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total) - [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 16:49:57](https://lobste.rs/s/n3jlhj/cve_2023_38408_remote_code_execution) - [CVE-2023-38408: Remote Code Execution in OpenSSH's forwarded ssh-agent](https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt)
-* [2023-07-19, 15:42:58](https://lobste.rs/s/fztxcy/upcoming_release_postponed_two_more) - [The Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 03:25:11](https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet) - [bfs 3.0: the fastest find yet](https://tavianator.com/2023/bfs_3.0.html)
 
 ## [Archives](archives/index.md)
