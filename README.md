@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 16:44:20](https://lobste.rs/s/1axynl/we_ve_got_vulkan_memory_allocator_at_home) - [We've Got A Vulkan Memory Allocator At Home](https://nega.tv/writing-your-own-vulkan-memory-allocator/)
 * [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-07-21, 15:17:43](https://lobste.rs/s/5i6uov/implementing_tic_tac_toe_with_170mb_html) - [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 * [2023-07-21, 13:41:12](https://lobste.rs/s/jueifh/my_infrastructure_megaupdate) - [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
@@ -24,7 +25,6 @@
 * [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
 * [2023-07-20, 12:54:49](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust) - [What I Learned Building a CLI App in Rust](http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/)
-* [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 
 ## [Archives](archives/index.md)
 
