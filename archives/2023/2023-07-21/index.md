@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 13:41:12](https://lobste.rs/s/jueifh/my_infrastructure_megaupdate) - [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
 * [2023-07-21, 13:34:20](https://lobste.rs/s/sosrbv/modern_platform_for_content_creation) - [A Modern Platform for Content Creation](https://persumi.com/c/persumi/u/fredwu/p/welcome-to-persumi-a-modern-platform-for-content-creation)
 * [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
 * [2023-07-21, 12:59:20](https://lobste.rs/s/5jixfa/decoding_acl_paper_gzip_knn_rival_bert) - [Decoding the ACL Paper: Gzip and KNN Rival BERT in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
