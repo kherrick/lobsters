@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 22:45:56](https://lobste.rs/s/nt73mu/exploiting_puafs) - [Exploiting PUAFs](https://github.com/felix-pb/kfd/blob/main/writeups/exploiting-puafs.md)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 22:15:39](https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016) - [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-21, 21:23:27](https://lobste.rs/s/jvchn9/six_dumbest_ideas_computer_security_2005) - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2023-07-21, 21:15:24](https://lobste.rs/s/2loemw/queryability_sublime_mediocrity_sql) - [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
-* [2023-07-21, 20:27:13](https://lobste.rs/s/leiy1a/testing_sudo_rs_improving_sudo_along_way) - [Testing sudo-rs and improving sudo along the way](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-07-21, 19:17:35](https://lobste.rs/s/wpvb7v/ihp_v1_1_has_been_released) - [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
 * [2023-07-21, 18:45:52](https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without) - [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
 * [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
