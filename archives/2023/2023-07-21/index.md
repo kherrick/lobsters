@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-07-21, 15:17:43](https://lobste.rs/s/5i6uov/implementing_tic_tac_toe_with_170mb_html) - [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 * [2023-07-21, 13:41:12](https://lobste.rs/s/jueifh/my_infrastructure_megaupdate) - [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
 * [2023-07-21, 13:34:20](https://lobste.rs/s/sosrbv/modern_platform_for_content_creation) - [A Modern Platform for Content Creation](https://persumi.com/c/persumi/u/fredwu/p/welcome-to-persumi-a-modern-platform-for-content-creation)
