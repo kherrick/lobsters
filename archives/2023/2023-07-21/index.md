@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 20:27:13](https://lobste.rs/s/leiy1a/testing_sudo_rs_improving_sudo_along_way) - [Testing sudo-rs and improving sudo along the way](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-07-21, 19:17:35](https://lobste.rs/s/wpvb7v/ihp_v1_1_has_been_released) - [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
 * [2023-07-21, 18:45:52](https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without) - [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
 * [2023-07-21, 16:44:20](https://lobste.rs/s/1axynl/we_ve_got_vulkan_memory_allocator_at_home) - [We've Got A Vulkan Memory Allocator At Home](https://nega.tv/writing-your-own-vulkan-memory-allocator/)

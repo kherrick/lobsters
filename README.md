@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 20:27:13](https://lobste.rs/s/leiy1a/testing_sudo_rs_improving_sudo_along_way) - [Testing sudo-rs and improving sudo along the way](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-07-21, 19:17:35](https://lobste.rs/s/wpvb7v/ihp_v1_1_has_been_released) - [IHP v1.1 has been released](https://github.com/digitallyinduced/ihp/releases/tag/v1.1.0)
 * [2023-07-21, 18:45:52](https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without) - [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
 * [2023-07-21, 16:44:20](https://lobste.rs/s/1axynl/we_ve_got_vulkan_memory_allocator_at_home) - [We've Got A Vulkan Memory Allocator At Home](https://nega.tv/writing-your-own-vulkan-memory-allocator/)
@@ -20,7 +21,6 @@
 * [2023-07-20, 18:01:52](https://lobste.rs/s/jaeh6r/extending_native_js_prototypes_is_not) - [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
 * [2023-07-20, 17:20:16](https://lobste.rs/s/hq1sdr/http_has_become_default_universal) - [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
 * [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Federated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
-* [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
