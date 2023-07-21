@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
+* [2023-07-21, 12:59:20](https://lobste.rs/s/5jixfa/decoding_acl_paper_gzip_knn_rival_bert) - [Decoding the ACL Paper: Gzip and KNN Rival BERT in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-21, 12:49:19](https://lobste.rs/s/tl6toa/rsbac_extending_linux_security_beyond) - [RSBAC: Extending Linux Security Beyond the Limits](https://www.rsbac.org/)
 * [2023-07-21, 12:15:26](https://lobste.rs/s/geckto/small_joys_programming_odin) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 09:14:13](https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80) - [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 03:59:40](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been) - [Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been)
-* [2023-07-21, 02:00:47](https://lobste.rs/s/6adczw/retro_porting_os_2_1_0) - [Retro-Porting to OS/2 1.0](https://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
 * [2023-07-21, 01:06:20](https://lobste.rs/s/fovgks/tsnsrv_easily_accessing_services_on_your) - [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
 * [2023-07-21, 00:24:20](https://lobste.rs/s/ipsb7h/bilithification) - [Bilithification](https://blog.glyph.im/2023/07/bilithification.html)
 * [2023-07-20, 22:39:15](https://lobste.rs/s/ic3ajh/shrinking_vs_code_with_name_mangling) - [Shrinking VS Code with name mangling](https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode)
@@ -23,7 +24,6 @@
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
 * [2023-07-20, 12:54:49](https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust) - [What I Learned Building a CLI App in Rust](http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/)
 * [2023-07-20, 11:02:06](https://lobste.rs/s/9l5flh/sub_pixel_distance_transform) - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-* [2023-07-20, 05:04:32](https://lobste.rs/s/jfbezc/minigpt4_cpp) - [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 00:59:34](https://lobste.rs/s/zxm2ty/kevin_mitnick_obituary) - [Kevin Mitnick - Obituary](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 
 ## [Archives](archives/index.md)

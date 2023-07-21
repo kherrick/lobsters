@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
+* [2023-07-21, 12:59:20](https://lobste.rs/s/5jixfa/decoding_acl_paper_gzip_knn_rival_bert) - [Decoding the ACL Paper: Gzip and KNN Rival BERT in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-21, 12:49:19](https://lobste.rs/s/tl6toa/rsbac_extending_linux_security_beyond) - [RSBAC: Extending Linux Security Beyond the Limits](https://www.rsbac.org/)
 * [2023-07-21, 12:15:26](https://lobste.rs/s/geckto/small_joys_programming_odin) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
