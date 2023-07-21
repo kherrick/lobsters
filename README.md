@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-21, 09:14:13](https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80) - [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 07:16:34](https://lobste.rs/s/usralk/building_cost_effective_logging) - [Building a cost-effective logging platform using ClickHouse for petabyte scale](https://www.zomato.com/blog/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
 * [2023-07-21, 03:59:40](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been) - [Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been)
@@ -15,7 +16,6 @@
 * [2023-07-20, 16:52:05](https://lobste.rs/s/crbppw/shelter_protocol_end_end_encrypted) - [Shelter Protocol: End-to-End Encrypted, Federated, User-friendly Web Applications](https://youtu.be/w0GQz-UF0Lk)
 * [2023-07-20, 15:18:48](https://lobste.rs/s/ajtlfi/qt_creator_11_released) - [Qt Creator 11 released](https://www.qt.io/blog/qt-creator-11-released)
 * [2023-07-20, 15:08:04](https://lobste.rs/s/wupk7c/azorius_0_1) - [azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
-* [2023-07-20, 14:48:54](https://lobste.rs/s/xvfqjd/building_for_failure_hidden_dangers) - [Building for Failure: Hidden dangers in Event-Driven Systems](https://encore.dev/blog/building-for-failure)
 * [2023-07-20, 13:59:02](https://lobste.rs/s/952inv/helping_arm_for_panfrost) - [A helping Arm for Panfrost](https://www.collabora.com/news-and-blog/news-and-events/a-helping-arm-for-panfrost.html)
 * [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 13:38:45](https://lobste.rs/s/ok9rd8/behind_google_s_curtain_auditing_gosumdb) - [Behind Google's Curtain - Auditing Gosumdb](https://raphting.dev/posts/gosumdb-p3/)
