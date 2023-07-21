@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 18:45:52](https://lobste.rs/s/mbp6i1/async_cancel_safety_lilos_mutex_without) - [Async cancel safety in lilos: Mutex without lock, Queue without push](https://cliffle.com/blog/lilos-cancel-safety/)
 * [2023-07-21, 16:44:20](https://lobste.rs/s/1axynl/we_ve_got_vulkan_memory_allocator_at_home) - [We've Got A Vulkan Memory Allocator At Home](https://nega.tv/writing-your-own-vulkan-memory-allocator/)
 * [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-07-21, 15:17:43](https://lobste.rs/s/5i6uov/implementing_tic_tac_toe_with_170mb_html) - [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
