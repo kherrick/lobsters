@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+* [2023-07-21, 22:15:39](https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016) - [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-21, 21:23:27](https://lobste.rs/s/jvchn9/six_dumbest_ideas_computer_security_2005) - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2023-07-21, 21:15:24](https://lobste.rs/s/2loemw/queryability_sublime_mediocrity_sql) - [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
