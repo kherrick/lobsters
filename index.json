@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-21, 12:15:26",
+      "https://lobste.rs/s/geckto/small_joys_programming_odin"
+    ],
+    [
+      "Small joys of programming in Odin",
+      "http://www.zannzen.com/blog/small_joys_with_odin_1/"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 12:04:24",
       "https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from"
     ],
@@ -217,16 +227,6 @@
     [
       "minigpt4.cpp",
       "https://github.com/Maknee/minigpt4.cpp"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 01:59:11",
-      "https://lobste.rs/s/py2i7a/300ms_faster_reducing_wikipedia_s_total"
-    ],
-    [
-      "300ms Faster: Reducing Wikipedia's Total Blocking Time",
-      "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
     ]
   ],
   [
