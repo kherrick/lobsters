@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 21:31:46",
+      "https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge"
+    ],
+    [
+      "A GPT-4 Capability Forecasting Challenge",
+      "https://nicholas.carlini.com/writing/llm-forecast/"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 19:00:30",
       "https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single"
     ],
@@ -107,16 +117,6 @@
     [
       "Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)",
       "https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 01:38:04",
-      "https://lobste.rs/s/rgnn90/computational_complexity_texture"
-    ],
-    [
-      "Computational complexity of texture encoding",
-      "https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/"
     ]
   ],
   [
