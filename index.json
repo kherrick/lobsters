@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 03:57:23",
+      "https://lobste.rs/s/aphyr2/web_environment_integrity_explainer"
+    ],
+    [
+      "Web Environment Integrity Explainer",
+      "https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 02:10:59",
       "https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python"
     ],
@@ -237,16 +247,6 @@
     [
       "What Happened to Dolphin on Steam?",
       "https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 12:54:49",
-      "https://lobste.rs/s/ql9vt1/what_i_learned_building_cli_app_rust"
-    ],
-    [
-      "What I Learned Building a CLI App in Rust",
-      "http://stratus3d.com/blog/2023/07/18/what-i-learned-building-a-cli-app-in-rust/"
     ]
   ]
 ]
