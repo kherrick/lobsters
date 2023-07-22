@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
 * [2023-07-22, 05:46:51](https://lobste.rs/s/lmtcky/brief_history_computers) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
