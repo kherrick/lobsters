@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 15:32:03](https://lobste.rs/s/1wy5q2/1972_aesthetics_human_factor) - [(1972) Aesthetics and the Human Factor in Programming](https://dl.acm.org/doi/pdf/10.1145/361454.361458)
 * [2023-07-22, 14:08:54](https://lobste.rs/s/dd71ma/putting_you_cpu) - [Putting the \"You\" in CPU](https://cpu.land/)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 * [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
