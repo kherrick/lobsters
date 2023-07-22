@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 * [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
@@ -24,7 +25,6 @@
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 01:06:20](https://lobste.rs/s/fovgks/tsnsrv_easily_accessing_services_on_your) - [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
-* [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 
 ## [Archives](archives/index.md)
 
