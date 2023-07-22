@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 13:19:19",
+      "https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about"
+    ],
+    [
+      "More than you've ever wanted to know about errors in Rust",
+      "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 11:32:26",
       "https://lobste.rs/s/tthzld/embrace_complexity_tighten_your"
     ],
@@ -217,16 +227,6 @@
     [
       "Nanosecond timestamp collisions are common",
       "https://www.evanjones.ca/nanosecond-collisions.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 03:59:40",
-      "https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been"
-    ],
-    [
-      "Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for",
-      "https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been"
     ]
   ],
   [
