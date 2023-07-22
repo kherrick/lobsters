@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-22, 05:22:13](https://lobste.rs/s/lgkojb/apple_s_interactive_television_box) - [Apple's Interactive Television Box: hacking the Set Top Box System 7.1 in ROM](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 * [2023-07-22, 03:57:23](https://lobste.rs/s/aphyr2/web_environment_integrity_explainer) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-22, 01:38:04](https://lobste.rs/s/rgnn90/computational_complexity_texture) - [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
@@ -23,7 +24,6 @@
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 03:59:40](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been) - [Fun Format Friday: This Friday we have been tasked by ISO to design a new standard for](https://lobste.rs/s/bmjtoc/fun_format_friday_this_friday_we_have_been)
 * [2023-07-21, 01:06:20](https://lobste.rs/s/fovgks/tsnsrv_easily_accessing_services_on_your) - [tsnsrv, or easily accessing services on your tailscale network](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)
-* [2023-07-20, 17:20:16](https://lobste.rs/s/hq1sdr/http_has_become_default_universal) - [HTTP has become the default, universal communication protocol](https://utcc.utoronto.ca/~cks/space/blog/tech/HTTPUniversalDefaultProtocol)
 * [2023-07-20, 13:54:19](https://lobste.rs/s/74bol8/what_happened_dolphin_on_steam) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 
 ## [Archives](archives/index.md)
