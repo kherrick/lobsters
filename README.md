@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
+* [2023-07-22, 01:38:04](https://lobste.rs/s/rgnn90/computational_complexity_texture) - [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-21, 23:47:43](https://lobste.rs/s/k3uuzr/using_prolog_windows_nt_network) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-21, 23:44:17](https://lobste.rs/s/sw3xhb/updating_freebsd_on_armv6_board_rpi_b) - [Updating FreeBSD on armv6 board (RPI-B)](https://smallhacks.wordpress.com/2023/07/20/updating-freebsd-on-armv6-board-rpi-b/)
-* [2023-07-21, 22:45:56](https://lobste.rs/s/nt73mu/exploiting_puafs) - [Exploiting PUAFs](https://github.com/felix-pb/kfd/blob/main/writeups/exploiting-puafs.md)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
@@ -14,7 +15,6 @@
 * [2023-07-21, 15:17:43](https://lobste.rs/s/5i6uov/implementing_tic_tac_toe_with_170mb_html) - [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
 * [2023-07-21, 13:41:12](https://lobste.rs/s/jueifh/my_infrastructure_megaupdate) - [My Infrastructure Megaupdate](https://blog.gabrielsimmer.com/posts/infrastructure-megaupdate/)
 * [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
-* [2023-07-21, 12:59:20](https://lobste.rs/s/5jixfa/decoding_acl_paper_gzip_knn_rival_bert) - [Decoding the ACL Paper: Gzip and KNN Rival BERT in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-21, 12:15:26](https://lobste.rs/s/geckto/small_joys_programming_odin) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 12:04:24](https://lobste.rs/s/vpqlh9/rethinking_infrastructure_as_code_from) - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 09:14:13](https://lobste.rs/s/btgo2k/hp_1973_emulator_for_hp_35_hp_45_hp_80) - [HP-1973, an emulator for the HP-35, HP-45, and HP-80 calculators](https://sarahkmarr.com/retrohp1973.html)
