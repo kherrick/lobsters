@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
 * [2023-07-22, 05:46:51](https://lobste.rs/s/lmtcky/brief_history_computers) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 05:22:13](https://lobste.rs/s/lgkojb/apple_s_interactive_television_box) - [Apple's Interactive Television Box: hacking the Set Top Box System 7.1 in ROM](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)

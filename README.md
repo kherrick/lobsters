@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
 * [2023-07-22, 05:46:51](https://lobste.rs/s/lmtcky/brief_history_computers) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 05:22:13](https://lobste.rs/s/lgkojb/apple_s_interactive_television_box) - [Apple's Interactive Television Box: hacking the Set Top Box System 7.1 in ROM](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 * [2023-07-22, 03:57:23](https://lobste.rs/s/aphyr2/web_environment_integrity_explainer) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-22, 01:38:04](https://lobste.rs/s/rgnn90/computational_complexity_texture) - [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
-* [2023-07-21, 23:47:43](https://lobste.rs/s/k3uuzr/using_prolog_windows_nt_network) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030224104712/http://research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 22:15:39](https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016) - [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
