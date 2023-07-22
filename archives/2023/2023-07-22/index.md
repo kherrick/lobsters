@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 23:07:18](https://lobste.rs/s/1ax7w3/avoiding_multiplications) - [Avoiding multiplications](https://amycoders.org/opt/avoidmuls.html)
 * [2023-07-22, 21:31:46](https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge) - [A GPT-4 Capability Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 15:32:03](https://lobste.rs/s/1wy5q2/1972_aesthetics_human_factor) - [(1972) Aesthetics and the Human Factor in Programming](https://dl.acm.org/doi/pdf/10.1145/361454.361458)
