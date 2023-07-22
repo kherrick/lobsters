@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-22, 21:31:46](https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge) - [A GPT-4 Capability Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 15:32:03](https://lobste.rs/s/1wy5q2/1972_aesthetics_human_factor) - [(1972) Aesthetics and the Human Factor in Programming](https://dl.acm.org/doi/pdf/10.1145/361454.361458)
 * [2023-07-22, 14:08:54](https://lobste.rs/s/dd71ma/putting_you_cpu) - [Putting the \"You\" in CPU](https://cpu.land/)
@@ -11,7 +12,6 @@
 * [2023-07-22, 05:22:13](https://lobste.rs/s/lgkojb/apple_s_interactive_television_box) - [Apple's Interactive Television Box: hacking the Set Top Box System 7.1 in ROM](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 * [2023-07-22, 03:57:23](https://lobste.rs/s/aphyr2/web_environment_integrity_explainer) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
-* [2023-07-22, 01:38:04](https://lobste.rs/s/rgnn90/computational_complexity_texture) - [Computational complexity of texture encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 22:15:39](https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016) - [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
