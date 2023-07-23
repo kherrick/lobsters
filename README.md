@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 14:32:37](https://lobste.rs/s/kcnwrd/go_stly_access_rights) - [Go-stly Access Rights](https://hypirion.com/musings/go-stly-access-rights)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
 * [2023-07-23, 13:44:36](https://lobste.rs/s/rr73pz/go_concurrency_fan_out_fan) - [Go Concurrency: Fan-out, Fan-in](https://pboyd.io/posts/go-concurrency-fan-out-fan-in/)
 * [2023-07-23, 13:25:25](https://lobste.rs/s/uuwzcx/jitter_generate_portable_language_vms) - [Jitter: generate portable language VMs from high-level specifications](https://www.gnu.org/software/jitter/)
@@ -21,7 +22,6 @@
 * [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
-* [2023-07-21, 22:15:39](https://lobste.rs/s/1kuzzi/novice_s_intro_xslt_2016) - [A Novice’s Intro to XSLT (2016)](https://acrl.ala.org/techconnect/post/a-novices-intro-to-xslt/)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-21, 21:23:27](https://lobste.rs/s/jvchn9/six_dumbest_ideas_computer_security_2005) - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
