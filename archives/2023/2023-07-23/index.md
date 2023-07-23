@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 16:04:16](https://lobste.rs/s/ko0riw/llama2_c) - [llama2.c](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
 * [2023-07-23, 14:32:37](https://lobste.rs/s/kcnwrd/go_stly_access_rights) - [Go-stly Access Rights](https://hypirion.com/musings/go-stly-access-rights)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
