@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-23, 13:55:23",
+      "https://lobste.rs/s/ydlb0r/openmw_0_48_0_released"
+    ],
+    [
+      "OpenMW 0.48.0 Released",
+      "https://openmw.org/2023/openmw-0-48-0-released/"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 13:44:36",
       "https://lobste.rs/s/rr73pz/go_concurrency_fan_out_fan"
     ],
@@ -237,16 +247,6 @@
     [
       "A love letter to Objective-C",
       "https://thoughtbot.com/blog/a-love-letter-to-objective-c"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 08:10:18",
-      "https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are"
-    ],
-    [
-      "Nanosecond timestamp collisions are common",
-      "https://www.evanjones.ca/nanosecond-collisions.html"
     ]
   ]
 ]
