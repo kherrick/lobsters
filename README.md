@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 16:04:16](https://lobste.rs/s/ko0riw/llama2_c) - [llama2.c](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
 * [2023-07-23, 14:32:37](https://lobste.rs/s/kcnwrd/go_stly_access_rights) - [Go-stly Access Rights](https://hypirion.com/musings/go-stly-access-rights)
@@ -24,7 +25,6 @@
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
-* [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 
 ## [Archives](archives/index.md)
 
