@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 22:07:14](https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake) - [Things That Surprised Me About CMake](https://www.gabrieldougherty.com/things-that-surprised-me-about-cmake/)
+* [2023-07-23, 22:03:35](https://lobste.rs/s/wicxqt/inkscape_launches_version_1_3_with_focus) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 17:39:19](https://lobste.rs/s/olxtve/typesetting_rare_chinese_characters) - [Typesetting Rare Chinese Characters in LaTeX (2003)](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
 * [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
