@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 17:39:19](https://lobste.rs/s/olxtve/typesetting_rare_chinese_characters) - [Typesetting Rare Chinese Characters in LaTeX (2003)](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
 * [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)

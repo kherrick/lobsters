@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 17:39:19](https://lobste.rs/s/olxtve/typesetting_rare_chinese_characters) - [Typesetting Rare Chinese Characters in LaTeX (2003)](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
 * [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
@@ -20,7 +21,6 @@
 * [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
-* [2023-07-22, 05:46:51](https://lobste.rs/s/lmtcky/brief_history_computers) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 03:57:23](https://lobste.rs/s/aphyr2/web_environment_integrity_explainer) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
