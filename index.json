@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-23, 16:04:16",
+      "https://lobste.rs/s/ko0riw/llama2_c"
+    ],
+    [
+      "llama2.c",
+      "https://github.com/karpathy/llama2.c"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 15:07:02",
       "https://lobste.rs/s/hinsor/architecture_testing"
     ],
@@ -227,16 +237,6 @@
     [
       "Threads and Goroutines",
       "https://shane.ai/posts/threads-and-goroutines/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 21:23:27",
-      "https://lobste.rs/s/jvchn9/six_dumbest_ideas_computer_security_2005"
-    ],
-    [
-      "The Six Dumbest Ideas in Computer Security (2005)",
-      "http://www.ranum.com/security/computer_security/editorials/dumb/"
     ]
   ],
   [
