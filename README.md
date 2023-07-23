@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
 * [2023-07-23, 14:32:37](https://lobste.rs/s/kcnwrd/go_stly_access_rights) - [Go-stly Access Rights](https://hypirion.com/musings/go-stly-access-rights)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
 * [2023-07-23, 13:44:36](https://lobste.rs/s/rr73pz/go_concurrency_fan_out_fan) - [Go Concurrency: Fan-out, Fan-in](https://pboyd.io/posts/go-concurrency-fan-out-fan-in/)
@@ -19,7 +20,6 @@
 * [2023-07-22, 05:46:51](https://lobste.rs/s/lmtcky/brief_history_computers) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 05:22:13](https://lobste.rs/s/lgkojb/apple_s_interactive_television_box) - [Apple's Interactive Television Box: hacking the Set Top Box System 7.1 in ROM](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 * [2023-07-22, 03:57:23](https://lobste.rs/s/aphyr2/web_environment_integrity_explainer) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
-* [2023-07-22, 02:10:59](https://lobste.rs/s/jyhdbx/linewise_translating_unit_tested_python) - [Linewise translating unit-tested Python to Haskell to compare defects caught and expressivity (2012)](https://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-21, 22:37:35](https://lobste.rs/s/klffvm/preview_ranging_over_functions_go) - [Preview: ranging over functions in Go](https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/)
 * [2023-07-21, 22:15:50](https://lobste.rs/s/3h8kmd/17th_century_font_21st_century_thesis) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
