@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 16:04:16](https://lobste.rs/s/ko0riw/llama2_c) - [llama2.c](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
@@ -13,7 +14,6 @@
 * [2023-07-22, 23:07:18](https://lobste.rs/s/1ax7w3/avoiding_multiplications) - [Avoiding multiplications](https://amycoders.org/opt/avoidmuls.html)
 * [2023-07-22, 21:31:46](https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge) - [A GPT-4 Capability Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
-* [2023-07-22, 15:32:03](https://lobste.rs/s/1wy5q2/1972_aesthetics_human_factor) - [(1972) Aesthetics and the Human Factor in Programming](https://dl.acm.org/doi/pdf/10.1145/361454.361458)
 * [2023-07-22, 14:08:54](https://lobste.rs/s/dd71ma/putting_you_cpu) - [Putting the \"You\" in CPU](https://cpu.land/)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 * [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 16:04:16](https://lobste.rs/s/ko0riw/llama2_c) - [llama2.c](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
