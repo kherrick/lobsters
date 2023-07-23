@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-23, 13:25:25](https://lobste.rs/s/uuwzcx/jitter_generate_portable_language_vms) - [Jitter: generate portable language VMs from high-level specifications](https://www.gnu.org/software/jitter/)
 * [2023-07-23, 11:52:55](https://lobste.rs/s/yrc59x/allergic_waiting) - [Allergic to Waiting](https://registerspill.thorstenball.com/p/allergic-to-waiting)
 * [2023-07-23, 09:15:39](https://lobste.rs/s/1axagv/nat_types) - [NAT Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-23, 07:47:14](https://lobste.rs/s/mrmjlz/what_every_it_person_needs_know_about) - [What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
@@ -23,7 +24,6 @@
 * [2023-07-21, 21:23:27](https://lobste.rs/s/jvchn9/six_dumbest_ideas_computer_security_2005) - [The Six Dumbest Ideas in Computer Security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2023-07-21, 15:45:58](https://lobste.rs/s/o27sxk/love_letter_objective_c) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-07-21, 15:17:43](https://lobste.rs/s/5i6uov/implementing_tic_tac_toe_with_170mb_html) - [Implementing Tic Tac Toe with 170mb of HTML - no JS or CSS](https://portswigger.net/blog/tic-tac-toe-in-html)
-* [2023-07-21, 13:00:53](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wainwx/what_are_you_doing_this_weekend)
 * [2023-07-21, 08:10:18](https://lobste.rs/s/d1oqcl/nanosecond_timestamp_collisions_are) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 
 ## [Archives](archives/index.md)
