@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 21:57:01",
+      "https://lobste.rs/s/xozsas/basicblocker_isa_redesign_make_spectre"
+    ],
+    [
+      "BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster",
+      "https://arxiv.org/abs/2007.15919"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 21:23:04",
       "https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance"
     ],
@@ -197,16 +207,6 @@
     [
       "riscv64 is now an official Debian architecture",
       "https://lists.debian.org/debian-riscv/2023/07/msg00053.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 22:07:14",
-      "https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake"
-    ],
-    [
-      "Things That Surprised Me About CMake",
-      "https://www.gabrieldougherty.com/things-that-surprised-me-about-cmake/"
     ]
   ],
   [
