@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-24, 12:43:21",
+      "https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully"
+    ],
+    [
+      "100K+ Open Source SVG Icons, Fully Customizable",
+      "https://iconbuddy.app/"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 12:28:03",
+      "https://lobste.rs/s/ndlkuu/go_iterator_experiment"
+    ],
+    [
+      "Go iterator experiment",
+      "https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 12:10:03",
       "https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-07-23, 14:32:37",
-      "https://lobste.rs/s/kcnwrd/go_stly_access_rights"
-    ],
-    [
-      "Go-stly Access Rights",
-      "https://hypirion.com/musings/go-stly-access-rights"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 13:55:23",
       "https://lobste.rs/s/ydlb0r/openmw_0_48_0_released"
     ],
     [
       "OpenMW 0.48.0 Released",
       "https://openmw.org/2023/openmw-0-48-0-released/"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 13:44:36",
-      "https://lobste.rs/s/rr73pz/go_concurrency_fan_out_fan"
-    ],
-    [
-      "Go Concurrency: Fan-out, Fan-in",
-      "https://pboyd.io/posts/go-concurrency-fan-out-fan-in/"
     ]
   ],
   [
