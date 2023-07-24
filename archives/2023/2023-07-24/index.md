@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 14:54:45](https://lobste.rs/s/uj0jbs/c_23_syntactic_sugar_with_deducing_this) - [C++23: Syntactic Sugar with Deducing This](http://modernescpp.com/index.php/c-23-syntactic-sugar-with-deducing-this)
 * [2023-07-24, 14:41:59](https://lobste.rs/s/ijle02/ibm_mainframe_how_it_runs_why_it_survives) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 * [2023-07-24, 12:43:21](https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully) - [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-24, 12:28:03](https://lobste.rs/s/ndlkuu/go_iterator_experiment) - [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
