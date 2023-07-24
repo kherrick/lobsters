@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 12:43:21](https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully) - [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
+* [2023-07-24, 12:28:03](https://lobste.rs/s/ndlkuu/go_iterator_experiment) - [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
 * [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
 * [2023-07-24, 12:03:43](https://lobste.rs/s/typumm/passkey_authentication_with_rodauth) - [Passkey Authentication with Rodauth](https://janko.io/passkey-authentication-with-rodauth/)
 * [2023-07-24, 11:00:11](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week)
