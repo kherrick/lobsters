@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 17:33:28](https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy) - [How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks](https://cleanlab.ai/blog/model-deployment/)
 * [2023-07-24, 17:26:08](https://lobste.rs/s/lk3dwn/protohackers_server_programming) - [Protohackers Server Programming Challenge](https://protohackers.com/)
 * [2023-07-24, 17:15:18](https://lobste.rs/s/dwbclt/compressed_chunk_image_format) - [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
 * [2023-07-24, 17:12:22](https://lobste.rs/s/97fj5w/sqlite_utils_now_supports_plugins) - [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
@@ -13,7 +14,6 @@
 * [2023-07-24, 11:00:11](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
-* [2023-07-24, 08:35:46](https://lobste.rs/s/jjn1ka/2023_eurollvm_keynote_fbounds_safety) - [2023 EuroLLVM - Keynote: “-fbounds-safety”: Enforcing bounds safety for production C code](https://www.youtube.com/watch?v=RK9bfrsMdAM)
 * [2023-07-24, 04:30:26](https://lobste.rs/s/aav0sj/invention_rust) - [Invention in Rust](https://blog.zarfhome.com/2023/07/invention-in-rust)
 * [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 * [2023-07-24, 02:42:58](https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian) - [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)

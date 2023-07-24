@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 17:33:28](https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy) - [How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks](https://cleanlab.ai/blog/model-deployment/)
 * [2023-07-24, 17:26:08](https://lobste.rs/s/lk3dwn/protohackers_server_programming) - [Protohackers Server Programming Challenge](https://protohackers.com/)
 * [2023-07-24, 17:15:18](https://lobste.rs/s/dwbclt/compressed_chunk_image_format) - [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
 * [2023-07-24, 17:12:22](https://lobste.rs/s/97fj5w/sqlite_utils_now_supports_plugins) - [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
