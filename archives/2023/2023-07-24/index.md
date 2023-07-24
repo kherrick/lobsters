@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 07:42:51](https://lobste.rs/s/tzd01u/recl_ai_m_generative_algorithms_for) - [RECL[AI]M - Generative Algorithms for the Commons | Sep 28th - Oct 1st](https://crypto-commons.org/reclaim)
 * [2023-07-24, 04:30:26](https://lobste.rs/s/aav0sj/invention_rust) - [Invention in Rust](https://blog.zarfhome.com/2023/07/invention-in-rust)
 * [2023-07-24, 04:28:31](https://lobste.rs/s/bt3vv9/internet_didn_t_kill_counterculture_you) - [The internet didn’t kill counterculture—you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 * [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
