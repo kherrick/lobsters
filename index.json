@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 02:42:58",
+      "https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian"
+    ],
+    [
+      "riscv64 is now an official Debian architecture",
+      "https://lists.debian.org/debian-riscv/2023/07/msg00053.html"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 22:07:14",
       "https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake"
     ],
@@ -227,16 +237,6 @@
     [
       "Linear-time parser combinators",
       "https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 22:37:35",
-      "https://lobste.rs/s/klffvm/preview_ranging_over_functions_go"
-    ],
-    [
-      "Preview: ranging over functions in Go",
-      "https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/"
     ]
   ],
   [
