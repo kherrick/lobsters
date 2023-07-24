@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 17:33:28",
+      "https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy"
+    ],
+    [
+      "How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks",
+      "https://cleanlab.ai/blog/model-deployment/"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 17:26:08",
       "https://lobste.rs/s/lk3dwn/protohackers_server_programming"
     ],
@@ -127,16 +137,6 @@
     [
       "Seriously, you should be having fun writing software at work",
       "https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 08:35:46",
-      "https://lobste.rs/s/jjn1ka/2023_eurollvm_keynote_fbounds_safety"
-    ],
-    [
-      "2023 EuroLLVM - Keynote: “-fbounds-safety”: Enforcing bounds safety for production C code",
-      "https://www.youtube.com/watch?v=RK9bfrsMdAM"
     ]
   ],
   [
