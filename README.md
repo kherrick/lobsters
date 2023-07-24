@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 19:17:44](https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
-* [2023-07-24, 17:33:28](https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy) - [How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks](https://cleanlab.ai/blog/model-deployment/)
 * [2023-07-24, 17:26:08](https://lobste.rs/s/lk3dwn/protohackers_server_programming) - [Protohackers Server Programming Challenge](https://protohackers.com/)
 * [2023-07-24, 17:15:18](https://lobste.rs/s/dwbclt/compressed_chunk_image_format) - [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
 * [2023-07-24, 17:12:22](https://lobste.rs/s/97fj5w/sqlite_utils_now_supports_plugins) - [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)

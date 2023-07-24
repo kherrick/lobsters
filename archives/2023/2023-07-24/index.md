@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 19:17:44](https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
 * [2023-07-24, 17:33:28](https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy) - [How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks](https://cleanlab.ai/blog/model-deployment/)
