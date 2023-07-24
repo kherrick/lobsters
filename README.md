@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-24, 04:30:26](https://lobste.rs/s/aav0sj/invention_rust) - [Invention in Rust](https://blog.zarfhome.com/2023/07/invention-in-rust)
+* [2023-07-24, 04:28:31](https://lobste.rs/s/bt3vv9/internet_didn_t_kill_counterculture_you) - [The internet didn’t kill counterculture—you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 * [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 * [2023-07-24, 02:42:58](https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian) - [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
 * [2023-07-23, 22:07:14](https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake) - [Things That Surprised Me About CMake](https://www.gabrieldougherty.com/things-that-surprised-me-about-cmake/)
@@ -24,7 +25,6 @@
 * [2023-07-22, 14:08:54](https://lobste.rs/s/dd71ma/putting_you_cpu) - [Putting the \"You\" in CPU](https://cpu.land/)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
-* [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 
 ## [Archives](archives/index.md)
 
