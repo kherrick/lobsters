@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 19:17:44](https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
@@ -12,7 +13,6 @@
 * [2023-07-24, 12:43:21](https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully) - [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-24, 12:28:03](https://lobste.rs/s/ndlkuu/go_iterator_experiment) - [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
 * [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
-* [2023-07-24, 12:03:43](https://lobste.rs/s/typumm/passkey_authentication_with_rodauth) - [Passkey Authentication with Rodauth](https://janko.io/passkey-authentication-with-rodauth/)
 * [2023-07-24, 11:00:11](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
