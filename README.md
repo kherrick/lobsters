@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 * [2023-07-24, 02:42:58](https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian) - [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
 * [2023-07-23, 22:07:14](https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake) - [Things That Surprised Me About CMake](https://www.gabrieldougherty.com/things-that-surprised-me-about-cmake/)
 * [2023-07-23, 22:03:35](https://lobste.rs/s/wicxqt/inkscape_launches_version_1_3_with_focus) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
@@ -21,7 +22,6 @@
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 14:08:54](https://lobste.rs/s/dd71ma/putting_you_cpu) - [Putting the \"You\" in CPU](https://cpu.land/)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
-* [2023-07-22, 13:19:19](https://lobste.rs/s/yrvy14/more_than_you_ve_ever_wanted_know_about) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 11:32:26](https://lobste.rs/s/tthzld/embrace_complexity_tighten_your) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
 * [2023-07-21, 21:26:42](https://lobste.rs/s/jr48n1/threads_goroutines) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
