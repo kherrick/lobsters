@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
 * [2023-07-24, 08:35:46](https://lobste.rs/s/jjn1ka/2023_eurollvm_keynote_fbounds_safety) - [2023 EuroLLVM - Keynote: “-fbounds-safety”: Enforcing bounds safety for production C code](https://www.youtube.com/watch?v=RK9bfrsMdAM)
 * [2023-07-24, 07:42:51](https://lobste.rs/s/tzd01u/recl_ai_m_generative_algorithms_for) - [RECL[AI]M - Generative Algorithms for the Commons | Sep 28th - Oct 1st](https://crypto-commons.org/reclaim)
@@ -24,7 +25,6 @@
 * [2023-07-22, 21:31:46](https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge) - [A GPT-4 Capability Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
-* [2023-07-22, 11:21:41](https://lobste.rs/s/sts3wo/linear_time_parser_combinators) - [Linear-time parser combinators](https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html)
 
 ## [Archives](archives/index.md)
 
