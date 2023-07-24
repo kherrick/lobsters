@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
 * [2023-07-24, 17:33:28](https://lobste.rs/s/xal2cy/how_train_deploy_reliable_models_on_messy) - [How To Train and Deploy Reliable Models on Messy Real-World Data With a Few Clicks](https://cleanlab.ai/blog/model-deployment/)
 * [2023-07-24, 17:26:08](https://lobste.rs/s/lk3dwn/protohackers_server_programming) - [Protohackers Server Programming Challenge](https://protohackers.com/)
@@ -23,7 +24,6 @@
 * [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach_2020) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
-* [2023-07-23, 13:25:25](https://lobste.rs/s/uuwzcx/jitter_generate_portable_language_vms) - [Jitter: generate portable language VMs from high-level specifications](https://www.gnu.org/software/jitter/)
 * [2023-07-23, 11:52:55](https://lobste.rs/s/yrc59x/allergic_waiting) - [Allergic to Waiting](https://registerspill.thorstenball.com/p/allergic-to-waiting)
 
 ## [Archives](archives/index.md)
