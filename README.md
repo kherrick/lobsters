@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
+* [2023-07-24, 12:03:43](https://lobste.rs/s/typumm/passkey_authentication_with_rodauth) - [Passkey Authentication with Rodauth](https://janko.io/passkey-authentication-with-rodauth/)
 * [2023-07-24, 11:00:11](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
@@ -21,9 +23,7 @@
 * [2023-07-23, 13:44:36](https://lobste.rs/s/rr73pz/go_concurrency_fan_out_fan) - [Go Concurrency: Fan-out, Fan-in](https://pboyd.io/posts/go-concurrency-fan-out-fan-in/)
 * [2023-07-23, 13:25:25](https://lobste.rs/s/uuwzcx/jitter_generate_portable_language_vms) - [Jitter: generate portable language VMs from high-level specifications](https://www.gnu.org/software/jitter/)
 * [2023-07-23, 11:52:55](https://lobste.rs/s/yrc59x/allergic_waiting) - [Allergic to Waiting](https://registerspill.thorstenball.com/p/allergic-to-waiting)
-* [2023-07-23, 09:15:39](https://lobste.rs/s/1axagv/nat_types) - [NAT Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-23, 07:47:14](https://lobste.rs/s/mrmjlz/what_every_it_person_needs_know_about) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
-* [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 
 ## [Archives](archives/index.md)
