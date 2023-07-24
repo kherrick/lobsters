@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 04:30:26",
+      "https://lobste.rs/s/aav0sj/invention_rust"
+    ],
+    [
+      "Invention in Rust",
+      "https://blog.zarfhome.com/2023/07/invention-in-rust"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 04:28:31",
       "https://lobste.rs/s/bt3vv9/internet_didn_t_kill_counterculture_you"
     ],
@@ -237,16 +247,6 @@
     [
       "Linear-time parser combinators",
       "https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 21:26:42",
-      "https://lobste.rs/s/jr48n1/threads_goroutines"
-    ],
-    [
-      "Threads and Goroutines",
-      "https://shane.ai/posts/threads-and-goroutines/"
     ]
   ]
 ]
