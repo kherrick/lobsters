@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 11:00:11](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/1rwmzg/what_are_you_doing_this_week)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
 * [2023-07-24, 08:35:46](https://lobste.rs/s/jjn1ka/2023_eurollvm_keynote_fbounds_safety) - [2023 EuroLLVM - Keynote: “-fbounds-safety”: Enforcing bounds safety for production C code](https://www.youtube.com/watch?v=RK9bfrsMdAM)
@@ -22,7 +23,6 @@
 * [2023-07-23, 11:52:55](https://lobste.rs/s/yrc59x/allergic_waiting) - [Allergic to Waiting](https://registerspill.thorstenball.com/p/allergic-to-waiting)
 * [2023-07-23, 09:15:39](https://lobste.rs/s/1axagv/nat_types) - [NAT Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-23, 07:47:14](https://lobste.rs/s/mrmjlz/what_every_it_person_needs_know_about) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
-* [2023-07-22, 21:31:46](https://lobste.rs/s/bzpx4c/gpt_4_capability_forecasting_challenge) - [A GPT-4 Capability Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
 * [2023-07-22, 19:00:30](https://lobste.rs/s/i0au4g/pep_722_python_dependencies_for_single) - [PEP 722: Python dependencies for single-file scripts](https://github.com/python/peps/pull/3210/files)
 * [2023-07-22, 13:36:04](https://lobste.rs/s/0bkxlr/why_even_let_users_set_their_own_passwords) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 
