@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 21:57:01](https://lobste.rs/s/xozsas/basicblocker_isa_redesign_make_spectre) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 20:57:09](https://lobste.rs/s/dx2etl/better_code_highlighting_on_web_rehype) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
@@ -20,7 +21,6 @@
 * [2023-07-24, 04:30:26](https://lobste.rs/s/aav0sj/invention_rust) - [Invention in Rust](https://blog.zarfhome.com/2023/07/invention-in-rust)
 * [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 * [2023-07-24, 02:42:58](https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian) - [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
-* [2023-07-23, 22:07:14](https://lobste.rs/s/fjmwaz/things_surprised_me_about_cmake) - [Things That Surprised Me About CMake](https://www.gabrieldougherty.com/things-that-surprised-me-about-cmake/)
 * [2023-07-23, 22:03:35](https://lobste.rs/s/wicxqt/inkscape_launches_version_1_3_with_focus) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)

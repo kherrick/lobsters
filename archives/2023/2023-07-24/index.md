@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 21:57:01](https://lobste.rs/s/xozsas/basicblocker_isa_redesign_make_spectre) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 20:57:09](https://lobste.rs/s/dx2etl/better_code_highlighting_on_web_rehype) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
