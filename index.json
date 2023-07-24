@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 10:54:21",
+      "https://lobste.rs/s/bkr8d1/package_manager_for_sqlite"
+    ],
+    [
+      "Package manager for SQLite",
+      "https://github.com/nalgeon/sqlpkg-cli#readme"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 10:08:35",
       "https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun"
     ],
@@ -237,16 +247,6 @@
     [
       "Why even let users set their own passwords?",
       "https://www.devever.net/~hl/passwords"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 11:21:41",
-      "https://lobste.rs/s/sts3wo/linear_time_parser_combinators"
-    ],
-    [
-      "Linear-time parser combinators",
-      "https://semantic-domain.blogspot.com/2023/07/linear-time-parser-combinators.html"
     ]
   ]
 ]
