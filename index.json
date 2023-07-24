@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 19:28:45",
+      "https://lobste.rs/s/te7x8n/durable_incrementality"
+    ],
+    [
+      "Durable Incrementality",
+      "https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 19:17:44",
       "https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir"
     ],
@@ -117,16 +127,6 @@
     [
       "Announcing Clipper: TLS-transparent HTTP debugging for native apps",
       "https://jade.fyi/blog/announcing-clipper/"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 12:03:43",
-      "https://lobste.rs/s/typumm/passkey_authentication_with_rodauth"
-    ],
-    [
-      "Passkey Authentication with Rodauth",
-      "https://janko.io/passkey-authentication-with-rodauth/"
     ]
   ],
   [
