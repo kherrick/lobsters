@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 14:59:01](https://lobste.rs/s/hvufhx/zenbleed) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 14:54:45](https://lobste.rs/s/uj0jbs/c_23_syntactic_sugar_with_deducing_this) - [C++23: Syntactic Sugar with Deducing This](http://modernescpp.com/index.php/c-23-syntactic-sugar-with-deducing-this)
 * [2023-07-24, 14:41:59](https://lobste.rs/s/ijle02/ibm_mainframe_how_it_runs_why_it_survives) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 * [2023-07-24, 12:43:21](https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully) - [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
@@ -17,7 +18,6 @@
 * [2023-07-23, 22:03:35](https://lobste.rs/s/wicxqt/inkscape_launches_version_1_3_with_focus) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach_2020) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 17:39:19](https://lobste.rs/s/olxtve/typesetting_rare_chinese_characters) - [Typesetting Rare Chinese Characters in LaTeX (2003)](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
-* [2023-07-23, 16:34:38](https://lobste.rs/s/9dskxq/camp_2023_isdn_pots) - [Camp 2023 – ISDN (and POTS)](https://events.ccc.de/2023/07/23/camp23-isdn/)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
 * [2023-07-23, 16:04:16](https://lobste.rs/s/ko0riw/llama2_c) - [llama2.c](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
