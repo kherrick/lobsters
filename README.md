@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-24, 17:26:08](https://lobste.rs/s/lk3dwn/protohackers_server_programming) - [Protohackers Server Programming Challenge](https://protohackers.com/)
 * [2023-07-24, 17:15:18](https://lobste.rs/s/dwbclt/compressed_chunk_image_format) - [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
 * [2023-07-24, 17:12:22](https://lobste.rs/s/97fj5w/sqlite_utils_now_supports_plugins) - [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
 * [2023-07-24, 14:59:01](https://lobste.rs/s/hvufhx/zenbleed) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
@@ -21,7 +22,6 @@
 * [2023-07-23, 18:08:26](https://lobste.rs/s/ri4eeu/which_parsing_approach_2020) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2023-07-23, 17:39:19](https://lobste.rs/s/olxtve/typesetting_rare_chinese_characters) - [Typesetting Rare Chinese Characters in LaTeX (2003)](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
 * [2023-07-23, 16:27:34](https://lobste.rs/s/ckqj5d/hacking_little_computer_people_on_amiga) - [Hacking Little Computer People on the Amiga](http://www.jaruzel.com/blog/hacking-little-computer-people-on-the-amiga)
-* [2023-07-23, 15:07:02](https://lobste.rs/s/hinsor/architecture_testing) - [Architecture Testing](https://andydote.co.uk/2023/07/23/architecture-testing/)
 * [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
 * [2023-07-23, 13:25:25](https://lobste.rs/s/uuwzcx/jitter_generate_portable_language_vms) - [Jitter: generate portable language VMs from high-level specifications](https://www.gnu.org/software/jitter/)
 * [2023-07-23, 11:52:55](https://lobste.rs/s/yrc59x/allergic_waiting) - [Allergic to Waiting](https://registerspill.thorstenball.com/p/allergic-to-waiting)
