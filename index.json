@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 10:58:21",
+      "https://lobste.rs/s/dbkbsk/request_for_position_web_environment"
+    ],
+    [
+      "Request for Position: Web Environment Integrity API",
+      "https://github.com/mozilla/standards-positions/issues/852"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 08:52:25",
       "https://lobste.rs/s/cuavwk/inference_time_intervention_eliciting"
     ],
@@ -77,16 +87,6 @@
     [
       "Better code highlighting on the web: rehype-tree-sitter",
       "https://haz.ee/technical/rehype-tree-sitter/"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 20:01:47",
-      "https://lobste.rs/s/ckgesk/from_u2f_passkeys"
-    ],
-    [
-      "From U2F to passkeys",
-      "https://www.imperialviolet.org/2023/07/23/u2f-to-passkeys.html"
     ]
   ],
   [
