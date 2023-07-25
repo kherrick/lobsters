@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 04:51:58](https://lobste.rs/s/frq19g/what_s_new_qml_language_server_qmlls) - [What’s new in QML Language Server (qmlls) shipped with Qt 6.6](https://www.qt.io/blog/whats-new-in-qml-language-server-qmlls-shipped-with-qt-6.6)
 * [2023-07-25, 04:31:09](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-25, 00:49:37](https://lobste.rs/s/w1g0do/common_pitfalls_go_benchmarking) - [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
 * [2023-07-24, 23:28:36](https://lobste.rs/s/87tmap/theo_de_raadt_on_zenbleed) - [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
@@ -24,7 +25,6 @@
 * [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 * [2023-07-24, 02:42:58](https://lobste.rs/s/56bxqr/riscv64_is_now_official_debian) - [riscv64 is now an official Debian architecture](https://lists.debian.org/debian-riscv/2023/07/msg00053.html)
 * [2023-07-23, 22:03:35](https://lobste.rs/s/wicxqt/inkscape_launches_version_1_3_with_focus) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
-* [2023-07-23, 13:55:23](https://lobste.rs/s/ydlb0r/openmw_0_48_0_released) - [OpenMW 0.48.0 Released](https://openmw.org/2023/openmw-0-48-0-released/)
 
 ## [Archives](archives/index.md)
 
