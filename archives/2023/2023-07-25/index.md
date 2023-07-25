@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
 * [2023-07-25, 17:48:59](https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339) - [Parsing timestamps and generating RFC3339 dates in Zig](https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a)
 * [2023-07-25, 17:18:08](https://lobste.rs/s/ueoxjk/conway_s_game_life_vim_macro) - [Conway's Game of Life — Vim Macro](https://youtu.be/h6Lu8xoB0rs)
 * [2023-07-25, 16:53:31](https://lobste.rs/s/gny3jv/libsql_diving_into_database_engineering) - [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering)
