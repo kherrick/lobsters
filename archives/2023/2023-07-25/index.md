@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 12:47:40](https://lobste.rs/s/og6e5n/drops_3_notes_on_technic_magic) - [Drops #3. Notes on Technic and Magic](https://reincantamentox.substack.com/p/drops-3-notes-on-technic-and-magic)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 11:51:30](https://lobste.rs/s/0y2ta2/why_remote_daily_sucks_try_remote_journal) - [Why remote daily sucks – Try remote journal](https://www.marcopolita.me/blog/2022/09/02/Daily-Journal.html)
