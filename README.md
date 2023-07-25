@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 11:51:30](https://lobste.rs/s/0y2ta2/why_remote_daily_sucks_try_remote_journal) - [Why remote daily sucks – Try remote journal](https://www.marcopolita.me/blog/2022/09/02/Daily-Journal.html)
@@ -19,7 +20,6 @@
 * [2023-07-24, 17:12:22](https://lobste.rs/s/97fj5w/sqlite_utils_now_supports_plugins) - [sqlite-utils now supports plugins](https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/)
 * [2023-07-24, 14:59:01](https://lobste.rs/s/hvufhx/zenbleed) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 14:41:59](https://lobste.rs/s/ijle02/ibm_mainframe_how_it_runs_why_it_survives) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
-* [2023-07-24, 12:43:21](https://lobste.rs/s/qryixw/100k_open_source_svg_icons_fully) - [100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-24, 12:28:03](https://lobste.rs/s/ndlkuu/go_iterator_experiment) - [Go iterator experiment](https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0)
 * [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
