@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 17:18:08](https://lobste.rs/s/ueoxjk/conway_s_game_life_vim_macro) - [Conway's Game of Life — Vim Macro](https://youtu.be/h6Lu8xoB0rs)
 * [2023-07-25, 16:53:31](https://lobste.rs/s/gny3jv/libsql_diving_into_database_engineering) - [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering)
 * [2023-07-25, 16:36:11](https://lobste.rs/s/4tvui8/sweary_lightweight_agile_planning) - [Sweary Lightweight Agile Planning](https://slap.pm/)
 * [2023-07-25, 15:58:30](https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety) - [Type Systems for Memory Safety](https://borretti.me/article/type-systems-memory-safety#ref1)

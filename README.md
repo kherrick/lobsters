@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 17:18:08](https://lobste.rs/s/ueoxjk/conway_s_game_life_vim_macro) - [Conway's Game of Life — Vim Macro](https://youtu.be/h6Lu8xoB0rs)
 * [2023-07-25, 16:53:31](https://lobste.rs/s/gny3jv/libsql_diving_into_database_engineering) - [libSQL: Diving Into a Database Engineering Epic](https://compileralchemy.substack.com/p/libsql-diving-into-a-database-engineering)
 * [2023-07-25, 16:36:11](https://lobste.rs/s/4tvui8/sweary_lightweight_agile_planning) - [Sweary Lightweight Agile Planning](https://slap.pm/)
 * [2023-07-25, 15:58:30](https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety) - [Type Systems for Memory Safety](https://borretti.me/article/type-systems-memory-safety#ref1)
@@ -12,7 +13,6 @@
 * [2023-07-25, 11:25:05](https://lobste.rs/s/vw7ksj/building_cost_effective_logging) - [Building a cost-effective logging platform using Clickhouse for petabyte scale](https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
 * [2023-07-25, 05:18:58](https://lobste.rs/s/dzinqx/how_speed_up_rust_compiler_data_analysis) - [How to speed up the Rust compiler: data analysis assistance requested](https://nnethercote.github.io/2023/07/25/how-to-speed-up-the-rust-compiler-data-analysis-assistance-requested.html)
 * [2023-07-25, 04:31:09](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
-* [2023-07-25, 00:49:37](https://lobste.rs/s/w1g0do/common_pitfalls_go_benchmarking) - [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 20:57:09](https://lobste.rs/s/dx2etl/better_code_highlighting_on_web_rehype) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
