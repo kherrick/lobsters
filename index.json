@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-07-25, 10:58:21",
-      "https://lobste.rs/s/dbkbsk/request_for_position_web_environment"
-    ],
-    [
-      "Request for Position: Web Environment Integrity API",
-      "https://github.com/mozilla/standards-positions/issues/852"
-    ]
-  ],
-  [
-    [
       "2023-07-25, 05:18:58",
       "https://lobste.rs/s/dzinqx/how_speed_up_rust_compiler_data_analysis"
     ],
@@ -147,6 +137,16 @@
     [
       "Durable Incrementality",
       "https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 19:17:44",
+      "https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir"
+    ],
+    [
+      "A Breakdown of HTTP Clients in Elixir",
+      "https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/"
     ]
   ],
   [
