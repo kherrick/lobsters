@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 15:00:59",
+      "https://lobste.rs/s/u10nkc/honey_encrypted_password_managers"
+    ],
+    [
+      "Honey Encrypted Password Managers",
+      "https://stiankri.substack.com/p/honey-encrypted-password-managers"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 14:25:00",
       "https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm"
     ],
@@ -137,16 +147,6 @@
     [
       "Durable Incrementality",
       "https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 19:17:44",
-      "https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir"
-    ],
-    [
-      "A Breakdown of HTTP Clients in Elixir",
-      "https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/"
     ]
   ],
   [
