@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 21:48:30](https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions) - [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
 * [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 * [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
@@ -10,7 +11,6 @@
 * [2023-07-25, 15:58:30](https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety) - [Type Systems for Memory Safety](https://borretti.me/article/type-systems-memory-safety#ref1)
 * [2023-07-25, 15:40:04](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-25, 15:00:59](https://lobste.rs/s/u10nkc/honey_encrypted_password_managers) - [Honey Encrypted Password Managers](https://stiankri.substack.com/p/honey-encrypted-password-managers)
-* [2023-07-25, 14:25:00](https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm) - [A minimal version of Yannakakis's algorithm for mostly plain Python](https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69)
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
