@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 20:59:29",
+      "https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny"
+    ],
+    [
+      "Proving Beautiful Mathematics in Dafny",
+      "https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 17:48:59",
       "https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339"
     ],
@@ -217,16 +227,6 @@
     [
       "Go iterator experiment",
       "https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 12:10:03",
-      "https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http"
-    ],
-    [
-      "Announcing Clipper: TLS-transparent HTTP debugging for native apps",
-      "https://jade.fyi/blog/announcing-clipper/"
     ]
   ],
   [
