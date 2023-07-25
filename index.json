@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 21:48:30",
+      "https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions"
+    ],
+    [
+      "Tiers of answers to half-baked questions",
+      "https://blog.plover.com/misc/half-baked.html"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 21:36:29",
       "https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix"
     ],
@@ -97,16 +107,6 @@
     [
       "Honey Encrypted Password Managers",
       "https://stiankri.substack.com/p/honey-encrypted-password-managers"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 14:25:00",
-      "https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm"
-    ],
-    [
-      "A minimal version of Yannakakis's algorithm for mostly plain Python",
-      "https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69"
     ]
   ],
   [
