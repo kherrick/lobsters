@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 11:51:30](https://lobste.rs/s/0y2ta2/why_remote_daily_sucks_try_remote_journal) - [Why remote daily sucks – Try remote journal](https://www.marcopolita.me/blog/2022/09/02/Daily-Journal.html)
 * [2023-07-25, 11:25:05](https://lobste.rs/s/vw7ksj/building_cost_effective_logging) - [Building a cost-effective logging platform using Clickhouse for petabyte scale](https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
 * [2023-07-25, 10:58:21](https://lobste.rs/s/dbkbsk/request_for_position_web_environment) - [Request for Position: Web Environment Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 08:52:25](https://lobste.rs/s/cuavwk/inference_time_intervention_eliciting) - [Inference-Time Intervention: Eliciting Truthful Answers from a Language Model](https://arxiv.org/abs/2306.03341)
