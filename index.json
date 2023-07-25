@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 17:48:59",
+      "https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339"
+    ],
+    [
+      "Parsing timestamps and generating RFC3339 dates in Zig",
+      "https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 17:18:08",
       "https://lobste.rs/s/ueoxjk/conway_s_game_life_vim_macro"
     ],
@@ -57,16 +67,6 @@
     [
       "Honey Encrypted Password Managers",
       "https://stiankri.substack.com/p/honey-encrypted-password-managers"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 14:25:00",
-      "https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm"
-    ],
-    [
-      "A minimal version of Yannakakis's algorithm for mostly plain Python",
-      "https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69"
     ]
   ],
   [
