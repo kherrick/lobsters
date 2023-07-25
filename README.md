@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 23:02:47](https://lobste.rs/s/ij66dj/introducing_pg_embedding_extension_for) - [Introducing pg_embedding extension for vector search in Postgres](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:48:30](https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions) - [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
 * [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
@@ -14,7 +15,6 @@
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
-* [2023-07-25, 05:18:58](https://lobste.rs/s/dzinqx/how_speed_up_rust_compiler_data_analysis) - [How to speed up the Rust compiler: data analysis assistance requested](https://nnethercote.github.io/2023/07/25/how-to-speed-up-the-rust-compiler-data-analysis-assistance-requested.html)
 * [2023-07-25, 04:31:09](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
