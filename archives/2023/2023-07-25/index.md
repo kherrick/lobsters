@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 15:00:59](https://lobste.rs/s/u10nkc/honey_encrypted_password_managers) - [Honey Encrypted Password Managers](https://stiankri.substack.com/p/honey-encrypted-password-managers)
 * [2023-07-25, 14:25:00](https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm) - [A minimal version of Yannakakis's algorithm for mostly plain Python](https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69)
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)

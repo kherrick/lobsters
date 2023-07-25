@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 15:00:59](https://lobste.rs/s/u10nkc/honey_encrypted_password_managers) - [Honey Encrypted Password Managers](https://stiankri.substack.com/p/honey-encrypted-password-managers)
 * [2023-07-25, 14:25:00](https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm) - [A minimal version of Yannakakis's algorithm for mostly plain Python](https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69)
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
@@ -14,7 +15,6 @@
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 20:57:09](https://lobste.rs/s/dx2etl/better_code_highlighting_on_web_rehype) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
-* [2023-07-24, 19:17:44](https://lobste.rs/s/l8sinu/breakdown_http_clients_elixir) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
 * [2023-07-24, 17:15:18](https://lobste.rs/s/dwbclt/compressed_chunk_image_format) - [Compressed Chunk Image Format](https://github.com/ghoomy/universe/blob/main/computer%20science/compressed%20chunk%20image%20format.md)
