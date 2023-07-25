@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:48:30](https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions) - [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
 * [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
@@ -10,7 +11,6 @@
 * [2023-07-25, 16:36:11](https://lobste.rs/s/4tvui8/sweary_lightweight_agile_planning) - [Sweary Lightweight Agile Planning](https://slap.pm/)
 * [2023-07-25, 15:58:30](https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety) - [Type Systems for Memory Safety](https://borretti.me/article/type-systems-memory-safety#ref1)
 * [2023-07-25, 15:40:04](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
-* [2023-07-25, 15:00:59](https://lobste.rs/s/u10nkc/honey_encrypted_password_managers) - [Honey Encrypted Password Managers](https://stiankri.substack.com/p/honey-encrypted-password-managers)
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
