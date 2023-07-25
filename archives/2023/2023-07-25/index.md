@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 * [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
 * [2023-07-25, 17:48:59](https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339) - [Parsing timestamps and generating RFC3339 dates in Zig](https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a)

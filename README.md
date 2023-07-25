@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 * [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
 * [2023-07-25, 17:48:59](https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339) - [Parsing timestamps and generating RFC3339 dates in Zig](https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a)
@@ -16,7 +17,6 @@
 * [2023-07-25, 05:18:58](https://lobste.rs/s/dzinqx/how_speed_up_rust_compiler_data_analysis) - [How to speed up the Rust compiler: data analysis assistance requested](https://nnethercote.github.io/2023/07/25/how-to-speed-up-the-rust-compiler-data-analysis-assistance-requested.html)
 * [2023-07-25, 04:31:09](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
-* [2023-07-24, 20:57:09](https://lobste.rs/s/dx2etl/better_code_highlighting_on_web_rehype) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
