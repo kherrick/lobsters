@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-25, 23:02:47",
+      "https://lobste.rs/s/ij66dj/introducing_pg_embedding_extension_for"
+    ],
+    [
+      "Introducing pg_embedding extension for vector search in Postgres",
+      "https://neon.tech/blog/pg-embedding-extension-for-vector-search"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 22:40:43",
       "https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give"
     ],
@@ -137,16 +147,6 @@
     [
       "From Python to Elixir Machine Learning",
       "https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 05:18:58",
-      "https://lobste.rs/s/dzinqx/how_speed_up_rust_compiler_data_analysis"
-    ],
-    [
-      "How to speed up the Rust compiler: data analysis assistance requested",
-      "https://nnethercote.github.io/2023/07/25/how-to-speed-up-the-rust-compiler-data-analysis-assistance-requested.html"
     ]
   ],
   [
