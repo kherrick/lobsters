@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 12:47:40](https://lobste.rs/s/og6e5n/drops_3_notes_on_technic_magic) - [Drops #3. Notes on Technic and Magic](https://reincantamentox.substack.com/p/drops-3-notes-on-technic-and-magic)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 11:51:30](https://lobste.rs/s/0y2ta2/why_remote_daily_sucks_try_remote_journal) - [Why remote daily sucks – Try remote journal](https://www.marcopolita.me/blog/2022/09/02/Daily-Journal.html)
 * [2023-07-25, 11:25:05](https://lobste.rs/s/vw7ksj/building_cost_effective_logging) - [Building a cost-effective logging platform using Clickhouse for petabyte scale](https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
@@ -24,7 +25,6 @@
 * [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
-* [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 
 ## [Archives](archives/index.md)
 

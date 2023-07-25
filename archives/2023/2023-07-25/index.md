@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 12:47:40](https://lobste.rs/s/og6e5n/drops_3_notes_on_technic_magic) - [Drops #3. Notes on Technic and Magic](https://reincantamentox.substack.com/p/drops-3-notes-on-technic-and-magic)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 11:51:30](https://lobste.rs/s/0y2ta2/why_remote_daily_sucks_try_remote_journal) - [Why remote daily sucks – Try remote journal](https://www.marcopolita.me/blog/2022/09/02/Daily-Journal.html)
 * [2023-07-25, 11:25:05](https://lobste.rs/s/vw7ksj/building_cost_effective_logging) - [Building a cost-effective logging platform using Clickhouse for petabyte scale](https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale)
