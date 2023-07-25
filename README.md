@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-25, 14:25:00](https://lobste.rs/s/bpqpyz/minimal_version_yannakakis_s_algorithm) - [A minimal version of Yannakakis's algorithm for mostly plain Python](https://gist.github.com/pkhuong/69b457af82eeb2bc3ebf1a3e4209ae69)
 * [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 11:59:55](https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -24,7 +25,6 @@
 * [2023-07-24, 12:10:03](https://lobste.rs/s/wxrhsb/announcing_clipper_tls_transparent_http) - [Announcing Clipper: TLS-transparent HTTP debugging for native apps](https://jade.fyi/blog/announcing-clipper/)
 * [2023-07-24, 10:54:21](https://lobste.rs/s/bkr8d1/package_manager_for_sqlite) - [Package manager for SQLite](https://github.com/nalgeon/sqlpkg-cli#readme)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
-* [2023-07-24, 03:59:56](https://lobste.rs/s/9crmrr/original_sin_free_software_2019) - [The Original Sin of Free Software (2019)](https://lipu.dgold.eu/original-sin)
 
 ## [Archives](archives/index.md)
 
