@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-07-26, 08:33:21",
-      "https://lobste.rs/s/c7cqz7/caldav_aggregator_with_bidirectional"
-    ],
-    [
-      "CalDav Aggregator with bidirectional Sync?",
-      "https://lobste.rs/s/c7cqz7/caldav_aggregator_with_bidirectional"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 07:14:11",
       "https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal"
     ],
@@ -227,6 +217,16 @@
     [
       "The single most impor­tant factor that dif­fer­enti­ates front-end frame­works",
       "https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 19:28:45",
+      "https://lobste.rs/s/te7x8n/durable_incrementality"
+    ],
+    [
+      "Durable Incrementality",
+      "https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html"
     ]
   ],
   [
