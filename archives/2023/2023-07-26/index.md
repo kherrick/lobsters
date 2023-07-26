@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
 * [2023-07-26, 09:12:19](https://lobste.rs/s/w35q3r/improving_your_user_experience_with_edge) - [Improving your user experience with Edge Caching](https://grafbase.com/blog/improving-your-user-experience-with-edge-caching)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
