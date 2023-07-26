@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 13:45:44",
+      "https://lobste.rs/s/brjlpg/checking_usage_realloc_with_valgrind"
+    ],
+    [
+      "Checking usage of realloc with Valgrind",
+      "https://developers.redhat.com/articles/2023/07/26/checking-usage-realloc-valgrind"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 13:12:03",
       "https://lobste.rs/s/lecglq/bpfilter_is_forever"
     ],
@@ -227,16 +237,6 @@
     [
       "The magic of no maintenance",
       "https://dimtion.fr/blog/the-magic-of-no-maintenance/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 04:31:09",
-      "https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti"
-    ],
-    [
-      "The single most impor­tant factor that dif­fer­enti­ates front-end frame­works",
-      "https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks"
     ]
   ],
   [
