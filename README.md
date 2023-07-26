@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 17:18:54](https://lobste.rs/s/bsn3gy/research_programming_wikidata) - [Research in programming Wikidata](https://en.m.wikiversity.org/wiki/Research_in_programming_Wikidata)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
 * [2023-07-26, 15:25:48](https://lobste.rs/s/lqs1fe/it_s_all_above_single_board) - [It’s All Above Single-Board](https://www.leadedsolder.com/2023/07/11/office-tetsu-sbc6809e-build-diagnose.html)
@@ -15,7 +16,6 @@
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
-* [2023-07-26, 06:59:47](https://lobste.rs/s/0qofdl/hsts_preload_adoption_challenges) - [HSTS preload - adoption and challenges](https://blog.apnic.net/2023/07/26/hsts-preload-adoption-and-challenges/)
 * [2023-07-26, 04:17:51](https://lobste.rs/s/ysecxa/quantum_doesn_t_solve_anything_for) - [\"Quantum\" Doesn't Solve Anything for Cybersecurity](https://kellyshortridge.com/blog/posts/quantum-doesnt-solve-anything/)
 * [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
 * [2023-07-26, 00:43:37](https://lobste.rs/s/f9rrzg/treemaps_are_awesome) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
