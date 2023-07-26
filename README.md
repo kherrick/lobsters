@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 04:17:51](https://lobste.rs/s/ysecxa/quantum_doesn_t_solve_anything_for) - [\"Quantum\" Doesn't Solve Anything for Cybersecurity](https://kellyshortridge.com/blog/posts/quantum-doesnt-solve-anything/)
 * [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
 * [2023-07-26, 00:43:37](https://lobste.rs/s/f9rrzg/treemaps_are_awesome) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 23:02:47](https://lobste.rs/s/ij66dj/introducing_pg_embedding_extension_for) - [Introducing pg_embedding extension for vector search in Postgres](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:48:30](https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions) - [Tiers of answers to half-baked questions](https://blog.plover.com/misc/half-baked.html)
-* [2023-07-25, 21:36:29](https://lobste.rs/s/z740rf/build_full_stack_app_with_rust_yew_rs_actix) - [Build a Full Stack App with Rust, Yew.rs and Actix Web](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 * [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
 * [2023-07-25, 17:48:59](https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339) - [Parsing timestamps and generating RFC3339 dates in Zig](https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a)
