@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 20:28:09](https://lobste.rs/s/213esj/next_step_for_nvk_merging_into_mesa) - [The next step for NVK: Merging into Mesa](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
 * [2023-07-26, 20:00:12](https://lobste.rs/s/mzpide/putting_ai_gongkai) - [Putting the AI in Gongkai (公开)](https://twitter.com/TACIXAT/status/1684291497443856384)
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
 * [2023-07-26, 19:23:13](https://lobste.rs/s/piwuij/how_style_atom_feed_with_xslt) - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
@@ -12,7 +13,6 @@
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 13:12:03](https://lobste.rs/s/lecglq/bpfilter_is_forever) - [bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-26, 13:05:24](https://lobste.rs/s/zwpali/templates_doom) - [Templates of Doom](https://lock.cmpxchg8b.com/doom.html)
-* [2023-07-26, 12:39:40](https://lobste.rs/s/amrldo/structure_interpretation_ark) - [structure and interpretation of ark](https://wingolog.org/archives/2023/05/02/structure-and-interpretation-of-ark)
 * [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
