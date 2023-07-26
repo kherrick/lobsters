@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-26, 07:00:57",
+      "https://lobste.rs/s/cmvymu/stealth_not_secrecy"
+    ],
+    [
+      "Stealth, not secrecy",
+      "https://lemire.me/blog/2023/07/08/stealth-not-secrecy/"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 06:59:47",
+      "https://lobste.rs/s/0qofdl/hsts_preload_adoption_challenges"
+    ],
+    [
+      "HSTS preload - adoption and challenges",
+      "https://blog.apnic.net/2023/07/26/hsts-preload-adoption-and-challenges/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 04:17:51",
       "https://lobste.rs/s/ysecxa/quantum_doesn_t_solve_anything_for"
     ],
@@ -217,26 +237,6 @@
     [
       "Zenbleed",
       "https://lock.cmpxchg8b.com/zenbleed.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 12:28:03",
-      "https://lobste.rs/s/ndlkuu/go_iterator_experiment"
-    ],
-    [
-      "Go iterator experiment",
-      "https://gist.github.com/carlmjohnson/f04f8a9ba2293854cdb4e3b742fc1fe0"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 10:54:21",
-      "https://lobste.rs/s/bkr8d1/package_manager_for_sqlite"
-    ],
-    [
-      "Package manager for SQLite",
-      "https://github.com/nalgeon/sqlpkg-cli#readme"
     ]
   ],
   [
