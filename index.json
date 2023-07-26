@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 18:06:05",
+      "https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer"
+    ],
+    [
+      "Some designs for modern peer-to-peer networking",
+      "https://countvajhula.com/2023/07/25/some-designs-for-modern-peer-to-peer-networking/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 17:18:54",
       "https://lobste.rs/s/bsn3gy/research_programming_wikidata"
     ],
@@ -217,16 +227,6 @@
     [
       "Proving Beautiful Mathematics in Dafny",
       "https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 15:58:30",
-      "https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety"
-    ],
-    [
-      "Type Systems for Memory Safety",
-      "https://borretti.me/article/type-systems-memory-safety#ref1"
     ]
   ],
   [
