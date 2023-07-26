@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 11:30:04",
+      "https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you"
+    ],
+    [
+      "Before you try to do something, make sure you can do nothing",
+      "https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 11:21:29",
       "https://lobste.rs/s/tzdyog/practical_comparison_arm_compilers"
     ],
@@ -237,16 +247,6 @@
     [
       "Zenbleed",
       "https://lock.cmpxchg8b.com/zenbleed.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 10:08:35",
-      "https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun"
-    ],
-    [
-      "Seriously, you should be having fun writing software at work",
-      "https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c"
     ]
   ]
 ]
