@@ -5,6 +5,7 @@
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
 * [2023-07-26, 15:25:48](https://lobste.rs/s/lqs1fe/it_s_all_above_single_board) - [It’s All Above Single-Board](https://www.leadedsolder.com/2023/07/11/office-tetsu-sbc6809e-build-diagnose.html)
+* [2023-07-26, 14:59:45](https://lobste.rs/s/enu6vl/shittier_code_formatter_for_chaos) - [Shittier - A code formatter for chaos](https://marketplace.visualstudio.com/items?itemName=raidteyar.raidteyar-shittier)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 13:45:44](https://lobste.rs/s/brjlpg/checking_usage_realloc_with_valgrind) - [Checking usage of realloc with Valgrind](https://developers.redhat.com/articles/2023/07/26/checking-usage-realloc-valgrind)
 * [2023-07-26, 13:12:03](https://lobste.rs/s/lecglq/bpfilter_is_forever) - [bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
@@ -23,7 +24,6 @@
 * [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 * [2023-07-25, 20:59:29](https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny) - [Proving Beautiful Mathematics in Dafny](https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/)
-* [2023-07-25, 15:40:04](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 
 ## [Archives](archives/index.md)
