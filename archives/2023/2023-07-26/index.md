@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 08:33:21](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync) - [CalDav Aggregator with two-say Sync?](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 07:00:57](https://lobste.rs/s/cmvymu/stealth_not_secrecy) - [Stealth, not secrecy](https://lemire.me/blog/2023/07/08/stealth-not-secrecy/)
