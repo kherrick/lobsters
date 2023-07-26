@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 08:33:21](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync) - [CalDav Aggregator with two-say Sync?](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 06:59:47](https://lobste.rs/s/0qofdl/hsts_preload_adoption_challenges) - [HSTS preload - adoption and challenges](https://blog.apnic.net/2023/07/26/hsts-preload-adoption-and-challenges/)
 * [2023-07-26, 04:17:51](https://lobste.rs/s/ysecxa/quantum_doesn_t_solve_anything_for) - [\"Quantum\" Doesn't Solve Anything for Cybersecurity](https://kellyshortridge.com/blog/posts/quantum-doesnt-solve-anything/)
@@ -22,7 +23,6 @@
 * [2023-07-24, 21:23:04](https://lobste.rs/s/xbnyuw/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:28:45](https://lobste.rs/s/te7x8n/durable_incrementality) - [Durable Incrementality](https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:07:09](https://lobste.rs/s/6gi03y/attention_is_off_by_one) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
-* [2023-07-24, 17:50:09](https://lobste.rs/s/f5gjq0/e_graph_data_structure_gradual) - [The e-graph data structure: a gradual introduction](https://www.cole-k.com/2023/07/24/e-graphs-primer/)
 * [2023-07-24, 14:59:01](https://lobste.rs/s/hvufhx/zenbleed) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 10:08:35](https://lobste.rs/s/hqchwu/seriously_you_should_be_having_fun) - [Seriously, you should be having fun writing software at work](https://medium.com/leboncoin-engineering-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c)
 

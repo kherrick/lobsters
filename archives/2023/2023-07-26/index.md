@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 08:33:21](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync) - [CalDav Aggregator with two-say Sync?](https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 07:00:57](https://lobste.rs/s/cmvymu/stealth_not_secrecy) - [Stealth, not secrecy](https://lemire.me/blog/2023/07/08/stealth-not-secrecy/)
 * [2023-07-26, 06:59:47](https://lobste.rs/s/0qofdl/hsts_preload_adoption_challenges) - [HSTS preload - adoption and challenges](https://blog.apnic.net/2023/07/26/hsts-preload-adoption-and-challenges/)
