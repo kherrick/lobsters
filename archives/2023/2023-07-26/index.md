@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 11:21:29](https://lobste.rs/s/tzdyog/practical_comparison_arm_compilers) - [Practical comparison of ARM compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 * [2023-07-26, 10:42:18](https://lobste.rs/s/nwfqiv/arc_1_0) - [Arc 1.0](https://arc.net/)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
