@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 20:00:12](https://lobste.rs/s/mzpide/putting_ai_gongkai) - [Putting the AI in Gongkai (公开)](https://twitter.com/TACIXAT/status/1684291497443856384)
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
 * [2023-07-26, 19:23:13](https://lobste.rs/s/piwuij/how_style_atom_feed_with_xslt) - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
 * [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)

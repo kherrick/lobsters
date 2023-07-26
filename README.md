@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 20:00:12](https://lobste.rs/s/mzpide/putting_ai_gongkai) - [Putting the AI in Gongkai (公开)](https://twitter.com/TACIXAT/status/1684291497443856384)
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
 * [2023-07-26, 19:23:13](https://lobste.rs/s/piwuij/how_style_atom_feed_with_xslt) - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
 * [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)
@@ -18,7 +19,6 @@
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
-* [2023-07-26, 04:17:51](https://lobste.rs/s/ysecxa/quantum_doesn_t_solve_anything_for) - [\"Quantum\" Doesn't Solve Anything for Cybersecurity](https://kellyshortridge.com/blog/posts/quantum-doesnt-solve-anything/)
 * [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
 * [2023-07-26, 00:43:37](https://lobste.rs/s/f9rrzg/treemaps_are_awesome) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
