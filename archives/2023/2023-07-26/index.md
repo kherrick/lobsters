@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 10:42:18](https://lobste.rs/s/nwfqiv/arc_1_0) - [Arc 1.0](https://arc.net/)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
 * [2023-07-26, 09:12:19](https://lobste.rs/s/w35q3r/improving_your_user_experience_with_edge) - [Improving your user experience with Edge Caching](https://grafbase.com/blog/improving-your-user-experience-with-edge-caching)
