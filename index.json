@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 10:36:09",
+      "https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul"
+    ],
+    [
+      "Go 1.22 inlining overhaul",
+      "https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 10:13:31",
       "https://lobste.rs/s/hdsg1n/sort_benchmark"
     ],
@@ -197,16 +207,6 @@
     [
       "The magic of no maintenance",
       "https://dimtion.fr/blog/the-magic-of-no-maintenance/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 11:59:55",
-      "https://lobste.rs/s/nzezfc/from_python_elixir_machine_learning"
-    ],
-    [
-      "From Python to Elixir Machine Learning",
-      "https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/"
     ]
   ],
   [
