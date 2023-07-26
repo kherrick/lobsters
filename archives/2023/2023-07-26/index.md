@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 21:48:04](https://lobste.rs/s/ebztmj/now_we_know_which_cs_publication_used_term) - [Now we know which CS publication used the term \"object-oriented\" for the first time](https://news.ycombinator.com/item?id=36879311)
 * [2023-07-26, 20:28:09](https://lobste.rs/s/213esj/next_step_for_nvk_merging_into_mesa) - [The next step for NVK: Merging into Mesa](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
 * [2023-07-26, 20:00:12](https://lobste.rs/s/mzpide/putting_ai_gongkai) - [Putting the AI in Gongkai (公开)](https://twitter.com/TACIXAT/status/1684291497443856384)
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
