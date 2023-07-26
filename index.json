@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 19:22:39",
+      "https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks"
+    ],
+    [
+      "CRT-free in 2023: tips and tricks",
+      "https://nullprogram.com/blog/2023/02/15/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 18:06:05",
       "https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer"
     ],
@@ -147,16 +157,6 @@
     [
       "Go 1.22 inlining overhaul",
       "https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 10:13:31",
-      "https://lobste.rs/s/hdsg1n/sort_benchmark"
-    ],
-    [
-      "Sort Benchmark",
-      "https://sortbenchmark.org/"
     ]
   ],
   [
