@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
 * [2023-07-26, 15:25:48](https://lobste.rs/s/lqs1fe/it_s_all_above_single_board) - [It’s All Above Single-Board](https://www.leadedsolder.com/2023/07/11/office-tetsu-sbc6809e-build-diagnose.html)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)

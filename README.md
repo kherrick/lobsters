@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
 * [2023-07-26, 15:25:48](https://lobste.rs/s/lqs1fe/it_s_all_above_single_board) - [It’s All Above Single-Board](https://www.leadedsolder.com/2023/07/11/office-tetsu-sbc6809e-build-diagnose.html)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
@@ -12,7 +13,6 @@
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
-* [2023-07-26, 09:12:19](https://lobste.rs/s/w35q3r/improving_your_user_experience_with_edge) - [Improving your user experience with Edge Caching](https://grafbase.com/blog/improving-your-user-experience-with-edge-caching)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 06:59:47](https://lobste.rs/s/0qofdl/hsts_preload_adoption_challenges) - [HSTS preload - adoption and challenges](https://blog.apnic.net/2023/07/26/hsts-preload-adoption-and-challenges/)
