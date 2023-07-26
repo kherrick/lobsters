@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-26, 12:39:40",
+      "https://lobste.rs/s/amrldo/structure_interpretation_ark"
+    ],
+    [
+      "structure and interpretation of ark",
+      "https://wingolog.org/archives/2023/05/02/structure-and-interpretation-of-ark"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 12:35:36",
+      "https://lobste.rs/s/xkpgwp/copy_hunting"
+    ],
+    [
+      "Copy Hunting",
+      "https://tigerbeetle.com/blog/2023-07-26-copy-hunting/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 12:04:51",
       "https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-07-25, 21:48:30",
-      "https://lobste.rs/s/izz93u/tiers_answers_half_baked_questions"
-    ],
-    [
-      "Tiers of answers to half-baked questions",
-      "https://blog.plover.com/misc/half-baked.html"
-    ]
-  ],
-  [
-    [
       "2023-07-25, 21:17:37",
       "https://lobste.rs/s/00fsed/badapplefont"
     ],
@@ -157,16 +167,6 @@
     [
       "Proving Beautiful Mathematics in Dafny",
       "https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 17:48:59",
-      "https://lobste.rs/s/cnh3st/parsing_timestamps_generating_rfc3339"
-    ],
-    [
-      "Parsing timestamps and generating RFC3339 dates in Zig",
-      "https://www.aolium.com/karlseguin/cf03dee6-90e1-85ac-8442-cf9e6c11602a"
     ]
   ],
   [
