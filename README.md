@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-26, 11:21:29](https://lobste.rs/s/tzdyog/practical_comparison_arm_compilers) - [Practical comparison of ARM compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
-* [2023-07-26, 10:42:18](https://lobste.rs/s/nwfqiv/arc_1_0) - [Arc 1.0](https://arc.net/)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 10:13:31](https://lobste.rs/s/hdsg1n/sort_benchmark) - [Sort Benchmark](https://sortbenchmark.org/)
 * [2023-07-26, 09:12:19](https://lobste.rs/s/w35q3r/improving_your_user_experience_with_edge) - [Improving your user experience with Edge Caching](https://grafbase.com/blog/improving-your-user-experience-with-edge-caching)
