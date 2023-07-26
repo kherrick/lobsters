@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 08:47:23",
+      "https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our"
+    ],
+    [
+      "5 Reasons We Use Open Source FreeBSD as Our Enterprise OS",
+      "https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 08:33:21",
       "https://lobste.rs/s/c7cqz7/caldav_aggregator_with_two_say_sync"
     ],
@@ -217,16 +227,6 @@
     [
       "Durable Incrementality",
       "https://rust-analyzer.github.io/blog/2023/07/24/durable-incrementality.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 18:07:09",
-      "https://lobste.rs/s/6gi03y/attention_is_off_by_one"
-    ],
-    [
-      "Attention Is Off By One",
-      "https://www.evanmiller.org/attention-is-off-by-one.html"
     ]
   ],
   [
