@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 13:05:24](https://lobste.rs/s/zwpali/templates_doom) - [Templates of Doom](https://lock.cmpxchg8b.com/doom.html)
 * [2023-07-26, 12:39:40](https://lobste.rs/s/amrldo/structure_interpretation_ark) - [structure and interpretation of ark](https://wingolog.org/archives/2023/05/02/structure-and-interpretation-of-ark)
 * [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
@@ -21,7 +22,6 @@
 * [2023-07-25, 16:36:11](https://lobste.rs/s/4tvui8/sweary_lightweight_agile_planning) - [Sweary Lightweight Agile Planning](https://slap.pm/)
 * [2023-07-25, 15:58:30](https://lobste.rs/s/yb6l6c/type_systems_for_memory_safety) - [Type Systems for Memory Safety](https://borretti.me/article/type-systems-memory-safety#ref1)
 * [2023-07-25, 15:40:04](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
-* [2023-07-25, 13:53:58](https://lobste.rs/s/comzw0/nuance_domain) - [The Nuance of “Domain”](https://blog.jim-nielsen.com/2023/domain-nuance/)
 * [2023-07-25, 12:51:43](https://lobste.rs/s/vgyvrh/magic_no_maintenance) - [The magic of no maintenance](https://dimtion.fr/blog/the-magic-of-no-maintenance/)
 * [2023-07-25, 04:31:09](https://lobste.rs/s/cplzv8/single_most_impor_tant_factor_dif_fer_enti) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-24, 14:59:01](https://lobste.rs/s/hvufhx/zenbleed) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
