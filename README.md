@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-26, 21:54:48](https://lobste.rs/s/iefxui/introducing_tiddlypwa_putting) - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 * [2023-07-26, 21:48:04](https://lobste.rs/s/ebztmj/now_we_know_which_cs_publication_used_term) - [Now we know which CS publication used the term \"object-oriented\" for the first time](https://news.ycombinator.com/item?id=36879311)
 * [2023-07-26, 20:28:09](https://lobste.rs/s/213esj/next_step_for_nvk_merging_into_mesa) - [The next step for NVK: Merging into Mesa](https://www.collabora.com/news-and-blog/news-and-events/next-step-for-nvk-merging-into-mesa.html)
 * [2023-07-26, 20:00:12](https://lobste.rs/s/mzpide/putting_ai_gongkai) - [Putting the AI in Gongkai (公开)](https://twitter.com/TACIXAT/status/1684291497443856384)
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
 * [2023-07-26, 19:23:13](https://lobste.rs/s/piwuij/how_style_atom_feed_with_xslt) - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
-* [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)
 * [2023-07-26, 18:06:05](https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer) - [Some designs for modern peer-to-peer networking](https://countvajhula.com/2023/07/25/some-designs-for-modern-peer-to-peer-networking/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
