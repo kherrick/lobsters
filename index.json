@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 10:13:31",
+      "https://lobste.rs/s/hdsg1n/sort_benchmark"
+    ],
+    [
+      "Sort Benchmark",
+      "https://sortbenchmark.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 09:12:19",
       "https://lobste.rs/s/w35q3r/improving_your_user_experience_with_edge"
     ],
@@ -77,16 +87,6 @@
     [
       "Treemaps are awesome",
       "https://blog.phronemophobic.com/treemaps-are-awesome.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 23:02:47",
-      "https://lobste.rs/s/ij66dj/introducing_pg_embedding_extension_for"
-    ],
-    [
-      "Introducing pg_embedding extension for vector search in Postgres",
-      "https://neon.tech/blog/pg-embedding-extension-for-vector-search"
     ]
   ],
   [
