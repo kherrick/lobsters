@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 12:39:40](https://lobste.rs/s/amrldo/structure_interpretation_ark) - [structure and interpretation of ark](https://wingolog.org/archives/2023/05/02/structure-and-interpretation-of-ark)
+* [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-26, 11:21:29](https://lobste.rs/s/tzdyog/practical_comparison_arm_compilers) - [Practical comparison of ARM compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
