@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 05:30:10](https://lobste.rs/s/ctchqm/pine64_vs_odroid_emmc_performance) - [Pine64 vs ODROID eMMC Performance Testing](https://www.sevarg.net/2022/02/05/pine64-and-odroid-emmc-performance/)
 * [2023-07-27, 00:38:53](https://lobste.rs/s/iryife/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
