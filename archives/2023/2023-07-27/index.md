@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-27, 15:37:50](https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems) - [Long term ownership of event-driven systems](https://encore.dev/blog/long-term-ownership)
 * [2023-07-27, 15:36:05](https://lobste.rs/s/cj6m9m/contributing_support_for_wasm) - [Contributing support for a Wasm instruction to Winch](https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch)
 * [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)

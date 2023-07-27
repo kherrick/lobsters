@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-27, 15:37:50](https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems) - [Long term ownership of event-driven systems](https://encore.dev/blog/long-term-ownership)
 * [2023-07-27, 15:36:05](https://lobste.rs/s/cj6m9m/contributing_support_for_wasm) - [Contributing support for a Wasm instruction to Winch](https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch)
 * [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
@@ -23,7 +24,6 @@
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
-* [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 
 ## [Archives](archives/index.md)
