@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 12:33:57](https://lobste.rs/s/yglohz/implementation_tabr_new_deep_learning) - [Implementation of TabR - a new Deep Learning model for Tabular Data problems](https://github.com/yandex-research/tabular-dl-tabr)
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 05:41:12](https://lobste.rs/s/ybkzzr/when_good_correlation_is_not_enough) - [When Good Correlation is Not Enough](https://hakibenita.com/postgresql-correlation-brin-multi-minmax)
@@ -23,7 +24,6 @@
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
-* [2023-07-26, 00:43:37](https://lobste.rs/s/f9rrzg/treemaps_are_awesome) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 
 ## [Archives](archives/index.md)
