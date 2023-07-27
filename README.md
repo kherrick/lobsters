@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-07-27, 20:55:03](https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2) - [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
+* [2023-07-27, 20:37:09](https://lobste.rs/s/4kcufq/crates_io_postmortem_broken_crate) - [crates.io Postmortem: Broken Crate Downloads](https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html)
 * [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 17:36:34](https://lobste.rs/s/kygygd/what_we_plan_remove_kde_plasma_6) - [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
 * [2023-07-27, 17:24:14](https://lobste.rs/s/p53bie/soldering_micro_usb_socket_pcb) - [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
 * [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
-* [2023-07-27, 16:58:41](https://lobste.rs/s/vvnydg/axpbox_alpha_emulator_release_1_1_1) - [AXPBox Alpha Emulator release 1.1.1](https://github.com/lenticularis39/axpbox/releases/tag/v1.1.1)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 16:09:44](https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-27, 16:00:08](https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate) - [Textual - Using Rich Inspect to interrogate Python objects](https://textual.textualize.io/blog/2023/07/27/using-rich-inspect-to-interrogate-python-objects/)
