@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 * [2023-07-27, 16:58:41](https://lobste.rs/s/vvnydg/axpbox_alpha_emulator_release_1_1_1) - [AXPBox Alpha Emulator release 1.1.1](https://github.com/lenticularis39/axpbox/releases/tag/v1.1.1)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 16:00:08](https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate) - [Textual - Using Rich Inspect to interrogate Python objects](https://textual.textualize.io/blog/2023/07/27/using-rich-inspect-to-interrogate-python-objects/)
@@ -23,7 +24,6 @@
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
-* [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 
 ## [Archives](archives/index.md)
