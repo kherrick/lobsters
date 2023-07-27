@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 05:41:12](https://lobste.rs/s/ybkzzr/when_good_correlation_is_not_enough) - [When Good Correlation is Not Enough](https://hakibenita.com/postgresql-correlation-brin-multi-minmax)
 * [2023-07-27, 05:30:10](https://lobste.rs/s/ctchqm/pine64_vs_odroid_emmc_performance) - [Pine64 vs ODROID eMMC Performance Testing](https://www.sevarg.net/2022/02/05/pine64-and-odroid-emmc-performance/)
@@ -11,7 +12,6 @@
 * [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)
 * [2023-07-26, 18:06:05](https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer) - [Some designs for modern peer-to-peer networking](https://countvajhula.com/2023/07/25/some-designs-for-modern-peer-to-peer-networking/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
-* [2023-07-26, 15:27:23](https://lobste.rs/s/rjzsfw/emulator_debugging_windows_3_0_vga) - [Emulator Debugging: Windows 3.0 and VGA](https://martypc.blogspot.com/2023/07/emulator-debugging-windows-30-and-vga.html)
 * [2023-07-26, 14:59:45](https://lobste.rs/s/enu6vl/shittier_code_formatter_for_chaos) - [Shittier - A code formatter for chaos](https://marketplace.visualstudio.com/items?itemName=raidteyar.raidteyar-shittier)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 13:12:03](https://lobste.rs/s/lecglq/bpfilter_is_forever) - [bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
