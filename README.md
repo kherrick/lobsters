@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
 * [2023-07-27, 15:13:15](https://lobste.rs/s/vjqzal/large_language_models_explained_with) - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [2023-07-27, 13:56:15](https://lobste.rs/s/hn8evd/liveask_update_adds_pre_screening) - [liveask update adds pre-screening support and animations](https://github.com/liveask/liveask/releases/tag/v2.3.2)
 * [2023-07-27, 13:47:53](https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp) - [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
@@ -17,7 +18,6 @@
 * [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
-* [2023-07-26, 13:05:24](https://lobste.rs/s/zwpali/templates_doom) - [Templates of Doom](https://lock.cmpxchg8b.com/doom.html)
 * [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
 * [2023-07-26, 11:30:04](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
