@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 15:13:15](https://lobste.rs/s/vjqzal/large_language_models_explained_with) - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [2023-07-27, 13:56:15](https://lobste.rs/s/hn8evd/liveask_update_adds_pre_screening) - [liveask update adds pre-screening support and animations](https://github.com/liveask/liveask/releases/tag/v2.3.2)
 * [2023-07-27, 13:47:53](https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp) - [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
@@ -23,7 +24,6 @@
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
-* [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 
 ## [Archives](archives/index.md)
