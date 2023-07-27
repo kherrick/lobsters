@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-27, 19:04:50",
+      "https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage"
+    ],
+    [
+      "Building and operating a pretty big storage system called S3",
+      "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 18:44:15",
       "https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh"
     ],
@@ -167,16 +177,6 @@
     [
       "Tarsnap outage post-mortem",
       "https://mail.tarsnap.com/tarsnap-announce/msg00050.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 00:38:53",
-      "https://lobste.rs/s/iryife/bit_stealing_made_legal"
-    ],
-    [
-      "Bit-Stealing Made Legal",
-      "https://inria.hal.science/hal-04165615/document"
     ]
   ],
   [
