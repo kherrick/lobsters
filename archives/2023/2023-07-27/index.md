@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 16:00:08](https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate) - [Textual - Using Rich Inspect to interrogate Python objects](https://textual.textualize.io/blog/2023/07/27/using-rich-inspect-to-interrogate-python-objects/)
+* [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-27, 15:37:50](https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems) - [Long term ownership of event-driven systems](https://encore.dev/blog/long-term-ownership)
 * [2023-07-27, 15:36:05](https://lobste.rs/s/cj6m9m/contributing_support_for_wasm) - [Contributing support for a Wasm instruction to Winch](https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch)
