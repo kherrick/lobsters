@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-27, 13:07:40",
+      "https://lobste.rs/s/xc91tq/supercharge_your_stimulus_controllers"
+    ],
+    [
+      "Supercharge your Stimulus controllers with Custom APIs",
+      "https://marcoroth.dev/posts/supercharge-your-stimulus-controllers-with-custom-apis"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 12:33:57",
       "https://lobste.rs/s/yglohz/implementation_tabr_new_deep_learning"
     ],
@@ -127,16 +137,6 @@
     [
       "Rethinking Window Management in GNOME",
       "https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 14:59:45",
-      "https://lobste.rs/s/enu6vl/shittier_code_formatter_for_chaos"
-    ],
-    [
-      "Shittier - A code formatter for chaos",
-      "https://marketplace.visualstudio.com/items?itemName=raidteyar.raidteyar-shittier"
     ]
   ],
   [
