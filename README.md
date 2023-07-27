@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 13:07:40](https://lobste.rs/s/xc91tq/supercharge_your_stimulus_controllers) - [Supercharge your Stimulus controllers with Custom APIs](https://marcoroth.dev/posts/supercharge-your-stimulus-controllers-with-custom-apis)
 * [2023-07-27, 12:33:57](https://lobste.rs/s/yglohz/implementation_tabr_new_deep_learning) - [Implementation of TabR - a new Deep Learning model for Tabular Data problems](https://github.com/yandex-research/tabular-dl-tabr)
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
@@ -15,7 +16,6 @@
 * [2023-07-26, 18:06:05](https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer) - [Some designs for modern peer-to-peer networking](https://countvajhula.com/2023/07/25/some-designs-for-modern-peer-to-peer-networking/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
-* [2023-07-26, 13:12:03](https://lobste.rs/s/lecglq/bpfilter_is_forever) - [bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-26, 13:05:24](https://lobste.rs/s/zwpali/templates_doom) - [Templates of Doom](https://lock.cmpxchg8b.com/doom.html)
 * [2023-07-26, 12:35:36](https://lobste.rs/s/xkpgwp/copy_hunting) - [Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:04:51](https://lobste.rs/s/44vdeu/itanic_part_1_running_dead_architecture) - [Itanic, part 1— running a dead architecture on modern hardware](https://nocoffei.com/?p=31)
