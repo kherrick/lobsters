@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 23:29:35](https://lobste.rs/s/otfabv/long_journey_cross_platform_developer) - [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
+* [2023-07-27, 23:27:24](https://lobste.rs/s/m7chkz/object_as_morphism_2015) - [Object as a Morphism (2015)](https://fumieval.github.io/papers/en/2015-Haskell-objects.pdf)
 * [2023-07-27, 20:55:03](https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2) - [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
 * [2023-07-27, 20:37:09](https://lobste.rs/s/4kcufq/crates_io_postmortem_broken_crate) - [crates.io Postmortem: Broken Crate Downloads](https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html)
 * [2023-07-27, 20:09:47](https://lobste.rs/s/4s9jyk/universal_transferable_attacks_on) - [Universal and Transferable Attacks on Aligned Language Models](https://llm-attacks.org/)
