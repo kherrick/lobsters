@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-27, 16:17:16",
+      "https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site"
+    ],
+    [
+      "Is highlight.js Harmful for Your Site?",
+      "https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 16:09:44",
+      "https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think"
+    ],
+    [
+      "Unicode is harder than you think",
+      "https://mcilloni.ovh/2023/07/23/unicode-is-hard/"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 16:00:08",
       "https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate"
     ],
@@ -27,26 +47,6 @@
     [
       "Surviving the night in Conways Game of Life",
       "https://davidhampgonsalves.com/solar-powered-conways-game-of-life/"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 15:37:50",
-      "https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems"
-    ],
-    [
-      "Long term ownership of event-driven systems",
-      "https://encore.dev/blog/long-term-ownership"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 15:36:05",
-      "https://lobste.rs/s/cj6m9m/contributing_support_for_wasm"
-    ],
-    [
-      "Contributing support for a Wasm instruction to Winch",
-      "https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch"
     ]
   ],
   [
