@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-27, 13:56:15",
+      "https://lobste.rs/s/hn8evd/liveask_update_adds_pre_screening"
+    ],
+    [
+      "liveask update adds pre-screening support and animations",
+      "https://github.com/liveask/liveask/releases/tag/v2.3.2"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 13:47:53",
       "https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp"
     ],
@@ -107,16 +117,6 @@
     [
       "Now we know which CS publication used the term \"object-oriented\" for the first time",
       "https://news.ycombinator.com/item?id=36879311"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 19:29:46",
-      "https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt"
-    ],
-    [
-      "Medical Device Companies Using Qt",
-      "https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/"
     ]
   ],
   [
