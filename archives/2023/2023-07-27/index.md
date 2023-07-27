@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 19:22:10](https://lobste.rs/s/fa181y/dan_abramov_react_contributor_redux) - [Dan Abramov, React contributor, Redux creator, leaves Meta](https://twitter.com/dan_abramov/status/1682029195843739649)
 * [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 17:39:58](https://lobste.rs/s/46eqgg/tips_for_apple_vision_pro_labs) - [Tips for the Apple Vision Pro Labs](https://www.david-smith.org/blog/2023/07/27/vision-lab-tips/)

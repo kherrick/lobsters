@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+* [2023-07-27, 19:22:10](https://lobste.rs/s/fa181y/dan_abramov_react_contributor_redux) - [Dan Abramov, React contributor, Redux creator, leaves Meta](https://twitter.com/dan_abramov/status/1682029195843739649)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 17:36:34](https://lobste.rs/s/kygygd/what_we_plan_remove_kde_plasma_6) - [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
 * [2023-07-27, 17:24:14](https://lobste.rs/s/p53bie/soldering_micro_usb_socket_pcb) - [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
