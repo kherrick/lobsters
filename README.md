@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
+* [2023-07-27, 16:09:44](https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-27, 16:00:08](https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate) - [Textual - Using Rich Inspect to interrogate Python objects](https://textual.textualize.io/blog/2023/07/27/using-rich-inspect-to-interrogate-python-objects/)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
-* [2023-07-27, 15:37:50](https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems) - [Long term ownership of event-driven systems](https://encore.dev/blog/long-term-ownership)
-* [2023-07-27, 15:36:05](https://lobste.rs/s/cj6m9m/contributing_support_for_wasm) - [Contributing support for a Wasm instruction to Winch](https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch)
 * [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
 * [2023-07-27, 15:13:15](https://lobste.rs/s/vjqzal/large_language_models_explained_with) - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [2023-07-27, 13:56:15](https://lobste.rs/s/hn8evd/liveask_update_adds_pre_screening) - [liveask update adds pre-screening support and animations](https://github.com/liveask/liveask/releases/tag/v2.3.2)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
+* [2023-07-27, 16:09:44](https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-27, 16:00:08](https://lobste.rs/s/xemmsw/textual_using_rich_inspect_interrogate) - [Textual - Using Rich Inspect to interrogate Python objects](https://textual.textualize.io/blog/2023/07/27/using-rich-inspect-to-interrogate-python-objects/)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
