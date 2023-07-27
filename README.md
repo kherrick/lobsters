@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 15:37:50](https://lobste.rs/s/mwebvm/long_term_ownership_event_driven_systems) - [Long term ownership of event-driven systems](https://encore.dev/blog/long-term-ownership)
+* [2023-07-27, 15:36:05](https://lobste.rs/s/cj6m9m/contributing_support_for_wasm) - [Contributing support for a Wasm instruction to Winch](https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch)
 * [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
 * [2023-07-27, 15:13:15](https://lobste.rs/s/vjqzal/large_language_models_explained_with) - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [2023-07-27, 13:56:15](https://lobste.rs/s/hn8evd/liveask_update_adds_pre_screening) - [liveask update adds pre-screening support and animations](https://github.com/liveask/liveask/releases/tag/v2.3.2)
@@ -10,7 +12,6 @@
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 05:41:12](https://lobste.rs/s/ybkzzr/when_good_correlation_is_not_enough) - [When Good Correlation is Not Enough](https://hakibenita.com/postgresql-correlation-brin-multi-minmax)
-* [2023-07-27, 05:30:10](https://lobste.rs/s/ctchqm/pine64_vs_odroid_emmc_performance) - [Pine64 vs ODROID eMMC Performance Testing](https://www.sevarg.net/2022/02/05/pine64-and-odroid-emmc-performance/)
 * [2023-07-27, 00:38:53](https://lobste.rs/s/iryife/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
 * [2023-07-26, 21:54:48](https://lobste.rs/s/iefxui/introducing_tiddlypwa_putting) - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 * [2023-07-26, 21:48:04](https://lobste.rs/s/ebztmj/now_we_know_which_cs_publication_used_term) - [Now we know which CS publication used the term \"object-oriented\" for the first time](https://news.ycombinator.com/item?id=36879311)
@@ -24,7 +25,6 @@
 * [2023-07-26, 10:36:09](https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul) - [Go 1.22 inlining overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-26, 08:47:23](https://lobste.rs/s/mnubxb/5_reasons_we_use_open_source_freebsd_as_our) - [5 Reasons We Use Open Source FreeBSD as Our Enterprise OS](https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os)
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
-* [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 
 ## [Archives](archives/index.md)
 
