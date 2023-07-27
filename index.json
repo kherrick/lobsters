@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-27, 05:30:10",
+      "https://lobste.rs/s/ctchqm/pine64_vs_odroid_emmc_performance"
+    ],
+    [
+      "Pine64 vs ODROID eMMC Performance Testing",
+      "https://www.sevarg.net/2022/02/05/pine64-and-odroid-emmc-performance/"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 00:38:53",
       "https://lobste.rs/s/iryife/bit_stealing_made_legal"
     ],
@@ -237,16 +247,6 @@
     [
       "BadAppleFont",
       "https://blog.erk.dev/posts/anifont/"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 20:59:29",
-      "https://lobste.rs/s/e8dhhz/proving_beautiful_mathematics_dafny"
-    ],
-    [
-      "Proving Beautiful Mathematics in Dafny",
-      "https://whileydave.com/2023/07/17/proving-a-beautiful-identity-in-dafny/"
     ]
   ]
 ]
