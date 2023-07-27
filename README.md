@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 05:41:12](https://lobste.rs/s/ybkzzr/when_good_correlation_is_not_enough) - [When Good Correlation is Not Enough](https://hakibenita.com/postgresql-correlation-brin-multi-minmax)
 * [2023-07-27, 05:30:10](https://lobste.rs/s/ctchqm/pine64_vs_odroid_emmc_performance) - [Pine64 vs ODROID eMMC Performance Testing](https://www.sevarg.net/2022/02/05/pine64-and-odroid-emmc-performance/)
 * [2023-07-27, 00:38:53](https://lobste.rs/s/iryife/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
@@ -23,7 +24,6 @@
 * [2023-07-26, 07:14:11](https://lobste.rs/s/nwucof/small_web_browser_inclusive_proposal) - [The Small Web Browser, an inclusive proposal](https://xavi.privatedns.org/blog/small-web-browser/)
 * [2023-07-26, 02:18:44](https://lobste.rs/s/etkqlf/interview_with_etsi_standards) - [Interview with the ETSI Standards Organization That Created TETRA \"Backdoor\"](https://zetter.substack.com/p/interview-with-the-etsi-standards)
 * [2023-07-26, 00:43:37](https://lobste.rs/s/f9rrzg/treemaps_are_awesome) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
-* [2023-07-25, 22:40:43](https://lobste.rs/s/ab8kiw/whom_gods_would_destroy_they_first_give) - [Whom the Gods Would Destroy, They First Give Real-time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:17:37](https://lobste.rs/s/00fsed/badapplefont) - [BadAppleFont](https://blog.erk.dev/posts/anifont/)
 
 ## [Archives](archives/index.md)
