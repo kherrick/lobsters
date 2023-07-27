@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-07-26, 19:22:39",
+      "https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks"
+    ],
+    [
+      "CRT-free in 2023: tips and tricks",
+      "https://nullprogram.com/blog/2023/02/15/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 16:22:10",
       "https://lobste.rs/s/k539rl/rethinking_window_management_gnome"
     ],
@@ -237,16 +247,6 @@
     [
       "Itanic, part 1— running a dead architecture on modern hardware",
       "https://nocoffei.com/?p=31"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 10:36:09",
-      "https://lobste.rs/s/k6zgu8/go_1_22_inlining_overhaul"
-    ],
-    [
-      "Go 1.22 inlining overhaul",
-      "https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic"
     ]
   ]
 ]
