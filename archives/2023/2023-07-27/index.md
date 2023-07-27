@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 13:47:53](https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp) - [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 13:07:40](https://lobste.rs/s/xc91tq/supercharge_your_stimulus_controllers) - [Supercharge your Stimulus controllers with Custom APIs](https://marcoroth.dev/posts/supercharge-your-stimulus-controllers-with-custom-apis)
 * [2023-07-27, 12:33:57](https://lobste.rs/s/yglohz/implementation_tabr_new_deep_learning) - [Implementation of TabR - a new Deep Learning model for Tabular Data problems](https://github.com/yandex-research/tabular-dl-tabr)

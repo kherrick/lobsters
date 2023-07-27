@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-27, 13:47:53](https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp) - [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 13:07:40](https://lobste.rs/s/xc91tq/supercharge_your_stimulus_controllers) - [Supercharge your Stimulus controllers with Custom APIs](https://marcoroth.dev/posts/supercharge-your-stimulus-controllers-with-custom-apis)
 * [2023-07-27, 12:33:57](https://lobste.rs/s/yglohz/implementation_tabr_new_deep_learning) - [Implementation of TabR - a new Deep Learning model for Tabular Data problems](https://github.com/yandex-research/tabular-dl-tabr)
@@ -13,7 +14,6 @@
 * [2023-07-26, 19:29:46](https://lobste.rs/s/o4nn2z/medical_device_companies_using_qt) - [Medical Device Companies Using Qt](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-companies-using-qt/)
 * [2023-07-26, 19:23:13](https://lobste.rs/s/piwuij/how_style_atom_feed_with_xslt) - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
 * [2023-07-26, 19:22:39](https://lobste.rs/s/yjd59n/crt_free_2023_tips_tricks) - [CRT-free in 2023: tips and tricks](https://nullprogram.com/blog/2023/02/15/)
-* [2023-07-26, 18:06:05](https://lobste.rs/s/zoyb8p/some_designs_for_modern_peer_peer) - [Some designs for modern peer-to-peer networking](https://countvajhula.com/2023/07/25/some-designs-for-modern-peer-to-peer-networking/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 13:05:24](https://lobste.rs/s/zwpali/templates_doom) - [Templates of Doom](https://lock.cmpxchg8b.com/doom.html)
