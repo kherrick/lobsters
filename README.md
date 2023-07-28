@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 02:20:28](https://lobste.rs/s/veflhi/how_create_your_own_seo_tool) - [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool)
 * [2023-07-28, 01:46:56](https://lobste.rs/s/tpbr6n/relocation_2d_puzzle_involving_moving) - [relocation: 2d puzzle involving moving groups of tiles around under a certain ruleset](https://github.com/heav-4/relocation)
 * [2023-07-28, 00:37:53](https://lobste.rs/s/03q1qv/blazingmq_high_performance_open_source) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 23:29:35](https://lobste.rs/s/otfabv/long_journey_cross_platform_developer) - [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
@@ -12,7 +13,6 @@
 * [2023-07-27, 17:24:14](https://lobste.rs/s/p53bie/soldering_micro_usb_socket_pcb) - [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
 * [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
-* [2023-07-27, 16:09:44](https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
