@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 19:00:23](https://lobste.rs/s/reml2x/why_is_dns_still_hard_learn) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 17:56:35](https://lobste.rs/s/yol8ac/improving_resiliency_reliability_for) - [Improving Resiliency and Reliability for Let’s Encrypt with ARI](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 * [2023-07-28, 16:18:45](https://lobste.rs/s/c8njqk/future_clang_based_tooling) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
@@ -12,7 +13,6 @@
 * [2023-07-28, 08:34:45](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend)
 * [2023-07-28, 06:20:51](https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 00:37:53](https://lobste.rs/s/03q1qv/blazingmq_high_performance_open_source) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
-* [2023-07-27, 23:29:35](https://lobste.rs/s/otfabv/long_journey_cross_platform_developer) - [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
 * [2023-07-27, 20:55:03](https://lobste.rs/s/and6ld/freebsd_status_report_2023_q2) - [FreeBSD Status Report 2023 Q2](https://www.freebsd.org/status/report-2023-04-2023-06/)
 * [2023-07-27, 20:37:09](https://lobste.rs/s/4kcufq/crates_io_postmortem_broken_crate) - [crates.io Postmortem: Broken Crate Downloads](https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html)
 * [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)

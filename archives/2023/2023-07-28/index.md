@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 19:00:23](https://lobste.rs/s/reml2x/why_is_dns_still_hard_learn) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 17:56:35](https://lobste.rs/s/yol8ac/improving_resiliency_reliability_for) - [Improving Resiliency and Reliability for Let’s Encrypt with ARI](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 * [2023-07-28, 16:18:45](https://lobste.rs/s/c8njqk/future_clang_based_tooling) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
