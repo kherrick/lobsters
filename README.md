@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 06:20:51](https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 05:30:15](https://lobste.rs/s/ctfduv/introduction_metaprogramming_ruby) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-28, 02:20:28](https://lobste.rs/s/veflhi/how_create_your_own_seo_tool) - [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool)
 * [2023-07-28, 00:37:53](https://lobste.rs/s/03q1qv/blazingmq_high_performance_open_source) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
@@ -10,7 +11,6 @@
 * [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 17:36:34](https://lobste.rs/s/kygygd/what_we_plan_remove_kde_plasma_6) - [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
-* [2023-07-27, 17:24:14](https://lobste.rs/s/p53bie/soldering_micro_usb_socket_pcb) - [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
 * [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 16:09:44](https://lobste.rs/s/s70vbp/unicode_is_harder_than_you_think) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
