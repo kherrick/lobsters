@@ -7,6 +7,7 @@
 * [2023-07-28, 09:54:44](https://lobste.rs/s/uoi0sm/running_untrusted_python_code) - [Running Untrusted Python Code](https://healeycodes.com/running-untrusted-python-code)
 * [2023-07-28, 08:34:45](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend)
 * [2023-07-28, 06:20:51](https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
+* [2023-07-28, 05:30:15](https://lobste.rs/s/ctfduv/introduction_metaprogramming_ruby) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-28, 00:37:53](https://lobste.rs/s/03q1qv/blazingmq_high_performance_open_source) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 23:29:35](https://lobste.rs/s/otfabv/long_journey_cross_platform_developer) - [A Long Journey to Cross Platform Developer Tooling Utopia (For Now)](https://eng.d2iq.com/blog/a-long-journey-to-cross-platform-developer-tooling-utopia-for-now/)
 * [2023-07-27, 23:27:24](https://lobste.rs/s/m7chkz/object_as_morphism_2015) - [Object as a Morphism (2015)](https://fumieval.github.io/papers/en/2015-Haskell-objects.pdf)
@@ -23,7 +24,6 @@
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 
 ## [Archives](archives/index.md)
