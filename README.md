@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 21:11:21](https://lobste.rs/s/iqukqv/steering_council_notice_about_pep_703) - [A Steering Council notice about PEP 703 (Making the Global Interpreter Lock Optional in CPython)](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 * [2023-07-28, 20:37:02](https://lobste.rs/s/ucf9dz/serverless_functions_post_mortem) - [Serverless Functions Post-Mortem](https://matduggan.com/serverless-functions-post-mortem/)
 * [2023-07-28, 20:35:27](https://lobste.rs/s/p57xyw/rust_language_cheat_sheet) - [Rust Language Cheat Sheet](https://cheats.rs/)
 * [2023-07-28, 19:00:23](https://lobste.rs/s/reml2x/why_is_dns_still_hard_learn) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
-* [2023-07-28, 17:56:35](https://lobste.rs/s/yol8ac/improving_resiliency_reliability_for) - [Improving Resiliency and Reliability for Let’s Encrypt with ARI](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 * [2023-07-28, 16:18:45](https://lobste.rs/s/c8njqk/future_clang_based_tooling) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 16:15:24](https://lobste.rs/s/lq5k6u/lpython_novel_fast_retargetable_python) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
