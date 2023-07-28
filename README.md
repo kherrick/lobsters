@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 15:46:38](https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir) - [mir: A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR](https://github.com/vnmakarov/mir)
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 * [2023-07-28, 12:16:04](https://lobste.rs/s/4l2o0h/next_larger_context) - [The Next Larger Context](https://www.elidedbranches.com/2023/07/the-next-larger-context.html)
@@ -24,7 +25,6 @@
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 
 ## [Archives](archives/index.md)
 

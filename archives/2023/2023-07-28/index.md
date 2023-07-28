@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 15:46:38](https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir) - [mir: A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR](https://github.com/vnmakarov/mir)
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 * [2023-07-28, 12:16:04](https://lobste.rs/s/4l2o0h/next_larger_context) - [The Next Larger Context](https://www.elidedbranches.com/2023/07/the-next-larger-context.html)
