@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-28, 15:46:38",
+      "https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir"
+    ],
+    [
+      "mir: A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
+      "https://github.com/vnmakarov/mir"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 14:34:31",
       "https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Tarsnap outage post-mortem",
       "https://mail.tarsnap.com/tarsnap-announce/msg00050.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 14:20:39",
-      "https://lobste.rs/s/q6wjmt/mold_2_0_0"
-    ],
-    [
-      "mold 2.0.0",
-      "https://github.com/rui314/mold/releases/tag/v2.0.0"
     ]
   ]
 ]
