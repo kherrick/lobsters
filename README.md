@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-28, 08:34:45](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend)
 * [2023-07-28, 06:20:51](https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 05:30:15](https://lobste.rs/s/ctfduv/introduction_metaprogramming_ruby) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-28, 02:20:28](https://lobste.rs/s/veflhi/how_create_your_own_seo_tool) - [How to create your own SEO tool](https://onebite.dev/how-to-create-your-own-seo-tool)
@@ -17,7 +18,6 @@
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-27, 15:49:02](https://lobste.rs/s/hicsba/surviving_night_conways_game_life) - [Surviving the night in Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
-* [2023-07-27, 15:34:05](https://lobste.rs/s/y0zhgu/automated_data_quality_at_scale) - [Automated Data Quality at Scale](https://cleanlab.ai/blog/automated-data-quality-at-scale/)
 * [2023-07-27, 15:13:15](https://lobste.rs/s/vjqzal/large_language_models_explained_with) - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 * [2023-07-27, 13:47:53](https://lobste.rs/s/i2y2ns/lispe_isn_t_exactly_your_granny_s_lisp) - [LispE isn't exactly your granny's Lisp](https://github.com/naver/lispe/wiki/6.19-LispE-isn't-exactly-your-granny's-Lisp)
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
