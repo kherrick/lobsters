@@ -12,6 +12,7 @@
 * [2023-07-27, 19:04:50](https://lobste.rs/s/abyrvo/building_operating_pretty_big_storage) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 17:36:34](https://lobste.rs/s/kygygd/what_we_plan_remove_kde_plasma_6) - [What we plan to remove in KDE Plasma 6](https://pointieststick.com/2023/07/26/what-we-plan-to-remove-in-plasma-6/)
+* [2023-07-27, 17:24:14](https://lobste.rs/s/p53bie/soldering_micro_usb_socket_pcb) - [Soldering a Micro USB Socket to a PCB](https://bigdanzblog.wordpress.com/2023/07/26/soldering-a-micro-usb-socket-to-a-pcb/)
 * [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
@@ -22,7 +23,6 @@
 * [2023-07-27, 13:35:09](https://lobste.rs/s/wrqfvm/buzz_0_2_0_release) - [buzz 0.2.0 release](https://github.com/buzz-language/buzz/releases/tag/0.2.0)
 * [2023-07-27, 11:51:00](https://lobste.rs/s/nmujw8/numbr_notepad_calculator_currencies) - [Numbr – notepad + calculator/ currencies](https://numbr.dev)
 * [2023-07-27, 08:02:17](https://lobste.rs/s/nqlzfk/tarsnap_outage_post_mortem) - [Tarsnap outage post-mortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 21:54:48](https://lobste.rs/s/iefxui/introducing_tiddlypwa_putting) - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 * [2023-07-26, 16:22:10](https://lobste.rs/s/k539rl/rethinking_window_management_gnome) - [Rethinking Window Management in GNOME](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 14:20:39](https://lobste.rs/s/q6wjmt/mold_2_0_0) - [mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 
