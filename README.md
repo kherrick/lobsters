@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:30:31](https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal) - [riscv-fs: F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
@@ -23,7 +24,6 @@
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 * [2023-07-28, 09:54:44](https://lobste.rs/s/uoi0sm/running_untrusted_python_code) - [Running Untrusted Python Code](https://healeycodes.com/running-untrusted-python-code)
-* [2023-07-28, 08:34:45](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 
 ## [Archives](archives/index.md)
