@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 11:15:50](https://lobste.rs/s/wevwaz/things_matter_2017) - [Things that Matter (2017)](https://www.youtube.com/watch?v=3WBaY61c9sE)
 * [2023-07-29, 10:02:54](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be) - [If ‘Fun Format Friday’ is now going to be a regular feature, could it get its own tag?](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be)
 * [2023-07-29, 07:57:45](https://lobste.rs/s/tdagfa/active_storage_production_lessons) - [Active Storage in production: lessons learned and in-depth look at how it works](https://discuss.rubyonrails.org/t/active-storage-in-production-lessons-learned-and-in-depth-look-at-how-it-works/83289)
 * [2023-07-29, 07:37:39](https://lobste.rs/s/tztafx/16_new_ml_gems_for_ruby) - [16 New ML Gems for Ruby](https://ankane.org/new-ml-gems)
