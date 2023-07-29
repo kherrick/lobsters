@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-29, 19:09:18",
+      "https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability"
+    ],
+    [
+      "Bleeding Pipe: A RCE vulnerability exploited in the wild",
+      "https://blog.mmpa.info/posts/bleeding-pipe/"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 17:16:46",
       "https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide"
     ],
@@ -237,16 +247,6 @@
     [
       "Running Untrusted Python Code",
       "https://healeycodes.com/running-untrusted-python-code"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 15:53:18",
-      "https://lobste.rs/s/vdj66z/is_this_emoji"
-    ],
-    [
-      "Is this an emoji?",
-      "https://spiffy.tech/is-this-an-emoji"
     ]
   ]
 ]
