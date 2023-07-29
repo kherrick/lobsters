@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-29, 07:37:39](https://lobste.rs/s/tztafx/16_new_ml_gems_for_ruby) - [16 New ML Gems for Ruby](https://ankane.org/new-ml-gems)
 * [2023-07-29, 06:48:24](https://lobste.rs/s/brxqcq/common_distance_metrics_implemented) - [Common Distance Metrics Implemented in Ruby](https://www.vector-logic.com/blog/posts/common-distance-metrics-implemented-in-ruby)
 * [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 03:37:39](https://lobste.rs/s/7v8mex/erlang_unix_way) - [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html)
@@ -22,7 +23,6 @@
 * [2023-07-28, 08:34:45](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend)
 * [2023-07-28, 06:20:51](https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-27, 18:44:15](https://lobste.rs/s/l1jeco/commander_keen_s_adaptive_tile_refresh) - [Commander Keen's Adaptive Tile Refresh](https://fabiensanglard.net/ega/)
-* [2023-07-27, 17:14:38](https://lobste.rs/s/kt1izo/android_app_haskell_six_months_no) - [Android app in Haskell, six months, no previous Android experience](https://shapr.github.io/posts/2023-07-25-android-app-in-haskell.html)
 * [2023-07-27, 16:17:16](https://lobste.rs/s/hzrpg5/is_highlight_js_harmful_for_your_site) - [Is highlight.js Harmful for Your Site?](https://toast.al/posts/softwarecraft/2023-07-28_client-side-syntax-highlighting-must-stop)
 * [2023-07-27, 15:53:18](https://lobste.rs/s/vdj66z/is_this_emoji) - [Is this an emoji?](https://spiffy.tech/is-this-an-emoji)
 
