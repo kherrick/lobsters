@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-29, 03:37:39",
+      "https://lobste.rs/s/7v8mex/erlang_unix_way"
+    ],
+    [
+      "Erlang, the Unix way",
+      "http://blog.syncpup.com/posts/erlang-the-unix-way.html"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 02:33:14",
       "https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4"
     ],
@@ -177,16 +187,6 @@
     [
       "On the future of free long term support for Linux distributions",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 00:37:53",
-      "https://lobste.rs/s/03q1qv/blazingmq_high_performance_open_source"
-    ],
-    [
-      "BlazingMQ: High-performance open source message queuing system",
-      "https://bloomberg.github.io/blazingmq/"
     ]
   ],
   [
