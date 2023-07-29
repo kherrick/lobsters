@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-29, 23:33:31](https://lobste.rs/s/taupeb/cloud_native_playground) - [The Cloud Native Playground](https://play.meshery.io)
 * [2023-07-29, 22:48:06](https://lobste.rs/s/gsuxim/where_programs_live_vague_spaces) - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
 * [2023-07-29, 22:43:57](https://lobste.rs/s/gtsgmv/real_world_examples_on_optimizing_net) - [Real-world examples on optimizing .NET performance](https://www.youtube.com/watch?v=545Nj0_BuzA)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
@@ -22,7 +23,6 @@
 * [2023-07-28, 20:35:27](https://lobste.rs/s/p57xyw/rust_language_cheat_sheet) - [Rust Language Cheat Sheet](https://cheats.rs/)
 * [2023-07-28, 19:00:23](https://lobste.rs/s/reml2x/why_is_dns_still_hard_learn) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
-* [2023-07-28, 16:15:24](https://lobste.rs/s/lq5k6u/lpython_novel_fast_retargetable_python) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 
