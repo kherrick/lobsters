@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-29, 22:48:06",
+      "https://lobste.rs/s/gsuxim/where_programs_live_vague_spaces"
+    ],
+    [
+      "Where programs live? Vague spaces and software systems",
+      "https://tomasp.net/blog/2023/vague-spaces/"
+    ]
+  ],
+  [
+    [
+      "2023-07-29, 22:43:57",
+      "https://lobste.rs/s/gtsgmv/real_world_examples_on_optimizing_net"
+    ],
+    [
+      "Real-world examples on optimizing .NET performance",
+      "https://www.youtube.com/watch?v=545Nj0_BuzA"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 21:02:08",
       "https://lobste.rs/s/baco3g/worst_api_ever_made"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-07-28, 16:18:45",
-      "https://lobste.rs/s/c8njqk/future_clang_based_tooling"
-    ],
-    [
-      "The future of Clang-based tooling",
-      "https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 16:15:24",
       "https://lobste.rs/s/lq5k6u/lpython_novel_fast_retargetable_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Fun Format Friday: LOBSTERS-LANG is a language that features",
       "https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 09:54:44",
-      "https://lobste.rs/s/uoi0sm/running_untrusted_python_code"
-    ],
-    [
-      "Running Untrusted Python Code",
-      "https://healeycodes.com/running-untrusted-python-code"
     ]
   ]
 ]
