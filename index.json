@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-29, 17:16:46",
+      "https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide"
+    ],
+    [
+      "The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture",
+      "https://deeprevision.github.io/posts/001-transformer/"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 17:00:48",
       "https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist"
     ],
@@ -57,16 +67,6 @@
     [
       "If ‘Fun Format Friday’ is now going to be a regular feature, could it get its own tag?",
       "https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 07:57:45",
-      "https://lobste.rs/s/tdagfa/active_storage_production_lessons"
-    ],
-    [
-      "Active Storage in production: lessons learned and in-depth look at how it works",
-      "https://discuss.rubyonrails.org/t/active-storage-in-production-lessons-learned-and-in-depth-look-at-how-it-works/83289"
     ]
   ],
   [
