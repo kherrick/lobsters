@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 22:48:06](https://lobste.rs/s/gsuxim/where_programs_live_vague_spaces) - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
+* [2023-07-29, 22:43:57](https://lobste.rs/s/gtsgmv/real_world_examples_on_optimizing_net) - [Real-world examples on optimizing .NET performance](https://www.youtube.com/watch?v=545Nj0_BuzA)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 * [2023-07-29, 20:30:41](https://lobste.rs/s/xxwtd2/four_ways_shoot_yourself_foot_with_redis) - [Four ways to shoot yourself in the foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)
 * [2023-07-29, 19:09:18](https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability) - [Bleeding Pipe: A RCE vulnerability exploited in the wild](https://blog.mmpa.info/posts/bleeding-pipe/)
