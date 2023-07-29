@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-29, 12:30:31",
+      "https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal"
+    ],
+    [
+      "riscv-fs: F# RISC-V Instruction Set formal specification",
+      "https://github.com/mrLSD/riscv-fs"
+    ]
+  ],
+  [
+    [
+      "2023-07-29, 12:12:46",
+      "https://lobste.rs/s/5armfy/cap_n_proto_1_0"
+    ],
+    [
+      "Cap'n Proto 1.0",
+      "https://capnproto.org/news/2023-07-28-capnproto-1.0.html"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 11:15:50",
       "https://lobste.rs/s/wevwaz/things_matter_2017"
     ],
@@ -37,16 +57,6 @@
     [
       "16 New ML Gems for Ruby",
       "https://ankane.org/new-ml-gems"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 06:48:24",
-      "https://lobste.rs/s/brxqcq/common_distance_metrics_implemented"
-    ],
-    [
-      "Common Distance Metrics Implemented in Ruby",
-      "https://www.vector-logic.com/blog/posts/common-distance-metrics-implemented-in-ruby"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/1nsaby/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 06:20:51",
-      "https://lobste.rs/s/lzoj54/on_future_free_long_term_support_for_linux"
-    ],
-    [
-      "On the future of free long term support for Linux distributions",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree"
     ]
   ],
   [
