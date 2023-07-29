@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 19:09:18](https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability) - [Bleeding Pipe: A RCE vulnerability exploited in the wild](https://blog.mmpa.info/posts/bleeding-pipe/)
 * [2023-07-29, 17:16:46](https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide) - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
