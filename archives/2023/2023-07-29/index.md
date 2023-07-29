@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:30:31](https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal) - [riscv-fs: F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-29, 11:15:50](https://lobste.rs/s/wevwaz/things_matter_2017) - [Things that Matter (2017)](https://www.youtube.com/watch?v=3WBaY61c9sE)
