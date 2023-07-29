@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-29, 20:30:41](https://lobste.rs/s/xxwtd2/four_ways_shoot_yourself_foot_with_redis) - [Four ways to shoot yourself in the foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)
 * [2023-07-29, 19:09:18](https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability) - [Bleeding Pipe: A RCE vulnerability exploited in the wild](https://blog.mmpa.info/posts/bleeding-pipe/)
 * [2023-07-29, 17:16:46](https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide) - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
@@ -21,7 +22,6 @@
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 * [2023-07-28, 16:18:45](https://lobste.rs/s/c8njqk/future_clang_based_tooling) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 16:15:24](https://lobste.rs/s/lq5k6u/lpython_novel_fast_retargetable_python) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
-* [2023-07-28, 15:46:38](https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir) - [mir: A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR](https://github.com/vnmakarov/mir)
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
 * [2023-07-28, 09:54:44](https://lobste.rs/s/uoi0sm/running_untrusted_python_code) - [Running Untrusted Python Code](https://healeycodes.com/running-untrusted-python-code)
