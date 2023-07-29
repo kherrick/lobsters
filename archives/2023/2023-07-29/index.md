@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 07:57:45](https://lobste.rs/s/tdagfa/active_storage_production_lessons) - [Active Storage in production: lessons learned and in-depth look at how it works](https://discuss.rubyonrails.org/t/active-storage-in-production-lessons-learned-and-in-depth-look-at-how-it-works/83289)
 * [2023-07-29, 07:37:39](https://lobste.rs/s/tztafx/16_new_ml_gems_for_ruby) - [16 New ML Gems for Ruby](https://ankane.org/new-ml-gems)
 * [2023-07-29, 06:48:24](https://lobste.rs/s/brxqcq/common_distance_metrics_implemented) - [Common Distance Metrics Implemented in Ruby](https://www.vector-logic.com/blog/posts/common-distance-metrics-implemented-in-ruby)
 * [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
