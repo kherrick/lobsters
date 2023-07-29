@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-29, 17:16:46](https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide) - [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:30:31](https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal) - [riscv-fs: F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-29, 11:15:50](https://lobste.rs/s/wevwaz/things_matter_2017) - [Things that Matter (2017)](https://www.youtube.com/watch?v=3WBaY61c9sE)
 * [2023-07-29, 10:02:54](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be) - [If ‘Fun Format Friday’ is now going to be a regular feature, could it get its own tag?](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be)
-* [2023-07-29, 07:57:45](https://lobste.rs/s/tdagfa/active_storage_production_lessons) - [Active Storage in production: lessons learned and in-depth look at how it works](https://discuss.rubyonrails.org/t/active-storage-in-production-lessons-learned-and-in-depth-look-at-how-it-works/83289)
 * [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 03:37:39](https://lobste.rs/s/7v8mex/erlang_unix_way) - [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html)
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
