@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-29, 20:30:41",
+      "https://lobste.rs/s/xxwtd2/four_ways_shoot_yourself_foot_with_redis"
+    ],
+    [
+      "Four ways to shoot yourself in the foot with Redis",
+      "https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 19:09:18",
       "https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability"
     ],
@@ -207,16 +217,6 @@
     [
       "LPython: Novel, Fast, Retargetable Python Compiler",
       "https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 15:46:38",
-      "https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir"
-    ],
-    [
-      "mir: A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
-      "https://github.com/vnmakarov/mir"
     ]
   ],
   [
