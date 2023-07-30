@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-30, 19:48:14",
+      "https://lobste.rs/s/vdy8yz/softvc_vits_singing_voice_conversion"
+    ],
+    [
+      "SoftVC VITS Singing Voice Conversion",
+      "https://github.com/svc-develop-team/so-vits-svc"
+    ]
+  ],
+  [
+    [
       "2023-07-30, 19:43:40",
       "https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues"
     ],
@@ -217,16 +227,6 @@
     [
       "Cap'n Proto 1.0",
       "https://capnproto.org/news/2023-07-28-capnproto-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 04:39:19",
-      "https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can"
-    ],
-    [
-      "Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub",
-      "https://benhoyt.com/writings/gogit/"
     ]
   ],
   [
