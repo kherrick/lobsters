@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 * [2023-07-30, 09:56:24](https://lobste.rs/s/lbfiet/ingest_opentelemetry_metrics_with) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
 * [2023-07-30, 09:20:30](https://lobste.rs/s/swldi0/kagi_bumps_search_results_for_blogs) - [Kagi bumps search results for blogs of Hacker News users](https://twitter.com/KagiHQ/status/1685376538852687873)
@@ -16,7 +17,6 @@
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:30:31](https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal) - [riscv-fs: F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-* [2023-07-29, 10:02:54](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be) - [If ‘Fun Format Friday’ is now going to be a regular feature, could it get its own tag?](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be)
 * [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 03:37:39](https://lobste.rs/s/7v8mex/erlang_unix_way) - [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html)
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)

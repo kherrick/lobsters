@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 * [2023-07-30, 09:56:24](https://lobste.rs/s/lbfiet/ingest_opentelemetry_metrics_with) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
 * [2023-07-30, 09:20:30](https://lobste.rs/s/swldi0/kagi_bumps_search_results_for_blogs) - [Kagi bumps search results for blogs of Hacker News users](https://twitter.com/KagiHQ/status/1685376538852687873)
