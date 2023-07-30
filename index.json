@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2023-07-29, 20:30:41",
-      "https://lobste.rs/s/xxwtd2/four_ways_shoot_yourself_foot_with_redis"
-    ],
-    [
-      "Four ways to shoot yourself in the foot with Redis",
-      "https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis"
-    ]
-  ],
-  [
-    [
       "2023-07-29, 19:09:18",
       "https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability"
     ],
     [
       "Bleeding Pipe: A RCE vulnerability exploited in the wild",
       "https://blog.mmpa.info/posts/bleeding-pipe/"
+    ]
+  ],
+  [
+    [
+      "2023-07-29, 17:16:46",
+      "https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide"
+    ],
+    [
+      "The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture",
+      "https://deeprevision.github.io/posts/001-transformer/"
     ]
   ],
   [
