@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 19:48:14](https://lobste.rs/s/vdy8yz/softvc_vits_singing_voice_conversion) - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)
 * [2023-07-30, 19:43:40](https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues) - [\"Gzip beats BERT?\" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-30, 19:36:03](https://lobste.rs/s/nxq4os/what_s_up_python_gil_removed_new_compiler) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
 * [2023-07-30, 17:39:29](https://lobste.rs/s/gjsi4i/debugging_keyboard_navigation_your_qml) - [Debugging the keyboard navigation in your QML application](https://carlschwan.eu/2023/07/30/debugging-the-keyboard-navigation-in-your-qml-application/)
@@ -22,7 +23,6 @@
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-* [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 * [2023-07-29, 00:04:26](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup) - [What is your Mac OS Setup?](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup)
 
