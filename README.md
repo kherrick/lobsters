@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
 * [2023-07-30, 00:22:14](https://lobste.rs/s/7miumq/rectangular_micro_qr_code_rmqr) - [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 * [2023-07-30, 00:04:50](https://lobste.rs/s/pnatej/amd_based_freebsd_desktop) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
 * [2023-07-29, 23:33:31](https://lobste.rs/s/taupeb/cloud_native_playground) - [The Cloud Native Playground](https://play.meshery.io)
@@ -21,7 +22,6 @@
 * [2023-07-29, 00:04:26](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup) - [What is your Mac OS Setup?](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup)
 * [2023-07-28, 21:11:21](https://lobste.rs/s/iqukqv/steering_council_notice_about_pep_703) - [A Steering Council notice about PEP 703 (Making the Global Interpreter Lock Optional in CPython)](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 * [2023-07-28, 20:37:02](https://lobste.rs/s/ucf9dz/serverless_functions_post_mortem) - [Serverless Functions Post-Mortem](https://matduggan.com/serverless-functions-post-mortem/)
-* [2023-07-28, 20:35:27](https://lobste.rs/s/p57xyw/rust_language_cheat_sheet) - [Rust Language Cheat Sheet](https://cheats.rs/)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 * [2023-07-28, 14:34:31](https://lobste.rs/s/eucahf/meet_val_new_language_alternative_c_rust) - [Meet Val: A New Language Alternative to C++, Rust](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
 * [2023-07-28, 12:20:40](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is) - [Fun Format Friday: LOBSTERS-LANG is a language that features](https://lobste.rs/s/q3vzin/fun_format_friday_lobsters_lang_is)
