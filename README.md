@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 03:32:15](https://lobste.rs/s/mjjpc7/spectrum_step_towards_usable_secure) - [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 * [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
 * [2023-07-30, 00:22:14](https://lobste.rs/s/7miumq/rectangular_micro_qr_code_rmqr) - [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 * [2023-07-30, 00:04:50](https://lobste.rs/s/pnatej/amd_based_freebsd_desktop) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
@@ -7,7 +8,6 @@
 * [2023-07-29, 22:48:06](https://lobste.rs/s/gsuxim/where_programs_live_vague_spaces) - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
 * [2023-07-29, 22:43:57](https://lobste.rs/s/gtsgmv/real_world_examples_on_optimizing_net) - [Real-world examples on optimizing .NET performance](https://www.youtube.com/watch?v=545Nj0_BuzA)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
-* [2023-07-29, 20:30:41](https://lobste.rs/s/xxwtd2/four_ways_shoot_yourself_foot_with_redis) - [Four ways to shoot yourself in the foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)
 * [2023-07-29, 19:09:18](https://lobste.rs/s/jmbkyx/bleeding_pipe_rce_vulnerability) - [Bleeding Pipe: A RCE vulnerability exploited in the wild](https://blog.mmpa.info/posts/bleeding-pipe/)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
