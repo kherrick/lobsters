@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 16:39:54](https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn) - [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
@@ -23,7 +24,6 @@
 * [2023-07-29, 03:37:39](https://lobste.rs/s/7v8mex/erlang_unix_way) - [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html)
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 * [2023-07-29, 00:04:26](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup) - [What is your Mac OS Setup?](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup)
-* [2023-07-28, 20:37:02](https://lobste.rs/s/ucf9dz/serverless_functions_post_mortem) - [Serverless Functions Post-Mortem](https://matduggan.com/serverless-functions-post-mortem/)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 
 ## [Archives](archives/index.md)

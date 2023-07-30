@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 16:39:54](https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn) - [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
