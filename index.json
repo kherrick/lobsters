@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-07-30, 09:20:30",
-      "https://lobste.rs/s/swldi0/kagi_bumps_search_results_for_blogs"
-    ],
-    [
-      "Kagi bumps search results for blogs of Hacker News users",
-      "https://twitter.com/KagiHQ/status/1685376538852687873"
-    ]
-  ],
-  [
-    [
       "2023-07-30, 08:47:42",
       "https://lobste.rs/s/cngtjf/emacs_29_1_released"
     ],
@@ -137,6 +127,16 @@
     [
       "Bleeding Pipe: A RCE vulnerability exploited in the wild",
       "https://blog.mmpa.info/posts/bleeding-pipe/"
+    ]
+  ],
+  [
+    [
+      "2023-07-29, 17:16:46",
+      "https://lobste.rs/s/jxtujb/transformer_blueprint_holistic_guide"
+    ],
+    [
+      "The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture",
+      "https://deeprevision.github.io/posts/001-transformer/"
     ]
   ],
   [
