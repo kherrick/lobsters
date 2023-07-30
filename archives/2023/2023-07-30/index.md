@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
+* [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 19:48:14](https://lobste.rs/s/vdy8yz/softvc_vits_singing_voice_conversion) - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)
 * [2023-07-30, 19:43:40](https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues) - [\"Gzip beats BERT?\" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)

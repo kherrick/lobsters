@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
+* [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 19:48:14](https://lobste.rs/s/vdy8yz/softvc_vits_singing_voice_conversion) - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)
 * [2023-07-30, 19:43:40](https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues) - [\"Gzip beats BERT?\" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
@@ -17,14 +19,12 @@
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 * [2023-07-30, 03:32:15](https://lobste.rs/s/mjjpc7/spectrum_step_towards_usable_secure) - [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 * [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
-* [2023-07-30, 00:22:14](https://lobste.rs/s/7miumq/rectangular_micro_qr_code_rmqr) - [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 * [2023-07-30, 00:04:50](https://lobste.rs/s/pnatej/amd_based_freebsd_desktop) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made_2014) - [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
-* [2023-07-29, 00:04:26](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup) - [What is your Mac OS Setup?](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup)
 
 ## [Archives](archives/index.md)
 
