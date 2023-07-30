@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 13:29:23](https://lobste.rs/s/g1ex5d/faster_than_rust_c_perfect_hash_table) - [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 * [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 * [2023-07-30, 09:56:24](https://lobste.rs/s/lbfiet/ingest_opentelemetry_metrics_with) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
@@ -22,7 +23,6 @@
 * [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 * [2023-07-29, 00:58:45](https://lobste.rs/s/werofl/what_happened_vivaldi_social) - [What happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 * [2023-07-29, 00:04:26](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup) - [What is your Mac OS Setup?](https://lobste.rs/s/d5qwzs/what_is_your_mac_os_setup)
-* [2023-07-28, 21:11:21](https://lobste.rs/s/iqukqv/steering_council_notice_about_pep_703) - [A Steering Council notice about PEP 703 (Making the Global Interpreter Lock Optional in CPython)](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 * [2023-07-28, 20:37:02](https://lobste.rs/s/ucf9dz/serverless_functions_post_mortem) - [Serverless Functions Post-Mortem](https://matduggan.com/serverless-functions-post-mortem/)
 * [2023-07-28, 16:36:33](https://lobste.rs/s/3eo38a/missing_css) - [missing.css](https://missing.style)
 

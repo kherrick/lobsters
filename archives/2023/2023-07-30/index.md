@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 13:29:23](https://lobste.rs/s/g1ex5d/faster_than_rust_c_perfect_hash_table) - [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 * [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 * [2023-07-30, 09:56:24](https://lobste.rs/s/lbfiet/ingest_opentelemetry_metrics_with) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
