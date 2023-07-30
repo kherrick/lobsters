@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 19:36:03](https://lobste.rs/s/nxq4os/what_s_up_python_gil_removed_new_compiler) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
 * [2023-07-30, 17:39:29](https://lobste.rs/s/gjsi4i/debugging_keyboard_navigation_your_qml) - [Debugging the keyboard navigation in your QML application](https://carlschwan.eu/2023/07/30/debugging-the-keyboard-navigation-in-your-qml-application/)
 * [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
