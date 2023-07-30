@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 09:20:30](https://lobste.rs/s/swldi0/kagi_bumps_search_results_for_blogs) - [Kagi bumps search results for blogs of Hacker News users](https://twitter.com/KagiHQ/status/1685376538852687873)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 * [2023-07-30, 03:32:15](https://lobste.rs/s/mjjpc7/spectrum_step_towards_usable_secure) - [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 * [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 09:20:30](https://lobste.rs/s/swldi0/kagi_bumps_search_results_for_blogs) - [Kagi bumps search results for blogs of Hacker News users](https://twitter.com/KagiHQ/status/1685376538852687873)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 * [2023-07-30, 03:32:15](https://lobste.rs/s/mjjpc7/spectrum_step_towards_usable_secure) - [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 * [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
@@ -14,7 +15,6 @@
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:30:31](https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal) - [riscv-fs: F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-* [2023-07-29, 11:15:50](https://lobste.rs/s/wevwaz/things_matter_2017) - [Things that Matter (2017)](https://www.youtube.com/watch?v=3WBaY61c9sE)
 * [2023-07-29, 10:02:54](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be) - [If ‘Fun Format Friday’ is now going to be a regular feature, could it get its own tag?](https://lobste.rs/s/flxdcl/if_fun_format_friday_is_now_going_be)
 * [2023-07-29, 04:39:19](https://lobste.rs/s/apfky9/scripting_with_go_400_line_git_client_can) - [Scripting with Go: a 400-line Git client that can create a repo and push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 03:37:39](https://lobste.rs/s/7v8mex/erlang_unix_way) - [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html)
