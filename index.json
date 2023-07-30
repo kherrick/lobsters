@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-30, 17:08:51",
+      "https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace"
+    ],
+    [
+      "The shell and its crappy handling of whitespace",
+      "https://blog.plover.com/Unix/whitespace.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 17:05:08",
+      "https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic"
+    ],
+    [
+      "Workarounds for C11 _Generic",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/"
+    ]
+  ],
+  [
+    [
       "2023-07-30, 16:39:54",
       "https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-07-29, 12:30:31",
-      "https://lobste.rs/s/eucsia/riscv_fs_f_risc_v_instruction_set_formal"
-    ],
-    [
-      "riscv-fs: F# RISC-V Instruction Set formal specification",
-      "https://github.com/mrLSD/riscv-fs"
-    ]
-  ],
-  [
-    [
       "2023-07-29, 12:12:46",
       "https://lobste.rs/s/5armfy/cap_n_proto_1_0"
     ],
@@ -207,16 +217,6 @@
     [
       "AWS will begin charging for public IPv4 addresses",
       "https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 00:58:45",
-      "https://lobste.rs/s/werofl/what_happened_vivaldi_social"
-    ],
-    [
-      "What happened to Vivaldi Social?",
-      "https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/"
     ]
   ],
   [
