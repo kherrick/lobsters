@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)

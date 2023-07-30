@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
@@ -24,7 +25,6 @@
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
 * [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 * [2023-07-29, 12:12:46](https://lobste.rs/s/5armfy/cap_n_proto_1_0) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-* [2023-07-29, 02:33:14](https://lobste.rs/s/wudlvy/aws_will_begin_charging_for_public_ipv4) - [AWS will begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 
 ## [Archives](archives/index.md)
 
