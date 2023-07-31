@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
+* [2023-07-31, 09:01:37](https://lobste.rs/s/oj5alo/c_23_small_pearls_core_language) - [C++23: The Small Pearls in the Core Language](https://www.modernescpp.com/index.php/c23-the-small-pearls-in-the-core-language/)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-31, 06:12:58](https://lobste.rs/s/v9zdlj/running_bevy_game_sveltekit) - [Running a Bevy game in SvelteKit](https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit)
