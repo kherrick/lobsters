@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 19:59:55](https://lobste.rs/s/fcqwq0/sliding_type_checker) - [Sliding in a Type Checker](https://veera.app/type_checking.html)
 * [2023-07-31, 19:25:05](https://lobste.rs/s/5ubdzn/interlaced_significand_exponent) - [Interlaced Significand and Exponent](https://github.com/ghoomy/universe/blob/main/computer%20science/interlaced%20significand%20and%20exponent.md)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
@@ -11,7 +12,6 @@
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 14:21:49](https://lobste.rs/s/nbeo0y/comparison_xmpp_matrix) - [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 * [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
-* [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 * [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)

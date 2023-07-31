@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 19:59:55](https://lobste.rs/s/fcqwq0/sliding_type_checker) - [Sliding in a Type Checker](https://veera.app/type_checking.html)
 * [2023-07-31, 19:25:05](https://lobste.rs/s/5ubdzn/interlaced_significand_exponent) - [Interlaced Significand and Exponent](https://github.com/ghoomy/universe/blob/main/computer%20science/interlaced%20significand%20and%20exponent.md)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
