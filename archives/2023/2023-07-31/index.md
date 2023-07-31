@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 11:29:22](https://lobste.rs/s/5ccd5j/fury_fast_multi_language_serialization) - [Fury: A  fast multi-language serialization framework powered by JIT and zero-copy](https://github.com/alipay/fury)
 * [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 09:01:37](https://lobste.rs/s/oj5alo/c_23_small_pearls_core_language) - [C++23: The Small Pearls in the Core Language](https://www.modernescpp.com/index.php/c23-the-small-pearls-in-the-core-language/)
