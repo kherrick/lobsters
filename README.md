@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 21:31:58](https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square) - [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:59:55](https://lobste.rs/s/fcqwq0/sliding_type_checker) - [Sliding in a Type Checker](https://veera.app/type_checking.html)
 * [2023-07-31, 19:25:05](https://lobste.rs/s/5ubdzn/interlaced_significand_exponent) - [Interlaced Significand and Exponent](https://github.com/ghoomy/universe/blob/main/computer%20science/interlaced%20significand%20and%20exponent.md)
@@ -21,7 +22,6 @@
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
-* [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
