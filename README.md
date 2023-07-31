@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 18:23:31](https://lobste.rs/s/g0q1dc/irc_is_only_viable_chat_protocol_2022) - [IRC is the Only Viable Chat Protocol [2022]](https://koshka.love/babel/irc-forever.html)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
-* [2023-07-31, 16:32:32](https://lobste.rs/s/spphb3/i_m_worried_about_adversarial_training) - [I'm worried about adversarial training data](https://vgel.me/posts/adversarial-training-data/)
 * [2023-07-31, 15:26:41](https://lobste.rs/s/xrvfhh/list_software_bugs) - [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 * [2023-07-31, 14:57:18](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your) - [Database-centric Backends: What has your experience been like?](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your)
 * [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
