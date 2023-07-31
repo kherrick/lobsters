@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
+* [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
+* [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 13:17:28](https://lobste.rs/s/xp2kog/true_keyless_cdn) - [True Keyless CDN](https://true-keyless.thejh.net/)
 * [2023-07-31, 12:26:44](https://lobste.rs/s/0p7kd7/collection_quantitative_riddles_with) - [A Collection of Quantitative Riddles With Answers](https://puzzles.nigelcoldwell.co.uk/)
@@ -21,10 +24,7 @@
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 16:39:54](https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn) - [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
 * [2023-07-30, 13:41:29](https://lobste.rs/s/7fituw/making_rescript_type_system_work_for_you) - [Making the ReScript type system work for you (Part I)](https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/)
-* [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
-* [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
-* [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made_2014) - [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
 
 ## [Archives](archives/index.md)
 

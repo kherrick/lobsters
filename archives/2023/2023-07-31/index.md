@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
+* [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
+* [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 13:17:28](https://lobste.rs/s/xp2kog/true_keyless_cdn) - [True Keyless CDN](https://true-keyless.thejh.net/)
 * [2023-07-31, 12:26:44](https://lobste.rs/s/0p7kd7/collection_quantitative_riddles_with) - [A Collection of Quantitative Riddles With Answers](https://puzzles.nigelcoldwell.co.uk/)
