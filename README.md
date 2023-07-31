@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 12:26:44](https://lobste.rs/s/0p7kd7/collection_quantitative_riddles_with) - [A Collection of Quantitative Riddles With Answers](https://puzzles.nigelcoldwell.co.uk/)
 * [2023-07-31, 11:29:22](https://lobste.rs/s/5ccd5j/fury_fast_multi_language_serialization) - [Fury: A  fast multi-language serialization framework powered by JIT and zero-copy](https://github.com/alipay/fury)
 * [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
@@ -13,7 +14,6 @@
 * [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
-* [2023-07-30, 19:43:40](https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues) - [\"Gzip beats BERT?\" Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)

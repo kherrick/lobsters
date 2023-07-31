@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 12:26:44](https://lobste.rs/s/0p7kd7/collection_quantitative_riddles_with) - [A Collection of Quantitative Riddles With Answers](https://puzzles.nigelcoldwell.co.uk/)
 * [2023-07-31, 11:29:22](https://lobste.rs/s/5ccd5j/fury_fast_multi_language_serialization) - [Fury: A  fast multi-language serialization framework powered by JIT and zero-copy](https://github.com/alipay/fury)
 * [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
