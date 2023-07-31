@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-07-31, 13:58:54",
+      "https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source"
+    ],
+    [
+      "A Rev-sharing Commons for Open Source Software",
+      "https://bytecommons.com/"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 13:55:50",
       "https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2"
     ],
@@ -237,16 +247,6 @@
     [
       "The shell and its crappy handling of whitespace",
       "https://blog.plover.com/Unix/whitespace.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 08:47:42",
-      "https://lobste.rs/s/cngtjf/emacs_29_1_released"
-    ],
-    [
-      "Emacs 29.1 Released",
-      "https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html"
     ]
   ]
 ]
