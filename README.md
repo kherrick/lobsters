@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
 * [2023-07-31, 18:23:31](https://lobste.rs/s/g0q1dc/irc_is_only_viable_chat_protocol_2022) - [IRC is the Only Viable Chat Protocol [2022]](https://koshka.love/babel/irc-forever.html)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 15:26:41](https://lobste.rs/s/xrvfhh/list_software_bugs) - [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
@@ -22,7 +23,6 @@
 * [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
-* [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 
