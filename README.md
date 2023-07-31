@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
 * [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 * [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
@@ -18,7 +19,6 @@
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
-* [2023-07-30, 20:12:43](https://lobste.rs/s/jyfpbw/swiftui_data_flow_2023) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
