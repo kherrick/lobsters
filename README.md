@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 06:12:58](https://lobste.rs/s/v9zdlj/running_bevy_game_sveltekit) - [Running a Bevy game in SvelteKit](https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit)
 * [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
 * [2023-07-31, 00:49:06](https://lobste.rs/s/j0lkt2/logging_ruby_almost_everything_you_need) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
@@ -20,7 +21,6 @@
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 * [2023-07-30, 03:32:15](https://lobste.rs/s/mjjpc7/spectrum_step_towards_usable_secure) - [Spectrum, a step towards usable secure computing](https://spectrum-os.org/)
 * [2023-07-30, 03:11:44](https://lobste.rs/s/fh4erz/qubesos_silos_isolation) - [QubesOS: Silos of Isolation](https://www.sevarg.net/2023/07/29/qubes-os-silos-of-isolation/)
-* [2023-07-30, 00:22:14](https://lobste.rs/s/7miumq/rectangular_micro_qr_code_rmqr) - [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 * [2023-07-30, 00:04:50](https://lobste.rs/s/pnatej/amd_based_freebsd_desktop) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made_2014) - [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
 * [2023-07-29, 17:00:48](https://lobste.rs/s/vl7k0z/why_null_lifetime_does_not_exist) - [Why the “Null” Lifetime Does Not Exist](https://sabrinajewson.org/blog/null-lifetime)
