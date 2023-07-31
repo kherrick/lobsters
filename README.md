@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 14:21:49](https://lobste.rs/s/nbeo0y/comparison_xmpp_matrix) - [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 * [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
 * [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 * [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
@@ -15,7 +16,6 @@
 * [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-31, 06:12:58](https://lobste.rs/s/v9zdlj/running_bevy_game_sveltekit) - [Running a Bevy game in SvelteKit](https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit)
 * [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
-* [2023-07-31, 00:49:06](https://lobste.rs/s/j0lkt2/logging_ruby_almost_everything_you_need) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:23:31](https://lobste.rs/s/pdjtzy/fork_routing_protocol) - [Fork Routing Protocol](https://github.com/ghoomy/universe/blob/main/computer%20science/fork%20routing%20protocol.md)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
