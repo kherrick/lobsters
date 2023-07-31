@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 15:26:41](https://lobste.rs/s/xrvfhh/list_software_bugs) - [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 * [2023-07-31, 14:57:18](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your) - [Database-centric Backends: What has your experience been like?](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your)
 * [2023-07-31, 14:53:21](https://lobste.rs/s/qwl3br/matrix_bridges_security_update) - [Matrix Bridges Security Update](https://matrix.org/blog/2023/07/bridges-security-updates/)
 * [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
