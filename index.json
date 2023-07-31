@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-31, 09:06:01",
+      "https://lobste.rs/s/cjsgcr/openttd_13_4_released"
+    ],
+    [
+      "OpenTTD 13.4 released",
+      "https://www.openttd.org/news/2023/07/29/openttd-13-4"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 09:01:37",
+      "https://lobste.rs/s/oj5alo/c_23_small_pearls_core_language"
+    ],
+    [
+      "C++23: The Small Pearls in the Core Language",
+      "https://www.modernescpp.com/index.php/c23-the-small-pearls-in-the-core-language/"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 08:45:53",
       "https://lobste.rs/s/njvqua/relay_style_graphql"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-07-30, 19:48:14",
-      "https://lobste.rs/s/vdy8yz/softvc_vits_singing_voice_conversion"
-    ],
-    [
-      "SoftVC VITS Singing Voice Conversion",
-      "https://github.com/svc-develop-team/so-vits-svc"
-    ]
-  ],
-  [
-    [
       "2023-07-30, 19:43:40",
       "https://lobste.rs/s/y0nata/gzip_beats_bert_part_2_dataset_issues"
     ],
@@ -177,16 +187,6 @@
     [
       "Data transmission over mud",
       "https://twitter.com/patio11/status/1685460287129063424"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 09:56:24",
-      "https://lobste.rs/s/lbfiet/ingest_opentelemetry_metrics_with"
-    ],
-    [
-      "Ingest OpenTelemetry metrics with Prometheus natively",
-      "https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/"
     ]
   ],
   [
