@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 19:25:05](https://lobste.rs/s/5ubdzn/interlaced_significand_exponent) - [Interlaced Significand and Exponent](https://github.com/ghoomy/universe/blob/main/computer%20science/interlaced%20significand%20and%20exponent.md)
+* [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
 * [2023-07-31, 18:23:31](https://lobste.rs/s/g0q1dc/irc_is_only_viable_chat_protocol_2022) - [IRC is the Only Viable Chat Protocol [2022]](https://koshka.love/babel/irc-forever.html)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
@@ -14,10 +16,8 @@
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 13:17:28](https://lobste.rs/s/xp2kog/true_keyless_cdn) - [True Keyless CDN](https://true-keyless.thejh.net/)
-* [2023-07-31, 12:26:44](https://lobste.rs/s/0p7kd7/collection_quantitative_riddles_with) - [A Collection of Quantitative Riddles With Answers](https://puzzles.nigelcoldwell.co.uk/)
 * [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
-* [2023-07-31, 09:01:37](https://lobste.rs/s/oj5alo/c_23_small_pearls_core_language) - [C++23: The Small Pearls in the Core Language](https://www.modernescpp.com/index.php/c23-the-small-pearls-in-the-core-language/)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
