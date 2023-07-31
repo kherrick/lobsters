@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-31, 21:31:58",
+      "https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square"
+    ],
+    [
+      "Generalising the Fast Reciprocal Square Root Algorithm",
+      "https://arxiv.org/pdf/2307.15600.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 20:33:18",
       "https://lobste.rs/s/jkfzjt/fibonacci_matrix"
     ],
@@ -207,16 +217,6 @@
     [
       "MS Paint in your terminal",
       "https://github.com/1j01/textual-paint"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 05:55:50",
-      "https://lobste.rs/s/d6cssf/mergesort_for_linked_lists"
-    ],
-    [
-      "Mergesort For Linked Lists",
-      "https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html"
     ]
   ],
   [
