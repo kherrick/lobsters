@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-31, 10:06:25",
+      "https://lobste.rs/s/ewweu3/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/ewweu3/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 09:06:01",
       "https://lobste.rs/s/cjsgcr/openttd_13_4_released"
     ],
@@ -167,16 +177,6 @@
     [
       "Making the ReScript type system work for you (Part I)",
       "https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 13:29:23",
-      "https://lobste.rs/s/g1ex5d/faster_than_rust_c_perfect_hash_table"
-    ],
-    [
-      "Faster than Rust and C++: the PERFECT hash table",
-      "https://www.youtube.com/watch?v=DMQ_HcNSOAI"
     ]
   ],
   [
