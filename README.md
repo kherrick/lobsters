@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
 * [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 09:01:37](https://lobste.rs/s/oj5alo/c_23_small_pearls_core_language) - [C++23: The Small Pearls in the Core Language](https://www.modernescpp.com/index.php/c23-the-small-pearls-in-the-core-language/)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
@@ -17,7 +18,6 @@
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 16:39:54](https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn) - [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
 * [2023-07-30, 13:41:29](https://lobste.rs/s/7fituw/making_rescript_type_system_work_for_you) - [Making the ReScript type system work for you (Part I)](https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/)
-* [2023-07-30, 13:29:23](https://lobste.rs/s/g1ex5d/faster_than_rust_c_perfect_hash_table) - [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 * [2023-07-30, 11:24:23](https://lobste.rs/s/n1khrf/data_transmission_over_mud) - [Data transmission over mud](https://twitter.com/patio11/status/1685460287129063424)
 * [2023-07-30, 09:44:23](https://lobste.rs/s/d7m40p/retrospective_prompts) - [Retrospective Prompts](https://two-wrongs.com/retro-prompts.html)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
