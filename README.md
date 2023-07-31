@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 16:32:32](https://lobste.rs/s/spphb3/i_m_worried_about_adversarial_training) - [I'm worried about adversarial training data](https://vgel.me/posts/adversarial-training-data/)
 * [2023-07-31, 15:26:41](https://lobste.rs/s/xrvfhh/list_software_bugs) - [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 * [2023-07-31, 14:57:18](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your) - [Database-centric Backends: What has your experience been like?](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your)
@@ -23,7 +24,6 @@
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 * [2023-07-30, 17:33:16](https://lobste.rs/s/4qrkgd/functions_are_vectors) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
-* [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 
 ## [Archives](archives/index.md)
