@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-31, 06:12:58](https://lobste.rs/s/v9zdlj/running_bevy_game_sveltekit) - [Running a Bevy game in SvelteKit](https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit)
 * [2023-07-31, 05:55:50](https://lobste.rs/s/d6cssf/mergesort_for_linked_lists) - [Mergesort For Linked Lists](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
 * [2023-07-31, 00:49:06](https://lobste.rs/s/j0lkt2/logging_ruby_almost_everything_you_need) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
@@ -24,7 +25,6 @@
 * [2023-07-30, 00:22:14](https://lobste.rs/s/7miumq/rectangular_micro_qr_code_rmqr) - [Rectangular Micro QR Code (rMQR)](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr/)
 * [2023-07-30, 00:04:50](https://lobste.rs/s/pnatej/amd_based_freebsd_desktop) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
 * [2023-07-29, 21:02:08](https://lobste.rs/s/baco3g/worst_api_ever_made_2014) - [The Worst API Ever Made (2014)](https://caseymuratori.com/blog_0025)
-* [2023-07-29, 16:22:08](https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer) - [jless - A Command-Line JSON (and YAML) Viewer](https://jless.io/)
 
 ## [Archives](archives/index.md)
 
