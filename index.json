@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-31, 14:53:21",
+      "https://lobste.rs/s/qwl3br/matrix_bridges_security_update"
+    ],
+    [
+      "Matrix Bridges Security Update",
+      "https://matrix.org/blog/2023/07/bridges-security-updates/"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 14:50:31",
+      "https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down"
+    ],
+    [
+      "It's Nix All The Way Down",
+      "https://ersei.net/en/blog/nix-all-the-way-down"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 14:35:01",
       "https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-07-31, 11:29:22",
-      "https://lobste.rs/s/5ccd5j/fury_fast_multi_language_serialization"
-    ],
-    [
-      "Fury: A  fast multi-language serialization framework powered by JIT and zero-copy",
-      "https://github.com/alipay/fury"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 10:06:25",
       "https://lobste.rs/s/ewweu3/what_are_you_doing_this_week"
     ],
@@ -147,16 +157,6 @@
     [
       "MS Paint in your terminal",
       "https://github.com/1j01/textual-paint"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 06:12:58",
-      "https://lobste.rs/s/v9zdlj/running_bevy_game_sveltekit"
-    ],
-    [
-      "Running a Bevy game in SvelteKit",
-      "https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit"
     ]
   ],
   [
