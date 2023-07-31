@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 14:21:49](https://lobste.rs/s/nbeo0y/comparison_xmpp_matrix) - [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 * [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
 * [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)

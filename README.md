@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 14:21:49](https://lobste.rs/s/nbeo0y/comparison_xmpp_matrix) - [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 * [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
 * [2023-07-31, 13:56:31](https://lobste.rs/s/jbjt7r/happy_30th_freebsd_why_freebsd_open) - [Happy 30th FreeBSD! Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
@@ -23,7 +24,6 @@
 * [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 * [2023-07-30, 17:05:08](https://lobste.rs/s/lqx0w5/workarounds_for_c11_generic) - [Workarounds for C11 _Generic](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 16:39:54](https://lobste.rs/s/lxp7ys/repeating_yourself_thrice_doesn_t_turn) - [Repeating Yourself Thrice Doesn’t Turn You Into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
-* [2023-07-30, 13:41:29](https://lobste.rs/s/7fituw/making_rescript_type_system_work_for_you) - [Making the ReScript type system work for you (Part I)](https://practicalrescript.com/making-the-rescript-type-system-work-for-you-part-i/)
 * [2023-07-30, 08:47:42](https://lobste.rs/s/cngtjf/emacs_29_1_released) - [Emacs 29.1 Released](https://lists.gnu.org/archive/html/emacs-devel/2023-07/msg00879.html)
 
 ## [Archives](archives/index.md)
