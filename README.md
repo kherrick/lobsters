@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 03:33:48](https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free) - [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
 * [2023-08-01, 03:29:34](https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization) - [\"Once\" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 21:31:58](https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square) - [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
@@ -15,7 +16,6 @@
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 14:21:49](https://lobste.rs/s/nbeo0y/comparison_xmpp_matrix) - [Comparison XMPP/Matrix](https://www.freie-messenger.de/en/systemvergleich/xmpp-matrix/)
 * [2023-07-31, 13:58:54](https://lobste.rs/s/tonttx/rev_sharing_commons_for_open_source) - [A Rev-sharing Commons for Open Source Software](https://bytecommons.com/)
-* [2023-07-31, 13:55:50](https://lobste.rs/s/frmabj/top_ten_reasons_upgrade_freebsd_13_2) - [Top Ten Reasons to Upgrade to FreeBSD 13.2](https://freebsdfoundation.org/blog/top-ten-reasons-to-upgrade-to-freebsd-13-2/)
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 13:17:28](https://lobste.rs/s/xp2kog/true_keyless_cdn) - [True Keyless CDN](https://true-keyless.thejh.net/)
