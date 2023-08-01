@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 21:52:26](https://lobste.rs/s/gbbeth/famous_f40_vector_illustration) - [“The Famous F40” vector illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-08-01, 21:48:41](https://lobste.rs/s/cz6qwy/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 * [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
@@ -23,7 +24,6 @@
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
-* [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 
 ## [Archives](archives/index.md)
