@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 16:08:39](https://lobste.rs/s/bsfgfh/designing_evaluating_reusable) - [Designing and Evaluating Reusable Components (2004)](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
+* [2023-08-01, 16:07:06](https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates) - [Experimenting with Go project templates](https://go.dev/blog/gonew)
 * [2023-08-01, 15:31:55](https://lobste.rs/s/xekanv/when_wizards_web_met) - [When the wizards of the web met](https://thehistoryoftheweb.com/postscript/when-the-wizards-of-the-web-met/)
 * [2023-08-01, 14:53:16](https://lobste.rs/s/urgsuy/esp32_sbc_fabgl_how_work_with_expander) - [ESP32-SBC-FabGL How to work with the expander module GPIOs from FabGL library and apps](https://olimex.wordpress.com/2023/08/01/esp32-sbc-fabgl-how-to-work-with-the-expander-module-gpios-from-fabgl-library-and-apps/)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
@@ -18,12 +20,10 @@
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
-* [2023-07-31, 14:57:18](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your) - [Database-centric Backends: What has your experience been like?](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your)
 * [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
-* [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 
 ## [Archives](archives/index.md)
