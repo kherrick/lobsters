@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-08-01, 03:33:48",
+      "https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free"
+    ],
+    [
+      "LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)",
+      "https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 01:06:25",
       "https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code"
     ],
@@ -237,16 +247,6 @@
     [
       "Reflections on a Month with BBEdit and Nova",
       "https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 20:20:54",
-      "https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router"
-    ],
-    [
-      "The proposal to enhance Go's HTTP router",
-      "https://benhoyt.com/writings/go-servemux-enhancements/"
     ]
   ]
 ]
