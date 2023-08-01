@@ -2,6 +2,7 @@
 
 * [2023-08-01, 22:47:07](https://lobste.rs/s/wtabbo/collide_power) - [Collide+Power](https://collidepower.com/)
 * [2023-08-01, 21:52:26](https://lobste.rs/s/gbbeth/famous_f40_vector_illustration) - [“The Famous F40” vector illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+* [2023-08-01, 21:48:41](https://lobste.rs/s/cz6qwy/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 * [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
@@ -10,7 +11,6 @@
 * [2023-08-01, 16:24:08](https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu) - [FreeBSD Jail booting & running Devuan GNU+Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)
 * [2023-08-01, 16:08:39](https://lobste.rs/s/bsfgfh/designing_evaluating_reusable) - [Designing and Evaluating Reusable Components (2004)](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
 * [2023-08-01, 16:07:06](https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates) - [Experimenting with Go project templates](https://go.dev/blog/gonew)
-* [2023-08-01, 15:31:55](https://lobste.rs/s/xekanv/when_wizards_web_met) - [When the wizards of the web met](https://thehistoryoftheweb.com/postscript/when-the-wizards-of-the-web-met/)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
