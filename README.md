@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 18:47:18](https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format) - [Overwrite/Insert Difference Format](https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md)
 * [2023-08-01, 17:31:08](https://lobste.rs/s/2ud6qy/ab_using_images_sounds_for_indirect) - [(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://github.com/ebagdasa/multimodal_injection)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 16:27:18](https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you) - [GenServer.reply: Don't Call Us, We'll Call You](https://blog.sequin.io/genserver-reply-dont-call-us-well-call-you/)
@@ -17,7 +18,6 @@
 * [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)
 * [2023-08-01, 06:24:09](https://lobste.rs/s/jvppwb/macos_qemu_arm_edition) - [MacOS in QEMU – ARM edition](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
-* [2023-08-01, 05:01:48](https://lobste.rs/s/batmms/legacy_stagefright) - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
