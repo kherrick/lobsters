@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 14:31:37",
+      "https://lobste.rs/s/t7oyxa/nim_v2_0_released"
+    ],
+    [
+      "Nim v2.0 released",
+      "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 14:04:47",
       "https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation"
     ],
@@ -167,16 +177,6 @@
     [
       "File distribution over DNS: (ab)using DNS as a CDN",
       "https://eighty-twenty.org/2023/07/31/dns-as-a-cdn"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 15:26:41",
-      "https://lobste.rs/s/xrvfhh/list_software_bugs"
-    ],
-    [
-      "List of software bugs",
-      "https://en.wikipedia.org/wiki/List_of_software_bugs"
     ]
   ],
   [
