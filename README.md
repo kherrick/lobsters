@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-01, 06:28:07](https://lobste.rs/s/merbcw/monetal_expense_tracker_no_ads_no_iap) - [Monetal - Expense Tracker. No Ads, no IAP](https://monetal.app)
+* [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)
 * [2023-08-01, 06:24:09](https://lobste.rs/s/jvppwb/macos_qemu_arm_edition) - [MacOS in QEMU – ARM edition](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-08-01, 05:01:48](https://lobste.rs/s/batmms/legacy_stagefright) - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
 * [2023-08-01, 03:33:48](https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free) - [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
