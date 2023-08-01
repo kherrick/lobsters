@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 14:53:16](https://lobste.rs/s/urgsuy/esp32_sbc_fabgl_how_work_with_expander) - [ESP32-SBC-FabGL How to work with the expander module GPIOs from FabGL library and apps](https://olimex.wordpress.com/2023/08/01/esp32-sbc-fabgl-how-to-work-with-the-expander-module-gpios-from-fabgl-library-and-apps/)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 14:04:47](https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation)
 * [2023-08-01, 12:56:11](https://lobste.rs/s/k89h1c/toward_condensers) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
@@ -13,7 +14,6 @@
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 05:01:48](https://lobste.rs/s/batmms/legacy_stagefright) - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
 * [2023-08-01, 03:33:48](https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free) - [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
-* [2023-08-01, 03:29:34](https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization) - [\"Once\" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
