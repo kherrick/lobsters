@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 19:58:18",
+      "https://lobste.rs/s/cjymay/gnu_coding_standards"
+    ],
+    [
+      "GNU Coding Standards",
+      "https://www.gnu.org/prep/standards/standards.html"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 19:36:32",
       "https://lobste.rs/s/ly33up/evading_javascript_anti_debugging"
     ],
@@ -167,16 +177,6 @@
     [
       "Git files hidden in plain sight",
       "https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 05:01:48",
-      "https://lobste.rs/s/batmms/legacy_stagefright"
-    ],
-    [
-      "The Legacy of Stagefright",
-      "https://blog.isosceles.com/the-legacy-of-stagefright/"
     ]
   ],
   [
