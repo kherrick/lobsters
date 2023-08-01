@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 14:04:47",
+      "https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation"
+    ],
+    [
+      "Announcing the ocaml-wasm organisation",
+      "https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 12:56:11",
       "https://lobste.rs/s/k89h1c/toward_condensers"
     ],
@@ -147,16 +157,6 @@
     [
       "Video resizer in browser locally with ffprobe / ffmpeg wasm",
       "https://www.resizemp4.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 19:09:33",
-      "https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996"
-    ],
-    [
-      "Microsoft Comic Chat [1996]",
-      "https://www.youtube.com/watch?v=goEqyQgWIe4"
     ]
   ],
   [
