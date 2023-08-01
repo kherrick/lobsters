@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 16:34:29",
+      "https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light"
+    ],
+    [
+      "Configuring a terminal emulator for a light theme",
+      "https://tilde.guru/~adeptangel/terminal_light_theme.html"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 16:27:18",
       "https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you"
     ],
@@ -157,16 +167,6 @@
     [
       "The Legacy of Stagefright",
       "https://blog.isosceles.com/the-legacy-of-stagefright/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 03:33:48",
-      "https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free"
-    ],
-    [
-      "LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)",
-      "https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html"
     ]
   ],
   [
