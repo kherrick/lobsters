@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 10:47:02",
+      "https://lobste.rs/s/hyyizo/trying_odin"
+    ],
+    [
+      "Trying Odin",
+      "https://antonz.org/trying-odin/"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 10:21:51",
       "https://lobste.rs/s/a8rpfe/other_template_en_other_way_write"
     ],
@@ -227,16 +237,6 @@
     [
       "Relay-style GraphQL",
       "https://alan.norbauer.com/articles/relay-style-graphql"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 23:47:21",
-      "https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops"
-    ],
-    [
-      "Run property tests until coverage stops increasing",
-      "https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html"
     ]
   ],
   [
