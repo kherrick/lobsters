@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
+* [2023-08-01, 06:28:07](https://lobste.rs/s/merbcw/monetal_expense_tracker_no_ads_no_iap) - [Monetal - Expense Tracker. No Ads, no IAP](https://monetal.app)
+* [2023-08-01, 06:24:09](https://lobste.rs/s/jvppwb/macos_qemu_arm_edition) - [MacOS in QEMU – ARM edition](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-08-01, 05:01:48](https://lobste.rs/s/batmms/legacy_stagefright) - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/)
 * [2023-08-01, 03:33:48](https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free) - [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
 * [2023-08-01, 03:29:34](https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization) - [\"Once\" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
@@ -24,7 +25,6 @@
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
-* [2023-07-30, 17:08:51](https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
 
 ## [Archives](archives/index.md)
 
