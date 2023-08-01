@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 03:29:34](https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization) - [\"Once\" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 21:31:58](https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square) - [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
@@ -19,7 +20,6 @@
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 13:17:28](https://lobste.rs/s/xp2kog/true_keyless_cdn) - [True Keyless CDN](https://true-keyless.thejh.net/)
 * [2023-07-31, 10:06:25](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ewweu3/what_are_you_doing_this_week)
-* [2023-07-31, 09:06:01](https://lobste.rs/s/cjsgcr/openttd_13_4_released) - [OpenTTD 13.4 released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
 * [2023-07-31, 07:23:47](https://lobste.rs/s/s7wxbj/ms_paint_your_terminal) - [MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
