@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-01, 19:58:18](https://lobste.rs/s/cjymay/gnu_coding_standards) - [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
+* [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 18:47:18](https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format) - [Overwrite/Insert Difference Format](https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)

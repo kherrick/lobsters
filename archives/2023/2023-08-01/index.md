@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 19:58:18](https://lobste.rs/s/cjymay/gnu_coding_standards) - [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 19:11:59](https://lobste.rs/s/tavrlv/run_llama_2_on_your_own_mac_using_llm) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
