@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 21:31:58](https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square) - [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:59:55](https://lobste.rs/s/fcqwq0/sliding_type_checker) - [Sliding in a Type Checker](https://veera.app/type_checking.html)
-* [2023-07-31, 19:25:05](https://lobste.rs/s/5ubdzn/interlaced_significand_exponent) - [Interlaced Significand and Exponent](https://github.com/ghoomy/universe/blob/main/computer%20science/interlaced%20significand%20and%20exponent.md)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
 * [2023-07-31, 18:23:31](https://lobste.rs/s/g0q1dc/irc_is_only_viable_chat_protocol_2022) - [IRC is the Only Viable Chat Protocol (2022)](https://koshka.love/babel/irc-forever.html)
