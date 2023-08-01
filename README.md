@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
 * [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 07:25:29](https://lobste.rs/s/0dbxkz/solarpi_experiment_2_finally_something) - [SolarPi experiment 2: Finally something that works](https://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
@@ -23,7 +24,6 @@
 * [2023-07-31, 13:53:32](https://lobste.rs/s/0hmzlb/free_public_wifi) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 * [2023-07-31, 08:45:53](https://lobste.rs/s/njvqua/relay_style_graphql) - [Relay-style GraphQL](https://alan.norbauer.com/articles/relay-style-graphql)
-* [2023-07-30, 23:47:21](https://lobste.rs/s/xk9mhh/run_property_tests_until_coverage_stops) - [Run property tests until coverage stops increasing](https://shapr.github.io/posts/2023-07-30-goldilocks-property-tests.html)
 * [2023-07-30, 20:20:54](https://lobste.rs/s/3o0lpm/proposal_enhance_go_s_http_router) - [The proposal to enhance Go's HTTP router](https://benhoyt.com/writings/go-servemux-enhancements/)
 
 ## [Archives](archives/index.md)
