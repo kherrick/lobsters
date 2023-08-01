@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 15:31:55](https://lobste.rs/s/xekanv/when_wizards_web_met) - [When the wizards of the web met](https://thehistoryoftheweb.com/postscript/when-the-wizards-of-the-web-met/)
 * [2023-08-01, 14:53:16](https://lobste.rs/s/urgsuy/esp32_sbc_fabgl_how_work_with_expander) - [ESP32-SBC-FabGL How to work with the expander module GPIOs from FabGL library and apps](https://olimex.wordpress.com/2023/08/01/esp32-sbc-fabgl-how-to-work-with-the-expander-module-gpios-from-fabgl-library-and-apps/)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 14:04:47](https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation)
