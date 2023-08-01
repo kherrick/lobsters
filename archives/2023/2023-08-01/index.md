@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 14:04:47](https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation)
 * [2023-08-01, 12:56:11](https://lobste.rs/s/k89h1c/toward_condensers) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
 * [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
