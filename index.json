@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-08-01, 16:27:18",
-      "https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you"
-    ],
-    [
-      "GenServer.reply: Don't Call Us, We'll Call You",
-      "https://blog.sequin.io/genserver-reply-dont-call-us-well-call-you/"
-    ]
-  ],
-  [
-    [
       "2023-08-01, 16:24:08",
       "https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu"
     ],
@@ -187,6 +177,16 @@
     [
       "Git files hidden in plain sight",
       "https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 05:01:48",
+      "https://lobste.rs/s/batmms/legacy_stagefright"
+    ],
+    [
+      "The Legacy of Stagefright",
+      "https://blog.isosceles.com/the-legacy-of-stagefright/"
     ]
   ],
   [
