@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-01, 19:11:59",
+      "https://lobste.rs/s/tavrlv/run_llama_2_on_your_own_mac_using_llm"
+    ],
+    [
+      "Run Llama 2 on your own Mac using LLM and Homebrew",
+      "https://simonwillison.net/2023/Aug/1/llama-2-mac/"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 18:47:18",
       "https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format"
     ],
@@ -27,16 +37,6 @@
     [
       "Configuring a terminal emulator for a light theme",
       "https://tilde.guru/~adeptangel/terminal_light_theme.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 16:27:18",
-      "https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you"
-    ],
-    [
-      "GenServer.reply: Don't Call Us, We'll Call You",
-      "https://blog.sequin.io/genserver-reply-dont-call-us-well-call-you/"
     ]
   ],
   [
