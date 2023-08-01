@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 07:25:29](https://lobste.rs/s/0dbxkz/solarpi_experiment_2_finally_something) - [SolarPi experiment 2: Finally something that works](https://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)

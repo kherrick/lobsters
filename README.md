@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 07:25:29](https://lobste.rs/s/0dbxkz/solarpi_experiment_2_finally_something) - [SolarPi experiment 2: Finally something that works](https://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)
@@ -9,7 +10,6 @@
 * [2023-08-01, 03:33:48](https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free) - [LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)](https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html)
 * [2023-08-01, 03:29:34](https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization) - [\"Once\" one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-* [2023-07-31, 21:31:58](https://lobste.rs/s/njmrq6/generalising_fast_reciprocal_square) - [Generalising the Fast Reciprocal Square Root Algorithm](https://arxiv.org/pdf/2307.15600.pdf)
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
