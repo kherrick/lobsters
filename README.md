@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
+* [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 18:47:18](https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format) - [Overwrite/Insert Difference Format](https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
@@ -19,7 +20,6 @@
 * [2023-08-01, 06:24:09](https://lobste.rs/s/jvppwb/macos_qemu_arm_edition) - [MacOS in QEMU – ARM edition](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-* [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
