@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-01, 05:18:06",
-      "https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight"
+      "2023-08-01, 06:28:07",
+      "https://lobste.rs/s/merbcw/monetal_expense_tracker_no_ads_no_iap"
     ],
     [
-      "Git files hidden in plain sight",
-      "https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/"
+      "Monetal - Expense Tracker. No Ads, no IAP",
+      "https://monetal.app"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 06:24:09",
+      "https://lobste.rs/s/jvppwb/macos_qemu_arm_edition"
+    ],
+    [
+      "MacOS in QEMU – ARM edition",
+      "https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The proposal to enhance Go's HTTP router",
       "https://benhoyt.com/writings/go-servemux-enhancements/"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 17:08:51",
-      "https://lobste.rs/s/0i5srk/shell_its_crappy_handling_whitespace"
-    ],
-    [
-      "The shell and its crappy handling of whitespace",
-      "https://blog.plover.com/Unix/whitespace.html"
     ]
   ]
 ]
