@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 17:31:08](https://lobste.rs/s/2ud6qy/ab_using_images_sounds_for_indirect) - [(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://github.com/ebagdasa/multimodal_injection)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 16:27:18](https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you) - [GenServer.reply: Don't Call Us, We'll Call You](https://blog.sequin.io/genserver-reply-dont-call-us-well-call-you/)
 * [2023-08-01, 16:24:08](https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu) - [FreeBSD Jail booting & running Devuan GNU+Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)
 * [2023-08-01, 16:08:39](https://lobste.rs/s/bsfgfh/designing_evaluating_reusable) - [Designing and Evaluating Reusable Components (2004)](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
-* [2023-08-01, 16:07:06](https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates) - [Experimenting with Go project templates](https://go.dev/blog/gonew)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 14:04:47](https://lobste.rs/s/cxk4ux/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation)
 * [2023-08-01, 12:56:11](https://lobste.rs/s/k89h1c/toward_condensers) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
