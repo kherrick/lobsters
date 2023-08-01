@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 21:48:41](https://lobste.rs/s/cz6qwy/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 * [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
 * [2023-08-01, 19:58:18](https://lobste.rs/s/cjymay/gnu_coding_standards) - [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
