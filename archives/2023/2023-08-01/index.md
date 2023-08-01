@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
 * [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)

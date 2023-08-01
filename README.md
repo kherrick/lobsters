@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
 * [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
@@ -14,7 +15,6 @@
 * [2023-07-31, 20:33:18](https://lobste.rs/s/jkfzjt/fibonacci_matrix) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 19:23:01](https://lobste.rs/s/iyf4yz/video_resizer_browser_locally_with) - [Video resizer in browser locally with ffprobe / ffmpeg wasm](https://www.resizemp4.com/)
 * [2023-07-31, 19:09:33](https://lobste.rs/s/ryefgz/microsoft_comic_chat_1996) - [Microsoft Comic Chat [1996]](https://www.youtube.com/watch?v=goEqyQgWIe4)
-* [2023-07-31, 18:23:31](https://lobste.rs/s/g0q1dc/irc_is_only_viable_chat_protocol_2022) - [IRC is the Only Viable Chat Protocol (2022)](https://koshka.love/babel/irc-forever.html)
 * [2023-07-31, 16:38:29](https://lobste.rs/s/5c1dl1/file_distribution_over_dns_ab_using_dns_as) - [File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 15:26:41](https://lobste.rs/s/xrvfhh/list_software_bugs) - [List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
 * [2023-07-31, 14:57:18](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your) - [Database-centric Backends: What has your experience been like?](https://lobste.rs/s/ojxg8p/database_centric_backends_what_has_your)
