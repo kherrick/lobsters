@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 16:27:18](https://lobste.rs/s/jl3k5y/genserver_reply_don_t_call_us_we_ll_call_you) - [GenServer.reply: Don't Call Us, We'll Call You](https://blog.sequin.io/genserver-reply-dont-call-us-well-call-you/)
 * [2023-08-01, 16:24:08](https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu) - [FreeBSD Jail booting & running Devuan GNU+Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)
 * [2023-08-01, 16:08:39](https://lobste.rs/s/bsfgfh/designing_evaluating_reusable) - [Designing and Evaluating Reusable Components (2004)](https://www.youtube.com/watch?v=ZQ5_u8Lgvyk)
