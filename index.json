@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-08-01, 03:29:34",
+      "https://lobste.rs/s/ae1o1r/once_one_time_concurrent_initialization"
+    ],
+    [
+      "\"Once\" one-time concurrent initialization with an integer",
+      "https://nullprogram.com/blog/2023/07/31/"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 01:06:25",
       "https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code"
     ],
@@ -207,16 +217,6 @@
     [
       "Relay-style GraphQL",
       "https://alan.norbauer.com/articles/relay-style-graphql"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 07:23:47",
-      "https://lobste.rs/s/s7wxbj/ms_paint_your_terminal"
-    ],
-    [
-      "MS Paint in your terminal",
-      "https://github.com/1j01/textual-paint"
     ]
   ],
   [
