@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-08-01, 16:07:06",
+      "https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates"
+    ],
+    [
+      "Experimenting with Go project templates",
+      "https://go.dev/blog/gonew"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 14:31:37",
       "https://lobste.rs/s/t7oyxa/nim_v2_0_released"
     ],
@@ -167,16 +177,6 @@
     [
       "The Legacy of Stagefright",
       "https://blog.isosceles.com/the-legacy-of-stagefright/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 03:33:48",
-      "https://lobste.rs/s/pg6jcs/ll_1_parsing_write_your_own_context_free"
-    ],
-    [
-      "LL(1) Parsing: Write your own context-free grammar and see an LL(1) parser in action! (2022)",
-      "https://www.cs.princeton.edu/courses/archive/spring22/cos320/LL1/index.html"
     ]
   ],
   [
