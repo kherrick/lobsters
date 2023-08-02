@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 14:40:13](https://lobste.rs/s/jtgupi/codecov_is_now_open_source) - [Codecov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
 * [2023-08-02, 14:16:56](https://lobste.rs/s/y21f1z/gmail_unsubscribe_bulk_unsubscribe_from) - [gmail-unsubscribe: Bulk unsubscribe from lists in your Gmail inbox for free without compromising privacy](https://github.com/justjake/gmail-unsubscribe)
 * [2023-08-02, 13:45:35](https://lobste.rs/s/aw9thd/stopping_at_90) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 * [2023-08-02, 13:40:36](https://lobste.rs/s/rex6xz/notes_from_programmer_s_brain) - [Notes from _The Programmer's Brain_](https://gitlab.com/dahjelle/notes-from-the-programmers-brain/-/blob/main/README.md)
@@ -8,7 +9,6 @@
 * [2023-08-02, 12:58:12](https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for) - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://poison-llm.github.io/)
 * [2023-08-02, 12:51:50](https://lobste.rs/s/aggccl/how_build_software_from_source) - [How to Build Software From Source](https://youtu.be/CwXixVcliP0)
 * [2023-08-02, 12:34:47](https://lobste.rs/s/z3fpme/try_installing_from_source_first) - [Try installing from source first](https://www.aolium.com/karlseguin/721a356f-4596-dcce-3f5d-febb026d0705)
-* [2023-08-02, 11:17:58](https://lobste.rs/s/83cygn/rust_llvm_time_analysis) - [Rust LLVM time analysis](https://tij.ink/analysis.html)
 * [2023-08-02, 08:30:42](https://lobste.rs/s/eyzheq/why_are_you_still_here_mr_module) - [Why Are You Still Here, Mr Module?](https://danthedev.com/why-are-you-still-here-mr-module)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
 * [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
