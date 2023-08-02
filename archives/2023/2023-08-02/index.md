@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 16:01:04](https://lobste.rs/s/njwhbt/topologika_s_yes_chancellor_wondering) - [Topologika's Yes Chancellor - Wondering what the Chancellor's up to?](https://computeradsfromthepast.substack.com/p/topologikas-yes-chancellor)
+* [2023-08-02, 16:00:41](https://lobste.rs/s/gpnwv4/bonus_wizards_behind_macintosh) - [Bonus: The Wizards behind the Macintosh](https://computeradsfromthepast.substack.com/p/bonus-the-wizards-behind-the-macintosh)
+* [2023-08-02, 16:00:13](https://lobste.rs/s/ls2ify/pages_by_pages_wrestle_wordperfect_futz) - [Pages by Pages - Wrestle WordPerfect. Futz with FrameMaker, Or simply use Pages](https://computeradsfromthepast.substack.com/p/pages-by-pages)
+* [2023-08-02, 15:54:35](https://lobste.rs/s/zpfiob/why_tiledb_as_vector_database) - [Why TileDB as a Vector Database](https://www.tiledb.com/blog/why-tiledb-as-a-vector-database)
 * [2023-08-02, 15:19:22](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro) - [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 * [2023-08-02, 14:40:13](https://lobste.rs/s/jtgupi/codecov_is_now_open_source) - [Codecov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
 * [2023-08-02, 14:16:56](https://lobste.rs/s/y21f1z/gmail_unsubscribe_bulk_unsubscribe_from) - [gmail-unsubscribe: Bulk unsubscribe from lists in your Gmail inbox for free without compromising privacy](https://github.com/justjake/gmail-unsubscribe)
