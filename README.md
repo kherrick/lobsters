@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 13:45:35](https://lobste.rs/s/aw9thd/stopping_at_90) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
+* [2023-08-02, 13:40:36](https://lobste.rs/s/rex6xz/notes_from_programmer_s_brain) - [Notes from _The Programmer's Brain_](https://gitlab.com/dahjelle/notes-from-the-programmers-brain/-/blob/main/README.md)
 * [2023-08-02, 13:35:22](https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer) - [So you want to be a proof engineer?](http://proofcraft.org/blog/proof-engineer-reading.html)
 * [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:58:12](https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for) - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://poison-llm.github.io/)
@@ -14,7 +16,6 @@
 * [2023-08-01, 20:15:46](https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream) - [Stable APIs are a Pipe Dream](https://note89.github.io/pipe-dream/)
 * [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
-* [2023-08-01, 18:47:18](https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format) - [Overwrite/Insert Difference Format](https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 16:07:06](https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates) - [Experimenting with Go project templates](https://go.dev/blog/gonew)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
@@ -23,7 +24,6 @@
 * [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 07:25:29](https://lobste.rs/s/0dbxkz/solarpi_experiment_2_finally_something) - [SolarPi experiment 2: Finally something that works](https://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
-* [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 
 ## [Archives](archives/index.md)
