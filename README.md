@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 08:30:42](https://lobste.rs/s/eyzheq/why_are_you_still_here_mr_module) - [Why Are You Still Here, Mr Module?](https://danthedev.com/why-are-you-still-here-mr-module)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
 * [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
 * [2023-08-01, 22:47:07](https://lobste.rs/s/wtabbo/collide_power) - [Collide+Power](https://collidepower.com/)
@@ -22,7 +23,6 @@
 * [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-* [2023-07-31, 14:50:31](https://lobste.rs/s/zjzvd4/it_s_nix_all_way_down) - [It's Nix All The Way Down](https://ersei.net/en/blog/nix-all-the-way-down)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 
