@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 11:55:27](https://lobste.rs/s/dnrgb1/engineer_manager_pendulum_2017) - [The Engineer/Manager Pendulum (2017)](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 * [2023-08-02, 11:17:58](https://lobste.rs/s/83cygn/rust_llvm_time_analysis) - [Rust LLVM time analysis](https://tij.ink/analysis.html)
 * [2023-08-02, 08:30:42](https://lobste.rs/s/eyzheq/why_are_you_still_here_mr_module) - [Why Are You Still Here, Mr Module?](https://danthedev.com/why-are-you-still-here-mr-module)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
@@ -24,7 +25,6 @@
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
-* [2023-07-31, 13:25:13](https://lobste.rs/s/yxpuix/reflections_on_month_with_bbedit_nova) - [Reflections on a Month with BBEdit and Nova](https://v5.chriskrycho.com/journal/reflections-on-a-month-with-bbedit-and-nova/)
 
 ## [Archives](archives/index.md)
 
