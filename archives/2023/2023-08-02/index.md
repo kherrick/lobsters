@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 12:58:12](https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for) - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://poison-llm.github.io/)
+* [2023-08-02, 12:51:50](https://lobste.rs/s/aggccl/how_build_software_from_source) - [How to Build Software From Source](https://youtu.be/CwXixVcliP0)
 * [2023-08-02, 12:34:47](https://lobste.rs/s/z3fpme/try_installing_from_source_first) - [Try installing from source first](https://www.aolium.com/karlseguin/721a356f-4596-dcce-3f5d-febb026d0705)
 * [2023-08-02, 11:55:27](https://lobste.rs/s/dnrgb1/engineer_manager_pendulum_2017) - [The Engineer/Manager Pendulum (2017)](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 * [2023-08-02, 11:17:58](https://lobste.rs/s/83cygn/rust_llvm_time_analysis) - [Rust LLVM time analysis](https://tij.ink/analysis.html)
