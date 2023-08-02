@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-08-02, 16:44:48",
+      "https://lobste.rs/s/6fkarh/building_pivot_table_sqlite"
+    ],
+    [
+      "Building a pivot table in SQLite",
+      "https://antonz.org/sqlite-pivot-table/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 16:40:29",
+      "https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview"
+    ],
+    [
+      "kick.com sucks - a brief security overview",
+      "https://maia.crimew.gay/posts/kick.com-sucks/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 16:39:44",
+      "https://lobste.rs/s/kgmypt/inside_stl_vector"
+    ],
+    [
+      "Inside STL: The vector",
+      "https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 16:00:41",
       "https://lobste.rs/s/gpnwv4/bonus_wizards_behind_macintosh"
     ],
     [
       "Bonus: The Wizards behind the Macintosh",
       "https://computeradsfromthepast.substack.com/p/bonus-the-wizards-behind-the-macintosh"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 15:54:35",
-      "https://lobste.rs/s/zpfiob/why_tiledb_as_vector_database"
-    ],
-    [
-      "Why TileDB as a Vector Database",
-      "https://www.tiledb.com/blog/why-tiledb-as-a-vector-database"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-08-01, 20:15:46",
-      "https://lobste.rs/s/fkf2by/stable_apis_are_pipe_dream"
-    ],
-    [
-      "Stable APIs are a Pipe Dream",
-      "https://note89.github.io/pipe-dream/"
-    ]
-  ],
-  [
-    [
       "2023-08-01, 20:08:36",
       "https://lobste.rs/s/au1q5o/what_s_new_go_1_21"
     ],
     [
       "What’s New in Go 1.21",
       "https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 19:36:32",
-      "https://lobste.rs/s/ly33up/evading_javascript_anti_debugging"
-    ],
-    [
-      "Evading JavaScript Anti-Debugging Techniques",
-      "https://www.nullpt.rs/evading-anti-debugging-techniques"
     ]
   ],
   [
