@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-08-02, 18:10:03",
-      "https://lobste.rs/s/yfcjwb/going_beyond_incident_report_with_tla"
-    ],
-    [
-      "Going Beyond an Incident Report with TLA+",
-      "http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 16:44:48",
       "https://lobste.rs/s/6fkarh/building_pivot_table_sqlite"
     ],
@@ -247,6 +237,16 @@
     [
       "Trying Odin",
       "https://antonz.org/trying-odin/"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 09:42:44",
+      "https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron"
+    ],
+    [
+      "IronOS: Open Source Soldering Iron firmware",
+      "https://github.com/Ralim/IronOS"
     ]
   ]
 ]
