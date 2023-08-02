@@ -3,7 +3,6 @@
 * [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
 * [2023-08-02, 18:36:48](https://lobste.rs/s/5xbsme/bigcode) - [BigCode](https://www.bigcode-project.org/docs/about/mission/)
-* [2023-08-02, 18:10:03](https://lobste.rs/s/yfcjwb/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 16:00:41](https://lobste.rs/s/gpnwv4/bonus_wizards_behind_macintosh) - [Bonus: The Wizards behind the Macintosh](https://computeradsfromthepast.substack.com/p/bonus-the-wizards-behind-the-macintosh)
@@ -25,6 +24,7 @@
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
+* [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 
 ## [Archives](archives/index.md)
 
