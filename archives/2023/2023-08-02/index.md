@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 18:36:48](https://lobste.rs/s/5xbsme/bigcode) - [BigCode](https://www.bigcode-project.org/docs/about/mission/)
 * [2023-08-02, 18:10:03](https://lobste.rs/s/yfcjwb/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
