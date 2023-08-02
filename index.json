@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 20:28:11",
+      "https://lobste.rs/s/0y4gpq/embedding_golang_into_ruby_application"
+    ],
+    [
+      "Embedding GoLang into a Ruby application",
+      "https://gist.github.com/schweigert/385cd8e2267140674b6c4818d8f0c373"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 19:23:31",
       "https://lobste.rs/s/fvgvw1/non_mathematical_introduction_kalman"
     ],
@@ -237,16 +247,6 @@
     [
       "Nim v2.0 released",
       "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 10:47:02",
-      "https://lobste.rs/s/hyyizo/trying_odin"
-    ],
-    [
-      "Trying Odin",
-      "https://antonz.org/trying-odin/"
     ]
   ]
 ]
