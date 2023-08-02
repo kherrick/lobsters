@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 13:03:56",
+      "https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even"
+    ],
+    [
+      "Unsafe : on Rust still being helpful even with a lot of `unsafe`",
+      "https://v5.chriskrycho.com/journal/unsafe/"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 12:58:12",
       "https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for"
     ],
@@ -137,16 +147,6 @@
     [
       "Configuring a terminal emulator for a light theme",
       "https://tilde.guru/~adeptangel/terminal_light_theme.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 16:24:08",
-      "https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu"
-    ],
-    [
-      "FreeBSD Jail booting & running Devuan GNU+Linux with OpenRC",
-      "https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/"
     ]
   ],
   [
