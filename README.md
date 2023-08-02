@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 18:10:03](https://lobste.rs/s/yfcjwb/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 16:39:44](https://lobste.rs/s/kgmypt/inside_stl_vector) - [Inside STL: The vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
@@ -22,7 +23,6 @@
 * [2023-08-01, 20:08:36](https://lobste.rs/s/au1q5o/what_s_new_go_1_21) - [What’s New in Go 1.21](https://medium.com/lyonas/whats-new-in-go-1-21-a-comprehensive-notes-96017750b390)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
-* [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)
 * [2023-08-01, 10:47:02](https://lobste.rs/s/hyyizo/trying_odin) - [Trying Odin](https://antonz.org/trying-odin/)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 
