@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 20:28:11](https://lobste.rs/s/0y4gpq/embedding_golang_into_ruby_application) - [Embedding GoLang into a Ruby application](https://gist.github.com/schweigert/385cd8e2267140674b6c4818d8f0c373)
 * [2023-08-02, 19:23:31](https://lobste.rs/s/fvgvw1/non_mathematical_introduction_kalman) - [A non-mathematical introduction to Kalman Filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
