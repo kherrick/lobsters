@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
+* [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
+* [2023-08-02, 16:39:44](https://lobste.rs/s/kgmypt/inside_stl_vector) - [Inside STL: The vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
 * [2023-08-02, 16:01:04](https://lobste.rs/s/njwhbt/topologika_s_yes_chancellor_wondering) - [Topologika's Yes Chancellor - Wondering what the Chancellor's up to?](https://computeradsfromthepast.substack.com/p/topologikas-yes-chancellor)
 * [2023-08-02, 16:00:41](https://lobste.rs/s/gpnwv4/bonus_wizards_behind_macintosh) - [Bonus: The Wizards behind the Macintosh](https://computeradsfromthepast.substack.com/p/bonus-the-wizards-behind-the-macintosh)
 * [2023-08-02, 16:00:13](https://lobste.rs/s/ls2ify/pages_by_pages_wrestle_wordperfect_futz) - [Pages by Pages - Wrestle WordPerfect. Futz with FrameMaker, Or simply use Pages](https://computeradsfromthepast.substack.com/p/pages-by-pages)
