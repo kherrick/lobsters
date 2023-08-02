@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:58:12](https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for) - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://poison-llm.github.io/)
 * [2023-08-02, 12:51:50](https://lobste.rs/s/aggccl/how_build_software_from_source) - [How to Build Software From Source](https://youtu.be/CwXixVcliP0)
 * [2023-08-02, 12:34:47](https://lobste.rs/s/z3fpme/try_installing_from_source_first) - [Try installing from source first](https://www.aolium.com/karlseguin/721a356f-4596-dcce-3f5d-febb026d0705)
@@ -14,7 +15,6 @@
 * [2023-08-01, 19:36:32](https://lobste.rs/s/ly33up/evading_javascript_anti_debugging) - [Evading JavaScript Anti-Debugging Techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 18:47:18](https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format) - [Overwrite/Insert Difference Format](https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md)
 * [2023-08-01, 16:34:29](https://lobste.rs/s/96jvjz/configuring_terminal_emulator_for_light) - [Configuring a terminal emulator for a light theme](https://tilde.guru/~adeptangel/terminal_light_theme.html)
-* [2023-08-01, 16:24:08](https://lobste.rs/s/gkmlyz/freebsd_jail_booting_running_devuan_gnu) - [FreeBSD Jail booting & running Devuan GNU+Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)
 * [2023-08-01, 16:07:06](https://lobste.rs/s/0jaeu8/experimenting_with_go_project_templates) - [Experimenting with Go project templates](https://go.dev/blog/gonew)
 * [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 11:20:12](https://lobste.rs/s/z2qhlm/on_modularity_lexical_analysis) - [On Modularity of Lexical Analysis](https://matklad.github.io/2023/08/01/on-modularity-of-lexical-analysis.html)

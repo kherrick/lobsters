@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:58:12](https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for) - [Virtual Prompt Injection for Instruction-Tuned Large Language Models](https://poison-llm.github.io/)
 * [2023-08-02, 12:51:50](https://lobste.rs/s/aggccl/how_build_software_from_source) - [How to Build Software From Source](https://youtu.be/CwXixVcliP0)
 * [2023-08-02, 12:34:47](https://lobste.rs/s/z3fpme/try_installing_from_source_first) - [Try installing from source first](https://www.aolium.com/karlseguin/721a356f-4596-dcce-3f5d-febb026d0705)
