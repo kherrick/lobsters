@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 03:34:41",
+      "https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword"
+    ],
+    [
+      "Why I don't like C23 \"auto\" keyword",
+      "https://gcher.com/posts/2023-06-18-c-auto/"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 22:47:07",
       "https://lobste.rs/s/wtabbo/collide_power"
     ],
@@ -177,16 +187,6 @@
     [
       "Browser-based robot dog simulator",
       "https://grgv.xyz/blog/simulator2/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 06:24:09",
-      "https://lobste.rs/s/jvppwb/macos_qemu_arm_edition"
-    ],
-    [
-      "MacOS in QEMU – ARM edition",
-      "https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf"
     ]
   ],
   [
