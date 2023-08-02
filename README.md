@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-02, 11:17:58](https://lobste.rs/s/83cygn/rust_llvm_time_analysis) - [Rust LLVM time analysis](https://tij.ink/analysis.html)
 * [2023-08-02, 08:30:42](https://lobste.rs/s/eyzheq/why_are_you_still_here_mr_module) - [Why Are You Still Here, Mr Module?](https://danthedev.com/why-are-you-still-here-mr-module)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
 * [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
@@ -20,7 +21,6 @@
 * [2023-08-01, 10:21:51](https://lobste.rs/s/a8rpfe/other_template_en_other_way_write) - [other-template: en other way to write a templating language](https://github.com/xcombelle/other-template)
 * [2023-08-01, 09:42:44](https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron) - [IronOS: Open Source Soldering Iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 07:25:29](https://lobste.rs/s/0dbxkz/solarpi_experiment_2_finally_something) - [SolarPi experiment 2: Finally something that works](https://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
-* [2023-08-01, 06:33:19](https://lobste.rs/s/trwcoy/browser_based_robot_dog_simulator) - [Browser-based robot dog simulator](https://grgv.xyz/blog/simulator2/)
 * [2023-08-01, 05:18:06](https://lobste.rs/s/3s9cne/git_files_hidden_plain_sight) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:06:25](https://lobste.rs/s/frgf9r/throw_away_your_first_draft_your_code) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-07-31, 14:35:01](https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back) - [GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
