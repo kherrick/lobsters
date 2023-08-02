@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-02, 18:47:54",
+      "https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs"
+    ],
+    [
+      "Occluding Contour Breakthroughs",
+      "https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 18:46:43",
+      "https://lobste.rs/s/fqbelt/commiting_type_crimes_zig"
+    ],
+    [
+      "Commiting Type Crimes in Zig",
+      "https://www.1a-insec.net/blog/10-type-magic-in-zig/"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 18:36:48",
       "https://lobste.rs/s/5xbsme/bigcode"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-08-02, 12:58:12",
-      "https://lobste.rs/s/3pdbk9/virtual_prompt_injection_for"
-    ],
-    [
-      "Virtual Prompt Injection for Instruction-Tuned Large Language Models",
-      "https://poison-llm.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 12:34:47",
       "https://lobste.rs/s/z3fpme/try_installing_from_source_first"
     ],
@@ -237,16 +247,6 @@
     [
       "Trying Odin",
       "https://antonz.org/trying-odin/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 09:42:44",
-      "https://lobste.rs/s/y5ky69/ironos_open_source_soldering_iron"
-    ],
-    [
-      "IronOS: Open Source Soldering Iron firmware",
-      "https://github.com/Ralim/IronOS"
     ]
   ]
 ]
