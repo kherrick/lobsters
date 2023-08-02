@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 13:35:22",
+      "https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer"
+    ],
+    [
+      "So you want to be a proof engineer?",
+      "http://proofcraft.org/blog/proof-engineer-reading.html"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 13:03:56",
       "https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even"
     ],
@@ -237,16 +247,6 @@
     [
       "Throw away your first draft of your code",
       "https://ntietz.com/blog/throw-away-your-first-draft/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 14:35:01",
-      "https://lobste.rs/s/ccf1p5/gnu_hurd_strikes_back"
-    ],
-    [
-      "GNU/Hurd strikes back",
-      "https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d"
     ]
   ]
 ]
