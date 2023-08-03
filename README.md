@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 20:27:28](https://lobste.rs/s/qt20rd/azul_hardware_transactional_memory) - [The Azul Hardware Transactional Memory experience (2019)](https://www.youtube.com/watch?v=GEkeOHw87Sg)
 * [2023-08-03, 19:29:39](https://lobste.rs/s/fsdxqw/research_papers_on_ml_compilers) - [Research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
-* [2023-08-03, 19:11:25](https://lobste.rs/s/iaieme/ball_und_panzer_golf_making_playdate_game) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 * [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:49:20](https://lobste.rs/s/1vorec/mte_as_implemented_part_1_implementation) - [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
