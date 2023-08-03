@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-08-03, 02:09:41",
+      "https://lobste.rs/s/z1ninh/lts_15_years_not_5"
+    ],
+    [
+      "LTS == 15 Years Not 5",
+      "https://www.logikalsolutions.com/wordpress/information-technology/lts/"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 01:34:03",
       "https://lobste.rs/s/nxnds3/dioxus_0_4_server_functions_suspense_enum"
     ],
@@ -47,16 +57,6 @@
     [
       "Optimizing TLA+ Model Checking",
       "https://learntla.com/topics/optimization.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 20:28:11",
-      "https://lobste.rs/s/0y4gpq/embedding_golang_into_ruby_application"
-    ],
-    [
-      "Embedding GoLang into a Ruby application",
-      "https://gist.github.com/schweigert/385cd8e2267140674b6c4818d8f0c373"
     ]
   ],
   [
