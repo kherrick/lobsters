@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 12:08:35](https://lobste.rs/s/h7tv2l/how_fix_chronically_out_date) - [How to Fix Chronically Out of Date Documentation](https://aaronsaray.com/2023/how-to-fix-chronically-out-of-date-documentation/)
+* [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-03, 04:51:00](https://lobste.rs/s/abgvbs/patterns_for_building_llm_based_systems) - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)

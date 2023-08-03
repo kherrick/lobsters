@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 12:08:35](https://lobste.rs/s/h7tv2l/how_fix_chronically_out_date) - [How to Fix Chronically Out of Date Documentation](https://aaronsaray.com/2023/how-to-fix-chronically-out-of-date-documentation/)
+* [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-03, 04:51:00](https://lobste.rs/s/abgvbs/patterns_for_building_llm_based_systems) - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
@@ -8,7 +10,6 @@
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 * [2023-08-02, 20:37:23](https://lobste.rs/s/tidirr/optimizing_tla_model_checking) - [Optimizing TLA+ Model Checking](https://learntla.com/topics/optimization.html)
-* [2023-08-02, 19:23:31](https://lobste.rs/s/fvgvw1/non_mathematical_introduction_kalman) - [A non-mathematical introduction to Kalman Filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
 * [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
@@ -22,7 +23,6 @@
 * [2023-08-02, 13:35:22](https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer) - [So you want to be a proof engineer?](http://proofcraft.org/blog/proof-engineer-reading.html)
 * [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
-* [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
 * [2023-08-01, 21:52:26](https://lobste.rs/s/gbbeth/famous_f40_vector_illustration) - [“The Famous F40” vector illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-08-01, 21:48:41](https://lobste.rs/s/cz6qwy/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 
