@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 19:11:25](https://lobste.rs/s/iaieme/ball_und_panzer_golf_making_playdate_game) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 * [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
@@ -17,7 +18,6 @@
 * [2023-08-03, 02:09:41](https://lobste.rs/s/z1ninh/lts_15_years_not_5) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
-* [2023-08-02, 20:37:23](https://lobste.rs/s/tidirr/optimizing_tla_model_checking) - [Optimizing TLA+ Model Checking](https://learntla.com/topics/optimization.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 15:19:22](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro) - [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
