@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 22:20:07](https://lobste.rs/s/v6vl6f/what_if_service_objects_were_just_procs) - [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
 * [2023-08-03, 20:27:28](https://lobste.rs/s/qt20rd/azul_hardware_transactional_memory) - [The Azul Hardware Transactional Memory experience (2019)](https://www.youtube.com/watch?v=GEkeOHw87Sg)
 * [2023-08-03, 19:29:39](https://lobste.rs/s/fsdxqw/research_papers_on_ml_compilers) - [Research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 * [2023-08-03, 19:11:25](https://lobste.rs/s/iaieme/ball_und_panzer_golf_making_playdate_game) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
