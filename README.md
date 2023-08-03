@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-08-03, 04:51:00](https://lobste.rs/s/abgvbs/patterns_for_building_llm_based_systems) - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+* [2023-08-03, 02:09:41](https://lobste.rs/s/z1ninh/lts_15_years_not_5) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 * [2023-08-03, 01:34:03](https://lobste.rs/s/nxnds3/dioxus_0_4_server_functions_suspense_enum) - [Dioxus 0.4: Server Functions, Suspense, Enum Router, Overhauled Docs, Bundler, Android Support &more](https://dioxuslabs.com/blog/release-040)
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 * [2023-08-02, 20:37:23](https://lobste.rs/s/tidirr/optimizing_tla_model_checking) - [Optimizing TLA+ Model Checking](https://learntla.com/topics/optimization.html)
-* [2023-08-02, 20:28:11](https://lobste.rs/s/0y4gpq/embedding_golang_into_ruby_application) - [Embedding GoLang into a Ruby application](https://gist.github.com/schweigert/385cd8e2267140674b6c4818d8f0c373)
 * [2023-08-02, 19:23:31](https://lobste.rs/s/fvgvw1/non_mathematical_introduction_kalman) - [A non-mathematical introduction to Kalman Filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
