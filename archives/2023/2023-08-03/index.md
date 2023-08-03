@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 15:49:20](https://lobste.rs/s/1vorec/mte_as_implemented_part_1_implementation) - [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
+* [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
 * [2023-08-03, 14:49:42](https://lobste.rs/s/9d0i0j/system_settings_aren_t_system_settings) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)

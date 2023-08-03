@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 15:49:20](https://lobste.rs/s/1vorec/mte_as_implemented_part_1_implementation) - [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
+* [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
-* [2023-08-03, 14:49:42](https://lobste.rs/s/9d0i0j/system_settings_aren_t_system_settings) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:31:53](https://lobste.rs/s/7prbm5/paas_dilemma_balancing_trust_vendor_lock) - [The PaaS Dilemma: Balancing Trust, Vendor Lock-in, and Open Source Solutions](https://encore.dev/blog/the-paas-dilemma)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
@@ -13,7 +14,6 @@
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
-* [2023-08-03, 04:51:00](https://lobste.rs/s/abgvbs/patterns_for_building_llm_based_systems) - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-03, 02:09:41](https://lobste.rs/s/z1ninh/lts_15_years_not_5) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
