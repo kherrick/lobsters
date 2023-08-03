@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-03, 07:41:49",
+      "https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not"
+    ],
+    [
+      "If Web Components are so great, why am I not using them?",
+      "https://daverupert.com/2023/07/why-not-webcomponents/"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 05:37:06",
       "https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla"
     ],
@@ -237,16 +247,6 @@
     [
       "Shamir Secret Sharing",
       "https://max.levch.in/post/724289457144070144/shamir-secret-sharing"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 14:31:37",
-      "https://lobste.rs/s/t7oyxa/nim_v2_0_released"
-    ],
-    [
-      "Nim v2.0 released",
-      "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html"
     ]
   ]
 ]
