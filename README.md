@@ -2,7 +2,7 @@
 
 * [2023-08-03, 15:57:42](https://lobste.rs/s/6rxu8m/first_lambda_ingo_zk_ctf_zk_challenges) - [First Lambda-Ingo ZK CTF: ZK challenges using LambdaWorks](https://blog.lambdaclass.com/first-lambda-ingo-zk-ctf-zk-challenges-using-lambdaworks/)
 * [2023-08-03, 15:49:20](https://lobste.rs/s/1vorec/mte_as_implemented_part_1_implementation) - [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
-* [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
+* [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:31:53](https://lobste.rs/s/7prbm5/paas_dilemma_balancing_trust_vendor_lock) - [The PaaS Dilemma: Balancing Trust, Vendor Lock-in, and Open Source Solutions](https://encore.dev/blog/the-paas-dilemma)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
