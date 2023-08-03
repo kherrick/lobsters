@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 14:49:42](https://lobste.rs/s/9d0i0j/system_settings_aren_t_system_settings) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
+* [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:31:53](https://lobste.rs/s/7prbm5/paas_dilemma_balancing_trust_vendor_lock) - [The PaaS Dilemma: Balancing Trust, Vendor Lock-in, and Open Source Solutions](https://encore.dev/blog/the-paas-dilemma)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
@@ -16,13 +18,11 @@
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 * [2023-08-02, 20:37:23](https://lobste.rs/s/tidirr/optimizing_tla_model_checking) - [Optimizing TLA+ Model Checking](https://learntla.com/topics/optimization.html)
-* [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 15:19:22](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro) - [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 * [2023-08-02, 14:40:13](https://lobste.rs/s/jtgupi/codecov_is_now_open_source) - [Codecov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
 * [2023-08-02, 13:45:35](https://lobste.rs/s/aw9thd/stopping_at_90) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
-* [2023-08-02, 13:40:36](https://lobste.rs/s/rex6xz/notes_from_programmer_s_brain) - [Notes from _The Programmer's Brain_](https://gitlab.com/dahjelle/notes-from-the-programmers-brain/-/blob/main/README.md)
 * [2023-08-02, 13:35:22](https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer) - [So you want to be a proof engineer?](http://proofcraft.org/blog/proof-engineer-reading.html)
 * [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 
