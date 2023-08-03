@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 02:09:41](https://lobste.rs/s/z1ninh/lts_15_years_not_5) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 * [2023-08-03, 01:34:03](https://lobste.rs/s/nxnds3/dioxus_0_4_server_functions_suspense_enum) - [Dioxus 0.4: Server Functions, Suspense, Enum Router, Overhauled Docs, Bundler, Android Support &more](https://dioxuslabs.com/blog/release-040)
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
@@ -19,7 +20,6 @@
 * [2023-08-02, 13:35:22](https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer) - [So you want to be a proof engineer?](http://proofcraft.org/blog/proof-engineer-reading.html)
 * [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:34:47](https://lobste.rs/s/z3fpme/try_installing_from_source_first) - [Try installing from source first](https://www.aolium.com/karlseguin/721a356f-4596-dcce-3f5d-febb026d0705)
-* [2023-08-02, 11:17:58](https://lobste.rs/s/83cygn/rust_llvm_time_analysis) - [Rust LLVM time analysis](https://tij.ink/analysis.html)
 * [2023-08-02, 04:31:51](https://lobste.rs/s/eccv1g/what_s_module) - [What's in a Module?](https://thunderseethe.dev/posts/whats-in-a-module/)
 * [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
 * [2023-08-01, 21:52:26](https://lobste.rs/s/gbbeth/famous_f40_vector_illustration) - [“The Famous F40” vector illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
