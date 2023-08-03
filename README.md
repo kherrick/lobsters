@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 13:23:25](https://lobste.rs/s/e2bmr2/does_capability_design_force_re) - [Does capability design force a re-eximantion of anonymity?](https://philosophy.stackexchange.com/a/101260/48431)
 * [2023-08-03, 13:05:12](https://lobste.rs/s/zj1nnx/quirks_python_package_versioning) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:23:22](https://lobste.rs/s/ruvi9a/man_spends_entire_career_mastering) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 12:08:35](https://lobste.rs/s/h7tv2l/how_fix_chronically_out_date) - [How to Fix Chronically Out of Date Documentation](https://aaronsaray.com/2023/how-to-fix-chronically-out-of-date-documentation/)
@@ -14,7 +15,6 @@
 * [2023-08-02, 20:37:23](https://lobste.rs/s/tidirr/optimizing_tla_model_checking) - [Optimizing TLA+ Model Checking](https://learntla.com/topics/optimization.html)
 * [2023-08-02, 18:47:54](https://lobste.rs/s/cue7zt/occluding_contour_breakthroughs) - [Occluding Contour Breakthroughs](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-08-02, 18:46:43](https://lobste.rs/s/fqbelt/commiting_type_crimes_zig) - [Commiting Type Crimes in Zig](https://www.1a-insec.net/blog/10-type-magic-in-zig/)
-* [2023-08-02, 16:44:48](https://lobste.rs/s/6fkarh/building_pivot_table_sqlite) - [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 15:19:22](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro) - [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 * [2023-08-02, 14:40:13](https://lobste.rs/s/jtgupi/codecov_is_now_open_source) - [Codecov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
