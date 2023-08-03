@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-03, 04:51:00](https://lobste.rs/s/abgvbs/patterns_for_building_llm_based_systems) - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-03, 02:09:41](https://lobste.rs/s/z1ninh/lts_15_years_not_5) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
@@ -24,7 +25,6 @@
 * [2023-08-02, 03:34:41](https://lobste.rs/s/rxvxop/why_i_don_t_like_c23_auto_keyword) - [Why I don't like C23 \"auto\" keyword](https://gcher.com/posts/2023-06-18-c-auto/)
 * [2023-08-01, 21:52:26](https://lobste.rs/s/gbbeth/famous_f40_vector_illustration) - [“The Famous F40” vector illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-08-01, 21:48:41](https://lobste.rs/s/cz6qwy/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
-* [2023-08-01, 14:31:37](https://lobste.rs/s/t7oyxa/nim_v2_0_released) - [Nim v2.0 released](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 
 ## [Archives](archives/index.md)
 
