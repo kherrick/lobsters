@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 * [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
@@ -10,7 +11,6 @@
 * [2023-08-03, 13:23:25](https://lobste.rs/s/e2bmr2/does_capability_design_force_re) - [Does capability design force a re-eximantion of anonymity?](https://philosophy.stackexchange.com/a/101260/48431)
 * [2023-08-03, 13:05:12](https://lobste.rs/s/zj1nnx/quirks_python_package_versioning) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:23:22](https://lobste.rs/s/ruvi9a/man_spends_entire_career_mastering) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
-* [2023-08-03, 12:08:35](https://lobste.rs/s/h7tv2l/how_fix_chronically_out_date) - [How to Fix Chronically Out of Date Documentation](https://aaronsaray.com/2023/how-to-fix-chronically-out-of-date-documentation/)
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)

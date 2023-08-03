@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 * [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:57:42](https://lobste.rs/s/6rxu8m/first_lambda_ingo_zk_ctf_zk_challenges) - [First Lambda-Ingo ZK CTF: ZK challenges using LambdaWorks](https://blog.lambdaclass.com/first-lambda-ingo-zk-ctf-zk-challenges-using-lambdaworks/)
 * [2023-08-03, 15:49:20](https://lobste.rs/s/1vorec/mte_as_implemented_part_1_implementation) - [MTE As Implemented, Part 1: Implementation Testing](https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html)
