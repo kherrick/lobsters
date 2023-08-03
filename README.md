@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-03, 15:57:42](https://lobste.rs/s/6rxu8m/first_lambda_ingo_zk_ctf_zk_challenges) - [First Lambda-Ingo ZK CTF: ZK challenges using LambdaWorks](https://blog.lambdaclass.com/first-lambda-ingo-zk-ctf-zk-challenges-using-lambdaworks/)
+* [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
