@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 18:32:55](https://lobste.rs/s/ch9coi/representing_heterogeneous_data) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-08-04, 17:48:10](https://lobste.rs/s/xjrmoe/i_made_keyboard) - [I made a keyboard](https://dotat.at/@/2023-08-04-keybird.html)
 * [2023-08-04, 17:39:06](https://lobste.rs/s/4qwiub/behind_hello_world_on_linux) - [Behind \"Hello World\" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 * [2023-08-04, 17:35:31](https://lobste.rs/s/npeilv/unix69_keyboard_layout_nerdy_nice) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
@@ -24,7 +25,6 @@
 * [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-03, 13:05:12](https://lobste.rs/s/zj1nnx/quirks_python_package_versioning) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
-* [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 
 ## [Archives](archives/index.md)
 
