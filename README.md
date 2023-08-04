@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 08:52:30](https://lobste.rs/s/ctk1lx/openbsd_7_3_on_twenty_year_old_ibm_thinkpad) - [OpenBSD 7.3 on a twenty year old IBM ThinkPad R31](https://box.matto.nl/openbsd-73-on-a-twenty-year-old-ibm-thinkpad-r31.html)
 * [2023-08-04, 07:09:42](https://lobste.rs/s/vb0e5k/rt_2_vision_language_action_models) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
 * [2023-08-04, 06:01:37](https://lobste.rs/s/6isfd6/lz77_is_all_you_need_why_gzip_knn_works_for) - [LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification](https://codeconfessions.substack.com/p/lz77-is-all-you-need)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
@@ -8,7 +9,6 @@
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-04, 00:38:08](https://lobste.rs/s/tfy4cy/simple_networking_2020) - [Simple networking (2020)](https://insanity.industries/post/simple-networking/)
 * [2023-08-03, 22:20:07](https://lobste.rs/s/v6vl6f/what_if_service_objects_were_just_procs) - [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
-* [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
 * [2023-08-03, 16:59:41](https://lobste.rs/s/e6g0fw/postgres_log_statement_all_should_be_your) - [Postgres log_statement='all' should be your default (2012)](https://www.endpointdev.com/blog/2012/06/logstatement-postgres-all-full-logging/)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 15:21:21](https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir) - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
