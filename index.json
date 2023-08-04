@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-04, 17:39:06",
+      "https://lobste.rs/s/4qwiub/behind_hello_world_on_linux"
+    ],
+    [
+      "Behind \"Hello World\" on Linux",
+      "https://jvns.ca/blog/2023/08/03/behind--hello-world/"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 17:35:31",
       "https://lobste.rs/s/npeilv/unix69_keyboard_layout_nerdy_nice"
     ],
@@ -237,16 +247,6 @@
     [
       "If Web Components are so great, why am I not using them?",
       "https://daverupert.com/2023/07/why-not-webcomponents/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 21:14:52",
-      "https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real"
-    ],
-    [
-      "Oils 0.17.0 - YSH Is Becoming Real",
-      "https://www.oilshell.org/blog/2023/08/release-0.17.0.html"
     ]
   ]
 ]
