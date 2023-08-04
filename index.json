@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-04, 06:01:37",
+      "https://lobste.rs/s/6isfd6/lz77_is_all_you_need_why_gzip_knn_works_for"
+    ],
+    [
+      "LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification",
+      "https://codeconfessions.substack.com/p/lz77-is-all-you-need"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 05:59:13",
+      "https://lobste.rs/s/n8gc2t/zig_0_11_released"
+    ],
+    [
+      "Zig 0.11 released",
+      "https://ziglang.org/download/0.11.0/release-notes.html"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 05:24:56",
       "https://lobste.rs/s/erfhyu/readings_database_systems_5th_edition"
     ],
@@ -57,16 +77,6 @@
     [
       "The Azul Hardware Transactional Memory experience (2019)",
       "https://www.youtube.com/watch?v=GEkeOHw87Sg"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 18:05:52",
-      "https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary"
-    ],
-    [
-      "Flutter Pros and Cons 2023 - Summary and Recommendations",
-      "https://leancode.co/blog/flutter-pros-and-cons-2023-summary"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Quirks of Python package versioning",
       "https://sethmlarson.dev/pep-440"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 12:23:22",
-      "https://lobste.rs/s/ruvi9a/man_spends_entire_career_mastering"
-    ],
-    [
-      "Man Spends Entire Career Mastering Crappy Codebase",
-      "https://taylor.town/entire-career"
     ]
   ],
   [
