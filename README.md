@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 05:24:56](https://lobste.rs/s/erfhyu/readings_database_systems_5th_edition) - [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)
 * [2023-08-04, 04:40:44](https://lobste.rs/s/0xdso1/picolisp_ecosystem_explored) - [PicoLisp ecosystem explored](https://picolisp-explored.com/)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-04, 00:38:08](https://lobste.rs/s/tfy4cy/simple_networking_2020) - [Simple networking (2020)](https://insanity.industries/post/simple-networking/)
@@ -20,7 +21,6 @@
 * [2023-08-03, 12:23:22](https://lobste.rs/s/ruvi9a/man_spends_entire_career_mastering) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
-* [2023-08-03, 05:37:06](https://lobste.rs/s/bfnfqi/going_beyond_incident_report_with_tla) - [Going Beyond an Incident Report with TLA+](http://muratbuffalo.blogspot.com/2023/08/going-beyond-incident-report-with-tla.html)
 * [2023-08-02, 21:18:10](https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21) - [Things I'm excited for in Go 1.21](https://www.sethvargo.com/things-im-excited-for-in-go-1-21/)
 * [2023-08-02, 21:14:52](https://lobste.rs/s/fdqbhk/oils_0_17_0_ysh_is_becoming_real) - [Oils 0.17.0 - YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
