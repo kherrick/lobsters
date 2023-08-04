@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
 * [2023-08-04, 18:39:28](https://lobste.rs/s/k3ccnq/mozilla_vpn_privileged_vpndaemon_on) - [Mozilla VPN: Privileged vpndaemon on Linux wrongly and incompletely implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 18:32:55](https://lobste.rs/s/ch9coi/representing_heterogeneous_data) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-08-04, 17:48:10](https://lobste.rs/s/xjrmoe/i_made_keyboard) - [I made a keyboard](https://dotat.at/@/2023-08-04-keybird.html)

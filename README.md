@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
 * [2023-08-04, 18:39:28](https://lobste.rs/s/k3ccnq/mozilla_vpn_privileged_vpndaemon_on) - [Mozilla VPN: Privileged vpndaemon on Linux wrongly and incompletely implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 18:32:55](https://lobste.rs/s/ch9coi/representing_heterogeneous_data) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-08-04, 17:48:10](https://lobste.rs/s/xjrmoe/i_made_keyboard) - [I made a keyboard](https://dotat.at/@/2023-08-04-keybird.html)
@@ -17,7 +18,6 @@
 * [2023-08-04, 05:24:56](https://lobste.rs/s/erfhyu/readings_database_systems_5th_edition) - [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)
 * [2023-08-04, 04:40:44](https://lobste.rs/s/0xdso1/picolisp_ecosystem_explored) - [PicoLisp ecosystem explored](https://picolisp-explored.com/)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
-* [2023-08-04, 00:38:08](https://lobste.rs/s/tfy4cy/simple_networking_2020) - [Simple networking (2020)](https://insanity.industries/post/simple-networking/)
 * [2023-08-03, 22:20:07](https://lobste.rs/s/v6vl6f/what_if_service_objects_were_just_procs) - [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
