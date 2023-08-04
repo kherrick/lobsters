@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 10:39:20](https://lobste.rs/s/rm8puh/fivethirtyeight_s_elo_ratings_logistic) - [FiveThirtyEight's Elo Ratings and Logistic Regression](https://nicidob.github.io/nba_elo/)
 * [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
 * [2023-08-04, 08:52:30](https://lobste.rs/s/ctk1lx/openbsd_7_3_on_twenty_year_old_ibm_thinkpad) - [OpenBSD 7.3 on a twenty year old IBM ThinkPad R31](https://box.matto.nl/openbsd-73-on-a-twenty-year-old-ibm-thinkpad-r31.html)
 * [2023-08-04, 07:09:42](https://lobste.rs/s/vb0e5k/rt_2_vision_language_action_models) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
@@ -17,7 +18,6 @@
 * [2023-08-03, 14:31:53](https://lobste.rs/s/7prbm5/paas_dilemma_balancing_trust_vendor_lock) - [The PaaS Dilemma: Balancing Trust, Vendor Lock-in, and Open Source Solutions](https://encore.dev/blog/the-paas-dilemma)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
-* [2023-08-03, 13:23:25](https://lobste.rs/s/e2bmr2/does_capability_design_force_re) - [Does capability design force a re-eximantion of anonymity?](https://philosophy.stackexchange.com/a/101260/48431)
 * [2023-08-03, 13:05:12](https://lobste.rs/s/zj1nnx/quirks_python_package_versioning) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-03, 07:41:49](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
