@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-04, 00:38:08](https://lobste.rs/s/tfy4cy/simple_networking_2020) - [Simple networking (2020)](https://insanity.industries/post/simple-networking/)
 * [2023-08-03, 22:20:07](https://lobste.rs/s/v6vl6f/what_if_service_objects_were_just_procs) - [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
 * [2023-08-03, 20:27:28](https://lobste.rs/s/qt20rd/azul_hardware_transactional_memory) - [The Azul Hardware Transactional Memory experience (2019)](https://www.youtube.com/watch?v=GEkeOHw87Sg)
 * [2023-08-03, 18:05:52](https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary) - [Flutter Pros and Cons 2023 - Summary and Recommendations](https://leancode.co/blog/flutter-pros-and-cons-2023-summary)
@@ -23,7 +24,6 @@
 * [2023-08-02, 16:40:29](https://lobste.rs/s/g7o7z1/kick_com_sucks_brief_security_overview) - [kick.com sucks - a brief security overview](https://maia.crimew.gay/posts/kick.com-sucks/)
 * [2023-08-02, 15:19:22](https://lobste.rs/s/hkimzz/asahi_linux_has_new_flagship_distro) - [Asahi Linux has new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 * [2023-08-02, 14:40:13](https://lobste.rs/s/jtgupi/codecov_is_now_open_source) - [Codecov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
-* [2023-08-02, 13:35:22](https://lobste.rs/s/z6hmgx/so_you_want_be_proof_engineer) - [So you want to be a proof engineer?](http://proofcraft.org/blog/proof-engineer-reading.html)
 * [2023-08-02, 13:03:56](https://lobste.rs/s/kuq1ha/unsafe_on_rust_still_being_helpful_even) - [Unsafe : on Rust still being helpful even with a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 
 ## [Archives](archives/index.md)
