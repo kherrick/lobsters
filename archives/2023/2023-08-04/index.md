@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 18:39:28](https://lobste.rs/s/k3ccnq/mozilla_vpn_privileged_vpndaemon_on) - [Mozilla VPN: Privileged vpndaemon on Linux wrongly and incompletely implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 18:32:55](https://lobste.rs/s/ch9coi/representing_heterogeneous_data) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-08-04, 17:48:10](https://lobste.rs/s/xjrmoe/i_made_keyboard) - [I made a keyboard](https://dotat.at/@/2023-08-04-keybird.html)
 * [2023-08-04, 17:39:06](https://lobste.rs/s/4qwiub/behind_hello_world_on_linux) - [Behind \"Hello World\" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
