@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-04, 15:29:11",
+      "https://lobste.rs/s/tuyoo5/inside_stl_string"
+    ],
+    [
+      "Inside STL: The string",
+      "https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 13:32:19",
       "https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking"
     ],
@@ -217,16 +227,6 @@
     [
       "If Web Components are so great, why am I not using them?",
       "https://daverupert.com/2023/07/why-not-webcomponents/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 21:18:10",
-      "https://lobste.rs/s/znxfrr/things_i_m_excited_for_go_1_21"
-    ],
-    [
-      "Things I'm excited for in Go 1.21",
-      "https://www.sethvargo.com/things-im-excited-for-in-go-1-21/"
     ]
   ],
   [
