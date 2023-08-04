@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
 * [2023-08-04, 15:42:18](https://lobste.rs/s/onadks/clojure_next_rich) - [Clojure - (next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 15:29:11](https://lobste.rs/s/tuyoo5/inside_stl_string) - [Inside STL: The string](https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532)
 * [2023-08-04, 13:32:19](https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking) - [Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform](https://samcurry.net/points-com/)
