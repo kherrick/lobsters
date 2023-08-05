@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-08-05, 14:01:02](https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web) - [nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server](https://github.com/lyokha/nginx-haskell-module)
@@ -20,7 +21,6 @@
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
 * [2023-08-04, 13:32:19](https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking) - [Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform](https://samcurry.net/points-com/)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
-* [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
