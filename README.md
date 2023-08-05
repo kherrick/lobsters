@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 17:09:37](https://lobste.rs/s/uw8ac2/catching_up_on_weird_world_llms) - [Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 * [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
@@ -24,7 +25,6 @@
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
-* [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 
 ## [Archives](archives/index.md)
 
