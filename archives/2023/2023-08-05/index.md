@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 21:38:18](https://lobste.rs/s/cyozss/improving_c_compilation_times_tools) - [Improving C++ Compilation Times: Tools & Techniques](https://www.youtube.com/watch?v=PfHD3BsVsAM)
