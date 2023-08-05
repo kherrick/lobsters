@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-08-05, 14:01:02](https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web) - [nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-05, 13:45:45](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin) - [Clojure's deadly sin](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
@@ -22,7 +23,6 @@
 * [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
-* [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 
