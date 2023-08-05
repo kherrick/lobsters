@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 13:05:20](https://lobste.rs/s/3tn9g8/moonware_s_ai_lets_airfield_ground_crews) - [Moonware’s AI lets airfield ground crews ditch the walkies](https://moonware.com/)
 * [2023-08-05, 12:51:39](https://lobste.rs/s/bf1hgu/goofy_program_files_fold_headers) - [Goofy Program Files: fold-headers](https://www.mcclimon.org/blog/goofy-program-files-fold-headers/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 08:12:32](https://lobste.rs/s/r0lqng/emergent_deception_emergent) - [Emergent Deception and Emergent Optimization](https://bounded-regret.ghost.io/emergent-deception-optimization/)
@@ -16,7 +17,6 @@
 * [2023-08-04, 15:29:11](https://lobste.rs/s/tuyoo5/inside_stl_string) - [Inside STL: The string](https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532)
 * [2023-08-04, 13:32:19](https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking) - [Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform](https://samcurry.net/points-com/)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
-* [2023-08-04, 10:39:20](https://lobste.rs/s/rm8puh/fivethirtyeight_s_elo_ratings_logistic) - [FiveThirtyEight's Elo Ratings and Logistic Regression](https://nicidob.github.io/nba_elo/)
 * [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
 * [2023-08-04, 08:52:30](https://lobste.rs/s/ctk1lx/openbsd_7_3_on_twenty_year_old_ibm_thinkpad) - [OpenBSD 7.3 on a twenty year old IBM ThinkPad R31](https://box.matto.nl/openbsd-73-on-a-twenty-year-old-ibm-thinkpad-r31.html)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
