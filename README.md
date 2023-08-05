@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 08:12:32](https://lobste.rs/s/r0lqng/emergent_deception_emergent) - [Emergent Deception and Emergent Optimization](https://bounded-regret.ghost.io/emergent-deception-optimization/)
+* [2023-08-05, 08:08:27](https://lobste.rs/s/ykgwxc/reverse_tangent_categories) - [Reverse tangent categories](https://arxiv.org/abs/2308.01131)
 * [2023-08-05, 05:41:15](https://lobste.rs/s/gi4ip6/try_last_internet_kermit_server) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 00:48:16](https://lobste.rs/s/zp8pgg/pixel_binary_transparency_verifiable) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html?m=1)
 * [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
@@ -17,8 +19,6 @@
 * [2023-08-04, 08:52:30](https://lobste.rs/s/ctk1lx/openbsd_7_3_on_twenty_year_old_ibm_thinkpad) - [OpenBSD 7.3 on a twenty year old IBM ThinkPad R31](https://box.matto.nl/openbsd-73-on-a-twenty-year-old-ibm-thinkpad-r31.html)
 * [2023-08-04, 06:01:37](https://lobste.rs/s/6isfd6/lz77_is_all_you_need_why_gzip_knn_works_for) - [LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification](https://codeconfessions.substack.com/p/lz77-is-all-you-need)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
-* [2023-08-04, 05:24:56](https://lobste.rs/s/erfhyu/readings_database_systems_5th_edition) - [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)
-* [2023-08-04, 04:40:44](https://lobste.rs/s/0xdso1/picolisp_ecosystem_explored) - [PicoLisp ecosystem explored](https://picolisp-explored.com/)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
