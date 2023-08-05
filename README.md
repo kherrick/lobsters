@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-08-05, 14:01:02](https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web) - [nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-05, 13:45:45](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin) - [Clojure's deadly sin](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-05, 13:42:21](https://lobste.rs/s/mnnpo1/writing_blog_using_rust) - [Writing a blog using rust](https://itehax.com/blog/writing-a-blog-in-rust)
@@ -16,7 +17,6 @@
 * [2023-08-04, 17:39:06](https://lobste.rs/s/4qwiub/behind_hello_world_on_linux) - [Behind \"Hello World\" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 * [2023-08-04, 17:24:42](https://lobste.rs/s/nvboju/physics_readability) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
-* [2023-08-04, 15:29:11](https://lobste.rs/s/tuyoo5/inside_stl_string) - [Inside STL: The string](https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532)
 * [2023-08-04, 13:32:19](https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking) - [Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform](https://samcurry.net/points-com/)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
 * [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
