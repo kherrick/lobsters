@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 12:51:39](https://lobste.rs/s/bf1hgu/goofy_program_files_fold_headers) - [Goofy Program Files: fold-headers](https://www.mcclimon.org/blog/goofy-program-files-fold-headers/)
+* [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 08:12:32](https://lobste.rs/s/r0lqng/emergent_deception_emergent) - [Emergent Deception and Emergent Optimization](https://bounded-regret.ghost.io/emergent-deception-optimization/)
 * [2023-08-05, 08:08:27](https://lobste.rs/s/ykgwxc/reverse_tangent_categories) - [Reverse tangent categories](https://arxiv.org/abs/2308.01131)
 * [2023-08-05, 05:41:15](https://lobste.rs/s/gi4ip6/try_last_internet_kermit_server) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
@@ -17,14 +19,12 @@
 * [2023-08-04, 10:39:20](https://lobste.rs/s/rm8puh/fivethirtyeight_s_elo_ratings_logistic) - [FiveThirtyEight's Elo Ratings and Logistic Regression](https://nicidob.github.io/nba_elo/)
 * [2023-08-04, 10:00:37](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qo0lch/what_are_you_doing_this_weekend)
 * [2023-08-04, 08:52:30](https://lobste.rs/s/ctk1lx/openbsd_7_3_on_twenty_year_old_ibm_thinkpad) - [OpenBSD 7.3 on a twenty year old IBM ThinkPad R31](https://box.matto.nl/openbsd-73-on-a-twenty-year-old-ibm-thinkpad-r31.html)
-* [2023-08-04, 06:01:37](https://lobste.rs/s/6isfd6/lz77_is_all_you_need_why_gzip_knn_works_for) - [LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification](https://codeconfessions.substack.com/p/lz77-is-all-you-need)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
-* [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 
 ## [Archives](archives/index.md)
 
