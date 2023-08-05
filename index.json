@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-05, 13:42:21",
+      "https://lobste.rs/s/mnnpo1/writing_blog_using_rust"
+    ],
+    [
+      "Writing a blog using rust",
+      "https://itehax.com/blog/writing-a-blog-in-rust"
+    ]
+  ],
+  [
+    [
       "2023-08-05, 13:05:20",
       "https://lobste.rs/s/3tn9g8/moonware_s_ai_lets_airfield_ground_crews"
     ],
@@ -237,16 +247,6 @@
     [
       "We need to tell people ChatGPT will lie to them, not debate linguistics",
       "https://simonwillison.net/2023/Apr/7/chatgpt-lies/"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 14:04:29",
-      "https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text"
-    ],
-    [
-      "My Favorite Vim Oneliners For Text Manipulation",
-      "https://muhammadraza.me/2023/vim-onliners/"
     ]
   ]
 ]
