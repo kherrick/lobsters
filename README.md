@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 18:10:31](https://lobste.rs/s/m0pzoe/speed_up_c_compilation) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 17:18:16](https://lobste.rs/s/jx9jpc/zimbu_designing_programming_language) - [Zimbu: Designing a Programming Language From Experience, Bram Moolenaar](https://youtu.be/_O-QdG2X1Lw)
 * [2023-08-05, 17:09:37](https://lobste.rs/s/uw8ac2/catching_up_on_weird_world_llms) - [Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 * [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
@@ -20,7 +21,6 @@
 * [2023-08-04, 17:39:06](https://lobste.rs/s/4qwiub/behind_hello_world_on_linux) - [Behind \"Hello World\" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 * [2023-08-04, 17:24:42](https://lobste.rs/s/nvboju/physics_readability) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
-* [2023-08-04, 13:32:19](https://lobste.rs/s/dwuqom/leaked_secrets_unlimited_miles_hacking) - [Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform](https://samcurry.net/points-com/)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
