@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 21:38:18](https://lobste.rs/s/cyozss/improving_c_compilation_times_tools) - [Improving C++ Compilation Times: Tools & Techniques](https://www.youtube.com/watch?v=PfHD3BsVsAM)
 * [2023-08-05, 21:21:45](https://lobste.rs/s/4321kq/file_transfer_pseudoprotocol_2020) - [file transfer pseudoprotocol (2020)](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html)
 * [2023-08-05, 20:52:48](https://lobste.rs/s/0u4nnf/dealing_with_pandas_s_nullable_float) - [Dealing with Pandas's nullable float dtypes](https://rachitsingh.com/notes/pandas-null/)
