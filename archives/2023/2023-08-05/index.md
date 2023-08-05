@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-05](index.md)
+
+* [2023-08-05, 00:48:16](https://lobste.rs/s/zp8pgg/pixel_binary_transparency_verifiable) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html?m=1)

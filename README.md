@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 00:48:16](https://lobste.rs/s/zp8pgg/pixel_binary_transparency_verifiable) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html?m=1)
 * [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
 * [2023-08-04, 18:39:28](https://lobste.rs/s/k3ccnq/mozilla_vpn_privileged_vpndaemon_on) - [Mozilla VPN: Privileged vpndaemon on Linux wrongly and incompletely implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 18:32:55](https://lobste.rs/s/ch9coi/representing_heterogeneous_data) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
@@ -23,7 +24,6 @@
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
 * [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
-* [2023-08-03, 13:05:12](https://lobste.rs/s/zj1nnx/quirks_python_package_versioning) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:05:53](https://lobste.rs/s/8bhctg/blog_post_with_every_html_element) - [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 
 ## [Archives](archives/index.md)
