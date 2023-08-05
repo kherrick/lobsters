@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 13:42:21](https://lobste.rs/s/mnnpo1/writing_blog_using_rust) - [Writing a blog using rust](https://itehax.com/blog/writing-a-blog-in-rust)
 * [2023-08-05, 13:05:20](https://lobste.rs/s/3tn9g8/moonware_s_ai_lets_airfield_ground_crews) - [Moonware’s AI lets airfield ground crews ditch the walkies](https://moonware.com/)
 * [2023-08-05, 12:51:39](https://lobste.rs/s/bf1hgu/goofy_program_files_fold_headers) - [Goofy Program Files: fold-headers](https://www.mcclimon.org/blog/goofy-program-files-fold-headers/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
@@ -24,7 +25,6 @@
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
-* [2023-08-03, 14:04:29](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text) - [My Favorite Vim Oneliners For Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
 
 ## [Archives](archives/index.md)
 
