@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 21:38:18](https://lobste.rs/s/cyozss/improving_c_compilation_times_tools) - [Improving C++ Compilation Times: Tools & Techniques](https://www.youtube.com/watch?v=PfHD3BsVsAM)
 * [2023-08-05, 21:21:45](https://lobste.rs/s/4321kq/file_transfer_pseudoprotocol_2020) - [file transfer pseudoprotocol (2020)](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html)
@@ -14,7 +15,6 @@
 * [2023-08-05, 14:01:02](https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web) - [nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-05, 13:45:45](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin) - [Clojure's deadly sin](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-05, 13:42:21](https://lobste.rs/s/mnnpo1/writing_blog_using_rust) - [Writing a blog using rust](https://itehax.com/blog/writing-a-blog-in-rust)
-* [2023-08-05, 12:51:39](https://lobste.rs/s/bf1hgu/goofy_program_files_fold_headers) - [Goofy Program Files: fold-headers](https://www.mcclimon.org/blog/goofy-program-files-fold-headers/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:41:15](https://lobste.rs/s/gi4ip6/try_last_internet_kermit_server) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
