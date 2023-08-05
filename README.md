@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 20:52:48](https://lobste.rs/s/0u4nnf/dealing_with_pandas_s_nullable_float) - [Dealing with Pandas's nullable float dtypes](https://rachitsingh.com/notes/pandas-null/)
 * [2023-08-05, 18:17:11](https://lobste.rs/s/g6qio3/computers_spaceflight_nasa_experience) - [Computers in Spaceflight: The NASA Experience](https://history.nasa.gov/computers/Part1.html)
 * [2023-08-05, 18:10:31](https://lobste.rs/s/m0pzoe/speed_up_c_compilation) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 17:18:16](https://lobste.rs/s/jx9jpc/zimbu_designing_programming_language) - [Zimbu: Designing a Programming Language From Experience, Bram Moolenaar](https://youtu.be/_O-QdG2X1Lw)
@@ -23,7 +24,6 @@
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
 * [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
-* [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 
 ## [Archives](archives/index.md)

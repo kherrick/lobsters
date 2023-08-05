@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 20:52:48](https://lobste.rs/s/0u4nnf/dealing_with_pandas_s_nullable_float) - [Dealing with Pandas's nullable float dtypes](https://rachitsingh.com/notes/pandas-null/)
 * [2023-08-05, 18:17:11](https://lobste.rs/s/g6qio3/computers_spaceflight_nasa_experience) - [Computers in Spaceflight: The NASA Experience](https://history.nasa.gov/computers/Part1.html)
 * [2023-08-05, 18:10:31](https://lobste.rs/s/m0pzoe/speed_up_c_compilation) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 17:18:16](https://lobste.rs/s/jx9jpc/zimbu_designing_programming_language) - [Zimbu: Designing a Programming Language From Experience, Bram Moolenaar](https://youtu.be/_O-QdG2X1Lw)
