@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-05, 05:41:15](https://lobste.rs/s/gi4ip6/try_last_internet_kermit_server) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 00:48:16](https://lobste.rs/s/zp8pgg/pixel_binary_transparency_verifiable) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html?m=1)
 * [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
 * [2023-08-04, 18:39:28](https://lobste.rs/s/k3ccnq/mozilla_vpn_privileged_vpndaemon_on) - [Mozilla VPN: Privileged vpndaemon on Linux wrongly and incompletely implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
@@ -19,7 +20,6 @@
 * [2023-08-04, 05:24:56](https://lobste.rs/s/erfhyu/readings_database_systems_5th_edition) - [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)
 * [2023-08-04, 04:40:44](https://lobste.rs/s/0xdso1/picolisp_ecosystem_explored) - [PicoLisp ecosystem explored](https://picolisp-explored.com/)
 * [2023-08-04, 01:41:53](https://lobste.rs/s/t1rslj/classic_gnu_linux_desktop_screenshots) - [Classic GNU/Linux desktop screenshots (2001-2004)](http://www.danielsoft.cz/galerie/index.html)
-* [2023-08-03, 22:20:07](https://lobste.rs/s/v6vl6f/what_if_service_objects_were_just_procs) - [What if service objects were just Procs?](https://jardo.dev/what-if-service-objects-were-just-procs)
 * [2023-08-03, 15:48:27](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow) - [Don’t Configure Control Flow](https://earthly.dev/blog/dont-configure-control-flow/)
 * [2023-08-03, 14:46:37](https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons) - [Elixir For Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:45](https://lobste.rs/s/9u3riz/we_need_tell_people_chatgpt_will_lie_them) - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
