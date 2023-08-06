@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 01:41:31](https://lobste.rs/s/h9lw63/stay_curious_about_your_tools) - [Stay Curious About Your Tools ](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
@@ -9,7 +10,6 @@
 * [2023-08-05, 18:17:11](https://lobste.rs/s/g6qio3/computers_spaceflight_nasa_experience) - [Computers in Spaceflight: The NASA Experience](https://history.nasa.gov/computers/Part1.html)
 * [2023-08-05, 18:10:31](https://lobste.rs/s/m0pzoe/speed_up_c_compilation) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 17:18:16](https://lobste.rs/s/jx9jpc/zimbu_designing_programming_language) - [Zimbu: Designing a Programming Language From Experience, Bram Moolenaar](https://youtu.be/_O-QdG2X1Lw)
-* [2023-08-05, 17:09:37](https://lobste.rs/s/uw8ac2/catching_up_on_weird_world_llms) - [Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 * [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
