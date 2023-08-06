@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 09:36:57](https://lobste.rs/s/nhfoci/easy_postgresql_testing_with_pgtap_nix) - [Easy PostgreSQL testing with pgTAP and Nix](https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix)
 * [2023-08-06, 08:24:48](https://lobste.rs/s/rchf2u/turing_s_maze) - [Turing's Maze](https://meatfighter.com/turings-maze/)
 * [2023-08-06, 08:08:39](https://lobste.rs/s/jhfcrd/ruby_jupyter_notebooks) - [Ruby and Jupyter Notebooks](https://nithinbekal.com/posts/ruby-jupyter-notebooks/)
 * [2023-08-06, 07:10:05](https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing) - [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
@@ -9,7 +10,6 @@
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
-* [2023-08-05, 21:38:18](https://lobste.rs/s/cyozss/improving_c_compilation_times_tools) - [Improving C++ Compilation Times: Tools & Techniques](https://www.youtube.com/watch?v=PfHD3BsVsAM)
 * [2023-08-05, 21:21:45](https://lobste.rs/s/4321kq/file_transfer_pseudoprotocol_2020) - [file transfer pseudoprotocol (2020)](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html)
 * [2023-08-05, 20:52:48](https://lobste.rs/s/0u4nnf/dealing_with_pandas_s_nullable_float) - [Dealing with Pandas's nullable float dtypes](https://rachitsingh.com/notes/pandas-null/)
 * [2023-08-05, 18:17:11](https://lobste.rs/s/g6qio3/computers_spaceflight_nasa_experience) - [Computers in Spaceflight: The NASA Experience](https://history.nasa.gov/computers/Part1.html)
