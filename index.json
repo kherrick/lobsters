@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-06, 07:10:05",
+      "https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing"
+    ],
+    [
+      "Bug fixes are a good thing, not a bad thing",
+      "https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 05:41:05",
       "https://lobste.rs/s/vlrd3o/lock_free_vector"
     ],
@@ -147,16 +157,6 @@
     [
       "IntelligentPad: component-based drag-and-drop software creator",
       "https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/"
-    ]
-  ],
-  [
-    [
-      "2023-08-05, 14:01:02",
-      "https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web"
-    ],
-    [
-      "nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server",
-      "https://github.com/lyokha/nginx-haskell-module"
     ]
   ],
   [
