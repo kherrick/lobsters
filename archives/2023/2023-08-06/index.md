@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 22:51:59](https://lobste.rs/s/cgfmup/history_superconductors_before_lk_99) - [The History of Superconductors (Before LK-99)](https://www.youtube.com/watch?v=wUczYHyOhLM)
 * [2023-08-06, 21:36:37](https://lobste.rs/s/zgd5de/better_than_cubic_complexity_for_matrix) - [Better-than-Cubic Complexity for Matrix Multiplication in Rust](https://betterprogramming.pub/better-than-cubic-complexity-for-matrix-multiplication-in-rust-cf8dfb6299f6)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
