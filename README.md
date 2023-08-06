@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 19:07:57](https://lobste.rs/s/s5eznz/writing_custom_c_20_coroutine_systems) - [Writing custom C++20 coroutine systems](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-c++20/)
 * [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:54:52](https://lobste.rs/s/qqvipz/testing_graph_databases) - [Testing graph databases](https://mihai.page/testing-graph-databases/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
@@ -11,7 +12,6 @@
 * [2023-08-06, 13:54:49](https://lobste.rs/s/zsj83b/failed_experiment_with_rust_static) - [A failed experiment with Rust static dispatch](https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html)
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
-* [2023-08-06, 10:12:51](https://lobste.rs/s/jt2um3/project_police_flasher_7_segment_led) - [Project: Police Flasher & 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
 * [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * [2023-08-06, 10:01:00](https://lobste.rs/s/bjp5gq/greg_s_wiki) - [Greg's Wiki](https://mywiki.wooledge.org/)
 * [2023-08-06, 09:36:57](https://lobste.rs/s/nhfoci/easy_postgresql_testing_with_pgtap_nix) - [Easy PostgreSQL testing with pgTAP and Nix](https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix)
