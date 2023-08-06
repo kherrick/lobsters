@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-06, 10:12:51](https://lobste.rs/s/jt2um3/project_police_flasher_7_segment_led) - [Project: Police Flasher & 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
 * [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
@@ -15,7 +16,6 @@
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 21:21:45](https://lobste.rs/s/4321kq/file_transfer_pseudoprotocol_2020) - [file transfer pseudoprotocol (2020)](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html)
 * [2023-08-05, 18:17:11](https://lobste.rs/s/g6qio3/computers_spaceflight_nasa_experience) - [Computers in Spaceflight: The NASA Experience](https://history.nasa.gov/computers/Part1.html)
-* [2023-08-05, 18:10:31](https://lobste.rs/s/m0pzoe/speed_up_c_compilation) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 17:18:16](https://lobste.rs/s/jx9jpc/zimbu_designing_programming_language) - [Zimbu: Designing a Programming Language From Experience, Bram Moolenaar](https://youtu.be/_O-QdG2X1Lw)
 * [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
