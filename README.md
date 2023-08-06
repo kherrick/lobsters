@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 07:10:05](https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing) - [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-06, 04:06:29](https://lobste.rs/s/ew0epr/awesome_object_capabilities_capability) - [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
 * [2023-08-06, 01:41:31](https://lobste.rs/s/h9lw63/stay_curious_about_your_tools) - [Stay Curious About Your Tools ](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
@@ -15,7 +16,6 @@
 * [2023-08-05, 15:05:02](https://lobste.rs/s/bvmrtr/lazygit_turns_5_musings_on_git_tuis_open) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 14:13:09](https://lobste.rs/s/uylnj8/intelligentpad_component_based_drag) - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
-* [2023-08-05, 14:01:02](https://lobste.rs/s/4zd9iw/nginx_haskell_module_comprehensive_web) - [nginx-haskell-module: A comprehensive web framework aimed at building custom Haskell handlers for the Nginx Web Server](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-05, 13:45:45](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin) - [Clojure's deadly sin](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-05, 13:42:21](https://lobste.rs/s/mnnpo1/writing_blog_using_rust) - [Writing a blog using rust](https://itehax.com/blog/writing-a-blog-in-rust)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
