@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-06, 23:30:23",
+      "https://lobste.rs/s/ftbexc/removing_randomness_with_lldb"
+    ],
+    [
+      "Removing Randomness with LLDB",
+      "https://bryce.co/lldb-remove-randomness/"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 22:51:59",
       "https://lobste.rs/s/cgfmup/history_superconductors_before_lk_99"
     ],
@@ -177,16 +187,6 @@
     [
       "Easy PostgreSQL testing with pgTAP and Nix",
       "https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 08:24:48",
-      "https://lobste.rs/s/rchf2u/turing_s_maze"
-    ],
-    [
-      "Turing's Maze",
-      "https://meatfighter.com/turings-maze/"
     ]
   ],
   [
