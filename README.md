@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
 * [2023-08-06, 19:55:14](https://lobste.rs/s/umsg8m/microgradts_typescript_version) - [MicrogradTS - a TypeScript version of karpathy/micrograd - a tiny autograd engine](https://github.com/trekhleb/micrograd-ts)
 * [2023-08-06, 19:27:45](https://lobste.rs/s/2oux7o/taming_b_trees) - [The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
-* [2023-08-06, 19:07:57](https://lobste.rs/s/s5eznz/writing_custom_c_20_coroutine_systems) - [Writing custom C++20 coroutine systems](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-c++20/)
 * [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 16:24:19](https://lobste.rs/s/38bn85/cbor_is_greener_than_json) - [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)
