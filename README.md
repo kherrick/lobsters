@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
 * [2023-08-06, 19:55:14](https://lobste.rs/s/umsg8m/microgradts_typescript_version) - [MicrogradTS - a TypeScript version of karpathy/micrograd - a tiny autograd engine](https://github.com/trekhleb/micrograd-ts)
@@ -17,7 +18,6 @@
 * [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * [2023-08-06, 09:36:57](https://lobste.rs/s/nhfoci/easy_postgresql_testing_with_pgtap_nix) - [Easy PostgreSQL testing with pgTAP and Nix](https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix)
 * [2023-08-06, 08:24:48](https://lobste.rs/s/rchf2u/turing_s_maze) - [Turing's Maze](https://meatfighter.com/turings-maze/)
-* [2023-08-06, 08:08:39](https://lobste.rs/s/jhfcrd/ruby_jupyter_notebooks) - [Ruby and Jupyter Notebooks](https://nithinbekal.com/posts/ruby-jupyter-notebooks/)
 * [2023-08-06, 07:10:05](https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing) - [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
