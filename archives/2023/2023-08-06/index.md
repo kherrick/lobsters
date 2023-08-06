@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:54:52](https://lobste.rs/s/qqvipz/testing_graph_databases) - [Testing graph databases](https://mihai.page/testing-graph-databases/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 16:24:19](https://lobste.rs/s/38bn85/cbor_is_greener_than_json) - [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)

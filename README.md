@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:54:52](https://lobste.rs/s/qqvipz/testing_graph_databases) - [Testing graph databases](https://mihai.page/testing-graph-databases/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 16:24:19](https://lobste.rs/s/38bn85/cbor_is_greener_than_json) - [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)
@@ -22,7 +23,6 @@
 * [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
 * [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 21:21:45](https://lobste.rs/s/4321kq/file_transfer_pseudoprotocol_2020) - [file transfer pseudoprotocol (2020)](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html)
-* [2023-08-05, 14:27:42](https://lobste.rs/s/miq7mj/eventual_business_consistency) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 13:45:45](https://lobste.rs/s/ghhxbd/clojure_s_deadly_sin) - [Clojure's deadly sin](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 
