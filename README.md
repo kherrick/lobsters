@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-06, 04:06:29](https://lobste.rs/s/ew0epr/awesome_object_capabilities_capability) - [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
 * [2023-08-06, 01:41:31](https://lobste.rs/s/h9lw63/stay_curious_about_your_tools) - [Stay Curious About Your Tools ](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
@@ -20,7 +21,6 @@
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:41:15](https://lobste.rs/s/gi4ip6/try_last_internet_kermit_server) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-04, 23:47:19](https://lobste.rs/s/ycwzvn/code_counts_how_count_from_0_n_very_very) - [Code that counts (how to count from 0 to N, very very fast)](https://hadrieng2.github.io/code-that-counts/)
-* [2023-08-04, 17:48:10](https://lobste.rs/s/xjrmoe/i_made_keyboard) - [I made a keyboard](https://dotat.at/@/2023-08-04-keybird.html)
 * [2023-08-04, 17:39:06](https://lobste.rs/s/4qwiub/behind_hello_world_on_linux) - [Behind \"Hello World\" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 * [2023-08-04, 17:24:42](https://lobste.rs/s/nvboju/physics_readability) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
