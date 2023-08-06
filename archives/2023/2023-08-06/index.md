@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 17:54:52](https://lobste.rs/s/qqvipz/testing_graph_databases) - [Testing graph databases](https://mihai.page/testing-graph-databases/)
+* [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 16:24:19](https://lobste.rs/s/38bn85/cbor_is_greener_than_json) - [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)
 * [2023-08-06, 16:13:49](https://lobste.rs/s/so2vyi/energy_efficiency_modern_programming) - [Energy efficiency in modern programming languages](https://umu.diva-portal.org/smash/get/diva2:1772067/FULLTEXT01.pdf)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
