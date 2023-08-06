@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
 * [2023-08-06, 22:51:59](https://lobste.rs/s/cgfmup/history_superconductors_before_lk_99) - [The History of Superconductors (Before LK-99)](https://www.youtube.com/watch?v=wUczYHyOhLM)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
@@ -18,7 +19,6 @@
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * [2023-08-06, 09:36:57](https://lobste.rs/s/nhfoci/easy_postgresql_testing_with_pgtap_nix) - [Easy PostgreSQL testing with pgTAP and Nix](https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix)
-* [2023-08-06, 08:24:48](https://lobste.rs/s/rchf2u/turing_s_maze) - [Turing's Maze](https://meatfighter.com/turings-maze/)
 * [2023-08-06, 07:10:05](https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing) - [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
