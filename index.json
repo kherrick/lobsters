@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-06, 04:06:29",
+      "https://lobste.rs/s/ew0epr/awesome_object_capabilities_capability"
+    ],
+    [
+      "Awesome Object Capabilities and Capability Security",
+      "https://github.com/dckc/awesome-ocap"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 01:41:31",
       "https://lobste.rs/s/h9lw63/stay_curious_about_your_tools"
     ],
@@ -237,16 +247,6 @@
     [
       "IPv6 Is A Disaster (but we can fix it)",
       "https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 05:59:13",
-      "https://lobste.rs/s/n8gc2t/zig_0_11_released"
-    ],
-    [
-      "Zig 0.11 released",
-      "https://ziglang.org/download/0.11.0/release-notes.html"
     ]
   ]
 ]
