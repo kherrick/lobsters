@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 14:07:17](https://lobste.rs/s/pyjwmv/error_handling_zig) - [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 * [2023-08-06, 13:54:49](https://lobste.rs/s/zsj83b/failed_experiment_with_rust_static) - [A failed experiment with Rust static dispatch](https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html)
-* [2023-08-06, 13:21:27](https://lobste.rs/s/z8weqh/zstd_still_has_unclear_license_status) - [Zstd still has unclear license status](https://types.pl/@safinaskar/110842849245233073)
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-06, 10:12:51](https://lobste.rs/s/jt2um3/project_police_flasher_7_segment_led) - [Project: Police Flasher & 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
