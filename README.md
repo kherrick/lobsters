@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-06, 04:06:29](https://lobste.rs/s/ew0epr/awesome_object_capabilities_capability) - [Awesome Object Capabilities and Capability Security](https://github.com/dckc/awesome-ocap)
 * [2023-08-06, 01:41:31](https://lobste.rs/s/h9lw63/stay_curious_about_your_tools) - [Stay Curious About Your Tools ](https://v5.chriskrycho.com/journal/stay-curious-about-your-tools/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 22:27:45](https://lobste.rs/s/hdfyxf/book_review_security_chaos_engineering) - [Book Review: Security Chaos Engineering](https://www.macchaffee.com/blog/2023/sce-review/)
@@ -24,7 +25,6 @@
 * [2023-08-04, 17:24:42](https://lobste.rs/s/nvboju/physics_readability) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 17:14:16](https://lobste.rs/s/wkj5oh/helvetica_12) - [Helvetica 12](https://morrick.me/archives/9756)
 * [2023-08-04, 11:44:56](https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it) - [IPv6 Is A Disaster (but we can fix it)](https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/)
-* [2023-08-04, 05:59:13](https://lobste.rs/s/n8gc2t/zig_0_11_released) - [Zig 0.11 released](https://ziglang.org/download/0.11.0/release-notes.html)
 
 ## [Archives](archives/index.md)
 
