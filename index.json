@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-06, 12:35:14",
+      "https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace"
+    ],
+    [
+      "How the rc shell handles whitespace",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 11:13:39",
       "https://lobste.rs/s/iku0es/four_levels_time_handling_database"
     ],
@@ -147,16 +157,6 @@
     [
       "Computers in Spaceflight: The NASA Experience",
       "https://history.nasa.gov/computers/Part1.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-05, 18:10:31",
-      "https://lobste.rs/s/m0pzoe/speed_up_c_compilation"
-    ],
-    [
-      "Speed Up C++ Compilation",
-      "https://devtalk.blender.org/t/speed-up-c-compilation/30508"
     ]
   ],
   [
