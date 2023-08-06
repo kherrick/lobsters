@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 10:12:51](https://lobste.rs/s/jt2um3/project_police_flasher_7_segment_led) - [Project: Police Flasher & 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
+* [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
+* [2023-08-06, 10:01:00](https://lobste.rs/s/bjp5gq/greg_s_wiki) - [Greg's Wiki](https://mywiki.wooledge.org/)
 * [2023-08-06, 09:36:57](https://lobste.rs/s/nhfoci/easy_postgresql_testing_with_pgtap_nix) - [Easy PostgreSQL testing with pgTAP and Nix](https://paperless.blog/easy-postgresql-testing-with-pgtap-and-nix)
 * [2023-08-06, 08:24:48](https://lobste.rs/s/rchf2u/turing_s_maze) - [Turing's Maze](https://meatfighter.com/turings-maze/)
 * [2023-08-06, 08:08:39](https://lobste.rs/s/jhfcrd/ruby_jupyter_notebooks) - [Ruby and Jupyter Notebooks](https://nithinbekal.com/posts/ruby-jupyter-notebooks/)
