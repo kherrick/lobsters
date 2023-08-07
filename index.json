@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 11:24:14",
+      "https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes"
+    ],
+    [
+      "A few weird ways of displaying git hashes",
+      "https://ntietz.com/blog/representing-git-hashes-weird-ways/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 10:35:48",
       "https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext"
     ],
@@ -217,16 +227,6 @@
     [
       "Error Handling In Zig",
       "https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 12:35:14",
-      "https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace"
-    ],
-    [
-      "How the rc shell handles whitespace",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling"
     ]
   ],
   [
