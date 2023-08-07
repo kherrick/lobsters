@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 18:14:19",
+      "https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now"
+    ],
+    [
+      "Protecting SSH keys with TPM 2.0, now available on Debian (2021)",
+      "https://blog.ledger.com/ssh-with-tpm/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 17:51:45",
       "https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters"
     ],
@@ -127,16 +137,6 @@
     [
       "Developing in GNOME OS: systemd-sysext",
       "https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 10:29:26",
-      "https://lobste.rs/s/czsejl/terraform_best_practices_for"
-    ],
-    [
-      "Terraform best practices for reliability at any scale",
-      "https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale"
     ]
   ],
   [
