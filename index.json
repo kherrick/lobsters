@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-07, 12:04:09",
+      "https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming"
+    ],
+    [
+      "Why Pascal is Not My Favorite Programming Language (1981)",
+      "http://www.lysator.liu.se/c/bwk-on-pascal.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 11:59:57",
+      "https://lobste.rs/s/33iun9/particle_playground"
+    ],
+    [
+      "Particle playground",
+      "https://austinhenley.com/blog/particle.html"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 11:39:00",
       "https://lobste.rs/s/a5ttwn/blinky_bootloader_18_video_series"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-08-07, 09:45:20",
-      "https://lobste.rs/s/almeou/centauri_practical_rowhammer"
-    ],
-    [
-      "Centauri: Practical Rowhammer Fingerprinting",
-      "https://arxiv.org/abs/2307.00143"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 08:54:32",
       "https://lobste.rs/s/diwx6i/understanding_partitioning_sharding"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-08-07, 06:11:10",
+      "https://lobste.rs/s/zbmcfp/netnews_origin_story"
+    ],
+    [
+      "Netnews: The Origin Story",
+      "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 05:44:44",
       "https://lobste.rs/s/kz7dkh/building_alex_taradov_s_open_source_usb"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2023-08-06, 23:30:23",
-      "https://lobste.rs/s/ftbexc/removing_randomness_with_lldb"
-    ],
-    [
-      "Removing Randomness with LLDB",
-      "https://bryce.co/lldb-remove-randomness/"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 21:27:02",
       "https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome"
     ],
     [
       "Reverse Z (and why it’s so awesome)",
       "https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 20:30:41",
-      "https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout"
-    ],
-    [
-      "Go internals: invariance and memory layout of slices (2021)",
-      "https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/"
     ]
   ],
   [
