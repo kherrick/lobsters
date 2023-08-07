@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-07, 20:34:55",
-      "https://lobste.rs/s/lbkdbd/gptbot_openai_begin_respecting_robots"
+      "2023-08-07, 20:43:22",
+      "https://lobste.rs/s/x5impj/raku_language_for_gremlins"
     ],
     [
-      "GPTBot: OpenAI to begin respecting robots.txt",
-      "https://searchengineland.com/gptbot-openais-new-web-crawler-430360"
+      "Raku: A Language for Gremlins",
+      "https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Protecting SSH keys with TPM 2.0, now available on Debian (2021)",
       "https://blog.ledger.com/ssh-with-tpm/"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 17:51:45",
+      "https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters"
+    ],
+    [
+      "Tails - Weak cryptographic parameters in LUKS1",
+      "https://tails.net/security/argon2id/index.en.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "5 Things I’ve Learned in 20 Years of Programming",
       "https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 00:44:57",
-      "https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems"
-    ],
-    [
-      "Breaking Changes in Distributed Systems",
-      "https://azeemba.com/posts/breaking-changes-in-distributed-systems.html"
     ]
   ],
   [
