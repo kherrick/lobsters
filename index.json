@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-07, 14:07:07",
+      "https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook"
+    ],
+    [
+      "Set up Linux on your Chromebook",
+      "https://support.google.com/chromebook/answer/9145439?hl=en"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 14:01:55",
+      "https://lobste.rs/s/t7lpoq/layoffs_it_s_impact_on_org_employees"
+    ],
+    [
+      "Layoffs and it's impact on org, employees",
+      "https://aravind.dev/layoff/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 12:37:50",
       "https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit"
     ],
@@ -87,26 +107,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 09:45:20",
-      "https://lobste.rs/s/almeou/centauri_practical_rowhammer"
-    ],
-    [
-      "Centauri: Practical Rowhammer Fingerprinting",
-      "https://arxiv.org/abs/2307.00143"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 08:54:32",
-      "https://lobste.rs/s/diwx6i/understanding_partitioning_sharding"
-    ],
-    [
-      "Understanding partitioning and sharding in Postgres and Citus",
-      "https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/"
     ]
   ],
   [
