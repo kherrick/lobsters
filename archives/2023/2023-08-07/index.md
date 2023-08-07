@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 16:29:18](https://lobste.rs/s/dbgqaw/smartknob_view_provides_programmable) - [The SmartKnob View provides a programmable Nest-like experience #ESP32](https://blog.adafruit.com/2023/08/07/the-smartknob-view-provides-a-programmable-nest-like-experience-esp32/)
 * [2023-08-07, 15:59:38](https://lobste.rs/s/htoy8t/writing_recursive_descent_parser_bash) - [Writing a recursive descent parser in Bash](https://m10k.eu/2023/07/29/pkgex-parser.html)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
