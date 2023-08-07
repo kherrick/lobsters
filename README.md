@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 14:07:07](https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook) - [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
+* [2023-08-07, 14:01:55](https://lobste.rs/s/t7lpoq/layoffs_it_s_impact_on_org_employees) - [Layoffs and it's impact on org, employees](https://aravind.dev/layoff/)
 * [2023-08-07, 12:37:50](https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 * [2023-08-07, 11:59:57](https://lobste.rs/s/33iun9/particle_playground) - [Particle playground](https://austinhenley.com/blog/particle.html)
@@ -9,8 +11,6 @@
 * [2023-08-07, 10:29:26](https://lobste.rs/s/czsejl/terraform_best_practices_for) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
 * [2023-08-07, 10:03:58](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week)
-* [2023-08-07, 09:45:20](https://lobste.rs/s/almeou/centauri_practical_rowhammer) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
-* [2023-08-07, 08:54:32](https://lobste.rs/s/diwx6i/understanding_partitioning_sharding) - [Understanding partitioning and sharding in Postgres and Citus](https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/)
 * [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
