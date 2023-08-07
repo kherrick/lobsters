@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 07:11:46",
+      "https://lobste.rs/s/ikcptq/mte_as_implemented"
+    ],
+    [
+      "MTE As Implemented",
+      "https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 06:52:43",
       "https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns"
     ],
@@ -207,16 +217,6 @@
     [
       "Four levels of time handling in a database",
       "https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 10:10:07",
-      "https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager"
-    ],
-    [
-      "Python cocktail: mix a context manager and an iterator in equal parts",
-      "https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager"
     ]
   ],
   [
