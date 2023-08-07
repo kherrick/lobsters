@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-08-06, 21:36:37",
+      "https://lobste.rs/s/zgd5de/better_than_cubic_complexity_for_matrix"
+    ],
+    [
+      "Better-than-Cubic Complexity for Matrix Multiplication in Rust",
+      "https://betterprogramming.pub/better-than-cubic-complexity-for-matrix-multiplication-in-rust-cf8dfb6299f6"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 21:27:02",
       "https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome"
     ],
@@ -207,16 +217,6 @@
     [
       "Python cocktail: mix a context manager and an iterator in equal parts",
       "https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 07:10:05",
-      "https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing"
-    ],
-    [
-      "Bug fixes are a good thing, not a bad thing",
-      "https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/"
     ]
   ],
   [
