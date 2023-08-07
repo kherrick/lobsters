@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
+* [2023-08-07, 11:59:57](https://lobste.rs/s/33iun9/particle_playground) - [Particle playground](https://austinhenley.com/blog/particle.html)
 * [2023-08-07, 11:39:00](https://lobste.rs/s/a5ttwn/blinky_bootloader_18_video_series) - [Blinky to Bootloader: An 18 video series building STM32 firmware](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 * [2023-08-07, 10:35:48](https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext) - [Developing in GNOME OS: systemd-sysext](https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/)
