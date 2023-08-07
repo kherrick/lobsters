@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 07:11:46](https://lobste.rs/s/ikcptq/mte_as_implemented) - [MTE As Implemented](https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html)
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
 * [2023-08-07, 06:11:10](https://lobste.rs/s/zbmcfp/netnews_origin_story) - [Netnews: The Origin Story](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2023-08-07, 05:44:44](https://lobste.rs/s/kz7dkh/building_alex_taradov_s_open_source_usb) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
@@ -21,7 +22,6 @@
 * [2023-08-06, 13:54:49](https://lobste.rs/s/zsj83b/failed_experiment_with_rust_static) - [A failed experiment with Rust static dispatch](https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html)
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
-* [2023-08-06, 10:10:07](https://lobste.rs/s/xhe7sr/python_cocktail_mix_context_manager) - [Python cocktail: mix a context manager and an iterator in equal parts](https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)

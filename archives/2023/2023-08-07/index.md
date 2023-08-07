@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 07:11:46](https://lobste.rs/s/ikcptq/mte_as_implemented) - [MTE As Implemented](https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html)
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
 * [2023-08-07, 06:11:10](https://lobste.rs/s/zbmcfp/netnews_origin_story) - [Netnews: The Origin Story](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2023-08-07, 05:44:44](https://lobste.rs/s/kz7dkh/building_alex_taradov_s_open_source_usb) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
