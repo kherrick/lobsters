@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 18:14:19](https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now) - [Protecting SSH keys with TPM 2.0, now available on Debian (2021)](https://blog.ledger.com/ssh-with-tpm/)
 * [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
@@ -13,7 +14,6 @@
 * [2023-08-07, 11:39:00](https://lobste.rs/s/a5ttwn/blinky_bootloader_18_video_series) - [Blinky to Bootloader: An 18 video series building STM32 firmware](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 * [2023-08-07, 10:35:48](https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext) - [Developing in GNOME OS: systemd-sysext](https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/)
-* [2023-08-07, 10:29:26](https://lobste.rs/s/czsejl/terraform_best_practices_for) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
 * [2023-08-07, 10:03:58](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week)
 * [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
