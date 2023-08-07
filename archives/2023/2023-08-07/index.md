@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 22:41:33](https://lobste.rs/s/vfidne/cpu_caches_why_you_care_2014) - [Cpu Caches and Why You Care (2014)](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:34:55](https://lobste.rs/s/lbkdbd/gptbot_openai_begin_respecting_robots) - [GPTBot: OpenAI to begin respecting robots.txt](https://searchengineland.com/gptbot-openais-new-web-crawler-430360)
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)

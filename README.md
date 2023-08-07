@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 22:41:33](https://lobste.rs/s/vfidne/cpu_caches_why_you_care_2014) - [Cpu Caches and Why You Care (2014)](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
@@ -8,7 +9,6 @@
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:09:21](https://lobste.rs/s/u7mld9/newlisp_scripting_language) - [newLISP: a scripting language](https://lobste.rs/s/u7mld9/newlisp_scripting_language)
-* [2023-08-07, 16:49:58](https://lobste.rs/s/rb8gf3/introducing_incus) - [Introducing Incus](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
 * [2023-08-07, 14:07:07](https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook) - [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
