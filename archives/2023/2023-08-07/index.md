@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 12:37:50](https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 * [2023-08-07, 11:59:57](https://lobste.rs/s/33iun9/particle_playground) - [Particle playground](https://austinhenley.com/blog/particle.html)
 * [2023-08-07, 11:39:00](https://lobste.rs/s/a5ttwn/blinky_bootloader_18_video_series) - [Blinky to Bootloader: An 18 video series building STM32 firmware](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
