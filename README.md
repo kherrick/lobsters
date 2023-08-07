@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
 * [2023-08-07, 10:03:58](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week)
 * [2023-08-07, 09:45:20](https://lobste.rs/s/almeou/centauri_practical_rowhammer) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
 * [2023-08-07, 08:54:32](https://lobste.rs/s/diwx6i/understanding_partitioning_sharding) - [Understanding partitioning and sharding in Postgres and Citus](https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/)
@@ -19,7 +20,6 @@
 * [2023-08-06, 19:27:45](https://lobste.rs/s/2oux7o/taming_b_trees) - [The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
 * [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
-* [2023-08-06, 16:13:49](https://lobste.rs/s/so2vyi/energy_efficiency_modern_programming) - [Energy efficiency in modern programming languages](https://umu.diva-portal.org/smash/get/diva2:1772067/FULLTEXT01.pdf)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 * [2023-08-06, 14:07:17](https://lobste.rs/s/pyjwmv/error_handling_zig) - [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
