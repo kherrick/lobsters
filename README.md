@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 01:29:47](https://lobste.rs/s/njii1o/5_things_i_ve_learned_20_years_programming) - [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
 * [2023-08-07, 01:07:25](https://lobste.rs/s/3ehkxx/evaluating_break_even_period_our_solar) - [Evaluating the Break Even Period of Our Solar Battery](https://www.bentasker.co.uk/posts/blog/house-stuff/calculating-the-break-even-period-of-our-solar-battery.html)
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
-* [2023-08-07, 00:36:20](https://lobste.rs/s/zq5jf9/rich_hickey_s_clojure_bookshelf) - [Rich Hickey's Clojure Bookshelf](https://www.amazon.com/ideas/amzn1.account.AFAABBRGIVOWVKTHP5NOJU5LMROQ/3BSKWCYM12RBZ)
 * [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
