@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-07, 07:34:46",
+      "https://lobste.rs/s/hkaiy2/close_look_at_8086_processor_s_bus_hold"
+    ],
+    [
+      "A close look at the 8086 processor's bus hold circuitry",
+      "http://www.righto.com/2023/08/intel-8086-bus-hold.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 07:30:36",
+      "https://lobste.rs/s/ekalbk/c_23_more_small_pearls"
+    ],
+    [
+      "C++23: More Small Pearls",
+      "https://www.modernescpp.com/index.php/c23-more-small-pearls/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 07:11:46",
       "https://lobste.rs/s/ikcptq/mte_as_implemented"
     ],
@@ -57,16 +77,6 @@
     [
       "Breaking Changes in Distributed Systems",
       "https://azeemba.com/posts/breaking-changes-in-distributed-systems.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 00:09:00",
-      "https://lobste.rs/s/kqrby1/using_phantom_types_with_errors_go"
-    ],
-    [
-      "Using phantom types with errors in Go",
-      "https://hypirion.com/musings/haunting-down-errors-in-go"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A Lock-Free Vector",
       "https://ibraheem.ca/posts/a-lock-free-vector/"
-    ]
-  ],
-  [
-    [
-      "2023-08-05, 23:44:09",
-      "https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc"
-    ],
-    [
-      "A Look at RapidCDC and QuickCDC",
-      "https://joshleeb.com/posts/quickcdc-rapidcdc.html"
     ]
   ],
   [
