@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 12:37:50",
+      "https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit"
+    ],
+    [
+      "Monitoring your logs is mostly a tarpit",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 12:04:09",
       "https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2023-08-07, 09:45:20",
+      "https://lobste.rs/s/almeou/centauri_practical_rowhammer"
+    ],
+    [
+      "Centauri: Practical Rowhammer Fingerprinting",
+      "https://arxiv.org/abs/2307.00143"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 08:54:32",
       "https://lobste.rs/s/diwx6i/understanding_partitioning_sharding"
     ],
@@ -117,16 +137,6 @@
     [
       "Growing Bonsai Networks with RNNs",
       "https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 06:11:10",
-      "https://lobste.rs/s/zbmcfp/netnews_origin_story"
-    ],
-    [
-      "Netnews: The Origin Story",
-      "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Name before type: why 'age int' is better than 'int age'",
       "https://benhoyt.com/writings/name-before-type/"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 19:27:45",
-      "https://lobste.rs/s/2oux7o/taming_b_trees"
-    ],
-    [
-      "The Taming of the B-Trees",
-      "https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/"
     ]
   ],
   [
