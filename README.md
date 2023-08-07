@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 07:34:46](https://lobste.rs/s/hkaiy2/close_look_at_8086_processor_s_bus_hold) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
+* [2023-08-07, 07:30:36](https://lobste.rs/s/ekalbk/c_23_more_small_pearls) - [C++23: More Small Pearls](https://www.modernescpp.com/index.php/c23-more-small-pearls/)
 * [2023-08-07, 07:11:46](https://lobste.rs/s/ikcptq/mte_as_implemented) - [MTE As Implemented](https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html)
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
 * [2023-08-07, 06:11:10](https://lobste.rs/s/zbmcfp/netnews_origin_story) - [Netnews: The Origin Story](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2023-08-07, 05:44:44](https://lobste.rs/s/kz7dkh/building_alex_taradov_s_open_source_usb) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-07, 01:29:47](https://lobste.rs/s/njii1o/5_things_i_ve_learned_20_years_programming) - [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
-* [2023-08-07, 00:09:00](https://lobste.rs/s/kqrby1/using_phantom_types_with_errors_go) - [Using phantom types with errors in Go](https://hypirion.com/musings/haunting-down-errors-in-go)
 * [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
@@ -23,7 +24,6 @@
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
-* [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 
 ## [Archives](archives/index.md)
