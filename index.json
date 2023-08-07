@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-08-07, 00:09:00",
+      "https://lobste.rs/s/kqrby1/using_phantom_types_with_errors_go"
+    ],
+    [
+      "Using phantom types with errors in Go",
+      "https://hypirion.com/musings/haunting-down-errors-in-go"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 23:30:23",
       "https://lobste.rs/s/ftbexc/removing_randomness_with_lldb"
     ],
@@ -47,16 +57,6 @@
     [
       "The History of Superconductors (Before LK-99)",
       "https://www.youtube.com/watch?v=wUczYHyOhLM"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 21:36:37",
-      "https://lobste.rs/s/zgd5de/better_than_cubic_complexity_for_matrix"
-    ],
-    [
-      "Better-than-Cubic Complexity for Matrix Multiplication in Rust",
-      "https://betterprogramming.pub/better-than-cubic-complexity-for-matrix-multiplication-in-rust-cf8dfb6299f6"
     ]
   ],
   [
