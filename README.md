@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 06:11:10](https://lobste.rs/s/zbmcfp/netnews_origin_story) - [Netnews: The Origin Story](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
 * [2023-08-07, 05:44:44](https://lobste.rs/s/kz7dkh/building_alex_taradov_s_open_source_usb) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-07, 01:29:47](https://lobste.rs/s/njii1o/5_things_i_ve_learned_20_years_programming) - [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
 * [2023-08-07, 00:09:00](https://lobste.rs/s/kqrby1/using_phantom_types_with_errors_go) - [Using phantom types with errors in Go](https://hypirion.com/musings/haunting-down-errors-in-go)
 * [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
-* [2023-08-06, 22:51:59](https://lobste.rs/s/cgfmup/history_superconductors_before_lk_99) - [The History of Superconductors (Before LK-99)](https://www.youtube.com/watch?v=wUczYHyOhLM)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
