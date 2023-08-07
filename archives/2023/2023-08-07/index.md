@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-08-07, 07:34:46](https://lobste.rs/s/hkaiy2/close_look_at_8086_processor_s_bus_hold) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
 * [2023-08-07, 07:30:36](https://lobste.rs/s/ekalbk/c_23_more_small_pearls) - [C++23: More Small Pearls](https://www.modernescpp.com/index.php/c23-more-small-pearls/)
