@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 20:34:55](https://lobste.rs/s/lbkdbd/gptbot_openai_begin_respecting_robots) - [GPTBot: OpenAI to begin respecting robots.txt](https://searchengineland.com/gptbot-openais-new-web-crawler-430360)
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
-* [2023-08-07, 19:57:58](https://lobste.rs/s/lzh9gy/introduction_velocity_based_data) - [An Introduction to Velocity-Based Data Architectures](https://redis.com/blog/velocity-based-data-architectures/)
 * [2023-08-07, 18:14:19](https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now) - [Protecting SSH keys with TPM 2.0, now available on Debian (2021)](https://blog.ledger.com/ssh-with-tpm/)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:09:21](https://lobste.rs/s/u7mld9/newlisp_scripting_language) - [newLISP: a scripting language](https://lobste.rs/s/u7mld9/newlisp_scripting_language)
+* [2023-08-07, 16:49:58](https://lobste.rs/s/rb8gf3/introducing_incus) - [Introducing Incus](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
 * [2023-08-07, 14:07:07](https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook) - [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
@@ -23,7 +24,6 @@
 * [2023-08-07, 01:29:47](https://lobste.rs/s/njii1o/5_things_i_ve_learned_20_years_programming) - [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
-* [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 
 ## [Archives](archives/index.md)

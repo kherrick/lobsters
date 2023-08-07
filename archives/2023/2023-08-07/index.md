@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 20:34:55](https://lobste.rs/s/lbkdbd/gptbot_openai_begin_respecting_robots) - [GPTBot: OpenAI to begin respecting robots.txt](https://searchengineland.com/gptbot-openais-new-web-crawler-430360)
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 19:57:58](https://lobste.rs/s/lzh9gy/introduction_velocity_based_data) - [An Introduction to Velocity-Based Data Architectures](https://redis.com/blog/velocity-based-data-architectures/)
