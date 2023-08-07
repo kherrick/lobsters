@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-08-07, 07:34:46](https://lobste.rs/s/hkaiy2/close_look_at_8086_processor_s_bus_hold) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
 * [2023-08-07, 07:30:36](https://lobste.rs/s/ekalbk/c_23_more_small_pearls) - [C++23: More Small Pearls](https://www.modernescpp.com/index.php/c23-more-small-pearls/)
 * [2023-08-07, 07:11:46](https://lobste.rs/s/ikcptq/mte_as_implemented) - [MTE As Implemented](https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html)
@@ -16,7 +17,6 @@
 * [2023-08-06, 19:27:45](https://lobste.rs/s/2oux7o/taming_b_trees) - [The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
 * [2023-08-06, 18:21:37](https://lobste.rs/s/ut27gy/why_does_libvirt_support_only_14_hot) - [Why does libvirt support only 14 hot-plugged PCIe devices on x86-64?](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
-* [2023-08-06, 16:24:19](https://lobste.rs/s/38bn85/cbor_is_greener_than_json) - [CBOR is Greener than JSON](https://raw.githubusercontent.com/intarchboard/e-impact-workshop-public/main/papers/Moran-Birkholz-Bormann_Sustainability-considerations-for-networking-equipment.pdf.pdf)
 * [2023-08-06, 16:13:49](https://lobste.rs/s/so2vyi/energy_efficiency_modern_programming) - [Energy efficiency in modern programming languages](https://umu.diva-portal.org/smash/get/diva2:1772067/FULLTEXT01.pdf)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 * [2023-08-06, 14:07:17](https://lobste.rs/s/pyjwmv/error_handling_zig) - [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
