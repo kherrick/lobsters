@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 10:03:58](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vgfvfi/what_are_you_doing_this_week)
 * [2023-08-07, 09:45:20](https://lobste.rs/s/almeou/centauri_practical_rowhammer) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
 * [2023-08-07, 08:54:32](https://lobste.rs/s/diwx6i/understanding_partitioning_sharding) - [Understanding partitioning and sharding in Postgres and Citus](https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/)
 * [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
@@ -13,7 +14,6 @@
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
 * [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
-* [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
 * [2023-08-06, 19:55:14](https://lobste.rs/s/umsg8m/microgradts_typescript_version) - [MicrogradTS - a TypeScript version of karpathy/micrograd - a tiny autograd engine](https://github.com/trekhleb/micrograd-ts)
 * [2023-08-06, 19:27:45](https://lobste.rs/s/2oux7o/taming_b_trees) - [The Taming of the B-Trees](https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/)
