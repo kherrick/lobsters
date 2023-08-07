@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 19:57:58](https://lobste.rs/s/lzh9gy/introduction_velocity_based_data) - [An Introduction to Velocity-Based Data Architectures](https://redis.com/blog/velocity-based-data-architectures/)
 * [2023-08-07, 19:41:01](https://lobste.rs/s/acgdse/duplicity_2_0_0_released) - [Duplicity 2.0.0 Released](https://lists.gnu.org/archive/html/duplicity-announce/2023-08/msg00000.html)
