@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:09:21](https://lobste.rs/s/u7mld9/newlisp_scripting_language) - [newLISP: a scripting language](https://lobste.rs/s/u7mld9/newlisp_scripting_language)
 * [2023-08-07, 16:49:58](https://lobste.rs/s/rb8gf3/introducing_incus) - [Introducing Incus](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
