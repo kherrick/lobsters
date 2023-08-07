@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 10:29:26",
+      "https://lobste.rs/s/czsejl/terraform_best_practices_for"
+    ],
+    [
+      "Terraform best practices for reliability at any scale",
+      "https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 10:14:53",
       "https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for"
     ],
@@ -71,26 +81,6 @@
   ],
   [
     [
-      "2023-08-07, 07:30:36",
-      "https://lobste.rs/s/ekalbk/c_23_more_small_pearls"
-    ],
-    [
-      "C++23: More Small Pearls",
-      "https://www.modernescpp.com/index.php/c23-more-small-pearls/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 07:11:46",
-      "https://lobste.rs/s/ikcptq/mte_as_implemented"
-    ],
-    [
-      "MTE As Implemented",
-      "https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 06:52:43",
       "https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns"
     ],
@@ -147,6 +137,16 @@
     [
       "Reverse Z (and why it’s so awesome)",
       "https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 20:30:41",
+      "https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout"
+    ],
+    [
+      "Go internals: invariance and memory layout of slices (2021)",
+      "https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/"
     ]
   ],
   [
