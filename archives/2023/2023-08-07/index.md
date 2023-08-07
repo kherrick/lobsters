@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
+* [2023-08-07, 19:57:58](https://lobste.rs/s/lzh9gy/introduction_velocity_based_data) - [An Introduction to Velocity-Based Data Architectures](https://redis.com/blog/velocity-based-data-architectures/)
 * [2023-08-07, 19:41:01](https://lobste.rs/s/acgdse/duplicity_2_0_0_released) - [Duplicity 2.0.0 Released](https://lists.gnu.org/archive/html/duplicity-announce/2023-08/msg00000.html)
 * [2023-08-07, 18:14:19](https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now) - [Protecting SSH keys with TPM 2.0, now available on Debian (2021)](https://blog.ledger.com/ssh-with-tpm/)
 * [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
