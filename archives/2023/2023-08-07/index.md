@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 09:45:20](https://lobste.rs/s/almeou/centauri_practical_rowhammer) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
 * [2023-08-07, 08:54:32](https://lobste.rs/s/diwx6i/understanding_partitioning_sharding) - [Understanding partitioning and sharding in Postgres and Citus](https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/)
 * [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)

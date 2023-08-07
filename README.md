@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 09:45:20](https://lobste.rs/s/almeou/centauri_practical_rowhammer) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
 * [2023-08-07, 08:54:32](https://lobste.rs/s/diwx6i/understanding_partitioning_sharding) - [Understanding partitioning and sharding in Postgres and Citus](https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/)
 * [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
@@ -21,7 +22,6 @@
 * [2023-08-06, 16:13:49](https://lobste.rs/s/so2vyi/energy_efficiency_modern_programming) - [Energy efficiency in modern programming languages](https://umu.diva-portal.org/smash/get/diva2:1772067/FULLTEXT01.pdf)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 * [2023-08-06, 14:07:17](https://lobste.rs/s/pyjwmv/error_handling_zig) - [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
-* [2023-08-06, 13:54:49](https://lobste.rs/s/zsj83b/failed_experiment_with_rust_static) - [A failed experiment with Rust static dispatch](https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html)
 * [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
