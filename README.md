@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 * [2023-08-07, 10:35:48](https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext) - [Developing in GNOME OS: systemd-sysext](https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/)
 * [2023-08-07, 10:29:26](https://lobste.rs/s/czsejl/terraform_best_practices_for) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
@@ -22,7 +23,6 @@
 * [2023-08-06, 17:47:16](https://lobste.rs/s/z51rtr/this_code_smells_desperation) - [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 * [2023-08-06, 14:07:17](https://lobste.rs/s/pyjwmv/error_handling_zig) - [Error Handling In Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
-* [2023-08-06, 12:35:14](https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace) - [How the rc shell handles whitespace](https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling)
 * [2023-08-06, 11:13:39](https://lobste.rs/s/iku0es/four_levels_time_handling_database) - [Four levels of time handling in a database](https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 
