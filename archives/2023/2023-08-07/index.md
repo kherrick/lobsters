@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:09:21](https://lobste.rs/s/u7mld9/newlisp_scripting_language) - [newLISP: a scripting language](https://lobste.rs/s/u7mld9/newlisp_scripting_language)

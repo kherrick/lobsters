@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:09:21](https://lobste.rs/s/u7mld9/newlisp_scripting_language) - [newLISP: a scripting language](https://lobste.rs/s/u7mld9/newlisp_scripting_language)
-* [2023-08-07, 16:49:58](https://lobste.rs/s/rb8gf3/introducing_incus) - [Introducing Incus](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
 * [2023-08-07, 14:07:07](https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook) - [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
