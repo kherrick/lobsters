@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-07, 14:07:07](https://lobste.rs/s/rmro1k/set_up_linux_on_your_chromebook) - [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
-* [2023-08-07, 14:01:55](https://lobste.rs/s/t7lpoq/layoffs_it_s_impact_on_org_employees) - [Layoffs and it's impact on org, employees](https://aravind.dev/layoff/)
+* [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
+* [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
 * [2023-08-07, 12:37:50](https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 * [2023-08-07, 11:59:57](https://lobste.rs/s/33iun9/particle_playground) - [Particle playground](https://austinhenley.com/blog/particle.html)
