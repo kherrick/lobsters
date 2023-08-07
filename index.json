@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 20:34:55",
+      "https://lobste.rs/s/lbkdbd/gptbot_openai_begin_respecting_robots"
+    ],
+    [
+      "GPTBot: OpenAI to begin respecting robots.txt",
+      "https://searchengineland.com/gptbot-openais-new-web-crawler-430360"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 20:26:42",
       "https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid"
     ],
@@ -17,16 +27,6 @@
     [
       "Speeding up tree-sitter-haskell 50x",
       "https://owen.cafe/posts/tree-sitter-haskell-perf/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 19:57:58",
-      "https://lobste.rs/s/lzh9gy/introduction_velocity_based_data"
-    ],
-    [
-      "An Introduction to Velocity-Based Data Architectures",
-      "https://redis.com/blog/velocity-based-data-architectures/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "newLISP: a scripting language",
       "https://lobste.rs/s/u7mld9/newlisp_scripting_language"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 16:49:58",
+      "https://lobste.rs/s/rb8gf3/introducing_incus"
+    ],
+    [
+      "Introducing Incus",
+      "https://discuss.linuxcontainers.org/t/introducing-incus/17781"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Name before type: why 'age int' is better than 'int age'",
       "https://benhoyt.com/writings/name-before-type/"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 17:47:16",
-      "https://lobste.rs/s/z51rtr/this_code_smells_desperation"
-    ],
-    [
-      "This Code Smells of Desperation",
-      "https://www.os2museum.com/wp/this-code-smells-of-desperation/"
     ]
   ],
   [
