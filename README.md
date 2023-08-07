@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-07, 16:46:18](https://lobste.rs/s/ihe7t1/firefox_money_investigating_bizarre) - [Firefox Money: Investigating the bizarre finances of Mozilla](https://lunduke.locals.com/post/4387539/firefox-money-investigating-the-bizarre-finances-of-mozilla)
+* [2023-08-07, 16:49:58](https://lobste.rs/s/rb8gf3/introducing_incus) - [Introducing Incus](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
 * [2023-08-07, 16:36:26](https://lobste.rs/s/m7unou/ultimate_rare_story_40_years_brilliant) - [The Ultimate-Rare story: 40 years of brilliant British games, from Jetpac and GoldenEye to Sea of Thieves](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
 * [2023-08-07, 16:29:18](https://lobste.rs/s/dbgqaw/smartknob_view_provides_programmable) - [The SmartKnob View provides a programmable Nest-like experience #ESP32](https://blog.adafruit.com/2023/08/07/the-smartknob-view-provides-a-programmable-nest-like-experience-esp32/)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
