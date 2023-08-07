@@ -4,6 +4,7 @@
 * [2023-08-07, 01:07:25](https://lobste.rs/s/3ehkxx/evaluating_break_even_period_our_solar) - [Evaluating the Break Even Period of Our Solar Battery](https://www.bentasker.co.uk/posts/blog/house-stuff/calculating-the-break-even-period-of-our-solar-battery.html)
 * [2023-08-07, 00:44:57](https://lobste.rs/s/yulmj1/breaking_changes_distributed_systems) - [Breaking Changes in Distributed Systems](https://azeemba.com/posts/breaking-changes-in-distributed-systems.html)
 * [2023-08-06, 23:30:23](https://lobste.rs/s/ftbexc/removing_randomness_with_lldb) - [Removing Randomness with LLDB](https://bryce.co/lldb-remove-randomness/)
+* [2023-08-06, 22:51:59](https://lobste.rs/s/cgfmup/history_superconductors_before_lk_99) - [The History of Superconductors (Before LK-99)](https://www.youtube.com/watch?v=wUczYHyOhLM)
 * [2023-08-06, 21:27:02](https://lobste.rs/s/up8vvg/reverse_z_why_it_s_so_awesome) - [Reverse Z (and why it’s so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2023-08-06, 20:30:41](https://lobste.rs/s/qsrsff/go_internals_invariance_memory_layout) - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
@@ -23,7 +24,6 @@
 * [2023-08-06, 07:10:05](https://lobste.rs/s/7g91rn/bug_fixes_are_good_thing_not_bad_thing) - [Bug fixes are a good thing, not a bad thing](https://pointieststick.com/2023/08/05/bug-fixes-are-a-good-thing-not-a-bad-thing/)
 * [2023-08-06, 05:41:05](https://lobste.rs/s/vlrd3o/lock_free_vector) - [A Lock-Free Vector](https://ibraheem.ca/posts/a-lock-free-vector/)
 * [2023-08-05, 23:44:09](https://lobste.rs/s/0itosu/look_at_rapidcdc_quickcdc) - [A Look at RapidCDC and QuickCDC](https://joshleeb.com/posts/quickcdc-rapidcdc.html)
-* [2023-08-05, 21:53:35](https://lobste.rs/s/ah86of/how_i_org_2023) - [How I org in 2023](https://cmdln.org/2023/03/25/how-i-org-in-2023/)
 * [2023-08-05, 12:46:26](https://lobste.rs/s/yrlb5m/message_from_family_bram_moolenaar_he) - [Message from the family of Bram Moolenaar (he passed away)](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 
 ## [Archives](archives/index.md)
