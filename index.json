@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-07, 16:29:18",
+      "https://lobste.rs/s/dbgqaw/smartknob_view_provides_programmable"
+    ],
+    [
+      "The SmartKnob View provides a programmable Nest-like experience #ESP32",
+      "https://blog.adafruit.com/2023/08/07/the-smartknob-view-provides-a-programmable-nest-like-experience-esp32/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 15:59:38",
       "https://lobste.rs/s/htoy8t/writing_recursive_descent_parser_bash"
     ],
@@ -227,16 +237,6 @@
     [
       "Compiler Development: Rust or OCaml?",
       "https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 14:07:17",
-      "https://lobste.rs/s/pyjwmv/error_handling_zig"
-    ],
-    [
-      "Error Handling In Zig",
-      "https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8"
     ]
   ],
   [
