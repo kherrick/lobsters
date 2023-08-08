@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)
 * [2023-08-08, 15:35:04](https://lobste.rs/s/2uckh1/how_we_create_custom_graphics_at_markup) - [How We Create Custom Graphics at The Markup](https://themarkup.org/levelup/2023/08/08/how-we-create-custom-graphics-at-the-markup)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:35:50](https://lobste.rs/s/ukwngk/diy_tailscale_funnel) - [DIY Tailscale Funnel](https://blog.gabrielsimmer.com/posts/diy-tailscale-funnel/)
