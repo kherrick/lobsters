@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-08, 19:37:48",
+      "https://lobste.rs/s/u5yyzi/inception_how_simple_xor_can_cause"
+    ],
+    [
+      "Inception: how a simple XOR can cause a Microarchitectural Stack Overflow",
+      "https://comsec.ethz.ch/research/microarch/inception/"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 19:36:29",
+      "https://lobste.rs/s/r3ygrr/type_checking_with_eqlog_typing"
+    ],
+    [
+      "Type Checking with Eqlog: Typing",
+      "https://www.mbid.me/posts/type-checking-with-eqlog-typing/"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 17:54:40",
       "https://lobste.rs/s/lw728b/downfall_attacks"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-08-08, 03:16:42",
-      "https://lobste.rs/s/3qodnv/standards_defending_home"
-    ],
-    [
-      "Standards: Defending $HOME",
-      "https://soc.me/standards/defending-home.html"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 20:43:22",
       "https://lobste.rs/s/x5impj/raku_language_for_gremlins"
     ],
@@ -197,16 +207,6 @@
     [
       "Graceful behavior at capacity",
       "https://blog.nelhage.com/post/systems-at-capacity/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 14:21:01",
-      "https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux"
-    ],
-    [
-      "Incus (LXD fork) is now part of Linux Containers",
-      "https://linuxcontainers.org/incus/"
     ]
   ],
   [
