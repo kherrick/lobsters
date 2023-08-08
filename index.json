@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-08-07, 17:51:45",
+      "https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters"
+    ],
+    [
+      "Tails - Weak cryptographic parameters in LUKS1",
+      "https://tails.net/security/argon2id/index.en.html"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 17:42:11",
       "https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format"
     ],
@@ -197,16 +207,6 @@
     [
       "A few weird ways of displaying git hashes",
       "https://ntietz.com/blog/representing-git-hashes-weird-ways/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 10:35:48",
-      "https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext"
-    ],
-    [
-      "Developing in GNOME OS: systemd-sysext",
-      "https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/"
     ]
   ],
   [
