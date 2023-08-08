@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-08](index.md)
+
+* [2023-08-08, 01:39:07](https://lobste.rs/s/bzppwe/conway_s_game_life_apl_2009) - [Conway's Game Of Life in APL (2009)](https://www.youtube.com/watch?v=a9xAKttWgP4)
