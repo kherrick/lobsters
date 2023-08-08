@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-08, 16:55:33",
+      "https://lobste.rs/s/cojupc/many_issues_plaguing_nix"
+    ],
+    [
+      "The many issues plaguing Nix",
+      "https://github.com/CuBeRJAN/nix-problems"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 16:43:59",
       "https://lobste.rs/s/ozivsk/new_va_opt_feature_c23"
     ],
@@ -197,16 +207,6 @@
     [
       "A tool to sign PDF files. With Linux support",
       "https://github.com/svenssonaxel/pdf-sign"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 12:37:50",
-      "https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit"
-    ],
-    [
-      "Monitoring your logs is mostly a tarpit",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit"
     ]
   ],
   [
