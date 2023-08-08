@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2023-08-08, 21:22:58",
-      "https://lobste.rs/s/a32ppw/ai_boyfriend"
-    ],
-    [
-      "AI Boyfriend",
-      "https://www.youtube.com/watch?v=KiPQdVC5RHU"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 21:15:27",
-      "https://lobste.rs/s/nsngrp/age_coordination"
-    ],
-    [
-      "Age of Coordination",
-      "https://blog.erlend.sh/the-age-of-coordination"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 20:33:35",
       "https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2023-08-08, 05:43:35",
+      "https://lobste.rs/s/fuiowm/fonts_where_are_you"
+    ],
+    [
+      "Fonts, where are you?",
+      "https://www.1a-insec.net/blog/11-fonts-where/"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 20:43:22",
       "https://lobste.rs/s/x5impj/raku_language_for_gremlins"
     ],
@@ -237,6 +227,16 @@
     [
       "Graceful behavior at capacity",
       "https://blog.nelhage.com/post/systems-at-capacity/"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 14:18:55",
+      "https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support"
+    ],
+    [
+      "A tool to sign PDF files. With Linux support",
+      "https://github.com/svenssonaxel/pdf-sign"
     ]
   ],
   [
