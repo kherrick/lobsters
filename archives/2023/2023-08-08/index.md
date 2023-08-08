@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 19:44:44](https://lobste.rs/s/q6mucq/pypi_requires_2fa_for_new_user) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
 * [2023-08-08, 19:37:48](https://lobste.rs/s/u5yyzi/inception_how_simple_xor_can_cause) - [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 19:36:29](https://lobste.rs/s/r3ygrr/type_checking_with_eqlog_typing) - [Type Checking with Eqlog: Typing](https://www.mbid.me/posts/type-checking-with-eqlog-typing/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
