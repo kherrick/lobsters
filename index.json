@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-08-08, 06:36:11",
-      "https://lobste.rs/s/73xsdn/shady_world_brave_selling_copyrighted"
-    ],
-    [
-      "The shady world of Brave selling copyrighted data for AI training",
-      "https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 06:30:25",
       "https://lobste.rs/s/1nsust/updating_fedora_unsupported_way"
     ],
@@ -207,6 +197,16 @@
     [
       "Graceful behavior at capacity",
       "https://blog.nelhage.com/post/systems-at-capacity/"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 14:21:01",
+      "https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux"
+    ],
+    [
+      "Incus (LXD fork) is now part of Linux Containers",
+      "https://linuxcontainers.org/incus/"
     ]
   ],
   [
