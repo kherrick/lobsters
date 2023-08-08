@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 03:16:42](https://lobste.rs/s/3qodnv/standards_defending_home) - [Standards: Defending $HOME](https://soc.me/standards/defending-home.html)
 * [2023-08-08, 01:39:07](https://lobste.rs/s/bzppwe/conway_s_game_life_apl_2009) - [Conway's Game Of Life in APL (2009)](https://www.youtube.com/watch?v=a9xAKttWgP4)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
@@ -24,7 +25,6 @@
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
 * [2023-08-07, 01:29:47](https://lobste.rs/s/njii1o/5_things_i_ve_learned_20_years_programming) - [5 Things I’ve Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
-* [2023-08-06, 15:19:48](https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html#appendix-getting-started-with-ocaml)
 
 ## [Archives](archives/index.md)
 
