@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 15:35:04](https://lobste.rs/s/2uckh1/how_we_create_custom_graphics_at_markup) - [How We Create Custom Graphics at The Markup](https://themarkup.org/levelup/2023/08/08/how-we-create-custom-graphics-at-the-markup)
+* [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:35:50](https://lobste.rs/s/ukwngk/diy_tailscale_funnel) - [DIY Tailscale Funnel](https://blog.gabrielsimmer.com/posts/diy-tailscale-funnel/)
 * [2023-08-08, 14:27:53](https://lobste.rs/s/t2twv6/typograms) - [Typograms](https://google.github.io/typograms/)
 * [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
@@ -13,7 +15,6 @@
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 18:14:19](https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now) - [Protecting SSH keys with TPM 2.0, now available on Debian (2021)](https://blog.ledger.com/ssh-with-tpm/)
-* [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
@@ -22,7 +23,6 @@
 * [2023-08-07, 12:37:50](https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
-* [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
 
