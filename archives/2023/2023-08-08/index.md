@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 19:37:48](https://lobste.rs/s/u5yyzi/inception_how_simple_xor_can_cause) - [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
+* [2023-08-08, 19:36:29](https://lobste.rs/s/r3ygrr/type_checking_with_eqlog_typing) - [Type Checking with Eqlog: Typing](https://www.mbid.me/posts/type-checking-with-eqlog-typing/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:51:03](https://lobste.rs/s/1l5jib/on_sound_programming_playing_single_note) - [On sound programming: Playing a single note with SDL2](https://blog.fredrb.com/2023/08/08/audio-programming-note-sdl/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
