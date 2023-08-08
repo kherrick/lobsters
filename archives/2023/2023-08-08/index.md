@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 21:22:58](https://lobste.rs/s/a32ppw/ai_boyfriend) - [AI Boyfriend](https://www.youtube.com/watch?v=KiPQdVC5RHU)
 * [2023-08-08, 21:15:27](https://lobste.rs/s/nsngrp/age_coordination) - [Age of Coordination](https://blog.erlend.sh/the-age-of-coordination)
 * [2023-08-08, 20:33:35](https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms) - [iOS 17: New Version, New Acronyms](https://www.df-f.com/blog/ios17)
 * [2023-08-08, 19:44:44](https://lobste.rs/s/q6mucq/pypi_requires_2fa_for_new_user) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)

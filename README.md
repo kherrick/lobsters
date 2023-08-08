@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 21:22:58](https://lobste.rs/s/a32ppw/ai_boyfriend) - [AI Boyfriend](https://www.youtube.com/watch?v=KiPQdVC5RHU)
 * [2023-08-08, 21:15:27](https://lobste.rs/s/nsngrp/age_coordination) - [Age of Coordination](https://blog.erlend.sh/the-age-of-coordination)
 * [2023-08-08, 20:33:35](https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms) - [iOS 17: New Version, New Acronyms](https://www.df-f.com/blog/ios17)
 * [2023-08-08, 19:44:44](https://lobste.rs/s/q6mucq/pypi_requires_2fa_for_new_user) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
@@ -19,7 +20,6 @@
 * [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:30:25](https://lobste.rs/s/1nsust/updating_fedora_unsupported_way) - [Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
-* [2023-08-08, 05:43:35](https://lobste.rs/s/fuiowm/fonts_where_are_you) - [Fonts, where are you?](https://www.1a-insec.net/blog/11-fonts-where/)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
