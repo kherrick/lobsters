@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 21:15:27](https://lobste.rs/s/nsngrp/age_coordination) - [Age of Coordination](https://blog.erlend.sh/the-age-of-coordination)
 * [2023-08-08, 20:33:35](https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms) - [iOS 17: New Version, New Acronyms](https://www.df-f.com/blog/ios17)
 * [2023-08-08, 19:44:44](https://lobste.rs/s/q6mucq/pypi_requires_2fa_for_new_user) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
 * [2023-08-08, 19:37:48](https://lobste.rs/s/u5yyzi/inception_how_simple_xor_can_cause) - [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
@@ -24,7 +25,6 @@
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
-* [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 
 ## [Archives](archives/index.md)
 
