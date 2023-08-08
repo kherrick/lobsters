@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
 * [2023-08-08, 05:43:35](https://lobste.rs/s/fuiowm/fonts_where_are_you) - [Fonts, where are you?](https://www.1a-insec.net/blog/11-fonts-where/)
 * [2023-08-08, 03:16:42](https://lobste.rs/s/3qodnv/standards_defending_home) - [Standards: Defending $HOME](https://soc.me/standards/defending-home.html)
 * [2023-08-08, 01:39:07](https://lobste.rs/s/bzppwe/conway_s_game_life_apl_2009) - [Conway's Game Of Life in APL (2009)](https://www.youtube.com/watch?v=a9xAKttWgP4)
@@ -21,7 +22,6 @@
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 * [2023-08-07, 10:35:48](https://lobste.rs/s/sgqjeo/developing_gnome_os_systemd_sysext) - [Developing in GNOME OS: systemd-sysext](https://blogs.gnome.org/alatiera/2023/08/04/developing-gnome-os-systemd-sysext/)
 * [2023-08-07, 10:14:53](https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for) - [postgres_lsp: A Language Server for Postgres](https://github.com/supabase/postgres_lsp)
-* [2023-08-07, 08:28:47](https://lobste.rs/s/x3v5tz/best_providers_deploy_your_full_stack_app) - [Best providers to deploy your full-stack app](https://blog.6nok.org/best-providers-to-deploy-your-full-stack-app/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
 * [2023-08-07, 06:52:43](https://lobste.rs/s/vvxlyl/growing_bonsai_networks_with_rnns) - [Growing Bonsai Networks with RNNs](https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/)
 * [2023-08-06, 20:25:36](https://lobste.rs/s/ldi26q/name_before_type_why_age_int_is_better_than) - [Name before type: why 'age int' is better than 'int age'](https://benhoyt.com/writings/name-before-type/)
