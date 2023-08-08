@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 16:43:59](https://lobste.rs/s/ozivsk/new_va_opt_feature_c23) - [The new __VA_OPT__ feature in C23](https://gustedt.wordpress.com/2023/08/08/the-new-__va_opt__-feature-in-c23/)
+* [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)
 * [2023-08-08, 15:35:04](https://lobste.rs/s/2uckh1/how_we_create_custom_graphics_at_markup) - [How We Create Custom Graphics at The Markup](https://themarkup.org/levelup/2023/08/08/how-we-create-custom-graphics-at-the-markup)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
