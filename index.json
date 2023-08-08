@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-08, 21:48:17",
+      "https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig"
+    ],
+    [
+      "zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression",
+      "https://github.com/figsoda/zon2nix"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 21:22:58",
       "https://lobste.rs/s/a32ppw/ai_boyfriend"
     ],
@@ -227,16 +237,6 @@
     [
       "Graceful behavior at capacity",
       "https://blog.nelhage.com/post/systems-at-capacity/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 14:18:55",
-      "https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support"
-    ],
-    [
-      "A tool to sign PDF files. With Linux support",
-      "https://github.com/svenssonaxel/pdf-sign"
     ]
   ],
   [
