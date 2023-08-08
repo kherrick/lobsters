@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-08, 15:35:04",
+      "https://lobste.rs/s/2uckh1/how_we_create_custom_graphics_at_markup"
+    ],
+    [
+      "How We Create Custom Graphics at The Markup",
+      "https://themarkup.org/levelup/2023/08/08/how-we-create-custom-graphics-at-the-markup"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 15:33:14",
+      "https://lobste.rs/s/wcmbof/go_1_21_release_notes"
+    ],
+    [
+      "Go 1.21 Release Notes",
+      "https://go.dev/doc/go1.21"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 14:35:50",
       "https://lobste.rs/s/ukwngk/diy_tailscale_funnel"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-08-07, 17:51:45",
-      "https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters"
-    ],
-    [
-      "Tails - Weak cryptographic parameters in LUKS1",
-      "https://tails.net/security/argon2id/index.en.html"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 17:42:11",
       "https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format"
     ],
@@ -217,16 +227,6 @@
     [
       "A few weird ways of displaying git hashes",
       "https://ntietz.com/blog/representing-git-hashes-weird-ways/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 10:14:53",
-      "https://lobste.rs/s/nei0gn/postgres_lsp_language_server_for"
-    ],
-    [
-      "postgres_lsp: A Language Server for Postgres",
-      "https://github.com/supabase/postgres_lsp"
     ]
   ],
   [
