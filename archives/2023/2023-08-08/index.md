@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 21:48:17](https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig) - [zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/figsoda/zon2nix)
 * [2023-08-08, 21:22:58](https://lobste.rs/s/a32ppw/ai_boyfriend) - [AI Boyfriend](https://www.youtube.com/watch?v=KiPQdVC5RHU)
 * [2023-08-08, 21:15:27](https://lobste.rs/s/nsngrp/age_coordination) - [Age of Coordination](https://blog.erlend.sh/the-age-of-coordination)
 * [2023-08-08, 20:33:35](https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms) - [iOS 17: New Version, New Acronyms](https://www.df-f.com/blog/ios17)
