@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 16:55:33](https://lobste.rs/s/cojupc/many_issues_plaguing_nix) - [The many issues plaguing Nix](https://github.com/CuBeRJAN/nix-problems)
 * [2023-08-08, 16:43:59](https://lobste.rs/s/ozivsk/new_va_opt_feature_c23) - [The new __VA_OPT__ feature in C23](https://gustedt.wordpress.com/2023/08/08/the-new-__va_opt__-feature-in-c23/)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)

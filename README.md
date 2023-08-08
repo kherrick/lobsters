@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 16:55:33](https://lobste.rs/s/cojupc/many_issues_plaguing_nix) - [The many issues plaguing Nix](https://github.com/CuBeRJAN/nix-problems)
 * [2023-08-08, 16:43:59](https://lobste.rs/s/ozivsk/new_va_opt_feature_c23) - [The new __VA_OPT__ feature in C23](https://gustedt.wordpress.com/2023/08/08/the-new-__va_opt__-feature-in-c23/)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)
@@ -20,7 +21,6 @@
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)
 * [2023-08-07, 14:18:55](https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support) - [A tool to sign PDF files. With Linux support](https://github.com/svenssonaxel/pdf-sign)
-* [2023-08-07, 12:37:50](https://lobste.rs/s/c886l7/monitoring_your_logs_is_mostly_tarpit) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-07, 12:04:09](https://lobste.rs/s/kumgsa/why_pascal_is_not_my_favorite_programming) - [Why Pascal is Not My Favorite Programming Language (1981)](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 * [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 * [2023-08-07, 07:46:44](https://lobste.rs/s/ruo5s5/getting_my_library_cards_onto_my_phone) - [Getting my library cards onto my phone the hard way](https://iliana.fyi/blog/ios-wallet-library-card/)
