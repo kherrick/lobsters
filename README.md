@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:36:11](https://lobste.rs/s/73xsdn/shady_world_brave_selling_copyrighted) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 * [2023-08-08, 06:30:25](https://lobste.rs/s/1nsust/updating_fedora_unsupported_way) - [Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
@@ -10,7 +11,6 @@
 * [2023-08-07, 20:26:42](https://lobste.rs/s/m0dvd6/openpubkey_user_held_signing_keys_openid) - [OpenPubkey: User held Signing Keys in OpenID Connect](http://www.ethanheilman.com/x/30/index.html)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 18:14:19](https://lobste.rs/s/daz5jc/protecting_ssh_keys_with_tpm_2_0_now) - [Protecting SSH keys with TPM 2.0, now available on Debian (2021)](https://blog.ledger.com/ssh-with-tpm/)
-* [2023-08-07, 17:51:45](https://lobste.rs/s/higk9a/tails_weak_cryptographic_parameters) - [Tails - Weak cryptographic parameters in LUKS1](https://tails.net/security/argon2id/index.en.html)
 * [2023-08-07, 17:42:11](https://lobste.rs/s/xvv2df/qoa_quite_ok_audio_format) - [QOA — The Quite OK Audio Format](https://qoaformat.org/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 14:21:01](https://lobste.rs/s/xnmkxi/incus_lxd_fork_is_now_part_linux) - [Incus (LXD fork) is now part of Linux Containers](https://linuxcontainers.org/incus/)

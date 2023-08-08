@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:36:11](https://lobste.rs/s/73xsdn/shady_world_brave_selling_copyrighted) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 * [2023-08-08, 06:30:25](https://lobste.rs/s/1nsust/updating_fedora_unsupported_way) - [Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
