@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-09, 16:40:11",
+      "https://lobste.rs/s/stvh18/building_transport_protocol_on_arp"
+    ],
+    [
+      "Building a Transport Protocol on ARP",
+      "https://kognise.dev/writing/arp"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 15:41:37",
       "https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation"
     ],
@@ -227,16 +237,6 @@
     [
       "Typograms",
       "https://google.github.io/typograms/"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 07:04:55",
-      "https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written"
-    ],
-    [
-      "20x faster pgvector alternative written in Rust",
-      "https://github.com/tensorchord/pgvecto.rs"
     ]
   ],
   [
