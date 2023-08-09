@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-09, 01:22:28",
+      "https://lobste.rs/s/dsumhl/fastest_branchless_binary_search"
+    ],
+    [
+      "Fastest Branchless Binary Search",
+      "https://mhdm.dev/posts/sb_lower_bound/"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 21:48:17",
       "https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig"
     ],
@@ -227,16 +237,6 @@
     [
       "Graceful behavior at capacity",
       "https://blog.nelhage.com/post/systems-at-capacity/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 14:18:55",
-      "https://lobste.rs/s/tinztj/tool_sign_pdf_files_with_linux_support"
-    ],
-    [
-      "A tool to sign PDF files. With Linux support",
-      "https://github.com/svenssonaxel/pdf-sign"
     ]
   ],
   [
