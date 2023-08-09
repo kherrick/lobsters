@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 16:45:55](https://lobste.rs/s/vjv5jv/running_async_code_from_sync_python) - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:37](https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation) - [Extending sqlite-mode (cell navigation + edits)](https://xenodium.com/sqlite-mode-goodies/)
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
@@ -16,7 +17,6 @@
 * [2023-08-09, 06:42:10](https://lobste.rs/s/wwfw93/not_so_casual_performance_optimization) - [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual_performance_optimization_python/)
 * [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
-* [2023-08-08, 21:48:17](https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig) - [zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/figsoda/zon2nix)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:51:03](https://lobste.rs/s/1l5jib/on_sound_programming_playing_single_note) - [On sound programming: Playing a single note with SDL2](https://blog.fredrb.com/2023/08/08/audio-programming-note-sdl/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
