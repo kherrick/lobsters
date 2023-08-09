@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
+* [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 07:40:44](https://lobste.rs/s/poi8ou/autogenerating_rust_js_bindings_with) - [Autogenerating Rust-JS bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
-* [2023-08-09, 07:14:49](https://lobste.rs/s/groztw/graphviz_visual_editor) - [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
 * [2023-08-09, 06:42:10](https://lobste.rs/s/wwfw93/not_so_casual_performance_optimization) - [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual_performance_optimization_python/)
 * [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
@@ -15,7 +16,6 @@
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 16:55:33](https://lobste.rs/s/cojupc/many_issues_plaguing_nix) - [The many issues plaguing Nix](https://github.com/CuBeRJAN/nix-problems)
-* [2023-08-08, 16:43:59](https://lobste.rs/s/ozivsk/new_va_opt_feature_c23) - [The new __VA_OPT__ feature in C23](https://gustedt.wordpress.com/2023/08/08/the-new-__va_opt__-feature-in-c23/)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
