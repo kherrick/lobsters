@@ -9,6 +9,7 @@
 * [2023-08-09, 11:30:59](https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify) - [swap_8_and_9: How a simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
+* [2023-08-09, 10:18:08](https://lobste.rs/s/o2kw5o/our_current_foss_dystopia) - [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
 * [2023-08-09, 07:40:44](https://lobste.rs/s/poi8ou/autogenerating_rust_js_bindings_with) - [Autogenerating Rust-JS bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
 * [2023-08-09, 07:32:46](https://lobste.rs/s/t2knmh/plunder_urbit) - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
 * [2023-08-09, 07:14:49](https://lobste.rs/s/groztw/graphviz_visual_editor) - [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
