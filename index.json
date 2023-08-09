@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-09, 06:42:10",
+      "https://lobste.rs/s/wwfw93/not_so_casual_performance_optimization"
+    ],
+    [
+      "Not-so-casual Performance Optimization in Python",
+      "https://www.nathom.dev/blog/casual_performance_optimization_python/"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 05:48:37",
       "https://lobste.rs/s/puznjs/what_s_new_for_c_developers_visual_studio"
     ],
@@ -237,16 +247,6 @@
     [
       "Speeding up tree-sitter-haskell 50x",
       "https://owen.cafe/posts/tree-sitter-haskell-perf/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 17:19:54",
-      "https://lobste.rs/s/syidmx/graceful_behavior_at_capacity"
-    ],
-    [
-      "Graceful behavior at capacity",
-      "https://blog.nelhage.com/post/systems-at-capacity/"
     ]
   ]
 ]
