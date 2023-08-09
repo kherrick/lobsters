@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 * [2023-08-09, 11:48:22](https://lobste.rs/s/qqxrzl/llama_from_scratch) - [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 11:30:59](https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify) - [swap_8_and_9: How a simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)

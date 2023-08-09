@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 * [2023-08-09, 11:48:22](https://lobste.rs/s/qqxrzl/llama_from_scratch) - [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 11:30:59](https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify) - [swap_8_and_9: How a simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
@@ -17,7 +18,6 @@
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 16:55:33](https://lobste.rs/s/cojupc/many_issues_plaguing_nix) - [The many issues plaguing Nix](https://github.com/CuBeRJAN/nix-problems)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
-* [2023-08-08, 16:17:30](https://lobste.rs/s/svwgeb/guide_writing_slog_handlers) - [A Guide to Writing slog Handlers](https://golang.org/s/slog-handler-guide)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:35:50](https://lobste.rs/s/ukwngk/diy_tailscale_funnel) - [DIY Tailscale Funnel](https://blog.gabrielsimmer.com/posts/diy-tailscale-funnel/)
 * [2023-08-08, 14:27:53](https://lobste.rs/s/t2twv6/typograms) - [Typograms](https://google.github.io/typograms/)
