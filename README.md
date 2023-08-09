@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 20:28:30](https://lobste.rs/s/cthtvr/when_is_computer_proof_proof) - [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
@@ -11,7 +12,6 @@
 * [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 * [2023-08-09, 13:49:07](https://lobste.rs/s/gfofnu/how_we_achieved_nat_traversal_with) - [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
 * [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
-* [2023-08-09, 11:30:59](https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify) - [swap_8_and_9: How a simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 10:18:08](https://lobste.rs/s/o2kw5o/our_current_foss_dystopia) - [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
