@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-08-09, 23:17:19](https://lobste.rs/s/ifcvvr/plan_9_inferno_go_school) - [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
+* [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 20:28:30](https://lobste.rs/s/cthtvr/when_is_computer_proof_proof) - [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
@@ -15,7 +16,6 @@
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 10:18:08](https://lobste.rs/s/o2kw5o/our_current_foss_dystopia) - [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
-* [2023-08-09, 07:14:49](https://lobste.rs/s/groztw/graphviz_visual_editor) - [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
 * [2023-08-09, 06:42:10](https://lobste.rs/s/wwfw93/not_so_casual_performance_optimization) - [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual_performance_optimization_python/)
 * [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)

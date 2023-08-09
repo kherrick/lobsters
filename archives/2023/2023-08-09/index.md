@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 23:17:19](https://lobste.rs/s/ifcvvr/plan_9_inferno_go_school) - [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
+* [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 20:28:30](https://lobste.rs/s/cthtvr/when_is_computer_proof_proof) - [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
