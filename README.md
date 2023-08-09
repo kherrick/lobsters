@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:37](https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation) - [Extending sqlite-mode (cell navigation + edits)](https://xenodium.com/sqlite-mode-goodies/)
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
 * [2023-08-09, 15:23:59](https://lobste.rs/s/lfxlak/understanding_go_1_21_generics_type) - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
@@ -23,7 +24,6 @@
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:27:53](https://lobste.rs/s/t2twv6/typograms) - [Typograms](https://google.github.io/typograms/)
-* [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
 
 ## [Archives](archives/index.md)
