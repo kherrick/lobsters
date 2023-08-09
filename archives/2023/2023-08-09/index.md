@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 15:23:59](https://lobste.rs/s/lfxlak/understanding_go_1_21_generics_type) - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 * [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 * [2023-08-09, 14:26:13](https://lobste.rs/s/exx0sv/ffmpeg_app_web_based_frontend_for_ffmpeg) - [FFmpeg.app: web-based frontend for FFmpeg](https://ffmpeg.app)
 * [2023-08-09, 13:49:07](https://lobste.rs/s/gfofnu/how_we_achieved_nat_traversal_with) - [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
