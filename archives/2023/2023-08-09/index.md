@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 17:07:41](https://lobste.rs/s/emzgdi/instrumenting_axum_projects) - [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 * [2023-08-09, 16:45:55](https://lobste.rs/s/vjv5jv/running_async_code_from_sync_python) - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:37](https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation) - [Extending sqlite-mode (cell navigation + edits)](https://xenodium.com/sqlite-mode-goodies/)

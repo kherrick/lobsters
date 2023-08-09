@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 17:07:41](https://lobste.rs/s/emzgdi/instrumenting_axum_projects) - [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 * [2023-08-09, 16:45:55](https://lobste.rs/s/vjv5jv/running_async_code_from_sync_python) - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:37](https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation) - [Extending sqlite-mode (cell navigation + edits)](https://xenodium.com/sqlite-mode-goodies/)
@@ -18,7 +19,6 @@
 * [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
-* [2023-08-08, 17:51:03](https://lobste.rs/s/1l5jib/on_sound_programming_playing_single_note) - [On sound programming: Playing a single note with SDL2](https://blog.fredrb.com/2023/08/08/audio-programming-note-sdl/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
