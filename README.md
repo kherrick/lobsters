@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 06:42:10](https://lobste.rs/s/wwfw93/not_so_casual_performance_optimization) - [Not-so-casual Performance Optimization in Python](https://www.nathom.dev/blog/casual_performance_optimization_python/)
 * [2023-08-09, 05:48:37](https://lobste.rs/s/puznjs/what_s_new_for_c_developers_visual_studio) - [What's New for C++ Developers in Visual Studio 2022 17.7](https://devblogs.microsoft.com/cppblog/whats-new-for-c-developers-in-visual-studio-2022-17-7/)
 * [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
@@ -24,7 +25,6 @@
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
-* [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 
 ## [Archives](archives/index.md)
 
