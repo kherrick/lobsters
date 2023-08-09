@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-09, 01:22:28](https://lobste.rs/s/dsumhl/fastest_branchless_binary_search) - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-08, 21:48:17](https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig) - [zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/figsoda/zon2nix)
 * [2023-08-08, 20:33:35](https://lobste.rs/s/qb7w88/ios_17_new_version_new_acronyms) - [iOS 17: New Version, New Acronyms](https://www.df-f.com/blog/ios17)
@@ -24,7 +25,6 @@
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
-* [2023-08-07, 11:24:14](https://lobste.rs/s/5ssn10/few_weird_ways_displaying_git_hashes) - [A few weird ways of displaying git hashes](https://ntietz.com/blog/representing-git-hashes-weird-ways/)
 
 ## [Archives](archives/index.md)
 
