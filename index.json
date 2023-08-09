@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-08-09, 10:38:11",
+      "https://lobste.rs/s/aucxem/writing_package_manager"
+    ],
+    [
+      "Writing a package manager",
+      "https://antonz.org/writing-package-manager/"
+    ]
+  ],
+  [
+    [
+      "2023-08-09, 10:37:51",
+      "https://lobste.rs/s/tkw2gt/sorting_lines_emacs"
+    ],
+    [
+      "Sorting Lines in Emacs",
+      "https://susam.net/blog/sorting-in-emacs.html"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 07:40:44",
       "https://lobste.rs/s/poi8ou/autogenerating_rust_js_bindings_with"
     ],
     [
       "Autogenerating Rust-JS bindings with UniFFI",
       "https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 07:14:49",
-      "https://lobste.rs/s/groztw/graphviz_visual_editor"
-    ],
-    [
-      "Graphviz Visual Editor",
-      "http://magjac.com/graphviz-visual-editor/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "The many issues plaguing Nix",
       "https://github.com/CuBeRJAN/nix-problems"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 16:43:59",
-      "https://lobste.rs/s/ozivsk/new_va_opt_feature_c23"
-    ],
-    [
-      "The new __VA_OPT__ feature in C23",
-      "https://gustedt.wordpress.com/2023/08/08/the-new-__va_opt__-feature-in-c23/"
     ]
   ],
   [
