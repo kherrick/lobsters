@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 07:40:44](https://lobste.rs/s/poi8ou/autogenerating_rust_js_bindings_with) - [Autogenerating Rust-JS bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
 * [2023-08-09, 07:32:46](https://lobste.rs/s/t2knmh/plunder_urbit) - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
 * [2023-08-09, 07:14:49](https://lobste.rs/s/groztw/graphviz_visual_editor) - [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
@@ -8,7 +9,6 @@
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-08, 21:48:17](https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig) - [zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/figsoda/zon2nix)
 * [2023-08-08, 19:44:44](https://lobste.rs/s/q6mucq/pypi_requires_2fa_for_new_user) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
-* [2023-08-08, 19:37:48](https://lobste.rs/s/u5yyzi/inception_how_simple_xor_can_cause) - [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:51:03](https://lobste.rs/s/1l5jib/on_sound_programming_playing_single_note) - [On sound programming: Playing a single note with SDL2](https://blog.fredrb.com/2023/08/08/audio-programming-note-sdl/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)

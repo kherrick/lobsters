@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 07:40:44](https://lobste.rs/s/poi8ou/autogenerating_rust_js_bindings_with) - [Autogenerating Rust-JS bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
 * [2023-08-09, 07:32:46](https://lobste.rs/s/t2knmh/plunder_urbit) - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
 * [2023-08-09, 07:14:49](https://lobste.rs/s/groztw/graphviz_visual_editor) - [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
