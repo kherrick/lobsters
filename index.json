@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-09, 22:09:38",
+      "https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting"
+    ],
+    [
+      "Is ChatGPT a bit unsporting?",
+      "https://www.kmjn.org/notes/chatgpt_unsporting.html"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 20:55:40",
       "https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my"
     ],
@@ -107,16 +117,6 @@
     [
       "How I came to use Emacs and other things",
       "https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 11:30:59",
-      "https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify"
-    ],
-    [
-      "swap_8_and_9: How a simple import can modify the Python interpreter",
-      "https://kenschutte.com/python-swap-ints/"
     ]
   ],
   [
