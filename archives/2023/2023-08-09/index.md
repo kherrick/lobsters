@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
+* [2023-08-09, 17:30:55](https://lobste.rs/s/q68pfr/debug_go_request_latency_with_datadog) - [Debug Go Request Latency with Datadog](https://blog.felixge.de/debug-go-request-latency-with-datadogs-profiling-timeline/)
 * [2023-08-09, 17:07:41](https://lobste.rs/s/emzgdi/instrumenting_axum_projects) - [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 * [2023-08-09, 16:45:55](https://lobste.rs/s/vjv5jv/running_async_code_from_sync_python) - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
