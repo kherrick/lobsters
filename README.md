@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 14:26:13](https://lobste.rs/s/exx0sv/ffmpeg_app_web_based_frontend_for_ffmpeg) - [FFmpeg.app: web-based frontend for FFmpeg](https://ffmpeg.app)
 * [2023-08-09, 13:49:07](https://lobste.rs/s/gfofnu/how_we_achieved_nat_traversal_with) - [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
 * [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 * [2023-08-09, 11:48:22](https://lobste.rs/s/qqxrzl/llama_from_scratch) - [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/)
@@ -17,7 +18,6 @@
 * [2023-08-08, 17:51:03](https://lobste.rs/s/1l5jib/on_sound_programming_playing_single_note) - [On sound programming: Playing a single note with SDL2](https://blog.fredrb.com/2023/08/08/audio-programming-note-sdl/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
-* [2023-08-08, 16:55:33](https://lobste.rs/s/cojupc/many_issues_plaguing_nix) - [The many issues plaguing Nix](https://github.com/CuBeRJAN/nix-problems)
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:35:50](https://lobste.rs/s/ukwngk/diy_tailscale_funnel) - [DIY Tailscale Funnel](https://blog.gabrielsimmer.com/posts/diy-tailscale-funnel/)
