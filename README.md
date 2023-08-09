@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 13:49:07](https://lobste.rs/s/gfofnu/how_we_achieved_nat_traversal_with) - [How we achieved NAT traversal with vanilla WireGuard](https://www.reddit.com/r/nordvpn/comments/15mfivc/nordvpn_expert_series_how_we_achieved_nat/)
 * [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 * [2023-08-09, 11:48:22](https://lobste.rs/s/qqxrzl/llama_from_scratch) - [Llama from scratch](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 11:30:59](https://lobste.rs/s/yvjmwi/swap_8_9_how_simple_import_can_modify) - [swap_8_and_9: How a simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
@@ -24,7 +25,6 @@
 * [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
-* [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 
 ## [Archives](archives/index.md)
 
