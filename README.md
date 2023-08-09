@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-08-09, 17:07:41](https://lobste.rs/s/emzgdi/instrumenting_axum_projects) - [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 * [2023-08-09, 16:45:55](https://lobste.rs/s/vjv5jv/running_async_code_from_sync_python) - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
@@ -24,7 +25,6 @@
 * [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 15:33:14](https://lobste.rs/s/wcmbof/go_1_21_release_notes) - [Go 1.21 Release Notes](https://go.dev/doc/go1.21)
 * [2023-08-08, 14:27:53](https://lobste.rs/s/t2twv6/typograms) - [Typograms](https://google.github.io/typograms/)
-* [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
 
 ## [Archives](archives/index.md)
 
