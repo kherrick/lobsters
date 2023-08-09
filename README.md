@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-09, 01:22:28](https://lobste.rs/s/dsumhl/fastest_branchless_binary_search) - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-08, 21:48:17](https://lobste.rs/s/f2xine/zon2nix_convert_dependencies_build_zig) - [zon2nix - Convert the dependencies in `build.zig.zon` to a Nix expression](https://github.com/figsoda/zon2nix)
@@ -21,7 +22,6 @@
 * [2023-08-08, 07:04:55](https://lobste.rs/s/djj8za/20x_faster_pgvector_alternative_written) - [20x faster pgvector alternative written in Rust](https://github.com/tensorchord/pgvecto.rs)
 * [2023-08-08, 06:30:25](https://lobste.rs/s/1nsust/updating_fedora_unsupported_way) - [Updating Fedora the unsupported way](https://mjg59.dreamwidth.org/67126.html)
 * [2023-08-08, 06:28:16](https://lobste.rs/s/hnpfrv/i_disconnected_our_smart_oven_maybe_you) - [I disconnected our smart oven, and maybe you should as well](https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/)
-* [2023-08-08, 05:43:35](https://lobste.rs/s/fuiowm/fonts_where_are_you) - [Fonts, where are you?](https://www.1a-insec.net/blog/11-fonts-where/)
 * [2023-08-07, 20:43:22](https://lobste.rs/s/x5impj/raku_language_for_gremlins) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:10:33](https://lobste.rs/s/mktvs4/speeding_up_tree_sitter_haskell_50x) - [Speeding up tree-sitter-haskell 50x](https://owen.cafe/posts/tree-sitter-haskell-perf/)
 * [2023-08-07, 17:19:54](https://lobste.rs/s/syidmx/graceful_behavior_at_capacity) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
