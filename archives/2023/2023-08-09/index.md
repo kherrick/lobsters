@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 15:41:37](https://lobste.rs/s/m4y0ee/extending_sqlite_mode_cell_navigation) - [Extending sqlite-mode (cell navigation + edits)](https://xenodium.com/sqlite-mode-goodies/)
+* [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
 * [2023-08-09, 15:23:59](https://lobste.rs/s/lfxlak/understanding_go_1_21_generics_type) - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 * [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 * [2023-08-09, 14:26:13](https://lobste.rs/s/exx0sv/ffmpeg_app_web_based_frontend_for_ffmpeg) - [FFmpeg.app: web-based frontend for FFmpeg](https://ffmpeg.app)
