@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
 * [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
 * [2023-08-10, 08:52:07](https://lobste.rs/s/lekakp/smashing_state_machine_true_potential) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
@@ -19,7 +20,6 @@
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
 * [2023-08-09, 15:23:59](https://lobste.rs/s/lfxlak/understanding_go_1_21_generics_type) - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 * [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
-* [2023-08-09, 12:05:06](https://lobste.rs/s/2hswwc/how_i_came_use_emacs_other_things) - [How I came to use Emacs and other things](https://github.com/summeremacs/public/blob/main/20230629T180135--how-i-came-to-use-emacs-and-other-things__emacs_explanation_linux_origin_raspberrypi_story_terminal.org)
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
