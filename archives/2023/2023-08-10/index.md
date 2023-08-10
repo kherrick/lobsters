@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
+* [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
 * [2023-08-10, 16:02:43](https://lobste.rs/s/ta13fy/rails_has_one_nested_attributes_tweaking) - [Rails has_one Nested Attributes Tweaking](https://goodenough.us/blog/2023-08-07-til-rails-has-one-nested-attributes-tweaking/)
 * [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
