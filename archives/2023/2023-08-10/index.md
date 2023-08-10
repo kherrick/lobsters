@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
 * [2023-08-10, 16:02:43](https://lobste.rs/s/ta13fy/rails_has_one_nested_attributes_tweaking) - [Rails has_one Nested Attributes Tweaking](https://goodenough.us/blog/2023-08-07-til-rails-has-one-nested-attributes-tweaking/)

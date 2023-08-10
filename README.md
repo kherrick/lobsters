@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
 * [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
@@ -13,7 +14,6 @@
 * [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
 * [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
-* [2023-08-10, 08:52:07](https://lobste.rs/s/lekakp/smashing_state_machine_true_potential) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
 * [2023-08-10, 08:42:53](https://lobste.rs/s/qk4gsg/blocked_by_cloudflare) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-10, 08:36:13](https://lobste.rs/s/1nvqag/wrap_your_nif_with_zig) - [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig)
 * [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
