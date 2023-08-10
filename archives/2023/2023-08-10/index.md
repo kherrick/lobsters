@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 * [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
 * [2023-08-10, 12:08:37](https://lobste.rs/s/3tedch/letter_second) - [Letter the Second](https://punchlet.wordpress.com/2009/12/01/letter-the-second/)

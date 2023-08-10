@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 * [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
 * [2023-08-10, 12:08:37](https://lobste.rs/s/3tedch/letter_second) - [Letter the Second](https://punchlet.wordpress.com/2009/12/01/letter-the-second/)
@@ -16,7 +17,6 @@
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 * [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
-* [2023-08-09, 22:07:01](https://lobste.rs/s/aoc4w1/proposals_for_iterator_related) - [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
