@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
 * [2023-08-10, 08:52:07](https://lobste.rs/s/lekakp/smashing_state_machine_true_potential) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
 * [2023-08-10, 08:42:53](https://lobste.rs/s/qk4gsg/blocked_by_cloudflare) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-10, 08:36:13](https://lobste.rs/s/1nvqag/wrap_your_nif_with_zig) - [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig)
 * [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 * [2023-08-10, 02:00:51](https://lobste.rs/s/z6asfr/computerization_everything_makes) - [Computerization of Everything Makes Everything Worse](https://ricochet.com/1477157/computerization-of-everything-makes-everything-worse/)
-* [2023-08-09, 23:17:19](https://lobste.rs/s/ifcvvr/plan_9_inferno_go_school) - [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
 * [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 22:07:01](https://lobste.rs/s/aoc4w1/proposals_for_iterator_related) - [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
