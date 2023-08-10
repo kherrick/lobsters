@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-10, 16:02:43](https://lobste.rs/s/ta13fy/rails_has_one_nested_attributes_tweaking) - [Rails has_one Nested Attributes Tweaking](https://goodenough.us/blog/2023-08-07-til-rails-has-one-nested-attributes-tweaking/)
 * [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 * [2023-08-10, 12:08:37](https://lobste.rs/s/3tedch/letter_second) - [Letter the Second](https://punchlet.wordpress.com/2009/12/01/letter-the-second/)
@@ -20,6 +19,7 @@
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
+* [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
 * [2023-08-09, 15:23:59](https://lobste.rs/s/lfxlak/understanding_go_1_21_generics_type) - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 * [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
