@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
 * [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
 * [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)

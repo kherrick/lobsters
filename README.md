@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
 * [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
 * [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
@@ -23,7 +24,6 @@
 * [2023-08-09, 10:38:11](https://lobste.rs/s/aucxem/writing_package_manager) - [Writing a package manager](https://antonz.org/writing-package-manager/)
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
-* [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 
 ## [Archives](archives/index.md)
