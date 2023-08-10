@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 22:38:37](https://lobste.rs/s/mghxmo/openssh_9_4_release_notes) - [OpenSSH 9.4 Release Notes](https://www.openssh.com/releasenotes.html#9.4p1)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
@@ -24,7 +25,6 @@
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
-* [2023-08-09, 14:29:32](https://lobste.rs/s/ucvs7v/why_static_languages_suffer_from) - [Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 
 ## [Archives](archives/index.md)
 
