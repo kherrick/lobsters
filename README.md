@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 08:36:13](https://lobste.rs/s/1nvqag/wrap_your_nif_with_zig) - [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig)
 * [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 * [2023-08-10, 02:00:51](https://lobste.rs/s/z6asfr/computerization_everything_makes) - [Computerization of Everything Makes Everything Worse](https://ricochet.com/1477157/computerization-of-everything-makes-everything-worse/)
@@ -23,7 +24,6 @@
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:26:13](https://lobste.rs/s/rdvscu/uninstall_nightowl_app_now) - [Uninstall the Nightowl App, now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
-* [2023-08-08, 16:38:27](https://lobste.rs/s/rjbfgy/tunnelcrack_widespread_design_flaws_vpn) - [TunnelCrack: Widespread design flaws in VPN clients](https://tunnelcrack.mathyvanhoef.com/)
 * [2023-08-08, 14:27:53](https://lobste.rs/s/t2twv6/typograms) - [Typograms](https://google.github.io/typograms/)
 
 ## [Archives](archives/index.md)
