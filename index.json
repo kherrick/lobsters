@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-10, 21:14:27",
+      "https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source"
+    ],
+    [
+      "HashiCorp adopts Business Source License",
+      "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 20:26:07",
       "https://lobste.rs/s/bwegww/cachelines_striped_locks"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Static Languages Suffer From Complexity (and type-safe printf implementation without macros)",
       "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 10:37:51",
-      "https://lobste.rs/s/tkw2gt/sorting_lines_emacs"
-    ],
-    [
-      "Sorting Lines in Emacs",
-      "https://susam.net/blog/sorting-in-emacs.html"
     ]
   ]
 ]
