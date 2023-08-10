@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 02:00:51](https://lobste.rs/s/z6asfr/computerization_everything_makes) - [Computerization of Everything Makes Everything Worse](https://ricochet.com/1477157/computerization-of-everything-makes-everything-worse/)
 * [2023-08-09, 23:17:19](https://lobste.rs/s/ifcvvr/plan_9_inferno_go_school) - [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
 * [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
@@ -18,7 +19,6 @@
 * [2023-08-09, 10:37:51](https://lobste.rs/s/tkw2gt/sorting_lines_emacs) - [Sorting Lines in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-09, 10:18:08](https://lobste.rs/s/o2kw5o/our_current_foss_dystopia) - [Our current FOSS dystopia](https://idiomdrottning.org/foss-dystopia)
 * [2023-08-09, 07:13:30](https://lobste.rs/s/lgo1et/plantuml) - [PlantUML](https://plantuml.com/)
-* [2023-08-09, 04:40:32](https://lobste.rs/s/esijmg/security_vulnerability_some_intel_xeon) - [A security vulnerability in some Intel Xeon Processors with SGX may allow escalation of privilege](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00837.html)
 * [2023-08-09, 04:29:05](https://lobste.rs/s/9lsoyq/what_i_worked_on_for_go_1_21) - [What I worked on for Go 1.21](https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/)
 * [2023-08-08, 17:54:40](https://lobste.rs/s/lw728b/downfall_attacks) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:38:08](https://lobste.rs/s/pcuppu/what_helps_people_get_comfortable_on) - [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
