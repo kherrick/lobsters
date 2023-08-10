@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 * [2023-08-10, 02:00:51](https://lobste.rs/s/z6asfr/computerization_everything_makes) - [Computerization of Everything Makes Everything Worse](https://ricochet.com/1477157/computerization-of-everything-makes-everything-worse/)
 * [2023-08-09, 23:17:19](https://lobste.rs/s/ifcvvr/plan_9_inferno_go_school) - [Plan 9 and Inferno Go to School](https://youtu.be/BTxzsz6_4I0)
@@ -8,7 +9,6 @@
 * [2023-08-09, 22:07:01](https://lobste.rs/s/aoc4w1/proposals_for_iterator_related) - [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
 * [2023-08-09, 20:28:30](https://lobste.rs/s/cthtvr/when_is_computer_proof_proof) - [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
-* [2023-08-09, 18:52:02](https://lobste.rs/s/x5ibke/jtag_hacking_original_xbox_2023) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-08-09, 17:07:41](https://lobste.rs/s/emzgdi/instrumenting_axum_projects) - [Instrumenting Axum projects](https://determinate.systems/posts/instrumenting-axum)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
