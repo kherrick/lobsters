@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
@@ -8,7 +9,6 @@
 * [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
 * [2023-08-10, 12:08:37](https://lobste.rs/s/3tedch/letter_second_underscoring_human) - [Letter the Second – Underscoring Human Frailty (2009)](https://punchlet.wordpress.com/2009/12/01/letter-the-second/)
 * [2023-08-10, 12:06:10](https://lobste.rs/s/qhp53x/trackball_v1) - [Trackball v1](https://www.xythobuz.de/trackball_v1.html)
-* [2023-08-10, 11:33:29](https://lobste.rs/s/xcqxbg/porting_slint_ui_toolkit) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint.dev/blog/porting-slint-to-microcontrollers)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
 * [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)

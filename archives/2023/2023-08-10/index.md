@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
