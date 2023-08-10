@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-10, 08:52:07",
+      "https://lobste.rs/s/lekakp/smashing_state_machine_true_potential"
+    ],
+    [
+      "Smashing the state machine: the true potential of web race conditions",
+      "https://portswigger.net/research/smashing-the-state-machine"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 08:42:53",
       "https://lobste.rs/s/qk4gsg/blocked_by_cloudflare"
     ],
@@ -227,16 +237,6 @@
     [
       "What I worked on for Go 1.21",
       "https://blog.carlmjohnson.net/post/2023/go-121-flag-boolfunc-constraints/"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 17:54:40",
-      "https://lobste.rs/s/lw728b/downfall_attacks"
-    ],
-    [
-      "Downfall Attacks",
-      "https://downfall.page/"
     ]
   ],
   [
