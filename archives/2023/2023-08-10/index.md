@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 11:33:29](https://lobste.rs/s/xcqxbg/porting_slint_ui_toolkit) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint.dev/blog/porting-slint-to-microcontrollers)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
 * [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
