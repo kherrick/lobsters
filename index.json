@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-10, 19:23:15",
+      "https://lobste.rs/s/hdt5ti/honk_1_0"
+    ],
+    [
+      "honk 1.0",
+      "https://flak.tedunangst.com/post/honk-10"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 18:39:00",
       "https://lobste.rs/s/gveemz/vim_boss"
     ],
@@ -127,16 +137,6 @@
     [
       "Types and the Zig Programming Language",
       "https://matklad.github.io/2023/08/09/types-and-zig.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 08:52:07",
-      "https://lobste.rs/s/lekakp/smashing_state_machine_true_potential"
-    ],
-    [
-      "Smashing the state machine: the true potential of web race conditions",
-      "https://portswigger.net/research/smashing-the-state-machine"
     ]
   ],
   [
