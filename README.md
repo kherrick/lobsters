@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
+* [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
 * [2023-08-10, 11:33:29](https://lobste.rs/s/xcqxbg/porting_slint_ui_toolkit) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint.dev/blog/porting-slint-to-microcontrollers)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
@@ -12,7 +13,6 @@
 * [2023-08-10, 08:36:13](https://lobste.rs/s/1nvqag/wrap_your_nif_with_zig) - [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig)
 * [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
-* [2023-08-10, 02:00:51](https://lobste.rs/s/z6asfr/computerization_everything_makes) - [Computerization of Everything Makes Everything Worse](https://ricochet.com/1477157/computerization-of-everything-makes-everything-worse/)
 * [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 22:07:01](https://lobste.rs/s/aoc4w1/proposals_for_iterator_related) - [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
