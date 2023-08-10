@@ -2,6 +2,7 @@
 
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 * [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
+* [2023-08-10, 12:08:37](https://lobste.rs/s/3tedch/letter_second) - [Letter the Second](https://punchlet.wordpress.com/2009/12/01/letter-the-second/)
 * [2023-08-10, 11:33:29](https://lobste.rs/s/xcqxbg/porting_slint_ui_toolkit) - [Porting the Slint UI Toolkit to a Microcontroller with 264K RAM](https://slint.dev/blog/porting-slint-to-microcontrollers)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
@@ -17,7 +18,6 @@
 * [2023-08-09, 22:09:38](https://lobste.rs/s/k2bpoi/is_chatgpt_bit_unsporting) - [Is ChatGPT a bit unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 22:07:01](https://lobste.rs/s/aoc4w1/proposals_for_iterator_related) - [Proposals for iterator-related functions in the Go standard library](https://github.com/golang/go/issues/61897)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
-* [2023-08-09, 20:28:30](https://lobste.rs/s/cthtvr/when_is_computer_proof_proof) - [When is a computer proof a proof?](https://lawrencecpaulson.github.io/2023/08/09/computer_proof.html)
 * [2023-08-09, 18:36:58](https://lobste.rs/s/njlte7/unix_haters_handbook_1994) - [The UNIX- HATERS Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
 * [2023-08-09, 16:40:11](https://lobste.rs/s/stvh18/building_transport_protocol_on_arp) - [Building a Transport Protocol on ARP](https://kognise.dev/writing/arp)
 * [2023-08-09, 15:41:32](https://lobste.rs/s/tgsibz/because_i_can_t_ever_remember_sdl) - [Because I can't ever remember SDL](https://benjcal.space/posts/because-I-cant-ever-remember-sdl/)
