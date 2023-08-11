@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 06:59:36](https://lobste.rs/s/0mnt3y/expr_expression_language_with_type) - [Expr - expression language with type checker](https://expr.medv.io/)
 * [2023-08-11, 06:11:41](https://lobste.rs/s/unb6qn/my_overkill_home_network_complete) - [My Overkill Home Network - Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
@@ -13,7 +14,6 @@
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
-* [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
 * [2023-08-10, 12:06:10](https://lobste.rs/s/qhp53x/trackball_v1) - [Trackball v1](https://www.xythobuz.de/trackball_v1.html)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
