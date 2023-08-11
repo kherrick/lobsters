@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 14:52:03](https://lobste.rs/s/qrdctj/i_built_linklog) - [I Built a Linklog](https://calebhearth.com/l/i-built-a-linklog)
+* [2023-08-11, 14:47:48](https://lobste.rs/s/mll1ay/introducing_nixexpr_nix_expressions_for) - [Introducing nixexpr: Nix expressions for JavaScript](https://xeiaso.net/blog/nixexpr)
 * [2023-08-11, 14:26:37](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend)
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-11, 12:38:09](https://lobste.rs/s/deom57/how_profile_fastapi_asynchronous_server) - [How to profile a FastAPI asynchronous server](https://blog.balthazar-rouberol.com/how-to-profile-a-fastapi-asynchronous-request)
@@ -20,8 +22,6 @@
 * [2023-08-10, 12:06:10](https://lobste.rs/s/qhp53x/trackball_v1) - [Trackball v1](https://www.xythobuz.de/trackball_v1.html)
 * [2023-08-10, 11:25:54](https://lobste.rs/s/glzypj/future_vim_project) - [The future of the Vim project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 11:06:02](https://lobste.rs/s/frgixv/7_cynical_laws_software_testing) - [The 7 (Cynical) Laws of Software Testing](https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/)
-* [2023-08-10, 10:51:08](https://lobste.rs/s/wepj7x/early_performance_results_from) - [Early performance results from the prototype Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
-* [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
 * [2023-08-10, 08:42:53](https://lobste.rs/s/qk4gsg/blocked_by_cloudflare) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-09, 20:55:40](https://lobste.rs/s/jtz6r0/i_found_kubernetes_too_complicated_for_my) - [I found Kubernetes too complicated for my simple needs, so I wrote a tiny container orchestrator](https://harbormaster.readthedocs.io)
