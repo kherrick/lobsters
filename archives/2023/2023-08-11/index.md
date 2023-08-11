@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 06:59:36](https://lobste.rs/s/0mnt3y/expr_expression_language_with_type) - [Expr - expression language with type checker](https://expr.medv.io/)
 * [2023-08-11, 06:11:41](https://lobste.rs/s/unb6qn/my_overkill_home_network_complete) - [My Overkill Home Network - Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-11, 05:38:25](https://lobste.rs/s/hgct1d/efficient_communication_collection) - [Efficient Communication and Collection with Compact Normal Forms](http://ezyang.com/compact.html)
 * [2023-08-11, 05:20:05](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn) - [A market share tracker of the top hosting and CDN providers](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn)
