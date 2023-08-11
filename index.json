@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-11, 21:57:53",
+      "https://lobste.rs/s/ucwuro/pijul_version_control_post_git_goto_2023"
+    ],
+    [
+      "Pijul: Version-Control Post-Git • GOTO 2023",
+      "https://youtu.be/7MpdZkGj5AI"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 21:39:30",
       "https://lobste.rs/s/ldnxdj/web_environment_integrity_has_no"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-08-11, 20:49:50",
-      "https://lobste.rs/s/utxxjv/solving_np_hard_problems_by_sending"
-    ],
-    [
-      "Solving NP-hard problems by sending information back in time?",
-      "https://arxiv.org/pdf/0910.2724.pdf"
-    ]
-  ],
-  [
-    [
       "2023-08-11, 20:00:22",
       "https://lobste.rs/s/8lowoi/chill_international_standard_language"
     ],
@@ -47,6 +47,16 @@
     [
       "Why We Love FreeDOS",
       "https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 19:27:09",
+      "https://lobste.rs/s/vugxuj/mlir_for_beginners"
+    ],
+    [
+      "MLIR For Beginners",
+      "https://github.com/j2kun/mlir-tutorial"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Types and the Zig Programming Language",
       "https://matklad.github.io/2023/08/09/types-and-zig.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 08:42:53",
-      "https://lobste.rs/s/qk4gsg/blocked_by_cloudflare"
-    ],
-    [
-      "Blocked by Cloudflare",
-      "https://jrhawley.ca/2023/08/07/blocked-by-cloudflare"
     ]
   ]
 ]
