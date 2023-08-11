@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 18:40:30](https://lobste.rs/s/b0zpfm/vi_ex_editor_1995) - [The Vi/Ex Editor (1995)](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html)
 * [2023-08-11, 17:56:04](https://lobste.rs/s/qwx8ml/magic_bell_labs) - [The magic of Bell Labs](https://www.youtube.com/watch?v=XMr4zBHj1pU)
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
@@ -12,7 +13,6 @@
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 06:59:36](https://lobste.rs/s/0mnt3y/expr_expression_language_with_type) - [Expr - expression language with type checker](https://expr.medv.io/)
 * [2023-08-11, 06:11:41](https://lobste.rs/s/unb6qn/my_overkill_home_network_complete) - [My Overkill Home Network - Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
-* [2023-08-11, 05:38:25](https://lobste.rs/s/hgct1d/efficient_communication_collection) - [Efficient Communication and Collection with Compact Normal Forms](http://ezyang.com/compact.html)
 * [2023-08-11, 05:20:05](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn) - [A market share tracker of the top hosting and CDN providers](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn)
 * [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 22:38:37](https://lobste.rs/s/mghxmo/openssh_9_4_release_notes) - [OpenSSH 9.4 Release Notes](https://www.openssh.com/releasenotes.html#9.4p1)
