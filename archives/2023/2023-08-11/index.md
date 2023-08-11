@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 23:06:51](https://lobste.rs/s/xplxbi/half_edge_data_structures) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git_goto_2023) - [Pijul: Version-Control Post-Git • GOTO 2023](https://youtu.be/7MpdZkGj5AI)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
