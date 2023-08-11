@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-11, 14:52:03",
+      "https://lobste.rs/s/qrdctj/i_built_linklog"
+    ],
+    [
+      "I Built a Linklog",
+      "https://calebhearth.com/l/i-built-a-linklog"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 14:47:48",
+      "https://lobste.rs/s/mll1ay/introducing_nixexpr_nix_expressions_for"
+    ],
+    [
+      "Introducing nixexpr: Nix expressions for JavaScript",
+      "https://xeiaso.net/blog/nixexpr"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 14:26:37",
       "https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend"
     ],
@@ -197,26 +217,6 @@
     [
       "The 7 (Cynical) Laws of Software Testing",
       "https://new.pythonforengineers.com/blog/x-ways-companies-fail-at-software-testing/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 10:51:08",
-      "https://lobste.rs/s/wepj7x/early_performance_results_from"
-    ],
-    [
-      "Early performance results from the prototype Morello microarchitecture",
-      "https://ctsrd-cheri.github.io/morello-early-performance-results/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 09:48:19",
-      "https://lobste.rs/s/sblb2y/turbo_stream_personalized_content"
-    ],
-    [
-      "Turbo Stream and personalized content",
-      "https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/"
     ]
   ],
   [
