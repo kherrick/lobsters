@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git_goto_2023) - [Pijul: Version-Control Post-Git • GOTO 2023](https://youtu.be/7MpdZkGj5AI)
+* [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
 * [2023-08-11, 21:39:30](https://lobste.rs/s/ldnxdj/web_environment_integrity_has_no) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
 * [2023-08-11, 21:28:45](https://lobste.rs/s/gjeqne/fantasy_meets_reality) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-08-11, 20:49:50](https://lobste.rs/s/utxxjv/solving_np_hard_problems_by_sending) - [Solving NP-hard problems by sending information back in time?](https://arxiv.org/pdf/0910.2724.pdf)
