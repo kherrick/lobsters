@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 20:49:50](https://lobste.rs/s/utxxjv/solving_np_hard_problems_by_sending) - [Solving NP-hard problems by sending information back in time?](https://arxiv.org/pdf/0910.2724.pdf)
 * [2023-08-11, 20:05:50](https://lobste.rs/s/scapuj/shockwave_audio) - [Shockwave Audio](https://preservation.tylerthorsted.com/2023/08/04/shockwave-audio/)
 * [2023-08-11, 20:00:22](https://lobste.rs/s/8lowoi/chill_international_standard_language) - [CHILL – the International Standard Language for Telecommunications Programming](https://psc.informatik.uni-jena.de/languages/chill/1993-CHILL-Rekdal.pdf)
 * [2023-08-11, 19:28:52](https://lobste.rs/s/vzmie5/why_we_love_freedos) - [Why We Love FreeDOS](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf)
