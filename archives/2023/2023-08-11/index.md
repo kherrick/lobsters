@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-11](index.md)
+
+* [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)

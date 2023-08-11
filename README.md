@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 22:38:37](https://lobste.rs/s/mghxmo/openssh_9_4_release_notes) - [OpenSSH 9.4 Release Notes](https://www.openssh.com/releasenotes.html#9.4p1)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
-* [2023-08-10, 17:09:29](https://lobste.rs/s/ke73fc/unix_is_four_letter_word_vi_is_two_letter) - [Unix is a Four Letter Word and Vi is a Two Letter Abbreviation -- Christopher C. Taylor](https://unix.t-a-y-l-o-r.com/4ltrwrd.pdf)
 * [2023-08-10, 12:55:16](https://lobste.rs/s/mhveku/milk_sad) - [Milk Sad](https://milksad.info/disclosure.html)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 * [2023-08-10, 12:12:40](https://lobste.rs/s/wviiui/introducing_embedded_terminal_on) - [Introducing The Embedded Terminal on Windows](https://kate-editor.org/post/2023/2023-02-15-kate-win-terminal/)
