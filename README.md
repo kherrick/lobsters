@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 05:20:05](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn) - [A market share tracker of the top hosting and CDN providers](https://lobste.rs/s/hv1kua/market_share_tracker_top_hosting_cdn)
 * [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 22:38:37](https://lobste.rs/s/mghxmo/openssh_9_4_release_notes) - [OpenSSH 9.4 Release Notes](https://www.openssh.com/releasenotes.html#9.4p1)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
@@ -17,7 +18,6 @@
 * [2023-08-10, 09:48:19](https://lobste.rs/s/sblb2y/turbo_stream_personalized_content) - [Turbo Stream and personalized content](https://goodenough.us/blog/2023-08-02-til-turbo-stream-and-personalised-content/)
 * [2023-08-10, 09:25:47](https://lobste.rs/s/seenwo/types_zig_programming_language) - [Types and the Zig Programming Language](https://matklad.github.io/2023/08/09/types-and-zig.html)
 * [2023-08-10, 08:42:53](https://lobste.rs/s/qk4gsg/blocked_by_cloudflare) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
-* [2023-08-10, 08:36:13](https://lobste.rs/s/1nvqag/wrap_your_nif_with_zig) - [Wrap your NIF with Zig](https://rbino.com/posts/wrap-your-nif-with-zig)
 * [2023-08-10, 07:43:26](https://lobste.rs/s/ihalld/freebsd_on_freeipa_idm_with_poudriere) - [FreeBSD on FreeIPA/IDM with Poudriere Repo](https://vermaden.wordpress.com/2023/08/10/freebsd-on-freeipa-idm-with-poudriere-repo/)
 * [2023-08-10, 04:07:34](https://lobste.rs/s/9upruq/risc_v_capability_architecture) - [A RISC-V Capability Architecture Orchestrating Compiler, Architecture, And System Designs For Full Memory Safety (Georgia Tech, Arm Research)](https://semiengineering.com/a-risc-v-capability-architecture-orchestrating-compiler-architecture-and-system-designs-for-full-memory-safety/)
 * [2023-08-09, 22:42:44](https://lobste.rs/s/wcrkr8/java_21_what_s_new) - [Java 21: what’s new?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
