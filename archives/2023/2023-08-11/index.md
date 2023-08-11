@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 18:43:30](https://lobste.rs/s/uw9ef7/compiling_custom_browser_bypass_anti_bot) - [Compiling a Custom Browser to Bypass Anti-Bot Measures](https://www.nullpt.rs/compiling-browser-to-bypass-antibot-measures)
 * [2023-08-11, 18:40:30](https://lobste.rs/s/b0zpfm/vi_ex_editor_1995) - [The Vi/Ex Editor (1995)](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html)
 * [2023-08-11, 17:56:04](https://lobste.rs/s/qwx8ml/magic_bell_labs) - [The magic of Bell Labs](https://www.youtube.com/watch?v=XMr4zBHj1pU)
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
