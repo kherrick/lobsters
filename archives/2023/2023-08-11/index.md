@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 21:28:45](https://lobste.rs/s/gjeqne/fantasy_meets_reality) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-08-11, 20:49:50](https://lobste.rs/s/utxxjv/solving_np_hard_problems_by_sending) - [Solving NP-hard problems by sending information back in time?](https://arxiv.org/pdf/0910.2724.pdf)
 * [2023-08-11, 20:05:50](https://lobste.rs/s/scapuj/shockwave_audio) - [Shockwave Audio](https://preservation.tylerthorsted.com/2023/08/04/shockwave-audio/)
 * [2023-08-11, 20:00:22](https://lobste.rs/s/8lowoi/chill_international_standard_language) - [CHILL – the International Standard Language for Telecommunications Programming](https://psc.informatik.uni-jena.de/languages/chill/1993-CHILL-Rekdal.pdf)

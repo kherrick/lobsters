@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-11, 21:28:45](https://lobste.rs/s/gjeqne/fantasy_meets_reality) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-08-11, 20:49:50](https://lobste.rs/s/utxxjv/solving_np_hard_problems_by_sending) - [Solving NP-hard problems by sending information back in time?](https://arxiv.org/pdf/0910.2724.pdf)
 * [2023-08-11, 20:05:50](https://lobste.rs/s/scapuj/shockwave_audio) - [Shockwave Audio](https://preservation.tylerthorsted.com/2023/08/04/shockwave-audio/)
 * [2023-08-11, 20:00:22](https://lobste.rs/s/8lowoi/chill_international_standard_language) - [CHILL – the International Standard Language for Telecommunications Programming](https://psc.informatik.uni-jena.de/languages/chill/1993-CHILL-Rekdal.pdf)
@@ -18,7 +19,6 @@
 * [2023-08-11, 06:11:41](https://lobste.rs/s/unb6qn/my_overkill_home_network_complete) - [My Overkill Home Network - Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
-* [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
 * [2023-08-10, 18:39:00](https://lobste.rs/s/gveemz/vim_boss) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
