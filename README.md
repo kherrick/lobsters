@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-10, 22:59:48](https://lobste.rs/s/gqe91f/overmind_better_bin_dev_for_your_procfile) - [Overmind 🪬, a better bin/dev for your Procfile](https://railsnotes.xyz/blog/overmind-better-bin-dev-for-your-procfile-dev)
+* [2023-08-10, 22:38:37](https://lobste.rs/s/mghxmo/openssh_9_4_release_notes) - [OpenSSH 9.4 Release Notes](https://www.openssh.com/releasenotes.html#9.4p1)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:26:07](https://lobste.rs/s/bwegww/cachelines_striped_locks) - [Cachelines and Striped Locks](https://packetlost.dev/blog/cachelines-and-striped-locks/)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
