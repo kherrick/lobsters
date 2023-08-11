@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 20:05:50](https://lobste.rs/s/scapuj/shockwave_audio) - [Shockwave Audio](https://preservation.tylerthorsted.com/2023/08/04/shockwave-audio/)
+* [2023-08-11, 20:00:22](https://lobste.rs/s/8lowoi/chill_international_standard_language) - [CHILL – the International Standard Language for Telecommunications Programming](https://psc.informatik.uni-jena.de/languages/chill/1993-CHILL-Rekdal.pdf)
 * [2023-08-11, 19:28:52](https://lobste.rs/s/vzmie5/why_we_love_freedos) - [Why We Love FreeDOS](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf)
 * [2023-08-11, 19:27:09](https://lobste.rs/s/vugxuj/mlir_for_beginners) - [MLIR For Beginners](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-11, 18:43:30](https://lobste.rs/s/uw9ef7/compiling_custom_browser_bypass_anti_bot) - [Compiling a Custom Browser to Bypass Anti-Bot Measures](https://www.nullpt.rs/compiling-browser-to-bypass-antibot-measures)
