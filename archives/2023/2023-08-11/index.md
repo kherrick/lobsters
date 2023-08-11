@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 14:52:03](https://lobste.rs/s/qrdctj/i_built_linklog) - [I Built a Linklog](https://calebhearth.com/l/i-built-a-linklog)
 * [2023-08-11, 14:47:48](https://lobste.rs/s/mll1ay/introducing_nixexpr_nix_expressions_for) - [Introducing nixexpr: Nix expressions for JavaScript](https://xeiaso.net/blog/nixexpr)
 * [2023-08-11, 14:26:37](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend)
