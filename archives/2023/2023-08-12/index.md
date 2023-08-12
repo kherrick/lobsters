@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 14:50:25](https://lobste.rs/s/1euy3v/evaluating_data_attribution_for_text) - [Evaluating Data Attribution for Text-to-Image Models](https://peterwang512.github.io/GenDataAttribution/)
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:23:11](https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with) - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)

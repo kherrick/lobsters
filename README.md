@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 14:50:25](https://lobste.rs/s/1euy3v/evaluating_data_attribution_for_text) - [Evaluating Data Attribution for Text-to-Image Models](https://peterwang512.github.io/GenDataAttribution/)
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:23:11](https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with) - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
@@ -24,7 +25,6 @@
 * [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
-* [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 
 ## [Archives](archives/index.md)
 
