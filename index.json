@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-12, 08:29:35",
+      "https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again"
+    ],
+    [
+      "Hacking Github AWS integrations again",
+      "https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 08:09:43",
       "https://lobste.rs/s/vuuagb/reluctant_gatekeeping_problem_with_full"
     ],
@@ -37,16 +47,6 @@
     [
       "Data Engineering with Rust",
       "https://datawithrust.com/"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 05:30:43",
-      "https://lobste.rs/s/wuqzgm/ghost_trilemma"
-    ],
-    [
-      "The Ghost Trilemma",
-      "https://arxiv.org/abs/2308.02202"
     ]
   ],
   [
