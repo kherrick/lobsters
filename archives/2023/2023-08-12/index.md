@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 16:48:23](https://lobste.rs/s/sp8vb5/lingering_mac_office_2008_workaround) - [Lingering Mac Office 2008 workaround – GeekLAN](https://www.geeklan.co.uk/?p=3209)
 * [2023-08-12, 16:42:03](https://lobste.rs/s/fdtqjx/clos_integrating_object_oriented) - [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 16:21:54](https://lobste.rs/s/h5hauj/exploring_internals_linux_v0_01) - [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:44:41](https://lobste.rs/s/qya89w/solving_simple_puzzle_using_sympy) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
