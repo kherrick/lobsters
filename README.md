@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 02:10:04](https://lobste.rs/s/w2vdlr/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 23:06:51](https://lobste.rs/s/xplxbi/half_edge_data_structures) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
@@ -9,7 +10,6 @@
 * [2023-08-11, 19:28:52](https://lobste.rs/s/vzmie5/why_we_love_freedos) - [Why We Love FreeDOS](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf)
 * [2023-08-11, 19:27:09](https://lobste.rs/s/vugxuj/mlir_for_beginners) - [MLIR For Beginners](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-11, 18:43:30](https://lobste.rs/s/uw9ef7/compiling_custom_browser_bypass_anti_bot) - [Compiling a Custom Browser to Bypass Anti-Bot Measures](https://www.nullpt.rs/compiling-browser-to-bypass-antibot-measures)
-* [2023-08-11, 18:40:30](https://lobste.rs/s/b0zpfm/vi_ex_editor_1995) - [The Vi/Ex Editor (1995)](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html)
 * [2023-08-11, 17:56:04](https://lobste.rs/s/qwx8ml/magic_bell_labs) - [The magic of Bell Labs](https://www.youtube.com/watch?v=XMr4zBHj1pU)
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
