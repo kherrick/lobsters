@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 22:19:52](https://lobste.rs/s/bpg4gc/upgrading_my_chumby_8_kernel_part_6_pwm) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
+* [2023-08-12, 22:19:19](https://lobste.rs/s/5bqshg/tracing_roots_8086_instruction_set) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 21:18:32](https://lobste.rs/s/ypvu1m/importance_verifying_webhook) - [The importance of verifying webhook signatures](https://snyk.io/blog/verifying-webhook-signatures/)
 * [2023-08-12, 19:51:55](https://lobste.rs/s/qvufnf/extracting_sounds_from_macromedia) - [Extracting sounds from Macromedia Director files](https://blog.gingerbeardman.com/2023/08/12/extracting-sounds-from-macromedia-director-files/)
 * [2023-08-12, 17:55:15](https://lobste.rs/s/zh73jc/downsides_c_coroutines) - [The downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
