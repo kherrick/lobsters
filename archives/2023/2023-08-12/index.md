@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-12, 05:42:04](https://lobste.rs/s/qvz04s/data_engineering_with_rust) - [Data Engineering with Rust](https://datawithrust.com/)
 * [2023-08-12, 05:30:43](https://lobste.rs/s/wuqzgm/ghost_trilemma) - [The Ghost Trilemma](https://arxiv.org/abs/2308.02202)
 * [2023-08-12, 02:38:33](https://lobste.rs/s/krxg9k/ofrak_tetris) - [OFRAK Tetris](https://ofrak.com/tetris/)
