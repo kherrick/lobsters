@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 11:23:11](https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with) - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
+* [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 * [2023-08-12, 11:19:56](https://lobste.rs/s/pyb0nq/fibonacci_heaps_how_invent_extremely) - [Fibonacci Heaps or \"How to invent an extremely clever data structure\"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
 * [2023-08-12, 08:29:35](https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again) - [Hacking Github AWS integrations again](https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/)
 * [2023-08-12, 08:09:43](https://lobste.rs/s/vuuagb/reluctant_gatekeeping_problem_with_full) - [Reluctant Gatekeeping: The Problem With Full Stack](https://medium.com/@Heydon/reluctant-gatekeeping-the-problem-with-full-stack-e9ad836570f6)
 * [2023-08-12, 07:34:07](https://lobste.rs/s/rkzph1/software_is_everywhere) - [Software Is Everywhere](https://www.packetmischief.ca/2023/08/11/software-is-everywhere/)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
-* [2023-08-12, 05:42:04](https://lobste.rs/s/qvz04s/data_engineering_with_rust) - [Data Engineering with Rust](https://datawithrust.com/)
+* [2023-08-12, 05:30:43](https://lobste.rs/s/wuqzgm/ghost_trilemma) - [The Ghost Trilemma](https://arxiv.org/abs/2308.02202)
 * [2023-08-12, 02:10:04](https://lobste.rs/s/w2vdlr/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 23:06:51](https://lobste.rs/s/xplxbi/half_edge_data_structures) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
@@ -21,8 +23,6 @@
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
-* [2023-08-11, 06:59:36](https://lobste.rs/s/0mnt3y/expr_expression_language_with_type) - [Expr - expression language with type checker](https://expr.medv.io/)
-* [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 12:19:54](https://lobste.rs/s/kaimfm/apple_doesn_t_want_you_developing_hobby) - [Apple doesn't want you developing hobby apps](https://www.bennettnotes.com/notes/why-does-apple-restrict-hobby-development/)
 
