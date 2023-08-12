@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 05:30:43](https://lobste.rs/s/wuqzgm/ghost_trilemma) - [The Ghost Trilemma](https://arxiv.org/abs/2308.02202)
 * [2023-08-12, 02:38:33](https://lobste.rs/s/krxg9k/ofrak_tetris) - [OFRAK Tetris](https://ofrak.com/tetris/)
 * [2023-08-12, 02:10:04](https://lobste.rs/s/w2vdlr/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 23:06:51](https://lobste.rs/s/xplxbi/half_edge_data_structures) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
@@ -9,7 +10,6 @@
 * [2023-08-11, 21:28:45](https://lobste.rs/s/gjeqne/fantasy_meets_reality) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-08-11, 20:00:22](https://lobste.rs/s/8lowoi/chill_international_standard_language) - [CHILL – the International Standard Language for Telecommunications Programming](https://psc.informatik.uni-jena.de/languages/chill/1993-CHILL-Rekdal.pdf)
 * [2023-08-11, 19:28:52](https://lobste.rs/s/vzmie5/why_we_love_freedos) - [Why We Love FreeDOS](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf)
-* [2023-08-11, 19:27:09](https://lobste.rs/s/vugxuj/mlir_for_beginners) - [MLIR For Beginners](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-11, 17:56:04](https://lobste.rs/s/qwx8ml/magic_bell_labs) - [The magic of Bell Labs](https://www.youtube.com/watch?v=XMr4zBHj1pU)
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
