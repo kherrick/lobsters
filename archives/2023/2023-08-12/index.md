@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 08:29:35](https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again) - [Hacking Github AWS integrations again](https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/)
 * [2023-08-12, 08:09:43](https://lobste.rs/s/vuuagb/reluctant_gatekeeping_problem_with_full) - [Reluctant Gatekeeping: The Problem With Full Stack](https://medium.com/@Heydon/reluctant-gatekeeping-the-problem-with-full-stack-e9ad836570f6)
 * [2023-08-12, 07:34:07](https://lobste.rs/s/rkzph1/software_is_everywhere) - [Software Is Everywhere](https://www.packetmischief.ca/2023/08/11/software-is-everywhere/)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
