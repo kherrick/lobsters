@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-12, 22:19:52",
+      "https://lobste.rs/s/bpg4gc/upgrading_my_chumby_8_kernel_part_6_pwm"
+    ],
+    [
+      "Upgrading my Chumby 8 kernel part 6: PWM backlight",
+      "https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/"
+    ]
+  ],
+  [
+    [
+      "2023-08-12, 22:19:19",
+      "https://lobste.rs/s/5bqshg/tracing_roots_8086_instruction_set"
+    ],
+    [
+      "Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer",
+      "http://www.righto.com/2023/08/datapoint-to-8086.html"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 21:18:32",
       "https://lobste.rs/s/ypvu1m/importance_verifying_webhook"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-08-12, 11:23:11",
-      "https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with"
-    ],
-    [
-      "An early look at HNSW performance with pgvector",
-      "https://jkatz05.com/post/postgres/pgvector-hnsw-performance/"
-    ]
-  ],
-  [
-    [
       "2023-08-12, 11:21:43",
       "https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections"
     ],
@@ -147,16 +157,6 @@
     [
       "mDNS Primer",
       "https://fabiensanglard.net/mdns/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 23:06:51",
-      "https://lobste.rs/s/xplxbi/half_edge_data_structures"
-    ],
-    [
-      "Half-Edge Data Structures",
-      "https://jerryyin.info/geometry-processing-algorithms/half-edge/"
     ]
   ],
   [
