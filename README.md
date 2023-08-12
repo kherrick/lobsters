@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 16:21:54](https://lobste.rs/s/h5hauj/exploring_internals_linux_v0_01) - [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:44:41](https://lobste.rs/s/qya89w/solving_simple_puzzle_using_sympy) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-12, 15:44:01](https://lobste.rs/s/ecf0iu/counting_non_intersecting_double) - [Counting non-intersecting double-diagonals in polygons](https://wsdookadr.github.io/posts/p10/)
 * [2023-08-12, 14:50:25](https://lobste.rs/s/1euy3v/evaluating_data_attribution_for_text) - [Evaluating Data Attribution for Text-to-Image Models](https://peterwang512.github.io/GenDataAttribution/)
@@ -16,7 +17,6 @@
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
 * [2023-08-11, 21:39:30](https://lobste.rs/s/ldnxdj/web_environment_integrity_has_no) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
-* [2023-08-11, 21:28:45](https://lobste.rs/s/gjeqne/fantasy_meets_reality) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-08-11, 19:28:52](https://lobste.rs/s/vzmie5/why_we_love_freedos) - [Why We Love FreeDOS](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/ebook/why-we-love-freedos-29/why-we-love-freedos-29.pdf)
 * [2023-08-11, 17:56:04](https://lobste.rs/s/qwx8ml/magic_bell_labs) - [The magic of Bell Labs](https://www.youtube.com/watch?v=XMr4zBHj1pU)
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
