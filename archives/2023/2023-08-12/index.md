@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 15:44:41](https://lobste.rs/s/qya89w/solving_simple_puzzle_using_sympy) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+* [2023-08-12, 15:44:01](https://lobste.rs/s/ecf0iu/counting_non_intersecting_double) - [Counting non-intersecting double-diagonals in polygons](https://wsdookadr.github.io/posts/p10/)
 * [2023-08-12, 15:09:21](https://lobste.rs/s/20bepy/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://lobste.rs/stories/new)
 * [2023-08-12, 14:50:25](https://lobste.rs/s/1euy3v/evaluating_data_attribution_for_text) - [Evaluating Data Attribution for Text-to-Image Models](https://peterwang512.github.io/GenDataAttribution/)
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
