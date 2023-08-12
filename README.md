@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:23:11](https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with) - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 * [2023-08-12, 11:19:56](https://lobste.rs/s/pyb0nq/fibonacci_heaps_how_invent_extremely) - [Fibonacci Heaps or \"How to invent an extremely clever data structure\"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
@@ -19,7 +20,6 @@
 * [2023-08-11, 17:44:57](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship) - [Tailwind, and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship)
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 14:52:03](https://lobste.rs/s/qrdctj/i_built_linklog) - [I Built a Linklog](https://calebhearth.com/l/i-built-a-linklog)
-* [2023-08-11, 14:26:37](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/irkotu/what_are_you_doing_this_weekend)
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)

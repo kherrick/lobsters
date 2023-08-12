@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:23:11](https://lobste.rs/s/ueiccn/early_look_at_hnsw_performance_with) - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 * [2023-08-12, 11:19:56](https://lobste.rs/s/pyb0nq/fibonacci_heaps_how_invent_extremely) - [Fibonacci Heaps or \"How to invent an extremely clever data structure\"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
