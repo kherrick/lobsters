@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 15:09:21](https://lobste.rs/s/20bepy/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://lobste.rs/stories/new)
 * [2023-08-12, 14:50:25](https://lobste.rs/s/1euy3v/evaluating_data_attribution_for_text) - [Evaluating Data Attribution for Text-to-Image Models](https://peterwang512.github.io/GenDataAttribution/)
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
@@ -9,7 +10,6 @@
 * [2023-08-12, 08:29:35](https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again) - [Hacking Github AWS integrations again](https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/)
 * [2023-08-12, 07:34:07](https://lobste.rs/s/rkzph1/software_is_everywhere) - [Software Is Everywhere](https://www.packetmischief.ca/2023/08/11/software-is-everywhere/)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
-* [2023-08-12, 05:30:43](https://lobste.rs/s/wuqzgm/ghost_trilemma) - [The Ghost Trilemma](https://arxiv.org/abs/2308.02202)
 * [2023-08-12, 02:10:04](https://lobste.rs/s/w2vdlr/shamir_secret_sharing) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 23:06:51](https://lobste.rs/s/xplxbi/half_edge_data_structures) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
