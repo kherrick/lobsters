@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-12, 17:55:15",
+      "https://lobste.rs/s/zh73jc/downsides_c_coroutines"
+    ],
+    [
+      "The downsides of C++ Coroutines",
+      "https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 17:14:43",
       "https://lobste.rs/s/21hbtl/rewriting_wipeout"
     ],
@@ -67,16 +77,6 @@
     [
       "Evaluating Data Attribution for Text-to-Image Models",
       "https://peterwang512.github.io/GenDataAttribution/"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 13:30:08",
-      "https://lobste.rs/s/0cm2jy/stirred_shaken"
-    ],
-    [
-      "STIRred AND SHAKEN",
-      "https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html"
     ]
   ],
   [
