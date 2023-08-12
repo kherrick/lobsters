@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 23:34:35](https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner) - [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
 * [2023-08-12, 23:03:25](https://lobste.rs/s/nejhz0/running_mainstream_linux_distro) - [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 * [2023-08-12, 22:19:52](https://lobste.rs/s/bpg4gc/upgrading_my_chumby_8_kernel_part_6_pwm) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 22:19:19](https://lobste.rs/s/5bqshg/tracing_roots_8086_instruction_set) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
@@ -15,7 +16,7 @@
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
-* [2023-08-12, 08:29:35](https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again) - [Hacking Github AWS integrations again](https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/)
+* [2023-08-12, 11:19:56](https://lobste.rs/s/pyb0nq/fibonacci_heaps_how_invent_extremely) - [Fibonacci Heaps or \"How to invent an extremely clever data structure\"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
@@ -23,7 +24,6 @@
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 14:52:03](https://lobste.rs/s/qrdctj/i_built_linklog) - [I Built a Linklog](https://calebhearth.com/l/i-built-a-linklog)
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
-* [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 
 ## [Archives](archives/index.md)
