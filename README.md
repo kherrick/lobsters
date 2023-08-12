@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-12, 08:09:43](https://lobste.rs/s/vuuagb/reluctant_gatekeeping_problem_with_full) - [Reluctant Gatekeeping: The Problem With Full Stack](https://medium.com/@Heydon/reluctant-gatekeeping-the-problem-with-full-stack-e9ad836570f6)
 * [2023-08-12, 07:34:07](https://lobste.rs/s/rkzph1/software_is_everywhere) - [Software Is Everywhere](https://www.packetmischief.ca/2023/08/11/software-is-everywhere/)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-12, 05:42:04](https://lobste.rs/s/qvz04s/data_engineering_with_rust) - [Data Engineering with Rust](https://datawithrust.com/)
@@ -20,7 +21,6 @@
 * [2023-08-11, 10:03:50](https://lobste.rs/s/y8modv/making_illegal_states_unrepresentable) - [Making illegal states unrepresentable](https://corrode.dev/blog/illegal-state/)
 * [2023-08-11, 08:11:39](https://lobste.rs/s/tbtfe3/prepare_your_firefox_desktop_extension) - [Prepare your Firefox desktop extension for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 06:59:36](https://lobste.rs/s/0mnt3y/expr_expression_language_with_type) - [Expr - expression language with type checker](https://expr.medv.io/)
-* [2023-08-11, 06:11:41](https://lobste.rs/s/unb6qn/my_overkill_home_network_complete) - [My Overkill Home Network - Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-11, 03:54:24](https://lobste.rs/s/weg1hh/driving_bazel_with_fzf) - [Driving Bazel with fzf](https://blog.jez.io/fzf-bazel/)
 * [2023-08-10, 21:14:27](https://lobste.rs/s/l2l1v8/hashicorp_adopts_business_source) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 19:23:15](https://lobste.rs/s/hdt5ti/honk_1_0) - [honk 1.0](https://flak.tedunangst.com/post/honk-10)
