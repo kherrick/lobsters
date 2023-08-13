@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 08:40:16",
+      "https://lobste.rs/s/r259zt/musl_1_2_4_adds_dns_tcp_fallback"
+    ],
+    [
+      "musl 1.2.4 adds DNS TCP fallback",
+      "https://www.openwall.com/lists/musl/2023/05/02/1"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 08:20:28",
       "https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with"
     ],
@@ -167,16 +177,6 @@
     [
       "STIRred AND SHAKEN",
       "https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 12:37:40",
-      "https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve"
-    ],
-    [
-      "finite-wasm: Cheating a little to solve the halting problem at scale",
-      "https://github.com/near/finite-wasm"
     ]
   ],
   [
