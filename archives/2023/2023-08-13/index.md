@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 17:11:01](https://lobste.rs/s/rxkke9/automatically_classifying_content) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-13, 14:14:49](https://lobste.rs/s/kilt3o/rust_server_components) - [Rust Server Components](https://anto.pt/articles/rust-server-components)
 * [2023-08-13, 13:54:49](https://lobste.rs/s/1lsgzl/stony_brook_algorithm_implementation) - [Stony Brook Algorithm Implementation Repository](https://algorist.com/algorist.html)
