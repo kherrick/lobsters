@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 10:39:13](https://lobste.rs/s/ygmb7p/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://archive.is/O3paV)
+* [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 10:19:20](https://lobste.rs/s/jjdpkw/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
 * [2023-08-13, 08:40:16](https://lobste.rs/s/r259zt/musl_1_2_4_adds_dns_tcp_fallback) - [musl 1.2.4 adds DNS TCP fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
