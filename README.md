@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-12, 23:34:35](https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner) - [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
 * [2023-08-12, 23:03:25](https://lobste.rs/s/nejhz0/running_mainstream_linux_distro) - [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 * [2023-08-12, 22:19:52](https://lobste.rs/s/bpg4gc/upgrading_my_chumby_8_kernel_part_6_pwm) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
@@ -20,7 +21,6 @@
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
-* [2023-08-11, 21:39:30](https://lobste.rs/s/ldnxdj/web_environment_integrity_has_no) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
 * [2023-08-11, 17:10:19](https://lobste.rs/s/f7jcoo/virtualizing_uxn) - [Virtualizing uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 14:52:03](https://lobste.rs/s/qrdctj/i_built_linklog) - [I Built a Linklog](https://calebhearth.com/l/i-built-a-linklog)
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
