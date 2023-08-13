@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 23:24:32",
+      "https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod"
+    ],
+    [
+      "On bash one-liners: unmaintained go.mod dependencies",
+      "https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 20:54:57",
       "https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s"
     ],
@@ -217,16 +227,6 @@
     [
       "Rewriting wipEout",
       "https://phoboslab.org/log/2023/08/rewriting-wipeout"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 16:42:03",
-      "https://lobste.rs/s/fdtqjx/clos_integrating_object_oriented"
-    ],
-    [
-      "CLOS: Integrating Object-Oriented and Functional Programming (2004)",
-      "https://dreamsongs.com/Files/clos-cacm.pdf"
     ]
   ],
   [
