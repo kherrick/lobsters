@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-13, 10:19:20](https://lobste.rs/s/jjdpkw/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
 * [2023-08-13, 08:40:16](https://lobste.rs/s/r259zt/musl_1_2_4_adds_dns_tcp_fallback) - [musl 1.2.4 adds DNS TCP fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
@@ -8,6 +7,7 @@
 * [2023-08-13, 02:59:03](https://lobste.rs/s/inpe40/optimizing_point_polygon_calculation) - [Optimizing the Point-in-Polygon Calculation for Geospatial Applications](https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications)
 * [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-12, 23:34:35](https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner) - [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
+* [2023-08-12, 23:03:25](https://lobste.rs/s/nejhz0/running_mainstream_linux_distro) - [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 * [2023-08-12, 22:19:52](https://lobste.rs/s/bpg4gc/upgrading_my_chumby_8_kernel_part_6_pwm) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 22:19:19](https://lobste.rs/s/5bqshg/tracing_roots_8086_instruction_set) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 21:18:32](https://lobste.rs/s/ypvu1m/importance_verifying_webhook) - [The importance of verifying webhook signatures](https://snyk.io/blog/verifying-webhook-signatures/)
