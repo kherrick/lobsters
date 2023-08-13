@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-13, 13:22:33",
+      "https://lobste.rs/s/tjkdv7/can_you_use_c_class_c"
+    ],
+    [
+      "Can you use a C++ class in C?",
+      "http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 13:22:10",
+      "https://lobste.rs/s/pm4b48/universal_fuzzing_via_large_language"
+    ],
+    [
+      "Universal Fuzzing via Large Language Models",
+      "https://arxiv.org/pdf/2308.04748.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 11:19:02",
       "https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm"
     ],
@@ -67,16 +87,6 @@
     [
       "Simple Haskell",
       "https://www.simplehaskell.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 02:59:03",
-      "https://lobste.rs/s/inpe40/optimizing_point_polygon_calculation"
-    ],
-    [
-      "Optimizing the Point-in-Polygon Calculation for Geospatial Applications",
-      "https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Squeeze the hell out of the system you have",
       "https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 21:57:53",
-      "https://lobste.rs/s/ucwuro/pijul_version_control_post_git"
-    ],
-    [
-      "Pijul: Version-Control Post-Git",
-      "https://youtu.be/7MpdZkGj5AI"
     ]
   ],
   [
