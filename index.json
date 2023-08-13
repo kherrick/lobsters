@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 08:20:28",
+      "https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with"
+    ],
+    [
+      "Fast Starting JVM Clojure with Checkpoint/Restore",
+      "https://yizhepku.github.io/clojure-crac"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 04:31:04",
       "https://lobste.rs/s/a7i66r/simple_haskell"
     ],
@@ -147,16 +157,6 @@
     [
       "Solving a simple puzzle using SymPy",
       "https://wsdookadr.github.io/posts/p9/"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 15:44:01",
-      "https://lobste.rs/s/ecf0iu/counting_non_intersecting_double"
-    ],
-    [
-      "Counting non-intersecting double-diagonals in polygons",
-      "https://wsdookadr.github.io/posts/p10/"
     ]
   ],
   [
