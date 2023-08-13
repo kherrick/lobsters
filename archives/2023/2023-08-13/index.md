@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:43:26](https://lobste.rs/s/kwqubi/transactions_microservice_world) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-13, 19:40:45](https://lobste.rs/s/oqhwfx/new_analytical_model_tcp_hybla_for) - [A new analytical model of TCP Hybla for satellite IP networks](https://www.sciencedirect.com/science/article/abs/pii/S1084804518303023)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
