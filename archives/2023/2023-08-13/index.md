@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 13:22:10](https://lobste.rs/s/pm4b48/universal_fuzzing_via_large_language) - [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf)
 * [2023-08-13, 11:20:24](https://lobste.rs/s/jxqpki/nobody_ever_paid_me_for_code) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
