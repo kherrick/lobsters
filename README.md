@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-13, 02:59:03](https://lobste.rs/s/inpe40/optimizing_point_polygon_calculation) - [Optimizing the Point-in-Polygon Calculation for Geospatial Applications](https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications)
 * [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-12, 23:34:35](https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner) - [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
 * [2023-08-12, 23:03:25](https://lobste.rs/s/nejhz0/running_mainstream_linux_distro) - [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
@@ -17,7 +18,6 @@
 * [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 12:37:40](https://lobste.rs/s/how5ob/finite_wasm_cheating_little_solve) - [finite-wasm: Cheating a little to solve the halting problem at scale](https://github.com/near/finite-wasm)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
-* [2023-08-12, 11:19:56](https://lobste.rs/s/pyb0nq/fibonacci_heaps_how_invent_extremely) - [Fibonacci Heaps or \"How to invent an extremely clever data structure\"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
 * [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
