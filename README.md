@@ -13,6 +13,7 @@
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 13:22:10](https://lobste.rs/s/pm4b48/universal_fuzzing_via_large_language) - [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
+* [2023-08-13, 10:39:13](https://lobste.rs/s/ygmb7p/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://archive.is/O3paV)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
@@ -23,7 +24,6 @@
 * [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 * [2023-08-12, 16:42:03](https://lobste.rs/s/fdtqjx/clos_integrating_object_oriented) - [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 16:21:54](https://lobste.rs/s/h5hauj/exploring_internals_linux_v0_01) - [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
-* [2023-08-12, 15:44:41](https://lobste.rs/s/qya89w/solving_simple_puzzle_using_sympy) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 
 ## [Archives](archives/index.md)
