@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 11:20:24](https://lobste.rs/s/jxqpki/nobody_ever_paid_me_for_code) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
+* [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-13, 10:39:13](https://lobste.rs/s/ygmb7p/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://archive.is/O3paV)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 10:19:20](https://lobste.rs/s/jjdpkw/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)

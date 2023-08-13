@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-13, 11:20:24](https://lobste.rs/s/jxqpki/nobody_ever_paid_me_for_code) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
+* [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-13, 10:39:13](https://lobste.rs/s/ygmb7p/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://archive.is/O3paV)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
@@ -19,11 +21,9 @@
 * [2023-08-12, 16:42:03](https://lobste.rs/s/fdtqjx/clos_integrating_object_oriented) - [CLOS: Integrating Object-Oriented and Functional Programming (2004)](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 16:21:54](https://lobste.rs/s/h5hauj/exploring_internals_linux_v0_01) - [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:44:41](https://lobste.rs/s/qya89w/solving_simple_puzzle_using_sympy) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
-* [2023-08-12, 13:30:08](https://lobste.rs/s/0cm2jy/stirred_shaken) - [STIRred AND SHAKEN](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
 * [2023-08-12, 06:34:06](https://lobste.rs/s/sirbmu/mdns_primer) - [mDNS Primer](https://fabiensanglard.net/mdns/index.html)
 * [2023-08-11, 23:02:29](https://lobste.rs/s/xwigqm/squeeze_hell_out_system_you_have) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/)
-* [2023-08-11, 21:57:53](https://lobste.rs/s/ucwuro/pijul_version_control_post_git) - [Pijul: Version-Control Post-Git](https://youtu.be/7MpdZkGj5AI)
 * [2023-08-11, 14:00:02](https://lobste.rs/s/0exj7t/complex_simplicity_my_static_websites) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 
 ## [Archives](archives/index.md)
