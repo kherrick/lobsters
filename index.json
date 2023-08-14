@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-14, 22:49:51",
+      "https://lobste.rs/s/jusqeb/howto_diskless_freebsd_setup"
+    ],
+    [
+      "Howto Diskless FreeBSD Setup",
+      "https://www.linkedin.com/pulse/howto-diskless-freebsd-setup-vigneshwaran-ravichandran/"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 22:49:33",
+      "https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your"
+    ],
+    [
+      "3 Advantages to Running FreeBSD as Your Server Operating System",
+      "https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 21:17:18",
       "https://lobste.rs/s/ufrsif/forward_compatibility_toolchain"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2023-08-14, 16:51:04",
-      "https://lobste.rs/s/itqntd/design_practice"
-    ],
-    [
-      "Design in Practice",
-      "https://www.youtube.com/watch?v=c5QF2HjHLSE"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 16:42:57",
       "https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2"
     ],
     [
       "Backward Compatibility, Go 1.21, and Go 2",
       "https://go.dev/blog/compat"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 16:00:02",
-      "https://lobste.rs/s/kspyxv/procedural_animation_for_controlling"
-    ],
-    [
-      "Procedural animation for controlling a (simulated) robot dog: first steps",
-      "https://grgv.xyz/blog/simulator3/"
     ]
   ],
   [
