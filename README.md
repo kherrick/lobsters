@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 15:41:56](https://lobste.rs/s/qk2ou4/i_built_garbage_collector_for_language) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 14:37:16](https://lobste.rs/s/piw9ho/wasm_core_dumps_debugging_rust) - [Wasm core dumps and debugging Rust in Cloudflare Workers](https://blog.cloudflare.com/wasm-coredumps/)
 * [2023-08-14, 14:28:16](https://lobste.rs/s/er4lbr/lapce_lightning_fast_powerful_code) - [Lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
@@ -24,7 +25,6 @@
 * [2023-08-13, 17:53:02](https://lobste.rs/s/sra8zc/fantastic_learning_resources) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-13, 14:14:49](https://lobste.rs/s/kilt3o/rust_server_components) - [Rust Server Components](https://anto.pt/articles/rust-server-components)
-* [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 
 ## [Archives](archives/index.md)
 
