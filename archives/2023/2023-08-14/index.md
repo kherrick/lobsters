@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 11:15:56](https://lobste.rs/s/9qauxr/optical_mouse_cam_handscanner) - [Optical mouse cam / handscanner](http://spritesmods.com/?art=mouseeye)
 * [2023-08-14, 10:50:29](https://lobste.rs/s/oisdzs/typescript_for_c) - [A TypeScript for C++](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-14, 10:00:27](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week)
