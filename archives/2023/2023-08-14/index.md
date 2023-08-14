@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice_by_rich_hickey) - [\"Design in Practice\" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
+* [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2_go) - [Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language](https://go.dev/blog/compat)
 * [2023-08-14, 16:00:02](https://lobste.rs/s/kspyxv/procedural_animation_for_controlling) - [Procedural animation for controlling a (simulated) robot dog: first steps](https://grgv.xyz/blog/simulator3/)
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 15:41:56](https://lobste.rs/s/qk2ou4/i_built_garbage_collector_for_language) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
