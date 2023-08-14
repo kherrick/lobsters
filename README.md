@@ -19,12 +19,12 @@
 * [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)
 * [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
+* [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Containerized Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
 * [2023-08-13, 17:53:02](https://lobste.rs/s/sra8zc/fantastic_learning_resources) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
-* [2023-08-13, 14:14:49](https://lobste.rs/s/kilt3o/rust_server_components) - [Rust Server Components](https://anto.pt/articles/rust-server-components)
 
 ## [Archives](archives/index.md)
 
