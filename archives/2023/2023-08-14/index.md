@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
+* [2023-08-14, 21:11:51](https://lobste.rs/s/5eduwc/universal_test_runner_language_agnostic) - [universal-test-runner: A language-agnostic, zero-configuration test invoker](https://github.com/xavdid/universal-test-runner)
 * [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 19:50:39](https://lobste.rs/s/a37tgd/property_based_testing_climbing) - [Property-Based Testing: Climbing the Stairway to Verification](https://trustworthy.systems/publications/papers/Chen_ROSKHK_22.pdf)
 * [2023-08-14, 19:38:51](https://lobste.rs/s/uzyh1c/session_management_security_best) - [Session management security: Best practices for protecting user sessions](https://snyk.io/blog/session-management-security/)
