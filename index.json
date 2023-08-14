@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-14, 12:11:01",
+      "https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk"
+    ],
+    [
+      "Introducing the Jitsi Meet Flutter SDK",
+      "https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 11:57:45",
+      "https://lobste.rs/s/lhl1z6/resumable_state_machines_2020"
+    ],
+    [
+      "Resumable State Machines (2020)",
+      "https://www.youtube.com/watch?v=GYi3ZMF8Pm0"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 11:37:30",
       "https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-08-13, 13:22:33",
-      "https://lobste.rs/s/tjkdv7/can_you_use_c_class_c"
-    ],
-    [
-      "Can you use a C++ class in C?",
-      "http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 04:31:04",
       "https://lobste.rs/s/a7i66r/simple_haskell"
     ],
     [
       "Simple Haskell",
       "https://www.simplehaskell.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 17:14:43",
-      "https://lobste.rs/s/21hbtl/rewriting_wipeout"
-    ],
-    [
-      "Rewriting wipEout",
-      "https://phoboslab.org/log/2023/08/rewriting-wipeout"
     ]
   ]
 ]
