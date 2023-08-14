@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
+* [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)
 * [2023-08-14, 07:01:55](https://lobste.rs/s/nqupwf/non_thoughts_on_osi) - [Non-Thoughts on the OSI](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
@@ -9,7 +11,6 @@
 * [2023-08-14, 00:13:58](https://lobste.rs/s/dsnsxe/oral_history_panel_on_development) - [Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)](https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
-* [2023-08-13, 19:43:26](https://lobste.rs/s/kwqubi/transactions_microservice_world) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Containerized Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
 * [2023-08-13, 17:53:02](https://lobste.rs/s/sra8zc/fantastic_learning_resources) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-13, 17:11:01](https://lobste.rs/s/rxkke9/automatically_classifying_content) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
@@ -20,7 +21,6 @@
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
-* [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
 * [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
