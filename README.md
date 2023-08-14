@@ -9,6 +9,7 @@
 * [2023-08-14, 07:01:55](https://lobste.rs/s/nqupwf/non_thoughts_on_osi) - [Non-Thoughts on the OSI](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
+* [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-08-14, 03:43:15](https://lobste.rs/s/bqf3aw/how_does_utf_8_turn_unicode_face_with_tears) - [How does UTF-8 turn Unicode face with tears of joy into “F09F9882”?](https://sethmlarson.dev/utf-8)
 * [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
@@ -22,7 +23,6 @@
 * [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
-* [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
 * [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 
