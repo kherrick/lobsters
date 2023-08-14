@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 00:13:58](https://lobste.rs/s/dsnsxe/oral_history_panel_on_development) - [Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)](https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:43:26](https://lobste.rs/s/kwqubi/transactions_microservice_world) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
@@ -14,7 +15,6 @@
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 13:22:10](https://lobste.rs/s/pm4b48/universal_fuzzing_via_large_language) - [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
-* [2023-08-13, 10:39:13](https://lobste.rs/s/ygmb7p/objects_their_lifetimes_pointers_c_2020) - [Objects, their lifetimes and pointers – C++ (2020)](https://archive.is/O3paV)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
