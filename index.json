@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-14, 09:38:54",
+      "https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023"
+    ],
+    [
+      "the Fennel programming language survey (2023)",
+      "https://fennel-lang.org/survey/"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 09:35:14",
+      "https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go"
+    ],
+    [
+      "risor: Fast and flexible scripting for Go developers and DevOps",
+      "https://github.com/risor-io/risor"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 09:12:49",
       "https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine"
     ],
@@ -87,16 +107,6 @@
     [
       "The cost of convenience",
       "https://surma.dev/things/cost-of-convenience/"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 00:13:58",
-      "https://lobste.rs/s/dsnsxe/oral_history_panel_on_development"
-    ],
-    [
-      "Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)",
-      "https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "ts_zip: Bellar's Text Compression using LLM",
       "https://bellard.org/ts_server/ts_zip.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 10:31:45",
-      "https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users"
-    ],
-    [
-      "Interfaces generally belong with users (2019)",
-      "https://neugierig.org/software/blog/2019/11/interface-pattern.html"
     ]
   ],
   [
