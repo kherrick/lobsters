@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 12:11:01](https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk) - [Introducing the Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
+* [2023-08-14, 11:57:45](https://lobste.rs/s/lhl1z6/resumable_state_machines_2020) - [Resumable State Machines (2020)](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
 * [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 11:15:56](https://lobste.rs/s/9qauxr/optical_mouse_cam_handscanner) - [Optical mouse cam / handscanner](http://spritesmods.com/?art=mouseeye)
 * [2023-08-14, 10:50:29](https://lobste.rs/s/oisdzs/typescript_for_c) - [A TypeScript for C++](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
@@ -22,9 +24,7 @@
 * [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-13, 14:14:49](https://lobste.rs/s/kilt3o/rust_server_components) - [Rust Server Components](https://anto.pt/articles/rust-server-components)
 * [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-* [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
-* [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 
 ## [Archives](archives/index.md)
 

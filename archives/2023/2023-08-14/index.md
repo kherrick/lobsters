@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 12:11:01](https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk) - [Introducing the Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
+* [2023-08-14, 11:57:45](https://lobste.rs/s/lhl1z6/resumable_state_machines_2020) - [Resumable State Machines (2020)](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
 * [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 11:15:56](https://lobste.rs/s/9qauxr/optical_mouse_cam_handscanner) - [Optical mouse cam / handscanner](http://spritesmods.com/?art=mouseeye)
 * [2023-08-14, 10:50:29](https://lobste.rs/s/oisdzs/typescript_for_c) - [A TypeScript for C++](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
