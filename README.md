@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)
 * [2023-08-14, 07:01:55](https://lobste.rs/s/nqupwf/non_thoughts_on_osi) - [Non-Thoughts on the OSI](https://yakshav.es/non-thoughts-on-the-osi/)
@@ -23,7 +24,6 @@
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
-* [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 
 ## [Archives](archives/index.md)
