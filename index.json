@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 19:50:39",
+      "https://lobste.rs/s/a37tgd/property_based_testing_climbing"
+    ],
+    [
+      "Property-Based Testing: Climbing the Stairway to Verification",
+      "https://trustworthy.systems/publications/papers/Chen_ROSKHK_22.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 19:38:51",
       "https://lobste.rs/s/uzyh1c/session_management_security_best"
     ],
@@ -217,16 +227,6 @@
     [
       "Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)",
       "https://hexway.io/research/apple-bleee/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 19:20:58",
-      "https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh"
-    ],
-    [
-      "Podman v4.6 Introduces Podmansh: A Containerized Login Shell",
-      "https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/"
     ]
   ],
   [
