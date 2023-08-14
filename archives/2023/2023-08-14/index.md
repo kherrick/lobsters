@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
 * [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice_by_rich_hickey) - [\"Design in Practice\" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
+* [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice) - [Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2_go) - [Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language](https://go.dev/blog/compat)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 16:00:02](https://lobste.rs/s/kspyxv/procedural_animation_for_controlling) - [Procedural animation for controlling a (simulated) robot dog: first steps](https://grgv.xyz/blog/simulator3/)
