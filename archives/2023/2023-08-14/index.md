@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 19:38:51](https://lobste.rs/s/uzyh1c/session_management_security_best) - [Session management security: Best practices for protecting user sessions](https://snyk.io/blog/session-management-security/)
 * [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice_by_rich_hickey) - [\"Design in Practice\" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
 * [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice) - [Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2_go) - [Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language](https://go.dev/blog/compat)
