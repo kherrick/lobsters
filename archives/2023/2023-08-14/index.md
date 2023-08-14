@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
+* [2023-08-14, 09:35:14](https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go) - [risor: Fast and flexible scripting for Go developers and DevOps](https://github.com/risor-io/risor)
 * [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
+* [2023-08-14, 09:35:14](https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go) - [risor: Fast and flexible scripting for Go developers and DevOps](https://github.com/risor-io/risor)
 * [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)
@@ -9,7 +11,6 @@
 * [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-08-14, 03:43:15](https://lobste.rs/s/bqf3aw/how_does_utf_8_turn_unicode_face_with_tears) - [How does UTF-8 turn Unicode face with tears of joy into “F09F9882”?](https://sethmlarson.dev/utf-8)
 * [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
-* [2023-08-14, 00:13:58](https://lobste.rs/s/dsnsxe/oral_history_panel_on_development) - [Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)](https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Containerized Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
@@ -21,7 +22,6 @@
 * [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
-* [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 08:20:28](https://lobste.rs/s/xjzknx/fast_starting_jvm_clojure_with) - [Fast Starting JVM Clojure with Checkpoint/Restore](https://yizhepku.github.io/clojure-crac)
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
 * [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
