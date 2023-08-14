@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 16:00:02](https://lobste.rs/s/kspyxv/procedural_animation_for_controlling) - [Procedural animation for controlling a (simulated) robot dog: first steps](https://grgv.xyz/blog/simulator3/)
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 15:41:56](https://lobste.rs/s/qk2ou4/i_built_garbage_collector_for_language) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 14:37:16](https://lobste.rs/s/piw9ho/wasm_core_dumps_debugging_rust) - [Wasm core dumps and debugging Rust in Cloudflare Workers](https://blog.cloudflare.com/wasm-coredumps/)
@@ -18,7 +19,6 @@
 * [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
-* [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Containerized Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)

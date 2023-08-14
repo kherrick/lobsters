@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 16:00:02](https://lobste.rs/s/kspyxv/procedural_animation_for_controlling) - [Procedural animation for controlling a (simulated) robot dog: first steps](https://grgv.xyz/blog/simulator3/)
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 15:41:56](https://lobste.rs/s/qk2ou4/i_built_garbage_collector_for_language) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 14:37:16](https://lobste.rs/s/piw9ho/wasm_core_dumps_debugging_rust) - [Wasm core dumps and debugging Rust in Cloudflare Workers](https://blog.cloudflare.com/wasm-coredumps/)
