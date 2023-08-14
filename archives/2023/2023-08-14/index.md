@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 19:50:39](https://lobste.rs/s/a37tgd/property_based_testing_climbing) - [Property-Based Testing: Climbing the Stairway to Verification](https://trustworthy.systems/publications/papers/Chen_ROSKHK_22.pdf)
 * [2023-08-14, 19:38:51](https://lobste.rs/s/uzyh1c/session_management_security_best) - [Session management security: Best practices for protecting user sessions](https://snyk.io/blog/session-management-security/)
 * [2023-08-14, 16:51:04](https://lobste.rs/s/itqntd/design_practice_by_rich_hickey) - [\"Design in Practice\" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
