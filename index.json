@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 12:29:52",
+      "https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation"
+    ],
+    [
+      "How should I read type system notation?",
+      "https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 12:11:01",
       "https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk"
     ],
@@ -237,16 +247,6 @@
     [
       "Handles are the better pointers",
       "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 04:31:04",
-      "https://lobste.rs/s/a7i66r/simple_haskell"
-    ],
-    [
-      "Simple Haskell",
-      "https://www.simplehaskell.org/"
     ]
   ]
 ]
