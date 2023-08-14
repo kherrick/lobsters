@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 23:34:56](https://lobste.rs/s/ajfvc9/performance_analysis_dtrace_on_freebsd) - [Performance Analysis of DTrace on FreeBSD and eBPF on Linux](https://www.youtube.com/watch?v=fM2UGCCqL7g)
 * [2023-08-14, 22:49:51](https://lobste.rs/s/jusqeb/howto_diskless_freebsd_setup) - [Howto Diskless FreeBSD Setup](https://www.linkedin.com/pulse/howto-diskless-freebsd-setup-vigneshwaran-ravichandran/)
 * [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
