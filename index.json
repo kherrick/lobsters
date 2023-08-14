@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-14, 16:51:04",
+      "https://lobste.rs/s/itqntd/design_practice_by_rich_hickey"
+    ],
+    [
+      "\"Design in Practice\" by Rich Hickey",
+      "https://www.youtube.com/watch?v=c5QF2HjHLSE"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 16:42:57",
+      "https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2_go"
+    ],
+    [
+      "Backward Compatibility, Go 1.21, and Go 2 - The Go Programming Language",
+      "https://go.dev/blog/compat"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 16:00:02",
       "https://lobste.rs/s/kspyxv/procedural_animation_for_controlling"
     ],
@@ -77,16 +97,6 @@
     [
       "Better Builds with Make: A Beginner's Guide",
       "https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:15:56",
-      "https://lobste.rs/s/9qauxr/optical_mouse_cam_handscanner"
-    ],
-    [
-      "Optical mouse cam / handscanner",
-      "http://spritesmods.com/?art=mouseeye"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Emulating x86 on x64 on aarch64",
       "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 04:30:13",
-      "https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15"
-    ],
-    [
-      "Building arbitrary Life patterns in 15 gliders",
-      "https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/"
     ]
   ],
   [
