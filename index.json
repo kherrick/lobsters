@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-08-13, 19:40:45",
-      "https://lobste.rs/s/oqhwfx/new_analytical_model_tcp_hybla_for"
-    ],
-    [
-      "A new analytical model of TCP Hybla for satellite IP networks",
-      "https://www.sciencedirect.com/science/article/abs/pii/S1084804518303023"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 19:20:58",
       "https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh"
     ],
@@ -207,6 +197,16 @@
     [
       "[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally",
       "https://github.com/NixOS/rfcs/pull/136"
+    ]
+  ],
+  [
+    [
+      "2023-08-12, 23:34:35",
+      "https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner"
+    ],
+    [
+      "Cracking DesignWare's The Grammar Examiner on the C64",
+      "https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html"
     ]
   ],
   [
