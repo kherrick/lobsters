@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 14:11:05](https://lobste.rs/s/tbezzb/ast_vs_bytecode_interpreters_age_meta) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-14, 12:11:01](https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk) - [Introducing the Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
 * [2023-08-14, 11:57:45](https://lobste.rs/s/lhl1z6/resumable_state_machines_2020) - [Resumable State Machines (2020)](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
@@ -9,7 +10,6 @@
 * [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-14, 10:00:27](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
-* [2023-08-14, 09:35:14](https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go) - [risor: Fast and flexible scripting for Go developers and DevOps](https://github.com/risor-io/risor)
 * [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)

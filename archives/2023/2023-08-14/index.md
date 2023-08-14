@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 14:11:05](https://lobste.rs/s/tbezzb/ast_vs_bytecode_interpreters_age_meta) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-14, 12:11:01](https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk) - [Introducing the Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
 * [2023-08-14, 11:57:45](https://lobste.rs/s/lhl1z6/resumable_state_machines_2020) - [Resumable State Machines (2020)](https://www.youtube.com/watch?v=GYi3ZMF8Pm0)
