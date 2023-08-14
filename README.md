@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 11:15:56](https://lobste.rs/s/9qauxr/optical_mouse_cam_handscanner) - [Optical mouse cam / handscanner](http://spritesmods.com/?art=mouseeye)
 * [2023-08-14, 10:50:29](https://lobste.rs/s/oisdzs/typescript_for_c) - [A TypeScript for C++](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
@@ -13,7 +14,6 @@
 * [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
-* [2023-08-14, 03:43:15](https://lobste.rs/s/bqf3aw/how_does_utf_8_turn_unicode_face_with_tears) - [How does UTF-8 turn Unicode face with tears of joy into “F09F9882”?](https://sethmlarson.dev/utf-8)
 * [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
