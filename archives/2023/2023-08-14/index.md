@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-14, 10:00:27](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
 * [2023-08-14, 09:35:14](https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go) - [risor: Fast and flexible scripting for Go developers and DevOps](https://github.com/risor-io/risor)

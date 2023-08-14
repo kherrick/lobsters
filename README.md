@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-14, 10:00:27](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
 * [2023-08-14, 09:35:14](https://lobste.rs/s/xjbaob/risor_fast_flexible_scripting_for_go) - [risor: Fast and flexible scripting for Go developers and DevOps](https://github.com/risor-io/risor)
@@ -19,7 +20,6 @@
 * [2023-08-13, 17:11:01](https://lobste.rs/s/rxkke9/automatically_classifying_content) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-13, 14:14:49](https://lobste.rs/s/kilt3o/rust_server_components) - [Rust Server Components](https://anto.pt/articles/rust-server-components)
-* [2023-08-13, 13:54:49](https://lobste.rs/s/1lsgzl/stony_brook_algorithm_implementation) - [Stony Brook Algorithm Implementation Repository](https://algorist.com/algorist.html)
 * [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
