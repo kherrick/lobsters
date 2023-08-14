@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 03:43:15](https://lobste.rs/s/bqf3aw/how_does_utf_8_turn_unicode_face_with_tears) - [How does UTF-8 turn Unicode face with tears of joy into “F09F9882”?](https://sethmlarson.dev/utf-8)
 * [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-14, 00:13:58](https://lobste.rs/s/dsnsxe/oral_history_panel_on_development) - [Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)](https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
@@ -21,7 +22,6 @@
 * [2023-08-13, 04:31:04](https://lobste.rs/s/a7i66r/simple_haskell) - [Simple Haskell](https://www.simplehaskell.org/)
 * [2023-08-13, 01:44:48](https://lobste.rs/s/uangqg/rfc_0136_plan_stabilize_new_nix_cli_flakes) - [[RFC 0136] A plan to stabilize the new nix CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-12, 23:34:35](https://lobste.rs/s/few6vc/cracking_designware_s_grammar_examiner) - [Cracking DesignWare's The Grammar Examiner on the C64](https://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
-* [2023-08-12, 22:19:19](https://lobste.rs/s/5bqshg/tracing_roots_8086_instruction_set) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](http://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 17:14:43](https://lobste.rs/s/21hbtl/rewriting_wipeout) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 * [2023-08-12, 16:21:54](https://lobste.rs/s/h5hauj/exploring_internals_linux_v0_01) - [Exploring the internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 11:21:43](https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections) - [Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million)
