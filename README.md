@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-14, 05:57:10](https://lobste.rs/s/kh7jeh/dolphin_progress_report_may_june_july) - [Dolphin Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-14, 04:30:13](https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15) - [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2023-08-14, 03:43:15](https://lobste.rs/s/bqf3aw/how_does_utf_8_turn_unicode_face_with_tears) - [How does UTF-8 turn Unicode face with tears of joy into “F09F9882”?](https://sethmlarson.dev/utf-8)
@@ -16,7 +17,6 @@
 * [2023-08-13, 13:54:49](https://lobste.rs/s/1lsgzl/stony_brook_algorithm_implementation) - [Stony Brook Algorithm Implementation Repository](https://algorist.com/algorist.html)
 * [2023-08-13, 13:25:35](https://lobste.rs/s/ywsprl/handles_are_better_pointers) - [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-08-13, 13:22:33](https://lobste.rs/s/tjkdv7/can_you_use_c_class_c) - [Can you use a C++ class in C?](http://thasso.xyz/2023/08/11/can-you-use-a-class-in-c/)
-* [2023-08-13, 13:22:10](https://lobste.rs/s/pm4b48/universal_fuzzing_via_large_language) - [Universal Fuzzing via Large Language Models](https://arxiv.org/pdf/2308.04748.pdf)
 * [2023-08-13, 11:19:02](https://lobste.rs/s/s7cjzk/ts_zip_bellar_s_text_compression_using_llm) - [ts_zip: Bellar's Text Compression using LLM](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-13, 10:31:45](https://lobste.rs/s/djm4pe/interfaces_generally_belong_with_users) - [Interfaces generally belong with users (2019)](https://neugierig.org/software/blog/2019/11/interface-pattern.html)
 * [2023-08-13, 09:35:49](https://lobste.rs/s/yrdemw/podman_performance_guide) - [Podman performance guide](https://github.com/containers/podman/blob/main/docs/tutorials/performance.md)
