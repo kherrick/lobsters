@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 14:37:16",
+      "https://lobste.rs/s/piw9ho/wasm_core_dumps_debugging_rust"
+    ],
+    [
+      "Wasm core dumps and debugging Rust in Cloudflare Workers",
+      "https://blog.cloudflare.com/wasm-coredumps/"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 14:28:16",
       "https://lobste.rs/s/er4lbr/lapce_lightning_fast_powerful_code"
     ],
@@ -27,16 +37,6 @@
     [
       "How should I read type system notation?",
       "https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 12:11:01",
-      "https://lobste.rs/s/ashgam/introducing_jitsi_meet_flutter_sdk"
-    ],
-    [
-      "Introducing the Jitsi Meet Flutter SDK",
-      "https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/"
     ]
   ],
   [
