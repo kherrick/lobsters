@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 04:45:19",
+      "https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64"
+    ],
+    [
+      "Emulating x86 on x64 on aarch64",
+      "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 04:30:13",
       "https://lobste.rs/s/aqcyor/building_arbitrary_life_patterns_15"
     ],
@@ -237,16 +247,6 @@
     [
       "Exploring the internals of Linux v0.01",
       "https://seiya.me/blog/reading-linux-v0.01"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 11:21:43",
-      "https://lobste.rs/s/hqcasu/scaling_postgres_1_million_connections"
-    ],
-    [
-      "Scaling Postgres to 1 Million Connections",
-      "https://supabase.com/blog/supavisor-1-million"
     ]
   ]
 ]
