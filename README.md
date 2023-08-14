@@ -3,7 +3,7 @@
 * [2023-08-14, 01:21:37](https://lobste.rs/s/zwdewm/cost_convenience) - [The cost of convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-14, 00:13:58](https://lobste.rs/s/dsnsxe/oral_history_panel_on_development) - [Oral History Panel on the Development and Promotion of the Intel 4004 Microprocessor (2007)](https://archive.computerhistory.org/resources/access/text/2012/04/102658187-05-01-acc.pdf)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
-* [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
+* [2023-08-13, 20:54:57](https://lobste.rs/s/ddm5t3/hexway_apple_bleee_everyone_knows_what_s) - [Hexway Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:43:26](https://lobste.rs/s/kwqubi/transactions_microservice_world) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-13, 19:40:45](https://lobste.rs/s/oqhwfx/new_analytical_model_tcp_hybla_for) - [A new analytical model of TCP Hybla for satellite IP networks](https://www.sciencedirect.com/science/article/abs/pii/S1084804518303023)
 * [2023-08-13, 19:20:58](https://lobste.rs/s/erzdop/podman_v4_6_introduces_podmansh) - [Podman v4.6 Introduces Podmansh: A Containerized Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
